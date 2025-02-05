@@ -44,7 +44,7 @@ The primary significance of [technical analysis](../t/technical_analysis.md) pat
 
 [Algorithmic trading](../a/algorithmic_trading.md) leverages these patterns by encoding them into [trading algorithms](../t/trading_algorithms.md). Here's how algo-traders integrate [technical analysis](../t/technical_analysis.md) patterns into their systems:
 
-1. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms:** These algorithms are designed to scan the [market](../m/market.md) for specific technical patterns. Advanced [pattern recognition](../p/pattern_recognition.md) algorithms use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve accuracy.
+1. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms:** These algorithms are designed to scan the [market](../m/market.md) for specific technical patterns. Advanced [pattern recognition](../p/pattern_recognition.md) algorithms use [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve accuracy.
 2. **[Backtesting](../b/backtesting.md) Strategies:** Before deploying these patterns in live trading, algo-traders backtest their strategies on historical data. This process validates the effectiveness of the patterns in predicting [market](../m/market.md) movements.
 3. **Automated [Execution](../e/execution.md):** Once a pattern is identified, the algorithm can automatically execute trades based on predefined criteria, ensuring prompt and precise [order](../o/order.md) placement.
 

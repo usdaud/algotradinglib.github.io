@@ -129,7 +129,7 @@ Technology and automation are revolutionizing post-[trade](../t/trade.md) proces
 ### Key Technologies
 
 - **[Blockchain](../b/blockchain_in_trading.md)**: [Distributed ledger technology](../d/distributed_ledger_technology.md) that provides an immutable record of transactions, enhancing [transparency](../t/transparency.md) and [security](../s/security.md).
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Leveraging AI and machine learning for [predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and process [optimization](../o/optimization.md).
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Leveraging AI and [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and process [optimization](../o/optimization.md).
 - **Robotic Process Automation (RPA)**: Use of software robots to automate rule-based tasks such as data entry, validation, and [reconciliation](../r/reconciliation.md).
 
 ### Link to Technology Providers

@@ -4,7 +4,7 @@ Curve fitting is a powerful but often misunderstood concept in [algorithmic trad
 
 ## Concept of Curve Fitting
 
-Curve fitting refers to the process of adjusting a mathematical function so that it closely follows a series of data points. The approach is commonly used in various fields such as [statistics](../s/statistics.md), machine learning, and, most importantly for us, [algorithmic trading](../a/algorithmic_trading.md).
+Curve fitting refers to the process of adjusting a mathematical function so that it closely follows a series of data points. The approach is commonly used in various fields such as [statistics](../s/statistics.md), [machine learning](../m/machine_learning.md), and, most importantly for us, [algorithmic trading](../a/algorithmic_trading.md).
 
 ### The Mathematics Behind Curve Fitting
 
@@ -12,7 +12,7 @@ At its core, curve fitting involves finding the equation of a function that best
 
 The curve fitting process involves two primary steps:
 
-1. **Choosing a Model Type**: Different types of models can be used, such as linear, polynomial, exponential, or more complex machine learning models.
+1. **Choosing a Model Type**: Different types of models can be used, such as linear, polynomial, exponential, or more complex [machine learning](../m/machine_learning.md) models.
 
 2. **Optimizing Parameters**: This step involves adjusting the parameters of the chosen model to minimize the error between the model’s predicted values and the actual data points.
 
@@ -80,7 +80,7 @@ Several companies and platforms [offer](../o/offer.md) tools and services to hel
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md).
 - **Quantopian**: Although now closed, Quantopian was another popular platform that offered similar services.
-- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides tools for [quantitative trading](../q/quantitative_trading.md) and allows traders to use machine learning techniques to develop and backtest strategies.
+- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides tools for [quantitative trading](../q/quantitative_trading.md) and allows traders to use [machine learning](../m/machine_learning.md) techniques to develop and backtest strategies.
 
 ## Conclusion
 

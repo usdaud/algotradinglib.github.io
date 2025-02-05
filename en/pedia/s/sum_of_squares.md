@@ -72,7 +72,7 @@ In evaluating the performance of [trading strategies](../t/trading_strategies.md
 
 ### Financial Technology (Fintech)
 
-In the fintech sector, advanced [data analytics](../d/data_analytics.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are used to analyze vast amounts of financial data. The Sum of Squares is a fundamental concept in training machine learning models, especially in [linear regression](../l/linear_regression.md), where it helps minimize the error between predicted and actual values.
+In the fintech sector, advanced [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are used to analyze vast amounts of financial data. The Sum of Squares is a fundamental concept in training [machine learning](../m/machine_learning.md) models, especially in [linear regression](../l/linear_regression.md), where it helps minimize the error between predicted and actual values.
 
 ## Conclusion
 

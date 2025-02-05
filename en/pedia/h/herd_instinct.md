@@ -46,7 +46,7 @@ Notable HFT firms include:
 
 ### Machine Learning and AI in Algotrading
 
-The [incorporation](../i/incorporation.md) of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in algotrading is aimed at identifying nuanced patterns and making more informed trading decisions. Despite this, [herd behavior](../h/herd_behavior_in_trading.md) can emerge if different [trading algorithms](../t/trading_algorithms.md), using similar data and models, converge on the same [trading strategy](../t/trading_strategy.md). This convergence can lead to synchronized [market](../m/market.md) actions, reinforcing trends and [volatility](../v/volatility.md).
+The [incorporation](../i/incorporation.md) of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in algotrading is aimed at identifying nuanced patterns and making more informed trading decisions. Despite this, [herd behavior](../h/herd_behavior_in_trading.md) can emerge if different [trading algorithms](../t/trading_algorithms.md), using similar data and models, converge on the same [trading strategy](../t/trading_strategy.md). This convergence can lead to synchronized [market](../m/market.md) actions, reinforcing trends and [volatility](../v/volatility.md).
 
 ## Case Studies of Herd Instinct in Algotrading
 

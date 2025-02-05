@@ -1,6 +1,6 @@
 # Forecasting Models
 
-[Forecasting](../f/forecasting.md) models are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), relying on statistical, mathematical, and machine learning techniques to predict future price movements. These models aim to [leverage](../l/leverage.md) historical data, [market](../m/market.md) conditions, [economic indicators](../e/economic_indicators.md), and various other inputs to generate actionable [trading signals](../t/trading_signals.md). In this document, we’ll delve into the intricate details of various types of [forecasting](../f/forecasting.md) models, their applications, strengths, limitations, and notable advancements in this domain.
+[Forecasting](../f/forecasting.md) models are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), relying on statistical, mathematical, and [machine learning](../m/machine_learning.md) techniques to predict future price movements. These models aim to [leverage](../l/leverage.md) historical data, [market](../m/market.md) conditions, [economic indicators](../e/economic_indicators.md), and various other inputs to generate actionable [trading signals](../t/trading_signals.md). In this document, we’ll delve into the intricate details of various types of [forecasting](../f/forecasting.md) models, their applications, strengths, limitations, and notable advancements in this domain.
 
 ## 1. Time Series Analysis
 
@@ -26,7 +26,7 @@ STL decomposes [time series](../t/time_series.md) data into seasonal, [trend](..
 
 ### 2.1 Support Vector Machines (SVM)
 
-SVM are supervised learning models that analyze data for classification and [regression analysis](../r/regression_analysis.md). In the context of trading, SVM can classify [market](../m/market.md) conditions or predict future price movements based on the historical price data.
+SVM are [supervised learning](../s/supervised_learning.md) models that analyze data for classification and [regression analysis](../r/regression_analysis.md). In the context of trading, SVM can classify [market](../m/market.md) conditions or predict future price movements based on the historical price data.
 
 #### Applications:
 - **Stock [trend](../t/trend.md) classification**: Determining if the stock [will](../w/will.md) go up, down, or remain stable.
@@ -124,7 +124,7 @@ This approach gauges public sentiment from [social media](../s/social_media.md) 
 
 ### 7.1 Deep Learning Models
 
-[Deep learning](../d/deep_learning.md) models, a subset of machine learning, involve [multiple](../m/multiple.md) layers of [neural networks](../n/neural_networks_in_trading.md) to capture high-dimensional patterns in data. Techniques include Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs).
+[Deep learning](../d/deep_learning.md) models, a subset of [machine learning](../m/machine_learning.md), involve [multiple](../m/multiple.md) layers of [neural networks](../n/neural_networks_in_trading.md) to capture high-dimensional patterns in data. Techniques include Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs).
 
 #### Applications:
 - **Image recognition**: Analyzing [chart patterns](../c/chart_patterns.md) and [technical indicators](../t/technical_indicators.md) from [stock market](../s/stock_market.md) charts.
@@ -132,7 +132,7 @@ This approach gauges public sentiment from [social media](../s/social_media.md) 
 
 ### 7.2 Reinforcement Learning
 
-Reinforcement learning involves training algorithms to optimize their actions by rewarding desired behaviors and penalizing undesired ones. This approach can be applied to dynamic [portfolio management](../p/portfolio_management.md) and high-frequency [trading strategies](../t/trading_strategies.md).
+[Reinforcement learning](../r/reinforcement_learning.md) involves training algorithms to optimize their actions by rewarding desired behaviors and penalizing undesired ones. This approach can be applied to dynamic [portfolio management](../p/portfolio_management.md) and high-frequency [trading strategies](../t/trading_strategies.md).
 
 #### Applications:
 - **Dynamic [portfolio rebalancing](../p/portfolio_rebalancing.md)**: Continuously adjusting [asset](../a/asset.md) allocations based on changing [market](../m/market.md) conditions.
@@ -140,6 +140,6 @@ Reinforcement learning involves training algorithms to optimize their actions by
 
 ## Conclusion
 
-[Forecasting](../f/forecasting.md) models are fundamental to [algorithmic trading](../a/algorithmic_trading.md), combining statistical rigor, machine learning, and economic theory to predict [market](../m/market.md) movements. The effectiveness of these models relies heavily on the quality of input data, model choice, and the ability to adapt and integrate [multiple](../m/multiple.md) [forecasting](../f/forecasting.md) techniques. As computational power and data availability continue to grow, the sophistication and accuracy of these models are expected to enhance, driving new innovations in the realm of [algorithmic trading](../a/algorithmic_trading.md).
+[Forecasting](../f/forecasting.md) models are fundamental to [algorithmic trading](../a/algorithmic_trading.md), combining statistical rigor, [machine learning](../m/machine_learning.md), and economic theory to predict [market](../m/market.md) movements. The effectiveness of these models relies heavily on the quality of input data, model choice, and the ability to adapt and integrate [multiple](../m/multiple.md) [forecasting](../f/forecasting.md) techniques. As computational power and data availability continue to grow, the sophistication and accuracy of these models are expected to enhance, driving new innovations in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 Companies such as **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com), **[Alpaca](../a/alpaca.md)** (https://[alpaca](../a/alpaca.md).markets), and **Numerai** (https://numer.ai) are at the forefront of developing and providing these sophisticated [forecasting](../f/forecasting.md) tools and platforms for both individual and institutional traders.

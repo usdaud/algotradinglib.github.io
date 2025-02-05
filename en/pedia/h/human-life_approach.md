@@ -61,7 +61,7 @@ Advanced [ethical algorithms](../e/ethical_algorithms.md) may require sophistica
 The human-life approach is poised to become a significant paradigm in the world of [algorithmic trading](../a/accountability.md). As ethical considerations [gain](../g/gain.md) more importance in the financial [industry](../i/industry.md), more firms are expected to adopt this approach to enhance their [trading strategies](../t/trading_strategies.md). 
 
 ## Technological Advancements
-Emerging technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning can further refine the human-life approach by enabling more sophisticated ethical decision-making processes.
+Emerging technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) can further refine the human-life approach by enabling more sophisticated ethical decision-making processes.
 
 ## Regulatory Evolution
 Regulatory bodies may introduce new guidelines that mandate the inclusion of ethical considerations in [trading algorithms](../t/trading_algorithms.md). This would further accelerate the adoption of the human-life approach.

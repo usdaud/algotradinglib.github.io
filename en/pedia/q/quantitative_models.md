@@ -32,7 +32,7 @@ A simple [momentum](../m/momentum.md) strategy could involve ranking [stocks](..
 
 ### Machine Learning Models
 
-Machine learning models use various algorithms and statistical techniques for analyzing and discovering patterns in data. These models can adapt and improve their performance over time as they are exposed to more data. In the context of algo trading, machine learning models can be used for price prediction, [sentiment analysis](../s/sentiment_analysis.md), and other complex [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) models use various algorithms and statistical techniques for analyzing and discovering patterns in data. These models can adapt and improve their performance over time as they are exposed to more data. In the context of algo trading, [machine learning](../m/machine_learning.md) models can be used for price prediction, [sentiment analysis](../s/sentiment_analysis.md), and other complex [trading strategies](../t/trading_strategies.md).
 
 #### Example
 
@@ -88,7 +88,7 @@ Renaissance Technologies, founded by James Simons, is one of the most successful
 
 ### Two Sigma
 
-Two Sigma is a technology-driven [hedge fund](../h/hedge_fund.md) that leverages [quantitative analysis](../q/quantitative_analysis.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs data scientists and machine learning experts to uncover inefficiencies in the markets. More information can be found on their [website](https://www.twosigma.com/).
+Two Sigma is a technology-driven [hedge fund](../h/hedge_fund.md) that leverages [quantitative analysis](../q/quantitative_analysis.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs data scientists and [machine learning](../m/machine_learning.md) experts to uncover inefficiencies in the markets. More information can be found on their [website](https://www.twosigma.com/).
 
 ### AQR Capital Management
 
@@ -116,4 +116,4 @@ Quantitative models often require significant computational resources for data p
 
 ## Conclusion
 
-Quantitative models play a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) by providing a systematic, data-driven approach to identifying trading opportunities and making informed decisions. From statistical [arbitrage](../a/arbitrage.md) to machine learning, the diversity of quantitative models allows for a wide [range](../r/range.md) of strategies tailored to different [market](../m/market.md) conditions. However, the development and implementation of these models require rigorous data analysis, continuous monitoring, and [robust](../r/robust.md) [risk management](../r/risk_management.md) to ensure their success in the highly competitive and ever-changing [financial markets](../f/financial_market.md).
+Quantitative models play a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) by providing a systematic, data-driven approach to identifying trading opportunities and making informed decisions. From statistical [arbitrage](../a/arbitrage.md) to [machine learning](../m/machine_learning.md), the diversity of quantitative models allows for a wide [range](../r/range.md) of strategies tailored to different [market](../m/market.md) conditions. However, the development and implementation of these models require rigorous data analysis, continuous monitoring, and [robust](../r/robust.md) [risk management](../r/risk_management.md) to ensure their success in the highly competitive and ever-changing [financial markets](../f/financial_market.md).

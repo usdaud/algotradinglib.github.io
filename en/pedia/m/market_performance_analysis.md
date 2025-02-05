@@ -68,7 +68,7 @@ Parameter [optimization](../o/optimization.md) involves adjusting the strategyâ€
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md), inspired by natural selection, are used to find optimal parameters by evolving a population of solutions over successive iterations.
 
 ### 3. Machine Learning Algorithms
-Machine learning techniques, like [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md), can be employed to identify patterns and optimize [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) techniques, like [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md), can be employed to identify patterns and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Real-World Applications
 

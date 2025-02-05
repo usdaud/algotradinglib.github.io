@@ -1,6 +1,6 @@
 # Kiwi
 
-Kiwi, a notable player in the [algorithmic trading](../a/accountability.md) space, has emerged as a significant influencer through its innovative approaches in automating financial transactions. Combining advanced machine learning techniques with high-frequency trading (HFT) mechanisms, Kiwi revolutionizes the trading landscape by leveraging cutting-edge technology to execute trades with speed and precision. This extensive exploration delves into various facets of Kiwi’s impact on [algorithmic trading](../a/accountability.md).
+Kiwi, a notable player in the [algorithmic trading](../a/accountability.md) space, has emerged as a significant influencer through its innovative approaches in automating financial transactions. Combining advanced [machine learning](../m/machine_learning.md) techniques with high-frequency trading (HFT) mechanisms, Kiwi revolutionizes the trading landscape by leveraging cutting-edge technology to execute trades with speed and precision. This extensive exploration delves into various facets of Kiwi’s impact on [algorithmic trading](../a/accountability.md).
 
 ## Background and Introduction to Kiwi
 
@@ -12,19 +12,19 @@ Kiwi, although not a direct reference to a specific company within the [algorith
 
 ### Machine Learning and AI
 
-Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are foundational to Kiwi’s [trading strategies](../t/trading_strategies.md). These technologies enable the analysis of historical [market](../m/market.md) data, prediction of future price movements, and refinement of [trading strategies](../t/trading_strategies.md).
+[Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are foundational to Kiwi’s [trading strategies](../t/trading_strategies.md). These technologies enable the analysis of historical [market](../m/market.md) data, prediction of future price movements, and refinement of [trading strategies](../t/trading_strategies.md).
 
 #### Supervised Learning
 
-Supervised learning involves training algorithms on labeled data sets. Kiwi uses this technique to predict [market](../m/market.md) trends by learning from historic [market](../m/market.md) data and real-time inputs. Models like [Linear Regression](../l/linear_regression.md) and [Neural Networks](../n/neural_networks_in_trading.md) fall under this category.
+[Supervised learning](../s/supervised_learning.md) involves training algorithms on labeled data sets. Kiwi uses this technique to predict [market](../m/market.md) trends by learning from historic [market](../m/market.md) data and real-time inputs. Models like [Linear Regression](../l/linear_regression.md) and [Neural Networks](../n/neural_networks_in_trading.md) fall under this category.
 
 #### Unsupervised Learning
 
-Unsupervised learning doesn't rely on labeled data. Kiwi applies [clustering algorithms](../c/clustering_algorithms.md) to categorize [market](../m/market.md) environments, enabling the differentiation between bullish, bearish, and [neutral](../n/neutral.md) phases without predefined labels. Techniques like [K-Means Clustering](../k/k-means_clustering_in_trading.md) and [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) are instrumental here.
+[Unsupervised learning](../u/unsupervised_learning.md) doesn't rely on labeled data. Kiwi applies [clustering algorithms](../c/clustering_algorithms.md) to categorize [market](../m/market.md) environments, enabling the differentiation between bullish, bearish, and [neutral](../n/neutral.md) phases without predefined labels. Techniques like [K-Means Clustering](../k/k-means_clustering_in_trading.md) and [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) are instrumental here.
 
 #### Reinforcement Learning
 
-Reinforcement learning (RL) allows Kiwi’s algorithms to learn optimal [trading strategies](../t/trading_strategies.md) through trial and error. An RL model might be trained to maximize a reward signal representing trading profits, constantly refining its strategies based on [market](../m/market.md) feedback.
+[Reinforcement learning](../r/reinforcement_learning.md) (RL) allows Kiwi’s algorithms to learn optimal [trading strategies](../t/trading_strategies.md) through trial and error. An RL model might be trained to maximize a reward signal representing trading profits, constantly refining its strategies based on [market](../m/market.md) feedback.
 
 ### High-Frequency Trading (HFT)
 
@@ -118,4 +118,4 @@ The [trend](../t/trend.md) towards sustainable [finance](../f/finance.md) and ES
 
 ## Conclusion
 
-Kiwi exemplifies the transformative power of [algorithmic trading](../a/accountability.md), combining state-of-the-art technologies to optimize financial transactions. Through innovative machine learning models, high-frequency trading techniques, and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, Kiwi not only maximizes profitability but also addresses ethical and regulatory concerns. As the landscape of [algorithmic trading](../a/accountability.md) continues to evolve, Kiwi remains at the forefront, driving innovations that reshape the future of [financial markets](../f/financial_market.md).
+Kiwi exemplifies the transformative power of [algorithmic trading](../a/accountability.md), combining state-of-the-art technologies to optimize financial transactions. Through innovative [machine learning](../m/machine_learning.md) models, high-frequency trading techniques, and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, Kiwi not only maximizes profitability but also addresses ethical and regulatory concerns. As the landscape of [algorithmic trading](../a/accountability.md) continues to evolve, Kiwi remains at the forefront, driving innovations that reshape the future of [financial markets](../f/financial_market.md).

@@ -67,7 +67,7 @@ Reliable data sources are crucial for accurate run-up analysis. These include:
 Sophisticated [software tools](../s/software_tools_for_trading.md) help in analyzing run-up data:
 - **Statistical analysis software**: Platforms like R, Python (with libraries such as Pandas and NumPy), and MATLAB are commonly used for advanced statistical analysis.
 - **Charting tools**: Software like [TradingView](../t/tradingview.md) and MetaTrader [offer](../o/offer.md) powerful charting capabilities for visualizing run-ups and price movements.
-- **Machine learning**: Tools like TensorFlow and Scikit-learn can be used to develop algorithms that predict future run-ups based on historical data.
+- **[Machine learning](../m/machine_learning.md)**: Tools like [TensorFlow](../t/tensorflow.md) and Scikit-learn can be used to develop algorithms that predict future run-ups based on historical data.
 
 ### Example of a Company Utilizing Run-Up Analysis
 

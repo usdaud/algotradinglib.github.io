@@ -82,7 +82,7 @@ William Sharpe's contributions have significantly influenced the development of 
 
 ### Credit Risk and Default Prediction
 
-APT and [multi-factor models](../m/multi-factor_models.md) are crucial in predicting [credit](../c/credit.md) risks and defaults. Fintech companies implementing machine learning and AI models often incorporate these principles to assess the [creditworthiness](../c/creditworthiness.md) of borrowers more accurately.
+APT and [multi-factor models](../m/multi-factor_models.md) are crucial in predicting [credit](../c/credit.md) risks and defaults. Fintech companies implementing [machine learning](../m/machine_learning.md) and AI models often incorporate these principles to assess the [creditworthiness](../c/creditworthiness.md) of borrowers more accurately.
 
 ### Personalized Investment Advice
 

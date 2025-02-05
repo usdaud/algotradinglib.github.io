@@ -22,7 +22,7 @@ Walk forward [optimization](../o/optimization.md) is a more sophisticated techni
 
 ### 3. Cross-Validation
 
-While more commonly used in machine learning, cross-validation can also be adapted for evaluating [trading strategies](../t/trading_strategies.md). The data set is divided into [multiple](../m/multiple.md) ‘folds’, and the model is trained and tested across these folds in various iterations. However, in [financial time series](../f/financial_time_series.md) data, it's essential to preserve the temporal [order](../o/order.md) during this process to avoid [look-ahead bias](../l/look-ahead_bias.md).
+While more commonly used in [machine learning](../m/machine_learning.md), cross-validation can also be adapted for evaluating [trading strategies](../t/trading_strategies.md). The data set is divided into [multiple](../m/multiple.md) ‘folds’, and the model is trained and tested across these folds in various iterations. However, in [financial time series](../f/financial_time_series.md) data, it's essential to preserve the temporal [order](../o/order.md) during this process to avoid [look-ahead bias](../l/look-ahead_bias.md).
 
 ### 4. Bootstrapping
 

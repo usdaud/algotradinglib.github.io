@@ -14,7 +14,7 @@ There are several sources through which a company or an individual [trader](../t
 
 #### Advanced Algorithms
 
-One of the primary sources of competitive advantage in [algorithmic trading](../a/accountability.md) is the development of advanced algorithms. These algorithms can process vast amounts of data at incredible speeds, allowing traders to execute trades faster and more efficiently than their competitors. Advanced algorithms may incorporate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt to changing [market](../m/market.md) conditions.
+One of the primary sources of competitive advantage in [algorithmic trading](../a/accountability.md) is the development of advanced algorithms. These algorithms can process vast amounts of data at incredible speeds, allowing traders to execute trades faster and more efficiently than their competitors. Advanced algorithms may incorporate [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt to changing [market](../m/market.md) conditions.
 
 **Example Companies:**
 - [Two Sigma](https://www.twosigma.com/)
@@ -44,11 +44,11 @@ Possessing proprietary data that is not readily available to other [market](../m
 
 **Example Companies:**
 - [QuantConnect](https://www.quantconnect.com/): Provides access to various datasets and an extensive [backtesting](../b/backtesting.md) environment.
-- [Kensho Technologies](https://www.kensho.com/): Utilizes machine learning to analyze diverse datasets for actionable insights.
+- [Kensho Technologies](https://www.kensho.com/): Utilizes [machine learning](../m/machine_learning.md) to analyze diverse datasets for actionable insights.
 
 #### Superior Data Analytics
 
-Superior [data analytics](../d/data_analytics.md) capabilities allow firms to extract more [value](../v/value.md) from both proprietary and public data. This can involve advanced statistical techniques, machine learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to identify [market](../m/market.md) trends and signals that others may miss.
+Superior [data analytics](../d/data_analytics.md) capabilities allow firms to extract more [value](../v/value.md) from both proprietary and public data. This can involve advanced statistical techniques, [machine learning](../m/machine_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to identify [market](../m/market.md) trends and signals that others may miss.
 
 **Example Companies:**
 - [Point72 Asset Management](https://www.point72.com/)
@@ -110,7 +110,7 @@ Renaissance Technologies, founded by Jim Simons, is often regarded as one of the
 
 ### Two Sigma
 
-Two Sigma is another prominent player in the [algorithmic trading](../a/accountability.md) space. The [firm](../f/firm.md) leverages [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). Two Sigma's competitive advantage lies in its use of machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and a collaborative work environment that fosters innovation.
+Two Sigma is another prominent player in the [algorithmic trading](../a/accountability.md) space. The [firm](../f/firm.md) leverages [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). Two Sigma's competitive advantage lies in its use of [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and a collaborative work environment that fosters innovation.
 
 **Company Link: [Two Sigma](https://www.twosigma.com/)**
 

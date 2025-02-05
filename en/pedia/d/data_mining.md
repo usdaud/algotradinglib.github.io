@@ -4,7 +4,7 @@ Data [mining](../m/mining.md) is an essential process in [algorithmic trading](.
 
 ## Introduction to Data Mining
 
-Data [mining](../m/mining.md) refers to the computational process of discovering patterns, trends, and anomalies within large sets of data. This process employs methods from [statistics](../s/statistics.md), machine learning, and database systems to analyze and extract useful information. In [algorithmic trading](../a/algorithmic_trading.md), data [mining](../m/mining.md) plays a critical role by enabling traders to make data-driven decisions, optimize their [trading algorithms](../t/trading_algorithms.md), and enhance their strategies.
+Data [mining](../m/mining.md) refers to the computational process of discovering patterns, trends, and anomalies within large sets of data. This process employs methods from [statistics](../s/statistics.md), [machine learning](../m/machine_learning.md), and database systems to analyze and extract useful information. In [algorithmic trading](../a/algorithmic_trading.md), data [mining](../m/mining.md) plays a critical role by enabling traders to make data-driven decisions, optimize their [trading algorithms](../t/trading_algorithms.md), and enhance their strategies.
 
 ### Key Data Mining Techniques in Algorithmic Trading
 
@@ -26,15 +26,15 @@ Several tools and technologies facilitate the data [mining](../m/mining.md) proc
 
 ### Popular Data Mining Tools
 
-1. **Python and R**: Both Python and R [offer](../o/offer.md) extensive libraries and packages for data [mining](../m/mining.md), such as pandas, numpy, scikit-learn in Python, and dplyr, tidyr, and caret in R. These are used for data manipulation, statistical analysis, and machine learning.
+1. **Python and R**: Both Python and R [offer](../o/offer.md) extensive libraries and packages for data [mining](../m/mining.md), such as pandas, numpy, scikit-learn in Python, and dplyr, tidyr, and caret in R. These are used for data manipulation, statistical analysis, and [machine learning](../m/machine_learning.md).
 
 2. **MATLAB**: Widely used for numerical computing, MATLAB provides tools for data analysis, visualization, and algorithm development, and it has specific toolboxes for financial applications.
 
-3. **RapidMiner**: An [open](../o/open.md)-source [data science](../d/data_science_in_trading.md) platform that offers a comprehensive suite for data preparation, machine learning, and predictive analysis.
+3. **RapidMiner**: An [open](../o/open.md)-source [data science](../d/data_science_in_trading.md) platform that offers a comprehensive suite for data preparation, [machine learning](../m/machine_learning.md), and predictive analysis.
 
-4. **Weka**: A collection of machine [learning algorithms](../l/learning_algorithms_in_trading.md) for data [mining](../m/mining.md) tasks, Weka is well-suited for developing new machine learning schemes.
+4. **Weka**: A collection of machine [learning algorithms](../l/learning_algorithms_in_trading.md) for data [mining](../m/mining.md) tasks, Weka is well-suited for developing new [machine learning](../m/machine_learning.md) schemes.
 
-5. **SAS**: Known for [robust](../r/robust.md) statistical analysis capabilities, SAS offers tools for data [mining](../m/mining.md), [predictive analytics](../p/predictive_analytics.md), and machine learning.
+5. **SAS**: Known for [robust](../r/robust.md) statistical analysis capabilities, SAS offers tools for data [mining](../m/mining.md), [predictive analytics](../p/predictive_analytics.md), and [machine learning](../m/machine_learning.md).
 
 6. **Tableau and Power BI**: While primarily used for [data visualization](../d/data_visualization.md), these tools also [offer](../o/offer.md) data [mining](../m/mining.md) capabilities that help in identifying trends and patterns.
 

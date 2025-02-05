@@ -119,7 +119,7 @@ Large trades can significantly impact [market](../m/market.md) prices, especiall
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being integrated into [quantitative trading](../q/quantitative_trading.md) strategies. These technologies can enhance models' predictive capabilities by identifying complex, non-linear relationships in data.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being integrated into [quantitative trading](../q/quantitative_trading.md) strategies. These technologies can enhance models' predictive capabilities by identifying complex, non-linear relationships in data.
 
 ### Quantum Computing
 

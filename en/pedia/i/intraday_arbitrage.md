@@ -40,7 +40,7 @@ Given the complexities and the potential for [market](../m/market.md) disruption
 
 1. **Citadel LLC**: Citadel is one of the most successful [hedge](../h/hedge.md) funds in the world, known for its intraday [arbitrage](../a/arbitrage.md) strategies. Their ability to quickly identify and exploit intraday [arbitrage](../a/arbitrage.md) opportunities is a key part of their [trading strategy](../t/trading_strategy.md). More information can be found on their [website](https://www.citadel.com/).
 
-2. **Two Sigma Investments**: This quantitative [hedge fund](../h/hedge_fund.md) employs advanced algorithms and machine learning to identify and execute intraday [arbitrage](../a/arbitrage.md) opportunities. Their use of [big data analytics](../b/big_data_analytics_in_trading.md) sets them apart. You can learn more about their approach [here](https://www.twosigma.com/).
+2. **Two Sigma Investments**: This quantitative [hedge fund](../h/hedge_fund.md) employs advanced algorithms and [machine learning](../m/machine_learning.md) to identify and execute intraday [arbitrage](../a/arbitrage.md) opportunities. Their use of [big data analytics](../b/big_data_analytics_in_trading.md) sets them apart. You can learn more about their approach [here](https://www.twosigma.com/).
 
 3. **Virtu Financial**: This [firm](../f/firm.md) is another major player in the field of intraday [arbitrage](../a/arbitrage.md). Virtu Financial utilizes high-frequency trading (HFT) to identify and act on [arbitrage](../a/arbitrage.md) opportunities in a fraction of a second. More details can be found on their [website](https://www.virtu.com/).
 

@@ -28,7 +28,7 @@ With their capacity to [handle](../h/handle.md) vast amounts of information, dat
 
 ### Advanced Data Analysis
 
-Data lakes support complex analytics workflows, including machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models which can unearth intricate patterns and predictive signals from vast datasets. 
+Data lakes support complex analytics workflows, including [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models which can unearth intricate patterns and predictive signals from vast datasets. 
 
 ### Low Latency
 
@@ -62,7 +62,7 @@ Processing raw data to make it analysis-ready encompasses several paradigms:
 ### 4. Consumption Layer
 The final layer features tools for accessing and analyzing the processed data:
 - **SQL Queries**: Using tools like Presto, Hive.
-- **Machine Learning Models**: Implemented using TensorFlow, PyTorch, or scikit-learn.
+- **[Machine Learning](../m/machine_learning.md) Models**: Implemented using [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), or scikit-learn.
 - **Visualization Tools**: Like Tableau, Power BI for creating dashboards.
 
 ## Benefits of Data Lakes in Trading

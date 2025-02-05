@@ -114,7 +114,7 @@ As [financial markets](../f/financial_market.md) evolve, new techniques and inno
 
 ### Algorithmic Gamma Hedging
 
-Leveraging machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to create dynamic algorithms that automatically adjust hedging positions in real-time based on [market](../m/market.md) data.
+Leveraging [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to create dynamic algorithms that automatically adjust hedging positions in real-time based on [market](../m/market.md) data.
 
 ### High-Frequency Trading (HFT) Firms
 

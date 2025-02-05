@@ -105,7 +105,7 @@ print(model.summary())
    Renaissance Technologies, founded by Jim Simons, is one of the most successful quant funds utilizing statistical models, including [regression techniques](../r/regression_techniques.md), for [algorithmic trading](../a/algorithmic_trading.md). Their Medallion [Fund](../f/fund.md) has been known for its impressive returns, largely attributed to sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and data analysis.
 
 2. **Two Sigma**:
-   Two Sigma, another giant in the [quantitative trading](../q/quantitative_trading.md) space, employs a combination of machine learning, advanced statistical methods, and significant computational resources to analyze vast amounts of financial data. Least squares regression is fundamental in building [predictive models](../p/predictive_models_in_trading.md) for their [trading strategies](../t/trading_strategies.md). More about Two Sigma can be found on their [official website](https://www.twosigma.com).
+   Two Sigma, another giant in the [quantitative trading](../q/quantitative_trading.md) space, employs a combination of [machine learning](../m/machine_learning.md), advanced statistical methods, and significant computational resources to analyze vast amounts of financial data. Least squares regression is fundamental in building [predictive models](../p/predictive_models_in_trading.md) for their [trading strategies](../t/trading_strategies.md). More about Two Sigma can be found on their [official website](https://www.twosigma.com).
 
 ### Interpretation and Analysis
 

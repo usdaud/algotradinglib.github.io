@@ -108,7 +108,7 @@ The relationship between unemployment and [financial markets](../f/financial_mar
 For algo-traders and quantitative analysts, unemployment data can serve as an important input variable in [trading algorithms](../t/trading_algorithms.md) and financial models. Historical unemployment data is often leveraged to forecast [economic conditions](../e/economic_conditions.md), which in turn influences decisions on [asset allocation](../a/asset_allocation.md), [risk management](../r/risk_management.md), and [trading strategies](../t/trading_strategies.md).
 
 Given its predictive power, unemployment data can be used in various ways:
-- **Feature in Machine Learning Models**: Integrating unemployment rates into machine learning models to predict [market](../m/market.md) movements.
+- **Feature in [Machine Learning](../m/machine_learning.md) Models**: Integrating unemployment rates into [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) movements.
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing unemployment-related news for [sentiment analysis](../s/sentiment_analysis.md) to guide trading decisions.
 - **[Event-Driven Trading](../e/event-driven_trading.md)**: Executing trades based on unemployment data releases, capitalizing on [market](../m/market.md) [volatility](../v/volatility.md).
 

@@ -148,7 +148,7 @@ With advancements in financial technology, [real-time data analysis](../r/real-t
 
 ### Algortihmic Trading and Machine Learning
 
-[Algorithmic trading](../a/accountability.md) firms and [hedge](../h/hedge.md) funds use machine learning models to analyze [debt](../d/debt.md) metrics, including [net debt](../n/net_debt.md) [per capita](../p/per_capita.md), to make informed trading decisions. Companies like **Two Sigma** [Two Sigma](https://www.twosigma.com/) and **Citadel** [Citadel](https://www.citadel.com/) are at the forefront of applying these technologies in [finance](../f/finance.md).
+[Algorithmic trading](../a/accountability.md) firms and [hedge](../h/hedge.md) funds use [machine learning](../m/machine_learning.md) models to analyze [debt](../d/debt.md) metrics, including [net debt](../n/net_debt.md) [per capita](../p/per_capita.md), to make informed trading decisions. Companies like **Two Sigma** [Two Sigma](https://www.twosigma.com/) and **Citadel** [Citadel](https://www.citadel.com/) are at the forefront of applying these technologies in [finance](../f/finance.md).
 
 ## Conclusion
 

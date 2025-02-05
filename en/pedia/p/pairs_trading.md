@@ -52,10 +52,10 @@ Renaissance Technologies, founded by James Simons, is one of the most successful
 
 ### Two Sigma
 
-Another notable example is Two Sigma, a [firm](../f/firm.md) that uses machine learning, distributed computing, and vast amounts of data to drive its [trading strategies](../t/trading_strategies.md), including pairs trading. Two Sigma's systematic approach has made it one of the leaders in the [quantitative trading](../q/quantitative_trading.md) space. More information about Two Sigma can be found [here](https://www.twosigma.com/).
+Another notable example is Two Sigma, a [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to drive its [trading strategies](../t/trading_strategies.md), including pairs trading. Two Sigma's systematic approach has made it one of the leaders in the [quantitative trading](../q/quantitative_trading.md) space. More information about Two Sigma can be found [here](https://www.twosigma.com/).
 
 ## Future of Pairs Trading
 
-With advancements in technology and the increasing availability of data, pairs [trading strategies](../t/trading_strategies.md) are becoming more sophisticated. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are playing significant roles in identifying new pairs and optimizing [trading strategies](../t/trading_strategies.md). High-frequency trading firms continue to develop and refine algorithms that can execute pairs trades in milliseconds, capturing fleeting [arbitrage](../a/arbitrage.md) opportunities.
+With advancements in technology and the increasing availability of data, pairs [trading strategies](../t/trading_strategies.md) are becoming more sophisticated. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are playing significant roles in identifying new pairs and optimizing [trading strategies](../t/trading_strategies.md). High-frequency trading firms continue to develop and refine algorithms that can execute pairs trades in milliseconds, capturing fleeting [arbitrage](../a/arbitrage.md) opportunities.
 
 Despite its complexity and potential risks, pairs trading remains a [robust](../r/robust.md) strategy for quantitatively inclined traders. Its [market](../m/market.md)-[neutral](../n/neutral.md) nature, statistical foundation, and adaptability to various [market](../m/market.md) conditions make it an enduring and potentially [lucrative](../l/lucrative.md) trading approach.

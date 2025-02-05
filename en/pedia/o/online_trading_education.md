@@ -79,7 +79,7 @@ While online resources are excellent for self-paced learning, they often lack th
 [Gamification](../g/gamification.md) involves incorporating game design elements into educational content to make learning more engaging and motivating. Platforms may include simulations, quizzes, and interactive challenges to enhance the learning experience.
 
 #### AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly becoming part of trading education. These technologies can provide personalized learning experiences, [predictive analytics](../p/predictive_analytics.md), and real-time feedback to improve [trading strategies](../t/trading_strategies.md).
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly becoming part of trading education. These technologies can provide personalized learning experiences, [predictive analytics](../p/predictive_analytics.md), and real-time feedback to improve [trading strategies](../t/trading_strategies.md).
 
 #### Blockchain and Cryptocurrencies
 With the growing [interest](../i/interest.md) in [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies, educational resources are evolving to cover these new areas. Courses on [blockchain](../b/blockchain_in_trading.md), [Bitcoin](../b/bitcoin.md), and other digital assets are becoming more common.

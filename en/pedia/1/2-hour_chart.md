@@ -86,7 +86,7 @@ Implementing [risk management](../r/risk_management.md) measures is essential re
 
 ### Continuous Optimization
 
-[Algorithmic trading](../a/algorithmic_trading.md) is not a "set it and forget it" endeavor. Continuous monitoring and [optimization](../o/optimization.md) of your trading algorithm are crucial. Using 2-hour data, you can periodically review your strategy's performance, recalibrate parameters, and apply machine learning techniques for improved decision-making.
+[Algorithmic trading](../a/algorithmic_trading.md) is not a "set it and forget it" endeavor. Continuous monitoring and [optimization](../o/optimization.md) of your trading algorithm are crucial. Using 2-hour data, you can periodically review your strategy's performance, recalibrate parameters, and apply [machine learning](../m/machine_learning.md) techniques for improved decision-making.
 
 ## Conclusion
 

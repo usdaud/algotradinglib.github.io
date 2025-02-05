@@ -50,7 +50,7 @@ Several organizations and regulatory bodies play a crucial role in overseeing an
 
 With the advent of advanced technologies, the monitoring and regulation of [capital](../c/capital.md) accounts have become more sophisticated:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: These technologies enable the real-time analysis of vast amounts of financial data, helping regulators identify and respond to potential risks more effectively.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**: These technologies enable the real-time analysis of vast amounts of financial data, helping regulators identify and respond to potential risks more effectively.
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md)'s [transparency](../t/transparency.md) and immutability [offer](../o/offer.md) promising applications in tracking and recording financial transactions, potentially making regulatory compliance more efficient.
 
 ## Challenges and Risks

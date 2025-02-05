@@ -66,7 +66,7 @@ Several financial technology firms and platforms [offer](../o/offer.md) tools an
 [Interactive Brokers](../i/interactive_brokers.md) offers a suite of tools for [algorithmic trading](../a/algorithmic_trading.md) and detailed performance reports. Their [total return](../t/total_return.md) metrics include dividends, [interest](../i/interest.md) [income](../i/income.md), and [capital](../c/capital.md) gains, allowing for a thorough analysis of investment performance.
 
 ### Numerai [Numerai](https://numer.ai/)
-Numerai is a [hedge fund](../h/hedge_fund.md) [offering](../o/offering.md) a platform for data scientists to create machine learning models in trading. It emphasizes advanced analytics, including [Total Return](../t/total_return.md), to judge the performance of submitted models.
+Numerai is a [hedge fund](../h/hedge_fund.md) [offering](../o/offering.md) a platform for data scientists to create [machine learning](../m/machine_learning.md) models in trading. It emphasizes advanced analytics, including [Total Return](../t/total_return.md), to judge the performance of submitted models.
 
 ## Challenges and Considerations
 
@@ -84,7 +84,7 @@ Different sources of [income](../i/income.md), such as dividends and [interest](
 
 ## Future of Total Return Analysis in Algorithmic Trading
 
-With advancements in technology and the increasing availability of real-time data, [Total Return](../t/total_return.md) Analysis is likely to become even more integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. Innovations such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning [will](../w/will.md) further enhance the ability to analyze and optimize [Total Return](../t/total_return.md), paving the way for more sophisticated and effective [trading algorithms](../t/trading_algorithms.md).
+With advancements in technology and the increasing availability of real-time data, [Total Return](../t/total_return.md) Analysis is likely to become even more integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. Innovations such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) [will](../w/will.md) further enhance the ability to analyze and optimize [Total Return](../t/total_return.md), paving the way for more sophisticated and effective [trading algorithms](../t/trading_algorithms.md).
 
 Moreover, the growing [trend](../t/trend.md) towards personalized portfolios and [algorithmic trading](../a/algorithmic_trading.md) tailored to individual [investor](../i/investor.md) goals [will](../w/will.md) amplify the importance of [Total Return](../t/total_return.md) Analysis, ensuring that strategies not only aim for [capital](../c/capital.md) appreciation but also optimize for [income](../i/income.md) generation and [risk management](../r/risk_management.md).
 

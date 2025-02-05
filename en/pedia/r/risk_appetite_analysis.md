@@ -40,7 +40,7 @@
 
 - **Statistical Models**: Models such as Monte Carlo simulations are used to predict the [range](../r/range.md) of possible outcomes based on a set of variables and historical data.
   
-- **Machine Learning and AI**: Advanced algorithms that learn from historical [market](../m/market.md) data to predict [risk](../r/risk.md) and guide decision-making.
+- **[Machine Learning](../m/machine_learning.md) and AI**: Advanced algorithms that learn from historical [market](../m/market.md) data to predict [risk](../r/risk.md) and guide decision-making.
 
 ## Tools for Risk Appetite Analysis in Algorithmic Trading
 

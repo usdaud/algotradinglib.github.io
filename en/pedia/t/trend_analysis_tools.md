@@ -130,17 +130,17 @@ Algorithmic strategies use [trend](../t/trend.md) lines to identify the directio
 ## Advanced Tools: Machine Learning and AI
 
 ### Definition
-In recent years, machine learning and AI have become prominent tools in [trend analysis](../t/trend_analysis.md). They involve using algorithms that learn from and make predictions based on data.
+In recent years, [machine learning](../m/machine_learning.md) and AI have become prominent tools in [trend analysis](../t/trend_analysis.md). They involve using algorithms that learn from and make predictions based on data.
 
 ### Techniques
 
-- **Supervised Learning**: Uses labeled data to train models to recognize patterns.
-- **Unsupervised Learning**: Identifies hidden patterns in unlabeled data.
-- **Reinforcement Learning**: Trains algorithms based on rewards and punishments.
+- **[Supervised Learning](../s/supervised_learning.md)**: Uses labeled data to train models to recognize patterns.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifies hidden patterns in unlabeled data.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Trains algorithms based on rewards and punishments.
 
 ### Application in Algorithmic Trading
 
-Machine learning can process vast amounts of data to identify complex patterns that traditional methods may miss. Algorithms can adapt and improve over time, making them ideal for dynamic [market](../m/market.md) conditions.
+[Machine learning](../m/machine_learning.md) can process vast amounts of data to identify complex patterns that traditional methods may miss. Algorithms can adapt and improve over time, making them ideal for dynamic [market](../m/market.md) conditions.
 
 
 Understanding these tools and their applications can be the key to developing successful [algorithmic trading](../a/algorithmic_trading.md) strategies. Each tool provides unique insights and, when combined, can [offer](../o/offer.md) a comprehensive view of [market](../m/market.md) trends, enhancing the accuracy and effectiveness of [trading algorithms](../t/trading_algorithms.md).

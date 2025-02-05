@@ -74,7 +74,7 @@ Fintech companies are increasingly developing tools to help consumers manage deb
   
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) can also play a role in managing zombie [debt](../d/debt.md):
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can also play a role in managing zombie [debt](../d/debt.md):
 - **[Predictive Analytics](../p/predictive_analytics.md):** AI can be used to predict which debts are likely to re-emerge, enabling proactive management.
 - **Automated Dispute Resolution:** ML algorithms can help consumers identify inaccuracies in their [credit](../c/credit.md) reports and automate the dispute process.
 

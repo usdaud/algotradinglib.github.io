@@ -91,7 +91,7 @@ For example, companies like **IBM [Blockchain](../b/blockchain_in_trading.md)** 
 
 ### Machine Learning
 
-Machine learning (ML) can be used to identify patterns and anomalies that human oversight might miss.
+[Machine learning](../m/machine_learning.md) (ML) can be used to identify patterns and anomalies that human oversight might miss.
 
 1. **[Anomaly Detection](../a/anomaly_detection.md)**: ML algorithms can identify [transaction](../t/transaction.md) anomalies in real-time.
 2. **[Predictive Analytics](../p/predictive_analytics.md)**: Uses historical data to predict and prevent potential mismatches.
@@ -109,4 +109,4 @@ Companies like **Amazon Web Services** (https://aws.amazon.com/financial-service
 
 ## Conclusion
 
-The concept of an unmatched book is a critical [issue](../i/issue.md) that encompasses a broad [range](../r/range.md) of challenges, from operational risks to regulatory compliance. Effective management and resolution of unmatched books are essential for sustaining [robust](../r/robust.md) and transparent trading operations. Leveraging advanced technologies such as [blockchain](../b/blockchain_in_trading.md), machine learning, and [cloud computing](../c/cloud_computing_in_trading.md) can significantly mitigate the risks associated with unmatched books and enhance overall [operational efficiency](../o/operational_efficiency_in_trading.md). Understanding and addressing the nuances of unmatched books can serve as a cornerstone for [risk management](../r/risk_management.md), compliance, and operational excellence in the world of [finance](../f/finance.md) and trading.
+The concept of an unmatched book is a critical [issue](../i/issue.md) that encompasses a broad [range](../r/range.md) of challenges, from operational risks to regulatory compliance. Effective management and resolution of unmatched books are essential for sustaining [robust](../r/robust.md) and transparent trading operations. Leveraging advanced technologies such as [blockchain](../b/blockchain_in_trading.md), [machine learning](../m/machine_learning.md), and [cloud computing](../c/cloud_computing_in_trading.md) can significantly mitigate the risks associated with unmatched books and enhance overall [operational efficiency](../o/operational_efficiency_in_trading.md). Understanding and addressing the nuances of unmatched books can serve as a cornerstone for [risk management](../r/risk_management.md), compliance, and operational excellence in the world of [finance](../f/finance.md) and trading.

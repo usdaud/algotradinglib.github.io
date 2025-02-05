@@ -112,7 +112,7 @@ As financial regulations continue to evolve, the role of [benchmark](../b/benchm
 
 ### Technological Innovations
 
-Future advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning present opportunities to further refine [benchmark](../b/benchmark.md) calculations. [Predictive analytics](../p/predictive_analytics.md) and real-time data processing could lead to even more precise and dynamic [benchmark](../b/benchmark.md) rates.
+Future advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) present opportunities to further refine [benchmark](../b/benchmark.md) calculations. [Predictive analytics](../p/predictive_analytics.md) and real-time data processing could lead to even more precise and dynamic [benchmark](../b/benchmark.md) rates.
 
 ### Impact of Cryptocurrencies
 

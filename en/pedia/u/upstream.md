@@ -108,7 +108,7 @@ While not an oil producer, Schlumberger is a leading provider of technology and 
 
 ### Digital Transformation
 
-The digital transformation in the upstream sector involves the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [efficiency](../e/efficiency.md), reduce costs, and enhance decision-making.
+The digital transformation in the upstream sector involves the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [efficiency](../e/efficiency.md), reduce costs, and enhance decision-making.
 
 ### Sustainability and Renewable Integration
 

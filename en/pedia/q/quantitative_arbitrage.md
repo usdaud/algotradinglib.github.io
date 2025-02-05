@@ -10,7 +10,7 @@ Quantitative [arbitrage](../a/arbitrage.md) involves the use of quantitative met
 
 1. **Data Collection and Processing**: Quantitative [arbitrage](../a/arbitrage.md) strategies rely heavily on large datasets, including historical and [real-time market data](../r/real-time_market_data.md). This data is processed and cleaned to ensure accuracy and relevance for further analysis.
 
-2. **Model Development**: Quantitative analysts, or "quants," develop [mathematical models](../m/mathematical_models_in_trading.md) to identify patterns and relationships within the data. These models often incorporate elements of statistical analysis, machine learning, and other sophisticated techniques.
+2. **Model Development**: Quantitative analysts, or "quants," develop [mathematical models](../m/mathematical_models_in_trading.md) to identify patterns and relationships within the data. These models often incorporate elements of statistical analysis, [machine learning](../m/machine_learning.md), and other sophisticated techniques.
 
 3. **[Backtesting](../b/backtesting.md)**: Before deploying a strategy in live markets, it is crucial to backtest it using historical data. This process involves simulating trades based on the model to evaluate its performance and robustness under different [market](../m/market.md) conditions.
 
@@ -44,7 +44,7 @@ High-frequency trading is a subset of [quantitative trading](../q/quantitative_t
 
 ### Machine Learning and Artificial Intelligence
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to enhance quantitative [arbitrage](../a/arbitrage.md) strategies. These algorithms can analyze vast amounts of data to identify patterns and make predictions about future price movements. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are applied to develop and refine [trading models](../t/trading_models.md).
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to enhance quantitative [arbitrage](../a/arbitrage.md) strategies. These algorithms can analyze vast amounts of data to identify patterns and make predictions about future price movements. Techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are applied to develop and refine [trading models](../t/trading_models.md).
 
 ### Alternative Data
 
@@ -74,7 +74,7 @@ Several well-known firms are recognized for their expertise in quantitative [arb
 
 - **Renaissance Technologies**: One of the most famous firms in the [quantitative trading](../q/quantitative_trading.md) space, Renaissance Technologies, employs highly sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques. [Renaissance Technologies](https://www.rentec.com/)
 
-- **Two Sigma**: Two Sigma uses machine learning and distributed computing to develop its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) relies heavily on [data science](../d/data_science_in_trading.md) and advanced analytics. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to develop its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) relies heavily on [data science](../d/data_science_in_trading.md) and advanced analytics. [Two Sigma](https://www.twosigma.com/)
 
 - **Citadel Securities**: Citadel is a leading [market maker](../m/market_maker.md) and [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various [asset](../a/asset.md) classes. [Citadel Securities](https://www.citadelsecurities.com/)
 

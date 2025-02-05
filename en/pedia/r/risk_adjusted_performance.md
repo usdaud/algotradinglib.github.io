@@ -88,7 +88,7 @@
    - **Website**: [AQR Capital Management](https://www.aqr.com/)
 
 3. **Two Sigma Investments**:
-   Two Sigma utilizes machine learning and AI to execute [algorithmic trading](../a/algorithmic_trading.md) strategies with a keen emphasis on optimizing [risk](../r/risk.md)-adjusted returns.
+   Two Sigma utilizes [machine learning](../m/machine_learning.md) and AI to execute [algorithmic trading](../a/algorithmic_trading.md) strategies with a keen emphasis on optimizing [risk](../r/risk.md)-adjusted returns.
    - **Website**: [Two Sigma](https://www.twosigma.com/)
 
 4. **Renaissance Technologies**:

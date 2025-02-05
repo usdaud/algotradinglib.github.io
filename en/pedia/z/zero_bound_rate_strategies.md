@@ -67,12 +67,12 @@ The unusual [market](../m/market.md) conditions at the zero bound can affect [li
 
 ### Technological and Analytical Tools
 
-Advanced technological and analytical tools are crucial for optimizing Zero Bound Rate Strategies. [Algorithmic trading](../a/algorithmic_trading.md) systems, driven by sophisticated algorithms and high-frequency trading (HFT) capabilities, can exploit micro-movements in [market](../m/market.md) prices and execute trades with precision. Moreover, machine learning and [data analytics](../d/data_analytics.md) can provide deeper insights into [market](../m/market.md) behavior under [zero-bound](../z/zero-bound.md) conditions.
+Advanced technological and analytical tools are crucial for optimizing Zero Bound Rate Strategies. [Algorithmic trading](../a/algorithmic_trading.md) systems, driven by sophisticated algorithms and high-frequency trading (HFT) capabilities, can exploit micro-movements in [market](../m/market.md) prices and execute trades with precision. Moreover, [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) can provide deeper insights into [market](../m/market.md) behavior under [zero-bound](../z/zero-bound.md) conditions.
 
 Several companies specialize in providing the necessary technological [infrastructure](../i/infrastructure.md):
 
 - **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) capabilities. (https://www.[quantconnect](../q/quantconnect.md).com/)
-- **Numerai**: Utilizes machine learning models to crowdsource investment strategies from data scientists worldwide. (https://numer.ai/)
+- **Numerai**: Utilizes [machine learning](../m/machine_learning.md) models to crowdsource investment strategies from data scientists worldwide. (https://numer.ai/)
 
 ### Conclusion
 

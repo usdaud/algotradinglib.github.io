@@ -32,13 +32,13 @@ The category of X-Strategies is inclusive of [multiple](../m/multiple.md) types 
 [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or instruments. High-frequency trading (HFT) algorithms often conduct [arbitrage](../a/arbitrage.md) by executing cross-[market](../m/market.md) trades at lightning speeds, capturing small price differentials.
 
 ### 4. **Sentiment Analysis Strategies**
-These strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other textual sources. They then make trades based on the detected sentiment.
+These strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other textual sources. They then make trades based on the detected sentiment.
 
 ### 5. **High-Frequency Trading (HFT) Strategies**
 High-frequency trading involves making thousands of trades in a fraction of a second. HFT strategies use sophisticated algorithms and extraordinary computational power to locate and exploit fleeting [market](../m/market.md) opportunities.
 
 ### 6. **Machine Learning-Based Strategies**
-Machine learning strategies involve the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) movements. These algorithms can self-optimize by learning from past performance, and they can adapt to new [market](../m/market.md) conditions quickly.
+[Machine learning](../m/machine_learning.md) strategies involve the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) movements. These algorithms can self-optimize by learning from past performance, and they can adapt to new [market](../m/market.md) conditions quickly.
 
 ### 7. **Quantitative Strategies**
 [Quantitative strategies](../q/quantitative_strategies_in_trading.md) use mathematical and statistical models to identify trading opportunities. They rely on complex formulas to determine the appropriate times to buy or sell an [asset](../a/asset.md).
@@ -55,7 +55,7 @@ Machine learning strategies involve the use of [artificial intelligence](../a/ar
 MetaTrader is another widely-used platform supporting [algorithmic trading](../a/algorithmic_trading.md) through its MQL4 and MQL5 programming languages.
 
 ### 4. **Python Libraries**
-Python is extremely popular in [algorithmic trading](../a/algorithmic_trading.md) thanks to its powerful libraries such as Pandas, NumPy, scikit-learn, TensorFlow, and others.
+Python is extremely popular in [algorithmic trading](../a/algorithmic_trading.md) thanks to its powerful libraries such as Pandas, NumPy, scikit-learn, [TensorFlow](../t/tensorflow.md), and others.
 
 ### 5. **R Libraries**
 R offers packages like quantmod, TTR, and xts, which can facilitate statistical analysis and [algorithmic trading](../a/algorithmic_trading.md) development.
@@ -80,7 +80,7 @@ Regulatory scrutiny in algo-trading is intensifying. Compliance with laws and re
 ## Success Stories
 
 ### 1. **Two Sigma Investments**
-[Two Sigma Investments](https://www.twosigma.com) uses machine learning, distributed computing, and data analysis to drive its trading decisions. Their use of sophisticated algorithms has made them a giant in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md).
+[Two Sigma Investments](https://www.twosigma.com) uses [machine learning](../m/machine_learning.md), distributed computing, and data analysis to drive its trading decisions. Their use of sophisticated algorithms has made them a giant in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md).
 
 ### 2. **Renaissance Technologies**
 Renaissance's Medallion [Fund](../f/fund.md) is famed for its astronomical returns driven by highly secretive and advanced algorithmic strategies.
@@ -91,7 +91,7 @@ Renaissance's Medallion [Fund](../f/fund.md) is famed for its astronomical retur
 ## Future Trends
 
 ### 1. **Artificial Intelligence Integration**
-With advancements in AI, especially in [Deep Learning](../d/deep_learning.md) and Reinforcement Learning, future X-Strategies could become more adaptive and predictive.
+With advancements in AI, especially in [Deep Learning](../d/deep_learning.md) and [Reinforcement Learning](../r/reinforcement_learning.md), future X-Strategies could become more adaptive and predictive.
 
 ### 2. **Quantum Computing**
 [Quantum computing](../q/quantum_computing_in_trading.md) holds promise for exponentially faster data processing capabilities, which could revolutionize [algorithmic trading](../a/algorithmic_trading.md) strategies.

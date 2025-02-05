@@ -7,7 +7,7 @@
 [Sentiment analysis](../s/sentiment_analysis.md), also known as opinion [mining](../m/mining.md), is a field of [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) that interprets and classifies emotions (positive, negative, and [neutral](../n/neutral.md)) within text data. By evaluating [social media](../s/social_media.md) posts, comments, and interactions, algorithms can gauge the public mood around particular [stocks](../s/stock.md), sectors, or the [market](../m/market.md) as a whole.
 
 ### Techniques and Tools
-Several machine learning and NLP techniques are employed to analyze [social media](../s/social_media.md) sentiment:
+Several [machine learning](../m/machine_learning.md) and NLP techniques are employed to analyze [social media](../s/social_media.md) sentiment:
 
 - **Tokenization:** Breaking down text into individual words or phrases.
 - **Part-of-Speech Tagging:** Identifying the functions of words in a sentence (e.g., noun, verb).
@@ -20,7 +20,7 @@ Popular tools and libraries for [sentiment analysis](../s/sentiment_analysis.md)
 - **NLTK (Natural Language Toolkit):** A suite of libraries and programs for symbolic and statistical NLP for the Python language.
 - **VADER (Valence Aware Dictionary and sEntiment Reasoner):** A lexicon and rule-based [sentiment analysis](../s/sentiment_analysis.md) tool specifically attuned to sentiments expressed in [social media](../s/social_media.md).
 - **TextBlob:** A Python library for processing textual data that provides a simple API for diving into common NLP tasks including [sentiment analysis](../s/sentiment_analysis.md).
-- **Scikit-learn:** A powerful library for machine learning in Python, which includes various tools for [data mining](../d/data_mining.md) and data analysis.
+- **Scikit-learn:** A powerful library for [machine learning](../m/machine_learning.md) in Python, which includes various tools for [data mining](../d/data_mining.md) and data analysis.
 
 ## Implementation in Algorithmic Trading
 
@@ -44,7 +44,7 @@ Collected data often contain [noise](../n/noise.md) that must be filtered out. T
 Once the data is cleaned, sentiment scores are calculated. Different algorithms use varied approaches, such as:
 
 - **Lexicon-based Methods:** Use predefined lists of words tagged with sentiment values. VADER is an example of such a method.
-- **Machine Learning Models:** Supervised models trained on annotated datasets (e.g., [Support Vector Machines](../s/support_vector_machines_in_trading.md), Naive Bayes).
+- **[Machine Learning](../m/machine_learning.md) Models:** Supervised models trained on annotated datasets (e.g., [Support Vector Machines](../s/support_vector_machines_in_trading.md), Naive Bayes).
 
 ### Incorporating Sentiment into Trading Strategies
 The calculated sentiment scores can be included in [trading strategies](../t/trading_strategies.md) in several ways:

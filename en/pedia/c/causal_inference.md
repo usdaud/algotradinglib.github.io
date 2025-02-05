@@ -97,7 +97,7 @@ Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) fund
 
 ### Two Sigma
 
-Two Sigma integrates machine learning and causal inference to build [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). Their emphasis is on the scientific method to uncover hidden patterns and causal relationships in [financial markets](../f/financial_market.md). More information can be found at [Two Sigma](https://www.twosigma.com).
+Two Sigma integrates [machine learning](../m/machine_learning.md) and causal inference to build [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). Their emphasis is on the scientific method to uncover hidden patterns and causal relationships in [financial markets](../f/financial_market.md). More information can be found at [Two Sigma](https://www.twosigma.com).
 
 ### BlackRock
 

@@ -4,7 +4,7 @@ In the world of [algorithmic trading](../a/algorithmic_trading.md), [forecasting
 
 ## Background and Origin
 
-J-Model [Forecasting](../f/forecasting.md) is a relatively recent addition to the array of [forecasting models](../f/forecasting_models.md) used in trading. Unlike the traditional models which largely rely on linear regressions or moving averages, the J-Model incorporates a set of more complex algorithms, often integrating machine learning techniques. The model's primary aim is to provide more accurate predictions by capturing patterns and relationships that simpler models might miss.
+J-Model [Forecasting](../f/forecasting.md) is a relatively recent addition to the array of [forecasting models](../f/forecasting_models.md) used in trading. Unlike the traditional models which largely rely on linear regressions or moving averages, the J-Model incorporates a set of more complex algorithms, often integrating [machine learning](../m/machine_learning.md) techniques. The model's primary aim is to provide more accurate predictions by capturing patterns and relationships that simpler models might miss.
 
 ## Key Components of J-Model Forecasting
 
@@ -12,7 +12,7 @@ J-Model [Forecasting](../f/forecasting.md) is a relatively recent addition to th
 
 2. **Feature Engineering**: This step involves transforming raw data into meaningful features that can be used by machine [learning algorithms](../l/learning_algorithms_in_trading.md). Feature engineering may include creating [lagged variables](../l/lagged_variables_in_trading.md), calculating [technical indicators](../t/technical_indicators.md), or deriving sentiment scores from textual data.
 
-3. **Algorithm Selection**: A crucial part of the J-Model is the selection of appropriate algorithms. This often includes a combination of traditional statistical methods like ARIMA (AutoRegressive Integrated Moving Average) and more advanced machine learning techniques such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, or [Deep Learning](../d/deep_learning.md) models.
+3. **Algorithm Selection**: A crucial part of the J-Model is the selection of appropriate algorithms. This often includes a combination of traditional statistical methods like ARIMA (AutoRegressive Integrated Moving Average) and more advanced [machine learning](../m/machine_learning.md) techniques such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, or [Deep Learning](../d/deep_learning.md) models.
 
 4. **Training and Validation**: The chosen algorithms are then trained on historical data and validated using a portion of the data set aside for this purpose. Techniques like cross-validation are employed to ensure the model generalizes well to unseen data.
 
@@ -26,14 +26,14 @@ J-Model [Forecasting](../f/forecasting.md) is a relatively recent addition to th
 
 ### Machine Learning Techniques
 
-1. **Supervised Learning**: This involves training algorithms on labeled data, where the model learns a mapping from input features to the output predictions. Common supervised [learning algorithms](../l/learning_algorithms_in_trading.md) used in J-Model [Forecasting](../f/forecasting.md) include:
+1. **[Supervised Learning](../s/supervised_learning.md)**: This involves training algorithms on labeled data, where the model learns a mapping from input features to the output predictions. Common supervised [learning algorithms](../l/learning_algorithms_in_trading.md) used in J-Model [Forecasting](../f/forecasting.md) include:
 
     - **[Linear Regression](../l/linear_regression.md)**: Despite its simplicity, [linear regression](../l/linear_regression.md) can serve as a useful [benchmark](../b/benchmark.md) or be combined with more complex models.
     - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
     - [**Gradient Boosting Machines**](https://xgboost.readthedocs.io/): These models build progressively stronger models by focusing on the errors of previous models.
     - **[Neural Networks](../n/neural_networks_in_trading.md) and [Deep Learning](../d/deep_learning.md)**: Advanced architectures like LSTM (Long Short-Term Memory) networks are particularly effective for time-series [forecasting](../f/forecasting.md).
 
-2. **Unsupervised Learning**: Methods like clustering can be used to identify [underlying](../u/underlying.md) structures in the data that may not be immediately apparent. Techniques include:
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Methods like clustering can be used to identify [underlying](../u/underlying.md) structures in the data that may not be immediately apparent. Techniques include:
 
     - **[K-means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data into clusters based on similarity, which can help in identifying different [market](../m/market.md) regimes.
     - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of data, making it easier to visualize and interpret.
@@ -83,11 +83,11 @@ The integration of [multiple](../m/multiple.md) models to improve [forecasting](
 
 - **Complexity**: The integration of [multiple](../m/multiple.md) components and techniques makes the J-Model complex to develop and maintain.
 - **Data Dependency**: High reliance on large volumes of data, which may not always be available or clean.
-- **Computational Resource Intensive**: Requires significant computational power, especially when employing machine learning and [deep learning](../d/deep_learning.md) techniques.
+- **Computational Resource Intensive**: Requires significant computational power, especially when employing [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md) techniques.
 
 ## Conclusion
 
-J-Model [Forecasting](../f/forecasting.md) represents a cutting-edge approach in the field of [algorithmic trading](../a/algorithmic_trading.md), combining the best of statistical methods and machine learning. While it offers numerous advantages in terms of accuracy and robustness, it also comes with challenges related to complexity and computational demands. As technology and data availability improve, the J-Model’s methodologies are likely to become even more sophisticated, providing traders with powerful tools to navigate the complexities of [financial markets](../f/financial_market.md).
+J-Model [Forecasting](../f/forecasting.md) represents a cutting-edge approach in the field of [algorithmic trading](../a/algorithmic_trading.md), combining the best of statistical methods and [machine learning](../m/machine_learning.md). While it offers numerous advantages in terms of accuracy and robustness, it also comes with challenges related to complexity and computational demands. As technology and data availability improve, the J-Model’s methodologies are likely to become even more sophisticated, providing traders with powerful tools to navigate the complexities of [financial markets](../f/financial_market.md).
 
 For further information and insights into the application of these techniques, consider visiting specialized platforms and companies that focus on advanced [algorithmic trading](../a/algorithmic_trading.md) and [forecasting models](../f/forecasting_models.md).
 

@@ -13,7 +13,7 @@ Quantitative [hedge](../h/hedge.md) funds differ from traditional [hedge](../h/h
 Quant funds use diverse [mathematical models](../m/mathematical_models_in_trading.md) to forecast [market](../m/market.md) movements and optimize [trading strategies](../t/trading_strategies.md). These models may be based on various theories, including 
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Identifies price discrepancies between related securities.
-- **Machine Learning**: Employs [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to analyze patterns in financial data.
+- **[Machine Learning](../m/machine_learning.md)**: Employs [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to analyze patterns in financial data.
 - **High-Frequency Trading (HFT)**: Utilizes algorithms to execute large numbers of trades at extremely high speeds.
 
 ### Data
@@ -42,7 +42,7 @@ Renaissance Technologies is one of the most famous quant funds, founded by Jim S
 
 ### Two Sigma
 
-Two Sigma, co-founded by David Siegel and John Overdeck, operates at the intersection of technology, data, and [finance](../f/finance.md). The [firm](../f/firm.md) uses machine learning, distributed computing, and other cutting-edge technologies to develop [trading strategies](../t/trading_strategies.md).
+Two Sigma, co-founded by David Siegel and John Overdeck, operates at the intersection of technology, data, and [finance](../f/finance.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md), distributed computing, and other cutting-edge technologies to develop [trading strategies](../t/trading_strategies.md).
 
 [https://www.twosigma.com/](https://www.twosigma.com/)
 
@@ -122,7 +122,7 @@ Unpredictable events, known as black swans, can cause [market](../m/market.md) c
 
 ### Artificial Intelligence
 
-The future of quant trading is likely to see increased integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning technologies. AI can enhance [pattern recognition](../p/pattern_recognition.md), optimize [trading strategies](../t/trading_strategies.md), and manage [risk](../r/risk.md) more effectively.
+The future of quant trading is likely to see increased integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) technologies. AI can enhance [pattern recognition](../p/pattern_recognition.md), optimize [trading strategies](../t/trading_strategies.md), and manage [risk](../r/risk.md) more effectively.
 
 ### Big Data
 

@@ -57,7 +57,7 @@ The concept of reflexivity is closely related to [behavioral finance](../b/behav
 In the realm of [algorithmic trading](../a/accountability.md), understanding reflexivity can [offer](../o/offer.md) an edge. Modern [trading algorithms](../t/trading_algorithms.md) can be designed to identify and exploit reflexive patterns by:
 
 - **[Sentiment Analysis](../s/sentiment_analysis.md):** Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other sources to predict [market](../m/market.md) movements.
-- **Reinforcement Learning:** Applying machine learning techniques where algorithms adapt their strategies based on [market](../m/market.md) feedback, mimicking the process of human traders adjusting their views and actions.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Applying [machine learning](../m/machine_learning.md) techniques where algorithms adapt their strategies based on [market](../m/market.md) feedback, mimicking the process of human traders adjusting their views and actions.
 
 ### Fintech Solutions
 

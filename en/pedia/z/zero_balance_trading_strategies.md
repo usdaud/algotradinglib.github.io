@@ -18,7 +18,7 @@
 
 - **Historical Data**: A [robust](../r/robust.md) dataset that includes past price movements, trading [volume](../v/volume.md), and other relevant factors is essential. Companies like [Quandl](https://www.quandl.com) and [Bloomberg](https://www.bloomberg.com/professional/solution/api/) provide comprehensive historical financial data.
 
-- **[Quantitative Models](../q/quantitative_models.md)**: Traders use advanced [quantitative models](../q/quantitative_models.md) to identify potential trades. Common models include [mean reversion](../m/mean_reversion.md), [co-integration](../c/co-integration.md), and machine learning models like [Random Forests](../r/random_forests_in_trading.md) and [Neural Networks](../n/neural_networks_in_trading.md).
+- **[Quantitative Models](../q/quantitative_models.md)**: Traders use advanced [quantitative models](../q/quantitative_models.md) to identify potential trades. Common models include [mean reversion](../m/mean_reversion.md), [co-integration](../c/co-integration.md), and [machine learning](../m/machine_learning.md) models like [Random Forests](../r/random_forests_in_trading.md) and [Neural Networks](../n/neural_networks_in_trading.md).
 
 #### Algorithm Development
 
@@ -56,9 +56,9 @@
 
 ### Future Directions
 
-The future of [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) lies in the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies enable more adaptive and self-learning models, which can enhance the identification of trading opportunities and [risk](../r/risk.md) mitigation.
+The future of [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) lies in the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). These technologies enable more adaptive and self-learning models, which can enhance the identification of trading opportunities and [risk](../r/risk.md) mitigation.
 
-- **AI and Machine Learning**: Firms like [AlphaSense](https://www.alpha-sense.com) are pioneering the use of AI in financial analytics, paving the way for more sophisticated and adaptive [market](../m/market.md)-[neutral](../n/neutral.md) strategies.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Firms like [AlphaSense](https://www.alpha-sense.com) are pioneering the use of AI in financial analytics, paving the way for more sophisticated and adaptive [market](../m/market.md)-[neutral](../n/neutral.md) strategies.
 
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: As [quantum computing](../q/quantum_computing_in_trading.md) evolves, it has the potential to revolutionize [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) by solving complex [optimization](../o/optimization.md) problems faster than classical computers.
 

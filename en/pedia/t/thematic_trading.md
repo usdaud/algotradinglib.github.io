@@ -27,7 +27,7 @@ Thematic trading is inherently a long-term strategy. The themes identified are o
 ### Technology Disruption
 
 Technological innovation is a constant driver of [market](../m/market.md) and economic change. Themes within technology disruption could include:
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Companies leveraging AI and ML to create new products, optimize operations, and enhance [customer](../c/customer.md) experiences.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: Companies leveraging AI and ML to create new products, optimize operations, and enhance [customer](../c/customer.md) experiences.
 - **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The rise of [blockchain](../b/blockchain_in_trading.md) technology and the increasing adoption of digital currencies.
 - **Internet of Things (IoT)**: Growth in interconnected devices and smart solutions across various industries.
 

@@ -75,7 +75,7 @@ The quality of data used in [unemployment](../u/unemployment.md) analysis is par
 - **[Structural Models](../s/structural_models_in_trading.md)**: These models take into account more complex relationships, often embedding economic theory to predict [unemployment](../u/unemployment.md).
 
 ### Machine Learning
-With the advent of [big data](../b/big_data_in_trading.md), machine learning techniques are becoming more prevalent in [unemployment](../u/unemployment.md) data analysis:
+With the advent of [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md) techniques are becoming more prevalent in [unemployment](../u/unemployment.md) data analysis:
 - **[Predictive Modeling](../p/predictive_modeling.md)**: Techniques like [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used to forecast future [unemployment](../u/unemployment.md) rates.
   
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)**: Analyzing job postings and resumes can provide additional insights into [labor market](../l/labor_market.md) trends.
@@ -118,9 +118,9 @@ Companies use [unemployment](../u/unemployment.md) data for strategic planning, 
 - **Stata**: Versatile statistical software used for data manipulation, visualization, [statistics](../s/statistics.md), and automated reporting.
 
 ### Machine Learning and AI
-- **TensorFlow**: An [open](../o/open.md)-source software library for dataflow and differentiable programming across a [range](../r/range.md) of tasks.
+- **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source software library for dataflow and differentiable programming across a [range](../r/range.md) of tasks.
   
-- **Scikit-learn**: A machine learning library for Python that features various classification, regression, and [clustering algorithms](../c/clustering_algorithms.md).
+- **Scikit-learn**: A [machine learning](../m/machine_learning.md) library for Python that features various classification, regression, and [clustering algorithms](../c/clustering_algorithms.md).
 
 ### Data Visualization Tools
 - **Tableau**: A powerful [data visualization](../d/data_visualization.md) tool used to create a wide [range](../r/range.md) of interactive and shareable dashboards.

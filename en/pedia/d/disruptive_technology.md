@@ -17,7 +17,7 @@ High-Frequency Trading is a form of [algorithmic trading](../a/accountability.md
 - **[Market](../m/market.md) Stability**: Critics argue that HFT can contribute to [market](../m/market.md) instability, evidenced by the 2010 Flash Crash.
 
 ### 2. Machine Learning and Artificial Intelligence (AI)
-Machine learning and AI involve the use of algorithms that can learn from and make decisions based on data. These technologies can be used to create models that predict price movements, optimize [trading strategies](../t/trading_strategies.md), and detect [market anomalies](../m/market_anomalies.md).
+[Machine learning](../m/machine_learning.md) and AI involve the use of algorithms that can learn from and make decisions based on data. These technologies can be used to create models that predict price movements, optimize [trading strategies](../t/trading_strategies.md), and detect [market anomalies](../m/market_anomalies.md).
 
 #### Impact:
 - **[Predictive Analytics](../p/predictive_analytics.md)**: AI can analyze vast datasets to find patterns that humans might miss.
@@ -50,7 +50,7 @@ Machine learning and AI involve the use of algorithms that can learn from and ma
 ## Case Studies and Real-World Applications
 
 ### Citadel Securities
-Citadel Securities is a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) that extensively uses HFT and machine learning to optimize its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) cutting-edge technology to provide [liquidity](../l/liquidity.md) and ensure tight [spreads](../s/spreads.md) in various [asset](../a/asset.md) classes.
+Citadel Securities is a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) that extensively uses HFT and [machine learning](../m/machine_learning.md) to optimize its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) cutting-edge technology to provide [liquidity](../l/liquidity.md) and ensure tight [spreads](../s/spreads.md) in various [asset](../a/asset.md) classes.
 
 [Citadel Securities](https://www.citadelsecurities.com/)
 
@@ -72,7 +72,7 @@ The rapid evolution of disruptive technologies in trading often outpaces regulat
 - **Data Privacy**: The use of [big data analytics](../b/big_data_analytics_in_trading.md) raises issues around data privacy and [security](../s/security.md).
 
 ### Ethical Considerations
-The use of AI and machine learning in trading also raises ethical questions.
+The use of AI and [machine learning](../m/machine_learning.md) in trading also raises ethical questions.
 - **Bias in Algorithms**: Ensuring that algorithms do not perpetuate biases present in historical data.
 - **Impact on Employment**: Automation in trading could lead to job losses in traditional trading roles.
 
@@ -87,4 +87,4 @@ The future of [algorithmic trading](../a/accountability.md) [will](../w/will.md)
 New startups and technology firms [will](../w/will.md) continue to drive innovation in this space, and established firms [will](../w/will.md) need to adapt or [risk](../r/risk.md) being left behind. The competitive landscape [will](../w/will.md) be defined by those who can harness these disruptive technologies to [gain](../g/gain.md) a strategic edge.
 
 ## Conclusion
-Disruptive technologies have and [will](../w/will.md) continue to transform the landscape of [algorithmic trading](../a/accountability.md). High-frequency trading, machine learning, [blockchain](../b/blockchain_in_trading.md), [quantum computing](../q/quantum_computing_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) each [offer](../o/offer.md) unique benefits and challenges. Traders and firms that [leverage](../l/leverage.md) these technologies effectively [will](../w/will.md) be well-positioned to navigate the complexities of modern [financial markets](../f/financial_market.md). As we look to the future, the ongoing development and application of these technologies [will](../w/will.md) undoubtedly lead to further disruption and innovation in the field of [algorithmic trading](../a/accountability.md).
+Disruptive technologies have and [will](../w/will.md) continue to transform the landscape of [algorithmic trading](../a/accountability.md). High-frequency trading, [machine learning](../m/machine_learning.md), [blockchain](../b/blockchain_in_trading.md), [quantum computing](../q/quantum_computing_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) each [offer](../o/offer.md) unique benefits and challenges. Traders and firms that [leverage](../l/leverage.md) these technologies effectively [will](../w/will.md) be well-positioned to navigate the complexities of modern [financial markets](../f/financial_market.md). As we look to the future, the ongoing development and application of these technologies [will](../w/will.md) undoubtedly lead to further disruption and innovation in the field of [algorithmic trading](../a/accountability.md).

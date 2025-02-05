@@ -80,7 +80,7 @@
 
 ### Future Trends in Index Rebalancing
 
-1. **AI and Machine Learning:**
+1. **AI and [Machine Learning](../m/machine_learning.md):**
    - Leveraging AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict optimal [rebalancing](../r/rebalancing.md) times and methods, enhancing [efficiency](../e/efficiency.md) and accuracy.
    
 2. **Real-Time [Rebalancing](../r/rebalancing.md):**

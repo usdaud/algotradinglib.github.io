@@ -75,7 +75,7 @@ Algotraders employ [natural language processing](../n/natural_language_processin
 
 ### Machine Learning
 
-Machine learning models are used to predict future price movements of the VINX 30. These models are trained on historical [market](../m/market.md) data and can incorporate various factors, including macroeconomic indicators, company [earnings](../e/earnings.md), and [market sentiment](../m/market_sentiment.md).
+[Machine learning](../m/machine_learning.md) models are used to predict future price movements of the VINX 30. These models are trained on historical [market](../m/market.md) data and can incorporate various factors, including macroeconomic indicators, company [earnings](../e/earnings.md), and [market sentiment](../m/market_sentiment.md).
 
 ## Fintech and the VINX 30
 

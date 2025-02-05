@@ -1,7 +1,7 @@
 # X-Value Investing
 
 #### Introduction to X-Value Investing
-X-[Value Investing](../v/value_investing.md) is a sophisticated financial strategy that integrates the principles of [value investing](../v/value_investing.md) with the advancements of modern algorithms and [computational finance](../c/computational_finance.md). Unlike traditional [value investing](../v/value_investing.md), which primarily relies on [fundamental analysis](../f/fundamental_analysis.md) to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md), X-[Value Investing](../v/value_investing.md) leverages [big data](../b/big_data_in_trading.md), machine learning, and quantitative methods to enhance decision-making processes and optimize investment returns.
+X-[Value Investing](../v/value_investing.md) is a sophisticated financial strategy that integrates the principles of [value investing](../v/value_investing.md) with the advancements of modern algorithms and [computational finance](../c/computational_finance.md). Unlike traditional [value investing](../v/value_investing.md), which primarily relies on [fundamental analysis](../f/fundamental_analysis.md) to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md), X-[Value Investing](../v/value_investing.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and quantitative methods to enhance decision-making processes and optimize investment returns.
 
 ### Core Concepts of X-Value Investing
 
@@ -45,7 +45,7 @@ Before implementing any X-[Value Investing](../v/value_investing.md) strategy, i
 Renaissance Technologies, founded by James Simons, is renowned for its Medallion [Fund](../f/fund.md), which employs [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)’s success showcases the potential of combining advanced mathematics with [financial markets](../f/financial_market.md) to achieve exceptional returns. More information can be found on their website: [Renaissance Technologies](https://www.rentec.com/).
 
 #### Two Sigma
-Two Sigma uses machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to create [trading strategies](../t/trading_strategies.md). Their approach embodies the essence of X-[Value Investing](../v/value_investing.md) by integrating cutting-edge technology with traditional investment principles. Learn more about their innovations at [Two Sigma](https://www.twosigma.com/).
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create [trading strategies](../t/trading_strategies.md). Their approach embodies the essence of X-[Value Investing](../v/value_investing.md) by integrating cutting-edge technology with traditional investment principles. Learn more about their innovations at [Two Sigma](https://www.twosigma.com/).
 
 #### D.E. Shaw & Co.
 D.E. Shaw is another paradigmatic example of a [firm](../f/firm.md) that uses algorithmic and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [outperform](../o/outperform.md) markets. Their interdisciplinary approach, combining [finance](../f/finance.md), technology, and computational science, aligns with the core tenets of X-[Value Investing](../v/value_investing.md). Visit their site for detailed insights: [D.E. Shaw](https://www.deshaw.com/).
@@ -67,7 +67,7 @@ The use of sophisticated algorithms raises ethical questions about [market](../m
 ### Future Directions in X-Value Investing
 
 #### Enhanced Machine Learning Models
-The evolution of machine learning models, including reinforcement learning and generative adversarial networks (GANs), promises to further enhance the predictive power of X-[Value Investing](../v/value_investing.md) strategies.
+The evolution of [machine learning](../m/machine_learning.md) models, including [reinforcement learning](../r/reinforcement_learning.md) and [generative adversarial networks](../g/generative_adversarial_networks.md) (GANs), promises to further enhance the predictive power of X-[Value Investing](../v/value_investing.md) strategies.
 
 #### Integration of Alternative Data
 Incorporating [alternative data](../a/alternative_data.md) sources such as geospatial data, satellite imagery, and IoT data can provide unique insights that traditional financial metrics may miss. This multi-faceted approach can identify investment opportunities with greater precision.

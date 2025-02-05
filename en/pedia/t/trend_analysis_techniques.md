@@ -100,11 +100,11 @@ Chikou Span = Close plotted 26 periods back
 
 ## Machine Learning and AI in Trend Analysis
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly used for [trend analysis](../t/trend_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). These techniques involve training algorithms on large datasets to recognize patterns and make predictions.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly used for [trend analysis](../t/trend_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). These techniques involve training algorithms on large datasets to recognize patterns and make predictions.
 
 ### Supervised Learning
 
-In supervised learning, algorithms are trained on a labeled dataset, meaning the input data is paired with output labels. Common algorithms used in [trend analysis](../t/trend_analysis.md) include:
+In [supervised learning](../s/supervised_learning.md), algorithms are trained on a labeled dataset, meaning the input data is paired with output labels. Common algorithms used in [trend analysis](../t/trend_analysis.md) include:
 
 - **[Linear Regression](../l/linear_regression.md)**: Used for predicting numerical values based on linear relationships between variables.
 - **Random Forest**: An ensemble method using [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) for classification and regression.
@@ -119,7 +119,7 @@ Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) work 
 
 ### Reinforcement Learning
 
-In reinforcement learning, an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward.
+In [reinforcement learning](../r/reinforcement_learning.md), an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward.
 
 - **[Deep Q-Learning](../d/deep_q-learning.md)**: Uses [deep learning](../d/deep_learning.md) techniques to approximate the Q-[value](../v/value.md) function, which predicts the reward of actions in given states.
 - **Policy Gradients**: Directly optimizes the policy function that maps states to actions, used in more complex decision-making problems.
@@ -134,7 +134,7 @@ In reinforcement learning, an agent learns to make decisions by taking actions i
 
 ## Conclusion
 
-[Trend analysis](../t/trend_analysis.md) techniques are indispensable tools in the arsenal of algorithmic traders. By employing moving averages, RSI, MACD, [Bollinger Bands](../b/bollinger_bands.md), [Fibonacci retracement](../f/fibonacci_retracement.md), [Dow Theory](../d/dow_theory.md), [Ichimoku Cloud](../i/ichimoku_cloud.md), and advanced methods like machine learning and [sentiment analysis](../s/sentiment_analysis.md), traders can better understand and predict [market](../m/market.md) movements. As the trading landscape evolves, the continuous advancement and integration of these techniques [will](../w/will.md) remain pivotal in achieving trading success.
+[Trend analysis](../t/trend_analysis.md) techniques are indispensable tools in the arsenal of algorithmic traders. By employing moving averages, RSI, MACD, [Bollinger Bands](../b/bollinger_bands.md), [Fibonacci retracement](../f/fibonacci_retracement.md), [Dow Theory](../d/dow_theory.md), [Ichimoku Cloud](../i/ichimoku_cloud.md), and advanced methods like [machine learning](../m/machine_learning.md) and [sentiment analysis](../s/sentiment_analysis.md), traders can better understand and predict [market](../m/market.md) movements. As the trading landscape evolves, the continuous advancement and integration of these techniques [will](../w/will.md) remain pivotal in achieving trading success.
 
 ---
 

@@ -44,7 +44,7 @@ Feature engineering involves transforming raw data into features that can be use
 
 ### 3. Model Selection
 
-Selecting an appropriate predictive model is crucial. Choices [range](../r/range.md) from simple [linear regression](../l/linear_regression.md) models to more complex algorithms such as machine learning models (e.g., Random Forest, Gradient Boosting) and [deep learning](../d/deep_learning.md) models.
+Selecting an appropriate predictive model is crucial. Choices [range](../r/range.md) from simple [linear regression](../l/linear_regression.md) models to more complex algorithms such as [machine learning](../m/machine_learning.md) models (e.g., Random Forest, Gradient Boosting) and [deep learning](../d/deep_learning.md) models.
 
 ### 4. Backtesting
 
@@ -62,7 +62,7 @@ High-frequency trading firms use predictive indicators to identify [short-term t
 
 ### 2. Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like [Two Sigma](https://www.twosigma.com) and [Renaissance Technologies](https://www.rentec.com) employ sophisticated predictive indicators and machine learning techniques to manage and optimize their portfolios.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like [Two Sigma](https://www.twosigma.com) and [Renaissance Technologies](https://www.rentec.com) employ sophisticated predictive indicators and [machine learning](../m/machine_learning.md) techniques to manage and optimize their portfolios.
 
 ### 3. Retail Trading Platforms
 

@@ -68,7 +68,7 @@ In high-frequency environments, latency (the delay before data transfer begins) 
 With increasing scrutiny from regulators, algo trading firms must ensure compliance while managing jump risks. This includes maintaining [transparency](../t/transparency.md) in [trading algorithms](../t/trading_algorithms.md) and adopting measures to prevent [market manipulation](../m/market_manipulation.md).
 
 ### 4. Machine Learning Integration
-Future developments could see more integration of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in detecting and predicting jumps. These models can process massive datasets and identify patterns that traditional statistical methods might overlook. For instance, reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt [trading strategies](../t/trading_strategies.md) dynamically based on the latest [market](../m/market.md) conditions.
+Future developments could see more integration of [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in detecting and predicting jumps. These models can process massive datasets and identify patterns that traditional statistical methods might overlook. For instance, reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt [trading strategies](../t/trading_strategies.md) dynamically based on the latest [market](../m/market.md) conditions.
 
 **Conclusion**
 --------------

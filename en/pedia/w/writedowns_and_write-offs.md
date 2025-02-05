@@ -92,7 +92,7 @@ During the 2008 [financial crisis](../f/financial_crisis.md), numerous financial
 
 Several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and [offer](../o/offer.md) solutions that help manage the complexities associated with [writedowns](../w/writedowns_in_trading.md) and [write-offs](../w/write-offs_in_trading.md). Some of these companies include:
 
-- **Two Sigma Investments**: A [firm](../f/firm.md) leveraging machine learning, distributed computing, and massive amounts of data to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
+- **Two Sigma Investments**: A [firm](../f/firm.md) leveraging [machine learning](../m/machine_learning.md), distributed computing, and massive amounts of data to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
   [Two Sigma Investments](https://www.twosigma.com/)
 - **Citadel**: A global financial institution employing algorithms for trading across various [asset](../a/asset.md) classes.
   [Citadel](https://www.citadel.com/)

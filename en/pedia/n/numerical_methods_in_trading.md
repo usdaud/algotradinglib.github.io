@@ -40,7 +40,7 @@ Numerical methods are essential for assessing and managing [risk](../r/risk.md).
 Techniques such as [Mean-Variance Optimization](../m/mean-variance_optimization.md), which seeks to maximize [return](../r/return.md) for a given [risk](../r/risk.md) level, are rooted in numerical methods. [Genetic algorithms](../g/genetic_algorithms_in_trading.md) and Monte Carlo simulations can also be applied to find optimal portfolio combinations that traditional methods may overlook.
 
 ### Machine Learning
-Modern [trading systems](../t/trading_systems.md) frequently implement machine learning models that use numerical methods for training and [optimization](../o/optimization.md). Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Neural Networks](../n/neural_networks_in_trading.md), and Regression algorithms are common in predicting [market](../m/market.md) movements and automating trades.
+Modern [trading systems](../t/trading_systems.md) frequently implement [machine learning](../m/machine_learning.md) models that use numerical methods for training and [optimization](../o/optimization.md). Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Neural Networks](../n/neural_networks_in_trading.md), and Regression algorithms are common in predicting [market](../m/market.md) movements and automating trades.
 
 ## Advanced Topics
 

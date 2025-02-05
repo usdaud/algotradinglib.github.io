@@ -42,7 +42,7 @@ For more details about Nike’s [market](../m/market.md) segmentation strategies
 ## Advanced Techniques in Market Segmentation
 
 ### Data Analytics and Machine Learning
-Modern [market](../m/market.md) segmentation often involves sophisticated [data analytics](../d/data_analytics.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md). These technologies can analyze vast amounts of data to identify patterns and segment consumers more accurately. For instance, machine learning models can predict which products are likely to appeal to specific segments based on past purchasing behaviors.
+Modern [market](../m/market.md) segmentation often involves sophisticated [data analytics](../d/data_analytics.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md). These technologies can analyze vast amounts of data to identify patterns and segment consumers more accurately. For instance, [machine learning](../m/machine_learning.md) models can predict which products are likely to appeal to specific segments based on past purchasing behaviors.
 
 ### Social Media and Sentiment Analysis
 [Social media](../s/social_media.md) platforms provide a treasure trove of data that can be used for [market](../m/market.md) segmentation. [Sentiment analysis tools](../s/sentiment_analysis_tools.md) can analyze [social media](../s/social_media.md) mentions and comments to gauge consumer sentiment and identify emerging trends. This information can help businesses stay ahead of the curve and respond to changing consumer preferences more quickly.

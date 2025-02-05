@@ -25,13 +25,13 @@ Event-triggered algorithms operate by continuously monitoring various data sourc
 Designing a successful event-triggered algorithm involves several key components:
 
 1. **Event Detection:**
-   This is the first and most critical step. Sophisticated [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques and machine learning models are employed to sift through vast amounts of unstructured data to identify relevant events. Entities, keywords, and sentiment scores are extracted to quantify the potential impact of the event.
+   This is the first and most critical step. Sophisticated [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques and [machine learning](../m/machine_learning.md) models are employed to sift through vast amounts of unstructured data to identify relevant events. Entities, keywords, and sentiment scores are extracted to quantify the potential impact of the event.
 
 2. **Impact Assessment:**
    Once an event is detected, the algorithm must quickly assess its likely impact on the [market](../m/market.md). Historical data, [market](../m/market.md) context, and economic models are often used to predict how the event [will](../w/will.md) affect [asset](../a/asset.md) prices. This requires a deep understanding of [market](../m/market.md) mechanics and the relationships between different financial instruments.
 
 3. **Decision Making:**
-   Based on the impact assessment, the algorithm decides whether to enter or exit trades, as well as the size and nature of these trades. This decision process can be rule-based or involve more complex machine learning models that continuously adapt to changing [market](../m/market.md) conditions.
+   Based on the impact assessment, the algorithm decides whether to enter or exit trades, as well as the size and nature of these trades. This decision process can be rule-based or involve more complex [machine learning](../m/machine_learning.md) models that continuously adapt to changing [market](../m/market.md) conditions.
 
 4. **[Execution](../e/execution.md):**
    Rapid [execution](../e/execution.md) is critical in event-triggered trading. Low-latency trading [infrastructure](../i/infrastructure.md) ensures that orders are placed immediately after a decision is made, minimizing the [risk](../r/risk.md) of [slippage](../s/slippage.md). Techniques such as co-location and direct [market](../m/market.md) access (DMA) are employed to achieve the fastest possible [execution](../e/execution.md) times.
@@ -86,6 +86,6 @@ Several companies specialize in developing and providing tools for event-trigger
 
 ### Future Directions
 
-The future of event-triggered algorithms lies in further enhancing data processing capabilities, incorporating more diverse data sources, and improving [predictive models](../p/predictive_models_in_trading.md). Advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning [will](../w/will.md) play a crucial role in refining these algorithms. Additionally, increasing access to [alternative data](../a/alternative_data.md) sources, such as satellite imagery and IoT data, [will](../w/will.md) [open](../o/open.md) new avenues for [event-driven trading](../e/event-driven_trading.md) strategies.
+The future of event-triggered algorithms lies in further enhancing data processing capabilities, incorporating more diverse data sources, and improving [predictive models](../p/predictive_models_in_trading.md). Advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) [will](../w/will.md) play a crucial role in refining these algorithms. Additionally, increasing access to [alternative data](../a/alternative_data.md) sources, such as satellite imagery and IoT data, [will](../w/will.md) [open](../o/open.md) new avenues for [event-driven trading](../e/event-driven_trading.md) strategies.
 
 In conclusion, event-triggered algorithms represent a sophisticated and highly dynamic approach to trading. They [leverage](../l/leverage.md) real-time data and advanced analytics to make swift, informed trading decisions, [offering](../o/offering.md) significant potential for [profit](../p/profit.md) and [risk management](../r/risk_management.md). However, they also come with their own set of challenges that require careful consideration and continuous advancement.

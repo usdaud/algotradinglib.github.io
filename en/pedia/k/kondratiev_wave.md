@@ -62,7 +62,7 @@ On the other hand, proponents of Kondratiev Waves highlight the recurring patter
 
 ### Modern Applications
 
-In the contemporary world, [algorithmic trading](../a/accountability.md) (algotrading) is an area where long-wave theories like Kondratiev Waves draw [interest](../i/interest.md). Algotrading employs complex algorithms and machine learning models to make investment decisions based on historical data, including long-wave economic patterns.
+In the contemporary world, [algorithmic trading](../a/accountability.md) (algotrading) is an area where long-wave theories like Kondratiev Waves draw [interest](../i/interest.md). Algotrading employs complex algorithms and [machine learning](../m/machine_learning.md) models to make investment decisions based on historical data, including long-wave economic patterns.
 
 ## Companies and Research Institutions Exploring Kondratiev Waves
 

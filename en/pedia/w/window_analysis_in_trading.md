@@ -75,7 +75,7 @@ Window analysis is critical in trading for several reasons:
 
 ### Future of Window Analysis in Trading
 
-With the advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), window analysis in trading is set to become more sophisticated. Developments in these fields [will](../w/will.md) enable traders to analyze larger datasets, identify complex patterns, and make more accurate predictions. Additionally, the integration of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and news analysis, [will](../w/will.md) enhance the effectiveness of window analysis in trading.
+With the advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), window analysis in trading is set to become more sophisticated. Developments in these fields [will](../w/will.md) enable traders to analyze larger datasets, identify complex patterns, and make more accurate predictions. Additionally, the integration of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and news analysis, [will](../w/will.md) enhance the effectiveness of window analysis in trading.
 
 Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of using advanced analytics and AI for trading, showcasing the potential future of window analysis in the [financial markets](../f/financial_market.md).
 

@@ -107,7 +107,7 @@ The landscape of remuneration in the [financial sector](../f/financial_sector.md
 
 ### Technological Innovation
 
-Advancements in financial technology (fintech) are influencing remuneration trends. Automated trading, AI, and machine learning are creating new high-skilled roles that require competitive compensation to attract talent.
+Advancements in financial technology (fintech) are influencing remuneration trends. Automated trading, AI, and [machine learning](../m/machine_learning.md) are creating new high-skilled roles that require competitive compensation to attract talent.
 
 ### Diversity and Inclusion
 

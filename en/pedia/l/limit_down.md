@@ -75,7 +75,7 @@ The evolution of limit down mechanisms continues as markets and technologies adv
 
 ### Fintech Innovations
 
-Financial technology companies are exploring AI and machine learning to create smarter, more dynamic circuit breakers and limit down mechanisms. These technologies can potentially [offer](../o/offer.md) real-time adjustments based on [market](../m/market.md) conditions, improving upon the static models currently in place.
+Financial technology companies are exploring AI and [machine learning](../m/machine_learning.md) to create smarter, more dynamic circuit breakers and limit down mechanisms. These technologies can potentially [offer](../o/offer.md) real-time adjustments based on [market](../m/market.md) conditions, improving upon the static models currently in place.
 
 ## Conclusion
 

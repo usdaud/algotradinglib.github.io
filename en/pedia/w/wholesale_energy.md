@@ -83,7 +83,7 @@ The rise of decentralized energy systems and microgrids allows for localized gen
 Advancements in energy storage technologies, such as batteries, are transforming the wholesale energy [market](../m/market.md). Storage solutions enable the balancing of [supply](../s/supply.md) and [demand](../d/demand.md), enhance grid stability, and support the integration of renewable energy.
 
 ### 5. Digitalization and Data Analytics
-The digitalization of energy markets, driven by [data analytics](../d/data_analytics.md) and machine learning, is revolutionizing [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) operations. Enhanced data capabilities enable better [forecasting](../f/forecasting.md), [risk management](../r/risk_management.md), and decision-making.
+The digitalization of energy markets, driven by [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), is revolutionizing [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) operations. Enhanced data capabilities enable better [forecasting](../f/forecasting.md), [risk management](../r/risk_management.md), and decision-making.
 
 ## Conclusion
 

@@ -90,7 +90,7 @@ Interpreting [market](../m/market.md) structure data and translating it into act
 ## Future Trends in Market Structure Analysis
 
 ### 1. **Artificial Intelligence and Machine Learning**
-The integration of AI and machine learning into [market](../m/market.md) structure analysis is a growing [trend](../t/trend.md). These technologies can process large datasets, identify patterns, and optimize [trading strategies](../t/trading_strategies.md) more efficiently.
+The integration of AI and [machine learning](../m/machine_learning.md) into [market](../m/market.md) structure analysis is a growing [trend](../t/trend.md). These technologies can process large datasets, identify patterns, and optimize [trading strategies](../t/trading_strategies.md) more efficiently.
 
 ### 2. **Blockchain and Distributed Ledger Technologies**
 [Blockchain](../b/blockchain_in_trading.md) and distributed ledger technologies are expected to impact [market](../m/market.md) structure by enhancing [transparency](../t/transparency.md), reducing [transaction costs](../t/transaction_costs.md), and improving [security](../s/security.md).

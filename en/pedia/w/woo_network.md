@@ -10,7 +10,7 @@ WOO Network was co-founded by Jack Tan and Mark Pimentel in 2019, both of whom h
 
 ## **Technology and Infrastructure**
 
-One of WOO Network’s key strengths is its advanced technological [infrastructure](../i/infrastructure.md). The platform employs cutting-edge algorithms and high-frequency [trading strategies](../t/trading_strategies.md) to aggregate [liquidity](../l/liquidity.md) from various sources and [offer](../o/offer.md) the best possible trading conditions for its users. The technology stack includes a combination of machine learning, [data analytics](../d/data_analytics.md), and [blockchain](../b/blockchain_in_trading.md) technology to ensure high performance, [security](../s/security.md), and [transparency](../t/transparency.md).
+One of WOO Network’s key strengths is its advanced technological [infrastructure](../i/infrastructure.md). The platform employs cutting-edge algorithms and high-frequency [trading strategies](../t/trading_strategies.md) to aggregate [liquidity](../l/liquidity.md) from various sources and [offer](../o/offer.md) the best possible trading conditions for its users. The technology stack includes a combination of [machine learning](../m/machine_learning.md), [data analytics](../d/data_analytics.md), and [blockchain](../b/blockchain_in_trading.md) technology to ensure high performance, [security](../s/security.md), and [transparency](../t/transparency.md).
 
 ## **Products and Services**
 

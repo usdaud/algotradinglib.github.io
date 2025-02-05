@@ -43,7 +43,7 @@ Modern hoarding strategies heavily rely on technology. Some of the essential too
 
 - **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md)**: Sophisticated systems such as those provided by companies like [Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/) and [QuantConnect](https://www.quantconnect.com/), which provide a comprehensive suite for developing, [backtesting](../b/backtesting.md), and executing [trading strategies](../t/trading_strategies.md).
 - **[Data Analytics](../d/data_analytics.md)**: Use of [big data](../b/big_data_in_trading.md) and advanced analytics to predict [market](../m/market.md) movements and identify accumulation opportunities.
-- **Machine Learning**: Algorithms leveraging [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to refine hoarding strategies dynamically.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms leveraging [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to refine hoarding strategies dynamically.
 - **[Execution](../e/execution.md) Management Systems (EMS)**: Platforms like [Fidessa](https://iongroup.com/marketsolutions/fidessa/) help in the optimal [execution](../e/execution.md) of hoarding strategies by integrating real-time data, advanced [order types](../o/order_types_in_trading.md), and smart routing technologies.
 
 ## Market Impact and Risks

@@ -99,7 +99,7 @@ Coordination among regulatory bodies helps ensure harmonized approaches to super
 
 ### 7.1 AI and Machine Learning
 
-With technological advancements, AI and machine learning are increasingly integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. Regulators are adapting by developing new guidelines to ensure that these systems do not exacerbate [market](../m/market.md) risks.
+With technological advancements, AI and [machine learning](../m/machine_learning.md) are increasingly integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. Regulators are adapting by developing new guidelines to ensure that these systems do not exacerbate [market](../m/market.md) risks.
 
 ### 7.2 Blockchain and DLT
 

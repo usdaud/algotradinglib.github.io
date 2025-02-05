@@ -80,7 +80,7 @@ As C2C platforms grow, they often encounter regulatory challenges. Issues relate
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) can significantly improve user experience by [offering](../o/offering.md) personalized recommendations, detecting fraudulent activities, and providing automated [customer](../c/customer.md) support.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can significantly improve user experience by [offering](../o/offering.md) personalized recommendations, detecting fraudulent activities, and providing automated [customer](../c/customer.md) support.
 
 ### Sustainability and Ethical Consumerism
 

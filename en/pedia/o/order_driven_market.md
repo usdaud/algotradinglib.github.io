@@ -96,7 +96,7 @@ The NYSE has been a prominent example of using an [order](../o/order.md) driven 
 ## Future of Order Driven Markets
 
 ### Increased Use of AI and Machine Learning
-The [incorporation](../i/incorporation.md) of AI and machine learning technologies is expected to further refine [trading algorithms](../t/trading_algorithms.md), enhancing their predictive capacities and [execution](../e/execution.md) efficiencies.
+The [incorporation](../i/incorporation.md) of AI and [machine learning](../m/machine_learning.md) technologies is expected to further refine [trading algorithms](../t/trading_algorithms.md), enhancing their predictive capacities and [execution](../e/execution.md) efficiencies.
 
 ### Regulatory Changes
 Regulatory environments continue to evolve, aiming to increase [transparency](../t/transparency.md) and fairness in [order](../o/order.md) driven markets. Regulations can have significant impacts on how these markets operate.

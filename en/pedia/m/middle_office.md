@@ -123,7 +123,7 @@ Attracting and retaining skilled professionals with the necessary combination of
 In the future, the middle office is expected to undergo several transformations:
 
 ### AI and Machine Learning
-Automation of compliance, [risk management](../r/risk_management.md), and [data analytics](../d/data_analytics.md) through AI and machine learning [will](../w/will.md) enhance the [efficiency](../e/efficiency.md) and effectiveness of the middle office.
+Automation of compliance, [risk management](../r/risk_management.md), and [data analytics](../d/data_analytics.md) through AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) enhance the [efficiency](../e/efficiency.md) and effectiveness of the middle office.
 
 ### Cloud Computing
 Adopting cloud-based solutions [will](../w/will.md) [offer](../o/offer.md) [scalability](../s/scalability.md), reduce costs, and enhance data accessibility for middle office functions.

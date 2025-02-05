@@ -73,7 +73,7 @@ JPMorgan Chase integrates term structure analysis into their [investment banking
 These models incorporate the stochastic nature of [interest](../i/interest.md) rates, providing a more intricate depiction of how term structures evolve over time. Examples include the Cox-Ingersoll-Ross (CIR) model and the Heath-Jarrow-Morton (HJM) framework.
 
 ### 2. Machine Learning and AI in Term Structure Analysis
-Recent advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are revolutionizing term structure analysis by enabling more accurate predictions and advanced [risk management](../r/risk_management.md) techniques.
+Recent advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are revolutionizing term structure analysis by enabling more accurate predictions and advanced [risk management](../r/risk_management.md) techniques.
 
 ### 3. Multivariate Term Structure Models
 These models consider [multiple](../m/multiple.md) factors affecting [interest](../i/interest.md) rates, such as macroeconomic variables and [market](../m/market.md) sentiments, to [offer](../o/offer.md) a comprehensive view of term structures.

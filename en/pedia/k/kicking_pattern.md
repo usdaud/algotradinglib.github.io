@@ -66,7 +66,7 @@ High-frequency trading (HFT) firms such as Jane Street, Citadel Securities, and 
 
 #### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and D.E. Shaw also incorporate [candlestick patterns](../c/candlestick_patterns.md) into their [trading models](../t/trading_models.md). By leveraging statistical methods and machine learning, these funds aim to predict [market](../m/market.md) movements and optimize their [trading strategies](../t/trading_strategies.md) efficiently.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and D.E. Shaw also incorporate [candlestick patterns](../c/candlestick_patterns.md) into their [trading models](../t/trading_models.md). By leveraging statistical methods and [machine learning](../m/machine_learning.md), these funds aim to predict [market](../m/market.md) movements and optimize their [trading strategies](../t/trading_strategies.md) efficiently.
 
 ### Risk Management
 

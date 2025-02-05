@@ -1,6 +1,6 @@
 # Proprietary Trading Systems
 
-[Proprietary trading](../p/proprietary_trading.md) systems, often referred to as prop [trading systems](../t/trading_systems.md), are sophisticated platforms used by financial institutions, [hedge](../h/hedge.md) funds, and individual traders to execute [proprietary trading](../p/proprietary_trading.md) strategies. These systems [offer](../o/offer.md) high-speed data analysis, [algorithmic execution](../a/algorithmic_execution.md), [real-time market data](../r/real-time_market_data.md), and often use advanced technologies such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to [gain](../g/gain.md) [market](../m/market.md) insights and execute trades.
+[Proprietary trading](../p/proprietary_trading.md) systems, often referred to as prop [trading systems](../t/trading_systems.md), are sophisticated platforms used by financial institutions, [hedge](../h/hedge.md) funds, and individual traders to execute [proprietary trading](../p/proprietary_trading.md) strategies. These systems [offer](../o/offer.md) high-speed data analysis, [algorithmic execution](../a/algorithmic_execution.md), [real-time market data](../r/real-time_market_data.md), and often use advanced technologies such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to [gain](../g/gain.md) [market](../m/market.md) insights and execute trades.
 
 ## Definition and Overview
 
@@ -10,7 +10,7 @@
 
 1. **[Market](../m/market.md) Data Feed**: [Real-time market data](../r/real-time_market_data.md) is a critical component of any [proprietary trading](../p/proprietary_trading.md) system. This includes price quotes, [trade](../t/trade.md) volumes, and other pertinent financial information obtained from various exchanges and vendors. The data feeds ensure the system has the most up-to-date [market](../m/market.md) conditions, which is essential for making informed trading decisions.
 
-2. **[Trading Algorithms](../t/trading_algorithms.md)**: At the heart of [proprietary trading](../p/proprietary_trading.md) systems are [trading algorithms](../t/trading_algorithms.md). These algorithms are mathematical programs that automatically [trade](../t/trade.md) on the [market](../m/market.md) based on predefined criteria. Algorithms can [range](../r/range.md) from simple rule-based systems to complex models incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+2. **[Trading Algorithms](../t/trading_algorithms.md)**: At the heart of [proprietary trading](../p/proprietary_trading.md) systems are [trading algorithms](../t/trading_algorithms.md). These algorithms are mathematical programs that automatically [trade](../t/trade.md) on the [market](../m/market.md) based on predefined criteria. Algorithms can [range](../r/range.md) from simple rule-based systems to complex models incorporating [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 3. **[Execution](../e/execution.md) Management Systems (EMS)**: EMS are platforms that facilitate the rapid [execution](../e/execution.md) of trading orders. These systems ensure that trades are executed promptly and accurately, minimizing [slippage](../s/slippage.md) and optimizing [order](../o/order.md) flow.
 
@@ -44,7 +44,7 @@
 
 3. **Two Sigma**:
    - **Website**: [Two Sigma](https://www.twosigma.com/)
-   - Utilizes machine learning and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Their [proprietary trading](../p/proprietary_trading.md) systems are capable of analyzing vast datasets to identify trading opportunities across various [market](../m/market.md) sectors.
+   - Utilizes [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Their [proprietary trading](../p/proprietary_trading.md) systems are capable of analyzing vast datasets to identify trading opportunities across various [market](../m/market.md) sectors.
 
 4. **Citadel Securities**:
    - **Website**: [Citadel Securities](https://www.citadelsecurities.com/)
@@ -56,7 +56,7 @@
 
 ## Technologies and Innovations
 
-1. **Machine Learning & AI**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze vast amounts of data and learn from it to improve [trading strategies](../t/trading_strategies.md). AI technologies are increasingly used for [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and optimizing [trade](../t/trade.md) [execution](../e/execution.md).
+1. **[Machine Learning](../m/machine_learning.md) & AI**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze vast amounts of data and learn from it to improve [trading strategies](../t/trading_strategies.md). AI technologies are increasingly used for [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and optimizing [trade](../t/trade.md) [execution](../e/execution.md).
 
 2. **Low-Latency Networks**: Speed is crucial in [proprietary trading](../p/proprietary_trading.md). Low-latency networks ensure that trading orders are executed as quickly as possible, giving traders an edge in the [market](../m/market.md).
 
@@ -96,5 +96,5 @@
 
 ## Conclusion
 
-[Proprietary trading](../p/proprietary_trading.md) systems represent the convergence of [finance](../f/finance.md) and technology, enabling some of the most sophisticated and high-performance [trading strategies](../t/trading_strategies.md) in the world. As technology continues to evolve, these systems [will](../w/will.md) likely become even more advanced, harnessing the power of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, [quantum computing](../q/quantum_computing_in_trading.md), and other cutting-edge technologies to navigate an increasingly complex and dynamic [market](../m/market.md) landscape.
+[Proprietary trading](../p/proprietary_trading.md) systems represent the convergence of [finance](../f/finance.md) and technology, enabling some of the most sophisticated and high-performance [trading strategies](../t/trading_strategies.md) in the world. As technology continues to evolve, these systems [will](../w/will.md) likely become even more advanced, harnessing the power of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), [quantum computing](../q/quantum_computing_in_trading.md), and other cutting-edge technologies to navigate an increasingly complex and dynamic [market](../m/market.md) landscape.
 

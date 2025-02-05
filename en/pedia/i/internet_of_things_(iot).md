@@ -54,7 +54,7 @@ This layer facilitates communication between devices and servers. It can use dif
 
 ### 3. Processing Layer
 
-This is where data from IoT devices is processed. It involves analytics, machine learning, and data storage. This layer can be implemented using edge computing, [cloud computing](../c/cloud_computing_in_trading.md), or a hybrid approach.
+This is where data from IoT devices is processed. It involves analytics, [machine learning](../m/machine_learning.md), and data storage. This layer can be implemented using edge computing, [cloud computing](../c/cloud_computing_in_trading.md), or a hybrid approach.
 
 ### 4. Application Layer
 
@@ -142,7 +142,7 @@ Ethical issues around IoT include:
 
 - **Data Ownership**: Who owns the data collected by IoT devices.
 - **Informed Consent**: Ensuring users are aware of what data is being collected and how it’s used.
-- **Bias in Machine Learning**: Ensuring that the algorithms used in IoT applications are fair and unbiased.
+- **Bias in [Machine Learning](../m/machine_learning.md)**: Ensuring that the algorithms used in IoT applications are fair and unbiased.
 
 ## Future of IoT
 
@@ -154,7 +154,7 @@ The future of IoT holds immense potential, driven by advancements in technology 
 
 ### 2. AI and Machine Learning
 
-Integrating AI and machine learning with IoT enables more sophisticated analytics, predictive maintenance, and autonomous decision-making.
+Integrating AI and [machine learning](../m/machine_learning.md) with IoT enables more sophisticated analytics, predictive maintenance, and autonomous decision-making.
 
 ### 3. Blockchain
 

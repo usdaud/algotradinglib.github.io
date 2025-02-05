@@ -55,7 +55,7 @@ By examining historical [trade](../t/trade.md) data, patterns indicative of spoo
 
 ### Machine Learning
 
-Machine learning techniques are also used to detect and predict spoofing activities. By training models on identified spoofing cases, machine learning can help in recognizing new spoofing attempts in real-time.
+[Machine learning](../m/machine_learning.md) techniques are also used to detect and predict spoofing activities. By training models on identified spoofing cases, [machine learning](../m/machine_learning.md) can help in recognizing new spoofing attempts in real-time.
 
 ## Technological Considerations
 

@@ -1,6 +1,6 @@
 # Gaussian Processes
 
-Gaussian Processes (GPs) are a powerful statistical tool that has gained significant popularity in machine learning and [data science](../d/data_science_in_trading.md). They [offer](../o/offer.md) a flexible, non-parametric approach to modeling and predicting data. In the context of [algorithmic trading](../a/algorithmic_trading.md), GPs can be particularly useful for predicting [asset](../a/asset.md) prices, [volatility](../v/volatility.md) surfaces, and other financial metrics, which are often complex and noisy. This document delves into the mathematical foundations of Gaussian Processes, their implementation, and their application in [algorithmic trading](../a/algorithmic_trading.md).
+Gaussian Processes (GPs) are a powerful statistical tool that has gained significant popularity in [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md). They [offer](../o/offer.md) a flexible, non-parametric approach to modeling and predicting data. In the context of [algorithmic trading](../a/algorithmic_trading.md), GPs can be particularly useful for predicting [asset](../a/asset.md) prices, [volatility](../v/volatility.md) surfaces, and other financial metrics, which are often complex and noisy. This document delves into the mathematical foundations of Gaussian Processes, their implementation, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Mathematical Foundations of Gaussian Processes
 
@@ -36,9 +36,9 @@ The performance of GPs heavily relies on the choice of kernel and its hyperparam
 
 Many libraries facilitate the implementation of GPs, including:
 
-- **scikit-learn**: A machine learning library for Python that provides a simple API.
-- **GPy**: A Gaussian Process library by the Sheffield machine learning group.
-- **GPflow**: A GP library built on TensorFlow, emphasizing [scalability](../s/scalability.md) and flexibility.
+- **scikit-learn**: A [machine learning](../m/machine_learning.md) library for Python that provides a simple API.
+- **GPy**: A Gaussian Process library by the Sheffield [machine learning](../m/machine_learning.md) group.
+- **GPflow**: A GP library built on [TensorFlow](../t/tensorflow.md), emphasizing [scalability](../s/scalability.md) and flexibility.
 
 Below is an example of how to implement GP regression using scikit-learn:
 

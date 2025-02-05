@@ -56,7 +56,7 @@ LFT strategies generally involve holding positions for longer durations, which c
 
 ## Role of Technology
 
-While LFT does not rely on the ultra-fast [execution](../e/execution.md) technologies necessary for HFT, it nonetheless benefits from advancements in computing power, [data analytics](../d/data_analytics.md), machine learning, and algorithm development. Technologies such as [cloud computing](../c/cloud_computing_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) enable LFT traders to process vast amounts of data and develop more sophisticated [trading models](../t/trading_models.md).
+While LFT does not rely on the ultra-fast [execution](../e/execution.md) technologies necessary for HFT, it nonetheless benefits from advancements in computing power, [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and algorithm development. Technologies such as [cloud computing](../c/cloud_computing_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) enable LFT traders to process vast amounts of data and develop more sophisticated [trading models](../t/trading_models.md).
 
 ### Importance of Backtesting
 

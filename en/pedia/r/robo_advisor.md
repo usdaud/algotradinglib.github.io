@@ -71,7 +71,7 @@ Robo advisors generally specialize in [investment management](../i/investment_ma
 
 ### Integration with AI and Machine Learning
 
-As technology evolves, we can expect robo advisors to increasingly integrate [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning. These advancements [will](../w/will.md) enable more nuanced [financial planning](../f/financial_planning.md), improved [risk](../r/risk.md) assessment, and refined investment strategies.
+As technology evolves, we can expect robo advisors to increasingly integrate [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md). These advancements [will](../w/will.md) enable more nuanced [financial planning](../f/financial_planning.md), improved [risk](../r/risk.md) assessment, and refined investment strategies.
 
 ### Broader Financial Services
 

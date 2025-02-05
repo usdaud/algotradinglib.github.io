@@ -48,7 +48,7 @@ Several financial firms and [hedge](../h/hedge.md) funds utilize quantitative [v
    - [AQR Capital Management](https://www.aqr.com/)
 
 2. **Two Sigma**:
-   - Uses machine learning and large-scale data analysis to identify inefficiencies in the [market](../m/market.md).
+   - Uses [machine learning](../m/machine_learning.md) and large-scale data analysis to identify inefficiencies in the [market](../m/market.md).
    - [Two Sigma](https://www.twosigma.com/)
 
 3. **D.E. Shaw & Co.**:
@@ -88,8 +88,8 @@ Several financial firms and [hedge](../h/hedge.md) funds utilize quantitative [v
 1. **Integration of [Alternative Data](../a/alternative_data.md)**:
    The use of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and [credit card](../c/credit_card.md) transactions, is becoming more prevalent. These data sources can provide additional insights and improve model accuracy.
 
-2. **Machine Learning and AI**:
-   Advances in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are enabling the development of more complex models that can adapt and learn from new data. These technologies can uncover non-linear relationships and improve prediction accuracy.
+2. **[Machine Learning](../m/machine_learning.md) and AI**:
+   Advances in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are enabling the development of more complex models that can adapt and learn from new data. These technologies can uncover non-linear relationships and improve prediction accuracy.
 
 3. **Customization and Flexibility**:
    New tools and platforms are allowing investors to create customized [quantitative models](../q/quantitative_models.md) tailored to their specific investment goals and [risk profiles](../r/risk_profiles.md), providing greater personalization in investment strategies.

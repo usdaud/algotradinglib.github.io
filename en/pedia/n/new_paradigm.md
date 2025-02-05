@@ -10,7 +10,7 @@ In recent years, the [finance](../f/finance.md) sector has been profoundly influ
 
 ### Components of Algorithmic Trading
 
-1. **Algorithms**: These are essentially complex mathematical equations and instructions that determine when a particular [trade](../t/trade.md) should be made. Algorithms can [range](../r/range.md) from simple binary operations to sophisticated machine learning models.
+1. **Algorithms**: These are essentially complex mathematical equations and instructions that determine when a particular [trade](../t/trade.md) should be made. Algorithms can [range](../r/range.md) from simple binary operations to sophisticated [machine learning](../m/machine_learning.md) models.
    
 2. **High-Frequency Trading (HFT)**: HFT is a subset of [algorithmic trading](../a/accountability.md) where large volumes of trades are executed at extremely high speeds. The goal is to [capitalize](../c/capitalize.md) on small price discrepancies in very short time frames.
    
@@ -18,7 +18,7 @@ In recent years, the [finance](../f/finance.md) sector has been profoundly influ
    
 4. **Statistical [Arbitrage](../a/arbitrage.md)**: This relies on [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit price inefficiencies between related financial instruments.
    
-5. **Machine Learning in Algo-Trading**: [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) models are increasingly being used to detect [trading signals](../t/trading_signals.md) from historical data and news events.
+5. **[Machine Learning](../m/machine_learning.md) in Algo-Trading**: [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) models are increasingly being used to detect [trading signals](../t/trading_signals.md) from historical data and news events.
 
 ### Benefits of Algorithmic Trading
 
@@ -75,7 +75,7 @@ FinTech refers to the integration of technology into offerings by financial serv
 
 ## Integration of Algorithmic Trading with FinTech
 
-The synergies between [algorithmic trading](../a/accountability.md) and FinTech are evident. Innovations in AI, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) are feeding directly into the capabilities of [trading algorithms](../t/trading_algorithms.md). 
+The synergies between [algorithmic trading](../a/accountability.md) and FinTech are evident. Innovations in AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are feeding directly into the capabilities of [trading algorithms](../t/trading_algorithms.md). 
 
 ### Use Cases
 

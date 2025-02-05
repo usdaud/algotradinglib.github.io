@@ -148,7 +148,7 @@ Advancements in technology and the rise of [InsurTech](../i/insurtech.md) have b
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are being integrated into [insurance](../i/insurance.md) operations to predict [premium](../p/premium.md) trends, identify [fraud](../f/fraud.md), and streamline [premium](../p/premium.md) calculations. These technologies [offer](../o/offer.md) [predictive analytics](../p/predictive_analytics.md) capabilities, enhancing the accuracy of earned [premium](../p/premium.md) projections.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are being integrated into [insurance](../i/insurance.md) operations to predict [premium](../p/premium.md) trends, identify [fraud](../f/fraud.md), and streamline [premium](../p/premium.md) calculations. These technologies [offer](../o/offer.md) [predictive analytics](../p/predictive_analytics.md) capabilities, enhancing the accuracy of earned [premium](../p/premium.md) projections.
 
 ### Blockchain Technology
 

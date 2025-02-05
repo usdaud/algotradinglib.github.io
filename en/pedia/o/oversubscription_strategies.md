@@ -72,7 +72,7 @@ Renaissance Technologies, famous for its Medallion [Fund](../f/fund.md), uses in
 ### Future Trends
 
 The rapidly evolving landscape of [algorithmic trading](../a/algorithmic_trading.md) and [market dynamics](../m/market_dynamics.md) suggests several future trends:
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and ML can predict oversubscription events and dynamically adjust strategies.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI and ML can predict oversubscription events and dynamically adjust strategies.
 - **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md)**: Enhanced [transparency](../t/transparency.md) and decentralized networks could mitigate some oversubscription challenges.
 - **Regulatory Evolution**: Ongoing changes in financial regulations [will](../w/will.md) continue to shape and refine oversubscription strategies.
 

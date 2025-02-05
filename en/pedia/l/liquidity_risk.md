@@ -60,7 +60,7 @@ Advancements in technology and [data analytics](../d/data_analytics.md) play a c
   
 - **[Real-time Data Analysis](../r/real-time_data_analysis.md)**: Algorithms [leverage](../l/leverage.md) real-time data to gauge [market](../m/market.md) conditions and adjust [trading strategies](../t/trading_strategies.md) on the fly.
   
-- **Machine Learning (ML)**: ML models can predict [liquidity](../l/liquidity.md) conditions based on historical data and current [market](../m/market.md) trends, enabling more informed decision-making.
+- **[Machine Learning](../m/machine_learning.md) (ML)**: ML models can predict [liquidity](../l/liquidity.md) conditions based on historical data and current [market](../m/market.md) trends, enabling more informed decision-making.
 
 ## Case Study: Flash Crash of 2010
 

@@ -1,6 +1,6 @@
 # Gazelle Company
 
-Gazelle is a pioneering technology and financial services company that specializes in the use of advanced algorithms and cutting-edge technology to execute [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md). Since its inception, Gazelle has been at the forefront of the [algorithmic trading](../a/accountability.md) [industry](../i/industry.md), leveraging the power of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data](../b/big_data_in_trading.md) to [gain](../g/gain.md) a competitive edge and deliver superior [trading performance](../t/trading_performance.md). 
+Gazelle is a pioneering technology and financial services company that specializes in the use of advanced algorithms and cutting-edge technology to execute [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md). Since its inception, Gazelle has been at the forefront of the [algorithmic trading](../a/accountability.md) [industry](../i/industry.md), leveraging the power of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data](../b/big_data_in_trading.md) to [gain](../g/gain.md) a competitive edge and deliver superior [trading performance](../t/trading_performance.md). 
 
 ## History and Background
 
@@ -15,7 +15,7 @@ Gazelle's technological backbone is built on a blend of custom software, high-sp
 Gazelle employs a team of quantitative analysts and data scientists who develop sophisticated [trading algorithms](../t/trading_algorithms.md). These algorithms are designed to identify and exploit [market](../m/market.md) inefficiencies, predict price movements, and execute trades with precision. The development process typically involves:
 
 - **Data Collection:** Gathering historical and real-time data from various [financial markets](../f/financial_market.md).
-- **Data Analysis:** Using statistical techniques and machine learning models to analyze data and identify patterns.
+- **Data Analysis:** Using statistical techniques and [machine learning](../m/machine_learning.md) models to analyze data and identify patterns.
 - **[Backtesting](../b/backtesting.md):** Testing algorithms on historical data to evaluate their performance.
 - **[Optimization](../o/optimization.md):** Refining algorithms to improve their accuracy and [efficiency](../e/efficiency.md).
 
@@ -29,7 +29,7 @@ High-Frequency Trading is a key component of Gazelle's strategy. HFT involves ex
 
 ### Machine Learning and AI
 
-Gazelle utilizes machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance its [trading strategies](../t/trading_strategies.md). By applying these technologies, the company can:
+Gazelle utilizes [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance its [trading strategies](../t/trading_strategies.md). By applying these technologies, the company can:
 
 - **Predict [Market](../m/market.md) Movements:** Use [predictive models](../p/predictive_models_in_trading.md) to forecast future price changes.
 - **Optimize Portfolios:** Automatically adjust portfolios to maximize returns and minimize risks.

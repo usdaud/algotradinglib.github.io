@@ -45,11 +45,11 @@ Calculating deciles provides a granular understanding of data [distribution](../
 
 ## Deciles in Machine Learning and Data Science
 
-In machine learning and [data science](../d/data_science_in_trading.md), deciles can be used for feature scaling, classifying datasets into different [risk](../r/risk.md) levels, and more. When dealing with large datasets, deciles help in understanding the subsets of data and can be used in preprocessing steps to improve the learning process of models.
+In [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md), deciles can be used for feature scaling, classifying datasets into different [risk](../r/risk.md) levels, and more. When dealing with large datasets, deciles help in understanding the subsets of data and can be used in preprocessing steps to improve the learning process of models.
 
 ### Deciles in Feature Scaling
 
-Consider a scenario where a dataset has highly skewed features. Applying deciles can transform these features into a more [uniform distribution](../u/uniform_distribution.md). This ensures that machine learning models are not biased towards any particular [range](../r/range.md) of values.
+Consider a scenario where a dataset has highly skewed features. Applying deciles can transform these features into a more [uniform distribution](../u/uniform_distribution.md). This ensures that [machine learning](../m/machine_learning.md) models are not biased towards any particular [range](../r/range.md) of values.
 
 ### Risk Stratification
 
@@ -57,4 +57,4 @@ In [risk management](../r/risk_management.md), deciles can classify data into di
 
 ## Conclusion
 
-Deciles [offer](../o/offer.md) a valuable means to understand, analyze, and visualize the [distribution](../d/distribution.md) within datasets. They find extensive applications across various fields, from [finance](../f/finance.md) to machine learning, providing insights that are critical for informed decision-making. By dividing data into 10% segments, deciles make complex datasets more comprehensible and actionable. Whether assessing [market](../m/market.md) performance, analyzing [income](../i/income.md) [distribution](../d/distribution.md), or enhancing data preprocessing in machine learning, deciles stand out as a practical and powerful tool for data analysis.
+Deciles [offer](../o/offer.md) a valuable means to understand, analyze, and visualize the [distribution](../d/distribution.md) within datasets. They find extensive applications across various fields, from [finance](../f/finance.md) to [machine learning](../m/machine_learning.md), providing insights that are critical for informed decision-making. By dividing data into 10% segments, deciles make complex datasets more comprehensible and actionable. Whether assessing [market](../m/market.md) performance, analyzing [income](../i/income.md) [distribution](../d/distribution.md), or enhancing data preprocessing in [machine learning](../m/machine_learning.md), deciles stand out as a practical and powerful tool for data analysis.

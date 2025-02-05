@@ -1,7 +1,7 @@
 # Maximum Entropy Methods
 
 ## Overview
-The Maximum Entropy Principle is a fundamental concept in [probability theory](../p/probability_theory_in_trading.md), [statistics](../s/statistics.md), and machine learning. Initially proposed by E.T. Jaynes in the 1950s, it provides a method for deriving [probability distributions](../p/probability_distributions_in_trading.md) under conditions of incomplete information. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Maximum Entropy Principle can be applied to create models that make the least biased predictions, thereby helping to manage [uncertainty](../u/uncertainty_in_trading.md) and make better-informed trading decisions.
+The Maximum Entropy Principle is a fundamental concept in [probability theory](../p/probability_theory_in_trading.md), [statistics](../s/statistics.md), and [machine learning](../m/machine_learning.md). Initially proposed by E.T. Jaynes in the 1950s, it provides a method for deriving [probability distributions](../p/probability_distributions_in_trading.md) under conditions of incomplete information. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Maximum Entropy Principle can be applied to create models that make the least biased predictions, thereby helping to manage [uncertainty](../u/uncertainty_in_trading.md) and make better-informed trading decisions.
 
 ## Theoretical Foundation
 ### Entropy in Information Theory

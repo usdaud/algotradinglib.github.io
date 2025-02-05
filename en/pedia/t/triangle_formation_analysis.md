@@ -90,7 +90,7 @@ data.plot(x='Date', y=['Price', 'Upper_Trend', 'Lower_Trend'])
 
 ### Advanced Pattern Recognition
 Algorithms may use more advanced techniques for [pattern recognition](../p/pattern_recognition.md), including:
-- **Machine Learning Models:** To train models on historical data for more accurate pattern detection.
+- **[Machine Learning](../m/machine_learning.md) Models:** To train models on historical data for more accurate pattern detection.
 - **[Deep Learning](../d/deep_learning.md):** [Neural networks](../n/neural_networks_in_trading.md) can recognize more complex patterns and relationships in trading data.
 
 *Example*:
@@ -151,4 +151,4 @@ Several companies specialize in providing tools and platforms for algo-trading w
 - **[TradeStation](../t/tradestation.md):** Integrated trading and analysis platform https://www.[tradestation](../t/tradestation.md).com
 
 ## Conclusion
-[Triangle](../t/triangle.md) formations are pivotal in [technical analysis](../t/technical_analysis.md) and algo-trading. Understanding symmetrical, ascending, and descending triangles equips traders with the tools necessary for predicting price movements with higher accuracy. By integrating advanced algorithms and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies, traders can effectively exploit these patterns, maximizing their [trading performance](../t/trading_performance.md). Furthermore, evolving technologies such as machine learning and [deep learning](../d/deep_learning.md) present exciting opportunities for enhancements in detecting and trading [triangle](../t/triangle.md) formations.
+[Triangle](../t/triangle.md) formations are pivotal in [technical analysis](../t/technical_analysis.md) and algo-trading. Understanding symmetrical, ascending, and descending triangles equips traders with the tools necessary for predicting price movements with higher accuracy. By integrating advanced algorithms and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies, traders can effectively exploit these patterns, maximizing their [trading performance](../t/trading_performance.md). Furthermore, evolving technologies such as [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md) present exciting opportunities for enhancements in detecting and trading [triangle](../t/triangle.md) formations.

@@ -1,6 +1,6 @@
 # Long Short-Term Memory (LSTM) Neural Networks
 
-Long Short-Term Memory (LSTM) [neural networks](../n/neural_networks_in_trading.md) are a type of recurrent neural network (RNN) that are capable of learning long-term dependencies. They were introduced by Hochreiter and Schmidhuber in 1997, and have since been refined and popularized, especially in applications where sequential data is prevalent. LSTMs are particularly effective for [time series](../t/time_series.md) prediction, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), speech recognition, and many other tasks involving sequential data. This detailed exploration provides an in-depth analysis of LSTM [neural networks](../n/neural_networks_in_trading.md), covering their architecture, functionality, variations, applications, and more.
+Long Short-Term Memory (LSTM) [neural networks](../n/neural_networks_in_trading.md) are a type of recurrent neural network (RNN) that are capable of learning long-term dependencies. They were introduced by Hochreiter and Schmidhuber in 1997, and have since been refined and popularized, especially in applications where sequential data is prevalent. LSTMs are particularly effective for [time series](../t/time_series.md) prediction, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), [speech recognition](../s/speech_recognition.md), and many other tasks involving sequential data. This detailed exploration provides an in-depth analysis of LSTM [neural networks](../n/neural_networks_in_trading.md), covering their architecture, functionality, variations, applications, and more.
 
 ### Architecture of LSTMs
 
@@ -80,7 +80,7 @@ LSTM networks have shown remarkable performance across diverse domains:
 
 2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Applications [range](../r/range.md) from language modeling, machine translation, to text summarization. Companies like [Google](https://ai.google/research/) and [OpenAI](https://www.openai.com/) utilize LSTM networks for various NLP tasks.
 
-3. **Speech Recognition**: LSTM networks are foundational in transforming speech to text accurately, used by products like Google's Voice Assistant and Apple's Siri.
+3. **[Speech Recognition](../s/speech_recognition.md)**: LSTM networks are foundational in transforming speech to text accurately, used by products like Google's Voice Assistant and Apple's Siri.
 
 4. **[Anomaly Detection](../a/anomaly_detection.md)**: In cybersecurity and fault detection in industrial systems, where identifying abnormal patterns in sequences is crucial. Companies like [Darktrace](https://www.darktrace.com/) apply LSTMs for these purposes.
 
@@ -88,7 +88,7 @@ LSTM networks have shown remarkable performance across diverse domains:
 
 ### Conclusion
 
-Long Short-Term Memory (LSTM) [neural networks](../n/neural_networks_in_trading.md) mark a significant advancement in the field of machine learning, especially for tasks involving sequential data. Their ability to retain long-term dependencies, characterized by complex architectures with various gates and states, makes them powerful and versatile models. With continuous advancements and new variations, LSTMs continue to drive innovations across [multiple](../m/multiple.md) industries, proving to be indispensable tools in modern [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+Long Short-Term Memory (LSTM) [neural networks](../n/neural_networks_in_trading.md) mark a significant advancement in the field of [machine learning](../m/machine_learning.md), especially for tasks involving sequential data. Their ability to retain long-term dependencies, characterized by complex architectures with various gates and states, makes them powerful and versatile models. With continuous advancements and new variations, LSTMs continue to drive innovations across [multiple](../m/multiple.md) industries, proving to be indispensable tools in modern [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 For more information, explore:
 - [Numerai](https://numer.ai/)

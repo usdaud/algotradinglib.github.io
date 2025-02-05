@@ -59,7 +59,7 @@ Some [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) ai
 ## Future Trends
 
 ### Machine Learning
-The integration of machine learning techniques is becoming increasingly common in [algorithmic trading](../a/accountability.md). These algorithms can analyze complex [supply](../s/supply.md) and [demand](../d/demand.md) patterns and adapt their [trading strategies](../t/trading_strategies.md) in real-time.
+The integration of [machine learning](../m/machine_learning.md) techniques is becoming increasingly common in [algorithmic trading](../a/accountability.md). These algorithms can analyze complex [supply](../s/supply.md) and [demand](../d/demand.md) patterns and adapt their [trading strategies](../t/trading_strategies.md) in real-time.
 
 ### Blockchain and Cryptocurrencies
 The rise of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has introduced new dynamics into the [supply](../s/supply.md) and [demand](../d/demand.md) equation. Algorithmic traders are now developing strategies specifically tailored to the unique characteristics of these digital assets.

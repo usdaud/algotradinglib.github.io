@@ -3,14 +3,14 @@
 In the context of [algorithmic trading](../a/accountability.md), "degrees of freedom" refers to the number of parameters or inputs that can be adjusted within a trading model or strategy. The concept is derived from [statistics](../s/statistics.md) and is crucial for understanding the flexibility and robustness of a trading algorithm. In simpler terms, degrees of freedom represent the amount of independent information available to the model for making predictions or decisions. This concept is foundational for ensuring that the models are optimized and not overfitted, thus maintaining their performance out-of-sample.
 
 ## Understanding Degrees of Freedom in Algo Trading 
-In statistical modeling and machine learning, degrees of freedom (DOF) are often defined as the number of values in the final calculation of a statistic that are free to vary. For example, if you have a sample size of `n`, and you compute the mean of the sample, then you have `n-1` degrees of freedom for estimating the variance. The concept translates similarly in [algorithmic trading](../a/accountability.md).
+In statistical modeling and [machine learning](../m/machine_learning.md), degrees of freedom (DOF) are often defined as the number of values in the final calculation of a statistic that are free to vary. For example, if you have a sample size of `n`, and you compute the mean of the sample, then you have `n-1` degrees of freedom for estimating the variance. The concept translates similarly in [algorithmic trading](../a/accountability.md).
 
 Algo trading involves designing strategies using various [forecasting models](../f/forecasting_models.md), mathematical rigor, and advanced computational power. When developing a strategy, [multiple](../m/multiple.md) parameters such as entry and exit points, [stop-loss orders](../s/stop-loss_orders.md), moving averages, and other [technical indicators](../t/technical_indicator.md) can be tuned. Each parameter adds a degree of freedom to the model. The more degrees of freedom a model has, the more it can potentially fit the historical data. However, this also increases the [risk](../r/risk.md) of [overfitting](../o/overfitting.md), where the model becomes too tailored to the past data and fails to generalize well on unseen data.
 
 ### Types of Degrees of Freedom
 
 1. **Predictor Variables**: These include the independent variables or factors used in a model, like price, [volume](../v/volume.md), time of day, etc.
-2. **Model Parameters**: These can be constants, coefficients, or weights in machine learning models or statistical functions.
+2. **Model Parameters**: These can be constants, coefficients, or weights in [machine learning](../m/machine_learning.md) models or statistical functions.
 3. **Constraints**: These are additional rules or limitations imposed on the model to control the system's behavior.
 
 ### Why Degrees of Freedom Matter
@@ -30,7 +30,7 @@ Degrees of freedom also impact [risk management](../r/risk_management.md) strate
 ## Real-World Application in Algorithmic Trading
 
 ### Feature Selection
-One of the primary areas where degrees of freedom play a crucial role is in feature selection. In machine learning models used for [algorithmic trading](../a/accountability.md), selecting the right features (predictor variables) is crucial. A model with too many features can become computationally expensive and [risk](../r/risk.md) [overfitting](../o/overfitting.md), while too few features can lead to poor performance.
+One of the primary areas where degrees of freedom play a crucial role is in feature selection. In [machine learning](../m/machine_learning.md) models used for [algorithmic trading](../a/accountability.md), selecting the right features (predictor variables) is crucial. A model with too many features can become computationally expensive and [risk](../r/risk.md) [overfitting](../o/overfitting.md), while too few features can lead to poor performance.
 
 ### Backtesting and Forward Testing
 [Backtesting](../b/backtesting.md) involves testing the trading model on historical data to assess its performance. The degrees of freedom in the model should be carefully managed during [backtesting](../b/backtesting.md) to avoid fitting the historical data too closely. Forward testing, or [out-of-sample testing](../o/out-of-sample_testing.md), helps in ensuring that the model generalizes well to new data, providing a more accurate measure of its performance.

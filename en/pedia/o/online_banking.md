@@ -23,7 +23,7 @@ Online banking employs several [security](../s/security.md) measures to ensure t
 2. **Two-[Factor](../f/factor.md) Authentication**: Requiring two forms of identification, such as a password and a text message code.
 3. **Biometric Authentication**: Implementing advanced methods like fingerprint or facial recognition to enhance [security](../s/security.md).
 4. **[Security](../s/security.md) Tokens**: Providing physical tokens or mobile applications that generate single-use passwords for high-[risk](../r/risk.md) transactions.
-5. **[Fraud](../f/fraud.md) Detection Systems**: Using machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to monitor and identify suspicious activities.
+5. **[Fraud](../f/fraud.md) Detection Systems**: Using [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to monitor and identify suspicious activities.
 
 ## Benefits of Online Banking
 

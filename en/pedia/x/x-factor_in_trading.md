@@ -32,7 +32,7 @@ Renaissance Technologies, founded by Jim Simons, is a prime example of a [firm](
 
 #### Two Sigma
 
-Two Sigma is another notable [firm](../f/firm.md) leveraging its X-[Factor](../f/factor.md) in [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) utilizes [big data](../b/big_data_in_trading.md), machine learning, and distributed computing to develop and implement [trading strategies](../t/trading_strategies.md). Their approach integrates a variety of data sources and advanced analytical techniques, providing them with a competitive edge. Additional details about Two Sigma can be found on [their website](https://www.twosigma.com).
+Two Sigma is another notable [firm](../f/firm.md) leveraging its X-[Factor](../f/factor.md) in [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) utilizes [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop and implement [trading strategies](../t/trading_strategies.md). Their approach integrates a variety of data sources and advanced analytical techniques, providing them with a competitive edge. Additional details about Two Sigma can be found on [their website](https://www.twosigma.com).
 
 ### Challenges and Considerations
 
@@ -58,7 +58,7 @@ Maintaining a [robust](../r/robust.md) technological [infrastructure](../i/infra
 
 #### 1. Artificial Intelligence and Machine Learning
 
-The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow significantly. These technologies enable the development of more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md) that can learn from historical data and improve performance over time. AI and ML can also enhance the ability to identify complex patterns and trends that may not be apparent through traditional analytical methods.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow significantly. These technologies enable the development of more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md) that can learn from historical data and improve performance over time. AI and ML can also enhance the ability to identify complex patterns and trends that may not be apparent through traditional analytical methods.
 
 #### 2. Quantum Computing
 

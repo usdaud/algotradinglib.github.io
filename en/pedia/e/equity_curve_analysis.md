@@ -108,7 +108,7 @@ To illustrate the principles and benefits of [equity](../e/equity.md) curve anal
    - Developing meta-strategies that [trade](../t/trade.md) based on the performance of the primary strategy’s [equity](../e/equity.md) curve.
 
 4. **[Forecasting](../f/forecasting.md) [Equity](../e/equity.md) Curves**:
-   - Applying machine learning models to predict future performance and potential [drawdown](../d/drawdown.md) periods.
+   - Applying [machine learning](../m/machine_learning.md) models to predict future performance and potential [drawdown](../d/drawdown.md) periods.
 
 ### Conclusion
 

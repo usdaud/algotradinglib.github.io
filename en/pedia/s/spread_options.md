@@ -48,7 +48,7 @@ Monte Carlo simulations provide a versatile approach, generating numerous scenar
 
 ### Machine Learning Algorithms
 
-As the [financial markets](../f/financial_market.md) continue to evolve, machine learning models such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) have started playing a pivotal role in predicting price differentials and optimizing spread option strategies.
+As the [financial markets](../f/financial_market.md) continue to evolve, [machine learning](../m/machine_learning.md) models such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) have started playing a pivotal role in predicting price differentials and optimizing spread option strategies.
 
 ## Applications in Algorithmic Trading
 

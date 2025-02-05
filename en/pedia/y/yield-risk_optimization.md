@@ -29,7 +29,7 @@ Modern Portfolio Theory (MPT), introduced by [Harry Markowitz](../h/harry_markow
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploits pricing inefficiencies between correlated securities.
 - **[Momentum Trading](../m/momentum_trading.md)**: Capitalizes on trends in price movements.
 - **[Mean Reversion](../m/mean_reversion.md)**: Assumes that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical means.
-- **Machine Learning**: Utilizes algorithms capable of learning and improving from historical data to predict future price movements.
+- **[Machine Learning](../m/machine_learning.md)**: Utilizes algorithms capable of learning and improving from historical data to predict future price movements.
 
 ### 6. Optimization Algorithms
 

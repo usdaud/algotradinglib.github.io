@@ -1,6 +1,6 @@
 # RegTech
 
-Regulatory Technology, commonly known as RegTech, refers to the utilization of innovative information technology to enhance regulatory processes. This includes monitoring, reporting, and compliance, with the emphasis on streamlining these processes in the [financial sector](../f/financial_sector.md). RegTech focuses on making regulatory compliance more efficient and cost-effective through automation, machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data](../b/big_data_in_trading.md).
+Regulatory Technology, commonly known as RegTech, refers to the utilization of innovative information technology to enhance regulatory processes. This includes monitoring, reporting, and compliance, with the emphasis on streamlining these processes in the [financial sector](../f/financial_sector.md). RegTech focuses on making regulatory compliance more efficient and cost-effective through automation, [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data](../b/big_data_in_trading.md).
 
 ## The Evolution of RegTech
 
@@ -107,10 +107,10 @@ Chainalysis specializes in [blockchain](../b/blockchain_in_trading.md) analytics
 
 ## Future of RegTech
 
-The future of RegTech is closely linked with advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [blockchain](../b/blockchain_in_trading.md) technologies. The continuous evolution of these technologies promises even more efficient, effective, and [robust](../r/robust.md) compliance solutions.
+The future of RegTech is closely linked with advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technologies. The continuous evolution of these technologies promises even more efficient, effective, and [robust](../r/robust.md) compliance solutions.
 
 ### Emphasis on AI and Machine Learning
-AI and machine learning [will](../w/will.md) likely play an increasing role in [predictive analytics](../p/predictive_analytics.md), real-time monitoring, and automated decision-making processes.
+AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) likely play an increasing role in [predictive analytics](../p/predictive_analytics.md), real-time monitoring, and automated decision-making processes.
 
 ### Adoption of Blockchain
 [Blockchain](../b/blockchain_in_trading.md)'s inherent [transparency](../t/transparency.md) and [security](../s/security.md) features make it an excellent fit for regulatory compliance, [offering](../o/offering.md) verifiable and immutable [transaction](../t/transaction.md) histories.

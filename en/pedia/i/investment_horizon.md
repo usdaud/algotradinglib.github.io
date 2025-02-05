@@ -53,7 +53,7 @@ High-Frequency Trading represents the epitome of short-term investment horizons.
 Medium-frequency traders might [hold](../h/hold.md) positions from several minutes to several days. These strategies often employ [technical analysis](../t/technical_analysis.md) and various models to predict [market](../m/market.md) movements over a slightly longer frame than their high-frequency counterparts.
 
 ### Long-Term Algorithmic Strategies
-Long-term algo [trading strategies](../t/trading_strategies.md) involve holding positions for extended periods, even up to several years. These algorithms might [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), machine learning, and other sophisticated techniques to predict long-term trends.
+Long-term algo [trading strategies](../t/trading_strategies.md) involve holding positions for extended periods, even up to several years. These algorithms might [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and other sophisticated techniques to predict long-term trends.
 
 ## Companies in Algorithmic Trading
 

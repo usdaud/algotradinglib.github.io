@@ -72,7 +72,7 @@ Algorithms can dynamically adjust limit prices based on real-time data, optimizi
 
 ### Machine Learning
 
-Machine learning models enhance [limit order](../l/limit_order.md) strategies by predicting short-term price movements. Techniques like reinforcement learning and [neural networks](../n/neural_networks_in_trading.md) optimize [order](../o/order.md) placement decisions.
+[Machine learning](../m/machine_learning.md) models enhance [limit order](../l/limit_order.md) strategies by predicting short-term price movements. Techniques like [reinforcement learning](../r/reinforcement_learning.md) and [neural networks](../n/neural_networks_in_trading.md) optimize [order](../o/order.md) placement decisions.
 
 ### High-Frequency Trading (HFT)
 

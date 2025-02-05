@@ -55,7 +55,7 @@ Canadian financial institutions are regulated by the Financial Consumer Agency o
 Banks are increasingly [offering](../o/offering.md) real-time balance updates via mobile apps and [online banking](../o/online_banking.md), helping customers stay informed about their account status and avoid NSF incidents.
 
 ### 2. Predictive Analytics
-Some financial institutions use machine learning and [predictive analytics](../p/predictive_analytics.md) to anticipate potential NSF scenarios and notify customers in advance.
+Some financial institutions use [machine learning](../m/machine_learning.md) and [predictive analytics](../p/predictive_analytics.md) to anticipate potential NSF scenarios and notify customers in advance.
 
 ### 3. Budgeting Tools
 Numerous fintech applications, such as Mint and YNAB (You Need A [Budget](../b/budget.md)), [offer](../o/offer.md) integrated tools for budgeting and expenditure tracking, which can help prevent NSF occurrences.

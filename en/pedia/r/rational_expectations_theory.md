@@ -42,7 +42,7 @@ While RET is a powerful framework, it is not without its criticisms:
 ## Rational Expectations in Modern Research and Practice
 
 ### 1. Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), RET is integral to the design of [trading algorithms](../t/trading_algorithms.md) that predict future price movements based on current information. These algorithms use large datasets, machine learning, and statistical models to form "rational expectations" about future [market](../m/market.md) behavior.
+In [algorithmic trading](../a/accountability.md), RET is integral to the design of [trading algorithms](../t/trading_algorithms.md) that predict future price movements based on current information. These algorithms use large datasets, [machine learning](../m/machine_learning.md), and statistical models to form "rational expectations" about future [market](../m/market.md) behavior.
 
 ### 2. Fintech Applications
 Fintech companies [leverage](../l/leverage.md) RET in various ways, from designing robo-advisors that optimize investment portfolios to developing [credit](../c/credit.md) scoring models that predict borrower behavior. Rational expectations are embedded in the algorithms and processes that drive these technologies.

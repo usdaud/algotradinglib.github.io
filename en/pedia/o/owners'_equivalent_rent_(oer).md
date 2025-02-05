@@ -64,7 +64,7 @@ Economists and statisticians continuously seek ways to refine the OER methodolog
 
 1. **Enhanced Data Collection**: Leveraging more real-time data sources, such as digital rental platforms, can provide up-to-the-minute insights into rental [market](../m/market.md) conditions.
 
-2. **Machine Learning Models**: Applying advanced statistical techniques and machine learning models to predict rental values could reduce subjectivity and improve accuracy.
+2. **[Machine Learning](../m/machine_learning.md) Models**: Applying advanced statistical techniques and [machine learning](../m/machine_learning.md) models to predict rental values could reduce subjectivity and improve accuracy.
 
 3. **Geographic Granularity**: Increasing the regional granularity of OER calculations can help capture local [market](../m/market.md) conditions more accurately.
 

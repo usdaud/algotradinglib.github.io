@@ -59,7 +59,7 @@ High-frequency trading involves the use of complex algorithms and high-speed dat
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) utilizes [mathematical models](../m/mathematical_models_in_trading.md) to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies impossible for human traders. Algorithms can [range](../r/range.md) from simple moving averages to complex machine learning models.
+[Algorithmic trading](../a/accountability.md) utilizes [mathematical models](../m/mathematical_models_in_trading.md) to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies impossible for human traders. Algorithms can [range](../r/range.md) from simple moving averages to complex [machine learning](../m/machine_learning.md) models.
 
 ### Blockchain and Cryptocurrencies
 

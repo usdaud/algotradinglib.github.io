@@ -119,7 +119,7 @@ plt.show()
 ## Sector Correlation Analysis Firms and Services
 
 **1. **Kensho**:
-   - [Kensho](https://www.spglobal.com/marketintelligence/en/campaigns/kensho) provides advanced analytics and machine learning tools for financial data analysis, including sector [correlation analysis](../c/correlation_analysis.md).
+   - [Kensho](https://www.spglobal.com/marketintelligence/en/campaigns/kensho) provides advanced analytics and [machine learning](../m/machine_learning.md) tools for financial data analysis, including sector [correlation analysis](../c/correlation_analysis.md).
 
 **2. **[FactSet](../f/factset.md)**:
    - [FactSet](https://www.factset.com/) offers data and analytical tools that help in analyzing sector correlations, making them useful for [asset](../a/asset.md) managers and traders.

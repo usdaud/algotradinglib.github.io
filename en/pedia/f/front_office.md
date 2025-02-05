@@ -55,7 +55,7 @@ CRM systems are utilized to manage client interactions and data. These systems h
 
 ### Data Analytics
 
-[Data analytics](../d/data_analytics.md) tools are used to analyze vast amounts of [market](../m/market.md) and client data to identify trends, patterns, and insights. These tools help in making informed trading and investment decisions. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) technologies are increasingly being integrated into [data analytics](../d/data_analytics.md) systems to enhance predictive accuracy and decision-making capabilities.
+[Data analytics](../d/data_analytics.md) tools are used to analyze vast amounts of [market](../m/market.md) and client data to identify trends, patterns, and insights. These tools help in making informed trading and investment decisions. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) technologies are increasingly being integrated into [data analytics](../d/data_analytics.md) systems to enhance predictive accuracy and decision-making capabilities.
 
 ## Regulatory Environment
 

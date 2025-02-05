@@ -20,7 +20,7 @@ Investment strategy is a broad term that refers to a specific, disciplined, and 
 [Index investing](../i/index_investing.md) involves buying a portfolio of [stocks](../s/stock.md) that mirror a [market index](../m/market_index.md) such as the S&P 500. This strategy is often considered a form of [passive investing](../p/passive_investing.md), as it requires less management and often incurs fewer fees. The primary goal is to achieve returns that match the overall [market](../m/market.md)'s performance.
 
 ### 6. Quantitative Investing
-Quantitative or "quant" [investing](../i/investing.md) employs [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. These models analyze various financial and economic data to forecast [market](../m/market.md) trends and identify trading opportunities. Companies specializing in this strategy, such as Renaissance Technologies and Two Sigma, have garnered attention for their high returns and reliance on complex statistical techniques and machine learning.
+Quantitative or "quant" [investing](../i/investing.md) employs [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. These models analyze various financial and economic data to forecast [market](../m/market.md) trends and identify trading opportunities. Companies specializing in this strategy, such as Renaissance Technologies and Two Sigma, have garnered attention for their high returns and reliance on complex statistical techniques and [machine learning](../m/machine_learning.md).
 
 Visit [Renaissance Technologies](https://www.rentec.com) and [Two Sigma](https://www.twosigma.com) to learn more.
 
@@ -86,7 +86,7 @@ Visit [Betterment](https://www.betterment.com), [Wealthfront](https://www.wealth
 The advent of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has introduced a new [asset class](../a/asset_class.md) and [multiple](../m/multiple.md) investment strategies. Investors can engage in direct trading of cryptocurrencies, invest in [blockchain](../b/blockchain_in_trading.md) technology companies, or use decentralized [finance](../f/finance.md) (DeFi) platforms. The [volatility](../v/volatility.md) and regulatory environment make this a high-[risk](../r/risk.md) but potentially high-reward strategy.
 
 ### 4. Machine Learning and AI
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are revolutionizing investment strategies by [offering](../o/offering.md) advanced tools for data analysis, [forecasting](../f/forecasting.md), and [algorithmic trading](../a/accountability.md). AI models can assimilate vast amounts of data, identify patterns, and make predictions that would be impossible for humans alone. This innovation is driving the next generation of quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are revolutionizing investment strategies by [offering](../o/offering.md) advanced tools for data analysis, [forecasting](../f/forecasting.md), and [algorithmic trading](../a/accountability.md). AI models can assimilate vast amounts of data, identify patterns, and make predictions that would be impossible for humans alone. This innovation is driving the next generation of quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ## Conclusion
 

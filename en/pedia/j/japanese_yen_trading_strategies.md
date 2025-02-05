@@ -55,7 +55,7 @@ These strategies involve analyzing news and [market sentiment](../m/market_senti
 
 ### Neural Networks and Machine Learning
 
-Machine learning models, especially [neural networks](../n/neural_networks_in_trading.md), can be employed for price prediction and [pattern recognition](../p/pattern_recognition.md).
+[Machine learning](../m/machine_learning.md) models, especially [neural networks](../n/neural_networks_in_trading.md), can be employed for price prediction and [pattern recognition](../p/pattern_recognition.md).
 
 1. **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suited for sequential data, making them ideal for predicting [currency](../c/currency.md) price movements based on historical prices.
 
@@ -93,4 +93,4 @@ Algorithmic traders must also adhere to regulations from other major financial j
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) provides a [lucrative](../l/lucrative.md) avenue for trading the Japanese Yen by leveraging automation, advanced modeling, and computational prowess. From [arbitrage](../a/arbitrage.md) to machine learning, traders can deploy various strategies carefully tailored to exploit the unique characteristics of the JPY. While the potential for high returns is significant, stringent [risk management](../r/risk_management.md) and regulatory compliance are essential to sustainable success in the competitive landscape of Forex trading.
+[Algorithmic trading](../a/algorithmic_trading.md) provides a [lucrative](../l/lucrative.md) avenue for trading the Japanese Yen by leveraging automation, advanced modeling, and computational prowess. From [arbitrage](../a/arbitrage.md) to [machine learning](../m/machine_learning.md), traders can deploy various strategies carefully tailored to exploit the unique characteristics of the JPY. While the potential for high returns is significant, stringent [risk management](../r/risk_management.md) and regulatory compliance are essential to sustainable success in the competitive landscape of Forex trading.

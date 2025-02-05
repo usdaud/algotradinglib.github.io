@@ -31,8 +31,8 @@
    - **Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH):**
      [GARCH models](../g/garch_models.md) estimate the [volatility](../v/volatility.md) of returns, which is crucial for assessing the [risk](../r/risk.md) and predicting future price movements.
 
-2. **Machine Learning Models:**
-   Machine learning has revolutionized [rate of return](../r/rate_of_return.md) [forecasting](../f/forecasting.md) with its capacity to [handle](../h/handle.md) large datasets and uncover complex patterns.
+2. **[Machine Learning](../m/machine_learning.md) Models:**
+   [Machine learning](../m/machine_learning.md) has revolutionized [rate of return](../r/rate_of_return.md) [forecasting](../f/forecasting.md) with its capacity to [handle](../h/handle.md) large datasets and uncover complex patterns.
 
    - **[Linear Regression](../l/linear_regression.md):**
      A basic yet powerful approach that models the relationship between a dependent variable (returns) and one or more independent variables (predictors).
@@ -53,7 +53,7 @@
    [Technical analysis](../t/technical_analysis.md) focuses on historical price and [volume](../v/volume.md) data to predict future price movements. It includes various [chart patterns](../c/chart_patterns.md), [technical indicators](../t/technical_indicators.md) (e.g., Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and [trading signals](../t/trading_signals.md).
 
 5. **[Sentiment Analysis](../s/sentiment_analysis.md):**
-   [Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to gauge [market sentiment](../m/market_sentiment.md) based on news articles, [social media](../s/social_media.md), and other textual data sources. It provides insights into the prevailing [market](../m/market.md) mood, which can influence future returns.
+   [Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) based on news articles, [social media](../s/social_media.md), and other textual data sources. It provides insights into the prevailing [market](../m/market.md) mood, which can influence future returns.
 
 #### Advancements in Rate of Return Forecasting
 

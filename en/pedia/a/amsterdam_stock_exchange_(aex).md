@@ -109,7 +109,7 @@ Listing on [Euronext Amsterdam](../e/euronext_amsterdam.md) involves meeting spe
 
 ### Digital Transformation
 
-The [exchange](../e/exchange.md) is focusing on continuing its digital transformation to enhance [efficiency](../e/efficiency.md) and provide better services. [Blockchain](../b/blockchain_in_trading.md) technology, AI, and machine learning are areas of ongoing research and development.
+The [exchange](../e/exchange.md) is focusing on continuing its digital transformation to enhance [efficiency](../e/efficiency.md) and provide better services. [Blockchain](../b/blockchain_in_trading.md) technology, AI, and [machine learning](../m/machine_learning.md) are areas of ongoing research and development.
 
 ### Global Integration
 

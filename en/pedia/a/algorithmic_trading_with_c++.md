@@ -11,7 +11,7 @@ C++ is known for its high performance and low-level memory manipulation capabili
 In the trading world, every millisecond counts. C++ provides low-latency [execution](../e/execution.md), which is essential for executing numerous trades in a very short amount of time. This low latency is achieved through compiled binary code and optimized algorithms, making C++ a go-to choice for many financial institutions.
 
 ### Libraries and Tools
-C++ boasts a broad array of libraries useful for various aspects of [algorithmic trading](../a/algorithmic_trading.md), including data manipulation, statistical analysis, and machine learning. Some of the widely used libraries include Boost, [QuantLib](../q/quantlib.md), and Eigen.
+C++ boasts a broad array of libraries useful for various aspects of [algorithmic trading](../a/algorithmic_trading.md), including data manipulation, statistical analysis, and [machine learning](../m/machine_learning.md). Some of the widely used libraries include Boost, [QuantLib](../q/quantlib.md), and Eigen.
 
 - **Boost**: This is a collection of libraries that extend the functionality of C++. Functions relevant to [algorithmic trading](../a/algorithmic_trading.md) include data structures, algorithms, and numerical computing.
 - **[QuantLib](../q/quantlib.md)**: This [open](../o/open.md)-source library provides tools for modeling, [trading strategies](../t/trading_strategies.md), and pricing financial instruments.

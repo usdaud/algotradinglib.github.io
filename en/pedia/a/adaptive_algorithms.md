@@ -4,19 +4,19 @@
 
 ## Introduction to Adaptive Algorithms
 
-Adaptive algorithms represent a subset of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These algorithms can learn and evolve from [market](../m/market.md) data. They adjust their parameters and strategies dynamically in response to new [market](../m/market.md) conditions, making them particularly effective in volatile and fast-changing markets.
+Adaptive algorithms represent a subset of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These algorithms can learn and evolve from [market](../m/market.md) data. They adjust their parameters and strategies dynamically in response to new [market](../m/market.md) conditions, making them particularly effective in volatile and fast-changing markets.
 
 ## Types of Adaptive Algorithms
 
 ### 1. Self-Learning Algorithms
 
-Self-[learning algorithms](../l/learning_algorithms_in_trading.md) can automatically improve their [trading strategies](../t/trading_strategies.md) based on new data. They typically employ techniques such as supervised learning, unsupervised learning, and reinforcement learning.
+Self-[learning algorithms](../l/learning_algorithms_in_trading.md) can automatically improve their [trading strategies](../t/trading_strategies.md) based on new data. They typically employ techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md).
 
 #### Supervised Learning
-In supervised learning, algorithms are trained on labeled data, which means each training example is paired with the correct output. They learn to map input data to the desired output, making predictions or decisions based on this learned mapping.
+In [supervised learning](../s/supervised_learning.md), algorithms are trained on labeled data, which means each training example is paired with the correct output. They learn to map input data to the desired output, making predictions or decisions based on this learned mapping.
 
 #### Unsupervised Learning
-Unsupervised learning deals with unlabeled data. Algorithms try to identify patterns or intrinsic structures in input data. One commonly used method is clustering, where the algorithm tries to group similar data points together.
+[Unsupervised learning](../u/unsupervised_learning.md) deals with unlabeled data. Algorithms try to identify patterns or intrinsic structures in input data. One commonly used method is clustering, where the algorithm tries to group similar data points together.
 
 #### Reinforcement Learning
 Reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) learn by receiving feedback through rewards or punishments based on the actions they take. Over time, they aim to maximize cumulative rewards, becoming more effective at trading decisions.

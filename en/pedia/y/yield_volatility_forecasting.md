@@ -50,7 +50,7 @@ These models assume that [volatility](../v/volatility.md) itself follows a stoch
 
 ### Machine Learning Techniques
 
-With advancements in [computational finance](../c/computational_finance.md), machine learning techniques are increasingly used for [volatility forecasting](../v/volatility_forecasting.md). Algorithms such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Neural Networks](../n/neural_networks_in_trading.md), and [Random Forests](../r/random_forests_in_trading.md) can model complex, non-linear relationships in the data.
+With advancements in [computational finance](../c/computational_finance.md), [machine learning](../m/machine_learning.md) techniques are increasingly used for [volatility forecasting](../v/volatility_forecasting.md). Algorithms such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Neural Networks](../n/neural_networks_in_trading.md), and [Random Forests](../r/random_forests_in_trading.md) can model complex, non-linear relationships in the data.
 
 ## Applications in Risk Management
 

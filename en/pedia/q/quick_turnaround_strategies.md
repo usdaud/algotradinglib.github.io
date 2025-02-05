@@ -6,7 +6,7 @@ Quick [Turnaround](../t/turnaround.md) Strategies (QTS) are high-frequency [trad
 ## Key Characteristics of Quick Turnaround Strategies
 1. **Speed**: Speed is a crucial element, as these strategies rely on executing trades faster than the competition.
 2. **[Volume](../v/volume.md)**: High-frequency trades, often involving large volumes to [capitalize](../c/capitalize.md) on small price movements.
-3. **Automation**: Use of sophisticated algorithms and machine learning to detect and act on [market](../m/market.md) signals.
+3. **Automation**: Use of sophisticated algorithms and [machine learning](../m/machine_learning.md) to detect and act on [market](../m/market.md) signals.
 4. **[Liquidity](../l/liquidity.md)**: Aimed at highly [liquid](../l/liquid.md) markets to enable easy entry and exit.
 5. **[Risk Management](../r/risk_management.md)**: Incorporates real-time [risk](../r/risk.md) assessment to minimize exposure to sudden [market](../m/market.md) changes.
 6. **[Execution](../e/execution.md)**: Relies on co-located servers and direct [market](../m/market.md) access to reduce latency in [trade](../t/trade.md) [execution](../e/execution.md).

@@ -9,9 +9,9 @@ Transfer Learning involves leveraging knowledge learned from one task to improve
 - **Domain Adaptation:** Techniques to bridge differences between the source and target domains.
 
 ### Applications
-- **Natural Language Processing:** Adapting models like BERT or GPT to specific language tasks.
-- **Computer Vision:** Fine-tuning models like ResNet for specialized image classification.
-- **Speech Recognition:** Transferring acoustic models to new languages or dialects.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md):** Adapting models like BERT or GPT to specific language tasks.
+- **[Computer Vision](../c/computer_vision.md):** Fine-tuning models like ResNet for specialized image classification.
+- **[Speech Recognition](../s/speech_recognition.md):** Transferring acoustic models to new languages or dialects.
 - **Healthcare:** Adapting models to medical imaging and diagnostic tasks.
 
 ### Advantages

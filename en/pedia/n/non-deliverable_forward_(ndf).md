@@ -81,7 +81,7 @@ The [trend](../t/trend.md) of global [economic integration](../e/economic_integr
 
 ### Technological Impact: Algorithmic Trading and Fintech
 
-[Algorithmic trading](../a/accountability.md), powered by advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, is increasingly applied in the NDF markets. These technologies can analyze large datasets to identify trends and execute trades with precision, enhancing [liquidity](../l/liquidity.md) and reducing [spreads](../s/spreads.md). Fintech companies are also innovating in areas like [risk management](../r/risk_management.md) and regulatory compliance, making it easier for smaller entities to participate in the NDF [market](../m/market.md).
+[Algorithmic trading](../a/accountability.md), powered by advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), is increasingly applied in the NDF markets. These technologies can analyze large datasets to identify trends and execute trades with precision, enhancing [liquidity](../l/liquidity.md) and reducing [spreads](../s/spreads.md). Fintech companies are also innovating in areas like [risk management](../r/risk_management.md) and regulatory compliance, making it easier for smaller entities to participate in the NDF [market](../m/market.md).
 
 **Example Companies Engaged in NDF Trading and Technology:**
 - [Citi](https://www.citigroup.com), a major player providing [market](../m/market.md)-making services in NDFs.

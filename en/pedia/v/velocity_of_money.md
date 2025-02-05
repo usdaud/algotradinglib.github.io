@@ -57,7 +57,7 @@ The velocity of [money](../m/money.md) is a pertinent [factor](../f/factor.md) i
 For instance, if the velocity of [money](../m/money.md) is increasing, indicating a bullish economic outlook, an algorithm might increase exposure to equities. Conversely, declining VoM might prompt reducing [risk](../r/risk.md) exposure or shifting to more conservative assets like bonds or gold.
 
 ### Algorithms and Economic Indicators
-Algorithm creators often incorporate [multiple](../m/multiple.md) [economic indicators](../e/economic_indicators.md) including VoM, alongside metrics like [unemployment](../u/unemployment.md) rates, consumer spending, and [interest](../i/interest.md) rates, to create a comprehensive [trading strategy](../t/trading_strategy.md). Advanced machine learning models can also be trained to recognize patterns and make predictions based on historical VoM data.
+Algorithm creators often incorporate [multiple](../m/multiple.md) [economic indicators](../e/economic_indicators.md) including VoM, alongside metrics like [unemployment](../u/unemployment.md) rates, consumer spending, and [interest](../i/interest.md) rates, to create a comprehensive [trading strategy](../t/trading_strategy.md). Advanced [machine learning](../m/machine_learning.md) models can also be trained to recognize patterns and make predictions based on historical VoM data.
 
 Several companies and platforms provide services and tools for [algorithmic trading](../a/algorithmic_trading.md). These include:
 1. **[QuantConnect](../q/quantconnect.md)** - https://www.[quantconnect](../q/quantconnect.md).com

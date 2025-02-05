@@ -20,20 +20,20 @@ Quasi-Newton methods aim to find the minimum or maximum of a function without re
 The BFGS algorithm is one of the most popular quasi-Newton methods. It updates the Hessian inverse approximation at each iteration to ensure symmetric and positive definite properties.
 
 - **Update Rule**: The BFGS update formula is derived from the Secant equation and ensures the Hessian inverse is updated in such a way that it remains a good approximation of the true Hessian.
-- **Applications in Trading**: BFGS can be used to optimize complex [trading models](../t/trading_models.md), where it’s essential to have efficient and accurate solutions. Its ability to [handle](../h/handle.md) [non-linear optimization](../n/non-linear_optimization.md) problems makes it suitable for training machine learning models used in [predictive analytics](../p/predictive_analytics.md).
+- **Applications in Trading**: BFGS can be used to optimize complex [trading models](../t/trading_models.md), where it’s essential to have efficient and accurate solutions. Its ability to [handle](../h/handle.md) [non-linear optimization](../n/non-linear_optimization.md) problems makes it suitable for training [machine learning](../m/machine_learning.md) models used in [predictive analytics](../p/predictive_analytics.md).
 
 #### Limited-memory BFGS (L-BFGS)
 
 For large-scale [optimization](../o/optimization.md) problems, computing and storing the full Hessian matrix is impractical. L-BFGS addresses this by maintaining only a limited number of updates in memory.
 
 - **Memory [Efficiency](../e/efficiency.md)**: L-BFGS uses a limited amount of recent history to approximate the Hessian, making it suitable for large datasets and high-dimensional problems.
-- **Implementation**: Widely used in machine learning libraries like Scikit-learn and TensorFlow, its [scalability](../s/scalability.md) and [efficiency](../e/efficiency.md) make it a go-to for optimizing large [trading strategies](../t/trading_strategies.md).
+- **Implementation**: Widely used in [machine learning](../m/machine_learning.md) libraries like Scikit-learn and [TensorFlow](../t/tensorflow.md), its [scalability](../s/scalability.md) and [efficiency](../e/efficiency.md) make it a go-to for optimizing large [trading strategies](../t/trading_strategies.md).
 
 ## Applications in Algorithmic Trading
 
 ### Parameter Optimization
 
-Quasi-Newton methods can fine-tune the parameters of [trading algorithms](../t/trading_algorithms.md) to maximize returns and minimize risks. For example, in a predictive model based on machine learning, these methods can optimize parameters like learning rate, regularization coefficients, and more.
+Quasi-Newton methods can fine-tune the parameters of [trading algorithms](../t/trading_algorithms.md) to maximize returns and minimize risks. For example, in a predictive model based on [machine learning](../m/machine_learning.md), these methods can optimize parameters like learning rate, regularization coefficients, and more.
 
 ### Risk Management
 
@@ -45,7 +45,7 @@ Effective [risk management](../r/risk_management.md) is crucial in trading. By u
 
 ### Example Case: Optimizing a Machine Learning Model
 
-Consider a trading algorithm that predicts stock prices using a machine learning model like [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs). Quasi-Newton methods such as BFGS or L-BFGS can be employed to optimize the SVM’s hyperparameters.
+Consider a trading algorithm that predicts stock prices using a [machine learning](../m/machine_learning.md) model like [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs). Quasi-Newton methods such as BFGS or L-BFGS can be employed to optimize the SVM’s hyperparameters.
 
 #### Steps:
 

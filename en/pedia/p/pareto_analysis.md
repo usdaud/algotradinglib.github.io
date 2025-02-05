@@ -100,7 +100,7 @@ In [algorithmic trading](../a/accountability.md), Pareto Analysis can be utilize
 
 ### Machine Learning Applications
 
-Pareto Analysis can also be integrated with machine learning for [predictive analytics](../p/predictive_analytics.md). Machine learning models can help in identifying and predicting the 20% of factors that could [yield](../y/yield.md) 80% of the predictive power. This hybrid approach is particularly useful in [big data](../b/big_data_in_trading.md) scenarios, where vast amounts of data are analyzed to identify the most impactful factors.
+Pareto Analysis can also be integrated with [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md). [Machine learning](../m/machine_learning.md) models can help in identifying and predicting the 20% of factors that could [yield](../y/yield.md) 80% of the predictive power. This hybrid approach is particularly useful in [big data](../b/big_data_in_trading.md) scenarios, where vast amounts of data are analyzed to identify the most impactful factors.
 
 ### Tools and Software
 

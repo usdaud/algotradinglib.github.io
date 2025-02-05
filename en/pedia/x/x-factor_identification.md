@@ -26,7 +26,7 @@ The use of [alternative data](../a/alternative_data.md) is becoming an essential
 
 ### Machine Learning Models
 
-Machine learning models that utilize high levels of computational power and vast datasets are also considered significant X-Factors. These models can identify patterns and correlations that are not evident through traditional analysis. Firms such as AQR [Capital](../c/capital.md) Management [leverage](../l/leverage.md) machine learning to enhance their [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) models that utilize high levels of computational power and vast datasets are also considered significant X-Factors. These models can identify patterns and correlations that are not evident through traditional analysis. Firms such as AQR [Capital](../c/capital.md) Management [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to enhance their [trading strategies](../t/trading_strategies.md).
 - **AQR [Capital](../c/capital.md) Management**: [Website](https://www.aqr.com/)
 
 ### Behavioral Economics Insights
@@ -83,5 +83,5 @@ High-frequency [trading strategies](../t/trading_strategies.md) that identify [m
 
 ## Conclusion
 
-[X-Factor](../x/x-factor_in_trading.md) identification in [algorithmic trading](../a/algorithmic_trading.md) represents the quest for unique and actionable insights that provide a competitive edge. Whether through [proprietary algorithms](../p/proprietary_algorithms.md), [alternative data](../a/alternative_data.md), machine learning models, or other innovative approaches, the goal is to uncover elements that [offer](../o/offer.md) consistent and superior returns. However, this pursuit requires meticulous data analysis, rigorous testing, and strong [risk management](../r/risk_management.md) practices to navigate the complexities and uncertainties of the [financial markets](../f/financial_market.md).
+[X-Factor](../x/x-factor_in_trading.md) identification in [algorithmic trading](../a/algorithmic_trading.md) represents the quest for unique and actionable insights that provide a competitive edge. Whether through [proprietary algorithms](../p/proprietary_algorithms.md), [alternative data](../a/alternative_data.md), [machine learning](../m/machine_learning.md) models, or other innovative approaches, the goal is to uncover elements that [offer](../o/offer.md) consistent and superior returns. However, this pursuit requires meticulous data analysis, rigorous testing, and strong [risk management](../r/risk_management.md) practices to navigate the complexities and uncertainties of the [financial markets](../f/financial_market.md).
 

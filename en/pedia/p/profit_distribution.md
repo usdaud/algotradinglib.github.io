@@ -10,7 +10,7 @@ In an [algorithmic trading](../a/algorithmic_trading.md) setup, stakeholders can
   
 - **Traders**: These are the individuals or firms who operate or own the [trading algorithms](../t/trading_algorithms.md). They typically have significant knowledge of [market](../m/market.md) conditions and [trading strategies](../t/trading_strategies.md).
 - **Investors**: These are individuals or entities that provide [capital](../c/capital.md) for trading. They are vital as they [supply](../s/supply.md) the funds required to execute trades.
-- **Data Scientists**: Responsible for developing and refining algorithms. Their expertise in statistical analysis, machine learning, and data management is essential.
+- **Data Scientists**: Responsible for developing and refining algorithms. Their expertise in statistical analysis, [machine learning](../m/machine_learning.md), and data management is essential.
 - **Software Developers**: Create and maintain the [trading systems](../t/trading_systems.md). They ensure the algorithms run efficiently and are updated according to [market](../m/market.md) changes.
 
 ### Methods of Profit Distribution

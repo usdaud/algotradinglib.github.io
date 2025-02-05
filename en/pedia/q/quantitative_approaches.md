@@ -29,10 +29,10 @@ HFT involves executing a high number of trades at extremely fast speeds, often m
   
 ### 4. Machine Learning and AI
 
-The integration of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) into [quantitative trading](../q/quantitative_trading.md) is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
+The integration of [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) into [quantitative trading](../q/quantitative_trading.md) is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
 
-- **Supervised Learning**: Algorithms are trained on historical data to predict future prices. Techniques include [linear regression](../l/linear_regression.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
-- **Unsupervised Learning**: These algorithms identify patterns without predefined labels. Clustering techniques and [anomaly detection](../a/anomaly_detection.md) are prevalent here.
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms are trained on historical data to predict future prices. Techniques include [linear regression](../l/linear_regression.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: These algorithms identify patterns without predefined labels. Clustering techniques and [anomaly detection](../a/anomaly_detection.md) are prevalent here.
 
 ### 5. Sentiment Analysis
 
@@ -50,7 +50,7 @@ Founded by Jim Simons, Renaissance Technologies is a pioneer in [quantitative tr
 
 ### 2. Two Sigma
 
-Another significant player in the [quantitative trading](../q/quantitative_trading.md) space is Two Sigma. They [leverage](../l/leverage.md) machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to build [predictive models](../p/predictive_models_in_trading.md) for trading.
+Another significant player in the [quantitative trading](../q/quantitative_trading.md) space is Two Sigma. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to build [predictive models](../p/predictive_models_in_trading.md) for trading.
 
 **Website**: [Two Sigma](https://www.twosigma.com/)
 
@@ -94,4 +94,4 @@ Regulatory changes can impact [trading strategies](../t/trading_strategies.md) a
 
 ## Conclusion
 
-[Quantitative trading](../q/quantitative_trading.md) represents a sophisticated, technology-driven approach to [financial markets](../f/financial_market.md). With the continuous advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and computational technology, the landscape of quant trading is expected to evolve even further. However, successful [quantitative trading](../q/quantitative_trading.md) requires not only advanced [mathematical models](../m/mathematical_models_in_trading.md) but also [robust](../r/robust.md) [risk management](../r/risk_management.md) and adaptability to changing [market](../m/market.md) conditions.
+[Quantitative trading](../q/quantitative_trading.md) represents a sophisticated, technology-driven approach to [financial markets](../f/financial_market.md). With the continuous advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and computational technology, the landscape of quant trading is expected to evolve even further. However, successful [quantitative trading](../q/quantitative_trading.md) requires not only advanced [mathematical models](../m/mathematical_models_in_trading.md) but also [robust](../r/robust.md) [risk management](../r/risk_management.md) and adaptability to changing [market](../m/market.md) conditions.

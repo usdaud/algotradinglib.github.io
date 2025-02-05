@@ -1,7 +1,7 @@
 # X-Trend Analysis
 
 # Introduction
-X-[Trend Analysis](../t/trend_analysis.md) is a sophisticated technique used in [algorithmic trading](../a/algorithmic_trading.md) to predict [market](../m/market.md) trends and make informed trading decisions. This method leverages advanced [mathematical models](../m/mathematical_models_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and machine learning (ML) algorithms to identify patterns and trends in vast amounts of historical [market](../m/market.md) data. The goal is to generate actionable insights that can be used to automate trades, optimize [trading strategies](../t/trading_strategies.md), and maximize returns while minimizing risks.
+X-[Trend Analysis](../t/trend_analysis.md) is a sophisticated technique used in [algorithmic trading](../a/algorithmic_trading.md) to predict [market](../m/market.md) trends and make informed trading decisions. This method leverages advanced [mathematical models](../m/mathematical_models_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and [machine learning](../m/machine_learning.md) (ML) algorithms to identify patterns and trends in vast amounts of historical [market](../m/market.md) data. The goal is to generate actionable insights that can be used to automate trades, optimize [trading strategies](../t/trading_strategies.md), and maximize returns while minimizing risks.
 
 # Core Components
 
@@ -21,8 +21,8 @@ Once collected, the data must be processed to ensure it is clean, consistent, an
 ## Pattern Recognition
 X-[Trend Analysis](../t/trend_analysis.md) employs advanced algorithms to recognize patterns in the processed data. Common techniques include:
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Methods such as Moving Averages, [Exponential Smoothing](../e/exponential_smoothing.md), and ARIMA models to predict future [market](../m/market.md) movements.
-- **Machine Learning Models**: Supervised learning techniques like [Regression Analysis](../r/regression_analysis.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) to identify complex patterns.
-- **Unsupervised Learning**: [Clustering algorithms](../c/clustering_algorithms.md) like K-means and Hierarchical Clustering to discover hidden patterns without prior labeling.
+- **[Machine Learning](../m/machine_learning.md) Models**: [Supervised learning](../s/supervised_learning.md) techniques like [Regression Analysis](../r/regression_analysis.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) to identify complex patterns.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: [Clustering algorithms](../c/clustering_algorithms.md) like K-means and Hierarchical Clustering to discover hidden patterns without prior labeling.
 
 ## Predictive Modeling
 [Predictive models](../p/predictive_models_in_trading.md) are the core of X-[Trend Analysis](../t/trend_analysis.md). These models are trained on historical data and validated to ensure they can accurately predict future trends. Techniques used include:
@@ -58,14 +58,14 @@ Despite its potential, X-[Trend Analysis](../t/trend_analysis.md) faces several 
 
 # Key Players in the Industry
 Several companies specialize in providing X-[Trend Analysis](../t/trend_analysis.md) tools and platforms. Some notable ones include:
-- **Numerai**: A [hedge fund](../h/hedge_fund.md) that uses machine learning and AI for [stock market](../s/stock_market.md) predictions. [Numerai](https://numer.ai/)
+- **Numerai**: A [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) and AI for [stock market](../s/stock_market.md) predictions. [Numerai](https://numer.ai/)
 - **Quantiacs**: A platform for creating, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies. [Quantiacs](https://quantiacs.com/)
 - **[Alpaca](../a/alpaca.md)**: An API for [algorithmic trading](../a/algorithmic_trading.md) that allows developers to automate their [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
 - **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and tools for [backtesting](../b/backtesting.md) and live trading. [QuantConnect](https://www.quantconnect.com/)
 
 # Future Trends
 The future of X-[Trend Analysis](../t/trend_analysis.md) looks promising, with several trends shaping its evolution:
-- **AI and Machine Learning**: Continued advancements in AI and ML [will](../w/will.md) lead to more sophisticated models and improved predictive accuracy.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Continued advancements in AI and ML [will](../w/will.md) lead to more sophisticated models and improved predictive accuracy.
 - **[Big Data](../b/big_data_in_trading.md)**: The increasing availability of [big data](../b/big_data_in_trading.md) [will](../w/will.md) enable more comprehensive analyses and insights.
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential applications of [quantum computing](../q/quantum_computing_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md) could revolutionize the speed and accuracy of [trend analysis](../t/trend_analysis.md).
 - **Decentralized [Finance](../f/finance.md) (DeFi)**: The rise of DeFi and [blockchain](../b/blockchain_in_trading.md) technology may create new opportunities for X-[Trend Analysis](../t/trend_analysis.md) in trading digital assets.

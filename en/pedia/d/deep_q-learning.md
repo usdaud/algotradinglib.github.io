@@ -1,10 +1,10 @@
 # Deep Q-Learning
 
-Deep Q-Learning is an advanced reinforcement learning (RL) algorithm that combines Q-Learning with deep [neural networks](../n/neural_networks_in_trading.md). It has been pivotal in solving complex decision-making problems and has been employed in various applications ranging from game playing to trading in [financial markets](../f/financial_market.md). Below I delve into the various components, mechanisms, advantages, and practical applications of Deep Q-Learning.
+Deep Q-Learning is an advanced [reinforcement learning](../r/reinforcement_learning.md) (RL) algorithm that combines Q-Learning with deep [neural networks](../n/neural_networks_in_trading.md). It has been pivotal in solving complex decision-making problems and has been employed in various applications ranging from game playing to trading in [financial markets](../f/financial_market.md). Below I delve into the various components, mechanisms, advantages, and practical applications of Deep Q-Learning.
 
 ## Introduction to Reinforcement Learning
 
-Reinforcement Learning (RL) is a branch of machine learning where an agent interacts with an environment to achieve a goal. The agent takes actions in the environment, receives rewards or penalties based on the outcomes, and learns a policy to maximize cumulative rewards.
+[Reinforcement Learning](../r/reinforcement_learning.md) (RL) is a branch of [machine learning](../m/machine_learning.md) where an agent interacts with an environment to achieve a goal. The agent takes actions in the environment, receives rewards or penalties based on the outcomes, and learns a policy to maximize cumulative rewards.
 
 ### Components of RL
 
@@ -90,12 +90,12 @@ Deep Q-Learning has found applications in [algorithmic trading](../a/algorithmic
 
 Numerous fintech companies and research labs have employed Deep Q-Learning for [trading strategies](../t/trading_strategies.md):
 
-1. **Kensho Technologies**: Utilizes reinforcement learning models for [predictive analytics](../p/predictive_analytics.md) in trading. [Kensho](https://www.kensho.com)
+1. **Kensho Technologies**: Utilizes [reinforcement learning](../r/reinforcement_learning.md) models for [predictive analytics](../p/predictive_analytics.md) in trading. [Kensho](https://www.kensho.com)
 
 2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages ML and RL techniques for [market](../m/market.md) predictions and [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai)
 
-3. **[Alpaca](../a/alpaca.md)**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using reinforcement learning. [Alpaca](https://alpaca.markets)
+3. **[Alpaca](../a/alpaca.md)**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using [reinforcement learning](../r/reinforcement_learning.md). [Alpaca](https://alpaca.markets)
 
 ## Conclusion
 
-Deep Q-Learning represents a significant advancement in reinforcement learning by combining the power of [deep learning](../d/deep_learning.md) with Q-Learning. Its ability to [handle](../h/handle.md) complex environments and make high-level decisions makes it a powerful tool for various applications, including [algorithmic trading](../a/algorithmic_trading.md). Despite its challenges, ongoing research and innovations continue to enhance its stability and [efficiency](../e/efficiency.md), paving the way for more effective and intelligent decision-making systems.
+Deep Q-Learning represents a significant advancement in [reinforcement learning](../r/reinforcement_learning.md) by combining the power of [deep learning](../d/deep_learning.md) with Q-Learning. Its ability to [handle](../h/handle.md) complex environments and make high-level decisions makes it a powerful tool for various applications, including [algorithmic trading](../a/algorithmic_trading.md). Despite its challenges, ongoing research and innovations continue to enhance its stability and [efficiency](../e/efficiency.md), paving the way for more effective and intelligent decision-making systems.

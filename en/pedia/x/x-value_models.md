@@ -33,10 +33,10 @@ Fundamental [valuation models](../v/valuation_models.md) involve analyzing [fina
 
 ### Machine Learning Models
 
-Machine learning models have gained popularity in recent years due to their ability to analyze large datasets and uncover complex patterns.
+[Machine learning](../m/machine_learning.md) models have gained popularity in recent years due to their ability to analyze large datasets and uncover complex patterns.
 
 - **[Neural Networks](../n/neural_networks_in_trading.md):** [Deep learning](../d/deep_learning.md) models, such as [artificial neural networks](../a/artificial_neural_networks.md), can analyze massive amounts of data to identify patterns and make predictions.
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** A supervised learning algorithm that can classify data and make predictions based on historical patterns.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** A [supervised learning](../s/supervised_learning.md) algorithm that can classify data and make predictions based on historical patterns.
 
 ### Hybrid Models
 
@@ -75,7 +75,7 @@ X-[Value](../v/value.md) Models aid in constructing and managing diversified por
 Several technology companies and financial institutions utilize X-[Value](../v/value.md) Models to enhance their [algorithmic trading](../a/algorithmic_trading.md) operations. Below are some examples of companies leveraging these models:
 
 1. **Jane Street:** Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including X-[Value](../v/value.md) Models, to make data-driven trading decisions. [https://www.janestreet.com/](https://www.janestreet.com/)
-2. **Two Sigma:** Two Sigma employs advanced statistical techniques and machine learning models for [algorithmic trading](../a/algorithmic_trading.md). [https://www.twosigma.com/](https://www.twosigma.com/)
+2. **Two Sigma:** Two Sigma employs advanced statistical techniques and [machine learning](../m/machine_learning.md) models for [algorithmic trading](../a/algorithmic_trading.md). [https://www.twosigma.com/](https://www.twosigma.com/)
 3. **AQR [Capital](../c/capital.md) Management:** AQR integrates [quantitative models](../q/quantitative_models.md) with fundamental data to drive its investment strategies. [https://www.aqr.com/](https://www.aqr.com/)
 4. **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies uses intricate [mathematical models](../m/mathematical_models_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). [https://www.rentec.com/](https://www.rentec.com/)
 
@@ -97,7 +97,7 @@ High-quality and comprehensive historical data is crucial for accurate model cal
 
 ### Computational Complexity
 
-Some X-[Value](../v/value.md) Models, especially those involving machine learning and [deep learning](../d/deep_learning.md), require significant computational resources for training and real-time [execution](../e/execution.md). This can be a constraint for smaller firms with limited technological [infrastructure](../i/infrastructure.md).
+Some X-[Value](../v/value.md) Models, especially those involving [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md), require significant computational resources for training and real-time [execution](../e/execution.md). This can be a constraint for smaller firms with limited technological [infrastructure](../i/infrastructure.md).
 
 ## Future Trends
 
@@ -109,7 +109,7 @@ The [incorporation](../i/incorporation.md) of [alternative data](../a/alternativ
 
 ### Enhanced Machine Learning Algorithms
 
-Advancements in machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as reinforcement learning and unsupervised learning, [will](../w/will.md) enable more sophisticated and adaptive [trading models](../t/trading_models.md).
+Advancements in machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as [reinforcement learning](../r/reinforcement_learning.md) and [unsupervised learning](../u/unsupervised_learning.md), [will](../w/will.md) enable more sophisticated and adaptive [trading models](../t/trading_models.md).
 
 ### Increased Regulatory Scrutiny
 

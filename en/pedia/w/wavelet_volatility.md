@@ -66,7 +66,7 @@ Wavelet-based [volatility](../v/volatility.md) measures are valuable in [risk ma
 
 The integration of wavelet [volatility](../v/volatility.md) in [algorithmic trading](../a/algorithmic_trading.md) is gaining traction:
 - **High-Frequency Trading**: Improved algorithms that adapt to [volatility](../v/volatility.md) shifts at different time scales.
-- **Hybrid Models**: Combining wavelet-based models with machine learning for more accurate forecasts.
+- **Hybrid Models**: Combining wavelet-based models with [machine learning](../m/machine_learning.md) for more accurate forecasts.
   
 ## Challenges and Limitations
 

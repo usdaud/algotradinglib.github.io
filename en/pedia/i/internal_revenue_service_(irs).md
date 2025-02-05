@@ -49,7 +49,7 @@ The IRS has made significant strides in leveraging technology to improve [taxpay
 
 ### Data Analytics
 
-Advanced [data analytics](../d/data_analytics.md) and machine learning are increasingly being used by the IRS to identify patterns of [tax evasion](../t/tax_evasion.md) and [fraud](../f/fraud.md). This includes analyzing large datasets to detect discrepancies and flag potential issues for further investigation.
+Advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) are increasingly being used by the IRS to identify patterns of [tax evasion](../t/tax_evasion.md) and [fraud](../f/fraud.md). This includes analyzing large datasets to detect discrepancies and flag potential issues for further investigation.
 
 ### Future Initiatives
 

@@ -97,7 +97,7 @@ With the rise of FinTech, [algorithmic trading](../a/accountability.md) systems 
 
 ### Integration with Machine Learning
 
-Machine learning models further [leverage](../l/leverage.md) WARF in [predictive analytics](../p/predictive_analytics.md):
+[Machine learning](../m/machine_learning.md) models further [leverage](../l/leverage.md) WARF in [predictive analytics](../p/predictive_analytics.md):
 - **[Predictive Modeling](../p/predictive_modeling.md)**: Using historical data and WARF, [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can predict future [portfolio performance](../p/portfolio_performance.md) and potential defaults.
 - **[Optimization](../o/optimization.md) Algorithms**: Advanced [optimization](../o/optimization.md) algorithms consider WARF to balance [credit](../c/credit.md) quality and [return](../r/return.md) in large portfolios, enhancing investment strategies.
 

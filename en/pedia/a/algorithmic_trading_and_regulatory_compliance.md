@@ -63,7 +63,7 @@ Real-time monitoring involves surveillance systems that continuously track tradi
 ## **5. Future Trends in Regulation**
 
 ### **5.1. Machine Learning and Artificial Intelligence**
-The use of machine learning and AI in [trading algorithms](../t/trading_algorithms.md) presents new regulatory challenges. Ensuring these advanced systems operate within ethical and legal boundaries is a growing area of [interest](../i/interest.md) for regulators.
+The use of [machine learning](../m/machine_learning.md) and AI in [trading algorithms](../t/trading_algorithms.md) presents new regulatory challenges. Ensuring these advanced systems operate within ethical and legal boundaries is a growing area of [interest](../i/interest.md) for regulators.
 
 ### **5.2. Global Harmonization of Regulations**
 With the global nature of [financial markets](../f/financial_market.md), there is a push towards harmonizing regulations across jurisdictions to reduce regulatory [arbitrage](../a/arbitrage.md) and ensure consistent enforcement globally.

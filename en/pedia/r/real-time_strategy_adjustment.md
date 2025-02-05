@@ -24,13 +24,13 @@ Real-time strategy adjustment refers to the capability of [trading algorithms](.
 
 ### Machine Learning
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used for real-time strategy adjustment. Techniques such as reinforcement learning, supervised learning, and unsupervised learning enable algorithms to learn from historical data and adapt to new [market](../m/market.md) conditions. 
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used for real-time strategy adjustment. Techniques such as [reinforcement learning](../r/reinforcement_learning.md), [supervised learning](../s/supervised_learning.md), and [unsupervised learning](../u/unsupervised_learning.md) enable algorithms to learn from historical data and adapt to new [market](../m/market.md) conditions. 
 
-- **Reinforcement Learning (RL)**: RL algorithms learn to make trading decisions by interacting with the [market](../m/market.md) environment. They receive rewards or penalties based on the outcomes of their actions, enabling them to optimize their strategies over time.
+- **[Reinforcement Learning](../r/reinforcement_learning.md) (RL)**: RL algorithms learn to make trading decisions by interacting with the [market](../m/market.md) environment. They receive rewards or penalties based on the outcomes of their actions, enabling them to optimize their strategies over time.
 
-- **Supervised Learning**: In supervised learning, algorithms are trained using labeled historical data. They learn to predict future price movements or identify [trading signals](../t/trading_signals.md) based on input features.
+- **[Supervised Learning](../s/supervised_learning.md)**: In [supervised learning](../s/supervised_learning.md), algorithms are trained using labeled historical data. They learn to predict future price movements or identify [trading signals](../t/trading_signals.md) based on input features.
 
-- **Unsupervised Learning**: Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md), such as clustering and [anomaly detection](../a/anomaly_detection.md), find hidden patterns and structures in data without predefined labels. These patterns can reveal new trading opportunities.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md), such as clustering and [anomaly detection](../a/anomaly_detection.md), find hidden patterns and structures in data without predefined labels. These patterns can reveal new trading opportunities.
 
 ### Statistical Methods
 
@@ -70,9 +70,9 @@ High-frequency trading firms are at the forefront of real-time strategy adjustme
 
 ### Institutional Trading
 
-Institutional investors, such as [hedge](../h/hedge.md) funds and [investment banks](../i/investment_bank_(ib).md), use real-time strategy adjustment to enhance their trading operations. These institutions [leverage](../l/leverage.md) advanced analytics and machine learning to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
+Institutional investors, such as [hedge](../h/hedge.md) funds and [investment banks](../i/investment_bank_(ib).md), use real-time strategy adjustment to enhance their trading operations. These institutions [leverage](../l/leverage.md) advanced analytics and [machine learning](../m/machine_learning.md) to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
 
-- [Two Sigma](https://www.twosigma.com/): Two Sigma is a data-driven investment [firm](../f/firm.md) that uses machine learning and advanced analytics for [quantitative trading](../q/quantitative_trading.md). Their [adaptive algorithms](../a/adaptive_algorithms.md) continuously adjust strategies based on real-time data to achieve consistent returns.
+- [Two Sigma](https://www.twosigma.com/): Two Sigma is a data-driven investment [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and advanced analytics for [quantitative trading](../q/quantitative_trading.md). Their [adaptive algorithms](../a/adaptive_algorithms.md) continuously adjust strategies based on real-time data to achieve consistent returns.
 
 ### Retail Trading Platforms
 
@@ -104,4 +104,4 @@ The future of real-time strategy adjustment lies in advancements in [artificial 
 
 ## Conclusion
 
-Real-time strategy adjustment is a pivotal component of [algorithmic trading](../a/algorithmic_trading.md), enabling algorithms to adapt and respond to dynamic [market](../m/market.md) conditions. By leveraging advanced techniques such as machine learning, statistical methods, and [automated market making](../a/automated_market_making.md), [trading algorithms](../t/trading_algorithms.md) can optimize their performance and profitability. Despite challenges related to data quality, regulatory compliance, and ethical considerations, the future of real-time strategy adjustment is promising, with emerging technologies poised to revolutionize the field.
+Real-time strategy adjustment is a pivotal component of [algorithmic trading](../a/algorithmic_trading.md), enabling algorithms to adapt and respond to dynamic [market](../m/market.md) conditions. By leveraging advanced techniques such as [machine learning](../m/machine_learning.md), statistical methods, and [automated market making](../a/automated_market_making.md), [trading algorithms](../t/trading_algorithms.md) can optimize their performance and profitability. Despite challenges related to data quality, regulatory compliance, and ethical considerations, the future of real-time strategy adjustment is promising, with emerging technologies poised to revolutionize the field.

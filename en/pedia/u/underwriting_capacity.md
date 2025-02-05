@@ -40,7 +40,7 @@ For [investment banks](../i/investment_bank_(ib).md), [underwriting](../u/underw
 Government regulations impose guidelines on [underwriting](../u/underwriting.md) practices, including [capital](../c/capital.md) reserves and [risk management](../r/risk_management.md) strategies. Compliance with these regulations often dictates the available [underwriting](../u/underwriting.md) capacity for institutions.
 
 ### Technological Advancements
-Advanced technologies in [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning have transformed [risk](../r/risk.md) assessment. These technologies allow for more accurate predictions, which can expand [underwriting](../u/underwriting.md) capacity by reducing unforeseen risks.
+Advanced technologies in [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) have transformed [risk](../r/risk.md) assessment. These technologies allow for more accurate predictions, which can expand [underwriting](../u/underwriting.md) capacity by reducing unforeseen risks.
 
 ### Company’s Financial Health
 The overall [financial health](../f/financial_health.md) of the [underwriting](../u/underwriting.md) institution is another crucial [factor](../f/factor.md). Institutions with [robust](../r/robust.md) financials can afford to take on more [risk](../r/risk.md), thus increasing their [underwriting](../u/underwriting.md) capacity.

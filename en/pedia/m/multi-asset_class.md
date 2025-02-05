@@ -61,7 +61,7 @@ While multi-[asset class](../a/asset_class.md) [investing](../i/investing.md) of
 
 ## Algotrading in Multi-Asset Class Investing
 
-[Algorithmic trading](../a/accountability.md), or algotrading, is increasingly being used in multi-[asset class](../a/asset_class.md) [investing](../i/investing.md). Algotrading involves using algorithms to make trading decisions automatically based on pre-set criteria or machine learning models. 
+[Algorithmic trading](../a/accountability.md), or algotrading, is increasingly being used in multi-[asset class](../a/asset_class.md) [investing](../i/investing.md). Algotrading involves using algorithms to make trading decisions automatically based on pre-set criteria or [machine learning](../m/machine_learning.md) models. 
 
 ### Benefits of Algotrading in Multi-Asset Class
 
@@ -81,7 +81,7 @@ This strategy is based on the idea that [asset](../a/asset.md) prices [will](../
 [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or [asset](../a/asset.md) classes. Algorithms can quickly identify and [capitalize](../c/capitalize.md) on these discrepancies, making small but consistent profits.
 
 #### Machine Learning-Based Strategies
-Using machine learning models, algorithms can identify complex patterns and predictions from historical data. These models continuously learn and adapt, improving their performance over time.
+Using [machine learning](../m/machine_learning.md) models, algorithms can identify complex patterns and predictions from historical data. These models continuously learn and adapt, improving their performance over time.
 
 ## Fintech's Role in Multi-Asset Class Investing
 

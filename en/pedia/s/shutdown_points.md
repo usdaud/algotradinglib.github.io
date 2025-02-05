@@ -66,7 +66,7 @@ While shutdown points are generally accepted as necessary safeguards, they are n
 
 Looking forward, the future of shutdown points might evolve in several ways:
 
-- **Adaptive Models**: With advancements in machine learning and AI, more adaptive and dynamic models for shutdown points could be developed, responding in real-time to evolving [market](../m/market.md) conditions.
+- **Adaptive Models**: With advancements in [machine learning](../m/machine_learning.md) and AI, more adaptive and dynamic models for shutdown points could be developed, responding in real-time to evolving [market](../m/market.md) conditions.
 - **Global Coordination**: As [financial markets](../f/financial_market.md) become increasingly interconnected, there may be a push for more coordinated global shutdown mechanisms to manage cross-[market](../m/market.md) [volatility](../v/volatility.md) effectively.
 - **Technological Integration**: Increased integration of [blockchain](../b/blockchain_in_trading.md) and decentralized [finance](../f/finance.md) (DeFi) models could also lead to new, innovative forms of [market](../m/market.md) safeguards.
 

@@ -28,7 +28,7 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 [Monte Carlo simulation](../m/monte_carlo_simulation.md) employs random [sampling](../s/sampling.md) to compute the possible outcomes of a portfolio or system through numerous iterations. It's valuable for modeling [uncertainty](../u/uncertainty_in_trading.md) and [risk](../r/risk.md).
 
 ### 5. Machine Learning
-Machine learning techniques, including [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md), are increasingly used in quantitative [risk](../r/risk.md) [forecasting](../f/forecasting.md) to identify complex patterns and predict future [risk](../r/risk.md) dynamics.
+[Machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md), are increasingly used in quantitative [risk](../r/risk.md) [forecasting](../f/forecasting.md) to identify complex patterns and predict future [risk](../r/risk.md) dynamics.
 
 ## Tools
 

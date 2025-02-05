@@ -99,7 +99,7 @@ Certain markets have regulations that might affect how imbalance data can be use
 
 ### Machine Learning Integration
 
-The integration of machine learning techniques for better [predictive analytics](../p/predictive_analytics.md) based on [bid](../b/bid.md)-ask imbalance is an upcoming [trend](../t/trend.md). Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of this development.
+The integration of [machine learning](../m/machine_learning.md) techniques for better [predictive analytics](../p/predictive_analytics.md) based on [bid](../b/bid.md)-ask imbalance is an upcoming [trend](../t/trend.md). Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of this development.
 
 ### Advanced Metrics
 

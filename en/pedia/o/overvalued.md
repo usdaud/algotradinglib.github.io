@@ -53,7 +53,7 @@ This involves evaluating [financial statements](../f/financial_statements.md), [
 Technical analysts use historical price charts and trading volumes to predict future price movements. Overvalued [stocks](../s/stock.md) often exhibit rapid price increases without substantive improvements in [underlying](../u/underlying.md) fundamentals.
 
 ### Quantitative Models 
-Quantitative analysts develop algorithms and models to identify overvalued [stocks](../s/stock.md) based on statistical methods and historical data. These models may incorporate machine learning techniques to improve accuracy.
+Quantitative analysts develop algorithms and models to identify overvalued [stocks](../s/stock.md) based on statistical methods and historical data. These models may incorporate [machine learning](../m/machine_learning.md) techniques to improve accuracy.
 
 ## Implications of Overvaluation
 Overvalued [stocks](../s/stock.md) pose risks to investors. They may lead to significant losses if the [market](../m/market.md) corrects the stock price to its [intrinsic value](../i/intrinsic_value.md).

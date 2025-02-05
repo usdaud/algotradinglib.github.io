@@ -116,7 +116,7 @@ Large traders often deploy high-frequency [trading systems](../t/trading_systems
 
 ### Data Analytics
 
-[Data analytics](../d/data_analytics.md) play a crucial role in the decision-making process of large traders. By analyzing vast amounts of [market](../m/market.md) data, traders can identify patterns, trends, and potential trading opportunities. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being used to enhance predictive accuracy.
+[Data analytics](../d/data_analytics.md) play a crucial role in the decision-making process of large traders. By analyzing vast amounts of [market](../m/market.md) data, traders can identify patterns, trends, and potential trading opportunities. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being used to enhance predictive accuracy.
 
 ### Latency Arbitrage
 
@@ -146,7 +146,7 @@ Citadel Securities, founded by Ken Griffin, is one of the leading [market](../m/
 
 ### Two Sigma
 
-Two Sigma, founded by John Overdeck and David Siegel, is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs machine learning and AI to analyze vast amounts of data and identify trading opportunities. Two Sigma's approach to [algorithmic trading](../a/algorithmic_trading.md) exemplifies the integration of technology and [finance](../f/finance.md) [Website](https://www.twosigma.com).
+Two Sigma, founded by John Overdeck and David Siegel, is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md) and AI to analyze vast amounts of data and identify trading opportunities. Two Sigma's approach to [algorithmic trading](../a/algorithmic_trading.md) exemplifies the integration of technology and [finance](../f/finance.md) [Website](https://www.twosigma.com).
 
 ## Conclusion
 

@@ -100,7 +100,7 @@ As emerging markets continue to grow, the establishment and enforcement of [usur
 
 ### Artificial Intelligence (AI)
 
-AI and machine learning are increasingly used to monitor compliance with [usury laws](../u/usury_laws.md). These technologies can analyze vast amounts of data to detect potential violations and ensure lenders adhere to legal limits.
+AI and [machine learning](../m/machine_learning.md) are increasingly used to monitor compliance with [usury laws](../u/usury_laws.md). These technologies can analyze vast amounts of data to detect potential violations and ensure lenders adhere to legal limits.
 
 ### Policy Innovations
 

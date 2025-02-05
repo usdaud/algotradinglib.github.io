@@ -50,7 +50,7 @@ The technology [market](../m/market.md), especially for consumer electronics lik
 
 2. **[Multicollinearity](../m/multicollinearity.md)**: When independent variables are highly correlated, it becomes difficult to determine the individual effect of each characteristic on the price. This can lead to unreliable coefficient estimates.
 
-3. **Non-Linear Relationships**: The assumption of a [linear relationship](../l/linear_relationship.md) between characteristics and price may not always [hold](../h/hold.md). In such cases, more advanced techniques like non-[linear regression](../l/linear_regression.md) or machine learning models may be required.
+3. **Non-Linear Relationships**: The assumption of a [linear relationship](../l/linear_relationship.md) between characteristics and price may not always [hold](../h/hold.md). In such cases, more advanced techniques like non-[linear regression](../l/linear_regression.md) or [machine learning](../m/machine_learning.md) models may be required.
 
 4. **Omitted Variable Bias**: If important characteristics influencing the price are omitted from the model, the estimates for included characteristics can be biased, leading to incorrect conclusions.
 
@@ -89,7 +89,7 @@ This transformation can stabilize variance and make the relationship between var
 
 ### Machine Learning Techniques
 
-Machine learning offers several sophisticated methods to analyze complex datasets in [hedonic pricing](../h/hedonic_pricing.md) models. Techniques like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines (GBM), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) can capture intricate patterns and interactions between characteristics that traditional regression might miss.
+[Machine learning](../m/machine_learning.md) offers several sophisticated methods to analyze complex datasets in [hedonic pricing](../h/hedonic_pricing.md) models. Techniques like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines (GBM), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) can capture intricate patterns and interactions between characteristics that traditional regression might miss.
 
 #### Example: Random Forests
 

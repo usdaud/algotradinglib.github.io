@@ -80,7 +80,7 @@ Technological innovations have significantly improved the [efficiency](../e/effi
 
 ### Data Analytics
 
-[Data analytics](../d/data_analytics.md) and machine learning are playing an increasingly important role in optimizing oil production and [trading strategies](../t/trading_strategies.md). [Predictive analytics](../p/predictive_analytics.md) can forecast [market](../m/market.md) movements, helping traders make informed decisions. Oil companies are also using [data analytics](../d/data_analytics.md) to monitor and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
+[Data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) are playing an increasingly important role in optimizing oil production and [trading strategies](../t/trading_strategies.md). [Predictive analytics](../p/predictive_analytics.md) can forecast [market](../m/market.md) movements, helping traders make informed decisions. Oil companies are also using [data analytics](../d/data_analytics.md) to monitor and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Key Players
 

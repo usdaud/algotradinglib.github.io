@@ -42,7 +42,7 @@ Regularly monitoring and evaluating the portfolio's [risk](../r/risk.md) ensures
 
 ### Algorithmic Trading and Risk Management
 
-In the era of [algorithmic trading](../a/algorithmic_trading.md), portfolio [risk management](../r/risk_management.md) has evolved to incorporate complex algorithms and machine learning models. These sophisticated tools help in identifying patterns, predicting risks, and making real-time adjustments. Some of the prevailing techniques include:
+In the era of [algorithmic trading](../a/algorithmic_trading.md), portfolio [risk management](../r/risk_management.md) has evolved to incorporate complex algorithms and [machine learning](../m/machine_learning.md) models. These sophisticated tools help in identifying patterns, predicting risks, and making real-time adjustments. Some of the prevailing techniques include:
 
 - **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Utilized for [predictive analytics](../p/predictive_analytics.md) and identifying [market](../m/market.md) trends.
 - **[Automated Trading Systems](../a/automated_trading_systems.md)**: Execute pre-set [trading rules](../t/trading_rules.md) to minimize human error and optimize [efficiency](../e/efficiency.md).

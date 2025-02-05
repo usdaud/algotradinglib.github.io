@@ -70,7 +70,7 @@ High-frequency trading involves executing large numbers of orders at extremely h
 Using [sentiment analysis](../s/sentiment_analysis.md) and [predictive analytics](../p/predictive_analytics.md) based on [social media](../s/social_media.md), news, and other sources can help create [trading models](../t/trading_models.md) that predict [market](../m/market.md) movements. Algorithms can be programmed to react to sentiment shifts much faster than manual processes.
 
 ### Machine Learning Models
-Machine learning models can identify complex patterns and trends that are not immediately obvious. Utilizing these models in [trading strategies](../t/trading_strategies.md) can lead to more informed decision-making, potentially yielding better financial results.
+[Machine learning](../m/machine_learning.md) models can identify complex patterns and trends that are not immediately obvious. Utilizing these models in [trading strategies](../t/trading_strategies.md) can lead to more informed decision-making, potentially yielding better financial results.
 
 ## Ethical Considerations and Risks
 

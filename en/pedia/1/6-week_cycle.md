@@ -42,7 +42,7 @@ Commodities also exhibit this cycle, often influenced by [inventory](../i/invent
 Algorithms use moving averages, RSI, and Fourier Transform to identify the onset and conclusion of the 6-week cycle. 
 
 ### Filtering Noise
-Advanced [noise](../n/noise.md)-filtering techniques ensure that the signals are not false positives, incorporating machine learning models for enhanced accuracy.
+Advanced [noise](../n/noise.md)-filtering techniques ensure that the signals are not false positives, incorporating [machine learning](../m/machine_learning.md) models for enhanced accuracy.
 
 ### Trade Execution
 Once a signal is generated, the [trade](../t/trade.md) [execution](../e/execution.md) phase focuses on optimizing entry and exit points to maximize profitability. High-frequency trading platforms like [AlgoTrader](https://www.algotrader.com) [offer](../o/offer.md) features that can be leveraged for executing these trades efficiently.
@@ -69,7 +69,7 @@ Effective [position sizing](../p/position_sizing.md) methods balance the [risk](
 ## Future Prospects and Challenges
 
 ### Advances in Machine Learning
-Machine learning models are increasingly employed to fine-tune the identification and trading based on the 6-week cycle, although it poses challenges in terms of data [overfitting](../o/overfitting.md) and model interpretability.
+[Machine learning](../m/machine_learning.md) models are increasingly employed to fine-tune the identification and trading based on the 6-week cycle, although it poses challenges in terms of data [overfitting](../o/overfitting.md) and model interpretability.
 
 ### Regulatory Concerns
 Regulation changes can affect [market cycles](../m/market_cycles.md), including the 6-week pattern. Keeping algorithms compliant with ever-changing laws is crucial.

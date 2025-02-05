@@ -62,7 +62,7 @@ Renaissance Technologies, a pioneering [hedge fund](../h/hedge_fund.md), employs
 
 ### Two Sigma
 
-Two Sigma uses machine learning and distributed computing to develop model-driven [trading strategies](../t/trading_strategies.md). Variance reduction is integral to their approach to creating stable returns.
+Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to develop model-driven [trading strategies](../t/trading_strategies.md). Variance reduction is integral to their approach to creating stable returns.
 
 [Website](https://www.twosigma.com/)
 

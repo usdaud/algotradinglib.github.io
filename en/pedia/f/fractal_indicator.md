@@ -132,7 +132,7 @@ To mitigate some of the limitations, traders often combine the Fractal [Indicato
 
 3. **Multi-timeframe Analysis**: Analyzing fractals across [multiple](../m/multiple.md) timeframes can provide a broader perspective. Confirming signals on higher timeframes can reduce the likelihood of whipsaws on lower timeframes.
 
-4. **Algorithmic Enhancements**: Employ machine learning models to refine signal generation. For instance, a classification model could be trained to predict the probability of a fractal signal leading to a profitable [trade](../t/trade.md) based on historical patterns.
+4. **Algorithmic Enhancements**: Employ [machine learning](../m/machine_learning.md) models to refine signal generation. For instance, a classification model could be trained to predict the probability of a fractal signal leading to a profitable [trade](../t/trade.md) based on historical patterns.
 
 ## Conclusion
 

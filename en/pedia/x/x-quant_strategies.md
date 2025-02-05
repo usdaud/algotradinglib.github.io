@@ -4,7 +4,7 @@ X-Quant Strategies refer to sophisticated and often [proprietary trading](../p/p
 
 ## What are X-Quant Strategies?
 
-X-Quant Strategies represent a subset of [algorithmic trading](../a/algorithmic_trading.md) strategies that rely heavily on [quantitative analysis](../q/quantitative_analysis.md) and handling large volumes of financial data. The "X" can represent various sophisticated methodologies or proprietary techniques that set a particular quant strategy apart from standard quant strategies. Typical elements of these strategies include [stochastic calculus](../s/stochastic_calculus.md), machine learning, [big data analytics](../b/big_data_analytics_in_trading.md), and other high-end quantitative methodologies.
+X-Quant Strategies represent a subset of [algorithmic trading](../a/algorithmic_trading.md) strategies that rely heavily on [quantitative analysis](../q/quantitative_analysis.md) and handling large volumes of financial data. The "X" can represent various sophisticated methodologies or proprietary techniques that set a particular quant strategy apart from standard quant strategies. Typical elements of these strategies include [stochastic calculus](../s/stochastic_calculus.md), [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and other high-end quantitative methodologies.
 
 ## The Development of X-Quant Strategies
 
@@ -22,7 +22,7 @@ Once the data is acquired, [quantitative analysis](../q/quantitative_analysis.md
 
 - **Statistical Methods**: Including but not limited to [regression analysis](../r/regression_analysis.md), time-series analysis, and [hypothesis testing](../h/hypothesis_testing.md).
 - **[Stochastic Calculus](../s/stochastic_calculus.md)**: Used for modeling random processes including stock prices.
-- **Machine Learning**: Both supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) for pattern detection and [predictive modeling](../p/predictive_modeling.md).
+- **[Machine Learning](../m/machine_learning.md)**: Both supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) for pattern detection and [predictive modeling](../p/predictive_modeling.md).
 
 ### 3. Model Development
 
@@ -30,7 +30,7 @@ Model development is the crux of X-Quant Strategies. Here, the processed data is
 
 - **[Arbitrage](../a/arbitrage.md) Models**: Designed to exploit price differentials in different markets or instruments.
 - **[Factor Models](../f/factor_models.md)**: Use of [multiple](../m/multiple.md) factors (e.g., [momentum](../m/momentum.md), [value](../v/value.md), size) to explain [asset](../a/asset.md) returns.
-- **[Predictive Models](../p/predictive_models_in_trading.md)**: Machine learning models that predict future price movements based on historical data.
+- **[Predictive Models](../p/predictive_models_in_trading.md)**: [Machine learning](../m/machine_learning.md) models that predict future price movements based on historical data.
 
 ### 4. Backtesting
 
@@ -99,7 +99,7 @@ For more information: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 
-Two Sigma is another prominent example, employing [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to manage assets across various strategies spanning global markets.
+Two Sigma is another prominent example, employing [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to manage assets across various strategies spanning global markets.
 
 For more information: [Two Sigma](https://www.twosigma.com/)
 
@@ -119,7 +119,7 @@ Ensuring the quality and integrity of data is crucial. Poor quality data can lea
 
 ### 2. Overfitting
 
-[Overfitting](../o/overfitting.md) occurs when a model performs extremely well on historical data but fails to generalize to new data. This is a common pitfall in machine learning-based strategies.
+[Overfitting](../o/overfitting.md) occurs when a model performs extremely well on historical data but fails to generalize to new data. This is a common pitfall in [machine learning](../m/machine_learning.md)-based strategies.
 
 ### 3. Technological Infrastructure
 

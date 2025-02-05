@@ -91,7 +91,7 @@ This script downloads historical price data for Apple Inc. (AAPL), calculates da
 
 Several companies have made significant strides in [algorithmic trading](../a/algorithmic_trading.md), leveraging concepts like autocorrelation to develop advanced [trading strategies](../t/trading_strategies.md). These firms often employ teams of quantitative analysts, data scientists, and software engineers to create and refine their [trading algorithms](../t/trading_algorithms.md).
 
-1. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that uses machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to create [quantitative models](../q/quantitative_models.md). [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create [quantitative models](../q/quantitative_models.md). [Two Sigma](https://www.twosigma.com/)
 
 2. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that adopts a [quantitative trading](../q/quantitative_trading.md) approach across various [asset](../a/asset.md) classes. [Jane Street](https://www.janestreet.com/)
 

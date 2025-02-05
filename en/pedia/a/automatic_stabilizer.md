@@ -54,7 +54,7 @@ Modern [algorithmic trading](../a/accountability.md) systems increasingly incorp
 
 ### Backtesting and Machine Learning
 
-[Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) often utilize historical data to backtest strategies. With machine learning models, traders can analyze how automatic stabilizers impacted [market](../m/market.md) conditions in the past, helping refine algorithms for better future performance. This historical data includes periods of [recession](../r/recession.md) and [economic growth](../e/economic_growth.md), providing comprehensive insights into [economic cycles](../e/economic_cycles.md).
+[Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) often utilize historical data to backtest strategies. With [machine learning](../m/machine_learning.md) models, traders can analyze how automatic stabilizers impacted [market](../m/market.md) conditions in the past, helping refine algorithms for better future performance. This historical data includes periods of [recession](../r/recession.md) and [economic growth](../e/economic_growth.md), providing comprehensive insights into [economic cycles](../e/economic_cycles.md).
 
 ### Risk Management
 
@@ -73,7 +73,7 @@ Renaissance Technologies, founded by James Simons, is known for its Medallion [F
 
 ### Case Study 2: Two Sigma Investments
 
-Two Sigma Investments leverages machine learning, distributed computing, and large-scale data analysis to drive its [trading strategies](../t/trading_strategies.md). Two Sigma’s algorithms consider variables such as tax [receipts](../r/receipt.md) and [unemployment](../u/unemployment.md) data to gauge economic health and adapt [trading algorithms](../t/trading_algorithms.md) dynamically. Their data-rich approach provides a competitive edge in [market](../m/market.md) predictions.
+Two Sigma Investments leverages [machine learning](../m/machine_learning.md), distributed computing, and large-scale data analysis to drive its [trading strategies](../t/trading_strategies.md). Two Sigma’s algorithms consider variables such as tax [receipts](../r/receipt.md) and [unemployment](../u/unemployment.md) data to gauge economic health and adapt [trading algorithms](../t/trading_algorithms.md) dynamically. Their data-rich approach provides a competitive edge in [market](../m/market.md) predictions.
 [Visit Two Sigma](https://www.twosigma.com/)
 
 ### Case Study 3: Citadel LLC
@@ -89,7 +89,7 @@ As [algorithmic trading](../a/accountability.md) evolves, the integration of rea
 
 ### Artificial Intelligence and Machine Learning
 
-The use of AI and machine learning in [algorithmic trading](../a/accountability.md) [will](../w/will.md) continue to grow. These technologies can identify complex patterns and relationships in economic data that human analysts may miss. By training AI models on historical data, including the impact of automatic stabilizers, traders can develop more [robust](../r/robust.md) and [adaptive algorithms](../a/adaptive_algorithms.md).
+The use of AI and [machine learning](../m/machine_learning.md) in [algorithmic trading](../a/accountability.md) [will](../w/will.md) continue to grow. These technologies can identify complex patterns and relationships in economic data that human analysts may miss. By training AI models on historical data, including the impact of automatic stabilizers, traders can develop more [robust](../r/robust.md) and [adaptive algorithms](../a/adaptive_algorithms.md).
 
 ### Regulatory Advances
 

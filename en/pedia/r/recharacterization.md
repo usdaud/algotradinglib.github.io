@@ -108,7 +108,7 @@ With advancements in financial technology (FinTech), the process of recharacteri
 
 #### Example: Trading Algorithms
 
-Automated [trading algorithms](../t/trading_algorithms.md), such as those used in [algorithmic trading](../a/accountability.md) or robo-advisors, often need to apply recharacterization to maintain compliance with regulatory frameworks or optimize tax outcomes. The use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning allows for continuous monitoring and dynamic recharacterization based on the real-time assessment of financial data.
+Automated [trading algorithms](../t/trading_algorithms.md), such as those used in [algorithmic trading](../a/accountability.md) or robo-advisors, often need to apply recharacterization to maintain compliance with regulatory frameworks or optimize tax outcomes. The use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) allows for continuous monitoring and dynamic recharacterization based on the real-time assessment of financial data.
 
 #### Examples from FinTech Companies
 

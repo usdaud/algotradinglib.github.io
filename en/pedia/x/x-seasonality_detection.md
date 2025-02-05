@@ -50,7 +50,7 @@ Collecting and integrating data from [multiple](../m/multiple.md) sources is cru
 
 ## Analytical Techniques
 Several methods can be employed to enhance [seasonality](../s/seasonality.md) detection:
-- **Machine Learning (ML)**: Utilizing supervised and unsupervised learning techniques to identify patterns.
+- **[Machine Learning](../m/machine_learning.md) (ML)**: Utilizing supervised and [unsupervised learning](../u/unsupervised_learning.md) techniques to identify patterns.
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Applying ARIMA, GARCH, and other models to forecast seasonal components.
 - **[Signal Processing](../s/signal_processing_in_trading.md)**: Using Fourier Transforms to parse out cyclical components from [noise](../n/noise.md).
 - **[Anomaly Detection](../a/anomaly_detection.md)**: Techniques like Isolation Forests to detect unusual events.
@@ -63,7 +63,7 @@ Steps include:
 1. **Data Collection**: Gather historical and real-time data.
 2. **Preprocessing**: Clean and normalize the data for consistency.
 3. **Feature Engineering**: Create features representing [seasonality](../s/seasonality.md), sentiment, and [economic indicators](../e/economic_indicators.md).
-4. **Model Training**: Use machine learning models to identify patterns.
+4. **Model Training**: Use [machine learning](../m/machine_learning.md) models to identify patterns.
 5. **[Backtesting](../b/backtesting.md)**: Test the strategy against historical data to ensure robustness.
 6. **Deployment**: Implement the strategy in a live [trading environment](../t/trading_environment.md).
 

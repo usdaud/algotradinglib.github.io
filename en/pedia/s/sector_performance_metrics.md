@@ -104,7 +104,7 @@ print(f"[Total Return](../t/total_return.md): {total_return_percentage}%")
 Using metrics like [Beta](../b/beta.md) and [Drawdown](../d/drawdown.md), algorithms can design and implement sophisticated [risk management](../r/risk_management.md) protocols. For instance, dynamic [rebalancing algorithms](../r/rebalancing_algorithms.md) adjust portfolio allocations based on real-time changes in [sector volatility](../s/sector_volatility.md) and [risk](../r/risk.md).
 
 ### Predictive Modeling
-Machine learning models can be trained on historical sector [performance metrics](../p/performance_metrics.md) to forecast future performance. These models can then generate [trading signals](../t/trading_signals.md) based on predicted movements, enhancing the profitability of [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) models can be trained on historical sector [performance metrics](../p/performance_metrics.md) to forecast future performance. These models can then generate [trading signals](../t/trading_signals.md) based on predicted movements, enhancing the profitability of [trading strategies](../t/trading_strategies.md).
 
 ### Backtesting
 Algo [trading systems](../t/trading_systems.md) utilize [backtesting](../b/backtesting.md) to validate the effectiveness of strategies that incorporate sector [performance metrics](../p/performance_metrics.md). By simulating trades using historical data, traders can make data-driven refinements to their algorithms.

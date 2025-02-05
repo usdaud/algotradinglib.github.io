@@ -73,7 +73,7 @@ Algorithms use historical data to backtest [overbought](../o/overbought.md) cond
 ### Quants and Hedge Funds
 
 - **Renaissance Technologies**: Known for its Medallion [fund](../f/fund.md), Renaissance employs complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit inefficiencies in the [market](../m/market.md), including algorithmic detection of [overbought](../o/overbought.md) signals.
-- **Two Sigma**: This company uses AI and machine learning along with [algorithmic trading](../a/algorithmic_trading.md) strategies. Learn more at [Two Sigma](https://www.twosigma.com).
+- **Two Sigma**: This company uses AI and [machine learning](../m/machine_learning.md) along with [algorithmic trading](../a/algorithmic_trading.md) strategies. Learn more at [Two Sigma](https://www.twosigma.com).
 
 ### Trading Platforms and Software
 

@@ -40,7 +40,7 @@ Ideas for new [trading algorithms](../t/trading_algorithms.md) come from various
 
 Different models can be employed depending on the strategy:
 * **Statistical Models**: [Mean reversion](../m/mean_reversion.md), cointegration
-* **Machine Learning Models**: SVM, KNN, deep [learning algorithms](../l/learning_algorithms_in_trading.md)
+* **[Machine Learning](../m/machine_learning.md) Models**: SVM, KNN, deep [learning algorithms](../l/learning_algorithms_in_trading.md)
 * **[Technical Analysis](../t/technical_analysis.md) Models**: Moving averages, [Bollinger Bands](../b/bollinger_band.md)
 
 ### 3. Backtesting

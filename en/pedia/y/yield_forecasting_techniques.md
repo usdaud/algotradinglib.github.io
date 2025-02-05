@@ -23,7 +23,7 @@
 [Quantitative analysis](../q/quantitative_analysis.md) uses mathematical and statistical models for [yield forecasting](../y/yield_forecasting.md). It involves complex algorithms and high-powered computing for analyzing patterns and trends. Common quantitative techniques include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md):** Analyzes time-ordered data points to extract meaningful [statistics](../s/statistics.md) and other characteristics.
-- **Machine Learning Models:** Techniques such as regression models, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) to predict future yields based on historical data.
+- **[Machine Learning](../m/machine_learning.md) Models:** Techniques such as regression models, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) to predict future yields based on historical data.
 - **[Factor Models](../f/factor_models.md):** Involve identifying certain "factors" that can explain differences in [asset](../a/asset.md) returns, commonly employed in [risk management](../r/risk_management.md) and portfolio construction.
 
 ## 4. Macro-Economic Indicators
@@ -39,7 +39,7 @@ Macro-[economic indicators](../e/economic_indicators.md) are [statistics](../s/s
 [Sentiment analysis](../s/sentiment_analysis.md), also known as opinion [mining](../m/mining.md), involves analyzing the sentiments expressed in news articles, [social media](../s/social_media.md), and other online platforms. The sentiment can provide a leading edge as [market sentiment](../m/market_sentiment.md) often precedes [market](../m/market.md) movements. Techniques used in [sentiment analysis](../s/sentiment_analysis.md) include:
 
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** For extracting sentiment from text data.
-- **Machine Learning Classifiers:** Such as Naive Bayes, SVMs, and [deep learning](../d/deep_learning.md) models to categorize sentiment as positive, negative, or [neutral](../n/neutral.md).
+- **[Machine Learning](../m/machine_learning.md) Classifiers:** Such as Naive Bayes, SVMs, and [deep learning](../d/deep_learning.md) models to categorize sentiment as positive, negative, or [neutral](../n/neutral.md).
 
 ## 6. Event-Driven Strategies
 

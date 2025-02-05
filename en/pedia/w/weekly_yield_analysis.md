@@ -75,7 +75,7 @@ Consider a [hedge fund](../h/hedge_fund.md) employing [algorithmic trading](../a
 
 ### 9. Future Trends
 
-- **AI and Machine Learning**: These technologies [will](../w/will.md) play a significant role in enhancing weekly [yield analysis](../y/yield_analysis.md) through better prediction and adaptability.
+- **AI and [Machine Learning](../m/machine_learning.md)**: These technologies [will](../w/will.md) play a significant role in enhancing weekly [yield analysis](../y/yield_analysis.md) through better prediction and adaptability.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging large datasets for more comprehensive and accurate analysis.
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: Providing transparent and efficient data recording and processing.
 

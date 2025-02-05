@@ -74,7 +74,7 @@ Before deploying algorithms in live trading, they should be thoroughly tested us
 
 4. **Utilize Advanced Technologies**
 
-Leveraging technologies such as machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) can enhance [risk management](../r/risk_management.md) capabilities. These technologies help in identifying patterns, predicting risks, and optimizing [trading strategies](../t/trading_strategies.md).
+Leveraging technologies such as [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) can enhance [risk management](../r/risk_management.md) capabilities. These technologies help in identifying patterns, predicting risks, and optimizing [trading strategies](../t/trading_strategies.md).
 
 5. **Conduct Regular Audits and Reviews**
 

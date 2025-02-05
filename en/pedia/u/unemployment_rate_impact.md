@@ -47,7 +47,7 @@ Changes in the [unemployment rate](../u/unemployment_rate.md) can significantly 
 ### Data-Driven Decision Making
 
 - **[Quantitative Models](../q/quantitative_models.md)**: These use statistical and [mathematical models](../m/mathematical_models_in_trading.md) to predict [market](../m/market.md) movements based on historical data, including [unemployment](../u/unemployment.md) figures.
-- **Machine Learning**: Advanced algorithms can be trained to recognize patterns from historical [unemployment](../u/unemployment.md) data and predict future movements.
+- **[Machine Learning](../m/machine_learning.md)**: Advanced algorithms can be trained to recognize patterns from historical [unemployment](../u/unemployment.md) data and predict future movements.
 - **Event-Driven Strategies**: These algorithms are programmed to execute trades based on events such as the release of the [unemployment rate](../u/unemployment_rate.md).
 
 ### Practical Examples

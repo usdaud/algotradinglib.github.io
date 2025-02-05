@@ -98,7 +98,7 @@ AWS provides scalable computing resources and storage services necessary for run
 [Amazon Web Services](https://aws.amazon.com)
 
 ### Google Cloud Platform (GCP)
-Google Cloud Platform offers a [range](../r/range.md) of services, including Compute Engine, BigQuery for [data analytics](../d/data_analytics.md), and Machine Learning APIs to support [algorithmic trading](../a/algorithmic_trading.md).
+Google Cloud Platform offers a [range](../r/range.md) of services, including Compute Engine, BigQuery for [data analytics](../d/data_analytics.md), and [Machine Learning](../m/machine_learning.md) APIs to support [algorithmic trading](../a/algorithmic_trading.md).
 
 [Google Cloud Platform](https://cloud.google.com)
 
@@ -110,17 +110,17 @@ Azure provides [cloud computing](../c/cloud_computing_in_trading.md) services fo
 ## 7. Machine Learning Libraries
 
 ### TensorFlow
-Developed by Google, TensorFlow is an [open](../o/open.md)-source machine learning library that provides [robust](../r/robust.md) tools for building and training models. It is widely used for both research and production in [algorithmic trading](../a/algorithmic_trading.md).
+Developed by Google, [TensorFlow](../t/tensorflow.md) is an [open](../o/open.md)-source [machine learning](../m/machine_learning.md) library that provides [robust](../r/robust.md) tools for building and training models. It is widely used for both research and production in [algorithmic trading](../a/algorithmic_trading.md).
 
 [TensorFlow](https://www.tensorflow.org)
 
 ### Scikit-Learn
-Scikit-Learn is a Python library for machine learning that focuses on [data mining](../d/data_mining.md) and data analysis. It offers simple and efficient tools for predictive data analysis, making it suitable for [backtesting](../b/backtesting.md) and prediction models.
+Scikit-Learn is a Python library for [machine learning](../m/machine_learning.md) that focuses on [data mining](../d/data_mining.md) and data analysis. It offers simple and efficient tools for predictive data analysis, making it suitable for [backtesting](../b/backtesting.md) and prediction models.
 
 [Scikit-Learn](https://scikit-learn.org)
 
 ### Keras
-Keras is an [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md). It acts as an interface for TensorFlow and is particularly focused on enabling fast experimentation.
+[Keras](../k/keras.md) is an [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md). It acts as an interface for [TensorFlow](../t/tensorflow.md) and is particularly focused on enabling fast experimentation.
 
 [Keras](https://keras.io)
 

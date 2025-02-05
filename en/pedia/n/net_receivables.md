@@ -101,7 +101,7 @@ With the advent of financial technology (fintech), the management of net receiva
 
 2. **[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM)**: CRM systems like Salesforce and HubSpot enhance [customer](../c/customer.md) interaction, improving collection processes and minimizing bad debts.
 
-3. **[Predictive Analytics](../p/predictive_analytics.md)**: Machine learning models and AI can predict [payment](../p/payment.md) behaviors, streamline the [allowance for doubtful accounts](../a/allowance_for_doubtful_accounts.md), and optimize [cash flow](../c/cash_flow.md) [forecasting](../f/forecasting.md).
+3. **[Predictive Analytics](../p/predictive_analytics.md)**: [Machine learning](../m/machine_learning.md) models and AI can predict [payment](../p/payment.md) behaviors, streamline the [allowance for doubtful accounts](../a/allowance_for_doubtful_accounts.md), and optimize [cash flow](../c/cash_flow.md) [forecasting](../f/forecasting.md).
 
 4. **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology promises enhanced [transparency](../t/transparency.md), immutable records, and efficient contract management, which can significantly reduce disputes and ensure timely payments.
 

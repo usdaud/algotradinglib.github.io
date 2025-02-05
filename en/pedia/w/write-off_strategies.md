@@ -44,7 +44,7 @@ Event-driven [write-offs](../w/write-offs_in_trading.md) are triggered by specif
 
 ### Machine Learning Models
 
-Machine learning models can be employed to develop sophisticated [write-off](../w/write-off.md) strategies. These models analyze historical data to predict future price movements and identify the optimal points for exiting trades.
+[Machine learning](../m/machine_learning.md) models can be employed to develop sophisticated [write-off](../w/write-off.md) strategies. These models analyze historical data to predict future price movements and identify the optimal points for exiting trades.
 
 ### API Integration
 
@@ -84,6 +84,6 @@ Latency can be a significant [issue](../i/issue.md), especially in high-frequenc
 
 ## Conclusion
 
-[Write-off](../w/write-off.md) strategies are a critical component of [algorithmic trading](../a/algorithmic_trading.md), serving as a vital mechanism for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and regulatory compliance. By employing techniques such as [stop-loss orders](../s/stop-loss_orders.md), trailing stops, and machine learning models, traders can effectively manage their positions and minimize potential losses. However, challenges like data quality, latency, and [overfitting](../o/overfitting.md) must be addressed to ensure the successful deployment of these strategies.
+[Write-off](../w/write-off.md) strategies are a critical component of [algorithmic trading](../a/algorithmic_trading.md), serving as a vital mechanism for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and regulatory compliance. By employing techniques such as [stop-loss orders](../s/stop-loss_orders.md), trailing stops, and [machine learning](../m/machine_learning.md) models, traders can effectively manage their positions and minimize potential losses. However, challenges like data quality, latency, and [overfitting](../o/overfitting.md) must be addressed to ensure the successful deployment of these strategies.
 
 Developing and implementing effective [write-off](../w/write-off.md) strategies requires a combination of technical expertise, [robust](../r/robust.md) algorithms, and continuous monitoring. As markets evolve, so too must these strategies, making them an ongoing area of research and development in the field of [algorithmic trading](../a/algorithmic_trading.md).

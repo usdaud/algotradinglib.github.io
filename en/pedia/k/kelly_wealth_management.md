@@ -1,6 +1,6 @@
 # Kelly Wealth Management
 
-Kelly [Wealth Management](../w/wealth_management.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and investment advisory company leveraging the principles of algo trading and financial management to maximize [investor](../i/investor.md) returns and portfolio growth. Given the increasingly complex [market](../m/market.md) environment and the technological advancements in trading, Kelly [Wealth Management](../w/wealth_management.md) has positioned itself as a leader in the sector by utilizing advanced algorithms, machine learning techniques, [robust](../r/robust.md) [risk management](../r/risk_management.md) frameworks, and expert financial advisory services.
+Kelly [Wealth Management](../w/wealth_management.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and investment advisory company leveraging the principles of algo trading and financial management to maximize [investor](../i/investor.md) returns and portfolio growth. Given the increasingly complex [market](../m/market.md) environment and the technological advancements in trading, Kelly [Wealth Management](../w/wealth_management.md) has positioned itself as a leader in the sector by utilizing advanced algorithms, [machine learning](../m/machine_learning.md) techniques, [robust](../r/robust.md) [risk management](../r/risk_management.md) frameworks, and expert financial advisory services.
 
 ### **Core Principles of Kelly Wealth Management**
 
@@ -61,7 +61,7 @@ Kelly [Wealth Management](../w/wealth_management.md)'s research and analytics di
 
 Kelly [Wealth Management](../w/wealth_management.md) is at the forefront of integrating technological innovations into its operations, with a focus on the following areas:
 
-1. **Machine Learning and AI**: The use of machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to enhance [trading strategies](../t/trading_strategies.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md). These technologies enable the [firm](../f/firm.md) to analyze vast datasets, identify patterns, and make data-driven decisions.
+1. **[Machine Learning](../m/machine_learning.md) and AI**: The use of machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to enhance [trading strategies](../t/trading_strategies.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md). These technologies enable the [firm](../f/firm.md) to analyze vast datasets, identify patterns, and make data-driven decisions.
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrency**: Exploration of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrency markets to [offer](../o/offer.md) clients exposure to digital assets and decentralized [finance](../f/finance.md) (DeFi) opportunities. Kelly [Wealth Management](../w/wealth_management.md) is developing secure and compliant investment solutions in this rapidly evolving space.
 

@@ -57,7 +57,7 @@ By factoring in [volatility](../v/volatility.md) forecasts, portfolio managers c
 Website: [QuantConnect](https://www.quantconnect.com/)
 
 ### Numerai
-Numerai is a crowd-sourced [hedge fund](../h/hedge_fund.md) where data scientists from around the world develop machine learning models to predict [financial markets](../f/financial_market.md). Given the complexity and unpredictability of markets, models capable of understanding [volatility](../v/volatility.md) clustering are particularly valuable here.
+Numerai is a crowd-sourced [hedge fund](../h/hedge_fund.md) where data scientists from around the world develop [machine learning](../m/machine_learning.md) models to predict [financial markets](../f/financial_market.md). Given the complexity and unpredictability of markets, models capable of understanding [volatility](../v/volatility.md) clustering are particularly valuable here.
 Website: [Numerai](https://numer.ai/)
 
 ### QuantInsti
@@ -102,4 +102,4 @@ The future may see more integrated financial systems where [volatility](../v/vol
 
 ## Conclusion
 
-[Volatility](../v/volatility.md) clustering is a crucial concept in the field of [financial markets](../f/financial_market.md), impacting everything from [risk management](../r/risk_management.md) to [trading strategies](../t/trading_strategies.md). While traditional statistical models like GARCH still [hold](../h/hold.md) significance, new techniques involving machine learning and real-time analytics are paving the way for more accurate and efficient approaches. As computational capabilities evolve, so too [will](../w/will.md) our ability to understand and predict [volatility](../v/volatility.md), making [financial markets](../f/financial_market.md) more predictable and less susceptible to unanticipated risks.
+[Volatility](../v/volatility.md) clustering is a crucial concept in the field of [financial markets](../f/financial_market.md), impacting everything from [risk management](../r/risk_management.md) to [trading strategies](../t/trading_strategies.md). While traditional statistical models like GARCH still [hold](../h/hold.md) significance, new techniques involving [machine learning](../m/machine_learning.md) and real-time analytics are paving the way for more accurate and efficient approaches. As computational capabilities evolve, so too [will](../w/will.md) our ability to understand and predict [volatility](../v/volatility.md), making [financial markets](../f/financial_market.md) more predictable and less susceptible to unanticipated risks.

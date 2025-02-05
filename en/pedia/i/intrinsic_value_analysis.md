@@ -57,9 +57,9 @@ With [intrinsic value](../i/intrinsic_value.md) estimates, traders can develop a
 
 Several firms successfully integrate [intrinsic value](../i/intrinsic_value.md) analysis into their [trading algorithms](../t/trading_algorithms.md):
 
-1. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) using machine learning, distributed computing, and massive datasets to identify [market](../m/market.md) inefficiencies (https://www.twosigma.com/).
+1. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) using [machine learning](../m/machine_learning.md), distributed computing, and massive datasets to identify [market](../m/market.md) inefficiencies (https://www.twosigma.com/).
 2. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy strategies, [offering](../o/offering.md) a wide [range](../r/range.md) of tools for [fundamental analysis](../f/fundamental_analysis.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
-3. **Kensho Technologies**: Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and machine learning to analyze fundamental data and predict stock movements (https://www.kensho.com/).
+3. **Kensho Technologies**: Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and [machine learning](../m/machine_learning.md) to analyze fundamental data and predict stock movements (https://www.kensho.com/).
 
 #### Performance Metrics
 
@@ -87,7 +87,7 @@ Intricacies in modeling cash flows, [discount](../d/discount.md) rates, and grow
 
 #### AI and Machine Learning Advancements
 
-Continued advancements in AI and machine learning [will](../w/will.md) significantly enhance the precision and adaptability of [intrinsic value models](../i/intrinsic_value_models.md), incorporating increasingly complex data sources and [market](../m/market.md) signals.
+Continued advancements in AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) significantly enhance the precision and adaptability of [intrinsic value models](../i/intrinsic_value_models.md), incorporating increasingly complex data sources and [market](../m/market.md) signals.
 
 #### Integration with Quantum Computing
 

@@ -88,7 +88,7 @@ Algorithmic performance can be measured differently in various markets. For inst
 Jane Street [Capital](../c/capital.md) is a [firm](../f/firm.md) known for its expertise in [quantitative trading](../q/quantitative_trading.md) and research.
 
 ### 2. **Two Sigma Investments**
-Two Sigma leverages machine learning, distributed computing, and other technologies to make investment decisions.
+Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and other technologies to make investment decisions.
 
 ### 3. **Citadel LLC**
 Citadel is a global financial institution with a diverse [range](../r/range.md) of investments across [asset](../a/asset.md) classes.

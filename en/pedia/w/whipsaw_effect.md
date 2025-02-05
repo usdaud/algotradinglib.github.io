@@ -49,7 +49,7 @@ Frequent buying and selling in response to [whipsaw](../w/whipsaw.md) movements 
 
 ### Need for Adaptive Algorithms
 
-To mitigate the effects of [whipsaw](../w/whipsaw.md), some [algorithmic trading](../a/algorithmic_trading.md) systems incorporate [adaptive algorithms](../a/adaptive_algorithms.md) that can recognize and adjust to changing [market](../m/market.md) conditions. These systems use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve their predictive capabilities and reduce the likelihood of being caught in [whipsaw](../w/whipsaw.md) traps.
+To mitigate the effects of [whipsaw](../w/whipsaw.md), some [algorithmic trading](../a/algorithmic_trading.md) systems incorporate [adaptive algorithms](../a/adaptive_algorithms.md) that can recognize and adjust to changing [market](../m/market.md) conditions. These systems use [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve their predictive capabilities and reduce the likelihood of being caught in [whipsaw](../w/whipsaw.md) traps.
 
 ## Strategies to Mitigate Whipsaw
 

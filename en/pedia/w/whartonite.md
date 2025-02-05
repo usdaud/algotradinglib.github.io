@@ -66,7 +66,7 @@ The Wharton FinTech Club is a student-led initiative that explores the intersect
 
 ### Research and Innovation
 
-Wharton conducts cutting-edge research in fintech, often in collaboration with [industry](../i/industry.md) partners. This includes studies in [algorithmic trading](../a/accountability.md), machine learning applications, and the development of new financial instruments.
+Wharton conducts cutting-edge research in fintech, often in collaboration with [industry](../i/industry.md) partners. This includes studies in [algorithmic trading](../a/accountability.md), [machine learning](../m/machine_learning.md) applications, and the development of new financial instruments.
 
 ## Wharton Online
 

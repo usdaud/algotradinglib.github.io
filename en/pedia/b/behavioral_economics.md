@@ -45,7 +45,7 @@ One of the core assumptions of traditional financial models is the [Efficient Ma
 
 ### 2. Sentiment Analysis
 
-By utilizing [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning, algotraders can develop models to gauge [market sentiment](../m/market_sentiment.md) from [social media](../s/social_media.md), news articles, and other textual sources. An understanding of [market sentiment](../m/market_sentiment.md) can [offer](../o/offer.md) predictive power over price movements and [volatility](../v/volatility.md).
+By utilizing [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md), algotraders can develop models to gauge [market sentiment](../m/market_sentiment.md) from [social media](../s/social_media.md), news articles, and other textual sources. An understanding of [market sentiment](../m/market_sentiment.md) can [offer](../o/offer.md) predictive power over price movements and [volatility](../v/volatility.md).
 
 ### 3. Predictive Models
 

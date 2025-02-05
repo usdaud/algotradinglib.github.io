@@ -49,7 +49,7 @@ Regulations can significantly impact [algorithmic trading](../a/algorithmic_trad
 
 ### 8. Technological Developments
 Technological advancements can influence [algorithmic trading](../a/algorithmic_trading.md). This section may cover:
-- New Technologies: Emerging technologies like AI, machine learning, and [blockchain](../b/blockchain_in_trading.md).
+- New Technologies: Emerging technologies like AI, [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md).
 - System Upgrades: Upgrades in trading platforms or algorithms.
 - Cybersecurity: Measures taken to secure [trading systems](../t/trading_systems.md) against cyber threats.
 

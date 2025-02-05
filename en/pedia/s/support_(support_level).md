@@ -61,7 +61,7 @@ Fintech innovations have significantly enhanced the way [support levels](../s/su
 1. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**:
    Fintech enables the processing of large datasets to identify and analyze [support levels](../s/support_levels.md) more accurately, ensuring more informed trading decisions.
 
-2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**:
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**:
    AI and ML algorithms can learn from historical data, improving their ability to predict [support levels](../s/support_levels.md) and adapt to changing [market](../m/market.md) conditions.
 
 3. **Real-Time Data Feed**:

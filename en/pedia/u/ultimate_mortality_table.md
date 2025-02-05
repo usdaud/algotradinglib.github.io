@@ -92,7 +92,7 @@ With increasing lifespans, there's a growing concern of longevity [risk](../r/ri
 
 ### Technological Advances
 
-Advances in technology, such as machine learning and [big data](../b/big_data_in_trading.md), are [offering](../o/offering.md) new ways to create more accurate mortality tables. These technologies can analyze vast amounts of data and identify patterns that traditional methods might miss.
+Advances in technology, such as [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md), are [offering](../o/offering.md) new ways to create more accurate mortality tables. These technologies can analyze vast amounts of data and identify patterns that traditional methods might miss.
 
 ## Conclusion
 

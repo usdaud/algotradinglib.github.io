@@ -1,7 +1,7 @@
 # Structural Models
 
 ## Introduction
-Structural models in trading are mathematical frameworks used to understand and predict the behavior of [financial markets](../f/financial_market.md). These models are grounded in economic theory and integrate fundamental variables and processes that drive [asset](../a/asset.md) prices. Unlike purely statistical or machine learning models, structural models [leverage](../l/leverage.md) economic intuition and theoretical constructs to provide more [robust](../r/robust.md) and interpretable predictions.
+Structural models in trading are mathematical frameworks used to understand and predict the behavior of [financial markets](../f/financial_market.md). These models are grounded in economic theory and integrate fundamental variables and processes that drive [asset](../a/asset.md) prices. Unlike purely statistical or [machine learning](../m/machine_learning.md) models, structural models [leverage](../l/leverage.md) economic intuition and theoretical constructs to provide more [robust](../r/robust.md) and interpretable predictions.
 
 ## Components of Structural Models
 Structural models typically encompass several key components:
@@ -79,7 +79,7 @@ Several companies and tools have been instrumental in the development and applic
 [SAS](https://www.sas.com/) provides advanced analytics and [risk management](../r/risk_management.md) solutions. Their software is widely used in the [finance](../f/finance.md) [industry](../i/industry.md) for developing and implementing structural models.
 
 ### 6. Python and R
-Both [Python](https://www.python.org/) and [R](https://www.r-project.org/) are [open](../o/open.md)-source programming languages that have become increasingly popular for [financial modeling](../f/financial_modeling.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of libraries and packages for [econometrics](../e/econometrics_in_trading.md), statistical analysis, and machine learning.
+Both [Python](https://www.python.org/) and [R](https://www.r-project.org/) are [open](../o/open.md)-source programming languages that have become increasingly popular for [financial modeling](../f/financial_modeling.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of libraries and packages for [econometrics](../e/econometrics_in_trading.md), statistical analysis, and [machine learning](../m/machine_learning.md).
 
 ## Challenges and Limitations
 Despite their advantages, structural models also face several challenges and limitations:
@@ -103,7 +103,7 @@ There is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) when devel
 The future of structural models in trading is likely to be influenced by advancements in technology and data availability:
 
 ### 1. Big Data and Machine Learning
-The integration of [big data](../b/big_data_in_trading.md) and machine learning techniques can enhance structural models by providing more accurate and granular insights. For example, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be used to identify patterns in large datasets that traditional models might miss.
+The integration of [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) techniques can enhance structural models by providing more accurate and granular insights. For example, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be used to identify patterns in large datasets that traditional models might miss.
 
 ### 2. Real-Time Data Analysis
 Advancements in data processing and storage technologies are enabling real-time analysis of large volumes of data. This can help traders make more timely and informed decisions based on up-to-date information.

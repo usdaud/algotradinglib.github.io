@@ -65,7 +65,7 @@ For high-frequency trading, low-latency systems are paramount. Colocated servers
 Statistical [arbitrage](../a/arbitrage.md) involves using historical data and statistical models to predict short-term price movements. These models can be both high and low-frequency, depending on the timeframe of the trades.
 
 ### Machine Learning Algorithms
-Machine learning has become a powerful tool in trading [frequency analysis](../f/frequency_analysis.md). Algorithms can be trained to recognize patterns and make predictions that inform trading decisions at different frequencies.
+[Machine learning](../m/machine_learning.md) has become a powerful tool in trading [frequency analysis](../f/frequency_analysis.md). Algorithms can be trained to recognize patterns and make predictions that inform trading decisions at different frequencies.
 
 ### Backtesting Platforms
 [Backtesting](../b/backtesting.md) platforms allow traders to test their algorithms against historical data to evaluate their performance. This is crucial for validating [trading strategies](../t/trading_strategies.md) at any frequency.

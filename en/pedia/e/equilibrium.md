@@ -47,7 +47,7 @@ Hudson River Trading applies [quantitative trading](../q/quantitative_trading.md
 [Hudson River Trading](https://www.hudsonrivertrading.com/)
 
 ### Two Sigma
-Two Sigma employs data-driven models and machine learning to create [trading strategies](../t/trading_strategies.md) that contribute to [market](../m/market.md) equilibrium by identifying and exploiting small inefficiencies.
+Two Sigma employs data-driven models and [machine learning](../m/machine_learning.md) to create [trading strategies](../t/trading_strategies.md) that contribute to [market](../m/market.md) equilibrium by identifying and exploiting small inefficiencies.
 [Two Sigma](https://www.twosigma.com/)
 
 ## Challenges in Maintaining Equilibrium
@@ -64,7 +64,7 @@ The existence of [multiple](../m/multiple.md) trading venues with slightly diffe
 ## Achieving Long Term Equilibrium
 
 ### Adaptive Algorithms
-[Adaptive algorithms](../a/adaptive_algorithms.md) that learn from [market](../m/market.md) conditions and adjust their strategies accordingly are essential to maintain long-term equilibrium. This can be achieved through machine learning techniques and reinforcement learning.
+[Adaptive algorithms](../a/adaptive_algorithms.md) that learn from [market](../m/market.md) conditions and adjust their strategies accordingly are essential to maintain long-term equilibrium. This can be achieved through [machine learning](../m/machine_learning.md) techniques and [reinforcement learning](../r/reinforcement_learning.md).
 
 ### Risk Management
 Effective [risk management](../r/risk_management.md) strategies ensure that [trading algorithms](../t/trading_algorithms.md) do not create imbalances by taking on excessive [risk](../r/risk.md). This maintains equilibrium by avoiding [market](../m/market.md) destabilization due to large, unpredictable trades.

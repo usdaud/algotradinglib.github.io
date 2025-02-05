@@ -45,7 +45,7 @@ This model operates on the assumption that [asset](../a/asset.md) prices tend to
 These strategies [capitalize](../c/capitalize.md) on the persistence of [asset](../a/asset.md) price trends. If an [asset](../a/asset.md)'s price is rising, it is likely to continue to do so, and vice versa.
 
 ### Machine Learning Models
-Advanced machine learning models like [regression analysis](../r/regression_analysis.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) are employed to predict price targets with higher accuracy.
+Advanced [machine learning](../m/machine_learning.md) models like [regression analysis](../r/regression_analysis.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) are employed to predict price targets with higher accuracy.
 
 ## Sentiment Analysis
 

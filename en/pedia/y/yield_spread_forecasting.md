@@ -51,7 +51,7 @@ Several models can be employed for [forecasting](../f/forecasting.md) [yield](..
 
 ### Machine Learning Approaches
 
-Advanced machine learning techniques, like [random forests](../r/random_forests_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md), provide [robust](../r/robust.md) frameworks for [forecasting](../f/forecasting.md) by capturing complex patterns in the data.
+Advanced [machine learning](../m/machine_learning.md) techniques, like [random forests](../r/random_forests_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md), provide [robust](../r/robust.md) frameworks for [forecasting](../f/forecasting.md) by capturing complex patterns in the data.
 
 ### Econometric Models
 
@@ -88,4 +88,4 @@ A notable case involves JPMorgan Chase, which utilizes [quantitative models](../
 
 ## Conclusion
 
-[Yield Spread](../y/yield_spread.md) [Forecasting](../f/forecasting.md) is a dynamic field that bridges macroeconomic analysis with [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). As advancements in [computational finance](../c/computational_finance.md) and machine learning continue to evolve, the accuracy and [efficiency](../e/efficiency.md) of [yield spread](../y/yield_spread.md) forecasts are likely to improve, [offering](../o/offering.md) richer insights and more [robust](../r/robust.md) trading opportunities.
+[Yield Spread](../y/yield_spread.md) [Forecasting](../f/forecasting.md) is a dynamic field that bridges macroeconomic analysis with [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). As advancements in [computational finance](../c/computational_finance.md) and [machine learning](../m/machine_learning.md) continue to evolve, the accuracy and [efficiency](../e/efficiency.md) of [yield spread](../y/yield_spread.md) forecasts are likely to improve, [offering](../o/offering.md) richer insights and more [robust](../r/robust.md) trading opportunities.

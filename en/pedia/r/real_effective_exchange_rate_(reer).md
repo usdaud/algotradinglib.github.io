@@ -91,7 +91,7 @@ As global [trade](../t/trade.md) and financial systems become more integrated an
 Incorporating financial stability indicators and [capital](../c/capital.md) flow adjustments can enhance the robustness of REER.
 
 ### 2. **Advanced Data Analytics**
-Utilizing advanced [data analytics](../d/data_analytics.md), [big data](../b/big_data_in_trading.md), and machine learning techniques can improve the accuracy of REER by processing vast amounts of [trade](../t/trade.md) and price data efficiently.
+Utilizing advanced [data analytics](../d/data_analytics.md), [big data](../b/big_data_in_trading.md), and [machine learning](../m/machine_learning.md) techniques can improve the accuracy of REER by processing vast amounts of [trade](../t/trade.md) and price data efficiently.
 
 ### 3. **Multilateral Coordination**
 International cooperation and [exchange](../e/exchange.md) of data among countries can lead to more reliable and comprehensive REER calculations.

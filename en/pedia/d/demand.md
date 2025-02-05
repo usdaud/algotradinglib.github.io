@@ -51,7 +51,7 @@ Statistical [arbitrage](../a/arbitrage.md) algorithms use statistical methods to
 
 ### Machine Learning
 
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), particularly those leveraging supervised learning, can predict demand by training on historical data sets. These algorithms refine their predictive accuracy by continuously learning from new data.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), particularly those leveraging [supervised learning](../s/supervised_learning.md), can predict demand by training on historical data sets. These algorithms refine their predictive accuracy by continuously learning from new data.
 
 ### Sentiment Analysis
 
@@ -79,7 +79,7 @@ The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides in-depth financial
 
 ### Alpha Vantage
 
-[Alpha](../a/alpha.md) Vantage provides free API access to historical and [real-time market data](../r/real-time_market_data.md). It is particularly useful for building machine learning models for demand prediction.
+[Alpha](../a/alpha.md) Vantage provides free API access to historical and [real-time market data](../r/real-time_market_data.md). It is particularly useful for building [machine learning](../m/machine_learning.md) models for demand prediction.
 
 ## Case Studies of Demand in Algorithmic Trading
 
@@ -89,7 +89,7 @@ Renaissance Technologies, a prominent [hedge fund](../h/hedge_fund.md), has succ
 
 ### Two Sigma
 
-Two Sigma leverages machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) demand and enhance its [trading strategies](../t/trading_strategies.md). Their approach heavily relies on analyzing vast quantities of data to make informed trading decisions. [Website](https://www.twosigma.com)
+Two Sigma leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) demand and enhance its [trading strategies](../t/trading_strategies.md). Their approach heavily relies on analyzing vast quantities of data to make informed trading decisions. [Website](https://www.twosigma.com)
 
 ## Challenges in Demand Analysis
 
@@ -117,7 +117,7 @@ The future of demand analysis in [algorithmic trading](../a/accountability.md) l
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning [will](../w/will.md) continue to play a significant role in demand prediction. As these technologies evolve, they [will](../w/will.md) [offer](../o/offer.md) more sophisticated models for understanding and [forecasting](../f/forecasting.md) [market](../m/market.md) demand.
+AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) continue to play a significant role in demand prediction. As these technologies evolve, they [will](../w/will.md) [offer](../o/offer.md) more sophisticated models for understanding and [forecasting](../f/forecasting.md) [market](../m/market.md) demand.
 
 ### Blockchain and Data Integrity
 

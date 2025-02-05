@@ -45,7 +45,7 @@ Where:
 #### Variational Inference
 - Another method is Variational Inference (VI), which approximates the posterior [distribution](../d/distribution.md) with a simpler [distribution](../d/distribution.md) and optimizes the parameters of this simple [distribution](../d/distribution.md).
 - **Example Libraries**:
-  - **TensorFlow Probability** - Extends TensorFlow to support probabilistic models via variational inference methods ([TensorFlow Probability](https://www.tensorflow.org/probability)).
+  - **[TensorFlow](../t/tensorflow.md) Probability** - Extends [TensorFlow](../t/tensorflow.md) to support probabilistic models via variational inference methods ([TensorFlow Probability](https://www.tensorflow.org/probability)).
 
 ### Challenges in Bayesian Inference
 

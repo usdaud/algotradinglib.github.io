@@ -4,7 +4,7 @@ Leakage, also known as data leakage, refers to an occurrence in statistical mode
 
 ### Types of Leakage
 
-Leakage can manifest in several different forms in a machine learning or statistical modeling context. The most common types of leakage are:
+Leakage can manifest in several different forms in a [machine learning](../m/machine_learning.md) or statistical modeling context. The most common types of leakage are:
 
 1. **Target Leakage**: Occurs when information that [will](../w/will.md) not be available at prediction time is used during the training process.
 2. **Train-Test Bleed**: Happens when information leaks from the test set into the training set, resulting in an over-optimistic evaluation metric.

@@ -36,7 +36,7 @@ OBV is a cumulative [volume](../v/volume.md)-based [indicator](../i/indicator.md
 
 ### 6. Volume Spike Detection Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms often employ sophisticated algorithms to detect spikes in trading [volume](../v/volume.md) automatically. These algorithms use statistical methods, machine learning models, and [real-time data analysis](../r/real-time_data_analysis.md) to identify and alert traders of unusual volumes.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms often employ sophisticated algorithms to detect spikes in trading [volume](../v/volume.md) automatically. These algorithms use statistical methods, [machine learning](../m/machine_learning.md) models, and [real-time data analysis](../r/real-time_data_analysis.md) to identify and alert traders of unusual volumes.
 
 ## Applications of Unusual Trading Volume Analysis
 

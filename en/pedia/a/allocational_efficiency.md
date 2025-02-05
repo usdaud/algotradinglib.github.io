@@ -46,7 +46,7 @@ In [financial markets](../f/financial_market.md), allocational [efficiency](../e
 ### Examples of Companies Utilizing Algorithmic Trading
 
 1. **Jane Street**: Known for its research-driven approach and efficient trading practices. More information can be found at [Jane Street](https://www.janestreet.com).
-2. **Two Sigma**: Utilizes advanced algorithms and machine learning techniques to optimize [trading strategies](../t/trading_strategies.md). Details are available at [Two Sigma](https://www.twosigma.com).
+2. **Two Sigma**: Utilizes advanced algorithms and [machine learning](../m/machine_learning.md) techniques to optimize [trading strategies](../t/trading_strategies.md). Details are available at [Two Sigma](https://www.twosigma.com).
 3. **Citadel Securities**: Leading in [market](../m/market.md)-making and utilization of [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md). Visit [Citadel Securities](https://www.citadelsecurities.com).
 
 ## Challenges and Risks Associated with Algorithmic Trading

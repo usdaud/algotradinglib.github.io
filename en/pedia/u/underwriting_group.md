@@ -59,7 +59,7 @@ Major financial institutions play a central role in [underwriting](../u/underwri
 ## Technological Integration in Underwriting
 
 ### 1. Automated Underwriting Systems (AUS)
-Automated [underwriting](../u/underwriting.md) systems [leverage](../l/leverage.md) advanced algorithms and machine learning to facilitate faster and more accurate [risk](../r/risk.md) assessments. These systems can process vast amounts of data efficiently, reducing the need for manual intervention and minimizing errors.
+Automated [underwriting](../u/underwriting.md) systems [leverage](../l/leverage.md) advanced algorithms and [machine learning](../m/machine_learning.md) to facilitate faster and more accurate [risk](../r/risk.md) assessments. These systems can process vast amounts of data efficiently, reducing the need for manual intervention and minimizing errors.
 
 ### 2. Big Data Analytics
 The advent of [big data](../b/big_data_in_trading.md) has revolutionized [underwriting](../u/underwriting.md) practices. By analyzing large datasets, [underwriting](../u/underwriting.md) groups can identify trends, predict risks more accurately, and refine pricing models. This data-driven approach enhances decision-making and [risk management](../r/risk_management.md).

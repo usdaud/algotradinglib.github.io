@@ -67,7 +67,7 @@ In [algorithmic trading](../a/accountability.md), the agents could be human [fun
    - Implementing real-time monitoring systems can detect and mitigate undesirable trading behaviors by the algorithms instantaneously.
    
 3. **AI and ML Oversight**:
-   - AI and machine learning technologies can be employed to analyze the behavior of [trading algorithms](../t/trading_algorithms.md) continuously, ensuring they operate within the defined ethical and legal frameworks.
+   - AI and [machine learning](../m/machine_learning.md) technologies can be employed to analyze the behavior of [trading algorithms](../t/trading_algorithms.md) continuously, ensuring they operate within the defined ethical and legal frameworks.
 
 ### Incentive Alignment
 

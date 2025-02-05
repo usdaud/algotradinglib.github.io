@@ -91,7 +91,7 @@ Several companies specialize in [offering](../o/offering.md) advanced OMS soluti
 
 The landscape of [algorithmic trading](../a/algorithmic_trading.md) is continuously evolving, driven by advances in technology, regulatory changes, and [market dynamics](../m/market_dynamics.md). Here are some key trends shaping the future of OMS:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**:
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**:
    - OMS platforms are increasingly incorporating AI and ML algorithms to enhance [order](../o/order.md) [execution](../e/execution.md) strategies, predict [market](../m/market.md) movements, and optimize [trading performance](../t/trading_performance.md).
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md)**:

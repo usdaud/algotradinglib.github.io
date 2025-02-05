@@ -44,7 +44,7 @@ One perspective grounded in traditional [finance](../f/finance.md) theory sugges
 
 ### Machine Learning Models
 
-Machine learning models can be employed to improve the prediction of [value stock](../v/value_stock.md) performance by analyzing a multitude of financial metrics and macroeconomic indicators. Techniques such as [regression trees](../r/regression_trees_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [deep learning](../d/deep_learning.md) networks have found their way into quant funds and trading desks.
+[Machine learning](../m/machine_learning.md) models can be employed to improve the prediction of [value stock](../v/value_stock.md) performance by analyzing a multitude of financial metrics and macroeconomic indicators. Techniques such as [regression trees](../r/regression_trees_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [deep learning](../d/deep_learning.md) networks have found their way into quant funds and trading desks.
 
 ### High-Frequency Trading (HFT)
 

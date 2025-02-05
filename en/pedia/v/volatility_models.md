@@ -85,11 +85,11 @@ Despite their complexity, multifractal models [offer](../o/offer.md) profound in
 
 9. **Neural Network [Volatility](../v/volatility.md) Models**
 ----------------------------------------
-Recent advancements in machine learning have given rise to neural network-based models for [volatility](../v/volatility.md) prediction. [Neural networks](../n/neural_networks_in_trading.md), particularly [deep learning](../d/deep_learning.md) models, can capture complex patterns in financial data that traditional models might miss.
+Recent advancements in [machine learning](../m/machine_learning.md) have given rise to neural network-based models for [volatility](../v/volatility.md) prediction. [Neural networks](../n/neural_networks_in_trading.md), particularly [deep learning](../d/deep_learning.md) models, can capture complex patterns in financial data that traditional models might miss.
 
 These models are trained using large datasets and [leverage](../l/leverage.md) various architectures, such as Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long Short-Term Memory (LSTM) networks, to forecast future [volatility](../v/volatility.md). 
 
-Leading financial institutions and research groups are increasingly adopting machine learning approaches due to their adaptability and accuracy. Notable examples include work done by companies like [Two Sigma](https://www.twosigma.com) and [Numerai](https://numer.ai).
+Leading financial institutions and research groups are increasingly adopting [machine learning](../m/machine_learning.md) approaches due to their adaptability and accuracy. Notable examples include work done by companies like [Two Sigma](https://www.twosigma.com) and [Numerai](https://numer.ai).
 
 10. **RiskMetrics**
 ---------------------

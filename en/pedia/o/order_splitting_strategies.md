@@ -120,7 +120,7 @@ The [order](../o/order.md) is split throughout the day with the accumulated [vol
 
 ### 1. Adaptive Algorithms
 
-[Adaptive algorithms](../a/adaptive_algorithms.md) dynamically adjust the [order](../o/order.md) [execution](../e/execution.md) strategy based on real-time [market](../m/market.md) conditions. This involves sophisticated machine learning models that can predict price movements and [liquidity](../l/liquidity.md) availability.
+[Adaptive algorithms](../a/adaptive_algorithms.md) dynamically adjust the [order](../o/order.md) [execution](../e/execution.md) strategy based on real-time [market](../m/market.md) conditions. This involves sophisticated [machine learning](../m/machine_learning.md) models that can predict price movements and [liquidity](../l/liquidity.md) availability.
 
 #### Benefits
 

@@ -96,7 +96,7 @@ Several major exchanges and technology companies have developed advanced [order]
 
 ### Machine Learning and AI
 
-The future of [order](../o/order.md) matching systems [will](../w/will.md) likely see increased integration with [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning technologies. These advanced technologies can enhance the capability of matching engines to predict [market](../m/market.md) movements, optimize [order routing](../o/order_routing.md), and prevent [market](../m/market.md) abuses.
+The future of [order](../o/order.md) matching systems [will](../w/will.md) likely see increased integration with [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) technologies. These advanced technologies can enhance the capability of matching engines to predict [market](../m/market.md) movements, optimize [order routing](../o/order_routing.md), and prevent [market](../m/market.md) abuses.
 
 ### Blockchain and Distributed Ledgers
 

@@ -102,7 +102,7 @@ With the increased focus on cybersecurity, ensuring the [security](../s/security
 
 ### Future Directions
 
-In the future, advancements in technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) are expected to further enhance blotter systems. These technologies have the potential to provide deeper insights through [predictive analytics](../p/predictive_analytics.md) and automated compliance checks.
+In the future, advancements in technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) are expected to further enhance blotter systems. These technologies have the potential to provide deeper insights through [predictive analytics](../p/predictive_analytics.md) and automated compliance checks.
 
 Additionally, [blockchain](../b/blockchain_in_trading.md) technology holds promise for enhancing the [transparency](../t/transparency.md) and immutability of [trade](../t/trade.md) records. This could be particularly beneficial for audit trails and regulatory reporting.
 

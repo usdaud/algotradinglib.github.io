@@ -92,7 +92,7 @@ Many financial institutions employ [transaction](../t/transaction.md) surveillan
 **Company Name: NICE Actimize**  
 [Website](https://www.niceactimize.com/)
 
-NICE Actimize provides comprehensive solutions for detecting financial crimes, including [window dressing](../w/window_dressing.md). Their software uses machine learning to identify and flag suspicious activities, ensuring compliance and mitigating risks.
+NICE Actimize provides comprehensive solutions for detecting financial crimes, including [window dressing](../w/window_dressing.md). Their software uses [machine learning](../m/machine_learning.md) to identify and flag suspicious activities, ensuring compliance and mitigating risks.
 
 #### 2. Risk Management Software
 

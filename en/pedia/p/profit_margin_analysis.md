@@ -80,7 +80,7 @@ The computational power and data feeds required for [algorithmic trading](../a/a
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com) employs machine learning, distributed computing, and massive data sets to develop profitable [trading strategies](../t/trading_strategies.md). They focus on technology and [data science](../d/data_science_in_trading.md) to achieve superior [profit margins](../p/profit_margins_in_trading.md).
+[Two Sigma](https://www.twosigma.com) employs [machine learning](../m/machine_learning.md), distributed computing, and massive data sets to develop profitable [trading strategies](../t/trading_strategies.md). They focus on technology and [data science](../d/data_science_in_trading.md) to achieve superior [profit margins](../p/profit_margins_in_trading.md).
 
 ## Analyzing Profit Margins in Algorithmic Trading Strategies
 

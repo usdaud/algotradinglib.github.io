@@ -121,7 +121,7 @@ Renaissance Technologies boasts some of the highest Sharpe Ratios in the [indust
 
 ### Two Sigma
 
-Two Sigma utilizes machine learning and [big data](../b/big_data_in_trading.md) to develop [trading algorithms](../t/trading_algorithms.md), with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and [market](../m/market.md) conditions.
+Two Sigma utilizes [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to develop [trading algorithms](../t/trading_algorithms.md), with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and [market](../m/market.md) conditions.
 
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
 

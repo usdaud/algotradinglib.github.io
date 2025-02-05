@@ -75,7 +75,7 @@ Large [buyback](../b/buyback.md) programs can influence [market](../m/market.md)
 ## Future Trends
 
 ### Technological Advancements
-Machine learning and AI developments are enhancing the predictive capabilities of algorithms when it comes to [buyback](../b/buyback.md)-related stock movements.
+[Machine learning](../m/machine_learning.md) and AI developments are enhancing the predictive capabilities of algorithms when it comes to [buyback](../b/buyback.md)-related stock movements.
 
 ### Increased Transparency
 Regulatory changes and enhanced [disclosure](../d/disclosure.md) requirements are making [buyback](../b/buyback.md) data more accessible, providing algorithmic traders with richer datasets to analyze.

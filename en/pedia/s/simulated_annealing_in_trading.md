@@ -53,7 +53,7 @@ In [quantitative finance](../q/quantitative_finance.md), models are often calibr
 
 #### DataRobot
 
-While primarily known for automated machine learning, [DataRobot](https://www.datarobot.com) provides services that include optimizing [trading algorithms](../t/trading_algorithms.md). [Simulated annealing](../s/simulated_annealing.md) is among the many [optimization](../o/optimization.md) techniques they incorporate into their platform.
+While primarily known for automated [machine learning](../m/machine_learning.md), [DataRobot](https://www.datarobot.com) provides services that include optimizing [trading algorithms](../t/trading_algorithms.md). [Simulated annealing](../s/simulated_annealing.md) is among the many [optimization](../o/optimization.md) techniques they incorporate into their platform.
 
 ### Advantages of Simulated Annealing
 

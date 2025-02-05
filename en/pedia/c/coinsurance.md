@@ -42,7 +42,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves exploiting pricing inefficie
 
 ### Machine Learning and AI
 
-Machine learning and AI-driven algorithms are increasingly prevalent in [algorithmic trading](../a/accountability.md). These algorithms can analyze vast amounts of data to identify patterns and make informed trading decisions. Co-[insurance](../i/insurance.md) can support these advanced algorithms by providing a safety net against unexpected [market](../m/market.md) behavior, allowing the algorithms to operate more effectively.
+[Machine learning](../m/machine_learning.md) and AI-driven algorithms are increasingly prevalent in [algorithmic trading](../a/accountability.md). These algorithms can analyze vast amounts of data to identify patterns and make informed trading decisions. Co-[insurance](../i/insurance.md) can support these advanced algorithms by providing a safety net against unexpected [market](../m/market.md) behavior, allowing the algorithms to operate more effectively.
 
 ## Implementation of Co-Insurance in Algorithmic Trading
 

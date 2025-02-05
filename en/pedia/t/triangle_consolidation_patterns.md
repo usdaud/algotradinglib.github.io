@@ -41,7 +41,7 @@ A symmetrical [triangle](../t/triangle.md) is a [neutral](../n/neutral.md) patte
 
 ### Identifying Triangle Patterns
 
-Identification of [triangle patterns](../t/triangle_patterns_in_trading.md) involves analyzing historical price data to draw the respective trendlines. [Automated trading systems](../a/automated_trading_systems.md) can utilize complex algorithms to detect these patterns in real-time. One effective approach is to employ machine learning techniques and [pattern recognition](../p/pattern_recognition.md) algorithms.
+Identification of [triangle patterns](../t/triangle_patterns_in_trading.md) involves analyzing historical price data to draw the respective trendlines. [Automated trading systems](../a/automated_trading_systems.md) can utilize complex algorithms to detect these patterns in real-time. One effective approach is to employ [machine learning](../m/machine_learning.md) techniques and [pattern recognition](../p/pattern_recognition.md) algorithms.
 
 ### Trading Strategy Development
 
@@ -50,7 +50,7 @@ Identification of [triangle patterns](../t/triangle_patterns_in_trading.md) invo
 Algorithmic identification of [triangle patterns](../t/triangle_patterns_in_trading.md) typically involves implementing [pattern recognition](../p/pattern_recognition.md) algorithms. Techniques such as template matching, feature extraction, and geometric shape analysis can be programmed into [trading systems](../t/trading_systems.md) to identify potential patterns accurately.
 
 ##### Example Algorithm:
-Using Python, a simple [pattern recognition](../p/pattern_recognition.md) algorithm might involve using libraries like `pandas` for data manipulation and `matplotlib` for plotting trendlines. More advanced algorithms may include machine learning libraries like `scikit-learn` for [predictive modeling](../p/predictive_modeling.md).
+Using Python, a simple [pattern recognition](../p/pattern_recognition.md) algorithm might involve using libraries like `pandas` for data manipulation and `matplotlib` for plotting trendlines. More advanced algorithms may include [machine learning](../m/machine_learning.md) libraries like `scikit-learn` for [predictive modeling](../p/predictive_modeling.md).
 
 #### 2. Backtesting Historical Data
 

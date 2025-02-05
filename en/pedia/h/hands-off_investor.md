@@ -86,7 +86,7 @@ Even for hands-off investors, some degree of oversight is essential:
 
 The future of [algorithmic trading](../a/accountability.md) is replete with exciting possibilities:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and ML models are increasingly being integrated into [trading algorithms](../t/trading_algorithms.md) to enhance predictability and adaptability.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI and ML models are increasingly being integrated into [trading algorithms](../t/trading_algorithms.md) to enhance predictability and adaptability.
 2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The rise of digital currencies presents new opportunities and challenges for algo-traders. Specialized algorithms are being developed to navigate this volatile [market](../m/market.md).
 3. **Regulatory Developments**: Global regulatory bodies are closely scrutinizing [algorithmic trading](../a/accountability.md) practices to ensure [market](../m/market.md) stability and prevent abuses.
 

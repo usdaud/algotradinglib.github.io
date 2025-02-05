@@ -58,7 +58,7 @@ While focusing on [undervalued](../u/undervalued.md) [stocks](../s/stock.md) can
 
 - **[Factor Models](../f/factor_models.md)**: These multi-[factor models](../f/factor_models.md) combine the [value](../v/value.md) [factor](../f/factor.md) with other factors like [momentum](../m/momentum.md), quality, and size to optimize returns.
 
-- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Modern [quantitative finance](../q/quantitative_finance.md) uses machine learning to identify patterns in financial data, which can enhance the prediction of [undervalued](../u/undervalued.md) [stocks](../s/stock.md).
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Modern [quantitative finance](../q/quantitative_finance.md) uses [machine learning](../m/machine_learning.md) to identify patterns in financial data, which can enhance the prediction of [undervalued](../u/undervalued.md) [stocks](../s/stock.md).
 
 ### Example Companies
 
@@ -68,9 +68,9 @@ Several fintech companies specialize in providing [algorithmic trading](../a/alg
 
 2. **[Alpaca](../a/alpaca.md)**: An API for stock trading that supports algorithmic strategies, including [value investing](../v/value_investing.md). [Alpaca](https://alpaca.markets/)
 
-3. **Kensho Technologies**: Applies machine learning to financial data to discover new [trading strategies](../t/trading_strategies.md). [Kensho](https://www.kensho.com/)
+3. **Kensho Technologies**: Applies [machine learning](../m/machine_learning.md) to financial data to discover new [trading strategies](../t/trading_strategies.md). [Kensho](https://www.kensho.com/)
 
-4. **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for [quantitative trading](../q/quantitative_trading.md) strategies. [Two Sigma](https://www.twosigma.com/)
+4. **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for [quantitative trading](../q/quantitative_trading.md) strategies. [Two Sigma](https://www.twosigma.com/)
 
 ## Challenges
 

@@ -83,7 +83,7 @@ Renaissance Technologies, renowned for its Medallion [Fund](../f/fund.md), emplo
 
 ### Two Sigma
 
-Two Sigma employs machine learning and [data science](../d/data_science_in_trading.md) techniques for its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) utilizes KPIs related to both performance and [risk metrics](../r/risk_metrics.md) to continually refine their [trading models](../t/trading_models.md).
+Two Sigma employs [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) techniques for its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) utilizes KPIs related to both performance and [risk metrics](../r/risk_metrics.md) to continually refine their [trading models](../t/trading_models.md).
 
 - [Two Sigma](https://www.twosigma.com/)
 
@@ -107,4 +107,4 @@ Implementing an extensive KPIs framework can be resource-intensive in terms of b
 
 ## Conclusion
 
-Key [Performance Indicators](../p/performance_indicators.md) are indispensable tools in the field of [algorithmic trading](../a/accountability.md). They provide actionable insights into the effectiveness, [efficiency](../e/efficiency.md), and risks associated with [trading algorithms](../t/trading_algorithms.md). By carefully selecting and monitoring the right KPIs, firms can enhance their [trading strategies](../t/trading_strategies.md) and achieve better performance outcomes. As the field continues to evolve, the use of advanced analytics and machine learning for KPI generation and monitoring [will](../w/will.md) likely become increasingly prevalent.
+Key [Performance Indicators](../p/performance_indicators.md) are indispensable tools in the field of [algorithmic trading](../a/accountability.md). They provide actionable insights into the effectiveness, [efficiency](../e/efficiency.md), and risks associated with [trading algorithms](../t/trading_algorithms.md). By carefully selecting and monitoring the right KPIs, firms can enhance their [trading strategies](../t/trading_strategies.md) and achieve better performance outcomes. As the field continues to evolve, the use of advanced analytics and [machine learning](../m/machine_learning.md) for KPI generation and monitoring [will](../w/will.md) likely become increasingly prevalent.

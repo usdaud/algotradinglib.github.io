@@ -24,10 +24,10 @@ Text [mining](../m/mining.md) involves aggregating and analyzing large volumes o
 NLP is a field of [artificial intelligence](../a/artificial_intelligence_in_trading.md) that focuses on the interaction between computers and human language. It aims to read, decipher, and understand human languages in a valuable way. NLP techniques like tokenization, part-of-speech tagging, and entity recognition help in capturing the sentiment within [industry](../i/industry.md)-related textual data.
 
 ### 3. **Machine Learning**
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can classify text data into sentiment categories based on training data. Supervised learning models like [logistic regression](../l/logistic_regression_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md) have been extensively used for [sentiment analysis](../s/sentiment_analysis.md), showing remarkable accuracy in predicting sentiment.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can classify text data into sentiment categories based on training data. [Supervised learning](../s/supervised_learning.md) models like [logistic regression](../l/logistic_regression_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md) have been extensively used for [sentiment analysis](../s/sentiment_analysis.md), showing remarkable accuracy in predicting sentiment.
 
 ### 4. **Deep Learning**
-[Deep learning](../d/deep_learning.md) approaches, particularly those involving recurrent [neural networks](../n/neural_networks_in_trading.md) (RNN) and convolutional [neural networks](../n/neural_networks_in_trading.md) (CNN), [offer](../o/offer.md) superior performance in capturing complex patterns in textual data. Models like Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT) have set new benchmarks in [sentiment analysis](../s/sentiment_analysis.md) accuracy.
+[Deep learning](../d/deep_learning.md) approaches, particularly those involving recurrent [neural networks](../n/neural_networks_in_trading.md) (RNN) and convolutional [neural networks](../n/neural_networks_in_trading.md) (CNN), [offer](../o/offer.md) superior performance in capturing complex patterns in textual data. Models like Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from [Transformers](../t/transformers.md) (BERT) have set new benchmarks in [sentiment analysis](../s/sentiment_analysis.md) accuracy.
 
 ## Applications and Tools
 
@@ -65,7 +65,7 @@ Acting on this insight, the [fund](../f/fund.md) increased its [holdings](../h/h
 ## Future Prospects
 
 ### 1. **Increased Accuracy with Advanced AI**
-As AI technology continues to evolve, the accuracy of [sentiment analysis](../s/sentiment_analysis.md) [will](../w/will.md) improve. Advanced models like transformers (e.g., GPT-4) are expected to provide more nuanced understanding and prediction capabilities.
+As AI technology continues to evolve, the accuracy of [sentiment analysis](../s/sentiment_analysis.md) [will](../w/will.md) improve. Advanced models like [transformers](../t/transformers.md) (e.g., GPT-4) are expected to provide more nuanced understanding and prediction capabilities.
 
 ### 2. **Integration with Other Data Sources**
 Combining [sentiment analysis](../s/sentiment_analysis.md) with other data types, such as [market](../m/market.md) data, [economic indicators](../e/economic_indicators.md), and [alternative data](../a/alternative_data.md) (e.g., satellite imagery), [will](../w/will.md) provide a more comprehensive view of an [industry](../i/industry.md)’s health and prospects.

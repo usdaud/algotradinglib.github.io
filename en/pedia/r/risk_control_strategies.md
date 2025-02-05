@@ -82,13 +82,13 @@ Example: A [trader](../t/trader.md) may set a maximum [leverage](../l/leverage.m
 
 ## 9. Use of Advanced Technologies
 
-Leveraging advanced technologies such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These technologies can analyze vast datasets and identify patterns that traditional methods may overlook. Applications include:
+Leveraging advanced technologies such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These technologies can analyze vast datasets and identify patterns that traditional methods may overlook. Applications include:
 
-1. **[Predictive Analytics](../p/predictive_analytics.md)**: Using machine learning models to predict [market](../m/market.md) movements and adjust [risk](../r/risk.md) strategies accordingly.
+1. **[Predictive Analytics](../p/predictive_analytics.md)**: Using [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) movements and adjust [risk](../r/risk.md) strategies accordingly.
 2. **Real-time Data Processing**: Utilizing high-frequency data processing systems to make real-time [risk management](../r/risk_management.md) decisions.
 3. **Algorithmic Adaptation**: Developing [adaptive algorithms](../a/adaptive_algorithms.md) that adjust their behavior based on changing [market](../m/market.md) conditions and [risk profiles](../r/risk_profiles.md).
 
-Example: A machine learning model may analyze historical data to predict future [volatility](../v/volatility.md) and adjust position sizes and stop-loss levels dynamically.
+Example: A [machine learning](../m/machine_learning.md) model may analyze historical data to predict future [volatility](../v/volatility.md) and adjust position sizes and stop-loss levels dynamically.
 
 ## 10. Regulatory Compliance
 

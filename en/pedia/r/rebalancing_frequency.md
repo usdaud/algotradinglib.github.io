@@ -46,7 +46,7 @@ With the advent of [algorithmic trading](../a/algorithmic_trading.md), [rebalanc
    
 2. **[Backtesting](../b/backtesting.md)**: Historical data can be used to simulate and refine [rebalancing strategies](../r/rebalancing_strategies.md), optimizing parameters like frequency and thresholds for better performance.
    
-3. **[Optimization](../o/optimization.md) Algorithms**: Advanced techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or machine learning can be employed to determine optimal [rebalancing](../r/rebalancing.md) schedules, balancing costs and benefits dynamically.
+3. **[Optimization](../o/optimization.md) Algorithms**: Advanced techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or [machine learning](../m/machine_learning.md) can be employed to determine optimal [rebalancing](../r/rebalancing.md) schedules, balancing costs and benefits dynamically.
 
 ### Example
 

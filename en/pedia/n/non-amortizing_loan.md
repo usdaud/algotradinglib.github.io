@@ -74,7 +74,7 @@ The availability and terms of non-amortizing loans can be influenced by [market]
 In [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md), non-amortizing loans can be part of a diversified portfolio strategy. Algorithms can be programmed to account for the unique [cash flow](../c/cash_flow.md) characteristics and risks associated with these loans, optimizing for returns while managing [risk](../r/risk.md) exposure.
 
 ### Risk Management
-Algorithmic systems can be designed to evaluate and manage the risks associated with non-amortizing loans by incorporating [predictive analytics](../p/predictive_analytics.md) and machine learning models. This enables traders to anticipate [market](../m/market.md) swings and adjust their [holdings](../h/holdings.md) accordingly.
+Algorithmic systems can be designed to evaluate and manage the risks associated with non-amortizing loans by incorporating [predictive analytics](../p/predictive_analytics.md) and [machine learning](../m/machine_learning.md) models. This enables traders to anticipate [market](../m/market.md) swings and adjust their [holdings](../h/holdings.md) accordingly.
 
 ## Examples of Non-Amortizing Loan Providers
 

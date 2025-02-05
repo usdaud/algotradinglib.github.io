@@ -60,7 +60,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), [interest ra
 
 4. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md):** [Spreads](../s/spreads.md) are used to gauge [market sentiment](../m/market_sentiment.md). For example, a widening [LIBOR-OIS spread](../l/libor-ois_spread.md) may trigger algorithms to adjust their positions based on increased [counterparty risk](../c/counterparty_risk.md) sentiment.
 
-5. **[Predictive Models](../p/predictive_models_in_trading.md):** Machine learning models are trained on historical spread data to predict future movements. These predictions can inform trading decisions and enhance the profitability of [trading strategies](../t/trading_strategies.md).
+5. **[Predictive Models](../p/predictive_models_in_trading.md):** [Machine learning](../m/machine_learning.md) models are trained on historical spread data to predict future movements. These predictions can inform trading decisions and enhance the profitability of [trading strategies](../t/trading_strategies.md).
 
 #### Real-World Examples and Platforms
 
@@ -92,7 +92,7 @@ The future of [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md) 
 
 1. **Increased Automation:** Automation in trading [will](../w/will.md) continue to grow, with more advanced algorithms and faster [execution](../e/execution.md) speeds.
 
-2. **AI and Machine Learning:** The integration of AI and machine learning [will](../w/will.md) enhance the predictive power of models analyzing spread data.
+2. **AI and [Machine Learning](../m/machine_learning.md):** The integration of AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) enhance the predictive power of models analyzing spread data.
 
 3. **Regulatory Evolution:** Regulatory frameworks [will](../w/will.md) evolve to address the complexities and risks associated with spread-based [algorithmic trading](../a/algorithmic_trading.md).
 

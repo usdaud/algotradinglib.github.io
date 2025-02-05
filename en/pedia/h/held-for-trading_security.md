@@ -81,7 +81,7 @@ Citadel LLC is another major player in the [algorithmic trading](../a/accountabi
 
 ### Two Sigma Investments
 
-Two Sigma Investments leverages machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data](../b/big_data_in_trading.md) to [trade](../t/trade.md) held-for-trading securities. The [firm](../f/firm.md)'s approach is highly data-driven, focusing on making informed trading decisions to maximize profits.
+Two Sigma Investments leverages [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data](../b/big_data_in_trading.md) to [trade](../t/trade.md) held-for-trading securities. The [firm](../f/firm.md)'s approach is highly data-driven, focusing on making informed trading decisions to maximize profits.
 
 [Learn more about Two Sigma Investments](https://www.twosigma.com/)
 

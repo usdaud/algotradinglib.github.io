@@ -49,7 +49,7 @@
 ### Machine Learning Imputation
 
 - **K-Nearest Neighbors (KNN)**: Uses the nearest data points in a multidimensional space to impute values.
-- **[Random Forests](../r/random_forests_in_trading.md)**: A machine learning algorithm that predicts missing values using [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
+- **[Random Forests](../r/random_forests_in_trading.md)**: A [machine learning](../m/machine_learning.md) algorithm that predicts missing values using [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
 - **[Deep Learning](../d/deep_learning.md)**: In complex scenarios, [deep learning](../d/deep_learning.md) models like autoencoders can be employed for imputation.
 
 ## Applications in Financial Industry
@@ -86,7 +86,7 @@
 
 - **Bias Introduction**: Poor imputation techniques can introduce biases, leading to misleading results.
   
-- **Model Complexity**: Advanced imputation methods, like machine learning, add complexity and require significant computational resources.
+- **Model Complexity**: Advanced imputation methods, like [machine learning](../m/machine_learning.md), add complexity and require significant computational resources.
   
 - **[Uncertainty](../u/uncertainty_in_trading.md) Quantification**: [Multiple](../m/multiple.md) imputation accounts for [uncertainty](../u/uncertainty_in_trading.md) but is more complex to implement and interpret.
 
@@ -108,4 +108,4 @@
 
 ## Conclusion
 
-Imputed [value](../v/value.md) plays an indispensable role in [financial analysis](../f/financial_analysis.md), [market](../m/market.md) [valuation](../v/valuation.md), [risk](../r/risk.md) assessment, and [accounting](../a/accounting.md) practices. With the advent of advanced statistical and machine learning techniques, the accuracy and reliability of imputation methods have improved, providing more [robust](../r/robust.md) and complete datasets for analysis and decision-making. As [financial markets](../f/financial_market.md) and datasets become more complex, the importance of imputation [will](../w/will.md) continue to grow, driving innovations and improvements in the field.
+Imputed [value](../v/value.md) plays an indispensable role in [financial analysis](../f/financial_analysis.md), [market](../m/market.md) [valuation](../v/valuation.md), [risk](../r/risk.md) assessment, and [accounting](../a/accounting.md) practices. With the advent of advanced statistical and [machine learning](../m/machine_learning.md) techniques, the accuracy and reliability of imputation methods have improved, providing more [robust](../r/robust.md) and complete datasets for analysis and decision-making. As [financial markets](../f/financial_market.md) and datasets become more complex, the importance of imputation [will](../w/will.md) continue to grow, driving innovations and improvements in the field.

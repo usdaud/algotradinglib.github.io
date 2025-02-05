@@ -63,7 +63,7 @@ LAE can vary significantly based on the nature of the claims, legal environment,
 
 ### Technological Advancements
 
-Incorporating advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) in claims processing can help reduce LAE. However, integrating these technologies requires substantial investment and poses its own set of challenges.
+Incorporating advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) in claims processing can help reduce LAE. However, integrating these technologies requires substantial investment and poses its own set of challenges.
 
 ### Fraud Detection
 

@@ -67,7 +67,7 @@ Some prominent [hedge](../h/hedge.md) funds and trading firms [leverage](../l/le
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) uses [data science](../d/data_science_in_trading.md) and technology to [capitalize](../c/capitalize.md) on [market anomalies](../m/market_anomalies.md). Employing machine learning and large datasets, the [firm](../f/firm.md) remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
+[Two Sigma Investments](https://www.twosigma.com/) uses [data science](../d/data_science_in_trading.md) and technology to [capitalize](../c/capitalize.md) on [market anomalies](../m/market_anomalies.md). Employing [machine learning](../m/machine_learning.md) and large datasets, the [firm](../f/firm.md) remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
 
 ### AQR Capital Management
 

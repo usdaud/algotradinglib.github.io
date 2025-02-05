@@ -75,7 +75,7 @@ print(df)
 1. **Goldman Sachs**: This global investment [bank](../b/bank.md) uses statistical and [quantitative analysis](../q/quantitative_analysis.md) extensively, including [Z-scores](../z/z-scores_in_trading.md), to manage portfolios and develop [trading strategies](../t/trading_strategies.md).
    - Website: [Goldman Sachs](https://www.goldmansachs.com)
 
-2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that focuses on [systematic trading](../s/systematic_trading.md) strategies and employs statistical models and machine learning techniques, including [Z-scores](../z/z-scores_in_trading.md), to make investment decisions.
+2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that focuses on [systematic trading](../s/systematic_trading.md) strategies and employs statistical models and [machine learning](../m/machine_learning.md) techniques, including [Z-scores](../z/z-scores_in_trading.md), to make investment decisions.
    - Website: [Two Sigma](https://www.twosigma.com)
 
 3. **AQR [Capital](../c/capital.md) Management**: Known for its quantitative approach to [investment management](../i/investment_management.md), AQR utilizes [Z-scores](../z/z-scores_in_trading.md) among various other statistical tools for [risk](../r/risk.md) assessment and [portfolio optimization](../p/portfolio_optimization.md).

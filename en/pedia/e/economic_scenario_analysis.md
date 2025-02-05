@@ -93,7 +93,7 @@ The field of Economic [Scenario Analysis](../s/scenario_analysis.md) is continuo
 
 ### 1. Integration of Artificial Intelligence
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are being increasingly integrated into ESA models. These technologies can enhance the accuracy of economic forecasts and provide deeper insights into complex economic relationships.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are being increasingly integrated into ESA models. These technologies can enhance the accuracy of economic forecasts and provide deeper insights into complex economic relationships.
 
 ### 2. Real-Time Scenario Analysis
 

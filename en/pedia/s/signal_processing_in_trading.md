@@ -30,10 +30,10 @@ Spectrum analysis is used to understand the frequency components of a signal. Te
 
 #### 3. Machine Learning
 
-Machine learning techniques are increasingly being applied to signal processing in trading. These techniques help in [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and [anomaly detection](../a/anomaly_detection.md). Key methods include:
+[Machine learning](../m/machine_learning.md) techniques are increasingly being applied to signal processing in trading. These techniques help in [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and [anomaly detection](../a/anomaly_detection.md). Key methods include:
 
-- **Supervised Learning:** Techniques like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs)
-- **Unsupervised Learning:** Clustering methods like [k-means clustering](../k/k-means_clustering_in_trading.md), hierarchical clustering
+- **[Supervised Learning](../s/supervised_learning.md):** Techniques like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs)
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Clustering methods like [k-means clustering](../k/k-means_clustering_in_trading.md), hierarchical clustering
 - **[Deep Learning](../d/deep_learning.md):** [Neural networks](../n/neural_networks_in_trading.md), convolutional [neural networks](../n/neural_networks_in_trading.md) (CNNs), and recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs)
 
 #### 4. Wavelet Transform
@@ -59,7 +59,7 @@ Quantitative analysts, or quants, use signal processing techniques to develop [m
 Several tools and software packages are available for signal processing in trading:
 
 - **Matlab:** Widely used for data analysis and algorithm development
-- **Python Libraries:** Libraries like NumPy, SciPy, pandas, and scikit-learn provide [robust](../r/robust.md) tools for signal processing and machine learning
+- **Python Libraries:** Libraries like NumPy, SciPy, pandas, and scikit-learn provide [robust](../r/robust.md) tools for signal processing and [machine learning](../m/machine_learning.md)
 - **R:** Statistical computing software with packages for [time series analysis](../t/time_series_analysis.md) and signal processing
 - **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) built-in tools for signal processing and algorithm development
 
@@ -82,7 +82,7 @@ Despite the advantages, signal processing in trading comes with challenges:
 
 The future of signal processing in trading is likely to be shaped by advancements in:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:** Improved algorithms and models for better [signal detection](../s/signal_detection_in_trading.md) and [predictive analytics](../p/predictive_analytics.md).
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):** Improved algorithms and models for better [signal detection](../s/signal_detection_in_trading.md) and [predictive analytics](../p/predictive_analytics.md).
 2. **[Quantum Computing](../q/quantum_computing_in_trading.md):** Potentially revolutionizing data processing speeds and capabilities.
 3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md):** Leveraging massive datasets for more accurate and comprehensive [signal analysis](../s/signal_analysis.md).
 4. **[Blockchain](../b/blockchain_in_trading.md) Technology:** Enhancing [transparency](../t/transparency.md) and [security](../s/security.md) in data processing and trading activities.

@@ -67,7 +67,7 @@ Companies, [hedge](../h/hedge.md) funds, and [asset](../a/asset.md) managers rel
 #### 5. Notable Companies and Platforms Utilizing Yield Analysis Models
 
 - **[QuantConnect](https://www.quantconnect.com)**: Provides sophisticated [algorithmic trading](../a/algorithmic_trading.md) and analysis platforms with built-in tools for [yield analysis](../y/yield_analysis.md).
-- **[Numerai](https://numer.ai)**: A [hedge fund](../h/hedge_fund.md) that applies advanced statistical and machine learning models to analyze yields and improve [trading strategies](../t/trading_strategies.md).
+- **[Numerai](https://numer.ai)**: A [hedge fund](../h/hedge_fund.md) that applies advanced statistical and [machine learning](../m/machine_learning.md) models to analyze yields and improve [trading strategies](../t/trading_strategies.md).
 - **[Interactive Brokers](https://www.interactivebrokers.com)**: Offers a detailed analysis of [yield](../y/yield.md) and [performance metrics](../p/performance_metrics.md) through its trading platforms.
 - **[WorldQuant](https://www.worldquant.com)**: Utilizes [quantitative models](../q/quantitative_models.md), including [yield analysis](../y/yield_analysis.md), for generating [trading signals](../t/trading_signals.md) and managing [capital](../c/capital.md).
 

@@ -37,7 +37,7 @@ HFT is a form of [algorithmic trading](../a/accountability.md) that executes a l
 
 ### Machine Learning
 
-Machine learning techniques involve training models to identify patterns and make predictions based on historical data. These models can adapt to new data, making them particularly useful for dynamic [financial markets](../f/financial_market.md). Examples include [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md).
+[Machine learning](../m/machine_learning.md) techniques involve training models to identify patterns and make predictions based on historical data. These models can adapt to new data, making them particularly useful for dynamic [financial markets](../f/financial_market.md). Examples include [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md).
 
 ## Data Sources and Tools
 
@@ -53,7 +53,7 @@ Daily or minute-by-minute price data for securities, commodities, and other fina
 
 ### Statistical and Data Analysis Tools
 
-[Software tools](../s/software_tools_for_trading.md) such as Python, R, MATLAB, and proprietary platforms are used for data analysis and model development. Libraries like Pandas, NumPy, and Scikit-learn are commonly employed for data manipulation and machine learning.
+[Software tools](../s/software_tools_for_trading.md) such as Python, R, MATLAB, and proprietary platforms are used for data analysis and model development. Libraries like Pandas, NumPy, and Scikit-learn are commonly employed for data manipulation and [machine learning](../m/machine_learning.md).
 
 ## Risks and Challenges
 
@@ -85,7 +85,7 @@ Founded by Jim Simons, Renaissance Technologies is famous for its Medallion [Fun
 
 ### Two Sigma
 
-Two Sigma uses a combination of machine learning, distributed computing, and data analysis to construct its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) focuses on scientific methods and employs a diverse team of researchers. [Two Sigma](https://www.twosigma.com/)
+Two Sigma uses a combination of [machine learning](../m/machine_learning.md), distributed computing, and data analysis to construct its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) focuses on scientific methods and employs a diverse team of researchers. [Two Sigma](https://www.twosigma.com/)
 
 ### DE Shaw
 

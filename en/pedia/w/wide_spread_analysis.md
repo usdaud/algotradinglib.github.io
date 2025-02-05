@@ -48,7 +48,7 @@ Time-series analysis involves studying the spread over time to identify trends, 
 
 ### Machine Learning Techniques
 
-Machine learning can be leveraged to model complex spread dynamics and make [predictive analytics](../p/predictive_analytics.md):
+[Machine learning](../m/machine_learning.md) can be leveraged to model complex spread dynamics and make [predictive analytics](../p/predictive_analytics.md):
 
 1. **Regression Models**: Linear and non-[linear regression](../l/linear_regression.md) models can be used to predict [spreads](../s/spreads.md) based on [multiple](../m/multiple.md) input variables.
 2. **[Classification Algorithms](../c/classification_algorithms.md)**: Algorithms like [decision trees](../d/decision_trees.md) and [random forests](../r/random_forests_in_trading.md) can classify [market](../m/market.md) conditions that lead to wide [spreads](../s/spreads.md).
@@ -72,4 +72,4 @@ Several advanced trading platforms and financial institutions emphasize [spread 
 
 ## Conclusion
 
-Wide [spread analysis](../s/spread_analysis.md) is an indispensable element in the toolkit of algorithmic traders. By examining the nuances of [bid](../b/bid.md)-ask [spreads](../s/spreads.md), traders can enhance their strategies, reduce [transaction costs](../t/transaction_costs.md), and navigate [market](../m/market.md) complexities more effectively. Advances in statistical methods and machine learning continue to propel the sophistication of [spread analysis](../s/spread_analysis.md), promising even greater insights and trading efficiencies in the future.
+Wide [spread analysis](../s/spread_analysis.md) is an indispensable element in the toolkit of algorithmic traders. By examining the nuances of [bid](../b/bid.md)-ask [spreads](../s/spreads.md), traders can enhance their strategies, reduce [transaction costs](../t/transaction_costs.md), and navigate [market](../m/market.md) complexities more effectively. Advances in statistical methods and [machine learning](../m/machine_learning.md) continue to propel the sophistication of [spread analysis](../s/spread_analysis.md), promising even greater insights and trading efficiencies in the future.

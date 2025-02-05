@@ -14,7 +14,7 @@ Crowdsourcing in [trading strategies](../t/trading_strategies.md) typically invo
 
 1. **[Ideation](../i/ideation.md)**: Participants submit their [trading strategies](../t/trading_strategies.md) or ideas based on various types of analysis, such as technical, fundamental, sentiment, or [quantitative analysis](../q/quantitative_analysis.md).
 2. **Validation**: Submitted strategies undergo rigorous [backtesting](../b/backtesting.md) and validation by the platform or community to gauge their effectiveness.
-3. **[Optimization](../o/optimization.md)**: Promising strategies are fine-tuned and optimized for better performance, often using machine learning techniques.
+3. **[Optimization](../o/optimization.md)**: Promising strategies are fine-tuned and optimized for better performance, often using [machine learning](../m/machine_learning.md) techniques.
 4. **Deployment**: Successful strategies may be used in live trading, with profits often shared between the strategy creators and the platform.
 
 ### Benefits of Crowdsourced Trading Strategies
@@ -38,7 +38,7 @@ Crowdsourcing in [trading strategies](../t/trading_strategies.md) typically invo
 
 ### Numerai
 
-[Numerai](https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that leverages machine learning models submitted by a global network of data scientists. Numerai disguises its trading data and provides it to participants who develop [predictive models](../p/predictive_models_in_trading.md). The best-performing models are then pooled together to inform the [hedge fund](../h/hedge_fund.md)'s trading decisions. Numerai rewards contributors with cryptocurrency tokens based on the performance of their models.
+[Numerai](https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) models submitted by a global network of data scientists. Numerai disguises its trading data and provides it to participants who develop [predictive models](../p/predictive_models_in_trading.md). The best-performing models are then pooled together to inform the [hedge fund](../h/hedge_fund.md)'s trading decisions. Numerai rewards contributors with cryptocurrency tokens based on the performance of their models.
 
 ### Collective2
 
@@ -64,7 +64,7 @@ The landscape of financial trading is continuously evolving, and crowdsourced [t
 
 ### Influences of AI and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning are set to revolutionize the process of crowdsourced trading. These technologies can assist in the validation and [optimization](../o/optimization.md) of submitted strategies, making it easier to identify promising algorithms and enhance their performance. Machine learning frameworks can also automate the [backtesting](../b/backtesting.md) process, providing more accurate and comprehensive evaluations of [trading strategies](../t/trading_strategies.md).
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) are set to revolutionize the process of crowdsourced trading. These technologies can assist in the validation and [optimization](../o/optimization.md) of submitted strategies, making it easier to identify promising algorithms and enhance their performance. [Machine learning](../m/machine_learning.md) frameworks can also automate the [backtesting](../b/backtesting.md) process, providing more accurate and comprehensive evaluations of [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Smart Contracts
 

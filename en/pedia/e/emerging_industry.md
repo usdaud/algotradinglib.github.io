@@ -21,7 +21,7 @@ Investors are often drawn to emerging industries for the opportunity to achieve 
 ## Examples of Emerging Industries
 
 ### Artificial Intelligence and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are transforming various sectors, from healthcare to [finance](../f/finance.md). AI-powered systems are capable of performing tasks that typically require human intelligence, such as speech recognition, decision-making, and visual perception.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are transforming various sectors, from healthcare to [finance](../f/finance.md). AI-powered systems are capable of performing tasks that typically require human intelligence, such as [speech recognition](../s/speech_recognition.md), decision-making, and visual perception.
 
 #### Key Players
 - **OpenAI** ([openai.com](https://www.openai.com))

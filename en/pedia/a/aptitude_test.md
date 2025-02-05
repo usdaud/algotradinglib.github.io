@@ -16,7 +16,7 @@ Algorithmic trading, also known as algo trading or automated trading, refers to 
 
 - **[Market](../m/market.md) Making**: [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) to the [market](../m/market.md) by continuously quoting buy and sell prices for a [financial instrument](../f/financial_instrument.md). They earn profits from the [bid-ask spread](../b/bid-ask_spread.md) and aim to manage [inventory](../i/inventory.md) risks.
 
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: These strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to analyze news, [social media](../s/social_media.md), and sentiment data to make trading decisions.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: These strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to analyze news, [social media](../s/social_media.md), and sentiment data to make trading decisions.
 
 ### 2. **Execution Algorithms**
 

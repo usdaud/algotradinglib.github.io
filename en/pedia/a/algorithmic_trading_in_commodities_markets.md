@@ -14,11 +14,11 @@ High-Frequency Trading (HFT) is a subset of [algorithmic trading](../a/algorithm
 
 ### Machine Learning and AI
 
-Machine learning and AI play a crucial role in modern [algorithmic trading](../a/algorithmic_trading.md) systems. These technologies help in [predictive modeling](../p/predictive_modeling.md), [pattern recognition](../p/pattern_recognition.md), and decision-making processes. Key machine learning methods include:
+[Machine learning](../m/machine_learning.md) and AI play a crucial role in modern [algorithmic trading](../a/algorithmic_trading.md) systems. These technologies help in [predictive modeling](../p/predictive_modeling.md), [pattern recognition](../p/pattern_recognition.md), and decision-making processes. Key [machine learning](../m/machine_learning.md) methods include:
 
-1. **Supervised Learning**: Used for predicting future prices based on historical data.
-2. **Unsupervised Learning**: Helps in identifying hidden patterns within vast datasets.
-3. **Reinforcement Learning**: Involves the algorithm learning from the [trading environment](../t/trading_environment.md) to maximize [trading performance](../t/trading_performance.md) over time.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Used for predicting future prices based on historical data.
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Helps in identifying hidden patterns within vast datasets.
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Involves the algorithm learning from the [trading environment](../t/trading_environment.md) to maximize [trading performance](../t/trading_performance.md) over time.
 
 ## Common Algorithmic Trading Strategies in Commodities Markets
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to facilitate trading decisions in [financial markets](../f/financial_market.md) with minimal human intervention. These algorithms, which can be as simple as a set of rules for buying and selling or as complex as machine learning models, are utilized to execute orders at speeds and frequencies that are impossible for human traders. This methodology aims to exploit [market](../m/market.md) inefficiencies and achieve optimal trading outcomes.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to facilitate trading decisions in [financial markets](../f/financial_market.md) with minimal human intervention. These algorithms, which can be as simple as a set of rules for buying and selling or as complex as [machine learning](../m/machine_learning.md) models, are utilized to execute orders at speeds and frequencies that are impossible for human traders. This methodology aims to exploit [market](../m/market.md) inefficiencies and achieve optimal trading outcomes.
 
 ## Key Concepts in Algorithmic Trading
 
@@ -101,7 +101,7 @@ Citadel Securities, part of Citadel LLC, is a leading [market maker](../m/market
 
 ### 3. Two Sigma
 
-Two Sigma combines [data science](../d/data_science_in_trading.md), technology, and innovation to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) employs a research-driven approach and leverages machine learning to optimize its [trading models](../t/trading_models.md).
+Two Sigma combines [data science](../d/data_science_in_trading.md), technology, and innovation to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) employs a research-driven approach and leverages [machine learning](../m/machine_learning.md) to optimize its [trading models](../t/trading_models.md).
 
 [Visit Two Sigma](https://www.twosigma.com/)
 

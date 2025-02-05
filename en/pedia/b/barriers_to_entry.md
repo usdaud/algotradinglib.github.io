@@ -56,7 +56,7 @@ Regulations designed to prevent [market](../m/market.md) abuse and manipulation 
 
 ### Expertise in Quantitative Analysis
 
-Successful [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often [leverage](../l/leverage.md) statistical and [mathematical models](../m/mathematical_models_in_trading.md). Developing such models requires expertise in [quantitative analysis](../q/quantitative_analysis.md), including knowledge of probability, [statistics](../s/statistics.md), [econometrics](../e/econometrics_in_trading.md), and machine learning. Acquiring or hiring this expertise can be challenging and expensive for new entrants.
+Successful [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often [leverage](../l/leverage.md) statistical and [mathematical models](../m/mathematical_models_in_trading.md). Developing such models requires expertise in [quantitative analysis](../q/quantitative_analysis.md), including knowledge of probability, [statistics](../s/statistics.md), [econometrics](../e/econometrics_in_trading.md), and [machine learning](../m/machine_learning.md). Acquiring or hiring this expertise can be challenging and expensive for new entrants.
 
 ### Programming Skills
 

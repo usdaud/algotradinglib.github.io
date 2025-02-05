@@ -40,7 +40,7 @@ Creating, testing, and optimizing [trading algorithms](../t/trading_algorithms.m
 
 - **[Backtesting](../b/backtesting.md) Frameworks**: Platforms like [QuantConnect](../q/quantconnect.md), [Backtrader](../b/backtrader.md), and zipline provide environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) on historical data.
 
-- **Development Libraries**: Libraries like NumPy, pandas, scikit-learn, and TensorFlow are extensively used for data analysis, machine learning, and building [trading strategies](../t/trading_strategies.md).
+- **Development Libraries**: Libraries like NumPy, pandas, scikit-learn, and [TensorFlow](../t/tensorflow.md) are extensively used for data analysis, [machine learning](../m/machine_learning.md), and building [trading strategies](../t/trading_strategies.md).
 
 ### 5. Execution Management Systems (EMS)
 

@@ -62,7 +62,7 @@ The advent of [big data](../b/big_data_in_trading.md) and computational power ha
 
 ### Machine Learning
 
-Machine learning models can be trained to identify revealed preferences from large datasets. These models can predict future preferences based on historical data, aiding in personalized recommendations and targeted [marketing](../m/marketing.md).
+[Machine learning](../m/machine_learning.md) models can be trained to identify revealed preferences from large datasets. These models can predict future preferences based on historical data, aiding in personalized recommendations and targeted [marketing](../m/marketing.md).
 
 ### Predictive Analytics
 

@@ -89,11 +89,11 @@ In [algorithmic trading](../a/accountability.md), QTD [performance metrics](../p
 
 ## Advanced QTD Insights through Data Analytics
 
-Advanced [data analytics](../d/data_analytics.md) tools use techniques such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide deeper insights into QTD performance. By analyzing large datasets, these tools can uncover hidden patterns and correlations, [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) that help in future planning.
+Advanced [data analytics](../d/data_analytics.md) tools use techniques such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide deeper insights into QTD performance. By analyzing large datasets, these tools can uncover hidden patterns and correlations, [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) that help in future planning.
 
 ### Machine Learning Models
 
-Machine learning models can analyze vast amounts of QTD data to predict future performance. Models like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) identify patterns that might not be visible through traditional analysis methods, providing valuable insights for decision-makers.
+[Machine learning](../m/machine_learning.md) models can analyze vast amounts of QTD data to predict future performance. Models like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) identify patterns that might not be visible through traditional analysis methods, providing valuable insights for decision-makers.
 
 ### Natural Language Processing (NLP)
 

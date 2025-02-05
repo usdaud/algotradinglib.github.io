@@ -80,7 +80,7 @@ Advanced [risk management systems](../r/risk_management_systems.md) can provide 
 
 ### Machine Learning and Big Data
 
-Machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) can be leveraged to predict and manage holding costs more effectively. By analyzing vast amounts of historical data and [market](../m/market.md) trends, these technologies can identify patterns and provide actionable insights into cost management. This predictive capability is especially valuable for managing complex portfolios with [multiple](../m/multiple.md) cost components.
+[Machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) can be leveraged to predict and manage holding costs more effectively. By analyzing vast amounts of historical data and [market](../m/market.md) trends, these technologies can identify patterns and provide actionable insights into cost management. This predictive capability is especially valuable for managing complex portfolios with [multiple](../m/multiple.md) cost components.
 
 ## Regulatory Considerations
 

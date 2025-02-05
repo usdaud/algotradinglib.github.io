@@ -58,7 +58,7 @@ Like all investment strategies, those based on price [momentum](../m/momentum.md
 
 ### Enhancements and Innovations
 
-Innovations in [data science](../d/data_science_in_trading.md) and machine learning have opened new avenues for enhancing [momentum](../m/momentum.md) strategies:
+Innovations in [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) have opened new avenues for enhancing [momentum](../m/momentum.md) strategies:
 
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzing news and [social media sentiment](../s/social_media_sentiment.md) to enhance [momentum](../m/momentum.md) signals.
 - **[Deep Learning](../d/deep_learning.md)**: Utilizing [neural networks](../n/neural_networks_in_trading.md) to detect complex patterns in price data that are not visible through traditional methods.

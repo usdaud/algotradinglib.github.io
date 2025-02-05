@@ -36,7 +36,7 @@
 ## Integration and APIs
 While [Quantitative Finance](../q/quantitative_finance.md) Stack [Exchange](../e/exchange.md) itself does not provide APIs, discussions often cover the use of various financial data and programming APIs:
 - **Financial Data APIs**: For accessing [market](../m/market.md) data, historical data, and financial metrics.
-- **Programming Libraries**: Libraries such as Pandas, NumPy, SciPy, and TensorFlow for data analysis and [financial modeling](../f/financial_modeling.md).
+- **Programming Libraries**: Libraries such as Pandas, NumPy, SciPy, and [TensorFlow](../t/tensorflow.md) for data analysis and [financial modeling](../f/financial_modeling.md).
 - **[Trading Platform](../t/trading_platform.md) APIs**: APIs for [algorithmic trading](../a/algorithmic_trading.md) and automated [execution](../e/execution.md).
 
 ## Clients and Partners

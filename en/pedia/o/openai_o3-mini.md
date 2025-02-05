@@ -20,13 +20,13 @@
 - **Developer Tools:**  
   Provides an efficient API for building AI-powered applications without incurring high computational costs.
 - **Educational Platforms:**  
-  Supports interactive learning tools by offering quick and accurate responses.
+  Supports interactive learning tools by [offering](../o/offering.md) quick and accurate responses.
 
 ### Advantages
 
 - Fast response times and low operational costs.
 - Flexibility through adjustable reasoning modes.
-- Accessible on free plans as well as premium tiers, broadening its user base.
+- Accessible on free plans as well as [premium](../p/premium.md) tiers, broadening its user base.
 
 ### Challenges
 

@@ -36,7 +36,7 @@ By focusing on reducing these costs, traders can enhance their net returns.
    - **Co-location Services**: Placing trading servers close to [exchange](../e/exchange.md) servers to reduce latency.
    - **Optimized Hardware and Software**: Utilizing high-speed networks, advanced processors, and efficient algorithms to ensure quick [trade](../t/trade.md) [execution](../e/execution.md).
 
-2. **Machine Learning and AI**
+2. **[Machine Learning](../m/machine_learning.md) and AI**
    AI-powered algorithms can predict optimal trading times and venues, adjust strategies in real-time based on [market](../m/market.md) conditions, and dynamically manage [order](../o/order.md) placement, all of which help in cost reduction.
 
 ### Cost Analysis and Optimization

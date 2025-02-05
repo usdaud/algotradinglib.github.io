@@ -26,7 +26,7 @@ The identification and exploitation of J-patterns [offer](../o/offer.md) valuabl
 ### Strategy Development
 
 [Quantitative strategies](../q/quantitative_strategies_in_trading.md) leveraging J-patterns involve several key steps:
-- **[Signal Detection](../s/signal_detection_in_trading.md)**: Algorithms are designed to detect initial declines and potential bottoms through [technical indicators](../t/technical_indicators.md), [volume analysis](../v/volume_analysis.md), and machine learning techniques.
+- **[Signal Detection](../s/signal_detection_in_trading.md)**: Algorithms are designed to detect initial declines and potential bottoms through [technical indicators](../t/technical_indicators.md), [volume analysis](../v/volume_analysis.md), and [machine learning](../m/machine_learning.md) techniques.
 - **Entry and Exit Points**: Automated systems execute trades to [capitalize](../c/capitalize.md) on the rebound, setting precise entry and exit points based on historical data and real-time adjustments.
 - **[Risk Management](../r/risk_management.md)**: Effective [risk](../r/risk.md) controls are essential to [hedge](../h/hedge.md) against [false signals](../f/false_signals_in_trading.md) and unexpected [market](../m/market.md) conditions.
 
@@ -53,7 +53,7 @@ Historical analysis of [market](../m/market.md) downturns, such as the 2008 [fin
 
 Several trading firms and [hedge](../h/hedge.md) funds integrate J-[pattern recognition](../p/pattern_recognition.md) into their [algorithmic trading](../a/algorithmic_trading.md) frameworks. One prominent example is:
 
-1. **Two Sigma Investments**: [twosigma.com](https://www.twosigma.com) - This [hedge fund](../h/hedge_fund.md) leverages advanced [pattern recognition](../p/pattern_recognition.md) and machine learning to identify subtle [market](../m/market.md) signals, including J-patterns, to drive trading decisions.
+1. **Two Sigma Investments**: [twosigma.com](https://www.twosigma.com) - This [hedge fund](../h/hedge_fund.md) leverages advanced [pattern recognition](../p/pattern_recognition.md) and [machine learning](../m/machine_learning.md) to identify subtle [market](../m/market.md) signals, including J-patterns, to drive trading decisions.
 
 ## Challenges and Considerations
 
@@ -73,7 +73,7 @@ The effectiveness of J-pattern [trading strategies](../t/trading_strategies.md) 
 
 Implementing sophisticated J-[pattern recognition](../p/pattern_recognition.md) algorithms demands:
 - **High-Performance Computing**: To [handle](../h/handle.md) large data sets and execute trades swiftly.
-- **Machine Learning**: Advanced models are crucial for improving [pattern recognition](../p/pattern_recognition.md) accuracy.
+- **[Machine Learning](../m/machine_learning.md)**: Advanced models are crucial for improving [pattern recognition](../p/pattern_recognition.md) accuracy.
 - **[Robust](../r/robust.md) Data Feeds**: Real-time data access is essential for timely decision-making.
 
 ## Future Directions

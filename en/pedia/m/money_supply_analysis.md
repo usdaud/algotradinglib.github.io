@@ -27,7 +27,7 @@ Changes in [money supply](../m/money_supply.md) can have significant impacts on 
 
 **3.1 Background [Data Integration](../d/data_integration.md)**
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems can integrate historical and real-time [money supply](../m/money_supply.md) data to forecast [market](../m/market.md) trends. These systems utilize machine learning and statistical models to analyze how past changes in [money supply](../m/money_supply.md) impacted stock prices, [commodity](../c/commodity.md) prices, and other financial indicators.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can integrate historical and real-time [money supply](../m/money_supply.md) data to forecast [market](../m/market.md) trends. These systems utilize [machine learning](../m/machine_learning.md) and statistical models to analyze how past changes in [money supply](../m/money_supply.md) impacted stock prices, [commodity](../c/commodity.md) prices, and other financial indicators.
 
 **3.2 [Predictive Analytics](../p/predictive_analytics.md)**
 

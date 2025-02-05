@@ -11,7 +11,7 @@ Descriptive analytics involves analyzing historical data to understand changes t
 Diagnostic analytics seeks to understand the reasons behind past outcomes. Techniques include statistical analysis, [data mining](../d/data_mining.md), and drilling down into data, allowing users to investigate anomalies and understand why certain events happened.
 
 ### 3. Predictive Analytics
-[Predictive analytics](../p/predictive_analytics.md) uses statistical models and machine learning techniques to forecast future events. Models analyze patterns in historical data to predict future outcomes, helping traders to anticipate [market](../m/market.md) trends and price movements.
+[Predictive analytics](../p/predictive_analytics.md) uses statistical models and [machine learning](../m/machine_learning.md) techniques to forecast future events. Models analyze patterns in historical data to predict future outcomes, helping traders to anticipate [market](../m/market.md) trends and price movements.
 
 ### 4. Prescriptive Analytics
 Prescriptive analytics goes beyond [forecasting](../f/forecasting.md) and provides recommendations based on the predictions. It uses [optimization](../o/optimization.md) and [simulation](../s/simulation_in_trading.md) algorithms to advise on possible outcomes and guide decision-making.
@@ -22,7 +22,7 @@ Prescriptive analytics goes beyond [forecasting](../f/forecasting.md) and provid
 [Data mining](../d/data_mining.md) involves discovering patterns and relationships in large datasets. Techniques include clustering, classification, regression, and association rule learning.
 
 ### Machine Learning
-Machine learning models, including supervised (regression, classification), unsupervised (clustering, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)), and reinforcement learning, are vital for [predictive analytics](../p/predictive_analytics.md). Popular algorithms include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md).
+[Machine learning](../m/machine_learning.md) models, including supervised (regression, classification), unsupervised (clustering, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)), and [reinforcement learning](../r/reinforcement_learning.md), are vital for [predictive analytics](../p/predictive_analytics.md). Popular algorithms include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md).
 
 ### Statistical Analysis
 Statistical analysis involves [hypothesis testing](../h/hypothesis_testing.md), [correlation](../c/correlation.md), and [regression analysis](../r/regression_analysis.md) to understand relationships and trends within the dataset. 
@@ -54,7 +54,7 @@ By analyzing [social media](../s/social_media.md), news articles, and [earnings]
 [https://www.quantconnect.com](https://www.quantconnect.com)
 
 ### Numerai
-Numerai leverages [data science](../d/data_science_in_trading.md) for [hedge fund](../h/hedge_fund.md) management. It uses machine learning models built by data scientists to manage its portfolio of investments.
+Numerai leverages [data science](../d/data_science_in_trading.md) for [hedge fund](../h/hedge_fund.md) management. It uses [machine learning](../m/machine_learning.md) models built by data scientists to manage its portfolio of investments.
 [https://numer.ai](https://numer.ai)
 
 ### Alpha Vantage
@@ -77,7 +77,7 @@ Collected data often contains [noise](../n/noise.md), missing values, and incons
 Data is transformed through normalization, [aggregation](../a/aggregation.md), and other techniques to convert it into a suitable format for analysis.
 
 ### 4. Data Analysis and Modeling
-This is where descriptive, diagnostic, predictive, and prescriptive analytics techniques are applied. Machine learning models are trained, validated, and tested on the transformed data.
+This is where descriptive, diagnostic, predictive, and prescriptive analytics techniques are applied. [Machine learning](../m/machine_learning.md) models are trained, validated, and tested on the transformed data.
 
 ### 5. Interpretation and Deployment
 Results from the data analysis are interpreted to derive actionable insights. These insights are then put into action, such as adjusting [trading strategies](../t/trading_strategies.md) or making investment decisions.

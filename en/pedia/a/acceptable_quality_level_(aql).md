@@ -65,7 +65,7 @@ In the electronics [manufacturing](../m/manufacturing.md) [industry](../i/indust
 
 ## Technological Integration
 
-With advancements in technology, AQL has also evolved. Modern [quality control](../q/quality_control.md) systems integrate automation and machine learning to enhance the precision and [efficiency](../e/efficiency.md) of AQL [sampling](../s/sampling.md) plans. Automated optical inspection systems can quickly analyze samples and detect defects that might be missed by human inspectors.
+With advancements in technology, AQL has also evolved. Modern [quality control](../q/quality_control.md) systems integrate automation and [machine learning](../m/machine_learning.md) to enhance the precision and [efficiency](../e/efficiency.md) of AQL [sampling](../s/sampling.md) plans. Automated optical inspection systems can quickly analyze samples and detect defects that might be missed by human inspectors.
 
 ## Conclusion
 

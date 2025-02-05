@@ -91,7 +91,7 @@ A butterfly strategy involves a combination of [barbell](../b/barbell.md) and bu
 
 **Key Technologies**:
 1. **High-Frequency Trading (HFT)**: Utilizes algorithms to execute numerous trades within milliseconds to take advantage of small [yield curve](../y/yield_curve.md) shifts.
-2. **Machine Learning**: Algorithms incorporate historical data and use [predictive models](../p/predictive_models_in_trading.md) to anticipate movements in the [yield curve](../y/yield_curve.md) and execute trades accordingly.
+2. **[Machine Learning](../m/machine_learning.md)**: Algorithms incorporate historical data and use [predictive models](../p/predictive_models_in_trading.md) to anticipate movements in the [yield curve](../y/yield_curve.md) and execute trades accordingly.
 3. **[Risk Management](../r/risk_management.md) Systems**: These systems constantly monitor the portfolio against [yield curve](../y/yield_curve.md) shifts and adjust positions dynamically to optimize the [risk](../r/risk.md)-[return](../r/return.md) profile.
 
 **Benefits of Algotrading in [Yield Curve](../y/yield_curve.md) Strategies**:
@@ -106,7 +106,7 @@ Several financial institutions and [hedge](../h/hedge.md) funds are renowned for
 
 1. **Renaissance Technologies**:
    - Website: [Renaissance Technologies](https://www.rentec.com/)
-   - Known for employing advanced [quantitative models](../q/quantitative_models.md) and machine learning techniques for its Medallion [Fund](../f/fund.md).
+   - Known for employing advanced [quantitative models](../q/quantitative_models.md) and [machine learning](../m/machine_learning.md) techniques for its Medallion [Fund](../f/fund.md).
 
 2. **Two Sigma Investments**:
    - Website: [Two Sigma](https://www.twosigma.com/)
@@ -118,19 +118,19 @@ Several financial institutions and [hedge](../h/hedge.md) funds are renowned for
 
 4. **Man AHL**:
    - Website: [Man AHL](https://www.man.com/ahl)
-   - Implements machine learning and high-frequency trading for executing [yield curve](../y/yield_curve.md) strategies.
+   - Implements [machine learning](../m/machine_learning.md) and high-frequency trading for executing [yield curve](../y/yield_curve.md) strategies.
 
 ### Case Study: Implementing a Butterfly Strategy with Machine Learning
 
 Consider a [hedge fund](../h/hedge_fund.md) applying a butterfly strategy with algotrading to manage a $500 million fixed-[income](../i/income.md) portfolio:
-- **Objective**: Maximize returns by leveraging [yield curve](../y/yield_curve.md) shifts predicted through machine learning models.
+- **Objective**: Maximize returns by leveraging [yield curve](../y/yield_curve.md) shifts predicted through [machine learning](../m/machine_learning.md) models.
 
 **Step-by-Step Process**:
 1. **Data Collection**: Aggregates historical [yield curve](../y/yield_curve.md) data, macroeconomic indicators, central [bank](../b/bank.md) policy actions, and [market sentiment](../m/market_sentiment.md) data.
-2. **Model Development**: Develops a machine learning model to predict [yield curve](../y/yield_curve.md) movements. The model could be a neural network trained on historical data with features such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md) data, etc.
+2. **Model Development**: Develops a [machine learning](../m/machine_learning.md) model to predict [yield curve](../y/yield_curve.md) movements. The model could be a neural network trained on historical data with features such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md) data, etc.
 3. **[Backtesting](../b/backtesting.md)**: Utilizes historical data to backtest the model and refine its parameters for accuracy.
 4. **[Execution](../e/execution.md)**: Implements the butterfly strategy using the model's predictions. Allocates assets dynamically based on predicted [yield curve](../y/yield_curve.md) shifts.
-5. **Monitoring and Adjustment**: Continuously monitors the portfolio and algorithm performance. Adjusts the machine learning model as new data becomes available.
+5. **Monitoring and Adjustment**: Continuously monitors the portfolio and algorithm performance. Adjusts the [machine learning](../m/machine_learning.md) model as new data becomes available.
 
 **Outcome**:
 - **Performance**: Achieves superior [risk](../r/risk.md)-adjusted returns compared to traditional strategies due to the predictive power of the algorithm.
@@ -138,6 +138,6 @@ Consider a [hedge fund](../h/hedge_fund.md) applying a butterfly strategy with a
 
 ### Conclusion
 
-[Bond](../b/bond.md) [yield curve](../y/yield_curve.md) strategies, intricately intertwined with [algorithmic trading](../a/algorithmic_trading.md), allow sophisticated investors and [hedge](../h/hedge.md) funds to exploit [interest rate](../i/interest_rate.md) movements for optimized returns. Whether through a conservative bullet strategy or a complex butterfly strategy, the integration of advanced technologies such as high-frequency trading and machine learning has transformed the landscape, providing unparalleled speed, precision, and consistency. Institutions at the forefront of this evolution, like Renaissance Technologies and Two Sigma Investments, illustrate the potent combination of financial acumen and technological innovation in harnessing the power of the [yield curve](../y/yield_curve.md).
+[Bond](../b/bond.md) [yield curve](../y/yield_curve.md) strategies, intricately intertwined with [algorithmic trading](../a/algorithmic_trading.md), allow sophisticated investors and [hedge](../h/hedge.md) funds to exploit [interest rate](../i/interest_rate.md) movements for optimized returns. Whether through a conservative bullet strategy or a complex butterfly strategy, the integration of advanced technologies such as high-frequency trading and [machine learning](../m/machine_learning.md) has transformed the landscape, providing unparalleled speed, precision, and consistency. Institutions at the forefront of this evolution, like Renaissance Technologies and Two Sigma Investments, illustrate the potent combination of financial acumen and technological innovation in harnessing the power of the [yield curve](../y/yield_curve.md).
 
 Correct implementation and continuous assessment are critical, as algorithms must be meticulously designed to adapt to ever-changing [market](../m/market.md) conditions. This hybrid approach of traditional [finance](../f/finance.md) principles and modern algorithmic prowess marks a pivotal development in fixed-[income](../i/income.md) trading, promising continued advancement and opportunity in [bond](../b/bond.md) [yield curve](../y/yield_curve.md) strategies.

@@ -23,7 +23,7 @@ Some examples of [proprietary trading](../p/proprietary_trading.md) firms includ
 
 [Hedge](../h/hedge.md) funds are pooled investment funds that utilize various strategies to earn returns for their investors. Many [hedge](../h/hedge.md) funds [leverage](../l/leverage.md) algorithms to implement strategies that include statistical [arbitrage](../a/arbitrage.md), [trend following](../t/trend_following.md), and [market](../m/market.md) making.
 
-- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that applies machine learning and distributed computing to the world of [finance](../f/finance.md). Visit their [site](https://www.twosigma.com) for more details.
+- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that applies [machine learning](../m/machine_learning.md) and distributed computing to the world of [finance](../f/finance.md). Visit their [site](https://www.twosigma.com) for more details.
 
 - **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to identify profitable investments. More information can be found on their [website](https://www.rentec.com).
 
@@ -106,7 +106,7 @@ Brokers act as intermediaries between investors and markets. They execute buy an
 - Focus on research and development of [trading models](../t/trading_models.md).
 - Collaborate with trading entities to deploy strategies.
 - Employ experienced quantitative analysts and data scientists.
-- Utilize advanced statistical and machine learning techniques.
+- Utilize advanced statistical and [machine learning](../m/machine_learning.md) techniques.
 - Emphasize back-testing and simulations to validate models.
 
 # Technology Providers

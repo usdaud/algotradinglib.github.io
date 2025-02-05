@@ -28,7 +28,7 @@ Quantitative traders utilize a variety of strategies to [capitalize](../c/capita
 
 2. **High-Frequency Trading (HFT)**: HFT involves making a large number of trades in very short time frames, often milliseconds. This strategy relies heavily on low latency and high-speed data feeds. Common techniques in HFT include [market](../m/market.md)-making, [arbitrage](../a/arbitrage.md), and [event-driven trading](../e/event-driven_trading.md).
 
-3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: This broad category encompasses strategies that use pre-programmed instructions to execute trades. These algorithms can [range](../r/range.md) from simple rules like [moving average crossovers](../m/moving_average_crossovers.md) to complex machine learning models.
+3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: This broad category encompasses strategies that use pre-programmed instructions to execute trades. These algorithms can [range](../r/range.md) from simple rules like [moving average crossovers](../m/moving_average_crossovers.md) to complex [machine learning](../m/machine_learning.md) models.
 
 4. **[Trend](../t/trend.md)-Following**: This strategy assumes that securities that have been moving in a certain direction [will](../w/will.md) continue to do so. Models might use moving averages, [breakout](../b/breakout.md) strategies, or [momentum indicators](../m/momentum_indicators.md) to identify trends and generate [trading signals](../t/trading_signals.md).
 
@@ -56,7 +56,7 @@ Several firms are at the forefront of quantitative trading, employing sophistica
 
 1. **Renaissance Technologies**: Founded by Jim Simons, Renaissance Technologies is one of the most successful quant trading firms, known for its Medallion [Fund](../f/fund.md). The [firm](../f/firm.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in financial instruments. [Renaissance Technologies](https://www.rentec.com/)
 
-2. **Two Sigma**: This [firm](../f/firm.md) leverages machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop quantitative [trading strategies](../t/trading_strategies.md). Two Sigma manages billions of dollars in assets and is known for its data-driven approach to trading. [Two Sigma](https://www.twosigma.com/)
+2. **Two Sigma**: This [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop quantitative [trading strategies](../t/trading_strategies.md). Two Sigma manages billions of dollars in assets and is known for its data-driven approach to trading. [Two Sigma](https://www.twosigma.com/)
 
 3. **Citadel LLC**: Founded by Ken Griffin, Citadel is a global financial institution with a [robust](../r/robust.md) quantitative trading arm. The [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) across various [asset](../a/asset.md) classes. [Citadel](https://www.citadel.com/)
 
@@ -68,7 +68,7 @@ Several firms are at the forefront of quantitative trading, employing sophistica
 
 The field of quantitative trading is continually evolving, driven by advances in technology and [data analytics](../d/data_analytics.md). Some trends and future directions include:
 
-1. **Machine Learning and AI**: The use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in model development is expected to grow. Techniques like reinforcement learning, [deep learning](../d/deep_learning.md), and unsupervised learning are being explored for more sophisticated [trading models](../t/trading_models.md).
+1. **[Machine Learning](../m/machine_learning.md) and AI**: The use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in model development is expected to grow. Techniques like [reinforcement learning](../r/reinforcement_learning.md), [deep learning](../d/deep_learning.md), and [unsupervised learning](../u/unsupervised_learning.md) are being explored for more sophisticated [trading models](../t/trading_models.md).
 
 2. **[Big Data](../b/big_data_in_trading.md) and [Alternative Data](../a/alternative_data.md)**: The integration of [big data](../b/big_data_in_trading.md) technologies allows for the processing of vast datasets. [Alternative data](../a/alternative_data.md) sources, such as satellite imagery, [social media](../s/social_media.md) feeds, and [transaction](../t/transaction.md) records, are being increasingly used to [gain](../g/gain.md) an edge in trading.
 

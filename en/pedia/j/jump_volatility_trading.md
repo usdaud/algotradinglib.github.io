@@ -56,7 +56,7 @@ High-frequency trading plays a crucial role in jump [volatility](../v/volatility
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have revolutionized jump [volatility](../v/volatility.md) trading by enabling the development of [predictive models](../p/predictive_models_in_trading.md) that can identify patterns and trends in vast amounts of data. These models can anticipate the likelihood of price jumps and optimize [trading strategies](../t/trading_strategies.md) in real-time.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have revolutionized jump [volatility](../v/volatility.md) trading by enabling the development of [predictive models](../p/predictive_models_in_trading.md) that can identify patterns and trends in vast amounts of data. These models can anticipate the likelihood of price jumps and optimize [trading strategies](../t/trading_strategies.md) in real-time.
 
 ### Real-Time Data Feeds
 

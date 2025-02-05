@@ -60,7 +60,7 @@ Analyzing [social media](../s/social_media.md), news, and other sources can prov
 
 ### Data Aggregation
 
-Algorithmic traders can use techniques like machine learning to aggregate and interpret diverse data streams, including [market](../m/market.md) data, [economic indicators](../e/economic_indicators.md), and sentiment data.
+Algorithmic traders can use techniques like [machine learning](../m/machine_learning.md) to aggregate and interpret diverse data streams, including [market](../m/market.md) data, [economic indicators](../e/economic_indicators.md), and sentiment data.
 
 ## Advantages and Limitations
 

@@ -81,7 +81,7 @@ Effective [risk management](../r/risk_management.md) is paramount in Global Macr
 
 ## Technology and Data Analytics
 
-In modern Global Macro trading, technology and [data analytics](../d/data_analytics.md) play a crucial role. Advanced algorithms and machine learning models are increasingly being used to sift through vast amounts of economic data and identify trading opportunities. Real-time data feeds and high-frequency [trading systems](../t/trading_systems.md) allow funds to react quickly to [market](../m/market.md) changes.
+In modern Global Macro trading, technology and [data analytics](../d/data_analytics.md) play a crucial role. Advanced algorithms and [machine learning](../m/machine_learning.md) models are increasingly being used to sift through vast amounts of economic data and identify trading opportunities. Real-time data feeds and high-frequency [trading systems](../t/trading_systems.md) allow funds to react quickly to [market](../m/market.md) changes.
 
 ## Conclusion
 

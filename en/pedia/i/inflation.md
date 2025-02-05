@@ -61,7 +61,7 @@ There are several key indicators for measuring inflation, the most commonly know
 
 ## Machine Learning and Inflation
 
-Machine learning models can be trained to recognize the impact of inflation on various financial variables. Historical data can be used to teach these models how [asset](../a/asset.md) prices responded to inflation in the past, improving predictive accuracy.
+[Machine learning](../m/machine_learning.md) models can be trained to recognize the impact of inflation on various financial variables. Historical data can be used to teach these models how [asset](../a/asset.md) prices responded to inflation in the past, improving predictive accuracy.
 
 ## Examples of Inflation-Adjusted Algorithms
 
@@ -80,4 +80,4 @@ Founded by Ray Dalio, Bridgewater Associates is another prominent [firm](../f/fi
 
 # Conclusion
 
-Inflation is a fundamental economic variable that influences virtually every aspect of the [financial markets](../f/financial_market.md). For those involved in [algorithmic trading](../a/accountability.md), understanding the mechanics of inflation and incorporating it into [trading models](../t/trading_models.md) is essential for achieving long-term, sustainable returns. The integration of real-time data, machine learning models, and [backtesting](../b/backtesting.md) are some of the methods that can be employed to create resilient [trading algorithms](../t/trading_algorithms.md) that account for the effects of inflation.
+Inflation is a fundamental economic variable that influences virtually every aspect of the [financial markets](../f/financial_market.md). For those involved in [algorithmic trading](../a/accountability.md), understanding the mechanics of inflation and incorporating it into [trading models](../t/trading_models.md) is essential for achieving long-term, sustainable returns. The integration of real-time data, [machine learning](../m/machine_learning.md) models, and [backtesting](../b/backtesting.md) are some of the methods that can be employed to create resilient [trading algorithms](../t/trading_algorithms.md) that account for the effects of inflation.

@@ -1,6 +1,6 @@
 # Linear Discriminant Analysis (LDA)
 
-Linear Discriminant Analysis (LDA) is a classification and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique that finds a linear combination of features to separate two or more classes of objects or events. It is used extensively in [statistics](../s/statistics.md), [pattern recognition](../p/pattern_recognition.md), and machine learning. In the context of [algorithmic trading](../a/algorithmic_trading.md), LDA can be utilized for developing [predictive models](../p/predictive_models_in_trading.md) that can accurately classify [financial time series](../f/financial_time_series.md) data, detect [market](../m/market.md) regimes, or identify profitable [trading signals](../t/trading_signals.md).
+Linear Discriminant Analysis (LDA) is a classification and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique that finds a linear combination of features to separate two or more classes of objects or events. It is used extensively in [statistics](../s/statistics.md), [pattern recognition](../p/pattern_recognition.md), and [machine learning](../m/machine_learning.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), LDA can be utilized for developing [predictive models](../p/predictive_models_in_trading.md) that can accurately classify [financial time series](../f/financial_time_series.md) data, detect [market](../m/market.md) regimes, or identify profitable [trading signals](../t/trading_signals.md).
 
 ## Overview of LDA
 

@@ -92,7 +92,7 @@ Software bugs, hardware malfunctions, and network failures can disrupt trading o
 ## Future Trends
 
 ### 1. **Machine Learning and AI**
-The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in cryptocurrency [trading algorithms](../t/trading_algorithms.md) is expected to increase. These technologies [will](../w/will.md) enable more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in cryptocurrency [trading algorithms](../t/trading_algorithms.md) is expected to increase. These technologies [will](../w/will.md) enable more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Decentralized Finance (DeFi)**
 The rise of DeFi platforms offers new opportunities for [algorithmic trading](../a/algorithmic_trading.md). Algorithms can now interact with [smart contracts](../s/smart_contracts_in_trading.md) to execute trades, provide [liquidity](../l/liquidity.md), or engage in [yield](../y/yield.md) farming.

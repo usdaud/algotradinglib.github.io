@@ -100,7 +100,7 @@ Advancements in technology profoundly impact WEoI processes, making it easier an
 Insurers increasingly rely on [big data](../b/big_data_in_trading.md) and [predictive analytics](../p/predictive_analytics.md) to improve [risk assessment models](../r/risk_assessment_models.md) even without EOI. By analyzing vast datasets:
 
 - **Behavioral Patterns:** Understanding behavioral and purchasing patterns can [offer](../o/offer.md) insights into potential risks.
-- **Machine Learning Models:** Employing machine learning models improves actuarial assumptions, ensuring better management of uncertainties.
+- **[Machine Learning](../m/machine_learning.md) Models:** Employing [machine learning](../m/machine_learning.md) models improves actuarial assumptions, ensuring better management of uncertainties.
 
 ### Blockchain
 

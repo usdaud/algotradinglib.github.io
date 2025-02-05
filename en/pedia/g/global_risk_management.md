@@ -68,9 +68,9 @@
    - **Description**: Analyzing vast amounts of [market](../m/market.md) data to identify trends, patterns, and risks.
    - **Implementation**: Integrating [big data analytics](../b/big_data_analytics_in_trading.md) tools into the trading [infrastructure](../i/infrastructure.md) to enhance decision-making and [risk](../r/risk.md) assessment capabilities.
 
-4. **Machine Learning and AI**:
+4. **[Machine Learning](../m/machine_learning.md) and AI**:
    - **Description**: Using advanced algorithms to predict [market](../m/market.md) movements and identify risks.
-   - **Implementation**: Training machine learning models on historical data to forecast potential risks and adapt [trading strategies](../t/trading_strategies.md) dynamically.
+   - **Implementation**: Training [machine learning](../m/machine_learning.md) models on historical data to forecast potential risks and adapt [trading strategies](../t/trading_strategies.md) dynamically.
 
 ### Regulatory Compliance
 
@@ -92,7 +92,7 @@
 JP Morgan Chase & Co. is one of the largest global financial institutions, known for its innovative use of technology in trading. The [firm](../f/firm.md) leverages advanced [risk management](../r/risk_management.md) systems and has implemented a comprehensive [risk management](../r/risk_management.md) framework that includes real-time monitoring, [stress testing](../s/stress_testing_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md). For more information, visit their [official website](https://www.jpmorganchase.com).
 
 #### 2. Goldman Sachs
-Goldman Sachs is a leader in [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). The [firm](../f/firm.md) uses sophisticated machine learning models to assess [market](../m/market.md) risks and optimize [trading strategies](../t/trading_strategies.md). It has a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for real-time [risk](../r/risk.md) monitoring and regulatory compliance. Learn more on their [official page](https://www.goldmansachs.com).
+Goldman Sachs is a leader in [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). The [firm](../f/firm.md) uses sophisticated [machine learning](../m/machine_learning.md) models to assess [market](../m/market.md) risks and optimize [trading strategies](../t/trading_strategies.md). It has a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for real-time [risk](../r/risk.md) monitoring and regulatory compliance. Learn more on their [official page](https://www.goldmansachs.com).
 
 ### Conclusion
 

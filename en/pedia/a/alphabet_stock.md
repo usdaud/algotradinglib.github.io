@@ -17,7 +17,7 @@ Owned by Google, YouTube is the world’s second-largest search engine. The plat
 Google's Android operating system powers a majority of the world's smartphones. Google Play serves as its app marketplace, generating [revenue](../r/revenue.md) via app purchases, subscriptions, and in-app advertising.
 
 ### Cloud Computing
-Google Cloud, under Alphabet, provides [cloud computing](../c/cloud_computing_in_trading.md) services and competes directly with Amazon Web Services (AWS) and Microsoft Azure. With a focus on [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML), Google Cloud enhances enterprise capabilities, fostering digital transformation.
+Google Cloud, under Alphabet, provides [cloud computing](../c/cloud_computing_in_trading.md) services and competes directly with Amazon Web Services (AWS) and Microsoft Azure. With a focus on [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML), Google Cloud enhances enterprise capabilities, fostering digital transformation.
 
 ### Other Bets
 Alphabet's "Other Bets" include various ambitious projects and companies such as Waymo (self-driving cars), Verily (life sciences), and Calico (biotechnology). While these ventures currently contribute a minor portion to Alphabet's total [revenue](../r/revenue.md), they [hold](../h/hold.md) substantial future growth potential.

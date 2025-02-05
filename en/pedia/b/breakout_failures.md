@@ -66,7 +66,7 @@ Effective [risk management](../r/risk_management.md) is crucial for handling [br
 
 ### Advanced Techniques
 
-1. **Machine Learning**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze historical [breakout](../b/breakout.md) failures and optimize entry/exit points.
+1. **[Machine Learning](../m/machine_learning.md)**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze historical [breakout](../b/breakout.md) failures and optimize entry/exit points.
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: Using algorithms to detect specific patterns or formations that indicate a higher probability of failure.
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing news and [social media](../s/social_media.md) to gauge [market sentiment](../m/market_sentiment.md), which could affect [breakout](../b/breakout.md) success.
 
@@ -78,7 +78,7 @@ Effective [risk management](../r/risk_management.md) is crucial for handling [br
 
 #### Example 2: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides an [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md). Users can utilize extensive historical data and machine learning libraries to develop sophisticated strategies that account for [breakout](../b/breakout.md) failures.
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides an [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md). Users can utilize extensive historical data and [machine learning](../m/machine_learning.md) libraries to develop sophisticated strategies that account for [breakout](../b/breakout.md) failures.
 
 #### Example 3: TradeStation
 

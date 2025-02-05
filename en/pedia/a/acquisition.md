@@ -92,9 +92,9 @@ As [algorithmic trading](../a/accountability.md) continues to evolve, the strate
 
 ### Increased Use of AI and Machine Learning
 
-The acquisition of AI and machine learning technologies is likely to become increasingly common. These technologies can enhance [trading algorithms](../t/trading_algorithms.md) by enabling more sophisticated data analysis and [predictive modeling](../p/predictive_modeling.md).
+The acquisition of AI and [machine learning](../m/machine_learning.md) technologies is likely to become increasingly common. These technologies can enhance [trading algorithms](../t/trading_algorithms.md) by enabling more sophisticated data analysis and [predictive modeling](../p/predictive_modeling.md).
 
-1. **AI Startups**: Firms are likely to acquire startups specializing in AI and machine learning to integrate these advanced technologies into their trading operations.
+1. **AI Startups**: Firms are likely to acquire startups specializing in AI and [machine learning](../m/machine_learning.md) to integrate these advanced technologies into their trading operations.
    
 2. **Collaborations and Partnerships**: Collaborating with tech companies to co-develop AI-based trading solutions could also become a popular strategy.
 

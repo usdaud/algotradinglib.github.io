@@ -1,6 +1,6 @@
 # Overfitting
 
-Overfitting is a critical concern in the fields of machine learning and [trading algorithms](../t/trading_algorithms.md), where it refers to a model that learns the details and [noise](../n/noise.md) in the training data to an extent that it negatively impacts the performance of the model on new data. While it may appear that the model is performing exceptionally well on the training dataset, it fails to generalize to unseen data, thus compromising its predictive power.
+Overfitting is a critical concern in the fields of [machine learning](../m/machine_learning.md) and [trading algorithms](../t/trading_algorithms.md), where it refers to a model that learns the details and [noise](../n/noise.md) in the training data to an extent that it negatively impacts the performance of the model on new data. While it may appear that the model is performing exceptionally well on the training dataset, it fails to generalize to unseen data, thus compromising its predictive power.
 
 In the context of [trading algorithms](../t/trading_algorithms.md), overfitting can lead to disastrous financial decisions and significant monetary losses. Understanding overfitting, recognizing its signs, and employing strategies to mitigate it are essential for the development of [robust](../r/robust.md) and reliable [trading models](../t/trading_models.md).
 
@@ -26,7 +26,7 @@ Strategies to combat overfitting include both pre-processing techniques and mode
 
 ### Pre-processing Techniques
 
-1. **Data Augmentation**: Increasing the amount of data by creating modified versions of the data points can help. In the context of trading, this might mean generating synthetic data.
+1. **[Data Augmentation](../d/data_augmentation.md)**: Increasing the amount of data by creating modified versions of the data points can help. In the context of trading, this might mean generating synthetic data.
 2. **Feature Selection**: Identifying and using only the most relevant features for the model can reduce complexity.
 3. **Normalization**: Scaling the data values to a standard [range](../r/range.md) can prevent models from placing too much emphasis on any single feature.
 
@@ -68,7 +68,7 @@ This simplified example illustrates how to apply regularization and cross-valida
 
 ## Quantitative Approaches to Mitigate Overfitting
 
-In addition to traditional machine learning techniques, there are quantitative methods used in trading to address overfitting:
+In addition to traditional [machine learning](../m/machine_learning.md) techniques, there are quantitative methods used in trading to address overfitting:
 
 ### Walk-Forward Optimization
 
@@ -92,8 +92,8 @@ Applying statistical tests to evaluate model performance can provide insights in
 [Neural networks](../n/neural_networks_in_trading.md), due to their complexity, are particularly prone to overfitting. Techniques like dropout, where random neurons are ignored during training, can help mitigate overfitting in [deep learning](../d/deep_learning.md) models.
 
 ```python
-from keras.models [import](../i/import.md) Sequential
-from keras.layers [import](../i/import.md) Dense, Dropout
+from [keras](../k/keras.md).models [import](../i/import.md) Sequential
+from [keras](../k/keras.md).layers [import](../i/import.md) Dense, Dropout
 
 # Sample neural network model for trading
 model = Sequential()
@@ -112,12 +112,12 @@ Bayesian methods incorporate prior knowledge about the [distribution](../d/distr
 
 ## Practical Implications and Tools
 
-To implement these strategies effectively, several tools and libraries are commonly used in [algorithmic trading](../a/accountability.md) and machine learning:
+To implement these strategies effectively, several tools and libraries are commonly used in [algorithmic trading](../a/accountability.md) and [machine learning](../m/machine_learning.md):
 
 ### Python Libraries
 
-- **Scikit-Learn**: For implementing classic machine learning models and techniques like cross-validation and regularization.
-- **Keras and TensorFlow**: For building and training neural [network models](../n/network_models_in_trading.md) with advanced regularization techniques.
+- **Scikit-Learn**: For implementing classic [machine learning](../m/machine_learning.md) models and techniques like cross-validation and regularization.
+- **[Keras](../k/keras.md) and [TensorFlow](../t/tensorflow.md)**: For building and training neural [network models](../n/network_models_in_trading.md) with advanced regularization techniques.
 - **Pandas and NumPy**: For data manipulation and pre-processing.
 
 ### Trading Platforms

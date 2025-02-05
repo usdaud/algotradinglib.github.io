@@ -73,7 +73,7 @@ In the automotive [industry](../i/industry.md), standardized parts and component
 ERP systems integrate various [business](../b/business.md) processes and provide real-time data, enhancing planning, [inventory management](../i/inventory_management.md), and [forecasting](../f/forecasting.md) accuracy.
 
 ### Advanced Analytics
-[Data analytics](../d/data_analytics.md) and machine learning models improve [forecast accuracy](../f/forecast_accuracy.md) by analyzing large datasets to identify trends and patterns that might not be apparent through traditional methods.
+[Data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) models improve [forecast accuracy](../f/forecast_accuracy.md) by analyzing large datasets to identify trends and patterns that might not be apparent through traditional methods.
 
 ### Automation
 Automation in [manufacturing](../m/manufacturing.md) processes enhances [efficiency](../e/efficiency.md) and consistency, allowing for better [inventory](../i/inventory.md) control and reducing the time needed to switch between production runs.

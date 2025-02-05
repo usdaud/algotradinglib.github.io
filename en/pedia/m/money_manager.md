@@ -58,7 +58,7 @@ This strategy focuses on companies expected to grow at an above-average rate com
 
 ### Quantitative Investing
 
-[Quantitative investing](../q/quantitative_investing.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. This approach often leverages [big data](../b/big_data_in_trading.md), statistical analysis, and machine learning.
+[Quantitative investing](../q/quantitative_investing.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. This approach often leverages [big data](../b/big_data_in_trading.md), statistical analysis, and [machine learning](../m/machine_learning.md).
 
 ### Multi-Strategy Investing
 

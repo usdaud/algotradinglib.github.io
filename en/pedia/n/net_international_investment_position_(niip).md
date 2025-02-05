@@ -56,7 +56,7 @@ In the context of algotrading and fintech, understanding NIIP is essential for s
 
 1. **Algorithmic Models:** Algotrading models often depend on macroeconomic indicators, including NIIP, to predict [currency](../c/currency.md) movements, stock prices, and other financial metrics. Accurate NIIP data can enhance the precision of these models.
 
-2. **[Risk Management](../r/risk_management.md):** Fintech platforms use AI and machine learning for [risk management](../r/risk_management.md). A country's NIIP can be a critical input for algorithms that evaluate sovereign [risk](../r/risk.md), [market risk](../m/market_risk.md), and investment [risk](../r/risk.md).
+2. **[Risk Management](../r/risk_management.md):** Fintech platforms use AI and [machine learning](../m/machine_learning.md) for [risk management](../r/risk_management.md). A country's NIIP can be a critical input for algorithms that evaluate sovereign [risk](../r/risk.md), [market risk](../m/market_risk.md), and investment [risk](../r/risk.md).
 
 3. **Investment Strategies:** Algotrading platforms can develop investment strategies based on NIIP trends. For example, a consistently positive NIIP might trigger [equity](../e/equity.md) investments in a specific country due to perceived economic stability.
 

@@ -47,7 +47,7 @@ In pair trading, traders look for two assets with a strong positive [correlation
 
 ### Machine Learning Models
 
-Machine learning models often incorporate [correlation](../c/correlation.md) matrices to understand relationships between various input features. For example, in predicting stock prices, an algorithm might use a [correlation](../c/correlation.md) matrix to identify positively correlated [stocks](../s/stock.md) to use as features in the prediction model.
+[Machine learning](../m/machine_learning.md) models often incorporate [correlation](../c/correlation.md) matrices to understand relationships between various input features. For example, in predicting stock prices, an algorithm might use a [correlation](../c/correlation.md) matrix to identify positively correlated [stocks](../s/stock.md) to use as features in the prediction model.
 
 ## Tools and Software
 
@@ -69,7 +69,7 @@ Python offers several libraries that facilitate [correlation](../c/correlation.m
 
 ### Overfitting in Models
 
-When building [trading models](../t/trading_models.md), especially with machine learning, relying heavily on positive correlations can lead to [overfitting](../o/overfitting.md). The model may perform well on historical data but poorly on new, unseen data.
+When building [trading models](../t/trading_models.md), especially with [machine learning](../m/machine_learning.md), relying heavily on positive correlations can lead to [overfitting](../o/overfitting.md). The model may perform well on historical data but poorly on new, unseen data.
 
 ### Changing Correlations
 

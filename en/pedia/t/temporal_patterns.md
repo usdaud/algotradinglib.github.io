@@ -43,10 +43,10 @@ Statistical methods involve analyzing historical data to identify recurring patt
 - **[Signal Processing](../s/signal_processing_in_trading.md)**: Methods like Fourier Transform and [Wavelet Analysis](../w/wavelet_analysis.md) to identify cyclical patterns in data.
 
 ### 2. Machine Learning
-Machine learning provides advanced tools for [pattern recognition](../p/pattern_recognition.md), including:
+[Machine learning](../m/machine_learning.md) provides advanced tools for [pattern recognition](../p/pattern_recognition.md), including:
 - **Regression Models**: Linear and non-[linear regression](../l/linear_regression.md) to predict future price movements.
 - **[Classification Algorithms](../c/classification_algorithms.md)**: [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) to categorize data and predict trends.
-- **Unsupervised Learning**: Clustering techniques like K-means and Hierarchical clustering to discover hidden patterns without pre-labeled data.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering techniques like K-means and Hierarchical clustering to discover hidden patterns without pre-labeled data.
 
 ### 3. Technical Indicators
 [Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historical price and [volume](../v/volume.md) data:
@@ -67,5 +67,5 @@ Software solutions like MetaTrader and [NinjaTrader](../n/ninjatrader.md) provid
 
 ## Conclusion
 
-Temporal patterns are vital for enhancing the effectiveness of [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide a roadmap for timing trades, optimizing entries and exits, and managing [risk](../r/risk.md). By employing statistical methods, machine learning, and [technical indicators](../t/technical_indicators.md), traders and algorithms can uncover these patterns and utilize them to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
+Temporal patterns are vital for enhancing the effectiveness of [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide a roadmap for timing trades, optimizing entries and exits, and managing [risk](../r/risk.md). By employing statistical methods, [machine learning](../m/machine_learning.md), and [technical indicators](../t/technical_indicators.md), traders and algorithms can uncover these patterns and utilize them to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
 

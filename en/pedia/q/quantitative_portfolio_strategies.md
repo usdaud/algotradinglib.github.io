@@ -56,7 +56,7 @@ Statistical [arbitrage](../a/arbitrage.md) (stat-arb) leverages statistical mode
 - **[Delta Hedging](../d/delta_hedging.md):** Managing the [risk](../r/risk.md) of a portfolio by offsetting existing positions.
 
 ### Machine Learning
-Machine learning techniques, including supervised learning, unsupervised learning, and reinforcement learning, are increasingly used to identify patterns and make predictions from large datasets. Applications include:
+[Machine learning](../m/machine_learning.md) techniques, including [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md), are increasingly used to identify patterns and make predictions from large datasets. Applications include:
 
 - **Stock Price Prediction:** Using historical data to forecast future prices.
 - **[Sentiment Analysis](../s/sentiment_analysis.md):** Extracting and quantifying sentiment from news articles, [social media](../s/social_media.md), and other sources.
@@ -86,7 +86,7 @@ Machine learning techniques, including supervised learning, unsupervised learnin
 Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), known for its Medallion [Fund](../f/fund.md). RenTech employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md). [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
-Two Sigma leverages machine learning, distributed computing, and large datasets to create sophisticated investment strategies. It emphasizes a scientific approach to [financial markets](../f/financial_market.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and large datasets to create sophisticated investment strategies. It emphasizes a scientific approach to [financial markets](../f/financial_market.md). [Two Sigma](https://www.twosigma.com/)
 
 ### D.E. Shaw
 Founded by David E. Shaw, this [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) and [proprietary algorithms](../p/proprietary_algorithms.md) to manage [hedge](../h/hedge.md) funds and other investment products. [D.E. Shaw](https://www.deshaw.com/)

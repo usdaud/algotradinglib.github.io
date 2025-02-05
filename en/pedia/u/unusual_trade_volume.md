@@ -33,7 +33,7 @@ Several metrics and methods are used to identify and measure unusual [trade](../
 ### Unusual Trade Volume in Algorithmic Trading
 In [algorithmic trading](../a/algorithmic_trading.md), UTV is used to enhance [trading strategies](../t/trading_strategies.md) and optimize performance. Some applications include:
 - **Signal Generation**: Algorithms can be programmed to generate buy/sell signals based on [unusual volume](../u/unusual_volume.md) patterns.
-- **[Anomaly Detection](../a/anomaly_detection.md)**: Using machine learning techniques, traders can develop models to detect unusual trading volumes that deviate from normal patterns.
+- **[Anomaly Detection](../a/anomaly_detection.md)**: Using [machine learning](../m/machine_learning.md) techniques, traders can develop models to detect unusual trading volumes that deviate from normal patterns.
 - **[Portfolio Optimization](../p/portfolio_optimization.md)**: Algorithms can [factor](../f/factor.md) in UTV to re-balance portfolios, manage risks, and enhance returns.
 - **[Arbitrage](../a/arbitrage.md) Opportunities**: UTV can help in identifying [arbitrage](../a/arbitrage.md) opportunities across different markets or securities.
 

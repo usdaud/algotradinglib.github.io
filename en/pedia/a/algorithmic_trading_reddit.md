@@ -10,7 +10,7 @@ The [Algorithmic Trading](../a/algorithmic_trading.md) subreddit, found at r/alg
 
 3. **Strategy Sharing**: The subreddit provides a space for traders to share their [trading strategies](../t/trading_strategies.md), get feedback, and discuss improvements with the community.
 
-4. **Programming and Development**: Discussions often focus on the technical side of [algorithmic trading](../a/algorithmic_trading.md), including coding in languages such as Python, R, and C++, and using libraries like Pandas, NumPy, and TensorFlow.
+4. **Programming and Development**: Discussions often focus on the technical side of [algorithmic trading](../a/algorithmic_trading.md), including coding in languages such as Python, R, and C++, and using libraries like Pandas, NumPy, and [TensorFlow](../t/tensorflow.md).
 
 5. **Trading Platforms**: Members discuss and share experiences with various trading platforms and tools, such as MetaTrader, [QuantConnect](../q/quantconnect.md), [Interactive Brokers](../i/interactive_brokers.md), and more.
 

@@ -72,7 +72,7 @@ Advancements in technology and [data analytics](../d/data_analytics.md) have sig
 
 1. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging vast datasets, including high-frequency trading data, [economic indicators](../e/economic_indicators.md), and global [bond market](../b/bond_market.md) trends, to enhance the accuracy and predictive power of [yield curve](../y/yield_curve.md) models.
 
-2. **Machine Learning and AI**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze complex, non-linear patterns in [yield curve](../y/yield_curve.md) data. AI enables the modeling of more sophisticated relationships and automated [trading strategies](../t/trading_strategies.md) based on [yield curve](../y/yield_curve.md) forecasts.
+2. **[Machine Learning](../m/machine_learning.md) and AI**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze complex, non-linear patterns in [yield curve](../y/yield_curve.md) data. AI enables the modeling of more sophisticated relationships and automated [trading strategies](../t/trading_strategies.md) based on [yield curve](../y/yield_curve.md) forecasts.
 
 3. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Utilizing the power of [cloud computing](../c/cloud_computing_in_trading.md) for real-time data processing and model calibration, allowing quicker and more efficient analysis of [yield curve](../y/yield_curve.md) dynamics.
 

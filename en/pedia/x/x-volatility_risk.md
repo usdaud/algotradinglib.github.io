@@ -48,7 +48,7 @@ To mitigate X-[Volatility Risk](../v/volatility_risk.md), traders and quants emp
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a renowned quantitative [hedge fund](../h/hedge_fund.md), is known for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), in particular, has achieved remarkable returns through a combination of statistical [arbitrage](../a/arbitrage.md), machine learning, and [volatility](../v/volatility.md) management. Renaissance Technologies places a significant emphasis on understanding and managing [volatility risk](../v/volatility_risk.md) to ensure the robustness of its [trading algorithms](../t/trading_algorithms.md).
+Renaissance Technologies, a renowned quantitative [hedge fund](../h/hedge_fund.md), is known for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), in particular, has achieved remarkable returns through a combination of statistical [arbitrage](../a/arbitrage.md), [machine learning](../m/machine_learning.md), and [volatility](../v/volatility.md) management. Renaissance Technologies places a significant emphasis on understanding and managing [volatility risk](../v/volatility_risk.md) to ensure the robustness of its [trading algorithms](../t/trading_algorithms.md).
 
 Website: [Renaissance Technologies](https://www.rentec.com/)
 

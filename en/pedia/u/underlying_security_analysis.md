@@ -28,7 +28,7 @@
 [Quantitative analysis](../q/quantitative_analysis.md) uses mathematical and statistical modeling to understand and predict securities’ behavior. This can include:
 
 - **Statistical Models:** Models such as [regression analysis](../r/regression_analysis.md), time-series analysis, and [factor analysis](../f/factor_analysis.md).
-- **Machine Learning Techniques:** Implementing algorithms that learn from and make predictions based on data.
+- **[Machine Learning](../m/machine_learning.md) Techniques:** Implementing algorithms that learn from and make predictions based on data.
 - **[Risk Assessment Models](../r/risk_assessment_models.md):** Tools like [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and [stress testing](../s/stress_testing_in_trading.md) to gauge potential financial risks.
 
 ### Implementation in Algorithmic Trading
@@ -52,7 +52,7 @@ High-frequency trading (HFT) involves executing a large number of orders at extr
 
 #### Machine Learning and AI in Algorithmic Trading
 
-The use of machine learning and AI has revolutionized [underlying](../u/underlying.md) [security analysis](../s/security_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) by enabling more sophisticated models and predictions. Key points include:
+The use of [machine learning](../m/machine_learning.md) and AI has revolutionized [underlying](../u/underlying.md) [security analysis](../s/security_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) by enabling more sophisticated models and predictions. Key points include:
 
 - **Data Processing:** Leveraging [big data](../b/big_data_in_trading.md) to process and analyze vast amounts of information quickly.
 - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying complex patterns that may not be evident through traditional analysis techniques.
@@ -66,9 +66,9 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) h
 - **[MetaStock](../m/metastock.md):** Tools for charting, [technical analysis](../t/technical_analysis.md), and [automated trading systems](../a/automated_trading_systems.md). [MetaStock](https://www.metastock.com/)
 - **[TradeStation](../t/tradestation.md):** A platform for trading and analysis [offering](../o/offering.md) custom scripting language EasyLanguage for strategy development. [TradeStation](https://www.tradestation.com/)
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform supporting research, [backtesting](../b/backtesting.md), and live trading. [QuantConnect](https://www.quantconnect.com/)
-- **Python Libraries:** Libraries like NumPy, Pandas, Scikit-learn, and TensorFlow for building custom models.
+- **Python Libraries:** Libraries like NumPy, Pandas, Scikit-learn, and [TensorFlow](../t/tensorflow.md) for building custom models.
 
 ### Conclusion
 
-[Underlying](../u/underlying.md) [security analysis](../s/security_analysis.md) forms the bedrock of [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. By integrating fundamental, technical, and quantitative analyses, traders can develop sophisticated algorithms that improve [trading performance](../t/trading_performance.md). The [incorporation](../i/incorporation.md) of advanced tools and technologies, such as machine learning and AI, further enhances the capability to predict [market](../m/market.md) movements with greater accuracy and [efficiency](../e/efficiency.md). The continuous evolution of these technologies and methodologies promises to keep [underlying](../u/underlying.md) [security analysis](../s/security_analysis.md) at the forefront of financial innovation.
+[Underlying](../u/underlying.md) [security analysis](../s/security_analysis.md) forms the bedrock of [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. By integrating fundamental, technical, and quantitative analyses, traders can develop sophisticated algorithms that improve [trading performance](../t/trading_performance.md). The [incorporation](../i/incorporation.md) of advanced tools and technologies, such as [machine learning](../m/machine_learning.md) and AI, further enhances the capability to predict [market](../m/market.md) movements with greater accuracy and [efficiency](../e/efficiency.md). The continuous evolution of these technologies and methodologies promises to keep [underlying](../u/underlying.md) [security analysis](../s/security_analysis.md) at the forefront of financial innovation.
 

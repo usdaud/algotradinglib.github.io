@@ -73,7 +73,7 @@ By comparing the current 10-Q with past filings, algorithms can spot trends in [
 ## Best Practices for AlgoTrading with 10-Q Data
 
 ### 1. Automation
-Automate the extraction and analysis of 10-Q data using web scraping tools, NLP, and machine learning models to ensure timely processing and minimize manual intervention.
+Automate the extraction and analysis of 10-Q data using web scraping tools, NLP, and [machine learning](../m/machine_learning.md) models to ensure timely processing and minimize manual intervention.
 
 ### 2. Integration with Trading Platforms
 Integrate 10-Q data analysis with real-time trading platforms to execute trades based on insights gleaned from quarterly reports.

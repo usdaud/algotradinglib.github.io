@@ -106,7 +106,7 @@ Adhering to regulatory requirements while optimizing for performance can be conf
 
 ### 7.1 Machine Learning
 
-Implementing machine learning techniques for predictive performance analysis and adaptive [optimization](../o/optimization.md).
+Implementing [machine learning](../m/machine_learning.md) techniques for predictive performance analysis and adaptive [optimization](../o/optimization.md).
 
 ### 7.2 Distributed Ledgers
 

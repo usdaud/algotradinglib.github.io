@@ -40,7 +40,7 @@ This result suggests that, to maximize the expected logarithmic growth of [capit
 
 Developing an algorithm that uses the [Kelly Criterion](../k/kelly_criterion.md) involves several key steps:
 
-1. **Modeling Probabilities**: Estimate the probability of various outcomes for trades. This could be done through [historical data analysis](../h/historical_data_analysis.md), machine learning models, or other [predictive analytics](../p/predictive_analytics.md) techniques.
+1. **Modeling Probabilities**: Estimate the probability of various outcomes for trades. This could be done through [historical data analysis](../h/historical_data_analysis.md), [machine learning](../m/machine_learning.md) models, or other [predictive analytics](../p/predictive_analytics.md) techniques.
 2. **Calculating Returns**: Define the potential returns (`b`) for each [trade](../t/trade.md). This involves understanding [market dynamics](../m/market_dynamics.md) and how much [profit](../p/profit.md) or loss is expected.
 3. **Computing Fraction**: Apply the Kelly formula to compute the fraction of the bankroll to be allocated to each [trade](../t/trade.md).
 4. **[Execution](../e/execution.md)**: Implement [trade](../t/trade.md) [execution](../e/execution.md) strategies within the algorithm that respect the calculated fraction, adjusting for [transaction costs](../t/transaction_costs.md), [slippage](../s/slippage.md), and other [market](../m/market.md) factors.

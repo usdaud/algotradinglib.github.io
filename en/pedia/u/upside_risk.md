@@ -36,10 +36,10 @@ Optimizing [upside](../u/upside.md) [risk](../r/risk.md) involves [asset allocat
   
 ### Tools and Technologies
 
-With the evolution of technology and financial theories, various tools and platforms have emerged to help manage and optimize [upside](../u/upside.md) [risk](../r/risk.md). [Algorithmic trading](../a/algorithmic_trading.md) systems, machine learning models, and advanced analytics are commonly used for this purpose.
+With the evolution of technology and financial theories, various tools and platforms have emerged to help manage and optimize [upside](../u/upside.md) [risk](../r/risk.md). [Algorithmic trading](../a/algorithmic_trading.md) systems, [machine learning](../m/machine_learning.md) models, and advanced analytics are commonly used for this purpose.
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Enables automated [trading strategies](../t/trading_strategies.md) that maximize [upside potential](../u/upside_potential_in_trading.md) through automated decisions based on pre-set criteria.
-- **Machine Learning Models**: Provide [predictive analytics](../p/predictive_analytics.md) to anticipate [market](../m/market.md) conditions that might lead to [upside](../u/upside.md) deviations.
+- **[Machine Learning](../m/machine_learning.md) Models**: Provide [predictive analytics](../p/predictive_analytics.md) to anticipate [market](../m/market.md) conditions that might lead to [upside](../u/upside.md) deviations.
 - **[Risk Management](../r/risk_management.md) Software**: Dedicated platforms like those offered by [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-and-risk-analytics/) and [RiskMetrics](https://www.msci.com/rmg) provide comprehensive tools for measuring and managing both [upside](../u/upside.md) and downside risks.
 
 ### Case Studies

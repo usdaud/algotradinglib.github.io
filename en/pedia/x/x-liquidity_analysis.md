@@ -43,7 +43,7 @@ Combining data from [multiple](../m/multiple.md) sources, including various exch
 
 #### Machine Learning Algorithms
 
-Machine learning models can identify patterns and relationships in complex data sets, making it easier to predict [liquidity](../l/liquidity.md) conditions and potential stress points in the [market](../m/market.md).
+[Machine learning](../m/machine_learning.md) models can identify patterns and relationships in complex data sets, making it easier to predict [liquidity](../l/liquidity.md) conditions and potential stress points in the [market](../m/market.md).
 
 #### Network Analysis
 

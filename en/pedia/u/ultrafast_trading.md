@@ -72,7 +72,7 @@ Several prominent firms specialize in ultrafast trading. Examples include:
 ## Future Trends and Developments
 As ultrafast trading continues to evolve, several trends are emerging:
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential applications of [quantum computing](../q/quantum_computing_in_trading.md) in HFT to reduce computational time.
-- **Machine Learning**: Advanced [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to improve [predictive models](../p/predictive_models_in_trading.md).
+- **[Machine Learning](../m/machine_learning.md)**: Advanced [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to improve [predictive models](../p/predictive_models_in_trading.md).
 - **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: Enhancing [infrastructure](../i/infrastructure.md) [security](../s/security.md) and [transparency](../t/transparency.md).
 - **Cross-[Asset](../a/asset.md) Trading**: Integrating [multiple](../m/multiple.md) [asset](../a/asset.md) classes within a unified algorithmic framework.
 

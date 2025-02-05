@@ -15,11 +15,11 @@
 - **CAPM ([Capital Asset](../c/capital_asset.md) Pricing Model)**: Determines the [expected return](../e/expected_return.md) of an [asset](../a/asset.md) based on its [risk](../r/risk.md) relative to the [market](../m/market.md).
 
 #### 3. **Machine Learning and AI**
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) advancements have significantly influenced [algorithmic trading](../a/algorithmic_trading.md). ML models can process complex datasets, identify patterns, and make data-driven predictions.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) advancements have significantly influenced [algorithmic trading](../a/algorithmic_trading.md). ML models can process complex datasets, identify patterns, and make data-driven predictions.
 
-- **Supervised Learning**: Uses historical data to train algorithms on how to behave under certain [market](../m/market.md) conditions.
-- **Unsupervised Learning**: Identifies hidden patterns in data without predefined labels.
-- **Reinforcement Learning**: Algorithms learn optimal strategies through trial and error.
+- **[Supervised Learning](../s/supervised_learning.md)**: Uses historical data to train algorithms on how to behave under certain [market](../m/market.md) conditions.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifies hidden patterns in data without predefined labels.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn optimal strategies through trial and error.
 
 #### 4. **Statistical Arbitrage**
 Statistical [arbitrage](../a/arbitrage.md) exploits price inefficiencies between correlated assets. By employing statistical techniques, traders can generate profits from temporary mispricings.

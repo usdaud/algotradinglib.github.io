@@ -117,7 +117,7 @@ Tesla, Inc. (TSLA) constantly evaluates opportunity costs when allocating resour
 
 ### Amazon.com, Inc.
 
-Amazon.com, Inc. (AMZN) weighs opportunity costs when exploring new [market](../m/market.md) segments or enhancing existing services. If Amazon allocates funds to develop its [cloud computing](../c/cloud_computing_in_trading.md) segment, AWS, the opportunity cost is the potential growth and [profit](../p/profit.md) that could have been achieved by further expanding its e-[commerce](../c/commerce.md) platform or diversifying into new technologies like AI and machine learning.
+Amazon.com, Inc. (AMZN) weighs opportunity costs when exploring new [market](../m/market.md) segments or enhancing existing services. If Amazon allocates funds to develop its [cloud computing](../c/cloud_computing_in_trading.md) segment, AWS, the opportunity cost is the potential growth and [profit](../p/profit.md) that could have been achieved by further expanding its e-[commerce](../c/commerce.md) platform or diversifying into new technologies like AI and [machine learning](../m/machine_learning.md).
 
 ## Conclusion
 

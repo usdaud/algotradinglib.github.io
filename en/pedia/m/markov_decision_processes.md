@@ -119,7 +119,7 @@ MDPs can be used for dynamic [portfolio optimization](../p/portfolio_optimizatio
 Agents can use MDPs to design optimal [market](../m/market.md)-making strategies, setting [bid](../b/bid.md)-ask [spreads](../s/spreads.md) based on likely future price movements to maximize [profit](../p/profit.md) from the spread while managing [inventory](../i/inventory.md) [risk](../r/risk.md).
 
 ### Reinforcement Learning in Trading
-Reinforcement learning, encompassing many MDP solution methods, is used for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Platforms like [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/) provide environments for testing and deploying these strategies.
+[Reinforcement learning](../r/reinforcement_learning.md), encompassing many MDP solution methods, is used for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Platforms like [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/) provide environments for testing and deploying these strategies.
 
 ## Conclusion
 Markov Decision Processes [offer](../o/offer.md) a [robust](../r/robust.md) framework for solving sequential decision-making problems in stochastic environments. With their ability to balance immediate and future rewards, they are indispensable in various fields, particularly in [algorithmic trading](../a/algorithmic_trading.md), where they help design strategies to optimize financial returns under [uncertainty](../u/uncertainty_in_trading.md). Through methods including [dynamic programming](../d/dynamic_programming_in_trading.md), Monte Carlo, and temporal difference learning, MDPs facilitate the development of optimal policies for complex, real-world problems.

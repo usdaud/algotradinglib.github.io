@@ -58,7 +58,7 @@ Smart [Order Routing](../o/order_routing.md) technology intelligently directs or
 
 Advanced real-time [data analytics](../d/data_analytics.md) systems are crucial for monitoring [market](../m/market.md) conditions and adjusting orders accordingly.
 
-- **Machine Learning Models**: These models predict [market](../m/market.md) trends and suggest optimal [order](../o/order.md) replacement strategies based on historical data.
+- **[Machine Learning](../m/machine_learning.md) Models**: These models predict [market](../m/market.md) trends and suggest optimal [order](../o/order.md) replacement strategies based on historical data.
 - **Streaming Data Processing**: Real-time processing frameworks like Apache Kafka and Flink monitor attribute changes in the [market](../m/market.md) continuously.
 
 ### Order Management Systems (OMS)

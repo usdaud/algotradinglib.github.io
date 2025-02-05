@@ -1,6 +1,6 @@
 # Predictive Modeling
 
-Predictive modeling is a process used in machine learning and statistical techniques to create, test, and validate a model that can predict future outcomes based on historical data. It is widely applied in various domains, including [finance](../f/finance.md), healthcare, [marketing](../m/marketing.md), and more. In the context of [algorithmic trading](../a/algorithmic_trading.md), predictive modeling aims to forecast future [market](../m/market.md) movements, [asset](../a/asset.md) prices, or trading volumes to make informed and strategic trading decisions.
+Predictive modeling is a process used in [machine learning](../m/machine_learning.md) and statistical techniques to create, test, and validate a model that can predict future outcomes based on historical data. It is widely applied in various domains, including [finance](../f/finance.md), healthcare, [marketing](../m/marketing.md), and more. In the context of [algorithmic trading](../a/algorithmic_trading.md), predictive modeling aims to forecast future [market](../m/market.md) movements, [asset](../a/asset.md) prices, or trading volumes to make informed and strategic trading decisions.
 
 ### Core Concepts of Predictive Modeling
 
@@ -59,7 +59,7 @@ Several companies are at the forefront of applying [predictive modeling techniqu
 
 1. **Two Sigma Investments**:
    - Website: [Two Sigma](https://www.twosigma.com)
-   - Description: A New York City-based [hedge fund](../h/hedge_fund.md) that employs advanced technologies including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [quantitative trading](../q/quantitative_trading.md) strategies.
+   - Description: A New York City-based [hedge fund](../h/hedge_fund.md) that employs advanced technologies including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [quantitative trading](../q/quantitative_trading.md) strategies.
 
 2. **Kensho Technologies**:
    - Website: [Kensho](https://www.kensho.com)
@@ -67,7 +67,7 @@ Several companies are at the forefront of applying [predictive modeling techniqu
 
 3. **Numerai**:
    - Website: [Numerai](https://numer.ai)
-   - Description: A [hedge fund](../h/hedge_fund.md) using encrypted data to create machine learning models that inform its [trading strategies](../t/trading_strategies.md), leveraging a collaborative framework with data scientists worldwide.
+   - Description: A [hedge fund](../h/hedge_fund.md) using encrypted data to create [machine learning](../m/machine_learning.md) models that inform its [trading strategies](../t/trading_strategies.md), leveraging a collaborative framework with data scientists worldwide.
 
 4. **WorldQuant**:
    - Website: [WorldQuant](https://www.worldquant.com)
@@ -95,7 +95,7 @@ As technology advances, several trends are expected to shape the future of predi
 
 2. **Improved Algorithms and Techniques**:
    - **[Deep Learning](../d/deep_learning.md)**: Employing advanced neural network architectures to improve prediction accuracy.
-   - **Reinforcement Learning**: Applying AI techniques where algorithms learn optimal [trading strategies](../t/trading_strategies.md) through trial and error.
+   - **[Reinforcement Learning](../r/reinforcement_learning.md)**: Applying AI techniques where algorithms learn optimal [trading strategies](../t/trading_strategies.md) through trial and error.
 
 3. **Increased Computational Power**:
    - **High-Performance Computing (HPC)**: Utilizing GPUs and cloud-based resources to [handle](../h/handle.md) complex computations and large datasets more efficiently.
@@ -105,4 +105,4 @@ As technology advances, several trends are expected to shape the future of predi
    - **[Transparency](../t/transparency.md) and Fairness**: Ensuring [predictive models](../p/predictive_models_in_trading.md) are transparent and free from biases that could lead to unfair trading practices.
    - **Compliance**: Adhering to evolving regulatory standards that govern the use of AI and predictive modeling in [finance](../f/finance.md).
 
-Predictive modeling continues to play a crucial role in the evolution of [algorithmic trading](../a/algorithmic_trading.md), driven by advancements in [data science](../d/data_science_in_trading.md), machine learning, and computational technologies. As markets become more complex and data-rich, the ability to harness [predictive models](../p/predictive_models_in_trading.md) [will](../w/will.md) be a key differentiator for successful [trading strategies](../t/trading_strategies.md).
+Predictive modeling continues to play a crucial role in the evolution of [algorithmic trading](../a/algorithmic_trading.md), driven by advancements in [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and computational technologies. As markets become more complex and data-rich, the ability to harness [predictive models](../p/predictive_models_in_trading.md) [will](../w/will.md) be a key differentiator for successful [trading strategies](../t/trading_strategies.md).

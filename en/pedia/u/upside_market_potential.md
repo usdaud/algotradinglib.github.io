@@ -10,7 +10,7 @@
 
 1. **Algorithms**: Predefined sets of rules or instructions designed to process [market](../m/market.md) data and make trading decisions.
 2. **High-frequency Trading (HFT)**: A subtype of [algorithmic trading](../a/algorithmic_trading.md) characterized by high-speed [trade](../t/trade.md) [execution](../e/execution.md) and substantial [transaction](../t/transaction.md) volumes within very short periods.
-3. **Machine Learning and AI**: Advanced techniques that enhance algorithmic models by allowing them to learn from data patterns and improve over time.
+3. **[Machine Learning](../m/machine_learning.md) and AI**: Advanced techniques that enhance algorithmic models by allowing them to learn from data patterns and improve over time.
 4. **[Backtesting](../b/backtesting.md)**: Running algorithms through historical data to evaluate their performance and refine them before live deployment.
 
 ## Identifying Upside Market Potential

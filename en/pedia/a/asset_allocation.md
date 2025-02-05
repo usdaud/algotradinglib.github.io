@@ -111,7 +111,7 @@ Effective [risk management](../r/risk_management.md) frameworks are essential fo
 ## Future Trends
 
 ### Artificial Intelligence
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are transforming [asset](../a/asset.md) allocation by enabling more sophisticated and [adaptive algorithms](../a/adaptive_algorithms.md). These technologies can process large datasets and identify complex patterns that traditional methods may overlook.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are transforming [asset](../a/asset.md) allocation by enabling more sophisticated and [adaptive algorithms](../a/adaptive_algorithms.md). These technologies can process large datasets and identify complex patterns that traditional methods may overlook.
 
 ### ESG Investing
 [Environmental, Social, and Governance (ESG) investing](../e/environmental,_social,_and_governance_(esg)_investing.md) is becoming more popular, with algorithms incorporating ESG factors into [asset](../a/asset.md) allocation strategies. This [trend](../t/trend.md) aligns investment goals with broader societal values.

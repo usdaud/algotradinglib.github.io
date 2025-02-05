@@ -89,7 +89,7 @@ Incorporating [robust](../r/robust.md) [risk management](../r/risk_management.md
 
 ## Future Directions
 ### Artificial Intelligence and Machine Learning
-The integration of AI and machine learning can enhance rule-based algorithms by enabling them to adapt to new data and [market](../m/market.md) conditions autonomously.
+The integration of AI and [machine learning](../m/machine_learning.md) can enhance rule-based algorithms by enabling them to adapt to new data and [market](../m/market.md) conditions autonomously.
 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to solve complex [optimization](../o/optimization.md) problems faster than classical computers, potentially revolutionizing [algorithmic trading](../a/algorithmic_trading.md).

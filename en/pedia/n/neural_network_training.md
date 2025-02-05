@@ -1,6 +1,6 @@
 # Neural Network Training
 
-Neural network training is a pivotal process in the realm of [artificial intelligence](../a/artificial_intelligence_in_trading.md), particularly within the subset of machine learning that focuses on creating and refining models to perform various tasks. [Neural networks](../n/neural_networks_in_trading.md) are computational models inspired by the human brain's architecture, comprising numerous interconnected 'neurons' that can process and learn from data. This document provides an extensive look into neural network training, its methodologies, challenges, and applications, especially in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
+Neural network training is a pivotal process in the realm of [artificial intelligence](../a/artificial_intelligence_in_trading.md), particularly within the subset of [machine learning](../m/machine_learning.md) that focuses on creating and refining models to perform various tasks. [Neural networks](../n/neural_networks_in_trading.md) are computational models inspired by the human brain's architecture, comprising numerous interconnected 'neurons' that can process and learn from data. This document provides an extensive look into neural network training, its methodologies, challenges, and applications, especially in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 ### Overview of Neural Networks
 
@@ -81,7 +81,7 @@ The training process of [neural networks](../n/neural_networks_in_trading.md) in
 ### Companies and Resources
 
 #### 1. **Google AI and TensorFlow**
-   - Google provides vast resources and tools like TensorFlow for building and training [neural networks](../n/neural_networks_in_trading.md). TensorFlow's user-friendly interfaces and powerful back-end computation capabilities make it ideal for both research and [industry](../i/industry.md) applications. 
+   - Google provides vast resources and tools like [TensorFlow](../t/tensorflow.md) for building and training [neural networks](../n/neural_networks_in_trading.md). [TensorFlow](../t/tensorflow.md)'s user-friendly interfaces and powerful back-end computation capabilities make it ideal for both research and [industry](../i/industry.md) applications. 
    - [TensorFlow](https://www.tensorflow.org/)
 
 #### 2. **NVIDIA and CUDA**

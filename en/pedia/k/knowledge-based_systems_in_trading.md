@@ -16,7 +16,7 @@ Knowledge-Based Systems in trading collect, store, and process vast amounts of [
 
 3. **Inference Engines**: Inference engines apply the rules to the data to generate conclusions. They simulate the decision-making process of human experts to determine appropriate trading actions.
 
-4. **Learning Mechanisms**: Some KBS integrate machine learning (ML) components to enhance their performance. These systems can refine their rules and predictions based on new data and feedback from past trading outcomes.
+4. **Learning Mechanisms**: Some KBS integrate [machine learning](../m/machine_learning.md) (ML) components to enhance their performance. These systems can refine their rules and predictions based on new data and feedback from past trading outcomes.
 
 ### Advantages of Knowledge-Based Systems in Trading
 
@@ -42,7 +42,7 @@ Several companies have successfully integrated knowledge-based systems into thei
 
 #### [Kensho Technologies](https://www.kensho.com)
 
-A subsidiary of S&P Global, Kensho Technologies specializes in AI analytics and data services. Kensho’s platforms use machine learning to analyze vast datasets, providing clients with predictive insights and [risk](../r/risk.md) assessment tools that are crucial for financial decision-making.
+A subsidiary of S&P Global, Kensho Technologies specializes in AI analytics and data services. Kensho’s platforms use [machine learning](../m/machine_learning.md) to analyze vast datasets, providing clients with predictive insights and [risk](../r/risk.md) assessment tools that are crucial for financial decision-making.
 
 ### Challenges and Considerations
 

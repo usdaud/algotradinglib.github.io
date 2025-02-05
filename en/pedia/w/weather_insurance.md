@@ -114,7 +114,7 @@ The accuracy and reliability of weather [insurance](../i/insurance.md) rely heav
 
 ### Role of Technology in Weather Insurance
 
-1. **[Predictive Analytics](../p/predictive_analytics.md)**: Utilizes historical weather data and machine learning models to forecast weather patterns and assess risks.
+1. **[Predictive Analytics](../p/predictive_analytics.md)**: Utilizes historical weather data and [machine learning](../m/machine_learning.md) models to forecast weather patterns and assess risks.
 2. **[Big Data](../b/big_data_in_trading.md)**: [Mining](../m/mining.md) vast datasets to identify trends, correlations, and anomalies in weather behavior.
 3. **IoT Devices**: Internet of Things sensors providing real-time weather observations, enhancing data granularity and accuracy.
 

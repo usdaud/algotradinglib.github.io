@@ -86,7 +86,7 @@ Stock analysis is the process of evaluating and examining the [stock market](../
    
 2. **Statistical [Arbitrage](../a/arbitrage.md):** Uses statistical methods to exploit the price differences between securities.
 
-3. **Machine Learning Models:** Employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to identify complex patterns and make predictions.
+3. **[Machine Learning](../m/machine_learning.md) Models:** Employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to identify complex patterns and make predictions.
 
 ### Risk Management
 

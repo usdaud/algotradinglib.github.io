@@ -47,7 +47,7 @@ The Kondratieff Cycle Theory has profound implications for understanding long-te
 
 2. **[Risk Management](../r/risk_management.md):** Knowledge of Kondratieff phases can aid in developing sophisticated [risk management](../r/risk_management.md) models. For example, during [expansion](../e/expansion.md) phases, algorithms might prioritize [growth stocks](../g/growth_stocks.md), whereas during [recession](../r/recession.md) phases, they could switch to more defensive assets.
 
-3. **[Predictive Analytics](../p/predictive_analytics.md):** Machine learning models can be trained on historical data corresponding to different Kondratieff cycles to predict future [market](../m/market.md) behavior. By incorporating macroeconomic indicators and technological trends, these models can enhance the predictive power of [algorithmic trading](../a/algorithmic_trading.md) systems.
+3. **[Predictive Analytics](../p/predictive_analytics.md):** [Machine learning](../m/machine_learning.md) models can be trained on historical data corresponding to different Kondratieff cycles to predict future [market](../m/market.md) behavior. By incorporating macroeconomic indicators and technological trends, these models can enhance the predictive power of [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 4. **[Portfolio Diversification](../p/portfolio_diversification.md):** Understanding the cyclical nature of markets can inform better portfolio [diversification strategies](../d/diversification_strategies.md). Depending on the phase of the Kondratieff cycle, algorithms can allocate assets across various sectors and industries to optimize returns and minimize risks.
 

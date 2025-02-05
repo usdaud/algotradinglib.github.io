@@ -29,7 +29,7 @@ The concept of the electronic [check](../c/check.md) was introduced to streamlin
 
 - **Encryption:** All electronic [check](../c/check.md) transactions are encrypted to prevent data breaches and unauthorized access.
 - **Authentication:** Multifactor authentication (MFA) is often used to verify the identity of the payer.
-- **[Fraud](../f/fraud.md) Detection:** Advanced algorithms and machine learning techniques are employed to detect and prevent [fraud](../f/fraud.md).
+- **[Fraud](../f/fraud.md) Detection:** Advanced algorithms and [machine learning](../m/machine_learning.md) techniques are employed to detect and prevent [fraud](../f/fraud.md).
 - **Regulatory Compliance:** Transactions must comply with regulations such as the [Electronic Fund Transfer Act](../e/electronic_fund_transfer_act.md) (EFTA) and [NACHA](../n/nacha.md) rules.
 
 ## Advantages of Electronic Checks
@@ -106,7 +106,7 @@ As [blockchain](../b/blockchain_in_trading.md) technology evolves, it has the po
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are increasingly being used to improve [fraud](../f/fraud.md) detection and streamline the e-[check](../c/check.md) processing workflow.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are increasingly being used to improve [fraud](../f/fraud.md) detection and streamline the e-[check](../c/check.md) processing workflow.
 
 ### Global Expansion
 

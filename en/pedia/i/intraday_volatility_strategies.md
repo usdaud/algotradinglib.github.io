@@ -42,7 +42,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 Trading platforms provide the necessary tools and [infrastructure](../i/infrastructure.md) for executing intraday trades. These platforms often include advanced charting tools, real-time data feeds, and [order](../o/order.md) [execution](../e/execution.md) capabilities. Popular platforms for intraday traders include [MetaTrader](https://www.metatrader4.com/), [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page), and [NinjaTrader](https://ninjatrader.com/).
 
 ### Data Analytics Tools
-[Data analytics](../d/data_analytics.md) tools help traders analyze [market](../m/market.md) data to identify trading opportunities. These tools can [range](../r/range.md) from simple spreadsheets to complex machine learning models. Platforms like [Python](https://www.python.org/), [R](https://www.r-project.org/), and [MATLAB](https://www.mathworks.com/products/matlab.html) are commonly used for data analysis in trading.
+[Data analytics](../d/data_analytics.md) tools help traders analyze [market](../m/market.md) data to identify trading opportunities. These tools can [range](../r/range.md) from simple spreadsheets to complex [machine learning](../m/machine_learning.md) models. Platforms like [Python](https://www.python.org/), [R](https://www.r-project.org/), and [MATLAB](https://www.mathworks.com/products/matlab.html) are commonly used for data analysis in trading.
 
 ## Risk Management
 

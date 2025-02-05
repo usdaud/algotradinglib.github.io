@@ -69,7 +69,7 @@ Implementing and maintaining OATS compliance comes with several challenges:
 
 As markets evolve and technology advances, OATS may undergo changes to address new challenges and opportunities. Potential developments include:
 
-- **Enhanced Automation**: Greater use of AI and machine learning to automate OATS reporting and error detection.
+- **Enhanced Automation**: Greater use of AI and [machine learning](../m/machine_learning.md) to automate OATS reporting and error detection.
 - **Integration with Emerging Technologies**: Adapting OATS to work seamlessly with [blockchain](../b/blockchain_in_trading.md) and other disruptive technologies.
 - **Global [Expansion](../e/expansion.md)**: As [financial markets](../f/financial_market.md) become more interconnected, expanding OATS-like frameworks globally to enhance cross-border regulatory oversight.
 

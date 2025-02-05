@@ -24,7 +24,7 @@ The term "distribution" in the context of [algorithmic trading](../a/accountabil
 
 - **[Risk Management](../r/risk_management.md)**: Understanding the distribution of returns aids in [portfolio risk management](../p/portfolio_risk_management.md), allowing for better estimates of [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR).
 - **Option Pricing**: Models like Black-Scholes depend on the [normal distribution](../n/normal_distribution_in_trading.md) to estimate option prices.
-- **[Quantitative Strategies](../q/quantitative_strategies_in_trading.md)**: Statistical [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and various machine learning models rely on understanding the distribution properties of [asset](../a/asset.md) returns.
+- **[Quantitative Strategies](../q/quantitative_strategies_in_trading.md)**: Statistical [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and various [machine learning](../m/machine_learning.md) models rely on understanding the distribution properties of [asset](../a/asset.md) returns.
 
 ## 2. Distribution of Trading Algorithms
 

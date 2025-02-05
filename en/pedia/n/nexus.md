@@ -51,10 +51,10 @@ Statistical techniques are essential tools for understanding and exploiting [mar
 
 ### Machine Learning 
 
-Machine learning models further enhance the capability to identify and [leverage](../l/leverage.md) the nexus in [financial markets](../f/financial_market.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [clustering algorithms](../c/clustering_algorithms.md), and [predictive models](../p/predictive_models_in_trading.md) can detect complex patterns and interdependencies within large datasets.
+[Machine learning](../m/machine_learning.md) models further enhance the capability to identify and [leverage](../l/leverage.md) the nexus in [financial markets](../f/financial_market.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [clustering algorithms](../c/clustering_algorithms.md), and [predictive models](../p/predictive_models_in_trading.md) can detect complex patterns and interdependencies within large datasets.
 
 #### Applications
-- **[Algorithmic Trading](../a/accountability.md)**: Machine learning models are extensively used in [algorithmic trading](../a/accountability.md) for decision-making processes based on historical data and real-time [market](../m/market.md) analysis.
+- **[Algorithmic Trading](../a/accountability.md)**: [Machine learning](../m/machine_learning.md) models are extensively used in [algorithmic trading](../a/accountability.md) for decision-making processes based on historical data and real-time [market](../m/market.md) analysis.
 - **[Risk Management](../r/risk_management.md)**: [Predictive models](../p/predictive_models_in_trading.md) help in assessing and managing risks by understanding [market dynamics](../m/market_dynamics.md) and their interconnected aspects.
 
 ## Regulatory Landscape

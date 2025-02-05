@@ -39,7 +39,7 @@ In [algorithmic trading](../a/accountability.md), accretive strategies are those
 ### Key Elements
 
 1. **[Backtesting](../b/backtesting.md)**: Accurate [backtesting](../b/backtesting.md) routines ensure the historical performance of an algorithm is indicative of its future performance.
-2. **AI and Machine Learning**: The application of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) assists in developing sophisticated algorithms tailored to extract [value](../v/value.md) from the [market](../m/market.md).
+2. **AI and [Machine Learning](../m/machine_learning.md)**: The application of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) assists in developing sophisticated algorithms tailored to extract [value](../v/value.md) from the [market](../m/market.md).
 3. **[Risk Management](../r/risk_management.md)**: Effective [risk management](../r/risk_management.md) strategies ensure that potential losses do not outweigh the gains from accretive trades.
 4. **High-Frequency Trading (HFT)**: High-speed transactions exploit minuscule [market](../m/market.md) inefficiencies and are pivotal in accretive strategy development.
 5. **[Quantitative Analysis](../q/quantitative_analysis.md)**: [Quantitative models](../q/quantitative_models.md) lead to the elucidation of patterns and trends which manual analysis might miss, ensuring maximum [accretion](../a/accretion.md).

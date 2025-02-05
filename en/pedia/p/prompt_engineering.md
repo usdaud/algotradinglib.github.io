@@ -1,10 +1,10 @@
 # Prompt Engineering
 
-Prompt Engineering involves designing and refining input prompts to guide large language models (LLMs) in generating desired outputs, improving both accuracy and relevance.
+Prompt Engineering involves designing and refining input prompts to guide [large language models](../l/large_language_models.md) (LLMs) in generating desired outputs, improving both accuracy and relevance.
 
 ### Key Components
 - **Task Specification:** Clearly defining what the model should do.
-- **Context Provision:** Supplying relevant background information or examples.
+- **Context [Provision](../p/provision.md):** Supplying relevant background information or examples.
 - **Instruction Clarity:** Using precise language and structure to minimize ambiguity.
 - **Iteration and Testing:** Experimenting with different prompts to optimize performance.
 
@@ -25,4 +25,4 @@ Prompt Engineering involves designing and refining input prompts to guide large 
 - Often a trial-and-error process that can be time-consuming.
 
 ### Future Outlook
-Prompt engineering will likely evolve into more systematic, automated approaches, integrating feedback loops and user interactions to continuously optimize model performance.
+Prompt engineering [will](../w/will.md) likely evolve into more systematic, automated approaches, integrating [feedback loops](../f/feedback_loops_in_trading.md) and user interactions to continuously optimize model performance.

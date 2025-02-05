@@ -6,7 +6,7 @@
 
 ## Concept of X-Volatility Modeling
 
-X-[Volatility](../v/volatility.md) Modeling is an advanced approach to capturing and predicting the fluctuations in [asset](../a/asset.md) prices. Unlike traditional measures of [volatility](../v/volatility.md), X-[Volatility](../v/volatility.md) includes a broader set of variables and methods to understand the behavior of price changes in a more nuanced way. This can involve various statistical models, machine learning techniques, and other sophisticated algorithms to get a more accurate estimate of future [volatility](../v/volatility.md).
+X-[Volatility](../v/volatility.md) Modeling is an advanced approach to capturing and predicting the fluctuations in [asset](../a/asset.md) prices. Unlike traditional measures of [volatility](../v/volatility.md), X-[Volatility](../v/volatility.md) includes a broader set of variables and methods to understand the behavior of price changes in a more nuanced way. This can involve various statistical models, [machine learning](../m/machine_learning.md) techniques, and other sophisticated algorithms to get a more accurate estimate of future [volatility](../v/volatility.md).
 
 ## Importance in Algorithmic Trading
 
@@ -29,7 +29,7 @@ Unlike [GARCH models](../g/garch_models.md) that are deterministic, [stochastic 
 
 ### Machine Learning Techniques
 
-With advancements in machine learning, several algorithms like [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are increasingly being employed for [volatility](../v/volatility.md) modeling. These techniques can capture nonlinear relationships better than traditional statistical models.
+With advancements in [machine learning](../m/machine_learning.md), several algorithms like [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are increasingly being employed for [volatility](../v/volatility.md) modeling. These techniques can capture nonlinear relationships better than traditional statistical models.
 
 Example: [Acme Trading Systems](https://acmetrading.com)
 
@@ -84,7 +84,7 @@ Example: [QuantLib](https://www.quantlib.org)
 Despite advancements, there are challenges in [volatility](../v/volatility.md) modeling:
 
 1. **[Overfitting](../o/overfitting.md):** Complex models run the [risk](../r/risk.md) of [overfitting](../o/overfitting.md) the data, leading to poor predictive performance.
-2. **Computational Power:** Advanced models, especially those using machine learning, require significant computational resources.
+2. **Computational Power:** Advanced models, especially those using [machine learning](../m/machine_learning.md), require significant computational resources.
 3. **Extreme Events:** Models might not perform well during extreme [market](../m/market.md) events, leading to inaccurate predictions.
 4. **Data Quality:** High-quality, high-frequency data is essential for accurate modeling but can be challenging to procure.
 

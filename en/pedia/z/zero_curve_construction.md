@@ -129,7 +129,7 @@ Parameters for the Nelson-Siegel and Svensson models are estimated using [optimi
 
 3. **[Risk Management](../r/risk_management.md)**: [Algorithmic trading](../a/algorithmic_trading.md) systems use zero curves to evaluate and mitigate exposure to [interest rate risk](../i/interest_rate_risk.md) in real-time.
 
-4. **Algorithmic Fixed-[Income](../i/income.md) Strategies**: Strategies such as statistical [arbitrage](../a/arbitrage.md), machine learning-based [credit](../c/credit.md) [spread analysis](../s/spread_analysis.md), and [momentum trading](../m/momentum_trading.md) of bonds [leverage](../l/leverage.md) zero curve information.
+4. **Algorithmic Fixed-[Income](../i/income.md) Strategies**: Strategies such as statistical [arbitrage](../a/arbitrage.md), [machine learning](../m/machine_learning.md)-based [credit](../c/credit.md) [spread analysis](../s/spread_analysis.md), and [momentum trading](../m/momentum_trading.md) of bonds [leverage](../l/leverage.md) zero curve information.
 
 5. **ALM and Hedging**: [Asset](../a/asset.md) [Liability](../l/liability.md) Management (ALM) and [hedging strategies](../h/hedging_strategies.md) for portfolios of bonds and fixed-[income](../i/income.md) securities rely on accurate zero curves for assessing cash flows and maturities.
 

@@ -40,7 +40,7 @@ Algorithmic traders and quants often use lagged variables in their models to cap
 
 2. **[Momentum Trading](../m/momentum_trading.md)**: [Momentum](../m/momentum.md) strategies buy assets that have performed well in the past and sell those that have performed poorly. Lagged variables are used to measure historical performance and predict future [momentum](../m/momentum.md).
 
-3. **Machine Learning Models**: In more advanced applications, lagged variables are used as features in machine learning models. For example, in a supervised learning setup, lagged prices can be used as input features to train models that predict future price movements.
+3. **[Machine Learning](../m/machine_learning.md) Models**: In more advanced applications, lagged variables are used as features in [machine learning](../m/machine_learning.md) models. For example, in a [supervised learning](../s/supervised_learning.md) setup, lagged prices can be used as input features to train models that predict future price movements.
 
 #### Software and Tools
 

@@ -43,7 +43,7 @@ Algorithms can use the A/D Line to identify broader [market](../m/market.md) tre
 
 ### Divergence Detection
 
-Algorithms can be programmed to detect divergences between the stock [index](../i/index_instrument.md) and the A/D Line. Advanced [pattern recognition](../p/pattern_recognition.md) techniques, such as machine learning models, can be employed to identify positive or negative divergences automatically and prompt [trade](../t/trade.md) executions based on these signals.
+Algorithms can be programmed to detect divergences between the stock [index](../i/index_instrument.md) and the A/D Line. Advanced [pattern recognition](../p/pattern_recognition.md) techniques, such as [machine learning](../m/machine_learning.md) models, can be employed to identify positive or negative divergences automatically and prompt [trade](../t/trade.md) executions based on these signals.
 
 ### Sentiment Analysis
 

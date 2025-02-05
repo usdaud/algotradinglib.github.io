@@ -89,7 +89,7 @@ Solutions such as **NetSuite** and **SAP [Revenue](../r/revenue.md) [Accounting]
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being used to enhance [revenue](../r/revenue.md) recognition by providing [predictive analytics](../p/predictive_analytics.md) and improving the accuracy of variable consideration estimates. By analyzing historical data and identifying patterns, AI and ML can help make more accurate forecasts and reduce the [uncertainty](../u/uncertainty_in_trading.md) associated with [revenue](../r/revenue.md) recognition.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being used to enhance [revenue](../r/revenue.md) recognition by providing [predictive analytics](../p/predictive_analytics.md) and improving the accuracy of variable consideration estimates. By analyzing historical data and identifying patterns, AI and ML can help make more accurate forecasts and reduce the [uncertainty](../u/uncertainty_in_trading.md) associated with [revenue](../r/revenue.md) recognition.
 
 ## Best Practices for Revenue Recognition
 

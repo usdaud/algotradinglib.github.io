@@ -78,7 +78,7 @@ Link: [Renaissance Technologies LLC](https://www.rentec.com/)
 
 ### Two Sigma Investments
 
-Two Sigma leverages machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to identify [market](../m/market.md) anomalies and inefficiencies. Their approach involves massive data analysis to spot trends and patterns that human traders might miss, providing a competitive edge in trading.
+Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to identify [market](../m/market.md) anomalies and inefficiencies. Their approach involves massive data analysis to spot trends and patterns that human traders might miss, providing a competitive edge in trading.
 Link: [Two Sigma](https://www.twosigma.com/)
 
 ### AQR Capital Management

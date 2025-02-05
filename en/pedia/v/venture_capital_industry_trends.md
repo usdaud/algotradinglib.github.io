@@ -5,7 +5,7 @@ The [venture capital](../v/venture_capital.md) (VC) [industry](../i/industry.md)
 ### 1. Technological Advancements
 
 #### Artificial Intelligence and Machine Learning
-The explosion of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) technologies has opened new avenues for venture capitalists. AI and ML are being integrated into various sectors, from healthcare to [finance](../f/finance.md), creating opportunities for startups. VC firms are increasingly [investing](../i/investing.md) in companies leveraging these technologies to solve complex problems and improve efficiencies.
+The explosion of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) technologies has opened new avenues for venture capitalists. AI and ML are being integrated into various sectors, from healthcare to [finance](../f/finance.md), creating opportunities for startups. VC firms are increasingly [investing](../i/investing.md) in companies leveraging these technologies to solve complex problems and improve efficiencies.
 
 Examples of AI/ML-focused [venture capital](../v/venture_capital.md) firms include:
 - **Data Collective DCVC**: [dcvc.com](https://www.dcvc.com)

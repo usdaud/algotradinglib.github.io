@@ -75,7 +75,7 @@ PayPal continually invests in technology to further its goals of providing secur
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning are integral parts of PayPal’s approach to solving complex problems like [fraud](../f/fraud.md) detection and personalized user experience. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) analyze [transaction](../t/transaction.md) data to identify patterns that may indicate fraudulent activities, thus enhancing the platform's [security](../s/security.md) capabilities.
+AI and [machine learning](../m/machine_learning.md) are integral parts of PayPal’s approach to solving complex problems like [fraud](../f/fraud.md) detection and personalized user experience. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) analyze [transaction](../t/transaction.md) data to identify patterns that may indicate fraudulent activities, thus enhancing the platform's [security](../s/security.md) capabilities.
 
 ### Blockchain and Cryptocurrencies
 

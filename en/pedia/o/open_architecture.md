@@ -87,7 +87,7 @@ FinTech companies have played a crucial role in the development of [Open](../o/o
 
 ### Artificial Intelligence and Machine Learning
 
-The future of [Open](../o/open.md) Architecture is likely to be heavily influenced by [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning. These technologies can analyze vast amounts of data to provide personalized, real-time financial advice and investment [options](../o/options.md).
+The future of [Open](../o/open.md) Architecture is likely to be heavily influenced by [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md). These technologies can analyze vast amounts of data to provide personalized, real-time financial advice and investment [options](../o/options.md).
 
 ### Blockchain Technology
 

@@ -42,10 +42,10 @@ Statistical [arbitrage](../a/arbitrage.md) involves [trading strategies](../t/tr
 - **[Mean Reversion](../m/mean_reversion.md)**: This concept is based on the statistical notion that prices and returns eventually move back towards the mean or average level.
 
 ### Machine Learning Applications
-Machine learning models can be trained to recognize complex patterns and anomalies in financial data.
+[Machine learning](../m/machine_learning.md) models can be trained to recognize complex patterns and anomalies in financial data.
 
-- **Supervised Learning**: Models like [Linear Regression](../l/linear_regression.md), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) can be trained on historical data to predict future price movements.
-- **Unsupervised Learning**: Techniques such as clustering and [anomaly detection](../a/anomaly_detection.md) algorithms (e.g., k-Means, Isolation Forest) can identify unusual patterns and outliers in the data.
+- **[Supervised Learning](../s/supervised_learning.md)**: Models like [Linear Regression](../l/linear_regression.md), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) can be trained on historical data to predict future price movements.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Techniques such as clustering and [anomaly detection](../a/anomaly_detection.md) algorithms (e.g., k-Means, Isolation Forest) can identify unusual patterns and outliers in the data.
 
 ### Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) on news articles, [social media](../s/social_media.md) posts, and other textual data can provide insights into [market anomalies](../m/market_anomalies.md) tied to [investor](../i/investor.md) sentiment.

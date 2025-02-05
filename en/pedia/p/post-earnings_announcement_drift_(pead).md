@@ -43,7 +43,7 @@ Numerous [trading strategies](../t/trading_strategies.md) have been developed to
 Several companies and platforms [offer](../o/offer.md) tools and services to help traders exploit PEAD:
 
 1. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, [cloud computing](../c/cloud_computing_in_trading.md), and libraries to backtest and deploy PEAD strategies. [QuantConnect](https://www.quantconnect.com/)
-2. **Kensho Technologies:** Provides analytics and data tools to identify and act on PEAD through [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and machine learning. [Kensho](https://www.kensho.com/)
+2. **Kensho Technologies:** Provides analytics and data tools to identify and act on PEAD through [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and [machine learning](../m/machine_learning.md). [Kensho](https://www.kensho.com/)
 3. **[Bloomberg](../b/bloomberg.md) Terminal:** A professional financial data and software tool providing extensive data on [earnings](../e/earnings.md) and stock performance to allow traders to track PEAD. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 4. **[FactSet](../f/factset.md):** Offers [earnings](../e/earnings.md) data, predictions, and analytics tools geared towards identifying and leveraging PEAD opportunities. [FactSet](https://www.factset.com/)
 

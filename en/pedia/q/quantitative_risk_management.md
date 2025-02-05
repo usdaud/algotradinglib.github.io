@@ -32,7 +32,7 @@ Continuous monitoring of [risk](../r/risk.md) is critical to ensure that [risk](
 [Big Data](../b/big_data_in_trading.md) and advanced analytics play a pivotal role in QRM. They enable the processing of vast amounts of data to identify trends, [pattern recognition](../p/pattern_recognition.md), and [anomaly detection](../a/anomaly_detection.md).
 
 ### Machine Learning Models
-Machine learning models can predict potential risks by analyzing historical data and uncovering hidden correlations. Techniques such as classification, regression, clustering, and [neural networks](../n/neural_networks_in_trading.md) are frequently used.
+[Machine learning](../m/machine_learning.md) models can predict potential risks by analyzing historical data and uncovering hidden correlations. Techniques such as classification, regression, clustering, and [neural networks](../n/neural_networks_in_trading.md) are frequently used.
 
 ### Automated Trading Systems
 [Algorithmic trading](../a/algorithmic_trading.md) systems can execute trades based on predefined criteria, minimizing human error and emotional biases. These systems analyze [market](../m/market.md) conditions and optimize [trading strategies](../t/trading_strategies.md) in real-time.

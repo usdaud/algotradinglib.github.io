@@ -33,7 +33,7 @@ NVIDIA's stock is traded on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/e
 1. **[Mean Reversion](../m/mean_reversion.md)**: Assumes that the stock price [will](../w/will.md) [return](../r/return.md) to an average level over time. If NVIDIA's stock price deviates significantly from its historical average, the algorithm [will](../w/will.md) [trade](../t/trade.md) based on the expectation that it [will](../w/will.md) revert.
 2. **[Momentum Trading](../m/momentum_trading.md)**: Identifies [stocks](../s/stock.md) on significant upward or downward trends, predicting that the stock's trajectory [will](../w/will.md) continue.
 3. **Statistical [Arbitrage](../a/arbitrage.md)**: Utilizes [mathematical models](../m/mathematical_models_in_trading.md) to identify price discrepancies between securities—for instance, between NVIDIA and similar technology [stocks](../s/stock.md).
-4. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: [Leverage](../l/leverage.md) AI and machine learning to identify patterns and make trading decisions. These can include various models like [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md).
+4. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: [Leverage](../l/leverage.md) AI and [machine learning](../m/machine_learning.md) to identify patterns and make trading decisions. These can include various models like [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md).
 
 ## Historical Performance of NVIDIA Stock
 

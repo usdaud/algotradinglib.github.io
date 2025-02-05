@@ -68,7 +68,7 @@ Several [investment management](../i/investment_management.md) firms specialize 
 
 - **Bridgewater Associates:** A [global macro](../g/global_macro.md) [investing](../i/investing.md) [firm](../f/firm.md) that employs diversified [risk](../r/risk.md) considerations, including [market](../m/market.md)-[neutral](../n/neutral.md) strategies. [Bridgewater](https://www.bridgewater.com/)
 - **AQR [Capital](../c/capital.md) Management:** A quantitative investment [firm](../f/firm.md) that offers [market](../m/market.md) [neutral](../n/neutral.md) funds among other products. [AQR](https://www.aqr.com/)
-- **Two Sigma Investments:** Utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for [market](../m/market.md) [neutral](../n/neutral.md) and statistical [arbitrage](../a/arbitrage.md) trading. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma Investments:** Utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for [market](../m/market.md) [neutral](../n/neutral.md) and statistical [arbitrage](../a/arbitrage.md) trading. [Two Sigma](https://www.twosigma.com/)
 
 ## Advantages and Disadvantages
 

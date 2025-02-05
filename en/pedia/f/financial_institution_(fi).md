@@ -78,7 +78,7 @@ The landscape of financial institutions is evolving rapidly with the advent of n
 
 3. **Sustainable [Finance](../f/finance.md)**: Increasing focus on Environmental, Social, and Governance (ESG) criteria in investment decisions, supporting sustainable [economic growth](../e/economic_growth.md).
 
-4. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Implementing AI and machine learning to enhance [risk management](../r/risk_management.md), compliance, [fraud](../f/fraud.md) detection, and [customer service](../c/customer_service.md).
+4. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: Implementing AI and [machine learning](../m/machine_learning.md) to enhance [risk management](../r/risk_management.md), compliance, [fraud](../f/fraud.md) detection, and [customer service](../c/customer_service.md).
 
 5. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Exploring [blockchain](../b/blockchain_in_trading.md) for secure, transparent, and efficient transactional processes, particularly in payments and settlement systems.
 

@@ -150,7 +150,7 @@ Stablecoins are digital assets pegged to traditional currencies or commodities t
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are transforming various aspects of [finance](../f/finance.md), from [fraud](../f/fraud.md) detection and [risk management](../r/risk_management.md) to personalized financial advice. These technologies enhance data analysis, improve decision-making, and drive [efficiency](../e/efficiency.md) in financial services.
+AI and [machine learning](../m/machine_learning.md) are transforming various aspects of [finance](../f/finance.md), from [fraud](../f/fraud.md) detection and [risk management](../r/risk_management.md) to personalized financial advice. These technologies enhance data analysis, improve decision-making, and drive [efficiency](../e/efficiency.md) in financial services.
 
 ### Financial Inclusion
 

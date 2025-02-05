@@ -113,7 +113,7 @@ Algorithms can backtest strategies that incorporate ADX to gauge their historica
 
 ### Optimization
 
-Algorithmic traders often use optimized ADX parameters tailored to specific financial instruments or [market](../m/market.md) conditions. Machine learning techniques can further enhance the adaptive nature of these strategies, allowing them to dynamically adjust to changing [market](../m/market.md) environments.
+Algorithmic traders often use optimized ADX parameters tailored to specific financial instruments or [market](../m/market.md) conditions. [Machine learning](../m/machine_learning.md) techniques can further enhance the adaptive nature of these strategies, allowing them to dynamically adjust to changing [market](../m/market.md) environments.
 
 ## Conclusion
 

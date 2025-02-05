@@ -30,7 +30,7 @@
 
 ## 5. Sentiment Analysis Based Strategies
 
-**[Sentiment analysis](../s/sentiment_analysis.md)** strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and other machine learning techniques to gauge [market sentiment](../m/market_sentiment.md) from news, [social media](../s/social_media.md), and other sources.
+**[Sentiment analysis](../s/sentiment_analysis.md)** strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and other [machine learning](../m/machine_learning.md) techniques to gauge [market sentiment](../m/market_sentiment.md) from news, [social media](../s/social_media.md), and other sources.
 
 - **News-Based Trading**: Algorithms scan news sources like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md) for [market](../m/market.md)-moving news. If favorable, a buy [order](../o/order.md) might be triggered; if unfavorable, a sell [order](../o/order.md) might be issued.
 
@@ -42,13 +42,13 @@
 
 ## 7. Machine Learning and AI-Based Strategies
 
-**Machine learning** and AI-based strategies utilize advanced statistical models and algorithms to predict future price movements. Machine learning models are trained on historical data and can include regressive models, [deep learning](../d/deep_learning.md) architectures, reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md), and more.
+**[Machine learning](../m/machine_learning.md)** and AI-based strategies utilize advanced statistical models and algorithms to predict future price movements. [Machine learning](../m/machine_learning.md) models are trained on historical data and can include regressive models, [deep learning](../d/deep_learning.md) architectures, reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md), and more.
 
-- **Supervised Learning Models**: These models are trained on labeled historical data to predict future prices. Examples include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md).
+- **[Supervised Learning](../s/supervised_learning.md) Models**: These models are trained on labeled historical data to predict future prices. Examples include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md).
 
-- **Unsupervised Learning Models**: These models look for hidden patterns in the data. [Clustering algorithms](../c/clustering_algorithms.md) such as K-means can identify related groups of assets or [price patterns](../p/price_patterns.md).
+- **[Unsupervised Learning](../u/unsupervised_learning.md) Models**: These models look for hidden patterns in the data. [Clustering algorithms](../c/clustering_algorithms.md) such as K-means can identify related groups of assets or [price patterns](../p/price_patterns.md).
 
-- **Reinforcement Learning**: In this framework, algorithms learn the best actions to take through trial and error, continually updating their strategy to maximize some notion of cumulative reward.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: In this framework, algorithms learn the best actions to take through trial and error, continually updating their strategy to maximize some notion of cumulative reward.
 
 ## 8. Volume Weighted Average Price (VWAP) Strategy
 

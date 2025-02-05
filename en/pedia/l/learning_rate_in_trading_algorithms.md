@@ -1,6 +1,6 @@
 # Learning Rate in Trading Algorithms
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md), the term "Learning Rate" often refers to the parameter that controls the speed at which a machine learning model updates its weights with respect to the loss gradient when optimizing its performance. The concept is crucial in various forms of machine learning and [deep learning](../d/deep_learning.md), including those employed in [trading strategies](../t/trading_strategies.md).
+In the context of [algorithmic trading](../a/algorithmic_trading.md), the term "Learning Rate" often refers to the parameter that controls the speed at which a [machine learning](../m/machine_learning.md) model updates its weights with respect to the loss gradient when optimizing its performance. The concept is crucial in various forms of [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md), including those employed in [trading strategies](../t/trading_strategies.md).
 
 ## Understanding Learning Rate
 
@@ -8,7 +8,7 @@ The learning rate, commonly denoted as η (eta), is a hyperparameter that dictat
 
 ### Gradient Descent and Learning Rate
 
-In the realm of machine learning, gradient descent is a fundamental algorithm used to minimize a given function, often referred to as the loss function. The process involves computing the gradient of the loss function with respect to the model parameters and then updating the parameters in the opposite direction of the gradient. The learning rate, η, is a scalar [factor](../f/factor.md) that scales the size of these updates:
+In the realm of [machine learning](../m/machine_learning.md), gradient descent is a fundamental algorithm used to minimize a given function, often referred to as the loss function. The process involves computing the gradient of the loss function with respect to the model parameters and then updating the parameters in the opposite direction of the gradient. The learning rate, η, is a scalar [factor](../f/factor.md) that scales the size of these updates:
 
 \[ \theta_{t+1} = \theta_t - \eta \nabla_\[theta](../t/theta.md) J(\theta_t) \]
 
@@ -61,10 +61,10 @@ The impact of learning rate on [risk](../r/risk.md)-adjusted returns should also
 
 Several tools and libraries support the implementation and tuning of learning rates in [trading algorithms](../t/trading_algorithms.md):
 
-- **TensorFlow**: An [open](../o/open.md)-source machine learning framework that supports various learning rate schedules and adaptive optimizers. [TensorFlow Website](https://www.tensorflow.org)
-- **PyTorch**: Another popular machine learning framework with extensive support for customizing learning rates. [PyTorch Website](https://pytorch.org)
-- **Keras**: A high-level [neural networks](../n/neural_networks_in_trading.md) API that runs on top of TensorFlow, providing easy-to-use learning rate scheduling and [optimization](../o/optimization.md). [Keras Website](https://keras.io)
+- **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework that supports various learning rate schedules and adaptive optimizers. [TensorFlow Website](https://www.tensorflow.org)
+- **[PyTorch](../p/pytorch.md)**: Another popular [machine learning](../m/machine_learning.md) framework with extensive support for customizing learning rates. [PyTorch Website](https://pytorch.org)
+- **[Keras](../k/keras.md)**: A high-level [neural networks](../n/neural_networks_in_trading.md) API that runs on top of [TensorFlow](../t/tensorflow.md), providing easy-to-use learning rate scheduling and [optimization](../o/optimization.md). [Keras Website](https://keras.io)
 
 ## Conclusion
 
-The learning rate is a pivotal hyperparameter in the training of machine learning models used in [trading algorithms](../t/trading_algorithms.md). Choosing and adjusting the learning rate appropriately can significantly influence the success of the [trading strategy](../t/trading_strategy.md). By leveraging techniques such as learning rate schedules and adaptive optimizers, as well as thorough [backtesting](../b/backtesting.md) and validation, practitioners can optimize their models for better performance in ever-changing [financial markets](../f/financial_market.md).
+The learning rate is a pivotal hyperparameter in the training of [machine learning](../m/machine_learning.md) models used in [trading algorithms](../t/trading_algorithms.md). Choosing and adjusting the learning rate appropriately can significantly influence the success of the [trading strategy](../t/trading_strategy.md). By leveraging techniques such as learning rate schedules and adaptive optimizers, as well as thorough [backtesting](../b/backtesting.md) and validation, practitioners can optimize their models for better performance in ever-changing [financial markets](../f/financial_market.md).

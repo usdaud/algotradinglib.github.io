@@ -14,7 +14,7 @@ Millennials are often characterized by their strong inclination towards values a
 
 #### Preference for Personalized Financial Services
 
-Millennial investors require solutions that cater to their individual needs and circumstances. Personalized financial advice and services, often facilitated by advanced [data analytics](../d/data_analytics.md) and machine learning, are particularly appealing to this generation.
+Millennial investors require solutions that cater to their individual needs and circumstances. Personalized financial advice and services, often facilitated by advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), are particularly appealing to this generation.
 
 #### Social Media Influence
 

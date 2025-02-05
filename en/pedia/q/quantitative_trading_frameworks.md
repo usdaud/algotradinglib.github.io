@@ -12,7 +12,7 @@ A comprehensive [quantitative trading](../q/quantitative_trading.md) framework t
 
 ### Strategy Development
 - **Research and [Ideation](../i/ideation.md)**: The initial stage involves generating trading ideas based on [market](../m/market.md) observation, financial theories, or scientific methods. 
-- **Model Selection**: After [ideation](../i/ideation.md), [quantitative models](../q/quantitative_models.md) are selected and applied. These models can [range](../r/range.md) from statistical methods, such as [mean reversion](../m/mean_reversion.md) and [momentum](../m/momentum.md), to more sophisticated techniques like machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+- **Model Selection**: After [ideation](../i/ideation.md), [quantitative models](../q/quantitative_models.md) are selected and applied. These models can [range](../r/range.md) from statistical methods, such as [mean reversion](../m/mean_reversion.md) and [momentum](../m/momentum.md), to more sophisticated techniques like [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### Backtesting and Simulation
 - **[Backtesting](../b/backtesting.md)**: This involves testing the viability of the [trading strategy](../t/trading_strategy.md) against historical data to assess its performance. Key metrics include returns, drawdowns, [Sharpe ratio](../s/sharpe_ratio.md), and more.

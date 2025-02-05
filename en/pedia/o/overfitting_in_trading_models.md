@@ -30,7 +30,7 @@ Avoiding [overfitting](../o/overfitting.md) requires a thoughtful approach durin
 1. **Simplifying Models:** Reducing the number of parameters and complexity can help prevent a model from fitting to [noise](../n/noise.md).
 2. **Regularization Techniques:** Methods such as Lasso or Ridge regression penalize complex models, encouraging simpler solutions.
 3. **Cross-Validation:** Regularly using cross-validation ensures that the model's performance on unseen data is consistently monitored.
-4. **Data Augmentation:** Increasing the diversity and quantity of training data reduces the likelihood of [overfitting](../o/overfitting.md).
+4. **[Data Augmentation](../d/data_augmentation.md):** Increasing the diversity and quantity of training data reduces the likelihood of [overfitting](../o/overfitting.md).
 5. **[Robust](../r/robust.md) Validation:** Conducting thorough [out-of-sample testing](../o/out-of-sample_testing.md) and walk-forward analysis can further mitigate the [risk](../r/risk.md).
 6. **Model Simplicity:** Occam's Razor suggests preferring simpler models that are more likely to generalize well.
 

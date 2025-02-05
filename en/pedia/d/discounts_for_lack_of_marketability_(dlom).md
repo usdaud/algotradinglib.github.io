@@ -91,7 +91,7 @@ Given the criticisms and complexities associated with DLOM, several advances are
 
 ### Technological Advancements
 
-The use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data can provide more refined estimations of DLOM. These technologies can identify patterns and correlations that might not be apparent through traditional methods.
+The use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data can provide more refined estimations of DLOM. These technologies can identify patterns and correlations that might not be apparent through traditional methods.
 
 ### Regulatory Framework
 

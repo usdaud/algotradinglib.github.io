@@ -155,7 +155,7 @@ The formulation of the problem plays a significant role in the [efficiency](../e
 
 ### Machine Learning Integration
 
-Integrating machine learning techniques with Zero-One Integer Programming can enhance solution methods. For example, machine learning models can predict good starting solutions or help in identifying effective [heuristics](../h/heuristics.md).
+Integrating [machine learning](../m/machine_learning.md) techniques with Zero-One Integer Programming can enhance solution methods. For example, [machine learning](../m/machine_learning.md) models can predict good starting solutions or help in identifying effective [heuristics](../h/heuristics.md).
 
 ### Advanced Heuristics
 

@@ -11,7 +11,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
 
 2. **Algorithm Development**
    - **[Quantitative Models](../q/quantitative_models.md)**: [Mathematical models](../m/mathematical_models_in_trading.md) to predict price movements and [asset](../a/asset.md) correlations.
-   - **Machine Learning**: Algorithms that learn and adapt over time to improve prediction accuracy.
+   - **[Machine Learning](../m/machine_learning.md)**: Algorithms that learn and adapt over time to improve prediction accuracy.
    - **[Backtesting](../b/backtesting.md)**: Evaluating the performance of algorithms on historical data to ensure their effectiveness.
 
 3. **Portfolio Construction**

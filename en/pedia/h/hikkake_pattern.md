@@ -51,7 +51,7 @@ A critical part of any [trading strategy](../t/trading_strategy.md) is managing 
 The complexity of spotting the Hikkake pattern manually leads some traders to employ [software tools](../s/software_tools_for_trading.md) and algorithms for more efficient detection.
 
 ### Algorithmic Detection
-Institutions and retail traders often use advanced charting tools and custom algorithms to scan for Hikkake patterns across [multiple](../m/multiple.md) assets and time frames. Some algorithms use machine learning to adapt and refine the accuracy of Hikkake pattern detection.
+Institutions and retail traders often use advanced charting tools and custom algorithms to scan for Hikkake patterns across [multiple](../m/multiple.md) assets and time frames. Some algorithms use [machine learning](../m/machine_learning.md) to adapt and refine the accuracy of Hikkake pattern detection.
 
 ### Backtesting
 Before employing a Hikkake-based strategy, traders typically backtest it on historical data. This helps in understanding the pattern's reliability and effectiveness in various [market](../m/market.md) conditions.

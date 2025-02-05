@@ -1,6 +1,6 @@
 # Virtual Assistant in Financial Trading and FinTech
 
-A virtual assistant in the context of financial trading and fintech is a software agent or computer program designed to assist traders, investors, and financial professionals with various tasks. These tasks can [range](../r/range.md) from executing trades, providing [market](../m/market.md) insights, conducting [financial analysis](../f/financial_analysis.md), and managing portfolios, to [offering](../o/offering.md) [customer service](../c/customer_service.md) and support. Virtual assistants [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), and other advanced technologies to enhance their functionality and deliver a more efficient and personalized user experience.
+A virtual assistant in the context of financial trading and fintech is a software agent or computer program designed to assist traders, investors, and financial professionals with various tasks. These tasks can [range](../r/range.md) from executing trades, providing [market](../m/market.md) insights, conducting [financial analysis](../f/financial_analysis.md), and managing portfolios, to [offering](../o/offering.md) [customer service](../c/customer_service.md) and support. Virtual assistants [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), and other advanced technologies to enhance their functionality and deliver a more efficient and personalized user experience.
 
 ## Key Features and Functions
 
@@ -46,7 +46,7 @@ AI and ML are the cornerstones of advanced virtual assistants, enabling them to 
 
 - **[Predictive analytics](../p/predictive_analytics.md):** Using historical data to predict future [market](../m/market.md) movements and trading opportunities.
 - **[Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** Analyzing and interpreting human language to understand user queries and provide relevant responses.
-- **Reinforcement learning:** Training models to optimize [trading strategies](../t/trading_strategies.md) based on trial and error and feedback from the [market](../m/market.md).
+- **[Reinforcement learning](../r/reinforcement_learning.md):** Training models to optimize [trading strategies](../t/trading_strategies.md) based on trial and error and feedback from the [market](../m/market.md).
 
 ### Big Data and Data Analytics
 

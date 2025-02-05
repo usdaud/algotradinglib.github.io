@@ -24,7 +24,7 @@ Programming skills are fundamental in building and maintaining the algorithms th
 
 ### Proficiency in Programming Languages
 
-- **Python**: Widely used due to its simplicity and extensive libraries for data analysis and machine learning.
+- **Python**: Widely used due to its simplicity and extensive libraries for data analysis and [machine learning](../m/machine_learning.md).
 - **R**: Specialized for statistical analysis and visualization.
 - **C++**: Valued for its performance in high-frequency trading where [execution](../e/execution.md) speed is critical.
 - **Java**: Often used in large-scale financial systems for its robustness and cross-platform capabilities.
@@ -38,18 +38,18 @@ Programming skills are fundamental in building and maintaining the algorithms th
 
 ## Machine Learning and Artificial Intelligence
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to enhance decision-making processes. Competencies in this area include:
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to enhance decision-making processes. Competencies in this area include:
 
-- **Supervised and Unsupervised Learning**: Understanding different learning paradigms and their applications in [predictive modeling](../p/predictive_modeling.md) and clustering of [market](../m/market.md) data.
+- **Supervised and [Unsupervised Learning](../u/unsupervised_learning.md)**: Understanding different learning paradigms and their applications in [predictive modeling](../p/predictive_modeling.md) and clustering of [market](../m/market.md) data.
 - **[Deep Learning](../d/deep_learning.md)**: Employing [neural networks](../n/neural_networks_in_trading.md), particularly in processing non-linear and complex relationships in data.
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Techniques for analyzing temporal data to forecast future price movements.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzing news, [social media](../s/social_media.md), and other textual data sources to gauge [market sentiment](../m/market_sentiment.md).
 
 ### Relevant Libraries and Frameworks
 
-- **TensorFlow and PyTorch**: Leading frameworks for building and training [deep learning](../d/deep_learning.md) models.
+- **[TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md)**: Leading frameworks for building and training [deep learning](../d/deep_learning.md) models.
 - **scikit-learn**: Comprehensive library for implementing classical [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md).
-- **Keras**: High-level [neural networks](../n/neural_networks_in_trading.md) API, running on top of TensorFlow.
+- **[Keras](../k/keras.md)**: High-level [neural networks](../n/neural_networks_in_trading.md) API, running on top of [TensorFlow](../t/tensorflow.md).
 
 ## Risk Management
 
@@ -85,7 +85,7 @@ Effective [risk management](../r/risk_management.md) is paramount in [algorithmi
 Here are a few companies known for their advancements and contributions in the field of [algorithmic trading](../a/accountability.md):
 
 - **Jane Street**: A leading [firm](../f/firm.md) integrating sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) and innovative technology solutions in trading. [Jane Street](https://www.janestreet.com)
-- **Two Sigma**: A technology-driven [firm](../f/firm.md) applying AI and machine learning in [financial markets](../f/financial_market.md). [Two Sigma](https://www.twosigma.com)
+- **Two Sigma**: A technology-driven [firm](../f/firm.md) applying AI and [machine learning](../m/machine_learning.md) in [financial markets](../f/financial_market.md). [Two Sigma](https://www.twosigma.com)
 - **DE Shaw & Co.**: Known for using complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. [DE Shaw & Co.](https://www.deshaw.com)
 - **Citadel**: Employs a wide [range](../r/range.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) across [asset](../a/asset.md) classes. [Citadel](https://www.citadel.com)
 

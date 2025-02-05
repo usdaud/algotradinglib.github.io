@@ -40,7 +40,7 @@ More powerful processors enable the use of more sophisticated and computationall
 The ability to process large datasets quickly has improved the effectiveness of [big data analytics](../b/big_data_analytics_in_trading.md) in trading. Traders can analyze historical data, news, [social media](../s/social_media.md), and other unstructured data sources to [gain](../g/gain.md) insights and inform [trading strategies](../t/trading_strategies.md).
 
 ### 4. **Machine Learning and AI**
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) models require significant computational resources for training and inference. The advancements in hardware driven by Moore’s Law have made it feasible to deploy these models in trading environments, enhancing predictive accuracy and decision-making.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) models require significant computational resources for training and inference. The advancements in hardware driven by Moore’s Law have made it feasible to deploy these models in trading environments, enhancing predictive accuracy and decision-making.
 
 ### 5. **Cost Reduction**
 The reduction in costs per transistor has lowered the barrier to entry for firms looking to deploy advanced algotrading systems. More firms can now afford the necessary technology, increasing competition and innovation in the [market](../m/market.md).

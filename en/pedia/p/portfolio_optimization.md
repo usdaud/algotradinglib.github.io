@@ -153,7 +153,7 @@ Over-reliance on [mathematical models](../m/mathematical_models_in_trading.md) c
 
 ### Machine Learning
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are being increasingly integrated into portfolio [optimization](../o/optimization.md) to improve the estimation of returns and covariances. Techniques such as Reinforcement Learning and [Neural Networks](../n/neural_networks_in_trading.md) show promise in enhancing traditional [optimization](../o/optimization.md) methods.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are being increasingly integrated into portfolio [optimization](../o/optimization.md) to improve the estimation of returns and covariances. Techniques such as [Reinforcement Learning](../r/reinforcement_learning.md) and [Neural Networks](../n/neural_networks_in_trading.md) show promise in enhancing traditional [optimization](../o/optimization.md) methods.
 
 ### ESG Factors
 

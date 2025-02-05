@@ -164,6 +164,6 @@ def median_absolute_deviation(data):
 
 Effective [noise](../n/noise.md) reduction techniques are critical for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing methods such as Moving Averages, [Kalman Filter](../k/kalman_filter_in_trading.md), Fourier Transform, Savitzky-Golay Filter, [Wavelet Transform](../w/wavelet_transform_in_trading.md), Hodrick-Prescott Filter, Bayesian Estimators, and [Robust Statistics](../r/robust_statistics_in_trading.md), traders can better isolate meaningful signals from the [noise](../n/noise.md). This enables more accurate predictions, reduces trading risks, and improves overall performance in [financial markets](../f/financial_market.md).
 
-Additionally, continuous research and advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are opening up new avenues for even more sophisticated [noise](../n/noise.md) reduction techniques.
+Additionally, continuous research and advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are opening up new avenues for even more sophisticated [noise](../n/noise.md) reduction techniques.
 
 For more information about advanced [noise](../n/noise.md) reduction techniques in [algorithmic trading](../a/algorithmic_trading.md), you can visit [QuantConnect](https://www.quantconnect.com) or [Alpha Vantage](https://www.alphavantage.co/).

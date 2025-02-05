@@ -60,7 +60,7 @@ Several prominent financial institutions and companies lead the development, mai
 
 Modern indexation and related [algorithmic trading](../a/accountability.md) cannot succeed without advanced technology, including complex algorithms, high-speed computing systems, and vast databases. Techniques commonly employed include:
 
-1. **Machine Learning & AI**: Used for [predictive analytics](../p/predictive_analytics.md) and decision-making based on patterns in historical data.
+1. **[Machine Learning](../m/machine_learning.md) & AI**: Used for [predictive analytics](../p/predictive_analytics.md) and decision-making based on patterns in historical data.
    
 2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Enabling the processing and analysis of massive datasets to identify trends and correlations.
    

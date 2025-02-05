@@ -75,7 +75,7 @@ The impact of PitchBook on the [finance](../f/finance.md) [industry](../i/indust
 
 - **Data Accuracy**: Continual improvements in data collection methodologies ensure the platform's data is as accurate and up-to-date as possible.
 - **User Experience**: Regular updates to the user interface and features based on user feedback to enhance the overall user experience.
-- **AI and Machine Learning**: Integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for [predictive analytics](../p/predictive_analytics.md) and improved data insights.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md) and improved data insights.
 
 ## Conclusion
 

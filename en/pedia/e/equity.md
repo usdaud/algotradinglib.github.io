@@ -53,7 +53,7 @@ These rely on the principle that equity prices tend to move back towards their h
 [Arbitrage](../a/arbitrage.md) seeks to exploit price differentials between markets or instruments. Use of equity here is critical as it supports simultaneous buying and selling while ensuring sufficient [capital](../c/capital.md) cover.
 
 ### 4. **Machine Learning Models**
-Advanced algorithms employ machine learning to predict [market](../m/market.md) movements by analyzing vast datasets, dynamically adjusting equity exposure based on [predictive analytics](../p/predictive_analytics.md).
+Advanced algorithms employ [machine learning](../m/machine_learning.md) to predict [market](../m/market.md) movements by analyzing vast datasets, dynamically adjusting equity exposure based on [predictive analytics](../p/predictive_analytics.md).
 
 ## Companies and Platforms
 

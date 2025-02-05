@@ -86,7 +86,7 @@ Integrate [risk management](../r/risk_management.md) practices such as [position
 ## Examples of Algorithmic Trading Firms
 Several [algorithmic trading](../a/algorithmic_trading.md) firms employ various [market](../m/market.md) strategies, including [pattern recognition](../p/pattern_recognition.md) such as the 1-2-3 [Reversal](../r/reversal.md) Pattern. These firms invest heavily in technology and [quantitative analysis](../q/quantitative_analysis.md) to [gain](../g/gain.md) [market](../m/market.md) advantages:
 
-- **Two Sigma**: A renowned [hedge fund](../h/hedge_fund.md) that implements machine learning and advanced algorithms. More information can be found at [Two Sigma](https://www.twosigma.com).
+- **Two Sigma**: A renowned [hedge fund](../h/hedge_fund.md) that implements [machine learning](../m/machine_learning.md) and advanced algorithms. More information can be found at [Two Sigma](https://www.twosigma.com).
 - **Renaissance Technologies**: Another leading [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. Visit their site at [Renaissance Technologies](https://www.rentec.com).
 
 ## Conclusion

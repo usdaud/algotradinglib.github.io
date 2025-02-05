@@ -85,7 +85,7 @@ where:
 [Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to predict future price movements. This can include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Analyzing historical data to identify trends and patterns.
-- **Machine Learning**: Applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to improve prediction accuracy.
+- **[Machine Learning](../m/machine_learning.md)**: Applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to improve prediction accuracy.
 - **[Factor Models](../f/factor_models.md)**: Identifying factors that impact [asset](../a/asset.md) prices and constructing models to predict returns.
   
 ### 2. High-Frequency Trading (HFT)

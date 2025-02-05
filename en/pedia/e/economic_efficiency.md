@@ -12,7 +12,7 @@ In the context of [algorithmic trading](../a/accountability.md), economic [effic
 2. **Semi-Strong Form**: All publicly available information is reflected in stock prices.
 3. **Strong Form**: All information, both public and private, is reflected in stock prices.
 
-[Algorithmic trading](../a/accountability.md) systems can exploit inefficiencies in the [market](../m/market.md) through quantitative methods, analyzing large datasets, and using machine learning models to detect patterns not evident through traditional analysis. However, to truly benefit, systems must be designed to respond quickly and adaptively to new information.
+[Algorithmic trading](../a/accountability.md) systems can exploit inefficiencies in the [market](../m/market.md) through quantitative methods, analyzing large datasets, and using [machine learning](../m/machine_learning.md) models to detect patterns not evident through traditional analysis. However, to truly benefit, systems must be designed to respond quickly and adaptively to new information.
 
 ## Resource Allocation
 
@@ -63,7 +63,7 @@ HFT is a subset of [algorithmic trading](../a/accountability.md) characterized b
 
 ## Artificial Intelligence and Machine Learning
 
-AI and ML algorithms are transforming the landscape of [algorithmic trading](../a/accountability.md) by improving prediction accuracy and uncovering hidden patterns. Techniques such as [deep learning](../d/deep_learning.md), reinforcement learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are being integrated to enhance model sophistication. Firms like Two Sigma (https://www.twosigma.com/) are at the forefront of employing such advanced techniques.
+AI and ML algorithms are transforming the landscape of [algorithmic trading](../a/accountability.md) by improving prediction accuracy and uncovering hidden patterns. Techniques such as [deep learning](../d/deep_learning.md), [reinforcement learning](../r/reinforcement_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are being integrated to enhance model sophistication. Firms like Two Sigma (https://www.twosigma.com/) are at the forefront of employing such advanced techniques.
 
 ### Reinforcement Learning
 

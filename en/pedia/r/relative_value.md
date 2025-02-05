@@ -34,7 +34,7 @@ Statistical [arbitrage](../a/arbitrage.md) (or "stat arb") is a type of relative
 
 ### Data Analysis
 
-Data analysis is critical in implementing relative [value](../v/value.md) strategies. Traders rely on historical data to identify [price patterns](../p/price_patterns.md), correlations, and [spreads](../s/spreads.md). This involves the use of sophisticated software and algorithms to process large datasets and identify opportunities. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to improve [data analysis techniques](../d/data_analysis_techniques.md) in this space.
+Data analysis is critical in implementing relative [value](../v/value.md) strategies. Traders rely on historical data to identify [price patterns](../p/price_patterns.md), correlations, and [spreads](../s/spreads.md). This involves the use of sophisticated software and algorithms to process large datasets and identify opportunities. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to improve [data analysis techniques](../d/data_analysis_techniques.md) in this space.
 
 ### Quantitative Models
 

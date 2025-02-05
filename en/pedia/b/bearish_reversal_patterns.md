@@ -84,7 +84,7 @@ Algorithmic traders use these patterns and indicators to program sophisticated [
 
 **I. [Pattern Recognition](../p/pattern_recognition.md)**
 
-Advanced algorithms and machine learning models are employed to recognize bearish [reversal patterns](../r/reversal_patterns.md) in real-time. These models use historical and real-time data to identify patterns such as Head and Shoulders, Double Tops, and Bearish Engulfing.
+Advanced algorithms and [machine learning](../m/machine_learning.md) models are employed to recognize bearish [reversal patterns](../r/reversal_patterns.md) in real-time. These models use historical and real-time data to identify patterns such as Head and Shoulders, Double Tops, and Bearish Engulfing.
 
 **II. Signal Confirmation**
 

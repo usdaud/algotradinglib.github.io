@@ -73,7 +73,7 @@ Cryptocurrencies, due to their [volatility](../v/volatility.md), frequently enco
 
 [Algorithmic trading](../a/accountability.md) leverages automated systems to identify and act on resistance zones quickly. By programming algorithms to recognize these zones, traders can [capitalize](../c/capitalize.md) on price movements without human intervention.
 
-- **Machine Learning**: Machine learning models can analyze historical data to refine the accuracy of identified resistance zones.
+- **[Machine Learning](../m/machine_learning.md)**: [Machine learning](../m/machine_learning.md) models can analyze historical data to refine the accuracy of identified resistance zones.
 - **High-Frequency Trading (HFT)**: HFT algorithms efficiently exploit minor price differences near resistance zones.
 
 ### Fintech Innovations

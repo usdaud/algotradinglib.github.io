@@ -94,7 +94,7 @@ This involves creating algorithms that specifically react to issuer-related even
 
 ### Machine Learning
 
-Advanced algorithms use machine learning to detect patterns in data related to issuers. These algorithms can analyze vast datasets, including historical prices, volumes, and news related to issuers, to predict future [market](../m/market.md) moves more accurately.
+Advanced algorithms use [machine learning](../m/machine_learning.md) to detect patterns in data related to issuers. These algorithms can analyze vast datasets, including historical prices, volumes, and news related to issuers, to predict future [market](../m/market.md) moves more accurately.
 
 ---
 
@@ -120,4 +120,4 @@ Large trades influenced by [algorithmic trading](../a/accountability.md) systems
 
 ## Conclusion
 
-In the complex world of [financial markets](../f/financial_market.md), issuers play a foundational role by [offering](../o/offering.md) the securities that form the [basis](../b/basis.md) of investment and [trading strategies](../t/trading_strategies.md). For algorithmic traders, understanding issuers is not just about analyzing [financial statements](../f/financial_statements.md) or staying updated with corporate actions. It encompasses a comprehensive approach that includes event-driven strategies, [quantitative models](../q/quantitative_models.md), and advanced technologies like machine learning. By maintaining high data quality, adhering to regulatory frameworks, and considering [market](../m/market.md) ethics, [algorithmic trading](../a/accountability.md) can efficiently [capitalize](../c/capitalize.md) on opportunities presented by diverse issuers, thus generating substantial returns while minimizing risks.
+In the complex world of [financial markets](../f/financial_market.md), issuers play a foundational role by [offering](../o/offering.md) the securities that form the [basis](../b/basis.md) of investment and [trading strategies](../t/trading_strategies.md). For algorithmic traders, understanding issuers is not just about analyzing [financial statements](../f/financial_statements.md) or staying updated with corporate actions. It encompasses a comprehensive approach that includes event-driven strategies, [quantitative models](../q/quantitative_models.md), and advanced technologies like [machine learning](../m/machine_learning.md). By maintaining high data quality, adhering to regulatory frameworks, and considering [market](../m/market.md) ethics, [algorithmic trading](../a/accountability.md) can efficiently [capitalize](../c/capitalize.md) on opportunities presented by diverse issuers, thus generating substantial returns while minimizing risks.

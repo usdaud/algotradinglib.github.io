@@ -10,7 +10,7 @@ Common types of [algorithmic trading strategies](../a/algorithmic_trading_strate
 
 ## Key Components of Algorithmic Trading
 
-1. **[Trading Algorithms](../t/trading_algorithms.md)**: These are sets of rules or instructions programmed into a computer to undertake trading decisions. Algorithms can [range](../r/range.md) from simple scripts to complex models incorporating machine learning techniques.
+1. **[Trading Algorithms](../t/trading_algorithms.md)**: These are sets of rules or instructions programmed into a computer to undertake trading decisions. Algorithms can [range](../r/range.md) from simple scripts to complex models incorporating [machine learning](../m/machine_learning.md) techniques.
 
 2. **[Execution](../e/execution.md) Systems**: [Execution](../e/execution.md) systems interact with trading venues (exchanges or [dark pools](../d/dark_pools.md)) to place and manage orders. They ensure trades are carried out as per the instructions of the algorithm, monitoring for fills, cancellations, and partial fills.
 
@@ -73,7 +73,7 @@ Despite the advantages, [algorithmic trading](../a/accountability.md) comes with
 
 ## Emerging Trends in Algorithmic Trading
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and ML technologies are being increasingly integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These technologies can identify trading patterns, optimize [execution](../e/execution.md), and predict [market](../m/market.md) movements more accurately.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI and ML technologies are being increasingly integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These technologies can identify trading patterns, optimize [execution](../e/execution.md), and predict [market](../m/market.md) movements more accurately.
 
 2. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Cloud-based trading platforms provide scalable and cost-effective solutions for [algorithmic trading](../a/accountability.md). They [offer](../o/offer.md) vast computational resources and facilitate the deployment of complex algorithms.
 

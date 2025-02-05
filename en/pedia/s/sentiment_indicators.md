@@ -44,7 +44,7 @@ Sentiment indicators typically process large volumes of unstructured text data t
 - **Tokenization**: Splitting text into individual words or phrases.
 - **Part-of-Speech Tagging**: Identifying the grammatical parts of speech in each token.
 - **Named Entity Recognition**: Detecting and classifying entities like names, dates, and financial terms.
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Scoring the sentiment of text using pre-defined lexicons or machine learning models.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Scoring the sentiment of text using pre-defined lexicons or [machine learning](../m/machine_learning.md) models.
   
 Popular NLP libraries used in [sentiment analysis](../s/sentiment_analysis.md) are:
 

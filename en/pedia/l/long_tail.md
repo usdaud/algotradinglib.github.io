@@ -52,8 +52,8 @@ FinTech represents the intersection of [finance](../f/finance.md) and technology
 
 [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can learn and adapt over time, making them particularly suitable for identifying Long Tail opportunities. These algorithms can [handle](../h/handle.md) complex patterns and non-linear relationships that are often present in [financial markets](../f/financial_market.md).
 
-- **TensorFlow** [Visit TensorFlow](https://www.tensorflow.org/): An [open](../o/open.md)-source machine learning framework that can be used for developing and training financial models.
-- **PyTorch** [Visit PyTorch](https://pytorch.org/): Another popular machine learning library that supports dynamic computational graphs, useful for research and development in financial applications.
+- **[TensorFlow](../t/tensorflow.md)** [Visit TensorFlow](https://www.tensorflow.org/): An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework that can be used for developing and training financial models.
+- **[PyTorch](../p/pytorch.md)** [Visit PyTorch](https://pytorch.org/): Another popular [machine learning](../m/machine_learning.md) library that supports dynamic computational graphs, useful for research and development in financial applications.
 
 ### Real-World Examples of Long Tail in Finance
 

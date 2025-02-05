@@ -29,7 +29,7 @@ Constructing a portfolio with [inverse correlation](../i/inverse_correlation.md)
 
 ### Algorithmic Implementation
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems can be designed to automatically identify and exploit inverse correlations. These algorithms use advanced statistical techniques and machine learning models to continuously monitor and adjust portfolios in real-time. Key tasks include:
+[Algorithmic trading](../a/algorithmic_trading.md) systems can be designed to automatically identify and exploit inverse correlations. These algorithms use advanced statistical techniques and [machine learning](../m/machine_learning.md) models to continuously monitor and adjust portfolios in real-time. Key tasks include:
 - **Data Collection**: Aggregating and preprocessing historical and real-time [asset](../a/asset.md) price data.
 - **Signal Generation**: Using statistical models to detect [correlation](../c/correlation.md) patterns and generate [trading signals](../t/trading_signals.md).
 - **[Execution](../e/execution.md)**: Implementing high-frequency trading (HFT) strategies to quickly execute trades based on generated signals.

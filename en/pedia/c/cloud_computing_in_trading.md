@@ -40,8 +40,8 @@ Cloud providers [offer](../o/offer.md) [robust](../r/robust.md) disaster recover
 Several cloud providers [offer](../o/offer.md) tailored solutions for trading platforms:
 
 - **Amazon Web Services (AWS):** AWS offers services like [Elastic](../e/elastic.md) Compute Cloud (EC2), AWS [Lambda](../l/lambda.md) for serverless computing, and AWS IoT for real-time trading data.
-- **Google Cloud Platform (GCP):** GCP provides services like BigQuery for [data analytics](../d/data_analytics.md), Kubernetes for container orchestration, and TensorFlow for machine learning applications in trading.
-- **Microsoft Azure:** Azure provides services like Azure Machine Learning, Azure SQL Database, and extensive data storage [options](../o/options.md) suitable for trading data.
+- **Google Cloud Platform (GCP):** GCP provides services like BigQuery for [data analytics](../d/data_analytics.md), Kubernetes for container orchestration, and [TensorFlow](../t/tensorflow.md) for [machine learning](../m/machine_learning.md) applications in trading.
+- **Microsoft Azure:** Azure provides services like Azure [Machine Learning](../m/machine_learning.md), Azure SQL Database, and extensive data storage [options](../o/options.md) suitable for trading data.
 
 #### 4. Use Cases in Algorithmic Trading
 
@@ -57,7 +57,7 @@ Traders can use cloud computing to backtest [trading strategies](../t/trading_st
 Cloud services provide powerful analytics tools to assess and mitigate risks in real-time.
 
 ##### Predictive Analytics:
-Machine learning models hosted on the cloud can predict [market](../m/market.md) trends and aid in decision-making.
+[Machine learning](../m/machine_learning.md) models hosted on the cloud can predict [market](../m/market.md) trends and aid in decision-making.
 
 ##### Custom Trading Solutions:
 Cloud platforms [offer](../o/offer.md) APIs and SDKs for developing custom trading applications that can integrate with other financial systems.
@@ -91,7 +91,7 @@ Choosing a cloud provider necessitates commitment. Switching providers can be co
 The [trend](../t/trend.md) towards cloud adoption in trading is set to continue, driven by emerging technologies:
 
 ##### Advanced Analytics:
-Cloud platforms' integration with AI and machine learning [will](../w/will.md) further enhance [data analytics](../d/data_analytics.md) capabilities.
+Cloud platforms' integration with AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) further enhance [data analytics](../d/data_analytics.md) capabilities.
 
 ##### Quantum Computing:
 Future developments in [quantum computing](../q/quantum_computing_in_trading.md), combined with cloud platforms, could [offer](../o/offer.md) unprecedented processing power for complex [trading algorithms](../t/trading_algorithms.md).

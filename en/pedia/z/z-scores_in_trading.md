@@ -69,7 +69,7 @@ Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) that emp
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The [firm](../f/firm.md) uses machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify trading opportunities and manage [risk](../r/risk.md). Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More details can be found on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify trading opportunities and manage [risk](../r/risk.md). Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More details can be found on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 

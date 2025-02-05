@@ -19,7 +19,7 @@ In his influential book "Administrative Behavior," Simon detailed how organizati
 Simon's research extended into cognitive psychology, where he explored how humans process information. Alongside Allen Newell, he developed the theory of human problem-solving, which focused on the strategies that individuals use to break down complex problems into manageable parts.
 
 ### Artificial Intelligence
-Herbert Simon was a pioneer in the field of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI). In collaboration with Allen Newell, he created the Logic Theorist and the General Problem Solver (GPS), two of the earliest AI programs. These contributions laid the groundwork for subsequent advancements in AI and machine learning.
+Herbert Simon was a pioneer in the field of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI). In collaboration with Allen Newell, he created the Logic Theorist and the General Problem Solver (GPS), two of the earliest AI programs. These contributions laid the groundwork for subsequent advancements in AI and [machine learning](../m/machine_learning.md).
 
 ## Contributions to Computer Science
 
@@ -54,7 +54,7 @@ Simon received numerous other accolades throughout his career, including the Nat
 Herbert Simon's theories of bounded rationality and satisficing have become integral to modern [economics](../e/economics.md), influencing both theoretical research and practical applications. His work has reshaped how economists think about decision-making, leading to new models and approaches that better reflect real-world conditions.
 
 ### Advancements in AI and Cognitive Science
-Simon's contributions to AI and cognitive science have had a lasting impact on these fields. His early AI programs and theories of human problem-solving laid the groundwork for subsequent advancements in machine learning, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and cognitive psychology.
+Simon's contributions to AI and cognitive science have had a lasting impact on these fields. His early AI programs and theories of human problem-solving laid the groundwork for subsequent advancements in [machine learning](../m/machine_learning.md), [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and cognitive psychology.
 
 ### Impact on Operations Research and Management
 In the realm of operations research and management, Simon's decision-making models and systems theory continue to be applied in various industries. His work has influenced practices in [logistics](../l/logistics.md), [supply chain](../s/supply_chain.md) management, and organizational behavior, helping companies operate more efficiently and effectively.

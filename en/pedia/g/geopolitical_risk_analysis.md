@@ -47,7 +47,7 @@ Geopolitical conflicts in the Middle East, including tensions between Iran and t
 
 1. **[Historical Data Analysis](../h/historical_data_analysis.md)**: Examining past [geopolitical events](../g/geopolitical_events.md) and their impacts on markets to identify patterns and correlations.
 2. **[Predictive Modeling](../p/predictive_modeling.md)**: Building [mathematical models](../m/mathematical_models_in_trading.md) that incorporate geopolitical [risk factors](../r/risk_factors_in_trading.md) to predict potential [market](../m/market.md) movements.
-3. **Machine Learning**: Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze vast datasets and identify hidden patterns related to geopolitical risks.
+3. **[Machine Learning](../m/machine_learning.md)**: Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze vast datasets and identify hidden patterns related to geopolitical risks.
 
 ## Incorporating Geopolitical Risk into Trading Algorithms
 

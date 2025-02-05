@@ -79,7 +79,7 @@ The advent of financial technologies (fintech) has revolutionized the management
 [Blockchain](../b/blockchain_in_trading.md) technology provides [robust](../r/robust.md) solutions for tracking and transacting long-term assets. It ensures increased [transparency](../t/transparency.md), reduction in [fraud](../f/fraud.md), and improved traceability of [asset](../a/asset.md) ownership and history.
 
 ### **2. AI and Machine Learning**
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) are being deployed to predict [asset](../a/asset.md) [depreciation](../d/depreciation.md), identify patterns indicative of potential impairments, and optimize investment portfolios. They enhance the accuracy and [efficiency](../e/efficiency.md) of long-term [asset management](../a/asset_management.md) significantly.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) are being deployed to predict [asset](../a/asset.md) [depreciation](../d/depreciation.md), identify patterns indicative of potential impairments, and optimize investment portfolios. They enhance the accuracy and [efficiency](../e/efficiency.md) of long-term [asset management](../a/asset_management.md) significantly.
 
 ### **3. Automated Valuation Models (AVMs)**
 These models [leverage](../l/leverage.md) data and algorithms to estimate the [value](../v/value.md) of long-term assets accurately. AVMs are particularly useful in [real estate](../r/real_estate.md) and investment [asset](../a/asset.md) valuations, providing quick and reliable price assessments.

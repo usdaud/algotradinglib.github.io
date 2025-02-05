@@ -70,8 +70,8 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) enhance the ability to predict and manage [risk](../r/risk.md) by analyzing vast datasets and identifying patterns that are not visible through conventional methods.
 
 #### Common Machine Learning Techniques
-- **Supervised Learning:** Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) are used to predict [risk](../r/risk.md) outcomes.
-- **Unsupervised Learning:** Techniques such as Clustering and [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) for identifying hidden patterns and anomalies.
+- **[Supervised Learning](../s/supervised_learning.md):** Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) are used to predict [risk](../r/risk.md) outcomes.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Techniques such as Clustering and [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) for identifying hidden patterns and anomalies.
 
 ### 7. Real-Time Risk Monitoring
 
@@ -95,4 +95,4 @@ In the context of quantitative [risk analysis](../r/risk_analysis.md), adhering 
 
 ### Conclusion
 
-Quantitative [risk analysis](../r/risk_analysis.md) is an integral part of [algorithmic trading](../a/algorithmic_trading.md) that combines mathematical modeling, statistical techniques, and computational tools to manage and mitigate financial risks. By utilizing advanced techniques such as machine learning, real-time monitoring, and sophisticated [risk metrics](../r/risk_metrics.md), traders can develop [robust](../r/robust.md) strategies that navigate the complexities of [financial markets](../f/financial_market.md).
+Quantitative [risk analysis](../r/risk_analysis.md) is an integral part of [algorithmic trading](../a/algorithmic_trading.md) that combines mathematical modeling, statistical techniques, and computational tools to manage and mitigate financial risks. By utilizing advanced techniques such as [machine learning](../m/machine_learning.md), real-time monitoring, and sophisticated [risk metrics](../r/risk_metrics.md), traders can develop [robust](../r/robust.md) strategies that navigate the complexities of [financial markets](../f/financial_market.md).

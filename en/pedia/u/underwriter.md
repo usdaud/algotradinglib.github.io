@@ -61,10 +61,10 @@ Underwriters rely on a variety of tools and techniques:
 
 ## Technological Impact
 
-Advanced technologies, including AI and machine learning, are transforming the [underwriting](../u/underwriting.md) landscape:
+Advanced technologies, including AI and [machine learning](../m/machine_learning.md), are transforming the [underwriting](../u/underwriting.md) landscape:
 1. **[Data Analytics](../d/data_analytics.md)**: Modern [underwriting](../u/underwriting.md) increasingly relies on [big data analytics](../b/big_data_analytics_in_trading.md) to identify and assess risks more accurately.
 2. **Automation**: Automating routine tasks allows underwriters to focus on more complex decision-making processes.
-3. **AI Algorithms**: Machine learning models can predict risks based on large datasets far more efficiently and accurately than traditional methods.
+3. **AI Algorithms**: [Machine learning](../m/machine_learning.md) models can predict risks based on large datasets far more efficiently and accurately than traditional methods.
 
 ## Key Players in Underwriting Markets
 

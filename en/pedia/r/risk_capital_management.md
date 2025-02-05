@@ -44,7 +44,7 @@
 ### Case Studies and Practical Implementations
 
 #### 1. **Two Sigma**
-   Two Sigma, a renowned quantitative investment [firm](../f/firm.md), employs extensive [risk management](../r/risk_management.md) frameworks to oversee their [algorithmic trading](../a/algorithmic_trading.md) operations. Their [risk management](../r/risk_management.md) approach integrates machine learning and statistical techniques to manage the complexities of financial risks. For more information, visit [Two Sigma](https://www.twosigma.com).
+   Two Sigma, a renowned quantitative investment [firm](../f/firm.md), employs extensive [risk management](../r/risk_management.md) frameworks to oversee their [algorithmic trading](../a/algorithmic_trading.md) operations. Their [risk management](../r/risk_management.md) approach integrates [machine learning](../m/machine_learning.md) and statistical techniques to manage the complexities of financial risks. For more information, visit [Two Sigma](https://www.twosigma.com).
 
 #### 2. **Bridgewater Associates**
    As one of the largest [hedge](../h/hedge.md) funds globally, Bridgewater Associates implements advanced [risk parity](../r/risk_parity.md) frameworks and employs [algorithmic trading](../a/algorithmic_trading.md) strategies to balance [risk](../r/risk.md) and [return](../r/return.md) across a diversified portfolio. Their proprietary models are designed to optimize [risk](../r/risk.md)-adjusted returns. For more information, visit [Bridgewater Associates](https://www.bridgewater.com).

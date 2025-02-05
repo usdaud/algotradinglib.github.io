@@ -52,7 +52,7 @@ Below are examples of firms that [offer](../o/offer.md) [robust](../r/robust.md)
 4. **Heterogeneity of Strategies**: Diverse algorithmic strategies may require [multiple](../m/multiple.md) benchmarks for a holistic performance view.
 
 ### Advanced Techniques in Benchmark Comparison
-1. **Machine Learning Models**: Using [predictive models](../p/predictive_models_in_trading.md) to compare and optimize algorithm performance relative to benchmarks.
+1. **[Machine Learning](../m/machine_learning.md) Models**: Using [predictive models](../p/predictive_models_in_trading.md) to compare and optimize algorithm performance relative to benchmarks.
 2. **[Factor Analysis](../f/factor_analysis.md)**: Decomposing returns into various factors such as [momentum](../m/momentum.md), [value](../v/value.md), or [volatility](../v/volatility.md) to see how much of the algorithm's performance is attributable to these factors.
 3. **Event Studies**: Assessing the impact of specific [market](../m/market.md) events on the performance of algorithms relative to benchmarks.
 

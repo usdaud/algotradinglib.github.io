@@ -43,7 +43,7 @@ In 2019, the U.S. [Commodity Futures](../c/commodity_futures.md) Trading [Commis
 ## Future Prospects
 
 ### Advanced AI and Machine Learning
-The future of Kamikaze Defense is likely to be influenced by advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies can create more sophisticated and unpredictable strategies, making it harder for opposing traders to respond effectively.
+The future of Kamikaze Defense is likely to be influenced by advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). These technologies can create more sophisticated and unpredictable strategies, making it harder for opposing traders to respond effectively.
 
 ### Regulatory Evolution
 As markets and [trading strategies](../t/trading_strategies.md) evolve, so too [will](../w/will.md) regulatory frameworks. Future regulations may be more stringent, with enhanced capabilities for detecting and penalizing disruptive trading behaviors, thereby curbing the use of Kamikaze Defense.

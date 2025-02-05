@@ -2,9 +2,9 @@
 
 ## Overview
 
-Trading signal generation is a crucial component of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading, black-box trading, or automated trading), where [mathematical models](../m/mathematical_models_in_trading.md) determine the timing and conditions for buying or selling assets. These signals are generated based on various strategies—ranging from simple [moving average crossovers](../m/moving_average_crossovers.md) to intricate machine learning models.
+Trading signal generation is a crucial component of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading, black-box trading, or automated trading), where [mathematical models](../m/mathematical_models_in_trading.md) determine the timing and conditions for buying or selling assets. These signals are generated based on various strategies—ranging from simple [moving average crossovers](../m/moving_average_crossovers.md) to intricate [machine learning](../m/machine_learning.md) models.
 
-[Trading signals](../t/trading_signals.md) can be generated for various types of [trading strategies](../t/trading_strategies.md), including but not limited to [momentum](../m/momentum.md), [mean reversion](../m/mean_reversion.md), [arbitrage](../a/arbitrage.md), and [market](../m/market.md)-making. This document [will](../w/will.md) delve into different aspects of trading signal generation, covering the basic principles, [technical indicators](../t/technical_indicators.md), statistical methods, machine learning approaches, and case studies of [algorithmic trading](../a/algorithmic_trading.md) employed by financial firms.
+[Trading signals](../t/trading_signals.md) can be generated for various types of [trading strategies](../t/trading_strategies.md), including but not limited to [momentum](../m/momentum.md), [mean reversion](../m/mean_reversion.md), [arbitrage](../a/arbitrage.md), and [market](../m/market.md)-making. This document [will](../w/will.md) delve into different aspects of trading signal generation, covering the basic principles, [technical indicators](../t/technical_indicators.md), statistical methods, [machine learning](../m/machine_learning.md) approaches, and case studies of [algorithmic trading](../a/algorithmic_trading.md) employed by financial firms.
 
 ## Basic Principles of Trading Signal Generation
 
@@ -72,7 +72,7 @@ Beyond simple [technical indicators](../t/technical_indicators.md), more complex
 
 ## Machine Learning Approaches
 
-Machine learning (ML) offers sophisticated methods for trading signal generation, encompassing both supervised and unsupervised learning techniques:
+[Machine learning](../m/machine_learning.md) (ML) offers sophisticated methods for trading signal generation, encompassing both supervised and [unsupervised learning](../u/unsupervised_learning.md) techniques:
 
 1. **Regression Models**:
    - **[Linear Regression](../l/linear_regression.md)**: Simple model for predicting future prices.
@@ -86,7 +86,7 @@ Machine learning (ML) offers sophisticated methods for trading signal generation
    - **[Feedforward Neural Networks](../f/feedforward_neural_networks.md) (FNNs)**: Simple multilayer perceptrons.
    - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) & LSTMs**: Useful for sequential data like time-series.
 
-4. **Reinforcement Learning**:
+4. **[Reinforcement Learning](../r/reinforcement_learning.md)**:
    - Agents learn to make trading decisions through trial and error, optimizing long-term [profit](../p/profit.md).
 
 ## Case Studies
@@ -95,7 +95,7 @@ Several financial institutions and [hedge](../h/hedge.md) funds employ sophistic
 
 1. **Two Sigma Investments**:
    - Website: [Two Sigma](https://www.twosigma.com/)
-   - Known for its rigorous scientific approach to signal generation using [big data](../b/big_data_in_trading.md) and machine learning.
+   - Known for its rigorous scientific approach to signal generation using [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md).
 
 2. **Renaissance Technologies**:
    - Website: Not available, but often considered the most successful quantitative [hedge fund](../h/hedge_fund.md).
@@ -107,4 +107,4 @@ Several financial institutions and [hedge](../h/hedge.md) funds employ sophistic
 
 ## Conclusion
 
-Trading signal generation is a multi-faceted process that incorporates a variety of techniques, from basic [technical analysis](../t/technical_analysis.md) to advanced machine learning models. The process involves data collection, preprocessing, feature engineering, strategy development, and iterative refinement through [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md). Financial companies constantly innovate in this space to [gain](../g/gain.md) competitive advantages, making this an ever-evolving field of study.
+Trading signal generation is a multi-faceted process that incorporates a variety of techniques, from basic [technical analysis](../t/technical_analysis.md) to advanced [machine learning](../m/machine_learning.md) models. The process involves data collection, preprocessing, feature engineering, strategy development, and iterative refinement through [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md). Financial companies constantly innovate in this space to [gain](../g/gain.md) competitive advantages, making this an ever-evolving field of study.

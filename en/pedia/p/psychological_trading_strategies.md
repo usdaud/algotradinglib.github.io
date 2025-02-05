@@ -80,7 +80,7 @@ The [market](../m/market.md) is dynamic, requiring traders to continuously learn
 
 ### 2. Artificial Intelligence and Machine Learning
 
-AI and machine learning tools can analyze vast amounts of data to identify patterns and predict [market](../m/market.md) movements, reducing the psychological pressure on traders. These technologies can be integrated with platforms such as [QuantConnect](https://www.quantconnect.com), which provides AI-driven [algorithmic trading](../a/algorithmic_trading.md) solutions.
+AI and [machine learning](../m/machine_learning.md) tools can analyze vast amounts of data to identify patterns and predict [market](../m/market.md) movements, reducing the psychological pressure on traders. These technologies can be integrated with platforms such as [QuantConnect](https://www.quantconnect.com), which provides AI-driven [algorithmic trading](../a/algorithmic_trading.md) solutions.
 
 ### 3. Psychological Proctoring Software
 

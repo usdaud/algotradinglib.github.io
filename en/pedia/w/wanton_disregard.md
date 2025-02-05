@@ -74,7 +74,7 @@ Advanced technology and [data analytics](../d/data_analytics.md) can aid in the 
 
 - **Algorithmic Monitoring**: Using algorithms to monitor trading activities for suspicious patterns or anomalies, enabling early detection of potential misconduct.
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: Employing [blockchain](../b/blockchain_in_trading.md) for transparent and immutable records of financial transactions, reducing the likelihood of [fraud](../f/fraud.md).
-- **Machine Learning**: Leveraging machine learning to identify and predict risky behaviors or fraudulent activities based on historical data.
+- **[Machine Learning](../m/machine_learning.md)**: Leveraging [machine learning](../m/machine_learning.md) to identify and predict risky behaviors or fraudulent activities based on historical data.
 
 ## Conclusion
 

@@ -79,7 +79,7 @@ PCA is a [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)
 
 ### Machine Learning Approaches
 
-With advancements in machine learning, techniques such as clustering, [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md) can be employed to uncover and predict complex correlations. These methods can [handle](../h/handle.md) large datasets and non-linear relationships more efficiently than traditional statistical methods.
+With advancements in [machine learning](../m/machine_learning.md), techniques such as clustering, [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md) can be employed to uncover and predict complex correlations. These methods can [handle](../h/handle.md) large datasets and non-linear relationships more efficiently than traditional statistical methods.
 
 ### Regime-Switching Models
 

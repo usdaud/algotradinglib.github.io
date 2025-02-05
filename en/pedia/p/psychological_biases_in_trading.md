@@ -98,7 +98,7 @@ The availability heuristic is a mental shortcut where individuals estimate the l
 Renaissance Technologies, often referred to as the [gold standard](../g/gold_standard.md) in [algorithmic trading](../a/algorithmic_trading.md), leverages complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market anomalies](../m/market_anomalies.md). [Website](https://www.rentec.com/)
 
 ### 2. Two Sigma
-Two Sigma uses machine learning, distributed computing, and research for [investment management](../i/investment_management.md), aimed at dispassionately making decisions based on data. [Website](https://www.twosigma.com/)
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and research for [investment management](../i/investment_management.md), aimed at dispassionately making decisions based on data. [Website](https://www.twosigma.com/)
 
 ### 3. Citadel LLC
 Citadel engages in multi-strategy trading using algorithmic techniques alongside statistical [arbitrage](../a/arbitrage.md) among others to maximize returns. [Website](https://www.citadel.com/)

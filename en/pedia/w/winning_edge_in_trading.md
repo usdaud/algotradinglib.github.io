@@ -22,7 +22,7 @@ In the world of [financial markets](../f/financial_market.md), having a winning 
     **Key Components:**
     - **High-Frequency Trading (HFT):** Utilizing algorithms to execute a large number of orders at high speed.
     - **Low-Latency Systems:** Cutting-edge hardware and network [infrastructure](../i/infrastructure.md) to minimize delays in [trade](../t/trade.md) [execution](../e/execution.md).
-    - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** Machine learning models that adapt to changing [market](../m/market.md) conditions.
+    - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** [Machine learning](../m/machine_learning.md) models that adapt to changing [market](../m/market.md) conditions.
 
     **Example Companies:**
     - [Virtu Financial](https://www.virtu.com): A leader in HFT and [market](../m/market.md) making, Virtu leverages state-of-the-art technology.
@@ -68,7 +68,7 @@ In the world of [financial markets](../f/financial_market.md), having a winning 
     The [market](../m/market.md) is constantly evolving, and staying ahead means continually acquiring new knowledge and adapting to changes. Courses, certifications, and being part of trading communities can be beneficial.
 
 ### 2. **Utilizing Advanced Tools and Technologies**
-    Incorporate the latest technology like AI, machine learning, and advanced analytics to stay competitive. Many platforms provide out-of-the-box solutions that can be customized.
+    Incorporate the latest technology like AI, [machine learning](../m/machine_learning.md), and advanced analytics to stay competitive. Many platforms provide out-of-the-box solutions that can be customized.
 
 ### 3. **Backtesting and Simulation**
     [Backtesting](../b/backtesting.md) strategies using historical data helps refine the model and understand how it would have performed under different [market](../m/market.md) conditions. Simulating trades can also provide insights and improve strategy robustness.

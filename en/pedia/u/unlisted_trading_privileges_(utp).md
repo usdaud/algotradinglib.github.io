@@ -83,7 +83,7 @@ As technology continues to evolve, the landscape of UTP is likely to become more
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning can improve [trading algorithms](../t/trading_algorithms.md), making them more efficient in analyzing [market](../m/market.md) data and executing trades. These technologies can also help in regulatory compliance by monitoring trading activities for any anomalies.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md) can improve [trading algorithms](../t/trading_algorithms.md), making them more efficient in analyzing [market](../m/market.md) data and executing trades. These technologies can also help in regulatory compliance by monitoring trading activities for any anomalies.
 
 ### Blockchain and DLT
 

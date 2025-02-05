@@ -89,7 +89,7 @@ A higher [Information Ratio](../i/information_ratio.md) suggests that the [portf
 
 ### Two Sigma Investments [Link](https://www.twosigma.com/)
 
-Two Sigma uses machine learning, distributed computing, and other sophisticated technologies to find connections in global markets. They heavily rely on [risk](../r/risk.md)-[weighted](../w/weighted.md) [return](../r/return.md) metrics to optimize their [trading strategies](../t/trading_strategies.md).
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other sophisticated technologies to find connections in global markets. They heavily rely on [risk](../r/risk.md)-[weighted](../w/weighted.md) [return](../r/return.md) metrics to optimize their [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies [Link](https://www.rentec.com/)
 

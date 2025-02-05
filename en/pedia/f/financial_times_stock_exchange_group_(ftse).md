@@ -117,7 +117,7 @@ FTSE is committed to enhancing its ESG integration capabilities, providing more 
 
 ### Advanced Analytics and Data Solutions
 
-FTSE is [investing](../i/investing.md) in advanced analytics and data solutions to provide deeper insights and actionable intelligence for investors. This includes the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data](../b/big_data_in_trading.md) technologies to enhance [index](../i/index_instrument.md) calculation, performance analysis, and [risk management](../r/risk_management.md).
+FTSE is [investing](../i/investing.md) in advanced analytics and data solutions to provide deeper insights and actionable intelligence for investors. This includes the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data](../b/big_data_in_trading.md) technologies to enhance [index](../i/index_instrument.md) calculation, performance analysis, and [risk management](../r/risk_management.md).
 
 ### Expansion of Fixed Income Indices
 

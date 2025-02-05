@@ -83,7 +83,7 @@ Regularization helps prevent [overfitting](../o/overfitting.md) in [predictive m
 
 ### Neural Networks and Autoencoders
 
-Autoencoders are a type of neural network used for unsupervised learning of efficient codings:
+Autoencoders are a type of neural network used for [unsupervised learning](../u/unsupervised_learning.md) of efficient codings:
 
 - **Autoencoder Structure:**
     \[

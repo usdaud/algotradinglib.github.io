@@ -79,7 +79,7 @@ Renaissance Technologies, founded by Jim Simons, stands out due to its use of [q
 [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
-Two Sigma uses advanced [data science](../d/data_science_in_trading.md) and technology to inform its investment decisions. It leverages algorithms, machine learning, and distributed computing to manage investments. The [firm](../f/firm.md)’s disciplined approach and extensive use of data have led to strong performance.
+Two Sigma uses advanced [data science](../d/data_science_in_trading.md) and technology to inform its investment decisions. It leverages algorithms, [machine learning](../m/machine_learning.md), and distributed computing to manage investments. The [firm](../f/firm.md)’s disciplined approach and extensive use of data have led to strong performance.
 
 [Two Sigma](https://www.twosigma.com/)
 

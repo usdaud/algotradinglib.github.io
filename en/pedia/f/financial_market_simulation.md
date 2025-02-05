@@ -203,7 +203,7 @@ Regulations may limit the types of simulations and models that can be used, part
 
 The field of financial [market simulation](../m/market_simulation.md) is continually evolving. Some emerging trends include:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**
 
 Integrating AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to enhance [simulation models](../s/simulation_models.md), improve predictive capabilities, and develop adaptive [trading strategies](../t/trading_strategies.md).
 

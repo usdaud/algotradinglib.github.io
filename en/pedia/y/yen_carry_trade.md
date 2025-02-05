@@ -66,7 +66,7 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 ### Technological Advancements
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Advances in [algorithmic trading](../a/algorithmic_trading.md) have made executing and monitoring carry trades more efficient and responsive to [market](../m/market.md) conditions.
-- **[Data Analytics](../d/data_analytics.md)**: The use of [big data](../b/big_data_in_trading.md) and machine learning helps in predicting [currency](../c/currency.md) movements and assessing risks more accurately.
+- **[Data Analytics](../d/data_analytics.md)**: The use of [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) helps in predicting [currency](../c/currency.md) movements and assessing risks more accurately.
 
 ### Regulatory Environment
 

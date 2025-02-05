@@ -29,7 +29,7 @@ The magnitude of the stock price movement depends on the size of the [earnings](
 
 - **Event-Driven Algorithms**: These algorithms are programmed to identify and [trade](../t/trade.md) around specific events—such as [earnings announcements](../e/earnings_announcements.md)—that are likely to have a significant impact on stock prices.
 
-- **Machine Learning Models**: Advanced machine learning techniques can analyze vast amounts of data to predict [earnings](../e/earnings.md) surprises and subsequent stock price movements.
+- **[Machine Learning](../m/machine_learning.md) Models**: Advanced [machine learning](../m/machine_learning.md) techniques can analyze vast amounts of data to predict [earnings](../e/earnings.md) surprises and subsequent stock price movements.
 
 ### Pre-Earnings and Post-Earnings Strategies
 Algo-traders can deploy strategies both before and after [earnings announcements](../e/earnings_announcements.md).

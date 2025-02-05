@@ -79,11 +79,11 @@ ADX is a [trend](../t/trend.md) [indicator](../i/indicator.md) used to quantify 
 
 ### Machine Learning & AI in Momentum Trading
 
-The advent of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) has further revolutionized [momentum trading](../m/momentum_trading.md). [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can identify complex patterns and relationships between different variables that traditional models might overlook. Here are a few approaches:
+The advent of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) has further revolutionized [momentum trading](../m/momentum_trading.md). [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can identify complex patterns and relationships between different variables that traditional models might overlook. Here are a few approaches:
 
-- **Supervised Learning**: Train models on historical data to predict future price movements. Models like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be useful.
-- **Unsupervised Learning**: Identify unseen patterns in data using [clustering algorithms](../c/clustering_algorithms.md) like K-Means. This can be particularly useful for identifying different [market](../m/market.md) regimes.
-- **Reinforcement Learning**: Develop models that learn to optimize [trading strategies](../t/trading_strategies.md) through trial and error. These models can adapt to changing [market](../m/market.md) conditions over time.
+- **[Supervised Learning](../s/supervised_learning.md)**: Train models on historical data to predict future price movements. Models like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be useful.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identify unseen patterns in data using [clustering algorithms](../c/clustering_algorithms.md) like K-Means. This can be particularly useful for identifying different [market](../m/market.md) regimes.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Develop models that learn to optimize [trading strategies](../t/trading_strategies.md) through trial and error. These models can adapt to changing [market](../m/market.md) conditions over time.
 
 ## Momentum in Fintech
 
@@ -135,7 +135,7 @@ Momentum strategies can be vulnerable to sharp reversals. For example, in [marke
 
 Momentum is an enduring and powerful concept in trading and [finance](../f/finance.md). It leverages the tendency of securities to continue moving in a given direction, driven by [behavioral biases](../b/behavioral_biases_in_trading.md) and [market](../m/market.md) inefficiencies. Whether through manual trading or sophisticated algorithmic strategies, momentum can provide significant opportunities for generating returns.
 
-The integration of fintech and machine learning has further enhanced the accessibility and effectiveness of momentum strategies, democratizing their use among retail investors and institutional traders alike. However, it is essential to recognize the limitations and risks associated with [momentum investing](../m/momentum_investing.md), including [overfitting](../o/overfitting.md), [market](../m/market.md) inefficiencies, and high [turnover](../t/turnover.md) costs.
+The integration of fintech and [machine learning](../m/machine_learning.md) has further enhanced the accessibility and effectiveness of momentum strategies, democratizing their use among retail investors and institutional traders alike. However, it is essential to recognize the limitations and risks associated with [momentum investing](../m/momentum_investing.md), including [overfitting](../o/overfitting.md), [market](../m/market.md) inefficiencies, and high [turnover](../t/turnover.md) costs.
 
 Ultimately, the successful application of momentum strategies requires a [robust](../r/robust.md) understanding of the [underlying](../u/underlying.md) principles, careful implementation, and diligent [risk management](../r/risk_management.md). By doing so, traders and investors can harness the power of momentum to achieve their financial objectives.
 

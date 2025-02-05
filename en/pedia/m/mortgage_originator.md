@@ -60,7 +60,7 @@ Systems like Fannie Mae’s Desktop [Underwriter](../u/underwriter.md) and [Fred
 The rise of digital [mortgage](../m/mortgage.md) platforms allows borrowers to complete applications, upload documents, and track the status of their [loan](../l/loan.md) online. Companies like Rocket [Mortgage](../m/mortgage.md) have revolutionized this space.
 
 ### AI and Machine Learning
-AI and machine learning are used to enhance [predictive analytics](../p/predictive_analytics.md), [fraud](../f/fraud.md) detection, and streamline the [customer](../c/customer.md) experience. Companies like Blend (https://blend.com) and Better [Mortgage](../m/mortgage.md) (https://better.com) are leading innovators in this space.
+AI and [machine learning](../m/machine_learning.md) are used to enhance [predictive analytics](../p/predictive_analytics.md), [fraud](../f/fraud.md) detection, and streamline the [customer](../c/customer.md) experience. Companies like Blend (https://blend.com) and Better [Mortgage](../m/mortgage.md) (https://better.com) are leading innovators in this space.
 
 ### Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology is being explored to improve the [transparency](../t/transparency.md), speed, and [security](../s/security.md) of the [mortgage](../m/mortgage.md) process. It can streamline documentation and verification processes, reducing the [risk](../r/risk.md) of errors and [fraud](../f/fraud.md).

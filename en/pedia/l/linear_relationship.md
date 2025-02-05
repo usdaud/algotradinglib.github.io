@@ -89,7 +89,7 @@ Where:
 
 ### Predictive Modeling
 
-[Algorithmic trading](../a/accountability.md) often employs machine learning and statistical methods to predict future price movements based on historical data. [Linear regression](../l/linear_regression.md) is one of the simplest, yet powerful models used in creating predictive algorithms.
+[Algorithmic trading](../a/accountability.md) often employs [machine learning](../m/machine_learning.md) and statistical methods to predict future price movements based on historical data. [Linear regression](../l/linear_regression.md) is one of the simplest, yet powerful models used in creating predictive algorithms.
 
 ### Portfolio Optimization
 
@@ -155,6 +155,6 @@ Several fintech and trading companies [leverage](../l/leverage.md) linear relati
 
 1. **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): An [algorithmic trading](../a/accountability.md) platform providing tools for developing and testing [trading strategies](../t/trading_strategies.md).
 2. **AlphaSense** (https://www.[alpha](../a/alpha.md)-sense.com/): Uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide [market](../m/market.md) intelligence and investment insights.
-3. **Zest AI** (https://www.zest.ai/): Leverages machine learning and statistical models to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md).
+3. **Zest AI** (https://www.zest.ai/): Leverages [machine learning](../m/machine_learning.md) and statistical models to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md).
 
 The implementation of linear relationships in [finance](../f/finance.md) and trading is deeply rooted in theory yet practically effective, making it a cornerstone of modern [financial analysis](../f/financial_analysis.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).

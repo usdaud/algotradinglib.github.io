@@ -66,7 +66,7 @@ When working with large datasets and complex models, the process of repeatedly t
 ## Examples and Case Studies
 
 ### Example 1: Equity Trading Strategy
-A machine learning model to predict daily stock returns is trained using historical price data from 2010 to 2019. The model is then tested on 2020’s data, revealing insights into its predictive power in a previously unseen [market](../m/market.md) environment.
+A [machine learning](../m/machine_learning.md) model to predict daily stock returns is trained using historical price data from 2010 to 2019. The model is then tested on 2020’s data, revealing insights into its predictive power in a previously unseen [market](../m/market.md) environment.
 
 ### Example 2: High-Frequency Trading (HFT)
 For HFT strategies where milliseconds can make a difference, holdout sample testing helps fine-tune models on historical [tick](../t/tick.md) data while ensuring validation on distinct subsets to avoid [overfitting](../o/overfitting.md) to [noise](../n/noise.md).

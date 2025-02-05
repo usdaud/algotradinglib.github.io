@@ -25,7 +25,7 @@ Developing an X-[Trend Reversal](../t/trend_reversal.md) algorithm involves seve
   
 - **[Indicator](../i/indicator.md) Calculation**: Mathematical computations are applied to historical data to derive necessary [technical indicators](../t/technical_indicators.md). Libraries such as `TA-Lib` in Python facilitate these calculations.
 
-- **Pattern Identification**: Machine learning techniques can be employed to improve the [pattern recognition](../p/pattern_recognition.md) process. Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) or [Neural Networks](../n/neural_networks_in_trading.md) can be trained to identify [reversal patterns](../r/reversal_patterns.md) in historical data.
+- **Pattern Identification**: [Machine learning](../m/machine_learning.md) techniques can be employed to improve the [pattern recognition](../p/pattern_recognition.md) process. Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) or [Neural Networks](../n/neural_networks_in_trading.md) can be trained to identify [reversal patterns](../r/reversal_patterns.md) in historical data.
 
 - **Signal Generation**: The algorithm generates buy or sell signals based on the confluence of indicators, patterns, and [volume](../v/volume.md) changes. 
 

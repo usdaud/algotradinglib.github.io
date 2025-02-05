@@ -34,7 +34,7 @@ The [yield curve](../y/yield_curve.md) is a graphical representation that shows 
 
 1. **[Quantitative Models](../q/quantitative_models.md)**: These use historical data and statistical techniques to predict future [yield curve](../y/yield_curve.md) movements. Popular models include the Vasicek Model, the Cox-Ingersoll-Ross (CIR) Model, and the Heath-Jarrow-Morton (HJM) Framework.
 
-2. **Machine Learning and AI**: With the advent of machine learning, traders can employ algorithms that adapt and learn from data over time. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) aid in identifying patterns and making trading decisions.
+2. **[Machine Learning](../m/machine_learning.md) and AI**: With the advent of [machine learning](../m/machine_learning.md), traders can employ algorithms that adapt and learn from data over time. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) aid in identifying patterns and making trading decisions.
 
 3. **High-Frequency Trading (HFT)**: These strategies require sophisticated technology and [infrastructure](../i/infrastructure.md) to execute a large number of orders within extremely short time frames, capitalizing on minor [yield curve](../y/yield_curve.md) inefficiencies.
 

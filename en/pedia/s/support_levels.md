@@ -44,7 +44,7 @@ Several advanced algorithms are employed to calculate and validate support level
 
 ### Machine Learning Algorithms
 
-Machine learning models, like [decision trees](../d/decision_trees.md) and [neural networks](../n/neural_networks_in_trading.md), can be trained to recognize support levels by feeding them large datasets of historical prices and volumes. These models can dynamically adapt to evolving [market](../m/market.md) conditions and learn to predict where new support levels might form.
+[Machine learning](../m/machine_learning.md) models, like [decision trees](../d/decision_trees.md) and [neural networks](../n/neural_networks_in_trading.md), can be trained to recognize support levels by feeding them large datasets of historical prices and volumes. These models can dynamically adapt to evolving [market](../m/market.md) conditions and learn to predict where new support levels might form.
 
 ### Statistical Models
 

@@ -1,20 +1,20 @@
 # Learning Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo-trading, involves using computer algorithms to automate trading decisions, usually at speeds and frequencies that are impossible for human traders. Learning algorithms, a subset of the broader machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) fields, are increasingly transforming how trading is conducted on [financial markets](../f/financial_market.md). These algorithms analyze data, generate [predictive models](../p/predictive_models_in_trading.md), and often execute trades without human intervention. This document delves into various learning algorithms applied in the trading sector, their types, methodologies, practical applications, and the ethical considerations associated with their use.
+[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo-trading, involves using computer algorithms to automate trading decisions, usually at speeds and frequencies that are impossible for human traders. Learning algorithms, a subset of the broader [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) fields, are increasingly transforming how trading is conducted on [financial markets](../f/financial_market.md). These algorithms analyze data, generate [predictive models](../p/predictive_models_in_trading.md), and often execute trades without human intervention. This document delves into various learning algorithms applied in the trading sector, their types, methodologies, practical applications, and the ethical considerations associated with their use.
 
 ## Types of Learning Algorithms in Trading
 
 Learning algorithms in trading can generally be categorized into three main types:
 
-1. **Supervised Learning**: Involves training a model on a labeled dataset, which means that each training example is paired with an output label. The model learns to map inputs to the outputs.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Involves training a model on a labeled dataset, which means that each training example is paired with an output label. The model learns to map inputs to the outputs.
 
-2. **Unsupervised Learning**: Involves training a model on data without labeled responses. The model tries to learn the [underlying](../u/underlying.md) structure or [distribution](../d/distribution.md) in the dataset.
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Involves training a model on data without labeled responses. The model tries to learn the [underlying](../u/underlying.md) structure or [distribution](../d/distribution.md) in the dataset.
 
-3. **Reinforcement Learning**: Involves training an agent to make sequences of decisions by rewarding or penalizing it based on the actions it takes.
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Involves training an agent to make sequences of decisions by rewarding or penalizing it based on the actions it takes.
 
 ### Supervised Learning
 
-Supervised learning algorithms are among the most commonly used in trading. The objective is to learn a function that maps inputs to outputs based on example input-output pairs. Key supervised learning techniques applicable to trading include:
+[Supervised learning](../s/supervised_learning.md) algorithms are among the most commonly used in trading. The objective is to learn a function that maps inputs to outputs based on example input-output pairs. Key [supervised learning](../s/supervised_learning.md) techniques applicable to trading include:
 
 - **[Linear Regression](../l/linear_regression.md)**: Used to predict the [value](../v/value.md) of a continuous target variable based on one or more predictor variables. Common applications include predicting stock prices, returns, and other continuous outcomes.
   
@@ -30,7 +30,7 @@ Supervised learning algorithms are among the most commonly used in trading. The 
 
 ### Unsupervised Learning
 
-Unsupervised learning algorithms identify patterns in data without pre-existing labels. Common methods in trading include:
+[Unsupervised learning](../u/unsupervised_learning.md) algorithms identify patterns in data without pre-existing labels. Common methods in trading include:
 
 - **[Clustering Algorithms](../c/clustering_algorithms.md)**: Such as K-means, used to group similar [market](../m/market.md) conditions or classify trading days.
   
@@ -40,7 +40,7 @@ Unsupervised learning algorithms identify patterns in data without pre-existing 
 
 ### Reinforcement Learning
 
-Reinforcement learning (RL) is particularly appealing in trading due to its focus on decision-making and strategy development. Key aspects include:
+[Reinforcement learning](../r/reinforcement_learning.md) (RL) is particularly appealing in trading due to its focus on decision-making and strategy development. Key aspects include:
 
 - **Q-Learning**: A [value](../v/value.md)-based method where the [value](../v/value.md) of the state-action pair is learned to maximize future rewards.
   

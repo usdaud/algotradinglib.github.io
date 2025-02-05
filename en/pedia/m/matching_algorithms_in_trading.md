@@ -105,7 +105,7 @@ The future of matching algorithms in trading is influenced by several trends and
 
 ### 7.1. Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning technologies are increasingly being integrated into matching algorithms to predict [market](../m/market.md) movements, optimize [order](../o/order.md) matching, and manage [risk](../r/risk.md) more effectively.
+AI and [machine learning](../m/machine_learning.md) technologies are increasingly being integrated into matching algorithms to predict [market](../m/market.md) movements, optimize [order](../o/order.md) matching, and manage [risk](../r/risk.md) more effectively.
 
 ### 7.2. Quantum Computing
 

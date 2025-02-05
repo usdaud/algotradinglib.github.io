@@ -87,7 +87,7 @@ While [value investing](../v/value_investing.md) is grounded in [fundamental ana
 
 ### Technology and Modern Value Investing
 
-The advent of technology and [data analytics](../d/data_analytics.md) has revolutionized [value investing](../v/value_investing.md). Platforms like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and S&P [Capital IQ](../c/capital_iq.md) provide extensive data and analytics tools for comprehensive [fundamental analysis](../f/fundamental_analysis.md). Moreover, machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to identify [undervalued](../u/undervalued.md) securities by analyzing vast amounts of data and spotting patterns.
+The advent of technology and [data analytics](../d/data_analytics.md) has revolutionized [value investing](../v/value_investing.md). Platforms like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and S&P [Capital IQ](../c/capital_iq.md) provide extensive data and analytics tools for comprehensive [fundamental analysis](../f/fundamental_analysis.md). Moreover, [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to identify [undervalued](../u/undervalued.md) securities by analyzing vast amounts of data and spotting patterns.
 
 ### Summary
 

@@ -67,7 +67,7 @@ With advancements in technology and the rise of fintech solutions, managing [wor
 
 **Example: Pie [Insurance](../i/insurance.md)**
 
-Pie [Insurance](../i/insurance.md), a technology-driven provider specializing in [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md), utilizes advanced analytics and machine learning to [offer](../o/offer.md) tailored coverage solutions. By integrating fintech approaches, Pie [Insurance](../i/insurance.md) enhances the [efficiency](../e/efficiency.md) of [underwriting](../u/underwriting.md), claims processing, and [customer service](../c/customer_service.md), demonstrating the potential of technology in modernizing [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md).
+Pie [Insurance](../i/insurance.md), a technology-driven provider specializing in [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md), utilizes advanced analytics and [machine learning](../m/machine_learning.md) to [offer](../o/offer.md) tailored coverage solutions. By integrating fintech approaches, Pie [Insurance](../i/insurance.md) enhances the [efficiency](../e/efficiency.md) of [underwriting](../u/underwriting.md), claims processing, and [customer service](../c/customer_service.md), demonstrating the potential of technology in modernizing [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md).
 
 Website: [Pie Insurance](https://www.pieinsurance.com)
 

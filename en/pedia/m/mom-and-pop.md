@@ -136,7 +136,7 @@ Technological advancements and the democratization of [financial markets](../f/f
 
 ### Personalized Investment Solutions
 
-The future of retail [investing](../i/investing.md) [will](../w/will.md) likely see more personalized investment solutions driven by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies can [offer](../o/offer.md) customized strategies tailored to individual goals, [risk profiles](../r/risk_profiles.md), and preferences.
+The future of retail [investing](../i/investing.md) [will](../w/will.md) likely see more personalized investment solutions driven by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). These technologies can [offer](../o/offer.md) customized strategies tailored to individual goals, [risk profiles](../r/risk_profiles.md), and preferences.
 
 ### Sustainable Investing
 

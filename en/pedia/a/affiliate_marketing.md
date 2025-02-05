@@ -124,7 +124,7 @@ As mobile traffic continues to rise, both merchants and affiliates [will](../w/w
 
 ### AI and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning [will](../w/will.md) play a significant role in analyzing data, predicting trends, and personalizing affiliate [marketing](../m/marketing.md) strategies to drive better results.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) [will](../w/will.md) play a significant role in analyzing data, predicting trends, and personalizing affiliate [marketing](../m/marketing.md) strategies to drive better results.
 
 ### Niche Focus
 

@@ -51,7 +51,7 @@ Optimizing the uncovered put writing strategy involves fine-tuning various eleme
 
 #### Steps:
 1. **Data Gathering:** Collect historical price and [volatility](../v/volatility.md) data for S&P 500 [stocks](../s/stock.md) from a reliable data provider.
-2. **Model Development:** Develop [predictive models](../p/predictive_models_in_trading.md) for price direction and [volatility](../v/volatility.md) using machine learning techniques like [regression analysis](../r/regression_analysis.md).
+2. **Model Development:** Develop [predictive models](../p/predictive_models_in_trading.md) for price direction and [volatility](../v/volatility.md) using [machine learning](../m/machine_learning.md) techniques like [regression analysis](../r/regression_analysis.md).
 3. **[Trade](../t/trade.md) [Execution](../e/execution.md):** Write [put options](../p/put_options.md) with strike prices 5% below the current price for [stocks](../s/stock.md) predicted to have stable or increasing prices.
 4. **[Risk Management](../r/risk_management.md):** Set a 10% stop-loss rule for individual positions and overall portfolio.
 5. **Performance Monitoring:** Continuously analyze performance and fine-tune models to adapt to changing [market](../m/market.md) conditions.

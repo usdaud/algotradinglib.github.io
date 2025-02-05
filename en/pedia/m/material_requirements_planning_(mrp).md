@@ -85,8 +85,8 @@ MRP emerged in the 1960s as a response to the increasing complexity of [manufact
 
 The future of MRP looks promising, with advancements in technology driving innovation in the field. Key trends include:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**
-    - AI and machine learning are being integrated into MRP systems to enable [predictive analytics](../p/predictive_analytics.md), automate decision-making, and improve [demand forecasting](../d/demand_forecasting.md).
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md)**
+    - AI and [machine learning](../m/machine_learning.md) are being integrated into MRP systems to enable [predictive analytics](../p/predictive_analytics.md), automate decision-making, and improve [demand forecasting](../d/demand_forecasting.md).
 
 2. **Internet of Things (IoT)**
     - IoT devices provide real-time data on [inventory](../i/inventory.md) levels, production status, and equipment performance, enhancing the accuracy and responsiveness of MRP systems.

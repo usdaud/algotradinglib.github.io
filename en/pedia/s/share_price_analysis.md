@@ -76,21 +76,21 @@ Share price analysis is a critical aspect of [financial markets](../f/financial_
 - **[QuantConnect](https://www.quantconnect.com)**
 - **[Alpha](../a/alpha.md) Vantage**: Offers a rich set of APIs for financial data for [simulation](../s/simulation_in_trading.md).
 - **[Alpha Vantage](https://www.alphavantage.co)**
-- **Kensho Technologies**: A [data analytics](../d/data_analytics.md) and machine learning [firm](../f/firm.md) providing advanced solutions for [financial markets](../f/financial_market.md).
+- **Kensho Technologies**: A [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) [firm](../f/firm.md) providing advanced solutions for [financial markets](../f/financial_market.md).
 - **[Kensho](https://www.kensho.com)**
 
 ## Modern Technologies in Share Price Prediction
 
-Advancements in technology have revolutionized share price analysis. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are now integral in processing large datasets and identifying patterns.
+Advancements in technology have revolutionized share price analysis. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are now integral in processing large datasets and identifying patterns.
 
 ### Machine Learning Models
 
-1. **Supervised Learning Models**
+1. **[Supervised Learning](../s/supervised_learning.md) Models**
     - **[Linear Regression](../l/linear_regression.md)**: Useful for predicting continuous values.
     - **[Decision Trees](../d/decision_trees.md)**: Non-[linear models](../l/linear_models_in_trading.md) capable of capturing complex patterns.
     - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Work well for classification problems.
 
-2. **Unsupervised Learning Models**
+2. **[Unsupervised Learning](../u/unsupervised_learning.md) Models**
     - **Clustering**: Groups similar data points which can help identify [market](../m/market.md) segments.
     - **[Anomaly Detection](../a/anomaly_detection.md)**: Identifies unusual patterns that might signify [market anomalies](../m/market_anomalies.md).
 
@@ -99,7 +99,7 @@ Advancements in technology have revolutionized share price analysis. Machine lea
 
 ### AI-powered Tools and Platforms
 
-- **DataRobot**: An AI-driven platform for automating machine learning workflows.
+- **DataRobot**: An AI-driven platform for automating [machine learning](../m/machine_learning.md) workflows.
 - **[DataRobot](https://www.datarobot.com)**
 - **Kaggle**: A platform for [predictive modeling](../p/predictive_modeling.md) and analytics competitions that often involve stock price prediction.
 - **[Kaggle](https://www.kaggle.com)** 
@@ -118,4 +118,4 @@ Modern share price analysis often integrates various methodologies. Combining fu
 
 ## Conclusion
 
-Share price analysis is multifaceted, involving a variety of techniques and tools. Whether through [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), [sentiment analysis](../s/sentiment_analysis.md), or [algorithmic trading](../a/algorithmic_trading.md), each approach contributes valuable insights. The advent of machine learning and AI has further enhanced the ability to predict and understand share price movements. For traders and investors, integrating these approaches can lead to more informed and strategic decisions in the [financial markets](../f/financial_market.md).
+Share price analysis is multifaceted, involving a variety of techniques and tools. Whether through [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), [sentiment analysis](../s/sentiment_analysis.md), or [algorithmic trading](../a/algorithmic_trading.md), each approach contributes valuable insights. The advent of [machine learning](../m/machine_learning.md) and AI has further enhanced the ability to predict and understand share price movements. For traders and investors, integrating these approaches can lead to more informed and strategic decisions in the [financial markets](../f/financial_market.md).

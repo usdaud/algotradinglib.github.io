@@ -86,7 +86,7 @@ The operation of SOR can be broken down into several steps:
 
 3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Utilized to analyze massive volumes of trading data, enhancing decision-making processes.
 
-4. **Machine Learning**: Applied to improve predictive capabilities and optimize routing strategies based on historical performance.
+4. **[Machine Learning](../m/machine_learning.md)**: Applied to improve predictive capabilities and optimize routing strategies based on historical performance.
 
 5. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Provides the [scalability](../s/scalability.md) needed for SOR systems to [handle](../h/handle.md) large numbers of orders and data analysis tasks.
 
@@ -94,7 +94,7 @@ The operation of SOR can be broken down into several steps:
 
 The future of SOR is intricately tied to advancements in technology and [market](../m/market.md) structure. Areas to watch include:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Enhanced machine learning and AI algorithms [will](../w/will.md) allow SOR systems to become even more sophisticated, making more informed and nuanced routing decisions.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Enhanced [machine learning](../m/machine_learning.md) and AI algorithms [will](../w/will.md) allow SOR systems to become even more sophisticated, making more informed and nuanced routing decisions.
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md)**: Could provide new avenues for routing and executing orders in a secure, transparent manner.
 

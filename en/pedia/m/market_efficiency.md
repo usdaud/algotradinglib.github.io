@@ -59,7 +59,7 @@ Other aspects, like [market microstructure](../m/market_microstructure.md), delv
 
 ### Machine Learning Algorithms
 
-With advancements in machine learning, algorithmic traders have started employing sophisticated machine learning techniques to glean insights from vast datasets. This involves using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to analyze sentiment, applying [neural networks](../n/neural_networks_in_trading.md) for [pattern recognition](../p/pattern_recognition.md), and other methods to predict [asset](../a/asset.md) price movements more accurately.
+With advancements in [machine learning](../m/machine_learning.md), algorithmic traders have started employing sophisticated [machine learning](../m/machine_learning.md) techniques to glean insights from vast datasets. This involves using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to analyze sentiment, applying [neural networks](../n/neural_networks_in_trading.md) for [pattern recognition](../p/pattern_recognition.md), and other methods to predict [asset](../a/asset.md) price movements more accurately.
 
 ## Criticisms and Alternatives
 

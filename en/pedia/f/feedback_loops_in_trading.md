@@ -58,7 +58,7 @@ Advancements in [quantum computing](../q/quantum_computing_in_trading.md) promis
 
 ### AI and Advanced Learning Algorithms
 
-The integration of advanced AI, encompassing [deep learning](../d/deep_learning.md) and reinforcement learning, is set to enhance feedback loop systems. Algorithms can increasingly self-improve by not only learning from past performance but also simulating myriad [market](../m/market.md) scenarios to preemptively adjust strategies.
+The integration of advanced AI, encompassing [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md), is set to enhance feedback loop systems. Algorithms can increasingly self-improve by not only learning from past performance but also simulating myriad [market](../m/market.md) scenarios to preemptively adjust strategies.
 
 ## Conclusion
 

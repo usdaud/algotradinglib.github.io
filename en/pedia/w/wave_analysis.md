@@ -36,7 +36,7 @@ The implementation of wave principles within [algorithmic trading](../a/algorith
 
 #### Pattern Recognition Algorithms
 
-[Pattern recognition](../p/pattern_recognition.md) is a critical aspect of wave analysis in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be trained using historical data to recognize the repetitive [wave patterns](../w/wave_patterns_in_trading.md). Machine learning techniques, including [neural networks](../n/neural_networks_in_trading.md) and [deep learning](../d/deep_learning.md), are often used for this purpose. These algorithms analyze massive amounts of historical [market](../m/market.md) data to identify and predict future wave formations.
+[Pattern recognition](../p/pattern_recognition.md) is a critical aspect of wave analysis in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be trained using historical data to recognize the repetitive [wave patterns](../w/wave_patterns_in_trading.md). [Machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md) and [deep learning](../d/deep_learning.md), are often used for this purpose. These algorithms analyze massive amounts of historical [market](../m/market.md) data to identify and predict future wave formations.
 
 #### Risk Management Strategies
 

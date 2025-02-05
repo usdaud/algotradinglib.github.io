@@ -82,7 +82,7 @@ High-frequency trading platforms are designed to execute large volumes of trades
 
 ### 2. Machine Learning and Artificial Intelligence
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) technologies are increasingly used in [algorithmic trading](../a/accountability.md) to analyze vast datasets, identify patterns, and make data-driven trading decisions. These technologies enhance the accuracy and performance of [trading algorithms](../t/trading_algorithms.md).
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) technologies are increasingly used in [algorithmic trading](../a/accountability.md) to analyze vast datasets, identify patterns, and make data-driven trading decisions. These technologies enhance the accuracy and performance of [trading algorithms](../t/trading_algorithms.md).
 
 ### 3. Big Data Analytics
 

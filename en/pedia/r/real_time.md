@@ -30,7 +30,7 @@ Latency [arbitrage](../a/arbitrage.md) entails exploiting small, fleeting discre
 
 ### Predictive Models
 
-Machine learning models used in [algorithmic trading](../a/accountability.md) thrive on vast amounts of real-time data to identify patterns, trends, and actionable signals. The accuracy and performance of these models improve with the richness and immediacy of the data they receive.
+[Machine learning](../m/machine_learning.md) models used in [algorithmic trading](../a/accountability.md) thrive on vast amounts of real-time data to identify patterns, trends, and actionable signals. The accuracy and performance of these models improve with the richness and immediacy of the data they receive.
 
 ## Integration in Fintech
 

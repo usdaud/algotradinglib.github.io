@@ -80,7 +80,7 @@ The future of wireless trading appears promising, driven by continual advancemen
 **1. 5G Networks:**
 The widespread adoption of 5G technology [will](../w/will.md) likely revolutionize wireless trading, providing near-instantaneous data transfer and ultra-low latency. This can enable more sophisticated [trading strategies](../t/trading_strategies.md) and enhance the overall user experience on mobile devices.
 
-**2. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML):**
+**2. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML):**
 AI and ML are poised to play a significant role in wireless trading by [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md), automated [trading strategies](../t/trading_strategies.md), and personalized trading recommendations directly within mobile apps.
 
 **3. [Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies:**

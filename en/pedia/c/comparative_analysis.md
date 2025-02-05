@@ -131,7 +131,7 @@ The CFTC oversees trading in [futures](../f/futures.md) and commodities markets,
 
 ### 8.1 Artificial Intelligence and Machine Learning
 
-Integration of AI and machine learning techniques into [algorithmic trading](../a/algorithmic_trading.md) to enhance predictive capabilities and [adaptive strategies](../a/adaptive_strategies.md).
+Integration of AI and [machine learning](../m/machine_learning.md) techniques into [algorithmic trading](../a/algorithmic_trading.md) to enhance predictive capabilities and [adaptive strategies](../a/adaptive_strategies.md).
 
 ### 8.2 Quantum Computing
 

@@ -88,7 +88,7 @@ Oversupply can also impact [currency](../c/currency.md) markets, particularly fo
 
 ### Algorithmic Trading
 
-Oversupply dynamics can be incorporated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). By leveraging data on production levels, [inventory](../i/inventory.md), and [market](../m/market.md) [demand](../d/demand.md), algorithms can identify trading opportunities and risks. Machine learning models can analyze historical patterns and predict future [supply](../s/supply.md)-[demand](../d/demand.md) imbalances, enabling more informed trading decisions.
+Oversupply dynamics can be incorporated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). By leveraging data on production levels, [inventory](../i/inventory.md), and [market](../m/market.md) [demand](../d/demand.md), algorithms can identify trading opportunities and risks. [Machine learning](../m/machine_learning.md) models can analyze historical patterns and predict future [supply](../s/supply.md)-[demand](../d/demand.md) imbalances, enabling more informed trading decisions.
 
 ### Hedging Strategies
 

@@ -42,7 +42,7 @@ The practice of [window dressing](../w/window_dressing.md) can have several impl
 
 To mitigate the adverse effects of [window dressing](../w/window_dressing.md), [algorithmic trading](../a/algorithmic_trading.md) systems can incorporate several strategies:
 
-1. **Enhanced Data Analysis:** Using more advanced [data analysis techniques](../d/data_analysis_techniques.md), such as machine learning, to differentiate between genuine [market](../m/market.md) signals and anomalies caused by [window dressing](../w/window_dressing.md).
+1. **Enhanced Data Analysis:** Using more advanced [data analysis techniques](../d/data_analysis_techniques.md), such as [machine learning](../m/machine_learning.md), to differentiate between genuine [market](../m/market.md) signals and anomalies caused by [window dressing](../w/window_dressing.md).
 
 2. **Temporal Filters:** Implementing temporal filters that adjust sensitivity to end-of-period data, reducing the weight of signals during these times to account for potential [window dressing](../w/window_dressing.md) effects.
 

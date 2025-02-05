@@ -21,7 +21,7 @@ Several techniques are employed for constructing the [yield curve](../y/yield_cu
 3. **Nelson-Siegel Models**
 4. **Cubic Spline [Interpolation](../i/interpolation.md)**
 5. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**
-6. **Machine Learning Approaches**
+6. **[Machine Learning](../m/machine_learning.md) Approaches**
 
 ### Bootstrapping
 
@@ -64,10 +64,10 @@ Cubic spline [interpolation](../i/interpolation.md) is a non-parametric method t
 
 ### Machine Learning Approaches
 
-Recent advances in machine learning have introduced new techniques for [yield curve](../y/yield_curve.md) construction. These approaches can capture complex nonlinear relationships in the data that traditional methods might miss.
+Recent advances in [machine learning](../m/machine_learning.md) have introduced new techniques for [yield curve](../y/yield_curve.md) construction. These approaches can capture complex nonlinear relationships in the data that traditional methods might miss.
 
 - **Techniques**: Methods such as [neural networks](../n/neural_networks_in_trading.md), gradient boosting machines, and [support vector machines](../s/support_vector_machines_in_trading.md).
-- **Implementation**: Requires specialized knowledge in machine learning and [data science](../d/data_science_in_trading.md), but can significantly enhance prediction accuracy.
+- **Implementation**: Requires specialized knowledge in [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md), but can significantly enhance prediction accuracy.
 
 ### Practical Applications in Algorithmic Trading
 
@@ -91,4 +91,4 @@ The above-mentioned companies [offer](../o/offer.md) tools and platforms that fa
 
 ### Conclusion
 
-[Yield](../y/yield.md)-curve construction techniques are an indispensable part of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). The various methods, ranging from simple bootstrapping to advanced machine learning techniques, provide traders and analysts with the tools necessary to accurately model [interest rate](../i/interest_rate.md) dynamics. These techniques not only assist in the [valuation](../v/valuation.md) and [risk management](../r/risk_management.md) of [fixed income securities](../f/fixed_income_securities.md) but also help in the formulation of sophisticated [trading strategies](../t/trading_strategies.md), thereby contributing significantly to the [efficiency](../e/efficiency.md) of [financial markets](../f/financial_market.md).
+[Yield](../y/yield.md)-curve construction techniques are an indispensable part of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). The various methods, ranging from simple bootstrapping to advanced [machine learning](../m/machine_learning.md) techniques, provide traders and analysts with the tools necessary to accurately model [interest rate](../i/interest_rate.md) dynamics. These techniques not only assist in the [valuation](../v/valuation.md) and [risk management](../r/risk_management.md) of [fixed income securities](../f/fixed_income_securities.md) but also help in the formulation of sophisticated [trading strategies](../t/trading_strategies.md), thereby contributing significantly to the [efficiency](../e/efficiency.md) of [financial markets](../f/financial_market.md).

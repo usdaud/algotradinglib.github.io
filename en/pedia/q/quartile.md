@@ -80,7 +80,7 @@ In FinTech and [algorithmic trading](../a/accountability.md) (algo-trading), qua
 
 ### Machine Learning Models
 
-Quartiles ensure that machine learning models are trained on properly segmented data. Quartile-based segmentation might be used in [clustering algorithms](../c/clustering_algorithms.md) or regression models to ensure a balanced training set.
+Quartiles ensure that [machine learning](../m/machine_learning.md) models are trained on properly segmented data. Quartile-based segmentation might be used in [clustering algorithms](../c/clustering_algorithms.md) or regression models to ensure a balanced training set.
 
 ### Backtesting Strategies
 

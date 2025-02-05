@@ -6,7 +6,7 @@ Latent Dirichlet Allocation (LDA) is a powerful generative probabilistic model p
 
 ## Fundamentals of Latent Dirichlet Allocation
 
-LDA is an unsupervised machine learning algorithm that identifies topics within a corpus of text documents. It is based on the assumption that each document is a mixture of several topics and that each topic is a [distribution](../d/distribution.md) over words. Here’s a breakdown of its key components:
+LDA is an unsupervised [machine learning](../m/machine_learning.md) algorithm that identifies topics within a corpus of text documents. It is based on the assumption that each document is a mixture of several topics and that each topic is a [distribution](../d/distribution.md) over words. Here’s a breakdown of its key components:
 
 ### Key Terminology
 
@@ -76,7 +76,7 @@ Beyond company-specific data, LDA can analyze macro-economic reports, central [b
 1. **Gensim**: A Python library for topic modeling, document [indexing](../i/indexing.md), and similarity retrieval with large corpora.
    - Website: [Gensim](https://radimrehurek.com/gensim/)
    
-2. **Scikit-learn**: A machine learning library in Python that includes an implementation of LDA.
+2. **Scikit-learn**: A [machine learning](../m/machine_learning.md) library in Python that includes an implementation of LDA.
    - Website: [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
    
 3. **SpaCy**: An [open](../o/open.md)-source software library for advanced [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) in Python, useful for preprocessing text.

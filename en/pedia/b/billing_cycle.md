@@ -105,7 +105,7 @@ Postpaid billing collects [payment](../p/payment.md) after the service period, c
 
 ### Smart Billing Systems
 
-Companies are innovating to address some traditional billing challenges. Smart billing systems, leveraging AI and machine learning, can personalize billing cycles, predict [customer](../c/customer.md) behavior, and optimize due dates.
+Companies are innovating to address some traditional billing challenges. Smart billing systems, leveraging AI and [machine learning](../m/machine_learning.md), can personalize billing cycles, predict [customer](../c/customer.md) behavior, and optimize due dates.
 
 ### Flexible Billing Cycles
 

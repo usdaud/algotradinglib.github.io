@@ -36,7 +36,7 @@ ARIMA models are widely used for their versatility and robustness in modeling [t
 
 ### Machine Learning Models
 
-Modern machine learning models, such as [Neural Networks](../n/neural_networks_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), and ensemble methods like [Random Forests](../r/random_forests_in_trading.md), have gained popularity due to their ability to [handle](../h/handle.md) complex and non-linear relationships in the data.
+Modern [machine learning](../m/machine_learning.md) models, such as [Neural Networks](../n/neural_networks_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), and ensemble methods like [Random Forests](../r/random_forests_in_trading.md), have gained popularity due to their ability to [handle](../h/handle.md) complex and non-linear relationships in the data.
 
 #### LSTM (Long Short-Term Memory Networks)
 
@@ -72,12 +72,12 @@ Identifying and exploiting inefficiencies in the [market](../m/market.md) is key
 
 ### Numerai
 
-Numerai operates a [hedge fund](../h/hedge_fund.md) powered by a network of data scientists who develop [forecasting models](../f/forecasting_models.md) using encrypted data. It leverages machine learning techniques to predict [financial markets](../f/financial_market.md).
+Numerai operates a [hedge fund](../h/hedge_fund.md) powered by a network of data scientists who develop [forecasting models](../f/forecasting_models.md) using encrypted data. It leverages [machine learning](../m/machine_learning.md) techniques to predict [financial markets](../f/financial_market.md).
 [More about Numerai](https://numer.ai/)
 
 ### SigOpt
 
-SigOpt offers a platform for optimizing machine learning models, including those used for [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in trading. It provides a suite of tools to improve model performance.
+SigOpt offers a platform for optimizing [machine learning](../m/machine_learning.md) models, including those used for [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in trading. It provides a suite of tools to improve model performance.
 [More about SigOpt](https://sigopt.com/)
 
 ### Alpaca
@@ -102,4 +102,4 @@ Aladdin is BlackRock's sophisticated [risk management](../r/risk_management.md) 
 
 ## Conclusion
 
-[Time series](../t/time_series.md) [forecasting](../f/forecasting.md) is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), encompassing a variety of methods from classical statistical models to modern machine learning techniques. It enables traders to predict future [market](../m/market.md) movements, manage risks, and potentially enhance returns. As the financial [industry](../i/industry.md) continues to embrace technology, the importance of accurate [forecasting models](../f/forecasting_models.md) becomes ever more critical. Companies like Numerai, SigOpt, [Alpaca](../a/alpaca.md), [QuantConnect](../q/quantconnect.md), Kite by [Zerodha](../z/zerodha.md), and BlackRock's Aladdin are at the forefront, providing innovative tools and platforms to harness the power of [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md).
+[Time series](../t/time_series.md) [forecasting](../f/forecasting.md) is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), encompassing a variety of methods from classical statistical models to modern [machine learning](../m/machine_learning.md) techniques. It enables traders to predict future [market](../m/market.md) movements, manage risks, and potentially enhance returns. As the financial [industry](../i/industry.md) continues to embrace technology, the importance of accurate [forecasting models](../f/forecasting_models.md) becomes ever more critical. Companies like Numerai, SigOpt, [Alpaca](../a/alpaca.md), [QuantConnect](../q/quantconnect.md), Kite by [Zerodha](../z/zerodha.md), and BlackRock's Aladdin are at the forefront, providing innovative tools and platforms to harness the power of [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md).

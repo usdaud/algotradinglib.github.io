@@ -98,7 +98,7 @@ In [algorithmic trading](../a/accountability.md), the identification and interpr
 
 ### Machine Learning and AI
 
-Machine learning models can be trained to identify complex patterns, including those involving necklines. By leveraging historical data, these models can predict future price movements and recognize subtle patterns that might be invisible to traditional [technical analysis](../t/technical_analysis.md).
+[Machine learning](../m/machine_learning.md) models can be trained to identify complex patterns, including those involving necklines. By leveraging historical data, these models can predict future price movements and recognize subtle patterns that might be invisible to traditional [technical analysis](../t/technical_analysis.md).
 
 ### Quantitative Analysis
 

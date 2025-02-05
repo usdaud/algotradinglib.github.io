@@ -97,7 +97,7 @@ Optimizing the deployment of [capital](../c/capital.md) in high-yielding assets 
 
 ### Technological Advancements
 
-Leveraging technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to enhance [risk](../r/risk.md) assessment, [customer](../c/customer.md) targeting, and [operational efficiency](../o/operational_efficiency_in_trading.md).
+Leveraging technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to enhance [risk](../r/risk.md) assessment, [customer](../c/customer.md) targeting, and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Real-World Examples
 

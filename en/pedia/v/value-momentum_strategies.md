@@ -74,7 +74,7 @@ Investors may need to contend with [behavioral biases](../b/behavioral_biases_in
 
 ### Machine Learning and AI
 
-The integration of machine learning and AI techniques can enhance the performance of [value](../v/value.md)-[momentum](../m/momentum.md) strategies. Algorithms can be trained to recognize complex patterns and optimize [factor](../f/factor.md) weights dynamically.
+The integration of [machine learning](../m/machine_learning.md) and AI techniques can enhance the performance of [value](../v/value.md)-[momentum](../m/momentum.md) strategies. Algorithms can be trained to recognize complex patterns and optimize [factor](../f/factor.md) weights dynamically.
 
 ### Multi-Factor Models
 

@@ -39,7 +39,7 @@ NEX platforms are particularly influential in the realm of [algorithmic trading]
 1. **[Trading Algorithms](../t/trading_algorithms.md)**:
     - **[Market](../m/market.md) Making**: Algorithmic strategies to provide [liquidity](../l/liquidity.md) by quoting [bid and ask](../b/bid_and_ask.md) prices.
     - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploiting price discrepancies between related financial instruments.
-    - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using AI and machine learning to gauge [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
+    - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using AI and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
 
 2. **[Execution Algorithms](../e/execution_algorithms.md)**:
     - **VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price)**: Executes orders based on historical [volume](../v/volume.md) [distribution](../d/distribution.md).
@@ -52,7 +52,7 @@ NEX platforms are particularly influential in the realm of [algorithmic trading]
     
 ### Technologies Enabling Algo Trading
 
-- **Machine Learning and AI**: These are used for [predictive modeling](../p/predictive_modeling.md) and decision-making in [trading strategies](../t/trading_strategies.md).
+- **[Machine Learning](../m/machine_learning.md) and AI**: These are used for [predictive modeling](../p/predictive_modeling.md) and decision-making in [trading strategies](../t/trading_strategies.md).
 - **[Data Analytics](../d/data_analytics.md)**: [Big data](../b/big_data_in_trading.md) tools process massive amounts of historical and real-time data to inform trading decisions.
 - **[Blockchain](../b/blockchain_in_trading.md)**: Ensures [transparency](../t/transparency.md) and [security](../s/security.md) in the [execution](../e/execution.md) and [clearing](../c/clearing.md) of trades.
 - **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Offers scalable and flexible resources for running complex [trading algorithms](../t/trading_algorithms.md).
@@ -62,7 +62,7 @@ NEX platforms are particularly influential in the realm of [algorithmic trading]
 Effective [risk management](../r/risk_management.md) is critical when employing [algorithmic trading](../a/accountability.md) on NEX platforms. They provide [robust](../r/robust.md) [risk](../r/risk.md) analytics tools to monitor and control the [risk](../r/risk.md) exposure of [automated trading systems](../a/automated_trading_systems.md). This includes:
 
 - **Real-time [Risk](../r/risk.md) Assessment**: Continuous monitoring of [market](../m/market.md) conditions and the performance of [trading algorithms](../t/trading_algorithms.md).
-- **[Predictive Analytics](../p/predictive_analytics.md)**: Machine learning models predict potential [market](../m/market.md) risks and trigger precautionary measures.
+- **[Predictive Analytics](../p/predictive_analytics.md)**: [Machine learning](../m/machine_learning.md) models predict potential [market](../m/market.md) risks and trigger precautionary measures.
 - **Compliance and Reporting**: Ensuring that all trading activities comply with regulatory requirements and providing detailed reports for audit purposes.
 
 ## Partners and Ecosystem

@@ -59,7 +59,7 @@ In response to flash crashes, many trading firms have developed more sophisticat
 
 ### AI and Machine Learning
 
-Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are also being leveraged to predict and mitigate flash crashes. By analyzing historical data and identifying patterns, machine learning models can forecast when [market](../m/market.md) conditions might lead to a flash crash and adjust [trading strategies](../t/trading_strategies.md) accordingly.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are also being leveraged to predict and mitigate flash crashes. By analyzing historical data and identifying patterns, [machine learning](../m/machine_learning.md) models can forecast when [market](../m/market.md) conditions might lead to a flash crash and adjust [trading strategies](../t/trading_strategies.md) accordingly.
 
 ### Collaboration Across Markets
 

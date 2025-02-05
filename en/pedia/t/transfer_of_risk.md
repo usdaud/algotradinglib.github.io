@@ -70,7 +70,7 @@ The advent of financial technology (fintech) has revolutionized [risk](../r/risk
 [Blockchain](../b/blockchain_in_trading.md) technology enables the creation of [smart contracts](../s/smart_contracts_in_trading.md), which are self-executing contracts with the terms directly written into code. These contracts automatically enforce the agreed-upon terms and can be used for [risk](../r/risk.md) transfer in areas like [trade finance](../t/trade_finance.md) and [insurance](../i/insurance.md).
 
 ### **Insurtech**
-[Insurtech](../i/insurtech.md) companies like Lemonade (https://www.lemonade.com) are leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to [offer](../o/offer.md) personalized [insurance](../i/insurance.md) policies and streamline claims processing, thereby enhancing the [efficiency](../e/efficiency.md) and accessibility of [risk](../r/risk.md) transfer.
+[Insurtech](../i/insurtech.md) companies like Lemonade (https://www.lemonade.com) are leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to [offer](../o/offer.md) personalized [insurance](../i/insurance.md) policies and streamline claims processing, thereby enhancing the [efficiency](../e/efficiency.md) and accessibility of [risk](../r/risk.md) transfer.
 
 ### **Robo-Advisors**
 Robo-advisors use algorithms to [offer](../o/offer.md) automated [investment management](../i/investment_management.md) services, including [risk](../r/risk.md) assessment and [portfolio rebalancing](../p/portfolio_rebalancing.md). Examples include Betterment (https://www.betterment.com) and Wealthfront (https://www.wealthfront.com).

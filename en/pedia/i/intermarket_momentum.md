@@ -50,7 +50,7 @@ Several [trading strategies](../t/trading_strategies.md) rely on intermarket [mo
 
 ### Algorithmic Trading
 
-Intermarket [momentum](../m/momentum.md) is increasingly being incorporated into [algorithmic trading](../a/algorithmic_trading.md) systems. Advanced algorithms can analyze real-time data from [multiple](../m/multiple.md) markets, identify patterns, and execute trades much faster than human traders. These algorithms often rely on machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve their accuracy and performance over time.
+Intermarket [momentum](../m/momentum.md) is increasingly being incorporated into [algorithmic trading](../a/algorithmic_trading.md) systems. Advanced algorithms can analyze real-time data from [multiple](../m/multiple.md) markets, identify patterns, and execute trades much faster than human traders. These algorithms often rely on [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve their accuracy and performance over time.
 
 ## Case Studies and Examples
 

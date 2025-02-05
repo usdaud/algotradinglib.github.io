@@ -60,7 +60,7 @@ Form 3 filings can [hold](../h/hold.md) significant relevance for [algorithmic t
 Modern [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) often integrate sophisticated data feeds to capture and analyze Form 3 filings in real-time. Key components of these integrations include:
 
 1. **Data [Aggregation](../a/aggregation.md):** Aggregating Form 3 data from the EDGAR system and other data sources to provide a comprehensive view.
-2. **Real-time Processing:** Utilizing machine learning and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to parse and interpret the data quickly.
+2. **Real-time Processing:** Utilizing [machine learning](../m/machine_learning.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to parse and interpret the data quickly.
 3. **Automated Trading Decisions:** Applying the insights from Form 3 data to make real-time trading decisions that [capitalize](../c/capitalize.md) on insider movements.
 
 ## Conclusion

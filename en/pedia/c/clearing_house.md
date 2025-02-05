@@ -69,7 +69,7 @@ RTGS systems enable the immediate transfer of funds and securities on a [transac
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are being utilized for [risk management](../r/risk_management.md), [predictive analytics](../p/predictive_analytics.md), and process automation. These technologies help [clearing](../c/clearing.md) houses in identifying potential risks, optimizing [collateral](../c/collateral.md) requirements, and enhancing overall [efficiency](../e/efficiency.md).
+AI and [machine learning](../m/machine_learning.md) are being utilized for [risk management](../r/risk_management.md), [predictive analytics](../p/predictive_analytics.md), and process automation. These technologies help [clearing](../c/clearing.md) houses in identifying potential risks, optimizing [collateral](../c/collateral.md) requirements, and enhancing overall [efficiency](../e/efficiency.md).
 
 ## Challenges and Future Outlook
 

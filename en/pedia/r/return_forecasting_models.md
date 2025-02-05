@@ -24,7 +24,7 @@ In [mathematical finance](../m/mathematical_finance.md), [return](../r/return.md
 
 #### 3. Machine Learning Models
 
-Machine learning models utilize [computational algorithms](../c/computational_algorithms.md) that improve automatically through experience. These models can [handle](../h/handle.md) vast amounts of data and recognize complex patterns that traditional statistical models may not capture.
+[Machine learning](../m/machine_learning.md) models utilize [computational algorithms](../c/computational_algorithms.md) that improve automatically through experience. These models can [handle](../h/handle.md) vast amounts of data and recognize complex patterns that traditional statistical models may not capture.
 
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) architectures like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and long short-term memory (LSTM) networks are employed to predict [time series](../t/time_series.md) data due to their ability to capture [temporal dependencies](../t/temporal_dependencies_in_trading.md).
   - **Reference**: [Google AI Blog](https://ai.googleblog.com)

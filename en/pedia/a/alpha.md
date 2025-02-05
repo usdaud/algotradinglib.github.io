@@ -42,7 +42,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves taking advantage of price in
 
 ### Machine Learning and AI
 
-Machine learning models, such as [neural networks](../n/neural_networks_in_trading.md) and [random forests](../r/random_forests_in_trading.md), can discover complex patterns in large datasets that traditional models might miss. These models can continually learn and adapt to new data, thus potentially generating sustained alpha.
+[Machine learning](../m/machine_learning.md) models, such as [neural networks](../n/neural_networks_in_trading.md) and [random forests](../r/random_forests_in_trading.md), can discover complex patterns in large datasets that traditional models might miss. These models can continually learn and adapt to new data, thus potentially generating sustained alpha.
 
 ## Risk Management and Alpha
 
@@ -66,7 +66,7 @@ Jim Simons is a mathematician and [hedge fund manager](../h/hedge_fund_manager.m
 
 ### Two Sigma
 
-Two Sigma, a [hedge fund](../h/hedge_fund.md) founded by David Siegel and John Overdeck, applies [data science](../d/data_science_in_trading.md) and technology to investments. The [firm](../f/firm.md) focuses on machine learning, distributed computing, and advanced mathematical modeling. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a [hedge fund](../h/hedge_fund.md) founded by David Siegel and John Overdeck, applies [data science](../d/data_science_in_trading.md) and technology to investments. The [firm](../f/firm.md) focuses on [machine learning](../m/machine_learning.md), distributed computing, and advanced mathematical modeling. [Two Sigma](https://www.twosigma.com/)
 
 ## Challenges in Generating Alpha
 
@@ -89,4 +89,4 @@ Generating alpha in modern [financial markets](../f/financial_market.md) is chal
 
 Alpha is a fundamental concept in investment and algotrading, representing the additional returns over benchmarks. Through sophisticated strategies, data analysis, and [risk management techniques](../r/risk_management_techniques.md), algotrading aims to generate sustained alpha. Notable firms and quants have shown exceptional ability in this field, although challenges and regulatory considerations persist.
 
-By leveraging advanced technologies such as machine learning and [alternative data](../a/alternative_data.md), the quest for alpha continues to evolve in the ever-competitive [financial markets](../f/financial_market.md).
+By leveraging advanced technologies such as [machine learning](../m/machine_learning.md) and [alternative data](../a/alternative_data.md), the quest for alpha continues to evolve in the ever-competitive [financial markets](../f/financial_market.md).

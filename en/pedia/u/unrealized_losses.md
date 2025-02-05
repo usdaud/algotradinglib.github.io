@@ -52,7 +52,7 @@ Periodic [rebalancing](../r/rebalancing.md) is another method to deal with unrea
 
 ### Machine Learning and Predictive Analytics
 
-Advanced [algorithmic trading](../a/algorithmic_trading.md) systems increasingly utilize machine learning and [predictive analytics](../p/predictive_analytics.md) to forecast potential price movements and unrealized losses. By analyzing historical data, [market](../m/market.md) trends, and [sentiment indicators](../s/sentiment_indicators.md), these systems can make more informed decisions about when to [hold](../h/hold.md), sell, or [hedge](../h/hedge.md) assets.
+Advanced [algorithmic trading](../a/algorithmic_trading.md) systems increasingly utilize [machine learning](../m/machine_learning.md) and [predictive analytics](../p/predictive_analytics.md) to forecast potential price movements and unrealized losses. By analyzing historical data, [market](../m/market.md) trends, and [sentiment indicators](../s/sentiment_indicators.md), these systems can make more informed decisions about when to [hold](../h/hold.md), sell, or [hedge](../h/hedge.md) assets.
 
 ## Industry Practices and Examples
 

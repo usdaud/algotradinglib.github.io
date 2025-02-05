@@ -40,7 +40,7 @@ This strategy involves the simultaneous purchase and [sale](../s/sale.md) of clo
 
 ### Machine Learning and AI
 
-Advanced machine learning models are employed to predict the price movements of [unlisted securities](../u/unlisted_securities.md). These models can include [neural networks](../n/neural_networks_in_trading.md), regression models, and clustering techniques, all of which can adapt to the unique characteristics of [unlisted securities](../u/unlisted_securities.md) markets.
+Advanced [machine learning](../m/machine_learning.md) models are employed to predict the price movements of [unlisted securities](../u/unlisted_securities.md). These models can include [neural networks](../n/neural_networks_in_trading.md), regression models, and clustering techniques, all of which can adapt to the unique characteristics of [unlisted securities](../u/unlisted_securities.md) markets.
 
 ### Sentiment Analysis
 

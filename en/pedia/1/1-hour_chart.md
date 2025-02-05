@@ -89,7 +89,7 @@ High-frequency trading (HFT) firms, such as Citadel Securities (https://citadels
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds like Two Sigma (https://www.twosigma.com) use 1-hour charts as part of their [quantitative trading](../q/quantitative_trading.md) strategies. By integrating various [technical indicators](../t/technical_indicators.md) and machine learning models, they can predict [market](../m/market.md) movements with high accuracy.
+[Hedge](../h/hedge.md) funds like Two Sigma (https://www.twosigma.com) use 1-hour charts as part of their [quantitative trading](../q/quantitative_trading.md) strategies. By integrating various [technical indicators](../t/technical_indicators.md) and [machine learning](../m/machine_learning.md) models, they can predict [market](../m/market.md) movements with high accuracy.
 
 ### Proprietary Trading Firms
 
@@ -117,7 +117,7 @@ Developing and maintaining the technology [infrastructure](../i/infrastructure.m
 
 ### Artificial Intelligence and Machine Learning
 
-The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) in [algorithmic trading](../a/algorithmic_trading.md) is poised to revolutionize the use of 1-hour charts. Advanced models can analyze vast amounts of data, identify complex patterns, and adapt to evolving [market](../m/market.md) conditions.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) in [algorithmic trading](../a/algorithmic_trading.md) is poised to revolutionize the use of 1-hour charts. Advanced models can analyze vast amounts of data, identify complex patterns, and adapt to evolving [market](../m/market.md) conditions.
 
 ### Increased Adoption of Cloud Computing
 

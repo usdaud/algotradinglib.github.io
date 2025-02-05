@@ -58,7 +58,7 @@ Algorithms can execute trades faster and more efficiently than humans, minimizin
 
 ### Machine Learning and AI
 
-Machine learning technologies can identify patterns and trends that are not apparent to human traders. These insights can help in creating more effective [trading algorithms](../t/trading_algorithms.md) that balance the [risk](../r/risk.md)-[return](../r/return.md) tradeoff better.
+[Machine learning](../m/machine_learning.md) technologies can identify patterns and trends that are not apparent to human traders. These insights can help in creating more effective [trading algorithms](../t/trading_algorithms.md) that balance the [risk](../r/risk.md)-[return](../r/return.md) tradeoff better.
 
 ### High-Frequency Trading (HFT)
 

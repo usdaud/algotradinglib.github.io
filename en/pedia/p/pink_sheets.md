@@ -120,7 +120,7 @@ The advent of online brokerage platforms has made trading Pink Sheets more acces
 
 ### Automated Trading
 
-Algorithmic and [automated trading systems](../a/automated_trading_systems.md) have also entered the OTC [market](../m/market.md). Although more common in major exchanges, these technologies are increasingly used to identify trading opportunities in the Pink Sheets, leveraging [big data](../b/big_data_in_trading.md) and machine learning models.
+Algorithmic and [automated trading systems](../a/automated_trading_systems.md) have also entered the OTC [market](../m/market.md). Although more common in major exchanges, these technologies are increasingly used to identify trading opportunities in the Pink Sheets, leveraging [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) models.
 
 ### Blockchain and Cryptocurrencies
 

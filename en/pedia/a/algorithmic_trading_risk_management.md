@@ -68,8 +68,8 @@ Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h
 
 ### Advanced Techniques in Algorithmic Trading Risk Management
 
-1. **Machine Learning and AI**:
-   - Utilizing machine learning models to predict [market](../m/market.md) movements and manage risks more effectively.
+1. **[Machine Learning](../m/machine_learning.md) and AI**:
+   - Utilizing [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) movements and manage risks more effectively.
    - AI systems can process vast amounts of data in real time, identifying patterns and risks that may not be evident to human traders.
 
 2. **[Quantitative Risk Management](../q/quantitative_risk_management.md) Tools**:

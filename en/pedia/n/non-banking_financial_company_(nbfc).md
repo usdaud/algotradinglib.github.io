@@ -96,7 +96,7 @@ Managing [liquidity](../l/liquidity.md) efficiently to meet short-term [obligati
 ## Future Prospects of NBFCs
 
 ### Digital Transformation
-The future of NBFCs lies in digital transformation. Adopting FinTech solutions, [blockchain](../b/blockchain_in_trading.md) technology, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning can significantly optimize operations, improve [customer](../c/customer.md) experience, and manage risks more effectively.
+The future of NBFCs lies in digital transformation. Adopting FinTech solutions, [blockchain](../b/blockchain_in_trading.md) technology, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) can significantly optimize operations, improve [customer](../c/customer.md) experience, and manage risks more effectively.
 
 ### Strategic Partnerships
 Forming strategic partnerships with traditional banks, FinTech companies, and other financial institutions can enhance service offerings and expand [market](../m/market.md) reach. Collaborations can also facilitate the cross-selling of products, thereby boosting [business](../b/business.md) growth.

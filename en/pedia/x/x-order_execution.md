@@ -62,7 +62,7 @@ Latency management strategies include:
 In X-[Order](../o/order.md) [Execution](../e/execution.md), adaptability is key. [Adaptive algorithms](../a/adaptive_algorithms.md) constantly tweak their strategies based on real-time [market](../m/market.md) conditions and the success/failure of previous trades.
 
 **Features of [Adaptive Algorithms](../a/adaptive_algorithms.md):**
-- **Learning from Data:** Employing machine learning to continually update models and improve predictive accuracy.
+- **Learning from Data:** Employing [machine learning](../m/machine_learning.md) to continually update models and improve predictive accuracy.
 - **Contextual Trading:** Adjusting [trading strategies](../t/trading_strategies.md) based on macroeconomic events, [market](../m/market.md) conditions, and specific [asset](../a/asset.md) behaviors.
 - **[Risk Management](../r/risk_management.md):** Continuously assessing and adjusting for [risk](../r/risk.md) to protect against adverse [market](../m/market.md) movements.
 

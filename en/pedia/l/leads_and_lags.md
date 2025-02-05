@@ -56,7 +56,7 @@ For successful [algorithmic trading](../a/accountability.md), understanding and 
    
 2. **[Backtesting](../b/backtesting.md)**: Tools like Zipline or [Backtrader](../b/backtrader.md) can be used to backtest strategies incorporating both leading and [lagging indicators](../l/lagging_indicators.md) to optimize performance before live trading.
 
-3. **Machine Learning**: Advanced [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can be leveraged to identify complex patterns that might not be easily discernible through simple leading and [lagging indicators](../l/lagging_indicators.md) alone. Libraries like Scikit-Learn and TensorFlow are commonly used for these purposes.
+3. **[Machine Learning](../m/machine_learning.md)**: Advanced [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can be leveraged to identify complex patterns that might not be easily discernible through simple leading and [lagging indicators](../l/lagging_indicators.md) alone. Libraries like Scikit-Learn and [TensorFlow](../t/tensorflow.md) are commonly used for these purposes.
 
 ## Case Studies
 

@@ -54,7 +54,7 @@ The delivery and processing of real-time [market](../m/market.md) data involve [
 
 4. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Cloud platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud provide scalable [infrastructure](../i/infrastructure.md) for processing and storing real-time [market](../m/market.md) data.
 
-5. **Machine Learning**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used to analyze real-time data and make [predictive models](../p/predictive_models_in_trading.md). These models help in [forecasting](../f/forecasting.md) [market](../m/market.md) trends, [volatility](../v/volatility.md), and potential trading opportunities.
+5. **[Machine Learning](../m/machine_learning.md)**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used to analyze real-time data and make [predictive models](../p/predictive_models_in_trading.md). These models help in [forecasting](../f/forecasting.md) [market](../m/market.md) trends, [volatility](../v/volatility.md), and potential trading opportunities.
 
 ## Challenges in Real-Time Market Data
 

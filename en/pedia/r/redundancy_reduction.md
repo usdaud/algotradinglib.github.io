@@ -14,7 +14,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), redundancy reduction is a
 
 ### Data Compression
 
-Data compression techniques, such as lossless and lossy compression, are employed to reduce the amount of data that needs to be stored or transferred without compromising its integrity. Lossless compression techniques, like Huffman coding and Run-Length Encoding (RLE), are particularly valuable in trading, as they allow data to be compressed and decompressed without any loss of information.
+Data [compression techniques](../c/compression_techniques.md), such as lossless and lossy compression, are employed to reduce the amount of data that needs to be stored or transferred without compromising its integrity. Lossless [compression techniques](../c/compression_techniques.md), like Huffman coding and Run-Length Encoding (RLE), are particularly valuable in trading, as they allow data to be compressed and decompressed without any loss of information.
 
 ### Feature Selection
 
@@ -66,7 +66,7 @@ Retail trading platforms like [Robinhood](../r/robinhood.md) and [E*TRADE](../e/
 
 ### Future Directions
 
-1. **Machine Learning Integration**: The integration of machine learning techniques for automated feature selection and [noise](../n/noise.md) reduction holds significant potential for advancing redundancy reduction.
+1. **[Machine Learning](../m/machine_learning.md) Integration**: The integration of [machine learning](../m/machine_learning.md) techniques for automated feature selection and [noise](../n/noise.md) reduction holds significant potential for advancing redundancy reduction.
 2. **Enhanced Storage Solutions**: Development of more sophisticated data storage solutions that inherently support redundancy reduction [will](../w/will.md) be a key area of focus.
 3. **Regulatory Compliance**: Ensuring that redundancy reduction processes comply with evolving financial regulations [will](../w/will.md) be crucial for sustained adoption and implementation.
 

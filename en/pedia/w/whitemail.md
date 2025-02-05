@@ -76,7 +76,7 @@ As markets become more sophisticated, the use of advanced techniques to detect a
 
 ### Technological Advancements
 
-With advancements in AI and machine learning, algorithms [will](../w/will.md) become more adept at identifying potential Whitemail activities, [offering](../o/offering.md) traders more precision in their strategies.
+With advancements in AI and [machine learning](../m/machine_learning.md), algorithms [will](../w/will.md) become more adept at identifying potential Whitemail activities, [offering](../o/offering.md) traders more precision in their strategies.
 
 ## Conclusion
 

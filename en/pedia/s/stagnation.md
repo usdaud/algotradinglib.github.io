@@ -116,7 +116,7 @@ Stagnation often leads to low or declining [interest](../i/interest.md) rates, w
 
 ### Techniques
 
-Using advanced [data analytics](../d/data_analytics.md) and machine learning, [trading algorithms](../t/trading_algorithms.md) can adapt to changing [market](../m/market.md) conditions, although they require continuous fine-tuning. The use of high-frequency trading (HFT) can also capture minor price movements in a low-[volatility](../v/volatility.md) environment, although it comes with its own set of risks.
+Using advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), [trading algorithms](../t/trading_algorithms.md) can adapt to changing [market](../m/market.md) conditions, although they require continuous fine-tuning. The use of high-frequency trading (HFT) can also capture minor price movements in a low-[volatility](../v/volatility.md) environment, although it comes with its own set of risks.
 
 ## Conclusion
 

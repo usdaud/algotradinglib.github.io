@@ -73,7 +73,7 @@ Robo-advisors use sophisticated algorithms to provide personalized investment ad
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) enhance the ability to analyze vast amounts of data, [offering](../o/offering.md) deeper insights into [investor](../i/investor.md) behavior and preferences. This enables more precise suitability assessments and personalized investment recommendations.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) enhance the ability to analyze vast amounts of data, [offering](../o/offering.md) deeper insights into [investor](../i/investor.md) behavior and preferences. This enables more precise suitability assessments and personalized investment recommendations.
 
 ### Blockchain for Transparency
 

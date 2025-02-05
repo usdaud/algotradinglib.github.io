@@ -60,7 +60,7 @@ Regret Theory is foundational in [behavioral finance](../b/behavioral_finance.md
 [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) can incorporate regret metrics to adjust [risk](../r/risk.md) exposure dynamically. Algorithms may reduce [trade](../t/trade.md) sizes or shift [fund](../f/fund.md) allocation to safer assets if potential regret exceeds a certain threshold.
 
 ### Reinforcement Learning
-Regret minimization algorithms are a crucial part of reinforcement learning frameworks. These algorithms aim to minimize cumulative regret and are extensively used in high-frequency trading to balance exploration and exploitation.
+Regret minimization algorithms are a crucial part of [reinforcement learning](../r/reinforcement_learning.md) frameworks. These algorithms aim to minimize cumulative regret and are extensively used in high-frequency trading to balance exploration and exploitation.
 
 ## Practical Tools and Frameworks
 

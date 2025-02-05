@@ -1,6 +1,6 @@
 # o3: The Next-Generation Reasoning Model
 
-**o3** is OpenAI’s next-generation model in the “o” series, building upon the strengths of o1 with enhanced reasoning capabilities, improved accuracy, and a more optimized architecture. It is designed for tasks that demand a deeper chain-of-thought and more reliable self-correction.
+**o3** is OpenAI’s next-generation model in the “o” series, building upon the strengths of o1 with enhanced reasoning capabilities, improved accuracy, and a more optimized architecture. It is designed for tasks that [demand](../d/demand.md) a deeper chain-of-thought and more reliable self-[correction](../c/correction.md).
 
 ### Key Components
 
@@ -11,7 +11,7 @@
    New algorithms and training methods reduce computational overhead while boosting performance, making o3 more efficient than its predecessor.
 
 3. **Safety Improvements:**  
-   Additional safeguards have been integrated to minimize the risk of generating harmful or incorrect outputs.
+   Additional safeguards have been integrated to minimize the [risk](../r/risk.md) of generating harmful or incorrect outputs.
 
 ### Applications
 
@@ -25,14 +25,14 @@
 ### Advantages
 
 - Superior performance in handling complex, multi-step tasks.
-- Improved efficiency compared to o1, leading to reduced response times.
+- Improved [efficiency](../e/efficiency.md) compared to o1, leading to reduced response times.
 - Enhanced safety features for more controlled output.
 
 ### Challenges
 
 - Increased complexity may result in longer processing times for some queries.
-- Continued need for balancing computational efficiency with the depth of reasoning.
+- Continued need for balancing computational [efficiency](../e/efficiency.md) with the depth of reasoning.
 
 ### Future Developments
 
-Further iterations of o3 will focus on refining the balance between speed and depth of analysis, as well as expanding its applicability to a broader range of high-stakes tasks.
+Further iterations of o3 [will](../w/will.md) focus on refining the balance between speed and depth of analysis, as well as expanding its applicability to a broader [range](../r/range.md) of high-stakes tasks.

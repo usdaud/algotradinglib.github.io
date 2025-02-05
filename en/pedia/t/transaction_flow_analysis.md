@@ -51,8 +51,8 @@ Conducting a thorough [transaction](../t/transaction.md) flow analysis is increa
     - **[Descriptive Statistics](../d/descriptive_statistics.md)**: Basic metrics like mean, [median](../m/median.md), [mode](../m/mode.md), [standard deviation](../s/standard_deviation.md), and percentiles of [transaction](../t/transaction.md) data.
     - **[Regression Analysis](../r/regression_analysis.md)**: Identifying relationships and dependencies between trading variables.
 
-4. **Machine Learning Applications**:
-    - **[Trend](../t/trend.md) Predictions**: Using machine learning models to predict future [market](../m/market.md) movements based on historical [transaction](../t/transaction.md) data.
+4. **[Machine Learning](../m/machine_learning.md) Applications**:
+    - **[Trend](../t/trend.md) Predictions**: Using [machine learning](../m/machine_learning.md) models to predict future [market](../m/market.md) movements based on historical [transaction](../t/transaction.md) data.
     - **[Anomaly Detection](../a/anomaly_detection.md)**: Spotting unusual patterns that may indicate fraudulent activities or system inefficiencies.
 
 ## Case Studies and Practical Applications
@@ -71,7 +71,7 @@ Conducting a thorough [transaction](../t/transaction.md) flow analysis is increa
 
 ## Future Trends in Transaction Flow Analysis
 
-- **Integration of AI and Machine Learning**: The ongoing development of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning technologies promises more sophisticated and accurate [transaction](../t/transaction.md) flow analysis tools.
+- **Integration of AI and [Machine Learning](../m/machine_learning.md)**: The ongoing development of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) technologies promises more sophisticated and accurate [transaction](../t/transaction.md) flow analysis tools.
 - **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: Innovations in [blockchain](../b/blockchain_in_trading.md) could [offer](../o/offer.md) more transparent and immutable [transaction](../t/transaction.md) records, potentially enhancing the analysis of [transaction](../t/transaction.md) flows.
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: The future of [transaction](../t/transaction.md) flow analysis might be significantly impacted by the advent of [quantum computing](../q/quantum_computing_in_trading.md), [offering](../o/offering.md) the potential to process complex data sets at unprecedented speeds.
 

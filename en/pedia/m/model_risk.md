@@ -75,9 +75,9 @@ Financial regulators have laid down specific guidelines for managing model [risk
 
 ## Use of Technology in Model Risk Management
 
-The evolution of technology has significantly influenced the management of model [risk](../r/risk.md). Advanced tools and techniques including Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) play a pivotal role:
+The evolution of technology has significantly influenced the management of model [risk](../r/risk.md). Advanced tools and techniques including [Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) play a pivotal role:
 
-1. **Machine Learning and AI:**
+1. **[Machine Learning](../m/machine_learning.md) and AI:**
    - *Predictive Maintenance*: AI can continuously monitor model performance and predict potential failures.
    - *[Anomaly Detection](../a/anomaly_detection.md)*: [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can detect anomalies in model outputs that may indicate issues.
 
@@ -119,4 +119,4 @@ Leading institutions implement several [best practices](../b/best_practices.md) 
 
 ## Conclusion
 
-Model [risk](../r/risk.md) represents a significant threat to financial institutions, arising from the potential inaccuracies and inadequacies of financial models. While various forms of model [risk](../r/risk.md) exist, stemming from erroneous assumptions to data quality issues, the impact of these risks can be profound. Effective management involves [robust](../r/robust.md) frameworks for model development, validation, and continuous monitoring, supported by a strong governance culture and adherence to regulatory guidelines. Leveraging advanced technologies like AI and Machine Learning can enhance model [risk management](../r/risk_management.md) but comes with its own set of challenges. By embracing [industry](../i/industry.md) [best practices](../b/best_practices.md), institutions can better navigate the complexities of model [risk](../r/risk.md), ensuring more resilient and accurate [financial modeling](../f/financial_modeling.md).
+Model [risk](../r/risk.md) represents a significant threat to financial institutions, arising from the potential inaccuracies and inadequacies of financial models. While various forms of model [risk](../r/risk.md) exist, stemming from erroneous assumptions to data quality issues, the impact of these risks can be profound. Effective management involves [robust](../r/robust.md) frameworks for model development, validation, and continuous monitoring, supported by a strong governance culture and adherence to regulatory guidelines. Leveraging advanced technologies like AI and [Machine Learning](../m/machine_learning.md) can enhance model [risk management](../r/risk_management.md) but comes with its own set of challenges. By embracing [industry](../i/industry.md) [best practices](../b/best_practices.md), institutions can better navigate the complexities of model [risk](../r/risk.md), ensuring more resilient and accurate [financial modeling](../f/financial_modeling.md).

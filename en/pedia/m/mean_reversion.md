@@ -52,7 +52,7 @@ Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies is one of
 Link: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
-Two Sigma uses machine learning, distributed computing, and other cutting-edge technologies to implement mean-reversion strategies among others. The [firm](../f/firm.md) analyzes vast datasets to predict mean reversion across various [asset](../a/asset.md) classes.
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other cutting-edge technologies to implement mean-reversion strategies among others. The [firm](../f/firm.md) analyzes vast datasets to predict mean reversion across various [asset](../a/asset.md) classes.
 
 Link: [Two Sigma](https://www.twosigma.com/)
 
@@ -66,7 +66,7 @@ Link: [AQR Capital Management](https://www.aqr.com/)
 Executing mean-reversion strategies requires the use of advanced statistical tools and techniques. Some of them include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Identifying trends and patterns in historical data to forecast future behavior.
-- **Machine Learning**: Leveraging algorithms to detect non-obvious mean-reverting patterns in large datasets.
+- **[Machine Learning](../m/machine_learning.md)**: Leveraging algorithms to detect non-obvious mean-reverting patterns in large datasets.
 - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: Assessing the probability of different outcomes in mean-reversion scenarios.
 
 ## Challenges and Considerations

@@ -43,7 +43,7 @@ A number of firms have emerged or expanded their footprint in the realm of [algo
 
 - **Citadel**: As a leading [hedge fund](../h/hedge_fund.md) and [market](../m/market.md)-maker, Citadel has leveraged sophisticated algorithmic strategies to optimize [trade](../t/trade.md) executions. [Citadel Securities](https://www.citadelsecurities.com/)
 
-- **Two Sigma**: Specializes in applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to develop predictive algorithms for trading. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Specializes in applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to develop predictive algorithms for trading. [Two Sigma](https://www.twosigma.com/)
 
 - **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md) strategies, employing complex algorithms to [trade](../t/trade.md) across various markets. [Renaissance Technologies](https://www.rentec.com/Home.action)
 

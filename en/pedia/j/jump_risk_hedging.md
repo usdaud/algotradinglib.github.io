@@ -85,7 +85,7 @@ Societe Generale [SG](https://www.societegenerale.com) employs a variety of [hed
 
 ### Machine Learning
 
-Machine learning techniques are being increasingly applied to detect and [hedge](../h/hedge.md) against jump risks. By analyzing vast amounts of data, machine learning models can identify patterns and predict potential jumps more accurately than traditional models.
+[Machine learning](../m/machine_learning.md) techniques are being increasingly applied to detect and [hedge](../h/hedge.md) against jump risks. By analyzing vast amounts of data, [machine learning](../m/machine_learning.md) models can identify patterns and predict potential jumps more accurately than traditional models.
 
 ### Blockchain and Crypto Derivatives
 

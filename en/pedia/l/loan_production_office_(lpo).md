@@ -56,7 +56,7 @@ Integrating advanced technology solutions is critical for optimizing the perform
 
 4. **Digital and Mobile Applications**: Digital platforms and mobile apps empower borrowers to apply for loans, upload documents, and track application status from the convenience of their devices.
 
-5. **[Data Analytics](../d/data_analytics.md) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Leveraging [data analytics](../d/data_analytics.md), machine learning, and AI helps LPOs identify [market](../m/market.md) trends, enhance [risk](../r/risk.md) assessment, and develop [predictive models](../p/predictive_models_in_trading.md) for better decision-making.
+5. **[Data Analytics](../d/data_analytics.md) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Leveraging [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and AI helps LPOs identify [market](../m/market.md) trends, enhance [risk](../r/risk.md) assessment, and develop [predictive models](../p/predictive_models_in_trading.md) for better decision-making.
 
 ## Challenges Faced by LPOs
 

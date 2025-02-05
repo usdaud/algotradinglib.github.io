@@ -11,7 +11,7 @@ Quantitative [Credit](../c/credit.md) Analysis integrates traditional [credit](.
 PD describes the likelihood that a borrower [will](../w/will.md) [default](../d/default.md) on their [debt](../d/debt.md) [obligations](../o/obligation.md) within a specified horizon, usually one year. Techniques involved in estimating PD include:
 
 - **[Logistic regression](../l/logistic_regression_in_trading.md) models:** Commonly used to predict binary outcomes, such as [default](../d/default.md) or no [default](../d/default.md). By examining [financial ratios](../f/financial_ratios.md) and other key indicators, [logistic regression](../l/logistic_regression_in_trading.md) helps in estimating the PD.
-- **Machine Learning Models:** Techniques such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) can [offer](../o/offer.md) more accurate PD estimations by capturing complex, non-linear relationships within the data.
+- **[Machine Learning](../m/machine_learning.md) Models:** Techniques such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) can [offer](../o/offer.md) more accurate PD estimations by capturing complex, non-linear relationships within the data.
 
 ### Loss Given Default (LGD)
 
@@ -115,7 +115,7 @@ Handling sensitive [credit](../c/credit.md) information necessitates stringent d
 
 ### Integration of AI and Machine Learning
 
-The use of AI and machine learning in QCA is expected to grow, enhancing predictive capabilities and uncovering hidden patterns in large datasets.
+The use of AI and [machine learning](../m/machine_learning.md) in QCA is expected to grow, enhancing predictive capabilities and uncovering hidden patterns in large datasets.
 
 ### Big Data Analytics
 

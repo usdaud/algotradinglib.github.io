@@ -60,7 +60,7 @@ This rule of thumb illustrates a straightforward approach to achieving [diversif
 ### Algorithmic Trading
 In [algorithmic trading](../a/accountability.md), rules of thumb can serve as foundational principles for developing [trading algorithms](../t/trading_algorithms.md). For instance, the two percent rule can be embedded within [risk management](../r/risk_management.md) algorithms. Similarly, the PE ratio rule can be part of stock selection models:
 - **[Backtesting](../b/backtesting.md)**: Rules of thumb can be tested using historical data to evaluate their efficacy and refine algorithms accordingly.
-- **Machine Learning**: Algorithms can be trained using these [heuristics](../h/heuristics.md) as [baseline](../b/baseline.md) metrics to enhance predictive accuracy and decision-making.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms can be trained using these [heuristics](../h/heuristics.md) as [baseline](../b/baseline.md) metrics to enhance predictive accuracy and decision-making.
 
 ### Fintech
 Financial technology (fintech) companies often incorporate rules of thumb into their tools and platforms to assist users in managing their finances:

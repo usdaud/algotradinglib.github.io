@@ -63,7 +63,7 @@ In [algorithmic trading](../a/accountability.md), understanding the [financial h
 Fintech companies are continually introducing new tools to improve [credit](../c/credit.md) management and transactions on account. Innovations like [blockchain](../b/blockchain_in_trading.md) and AI are creating more secure, efficient, and transparent systems for managing [credit](../c/credit.md) risks:
 
 - **[Blockchain](../b/blockchain_in_trading.md) for Secure Transactions:** [Blockchain](../b/blockchain_in_trading.md) technology ensures secure and verifiable records of transactions on account, reducing [fraud](../f/fraud.md) [risk](../r/risk.md). Companies like **R3** [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md)-based solutions for financial institutions. [R3](https://www.r3.com/)
-- **AI for [Credit Risk](../c/credit_risk.md) Assessment:** AI and machine learning models analyze vast amounts of data to predict [credit risk](../c/credit_risk.md) more accurately. Companies like **Zest AI** specialize in AI-driven [credit risk](../c/credit_risk.md) assessment tools. [Zest AI](https://www.zest.ai/)
+- **AI for [Credit Risk](../c/credit_risk.md) Assessment:** AI and [machine learning](../m/machine_learning.md) models analyze vast amounts of data to predict [credit risk](../c/credit_risk.md) more accurately. Companies like **Zest AI** specialize in AI-driven [credit risk](../c/credit_risk.md) assessment tools. [Zest AI](https://www.zest.ai/)
 
 ### Business Implications
 

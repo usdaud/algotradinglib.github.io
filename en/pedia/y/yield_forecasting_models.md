@@ -11,7 +11,7 @@ There are several types of [yield](../y/yield.md) [forecasting models](../f/fore
    - *GARCH*: [GARCH models](../g/garch_models.md) are used to forecast [volatility](../v/volatility.md) in [financial time series](../f/financial_time_series.md), helping in [yield](../y/yield.md) prediction under varying [market](../m/market.md) conditions.
    - *[Exponential Smoothing](../e/exponential_smoothing.md)*: This technique applies weights that exponentially decrease for older data points, thus giving more importance to recent observations.
 
-2. **Machine Learning Models**: Machine learning approaches have gained traction due to their ability to process large amounts of data and uncover complex relationships. Common techniques include [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
+2. **[Machine Learning](../m/machine_learning.md) Models**: [Machine learning](../m/machine_learning.md) approaches have gained traction due to their ability to process large amounts of data and uncover complex relationships. Common techniques include [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
    - *[Regression Analysis](../r/regression_analysis.md)*: Linear and [nonlinear regression](../n/nonlinear_regression.md) models help in understanding the relationship between [yield](../y/yield.md) and various predictive variables.
    - *[Decision Trees](../d/decision_trees.md)*: These are used for classifying data and making predictions based on the branching logic of tree structures.
    - *[Neural Networks](../n/neural_networks_in_trading.md)*: [Deep learning](../d/deep_learning.md) models simulate the human brain's network to predict yields based on multi-layered data input processes.
@@ -71,13 +71,13 @@ Looking to the future, these areas present potential developments:
 
 - **[Incorporation](../i/incorporation.md) of [Big Data](../b/big_data_in_trading.md)**: With increased data availability, models can incorporate a broader [range](../r/range.md) of variables and more granular data.
   
-- **Enhanced Machine Learning Techniques**: Advances in machine learning can provide more sophisticated tools for uncovering patterns and making predictions.
+- **Enhanced [Machine Learning](../m/machine_learning.md) Techniques**: Advances in [machine learning](../m/machine_learning.md) can provide more sophisticated tools for uncovering patterns and making predictions.
   
 - **Integration of [Alternative Data](../a/alternative_data.md)**: [Non-traditional data sources](../n/non-traditional_data_sources.md), such as [social media](../s/social_media.md) and satellite imagery, can enhance model accuracy and relevance.
 
 ### Conclusion
 
-[Yield](../y/yield.md) [forecasting models](../f/forecasting_models.md) represent a critical tool in modern [finance](../f/finance.md) and agriculture, guiding important decisions and strategies. Though they come with inherent challenges, ongoing advancements in [data analytics](../d/data_analytics.md), machine learning, and computational power continue to enhance their robustness and reliability.
+[Yield](../y/yield.md) [forecasting models](../f/forecasting_models.md) represent a critical tool in modern [finance](../f/finance.md) and agriculture, guiding important decisions and strategies. Though they come with inherent challenges, ongoing advancements in [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and computational power continue to enhance their robustness and reliability.
 
 For more information on companies leveraging advanced [yield](../y/yield.md) [forecasting models](../f/forecasting_models.md), you can visit the following links:
 

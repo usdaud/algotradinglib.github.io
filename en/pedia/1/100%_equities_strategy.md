@@ -21,10 +21,10 @@ In the universe of [algorithmic trading](../a/accountability.md), the 100% equit
 
 ### Machine Learning Algorithms
 
-Machine learning has emerged as a powerful tool in [algorithmic trading](../a/accountability.md). By training algorithms on historical data, machine learning models can identify complex patterns and make real-time trading decisions. Popular techniques include:
+[Machine learning](../m/machine_learning.md) has emerged as a powerful tool in [algorithmic trading](../a/accountability.md). By training algorithms on historical data, [machine learning](../m/machine_learning.md) models can identify complex patterns and make real-time trading decisions. Popular techniques include:
 
-- **Supervised Learning**: Algorithms are trained on labeled data to predict future stock prices based on historical patterns.
-- **Reinforcement Learning**: This technique involves training algorithms through trial and error, where they learn to make optimal trading decisions by maximizing cumulative rewards.
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms are trained on labeled data to predict future stock prices based on historical patterns.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: This technique involves training algorithms through trial and error, where they learn to make optimal trading decisions by maximizing cumulative rewards.
 
 ### High-Frequency Trading (HFT)
 

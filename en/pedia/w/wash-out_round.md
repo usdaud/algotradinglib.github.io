@@ -87,7 +87,7 @@ As the ecosystem evolves, both startups and investors are becoming more adept at
 
 ### Technological Innovations
 
-Advancements in financial technology, [predictive analytics](../p/predictive_analytics.md), and machine learning can provide better insights into a company's trajectory, allowing for earlier detection of issues and more data-driven decision-making in funding rounds.
+Advancements in financial technology, [predictive analytics](../p/predictive_analytics.md), and [machine learning](../m/machine_learning.md) can provide better insights into a company's trajectory, allowing for earlier detection of issues and more data-driven decision-making in funding rounds.
 
 ## Conclusion
 

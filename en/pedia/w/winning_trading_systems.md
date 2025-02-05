@@ -66,9 +66,9 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze va
 
 - **Classification Models:** Identifying whether an [asset](../a/asset.md)'s price [will](../w/will.md) go up or down based on historical patterns.
 
-- **Reinforcement Learning:** Training models to make trading decisions by rewarding successful trades and penalizing unsuccessful ones.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Training models to make trading decisions by rewarding successful trades and penalizing unsuccessful ones.
 
-Many [quantitative trading](../q/quantitative_trading.md) firms are integrating machine learning into their systems:
+Many [quantitative trading](../q/quantitative_trading.md) firms are integrating [machine learning](../m/machine_learning.md) into their systems:
 
 - **Two Sigma:** [Two Sigma - Home](https://www.twosigma.com)
 - **D. E. Shaw & Co.:** [D. E. Shaw & Co. - Home](https://www.deshaw.com)
@@ -129,7 +129,7 @@ Bridgewater Associates, founded by Ray Dalio, is known for its macroeconomic [tr
 
 ### 3. **Citadel LLC**
 
-Citadel LLC, founded by Ken Griffin, employs a combination of quantitative and fundamental strategies. Citadel's GQS (Global [Quantitative Strategies](../q/quantitative_strategies_in_trading.md)) division uses advanced statistical models and machine learning to identify trading opportunities across global markets.
+Citadel LLC, founded by Ken Griffin, employs a combination of quantitative and fundamental strategies. Citadel's GQS (Global [Quantitative Strategies](../q/quantitative_strategies_in_trading.md)) division uses advanced statistical models and [machine learning](../m/machine_learning.md) to identify trading opportunities across global markets.
 
 - [Citadel LLC - Home](https://www.citadel.com)
 
@@ -141,4 +141,4 @@ Hudson River Trading (HRT) is a prominent HFT [firm](../f/firm.md) that relies o
 
 ## Conclusion
 
-Winning [trading systems](../t/trading_systems.md) in the realm of [algorithmic trading](../a/algorithmic_trading.md) involve a combination of [robust](../r/robust.md) algorithms, efficient [execution](../e/execution.md) mechanisms, and effective [risk management](../r/risk_management.md) techniques. From high-frequency trading to machine learning-based strategies, successful firms like Renaissance Technologies, Citadel LLC, and Hudson River Trading showcase the power of sophisticated [quantitative models](../q/quantitative_models.md) and state-of-the-art technology. As [financial markets](../f/financial_market.md) continue to evolve, the development and refinement of winning [trading systems](../t/trading_systems.md) [will](../w/will.md) remain a dynamic and integral part of the trading landscape.
+Winning [trading systems](../t/trading_systems.md) in the realm of [algorithmic trading](../a/algorithmic_trading.md) involve a combination of [robust](../r/robust.md) algorithms, efficient [execution](../e/execution.md) mechanisms, and effective [risk management](../r/risk_management.md) techniques. From high-frequency trading to [machine learning](../m/machine_learning.md)-based strategies, successful firms like Renaissance Technologies, Citadel LLC, and Hudson River Trading showcase the power of sophisticated [quantitative models](../q/quantitative_models.md) and state-of-the-art technology. As [financial markets](../f/financial_market.md) continue to evolve, the development and refinement of winning [trading systems](../t/trading_systems.md) [will](../w/will.md) remain a dynamic and integral part of the trading landscape.

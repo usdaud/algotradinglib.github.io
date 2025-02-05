@@ -22,7 +22,7 @@ The concept of managed [futures](../f/futures.md) dates back to the 1970s when t
 - **Inter-[Commodity](../c/commodity.md) Spread [Arbitrage](../a/arbitrage.md)**: Trading price differences between related but not identical commodities, such as Brent [crude oil](../c/crude_oil.md) and West Texas Intermediate (WTI) oil.
 
 ### Systematic Trading
-[Systematic trading](../s/systematic_trading.md) involves the use of [quantitative models](../q/quantitative_models.md) and algorithms to identify and exploit trading opportunities. These models are based on statistical analysis, machine learning, and historical data, allowing for:
+[Systematic trading](../s/systematic_trading.md) involves the use of [quantitative models](../q/quantitative_models.md) and algorithms to identify and exploit trading opportunities. These models are based on statistical analysis, [machine learning](../m/machine_learning.md), and historical data, allowing for:
 - **High-Frequency Trading (HFT)**: Strategies that execute a large number of trades at very high speeds, capitalizing on small price movements.
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: [Automated trading systems](../a/automated_trading_systems.md) that follow predefined criteria to execute trades, reducing human error and emotional decision-making.
 

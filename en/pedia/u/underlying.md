@@ -83,7 +83,7 @@ Various algo [trading strategies](../t/trading_strategies.md) are built around u
 - **[Arbitrage](../a/arbitrage.md)**: Exploits price differences between similar or related underlying assets.
 
 ### Machine Learning
-Machine learning techniques can be applied to predict the price movements of underlying assets. Algorithms like [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) analyze complex patterns in the data, providing insights that can be used for trading decisions.
+[Machine learning](../m/machine_learning.md) techniques can be applied to predict the price movements of underlying assets. Algorithms like [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) analyze complex patterns in the data, providing insights that can be used for trading decisions.
 
 ### Risk Management
 [Automated risk management](../a/automated_risk_management.md) tools can be programmed to monitor the underlying assets and adjust positions in real-time based on predefined [risk](../r/risk.md) parameters. For example, a sudden drop in an underlying stock's price might trigger the algorithm to sell related [derivatives](../d/derivatives.md) to mitigate losses.

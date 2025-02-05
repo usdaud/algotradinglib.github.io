@@ -69,11 +69,11 @@ While positive [economics](../e/economics.md) strives for objectivity and empiri
 
 ### Contemporary Developments
 
-Advances in technology and [data science](../d/data_science_in_trading.md) are transforming positive [economics](../e/economics.md). [Big data](../b/big_data_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) [offer](../o/offer.md) new avenues for analyzing and predicting economic behaviors:
+Advances in technology and [data science](../d/data_science_in_trading.md) are transforming positive [economics](../e/economics.md). [Big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) [offer](../o/offer.md) new avenues for analyzing and predicting economic behaviors:
 
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: The ability to process and analyze vast volumes of data from diverse sources, like [social media](../s/social_media.md), [transaction](../t/transaction.md) records, and IoT devices, provides deeper insights into economic activities.
 
-- **Machine Learning**: [Predictive models](../p/predictive_models_in_trading.md) and algorithms can identify complex patterns and relationships within large datasets, [offering](../o/offering.md) improved [forecasting](../f/forecasting.md) accuracy.
+- **[Machine Learning](../m/machine_learning.md)**: [Predictive models](../p/predictive_models_in_trading.md) and algorithms can identify complex patterns and relationships within large datasets, [offering](../o/offering.md) improved [forecasting](../f/forecasting.md) accuracy.
 
 - **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The rise of digital currencies and [blockchain](../b/blockchain_in_trading.md) technology presents new challenges and opportunities for positive economic analysis, particularly in understanding their impact on traditional financial systems.
 

@@ -58,7 +58,7 @@ Several platforms and firms specialize in [exchange](../e/exchange.md) [arbitrag
 
 The landscape of [exchange](../e/exchange.md) [arbitrage](../a/arbitrage.md) is continually evolving, driven by advancements in technology and changes in [market dynamics](../m/market_dynamics.md). 
 
-1. **AI and Machine Learning**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning can enhance the precision and [efficiency](../e/efficiency.md) of [arbitrage](../a/arbitrage.md) algorithms. These technologies can process vast amounts of data and identify patterns that might not be obvious to human traders.
+1. **AI and [Machine Learning](../m/machine_learning.md)**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) can enhance the precision and [efficiency](../e/efficiency.md) of [arbitrage](../a/arbitrage.md) algorithms. These technologies can process vast amounts of data and identify patterns that might not be obvious to human traders.
 
 2. **Decentralized [Finance](../f/finance.md) (DeFi)**: The rise of DeFi platforms introduces new [arbitrage](../a/arbitrage.md) opportunities, especially with [liquidity pools](../l/liquidity_pools.md) and automated [market](../m/market.md) makers (AMMs). [Arbitrage](../a/arbitrage.md) in DeFi might involve trading between centralized and decentralized exchanges or within different DeFi protocols.
 

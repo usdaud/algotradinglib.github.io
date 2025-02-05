@@ -84,7 +84,7 @@ AR can enhance the online shopping experience by providing virtual try-ons or vi
 Voice-activated shopping via digital assistants like Amazon's Alexa or Google Assistant is becoming more popular.
 
 ### AI and Machine Learning
-AI and machine learning are being used for personalized recommendations, improving [customer service](../c/customer_service.md) through chatbots, and optimizing [supply chain](../s/supply_chain.md) operations.
+AI and [machine learning](../m/machine_learning.md) are being used for personalized recommendations, improving [customer service](../c/customer_service.md) through chatbots, and optimizing [supply chain](../s/supply_chain.md) operations.
 
 ### Subscription Services
 Subscription-based e-[commerce](../c/commerce.md) models for products and services are gaining popularity, [offering](../o/offering.md) convenience and [recurring revenue](../r/recurring_revenue.md) streams for businesses.

@@ -29,7 +29,7 @@ Social factors analyze the shared belief and attitudes of the population. These 
 Technological factors pertain to innovations in technology that may affect the operations of the [industry](../i/industry.md) and [market](../m/market.md) favorably or unfavorably. These include technological advancements, research and development activity, automation, technology incentives, and the rate of technological change. Keeping pace with technological trends can enhance [competitive advantage](../c/competitive_advantage.md).
 
 #### Examples:
-- Advancements in AI and machine learning can streamline operations.
+- Advancements in AI and [machine learning](../m/machine_learning.md) can streamline operations.
 - E-[commerce](../c/commerce.md) growth influences traditional retail businesses.
 
 ## Applications of PEST Analysis

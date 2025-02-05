@@ -72,7 +72,7 @@ Consider a scenario where a central [bank](../b/bank.md) adopts a policy shift, 
 - **On Announcement:** Real-time monitoring of [market](../m/market.md) movements, including [bond](../b/bond.md) yields, stock prices, and other [interest](../i/interest.md) rates.
 - **Post-policy Implementation:** Assessing the [market](../m/market.md)'s adjustment over time to the new repo rate environment.
 
-By leveraging advanced algorithms and machine learning techniques, traders can develop models predicting the impact of such central [bank](../b/bank.md) decisions on various [asset](../a/asset.md) classes.
+By leveraging advanced algorithms and [machine learning](../m/machine_learning.md) techniques, traders can develop models predicting the impact of such central [bank](../b/bank.md) decisions on various [asset](../a/asset.md) classes.
 
 #### Conclusion
 

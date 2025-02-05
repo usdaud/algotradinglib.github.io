@@ -44,7 +44,7 @@ Lexalytics offers a comprehensive suite of text analytics tools designed for [se
 
 ## 5. MonkeyLearn
 
-MonkeyLearn is a machine learning platform specifically tailored for text analysis. It offers pre-trained models for [sentiment analysis](../s/sentiment_analysis.md) or the ability to custom-train your models according to your specific datasets. This flexibility is particularly useful for algorithmic traders who have niche requirements for sentiment extraction.
+MonkeyLearn is a [machine learning](../m/machine_learning.md) platform specifically tailored for text analysis. It offers pre-trained models for [sentiment analysis](../s/sentiment_analysis.md) or the ability to custom-train your models according to your specific datasets. This flexibility is particularly useful for algorithmic traders who have niche requirements for sentiment extraction.
 
 - **Website:** [MonkeyLearn](https://monkeylearn.com/)
 - **Key Features:**
@@ -104,4 +104,4 @@ FinSentS, provided by InfoTrie, is specifically designed for financial [sentimen
 
 ## Conclusion
 
-The [incorporation](../i/incorporation.md) of [sentiment analysis](../s/sentiment_analysis.md) into [algorithmic trading](../a/algorithmic_trading.md) strategies can significantly enhance decision-making processes by providing insights that are not readily apparent through traditional data analysis methods. The tools and platforms outlined in this document [offer](../o/offer.md) a [range](../r/range.md) of functionalities, from simple lexicon-based sentiment scoring to advanced machine learning models. By leveraging these tools, traders can [gain](../g/gain.md) a competitive edge in the fast-paced world of [financial markets](../f/financial_market.md). Each tool has its unique strengths and is suited to different trading needs, making it crucial to select the one that aligns best with your specific requirements.
+The [incorporation](../i/incorporation.md) of [sentiment analysis](../s/sentiment_analysis.md) into [algorithmic trading](../a/algorithmic_trading.md) strategies can significantly enhance decision-making processes by providing insights that are not readily apparent through traditional data analysis methods. The tools and platforms outlined in this document [offer](../o/offer.md) a [range](../r/range.md) of functionalities, from simple lexicon-based sentiment scoring to advanced [machine learning](../m/machine_learning.md) models. By leveraging these tools, traders can [gain](../g/gain.md) a competitive edge in the fast-paced world of [financial markets](../f/financial_market.md). Each tool has its unique strengths and is suited to different trading needs, making it crucial to select the one that aligns best with your specific requirements.

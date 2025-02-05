@@ -120,7 +120,7 @@ Consider a fictitious company, TechInnovate Inc., seeking to evaluate its [valua
 
 With advancements in fintech, the relative [valuation](../v/valuation.md) process can be automated. Algorithms can scan vast datasets to identify comparables, calculate ratios, and apply adjustments in real-time:
 
-- **AI and Machine Learning**: These technologies can predict the most relevant comparables and forecast financial metrics with a higher degree of accuracy. They can even account for complex interactions and non-linear relationships that traditional methods might miss.
+- **AI and [Machine Learning](../m/machine_learning.md)**: These technologies can predict the most relevant comparables and forecast financial metrics with a higher degree of accuracy. They can even account for complex interactions and non-linear relationships that traditional methods might miss.
   
 - **[Data Analytics](../d/data_analytics.md) Platforms**: Companies like [Bloomberg](../b/bloomberg.md) and MSCI provide platforms that integrate real-time data, allowing users to conduct relative [valuation](../v/valuation.md) more efficiently. For more information, visit [Bloomberg](https://www.bloomberg.com/professional/product/market-data).
 

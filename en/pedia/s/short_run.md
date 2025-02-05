@@ -74,7 +74,7 @@ Fiscal policies, including tax changes and government spending programs, also im
 
 ### Influence of Technology on Short-Run Production
 
-Technological advancements can alter the short-run production capabilities of firms significantly. Innovations in [manufacturing](../m/manufacturing.md) processes, information technology, and automation enable firms to improve [productivity](../p/productivity.md) and reduce costs. For instance, implementing AI and machine learning can lead to immediate efficiencies in operations and data analysis.
+Technological advancements can alter the short-run production capabilities of firms significantly. Innovations in [manufacturing](../m/manufacturing.md) processes, information technology, and automation enable firms to improve [productivity](../p/productivity.md) and reduce costs. For instance, implementing AI and [machine learning](../m/machine_learning.md) can lead to immediate efficiencies in operations and data analysis.
 
 ### Fintech and Financial Innovation
 

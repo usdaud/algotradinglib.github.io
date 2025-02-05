@@ -18,7 +18,7 @@ Quantitative investment techniques have been around since the 1970s, but they be
 
 ### Machine Learning
 
-Machine learning techniques are increasingly integrated into [quantitative investment strategies](../q/quantitative_investment_strategies.md). They [offer](../o/offer.md) the ability to analyze vast sets of unstructured data to identify complex patterns beyond the capability of traditional statistical methods.
+[Machine learning](../m/machine_learning.md) techniques are increasingly integrated into [quantitative investment strategies](../q/quantitative_investment_strategies.md). They [offer](../o/offer.md) the ability to analyze vast sets of unstructured data to identify complex patterns beyond the capability of traditional statistical methods.
 
 ### Stochastic Processes
 
@@ -114,7 +114,7 @@ Quantitative investment techniques are not without their challenges. [Overfittin
 
 ### Artificial Intelligence
 
-The integration of AI and machine learning [will](../w/will.md) continue to evolve, [offering](../o/offering.md) more sophisticated models and improved predictive capabilities.
+The integration of AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) continue to evolve, [offering](../o/offering.md) more sophisticated models and improved predictive capabilities.
 
 ### Big Data
 

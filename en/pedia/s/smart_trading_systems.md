@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Smart [trading systems](../t/trading_systems.md) in [algorithmic trading](../a/algorithmic_trading.md) represent a confluence of advanced [computational algorithms](../c/computational_algorithms.md), real-time data processing, and intelligent decision-making capabilities. These systems are designed to analyze [market](../m/market.md) trends, execute trades, and manage portfolios with minimal human intervention. Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and sophisticated statistical models, smart [trading systems](../t/trading_systems.md) aim to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks.
+Smart [trading systems](../t/trading_systems.md) in [algorithmic trading](../a/algorithmic_trading.md) represent a confluence of advanced [computational algorithms](../c/computational_algorithms.md), real-time data processing, and intelligent decision-making capabilities. These systems are designed to analyze [market](../m/market.md) trends, execute trades, and manage portfolios with minimal human intervention. Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), and sophisticated statistical models, smart [trading systems](../t/trading_systems.md) aim to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks.
 
 ## Core Components of Smart Trading Systems
 
@@ -26,9 +26,9 @@ Smart [trading systems](../t/trading_systems.md) rely heavily on data, which can
 
 AI and ML algorithms have revolutionized [algorithmic trading](../a/algorithmic_trading.md) by providing systems with the ability to learn and adapt from data without being explicitly programmed.
 
-- **Supervised Learning**: Using labeled data to train models for price prediction and classification tasks.
-- **Unsupervised Learning**: Discovering hidden patterns in unlabeled data to identify anomalies or clusters.
-- **Reinforcement Learning**: Optimizing [trading strategies](../t/trading_strategies.md) through trial and error, with the system receiving feedback based on the outcomes of its actions.
+- **[Supervised Learning](../s/supervised_learning.md)**: Using labeled data to train models for price prediction and classification tasks.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Discovering hidden patterns in unlabeled data to identify anomalies or clusters.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Optimizing [trading strategies](../t/trading_strategies.md) through trial and error, with the system receiving feedback based on the outcomes of its actions.
 
 ### 4. Execution Algorithms
 
@@ -49,7 +49,7 @@ Effective [risk management](../r/risk_management.md) is essential for the sustai
 ## Notable Companies in Smart Trading Systems
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com) is a technology-driven [hedge fund](../h/hedge_fund.md) that utilizes machine learning, distributed computing, and data analysis to create sophisticated [trading strategies](../t/trading_strategies.md).
+Two Sigma (https://www.twosigma.com) is a technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md), distributed computing, and data analysis to create sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
 Renaissance Technologies (https://www.rentec.com) is a prominent quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which employs [mathematical models](../m/mathematical_models_in_trading.md) to achieve remarkable returns.

@@ -92,7 +92,7 @@ One of the most famous examples of a [hedge fund](../h/hedge_fund.md) that utili
 The field continues to evolve with advancements in [financial engineering](../f/financial_engineering.md) and computational techniques:
 
 ### 8.1 Machine Learning and AI
-Modern approaches [leverage](../l/leverage.md) machine learning and AI algorithms to identify patterns and pricing anomalies by processing vast amounts of [market](../m/market.md) data. [Deep learning](../d/deep_learning.md) models can detect complex, non-linear relationships that classical models might miss.
+Modern approaches [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) and AI algorithms to identify patterns and pricing anomalies by processing vast amounts of [market](../m/market.md) data. [Deep learning](../d/deep_learning.md) models can detect complex, non-linear relationships that classical models might miss.
 
 ### 8.2 High-Frequency Trading (HFT)
 High-frequency trading firms [capitalize](../c/capitalize.md) on very short-term pricing discrepancies, including [options](../o/options.md) mispricings. Firms like Citadel Securities (https://www.citadelsecurities.com) utilize cutting-edge technology and algorithms to execute large volumes of trades rapidly.

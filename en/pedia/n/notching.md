@@ -75,7 +75,7 @@ Notching practices have come under regulatory scrutiny, with calls for stricter 
 
 ## The Future of Notching
 
-As [financial markets](../f/financial_market.md) evolve, so do the practices and methodologies behind notching. Emerging trends and technologies, such as machine learning and AI, are being explored to enhance the precision and [transparency](../t/transparency.md) of notching processes. Regulatory bodies also continue to refine frameworks to address the challenges and maintain the integrity of [rating](../r/rating.md) systems.
+As [financial markets](../f/financial_market.md) evolve, so do the practices and methodologies behind notching. Emerging trends and technologies, such as [machine learning](../m/machine_learning.md) and AI, are being explored to enhance the precision and [transparency](../t/transparency.md) of notching processes. Regulatory bodies also continue to refine frameworks to address the challenges and maintain the integrity of [rating](../r/rating.md) systems.
 
 ### Technological Integration
 

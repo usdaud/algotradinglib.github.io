@@ -15,7 +15,7 @@ Hybrid [trading systems](../t/trading_systems.md) often integrate several key co
    - [Trend](../t/trend.md)-following algorithms
    - Statistical [arbitrage](../a/arbitrage.md) models
    - [Market](../m/market.md)-making algorithms
-   - Machine learning and AI-based models
+   - [Machine learning](../m/machine_learning.md) and AI-based models
 
 3. **[Execution](../e/execution.md) Systems**: [Order](../o/order.md) [execution](../e/execution.md) benefits from algorithms that can swiftly respond to [market](../m/market.md) changes, minimizing [slippage](../s/slippage.md) and optimizing entry and exit points. [Execution](../e/execution.md) systems might incorporate:
    - Smart [Order Routing](../o/order_routing.md) (SOR)
@@ -80,7 +80,7 @@ Several firms are known for their implementation of hybrid [trading strategies](
 
 4. **Jane Street**: Known for its sophisticated [trading systems](../t/trading_systems.md) that combine human [judgment](../j/judgment.md) with algorithmic precision. [Jane Street](https://www.janestreet.com/)
 
-5. **Two Sigma**: A quantitative investment [firm](../f/firm.md) that uses machine learning and other advanced technologies, harnessing human insights for complex decision-making. [Two Sigma](https://www.twosigma.com/)
+5. **Two Sigma**: A quantitative investment [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and other advanced technologies, harnessing human insights for complex decision-making. [Two Sigma](https://www.twosigma.com/)
 
 ### Conclusion
 

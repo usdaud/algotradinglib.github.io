@@ -4,7 +4,7 @@ Partial Least Squares (PLS) is a powerful statistical method that is extensively
 
 ### Introduction to Partial Least Squares
 
-Partial Least Squares is fundamentally a [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique, sharing some conceptual similarities with [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) but with a unique approach. Unlike PCA, which focuses solely on capturing the variance in the predictors, PLS also takes the response variable into account, aiming to maximize the [covariance](../c/covariance.md) between the predictors and the response. This makes PLS especially valuable in [predictive modeling](../p/predictive_modeling.md) and machine learning applications.
+Partial Least Squares is fundamentally a [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique, sharing some conceptual similarities with [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) but with a unique approach. Unlike PCA, which focuses solely on capturing the variance in the predictors, PLS also takes the response variable into account, aiming to maximize the [covariance](../c/covariance.md) between the predictors and the response. This makes PLS especially valuable in [predictive modeling](../p/predictive_modeling.md) and [machine learning](../m/machine_learning.md) applications.
 
 ### The Mathematical Foundation of PLS
 
@@ -58,7 +58,7 @@ Several statistical software packages and programming environments provide imple
 
 #### R Packages
 - **plsr**: Part of the `pls` package in R, this function provides an extensive toolkit for PLS regression and related methods.
-- **caret**: The caret package in R offers a unified interface for various machine learning models, including PLS.
+- **caret**: The caret package in R offers a unified interface for various [machine learning](../m/machine_learning.md) models, including PLS.
 
 #### MATLAB
 - **Partial Least Squares Toolbox**: MATLAB’s [robust](../r/robust.md) computational environment includes a suite of functions for PLS regression, facilitating the integration of PLS in complex financial models.

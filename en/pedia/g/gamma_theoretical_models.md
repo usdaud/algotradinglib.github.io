@@ -57,7 +57,7 @@ In high-frequency trading, algorithms can execute thousands of trades per second
 [Delta](../d/delta.md)-[gamma hedging](../g/gamma_hedging.md) is a strategy that seeks to mitigate the risks associated with large price movements of the [underlying asset](../u/underlying_asset.md). By using [options](../o/options.md) and other financial instruments, traders can construct a portfolio that is both [delta](../d/delta.md) and [gamma neutral](../g/gamma_neutral.md). This strategy requires continuous monitoring and adjusting, which is why [algorithmic trading](../a/algorithmic_trading.md) systems are often used.
 
 ### Machine Learning Models
-Machine learning is increasingly employed in [gamma](../g/gamma.md)-related [trading strategies](../t/trading_strategies.md). These models can learn from historical data to predict changes in the [underlying asset](../u/underlying_asset.md)’s price, thereby helping traders to adjust their positions in real time.
+[Machine learning](../m/machine_learning.md) is increasingly employed in [gamma](../g/gamma.md)-related [trading strategies](../t/trading_strategies.md). These models can learn from historical data to predict changes in the [underlying asset](../u/underlying_asset.md)’s price, thereby helping traders to adjust their positions in real time.
 
 ## Case Studies of Companies Utilizing Gamma Models
 Several financial institutions and trading firms [leverage](../l/leverage.md) [gamma](../g/gamma.md) models to optimize their [trading strategies](../t/trading_strategies.md) and manage [risk](../r/risk.md).

@@ -22,7 +22,7 @@ X-Pattern Trading is a sophisticated [algorithmic trading](../a/algorithmic_trad
 
 The process of X-Pattern Trading can be broken down into several essential steps:
 
-1. **[Pattern Recognition](../p/pattern_recognition.md)**: This involves identifying potential [X-Patterns](../x/x-patterns_in_trading.md) in historical and [real-time market data](../r/real-time_market_data.md). Advanced algorithms and machine learning techniques can be implemented to automate this process.
+1. **[Pattern Recognition](../p/pattern_recognition.md)**: This involves identifying potential [X-Patterns](../x/x-patterns_in_trading.md) in historical and [real-time market data](../r/real-time_market_data.md). Advanced algorithms and [machine learning](../m/machine_learning.md) techniques can be implemented to automate this process.
 
 2. **Signal Generation**: Once an X-Pattern is identified, the system generates a buy or sell signal. The reliability of these signals depends on the accuracy and precision of the [pattern recognition](../p/pattern_recognition.md) algorithm.
 
@@ -40,7 +40,7 @@ Implementing X-Pattern [Trading strategies](../t/trading_strategies.md) involves
 
 2. **Feature Engineering**: Creating features from raw data that can highlight [X-Patterns](../x/x-patterns_in_trading.md). This may include calculating moving averages, [relative strength](../r/relative_strength.md) indices, etc.
 
-3. **Model Selection**: Choosing appropriate models to detect [X-Patterns](../x/x-patterns_in_trading.md). In many cases, machine learning models like Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md), or [neural networks](../n/neural_networks_in_trading.md) are used.
+3. **Model Selection**: Choosing appropriate models to detect [X-Patterns](../x/x-patterns_in_trading.md). In many cases, [machine learning](../m/machine_learning.md) models like Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md), or [neural networks](../n/neural_networks_in_trading.md) are used.
 
 4. **[Backtesting](../b/backtesting.md)**: Testing the developed algorithm on historical data to evaluate its performance. [Backtesting](../b/backtesting.md) helps in fine-tuning the algorithm to improve accuracy.
 
@@ -68,7 +68,7 @@ X-Pattern Trading is used by various financial institutions and [proprietary tra
 
 ### Hedge Funds
 
-- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that leverages machine learning to detect trading patterns and opportunities. (https://www.twosigma.com/)
+- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) to detect trading patterns and opportunities. (https://www.twosigma.com/)
 
 ### Proprietary Trading Firms
 

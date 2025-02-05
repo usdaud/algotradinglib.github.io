@@ -89,7 +89,7 @@ Despite its critical role, the tertiary [industry](../i/industry.md) faces sever
 
 The future of the tertiary [industry](../i/industry.md) [will](../w/will.md) be shaped by several trends:
 
-1. **Automation and AI**: Greater use of AI and machine learning to enhance service delivery and [efficiency](../e/efficiency.md).
+1. **Automation and AI**: Greater use of AI and [machine learning](../m/machine_learning.md) to enhance service delivery and [efficiency](../e/efficiency.md).
 2. **Sustainability**: Growing emphasis on sustainable practices and corporate [social responsibility](../s/social_responsibility.md).
 3. **Personalization**: Increased focus on personalized [customer](../c/customer.md) experiences driven by [big data](../b/big_data_in_trading.md) and analytics.
 4. **Global Service Delivery**: [Expansion](../e/expansion.md) of service delivery models to include a global workforce and [customer](../c/customer.md) base.

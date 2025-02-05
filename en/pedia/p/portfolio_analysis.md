@@ -57,7 +57,7 @@ Dynamic [asset allocation](../a/asset_allocation.md) continuously adjusts the [a
 Algorithms can dynamically assess and manage [risk](../r/risk.md) by analyzing [market](../m/market.md) data and portfolio positions. They implement strategies such as [stop-loss orders](../s/stop-loss_orders.md) and automated de-risking to limit potential losses.
 
 #### Optimization Algorithms
-[Optimization](../o/optimization.md) algorithms use various parameters to determine the optimal [asset allocation](../a/asset_allocation.md), balancing [risk](../r/risk.md) and [return](../r/return.md) while adhering to [investor](../i/investor.md) constraints. Examples include [genetic algorithms](../g/genetic_algorithms_in_trading.md) and machine learning techniques.
+[Optimization](../o/optimization.md) algorithms use various parameters to determine the optimal [asset allocation](../a/asset_allocation.md), balancing [risk](../r/risk.md) and [return](../r/return.md) while adhering to [investor](../i/investor.md) constraints. Examples include [genetic algorithms](../g/genetic_algorithms_in_trading.md) and [machine learning](../m/machine_learning.md) techniques.
 
 #### Backtesting Algorithms
 [Backtesting](../b/backtesting.md) involves running [trading strategies](../t/trading_strategies.md) on historical data to validate their effectiveness and profitability. Algorithms play a significant role in automating this process, ensuring strategies are [robust](../r/robust.md) and optimized for future performance.

@@ -86,9 +86,9 @@ Regulatory frameworks aim to ensure that [underwriting](../u/underwriting.md) pr
 
 ### InsurTech
 
-The rise of [InsurTech](../i/insurtech.md) ([Insurance](../i/insurance.md) Technology) is revolutionizing [underwriting](../u/underwriting.md) through the use of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md).
+The rise of [InsurTech](../i/insurtech.md) ([Insurance](../i/insurance.md) Technology) is revolutionizing [underwriting](../u/underwriting.md) through the use of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md).
 
-- **AI and Machine Learning**: These technologies enhance [risk assessment models](../r/risk_assessment_models.md) by identifying patterns and correlations that human underwriters might miss.
+- **AI and [Machine Learning](../m/machine_learning.md)**: These technologies enhance [risk assessment models](../r/risk_assessment_models.md) by identifying patterns and correlations that human underwriters might miss.
 - **Telematics**: Usage-based [insurance](../i/insurance.md) models, particularly in auto [insurance](../i/insurance.md), use telematics data to more accurately assess [risk](../r/risk.md).
 - **Cyber [Underwriting](../u/underwriting.md)**: Increasing complexities in cyber risks have led to the evolution of specialized cyber [underwriting](../u/underwriting.md).
 

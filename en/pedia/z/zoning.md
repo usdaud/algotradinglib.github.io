@@ -118,7 +118,7 @@ Zoning changes can influence [economic indicators](../e/economic_indicators.md) 
 
 ### 4. **Machine Learning and AI**
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are integral to modern [algorithmic trading](../a/accountability.md). These technologies can be applied to zoning data to create [predictive models](../p/predictive_models_in_trading.md) that anticipate regulatory changes, urban development trends, and their impacts on [financial markets](../f/financial_market.md). This allows traders to adjust their strategies proactively.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are integral to modern [algorithmic trading](../a/accountability.md). These technologies can be applied to zoning data to create [predictive models](../p/predictive_models_in_trading.md) that anticipate regulatory changes, urban development trends, and their impacts on [financial markets](../f/financial_market.md). This allows traders to adjust their strategies proactively.
 
 ### 5. **Risk Assessment**
 

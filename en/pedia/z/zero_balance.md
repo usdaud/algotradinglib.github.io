@@ -41,7 +41,7 @@ Certain [trading strategies](../t/trading_strategies.md) are more conducive to a
 This strategy involves exploiting price inefficiencies between correlated instruments.
 - Actively trading correlated assets to capture price differences.
 - Ensuring the strategy nets out profits with minimal [risk](../r/risk.md) exposure.
-- Firms like Two Sigma (https://www.twosigma.com) are known for employing advanced statistical models powered by machine learning to maintain zero balance.
+- Firms like Two Sigma (https://www.twosigma.com) are known for employing advanced statistical models powered by [machine learning](../m/machine_learning.md) to maintain zero balance.
 
 ### Scalping
 [Scalping](../s/scalping.md) involves making numerous trades to capture small price movements.

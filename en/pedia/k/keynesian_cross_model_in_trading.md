@@ -39,8 +39,8 @@ Using the Keynesian Cross Model, one could develop [predictive models](../p/pred
 - **[Economic Indicators](../e/economic_indicators.md):** Incorporate leading [economic indicators](../e/economic_indicators.md) such as consumer spending, [business](../b/business.md) investments, and government expenditures into [trading algorithms](../t/trading_algorithms.md).
 
 ### Machine Learning Models
-Machine learning techniques can enhance the application of Keynesian principles in trading:
-- **Predicting [Market](../m/market.md) [Equilibrium](../e/equilibrium.md):** Machine learning models can predict when the [market](../m/market.md) is in [equilibrium](../e/equilibrium.md) based on various aggregate inputs.
+[Machine learning](../m/machine_learning.md) techniques can enhance the application of Keynesian principles in trading:
+- **Predicting [Market](../m/market.md) [Equilibrium](../e/equilibrium.md):** [Machine learning](../m/machine_learning.md) models can predict when the [market](../m/market.md) is in [equilibrium](../e/equilibrium.md) based on various aggregate inputs.
 - **[Adaptive Strategies](../a/adaptive_strategies.md):** Algorithms that adjust [trading strategies](../t/trading_strategies.md) based on real-time economic data to maintain balance similarly to how the Keynesian Cross seeks [equilibrium](../e/equilibrium.md).
 
 ## Case Studies
@@ -66,7 +66,7 @@ For the Keynesian Cross Model to be effective in trading, accurate and timely da
 Markets are influenced by a plethora of factors, not just [economic indicators](../e/economic_indicators.md). Anomalous events can disrupt anticipated equilibriums, leading to unforeseen outcomes.
 
 ### Overfitting in Machine Learning
-When applying machine learning models, there's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md), where the model becomes too tailored to historical data and fails to generalize to new data.
+When applying [machine learning](../m/machine_learning.md) models, there's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md), where the model becomes too tailored to historical data and fails to generalize to new data.
 
 ## Conclusion
 The Keynesian Cross Model provides valuable insights into [market](../m/market.md) [equilibrium](../e/equilibrium.md) through aggregate variables. By drawing parallels between macroeconomic principles and [market](../m/market.md) behavior, traders, particularly those leveraging [algorithmic trading](../a/algorithmic_trading.md), can develop more [robust](../r/robust.md) and [data-driven trading strategies](../d/data-driven_trading_strategies.md). However, the challenges of data accuracy, [market anomalies](../m/market_anomalies.md), and model [overfitting](../o/overfitting.md) must be carefully managed to realize the full potential of applying Keynesian insights to trading. 

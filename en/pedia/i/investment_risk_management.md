@@ -64,7 +64,7 @@ KRIs are metrics used by organizations to provide an early signal of increasing 
 Advancements in technology and [data analytics](../d/data_analytics.md) have revolutionized investment [risk management](../r/risk_management.md). Innovations include:
 
 ### Machine Learning and AI
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used to improve [risk](../r/risk.md) prediction and management by:
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used to improve [risk](../r/risk.md) prediction and management by:
 - **Analyzing large datasets**: Identifying patterns and correlations that are not apparent through traditional methods.
 - **[Predictive Modeling](../p/predictive_modeling.md)**: [Forecasting](../f/forecasting.md) potential [risk](../r/risk.md) events and [market](../m/market.md) movements.
 

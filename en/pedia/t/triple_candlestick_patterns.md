@@ -31,7 +31,7 @@ Successful detection of triple [candlestick patterns](../c/candlestick_patterns.
 
 - **Moving Averages:** Calculating the average of intraday prices to identify the three consecutive patterns and confirm [trend](../t/trend.md) reversals or continuations.
 - **[Candlestick](../c/candlestick.md) Charting Software:** Integrated tools within [software platforms](../s/software_platforms_for_trading.md) that automatically detect these patterns. Examples include MetaTrader 4, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md).
-- **Machine Learning:** Using [neural networks](../n/neural_networks_in_trading.md) and other machine learning techniques to enhance [pattern recognition](../p/pattern_recognition.md) capabilities based on historical data.
+- **[Machine Learning](../m/machine_learning.md):** Using [neural networks](../n/neural_networks_in_trading.md) and other [machine learning](../m/machine_learning.md) techniques to enhance [pattern recognition](../p/pattern_recognition.md) capabilities based on historical data.
 
 ### Implementation Strategies
 Algo-traders have developed several strategies for implementing these patterns into their tradings systems:

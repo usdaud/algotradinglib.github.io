@@ -1,16 +1,16 @@
 # DeepSeek R1: The Enhanced Reasoning Model
 
-**DeepSeek R1** is DeepSeek’s flagship model focused on advanced reasoning. Built on the foundation of DeepSeek V3, R1 is further optimized using reinforcement learning (RL) and supervised fine-tuning (SFT) to boost its chain-of-thought capabilities and self-correction skills.
+**DeepSeek R1** is DeepSeek’s flagship model focused on advanced reasoning. Built on the foundation of DeepSeek V3, R1 is further optimized using [reinforcement learning](../r/reinforcement_learning.md) (RL) and supervised fine-tuning (SFT) to boost its chain-of-thought capabilities and self-[correction](../c/correction.md) skills.
 
 ### Key Innovations
 
 1. **Advanced Chain-of-Thought:**  
    R1 generates detailed internal reasoning, allowing it to analyze complex problems step by step and verify its conclusions.
 
-2. **Reinforcement Learning and SFT:**  
+2. **[Reinforcement Learning](../r/reinforcement_learning.md) and SFT:**  
    The model is trained through a combination of RL and SFT on large-scale synthetic reasoning datasets, refining its ability to solve mathematical, coding, and logic challenges.
 
-3. **Self-Correction Mechanisms:**  
+3. **Self-[Correction](../c/correction.md) Mechanisms:**  
    Integrated quality controls ensure that R1 checks its outputs (e.g., by boxing final answers in math problems) to reduce errors and enhance reliability.
 
 ### Applications
@@ -25,7 +25,7 @@
 ### Advantages
 
 - Superior accuracy in specialized reasoning tasks.
-- Effective self-verification and error correction mechanisms.
+- Effective self-verification and error [correction](../c/correction.md) mechanisms.
 - Lower cost of operation relative to Western alternatives, making it highly competitive.
 
 ### Challenges
@@ -36,4 +36,4 @@
 
 ### Future Outlook
 
-Future updates for DeepSeek R1 will focus on reducing hallucination rates and further optimizing the self-correction process. As DeepSeek refines its approach, R1 is expected to solidify its position as a leading model for complex, reasoning-intensive applications.
+Future updates for DeepSeek R1 [will](../w/will.md) focus on reducing hallucination rates and further optimizing the self-[correction](../c/correction.md) process. As DeepSeek refines its approach, R1 is expected to solidify its position as a leading model for complex, reasoning-intensive applications.

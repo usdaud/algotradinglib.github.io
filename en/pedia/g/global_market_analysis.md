@@ -108,9 +108,9 @@ High-frequency traders rely on [market](../m/market.md) data providers like CME 
 
 ### AI and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are becoming increasingly important in algo trading. These technologies can analyze vast amounts of data, identify patterns, and make predictions with high accuracy.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are becoming increasingly important in algo trading. These technologies can analyze vast amounts of data, identify patterns, and make predictions with high accuracy.
 
-Firms like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) specialize in AI-driven [market](../m/market.md) analysis and [offer](../o/offer.md) platforms that [leverage](../l/leverage.md) machine learning for [trading strategies](../t/trading_strategies.md).
+Firms like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) specialize in AI-driven [market](../m/market.md) analysis and [offer](../o/offer.md) platforms that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) for [trading strategies](../t/trading_strategies.md).
 
 ## Risk Management in Algo Trading
 

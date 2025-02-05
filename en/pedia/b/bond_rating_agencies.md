@@ -91,7 +91,7 @@ Several trends are shaping the future of [bond rating](../b/bond_rating.md) agen
 
 ### Technological Advancements
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are transforming the [rating](../r/rating.md) [industry](../i/industry.md). These technologies enhance the ability to analyze vast amounts of data quickly and improve the accuracy of predictions.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are transforming the [rating](../r/rating.md) [industry](../i/industry.md). These technologies enhance the ability to analyze vast amounts of data quickly and improve the accuracy of predictions.
 
 ### Sustainability and ESG Factors
 

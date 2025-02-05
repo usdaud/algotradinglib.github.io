@@ -145,7 +145,7 @@ Administrative expenses related to [insurance](../i/insurance.md) and legal fees
 
 ### Amazon
 
-Amazon, a global e-[commerce](../c/commerce.md) giant, efficiently manages its administrative expenses through continuous innovation and automation. They [leverage](../l/leverage.md) advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning to optimize their administrative processes, reducing human intervention and operational costs.
+Amazon, a global e-[commerce](../c/commerce.md) giant, efficiently manages its administrative expenses through continuous innovation and automation. They [leverage](../l/leverage.md) advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to optimize their administrative processes, reducing human intervention and operational costs.
 
 For more details: [Amazon](https://www.amazon.com)
 

@@ -38,7 +38,7 @@ Mobile [payment](../p/payment.md) systems are the backbone of m-[commerce](../c/
 The retail [industry](../i/industry.md) has embraced mobile [commerce](../c/commerce.md) by developing apps and mobile-friendly websites to enhance consumer experience. Features include:
 
 - **Product Browsing**: Detailed views, specifications, and user reviews.
-- **Personalized Recommendations**: Leveraging AI and machine learning to suggest products.
+- **Personalized Recommendations**: Leveraging AI and [machine learning](../m/machine_learning.md) to suggest products.
 - **Mobile Checkouts**: Streamlined and secure [payment](../p/payment.md) processes.
 - **[Order](../o/order.md) Tracking**: Real-time updates on [order](../o/order.md) status and delivery.
 

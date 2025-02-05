@@ -45,7 +45,7 @@ Algorithmic [valuation techniques](../v/valuation_techniques.md) use advanced co
 
 ### Machine Learning Models
 
-Machine learning models can automate the process of valuation by using various algorithms to analyze patterns in historical data. Key machine learning techniques include:
+[Machine learning](../m/machine_learning.md) models can automate the process of valuation by using various algorithms to analyze patterns in historical data. Key [machine learning](../m/machine_learning.md) techniques include:
 
 1. **[Regression Analysis](../r/regression_analysis.md)**: Used for predicting numerical values.
 2. **[Classification Algorithms](../c/classification_algorithms.md)**: Used for categorizing assets or determining the likelihood of certain outcomes.

@@ -53,7 +53,7 @@ For a country, high levels of NPAs in the banking sector can stifle [economic gr
 Enhancing [risk management techniques](../r/risk_management_techniques.md), including [robust](../r/robust.md) [credit](../c/credit.md) [appraisal](../a/appraisal.md) processes, stringent monitoring, and timely review of [loan](../l/loan.md) accounts, can help mitigate the [risk](../r/risk.md) of NPAs.
 
 ### Technological Interventions
-Implementing advanced technologies such as [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) for [predictive analytics](../p/predictive_analytics.md) can help in early identification of potential NPAs. These technologies can analyze vast amounts of data to predict future [repayment](../r/repayment.md) behaviors.
+Implementing advanced technologies such as [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) for [predictive analytics](../p/predictive_analytics.md) can help in early identification of potential NPAs. These technologies can analyze vast amounts of data to predict future [repayment](../r/repayment.md) behaviors.
 
 ### Restructuring and Settlement
 Providing [restructuring](../r/restructuring.md) [options](../o/options.md) for stressed assets, such as extending [repayment](../r/repayment.md) periods, converting loans into [equity](../e/equity.md), or other modifications, can sometimes enable borrowers to service their [debt](../d/debt.md), thereby reducing NPAs.

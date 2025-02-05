@@ -8,7 +8,7 @@ Timing models in [algorithmic trading](../a/algorithmic_trading.md) are strategi
 Timing models are mathematical or computational systems designed to determine the optimal times to enter or exit trades. They rely on various inputs such as historical data, price trends, [market](../m/market.md) indices, and [economic indicators](../e/economic_indicators.md) to make predictions about future [market](../m/market.md) behaviors.
 
 ### Importance
-The primary goal of timing models is to improve the success rate of trades by leveraging statistical and machine learning techniques. Effective timing can lead to higher returns and reduced risks, making these models indispensable in the competitive landscape of [algorithmic trading](../a/algorithmic_trading.md).
+The primary goal of timing models is to improve the success rate of trades by leveraging statistical and [machine learning](../m/machine_learning.md) techniques. Effective timing can lead to higher returns and reduced risks, making these models indispensable in the competitive landscape of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Types of Timing Models
 
@@ -42,7 +42,7 @@ Moving averages smooth out price data by creating a constantly updated average p
 - **Application**: Prices hitting the upper band indicate [overbought](../o/overbought.md) conditions; hitting the lower band indicates [oversold](../o/oversold.md) conditions.
 
 ### Machine Learning Models
-Machine learning leverages historical data to train models that can make predictions about future [market](../m/market.md) movements.
+[Machine learning](../m/machine_learning.md) leverages historical data to train models that can make predictions about future [market](../m/market.md) movements.
 
 #### Decision Trees
 - **Methodology**: Splits the data into branches to make decisions based on historical outcomes.
@@ -98,7 +98,7 @@ Swing traders aim to capture gains over a few days to several weeks. Timing mode
 Poor-quality data can severely impact the accuracy of timing models. Ensuring data integrity is crucial for reliable model predictions.
 
 ### Computational Costs
-Complex models, especially those involving machine learning, can require significant computational resources, making them expensive to develop and maintain.
+Complex models, especially those involving [machine learning](../m/machine_learning.md), can require significant computational resources, making them expensive to develop and maintain.
 
 ## Conclusion
 Timing models are a fundamental component of [algorithmic trading](../a/algorithmic_trading.md), enabling traders to make informed decisions about when to buy or sell financial instruments. Despite challenges such as [overfitting](../o/overfitting.md) and computational costs, these models provide a [robust](../r/robust.md) framework for maximizing returns and mitigating risks in the highly competitive [financial markets](../f/financial_market.md).

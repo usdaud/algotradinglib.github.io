@@ -41,7 +41,7 @@ Once approved, the funds are disbursed to the borrower. This can be done through
 
 ### Automation and Algorithms
 
-With the advent of fintech, the origination process has become increasingly automated. Advanced algorithms and machine learning systems can [handle](../h/handle.md) vast amounts of data, making the process faster and more efficient. These systems can:
+With the advent of fintech, the origination process has become increasingly automated. Advanced algorithms and [machine learning](../m/machine_learning.md) systems can [handle](../h/handle.md) vast amounts of data, making the process faster and more efficient. These systems can:
 
 - **Automate Documentation Collection**: By integrating with various databases and using APIs to fetch necessary documents.
 - **[Risk](../r/risk.md) Assessment**: Use [predictive analytics](../p/predictive_analytics.md) to assess the [risk](../r/risk.md) profile of the borrower.

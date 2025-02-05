@@ -69,7 +69,7 @@ Detecting [market](../m/market.md) manipulation is challenging due to the comple
 
 ### Algorithmic Trading Models
 
-Advanced algorithms analyze vast amounts of trading data to identify patterns indicative of manipulation. Machine learning models can detect anomalies that deviate from normal [market](../m/market.md) behavior.
+Advanced algorithms analyze vast amounts of trading data to identify patterns indicative of manipulation. [Machine learning](../m/machine_learning.md) models can detect anomalies that deviate from normal [market](../m/market.md) behavior.
 
 ### Statistical Analysis
 
@@ -113,11 +113,11 @@ The [Sarbanes-Oxley Act of 2002](../s/sarbanes-oxley_(sox)_act_of_2002.md), enac
 
 ## Technological Advancements and Future Trends
 
-Advancements in technology, particularly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning, are transforming the detection and prevention of [market](../m/market.md) manipulation. Key trends include:
+Advancements in technology, particularly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md), are transforming the detection and prevention of [market](../m/market.md) manipulation. Key trends include:
 
 ### AI and Machine Learning
 
-AI and machine learning models can analyze massive datasets to identify suspicious trading patterns and predict potential manipulative activities. These models adapt to evolving [market](../m/market.md) conditions and improve detection accuracy over time.
+AI and [machine learning](../m/machine_learning.md) models can analyze massive datasets to identify suspicious trading patterns and predict potential manipulative activities. These models adapt to evolving [market](../m/market.md) conditions and improve detection accuracy over time.
 
 ### Blockchain Technology
 

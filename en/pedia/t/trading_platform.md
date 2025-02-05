@@ -75,7 +75,7 @@ Access to real-time news and [market](../m/market.md) data is essential for stay
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being integrated into trading platforms to provide [predictive analytics](../p/predictive_analytics.md), automated trading suggestions, and [portfolio optimization](../p/portfolio_optimization.md). AI-driven bots can analyze large datasets to identify trading opportunities and execute trades based on predefined criteria.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being integrated into trading platforms to provide [predictive analytics](../p/predictive_analytics.md), automated trading suggestions, and [portfolio optimization](../p/portfolio_optimization.md). AI-driven bots can analyze large datasets to identify trading opportunities and execute trades based on predefined criteria.
 
 ### Blockchain and Decentralized Finance (DeFi)
 

@@ -92,7 +92,7 @@ Internal auditors provide management with valuable insights into the effectivene
 
 ### Technological Advancements
 
-The rapid pace of technological advancements, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [data analytics](../d/data_analytics.md), presents both challenges and opportunities for internal auditors. They must adapt to these changes to remain relevant and effective in their roles.
+The rapid pace of technological advancements, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [data analytics](../d/data_analytics.md), presents both challenges and opportunities for internal auditors. They must adapt to these changes to remain relevant and effective in their roles.
 
 ### Increased Regulatory Requirements
 

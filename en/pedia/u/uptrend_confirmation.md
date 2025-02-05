@@ -89,7 +89,7 @@ MetaTrader platforms (MT4 & MT5) support various automated [trading strategies](
 
 ### 9.2 Machine Learning Models
 
-Machine learning models can be trained on historical data to recognize patterns that confirm uptrends, such as increasing [volume](../v/volume.md), higher highs, and [indicator](../i/indicator.md) crossovers.
+[Machine learning](../m/machine_learning.md) models can be trained on historical data to recognize patterns that confirm uptrends, such as increasing [volume](../v/volume.md), higher highs, and [indicator](../i/indicator.md) crossovers.
 
 ### 9.3 Statistical Arbitrage
 

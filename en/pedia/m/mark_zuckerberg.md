@@ -4,7 +4,7 @@ Mark Zuckerberg is the co-founder, chairman, and CEO of Meta Platforms, formerly
 
 ## Early Life and Education
 
-Mark Elliot Zuckerberg showed a strong [interest](../i/interest.md) in programming from a young age. He attended Phillips Exeter Academy, where he excelled in classical studies and sciences. During high school, he created a music player called the Synapse Media Player, which used machine learning to learn users' listening habits. Following his high school education, Zuckerberg enrolled at Harvard University to study computer science and psychology.
+Mark Elliot Zuckerberg showed a strong [interest](../i/interest.md) in programming from a young age. He attended Phillips Exeter Academy, where he excelled in classical studies and sciences. During high school, he created a music player called the Synapse Media Player, which used [machine learning](../m/machine_learning.md) to learn users' listening habits. Following his high school education, Zuckerberg enrolled at Harvard University to study computer science and psychology.
 
 ## Founding Facebook
 

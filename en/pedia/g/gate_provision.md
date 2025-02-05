@@ -83,7 +83,7 @@ The landscape of gate provisioning is set to evolve with advancements in technol
 
 ### Enhanced AI and Machine Learning
 
-- **Smarter Algorithms**: The [incorporation](../i/incorporation.md) of AI and machine learning can enhance the decision-making capabilities of [trading algorithms](../t/trading_algorithms.md). This requires compute setups optimized for running complex machine learning models.
+- **Smarter Algorithms**: The [incorporation](../i/incorporation.md) of AI and [machine learning](../m/machine_learning.md) can enhance the decision-making capabilities of [trading algorithms](../t/trading_algorithms.md). This requires compute setups optimized for running complex [machine learning](../m/machine_learning.md) models.
   
 ### Blockchain and Distributed Ledger Technology
 

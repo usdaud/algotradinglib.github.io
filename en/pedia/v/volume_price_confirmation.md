@@ -58,7 +58,7 @@ While [Volume](../v/volume.md) Price Confirmation is a powerful tool, there are 
 
 1. **Renaissance Technologies:** Known for their Medallion [Fund](../f/fund.md), Renaissance Technologies applies sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) that likely include [volume](../v/volume.md) price confirmation as part of their multi-strategy approach. 
 
-2. **Two Sigma:** This [hedge fund](../h/hedge_fund.md) uses machine learning and [big data](../b/big_data_in_trading.md) to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies. [Volume](../v/volume.md) analytics are a fundamental component of their research and [trading models](../t/trading_models.md).
+2. **Two Sigma:** This [hedge fund](../h/hedge_fund.md) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies. [Volume](../v/volume.md) analytics are a fundamental component of their research and [trading models](../t/trading_models.md).
 
    [Two Sigma](https://www.twosigma.com/)
 

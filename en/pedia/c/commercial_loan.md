@@ -135,7 +135,7 @@ The rise of fintech has revolutionized the commercial lending landscape. Online 
 [Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) are gradually transforming the [loan](../l/loan.md) process by enhancing [security](../s/security.md), [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md). These technologies eliminate intermediaries and reduce the time required for processing loans.
 
 ### AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are being increasingly used for [credit risk](../c/credit_risk.md) assessment and [fraud](../f/fraud.md) detection in commercial lending. These technologies provide more accurate predictions and help customize [loan](../l/loan.md) products to meet individual [business](../b/business.md) needs.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are being increasingly used for [credit risk](../c/credit_risk.md) assessment and [fraud](../f/fraud.md) detection in commercial lending. These technologies provide more accurate predictions and help customize [loan](../l/loan.md) products to meet individual [business](../b/business.md) needs.
 
 ## Conclusion
 

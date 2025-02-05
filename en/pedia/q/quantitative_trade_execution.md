@@ -10,7 +10,7 @@ Quantitative [trade](../t/trade.md) [execution](../e/execution.md) leverages alg
 
 1. **Data Collection and Analysis**: At the core of quantitative [trade](../t/trade.md) [execution](../e/execution.md) is the collection and analysis of vast amounts of [market](../m/market.md) data. This data can include historical prices, trading volumes, [order book](../o/order_book.md) information, and even [alternative data](../a/alternative_data.md) sources like [social media sentiment](../s/social_media_sentiment.md) or [economic indicators](../e/economic_indicators.md).
 
-2. **Algorithm Development**: Quants develop complex algorithms that can process this data to identify trading opportunities. These algorithms can [range](../r/range.md) from simple moving averages to more complex machine learning models that predict [market](../m/market.md) movements.
+2. **Algorithm Development**: Quants develop complex algorithms that can process this data to identify trading opportunities. These algorithms can [range](../r/range.md) from simple moving averages to more complex [machine learning](../m/machine_learning.md) models that predict [market](../m/market.md) movements.
 
 3. **[Backtesting](../b/backtesting.md)**: Before deploying any algorithm in a live [trading environment](../t/trading_environment.md), it is essential to test it using historical data. This process, known as [backtesting](../b/backtesting.md), helps ensure that the algorithm performs well and meets the desired objectives.
 
@@ -57,7 +57,7 @@ High-Frequency Trading (HFT) uses high-speed algorithms to execute a large numbe
 
 ### Machine Learning Models
 
-More advanced [quantitative trading](../q/quantitative_trading.md) firms apply machine learning (ML) models to predict future price movements. These models can include techniques like [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md). The models are trained on historical data and continuously updated based on new information.
+More advanced [quantitative trading](../q/quantitative_trading.md) firms apply [machine learning](../m/machine_learning.md) (ML) models to predict future price movements. These models can include techniques like [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md). The models are trained on historical data and continuously updated based on new information.
 
 ## Key Players in Quantitative Trade Execution
 
@@ -69,7 +69,7 @@ Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 
-Two Sigma is another prominent name in the [quantitative trading](../q/quantitative_trading.md) world. The [firm](../f/firm.md) uses [data science](../d/data_science_in_trading.md) and technology to create and execute its [trading strategies](../t/trading_strategies.md). It employs techniques from fields like machine learning and distributed computing to analyze data and make trading decisions.
+Two Sigma is another prominent name in the [quantitative trading](../q/quantitative_trading.md) world. The [firm](../f/firm.md) uses [data science](../d/data_science_in_trading.md) and technology to create and execute its [trading strategies](../t/trading_strategies.md). It employs techniques from fields like [machine learning](../m/machine_learning.md) and distributed computing to analyze data and make trading decisions.
 
 Website: [Two Sigma](https://www.twosigma.com/)
 

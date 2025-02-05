@@ -45,7 +45,7 @@ Periodic auctions occur at specific times, such as the opening or closing of a t
 In modern [financial markets](../f/financial_market.md), [algorithmic trading](../a/accountability.md) has revolutionized the price discovery process. Algorithms can analyze large volumes of data at high speeds, contributing to [market efficiency](../m/market_efficiency.md) and price accuracy. Here are some ways algorithms are used:
 
 - **High-Frequency Trading (HFT):** Involves executing orders at extreme speeds to [capitalize](../c/capitalize.md) on minute price differences. HFT firms play a crucial role in providing [liquidity](../l/liquidity.md) and improving [market efficiency](../m/market_efficiency.md).
-- **Machine Learning:** Algorithms can learn from historical data to predict price movements and inform [trading strategies](../t/trading_strategies.md). These models continuously improve with more data.
+- **[Machine Learning](../m/machine_learning.md):** Algorithms can learn from historical data to predict price movements and inform [trading strategies](../t/trading_strategies.md). These models continuously improve with more data.
 
 ## Factors Influencing Price Discovery
 

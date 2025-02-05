@@ -72,7 +72,7 @@ Modern technology and trading platforms [offer](../o/offer.md) tools to track an
 
 - **Real-Time Data Feeds**: Providers like *[Bloomberg](../b/bloomberg.md)* and *Thomson [Reuters](../r/reuters.md)* [offer](../o/offer.md) real-time [order book](../o/order_book.md) data to monitor imbalances.
 - **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms such as *[QuantConnect](../q/quantconnect.md)* and *[AlgoTrader](../a/algotrader.md)* enable traders to build, backtest, and deploy strategies that detect and react to imbalances.
-- **Machine Learning Models**: Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze massive datasets to predict and [capitalize](../c/capitalize.md) on imbalances more precisely.
+- **[Machine Learning](../m/machine_learning.md) Models**: Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze massive datasets to predict and [capitalize](../c/capitalize.md) on imbalances more precisely.
 
 ## Case Studies and Real-World Examples
 
