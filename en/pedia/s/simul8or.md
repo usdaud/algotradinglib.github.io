@@ -15,7 +15,7 @@
 - **[Gamification](../g/gamification.md) & Immersive Experience** – Sound effects, animations, and dynamic visuals enhance engagement.  
 - **[Pattern Recognition](../p/pattern_recognition.md) Engine** – Automatically detects and displays [chart patterns](../c/chart_patterns.md) **in real time**.  
 - **Diverse [Order Types](../o/order_types_in_trading.md)** – Execute **[market](../m/market.md) and limit orders** just like in live trading.  
-- **‘Full Tilt’ [Mode](../m/mode.md)** – Maximize [risk](../r/risk.md)-taking with an option to **automatically buy or sell the max share size** per [account balance](../a/account_balance.md).  
+- **'Full Tilt' [Mode](../m/mode.md)** – Maximize [risk](../r/risk.md)-taking with an option to **automatically buy or sell the max share size** per [account balance](../a/account_balance.md).  
 - **Achievements & Badges** – Unlock **8 milestone badges** based on [trading performance](../t/trading_performance.md).  
 - **Live [Trade](../t/trade.md) Feed** – View a **real-time feed** of all trades happening on the platform.  
 - **Detailed Trading Analytics** – Track performance with key metrics including **net P&L, win rate, biggest winner, average [trade](../t/trade.md) P&L, and more**.  
@@ -33,4 +33,4 @@ simul8or is continuously evolving based on user feedback. Traders, educators, an
 - Reporting issues or inaccuracies
 - Engaging in community discussions
 
-For more information, visit **[simul8or.com](https://simul8or.com)**.
+For more information, visit **[simul8or.com](https://simul8or.com)** or check out the GitHub project at **[github.com/day-trading-simulator](https://github.com/day-trading-simulator)**.
