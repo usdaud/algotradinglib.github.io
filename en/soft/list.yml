@@ -310,6 +310,15 @@
   supported_data_providers: [CQG, IQFeed, Kinetick]
   supported_brokers: [Interactive Brokers, AMP Futures, Dorman Trading, Rithmic]
 
+- name: simul8or
+  description: Trading Simulator
+  logo: /assets/images/logos/simul8or.png
+  website: https://www.simul8or.com/
+  pedia_link: /en/pedia/s/simul8or.html
+  filters: [Paper Trading, Free, Backtesting]
+  supported_data_providers: []
+  supported_brokers: []
+
 - name: Sterling Trader
   description: Professional direct access trading platform
   logo: /assets/images/logos/sterling_trader.png

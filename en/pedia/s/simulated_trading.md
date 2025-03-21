@@ -38,6 +38,10 @@ Simulated trading platforms enable traders to become familiar with the functiona
 
 [TradingView](../t/tradingview.md)'s paper trading feature allows traders to simulate trades with a wide [range](../r/range.md) of assets, including [stocks](../s/stock.md), forex, and cryptocurrencies. The platform is known for its [robust](../r/robust.md) charting tools and [social networking](../s/social_networking.md) features. More information can be found at [TradingView](https://www.tradingview.com/).
 
+### simul8or
+
+[simul8or](https://simul8or.com) is a web-based trading simulator that provides real-time market simulations with **1-second tick data**. It features advanced charting, trading analytics, and gamification elements like leaderboards and achievements. No registration required. Learn more at [simul8or.com](https://simul8or.com).
+
 ## Key Features of Simulated Trading Platforms
 
 ### Real-Time Data
