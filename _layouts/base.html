@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 <head>
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6DD1JG52GX"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -16,8 +15,10 @@
     <link rel="alternate icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     {% if page.canonical_url %}
     <link rel="canonical" href="{{ page.canonical_url }}" />
@@ -40,11 +41,13 @@
                 </a>
                 <h1 class="site-title">{{ locale.title }}</h1>
             </div>
+            
             <button class="menu-toggle" aria-label="Toggle menu">
                 <span></span>
                 <span></span>
                 <span></span>
             </button>
+            
             <nav class="main-nav">
                 <ul>
                     {% assign site_addr = site.url | default: '' %}
@@ -95,12 +98,19 @@
                     </li>
                 </ul>
             </nav>
-            <div class="language-selector desktop-only">
-                <select id="lang-select-desktop">
-                    <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
-                    <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
-                    <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
-                </select>
+            
+            <div class="header-controls">
+                <div class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
+                    <i class="fas fa-sun"></i>
+                    <i class="fas fa-moon"></i>
+                </div>
+                <div class="language-selector desktop-only">
+                    <select id="lang-select-desktop">
+                        <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
+                        <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
+                        <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
+                    </select>
+                </div>
             </div>
         </div>
     </header>
@@ -117,13 +127,33 @@
             <p>
                 <a href="https://github.com/usdaud/algotradinglib.github.io" target="_blank" rel="noopener noreferrer">
                     {{ locale.contribute }}
-                    <img src="{{ '/assets/images/github-icon.svg' | relative_url }}" alt="GitHub" class="github-icon" style="height: 1em; vertical-align: middle; margin-left: 5px;">
+                    <img src="{{ '/assets/images/github-icon.svg' | relative_url }}" alt="GitHub" class="github-icon">
                 </a>
             </p>
         </div>
     </footer>
 
     <script>
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? '' : 'dark';
+            
+            body.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme) {
+                document.body.setAttribute('data-theme', savedTheme);
+            } else {
+                if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                    document.body.setAttribute('data-theme', 'dark');
+                }
+            }
+        });
+
         $(document).ready(function() {
             var header = $("#sticky-header");
             var sticky = header.offset().top;
@@ -160,3 +190,4 @@
     </script>
 </body>
 </html>
+                
