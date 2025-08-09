@@ -929,7 +929,7 @@ main li {
   hyphens: auto;
 }
 
-main ol {
+main ol:not(.breadcrumb) {
   list-style-type: decimal;
   list-style-position: outside;
 }
@@ -949,17 +949,17 @@ main ul li::marker {
 }
 
 @supports not (::marker) {
-  main ol {
+  main ol:not(.breadcrumb) {
     counter-reset: item;
     list-style: none;
   }
   
-  main ol > li {
+  main ol:not(.breadcrumb) > li {
     counter-increment: item;
     position: relative;
   }
   
-  main ol > li::before {
+  main ol:not(.breadcrumb) > li::before {
     content: counter(item) ". ";
     color: var(--accent-primary);
     font-weight: 600;
