@@ -131,12 +131,15 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   max-width: 1400px;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .logo-container {
   display: flex;
   align-items: center;
   gap: 16px;
+  min-width: 0;
+  flex-shrink: 0;
 }
 
 .logo img {
@@ -144,6 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
   border-radius: 12px;
   transition: transform 0.3s ease;
+  flex-shrink: 0;
 }
 
 .logo img:hover {
@@ -151,38 +155,45 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-title {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--text-primary);
-  white-space: nowrap;
   margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
 }
 
 .header-controls {
   display: flex;
   align-items: center;
   gap: 24px;
+  flex-shrink: 0;
 }
 
 /* Navigation */
 .main-nav ul {
   display: flex;
   list-style: none;
-  gap: 8px;
+  gap: 4px;
   margin: 0;
   padding: 0;
+  flex-wrap: wrap;
 }
 
 .main-nav ul li a {
   display: inline-flex;
   align-items: center;
-  padding: 10px 16px;
+  padding: 8px 12px;
   color: var(--text-secondary);
   text-decoration: none;
   font-weight: 500;
-  border-radius: 12px;
+  border-radius: 8px;
   transition: all 0.2s ease;
   position: relative;
+  font-size: 14px;
+  white-space: nowrap;
 }
 
 .main-nav ul li a:hover {
@@ -208,6 +219,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
   transition: all 0.3s ease;
   outline: none;
+  min-width: 100px;
 }
 
 .language-selector select:hover {
@@ -729,6 +741,31 @@ footer a:hover .github-icon {
   opacity: 1;
 }
 
+.footer-subscribe {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border-color);
+}
+
+.footer-subscribe a {
+  display: inline-flex;
+  align-items: center;
+  background: var(--accent-primary);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  gap: 8px;
+}
+
+.footer-subscribe a:hover {
+  background: var(--accent-secondary);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
 /* Subscribe */
 .subscribe-container {
   background: var(--bg-card);
@@ -830,6 +867,7 @@ footer a:hover .github-icon {
   
   .main-nav {
     order: 3;
+    width: 100%;
   }
   
   .main-nav ul {
@@ -848,7 +886,7 @@ footer a:hover .github-icon {
   }
   
   .site-title {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
   }
   
   main {
