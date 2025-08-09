@@ -371,7 +371,7 @@ main {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
   gap: 16px;
-  padding: 0;
+  padding: 40px 0;
 }
 
 .letter-item {
@@ -846,6 +846,20 @@ footer a:hover .github-icon {
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--accent-primary);
+}
+
+main a {
+  color: var(--accent-primary);
+  text-decoration: none;
+}
+
+main a:hover {
+  color: var(--accent-secondary);
+  text-decoration: underline;
+}
+
+main a:visited {
+  color: var(--text-muted);
 }
 
 /* Mobile responsive */
