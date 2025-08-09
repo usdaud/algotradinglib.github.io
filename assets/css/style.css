@@ -57,55 +57,80 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   display: flex;
   align-items: center;
-  background: var(--bg-card);
-  border: 1px solid var(--border-color);
+  justify-content: space-between;
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
   border-radius: 24px;
-  padding: 6px;
+  padding: 4px;
   cursor: pointer;
   transition: all 0.3s ease;
-  width: 60px;
+  width: 64px;
   height: 32px;
+  overflow: hidden;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.1);
 }
 
 .theme-toggle::before {
   content: '';
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
   background: var(--accent-primary);
   border-radius: 50%;
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  transform: translateX(4px);
-  box-shadow: var(--shadow-md);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateX(2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  z-index: 2;
 }
 
 [data-theme="dark"] .theme-toggle::before {
-  transform: translateX(28px);
+  transform: translateX(34px);
+  background: var(--accent-primary);
 }
 
 .theme-toggle i {
-  position: absolute;
+  position: relative;
   font-size: 12px;
-  color: var(--text-muted);
-  transition: opacity 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: 1;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .theme-toggle .fa-sun {
-  left: 8px;
+  color: var(--accent-primary);
   opacity: 1;
 }
 
 .theme-toggle .fa-moon {
-  right: 8px;
-  opacity: 0.4;
+  color: var(--text-muted);
+  opacity: 0.6;
 }
 
 [data-theme="dark"] .theme-toggle .fa-sun {
-  opacity: 0.4;
+  color: var(--text-muted);
+  opacity: 0.6;
 }
 
 [data-theme="dark"] .theme-toggle .fa-moon {
+  color: var(--accent-primary);
   opacity: 1;
+}
+
+/* Animation on click */
+.theme-toggle:active::before {
+  transform: scale(0.95) translateX(2px);
+}
+
+[data-theme="dark"] .theme-toggle:active::before {
+  transform: scale(0.95) translateX(34px);
 }
 
 /* Modern header */
