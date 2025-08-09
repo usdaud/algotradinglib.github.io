@@ -311,13 +311,18 @@ main {
 }
 
 .breadcrumb-item a {
-  color: var(--text-secondary);
-  text-decoration: none;
+  color: var(--text-secondary) !important;
+  text-decoration: none !important;
   transition: color 0.2s ease;
 }
 
 .breadcrumb-item a:hover {
-  color: var(--accent-primary);
+  color: var(--accent-primary) !important;
+  text-decoration: none !important;
+}
+
+.breadcrumb-item a:visited {
+  color: var(--text-secondary) !important;
 }
 
 .breadcrumb-item.active {
@@ -1037,12 +1042,15 @@ main pre code {
   .header-content {
     flex-direction: column;
     gap: 16px;
+    position: relative;
   }
   
   .header-controls {
     order: -1;
     width: 100%;
     justify-content: space-between;
+    position: relative;
+    z-index: 1002;
   }
   
   .logo-container {
@@ -1050,23 +1058,87 @@ main pre code {
   }
   
   .main-nav {
-    order: 3;
+    position: fixed;
+    top: 0;
+    left: -100%;
     width: 100%;
+    height: 100vh;
+    background: var(--bg-card);
+    z-index: 1001;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+    padding-top: 80px;
+    order: 3;
+  }
+  
+  .main-nav.active {
+    left: 0;
   }
   
   .main-nav ul {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 4px;
+    flex-direction: column;
+    padding: 20px;
+    gap: 0;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+  
+  .main-nav ul li {
+    width: 100%;
+    margin-bottom: 8px;
   }
   
   .main-nav ul li a {
-    padding: 8px 12px;
-    font-size: 14px;
+    display: block;
+    width: 100%;
+    padding: 16px 20px;
+    text-align: center;
+    border-radius: 12px;
+    background: var(--bg-secondary);
+    margin-bottom: 8px;
+    font-size: 16px;
   }
   
+  .main-nav ul li a:hover {
+    background: var(--accent-primary);
+    color: white;
+    transform: none;
+  }
+  
+  .main-nav ul li a.active {
+    background: var(--accent-primary);
+    color: white;
+  }
+  
+  /* Overlay when menu is open */
+  body.menu-open::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
+  
+  /* Show menu toggle button */
   .menu-toggle {
-    display: block;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    z-index: 1002;
+  }
+  
+  /* Keep header above menu */
+  #sticky-header {
+    position: relative;
+    z-index: 1003;
   }
   
   .site-title {
@@ -1112,21 +1184,7 @@ main pre code {
   }
   
   .mobile-language-selector {
-    display: block;
-    margin-top: 20px;
-    padding-top: 20px;
-    border-top: 1px solid var(--border-color);
-  }
-  
-  .mobile-language-selector select {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    margin-top: 15px;
-    background: var(--bg-card);
-    color: var(--text-primary);
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
+    display: none;
   }
   
   .desktop-only {
