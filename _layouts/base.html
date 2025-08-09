@@ -84,18 +84,6 @@
                             {{ locale.pedia }}
                         </a>
                     </li>
-                    <li>
-                        <a href="{{ home_url }}/subscribe/" {% if current_section == 'subscribe' %}class="active"{% endif %}>
-                            {{ locale.subscribe }}
-                        </a>
-                    </li>
-                    <li class="mobile-language-selector">
-                        <select id="lang-select-mobile">
-                            <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
-                            <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
-                            <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
-                        </select>
-                    </li>
                 </ul>
             </nav>
             
@@ -104,8 +92,8 @@
                     <i class="fas fa-sun"></i>
                     <i class="fas fa-moon"></i>
                 </div>
-                <div class="language-selector desktop-only">
-                    <select id="lang-select-desktop">
+                <div class="language-selector">
+                    <select id="lang-select">
                         <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
                         <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
                         <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
@@ -130,6 +118,12 @@
                     <img src="{{ '/assets/images/github-icon.svg' | relative_url }}" alt="GitHub" class="github-icon">
                 </a>
             </p>
+            <div class="footer-subscribe">
+                <a href="{{ "/" | append: page.lang | append: "/subscribe/" | relative_url }}">
+                    <i class="fas fa-envelope"></i>
+                    {{ locale.subscribe }}
+                </a>
+            </div>
         </div>
     </footer>
 
@@ -166,7 +160,7 @@
                 }
             });
 
-            $("#lang-select-desktop, #lang-select-mobile").change(function() {
+            $("#lang-select").change(function() {
                 var selectedLang = $(this).val();
                 var currentPath = window.location.pathname;
                 var parts = currentPath.split('/');
@@ -190,4 +184,3 @@
     </script>
 </body>
 </html>
-                
