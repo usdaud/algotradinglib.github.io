@@ -131,19 +131,31 @@
         function toggleTheme() {
             const body = document.body;
             const currentTheme = body.getAttribute('data-theme');
-            const newTheme = currentTheme === 'dark' ? '' : 'dark';
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
             
-            body.setAttribute('data-theme', newTheme);
+            body.setAttribute('data-theme', newTheme === 'light' ? '' : 'dark');
             localStorage.setItem('theme', newTheme);
         }
 
         document.addEventListener('DOMContentLoaded', function() {
             const savedTheme = localStorage.getItem('theme');
-            if (savedTheme) {
-                document.body.setAttribute('data-theme', savedTheme);
+            
+            if (savedTheme === 'dark') {
+                document.body.setAttribute('data-theme', 'dark');
+            } else if (savedTheme === 'light') {
+                document.body.setAttribute('data-theme', '');
             } else {
                 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
                     document.body.setAttribute('data-theme', 'dark');
+                }
+                
+                if (window.matchMedia) {
+                    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                    mediaQuery.addListener(function(e) {
+                        if (!localStorage.getItem('theme')) {
+                            document.body.setAttribute('data-theme', e.matches ? 'dark' : '');
+                        }
+                    });
                 }
             }
         });
