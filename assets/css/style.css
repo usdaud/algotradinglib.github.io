@@ -296,7 +296,7 @@ main {
 .breadcrumb {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 0;
   margin-bottom: 32px;
   padding: 12px 20px;
   background: var(--bg-secondary);
@@ -311,18 +311,13 @@ main {
 }
 
 .breadcrumb-item a {
-  color: var(--text-secondary) !important;
-  text-decoration: none !important;
+  color: var(--text-secondary);
+  text-decoration: none;
   transition: color 0.2s ease;
 }
 
 .breadcrumb-item a:hover {
-  color: var(--accent-primary) !important;
-  text-decoration: none !important;
-}
-
-.breadcrumb-item a:visited {
-  color: var(--text-secondary) !important;
+  color: var(--accent-primary);
 }
 
 .breadcrumb-item.active {
@@ -330,10 +325,20 @@ main {
   font-weight: 500;
 }
 
-.breadcrumb-item + .breadcrumb-item::before {
+.breadcrumb .breadcrumb-item + .breadcrumb-item::before {
   content: '/';
-  margin: 0 8px;
-  color: var(--text-muted);
+  margin: 0 12px;
+  color: var(--text-primary);
+  font-weight: 500;
+  opacity: 0.6;
+  position: static;
+  width: auto;
+  height: auto;
+  background: none;
+  border-radius: 0;
+  transform: none;
+  box-shadow: none;
+  z-index: auto;
 }
 
 /* Section grid */
@@ -1069,6 +1074,7 @@ main pre code {
     overflow-y: auto;
     padding-top: 80px;
     order: 3;
+    display: block;
   }
   
   .main-nav.active {
@@ -1109,18 +1115,6 @@ main pre code {
   .main-nav ul li a.active {
     background: var(--accent-primary);
     color: white;
-  }
-  
-  /* Overlay when menu is open */
-  body.menu-open::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background: rgba(0, 0, 0, 0.5);
-    z-index: 1000;
   }
   
   /* Show menu toggle button */
