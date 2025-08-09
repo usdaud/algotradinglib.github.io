@@ -1,5 +1,7 @@
 # AlgoTradingLib.com
 
+![AlgoTradingLib Preview](assets/images/github_preview.png)
+
 Welcome to the repository for [AlgoTradingLib.com](https://algotradinglib.com) - an open encyclopedia for algorithmic trading.
 
 ## About the Project
