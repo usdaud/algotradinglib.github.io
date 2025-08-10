@@ -1204,14 +1204,9 @@ main pre code {
   
   /* Show menu toggle button */
   .menu-toggle {
-    display: flex !important;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display: block;
     width: 30px;
     height: 30px;
-    padding: 0;
-    z-index: 1002;
   }
   
   /* Keep header above menu */
