@@ -190,11 +190,24 @@ h1, h2, h3, h4, h5, h6 {
   min-width: 0;
 }
 
-.header-controls {
+/* Footer controls */
+.footer-controls {
   display: flex;
+  justify-content: center;
   align-items: center;
   gap: 24px;
-  flex-shrink: 0;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1400px;
+  margin: 0 auto;
+  gap: 24px;
 }
 
 /* Navigation */
@@ -1050,18 +1063,16 @@ main pre code {
     position: relative;
   }
   
-  .header-controls {
-    order: -1;
-    width: 100%;
+  .header-content {
+    flex-direction: row;
     justify-content: space-between;
-    position: relative;
-    z-index: 1002;
+    align-items: center;
   }
   
   .logo-container {
-    order: 2;
+    flex: 1;
   }
-  
+
   .main-nav {
     position: fixed;
     top: 0;
