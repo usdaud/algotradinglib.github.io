@@ -2,6 +2,28 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 <head>
+    <script>
+        // Apply theme immediately to prevent flash
+        (function() {
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            
+            if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+                // Add inline styles for immediate effect
+                document.documentElement.style.setProperty('--bg-primary', '#0f172a');
+                document.documentElement.style.setProperty('--bg-secondary', '#1e293b');
+                document.documentElement.style.setProperty('--bg-card', '#334155');
+                document.documentElement.style.setProperty('--text-primary', '#f1f5f9');
+                document.documentElement.style.setProperty('--text-secondary', '#cbd5e1');
+                document.documentElement.style.setProperty('--text-muted', '#94a3b8');
+                document.documentElement.style.setProperty('--border-color', '#475569');
+                document.documentElement.style.setProperty('--accent-primary', '#60a5fa');
+                document.documentElement.style.setProperty('--accent-secondary', '#3b82f6');
+            }
+        })();
+    </script>
+    
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6DD1JG52GX"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -163,36 +185,38 @@
 
     <script>
         function toggleTheme() {
-            const body = document.body;
-            const currentTheme = body.getAttribute('data-theme');
+            const element = document.documentElement;
+            const currentTheme = element.getAttribute('data-theme');
             const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
             
-            body.setAttribute('data-theme', newTheme === 'light' ? '' : 'dark');
+            if (newTheme === 'dark') {
+                element.setAttribute('data-theme', 'dark');
+                // Apply dark theme CSS variables immediately
+                element.style.setProperty('--bg-primary', '#0f172a');
+                element.style.setProperty('--bg-secondary', '#1e293b');
+                element.style.setProperty('--bg-card', '#334155');
+                element.style.setProperty('--text-primary', '#f1f5f9');
+                element.style.setProperty('--text-secondary', '#cbd5e1');
+                element.style.setProperty('--text-muted', '#94a3b8');
+                element.style.setProperty('--border-color', '#475569');
+                element.style.setProperty('--accent-primary', '#60a5fa');
+                element.style.setProperty('--accent-secondary', '#3b82f6');
+            } else {
+                element.setAttribute('data-theme', '');
+                // Reset to light theme (remove inline styles)
+                element.style.removeProperty('--bg-primary');
+                element.style.removeProperty('--bg-secondary');
+                element.style.removeProperty('--bg-card');
+                element.style.removeProperty('--text-primary');
+                element.style.removeProperty('--text-secondary');
+                element.style.removeProperty('--text-muted');
+                element.style.removeProperty('--border-color');
+                element.style.removeProperty('--accent-primary');
+                element.style.removeProperty('--accent-secondary');
+            }
+            
             localStorage.setItem('theme', newTheme);
         }
-
-        document.addEventListener('DOMContentLoaded', function() {
-            const savedTheme = localStorage.getItem('theme');
-            
-            if (savedTheme === 'dark') {
-                document.body.setAttribute('data-theme', 'dark');
-            } else if (savedTheme === 'light') {
-                document.body.setAttribute('data-theme', '');
-            } else {
-                if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                    document.body.setAttribute('data-theme', 'dark');
-                }
-                
-                if (window.matchMedia) {
-                    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-                    mediaQuery.addListener(function(e) {
-                        if (!localStorage.getItem('theme')) {
-                            document.body.setAttribute('data-theme', e.matches ? 'dark' : '');
-                        }
-                    });
-                }
-            }
-        });
 
         $(document).ready(function() {
             var header = $("#sticky-header");
