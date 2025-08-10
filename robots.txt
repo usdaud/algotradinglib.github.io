@@ -1,0 +1,14 @@
+---
+layout: null
+---
+User-agent: *
+Allow: /
+
+Disallow: /assets/css/
+Disallow: /assets/js/
+
+Allow: /assets/images/
+
+Sitemap: {{ site.url }}/sitemap.xml
+
+Crawl-delay: 1

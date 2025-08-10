@@ -25,6 +25,7 @@ exclude:
 
 include:
   - "*/locales.yml"
+  - "robots.txt"
 
 generators:
   - AlgoTradingPageGenerator
