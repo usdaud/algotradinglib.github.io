@@ -86,8 +86,17 @@
                     </li>
                 </ul>
             </nav>
-            
-            <div class="header-controls">
+        </div>
+    </header>
+
+    <main>
+        {% include breadcrumbs.html %}
+        {{ content }}
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-controls">
                 <div class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
                     <i class="fas fa-sun"></i>
                     <i class="fas fa-moon"></i>
@@ -100,16 +109,6 @@
                     </select>
                 </div>
             </div>
-        </div>
-    </header>
-
-    <main>
-        {% include breadcrumbs.html %}
-        {{ content }}
-    </main>
-
-    <footer>
-        <div class="footer-content">
             <p>&copy; {{ site.time | date: '%Y' }} {{ locale.footer_copyright }}</p>
             <p>{{ locale.footer_contact }}: <a href="https://t.me/usdaud" target="_blank" rel="noopener noreferrer">@usdaud</a> (Telegram)</p>
             <p>
