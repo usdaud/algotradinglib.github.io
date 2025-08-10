@@ -196,7 +196,6 @@ footer {
   color: var(--text-secondary);
   padding: 40px 24px;
   border-top: 1px solid var(--border-color);
-  margin-top: 48px;
 }
 
 .footer-content {
@@ -831,15 +830,6 @@ main {
 }
 
 /* Footer */
-footer {
-  background: var(--bg-card);
-  color: var(--text-secondary);
-  text-align: center;
-  padding: 40px 24px;
-  border-top: 1px solid var(--border-color);
-  margin-top: 48px;
-}
-
 .footer-content p {
   margin-bottom: 16px;
 }
