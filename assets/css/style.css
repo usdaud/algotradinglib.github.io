@@ -211,7 +211,6 @@ footer {
 .footer-left {
   display: flex;
   flex-direction: column;
-  gap: 24px;
   align-items: flex-start;
 }
 
@@ -224,7 +223,6 @@ footer {
 .footer-right {
   display: flex;
   flex-direction: column;
-  gap: 16px;
   text-align: left;
 }
 
@@ -254,6 +252,10 @@ footer .github-icon {
 
 footer a:hover .github-icon {
   opacity: 1;
+}
+
+.footer-subscribe {
+  padding-top: 24px;
 }
 
 .footer-subscribe a {
@@ -864,12 +866,6 @@ footer .github-icon {
 
 footer a:hover .github-icon {
   opacity: 1;
-}
-
-.footer-subscribe {
-  margin-top: 24px;
-  padding-top: 24px;
-  border-top: 1px solid var(--border-color);
 }
 
 .footer-subscribe a {
