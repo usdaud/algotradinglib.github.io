@@ -33,6 +33,13 @@
   pedia_link: /en/pedia/f/forum_bourse_trading.html
   filters: [French, Forum]
 
+- name: Home Investor
+  description: Russian Telegram channel about financial automation, data analysis, and investment strategies by Mikhail Shardin
+  logo: /assets/images/logos/homeinv.png
+  website: https://t.me/homeinv
+  pedia_link: /en/pedia/h/home_investor.html
+  filters: [Russian, Telegram]
+
 - name: Gelonghui
   description: Chinese forum focused on financial markets and trading strategies
   logo: /assets/images/logos/gelonghui.png
