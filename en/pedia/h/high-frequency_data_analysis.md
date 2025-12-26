@@ -25,16 +25,16 @@ High-frequency trading (HFT) processes rely on several key data sources:
 3. **Data Quality**: Ensuring the accuracy and reliability of data is essential. Cleaning and preprocessing steps are necessary to remove [noise](../n/noise.md) and correct errors.
 
 4. **Analysis Techniques**: Involves various statistical and computational methods such as:
-    - **[Descriptive Statistics](../d/descriptive_statistics.md)**: Summarizing the main features of a data set.
-    - **Time-Series Analysis**: Techniques to analyze data points collected or recorded at specific time intervals.
-    - **[Machine Learning](../m/machine_learning.md)**: Algorithms and models to predict trends and patterns.
-    - **[Signal Processing](../s/signal_processing_in_trading.md)**: For detecting anomalies and patterns in noisy data.
+ - **[Descriptive Statistics](../d/descriptive_statistics.md)**: Summarizing the main features of a data set.
+ - **Time-Series Analysis**: Techniques to analyze data points collected or recorded at specific time intervals.
+ - **[Machine Learning](../m/machine_learning.md)**: Algorithms and models to predict trends and patterns.
+ - **[Signal Processing](../s/signal_processing_in_trading.md)**: For detecting anomalies and patterns in noisy data.
 
 ## Statistical Methods in HFDA
 
 ### Time-Series Analysis
 
-Time-series analysis is at the heart of HFDA. Techniques such as [autoregressive models](../a/autoregressive.md) (AR), moving averages (MA), and autoregressive integrated moving average (ARIMA) are commonly used to model and forecast [market](../m/market.md) behaviors. 
+Time-series analysis is at the heart of HFDA. Techniques such as [autoregressive models](../a/autoregressive.md) (AR), moving averages (MA), and autoregressive integrated moving average (ARIMA) are commonly used to model and forecast [market](../m/market.md) behaviors.
 
 - **AR Model**: Utilizes past values to predict future values.
 - **MA Model**: Uses moving averages of past error terms for prediction.
@@ -82,9 +82,9 @@ High-frequency data analysis powers several [algorithmic trading](../a/algorithm
 
 Several companies and platforms specialize in high-frequency data analysis and [offer](../o/offer.md) services and tools for traders and financial institutions:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md) using high-frequency data.
-- **Kdb+ by Kx Systems**: [Kx Systems](https://kx.com/) offers kdb+, a high-performance time-series database designed for real-time, high-frequency data processing.
-- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software solution that includes high-frequency data analysis tools.
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md) using high-frequency data.
+- **Kdb+ by Kx Systems**: Kx Systems offers kdb+, a high-performance time-series database designed for real-time, high-frequency data processing.
+- **[AlgoTrader](../a/algotrader.md)**: AlgoTrader provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software solution that includes high-frequency data analysis tools.
 
 ## Conclusion
 

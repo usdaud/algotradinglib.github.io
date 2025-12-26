@@ -34,7 +34,7 @@ Dynamic allocation involves continuously adjusting the earmarked amounts based o
 
 ### Hedge Funds and Asset Management
 
-Most [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) companies implement earmarking as part of their [portfolio management](../p/par.md) strategies. By earmarking funds to various [trading algorithms](../t/trading_algorithms.md) and strategies, these firms can achieve better [risk](../r/risk.md)-adjusted returns. Companies like Two Sigma (https://www.twosigma.com) and Renaissance Technologies (https://www.rentec.com) are known for their sophisticated [algorithmic trading](../a/accountability.md) approaches that likely incorporate earmarking principles.
+Most [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) companies implement earmarking as part of their [portfolio management](../p/par.md) strategies. By earmarking funds to various [trading algorithms](../t/trading_algorithms.md) and strategies, these firms can achieve better [risk](../r/risk.md)-adjusted returns. Companies like Two Sigma ( and Renaissance Technologies ( are known for their sophisticated [algorithmic trading](../a/accountability.md) approaches that likely incorporate earmarking principles.
 
 ### Proprietary Trading Firms
 
@@ -74,7 +74,7 @@ The future of earmarking in [algorithmic trading](../a/accountability.md) is lik
 
 ### Integrative Platforms
 
-There is a growing [trend](../t/trend.md) toward integrative platforms that [offer](../o/offer.md) a holistic approach to [capital](../c/capital.md) management. These platforms can combine [multiple](../m/multiple.md) earmarking strategies, real-time performance tracking, and [risk management](../r/risk_management.md) tools into a unified system. Companies like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) are leading the way in providing such comprehensive solutions.
+There is a growing [trend](../t/trend.md) toward integrative platforms that [offer](../o/offer.md) a holistic approach to [capital](../c/capital.md) management. These platforms can combine [multiple](../m/multiple.md) earmarking strategies, real-time performance tracking, and [risk management](../r/risk_management.md) tools into a unified system. Companies like [StockSharp](../s/stocksharp.md) are leading the way in providing such comprehensive solutions.
 
 ## Conclusion
 

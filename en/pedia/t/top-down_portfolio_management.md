@@ -62,8 +62,8 @@ Evaluating [portfolio performance](../p/portfolio_performance.md) is an ongoing 
 
 Investors utilize various tools and platforms for implementing a [top-down approach](../t/top-down_approach_in_trading.md):
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial platform providing real-time data, news, and analysis. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **[Reuters](../r/reuters.md) Eikon**: Another [robust](../r/robust.md) [financial analysis](../f/financial_analysis.md) tool [offering](../o/offering.md) insights and analytics. [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial platform providing real-time data, news, and analysis. Bloomberg Terminal
+2. **[Reuters](../r/reuters.md) Eikon**: Another [robust](../r/robust.md) [financial analysis](../f/financial_analysis.md) tool [offering](../o/offering.md) insights and analytics. Reuters Eikon
 3. **Economic Databases**: Access to databases such as the [World Bank](../w/world_bank.md), IMF, and OECD provides valuable economic data.
 4. **Financial News Outlets**: Keeping informed with sources like CNBC, Financial Times, and [Wall Street](../w/wall_street.md) [Journal](../j/journal.md).
 

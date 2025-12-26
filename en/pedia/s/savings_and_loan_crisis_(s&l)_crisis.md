@@ -20,7 +20,7 @@ In response to the stress on the S&L [industry](../i/industry.md), Congress emba
 
 #### Depository Institutions Deregulation and Monetary Control Act (1980)
 
-The DIDMCA aimed to address issues facing S&Ls by phasing out [interest rate](../i/interest_rate.md) ceilings on [deposit](../d/deposit.md) accounts and allowing S&Ls to [offer](../o/offer.md) a broader array of financial products. 
+The DIDMCA aimed to address issues facing S&Ls by phasing out [interest rate](../i/interest_rate.md) ceilings on [deposit](../d/deposit.md) accounts and allowing S&Ls to [offer](../o/offer.md) a broader array of financial products.
 
 #### Garn-St. Germain Depository Institutions Act (1982)
 
@@ -30,7 +30,7 @@ This legislation further expanded the permissible activities of S&Ls, allowing t
 
 While [deregulation](../d/deregulation.md) was meant to stabilize the [industry](../i/industry.md), it had unintended consequences. The [expansion](../e/expansion.md) of permissible activities without corresponding oversight led to riskier behavior by S&Ls. They ventured into speculative investments, [commercial real estate](../c/commercial_real_estate.md) development, and other high-[risk](../r/risk.md) activities with inadequate [internal controls](../i/internal_controls.md).
 
-## Fraud and Mismanagement 
+## Fraud and Mismanagement
 
 ### Malfeasance and Corruption
 
@@ -66,7 +66,7 @@ FIRREA increased the enforcement powers of regulatory agencies, established the 
 
 ### Regulatory and Industry Reforms
 
-Changes in regulatory practices and [industry](../i/industry.md) reforms ensued. The banking sector saw enhanced scrutiny, improved [risk management](../r/risk_management.md) practices, and stricter regulatory standards. 
+Changes in regulatory practices and [industry](../i/industry.md) reforms ensued. The banking sector saw enhanced scrutiny, improved [risk management](../r/risk_management.md) practices, and stricter regulatory standards.
 
 ## Long-Term Impacts
 

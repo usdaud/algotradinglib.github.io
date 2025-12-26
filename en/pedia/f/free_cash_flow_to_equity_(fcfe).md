@@ -88,7 +88,7 @@ Consider a hypothetical technology company, TechInnovations Inc., with the follo
 
 Using the FCFE formula, we can compute:
 
-\[ 
+\[
 \text{FCFE} = \$500 \text{ million} + \$100 \text{ million} - \$50 \text{ million} - \$150 \text{ million} + \$60 \text{ million} = \$460 \text{ million}
 \]
 

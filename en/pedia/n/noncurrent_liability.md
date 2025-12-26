@@ -15,7 +15,7 @@ Various types of noncurrent liabilities exist, each having unique characteristic
 [Long-term debt](../l/long-term_debt.md) refers to loans, bonds, and other forms of [financing](../f/financing.md) that need to be repaid over a period exceeding one year. This can involve both [principal](../p/principal.md) and [interest](../i/interest.md) payments.
 
 - **Bonds Payable:** Companies often [issue](../i/issue.md) bonds to investors to raise [capital](../c/capital.md). These are typically payable over 5, 10, or even 30 years.
-  
+
 - **Mortgages Payable:** [Long-term debt](../l/long-term_debt.md) secured by [real estate](../r/real_estate.md). This [liability](../l/liability.md) is common in companies that [hold](../h/hold.md) substantial property assets.
 
 ### Deferred Tax Liabilities
@@ -38,11 +38,11 @@ Contingent liabilities are potential [obligations](../o/obligation.md) that may 
 
 To provide a more concrete understanding, here are some real-world examples of noncurrent liabilities:
 
-- **Apple Inc.:** As of the latest [financial statements](../f/financial_statements.md), Apple Inc. had approximately $95 billion in [long-term debt](../l/long-term_debt.md). This [debt](../d/debt.md) is primarily in the form of bonds issued to [finance](../f/finance.md) operations and [share buybacks](../s/share_buybacks.md). [Apple Inc. Investor Relations](https://investor.apple.com/).
-  
-- **Ford Motor Company:** Ford reported significant pension liabilities, reflecting its commitment to paying future retirement benefits to its employees. [Ford Investor Relations](https://corporate.ford.com/investors.html).
+- **Apple Inc.:** As of the latest [financial statements](../f/financial_statements.md), Apple Inc. had approximately $95 billion in [long-term debt](../l/long-term_debt.md). This [debt](../d/debt.md) is primarily in the form of bonds issued to [finance](../f/finance.md) operations and [share buybacks](../s/share_buybacks.md). Apple Inc. company filings.
 
-- **Boeing:** Boeing carries deferred tax liabilities due to differences in tax laws and [accounting](../a/accounting.md) treatments for specific [revenue recognition](../r/revenue_recognition.md) practices. [Boeing Investor Relations](https://investors.boeing.com/).
+- **Ford Motor Company:** Ford reported significant pension liabilities, reflecting its commitment to paying future retirement benefits to its employees. Ford company filings.
+
+- **Boeing:** Boeing carries deferred tax liabilities due to differences in tax laws and [accounting](../a/accounting.md) treatments for specific [revenue recognition](../r/revenue_recognition.md) practices. Boeing company filings.
 
 ## Impact on Financial Statements
 

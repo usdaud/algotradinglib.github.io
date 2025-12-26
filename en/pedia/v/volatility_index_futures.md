@@ -16,10 +16,10 @@ Key elements of VIX [futures](../f/futures.md) include:
 - **Contract Size**: Typically, VIX [futures](../f/futures.md) have a contract [multiplier](../m/multiplier.md) of $1,000 times the [index](../i/index_instrument.md) level.
 - **[Tick Size](../t/tick_size.md)**: The minimum price movement ([tick size](../t/tick_size.md)) is usually 0.05 [index](../i/index_instrument.md) points, which corresponds to a move of $50 per contract.
 - **Expiration Cycle**: VIX [futures](../f/futures.md) expire every Wednesday that is 30 days prior to the third Friday of the following calendar month. Different month contracts allow for hedging needs across various time horizons.
-  
+
 ### Pricing and the Term Structure of VIX Futures
 
-The pricing of VIX [futures](../f/futures.md) differs from the actual VIX [index](../i/index_instrument.md) [value](../v/value.md) due to the relationship between spot and [futures](../f/futures.md) prices, and factors such as carry costs, [risk](../r/risk.md) premiums, and [market sentiment](../m/market_sentiment.md). VIX [futures](../f/futures.md) often exhibit a term structure that can be in [contango](../c/contango.md) (upward-sloping) or [backwardation](../b/backwardation.md) (downward-sloping). 
+The pricing of VIX [futures](../f/futures.md) differs from the actual VIX [index](../i/index_instrument.md) [value](../v/value.md) due to the relationship between spot and [futures](../f/futures.md) prices, and factors such as carry costs, [risk](../r/risk.md) premiums, and [market sentiment](../m/market_sentiment.md). VIX [futures](../f/futures.md) often exhibit a term structure that can be in [contango](../c/contango.md) (upward-sloping) or [backwardation](../b/backwardation.md) (downward-sloping).
 
 - **[Contango](../c/contango.md)**: This occurs when [futures](../f/futures.md) prices are higher than the current [spot price](../s/spot_price.md). [Contango](../c/contango.md) reflects the cost of carry and also the [market](../m/market.md)'s anticipation of higher [volatility](../v/volatility.md) in the future.
 - **[Backwardation](../b/backwardation.md)**: This happens when [futures](../f/futures.md) prices are lower than the [spot price](../s/spot_price.md), indicating that the [market](../m/market.md) expects lower [volatility](../v/volatility.md) in the future.
@@ -57,4 +57,4 @@ Key participants in the VIX [futures market](../f/futures_market.md) include:
 
 VIX [futures](../f/futures.md) are sophisticated financial instruments that play a crucial role in modern [financial markets](../f/financial_market.md). They provide a mechanism for traders and investors to express their views on future [market](../m/market.md) [volatility](../v/volatility.md). While they [offer](../o/offer.md) substantial opportunities for hedging and [speculation](../s/speculation.md), the complexity and risks involved necessitate a deep understanding of the [underlying](../u/underlying.md) mechanics and potential [market](../m/market.md) behaviors. As a result, investors must approach VIX [futures](../f/futures.md) with a well-considered strategy and a keen awareness of the [market dynamics](../m/market_dynamics.md).
 
-For further detailed information on VIX [futures](../f/futures.md), you can visit the [Cboe Futures Exchange](http://www.cboe.com/micro/vix/vixfutures.aspx).
+For further detailed information on VIX [futures](../f/futures.md), you can visit the Cboe Futures Exchange.

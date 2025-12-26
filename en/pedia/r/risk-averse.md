@@ -42,7 +42,7 @@ Where:
 
 ### Portfolio Management
 
-[Risk](../r/risk.md)-averse investors typically diversify their investments to mitigate [risk](../r/risk.md). [Diversification](../d/diversification.md) [spreads](../s/spreads.md) investments across different assets to reduce exposure to any one particular [risk](../r/risk.md). The traditional [mean-variance portfolio](../m/mean-variance_portfolio.md) theory by [Harry Markowitz](../h/harry_markowitz.md) largely relies on the degree of [risk](../r/risk.md) aversion to suggest optimal portfolio allocations. 
+[Risk](../r/risk.md)-averse investors typically diversify their investments to mitigate [risk](../r/risk.md). [Diversification](../d/diversification.md) [spreads](../s/spreads.md) investments across different assets to reduce exposure to any one particular [risk](../r/risk.md). The traditional [mean-variance portfolio](../m/mean-variance_portfolio.md) theory by [Harry Markowitz](../h/harry_markowitz.md) largely relies on the degree of [risk](../r/risk.md) aversion to suggest optimal portfolio allocations.
 
 ### Asset Pricing
 
@@ -58,7 +58,7 @@ Where:
 
 ### Algo Trading
 
-In [algorithmic trading](../a/accountability.md), [risk](../r/risk.md) aversion parameters can be integrated into [trading algorithms](../t/trading_algorithms.md) to ensure that the strategies align with the [investor](../i/investor.md)'s [risk](../r/risk.md) preferences. Algorithms can be designed to dynamically adjust positions based on the real-time [risk](../r/risk.md) assessment of the [market](../m/market.md). Utilizing [machine learning](../m/machine_learning.md), these algorithms can adapt and optimize [trading strategies](../t/trading_strategies.md) according to changing [market](../m/market.md) conditions and [risk factors](../r/risk_factors_in_trading.md).
+In [algorithmic trading](../a/algorithmic_trading.md), [risk](../r/risk.md) aversion parameters can be integrated into [trading algorithms](../t/trading_algorithms.md) to ensure that the strategies align with the [investor](../i/investor.md)'s [risk](../r/risk.md) preferences. Algorithms can be designed to dynamically adjust positions based on the real-time [risk](../r/risk.md) assessment of the [market](../m/market.md). Utilizing [machine learning](../m/machine_learning.md), these algorithms can adapt and optimize [trading strategies](../t/trading_strategies.md) according to changing [market](../m/market.md) conditions and [risk factors](../r/risk_factors_in_trading.md).
 
 ### Financial Instruments and Products
 
@@ -88,7 +88,7 @@ Numerous studies have documented how [risk](../r/risk.md) aversion influences [m
 
 ## Cross-Cultural Variations
 
-Research has also shown that the degree of [risk](../r/risk.md) aversion varies across cultures and demographic factors. Factors such as economic development, regulatory environment, and cultural attitudes towards [risk](../r/risk.md) can influence [risk](../r/risk.md) perceptions and, consequently, financial behavior. 
+Research has also shown that the degree of [risk](../r/risk.md) aversion varies across cultures and demographic factors. Factors such as economic development, regulatory environment, and cultural attitudes towards [risk](../r/risk.md) can influence [risk](../r/risk.md) perceptions and, consequently, financial behavior.
 
 For instance, in more collectivist societies, people may exhibit higher levels of [risk](../r/risk.md) aversion due to social and familial considerations. In contrast, individualistic cultures might show lower [risk](../r/risk.md) aversion due to a greater emphasis on personal achievement and rewards.
 
@@ -98,4 +98,4 @@ For instance, in more collectivist societies, people may exhibit higher levels o
 
 ---
 
-For more information on [risk](../r/risk.md) aversion and its applications, you can visit [Capital Asset Pricing Model (CAPM) - Investopedia](https://www.investopedia.com/terms/c/capm.asp) or the London School of [Economics](../e/economics.md) page on [Behavioral Finance](https://www.lse.ac.uk/finance/research/behavioral-finance).
+For more information on [risk](../r/risk.md) aversion and its applications, see CAPM and behavioral finance literature.

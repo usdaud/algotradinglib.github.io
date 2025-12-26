@@ -24,7 +24,7 @@ Every [transaction](../t/transaction.md) processed by a [bank](../b/bank.md) is 
 
 #### Securities Trading
 
-In trading platforms, including those leveraging [algorithmic trading](../a/accountability.md), reference numbers are used to identify buy and sell orders. This helps in tracking the lifecycle of an [order](../o/order.md), ensuring trades are executed correctly and beneficially.
+In trading platforms, including those leveraging [algorithmic trading](../a/algorithmic_trading.md), reference numbers are used to identify buy and sell orders. This helps in tracking the lifecycle of an [order](../o/order.md), ensuring trades are executed correctly and beneficially.
 
 #### Invoices and Billing
 
@@ -38,7 +38,7 @@ Each [insurance](../i/insurance.md) policy is given a reference number, which he
 
 #### Role of Reference Numbers
 
-In the domain of [algorithmic trading](../a/accountability.md), reference numbers play a pivotal role. They help in:
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), reference numbers play a pivotal role. They help in:
 
 1. **[Order](../o/order.md) Matching**: Algorithms use reference numbers to match buy and sell orders quickly, ensuring optimal [execution](../e/execution.md) prices.
 2. **[Risk Management](../r/risk_management.md)**: By tracking trades through reference numbers, [risk management systems](../r/risk_management_systems.md) can assess exposures and potential losses in real-time.

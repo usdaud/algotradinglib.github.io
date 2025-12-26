@@ -7,26 +7,26 @@ The overall [liquidity ratio](../l/liquidity_ratio.md) is a financial metric use
 The overall [liquidity ratio](../l/liquidity_ratio.md) is a broad measure of a company's [liquidity](../l/liquidity.md), combining various individual [liquidity ratios](../l/liquidity_ratios.md) to [offer](../o/offer.md) an encompassing view of its [financial health](../f/financial_health.md). It typically includes:
 
 1. **[Current Ratio](../c/current_ratio.md)**: This is the most common [liquidity ratio](../l/liquidity_ratio.md). It is calculated as:
-   \[
-   \text{[Current Ratio](../c/current_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-   \]
-   This ratio measures the company's ability to cover its short-term liabilities with its short-term assets.
+ \[
+ \text{[Current Ratio](../c/current_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
+ This ratio measures the company's ability to cover its short-term liabilities with its short-term assets.
 
 2. **[Quick Ratio](../q/quick_ratio.md) ([Acid-Test Ratio](../a/acid-test_ratio.md))**: This ratio excludes [inventory](../i/inventory.md) from [current assets](../c/current_assets.md), focusing on the most [liquid](../l/liquid.md) assets:
-   \[
-   \text{[Quick Ratio](../q/quick_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)} - \text{[Inventory](../i/inventory.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-   \]
-   It provides a stricter measure of [liquidity](../l/liquidity.md) compared to the [current ratio](../c/current_ratio.md).
+ \[
+ \text{[Quick Ratio](../q/quick_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)} - \text{[Inventory](../i/inventory.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
+ It provides a stricter measure of [liquidity](../l/liquidity.md) compared to the [current ratio](../c/current_ratio.md).
 
 3. **[Cash Ratio](../c/cash_ratio.md)**: This is the most conservative [liquidity ratio](../l/liquidity_ratio.md), considering only cash and [cash equivalents](../c/cash_equivalents.md):
-   \[
-   \text{[Cash Ratio](../c/cash_ratio.md)} = \frac{\text{Cash and [Cash Equivalents](../c/cash_equivalents.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-   \]
+ \[
+ \text{[Cash Ratio](../c/cash_ratio.md)} = \frac{\text{Cash and [Cash Equivalents](../c/cash_equivalents.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
 
 4. **[Operating Cash Flow Ratio](../o/operating_cash_flow_ratio.md)**: This ratio compares the [cash flow](../c/cash_flow.md) from operations to [current liabilities](../c/current_liabilities.md):
-   \[
-   \text{[Operating Cash Flow Ratio](../o/operating_cash_flow_ratio.md)} = \frac{\text{[Cash Flow](../c/cash_flow.md) from Operations}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-   \]
+ \[
+ \text{[Operating Cash Flow Ratio](../o/operating_cash_flow_ratio.md)} = \frac{\text{[Cash Flow](../c/cash_flow.md) from Operations}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
 
 By looking at these individual ratios collectively, the overall [liquidity ratio](../l/liquidity_ratio.md) provides a comprehensive picture of a company's short-term [financial health](../f/financial_health.md).
 

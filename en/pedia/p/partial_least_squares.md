@@ -78,6 +78,6 @@ Another notable application is in [credit risk](../c/credit_risk.md) modeling, w
 Partial Least Squares is an invaluable tool in the arsenal of financial analysts and algorithmic traders. Its ability to [handle](../h/handle.md) large, collinear datasets and maximize the predictive power of models makes it particularly suited for the complex, high-dimensional data encountered in [financial markets](../f/financial_market.md). By leveraging PLS, financial professionals can develop more accurate and [robust](../r/robust.md) models, ultimately improving decision-making and [trading strategies](../t/trading_strategies.md).
 
 For further reading and practical examples, you can explore the following resources:
-- [scikit-learn Partial Least Squares Documentation](https://scikit-learn.org/stable/modules/cross_decomposition.html)
-- [R `pls` Package Documentation](https://cran.r-project.org/web/packages/pls/index.html)
-- [MATLAB Partial Least Squares Toolbox](https://www.mathworks.com/help/stats/partial-least-squares-regression.html)
+- scikit-learn Partial Least Squares Documentation
+- R `pls` Package Documentation
+- MATLAB Partial Least Squares Toolbox

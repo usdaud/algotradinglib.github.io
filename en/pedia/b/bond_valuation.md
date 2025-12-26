@@ -11,7 +11,7 @@ The [face value](../f/face_value.md), or [par value](../p/par_value.md), of a [b
 Coupon payments are the periodic [interest](../i/interest.md) payments made to the [bondholder](../b/bondholder.md) during the life of the [bond](../b/bond.md). They can be issued annually, semi-annually, quarterly, or at other intervals. The [coupon rate](../c/coupon_rate.md) is expressed as a percentage of the [bond](../b/bond.md)'s [face value](../f/face_value.md).
 
 ### 3. **Maturity Date**
-The [maturity date](../m/maturity_date.md) of a [bond](../b/bond.md) is the specified date on which the [principal](../p/principal.md) amount ([face value](../f/face_value.md)) of the [bond](../b/bond.md) is repaid to the [bondholder](../b/bondholder.md). 
+The [maturity date](../m/maturity_date.md) of a [bond](../b/bond.md) is the specified date on which the [principal](../p/principal.md) amount ([face value](../f/face_value.md)) of the [bond](../b/bond.md) is repaid to the [bondholder](../b/bondholder.md).
 
 ### 4. **Discount Rate**
 The [discount rate](../d/discount_rate.md), often synonymous with [yield to maturity](../y/yield_to_maturity.md) (YTM), is the rate of [interest](../i/interest.md) you'll use to [discount](../d/discount.md) the [bond](../b/bond.md)'s future cash flows. It reflects the [market](../m/market.md) [interest rate](../i/interest_rate.md) for bonds of similar [risk](../r/risk.md) and [maturity](../m/maturity.md).
@@ -85,4 +85,4 @@ These features can impact a [bond](../b/bond.md)'s [value](../v/value.md). For e
 
 [Bond](../b/bond.md) [valuation](../v/valuation.md) is a critical aspect of fixed-[income](../i/income.md) [investing](../i/investing.md), allowing investors to estimate the [value](../v/value.md) of [bond](../b/bond.md) investments and make informed decisions. Understanding the [present value](../p/present_value.md), [yield](../y/yield.md) measures, and various [bond](../b/bond.md) types, along with factors influencing [bond](../b/bond.md) prices, provides the foundational knowledge needed to evaluate bonds effectively.
 
-For further resources on [bond](../b/bond.md) [valuation](../v/valuation.md) and tools for analysis, you can refer to financial services companies like [Bloomberg](https://www.bloomberg.com) or [Morningstar](https://www.morningstar.com). These firms provide extensive data and [valuation](../v/valuation.md) tools that cater to both individual investors and financial professionals.
+For further resources on [bond](../b/bond.md) [valuation](../v/valuation.md) and tools for analysis, you can refer to financial services companies like Bloomberg or Morningstar. These firms provide extensive data and [valuation](../v/valuation.md) tools that cater to both individual investors and financial professionals.

@@ -2,7 +2,7 @@
 
 Unfilled trades, also known as [unexecuted orders](../u/unexecuted_orders.md) or missed trades, occur when buy or sell orders [fail](../f/fail.md) to be matched in the trading [market](../m/market.md). In high-frequency trading (HFT) and other [algorithmic trading](../a/algorithmic_trading.md) (AT) strategies, unfilled trades can significantly impact performance and profitability. This document dives into the metrics, reasons, and implications of unfilled trades while also discussing various methods to analyze and mitigate these issues.
 
-## Understanding Unfilled Trades 
+## Understanding Unfilled Trades
 
 Unfilled trades represent those orders placed by a trading algorithm that do not get executed due to various reasons such as lack of [liquidity](../l/liquidity.md), wrong timing, or [market dynamics](../m/market_dynamics.md). Unfilled trades can occur in both limit and [market](../m/market.md) orders:
 
@@ -66,7 +66,7 @@ Advanced statistical methods, such as [regression analysis](../r/regression_anal
 ## Mitigation Strategies
 
 ### Smart Order Routing
-Smart [order routing](../o/order_routing.md) (SOR) algorithms split orders across [multiple](../m/multiple.md) venues to [capitalize](../c/capitalize.md) on available [liquidity](../l/liquidity.md) and improve [execution](../e/execution.md) chances. Companies like [IEX](https://www.iextrading.com) [offer](../o/offer.md) advanced tools for this purpose.
+Smart [order routing](../o/order_routing.md) (SOR) algorithms split orders across [multiple](../m/multiple.md) venues to [capitalize](../c/capitalize.md) on available [liquidity](../l/liquidity.md) and improve [execution](../e/execution.md) chances. Companies like IEX [offer](../o/offer.md) advanced tools for this purpose.
 
 ### Reducing Order Sizes
 Breaking large orders into smaller chunks can reduce [market](../m/market.md) impact and increase the chances of [execution](../e/execution.md). Techniques such as "iceberg" orders—where only a portion of the [order](../o/order.md) is displayed, with the rest revealed as it gets filled—can be particularly effective.
@@ -75,10 +75,10 @@ Breaking large orders into smaller chunks can reduce [market](../m/market.md) im
 Developing [adaptive algorithms](../a/adaptive_algorithms.md) that adjust [order](../o/order.md) parameters based on real-time [market](../m/market.md) feedback can reduce the occurrence of unfilled trades. [Adaptive algorithms](../a/adaptive_algorithms.md) can modify [order types](../o/order_types_in_trading.md), sizes, and their timing dynamically.
 
 ### Latency Reduction
-[Investing](../i/investing.md) in low-latency [infrastructure](../i/infrastructure.md), including faster data feeds and more efficient [order routing](../o/order_routing.md) networks, is essential in competitive trading environments. Companies such as [Colt Technology Services](https://www.colt.net) provide [robust](../r/robust.md) low-latency solutions for traders.
+[Investing](../i/investing.md) in low-latency [infrastructure](../i/infrastructure.md), including faster data feeds and more efficient [order routing](../o/order_routing.md) networks, is essential in competitive trading environments. Companies such as Colt Technology Services provide [robust](../r/robust.md) low-latency solutions for traders.
 
 ### Collaborating with Liquidity Providers
-Building relationships with [liquidity](../l/liquidity.md) providers helps ensure that orders are more likely to find matches. [Market](../m/market.md) makers and algorithmic [liquidity](../l/liquidity.md) providers can [offer](../o/offer.md) additional opportunities for executing trades. Firms like [Virtu Financial](https://www.virtu.com) specialize in providing [liquidity](../l/liquidity.md) solutions.
+Building relationships with [liquidity](../l/liquidity.md) providers helps ensure that orders are more likely to find matches. [Market](../m/market.md) makers and algorithmic [liquidity](../l/liquidity.md) providers can [offer](../o/offer.md) additional opportunities for executing trades. Firms like Virtu Financial specialize in providing [liquidity](../l/liquidity.md) solutions.
 
 ## Case Studies
 
@@ -92,5 +92,4 @@ An investment [bank](../b/bank.md) employed a new smart [order routing](../o/ord
 
 Unfilled trades are a critical aspect of [algorithmic trading](../a/algorithmic_trading.md) with significant implications for strategy performance and profitability. Through in-depth analysis of historical data, real-time monitoring, and employing advanced tools and algorithms, traders can minimize the incidence of unfilled trades. The objective is to refine [trading strategies](../t/trading_strategies.md) continually to adapt to ever-evolving [market](../m/market.md) conditions and maintain a competitive edge.
 
-For further information on advanced trading [infrastructure](../i/infrastructure.md) and analytics tools, you may refer to specialized service providers such as [TradeStation](https://www.tradestation.com) and [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/). Their platforms [offer](../o/offer.md) integrated solutions for analyzing and optimizing [trade](../t/trade.md) [execution](../e/execution.md).
-
+For further information on advanced trading [infrastructure](../i/infrastructure.md) and analytics tools, you may refer to specialized service providers such as TradeStation and Bloomberg Terminal. Their platforms [offer](../o/offer.md) integrated solutions for analyzing and optimizing [trade](../t/trade.md) [execution](../e/execution.md).

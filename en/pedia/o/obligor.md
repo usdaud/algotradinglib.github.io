@@ -26,11 +26,11 @@ The [scope](../s/scope.md) and nature of an obligor's [obligations](../o/obligat
 
 [Credit](../c/credit.md) ratings and thorough [risk](../r/risk.md) assessments are crucial for evaluating an obligor's ability to meet their [obligations](../o/obligation.md). These evaluations are often conducted by specialized [credit rating](../c/credit_rating.md) agencies and financial institutions.
 
-* **[Credit Rating](../c/credit_rating.md) Agencies:** Major agencies like Moody’s, Standard & Poor’s (S&P), and [Fitch Ratings](../f/fitch_ratings.md) provide independent evaluations of an obligor's [creditworthiness](../c/creditworthiness.md). They assign ratings that [range](../r/range.md) from high-grade (indicating low [credit risk](../c/credit_risk.md)) to junk status (indicating high [credit risk](../c/credit_risk.md)). These ratings influence [investor](../i/investor.md) confidence and the obligor’s ability to access [capital markets](../c/capital_markets.md). 
+* **[Credit Rating](../c/credit_rating.md) Agencies:** Major agencies like Moody’s, Standard & Poor’s (S&P), and [Fitch Ratings](../f/fitch_ratings.md) provide independent evaluations of an obligor's [creditworthiness](../c/creditworthiness.md). They assign ratings that [range](../r/range.md) from high-grade (indicating low [credit risk](../c/credit_risk.md)) to junk status (indicating high [credit risk](../c/credit_risk.md)). These ratings influence [investor](../i/investor.md) confidence and the obligor’s ability to access [capital markets](../c/capital_markets.md).
 
-  - [Moody's](https://www.moodys.com/)
-  - [Standard & Poor's](https://www.standardandpoors.com/)
-  - [Fitch Ratings](https://www.fitchratings.com/)
+ - Moody's
+ - Standard & Poor's
+ - Fitch Ratings
 
 * **[Credit](../c/credit.md) Analysis:** Financial institutions also conduct proprietary [credit](../c/credit.md) analysis to evaluate obligor [risk](../r/risk.md). This involves examining [financial statements](../f/financial_statements.md), analyzing [cash flow](../c/cash_flow.md), assessing [debt](../d/debt.md) levels, and considering broader economic factors. The conclusions drawn from such analysis inform lending decisions and [risk management](../r/risk_management.md) strategies.
 

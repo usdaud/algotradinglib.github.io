@@ -71,7 +71,7 @@ Banks and financial institutions are the primary issuers of TruPS. The structure
 
 Institutional investors such as pension funds, [insurance](../i/insurance.md) companies, and [hedge](../h/hedge.md) funds are typical buyers of TruPS, attracted by their higher yields relative to other fixed-[income](../i/income.md) securities.
 
-## Case Study 
+## Case Study
 
 One notable example is the issuance of TruPS by AIG (American International Group) prior to the [financial crisis](../f/financial_crisis.md). These instruments played a substantial role in the company’s [capital structure](../c/capital_structure.md) but became a significant burden during the crisis, illustrating both the advantages and pitfalls of using complex [capital](../c/capital.md) instruments.
 
@@ -79,7 +79,7 @@ One notable example is the issuance of TruPS by AIG (American International Grou
 
 [Trust](../t/trust.md) [Preferred Securities](../p/preferred_securities.md) are a sophisticated [financial instrument](../f/financial_instrument.md) combining elements of [debt](../d/debt.md) and [equity](../e/equity.md). They [offer](../o/offer.md) financial institutions a way to raise [capital](../c/capital.md) efficiently but come with increased complexity and risks. Regulatory changes and [market dynamics](../m/market_dynamics.md) greatly affect their attractiveness and usability. Understanding these instruments requires a thorough knowledge of [corporate finance](../c/corporate_finance.md), regulatory environments, and their implications in various [market](../m/market.md) conditions.
 
-For more detailed information about [Trust](../t/trust.md) [Preferred Securities](../p/preferred_securities.md), you can explore dedicated financial resources or contact financial institutions that specialize in such instruments, such as [AIG](https://www.aig.com).
+For more detailed information about [Trust](../t/trust.md) [Preferred Securities](../p/preferred_securities.md), you can explore dedicated financial resources or contact financial institutions that specialize in such instruments, such as AIG.
 
 ## References
 

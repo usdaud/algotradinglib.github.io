@@ -26,7 +26,7 @@ A green-field investment is a type of foreign [direct investment](../d/direct_in
 
 5. **[Brand Recognition](../b/brand_recognition.md)**: Establishing new facilities helps in building and enhancing the brand's presence and reputation in the host country.
 
-## Disadvantages 
+## Disadvantages
 
 1. **High Costs and Risks**: Building new facilities from scratch involves significant [capital expenditure](../c/capital_expenditure.md) and [financial risk](../f/financial_risk.md). Companies must invest heavily in land, construction, equipment, and other [startup](../s/startup.md) costs.
 
@@ -38,13 +38,13 @@ A green-field investment is a type of foreign [direct investment](../d/direct_in
 
 5. **Political and Economic Risks**: Green-field investments are susceptible to political and economic instability in the host country. Changes in [government policies](../g/government_policies_in_trading.md), economic downturns, or social unrest can adversely impact the investment.
 
-## Examples of Green-Field Investments 
+## Examples of Green-Field Investments
 
-1. **Toyota in the USA**: Toyota's establishment of [multiple](../m/multiple.md) [manufacturing](../m/manufacturing.md) plants in the United States is a prime example of a green-field investment. By constructing new facilities in states like Kentucky and Texas, Toyota was able to increase its production capacity, create jobs, and strengthen its foothold in the US automotive [market](../m/market.md). [Toyota USA Manufacturing](https://www.toyota.com/usa/operations/map.html#!/)
+1. **Toyota in the USA**: Toyota's establishment of [multiple](../m/multiple.md) [manufacturing](../m/manufacturing.md) plants in the United States is a prime example of a green-field investment. By constructing new facilities in states like Kentucky and Texas, Toyota was able to increase its production capacity, create jobs, and strengthen its foothold in the US automotive [market](../m/market.md). Toyota USA Manufacturing
 
-2. **Tesla Gigafactory in China**: Tesla's Gigafactory in Shanghai is another well-known green-field investment. The factory, built from the ground up, is part of Tesla's strategic plan to meet the growing [demand](../d/demand.md) for electric vehicles (EVs) in China and to penetrate the Asian [market](../m/market.md) more effectively. [Tesla Gigafactory Shanghai](https://www.tesla.com/gigafactory-shanghai)
+2. **Tesla Gigafactory in China**: Tesla's Gigafactory in Shanghai is another well-known green-field investment. The factory, built from the ground up, is part of Tesla's strategic plan to meet the growing [demand](../d/demand.md) for electric vehicles (EVs) in China and to penetrate the Asian [market](../m/market.md) more effectively. Tesla Gigafactory Shanghai
 
-3. **Nissan in Mexico**: Nissan's establishment of a [manufacturing](../m/manufacturing.md) plant in Aguascalientes, Mexico, demonstrates a strategic green-field investment aimed at leveraging lower [production costs](../p/production_costs.md) and favorable [trade](../t/trade.md) agreements to serve the North American [market](../m/market.md). [Nissan Mexico](https://www.nissan.com.mx/)
+3. **Nissan in Mexico**: Nissan's establishment of a [manufacturing](../m/manufacturing.md) plant in Aguascalientes, Mexico, demonstrates a strategic green-field investment aimed at leveraging lower [production costs](../p/production_costs.md) and favorable [trade](../t/trade.md) agreements to serve the North American [market](../m/market.md). Nissan Mexico
 
 ## Green-Field Investment Process
 

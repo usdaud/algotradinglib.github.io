@@ -129,7 +129,7 @@ The [Short Call](../s/short_call.md) Spread is most effective when the [trader](
 
 ### Income Generation
 
-Traders use [Short Call](../s/short_call.md) [Spreads](../s/spreads.md) to generate [income](../i/income.md) in relatively stable markets. By collecting premiums, they aim to [capitalize](../c/capitalize.md) on [time decay](../t/time_decay.md) and minor price fluctuations. 
+Traders use [Short Call](../s/short_call.md) [Spreads](../s/spreads.md) to generate [income](../i/income.md) in relatively stable markets. By collecting premiums, they aim to [capitalize](../c/capitalize.md) on [time decay](../t/time_decay.md) and minor price fluctuations.
 
 ### Hedging
 
@@ -143,10 +143,10 @@ Institutions and individual traders favor this strategy because it offers a defi
 
 Several brokers and trading platforms [offer](../o/offer.md) tools to construct and manage [Short Call](../s/short_call.md) [Spreads](../s/spreads.md). Some of these include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com): Known for its [robust](../r/robust.md) platform and low fees.
-- [TD Ameritrade's thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page): Offers extensive tools for [options](../o/options.md) trading and strategy analysis.
-- [E*TRADE](https://us.etrade.com): Provides a user-friendly interface and comprehensive [options](../o/options.md) trading features.
-- [Robinhood](https://robinhood.com): Popular among retail investors for its [commission](../c/commission.md)-free trading and simplicity.
+- Interactive Brokers: Known for its [robust](../r/robust.md) platform and low fees.
+- TD Ameritrade's thinkorswim: Offers extensive tools for [options](../o/options.md) trading and strategy analysis.
+- E*TRADE: Provides a user-friendly interface and comprehensive [options](../o/options.md) trading features.
+- Robinhood: Popular among retail investors for its [commission](../c/commission.md)-free trading and simplicity.
 
 ## Conclusion
 

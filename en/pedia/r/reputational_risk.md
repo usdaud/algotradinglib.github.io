@@ -125,9 +125,9 @@ Reputational [risk](../r/risk.md) poses a significant challenge for companies an
 Proactive and effective management of reputational [risk](../r/risk.md) not only safeguards against potential threats but also contributes to building a [robust](../r/robust.md) and trustworthy brand. By prioritizing ethics, compliance, [transparency](../t/transparency.md), and [stakeholder](../s/stakeholder.md) engagement, companies can navigate the complex landscape of reputational [risk](../r/risk.md) and emerge stronger from any challenges they may face.
 
 For more information, you can visit the respective companies' websites:
-- [Volkswagen](https://www.volkswagen.com)
-- [Wells Fargo](https://www.wellsfargo.com)
-- [Facebook (now Meta)](https://www.meta.com)
-- [BP](https://www.bp.com)
-- [Equifax](https://www.equifax.com)
-- [Johnson & Johnson](https://www.jnj.com)
+- Volkswagen
+- Wells Fargo
+- Facebook (now Meta)
+- BP
+- Equifax
+- Johnson & Johnson

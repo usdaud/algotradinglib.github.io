@@ -6,7 +6,7 @@ Vicarious [liability](../l/liability.md), also known as secondary or imputed [li
 
 ### Nature of the Relationship
 
-For vicarious [liability](../l/liability.md) to apply, a specific type of relationship must exist between the primary liable party and the one committing the wrongful act. The most typical example is the employer-employee relationship. However, it can also apply to contractors, partners, and agents, among others. 
+For vicarious [liability](../l/liability.md) to apply, a specific type of relationship must exist between the primary liable party and the one committing the wrongful act. The most typical example is the employer-employee relationship. However, it can also apply to contractors, partners, and agents, among others.
 
 ### Scope of Employment
 

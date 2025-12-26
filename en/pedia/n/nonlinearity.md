@@ -1,6 +1,6 @@
 # Nonlinearity in Financial Markets
 
-In [financial markets](../f/financial_market.md), nonlinearity is a significant concept that implies that the relationship between variables cannot be adequately explained by a straight line or a simple equation. Nonlinearity in financial systems means that small changes in input can lead to disproportionately large changes in output, and vice versa. Contrary to [linear models](../l/linear_models_in_trading.md), which assume direct proportionality and predictability, nonlinear models capture the complexity and unpredictability inherent in [financial markets](../f/financial_market.md). This manuscript explores various aspects of nonlinearity in [finance](../f/finance.md), including its implications for investment, [risk management](../r/risk_management.md), [algorithmic trading](../a/accountability.md), and financial technology.
+In [financial markets](../f/financial_market.md), nonlinearity is a significant concept that implies that the relationship between variables cannot be adequately explained by a straight line or a simple equation. Nonlinearity in financial systems means that small changes in input can lead to disproportionately large changes in output, and vice versa. Contrary to [linear models](../l/linear_models_in_trading.md), which assume direct proportionality and predictability, nonlinear models capture the complexity and unpredictability inherent in [financial markets](../f/financial_market.md). This manuscript explores various aspects of nonlinearity in [finance](../f/finance.md), including its implications for investment, [risk management](../r/risk_management.md), [algorithmic trading](../a/algorithmic_trading.md), and financial technology.
 
 ## Nonlinear Dynamics in Financial Markets
 
@@ -30,7 +30,7 @@ Nonlinearities cause certain characteristics in [market](../m/market.md) behavio
 
 ## Algorithmic Trading and Nonlinearity
 
-[Algorithmic trading](../a/accountability.md), which relies on automated systems to execute trades, benefits significantly from understanding and incorporating nonlinearity. Traditional [linear models](../l/linear_models_in_trading.md) (like simple moving averages) often [fail](../f/fail.md) to capture the complexities of [market](../m/market.md) behavior, leading to suboptimal [trading strategies](../t/trading_strategies.md). Nonlinear models, however, can provide a more accurate representation.
+[Algorithmic trading](../a/algorithmic_trading.md), which relies on automated systems to execute trades, benefits significantly from understanding and incorporating nonlinearity. Traditional [linear models](../l/linear_models_in_trading.md) (like simple moving averages) often [fail](../f/fail.md) to capture the complexities of [market](../m/market.md) behavior, leading to suboptimal [trading strategies](../t/trading_strategies.md). Nonlinear models, however, can provide a more accurate representation.
 
 ### Heterogeneous Agent Models
 
@@ -42,7 +42,7 @@ In heterogeneous agent models, [market](../m/market.md) participants are categor
 
 #### Neural Networks
 
-[Neural networks](../n/neural_networks_in_trading.md), composed of layers of interconnected nodes or neurons, can approximate any continuous nonlinear function. In [algorithmic trading](../a/accountability.md), [neural networks](../n/neural_networks_in_trading.md) are used to predict price movements, identify patterns, and optimize [trading strategies](../t/trading_strategies.md).
+[Neural networks](../n/neural_networks_in_trading.md), composed of layers of interconnected nodes or neurons, can approximate any continuous nonlinear function. In [algorithmic trading](../a/algorithmic_trading.md), [neural networks](../n/neural_networks_in_trading.md) are used to predict price movements, identify patterns, and optimize [trading strategies](../t/trading_strategies.md).
 
 #### Support Vector Machines (SVMs)
 
@@ -66,7 +66,7 @@ FinTech, the fusion of [finance](../f/finance.md) and technology, leverages nonl
 
 ### Blockchain and Decentralized Finance (DeFi)
 
-[Blockchain](../b/blockchain_in_trading.md) technology, which underpins cryptocurrencies and DeFi platforms, exhibits nonlinear [scalability](../s/scalability.md) and network effects. As more participants join a [blockchain](../b/blockchain_in_trading.md) network, the [value](../v/value.md) and [utility](../u/utility.md) of the network grow non-linearly. 
+[Blockchain](../b/blockchain_in_trading.md) technology, which underpins cryptocurrencies and DeFi platforms, exhibits nonlinear [scalability](../s/scalability.md) and network effects. As more participants join a [blockchain](../b/blockchain_in_trading.md) network, the [value](../v/value.md) and [utility](../u/utility.md) of the network grow non-linearly.
 
 ### Robo-Advisors
 

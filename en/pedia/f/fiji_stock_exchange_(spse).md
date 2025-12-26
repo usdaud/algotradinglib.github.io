@@ -8,7 +8,7 @@ The SPSE was originally established as the Suva Stock [Exchange](../e/exchange.m
 
 ## Structure and Governance
 
-The SPSE operates as a [limited liability](../l/limited_liability.md) company and is governed by a board of directors. It is regulated under the [Capital Markets](../c/capital_markets.md) Decree 2009, which provides a [robust](../r/robust.md) framework for ensuring [market](../m/market.md) integrity, [transparency](../t/transparency.md), and [investor](../i/investor.md) protection. 
+The SPSE operates as a [limited liability](../l/limited_liability.md) company and is governed by a board of directors. It is regulated under the [Capital Markets](../c/capital_markets.md) Decree 2009, which provides a [robust](../r/robust.md) framework for ensuring [market](../m/market.md) integrity, [transparency](../t/transparency.md), and [investor](../i/investor.md) protection.
 
 ### Key Regulatory Bodies:
 - **Reserve [Bank](../b/bank.md) of Fiji**: Acts as the regulator of the Fijian [financial system](../f/financial_system.md), overseeing the operations of the SPSE.
@@ -22,9 +22,9 @@ The SPSE uses a call [market](../m/market.md) system rather than continuous trad
 
 The SPSE lists a [range](../r/range.md) of securities including equities, bonds, and term deposits. While the number of listings is smaller compared to larger international exchanges, the SPSE features several prominent Fijian companies across diverse sectors such as banking, telecommunications, and [manufacturing](../m/manufacturing.md).
 - **Examples of [Listed](../l/listed.md) Companies:**
-  - **Amalgamated Telecom [Holdings](../h/holdings.md) Limited (ATH)**: A major telecommunications provider.
-  - **Fiji Television Limited**: A leading television broadcaster.
-  - **RB Patel Group Limited**: A prominent retail company.
+ - **Amalgamated Telecom [Holdings](../h/holdings.md) Limited (ATH)**: A major telecommunications provider.
+ - **Fiji Television Limited**: A leading television broadcaster.
+ - **RB Patel Group Limited**: A prominent retail company.
 
 ## Market Indices
 
@@ -83,5 +83,3 @@ To foster further growth and sustainability, the SPSE has initiated several stra
 ## Conclusion
 
 The Fiji Stock [Exchange](../e/exchange.md), while small, is a vital component of the Fijian financial landscape. Its structured governance, innovative initiatives, and commitment to [market](../m/market.md) integrity make it an attractive platform for both local and international investors. With ongoing technological advancements and strategic efforts to increase [market](../m/market.md) participation, the SPSE is poised to continue its trajectory of growth and economic contribution.
-
-To learn more about SPSE, visit their official website: [SPSE](https://www.spse.com.fj).

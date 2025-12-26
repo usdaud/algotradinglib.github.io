@@ -76,7 +76,7 @@ While originally focusing on small investors, institutional traders now utilize 
 
 [Odd Lot](../o/odd_lot.md) Theory remains a fascinating aspect of [market sentiment analysis](../m/market_sentiment_analysis.md) and serves as a valuable tool in the arsenal of algorithmic traders. It underscores the importance of [behavioral finance](../b/behavioral_finance.md) and the ongoing need to dissect and understand the myriad factors that influence [market dynamics](../m/market_dynamics.md). By leveraging sophisticated [data analytics](../d/data_analytics.md) and modern computational tools, traders can continue to refine their strategies based on insights gleaned from odd-lot [transaction](../t/transaction.md) patterns.
 
-For further reading and institutional services related to [algorithmic trading](../a/algorithmic_trading.md), you can visit [Tower Research Capital](https://www.tower-research.com/) and [Knight Capital Group](https://en.wikipedia.org/wiki/Knight_Capital_Group). Both companies are [industry](../i/industry.md) leaders in high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md) solutions.
+For further reading and institutional services related to [algorithmic trading](../a/algorithmic_trading.md), you can visit Tower Research Capital and Knight Capital Group. Both companies are [industry](../i/industry.md) leaders in high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md) solutions.
 
 ---
 

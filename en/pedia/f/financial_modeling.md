@@ -39,7 +39,7 @@ Portfolio models are used to optimize the mix of assets in a portfolio to maximi
 ## Applications in Algorithmic Trading
 
 ### Backtesting
-[Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) on historical data to evaluate their performance. This is essential to validate the predictive power of financial models before deploying them in live trading. Tools like [QuantConnect](../q/quantconnect.md) and MetaTrader facilitate extensive [backtesting](../b/backtesting.md).
+[Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) on historical data to evaluate their performance. This is essential to validate the predictive power of financial models before deploying them in live trading. Tools like [StockSharp](../s/stocksharp.md) and MetaTrader facilitate extensive [backtesting](../b/backtesting.md).
 
 ### Risk Management
 Financial models help in assessing and mitigating risks associated with [trading strategies](../t/trading_strategies.md). [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR) are common metrics used in [risk management](../r/risk_management.md) models. These models assess the potential losses in a portfolio over a specific period.
@@ -73,12 +73,12 @@ Platforms like [Quantlib](../q/quantlib.md) and FINCAD [offer](../o/offer.md) sp
 [Asset management](../a/asset_management.md) firms use financial models for portfolio construction, [rebalancing](../r/rebalancing.md), and [risk](../r/risk.md) assessment. BlackRock and Vanguard employ advanced modeling techniques to manage their vast assets.
 
 For more information on the companies mentioned, you can visit their official websites:
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JPMorgan](https://www.jpmorgan.com/)
-- [BlackRock](https://www.blackrock.com/)
-- [Vanguard](https://www.vanguard.com/)
+- Renaissance Technologies
+- Two Sigma
+- Goldman Sachs
+- JPMorgan
+- BlackRock
+- Vanguard
 
 ## Challenges and Future Directions
 

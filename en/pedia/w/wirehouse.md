@@ -36,19 +36,19 @@ Several firms are recognized as major wirehouses in the financial [industry](../
 
 ### Morgan Stanley
 Morgan Stanley is one of the leading global financial services firms, providing [investment banking](../i/investment_banking.md), securities, [wealth management](../w/wealth_management.md), and [investment management](../i/investment_management.md) services. The [firm](../f/firm.md) operates in more than 41 countries and has a workforce of over 60,000 employees. Morgan Stanley's [wealth management](../w/wealth_management.md) division has a significant wirehouse presence, [offering](../o/offering.md) a wide [range](../r/range.md) of financial products and services.
-- [Morgan Stanley](https://www.morganstanley.com/)
+- Morgan Stanley
 
 ### Merrill Lynch
 [Merrill Lynch](../m/merrill_lynch.md), a subsidiary of [Bank](../b/bank.md) of America, is another prominent wirehouse. Known for its extensive research capabilities and wide [range](../r/range.md) of financial products, [Merrill Lynch](../m/merrill_lynch.md) provides [wealth management](../w/wealth_management.md), investment advisory, and [financial planning](../f/financial_planning.md) services to clients around the globe. The [firm](../f/firm.md) has a long-standing reputation for its client-focused approach and comprehensive service offerings.
-- [Merrill Lynch](https://www.ml.com/)
+- Merrill Lynch
 
 ### UBS Financial Services
 [UBS](../u/ubs.md) Financial Services, a division of [UBS](../u/ubs.md) Group AG, is a leading wirehouse with a strong global presence. [UBS](../u/ubs.md) offers [wealth management](../w/wealth_management.md), [asset management](../a/asset_management.md), and [investment banking](../i/investment_banking.md) services. The [firm](../f/firm.md)'s [wealth management](../w/wealth_management.md) division is particularly renowned for its bespoke financial solutions and high-touch client service model.
-- [UBS](https://www.ubs.com/)
+- UBS
 
 ### Wells Fargo Advisors
 Wells Fargo Advisors, a subsidiary of Wells Fargo & Company, is a significant player in the wirehouse space. The [firm](../f/firm.md) provides a wide [range](../r/range.md) of financial advisory, brokerage, and [financial planning](../f/financial_planning.md) services. Wells Fargo Advisors prides itself on its personalized approach to client service and comprehensive array of financial products.
-- [Wells Fargo Advisors](https://www.wellsfargoadvisors.com/)
+- Wells Fargo Advisors
 
 ## Advantages and Disadvantages of Wirehouses
 

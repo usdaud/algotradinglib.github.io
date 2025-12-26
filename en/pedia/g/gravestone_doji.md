@@ -1,6 +1,6 @@
 # Gravestone Doji
 
-The Gravestone [Doji](../d/doji.md) is a significant [candlestick](../c/candlestick.md) pattern used in [technical analysis](../t/technical_analysis.md) of [financial markets](../f/financial_market.md). It is a type of [Doji](../d/doji.md) [candlestick](../c/candlestick.md) where the [open](../o/open.md) and close prices are at the low end of the trading period. This pattern is believed to signify a [reversal](../r/reversal.md) of the upward price [trend](../t/trend.md), hence its importance for traders and analysts. 
+The Gravestone [Doji](../d/doji.md) is a significant [candlestick](../c/candlestick.md) pattern used in [technical analysis](../t/technical_analysis.md) of [financial markets](../f/financial_market.md). It is a type of [Doji](../d/doji.md) [candlestick](../c/candlestick.md) where the [open](../o/open.md) and close prices are at the low end of the trading period. This pattern is believed to signify a [reversal](../r/reversal.md) of the upward price [trend](../t/trend.md), hence its importance for traders and analysts.
 
 ## Characteristics of Gravestone Doji
 
@@ -47,10 +47,10 @@ Once a Gravestone [Doji](../d/doji.md) is detected, the algorithm must decide on
 Several trading platforms and private trading firms have successfully integrated Gravestone [Doji](../d/doji.md) detection into their [automated trading systems](../a/automated_trading_systems.md). One notable example includes:
 
 ### Bright Trading, LLC
-Bright Trading (http://www.stocktrading.com) provides direct [market](../m/market.md) access trading services and offers tools for day traders and algorithmic traders. They incorporate various [technical indicators](../t/technical_indicator.md), including the Gravestone [Doji](../d/doji.md), into their trading platforms to facilitate automatic [trade](../t/trade.md) [execution](../e/execution.md) based on detected patterns.
+Bright Trading ( provides direct [market](../m/market.md) access trading services and offers tools for day traders and algorithmic traders. They incorporate various [technical indicators](../t/technical_indicator.md), including the Gravestone [Doji](../d/doji.md), into their trading platforms to facilitate automatic [trade](../t/trade.md) [execution](../e/execution.md) based on detected patterns.
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is a collaborative [algorithmic trading](../a/accountability.md) platform [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and executing [trading algorithms](../t/trading_algorithms.md). Their library includes [candlestick pattern recognition](../c/candlestick_pattern_recognition.md) tools that can identify Gravestone [Doji](../d/doji.md) formations, allowing traders to build and test their strategies around this and other technical signals.
+### StockSharp
+[StockSharp](../s/stocksharp.md) is a collaborative [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and executing [trading algorithms](../t/trading_algorithms.md). Their library includes [candlestick pattern recognition](../c/candlestick_pattern_recognition.md) tools that can identify Gravestone [Doji](../d/doji.md) formations, allowing traders to build and test their strategies around this and other technical signals.
 
 ## Advantages and Limitations
 
@@ -66,6 +66,6 @@ Bright Trading (http://www.stocktrading.com) provides direct [market](../m/marke
 
 ## Conclusion
 
-The Gravestone [Doji](../d/doji.md) is a potent [candlestick](../c/candlestick.md) pattern in [technical analysis](../t/technical_analysis.md), marking potential bearish reversals and helping traders make informed decisions. Its integration into [algorithmic trading](../a/accountability.md) systems can enhance automated decision-making processes, though it requires careful [pattern recognition](../p/pattern_recognition.md) and [robust](../r/robust.md) [execution](../e/execution.md) strategies to [capitalize](../c/capitalize.md) on its signals effectively. By combining it with other indicators and ensuring proper [risk management techniques](../r/risk_management_techniques.md), traders can harness its full potential while mitigating inherent limitations. 
+The Gravestone [Doji](../d/doji.md) is a potent [candlestick](../c/candlestick.md) pattern in [technical analysis](../t/technical_analysis.md), marking potential bearish reversals and helping traders make informed decisions. Its integration into [algorithmic trading](../a/algorithmic_trading.md) systems can enhance automated decision-making processes, though it requires careful [pattern recognition](../p/pattern_recognition.md) and [robust](../r/robust.md) [execution](../e/execution.md) strategies to [capitalize](../c/capitalize.md) on its signals effectively. By combining it with other indicators and ensuring proper [risk management techniques](../r/risk_management_techniques.md), traders can harness its full potential while mitigating inherent limitations.
 
 Understanding and correctly applying the Gravestone [Doji](../d/doji.md) can be a critical component of a sophisticated [trading strategy](../t/trading_strategy.md), both for individual traders and large trading firms.

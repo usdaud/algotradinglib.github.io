@@ -26,7 +26,7 @@ The 20-DMA would be calculated as:
 
 ### Trend Identification
 
-Traders often use the 20-Day Moving Average to identify the direction of the [trend](../t/trend.md). When the price of a [security](../s/security.md) is consistently above the 20-DMA, it is generally considered to be in an [uptrend](../u/uptrend.md). Conversely, when the price is consistently below the 20-DMA, it is considered to be in a [downtrend](../d/downtrend.md). 
+Traders often use the 20-Day Moving Average to identify the direction of the [trend](../t/trend.md). When the price of a [security](../s/security.md) is consistently above the 20-DMA, it is generally considered to be in an [uptrend](../u/uptrend.md). Conversely, when the price is consistently below the 20-DMA, it is considered to be in a [downtrend](../d/downtrend.md).
 
 ### Trading Signals
 
@@ -91,12 +91,12 @@ This script calculates the 20-Day Moving Average for the closing prices in the `
 
 For more information on how the 20-DMA and other moving averages are used in trading, you may visit the websites of some leading financial companies and trading platforms:
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
-- [Ally Invest](https://www.ally.com/invest/)
+- Interactive Brokers
+- Charles Schwab (acquired TD Ameritrade in September 2023)
+- Ally Invest
 
 These platforms provide a [wealth](../w/wealth.md) of educational resources, trading tools, and [market](../m/market.md) data to help traders effectively use moving averages and other [technical analysis](../t/technical_analysis.md) tools.
 
 ## Conclusion
 
-The 20-Day Moving Average is a versatile and widely-used tool in [financial markets](../f/financial_market.md) for identifying trends, generating [trading signals](../t/trading_signals.md), and providing dynamic [support and resistance](../s/support_and_resistance.md) levels. Despite its simplicity, it offers valuable insights and can be effectively integrated into both manual and [algorithmic trading](../a/algorithmic_trading.md) strategies. However, like all [technical indicators](../t/technical_indicators.md), it is not infallible and should be used in conjunction with other tools and analysis to make well-informed trading decisions.
+The 20-Day Moving Average is a versatile and widely-used tool in [financial markets](../f/financial_market.md) for identifying trends, generating [trading signals](../t/trading_signals.md), and providing dynamic [support and resistance](../s/support_and_resistance.md) levels. Despite its simplicity, it offers valuable insights and can be effectively integrated into both manual and [algorithmic trading](../a/algorithmic_trading.md) strategies. However, like all [technical indicators](../t/technical_indicators.md), it is not infallible and should be used in conjunction with other tools and analysis to make well-informed trading decisions.

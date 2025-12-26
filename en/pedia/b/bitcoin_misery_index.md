@@ -60,4 +60,3 @@ During the mid-2019 [bull](../b/bull.md) run, the BMI reached high levels, indic
 ## Conclusion
 The [Bitcoin](../b/bitcoin.md) [Misery Index](../m/misery_index.md) is a valuable tool for understanding [investor](../i/investor.md) sentiment within the [Bitcoin](../b/bitcoin.md) [market](../m/market.md). By combining measures of trading success and [volatility](../v/volatility.md), it provides a nuanced view of [market](../m/market.md) emotions. Traders can use the BMI in various strategies, from contrarian [investing](../i/investing.md) to [sentiment analysis](../s/sentiment_analysis.md) and [risk management](../r/risk_management.md). While it offers significant insights, the BMI should be used in conjunction with other analysis tools and research for a holistic understanding of [market](../m/market.md) conditions.
 
-For more information on Fundstrat and their research, visit their [official website](https://www.fundstrat.com).

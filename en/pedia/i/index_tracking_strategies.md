@@ -33,7 +33,7 @@ The primary advantage of full replication is the minimal [tracking error](../t/t
 For indices with many securities or where some securities are illiquid:
 
 - **Statistical [Sampling](../s/sampling.md)**: Selecting a subset of securities that statistically represent the [index](../i/index_instrument.md)'s performance.
-- **[Risk](../r/risk.md) [Factor](../f/factor.md) Matching**: Ensuring the selected sample matches key [risk factors](../r/risk_factors_in_trading.md) of the [index](../i/index_instrument.md), such as sector [distribution](../d/distribution.md), [market capitalization](../m/market_capitalization.md), and [beta](../b/beta.md).
+- **[Risk](../r/risk.md) [Factor](../f/factor.md) Matching**: Ensuring the selected sample matches key [risk factors](../r/risk_factors_in_trading.md) of the [index](../i/index_instrument.md), such as sector [distribution](../d/distribution.md), [market capitalization](../m/market_capitalization.md), and beta.
 - **[Optimization](../o/optimization.md) Algorithms**: Using [quantitative models](../q/quantitative_models.md) to minimize [tracking error](../t/tracking_error.md) by optimizing the selection process, which can involve [linear programming](../l/linear_programming_in_trading.md), quadratic programming, or heuristic methods.
 
 [Optimization](../o/optimization.md) helps reduce [transaction costs](../t/transaction_costs.md) and manage illiquid securities more effectively.
@@ -71,11 +71,11 @@ Synthetic replication can provide efficient [market](../m/market.md) access and 
 
 Several companies are notable for their [index](../i/index_instrument.md) tracking strategies. A few of the key players include:
 
-- **Vanguard**: Known for pioneering [index](../i/index_instrument.md) funds, Vanguard offers a wide [range](../r/range.md) of [index](../i/index_instrument.md)-tracking products. [Visit Vanguard](https://www.vanguard.com)
-- **BlackRock**: Through its [iShares](../i/ishares.md) brand, BlackRock provides a broad array of [index](../i/index_instrument.md) funds and ETFs. [Visit BlackRock](https://www.blackrock.com)
-- **State Street Global Advisors (SSGA)**: As a prominent provider of ETFs under the SPDR brand, SSGA offers extensive [index](../i/index_instrument.md) tracking solutions. [Visit SSGA](https://www.ssga.com)
-- **[Charles Schwab](../c/charles_schwab.md)**: Offers a variety of low-cost [index](../i/index_instrument.md) funds tailored to retail investors. [Visit Charles Schwab](https://www.schwab.com)
-- **Fidelity**: Provides both traditional mutual funds and ETFs that track an assortment of indices. [Visit Fidelity](https://www.fidelity.com)
+- **Vanguard**: Known for pioneering [index](../i/index_instrument.md) funds, Vanguard offers a wide [range](../r/range.md) of [index](../i/index_instrument.md)-tracking products. Visit Vanguard
+- **BlackRock**: Through its [iShares](../i/ishares.md) brand, BlackRock provides a broad array of [index](../i/index_instrument.md) funds and ETFs. Visit BlackRock
+- **State Street Global Advisors (SSGA)**: As a prominent provider of ETFs under the SPDR brand, SSGA offers extensive [index](../i/index_instrument.md) tracking solutions. Visit SSGA
+- **[Charles Schwab](../c/charles_schwab.md)**: Offers a variety of low-cost [index](../i/index_instrument.md) funds tailored to retail investors. Visit Charles Schwab
+- **Fidelity**: Provides both traditional mutual funds and ETFs that track an assortment of indices. Visit Fidelity
 
 ### Conclusion
 

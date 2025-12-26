@@ -141,25 +141,25 @@ Several tools and platforms facilitate [money flow analysis](../m/money_flow_ana
 
 [Bloomberg Terminal](../b/bloomberg_terminal.md) is a comprehensive financial platform that offers real-time data, news, and analytics. It provides a [range](../r/range.md) of [money](../m/money.md) flow indicators and tools for in-depth analysis.
 
-Visit: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+Visit: Bloomberg Terminal
 
 ### 2. TradingView
 
 [TradingView](../t/tradingview.md) is a popular online platform for charting and [technical analysis](../t/technical_analysis.md). It offers a wide [range](../r/range.md) of [money](../m/money.md) flow indicators, customizable charts, and [social trading](../s/social_trading.md) features.
 
-Visit: [TradingView](https://www.tradingview.com/)
+Visit: TradingView
 
 ### 3. MetaTrader
 
 MetaTrader is a widely used [trading platform](../t/trading_platform.md) that supports automated trading, [technical analysis](../t/technical_analysis.md), and [money](../m/money.md) flow indicators. It is available for both retail and institutional traders.
 
-Visit: [MetaTrader](https://www.metatrader4.com/)
+Visit: MetaTrader
 
 ### 4. QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/accountability.md) platform that allows developers to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). It supports advanced [money flow analysis](../m/money_flow_analysis.md) using [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md).
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that allows developers to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). It supports advanced [money flow analysis](../m/money_flow_analysis.md) using [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md).
 
-Visit: [QuantConnect](https://www.quantconnect.com/)
+Visit: QuantConnect
 
 ## Conclusion
 

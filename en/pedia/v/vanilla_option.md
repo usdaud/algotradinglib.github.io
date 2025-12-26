@@ -77,23 +77,23 @@ The "[Greeks](../g/greeks.md)" are measures used to assess the risks and potenti
 ### Trade Actions and Outcomes
 
 1. **Initiate the [Trade](../t/trade.md)**
-   - You buy one [call option](../c/call_option.md) contract for Stock XYZ.
-   - Total cost is $2 ([premium](../p/premium.md)) * 100 (number of [shares](../s/shares.md) per contract) = $200.
+ - You buy one [call option](../c/call_option.md) contract for Stock XYZ.
+ - Total cost is $2 ([premium](../p/premium.md)) * 100 (number of [shares](../s/shares.md) per contract) = $200.
 
 2. **Possible Outcomes at Expiration**
-   - **Stock Price Rises to $115**:
-     - You [exercise](../e/exercise.md) the option, buying 100 [shares](../s/shares.md) at $105 each.
-     - Total cost = $10,500 (for 100 [shares](../s/shares.md)) + $200 ([premium](../p/premium.md)).
-     - [Market value](../m/market_value.md) of [shares](../s/shares.md) = $11,500 (100 [shares](../s/shares.md) * $115).
-     - [Profit](../p/profit.md) = $11,500 - $10,500 - $200 = $800.
-   
-   - **Stock Price Remains at $100**:
-     - The option expires worthless.
-     - Loss is the [premium](../p/premium.md) paid = $200.
-   
-   - **Stock Price Falls to $95**:
-     - The option expires worthless.
-     - Loss is the [premium](../p/premium.md) paid = $200.
+ - **Stock Price Rises to $115**:
+ - You [exercise](../e/exercise.md) the option, buying 100 [shares](../s/shares.md) at $105 each.
+ - Total cost = $10,500 (for 100 [shares](../s/shares.md)) + $200 ([premium](../p/premium.md)).
+ - [Market value](../m/market_value.md) of [shares](../s/shares.md) = $11,500 (100 [shares](../s/shares.md) * $115).
+ - [Profit](../p/profit.md) = $11,500 - $10,500 - $200 = $800.
+
+ - **Stock Price Remains at $100**:
+ - The option expires worthless.
+ - Loss is the [premium](../p/premium.md) paid = $200.
+
+ - **Stock Price Falls to $95**:
+ - The option expires worthless.
+ - Loss is the [premium](../p/premium.md) paid = $200.
 
 ### Scenario: Writing a Put Option
 
@@ -106,47 +106,44 @@ The "[Greeks](../g/greeks.md)" are measures used to assess the risks and potenti
 ### Trade Actions and Outcomes
 
 1. **Initiate the [Trade](../t/trade.md)**
-   - You sell one [put option](../p/put.md) contract for Stock ABC.
-   - Total [credit](../c/credit.md) received is $1.50 ([premium](../p/premium.md)) * 100 (number of [shares](../s/shares.md) per contract) = $150.
+ - You sell one [put option](../p/put.md) contract for Stock ABC.
+ - Total [credit](../c/credit.md) received is $1.50 ([premium](../p/premium.md)) * 100 (number of [shares](../s/shares.md) per contract) = $150.
 
 2. **Possible Outcomes at Expiration**
-   - **Stock Price Falls to $40**:
-     - The buyer exercises the option, and you must buy 100 [shares](../s/shares.md) at $45 each.
-     - Total cost = $4,500 (for 100 [shares](../s/shares.md)).
-     - [Market value](../m/market_value.md) of [shares](../s/shares.md) = $4,000 (100 [shares](../s/shares.md) * $40).
-     - Loss = $500 - $150 ([premium](../p/premium.md) received) = $350.
-   
-   - **Stock Price Remains at $50**:
-     - The option expires worthless.
-     - [Gain](../g/gain.md) is the [premium](../p/premium.md) received = $150.
-   
-   - **Stock Price Rises to $55**:
-     - The option expires worthless.
-     - [Gain](../g/gain.md) is the [premium](../p/premium.md) received = $150.
+ - **Stock Price Falls to $40**:
+ - The buyer exercises the option, and you must buy 100 [shares](../s/shares.md) at $45 each.
+ - Total cost = $4,500 (for 100 [shares](../s/shares.md)).
+ - [Market value](../m/market_value.md) of [shares](../s/shares.md) = $4,000 (100 [shares](../s/shares.md) * $40).
+ - Loss = $500 - $150 ([premium](../p/premium.md) received) = $350.
+
+ - **Stock Price Remains at $50**:
+ - The option expires worthless.
+ - [Gain](../g/gain.md) is the [premium](../p/premium.md) received = $150.
+
+ - **Stock Price Rises to $55**:
+ - The option expires worthless.
+ - [Gain](../g/gain.md) is the [premium](../p/premium.md) received = $150.
 
 ## Platforms and Tools for Trading Vanilla Options
 
 Various platforms provide tools and services for trading vanilla [options](../o/options.md). Here are a few notable ones:
 
 - **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**:
-  [Interactive Brokers](https://www.interactivebrokers.com)
-  
-  Offers a comprehensive platform for [options](../o/options.md) trading with advanced tools, low commissions, and extensive [market](../m/market.md) access.
-  
+
+ Offers a comprehensive platform for [options](../o/options.md) trading with advanced tools, low commissions, and extensive [market](../m/market.md) access.
+
 - **TD [Ameritrade](../a/ameritrade.md)**:
-  [TD Ameritrade](https://www.tdameritrade.com)
-  
-  Provides the thinkorswim [trading platform](../t/trading_platform.md), known for its analytical tools and educational resources.
-  
+
+ Provides the thinkorswim [trading platform](../t/trading_platform.md), known for its analytical tools and educational resources.
+
 - **[E*TRADE](../e/e_trade.md)**:
-  [E*TRADE](https://www.etrade.com)
-  
-  User-friendly platform with [robust](../r/robust.md) features for [options](../o/options.md) trading, research tools, and dedicated support.
-  
+ E*TRADE
+
+ User-friendly platform with [robust](../r/robust.md) features for [options](../o/options.md) trading, research tools, and dedicated support.
+
 - **[Robinhood](../r/robinhood.md)**:
-  [Robinhood](https://www.robinhood.com)
-  
-  Offers [commission](../c/commission.md)-free trading, including [options](../o/options.md), suitable for beginners and casual traders.
+
+ Offers [commission](../c/commission.md)-free trading, including [options](../o/options.md), suitable for beginners and casual traders.
 
 ## Conclusion
 

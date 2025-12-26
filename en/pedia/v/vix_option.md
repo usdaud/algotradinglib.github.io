@@ -1,6 +1,6 @@
 # VIX Options
 
-VIX [options](../o/options.md) are financial instruments that derive their [value](../v/value.md) from the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), often referred to as the "fear gauge" or "fear [index](../i/index_instrument.md)." The VIX measures the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days, based on S&P 500 [index options](../i/index_options.md). By trading VIX [options](../o/options.md), investors can [gain](../g/gain.md) exposure to [volatility](../v/volatility.md) without needing to own any portfolio of [stocks](../s/stock.md) or other assets directly. 
+VIX [options](../o/options.md) are financial instruments that derive their [value](../v/value.md) from the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), often referred to as the "fear gauge" or "fear [index](../i/index_instrument.md)." The VIX measures the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days, based on S&P 500 [index options](../i/index_options.md). By trading VIX [options](../o/options.md), investors can [gain](../g/gain.md) exposure to [volatility](../v/volatility.md) without needing to own any portfolio of [stocks](../s/stock.md) or other assets directly.
 
 ## Introduction to VIX Options
 
@@ -44,7 +44,7 @@ An [investor](../i/investor.md) holding a large [equity](../e/equity.md) portfol
 
 ### Speculation
 
-Traders may also use VIX [options](../o/options.md) for speculative purposes, betting on increases or decreases in [market](../m/market.md) [volatility](../v/volatility.md). 
+Traders may also use VIX [options](../o/options.md) for speculative purposes, betting on increases or decreases in [market](../m/market.md) [volatility](../v/volatility.md).
 
 #### Example: Straddle Strategy
 
@@ -72,9 +72,9 @@ The VIX represents the [volatility](../v/volatility.md) of the [market](../m/mar
 
 Several brokers and trading platforms [offer](../o/offer.md) VIX [options](../o/options.md) to investors. Here are a few notable ones:
 
-- **Cboe Global Markets:** [Home](../h/home.md) to the VIX [index](../i/index_instrument.md) and primary marketplace for VIX [options](../o/options.md) trading. More information can be found [here](https://www.cboe.com/).
-- **[Interactive Brokers](../i/interactive_brokers.md):** Provides access to VIX [options](../o/options.md) among various other complex [derivatives](../d/derivatives.md). More details are available at [Interactive Brokers](https://www.interactivebrokers.com/).
-- **TD [Ameritrade](../a/ameritrade.md):** Offers educational resources and trading access to VIX [options](../o/options.md). Visit their site at [TD Ameritrade](https://www.tdameritrade.com/).
+- **Cboe Global Markets:** [Home](../h/home.md) to the VIX [index](../i/index_instrument.md) and primary marketplace for VIX [options](../o/options.md) trading. More information can be found here.
+- **[Interactive Brokers](../i/interactive_brokers.md):** Provides access to VIX [options](../o/options.md) among various other complex [derivatives](../d/derivatives.md). More details are available at Interactive Brokers.
+- **TD [Ameritrade](../a/ameritrade.md):** Offers educational resources and trading access to VIX [options](../o/options.md).
 
 ## Conclusion
 

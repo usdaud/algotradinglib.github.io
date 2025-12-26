@@ -23,7 +23,7 @@ Notional amounts are utilized in various financial instruments, including:
 ##### Types of Derivatives Involving Notional Amounts
 
 1. **Swaps**: In [interest rate swaps](../i/interest_rate_swaps.md), two parties [exchange](../e/exchange.md) cash flows based on the notional amount. For example, one party might pay a [fixed interest rate](../f/fixed_interest_rate.md) while receiving a floating rate.
-   
+
 2. **[Futures](../f/futures.md)**: The notional amount in [futures contracts](../f/futures_contracts.md) represents the total [value](../v/value.md) of the assets to be delivered in the future. [Futures](../f/futures.md) are standardized contracts traded on exchanges.
 
 3. **[Options](../o/options.md)**: For [options](../o/options.md), the notional amount helps in understanding the potential exposure. An option's [premium](../p/premium.md) is calculated based on a certain proportion of the notional amount.
@@ -71,6 +71,8 @@ In [fixed income securities](../f/fixed_income_securities.md) and loans, the not
 
 Company A enters an [interest rate swap](../i/interest_rate_swap.md) with Company B where it agrees to pay Company B a fixed 2% annual [interest rate](../i/interest_rate.md) on a $10 million notional amount, while receiving payments based on a floating rate (e.g., LIBOR) from Company B. Periodic payments are based on the…
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ##### Example 2: Treasury Bond
 
 A [U.S. Treasury](../u/u.s._treasury.md) [bond](../b/bond.md) with a notional amount of $1 million and a [coupon rate](../c/coupon_rate.md) of 3% [will](../w/will.md) pay $30,000 annually in [interest](../i/interest.md).
@@ -79,5 +81,4 @@ A [U.S. Treasury](../u/u.s._treasury.md) [bond](../b/bond.md) with a notional am
 
 The notional amount is a fundamental yet often misunderstood component of financial instruments. Its proper understanding and application are essential for accurate [risk](../r/risk.md) assessment, regulatory compliance, and effective financial management. Whether in [derivatives](../d/derivatives.md), fixed-[income](../i/income.md) securities, or loans, the notional amount serves as the backbone for calculations involving [interest](../i/interest.md) payments, [margin](../m/margin.md) requirements, and [risk](../r/risk.md) exposure. Due to its static nature and difference from [market value](../m/market_value.md), it provides a reliable measure for gauging the initial size and exposure of financial transactions.
 
-For further details on how a prominent financial institution frequently uses notional amounts in their operations, you may refer to [J.P. Morgan](https://www.jpmorgan.com/insights/research/finance).
-
+For further details on how a prominent financial institution frequently uses notional amounts in their operations, you may refer to J.P. Morgan.

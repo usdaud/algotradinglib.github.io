@@ -1,6 +1,6 @@
 # Real Estate Investment Trust (REIT)
 
-A [Real Estate](../r/real_estate.md) Investment [Trust](../t/trust.md) (REIT) is a company that owns, operates, or finances [income](../i/income.md)-generating [real estate](../r/real_estate.md). Modeled after mutual funds, REITs provide individual investors with the opportunity to earn a share of the [income](../i/income.md) produced through [commercial real estate](../c/commercial_real_estate.md) ownership without having to buy, manage, or [finance](../f/finance.md) any properties themselves. 
+A [Real Estate](../r/real_estate.md) Investment [Trust](../t/trust.md) (REIT) is a company that owns, operates, or finances [income](../i/income.md)-generating [real estate](../r/real_estate.md). Modeled after mutual funds, REITs provide individual investors with the opportunity to earn a share of the [income](../i/income.md) produced through [commercial real estate](../c/commercial_real_estate.md) ownership without having to buy, manage, or [finance](../f/finance.md) any properties themselves.
 
 REITs allow anyone to invest in portfolios of [real estate](../r/real_estate.md) assets the same way they invest in other industries – through the purchase of individual company stock or through a [mutual fund](../m/mutual_fund.md) or [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF). The stockholders of a REIT earn a share of the [income](../i/income.md) produced – without actually having to go out and buy, manage, or [finance](../f/finance.md) property.
 
@@ -114,19 +114,19 @@ Investors may choose REITs based on specific property sectors, such as residenti
 
 ### Simon Property Group (NYSE: SPG)
 
-Simon Property Group is one of the largest retail REITs in the world, specializing in ownership of shopping malls and [premium](../p/premium.md) outlets. More information can be found on their [website](https://www.simon.com/).
+Simon Property Group is one of the largest retail REITs in the world, specializing in ownership of shopping malls and [premium](../p/premium.md) outlets.
 
 ### Public Storage (NYSE: PSA)
 
-Public Storage is a leading self-storage REIT, owning and operating thousands of self-storage facilities across the U.S. More information is available on their [website](https://www.publicstorage.com/).
+Public Storage is a leading self-storage REIT, owning and operating thousands of self-storage facilities across the U.S.
 
 ### American Tower Corporation (NYSE: AMT)
 
-American Tower [Corporation](../c/corporation.md) is a global [real estate](../r/real_estate.md) investment [trust](../t/trust.md) that owns and operates wireless and broadcast communications [infrastructure](../i/infrastructure.md). More details can be found on their [website](https://www.americantower.com/).
+American Tower [Corporation](../c/corporation.md) is a global [real estate](../r/real_estate.md) investment [trust](../t/trust.md) that owns and operates wireless and broadcast communications [infrastructure](../i/infrastructure.md). More
 
 ### Welltower Inc. (NYSE: WELL)
 
-Welltower Inc. focuses on healthcare [infrastructure](../i/infrastructure.md), including senior housing, skilled nursing facilities, and medical office buildings. Detailed information is available on their [website](https://welltower.com/).
+Welltower Inc. focuses on healthcare [infrastructure](../i/infrastructure.md), including senior housing, skilled nursing facilities, and medical
 
 ## Conclusion
 

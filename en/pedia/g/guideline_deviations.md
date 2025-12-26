@@ -139,5 +139,5 @@ As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, regul
 [Algorithmic trading](../a/algorithmic_trading.md) is an integral part of the modern financial landscape, [offering](../o/offering.md) numerous benefits such as improved [market efficiency](../m/market_efficiency.md), enhanced [liquidity](../l/liquidity.md), and reduced [trading costs](../t/trading_costs.md). However, it also presents challenges, including increased [market](../m/market.md) [volatility](../v/volatility.md) and ethical concerns. As technology continues to advance and regulatory frameworks evolve, the landscape of algo-trading [will](../w/will.md) undoubtedly continue to change. Firms that stay at the forefront of technological advancements and regulatory compliance [will](../w/will.md) be well-positioned to thrive in this dynamic environment.
 
 For more information on [algorithmic trading](../a/algorithmic_trading.md) companies, you can visit their official websites:
-- [Virtu Financial](https://www.virtu.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Virtu Financial
+- Citadel Securities

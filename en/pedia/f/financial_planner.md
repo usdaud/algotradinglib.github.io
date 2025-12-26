@@ -6,11 +6,11 @@ A financial planner is a professional who helps individuals, families, and organ
 
 ### Financial Assessment and Goal Setting
 
-Financial planners begin by conducting a thorough assessment of a client’s financial situation. This includes analyzing [income](../i/income.md), expenses, assets, liabilities, and current investment strategies. They discuss the client's short-term and long-term financial goals, which could [range](../r/range.md) from buying a house, saving for a child's education, planning for retirement, or building an [emergency fund](../e/emergency_fund.md). 
+Financial planners begin by conducting a thorough assessment of a client’s financial situation. This includes analyzing [income](../i/income.md), expenses, assets, liabilities, and current investment strategies. They discuss the client's short-term and long-term financial goals, which could [range](../r/range.md) from buying a house, saving for a child's education, planning for retirement, or building an [emergency fund](../e/emergency_fund.md).
 
 ### Creating a Financial Plan
 
-Based on the assessment, the financial planner develops a comprehensive plan that outlines the steps needed to achieve the client's financial goals. This plan often includes budgeting strategies, saving plans, investment recommendations, and [risk management](../r/risk_management.md) tactics. 
+Based on the assessment, the financial planner develops a comprehensive plan that outlines the steps needed to achieve the client's financial goals. This plan often includes budgeting strategies, saving plans, investment recommendations, and [risk management](../r/risk_management.md) tactics.
 
 ### Investment Advice
 
@@ -58,7 +58,7 @@ Financial planners utilize various tools and software to facilitate their work, 
 
 - **[Portfolio Management](../p/par.md) Software:** Software such as [Morningstar](../m/morningstar.md) Office, Orion Advisor Services, and Black Diamond assists in managing investment portfolios, tracking performance, and conducting analysis.
 
-- **[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) Software:** Systems like Salesforce, Redtail, and Wealthbox help financial planners manage client relationships and communications. 
+- **[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) Software:** Systems like Salesforce, Redtail, and Wealthbox help financial planners manage client relationships and communications.
 
 - **[Tax Planning](../t/tax_planning.md) Software:** Programs like TurboTax and H&R Block [offer](../o/offer.md) [tax planning](../t/tax_planning.md) and preparation services to clients.
 
@@ -95,19 +95,19 @@ Several companies and firms are at the forefront of [financial planning](../f/fi
 
 ### Vanguard Personal Advisor Services
 
-[Vanguard Personal Advisor Services](https://investor.vanguard.com/advice/personal-advisor) combine the expertise of human advisors with the [efficiency](../e/efficiency.md) of robo-advisors to provide comprehensive financial plans.
+Vanguard Personal Advisor Services combine the expertise of human advisors with the [efficiency](../e/efficiency.md) of robo-advisors to provide comprehensive financial plans.
 
 ### Charles Schwab Intelligent Portfolios
 
-[Charles Schwab Intelligent Portfolios](https://intelligent.schwab.com/) [offer](../o/offer.md) automated [investing](../i/investing.md) with the option to consult with a financial planner for more personalized advice.
+Charles Schwab Intelligent Portfolios [offer](../o/offer.md) automated [investing](../i/investing.md) with the option to consult with a financial planner for more personalized advice.
 
 ### Fidelity Wealth Management
 
-[Fidelity Wealth Management](https://www.fidelity.com/wealth-management/overview) provides customized [wealth management](../w/wealth_management.md) services with a focus on comprehensive [financial planning](../f/financial_planning.md).
+Fidelity Wealth Management provides customized [wealth management](../w/wealth_management.md) services with a focus on comprehensive [financial planning](../f/financial_planning.md).
 
 ### Ameriprise Financial
 
-[Ameriprise Financial](https://www.ameriprise.com/) offers a broad [range](../r/range.md) of [financial planning](../f/financial_planning.md) and advisory services tailored to meet the unique needs of individuals and families.
+Ameriprise Financial offers a broad [range](../r/range.md) of [financial planning](../f/financial_planning.md) and advisory services tailored to meet the unique needs of individuals and families.
 
 ## Conclusion
 

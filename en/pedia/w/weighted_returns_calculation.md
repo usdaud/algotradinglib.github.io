@@ -92,11 +92,8 @@ Portfolios often undergo periodic [rebalancing](../r/rebalancing.md) to maintain
 Many financial tools and software solutions facilitate [weighted](../w/weighted.md) [return](../r/return.md) calculations. Some notable platforms include:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A powerful tool for [financial analysis](../f/financial_analysis.md) and data management.
-  [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **[Morningstar](../m/morningstar.md) Direct**: Provides comprehensive [portfolio analysis](../p/portfolio_analysis.md), including [weighted](../w/weighted.md) [return](../r/return.md) calculations.
-  [Morningstar](https://www.morningstar.com/products/direct)
 - **[Yahoo Finance](../y/yahoo_finance.md)**: Offers basic [portfolio management](../p/portfolio_management.md) features and [weighted](../w/weighted.md) [return](../r/return.md) calculations.
-  [Yahoo Finance](https://finance.yahoo.com/)
 
 ### 7. Conclusion
 

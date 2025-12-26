@@ -18,7 +18,7 @@ V-Shaped patterns tend to occur over a relatively short time frame, making them 
 
 ## Identifying V-Shaped Market Patterns
 
-To identify V-Shaped patterns effectively, traders often rely on a combination of [technical analysis](../t/technical_analysis.md) and algorithmic tools. 
+To identify V-Shaped patterns effectively, traders often rely on a combination of [technical analysis](../t/technical_analysis.md) and algorithmic tools.
 
 ### Technical Indicators
 1. **Moving Averages**: Moving averages can help smooth out price data to detect sudden changes indicative of a V-Shape.
@@ -67,13 +67,13 @@ The COVID-19 pandemic led to a sharp [market](../m/market.md) decline followed b
 ## How Companies Leverage V-Shaped Patterns
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) provides a platform for algorithmic traders to design and backtest strategies, including those based on V-Shaped patterns. Users can [leverage](../l/leverage.md) [QuantConnect](../q/quantconnect.md)'s extensive database of historical [market](../m/market.md) data to develop and refine their algorithms.
+QuantConnect provides a platform for algorithmic traders to design and backtest strategies, including those based on V-Shaped patterns. Users can [leverage](../l/leverage.md) [QuantConnect](../q/quantconnect.md)'s extensive database of historical [market](../m/market.md) data to develop and refine their algorithms.
 
 ### Alpaca
-[Alpaca](https://alpaca.markets/) offers [commission](../c/commission.md)-free trading APIs that can be used to automate [trading strategies](../t/trading_strategies.md) based on V-Shaped patterns. With [Alpaca](../a/alpaca.md)’s APIs, traders can execute their algorithms swiftly to [capitalize](../c/capitalize.md) on rapid [market](../m/market.md) movements.
+Alpaca offers [commission](../c/commission.md)-free trading APIs that can be used to automate [trading strategies](../t/trading_strategies.md) based on V-Shaped patterns. With [Alpaca](../a/alpaca.md)’s APIs, traders can execute their algorithms swiftly to [capitalize](../c/capitalize.md) on rapid [market](../m/market.md) movements.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) employs sophisticated algorithms to manage a diverse portfolio of investments. While specific strategies are proprietary, Two Sigma’s use of advanced [mathematical models](../m/mathematical_models_in_trading.md) suggests that patterns like the V-Shape could be part of their analytical toolkit.
+Two Sigma employs sophisticated algorithms to manage a diverse portfolio of investments. While specific strategies are proprietary, Two Sigma’s use of advanced [mathematical models](../m/mathematical_models_in_trading.md) suggests that patterns like the V-Shape could be part of their analytical toolkit.
 
 ## Conclusion
 

@@ -24,7 +24,7 @@
 ## Metrics for Measuring Brand Recognition
 1. **Surveys and Polls**: Conduct surveys and polls to gauge consumer awareness and recognition of the brand.
 2. **[Social Media Analytics](../s/social_media_analytics.md)**: Monitor mentions, [shares](../s/shares.md), and engagement on [social media](../s/social_media.md) to assess brand [visibility](../v/visibility.md).
-3. **Website Traffic**: Track direct and branded search traffic to measure how often consumers are specifically seeking out the brand.
+3. **Online Traffic**: Track direct and branded search traffic to measure how often consumers are specifically seeking out the brand.
 4. **[Market Research](../m/market_research.md)**: Utilize focus groups and [market research](../m/market_research.md) studies to [gain](../g/gain.md) insights into consumer recognition and perception of the brand.
 
 ## Example Scenarios
@@ -34,4 +34,3 @@
 
 ## Conclusion
 Brand recognition is a crucial aspect of [brand equity](../b/brand_equity.md) that impacts consumer [trust](../t/trust.md), [marketing](../m/marketing.md) [efficiency](../e/efficiency.md), and [competitive advantage](../c/competitive_advantage.md). By employing consistent branding, effective advertising, and engaging content, businesses can enhance their brand recognition, making it easier for consumers to identify and choose their products or services. Measuring brand recognition through various metrics helps businesses understand their [market](../m/market.md) position and the effectiveness of their branding strategies.
-

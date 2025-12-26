@@ -46,10 +46,10 @@ Wave analysis also supports [robust](../r/robust.md) [risk management](../r/risk
 
 Numerous [software tools](../s/software_tools_for_trading.md) and trading platforms provide functionalities for Elliott Wave analysis. Some notable ones include:
 
-- **Elliott Wave International**: A comprehensive platform providing education and tools focused on Elliott Wave analysis. [Elliott Wave International](https://www.elliottwave.com/)
-- **[MotiveWave](../m/motivewave.md)**: An advanced charting platform focusing heavily on [Elliott Wave theory](../e/elliott_wave_theory.md) and other [technical analysis](../t/technical_analysis.md) tools. [MotiveWave](https://www.motivewave.com/)
-- **[TradingView](../t/tradingview.md)**: A flexible charting platform [offering](../o/offering.md) Elliott Wave drawing tools and community-generated scripts. [TradingView](https://www.tradingview.com/)
-- **MetaTrader 5 with MQL5**: Offers custom [indicator](../i/indicator.md) development, including those based on Elliott Wave principles. [MetaTrader 5](https://www.metatrader5.com/)
+- **Elliott Wave International**: A comprehensive platform providing education and tools focused on Elliott Wave analysis. Elliott Wave International
+- **[MotiveWave](../m/motivewave.md)**: An advanced charting platform focusing heavily on [Elliott Wave theory](../e/elliott_wave_theory.md) and other [technical analysis](../t/technical_analysis.md) tools. MotiveWave
+- **[TradingView](../t/tradingview.md)**: A flexible charting platform [offering](../o/offering.md) Elliott Wave drawing tools and community-generated scripts. TradingView
+- **MetaTrader 5 with MQL5**: Offers custom [indicator](../i/indicator.md) development, including those based on Elliott Wave principles. MetaTrader 5
 
 ### Criticisms and Limitations
 

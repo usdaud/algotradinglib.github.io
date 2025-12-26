@@ -43,7 +43,7 @@ Therefore, the portfolio’s [weighted](../w/weighted.md) [average return](../a/
 
 ### Portfolio Management
 
-In [portfolio management](../p/par.md), [weighted averages](../w/weighted_averages_in_trading.md) are commonly used to calculate the [expected return](../e/expected_return.md) or [risk](../r/risk.md) of a portfolio. Each [asset](../a/asset.md) in the portfolio has a weight corresponding to its proportion of the total portfolio [value](../v/value.md). 
+In [portfolio management](../p/par.md), [weighted averages](../w/weighted_averages_in_trading.md) are commonly used to calculate the [expected return](../e/expected_return.md) or [risk](../r/risk.md) of a portfolio. Each [asset](../a/asset.md) in the portfolio has a weight corresponding to its proportion of the total portfolio [value](../v/value.md).
 
 #### Example
 
@@ -84,7 +84,7 @@ Where:
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [weighted averages](../w/weighted_averages_in_trading.md) can be used in various algorithms and [trading strategies](../t/trading_strategies.md) to enhance decision-making and accuracy.
+In [algorithmic trading](../a/algorithmic_trading.md), [weighted averages](../w/weighted_averages_in_trading.md) can be used in various algorithms and [trading strategies](../t/trading_strategies.md) to enhance decision-making and accuracy.
 
 ### Moving Averages
 
@@ -95,7 +95,7 @@ In [algorithmic trading](../a/accountability.md), [weighted averages](../w/weigh
 A WMA assigns weights linearly:
 
 \[
-\text{WMA} = \frac{(n \cdot p_1) + ((n-1) \cdot p_2) + ... + (1 \cdot p_n)}{\sum_{i=1}^{n} i}
+\text{WMA} = \frac{(n \cdot p_1) + ((n-1) \cdot p_2) +... + (1 \cdot p_n)}{\sum_{i=1}^{n} i}
 \]
 
 Where:
@@ -130,6 +130,6 @@ Where Cov(A, B) is the [covariance](../c/covariance.md) between the returns of a
 
 ## Conclusion
 
-[Weighted averages](../w/weighted_averages_in_trading.md) are a powerful statistical tool widely used in [finance](../f/finance.md), [economics](../e/economics.md), and many other fields. They provide a nuanced way to understand data by [accounting](../a/accounting.md) for the varying importance of different elements. Whether used in [portfolio management](../p/par.md), [index](../i/index_instrument.md) building, or [algorithmic trading](../a/accountability.md), [weighted averages](../w/weighted_averages_in_trading.md) [offer](../o/offer.md) a level of precision and relevance that simple averages cannot achieve. Understanding how to calculate and apply them effectively can significantly enhance analytical and decision-making capabilities in various financial contexts.
+[Weighted averages](../w/weighted_averages_in_trading.md) are a powerful statistical tool widely used in [finance](../f/finance.md), [economics](../e/economics.md), and many other fields. They provide a nuanced way to understand data by [accounting](../a/accounting.md) for the varying importance of different elements. Whether used in [portfolio management](../p/par.md), [index](../i/index_instrument.md) building, or [algorithmic trading](../a/algorithmic_trading.md), [weighted averages](../w/weighted_averages_in_trading.md) [offer](../o/offer.md) a level of precision and relevance that simple averages cannot achieve. Understanding how to calculate and apply them effectively can significantly enhance analytical and decision-making capabilities in various financial contexts.
 
-For further details and practical tools, you can explore financial platforms like **[Bloomberg](https://www.bloomberg.com/)** and **[NYU Stern School of Business](https://www.stern.nyu.edu/faculty-research/centers-initiatives/volatility-institute)**. These resources provide a [wealth](../w/wealth.md) of information and [data analytics](../d/data_analytics.md) tools that incorporate [weighted averages](../w/weighted_averages_in_trading.md) across a wide [range](../r/range.md) of financial applications.
+For further details and practical tools, you can explore financial platforms like **Bloomberg** and **NYU Stern School of Business**. These resources provide a [wealth](../w/wealth.md) of information and [data analytics](../d/data_analytics.md) tools that incorporate [weighted averages](../w/weighted_averages_in_trading.md) across a wide [range](../r/range.md) of financial applications.

@@ -72,7 +72,7 @@ MATLAB is widely used for its [robust](../r/robust.md) numerical computing capab
 R and Python are popular among quants and data scientists. Libraries such as [QuantLib](../q/quantlib.md), pandas, and NumPy are extensively used for statistical analysis, [risk](../r/risk.md) modeling, and [backtesting](../b/backtesting.md).
 
 ### Trading Platforms
-Several trading platforms come equipped with [risk management](../r/risk_management.md) tools. Examples include MetaTrader, [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/en/[home](../h/home.md).php), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+Several trading platforms come equipped with [risk management](../r/risk_management.md) tools. Examples include MetaTrader, [Interactive Brokers](../i/interactive_brokers.md) ( and [QuantConnect](../q/quantconnect.md) (
 
 ## Regulatory Aspects of Risk Management
 

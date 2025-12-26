@@ -1,6 +1,6 @@
 # Data Mining
 
-Data [mining](../m/mining.md) is an essential process in [algorithmic trading](../a/algorithmic_trading.md), which involves the extraction of valuable information from large datasets to make informed trading decisions. This topic delves into the techniques, tools, and applications of data [mining](../m/mining.md) within the context of trading and [financial markets](../f/financial_market.md). 
+Data [mining](../m/mining.md) is an essential process in [algorithmic trading](../a/algorithmic_trading.md), which involves the extraction of valuable information from large datasets to make informed trading decisions. This topic delves into the techniques, tools, and applications of data [mining](../m/mining.md) within the context of trading and [financial markets](../f/financial_market.md).
 
 ## Introduction to Data Mining
 
@@ -99,10 +99,9 @@ Despite its advantages, data [mining](../m/mining.md) in [algorithmic trading](.
 Data [mining](../m/mining.md) is a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) the tools and techniques to transform massive datasets into actionable insights. By leveraging data [mining](../m/mining.md), traders can develop sophisticated [trading algorithms](../t/trading_algorithms.md), optimize strategies, manage risks, and ultimately achieve better [trading performance](../t/trading_performance.md). However, navigating the challenges of data quality, computational complexity, and regulatory compliance is critical to the successful application of data [mining](../m/mining.md) in trading.
 
 For further details, you can explore the following resources:
-- [pandas](https://pandas.pydata.org/)
-- [scikit-learn](https://scikit-learn.org/)
-- [RapidMiner](https://rapidminer.com/)
-- [Tableau](https://www.tableau.com/)
-- [AWS](https://aws.amazon.com/)
-- [Alpha Vantage](https://www.alphavantage.co/)
-
+- pandas
+- scikit-learn
+- RapidMiner
+- Tableau
+- AWS
+- Alpha Vantage

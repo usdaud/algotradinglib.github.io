@@ -33,11 +33,11 @@ In [portfolio management](../p/par.md), Bayesian approaches can update the expec
 Financial institutions use posterior probabilities in [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to detect fraudulent transactions. The algorithms continuously update the likelihood of a [transaction](../t/transaction.md) being fraudulent as new data is available.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), posterior probabilities are used in [predictive models](../p/predictive_models_in_trading.md) that assess the likelihood of various [market](../m/market.md) conditions occurring, thus informing [trading strategies](../t/trading_strategies.md). Bayesian methods can help to improve the accuracy of these models by continuously updating predictions based on new data.
+In [algorithmic trading](../a/algorithmic_trading.md), posterior probabilities are used in [predictive models](../p/predictive_models_in_trading.md) that assess the likelihood of various [market](../m/market.md) conditions occurring, thus informing [trading strategies](../t/trading_strategies.md). Bayesian methods can help to improve the accuracy of these models by continuously updating predictions based on new data.
 
 ## Posterior Probability in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves making automated trading decisions using complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md). Posterior probability plays a crucial role in these models by allowing traders to adjust their strategies dynamically based on new [market](../m/market.md) data.
+[Algorithmic trading](../a/algorithmic_trading.md) involves making automated trading decisions using complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md). Posterior probability plays a crucial role in these models by allowing traders to adjust their strategies dynamically based on new [market](../m/market.md) data.
 
 ### Model Updating
 Traders can use posterior probabilities to update their models in real-time. For instance, if a model predicts price movements based on historical data, new incoming data can be used to refine these predictions, leading to more accurate trading decisions.
@@ -86,18 +86,17 @@ Startups and established firms alike use Bayesian models for [financial forecast
 ### Man AHL
 Man AHL, one of the most famous [quantitative trading](../q/quantitative_trading.md) firms, uses [Bayesian statistics](../b/bayesian_statistics_in_trading.md) to drive their [trading strategies](../t/trading_strategies.md). They apply Bayesian methods to update their [trading models](../t/trading_models.md) based on real-time data, improving accuracy and performance.
 
-More information can be found on their [official site](https://www.man.com/ahl-research).
 
 ### Credit Karma
 [Credit](../c/credit.md) Karma uses posterior probabilities to update [credit score](../c/credit_score.md) models, [offering](../o/offering.md) users more accurate and timely [credit](../c/credit.md) scores as new financial data becomes available.
 
-Visit their [website](https://www.creditkarma.com/) for more details.
+
 
 ### Kensho Technologies
 Kensho Technologies, a leading fintech company, employs Bayesian approaches to provide advanced financial analytics and [market](../m/market.md) insights, enabling better [predictive modeling](../p/predictive_modeling.md) and decision-making.
 
-Learn more on their [website](https://www.kensho.com/).
+
 
 ## Conclusion
 
-Posterior probability is a powerful concept in the realm of [finance](../f/finance.md) and trading. It allows for the continuous updating of beliefs and models in light of new evidence, making it invaluable for [risk](../r/risk.md) assessment, [portfolio optimization](../p/portfolio_optimization.md), [fraud](../f/fraud.md) detection, and [algorithmic trading](../a/accountability.md). Its applications in fintech are vast, from robo-advisors to regulatory tech, showcasing the versatility and importance of Bayesian methods in modern [finance](../f/finance.md). The practical implementations in companies like Man AHL, [Credit](../c/credit.md) Karma, and Kensho Technologies illustrate the real-world impact and potential of posterior probabilities in driving financial strategies and innovations.
+Posterior probability is a powerful concept in the realm of [finance](../f/finance.md) and trading. It allows for the continuous updating of beliefs and models in light of new evidence, making it invaluable for [risk](../r/risk.md) assessment, [portfolio optimization](../p/portfolio_optimization.md), [fraud](../f/fraud.md) detection, and [algorithmic trading](../a/algorithmic_trading.md). Its applications in fintech are vast, from robo-advisors to regulatory tech, showcasing the versatility and importance of Bayesian methods in modern [finance](../f/finance.md). The practical implementations in companies like Man AHL, [Credit](../c/credit.md) Karma, and Kensho Technologies illustrate the real-world impact and potential of posterior probabilities in driving financial strategies and innovations.

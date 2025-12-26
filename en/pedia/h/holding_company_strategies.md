@@ -7,7 +7,7 @@ A [holding company](../h/holding_company.md) is a type of [firm](../f/firm.md) t
 A [holding company](../h/holding_company.md) does not typically produce goods or services itself; its main role is to control other businesses, which are known as subsidiaries. By owning a controlling stake in a company, a [holding company](../h/holding_company.md) can influence the subsidiary’s policies and operations while potentially reaping financial benefits from the subsidiary’s success.
 
 #### Example:
-- **[Berkshire Hathaway](../b/berkshire_hathaway.md) Inc.**: One of the most famous holding companies, led by Warren Buffett. [Website](https://www.berkshirehathaway.com/)
+- **[Berkshire Hathaway](../b/berkshire_hathaway.md) Inc.**: One of the most famous holding companies,
 
 ### 2. Risk Management
 
@@ -47,9 +47,9 @@ Holding companies [offer](../o/offer.md) significant strategic flexibility, part
 
 ### Examples of Prominent Holding Companies
 
-- **Alphabet Inc.**: [Parent company](../p/parent_company.md) of Google and various other subsidiaries. [Website](https://abc.xyz/)
-- **Exor N.V.**: An Italian [holding company](../h/holding_company.md) that controls companies like Fiat Chrysler Automobiles and Ferrari. [Website](https://www.exor.com/)
-- **SoftBank Group Corp.**: A Japanese [holding company](../h/holding_company.md) with vast investments in technology and telecommunications. [Website](https://www.softbank.jp/en/)
+- **Alphabet Inc.**: [Parent company](../p/parent_company.md)
+- **Exor N.V.**: An Italian [holding company](../h/holding_company.md) that controls
+- **SoftBank Group Corp.**: A Japanese [holding company](../h/holding_company.md)
 
 ### Conclusion
 

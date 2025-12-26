@@ -7,33 +7,33 @@ K-[Factor models](../f/factor_models.md) are sophisticated mathematical construc
 ### Key Components of K-Factor Models
 
 1. **Factors Selection**: Identifying the critical factors (K-factors) that significantly impact trading outcomes. These can include:
-   - **[Momentum](../m/momentum.md)**: Historical price movements and trends.
-   - **[Volume](../v/volume.md)**: Trading [volume](../v/volume.md) and [liquidity](../l/liquidity.md) metrics.
-   - **[Volatility](../v/volatility.md)**: [Market](../m/market.md) [volatility](../v/volatility.md) indices like VIX.
-   - **Fundamentals**: [Economic indicators](../e/economic_indicators.md) and corporate fundamentals.
-   - **Sentiment**: [Market sentiment](../m/market_sentiment.md) derived from news and [social media](../s/social_media.md).
+ - **[Momentum](../m/momentum.md)**: Historical price movements and trends.
+ - **[Volume](../v/volume.md)**: Trading [volume](../v/volume.md) and [liquidity](../l/liquidity.md) metrics.
+ - **[Volatility](../v/volatility.md)**: [Market](../m/market.md) [volatility](../v/volatility.md) indices like VIX.
+ - **Fundamentals**: [Economic indicators](../e/economic_indicators.md) and corporate fundamentals.
+ - **Sentiment**: [Market sentiment](../m/market_sentiment.md) derived from news and [social media](../s/social_media.md).
 
 2. **Mathematical Foundation**: Utilizing complex mathematical techniques to integrate these factors. Common methods include:
-   - **[Linear Regression](../l/linear_regression.md) Models**: Predicting [asset](../a/asset.md) prices or returns based on linear combinations of the K-factors.
-   - **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Employing [artificial intelligence](../a/artificial_intelligence_in_trading.md) to dynamically adapt and optimize the model.
-   - **Statistical Techniques**: Using statistical tests and metrics to validate the model’s accuracy and stability.
+ - **[Linear Regression](../l/linear_regression.md) Models**: Predicting [asset](../a/asset.md) prices or returns based on linear combinations of the K-factors.
+ - **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Employing [artificial intelligence](../a/artificial_intelligence_in_trading.md) to dynamically adapt and optimize the model.
+ - **Statistical Techniques**: Using statistical tests and metrics to validate the model’s accuracy and stability.
 
 3. **Data Preprocessing**: Cleaning and normalizing data to ensure the reliability of the inputs. This step often involves:
-   - **Removing Outliers**: Ensuring anomalous data points do not skew the model.
-   - **Normalization**: Converting different scales of factors into a common [range](../r/range.md).
-   - **Feature Engineering**: Creating new [proxy](../p/proxy.md) variables to enhance the model’s predictive power.
+ - **Removing Outliers**: Ensuring anomalous data points do not skew the model.
+ - **Normalization**: Converting different scales of factors into a common [range](../r/range.md).
+ - **Feature Engineering**: Creating new [proxy](../p/proxy.md) variables to enhance the model’s predictive power.
 
 4. **Validation and Testing**: Rigorous [backtesting](../b/backtesting.md) using historical data to determine the model’s efficacy and robustness. This involves:
-   - **[Backtesting](../b/backtesting.md) Frameworks**: Simulating historical trades using the model to calculate [performance metrics](../p/performance_metrics.md).
-   - **Cross-Validation**: Dividing the data into training and testing sets to validate results.
-   - **[Sensitivity Analysis](../s/sensitivity_analysis.md)**: Assessing how sensitive model outputs are to changes in inputs.
+ - **[Backtesting](../b/backtesting.md) Frameworks**: Simulating historical trades using the model to calculate [performance metrics](../p/performance_metrics.md).
+ - **Cross-Validation**: Dividing the data into training and testing sets to validate results.
+ - **[Sensitivity Analysis](../s/sensitivity_analysis.md)**: Assessing how sensitive model outputs are to changes in inputs.
 
 ### Applications of K-Factor Models
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md) Strategies**: Developing and refining automated [trading strategies](../t/trading_strategies.md). K-[Factor models](../f/factor_models.md) help in:
-   - **Signal Generation**: Producing buy or sell signals based on integrated [factor analysis](../f/factor_analysis.md).
-   - **[Risk Management](../r/risk_management.md)**: Assessing [risk factors](../r/risk_factors_in_trading.md) and implementing [risk](../r/risk.md) controls.
-   - **[Portfolio Optimization](../p/portfolio_optimization.md)**: Balancing various assets and adjusting portfolios to improve returns against [risk](../r/risk.md).
+ - **Signal Generation**: Producing buy or sell signals based on integrated [factor analysis](../f/factor_analysis.md).
+ - **[Risk Management](../r/risk_management.md)**: Assessing [risk factors](../r/risk_factors_in_trading.md) and implementing [risk](../r/risk.md) controls.
+ - **[Portfolio Optimization](../p/portfolio_optimization.md)**: Balancing various assets and adjusting portfolios to improve returns against [risk](../r/risk.md).
 
 2. **[Market](../m/market.md) Prediction**: [Forecasting](../f/forecasting.md) future [market](../m/market.md) trends and movements, allowing traders to anticipate and act on [market](../m/market.md) conditions before they occur.
 
@@ -43,9 +43,9 @@ K-[Factor models](../f/factor_models.md) are sophisticated mathematical construc
 
 Several companies and financial institutions have developed proprietary K-[Factor models](../f/factor_models.md) to excel in [algorithmic trading](../a/algorithmic_trading.md). Notable examples include:
 
-- **[Numerai](https://numer.ai/)**: A [hedge fund](../h/hedge_fund.md) using [data science](../d/data_science_in_trading.md) competitions to crowdsource and refine [predictive models](../p/predictive_models_in_trading.md), incorporating various K-factors.
-- **[Quantopian](https://www.quantopian.com/)**: A platform providing tools for [quantitative trading](../q/quantitative_trading.md) and fostering an online community where traders share and enhance algorithmic models.
-- **[Two Sigma](https://www.twosigma.com/)**: Employs vast amounts of data and sophisticated [machine learning](../m/machine_learning.md) techniques to develop and deploy [trading algorithms](../t/trading_algorithms.md).
+- **Numerai**: A [hedge fund](../h/hedge_fund.md) using [data science](../d/data_science_in_trading.md) competitions to crowdsource and refine [predictive models](../p/predictive_models_in_trading.md), incorporating various K-factors.
+- **Quantopian**: A platform providing tools for [quantitative trading](../q/quantitative_trading.md) and fostering an online community where traders share and enhance algorithmic models.
+- **Two Sigma**: Employs vast amounts of data and sophisticated [machine learning](../m/machine_learning.md) techniques to develop and deploy [trading algorithms](../t/trading_algorithms.md).
 
 ### Challenges and Limitations
 

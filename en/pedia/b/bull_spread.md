@@ -24,17 +24,17 @@ The total cost (or [premium](../p/premium.md)) for this spread is $3 per share (
 **Outcome Scenarios:**
 
 1. **Stock price at expiry is below $50:**
-   - Both [options](../o/options.md) expire worthless.
-   - Loss = [Premium](../p/premium.md) paid = $3 per share.
+ - Both [options](../o/options.md) expire worthless.
+ - Loss = [Premium](../p/premium.md) paid = $3 per share.
 
 2. **Stock price at expiry is between $50 and $55:**
-   - Option A is in the [money](../m/money.md).
-   - Option B is out of the [money](../m/money.md) or [at the money](../a/at_the_money.md).
-   - [Profit](../p/profit.md) = (Stock price at expiry - $50) - $3.
+ - Option A is in the [money](../m/money.md).
+ - Option B is out of the [money](../m/money.md) or [at the money](../a/at_the_money.md).
+ - [Profit](../p/profit.md) = (Stock price at expiry - $50) - $3.
 
 3. **Stock price at expiry is above $55:**
-   - Both [options](../o/options.md) are in the [money](../m/money.md).
-   - Maximum [Profit](../p/profit.md) = ($55 - $50) - $3 = $2 per share.
+ - Both [options](../o/options.md) are in the [money](../m/money.md).
+ - Maximum [Profit](../p/profit.md) = ($55 - $50) - $3 = $2 per share.
 
 ### Bull Put Spread
 A [Bull Put Spread](../b/bull_put_spread.md) involves selling a [put option](../p/put.md) at a higher [strike price](../s/strike_price.md) while simultaneously buying another [put option](../p/put.md) at a lower [strike price](../s/strike_price.md). Both [options](../o/options.md) have the same [expiration date](../e/expiration_date.md). This strategy aims to [profit](../p/profit.md) from a moderate rise in the price of the [underlying asset](../u/underlying_asset.md) while limiting potential losses.
@@ -51,17 +51,17 @@ The total net [credit](../c/credit.md) for this spread is $3 per share ($5 - $2)
 **Outcome Scenarios:**
 
 1. **Stock price at expiry is below $45:**
-   - Both [options](../o/options.md) are in the [money](../m/money.md).
-   - Loss = ($50 - $45) - $3 = $2 per share.
+ - Both [options](../o/options.md) are in the [money](../m/money.md).
+ - Loss = ($50 - $45) - $3 = $2 per share.
 
 2. **Stock price at expiry is between $45 and $50:**
-   - Option C is in the [money](../m/money.md) or [at the money](../a/at_the_money.md).
-   - Option D is out of the [money](../m/money.md).
-   - [Profit](../p/profit.md) = Net [credit](../c/credit.md) received ($3) - (Stock price at expiry - $45).
+ - Option C is in the [money](../m/money.md) or [at the money](../a/at_the_money.md).
+ - Option D is out of the [money](../m/money.md).
+ - [Profit](../p/profit.md) = Net [credit](../c/credit.md) received ($3) - (Stock price at expiry - $45).
 
 3. **Stock price at expiry is above $50:**
-   - Both [options](../o/options.md) expire worthless.
-   - Maximum [Profit](../p/profit.md) = Net [credit](../c/credit.md) received = $3 per share.
+ - Both [options](../o/options.md) expire worthless.
+ - Maximum [Profit](../p/profit.md) = Net [credit](../c/credit.md) received = $3 per share.
 
 ## Advantages of Bull Spread
 
@@ -77,7 +77,7 @@ The total net [credit](../c/credit.md) for this spread is $3 per share ($5 - $2)
 
 - **[Neutral](../n/neutral.md) to Moderately Bullish Outlook:** Ideal when the [trader](../t/trader.md) expects a modest rise in the [underlying asset](../u/underlying_asset.md)'s price.
 - **Controlled [Risk](../r/risk.md) Environment:** Suitable in situations where [risk management](../r/risk_management.md) is crucial.
-  
+
 ## Real-World Application
 
-Many trading platforms, including brokerages like TD [Ameritrade](../a/ameritrade.md) ([link](https://www.tdameritrade.com/)) and [interactive brokers](../i/interactive_brokers.md) ([link](https://www.interactivebrokers.com/)), provide tools and educational resources to help investors implement [bull](../b/bull.md) [spreads](../s/spreads.md) effectively. Traders can [leverage](../l/leverage.md) these resources to set up, monitor, and adjust their [bull](../b/bull.md) [spreads](../s/spreads.md) in real-time, ensuring that they align with the [market](../m/market.md) movements and their financial goals.
+Many trading platforms, including brokerages like TD [Ameritrade](../a/ameritrade.md) (link) and [interactive brokers](../i/interactive_brokers.md) (link), provide tools and educational resources to help investors implement [bull](../b/bull.md) [spreads](../s/spreads.md) effectively. Traders can [leverage](../l/leverage.md) these resources to set up, monitor, and adjust their [bull](../b/bull.md) [spreads](../s/spreads.md) in real-time, ensuring that they align with the [market](../m/market.md) movements and their financial goals.

@@ -55,9 +55,9 @@ The 10-year [Treasury yield](../t/treasury_yield.md) is subject to short-term vo
 
 **Links to Relevant Companies:**
 
-- [U.S. Department of the Treasury](https://home.treasury.gov/)
-- [Federal Reserve](https://www.federalreserve.gov/)
+- U.S. Department of the Treasury
+- Federal Reserve
 
 ### Conclusion
 
-The 10-year [Treasury yield](../t/treasury_yield.md) is a multifaceted financial metric with wide-reaching implications. Its role as a [benchmark](../b/benchmark.md) for [interest](../i/interest.md) rates and [indicator](../i/indicator.md) of economic health makes it a crucial focus for a diverse [range](../r/range.md) of [market](../m/market.md) participants. Understanding the factors influencing the [yield](../y/yield.md) and its potential impact can help in making informed decisions in both investment and policy-making contexts.
+The 10-year [Treasury yield](../t/treasury_yield.md) is a multifaceted financial metric with wide-reaching implications. Its role as a [benchmark](../b/benchmark.md) for [interest](../i/interest.md) rates and [indicator](../i/indicator.md) of economic health makes it a crucial focus for a diverse [range](../r/range.md) of [market](../m/market.md) participants. Understanding the factors influencing the [yield](../y/yield.md) and its potential impact can help in making informed decisions in both investment and policy-making contexts.

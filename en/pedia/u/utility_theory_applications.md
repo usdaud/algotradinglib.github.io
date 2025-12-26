@@ -1,6 +1,6 @@
 # Utility Theory Applications
 
-[Utility Theory](../u/utility_theory_in_trading.md) is a [robust](../r/robust.md) framework designed to model [decision-making under uncertainty](../d/decision-making_under_uncertainty.md). At its core, it represents individual preferences over a set of outcomes or bundles of goods. This paradigm finds its primary usage in [economics](../e/economics.md) and [finance](../f/finance.md), where it helps elucidate the behavior of investors, consumers, and firms. 
+[Utility Theory](../u/utility_theory_in_trading.md) is a [robust](../r/robust.md) framework designed to model [decision-making under uncertainty](../d/decision-making_under_uncertainty.md). At its core, it represents individual preferences over a set of outcomes or bundles of goods. This paradigm finds its primary usage in [economics](../e/economics.md) and [finance](../f/finance.md), where it helps elucidate the behavior of investors, consumers, and firms.
 
 ## The Foundation of Utility Theory
 
@@ -62,8 +62,8 @@ Though less realistic, the quadratic [utility](../u/utility.md) function `U(X) =
 
 Several high-frequency trading firms effectively employ [Utility Theory](../u/utility_theory_in_trading.md) in their strategy formulations. These firms use highly sophisticated algorithms designed to maximize the [expected utility](../e/expected_utility.md) of their trades while considering the [risk](../r/risk.md) of [market](../m/market.md) conditions.
 
-- **Virtu Financial**: Virtu is known for its [robust](../r/robust.md) [risk management](../r/risk_management.md) systems which integrate [utility](../u/utility.md)-based assessments to balance potential profits and risks. More information about the [firm](../f/firm.md) can be found at [Virtu](https://www.virtu.com).
-- **Citadel Securities**: Citadel employs advanced [quantitative analysis](../q/quantitative_analysis.md) to formulate strategies that aim to provide the highest [utility](../u/utility.md) by balancing [risk](../r/risk.md) and [expected return](../e/expected_return.md). More about Citadel Securities is available at [Citadel Securities](https://www.citadelsecurities.com).
+- **Virtu Financial**: Virtu is known for its [robust](../r/robust.md) [risk management](../r/risk_management.md) systems which integrate [utility](../u/utility.md)-based assessments to balance potential profits and risks. More information about the [firm](../f/firm.md) can be found at Virtu.
+- **Citadel Securities**: Citadel employs advanced [quantitative analysis](../q/quantitative_analysis.md) to formulate strategies that aim to provide the highest [utility](../u/utility.md) by balancing [risk](../r/risk.md) and [expected return](../e/expected_return.md). More about Citadel Securities is available at Citadel Securities.
 
 ### Asset Management
 

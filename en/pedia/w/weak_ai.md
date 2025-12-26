@@ -25,7 +25,7 @@ The [operational efficiency](../o/operational_efficiency_in_trading.md) of Weak 
 Virtual assistants like Siri, Amazon Alexa, and Google Assistant are classic examples of Weak AI. These systems can understand and respond to spoken commands, set reminders, play music, and provide weather updates, but they are restricted to predefined tasks.
 
 ### Predictive Analytics
-In [finance](../f/finance.md), Weak AI is used for [predictive analytics](../p/predictive_analytics.md), such as [forecasting](../f/forecasting.md) [market](../m/market.md) trends, [risk](../r/risk.md) assessment, and [portfolio optimization](../p/portfolio_optimization.md). Companies like [Kensho](https://kensho.com) [leverage](../l/leverage.md) Weak AI to provide [financial analysis](../f/financial_analysis.md) and insights using vast datasets.
+In [finance](../f/finance.md), Weak AI is used for [predictive analytics](../p/predictive_analytics.md), such as [forecasting](../f/forecasting.md) [market](../m/market.md) trends, [risk](../r/risk.md) assessment, and [portfolio optimization](../p/portfolio_optimization.md). Companies like Kensho [leverage](../l/leverage.md) Weak AI to provide [financial analysis](../f/financial_analysis.md) and insights using vast datasets.
 
 ### Natural Language Processing (NLP)
 NLP applications include [sentiment analysis](../s/sentiment_analysis.md), language translation, and chatbots. For instance, [customer service](../c/customer_service.md) chatbots employ NLP to interpret and respond to [customer](../c/customer.md) queries, enhancing user experience and [operational efficiency](../o/operational_efficiency_in_trading.md).

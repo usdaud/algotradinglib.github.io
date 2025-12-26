@@ -12,7 +12,7 @@ This [accounting](../a/accounting.md) treatment is in accordance with Generally 
 
 ## Calculation of Capitalized Interest
 
-The process of calculating capitalized [interest](../i/interest.md) involves determining the amount of [interest expense](../i/interest_expense.md) eligible to be capitalized during the period when the [asset](../a/asset.md) is being constructed. 
+The process of calculating capitalized [interest](../i/interest.md) involves determining the amount of [interest expense](../i/interest_expense.md) eligible to be capitalized during the period when the [asset](../a/asset.md) is being constructed.
 
 Key steps in the calculation include:
 1. **Identifying the [loan](../l/loan.md) amounts and [interest](../i/interest.md) rates**: Companies must document all funds borrowed specifically for construction and the associated [interest](../i/interest.md) rates.
@@ -52,11 +52,11 @@ General Electric (GE) has been known to practice [interest](../i/interest.md) [c
 
 Apple Inc. capitalizes [interest](../i/interest.md) on certain [capital](../c/capital.md) projects including their construction of new campuses and data centers. This helps them manage their financial reporting strategies efficiently and presents a more accurate picture of the company's long-term [asset](../a/asset.md) investments.
 
-### [Microsoft Corporation](https://www.microsoft.com/)
+### Microsoft Corporation
 
 Microsoft, like many large tech firms, capitalizes [interest](../i/interest.md) on significant construction projects such as building data centers. Given the tech giant's massive [infrastructure](../i/infrastructure.md) investments, capitalizing [interest](../i/interest.md) ensures that these costs are allocated appropriately over the assets' useful lives.
 
-### [Tesla, Inc.](https://www.tesla.com/)
+### Tesla, Inc.
 
 Tesla capitalizes [interest](../i/interest.md) on the construction of their gigafactories and other large-scale [manufacturing](../m/manufacturing.md) facilities. For a company [investing](../i/investing.md) heavily in expanding its [manufacturing](../m/manufacturing.md) capabilities, this approach allows Tesla to better align the enormous upfront [capital](../c/capital.md) costs with future [revenue](../r/revenue.md).
 

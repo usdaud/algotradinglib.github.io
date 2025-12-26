@@ -77,15 +77,15 @@ Incorporating machine [learning algorithms](../l/learning_algorithms_in_trading.
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md) across various [asset](../a/asset.md) classes.
+QuantConnect offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md) across various [asset](../a/asset.md) classes.
 
 ### Alpha Vantage
 
-[Alpha Vantage](https://www.alphavantage.co/) provides free APIs for real-time and historical [market](../m/market.md) data, enabling traders to feed accurate data into their algorithms for better ROI calculations.
+Alpha Vantage provides free APIs for real-time and historical [market](../m/market.md) data, enabling traders to feed accurate data into their algorithms for better ROI calculations.
 
 ### QuantRocket
 
-[QuantRocket](https://www.quantrocket.com/) offers trading tools that integrate with [Interactive Brokers](../i/interactive_brokers.md), providing [data science](../d/data_science_in_trading.md) tools, [backtesting](../b/backtesting.md), and automated trading capabilities to optimize ROI.
+QuantRocket offers trading tools that integrate with [Interactive Brokers](../i/interactive_brokers.md), providing [data science](../d/data_science_in_trading.md) tools, [backtesting](../b/backtesting.md), and automated trading capabilities to optimize ROI.
 
 ## Challenges in Maximizing ROI
 

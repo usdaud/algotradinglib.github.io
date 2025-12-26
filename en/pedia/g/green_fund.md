@@ -26,25 +26,21 @@ Several notable Green Funds and investment firms focus on environmental sustaina
 
 Founded in 2004 by former U.S. Vice President Al Gore and Goldman Sachs executive David Blood, Generation [Investment Management](../i/investment_management.md) focuses on long-term, sustainable investments. The [firm](../f/firm.md) emphasizes integrating ESG factors into its investment process and has a strong track record of supporting companies that generate positive environmental impacts.
 
-[Generation Investment Management](https://www.generationim.com/)
 
 ### 2. **Calvert Green Bond Fund**
 
 The Calvert [Green Bond](../g/green_bond.md) [Fund](../f/fund.md) invests primarily in bonds issued to [finance](../f/finance.md) environmentally beneficial projects, such as renewable energy, energy [efficiency](../e/efficiency.md), and sustainable water management. The [fund](../f/fund.md) aims to provide stable returns while promoting environmental sustainability.
 
-[Calvert Green Bond Fund](https://www.calvert.com/)
 
 ### 3. **iShares Global Clean Energy ETF**
 
 This [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) from BlackRock focuses on companies involved in the clean [energy sector](../e/energy_sector.md), including solar, wind, and other renewable energy sources. The [fund](../f/fund.md) provides investors with exposure to the global clean energy [market](../m/market.md) and contributes to the transition to a low-carbon [economy](../e/economy.md).
 
-[iShares Global Clean Energy ETF](https://www.ishares.com/us/products/239726/ishares-global-clean-energy-etf)
 
 ### 4. **Green Century Balanced Fund**
 
 The Green Century [Balanced Fund](../b/balanced_fund.md) aims to achieve long-term [capital](../c/capital.md) growth and current [income](../i/income.md) by [investing](../i/investing.md) in environmentally responsible companies. The [fund](../f/fund.md) avoids [investing](../i/investing.md) in fossil fuel companies and focuses on renewable energy, energy [efficiency](../e/efficiency.md), and other sustainability-related sectors.
 
-[Green Century Balanced Fund](https://www.greencentury.com/)
 
 ## Benefits of Green Funds
 

@@ -38,19 +38,19 @@ Different countries have codified the arm's length principle within their legal 
 
 In the U.S., the IRS outlines comprehensive guidelines in the tax code (Section 482) for ensuring [related-party transactions](../r/related-party_transactions.md) abide by the arm's length standard. According to the IRS, the transfer price between related parties should be the same as if they were independent entities.
 
-For further information on IRS guidelines: [IRS Transfers Pricing](https://www.irs.gov/businesses/international-businesses/transfer-pricing-rules-and-compliance)
+For further information on IRS guidelines: IRS Transfers Pricing
 
 ### International Guidelines
 
 The Organization for Economic Co-operation and Development (OECD) provides [transfer pricing](../t/transfer_price.md) guidelines for multinational enterprises and tax administrations. The OECD guidelines endorse the arm's length principle as the international standard for [transfer pricing](../t/transfer_price.md), helping ensure consistent application across different jurisdictions.
 
-For more information on OECD guidelines: [OECD Transfer Pricing Guidelines](https://www.oecd.org/tax/transfer-pricing/transfer-pricing-guidelines.htm)
+For more information on OECD guidelines: OECD Transfer Pricing Guidelines
 
 ### United Kingdom
 
 HM [Revenue](../r/revenue.md) & Customs (HMRC) in the UK also emphasizes the arm's length principle in its [transfer pricing](../t/transfer_price.md) regulations, aligning closely with OECD standards.
 
-For more information, visit: [HMRC Transfer Pricing](https://www.gov.uk/guidance/transfer-pricing-international-manual)
+For more information, visit: HMRC Transfer Pricing
 
 ## Application in Different Sectors
 

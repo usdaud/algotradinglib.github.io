@@ -90,4 +90,4 @@ Despite ceasing operations, OTCEI’s larger technological and institutional imp
 
 The Over-the-Counter [Exchange](../e/exchange.md) of India remains a crucial chapter in India's financial history, illustrating the innovative efforts toward integrating smaller enterprises into the mainstream [capital markets](../c/capital_markets.md). While it struggled and eventually shuttered, the lessons learned from OTCEI greatly informed subsequent developments within the broader financial and trading ecosystem in India. Innovating how securities were traded and focusing on SMEs, OTCEI endeavored to carve out a space in a highly competitive [market](../m/market.md), setting the groundwork for future advancements in [financial markets](../f/financial_market.md).
 
-For more information, visit: [OTCEI Page](https://www.otcei.net) ([Note](../n/note.md): The actual website might no longer be operational after ceasing trading activities).
+./n/note.md).

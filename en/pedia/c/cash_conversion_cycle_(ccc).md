@@ -17,12 +17,12 @@ The formula to calculate the Cash Conversion Cycle is:
 
 #### Days Inventory Outstanding (DIO)
 
-Days [Inventory](../i/inventory.md) Outstanding (DIO) indicates the [efficiency](../e/efficiency.md) of [inventory management](../i/inventory_management.md). A lower DIO is preferable because it means the company is able to sell its [inventory](../i/inventory.md) quickly. 
+Days [Inventory](../i/inventory.md) Outstanding (DIO) indicates the [efficiency](../e/efficiency.md) of [inventory management](../i/inventory_management.md). A lower DIO is preferable because it means the company is able to sell its [inventory](../i/inventory.md) quickly.
 \[ \text{DIO} = \left( \frac{\text{[Average Inventory](../a/average_inventory.md)}}{\text{Cost of Goods Sold}} \right) \times 365 \]
 
 #### Days Sales Outstanding (DSO)
 
-[Days Sales Outstanding](../d/days_sales_outstanding.md) (DSO) measures the [efficiency](../e/efficiency.md) of a company's [credit](../c/credit.md) and collection efforts. The shorter the DSO, the faster a company is collecting its accounts [receivable](../r/receivable.md). 
+[Days Sales Outstanding](../d/days_sales_outstanding.md) (DSO) measures the [efficiency](../e/efficiency.md) of a company's [credit](../c/credit.md) and collection efforts. The shorter the DSO, the faster a company is collecting its accounts [receivable](../r/receivable.md).
 \[ \text{DSO} = \left( \frac{\text{Accounts [Receivable](../r/receivable.md)}}{\text{Net [Credit](../c/credit.md) Sales}} \right) \times 365 \]
 
 #### Days Payable Outstanding (DPO)
@@ -67,18 +67,18 @@ Though not directly tied to the CCC, HFT techniques allow companies to engage in
 ### SAP Ariba
 
 SAP Ariba provides a comprehensive platform for managing [procurement](../p/procurement.md) and [supply chain](../s/supply_chain.md) processes. It helps companies automate many aspects of the CCC.
-- [SAP Ariba](https://www.ariba.com/)
+- SAP Ariba
 
 ### Coupa
 
 Coupa offers a suite of software products for managing [business](../b/business.md) spend, including [procurement](../p/procurement.md), invoicing, expenses, and payments. It utilizes AI and [machine learning](../m/machine_learning.md) to optimize these processes.
-- [Coupa](https://www.coupa.com/)
+- Coupa
 
 ### QuickBooks and Xero
 
 QuickBooks and Xero are popular [accounting](../a/accounting.md) software that small to medium-sized businesses use for financial management, including optimizing accounts [receivable](../r/receivable.md) and payable.
-- [QuickBooks](https://quickbooks.intuit.com/)
-- [Xero](https://www.xero.com/)
+- QuickBooks
+- Xero
 
 ## Conclusion
 

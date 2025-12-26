@@ -4,8 +4,7 @@
 
 ## Founding and Background
 
-[Binance](../b/binance.md).US was created to serve American users who faced regulatory challenges on the global [Binance](../b/binance.md) platform. The [exchange](../e/exchange.md) is operated by BAM Trading Services and has a [licensing agreement](../l/licensing_agreement.md) with [Binance](../b/binance.md), benefiting from [Binance](../b/binance.md)’s advanced technology, [security](../s/security.md) measures, and [liquidity](../l/liquidity.md). The company's official website is https://www.[binance](../b/binance.md).us/.
-
+[Binance](../b/binance.md).US was created to serve American users who faced regulatory challenges on the global [Binance](../b/binance.md) platform. The [exchange](../e/exchange.md) is operated by BAM Trading Services and has a [licensing agreement](../l/licensing_agreement.md) with [Binance](../b/binance.md), benefiting from [Binance](../b/binance.md)’s advanced technology, [security](../s/security.md) measures, and [liquidity](../l/liquidity.md).
 ## Features
 
 ### Wide Range of Cryptocurrencies
@@ -138,4 +137,3 @@ Further, in 2022, a string of class-action lawsuits were initiated against the [
 
 [Binance](../b/binance.md).US has quickly established itself as a leading U.S.-based cryptocurrency [exchange](../e/exchange.md), leveraging the technology, [security](../s/security.md), and [liquidity](../l/liquidity.md) of its parent platform, [Binance](../b/binance.md). With competitive fees, a wide [range](../r/range.md) of cryptocurrencies, [robust](../r/robust.md) [security](../s/security.md) measures, and adherence to U.S. regulations, [Binance](../b/binance.md).US serves as a reliable platform for both novice and professional traders.
 
-For more detailed information, users can visit the official website at https://www.[binance](../b/binance.md).us/.

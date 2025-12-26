@@ -65,7 +65,7 @@ Several [risk factors](../r/risk_factors_in_trading.md) can impact the viability
 
 The Los Angeles Department of Water and Power (LADWP) provides an illustrative case study of [utility](../u/utility.md) [revenue](../r/revenue.md) bonds in action. As the largest municipally-owned [utility](../u/utility.md) in the United States, LADWP frequently issues [utility](../u/utility.md) [revenue](../r/revenue.md) bonds to [fund](../f/fund.md) its [infrastructure](../i/infrastructure.md) projects, including water [supply](../s/supply.md) and electric power generation improvements.
 
-For more information on LADWP's [bond](../b/bond.md) programs, visit [LADWP's Bond Information](https://www.ladwp.com).
+For more information on LADWP's [bond](../b/bond.md) programs, visit LADWP's Bond Information.
 
 ## Conclusion
 

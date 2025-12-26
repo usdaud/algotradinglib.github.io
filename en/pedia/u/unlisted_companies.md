@@ -22,15 +22,15 @@ Several firms specialize in the trading of [unlisted securities](../u/unlisted_s
 
 ### EquityZen
 
-[EquityZen](https://www.equityzen.com/) facilitates the buying and selling of [equity](../e/equity.md) in private companies. Its platform operates similarly to a stock [exchange](../e/exchange.md) but focuses on unlisted companies. EquityZen's systems allow for algorithmic traders to participate, [offering](../o/offering.md) APIs and data feeds that can be integrated into [trading strategies](../t/trading_strategies.md).
+EquityZen facilitates the buying and selling of [equity](../e/equity.md) in private companies. Its platform operates similarly to a stock [exchange](../e/exchange.md) but focuses on unlisted companies. EquityZen's systems allow for algorithmic traders to participate, [offering](../o/offering.md) APIs and data feeds that can be integrated into [trading strategies](../t/trading_strategies.md).
 
 ### Forge Global
 
-[Forge Global](https://forgeglobal.com/) offers a comprehensive platform for trading [shares](../s/shares.md) of private companies. They provide detailed analytics and reporting, which are vital for [trading algorithms](../t/trading_algorithms.md) to function efficiently. Their platform allows for direct software integrations, making it easier for traders to implement algotrading strategies.
+Forge Global offers a comprehensive platform for trading [shares](../s/shares.md) of private companies. They provide detailed analytics and reporting, which are vital for [trading algorithms](../t/trading_algorithms.md) to function efficiently. Their platform allows for direct software integrations, making it easier for traders to implement algotrading strategies.
 
 ### SharesPost
 
-[SharesPost](https://sharespost.com/) is another key player in the trading of [unlisted securities](../u/unlisted_securities.md). The platform allows for [algorithmic trading](../a/algorithmic_trading.md) by providing real-time data, [transaction](../t/transaction.md) management, and compliance solutions. Its ecosystem supports high-frequency trading (HFT) and other algotrading methodologies, ensuring optimal trading conditions.
+SharesPost is another key player in the trading of [unlisted securities](../u/unlisted_securities.md). The platform allows for [algorithmic trading](../a/algorithmic_trading.md) by providing real-time data, [transaction](../t/transaction.md) management, and compliance solutions. Its ecosystem supports high-frequency trading (HFT) and other algotrading methodologies, ensuring optimal trading conditions.
 
 ## Algorithms Used
 

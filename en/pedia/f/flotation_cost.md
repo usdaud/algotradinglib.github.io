@@ -5,32 +5,32 @@
 ## Components of Flotation Cost
 
 ### 1. **Underwriting Fees:**
-   These fees are paid to [investment banks](../i/investment_bank_(ib).md) or underwriters who manage the issuance process. Underwriters buy the issued securities from the company and resell them to the public or institutional investors. The [underwriting](../u/underwriting.md) [fee](../f/fee.md) is typically a percentage of the total amount raised.
+ These fees are paid to [investment banks](../i/investment_bank_(ib).md) or underwriters who manage the issuance process. Underwriters buy the issued securities from the company and resell them to the public or institutional investors. The [underwriting](../u/underwriting.md) [fee](../f/fee.md) is typically a percentage of the total amount raised.
 
 ### 2. **Legal Fees:**
-   Legal fees cover the cost of regulatory compliance and contract creation. Firms need legal advice to ensure that their issues follow all rules and regulations of the securities [market](../m/market.md).
+ Legal fees cover the cost of regulatory compliance and contract creation. Firms need legal advice to ensure that their issues follow all rules and regulations of the securities [market](../m/market.md).
 
 ### 3. **Registration Fees:**
-   These fees are paid to the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) or equivalent regulatory bodies to register the new securities.
+ These fees are paid to the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) or equivalent regulatory bodies to register the new securities.
 
 ### 4. **Marketing and Administrative Costs:**
-   The company may also incur [marketing](../m/marketing.md) and administrative costs to promote the new issuance and manage the process internally. These costs can include roadshows, [marketing](../m/marketing.md) materials, and internal labor.
+ The company may also incur [marketing](../m/marketing.md) and administrative costs to promote the new issuance and manage the process internally. These costs can include roadshows, [marketing](../m/marketing.md) materials, and internal labor.
 
 ### 5. **Price Impact:**
-   Issuing new [equity](../e/equity.md) can result in a temporary decrease in the company's existing share price. This phenomenon is often referred to as "[market](../m/market.md) impact" or "price [dilution](../d/dilution.md)."
+ Issuing new [equity](../e/equity.md) can result in a temporary decrease in the company's existing share price. This phenomenon is often referred to as "[market](../m/market.md) impact" or "price [dilution](../d/dilution.md)."
 
 ## Importance in Financial Decisions
 
 [Flotation](../f/flotation.md) costs are crucial when corporations make [financing](../f/financing.md) decisions. Here's how:
 
 ### A. **Cost of Capital:**
-   The inclusion of [flotation](../f/flotation.md) costs affects the [cost of capital](../c/cost_of_capital.md). For example, a higher [flotation](../f/flotation.md) cost would increase the cost of new [equity](../e/equity.md), thereby making [debt financing](../d/debt_financing.md) relatively cheaper. This could also influence the company’s [capital structure](../c/capital_structure.md).
+ The inclusion of [flotation](../f/flotation.md) costs affects the [cost of capital](../c/cost_of_capital.md). For example, a higher [flotation](../f/flotation.md) cost would increase the cost of new [equity](../e/equity.md), thereby making [debt financing](../d/debt_financing.md) relatively cheaper. This could also influence the company’s [capital structure](../c/capital_structure.md).
 
 ### B. **Break-even Analysis:**
-   Companies often conduct a [break-even analysis](../b/break-even_analysis.md) incorporating [flotation](../f/flotation.md) costs to determine how many securities need to be sold to cover these expenses and still meet the fundraising goals.
+ Companies often conduct a [break-even analysis](../b/break-even_analysis.md) incorporating [flotation](../f/flotation.md) costs to determine how many securities need to be sold to cover these expenses and still meet the fundraising goals.
 
 ### C. **Net Raise Calculation:**
-   The actual amount raised post the issuance is typically less than the gross amount due to [flotation](../f/flotation.md) costs. Therefore, [flotation](../f/flotation.md) costs need to be subtracted from the total raise to understand [net proceeds](../n/net_proceeds.md) accurately.
+ The actual amount raised post the issuance is typically less than the gross amount due to [flotation](../f/flotation.md) costs. Therefore, [flotation](../f/flotation.md) costs need to be subtracted from the total raise to understand [net proceeds](../n/net_proceeds.md) accurately.
 
 ## Formula
 
@@ -57,7 +57,7 @@ Therefore, the [flotation](../f/flotation.md) cost percentage for this issuance 
 
 ## Application in Equity and Debt Issues
 
-### Equity 
+### Equity
 [Equity](../e/equity.md) issuance often involves higher [flotation](../f/flotation.md) costs compared to [debt](../d/debt.md). When evaluating a new [equity](../e/equity.md) issuance, companies must consider:
 
 - **[Dilution](../d/dilution.md) Effect:** Existing shareholders can experience a [dilution](../d/dilution.md) in their ownership percentage.
@@ -72,21 +72,21 @@ Therefore, the [flotation](../f/flotation.md) cost percentage for this issuance 
 ## Minimizing Flotation Costs
 
 ### 1. **Negotiation with Underwriters:**
-   Companies can minimize [flotation](../f/flotation.md) costs by effectively negotiating terms and fees with underwriters.
+ Companies can minimize [flotation](../f/flotation.md) costs by effectively negotiating terms and fees with underwriters.
 
 ### 2. **Cost-efficient Legal Advice:**
-   Opting for more cost-effective yet compliant legal services can reduce legal expenses.
+ Opting for more cost-effective yet compliant legal services can reduce legal expenses.
 
 ### 3. **Pre-planning and Efficiency:**
-   Proper planning and efficient [execution](../e/execution.md) of the issuance process can minimize administrative and [marketing](../m/marketing.md) costs.
+ Proper planning and efficient [execution](../e/execution.md) of the issuance process can minimize administrative and [marketing](../m/marketing.md) costs.
 
 ## Real-world Examples
 
 ### 1. **Tesla's Capital Raise:**
-   Tesla Inc. issued approximately $2 billion in new [equity](../e/equity.md) in February 2020. Considering the [flotation](../f/flotation.md) costs, the [underlying](../u/underlying.md) expenses included [underwriting](../u/underwriting.md), legal, and [marketing](../m/marketing.md) fees, significantly impacting the [net proceeds](../n/net_proceeds.md).
+ Tesla Inc. issued approximately $2 billion in new [equity](../e/equity.md) in February 2020. Considering the [flotation](../f/flotation.md) costs, the [underlying](../u/underlying.md) expenses included [underwriting](../u/underwriting.md), legal, and [marketing](../m/marketing.md) fees, significantly impacting the [net proceeds](../n/net_proceeds.md).
 
 ### 2. **Apple's Debt Issuance:**
-   Apple Inc. frequently issues bonds to [finance](../f/finance.md) its operations. In one of its significant [debt](../d/debt.md) offerings, Apple raised $7 billion in 2019. [Flotation](../f/flotation.md) costs were minimal compared to the [equity](../e/equity.md) issuance costs, making [debt](../d/debt.md) a more attractive option for the tech giant [Apple Inc.](https://www.apple.com).
+ Apple Inc. frequently issues bonds to [finance](../f/finance.md) its operations. In one of its significant [debt](../d/debt.md) offerings, Apple raised $7 billion in 2019. [Flotation](../f/flotation.md) costs were minimal compared to the [equity](../e/equity.md) issuance costs, making [debt](../d/debt.md) a more attractive option for the tech giant Apple Inc..
 
 ## Conclusion
 

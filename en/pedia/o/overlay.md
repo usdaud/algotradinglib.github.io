@@ -1,6 +1,6 @@
 # Overlay
 
-In the field of financial trading and investment, the term "overlay" encompasses various strategies and techniques employed to optimize [portfolio performance](../p/portfolio_performance.md), [risk management](../r/risk_management.md), and [operational efficiency](../o/operational_efficiency_in_trading.md). An overlay can be seen as an additional layer that is superimposed over the existing [investment strategy](../i/investment_strategy.md), providing enhancements, [risk](../r/risk.md) controls, or additional performance characteristics. This multifaceted concept is particularly significant in the realms of [algorithmic trading](../a/accountability.md), [portfolio management](../p/par.md), and financial technology (FinTech).
+In the field of financial trading and investment, the term "overlay" encompasses various strategies and techniques employed to optimize [portfolio performance](../p/portfolio_performance.md), [risk management](../r/risk_management.md), and [operational efficiency](../o/operational_efficiency_in_trading.md). An overlay can be seen as an additional layer that is superimposed over the existing [investment strategy](../i/investment_strategy.md), providing enhancements, [risk](../r/risk.md) controls, or additional performance characteristics. This multifaceted concept is particularly significant in the realms of [algorithmic trading](../a/algorithmic_trading.md), [portfolio management](../p/par.md), and financial technology (FinTech).
 
 ## What is an Overlay?
 
@@ -8,7 +8,7 @@ An overlay in financial trading refers to a set of strategies or tools that "ove
 
 1. **[Portfolio Management](../p/par.md):** Overlays can optimize the [asset allocation](../a/asset_allocation.md) and ensure better adherence to investment policy statements (IPS), through techniques like [rebalancing](../r/rebalancing.md) and [derivatives](../d/derivatives.md) overlays.
 2. **[Risk Management](../r/risk_management.md):** Overlays can be used to [hedge](../h/hedge.md) against various risks, such as [currency](../c/currency.md) fluctuations, [interest rate](../i/interest_rate.md) changes, and [market](../m/market.md) [volatility](../v/volatility.md).
-3. **[Algorithmic Trading](../a/accountability.md):** Overlays can improve the performance and [risk](../r/risk.md)-adjusted returns of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+3. **[Algorithmic Trading](../a/algorithmic_trading.md):** Overlays can improve the performance and [risk](../r/risk.md)-adjusted returns of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ## Types of Overlays
 
@@ -44,7 +44,7 @@ An overlay in financial trading refers to a set of strategies or tools that "ove
 
 ### 5. FinTech and Algorithmic Trading Overlays
 
-In the realm of financial technology (FinTech) and [algorithmic trading](../a/accountability.md), overlays play a crucial role in optimizing [trading strategies](../t/trading_strategies.md) and achieving better [risk](../r/risk.md)-adjusted returns. Advanced technologies and [data analytics](../d/data_analytics.md) are used to develop sophisticated overlays that can adapt to changing [market](../m/market.md) conditions. Examples include:
+In the realm of financial technology (FinTech) and [algorithmic trading](../a/algorithmic_trading.md), overlays play a crucial role in optimizing [trading strategies](../t/trading_strategies.md) and achieving better [risk](../r/risk.md)-adjusted returns. Advanced technologies and [data analytics](../d/data_analytics.md) are used to develop sophisticated overlays that can adapt to changing [market](../m/market.md) conditions. Examples include:
 
 - **Statistical [Arbitrage](../a/arbitrage.md) Overlays:** Identifying and exploiting pricing inefficiencies across related securities using statistical models.
 - **[Machine Learning](../m/machine_learning.md) Overlays:** Utilizing [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to develop [predictive models](../p/predictive_models_in_trading.md) that enhance [trading strategies](../t/trading_strategies.md).
@@ -88,7 +88,7 @@ Regularly evaluate the performance of the overlay strategy and optimize it based
 1. **Complexity:** Designing and implementing [overlay strategies](../o/overlay_strategies.md) can be complex, requiring advanced quantitative skills and sophisticated technology.
 2. **Cost:** The use of [financial derivatives](../f/financial_derivatives.md) and advanced technologies may involve additional costs, such as [transaction fees](../t/transaction_fees.md) and software expenses.
 3. **[Model Risk](../m/model_risk.md):** [Overlay strategies](../o/overlay_strategies.md) rely on [quantitative models](../q/quantitative_models.md), which may be subject to [model risk](../m/model_risk.md) if the models are based on incorrect assumptions or data.
-4. **Regulatory Compliance:** Overlays involving [derivatives](../d/derivatives.md) and [algorithmic trading](../a/accountability.md) must comply with relevant regulations, which can vary across jurisdictions.
+4. **Regulatory Compliance:** Overlays involving [derivatives](../d/derivatives.md) and [algorithmic trading](../a/algorithmic_trading.md) must comply with relevant regulations, which can vary across jurisdictions.
 
 ## Conclusion
 

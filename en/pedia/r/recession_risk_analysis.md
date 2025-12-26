@@ -102,13 +102,13 @@ Moody’s Analytics offers economic data and forecasts that help organizations a
 
 MSCI provides [stress testing](../s/stress_testing_in_trading.md) tools and services to financial institutions for managing portfolio [risk](../r/risk.md). They [offer](../o/offer.md) predefined stress scenarios and allow customized scenarios to assess the impact on returns and risks.
 
-For more information, you can visit Moody’s Analytics at [Moody's Analytics](https://www.moodysanalytics.com/) and MSCI at [MSCI](https://www.msci.com/).
+For more information, you can visit Moody’s Analytics at Moody's Analytics and MSCI at MSCI.
 
 ### 4. Bridgewater Associates' Macro Research
 
 Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds globally, is known for its rigorous macroeconomic research and [recession](../r/recession.md) [risk analysis](../r/risk_analysis.md). They explore [economic cycles](../e/economic_cycles.md) deeply and adjust their investment strategies accordingly.
 
-For more information about Bridgewater Associates, visit [Bridgewater Associates](https://www.bridgewater.com/).
+For more information about Bridgewater Associates, visit Bridgewater Associates.
 
 ## Conclusion
 

@@ -43,17 +43,14 @@ The high [liquidity](../l/liquidity.md) induced by [zero interest rate policies]
 ### Renaissance Technologies
 
 Renaissance Technologies is a prominent [hedge fund](../h/hedge_fund.md) known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. During periods of zero [interest](../i/interest.md) rates, Renaissance has demonstrated an ability to adjust its models swiftly, leveraging data-driven insights to maintain profitability.
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Citadel LLC
 
 Citadel LLC is another significant player in the algotrading space. The [firm](../f/firm.md) utilizes cutting-edge technology and advanced quantitative techniques to operate effectively in various [interest rate](../i/interest_rate.md) climates.
-[Visit Citadel LLC](https://www.citadel.com/)
 
 ### DE Shaw & Co
 
 DE Shaw is a global investment and technology development [firm](../f/firm.md) that creates complex computational models for trading across different [market](../m/market.md) conditions, including zero [interest rate](../i/interest_rate.md) environments.
-[Visit DE Shaw](https://www.deshaw.com/)
 
 ### Impact on Different Financial Instruments
 

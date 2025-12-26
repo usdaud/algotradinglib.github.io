@@ -57,7 +57,7 @@ Several financial tools and [software platforms](../s/software_platforms_for_tra
 The Price [Value](../v/value.md) of a [Basis](../b/basis.md) Point (PVBP) is an essential metric in the [fixed income](../f/fixed_income.md) [market](../m/market.md). It aids in managing [interest rate risk](../i/interest_rate_risk.md), constructing [hedging strategies](../h/hedging_strategies.md), and evaluating [bond](../b/bond.md) prices and portfolios. Understanding PVBP and incorporating it into trading and [portfolio management](../p/par.md) practices can significantly enhance decision-making and [risk](../r/risk.md) mitigation.
 
 For more information, you can visit the following informative links:
-- [Bloomberg](https://www.bloomberg.com/professional/solution/fixed-income/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- Bloomberg
+- Thomson Reuters Eikon
 
 By mastering PVBP, [market](../m/market.md) participants can enhance their understanding of [fixed income securities](../f/fixed_income_securities.md) and improve their effectiveness in navigating [interest rate risk](../i/interest_rate_risk.md).

@@ -34,17 +34,17 @@
 
 3. **[Risk Management](../r/risk_management.md) Platforms**: Tools like RiskMetrics, Axioma, and [Algorithmic Trading](../a/algorithmic_trading.md) Management Systems (ATMS) provide [risk](../r/risk.md) analytics and tools to support [capital](../c/capital.md) allocation decisions.
 
-4. **[Simulation](../s/simulation_in_trading.md) and [Backtesting](../b/backtesting.md) Engines**: Platforms like [QuantConnect](../q/quantconnect.md), [TradingView](../t/tradingview.md), and MetaTrader allow traders to simulate and backtest their allocation strategies using historical data to evaluate performance before deploying them in live markets.
+4. **[Simulation](../s/simulation_in_trading.md) and [Backtesting](../b/backtesting.md) Engines**: Platforms like [StockSharp](../s/stocksharp.md), [TradingView](../t/tradingview.md), and MetaTrader allow traders to simulate and backtest their allocation strategies using historical data to evaluate performance before deploying them in live markets.
 
 ## Practical Examples of Capital Allocation in Algorithmic Trading
 
 ### Case Study 1: Renaissance Technologies
 
-Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its [algorithmic trading](../a/algorithmic_trading.md) prowess, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to allocate [capital](../c/capital.md) across a variety of markets and instruments. By using statistical [arbitrage](../a/arbitrage.md) and [machine learning](../m/machine_learning.md) techniques, Renaissance optimizes its [capital](../c/capital.md) allocation to achieve high annual returns with relatively low [risk](../r/risk.md). More information about Renaissance Technologies can be found at [their official website](https://www.rentec.com).
+Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its [algorithmic trading](../a/algorithmic_trading.md) prowess, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to allocate [capital](../c/capital.md) across a variety of markets and instruments. By using statistical [arbitrage](../a/arbitrage.md) and [machine learning](../m/machine_learning.md) techniques, Renaissance optimizes its [capital](../c/capital.md) allocation to achieve high annual returns with relatively low [risk](../r/risk.md).
 
 ### Case Study 2: Two Sigma
 
-Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop [trading strategies](../t/trading_strategies.md) and allocate [capital](../c/capital.md) efficiently. By continuously refining their models and algorithms, Two Sigma ensures optimal [capital](../c/capital.md) allocation that adapts to changing [market](../m/market.md) conditions. Further details are available on the [Two Sigma website](https://www.twosigma.com).
+Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop [trading strategies](../t/trading_strategies.md) and allocate [capital](../c/capital.md) efficiently. By continuously refining their models and algorithms, Two Sigma ensures optimal [capital](../c/capital.md) allocation that adapts to changing [market](../m/market.md) conditions.
 
 ## Challenges in Capital Allocation
 
@@ -62,4 +62,4 @@ Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading
 
 Effective [capital](../c/capital.md) allocation is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). By integrating principles of [risk management](../r/risk_management.md), [diversification](../d/diversification.md), and [optimization](../o/optimization.md), traders can develop [robust](../r/robust.md) strategies that maximize returns and manage [risk](../r/risk.md) efficiently. Continuous monitoring, performance evaluation, and adaptation to [market](../m/market.md) changes are essential to maintaining an optimal allocation of [capital](../c/capital.md). As technology and [data science](../d/data_science_in_trading.md) continue to advance, the tools and techniques for [capital](../c/capital.md) allocation [will](../w/will.md) become increasingly sophisticated, [offering](../o/offering.md) new opportunities and challenges for algorithmic traders.
 
-For further information or collaboration opportunities, you can contact the development team at major [algorithmic trading](../a/algorithmic_trading.md) companies through their respective websites: [Renaissance Technologies](https://www.rentec.com) and [Two Sigma](https://www.twosigma.com).
+For further information or collaboration opportunities, you can contact the development team at major [algorithmic trading](../a/algorithmic_trading.md) companies through their respective websites: Renaissance Technologies and Two Sigma.

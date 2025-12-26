@@ -119,6 +119,6 @@ This integrated approach has helped XYZ [Bank](../b/bank.md) maintain a low [def
 
 ## Conclusion
 
-The [Loan](../l/loan.md) Committee is a critical component of any financial institution, ensuring that [credit](../c/credit.md) is extended in a responsible and compliant manner. Through a combination of expertise, rigorous processes, and advanced technologies, these committees not only protect the institution's [financial health](../f/financial_health.md) but also contribute to the stability of the broader [financial system](../f/financial_system.md). For more information on how a specific institution’s [Loan](../l/loan.md) Committee operates, you can visit their official website.
+The [Loan](../l/loan.md) Committee is a critical component of any financial institution, ensuring that [credit](../c/credit.md) is extended in a responsible and compliant manner. Through a combination of expertise, rigorous processes, and advanced technologies, these committees not only protect the institution's [financial health](../f/financial_health.md) but also contribute to the stability of the broader [financial system](../f/financial_system.md). For more information on how a specific institution’s [Loan](../l/loan.md) Committee operates,
 
-To learn more about the [Loan](../l/loan.md) Committee at ABC [Bank](../b/bank.md), visit their page: [ABC Bank Loan Committee](https://www.abcbank.com/loan-committee).
+To learn more about the [Loan](../l/loan.md) Committee at ABC [Bank](../b/bank.md),

@@ -42,7 +42,7 @@ The fixed [annuitization](../a/annuitization.md) method also allows for higher w
 
 ## Compliance and Modification Rules
 
-Failure to comply with SEPP rules, or modifying the [payment](../p/payment.md) schedule, results in a retroactive application of the 10% penalty on all distributions taken before age 59½, plus [interest](../i/interest.md). It is crucial to carefully plan and adhere to the selected method. 
+Failure to comply with SEPP rules, or modifying the [payment](../p/payment.md) schedule, results in a retroactive application of the 10% penalty on all distributions taken before age 59½, plus [interest](../i/interest.md). It is crucial to carefully plan and adhere to the selected method.
 
 Modifications to the SEPP schedule, which could trigger penalties, include:
 
@@ -62,4 +62,3 @@ Although SEPPs allow for penalty-free early withdrawals, they come with specific
 
 SEPPs [offer](../o/offer.md) a viable solution for individuals who need early access to their retirement funds without incurring a 10% penalty. However, the methods require meticulous planning, adherence to IRS guidelines, and an understanding of long-term financial implications. Consulting with a [financial planner](../f/financial_planner.md) or tax advisor is advisable to ensure compliance and optimal decision-making.
 
-For further details, you can refer to [IRS official website](https://www.irs.gov/retirement-plans/retirement-topics-tax-on-early-distributions) for SEPP regulations and guidelines.

@@ -17,7 +17,7 @@
 [Momentum](../m/momentum.md) strategies can be broadly categorized into two types:
 
 1. **Absolute [Momentum](../m/momentum.md):** Also known as "time-series [momentum](../m/momentum.md)," this strategy involves evaluating the past performance of a [security](../s/security.md) and [investing](../i/investing.md) if its performance exceeds a certain threshold (e.g., a positive [return](../r/return.md) over the past 12 months). If the past performance is below the threshold, the strategy would either short the [security](../s/security.md) or move the [capital](../c/capital.md) to a [risk-free asset](../r/risk-free_asset.md).
-  
+
 2. **Relative [Momentum](../m/momentum.md):** Also termed "cross-sectional [momentum](../m/momentum.md)," this strategy involves ranking a [universe of securities](../u/universe_of_securities.md) based on their past performance and [investing](../i/investing.md) in the top performers. For example, if analyzing the S&P 500, the strategy might involve going long on the top 20% of [stocks](../s/stock.md) with the highest past returns and shorting the bottom 20%.
 
 ### Key Concepts and Metrics
@@ -38,14 +38,14 @@ Numerous academic studies support the efficacy of [momentum](../m/momentum.md) s
 
 Several investment funds and ETFs incorporate [momentum](../m/momentum.md) strategies to construct their portfolios. Examples include:
 
-- **AQR [Capital](../c/capital.md) Management:** AQR offers funds such as the AQR Large Cap [Momentum](../m/momentum.md) Style [Fund](../f/fund.md), focusing on [large-cap stocks](../l/large_cap_stocks.md) exhibiting strong [momentum](../m/momentum.md). More details can be found at [AQR Capital Management](https://www.aqr.com/).
+- **AQR [Capital](../c/capital.md) Management:** AQR offers funds such as the AQR Large Cap [Momentum](../m/momentum.md) Style [Fund](../f/fund.md), focusing on [large-cap stocks](../l/large_cap_stocks.md) exhibiting strong [momentum](../m/momentum.md). More details can be found at AQR Capital Management.
 
-- **[iShares](../i/ishares.md) Edge MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM):** This ETF aims to track an [index](../i/index_instrument.md) that targets U.S. large- and mid-[capitalization](../c/capitalization.md) [stocks](../s/stock.md) with high [momentum](../m/momentum.md) characteristics. More information can be found on the [iShares website](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf).
+- **[iShares](../i/ishares.md) Edge MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM):** This ETF aims to track an [index](../i/index_instrument.md) that targets U.S. large- and mid-[capitalization](../c/capitalization.md) [stocks](../s/stock.md) with high [momentum](../m/momentum.md) characteristics.
 
 #### Quantitative Models
 
 Numerous [quantitative models](../q/quantitative_models.md) have been developed to optimize [momentum](../m/momentum.md) strategies:
-- **The [Dual Momentum](../d/dual_momentum.md) Model:** Developed by Gary Antonacci, this model combines absolute and relative [momentum](../m/momentum.md), enhancing returns while reducing [risk](../r/risk.md). More details can be found in his book "[Dual Momentum](../d/dual_momentum.md) [Investing](../i/investing.md)" and on his website [Optimal Momentum](https://optimalmomentum.com/).
+- **The [Dual Momentum](../d/dual_momentum.md) Model:** Developed by Gary Antonacci, this model combines absolute and relative [momentum](../m/momentum.md), enhancing returns while reducing [risk](../r/risk.md). More details can be found in his book "[Dual Momentum](../d/dual_momentum.md) [Investing](../i/investing.md)" and on his online platform Optimal Momentum.
 
 ### Challenges and Considerations
 

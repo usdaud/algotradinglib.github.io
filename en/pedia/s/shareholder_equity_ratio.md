@@ -1,6 +1,6 @@
 # Shareholder Equity Ratio
 
-The [Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio (also known as the [Equity](../e/equity.md) Ratio) is a financial metric that measures the proportion of a company's total assets that are financed by shareholders' [equity](../e/equity.md). This ratio provides insights into the company's financial [leverage](../l/leverage.md) and financial stability, and it is considered a key [indicator](../i/indicator.md) of [financial health](../f/financial_health.md) for both investors and analysts. 
+The [Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio (also known as the [Equity](../e/equity.md) Ratio) is a financial metric that measures the proportion of a company's total assets that are financed by shareholders' [equity](../e/equity.md). This ratio provides insights into the company's financial [leverage](../l/leverage.md) and financial stability, and it is considered a key [indicator](../i/indicator.md) of [financial health](../f/financial_health.md) for both investors and analysts.
 
 ---
 
@@ -21,23 +21,23 @@ The result is expressed as a percentage.
 ## Interpretation
 
 1. **High [Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio**:
-   - Indicates that a larger proportion of the company's assets are owned by shareholders.
-   - Suggests lower [financial risk](../f/financial_risk.md), as the company relies less on borrowed funds.
-   - Demonstrates financial stability and lower [debt](../d/debt.md) levels.
-   - May indicate that the company is less aggressive in leveraging its operations, which can mean both lower [risk](../r/risk.md) and lower potential for high returns.
+ - Indicates that a larger proportion of the company's assets are owned by shareholders.
+ - Suggests lower [financial risk](../f/financial_risk.md), as the company relies less on borrowed funds.
+ - Demonstrates financial stability and lower [debt](../d/debt.md) levels.
+ - May indicate that the company is less aggressive in leveraging its operations, which can mean both lower [risk](../r/risk.md) and lower potential for high returns.
 
 2. **Low [Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio**:
-   - Suggests that a higher proportion of the company’s assets are financed by [debt](../d/debt.md).
-   - Indicates higher [financial risk](../f/financial_risk.md) and potential vulnerability to economic downturns.
-   - Shows that the company is more leveraged, which could lead to higher returns if the borrowed [capital](../c/capital.md) is used efficiently.
-   - May also imply higher [interest](../i/interest.md) costs and financial [obligations](../o/obligation.md).
+ - Suggests that a higher proportion of the company’s assets are financed by [debt](../d/debt.md).
+ - Indicates higher [financial risk](../f/financial_risk.md) and potential vulnerability to economic downturns.
+ - Shows that the company is more leveraged, which could lead to higher returns if the borrowed [capital](../c/capital.md) is used efficiently.
+ - May also imply higher [interest](../i/interest.md) costs and financial [obligations](../o/obligation.md).
 
 ---
 
 ## Example Calculations
 
 ### Example 1:
-A company has total assets of $5,000,000 and total [shareholder](../s/shareholder.md)'s [equity](../e/equity.md) of $2,500,000. 
+A company has total assets of $5,000,000 and total [shareholder](../s/shareholder.md)'s [equity](../e/equity.md) of $2,500,000.
 
 \[ \text{[Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio} = \frac{2,500,000}{5,000,000} = 0.5 \text{ or } 50\% \]
 
@@ -106,7 +106,7 @@ Companies can improve their [Shareholder](../s/shareholder.md) [Equity](../e/equ
 
 ## Real-World Examples
 
-To illustrate real-world application, consider the [financial statements](../f/financial_statements.md) and ratios of major corporations like Apple Inc. (https://www.apple.com/[investor](../i/investor.md)/) and Microsoft [Corporation](../c/corporation.md) (https://www.microsoft.com/[investor](../i/investor.md)/). These companies provide detailed financial data that allows for the calculation and analysis of the [Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio. Examining their ratios over time can reveal trends in [financial health](../f/financial_health.md), [leverage](../l/leverage.md), and strategic funding decisions.
+To illustrate real-world application, consider the [financial statements](../f/financial_statements.md) and ratios of major corporations like Apple Inc. ( and Microsoft [Corporation](../c/corporation.md) ( These companies provide detailed financial data that allows for the calculation and analysis of the [Shareholder](../s/shareholder.md) [Equity](../e/equity.md) Ratio. Examining their ratios over time can reveal trends in [financial health](../f/financial_health.md), [leverage](../l/leverage.md), and strategic funding decisions.
 
 ---
 

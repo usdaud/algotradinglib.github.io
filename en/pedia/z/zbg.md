@@ -11,7 +11,7 @@ ZBG provides a comprehensive suite of trading services to cater to different typ
 
 2. **[Margin Trading](../m/margin_trading.md)**: For advanced traders, [margin trading](../m/margin_trading.md) allows users to borrow funds to increase their trading position, providing the potential for higher returns—but also higher risks. ZBG offers flexible [leverage](../l/leverage.md) [options](../o/options.md) to accommodate various [trading strategies](../t/trading_strategies.md).
 
-3. **Perpetual Contracts**: These are a type of [derivative](../d/derivative.md) that allows traders to speculate on the price of an [asset](../a/asset.md) without actually owning it. ZBG provides perpetual contracts with high [liquidity](../l/liquidity.md) and low fees, [offering](../o/offering.md) an alternative for those interested in leveraged trading. 
+3. **Perpetual Contracts**: These are a type of [derivative](../d/derivative.md) that allows traders to speculate on the price of an [asset](../a/asset.md) without actually owning it. ZBG provides perpetual contracts with high [liquidity](../l/liquidity.md) and low fees, [offering](../o/offering.md) an alternative for those interested in leveraged trading.
 
 4. **Token Listing Services**: ZBG offers listing services for new tokens, providing them with a platform to reach a broader audience. This includes rigorous listing criteria to ensure high-quality projects.
 
@@ -20,7 +20,7 @@ ZBG provides a comprehensive suite of trading services to cater to different typ
 To ensure the safety of users’ funds and data, ZBG implements a variety of [security](../s/security.md) measures:
 
 1. **Cold Storage**: The vast majority of user funds are stored in cold wallets, which are offline and thus less vulnerable to hacking.
-   
+
 2. **Two-[Factor](../f/factor.md) Authentication (2FA)**: ZBG requires users to enable 2FA, adding an extra layer of [security](../s/security.md) to account access.
 
 3. **KYC/AML Compliance**: ZBG adheres to Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) regulations, requiring users to complete identity verification processes.
@@ -32,7 +32,7 @@ To ensure the safety of users’ funds and data, ZBG implements a variety of [se
 ZBG is designed to be user-friendly, catering to both novice and experienced traders. The platform's interface is intuitive and customizable, allowing users to tailor their trading experience. Key features include:
 
 1. **Real-Time Data**: ZBG provides [real-time market data](../r/real-time_market_data.md) and charts that help traders make informed decisions.
-   
+
 2. **Mobile App**: Available for both iOS and Android, the ZBG mobile app allows users to [trade](../t/trade.md) on-the-go, [offering](../o/offering.md) full functionality similar to the web version.
 
 3. **API Integration**: ZBG offers [robust](../r/robust.md) API support for traders who wish to integrate third-party tools or implement [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
@@ -52,7 +52,7 @@ ZBG has a competitive [fee](../f/fee.md) structure designed to attract a wide [r
 ZBG has its native [utility](../u/utility.md) token known as ZB Token (ZT). Holding ZT can provide several benefits:
 
 1. **Trading [Fee](../f/fee.md) Discounts**: Users can use ZT to pay for trading fees at a discounted rate.
-   
+
 2. **Staking**: Users can stake ZT to earn rewards in the form of additional tokens or [fee](../f/fee.md) rebates.
 
 3. **Voting Rights**: ZT holders may also participate in governance decisions, such as voting for new token listings.
@@ -62,29 +62,29 @@ ZBG has its native [utility](../u/utility.md) token known as ZB Token (ZT). Hold
 ZBG places a strong emphasis on community and [customer](../c/customer.md) support. The [exchange](../e/exchange.md) offers:
 
 1. **24/7 [Customer](../c/customer.md) Support**: A dedicated support team is available around the clock to assist with any issues.
-   
+
 2. **Community Engagement**: ZBG actively engages with its user base through various [social media](../s/social_media.md) channels and community events.
 
 3. **Educational Resources**: The platform provides a [range](../r/range.md) of educational materials, including tutorials, articles, and webinars to help users better understand the nuances of cryptocurrency trading.
 
 ## Algorithmic Trading Support
 
-ZBG is particularly appealing to algorithmic traders due to its [robust](../r/robust.md) API offerings and high [liquidity](../l/liquidity.md). Here are some of the key technical details and protocols that support [algorithmic trading](../a/accountability.md):
+ZBG is particularly appealing to algorithmic traders due to its [robust](../r/robust.md) API offerings and high [liquidity](../l/liquidity.md). Here are some of the key technical details and protocols that support [algorithmic trading](../a/algorithmic_trading.md):
 
 ### API Documentation
 
 ZBG provides comprehensive API documentation, which includes:
 
 1. **Public API**: For accessing [market](../m/market.md) data, K-line data, [trade](../t/trade.md) history, and [order book](../o/order_book.md) information.
-   
-2. **Private API**: For account-specific operations, such as placing and canceling orders, fetching balance information, and [trade](../t/trade.md) executions. 
+
+2. **Private API**: For account-specific operations, such as placing and canceling orders, fetching balance information, and [trade](../t/trade.md) executions.
 
 3. **Websockets**: Real-time data streams to ensure algorithmic traders get the most up-to-date information.
 
 ### Technical Specifications
 
 1. **REST API**: ZBG’s REST API allows for synchronous communication, making it suitable for most trading applications.
-   
+
 2. **WebSocket API**: Offers real-time data streaming, which is crucial for high-frequency trading and other time-sensitive strategies.
 
 3. **Rate Limits**: ZBG has specified rate limits to ensure fair usage of their API. Traders must be aware of these limits to avoid bans.
@@ -173,13 +173,12 @@ def [arbitrage](../a/arbitrage.md)(symbol):
 ZBG operates in accordance with various international regulations to ensure legal compliance:
 
 1. **Licensing**: ZBG holds licenses in several jurisdictions, ensuring it operates within legal confines.
-   
+
 2. **KYC/AML**: As mentioned, ZBG enforces stringent KYC/AML procedures to prevent illicit activities.
 
 3. **Data Protection**: The platform complies with data protection regulations like GDPR to safeguard user information.
 
 ## Conclusion
 
-ZBG provides a comprehensive [trading platform](../t/trading_platform.md) with a [range](../r/range.md) of features that cater to various types of traders, from novices to professionals. With its [robust](../r/robust.md) [security](../s/security.md) measures, competitive [fee](../f/fee.md) structure, and strong community support, ZBG is well-positioned as a go-to cryptocurrency [exchange](../e/exchange.md). Additionally, the platform's support for [algorithmic trading](../a/accountability.md) makes it an attractive option for traders looking to automate their strategies.
+ZBG provides a comprehensive [trading platform](../t/trading_platform.md) with a [range](../r/range.md) of features that cater to various types of traders, from novices to professionals. With its [robust](../r/robust.md) [security](../s/security.md) measures, competitive [fee](../f/fee.md) structure, and strong community support, ZBG is well-positioned as a go-to cryptocurrency [exchange](../e/exchange.md). Additionally, the platform's support for [algorithmic trading](../a/algorithmic_trading.md) makes it an attractive option for traders looking to automate their strategies.
 
-For more information, visit [ZBG's official website](https://www.zbg.com).

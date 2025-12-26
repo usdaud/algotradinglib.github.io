@@ -1,7 +1,7 @@
 # Edge Ratio
 
 ## Introduction
-The Edge Ratio is a fundamental concept in [algorithmic trading](../a/algorithmic_trading.md), denoting a statistical measure used to evaluate the profitability and [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md). It is an essential tool for traders to understand their perceived advantage in the [market](../m/market.md). As trading becomes more complex with the advent of technology and increased competition, calculating an edge ratio provides a scientific approach to identifying and optimizing a profitable decision-making framework. 
+The Edge Ratio is a fundamental concept in [algorithmic trading](../a/algorithmic_trading.md), denoting a statistical measure used to evaluate the profitability and [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md). It is an essential tool for traders to understand their perceived advantage in the [market](../m/market.md). As trading becomes more complex with the advent of technology and increased competition, calculating an edge ratio provides a scientific approach to identifying and optimizing a profitable decision-making framework.
 
 ## Definition
 Edge Ratio can be defined as the ratio of the average favorable movement in a [trade](../t/trade.md) to the average adverse movement. Essentially, it measures the [risk](../r/risk.md)-reward balance of trades executed under a given strategy. By quantifying how much a [trader](../t/trader.md) stands to [gain](../g/gain.md) in relation to what they might lose, the edge ratio offers a clearer perspective on the potential success or failure of [trading systems](../t/trading_systems.md).
@@ -40,9 +40,9 @@ This indicates that for every dollar risked, the [trader](../t/trader.md) stands
 
 ## Tools and Software
 Several trading platforms and software provide features to calculate the Edge Ratio, often integrated into more comprehensive trading analytics and performance monitoring tools. Some popular platforms include:
-- **Trading Blox**: [Trading Blox](https://www.tradingblox.com/)
-- **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
-- **MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
+- **Trading Blox**: Trading Blox
+- **[TradeStation](../t/tradestation.md)**: TradeStation
+- **MetaTrader**: MetaTrader
 
 These platforms [offer](../o/offer.md) advanced analytical tools that can help traders compute various [performance metrics](../p/performance_metrics.md), including the Edge Ratio, to optimize their [trading strategies](../t/trading_strategies.md).
 

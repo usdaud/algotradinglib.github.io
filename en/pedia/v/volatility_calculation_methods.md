@@ -18,7 +18,7 @@ Various methods and models are employed to calculate and forecast [volatility](.
 
 #### Implied Volatility
 
-Implied [volatility](../v/volatility.md) is derived from the [market](../m/market.md) prices of [options](../o/options.md). It represents the [market](../m/market.md)'s expectations of future [volatility](../v/volatility.md). Implied [volatility](../v/volatility.md) is not directly observable but can be inferred using [option pricing models](../o/option_pricing_models.md) like the [Black-Scholes model](../b/black-scholes_model.md). 
+Implied [volatility](../v/volatility.md) is derived from the [market](../m/market.md) prices of [options](../o/options.md). It represents the [market](../m/market.md)'s expectations of future [volatility](../v/volatility.md). Implied [volatility](../v/volatility.md) is not directly observable but can be inferred using [option pricing models](../o/option_pricing_models.md) like the [Black-Scholes model](../b/black-scholes_model.md).
 
 To calculate implied [volatility](../v/volatility.md):
 1. **Option Prices and [Market](../m/market.md) Data**: Collect current option prices and relevant [market](../m/market.md) data (such as the [underlying asset](../u/underlying_asset.md) price, [strike price](../s/strike_price.md), time to expiration, [risk](../r/risk.md)-free rate).
@@ -37,7 +37,7 @@ The standard GARCH(1,1) model can be expressed as:
 Where:
 - \( \sigma_t^2 \) is the variance at time \( t \)
 - \( \epsilon_{t-1} \) is the [return](../r/return.md) shock at time \( t-1 \)
-- \( \alpha_0 , \alpha_1, \beta_1 \) are model parameters
+- \( \alpha_0, \alpha_1, \beta_1 \) are model parameters
 
 Fitting a GARCH model involves estimating these parameters, typically using [maximum likelihood estimation](../m/maximum_likelihood_estimation.md) (MLE).
 
@@ -50,7 +50,7 @@ Where \( \[lambda](../l/lambda.md) \) is the decay [factor](../f/factor.md), typ
 
 #### Realized Volatility
 
-[Realized volatility](../r/realized_volatility.md) measures the sum of squared returns over short intervals, capturing intra-day price movements. It's a high-frequency approach to [volatility estimation](../v/volatility_estimation.md) and is particularly useful for assets that [trade](../t/trade.md) frequently. 
+[Realized volatility](../r/realized_volatility.md) measures the sum of squared returns over short intervals, capturing intra-day price movements. It's a high-frequency approach to [volatility estimation](../v/volatility_estimation.md) and is particularly useful for assets that [trade](../t/trade.md) frequently.
 
 The steps to calculate [realized volatility](../r/realized_volatility.md) are:
 1. **Intra-day Data**: Collect high-frequency price data within a trading day.
@@ -118,4 +118,4 @@ Jump-diffusion models are used to better capture the leptokurtic nature of [asse
 [Volatility](../v/volatility.md) calculation methods are vital tools in the arsenal of financial analysts and traders. Each method offers unique insights and is suitable for different applications. Whether it's the simplicity of [historical volatility](../h/historical_volatility.md), the [market](../m/market.md)-based perspective of implied [volatility](../v/volatility.md), or the dynamic nature of [stochastic volatility models](../s/stochastic_volatility_models.md), understanding these methods is crucial for effective [risk management](../r/risk_management.md) and creating [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). As [financial markets](../f/financial_market.md) continue to evolve, so too [will](../w/will.md) the [volatility](../v/volatility.md) calculation methods, necessitating continuous learning and adaptation by [market](../m/market.md) participants.
 
 For further details you can visit:
-- [CBOE - Chicago Board Options Exchange](http://www.cboe.com/)
+- CBOE - Chicago Board Options Exchange

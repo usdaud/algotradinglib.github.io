@@ -66,15 +66,15 @@ Several platforms and software [offer](../o/offer.md) tools for implementing and
 
 - **MetaTrader 4/5**: A popular [trading platform](../t/trading_platform.md) that supports automated trading through Expert Advisors (EAs).
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities.
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform allowing [algorithmic trading](../a/algorithmic_trading.md) in [multiple](../m/multiple.md) languages, including Python.
+- **[StockSharp](../s/stocksharp.md)**: A platform allowing [algorithmic trading](../a/algorithmic_trading.md) in C#.
 - **[TradingView](../t/tradingview.md)**: Provides scripting tools (Pine Script) for creating and testing custom RSI strategies.
 
 ## Real-World Usage
 
 Major [hedge](../h/hedge.md) funds and trading firms utilize RSI in their algorithmic strategies, although they often combine it with more complex algorithms and [machine learning](../m/machine_learning.md) models.
 
-For example, Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, is known for using sophisticated algorithms that likely combine [multiple](../m/multiple.md) [technical indicators](../t/technical_indicators.md), including RSI. More about Renaissance Technologies can be found [here](https://www.rentec.com/).
+For example, Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, is known for using sophisticated algorithms that likely combine [multiple](../m/multiple.md) [technical indicators](../t/technical_indicators.md), including RSI. More about Renaissance Technologies can be found here.
 
 ## Conclusion
 
-The 10-Day RSI is a versatile and widely-used technical [indicator](../i/indicator.md) in both manual and [algorithmic trading](../a/algorithmic_trading.md). Its ability to signal [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions makes it a valuable tool for various [trading strategies](../t/trading_strategies.md). By combining RSI with other indicators and using modern trading platforms, traders can enhance their decision-making process and potentially improve their trading outcomes.
+The 10-Day RSI is a versatile and widely-used technical [indicator](../i/indicator.md) in both manual and [algorithmic trading](../a/algorithmic_trading.md). Its ability to signal [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions makes it a valuable tool for various [trading strategies](../t/trading_strategies.md). By combining RSI with other indicators and using modern trading platforms, traders can enhance their decision-making process and potentially improve their trading outcomes.

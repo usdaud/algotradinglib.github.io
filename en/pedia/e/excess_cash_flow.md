@@ -54,9 +54,7 @@ For investors, excess [cash flow](../c/cash_flow.md) can indicate a company's po
 
 Corporations often use excess [cash flow](../c/cash_flow.md) as part of their financial strategy. For example, technology companies might reinvest in research and development to innovate and stay competitive. Retail companies might use excess cash to expand their networks of stores or e-[commerce](../c/commerce.md) platforms.
 
-**Example: Apple Inc.** 
-Website: [https://www.apple.com](https://www.apple.com)
-
+**Example: Apple Inc.**
 Apple has consistently generated significant excess [cash flow](../c/cash_flow.md), which it has used for a variety of purposes, including developing new products, acquiring other companies, paying dividends, and conducting [share buybacks](../s/share_buybacks.md).
 
 ### Risk Management
@@ -64,8 +62,6 @@ Apple has consistently generated significant excess [cash flow](../c/cash_flow.m
 Companies may also use excess cash as a [risk management](../r/risk_management.md) tool. Holding excess cash can provide a [liquidity](../l/liquidity.md) buffer during economic downturns or other periods of financial [uncertainty](../u/uncertainty_in_trading.md).
 
 **Example: [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc.**
-Website: [https://www.berkshirehathaway.com](https://www.berkshirehathaway.com)
-
 Under the [leadership](../l/leadership.md) of Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) has maintained substantial excess cash reserves. This conservative approach allows the company to [capitalize](../c/capitalize.md) on investment opportunities during [market](../m/market.md) downturns.
 
 ### Financial Analysis
@@ -73,8 +69,6 @@ Under the [leadership](../l/leadership.md) of Warren Buffett, [Berkshire Hathawa
 Analysts often look for companies with positive excess [cash flow](../c/cash_flow.md) as potential investment opportunities. A consistent generation of excess [cash flow](../c/cash_flow.md) can suggest [efficiency](../e/efficiency.md) in operations, prudent financial management, and a potentially lower [risk](../r/risk.md).
 
 **Example: Alphabet Inc. (Google)**
-Website: [https://www.abc.xyz](https://www.abc.xyz)
-
 Alphabet has been able to generate significant excess [cash flow](../c/cash_flow.md), which it invests in various ventures, including those far removed from its core [business](../b/business.md) like [artificial intelligence](../a/artificial_intelligence_in_trading.md), healthcare, and autonomous vehicles.
 
 ## Challenges and Considerations

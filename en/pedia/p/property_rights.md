@@ -12,7 +12,7 @@ Property rights can be broadly classified into several categories, each with its
 
 3. **Common Property Rights**: This involves property that is owned collectively by a group of individuals. A classic example includes fisheries, where the resource is shared among different individuals or entities.
 
-4. **Intellectual Property Rights**: These rights protect creations of the intellect such as patents for inventions, trademarks for [brand identity](../b/brand_identity.md), copyrights for artistic works, and [trade](../t/trade.md) secrets for [business](../b/business.md) know-how. More information about intellectual property can be found on the [World Intellectual Property Organization (WIPO) website](https://www.wipo.int/).
+4. **Intellectual Property Rights**: These rights protect creations of the intellect such as patents for inventions, trademarks for [brand identity](../b/brand_identity.md), copyrights for artistic works, and [trade](../t/trade.md) secrets for [business](../b/business.md) know-how.
 
 ## Importance of Property Rights
 
@@ -40,13 +40,13 @@ Despite their importance, there are several challenges and issues associated wit
 
 ## Property Rights in the Digital Age
 
-With the advent of the digital age, the concept of property rights has expanded to include digital assets. This includes not just data and digital content, but also cryptocurrencies and digital identities. 
+With the advent of the digital age, the concept of property rights has expanded to include digital assets. This includes not just data and digital content, but also cryptocurrencies and digital identities.
 
-- **Data Ownership**: As data becomes a valuable [asset](../a/asset.md), determining ownership rights is becoming increasingly important. Issues arise in terms of privacy, consent, and monetization of data. Companies that [handle](../h/handle.md) data, such as [Google](https://about.google/) and [Facebook](https://about.fb.com/), have faced scrutiny over how they manage and protect user data.
+- **Data Ownership**: As data becomes a valuable [asset](../a/asset.md), determining ownership rights is becoming increasingly important. Issues arise in terms of privacy, consent, and monetization of data. Companies that [handle](../h/handle.md) data, such as Google and Facebook, have faced scrutiny over how they manage and protect user data.
 
 - **Digital Content**: The internet has transformed how creative content is shared and consumed. [Copyright](../c/copyright.md) laws are continually evolving to address issues related to the [distribution](../d/distribution.md) and unauthorized use of digital content.
 
-- **Cryptocurrencies**: Cryptocurrencies represent a new form of digital property. The decentralized and often anonymous nature of these assets poses unique challenges for property rights enforcement. Leading cryptocurrency platforms like [Binance](https://www.binance.com/) and [Coinbase](https://www.coinbase.com/) provide frameworks for trading and owning digital currencies, but regulatory environments vary significantly across jurisdictions.
+- **Cryptocurrencies**: Cryptocurrencies represent a new form of digital property. The decentralized and often anonymous nature of these assets poses unique challenges for property rights enforcement. Leading cryptocurrency platforms like Binance and Coinbase provide frameworks for trading and owning digital currencies, but regulatory environments vary significantly across jurisdictions.
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) technology has the potential to revolutionize property rights by making ownership records immutable and transparent. [Smart contracts](../s/smart_contracts_in_trading.md), which automatically execute transactions based on predefined conditions, can streamline and secure property transfers.
 
@@ -66,4 +66,4 @@ The effectiveness of property rights largely depends on the legal framework and 
 
 Property rights are a foundational concept in [economics](../e/economics.md) and law, underpinning the functionality of markets and the [security](../s/security.md) of investments. They encompass a wide [range](../r/range.md) of assets, from physical property to intellectual and digital assets, each with its unique set of challenges and considerations. The evolution of property rights in response to technological advancements and changing societal norms continues to shape how resources are owned, used, and transferred in the global [economy](../e/economy.md). Ensuring that property rights are clearly defined, protected, and equitably distributed remains a critical task for policymakers, legal institutions, and stakeholders across the globe.
 
-For further information on specific types of property rights and their implications, consulting detailed guides from specialized agencies such as the [World Intellectual Property Organization (WIPO)](https://www.wipo.int/), [U.S. Patent and Trademark Office (USPTO)](https://www.uspto.gov/), or relevant national authorities is recommended.
+For further information on specific types of property rights and their implications, consulting detailed guides from specialized agencies such as the World Intellectual Property Organization (WIPO), U.S. Patent and Trademark Office (USPTO), or relevant national authorities is recommended.

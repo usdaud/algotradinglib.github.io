@@ -86,7 +86,7 @@ Several [insurance](../i/insurance.md) companies [offer](../o/offer.md) decreasi
 - **Aviva:** Provides a [range](../r/range.md) of [life insurance](../l/life_insurance.md) products, including decreasing term policies tailored for mortgages.
 - **Prudential:** Offers [life insurance](../l/life_insurance.md) policies with decreasing term [options](../o/options.md) to cover specific liabilities.
 
-For example, Legal & General's MDTA can be found here: [Legal & General MDTA](https://www.legalandgeneral.com).
+For example, Legal & General's MDTA can be found here: Legal & General MDTA.
 
 ## Pricing and Quotes
 

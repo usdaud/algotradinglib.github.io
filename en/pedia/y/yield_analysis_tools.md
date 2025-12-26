@@ -21,7 +21,7 @@ Before diving into the specific tools, it's essential to understand some key [yi
 
 1. **[QuantConnect](../q/quantconnect.md)**
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. It offers powerful tools for [backtesting](../b/backtesting.md), live trading, and [yield analysis](../y/yield_analysis.md). 
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. It offers powerful tools for [backtesting](../b/backtesting.md), live trading, and [yield analysis](../y/yield_analysis.md).
 
 Features:
 - **[Backtesting](../b/backtesting.md) Engine**: Evaluate the performance of [trading algorithms](../t/trading_algorithms.md) using historical data.
@@ -29,7 +29,7 @@ Features:
 - **[Risk Management](../r/risk_management.md)**: Built-in tools for assessing and managing [risk](../r/risk.md).
 - **[Performance Metrics](../p/performance_metrics.md)**: Comprehensive analytics to monitor key [yield](../y/yield.md) metrics.
 
-Visit [QuantConnect](../q/quantconnect.md): [QuantConnect](https://www.quantconnect.com/)
+Visit [QuantConnect](../q/quantconnect.md): QuantConnect
 
 2. **[QuantLib](../q/quantlib.md)**
 
@@ -41,7 +41,7 @@ Features:
 - **[Risk](../r/risk.md) Assessment**: Methods for calculating [risk measures](../r/risk_measures.md) such as [Value](../v/value.md) at [Risk](../r/risk.md) (VaR).
 - **[Yield](../y/yield.md) Curves**: Construction and analysis of [yield](../y/yield.md) curves for different financial instruments.
 
-Visit [QuantLib](../q/quantlib.md): [QuantLib](https://www.quantlib.org/)
+Visit [QuantLib](../q/quantlib.md): QuantLib
 
 3. **[TradeStation](../t/tradestation.md)**
 
@@ -53,7 +53,7 @@ Features:
 - **Performance Reports**: Detailed reports on [trading performance](../t/trading_performance.md), including key [yield](../y/yield.md) metrics.
 - **EasyLanguage®**: Proprietary scripting language for developing custom [trading strategies](../t/trading_strategies.md).
 
-Visit [TradeStation](../t/tradestation.md): [TradeStation](https://www.tradestation.com/)
+Visit [TradeStation](../t/tradestation.md): TradeStation
 
 4. **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**
 
@@ -65,7 +65,7 @@ Features:
 - **Custom Indicators**: Create and integrate custom indicators to enhance [yield analysis](../y/yield_analysis.md).
 - **Comprehensive Reporting**: Generate detailed performance reports including ROI, [Sharpe Ratio](../s/sharpe_ratio.md), and more.
 
-Visit MetaTrader: [MetaTrader 4/5](https://www.metatrader4.com/)
+Visit MetaTrader: MetaTrader 4/5
 
 5. **[AmiBroker](../a/amibroker.md)**
 
@@ -77,7 +77,7 @@ Features:
 - **[Optimization](../o/optimization.md)**: Advanced [optimization](../o/optimization.md) techniques for fine-tuning [trading strategies](../t/trading_strategies.md).
 - **Comprehensive Metrics**: Track and analyze key [yield](../y/yield.md) metrics such as [Sharpe Ratio](../s/sharpe_ratio.md), maximum [drawdown](../d/drawdown.md), and more.
 
-Visit [AmiBroker](../a/amibroker.md): [AmiBroker](http://www.amibroker.com/)
+Visit [AmiBroker](../a/amibroker.md): AmiBroker
 
 6. **[NinjaTrader](../n/ninjatrader.md)**
 
@@ -89,7 +89,7 @@ Features:
 - **[Performance Metrics](../p/performance_metrics.md)**: In-depth analysis of [trading performance](../t/trading_performance.md) with key [yield](../y/yield.md) metrics.
 - **[Risk Management](../r/risk_management.md)**: Tools for monitoring and managing trading risks.
 
-Visit [NinjaTrader](../n/ninjatrader.md): [NinjaTrader](https://ninjatrader.com/)
+Visit [NinjaTrader](../n/ninjatrader.md): NinjaTrader
 
 7. **[TradeStation](../t/tradestation.md) Trading App Store**
 
@@ -100,7 +100,7 @@ Features:
 - **[Performance Analytics](../p/performance_analytics.md)**: Advanced tools for [yield analysis](../y/yield_analysis.md), [risk management](../r/risk_management.md), and performance tracking.
 - **Seamless Integration**: Integrates directly with the [TradeStation](../t/tradestation.md) platform for a seamless trading experience.
 
-Visit [TradeStation](../t/tradestation.md) Trading App Store: [TradeStation Trading App Store](https://www.tradestation.com/trading-apps/)
+Visit [TradeStation](../t/tradestation.md) Trading App Store: TradeStation Trading App Store
 
 ## Methodologies for Yield Analysis
 

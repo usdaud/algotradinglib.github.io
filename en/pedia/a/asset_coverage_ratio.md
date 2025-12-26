@@ -86,13 +86,10 @@ Banks and financial institutions use this ratio to assess the [creditworthiness]
 Many financial institutions and online platforms provide tools and services for calculating and interpreting the [Asset](../a/asset.md) [Coverage Ratio](../c/coverage_ratio.md). Some of the leading companies in financial analytics include:
 
 - **[Bloomberg](../b/bloomberg.md)**
-  [https://www.bloomberg.com](https://www.bloomberg.com)
 
 - **[Morningstar](../m/morningstar.md)**
-  [https://www.morningstar.com](https://www.morningstar.com)
 
 - **S&P Global**
-  [https://www.spglobal.com](https://www.spglobal.com)
 
 These platforms [offer](../o/offer.md) comprehensive [financial analysis](../f/financial_analysis.md) tools that help investors and analysts evaluate the [Asset](../a/asset.md) [Coverage Ratio](../c/coverage_ratio.md) alongside other key financial metrics.
 

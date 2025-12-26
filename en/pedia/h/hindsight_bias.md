@@ -1,6 +1,6 @@
 # Hindsight Bias
 
-Hindsight bias, also known as "knew-it-all-along" effect, is a psychological phenomenon where people perceive events as having been more predictable than they actually were, after the events have occurred. This cognitive bias leads individuals to believe that they could have predicted the outcome of an event after knowing the results, even if there was no way they could have reasonably foreseen it. Hindsight bias is particularly relevant in the context of decision-making processes, including [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), where it can skew [judgment](../j/judgment.md) and affect [trading strategies](../t/trading_strategies.md).
+Hindsight bias, also known as "knew-it-all-along" effect, is a psychological phenomenon where people perceive events as having been more predictable than they actually were, after the events have occurred. This cognitive bias leads individuals to believe that they could have predicted the outcome of an event after knowing the results, even if there was no way they could have reasonably foreseen it. Hindsight bias is particularly relevant in the context of decision-making processes, including [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md), where it can skew [judgment](../j/judgment.md) and affect [trading strategies](../t/trading_strategies.md).
 
 ## Understanding Hindsight Bias
 
@@ -16,7 +16,7 @@ This bias creates a sense of determinism and inevitability, which can severely i
 
 ### Impact on Decision Making
 
-In the context of [algorithmic trading](../a/accountability.md), hindsight bias can have significant implications. Traders and developers might look back on past trades and believe that certain [market](../m/market.md) movements were more predictable than they actually were. This perception can lead to overconfidence in their models and [trading strategies](../t/trading_strategies.md), potentially resulting in significant financial risks.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), hindsight bias can have significant implications. Traders and developers might look back on past trades and believe that certain [market](../m/market.md) movements were more predictable than they actually were. This perception can lead to overconfidence in their models and [trading strategies](../t/trading_strategies.md), potentially resulting in significant financial risks.
 
 ### Development of Trading Algorithms
 
@@ -24,14 +24,14 @@ When developing [trading algorithms](../t/trading_algorithms.md), it is crucial 
 
 ### Backtesting and Strategy Evaluation
 
-[Backtesting](../b/backtesting.md) is a common practice in [algorithmic trading](../a/accountability.md), where [trading strategies](../t/trading_strategies.md) are tested against historical data to evaluate their performance. Hindsight bias can make backtests appear more successful than they actually are, because the strategies are being tested with the benefit of knowing the outcomes. It is essential to use [out-of-sample testing](../o/out-of-sample_testing.md) and walk-forward [optimization](../o/optimization.md) to mitigate this [risk](../r/risk.md).
+[Backtesting](../b/backtesting.md) is a common practice in [algorithmic trading](../a/algorithmic_trading.md), where [trading strategies](../t/trading_strategies.md) are tested against historical data to evaluate their performance. Hindsight bias can make backtests appear more successful than they actually are, because the strategies are being tested with the benefit of knowing the outcomes. It is essential to use [out-of-sample testing](../o/out-of-sample_testing.md) and walk-forward [optimization](../o/optimization.md) to mitigate this [risk](../r/risk.md).
 
 ## Mitigating Hindsight Bias
 
 While completely eliminating hindsight bias can be challenging, there are several strategies that can help mitigate its effects:
 
 1. **Record Keeping**: Maintain detailed records of predictions and decisions made without the knowledge of outcomes. This practice can provide more objective assessments of past decisions.
-   
+
 2. **Objective Criteria**: Develop and adhere to objective criteria for decision-making. Using quantitative methods and pre-defined rules can help reduce subjective influence.
 
 3. **[Out-of-Sample Testing](../o/out-of-sample_testing.md)**: Evaluate [trading strategies](../t/trading_strategies.md) on data that was not used during the development phase to ensure robustness and generalizability.
@@ -44,7 +44,7 @@ While completely eliminating hindsight bias can be challenging, there are severa
 
 ### Long-Term Capital Management (LTCM)
 
-LTCM was a [hedge fund](../h/hedge_fund.md) that used complex [mathematical models](../m/mathematical_models_in_trading.md) for trading. The [fund](../f/fund.md) initially experienced great success but ultimately collapsed in 1998. Hindsight bias played a role in the post-mortem analysis, where many believed the downfall was obvious in retrospect, although the risks were not apparent before the crisis. [Long-Term Capital Management](https://www.investopedia.com/terms/l/ltcm.asp).
+LTCM was a [hedge fund](../h/hedge_fund.md) that used complex [mathematical models](../m/mathematical_models_in_trading.md) for trading. The [fund](../f/fund.md) initially experienced great success but ultimately collapsed in 1998. Hindsight bias played a role in the post-mortem analysis, where many believed the downfall was obvious in retrospect, although the risks were not apparent before the crisis. Long-Term Capital Management.
 
 ### 2008 Financial Crisis
 
@@ -52,4 +52,4 @@ The 2008 [financial crisis](../f/financial_crisis.md) led to widespread economic
 
 ## Conclusion
 
-Hindsight bias is a powerful cognitive phenomenon that can distort our perception of events and influence decision-making processes in significant ways. In the realm of [algorithmic trading](../a/accountability.md), understanding and mitigating hindsight bias is essential to developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md) and making informed decisions. By maintaining objective criteria, using comprehensive testing methods, and fostering an environment of continuous learning and review, traders and developers can better guard against the pitfalls of hindsight bias.
+Hindsight bias is a powerful cognitive phenomenon that can distort our perception of events and influence decision-making processes in significant ways. In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding and mitigating hindsight bias is essential to developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md) and making informed decisions. By maintaining objective criteria, using comprehensive testing methods, and fostering an environment of continuous learning and review, traders and developers can better guard against the pitfalls of hindsight bias.

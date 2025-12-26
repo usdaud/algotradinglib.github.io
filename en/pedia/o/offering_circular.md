@@ -1,21 +1,21 @@
 # Offering Circular
 
-An [offering](../o/offering.md) circular is a crucial document in the world of [finance](../f/finance.md), specifically within the realms of securities issuance, fundraising, and [investor relations](../i/investor_relations.md). It serves as a comprehensive blueprint, outlining significant information about investment offerings to potential investors. Whether a company is raising [capital](../c/capital.md) through an initial public [offering](../o/offering.md) (IPO), a [private placement](../p/private_placement.md), or another type of [security](../s/security.md) [offering](../o/offering.md), the [offering](../o/offering.md) circular (also known as a [prospectus](../p/prospectus.md)) provides essential details that can determine the success and legality of the investment.
+An [offering](../o/offering.md) circular is a crucial document in the world of [finance](../f/finance.md), specifically within the realms of securities issuance, fundraising, and [company filings](../i/investor_relations.md). It serves as a comprehensive blueprint, outlining significant information about investment offerings to potential investors. Whether a company is raising [capital](../c/capital.md) through an initial public [offering](../o/offering.md) (IPO), a [private placement](../p/private_placement.md), or another type of [security](../s/security.md) [offering](../o/offering.md), the [offering](../o/offering.md) circular (also known as a [prospectus](../p/prospectus.md)) provides essential details that can determine the success and legality of the investment.
 
 ## Purpose of an Offering Circular
 
 The [offering](../o/offering.md) circular's primary purpose is to provide potential investors with a thorough understanding of the investment. This [transparency](../t/transparency.md) plays a vital role in ensuring informed decision-making and maintaining compliance with regulatory requirements. The document typically includes the following key elements:
 
 - **Company Overview:** Detailed description of the issuing entity, including its history, [business](../b/business.md) model, [market](../m/market.md) position, and strategic goals.
-  
+
 - **Use of Proceeds:** Explanation of how the funds raised [will](../w/will.md) be utilized, such as for [expansion](../e/expansion.md), [debt](../d/debt.md) [repayment](../r/repayment.md), research and development, or other corporate purposes.
-  
+
 - **[Financial Statements](../f/financial_statements.md):** Audited [financial statements](../f/financial_statements.md), including balance sheets, [income](../i/income.md) statements, and [cash flow](../c/cash_flow.md) statements, providing a clear picture of the company's [financial health](../f/financial_health.md).
-  
+
 - **[Risk Factors](../r/risk_factors_in_trading.md):** [Disclosure](../d/disclosure.md) of potential risks associated with the investment, including [market](../m/market.md) risks, operational risks, [industry](../i/industry.md)-specific risks, and regulatory risks.
-  
+
 - **Management Team:** Information about the company's [leadership](../l/leadership.md), including biographies of key executives, their experience, and their roles within the organization.
-  
+
 - **Terms of the [Offering](../o/offering.md):** Specific details about the securities being offered, including the number of [shares](../s/shares.md), price per share, minimum investment amount, and any restrictions.
 
 ## Regulatory Framework

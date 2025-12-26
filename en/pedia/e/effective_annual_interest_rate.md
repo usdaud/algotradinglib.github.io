@@ -40,7 +40,7 @@ EAR is crucial for both borrowers and savers as it provides a uniform standard f
 ### Applications of EAR
 
 1. **[Loan](../l/loan.md) Comparisons**: By converting various [nominal](../n/nominal.md) rates with different [compounding](../c/compounding.md) periods into the EAR, borrowers can accurately compare loans to determine which option is cheaper in the [long run](../l/long_run.md).
-2. **Investment Decisions**: Investors can use the EAR to compare the real returns of different investment opportunities, even if they have different [compounding](../c/compounding.md) frequencies. 
+2. **Investment Decisions**: Investors can use the EAR to compare the real returns of different investment opportunities, even if they have different [compounding](../c/compounding.md) frequencies.
 3. **[Credit Card](../c/credit_card.md) [Interest](../i/interest.md)**: [Credit](../c/credit.md) cards often [quote](../q/quote.md) monthly [interest](../i/interest.md) rates. The EAR helps consumers understand the actual annual [interest](../i/interest.md) they are paying.
 4. **Savings Accounts**: Banks often advertise different rates for savings accounts with various [compounding](../c/compounding.md) frequencies. The EAR provides a true comparison.
 

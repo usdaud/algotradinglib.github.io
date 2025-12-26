@@ -107,7 +107,7 @@ IPI is an [indicator](../i/indicator.md) of the industrial sector's overall heal
 
 ### Measurement
 
-[Retail Sales](../r/retail_sales.md) data are collected through surveys of retail businesses, both large and small. The data is then aggregated, seasonally adjusted, and often reported monthly. 
+[Retail Sales](../r/retail_sales.md) data are collected through surveys of retail businesses, both large and small. The data is then aggregated, seasonally adjusted, and often reported monthly.
 
 ### Importance
 

@@ -56,7 +56,7 @@ Governments and central banks often implement policies to address imbalances in 
 
 3. **[Monetary Policy](../m/monetary_policy.md)**: Adjusting [interest](../i/interest.md) rates to control [inflation](../i/inflation.md) and influence [capital](../c/capital.md) flows.
 
-4. **[Fiscal Policy](../f/fiscal_policy.md)**: Altering government spending and [taxation](../t/taxation.md) to manage economic activity and savings rates. 
+4. **[Fiscal Policy](../f/fiscal_policy.md)**: Altering government spending and [taxation](../t/taxation.md) to manage economic activity and savings rates.
 
 5. **Structural Reforms**: Improving [productivity](../p/productivity.md) and competitiveness through education, innovation, and [infrastructure](../i/infrastructure.md) development.
 

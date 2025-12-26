@@ -73,17 +73,17 @@ Interpreting the Real [Economic Growth Rate](../e/economic_growth_rate.md) invol
 ### United States
 In the United States, the Real [Economic Growth Rate](../e/economic_growth_rate.md) is a vital part of economic reports by the Bureau of Economic Analysis (BEA). For instance, during the late 2000s [financial crisis](../f/financial_crisis.md), the Real GDP contracted significantly, leading to policy interventions like stimulus packages.
 
-For more details: [BEA](https://www.bea.gov/)
+For more details: BEA
 
 ### China
 China has experienced rapid Real [Economic Growth](../e/economic_growth.md) Rates in recent decades due to aggressive reforms, technological advancements, and massive [infrastructure](../i/infrastructure.md) investments.
 
-For more details: [National Bureau of Statistics of China](http://www.stats.gov.cn/english/)
+For more details: National Bureau of Statistics of China
 
 ### European Union
 The [European Union](../e/european_union_(eu).md), with its diverse economies, shows varying [growth rates](../g/growth_rates_in_trading.md) among member countries. Policy harmonization attempts such as the Stability and Growth Pact aim to stabilize growth across the union.
 
-For more details: [Eurostat](https://ec.europa.eu/eurostat)
+For more details: Eurostat
 
 ## Measuring and Reporting
 Statistical agencies or economic research institutions in each country typically measure and report the Real [Economic Growth Rate](../e/economic_growth_rate.md). Common sources include:

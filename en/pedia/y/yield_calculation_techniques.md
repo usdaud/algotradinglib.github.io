@@ -31,7 +31,7 @@ For a [bond](../b/bond.md) with an annual coupon [payment](../p/payment.md) of \
 
 **Concept**: [Yield to Maturity](../y/yield_to_maturity.md) is the [total return](../t/total_return.md) anticipated on a [bond](../b/bond.md) if it is held until [maturity](../m/maturity.md). It takes into account all coupon payments, the purchase price, [par value](../p/par_value.md), and the time remaining until [maturity](../m/maturity.md).
 
-**Formula**: 
+**Formula**:
 YTM is found using a trial-and-error method, solving the following equation for \(Y\):
 \[ \text{Current Price} = \sum_{t=1}^{T} \frac{C}{(1+Y)^t} + \frac{F}{(1+Y)^T} \]
 
@@ -79,7 +79,7 @@ For a [bond](../b/bond.md) with a [face value](../f/face_value.md) of \$1000, an
 
 **Concept**: [Yield to Worst](../y/yield_to_worst.md) is the lowest [yield](../y/yield.md) that can be received on a [bond](../b/bond.md) without the [issuer](../i/issuer.md) actually defaulting. It is calculated by taking into consideration the [yield](../y/yield.md) scenarios like YTM, YTC, and YTP ([Yield](../y/yield.md) to Put).
 
-**Calculation**: 
+**Calculation**:
 YTW is the lesser of YTM, YTC, and [Yield](../y/yield.md) to Put.
 
 **Example**:
@@ -114,7 +114,7 @@ For a stock with an annual [dividend](../d/dividend.md) of \$4 and a current sto
 - Valuing [derivatives](../d/derivatives.md)
 - Implied [yield](../y/yield.md) on [options](../o/options.md) and [futures contracts](../f/futures_contracts.md)
 
-#### Risk-adjusted Yield 
+#### Risk-adjusted Yield
 
 **Concept**: [Risk](../r/risk.md)-adjusted [yield](../y/yield.md) incorporates the [risk](../r/risk.md) of the investment, providing a more nuanced understanding of [return](../r/return.md) compared to raw [yield](../y/yield.md).
 
@@ -133,9 +133,9 @@ For a [bond](../b/bond.md) with a [nominal yield](../n/nominal_yield.md) of 6%, 
 
 Several companies and online platforms provide tools and resources for [yield](../y/yield.md) calculation and analysis. Some notable tools include those offered by financial services firms like:
 
-- **[Morningstar](../m/morningstar.md)**: [Morningstar.com](https://www.morningstar.com)
-- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg.com](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [finance.yahoo.com](https://finance.yahoo.com)
+- **[Morningstar](../m/morningstar.md)**: Morningstar.com
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Bloomberg.com
+- **[Yahoo Finance](../y/yahoo_finance.md)**: finance.yahoo.com
 
 These platforms [offer](../o/offer.md) calculators, real-time data, and analytical tools essential for professionals engaged in [yield analysis](../y/yield_analysis.md) and algotrading.
 

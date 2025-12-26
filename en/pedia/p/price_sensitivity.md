@@ -10,9 +10,9 @@ Price sensitivity refers to the degree to which the price of a product affects c
 
 - **[Price Elasticity of Demand](../p/price_elasticity_of_demand.md) (PED):** This measures the responsiveness of the [quantity demanded](../q/quantity_demanded.md) to a change in price. It is calculated as:
 
-  \[
-  \text{PED} = \frac{\%\ \text{Change in [Quantity Demanded](../q/quantity_demanded.md)}}{\%\ \text{Change in Price}}
-  \]
+ \[
+ \text{PED} = \frac{\%\ \text{Change in [Quantity Demanded](../q/quantity_demanded.md)}}{\%\ \text{Change in Price}}
+ \]
 
 - **Price [Elasticity](../e/elasticity.md) of [Supply](../s/supply.md) (PES):** This metric measures how the [quantity supplied](../q/quantity_supplied.md) reacts to changes in price and is calculated similarly to PED.
 
@@ -20,7 +20,7 @@ Price sensitivity refers to the degree to which the price of a product affects c
 
 - **[Elastic](../e/elastic.md) [Demand](../d/demand.md):** When PED > 1. This means consumers are highly responsive to price changes.
 - **Inelastic [Demand](../d/demand.md):** When PED < 1. This indicates that consumers are not very responsive to price changes.
-  
+
 Factors affecting price sensitivity include the availability of substitutes, necessity of the product, consumer [income](../i/income.md), and the proportion of [income](../i/income.md) spent on the good.
 
 ## Applications in Business and Finance
@@ -28,7 +28,7 @@ Factors affecting price sensitivity include the availability of substitutes, nec
 ### Pricing Strategies
 
 Understanding price sensitivity allows companies to implement effective pricing strategies:
-  
+
 - **Penetration Pricing:** Setting low prices to [gain](../g/gain.md) [market share](../m/market_share.md).
 - **Skimming Pricing:** Setting high prices initially and lowering them over time.
 - **Dynamic Pricing:** Adjusting prices based on current [demand](../d/demand.md) and [supply](../s/supply.md) conditions.
@@ -81,9 +81,9 @@ Bonds are particularly sensitive to changes in [interest](../i/interest.md) rate
 
 Several software solutions assist businesses and financial analysts in measuring and interpreting price sensitivity:
 
-- **PricewaterhouseCoopers (PwC) offers tools and consulting services** - [PwC Pricing Strategy](https://www.pwc.com/gx/en/services/consulting/pricing-strategy.html)
-- **SAS Institute's analytics software** - [SAS Price Optimization](https://www.sas.com/en_us/solutions/price-optimization.html)
-- **SAP’s pricing and [revenue](../r/revenue.md) management solutions** - [SAP Revenue Management and Billing](https://www.sap.com/products/revenue-management-billing.html)
+- **PricewaterhouseCoopers (PwC) offers tools and consulting services** - PwC Pricing Strategy
+- **SAS Institute's analytics software** - SAS Price Optimization
+- **SAP’s pricing and [revenue](../r/revenue.md) management solutions** - SAP Revenue Management and Billing
 
 ## Real-World Examples
 

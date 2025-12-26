@@ -25,13 +25,13 @@ Where:
 
 #### Risk Management
 
-By employing [beta](../b/beta.md) hedging, traders can control the exposure of their portfolio to broader [market](../m/market.md) movements. For instance, during periods of high [volatility](../v/volatility.md) or economic [uncertainty](../u/uncertainty_in_trading.md), a portfolio hedged for [beta](../b/beta.md) can substantially reduce potential losses. 
+By employing [beta](../b/beta.md) hedging, traders can control the exposure of their portfolio to broader [market](../m/market.md) movements. For instance, during periods of high [volatility](../v/volatility.md) or economic [uncertainty](../u/uncertainty_in_trading.md), a portfolio hedged for [beta](../b/beta.md) can substantially reduce potential losses.
 
 #### Portfolio Stability
 
 It ensures greater stability of returns by neutralizing [market risk](../m/market_risk.md). Investors can thus focus on generating [alpha](../a/alpha.md), which represents excess returns due to specific investment decisions rather than [market](../m/market.md) movements.
 
-#### Strategic Rebalancing 
+#### Strategic Rebalancing
 
 [Beta](../b/beta.md) hedging also facilitates strategic [rebalancing](../r/rebalancing.md) of portfolios. By adjusting the hedging strategy according to [market](../m/market.md) conditions, investors can maintain their desired [risk](../r/risk.md) profile.
 
@@ -90,34 +90,34 @@ Relying solely on [beta](../b/beta.md) hedging models can introduce [model risk]
 Consider an [institutional investor](../i/institutional_investor.md) with a diversified portfolio having an overall [beta](../b/beta.md) of 1.5. Anticipating [market](../m/market.md) turbulence, the [investor](../i/investor.md) decides to use [beta](../b/beta.md) hedging to mitigate potential losses.
 
 1. **Step 1: Calculate [Hedge Ratio](../h/hedge_ratio.md)**
-   Given a [beta](../b/beta.md) of 1.5, the [investor](../i/investor.md) needs to [hedge](../h/hedge.md) 1.5 times the [value](../v/value.md) of their portfolio.
+ Given a [beta](../b/beta.md) of 1.5, the [investor](../i/investor.md) needs to [hedge](../h/hedge.md) 1.5 times the [value](../v/value.md) of their portfolio.
 
 2. **Step 2: Employing [Futures Contracts](../f/futures_contracts.md)**
-   Suppose the total [value](../v/value.md) of the portfolio is $10 million. The [investor](../i/investor.md) could sell S&P 500 [Index futures](../i/index_futures.md) worth $15 million (1.5 x $10 million).
+ Suppose the total [value](../v/value.md) of the portfolio is $10 million. The [investor](../i/investor.md) could sell S&P 500 [Index futures](../i/index_futures.md) worth $15 million (1.5 x $10 million).
 
 3. **Result**
-   In a declining [market](../m/market.md), the losses in the portfolio would be [offset](../o/offset.md) by gains in the [futures contracts](../f/futures_contracts.md), thereby stabilizing returns.
+ In a declining [market](../m/market.md), the losses in the portfolio would be [offset](../o/offset.md) by gains in the [futures contracts](../f/futures_contracts.md), thereby stabilizing returns.
 
 #### Example: Beta-Neutral Pair Trading
 
 An example of a [hedge fund](../h/hedge_fund.md) implementing pair trading might involve going long on Coca-Cola (KO) and short on PepsiCo (PEP).
 
 1. **[Beta](../b/beta.md) Calculation**
-   Assume KO and PEP have betas of 0.8 and 0.6, respectively.
+ Assume KO and PEP have betas of 0.8 and 0.6, respectively.
 
 2. **[Position Sizing](../p/position_sizing.md)**
-   The [fund](../f/fund.md) could balance the positions by weighting them according to their betas. If allocating $1 million to KO, it would allocate $1.33 million (0.8/0.6) to short PEP.
+ The [fund](../f/fund.md) could balance the positions by weighting them according to their betas. If allocating $1 million to KO, it would allocate $1.33 million (0.8/0.6) to short PEP.
 
 3. **Outcome**
-   Any [systemic risk](../s/systemic_risk.md) affecting the beverage [industry](../i/industry.md) would theoretically be neutralized, with returns driven by the relative performance of KO and PEP.
+ Any [systemic risk](../s/systemic_risk.md) affecting the beverage [industry](../i/industry.md) would theoretically be neutralized, with returns driven by the relative performance of KO and PEP.
 
 ### Conclusion
 
-[Beta](../b/beta.md) hedging remains a fundamental technique for managing [market risk](../m/market_risk.md) within a portfolio. It provides investors with tools to effectively minimize systematic risks, allowing focused pursuit of [alpha](../a/alpha.md). Despite its challenges, when implemented correctly, [beta](../b/beta.md) hedging can significantly enhance [portfolio performance](../p/portfolio_performance.md) by neutralizing adverse [market](../m/market.md) movements. Incorporating these strategies into the [risk management](../r/risk_management.md) framework is crucial for both individual investors and institutional players seeking stability and reduced [volatility](../v/volatility.md) within their investments. 
+[Beta](../b/beta.md) hedging remains a fundamental technique for managing [market risk](../m/market_risk.md) within a portfolio. It provides investors with tools to effectively minimize systematic risks, allowing focused pursuit of [alpha](../a/alpha.md). Despite its challenges, when implemented correctly, [beta](../b/beta.md) hedging can significantly enhance [portfolio performance](../p/portfolio_performance.md) by neutralizing adverse [market](../m/market.md) movements. Incorporating these strategies into the [risk management](../r/risk_management.md) framework is crucial for both individual investors and institutional players seeking stability and reduced [volatility](../v/volatility.md) within their investments.
 
 ##### Further Reading and Resources:
 
 - **Modern Portfolio Theory and [Investment Analysis](../i/investment_analysis.md)** by Edwin J. Elton, Martin J. Gruber, Stephen J. Brown
 - **[Options](../o/options.md), [Futures](../f/futures.md), and Other [Derivatives](../d/derivatives.md)** by John C. Hull
-- [MarketWatch on Beta and Asset Pricing](https://www.marketwatch.com/investing/stock/beta)
-- [Investopedia on Beta Hedging](https://www.investopedia.com/terms/b/beta.asp)
+- MarketWatch on Beta and Asset Pricing
+- Investopedia on Beta Hedging

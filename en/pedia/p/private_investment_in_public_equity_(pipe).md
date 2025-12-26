@@ -69,11 +69,11 @@ PIPE transactions in the United States are overseen by the Securities and [Excha
 
 ### Example 1: **Tesla Inc.**
 
-Tesla, a well-known electric vehicle manufacturer, utilized PIPE transactions to raise [capital](../c/capital.md) efficiently. By selling [shares](../s/shares.md) to private investors, Tesla secured the necessary funds to [ramp up](../r/ramp_up.md) production and expand its [business](../b/business.md) operations without enduring the lengthy and costly process of traditional public offerings. [Tesla](https://www.tesla.com/)
+Tesla, a well-known electric vehicle manufacturer, utilized PIPE transactions to raise [capital](../c/capital.md) efficiently. By selling [shares](../s/shares.md) to private investors, Tesla secured the necessary funds to [ramp up](../r/ramp_up.md) production and expand its [business](../b/business.md) operations without enduring the lengthy and costly process of traditional public offerings. Tesla
 
 ### Example 2: **NIO Inc.**
 
-NIO, a China-based electric vehicle manufacturer, has repeatedly used PIPE transactions to navigate financial challenges and fuel its growth. By issuing [shares](../s/shares.md) to private investors, NIO quickly garnered significant [capital](../c/capital.md) to stabilize the company and invest in its technology and [infrastructure](../i/infrastructure.md). [NIO](https://www.nio.com/)
+NIO, a China-based electric vehicle manufacturer, has repeatedly used PIPE transactions to navigate financial challenges and fuel its growth. By issuing [shares](../s/shares.md) to private investors, NIO quickly garnered significant [capital](../c/capital.md) to stabilize the company and invest in its technology and [infrastructure](../i/infrastructure.md). NIO
 
 ## Conclusion
 

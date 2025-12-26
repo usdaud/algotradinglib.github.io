@@ -16,6 +16,8 @@ The distinguishing feature of MTNs is their [maturity](../m/maturity.md) profile
 
 MTNs can be issued with either fixed or floating [interest](../i/interest.md) rates. In the case of fixed-rate MTNs, the [interest](../i/interest.md) payments (coupons) are set at a fixed rate for the entire life of the [note](../n/note.md). Floating-rate MTNs, on the other hand, have [interest](../i/interest.md) rates that adjust periodically based on [benchmark](../b/benchmark.md) [interest](../i/interest.md) rates, such as LIBOR or the US Treasury rates.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ### Denominations
 
 MTNs are issued in various denominations, typically tailored to institutional investors, though they are also accessible to retail investors. The minimum investment may vary, often starting at $100,000 for institutional issues and lower for certain retail-targeted offerings.
@@ -86,13 +88,13 @@ The regulatory environment in the Asia-Pacific region varies by country. Major f
 
 JPMorgan Chase & Co. operates a notable MTN program that allows the [firm](../f/firm.md) to [issue](../i/issue.md) [debt](../d/debt.md) securities in various currencies and tenors. The program supports the [bank](../b/bank.md)'s diverse funding needs and provides flexibility to respond quickly to [market](../m/market.md) conditions.
 
-More information: [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+More information: JPMorgan Chase & Co.
 
 ### General Electric Company
 
 General Electric (GE) has used MTNs as a part of its overall funding strategy. The company's MTN program enables it to [issue](../i/issue.md) [debt](../d/debt.md) instruments that support its [capital structure](../c/capital_structure.md) and [liquidity](../l/liquidity.md) requirements.
 
-More information: [General Electric](https://www.ge.com/)
+More information: General Electric
 
 ### Supranational Organizations
 

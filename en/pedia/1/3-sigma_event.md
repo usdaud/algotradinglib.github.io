@@ -17,7 +17,7 @@ In the context of [financial markets](../f/financial_market.md), monitoring even
 A 3-sigma event is significant because:
 
 1. **[Risk Management](../r/risk_management.md)**: Recognizing and preparing for a 3-sigma event helps in designing [risk management](../r/risk_management.md) strategies. Though rare, their impact can be catastrophic, making it crucial for [risk](../r/risk.md) managers to consider various outlier scenarios.
-  
+
 2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: In [algorithmic trading](../a/algorithmic_trading.md), models often assume that [asset](../a/asset.md) returns follow a [normal distribution](../n/normal_distribution_in_trading.md). Recognizing the potential for 3-sigma events helps in adjusting algorithmic strategies to manage the [risk](../r/risk.md) of sudden, large [market](../m/market.md) movements.
 
 3. **[Market](../m/market.md) [Stress Testing](../s/stress_testing_in_trading.md)**: Stress tests often simulate 3-sigma events to evaluate the resilience of [trading algorithms](../t/trading_algorithms.md) and portfolios. These tests help in assessing how [trading strategies](../t/trading_strategies.md) react under extreme conditions.
@@ -39,7 +39,7 @@ A 3-sigma event is significant because:
 Quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies often employ several techniques to mitigate the [risk](../r/risk.md) of 3-sigma events:
 
 1. **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: This statistical technique estimates the maximum potential loss over a specific time frame within a given confidence level. It helps in quantifying the [risk](../r/risk.md) of extreme movements.
-   
+
 2. **[Stress Testing](../s/stress_testing_in_trading.md)**: Running scenarios that replicate 3-sigma events helps in understanding the potential impact on portfolios and algorithms.
 
 3. **[Tail Risk](../t/tail_risk.md) Hedging**: Employing [derivatives](../d/derivatives.md) or [insurance](../i/insurance.md)-like products to [hedge](../h/hedge.md) against extreme [downside risk](../d/downside_risk.md). Strategies include buying out-of-the-[money](../m/money.md) [put options](../p/put_options.md).
@@ -50,16 +50,16 @@ Quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies o
 
 Several financial firms and software solutions are dedicated to analyzing and managing the [risk](../r/risk.md) of 3-sigma events:
 
-1. **RiskMetrics**: [Offering](../o/offering.md) various tools for [risk management](../r/risk_management.md), including [market risk](../m/market_risk.md), [credit risk](../c/credit_risk.md), and [operational risk](../o/operational_risk.md) solutions. [MSCI](https://www.msci.com)
+1. **RiskMetrics**: [Offering](../o/offering.md) various tools for [risk management](../r/risk_management.md), including [market risk](../m/market_risk.md), [credit risk](../c/credit_risk.md), and [operational risk](../o/operational_risk.md) solutions.
 
-2. **Numerix**: Provides cross-[asset](../a/asset.md) analytics for pricing, hedging, and [risk management](../r/risk_management.md). [Numerix](https://www.numerix.com)
+2. **Numerix**: Provides cross-[asset](../a/asset.md) analytics for pricing, hedging, and [risk management](../r/risk_management.md).
 
-3. **[QuantConnect](../q/quantconnect.md)**: A valuable tool for algorithmic traders, [offering](../o/offering.md) a platform for [backtesting](../b/backtesting.md), research, and live trading with data covering [multiple](../m/multiple.md) [asset](../a/asset.md) classes. [QuantConnect](https://www.quantconnect.com)
+3. **[QuantConnect](../q/quantconnect.md)**: A valuable tool for algorithmic traders, [offering](../o/offering.md) a platform for [backtesting](../b/backtesting.md), research, and live trading with data covering [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
-4. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive functionalities for analyzing [financial markets](../f/financial_market.md), including [risk](../r/risk.md) analytics that can help in identifying and responding to 3-sigma events. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+4. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive functionalities for analyzing [financial markets](../f/financial_market.md), including [risk](../r/risk.md) analytics that can help in identifying and responding to 3-sigma events.
 
-5. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software operable across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, supporting high-frequency [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [AlgoTrader](https://www.algotrader.com)
+5. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software operable across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, supporting high-frequency [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).
 
 #### Summary
 
-A 3-Sigma Event, while rare, holds profound implications for [financial markets](../f/financial_market.md) and [trading strategies](../t/trading_strategies.md). Understanding these events is crucial for [risk management](../r/risk_management.md), [stress testing](../s/stress_testing_in_trading.md), and developing [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) systems. The fallout from ignoring such risks can be catastrophic, as exemplified by past financial crises. Financial firms and trading platforms continually evolve to address the challenges posed by such extreme events, employing sophisticated [risk management](../r/risk_management.md) and [hedging strategies](../h/hedging_strategies.md).
+A 3-Sigma Event, while rare, holds profound implications for [financial markets](../f/financial_market.md) and [trading strategies](../t/trading_strategies.md). Understanding these events is crucial for [risk management](../r/risk_management.md), [stress testing](../s/stress_testing_in_trading.md), and developing [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) systems. The fallout from ignoring such risks can be catastrophic, as exemplified by past financial crises. Financial firms and trading platforms continually evolve to address the challenges posed by such extreme events, employing sophisticated [risk management](../r/risk_management.md) and [hedging strategies](../h/hedging_strategies.md).

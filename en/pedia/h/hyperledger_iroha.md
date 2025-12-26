@@ -115,11 +115,11 @@ Several organizations are already leveraging [Hyperledger](../h/hyperledger.md) 
 
 ### SORA Platform
 
-Sora is an economic system that uses [Hyperledger](../h/hyperledger.md) Iroha for managing its digital assets and identity solutions. Soramitsu, the company behind [Hyperledger](../h/hyperledger.md) Iroha, has played a crucial role in this implementation. More information can be found [here](https://soramitsu.co.jp/sora).
+Sora is an economic system that uses [Hyperledger](../h/hyperledger.md) Iroha for managing its digital assets and identity solutions. Soramitsu, the company behind [Hyperledger](../h/hyperledger.md) Iroha, has played a crucial role in this implementation. More information can be found here.
 
 ### Bakong
 
-Bakong is Cambodia’s national [payment](../p/payment.md) system, developed by the [National Bank](../n/national_bank.md) of Cambodia in collaboration with Soramitsu. It uses [Hyperledger](../h/hyperledger.md) Iroha to enable secure and fast transactions. More details are available [here](https://www.nbc.org.kh).
+Bakong is Cambodia’s national [payment](../p/payment.md) system, developed by the [National Bank](../n/national_bank.md) of Cambodia in collaboration with Soramitsu. It uses [Hyperledger](../h/hyperledger.md) Iroha to enable secure and fast transactions. More details are available here.
 
 ## Conclusion
 

@@ -17,7 +17,7 @@ The [Hurst exponent](../h/hurst_exponent.md) is derived from the [range](../r/ra
 
 ### Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), understanding and detecting the Joseph Effect can improve the prediction of [market](../m/market.md) movements and the development of [trading strategies](../t/trading_strategies.md). Here are some applications:
+In [algorithmic trading](../a/algorithmic_trading.md), understanding and detecting the Joseph Effect can improve the prediction of [market](../m/market.md) movements and the development of [trading strategies](../t/trading_strategies.md). Here are some applications:
 
 1. **[Trend Following](../t/trend_following.md)**: Algorithms can use the Joseph Effect to identify and [capitalize](../c/capitalize.md) on sustained trends. By recognizing persistence in price movements, algorithms can [hold](../h/hold.md) positions longer, aligning with the [trend](../t/trend.md) direction.
 2. **[Risk Management](../r/risk_management.md)**: Long-[range](../r/range.md) dependence can inform [risk management](../r/risk_management.md) strategies by better estimating the likelihood of extreme [market](../m/market.md) movements. Recognizing prolonged periods of [volatility](../v/volatility.md) can lead to more [robust](../r/robust.md) [risk](../r/risk.md) mitigation.
@@ -73,4 +73,4 @@ Developers of [trading algorithms](../t/trading_algorithms.md) can embed statist
 
 ## Conclusion
 
-The Joseph Effect is a critical concept in the analysis of [financial time series](../f/financial_time_series.md), emphasizing the importance of long-[range](../r/range.md) dependence and self-similarity. For [algorithmic trading](../a/accountability.md), it provides valuable insights that can enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and overall [market](../m/market.md) understanding. By leveraging the tools and techniques to analyze the Joseph Effect, traders and investors can make more informed decisions and potentially achieve better financial outcomes.
+The Joseph Effect is a critical concept in the analysis of [financial time series](../f/financial_time_series.md), emphasizing the importance of long-[range](../r/range.md) dependence and self-similarity. For [algorithmic trading](../a/algorithmic_trading.md), it provides valuable insights that can enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and overall [market](../m/market.md) understanding. By leveraging the tools and techniques to analyze the Joseph Effect, traders and investors can make more informed decisions and potentially achieve better financial outcomes.

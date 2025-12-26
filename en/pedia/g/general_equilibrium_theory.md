@@ -26,20 +26,20 @@ A Walrasian [equilibrium](../e/equilibrium.md), named after Léon Walras, occurs
 
 ## 3. Mathematical Formulation
 
-To formalize General [Equilibrium](../e/equilibrium.md), economists often rely on a system of equations representing [supply](../s/supply.md) and [demand](../d/demand.md) in all markets. Consider an [economy](../e/economy.md) with \( n \) goods and \( m \) agents. Each agent \( i \) has a [utility](../u/utility.md) function \( U_i(x_1, x_2, ..., x_n) \) and an initial [endowment](../e/endowment.md) of goods. The problem involves solving:
+To formalize General [Equilibrium](../e/equilibrium.md), economists often rely on a system of equations representing [supply](../s/supply.md) and [demand](../d/demand.md) in all markets. Consider an [economy](../e/economy.md) with \( n \) goods and \( m \) agents. Each agent \( i \) has a [utility](../u/utility.md) function \( U_i(x_1, x_2,..., x_n) \) and an initial [endowment](../e/endowment.md) of goods. The problem involves solving:
 
 1. The [market](../m/market.md)-[clearing](../c/clearing.md) conditions for each good:
-\[ \sum_{i=1}^m D_{ij}(p_1, p_2, ..., p_n) = \sum_{i=1}^m E_{ij}(p_1, p_2, ..., p_n) \]
+\[ \sum_{i=1}^m D_{ij}(p_1, p_2,..., p_n) = \sum_{i=1}^m E_{ij}(p_1, p_2,..., p_n) \]
 
 where \( D_{ij} \) is agent \( i \)'s [demand](../d/demand.md) for good \( j \), and \( E_{ij} \) is agent \( i \)'s [endowment](../e/endowment.md) of good \( j \).
 
 2. The [utility maximization](../u/utility_maximization.md) for each agent given their [budget](../b/budget.md) constraint:
-\[ \max U_i(x_{i1}, x_{i2}, ..., x_{in}) \]
+\[ \max U_i(x_{i1}, x_{i2},..., x_{in}) \]
 \[ \text{subject to} \sum_{j=1}^n p_j x_{ij} = I_i \]
 
 where \( I_i \) is the [income](../i/income.md) of agent \( i \).
 
-This results in a system of nonlinear equations in terms of prices \( p_1, p_2, ..., p_n \) that must be solved to find the [equilibrium](../e/equilibrium.md) prices and quantities.
+This results in a system of nonlinear equations in terms of prices \( p_1, p_2,..., p_n \) that must be solved to find the [equilibrium](../e/equilibrium.md) prices and quantities.
 
 ## 4. Existence and Uniqueness
 
@@ -114,12 +114,12 @@ GET provides insights into the functioning of [financial markets](../f/financial
 Several organizations and research centers specialize in developing and applying General [Equilibrium](../e/equilibrium.md) Theory:
 
 1. **The Cowles Foundation for Research in [Economics](../e/economics.md)**:
-   - Affiliated with Yale University, this foundation focuses on advancing economic theory and its applications. More information can be found [here](https://cowles.yale.edu/).
+ - Affiliated with Yale University, this foundation focuses on advancing economic theory and its applications. More information can be found here.
 
 2. **The Institute for Fiscal Studies (IFS)**:
-   - Based in London, the IFS conducts research on public policy, using [equilibrium models](../e/equilibrium_models_in_trading.md) to analyze fiscal policies. More information can be found [here](https://www.ifs.org.uk/).
+ - Based in London, the IFS conducts research on public policy, using [equilibrium models](../e/equilibrium_models_in_trading.md) to analyze fiscal policies. More information can be found here.
 
 3. **National Bureau of Economic Research (NBER)**:
-   - A leading research organization in the United States, NBER facilitates the development and dissemination of economic research, including work on general [equilibrium](../e/equilibrium.md). More information can be found [here](https://www.nber.org/).
+ - A leading research organization in the United States, NBER facilitates the development and dissemination of economic research, including work on general [equilibrium](../e/equilibrium.md). More information can be found here.
 
 In conclusion, General [Equilibrium](../e/equilibrium.md) Theory remains a cornerstone of economic analysis, providing critical insights into [market dynamics](../m/market_dynamics.md), [efficiency](../e/efficiency.md), and policy impacts. Its evolution continues to influence various fields within and beyond [economics](../e/economics.md).

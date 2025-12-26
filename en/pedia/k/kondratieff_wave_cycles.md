@@ -31,9 +31,9 @@ Winter is marked by economic downturn and serious contraction. [Deflation](../d/
 Several historical instances have been categorized under [Kondratieff waves](../k/kondratieff_waves.md). For example:
 
 - **First Cycle (Late 18th Century to Early 19th Century):** This period is often associated with the [Industrial Revolution](../i/industrial_revolution.md), driven by textile [manufacturing](../m/manufacturing.md), steam engines, and mechanization.
-  
+
 - **Second Cycle (Early to Late 19th Century):** Marked by the [expansion](../e/expansion.md) of the railway networks, steel [manufacturing](../m/manufacturing.md), and the advent of telegraph communication.
-  
+
 - **Third Cycle (Late 19th Century to Early 20th Century):** Characterized by the electrification of industries, internal combustion engines, and synthetic chemicals.
 
 - **Fourth Cycle (Early to Mid 20th Century):** Post-World War II boom driven by [mass production](../m/mass_production.md), electronics, and aviation industries.
@@ -53,10 +53,10 @@ Understanding [Kondratieff Waves](../k/kondratieff_waves.md) is particularly use
 ## Key Players and Resources
 
 ### Researchers and Economists
-Several modern economists have conducted extensive research to further expand on Kondratieff's original work. Notable among them is [Joseph Schumpeter](../j/joseph_schumpeter.md), who integrated Kondratieff cycles into his broader theory of economic development and innovation. [Read more about Schumpeter's work](https://www.britannica.com/biography/Joseph-Schumpeter).
+Several modern economists have conducted extensive research to further expand on Kondratieff's original work. Notable among them is [Joseph Schumpeter](../j/joseph_schumpeter.md), who integrated Kondratieff cycles into his broader theory of economic development and innovation. Read more about Schumpeter's work.
 
 ### Financial Institutions
-Prominent financial institutions and investment firms also analyze [Kondratieff waves](../k/kondratieff_waves.md) for long-term investment strategies. Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, is known to incorporate long-term [economic cycles](../e/economic_cycles.md) into their macroeconomic models. [Visit Bridgewater Associates' website](https://www.bridgewater.com/).
+Prominent financial institutions and investment firms also analyze [Kondratieff waves](../k/kondratieff_waves.md) for long-term investment strategies. Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, is known to incorporate long-term [economic cycles](../e/economic_cycles.md) into their macroeconomic models.
 
 ### Academic Journals and Publications
 Numerous academic journals publish papers on long-term [economic cycles](../e/economic_cycles.md). Journals like "The Review of [Economics](../e/economics.md) and [Statistics](../s/statistics.md)" and "Economic Modelling" frequently feature articles on macroeconomic theory and empirical research related to [Kondratieff Waves](../k/kondratieff_waves.md).

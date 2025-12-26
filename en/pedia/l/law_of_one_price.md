@@ -80,19 +80,19 @@ Several prominent firms and platforms are involved in [arbitrage](../a/arbitrage
 
 ### Jane Street
 
-Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its high-frequency trading and [arbitrage](../a/arbitrage.md) strategies. The [firm](../f/firm.md) operates globally and applies sophisticated algorithms to ensure efficient [market](../m/market.md) pricing. [Jane Street](https://www.janestreet.com/)
+Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its high-frequency trading and [arbitrage](../a/arbitrage.md) strategies. The [firm](../f/firm.md) operates globally and applies sophisticated algorithms to ensure efficient [market](../m/market.md) pricing. Jane Street
 
 ### Citadel Securities
 
-Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) engages in [algorithmic trading](../a/algorithmic_trading.md) and [arbitrage](../a/arbitrage.md) across various [asset](../a/asset.md) classes, including equities, [options](../o/options.md), and [fixed income](../f/fixed_income.md). [Citadel Securities](https://www.citadelsecurities.com/)
+Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) engages in [algorithmic trading](../a/algorithmic_trading.md) and [arbitrage](../a/arbitrage.md) across various [asset](../a/asset.md) classes, including equities, [options](../o/options.md), and [fixed income](../f/fixed_income.md). Citadel Securities
 
 ### Virtu Financial
 
-Virtu Financial is a global electronic [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) leverages technology to execute high-frequency trading and [arbitrage](../a/arbitrage.md) strategies, ensuring adherence to the Law of One Price across markets. [Virtu Financial](https://www.virtu.com/)
+Virtu Financial is a global electronic [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) leverages technology to execute high-frequency trading and [arbitrage](../a/arbitrage.md) strategies, ensuring adherence to the Law of One Price across markets. Virtu Financial
 
 ### XTX Markets
 
-XTX Markets is a quantitative-driven electronic [market maker](../m/market_maker.md) that provides [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. The [firm](../f/firm.md) uses advanced algorithms to detect and exploit price inefficiencies, aligning with the principles of the Law of One Price. [XTX Markets](https://www.xtxmarkets.com/)
+XTX Markets is a quantitative-driven electronic [market maker](../m/market_maker.md) that provides [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. The [firm](../f/firm.md) uses advanced algorithms to detect and exploit price inefficiencies, aligning with the principles of the Law of One Price. XTX Markets
 
 ## Conclusion
 

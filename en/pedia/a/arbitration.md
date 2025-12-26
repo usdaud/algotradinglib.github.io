@@ -49,13 +49,13 @@ The 21st century has seen the rise of high-frequency trading firms that focus on
 ## Companies Specializing in Arbitrage
 
 ### Jane Street
-Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) focusing on [quantitative trading](../q/quantitative_trading.md) and [arbitrage](../a/arbitrage.md). They use sophisticated algorithms to identify [arbitrage opportunities](../a/arbitrage_opportunities.md) across various financial instruments. More about them here: [Jane Street](https://www.janestreet.com/)
+Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) focusing on [quantitative trading](../q/quantitative_trading.md) and [arbitrage](../a/arbitrage.md). They use sophisticated algorithms to identify [arbitrage opportunities](../a/arbitrage_opportunities.md) across various financial instruments. More about them here: Jane Street
 
 ### Optiver
-Optiver is another leading global electronic [market maker](../m/market_maker.md) that uses [arbitrage](../a/arbitrage.md) strategies. They provide [liquidity](../l/liquidity.md) to the world’s [financial markets](../f/financial_market.md) using advanced [algorithmic trading](../a/accountability.md) systems. More about them here: [Optiver](https://www.optiver.com/)
+Optiver is another leading global electronic [market maker](../m/market_maker.md) that uses [arbitrage](../a/arbitrage.md) strategies. They provide [liquidity](../l/liquidity.md) to the world’s [financial markets](../f/financial_market.md) using advanced [algorithmic trading](../a/accountability.md) systems. More about them here: Optiver
 
 ### Citadel Securities
-Citadel Securities is a prominent [market maker](../m/market_maker.md) and [arbitrageur](../a/arbitrageur.md). They [leverage](../l/leverage.md) their expertise in [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/accountability.md) to exploit inefficiencies across global markets. More about them here: [Citadel Securities](https://www.citadelsecurities.com/)
+Citadel Securities is a prominent [market maker](../m/market_maker.md) and [arbitrageur](../a/arbitrageur.md). They [leverage](../l/leverage.md) their expertise in [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/accountability.md) to exploit inefficiencies across global markets. More about them here: Citadel Securities
 
 ## Regulations and Ethical Considerations
 

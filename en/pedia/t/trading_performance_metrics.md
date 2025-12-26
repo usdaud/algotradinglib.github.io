@@ -12,7 +12,7 @@ Gross loss is the total loss from all losing trades, again excluding commissions
 
 ## Net Profit
 
-Net [profit](../p/profit.md) is calculated by subtracting gross losses and all costs (commissions, fees, [slippage](../s/slippage.md)) from the [gross profit](../g/gross_profit.md). It is the most straightforward metric indicating the overall profitability of a trading algorithm. 
+Net [profit](../p/profit.md) is calculated by subtracting gross losses and all costs (commissions, fees, [slippage](../s/slippage.md)) from the [gross profit](../g/gross_profit.md). It is the most straightforward metric indicating the overall profitability of a trading algorithm.
 
 \[ \text{Net Profit} = \text{[Gross Profit](../g/gross_profit.md)} - \text{Gross Loss} - \text{Total Costs} \]
 

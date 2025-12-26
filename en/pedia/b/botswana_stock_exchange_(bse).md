@@ -53,13 +53,13 @@ The BSE uses several indices to track [market](../m/market.md) performance. Thes
 Some of the major companies [listed](../l/listed.md) on the Botswana Stock [Exchange](../e/exchange.md) include:
 
 ### 1. **ABSA Bank Botswana**
-ABSA [Bank](../b/bank.md) Botswana is one of the largest financial services providers in the country, [offering](../o/offering.md) a wide [range](../r/range.md) of retail, [business](../b/business.md), corporate, and [investment banking](../i/investment_banking.md) services. [ABSA Bank Botswana](https://www.absa.co.bw/)
+ABSA [Bank](../b/bank.md) Botswana is one of the largest financial services providers in the country, [offering](../o/offering.md) a wide [range](../r/range.md) of retail, [business](../b/business.md), corporate, and [investment banking](../i/investment_banking.md) services. ABSA Bank Botswana
 
 ### 2. **Letlole La Rona**
-A leading property investment and development company, Letlole La Rona focuses on the development and management of commercial, industrial, and residential properties. [Letlole La Rona](https://www.letlole.com/)
+A leading property investment and development company, Letlole La Rona focuses on the development and management of commercial, industrial, and residential properties. Letlole La Rona
 
 ### 3. **Choppies Enterprises Limited**
-Choppies is a renowned retail company that operates a chain of supermarkets across Botswana and other African countries. [Choppies Enterprises Limited](http://www.choppies.co.bw/)
+Choppies is a renowned retail company that operates a chain of supermarkets across Botswana and other African countries. Choppies Enterprises Limited
 
 ## Economic Impact
 
@@ -107,6 +107,6 @@ The BSE is also looking to forge strategic partnerships with other regional and 
 
 ## Conclusion
 
-The Botswana Stock [Exchange](../e/exchange.md) stands as a pillar of the country's [financial system](../f/financial_system.md), contributing to [economic growth](../e/economic_growth.md), [diversification](../d/diversification.md), and [investor](../i/investor.md) empowerment. With its [robust](../r/robust.md) regulatory framework, modern technological [infrastructure](../i/infrastructure.md), and strategic vision, the BSE is well-positioned to continue its upward trajectory and play a pivotal role in the development of Botswana's and the broader African [capital](../c/capital.md) [market](../m/market.md). 
+The Botswana Stock [Exchange](../e/exchange.md) stands as a pillar of the country's [financial system](../f/financial_system.md), contributing to [economic growth](../e/economic_growth.md), [diversification](../d/diversification.md), and [investor](../i/investor.md) empowerment. With its [robust](../r/robust.md) regulatory framework, modern technological [infrastructure](../i/infrastructure.md), and strategic vision, the BSE is well-positioned to continue its upward trajectory and play a pivotal role in the development of Botswana's and the broader African [capital](../c/capital.md) [market](../m/market.md).
 
-For more information about the Botswana Stock [Exchange](../e/exchange.md), visit their official [website](https://www.bse.co.bw/).
+For more information about the Botswana Stock [Exchange](../e/exchange.md),

@@ -14,7 +14,7 @@ One of the most well-known instruments in the Euromarket is the [Eurobond](../e/
 
 Eurobonds come in several types, including:
 - **Straight bonds:** These are fixed-[interest](../i/interest.md) bonds with a set [maturity date](../m/maturity_date.md).
-- **[Floating rate notes](../f/floating_rate_notes.md) (FRNs):** These have variable [interest](../i/interest.md) rates tied to a [benchmark](../b/benchmark.md), usually the LIBOR.
+- **[Floating rate notes](../f/floating_rate_notes.md) (FRNs):** These have variable [interest](../i/interest.md) rates tied to a [benchmark](../b/benchmark.md) such as SOFR, €STR, or SONIA (LIBOR was discontinued in June 2023).
 - **Convertible Eurobonds:** These can be converted into a predefined number of [shares](../s/shares.md) of the issuing company.
 
 ### Eurocurrency Deposits
@@ -55,7 +55,7 @@ Luxembourg also plays a vital role in the Euromarket, particularly in the area o
 
 ### Tokyo
 
-Tokyo has grown as an important Euromarket center, especially in regions focusing on Asian currencies. 
+Tokyo has grown as an important Euromarket center, especially in regions focusing on Asian currencies.
 
 ### Hong Kong and Singapore
 

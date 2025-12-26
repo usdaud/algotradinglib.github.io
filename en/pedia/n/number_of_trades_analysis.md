@@ -59,14 +59,14 @@ where:
 
 [Simulation](../s/simulation_in_trading.md) and [backtesting](../b/backtesting.md) are essential tools in algo trading to test the performance of a [trading strategy](../t/trading_strategy.md) over historical data. By analyzing the number of trades executed in backtests, traders can optimize their algorithms for better performance.
 
-- **Tradeworx Inc.**: [Tradeworx](http://www.tradeworx.com) offers platforms for [backtesting](../b/backtesting.md) and strategy development.
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based platform for [backtesting](../b/backtesting.md) and live algorithm trading.
+- **Tradeworx Inc.**: Tradeworx offers platforms for [backtesting](../b/backtesting.md) and strategy development.
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides a cloud-based platform for [backtesting](../b/backtesting.md) and live algorithm trading.
 
 ### Machine Learning and AI
 
 [Machine learning](../m/machine_learning.md) and AI are increasingly being used to analyze the number of trades and optimize [trading strategies](../t/trading_strategies.md). Algorithms can learn from past trades and adapt to changing [market](../m/market.md) conditions.
 
-- **Kensho Technologies**: [Kensho](https://www.sandpglobal.com/en/who-we-are/the-future-of-fintech) uses [machine learning](../m/machine_learning.md) to enhance [trading strategies](../t/trading_strategies.md).
+- **Kensho Technologies**: Kensho uses [machine learning](../m/machine_learning.md) to enhance [trading strategies](../t/trading_strategies.md).
 
 ### Statistical Analysis
 
@@ -76,8 +76,8 @@ Statistical analysis helps in understanding patterns and anomalies in the number
 
 Visualization tools aid in the representation of trading data, making it easier to analyze and optimize the number of trades. Common tools include:
 
-- **Matplotlib**: [Matplotlib](https://matplotlib.org) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-- **Tableau**: [Tableau](https://www.tableau.com) offers powerful [data visualization](../d/data_visualization.md) capabilities for analysis and reporting.
+- **Matplotlib**: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- **Tableau**: Tableau offers powerful [data visualization](../d/data_visualization.md) capabilities for analysis and reporting.
 
 ## Case Study: High-Frequency Trading Analysis
 

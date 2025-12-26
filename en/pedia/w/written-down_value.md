@@ -65,7 +65,7 @@ Financial analysts use WDV to evaluate the [efficiency](../e/efficiency.md) of [
 
 The advancement of financial software and automation tools has revolutionized the way companies [handle](../h/handle.md) [asset](../a/asset.md) [depreciation](../d/depreciation.md) and WDV calculations. Enterprise Resource Planning (ERP) systems, like SAP and Oracle, integrate [asset management](../a/asset_management.md) modules that automatically calculate WDV based on the selected [depreciation](../d/depreciation.md) method. This reduces human error, ensures compliance with [accounting](../a/accounting.md) standards, and provides real-time financial data.
 
-For more detailed information on how SAP handles [asset](../a/asset.md) [accounting](../a/accounting.md) and [depreciation](../d/depreciation.md), you can visit their official page [here](https://www.sap.com/products/management-accounting-erp.html).
+For more detailed information on how SAP handles [asset](../a/asset.md) [accounting](../a/accounting.md) and [depreciation](../d/depreciation.md), you can
 
 ## Regulatory and Reporting Standards
 
@@ -85,11 +85,11 @@ Large corporations often publish detailed notes on [depreciation](../d/depreciat
 
 ### Apple Inc.
 
-Apple Inc.'s 2022 [annual report](../a/annual_report.md) provides insights into its [depreciation](../d/depreciation.md) policies. Apple uses the straight-line method for most of its assets, and its detailed footnotes reveal the impact of [depreciation](../d/depreciation.md) on its [financial statements](../f/financial_statements.md). You can review their latest financial reports [here](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc.'s 2022 [annual report](../a/annual_report.md) provides insights into its [depreciation](../d/depreciation.md) policies. Apple uses the straight-line method for most of its assets, and its detailed footnotes reveal the impact of [depreciation](../d/depreciation.md) on its [financial statements](../f/financial_statements.md). You can review their latest financial reports here.
 
 ### General Electric
 
-General Electric (GE) employs a combination of [depreciation](../d/depreciation.md) methods depending on the [asset](../a/asset.md) type. Their financial reports give a breakdown of [accumulated depreciation](../a/accumulated_depreciation.md) and the net [book value](../b/book_value.md) of their assets. GE's financial documents are available [here](https://www.ge.com/investor-relations).
+General Electric (GE) employs a combination of [depreciation](../d/depreciation.md) methods depending on the [asset](../a/asset.md) type. Their financial reports give a breakdown of [accumulated depreciation](../a/accumulated_depreciation.md) and the net [book value](../b/book_value.md) of their assets. GE's financial documents are available here.
 
 ## Conclusion
 

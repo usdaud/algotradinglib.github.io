@@ -7,29 +7,29 @@ Private [equity](../e/equity.md) (PE) refers to a form of investment where [capi
 Private [equity](../e/equity.md) investments come in several forms. Here are the primary types:
 
 1. **[Venture Capital](../v/venture_capital.md) (VC)**:
-   - **Description**: [Venture capital](../v/venture_capital.md) is a subset of private [equity](../e/equity.md) that focuses on [investing](../i/investing.md) in early-stage, high-potential growth startups. It typically involves seed funding, where investors provide [capital](../c/capital.md) to entrepreneurs to develop prototype products or services.
-   - **Stages**:
-     - *Seed Stage*: Early [capital](../c/capital.md) provided to test and validate ideas.
-     - *Early Stage*: Funds provided to startups that have a viable product but need [capital](../c/capital.md) to scale.
-     - *Growth Stage*: Additional funding for startups to expand their [market](../m/market.md) reach and [business](../b/business.md) operations.
-   - **Example**: Andreessen Horowitz ([A16Z](https://a16z.com/)) is renowned for its investments in technology startups at various stages of growth.
+ - **Description**: [Venture capital](../v/venture_capital.md) is a subset of private [equity](../e/equity.md) that focuses on [investing](../i/investing.md) in early-stage, high-potential growth startups. It typically involves seed funding, where investors provide [capital](../c/capital.md) to entrepreneurs to develop prototype products or services.
+ - **Stages**:
+ - *Seed Stage*: Early [capital](../c/capital.md) provided to test and validate ideas.
+ - *Early Stage*: Funds provided to startups that have a viable product but need [capital](../c/capital.md) to scale.
+ - *Growth Stage*: Additional funding for startups to expand their [market](../m/market.md) reach and [business](../b/business.md) operations.
+ - **Example**: Andreessen Horowitz (A16Z) is renowned for its investments in technology startups at various stages of growth.
 
 2. **Growth [Capital](../c/capital.md)**:
-   - **Description**: Growth [capital](../c/capital.md) involves [investing](../i/investing.md) in more mature companies that need [financing](../f/financing.md) to expand operations, enter new markets, or restructure operations without a change of control in the [business](../b/business.md).
-   - **Objective**: To provide [capital](../c/capital.md) to companies that have already proven their [market](../m/market.md) viability but require additional funds to facilitate further growth.
-   - **Example**: Insight Partners ([Insight Partners](https://www.insightpartners.com/)) focuses on growth-stage software and internet companies.
+ - **Description**: Growth [capital](../c/capital.md) involves [investing](../i/investing.md) in more mature companies that need [financing](../f/financing.md) to expand operations, enter new markets, or restructure operations without a change of control in the [business](../b/business.md).
+ - **Objective**: To provide [capital](../c/capital.md) to companies that have already proven their [market](../m/market.md) viability but require additional funds to facilitate further growth.
+ - **Example**: Insight Partners (Insight Partners) focuses on growth-stage software and internet companies.
 
 3. **Buyouts**:
-   - **Description**: [Buyout](../b/buyout.md) funding involves purchasing a majority stake or the entire share of a company. This could be in the form of leveraged buyouts (LBOs), where a large part of the purchase price is financed through [debt](../d/debt.md).
-   - **Types**:
-     - *Management Buyouts (MBOs)*: When the company’s existing management team acquires the company.
-     - *Management Buy-Ins (MBIs)*: New management externally acquires the company.
-   - **Example**: Kohlberg Kravis Roberts (KKR) ([KKR](https://www.kkr.com/)) is a famous example of a [firm](../f/firm.md) specializing in buyouts.
+ - **Description**: [Buyout](../b/buyout.md) funding involves purchasing a majority stake or the entire share of a company. This could be in the form of leveraged buyouts (LBOs), where a large part of the purchase price is financed through [debt](../d/debt.md).
+ - **Types**:
+ - *Management Buyouts (MBOs)*: When the company’s existing management team acquires the company.
+ - *Management Buy-Ins (MBIs)*: New management externally acquires the company.
+ - **Example**: Kohlberg Kravis Roberts (KKR) (KKR) is a famous example of a [firm](../f/firm.md) specializing in buyouts.
 
 4. **[Mezzanine Financing](../m/mezzanine_financing.md)**:
-   - **Description**: A hybrid form of [financing](../f/financing.md) that includes both [debt](../d/debt.md) and [equity](../e/equity.md) and is used to [finance](../f/finance.md) the [expansion](../e/expansion.md) of existing companies. It is subordinate to senior [debt](../d/debt.md) but above [equity](../e/equity.md) in the [capital structure](../c/capital_structure.md).
-   - **Advantages**: Provides a higher [return](../r/return.md) to investors due to its subordinated nature and offers flexible [financing](../f/financing.md) [options](../o/options.md) to companies without diluting their ownership significantly.
-   - **Example**: TPG Sixth Street Partners ([TPG](https://www.tpg.com/investments/sixth-street/)) is known for its [mezzanine financing](../m/mezzanine_financing.md) funds.
+ - **Description**: A hybrid form of [financing](../f/financing.md) that includes both [debt](../d/debt.md) and [equity](../e/equity.md) and is used to [finance](../f/finance.md) the [expansion](../e/expansion.md) of existing companies. It is subordinate to senior [debt](../d/debt.md) but above [equity](../e/equity.md) in the [capital structure](../c/capital_structure.md).
+ - **Advantages**: Provides a higher [return](../r/return.md) to investors due to its subordinated nature and offers flexible [financing](../f/financing.md) [options](../o/options.md) to companies without diluting their ownership significantly.
+ - **Example**: TPG Sixth Street Partners (TPG) is known for its [mezzanine financing](../m/mezzanine_financing.md) funds.
 
 ## Private Equity Structure
 
@@ -105,7 +105,7 @@ Private [equity](../e/equity.md) investments are less [liquid](../l/liquid.md) c
 
 ### The Blackstone Group
 
-The Blackstone Group is one of the world’s largest private [equity](../e/equity.md) firms, managing various [asset](../a/asset.md) classes such as private [equity](../e/equity.md), [real estate](../r/real_estate.md), [hedge](../h/hedge.md) funds, and [credit](../c/credit.md). A notable example of Blackstone's success is its investment in Hilton Hotels. In 2007, Blackstone acquired Hilton for approximately $26 billion, including [debt](../d/debt.md). Through [strategic management](../s/strategic_management.md), improving operational efficiencies, and expanding the brand globally, Blackstone significantly increased Hilton's [value](../v/value.md). By the time it went public in 2013, the IPO raised over $2.3 billion, marking one of the largest and most profitable private [equity](../e/equity.md) deals. 
+The Blackstone Group is one of the world’s largest private [equity](../e/equity.md) firms, managing various [asset](../a/asset.md) classes such as private [equity](../e/equity.md), [real estate](../r/real_estate.md), [hedge](../h/hedge.md) funds, and [credit](../c/credit.md). A notable example of Blackstone's success is its investment in Hilton Hotels. In 2007, Blackstone acquired Hilton for approximately $26 billion, including [debt](../d/debt.md). Through [strategic management](../s/strategic_management.md), improving operational efficiencies, and expanding the brand globally, Blackstone significantly increased Hilton's [value](../v/value.md). By the time it went public in 2013, the IPO raised over $2.3 billion, marking one of the largest and most profitable private [equity](../e/equity.md) deals.
 
 ### Apollo Global Management
 
@@ -115,4 +115,4 @@ Apollo Global Management specializes in alternative investments, including priva
 
 Private [equity](../e/equity.md) remains a compelling avenue for investment, [offering](../o/offering.md) potential high returns while posing significant risks. Its ability to transform and optimize businesses through [active management](../a/active_management.md), coupled with the rise of [data analytics](../d/data_analytics.md) and AI, makes it a dynamic part of the financial ecosystem. However, the sector must navigate challenges such as regulatory scrutiny, exit complications, and heightened competition to sustain its growth and profitability.
 
-For more detailed insights and updates, visit [Blackstone](https://www.blackstone.com/) and [Apollo Global Management](https://www.apollo.com/).
+For more detailed insights and updates, visit Blackstone and Apollo Global Management.

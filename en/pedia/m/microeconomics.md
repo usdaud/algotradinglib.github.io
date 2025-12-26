@@ -86,10 +86,10 @@ Public goods are non-excludable and non-rivalrous, meaning that one person's con
 [Asymmetric information](../a/asymmetric_information.md) occurs when one party has more or better information than the other, leading to [adverse selection](../a/adverse_selection.md) or [moral hazard](../m/moral_hazard.md) problems. This can result in [market](../m/market.md) inefficiencies and the need for regulation or other policy interventions.
 
 ## Application in FinTech and Algo Trading
-Microeconomic principles are essential in the design and operation of financial technology (FinTech) platforms and [algorithmic trading](../a/accountability.md) systems.
+Microeconomic principles are essential in the design and operation of financial technology (FinTech) platforms and [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ### Price Discovery
-[Algorithmic trading](../a/accountability.md) systems use microeconomic models to facilitate [price discovery](../p/price_discovery.md) in [financial markets](../f/financial_market.md). By analyzing [supply](../s/supply.md) and [demand](../d/demand.md) trends, these systems can predict price movements and execute trades accordingly.
+[Algorithmic trading](../a/algorithmic_trading.md) systems use microeconomic models to facilitate [price discovery](../p/price_discovery.md) in [financial markets](../f/financial_market.md). By analyzing [supply](../s/supply.md) and [demand](../d/demand.md) trends, these systems can predict price movements and execute trades accordingly.
 
 ### Market Microstructure
 Understanding [market microstructure](../m/market_microstructure.md), which studies the processes and outcomes of exchanging assets under explicit [trading rules](../t/trading_rules.md), is crucial in designing [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md). These algorithms seek to exploit small price inefficiencies to make profits.
@@ -101,4 +101,4 @@ Microeconomic theories of production and cost help in constructing models to ass
 Incorporating insights from microeconomics, particularly [behavioral economics](../b/behavioral_economics.md), FinTech platforms can design user interfaces and experiences that influence consumer behavior in beneficial ways, such as encouraging saving and prudent financial behavior.
 
 ## Conclusion
-Microeconomics provides a foundation for understanding individual and [firm](../f/firm.md) behavior, [market](../m/market.md) interactions, and resource allocation. Its principles are crucial not only in traditional economic analysis but also in modern financial technology and [algorithmic trading](../a/accountability.md), enabling more efficient and effective [market](../m/market.md) operations.
+Microeconomics provides a foundation for understanding individual and [firm](../f/firm.md) behavior, [market](../m/market.md) interactions, and resource allocation. Its principles are crucial not only in traditional economic analysis but also in modern financial technology and [algorithmic trading](../a/algorithmic_trading.md), enabling more efficient and effective [market](../m/market.md) operations.

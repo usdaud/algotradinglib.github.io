@@ -34,7 +34,7 @@ Setting a [profit](../p/profit.md) target can depend on various factors. A commo
 
 Providing real-life examples or case studies where the [Upside](../u/upside.md) Gap Two Crows pattern has successfully predicted [market](../m/market.md) reversals can help solidify understanding and [offer](../o/offer.md) practical insights.
 
-For instance, traders can look at historical chart data in trading platforms or financial news websites that provide charting tools, such as [TradingView](https://www.tradingview.com) or [Investing.com](https://www.investing.com).
+For instance, traders can look at historical chart data in trading platforms or financial news websites that provide charting tools, such as TradingView or Investing.com.
 
 ## Limitations and False Signals
 
@@ -58,6 +58,5 @@ The [Upside](../u/upside.md) Gap Two Crows pattern is a nuanced and somewhat rar
 
 ## References
 
-- [TradingView](https://www.tradingview.com)
-- [Investing.com](https://www.investing.com)
-
+- TradingView
+- Investing.com

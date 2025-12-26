@@ -39,8 +39,8 @@ To minimize the negative impact of [unfilled orders](../u/unfilled_orders.md), t
 1. **[Order Types](../o/order_types_in_trading.md) and Conditions**: Using a mix of [order types](../o/order_types_in_trading.md) and conditions, such as [market](../m/market.md) orders for immediate [execution](../e/execution.md) and limit orders for controlling price.
 2. **[Volume](../v/volume.md)-[weighted Average](../w/weighted_average.md) Price (VWAP) Strategies**: These strategies aim to execute orders in line with the [market](../m/market.md) [volume](../v/volume.md) to minimize [market](../m/market.md) impact.
 3. **Iceberg Orders**: Breaking a large [order](../o/order.md) into smaller, more manageable chunks can help in ensuring higher fill rates without alarming the [market](../m/market.md).
-4. **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Algorithms that adapt to changing [market](../m/market.md) conditions in real-time can help in improving [execution](../e/execution.md) rates. Companies like [Kinetik](https://kinetik.co/) specialize in adaptive [trading algorithms](../t/trading_algorithms.md).
-5. **Real-time Analytics**: Using real-time analytics to monitor the [market](../m/market.md) and dynamically adjust strategies. Firms like [QuantConnect](https://www.quantconnect.com/) provide platforms for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies with real-time data.
+4. **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Algorithms that adapt to changing [market](../m/market.md) conditions in real-time can help in improving [execution](../e/execution.md) rates. Companies like Kinetik specialize in adaptive [trading algorithms](../t/trading_algorithms.md).
+5. **Real-time Analytics**: Using real-time analytics to monitor the [market](../m/market.md) and dynamically adjust strategies. Firms like QuantConnect provide platforms for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies with real-time data.
 
 ### Regulatory and Compliance Considerations
 
@@ -48,7 +48,7 @@ To minimize the negative impact of [unfilled orders](../u/unfilled_orders.md), t
 
 1. **Audit Trails**: Maintaining detailed records of all orders, filled or unfilled, to ensure compliance with regulatory requirements.
 2. **[Order](../o/order.md)-to-[Trade](../t/trade.md) Ratios**: Some exchanges impose limits on the ratio of [unfilled orders](../u/unfilled_orders.md) to executed trades to discourage manipulative practices.
-3. **[Market](../m/market.md) Surveillance Tools**: Implementing tools to detect and prevent abusive practices. Companies like [Nasdaq Market Surveillance](https://www.nasdaq.com/solutions/market-surveillance) [offer](../o/offer.md) sophisticated surveillance solutions to detect irregular trading activities.
+3. **[Market](../m/market.md) Surveillance Tools**: Implementing tools to detect and prevent abusive practices. Companies like Nasdaq Market Surveillance [offer](../o/offer.md) sophisticated surveillance solutions to detect irregular trading activities.
 
 ### Conclusion
 

@@ -92,9 +92,9 @@ Hypothesis generation is a foundational step in the development of [algorithmic 
 
 To delve deeper into hypothesis generation and [algorithmic trading](../a/algorithmic_trading.md), you can explore the following resources:
 
-- [QuantConnect](https://www.quantconnect.com/) - A platform that provides data, research environments, and [backtesting](../b/backtesting.md) tools for developing [trading algorithms](../t/trading_algorithms.md).
-- [Kaggle](https://www.kaggle.com/) - A community of data scientists that offers datasets and notebooks for exploring financial data and hypothesis generation.
-- [Algorithmic Trading Group](https://www.algotrading.group/) - A forum and resource center for traders interested in [algorithmic trading](../a/algorithmic_trading.md).
-- [Machine Learning Mastery](https://machinelearningmastery.com/) - Tutorials and guides for applying [machine learning](../m/machine_learning.md) techniques to various domains, including [finance](../f/finance.md).
+- QuantConnect - A platform that provides data, research environments, and [backtesting](../b/backtesting.md) tools for developing [trading algorithms](../t/trading_algorithms.md).
+- Kaggle - A community of data scientists that offers datasets and notebooks for exploring financial data and hypothesis generation.
+- Algorithmic Trading Group - A forum and resource center for traders interested in [algorithmic trading](../a/algorithmic_trading.md).
+- Machine Learning Mastery - Tutorials and guides for applying [machine learning](../m/machine_learning.md) techniques to various domains, including [finance](../f/finance.md).
 
 These resources [offer](../o/offer.md) additional information, tools, and community support to help you in generating and testing trading hypotheses.

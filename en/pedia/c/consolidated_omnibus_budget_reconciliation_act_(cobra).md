@@ -1,6 +1,6 @@
 # Consolidated Omnibus Budget Reconciliation Act (COBRA)
 
-The Consolidated Omnibus [Budget](../b/budget.md) [Reconciliation](../r/reconciliation.md) Act (COBRA) is a federal law enacted in 1985 that provides eligible employees and their dependents the option to continue [health insurance](../h/health_insurance.md) coverage after experiencing certain qualifying events that would normally result in the loss of coverage. Administered by the Department of Labor, the Treasury, and Health and Human Services, COBRA is a critical piece of legislation aimed at ensuring that individuals do not suddenly lose their [health insurance](../h/health_insurance.md) due to job loss, reduction in work hours, or other life events. 
+The Consolidated Omnibus [Budget](../b/budget.md) [Reconciliation](../r/reconciliation.md) Act (COBRA) is a federal law enacted in 1985 that provides eligible employees and their dependents the option to continue [health insurance](../h/health_insurance.md) coverage after experiencing certain qualifying events that would normally result in the loss of coverage. Administered by the Department of Labor, the Treasury, and Health and Human Services, COBRA is a critical piece of legislation aimed at ensuring that individuals do not suddenly lose their [health insurance](../h/health_insurance.md) due to job loss, reduction in work hours, or other life events.
 
 COBRA applies to group health plans maintained by private-sector employers with 20 or more employees, as well as state and local governments. However, it does not apply to plans sponsored by the federal government and certain church-related organizations. This comprehensive guide delves into the nuances of COBRA, its statutory framework, administrative requirements, eligibility criteria, and its impact on both employers and employees.
 
@@ -23,7 +23,7 @@ The qualifying event itself must also meet certain conditions. Typical qualifyin
 
 ## Coverage Details
 
-Under COBRA, continuation coverage must be offered that is identical to the coverage that the employee and their family members received before the qualifying event. This means that any benefits, such as hospital care, prescription drugs, dental care, and vision care, must remain the same. 
+Under COBRA, continuation coverage must be offered that is identical to the coverage that the employee and their family members received before the qualifying event. This means that any benefits, such as hospital care, prescription drugs, dental care, and vision care, must remain the same.
 
 The length of COBRA coverage typically extends for 18 months but can last up to 36 months depending on the qualifying event:
 
@@ -77,6 +77,6 @@ While COBRA remains a valuable option, employees should compare their COBRA cont
 
 The Consolidated Omnibus [Budget](../b/budget.md) [Reconciliation](../r/reconciliation.md) Act (COBRA) is a vital piece of legislation that ensures employees and their families do not suddenly lose [health insurance](../h/health_insurance.md) coverage due to employment status changes or other life events. Its core strength lies in providing continuity of care, which is crucial for those undergoing medical treatments or managing chronic conditions.
 
-For more information, the U.S. Department of Labor’s COBRA page provides comprehensive resources and updates: [U.S. Department of Labor COBRA](https://www.dol.gov/general/topic/health-plans/cobra).
+For more information, the U.S. Department of Labor provides comprehensive resources and updates.
 
 Understanding COBRA’s extensive framework is essential for both employers to remain compliant and employees to make informed decisions about their health care coverage during periods of transition.

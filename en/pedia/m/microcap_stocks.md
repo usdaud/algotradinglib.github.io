@@ -26,9 +26,9 @@ Microcap [stocks](../s/stock.md) possess unique characteristics that distinguish
 
 Microcap [stocks](../s/stock.md) can be found across a variety of sectors. Some examples of companies that are categorized as microcap [stocks](../s/stock.md) include:
 
-- [Titan Medical Inc.](https://www.titanmedicalinc.com/) (TMDI)
-- [Bionano Genomics, Inc.](https://bionanogenomics.com/) (BNGO)
-- [Oncolytics Biotech Inc.](https://www.oncolyticsbiotech.com/) (ONCY)
+- Titan Medical Inc. (TMDI)
+- Bionano Genomics, Inc. (BNGO)
+- Oncolytics Biotech Inc. (ONCY)
 
 ## Risks and Challenges
 

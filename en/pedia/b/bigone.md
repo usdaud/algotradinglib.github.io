@@ -1,6 +1,6 @@
 # BigONE
 
-BigONE is a global cryptocurrency [exchange](../e/exchange.md) platform founded in 2017. It aims to provide secure, reliable, and fast cryptocurrency trading services to users worldwide. The platform supports a wide [range](../r/range.md) of cryptocurrencies, such as [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), and many altcoins. BigONE provides services through its website [big.one](https://big.one).
+BigONE is a global cryptocurrency [exchange](../e/exchange.md) platform founded in 2017. It aims to provide secure, reliable, and fast cryptocurrency trading services to users worldwide. The platform supports a wide [range](../r/range.md) of cryptocurrencies, such as [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), and many altcoins. BigONE provides services through its online platform.
 
 ## Key Features of BigONE
 
@@ -56,4 +56,4 @@ The platform adheres to regulatory standards and KYC (Know Your [Customer](../c/
 ## Conclusion
 BigONE is a comprehensive cryptocurrency [exchange](../e/exchange.md) platform that caters to a wide [range](../r/range.md) of users, from beginners to experienced traders. With its focus on [security](../s/security.md), diverse trading [options](../o/options.md), and advanced features, it stands as a [robust](../r/robust.md) option for those looking to participate in the cryptocurrency [market](../m/market.md). Whether you're interested in spot trading, leveraging positions through [margin trading](../m/margin_trading.md), or staking assets for [passive income](../p/passive_income.md), BigONE offers the tools and services to support your trading goals.
 
-For more details and to access their services, visit the official website [big.one](https://big.one).
+one.

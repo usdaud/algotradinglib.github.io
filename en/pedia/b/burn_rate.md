@@ -26,28 +26,28 @@ For established businesses, burn rate analysis is integral to [financial plannin
 ### Formula
 To calculate the burn rate, two primary formulas can be used:
 
-- **Gross Burn Rate:** 
-  \[
-  \text{Gross Burn Rate} = \frac{\text{Total cash spent per month - Total cash inflow per month}}{\text{Number of months}}
-  \]
+- **Gross Burn Rate:**
+ \[
+ \text{Gross Burn Rate} = \frac{\text{Total cash spent per month - Total cash inflow per month}}{\text{Number of months}}
+ \]
 
 - **Net Burn Rate:**
-  \[
-  \text{Net Burn Rate} = \frac{\text{Total cash outflows} - \text{Total cash inflows}}{\text{Number of months}}
-  \]
+ \[
+ \text{Net Burn Rate} = \frac{\text{Total cash outflows} - \text{Total cash inflows}}{\text{Number of months}}
+ \]
 
 ### Example Calculation
-Suppose a [startup](../s/startup.md) has monthly operational expenses of $50,000 and earns $20,000 in [revenue](../r/revenue.md) each month. 
+Suppose a [startup](../s/startup.md) has monthly operational expenses of $50,000 and earns $20,000 in [revenue](../r/revenue.md) each month.
 
 - **Gross Burn Rate:**
-  \[
-  \text{Gross Burn Rate} = \frac{$50,000}{1} = $50,000 \text{ per month}
-  \]
+ \[
+ \text{Gross Burn Rate} = \frac{$50,000}{1} = $50,000 \text{ per month}
+ \]
 
 - **Net Burn Rate:**
-  \[
-  \text{Net Burn Rate} = \frac{$50,000 - $20,000}{1} = $30,000 \text{ per month}
-  \]
+ \[
+ \text{Net Burn Rate} = \frac{$50,000 - $20,000}{1} = $30,000 \text{ per month}
+ \]
 
 ## Factors Affecting Burn Rate
 
@@ -90,22 +90,22 @@ Several tools and software solutions can assist businesses in tracking and manag
 ### Financial Management Software
 Platforms like QuickBooks, Xero, and FreshBooks [offer](../o/offer.md) comprehensive financial tracking and reporting capabilities, helping businesses manage their expenses and [revenue](../r/revenue.md) effectively.
 
-- [QuickBooks](https://quickbooks.intuit.com/)
-- [Xero](https://www.xero.com/)
-- [FreshBooks](https://www.freshbooks.com/)
+- QuickBooks
+- Xero
+- FreshBooks
 
 ### BI and Analytics Tools
 [Business](../b/business.md) Intelligence (BI) tools such as Tableau, Power BI, and Looker can provide deep analytical insights into financial data, aiding in strategic decision-making.
 
-- [Tableau](https://www.tableau.com/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [Looker](https://looker.com/)
+- Tableau
+- Power BI
+- Looker
 
 ### Expense Management Software
 Solutions like Expensify and Concur enable businesses to automate and streamline their [expense](../e/expense.md) reporting, reducing the [risk](../r/risk.md) of overspending.
 
-- [Expensify](https://www.expensify.com/)
-- [Concur](https://www.concur.com/)
+- Expensify
+- Concur
 
 ## Conclusion
 Burn rate is a critical financial metric that provides insights into the operational sustainability and [financial health](../f/financial_health.md) of a [business](../b/business.md), particularly in the [startup](../s/startup.md) ecosystem. By understanding and effectively managing burn rate, companies can optimize their growth strategies, maintain fiscal discipline, and ensure long-term viability.

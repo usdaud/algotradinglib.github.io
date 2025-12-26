@@ -4,7 +4,7 @@ In the realm of financial trading, specifically in the context of [options](../o
 
 ## Understanding Delta
 
-[Delta](../d/delta.md) (Δ) is one of the [Greeks](../g/greeks.md), a series of metrics used in [options](../o/options.md) trading to analyze different dimensions of [risk](../r/risk.md) involved in holding an [options](../o/options.md) position. [Delta](../d/delta.md) measures the sensitivity of an option's price to a $1 change in the price of the [underlying asset](../u/underlying_asset.md). It ranges between -1 and 1 (or -100 and 100 if considered in percentage terms). 
+[Delta](../d/delta.md) (Δ) is one of the [Greeks](../g/greeks.md), a series of metrics used in [options](../o/options.md) trading to analyze different dimensions of [risk](../r/risk.md) involved in holding an [options](../o/options.md) position. [Delta](../d/delta.md) measures the sensitivity of an option's price to a $1 change in the price of the [underlying asset](../u/underlying_asset.md). It ranges between -1 and 1 (or -100 and 100 if considered in percentage terms).
 
 - For call [options](../o/options.md), [delta](../d/delta.md) ranges from 0 to 1.
 - For [put options](../p/put_options.md), [delta](../d/delta.md) ranges from -1 to 0.
@@ -39,7 +39,7 @@ Consider you [hold](../h/hold.md) a [call option](../c/call_option.md) with a [d
 
 \[ \text{Total Delta} = \Delta_{\text{call}} \times \text{Number of [Options](../o/options.md)} + \Delta_{\text{stock}} \times \text{Number of [Shares](../s/shares.md)} \]
 
-If you have 10 call [options](../o/options.md): 
+If you have 10 call [options](../o/options.md):
 
 \[ \text{Total [Delta](../d/delta.md)} = 0.6 \times 10 + 1 \times 100 = 6 + 100 = 106 \]
 
@@ -61,9 +61,9 @@ Automated systems and algorithms are often employed to continuously monitor and 
 
 Various platforms and [trading systems](../t/trading_systems.md) provide tools for [delta hedging](../d/delta_hedging.md), such as:
 
-- **[ThinkorSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers trading tools and analytics for [delta hedging](../d/delta_hedging.md). [ThinkorSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides advanced [options](../o/options.md) analytics and [delta hedging](../d/delta_hedging.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [delta](../d/delta.md)-hedging via custom algorithms. [QuantConnect](https://www.quantconnect.com/)
+- **[ThinkorSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers trading tools and analytics for [delta hedging](../d/delta_hedging.md). ThinkorSwim
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides advanced [options](../o/options.md) analytics and [delta hedging](../d/delta_hedging.md) tools. Interactive Brokers
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [delta](../d/delta.md)-hedging via custom algorithms. QuantConnect
 
 ## Challenges and Considerations in Delta Hedging
 

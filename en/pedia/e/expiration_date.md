@@ -1,6 +1,6 @@
 # Expiration Date
 
-The expiration date in [financial markets](../f/financial_market.md) refers to the specific date when a [derivative](../d/derivative.md) contract, such as an [options](../o/options.md) or [futures contract](../f/futures_contract.md), ceases to be valid. On this date, the contract must be settled. It is a critical concept in the trading of [derivatives](../d/derivatives.md), influencing how traders make their decisions and manage their portfolios. 
+The expiration date in [financial markets](../f/financial_market.md) refers to the specific date when a [derivative](../d/derivative.md) contract, such as an [options](../o/options.md) or [futures contract](../f/futures_contract.md), ceases to be valid. On this date, the contract must be settled. It is a critical concept in the trading of [derivatives](../d/derivatives.md), influencing how traders make their decisions and manage their portfolios.
 
 ## Derivative Contracts
 
@@ -13,11 +13,11 @@ The expiration date in [financial markets](../f/financial_market.md) refers to t
 1. **Call [Options](../o/options.md):** These give the holder the right to buy the [underlying asset](../u/underlying_asset.md).
 2. **[Put Options](../p/put_options.md):** These give the holder the right to sell the [underlying asset](../u/underlying_asset.md).
 
-The expiration date for [options](../o/options.md) is particularly significant because it determines the last day on which the option can be exercised. 
+The expiration date for [options](../o/options.md) is particularly significant because it determines the last day on which the option can be exercised.
 
 ### Futures
 
-[Futures contracts](../f/futures_contracts.md) obligate the holder to buy or sell an [asset](../a/asset.md) at a predetermined price on the expiration date. Unlike [options](../o/options.md), [futures contracts](../f/futures_contracts.md) must be settled on this date. 
+[Futures contracts](../f/futures_contracts.md) obligate the holder to buy or sell an [asset](../a/asset.md) at a predetermined price on the expiration date. Unlike [options](../o/options.md), [futures contracts](../f/futures_contracts.md) must be settled on this date.
 
 ## Importance of Expiration Dates
 
@@ -61,9 +61,9 @@ In [algorithmic trading](../a/accountability.md), understanding and accurately p
 
 Various firms and platforms provide services targeted at algorithmic traders to help manage expiration-related complexities. Here are a few examples:
 
-- **[Interactive Brokers](../i/interactive_brokers.md):** An electronic [trading platform](../t/trading_platform.md) that offers tools for managing expiration dates in [derivative](../d/derivative.md) trading. [Interactive Brokers](https://www.interactivebrokers.com/)
-  
-- **ThinkorSwim by TD [Ameritrade](../a/ameritrade.md):** This platform provides advanced tools for [options](../o/options.md) trading, including features focused on expiration dates. [ThinkorSwim](https://www.tdameritrade.com/thinkorswim.html)
+- **[Interactive Brokers](../i/interactive_brokers.md):** An electronic [trading platform](../t/trading_platform.md) that offers tools for managing expiration dates in [derivative](../d/derivative.md) trading. Interactive Brokers
+
+- **ThinkorSwim by Charles Schwab:** This platform provides advanced tools for [options](../o/options.md) trading, including features focused on expiration dates. ThinkorSwim (formerly TD Ameritrade, acquired by Charles Schwab in September 2023)
 
 ## Conclusion
 

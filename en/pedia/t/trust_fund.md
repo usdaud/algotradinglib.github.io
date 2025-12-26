@@ -60,7 +60,7 @@ Irrevocable trusts cannot be changed once established, limiting flexibility.
 
 ## Trust Funds in Estate Planning
 
-[Trust](../t/trust.md) funds are an essential component of many [estate](../e/estate.md) plans. They provide a means of distributing assets to heirs while minimizing tax burdens and protecting assets from potential risks. Trusts can be used to ensure the financial [security](../s/security.md) of minor children, [fund](../f/fund.md) education, and support charitable causes. 
+[Trust](../t/trust.md) funds are an essential component of many [estate](../e/estate.md) plans. They provide a means of distributing assets to heirs while minimizing tax burdens and protecting assets from potential risks. Trusts can be used to ensure the financial [security](../s/security.md) of minor children, [fund](../f/fund.md) education, and support charitable causes.
 
 ### Example of Estate Planning Utilizing a Trust Fund
 A typical example is a parent setting up a [trust](../t/trust.md) [fund](../f/fund.md) to provide for the education of their children. Through the [trust](../t/trust.md), the parent specifies that the funds should be used exclusively for educational expenses, thereby ensuring that the intended purpose is met.
@@ -68,7 +68,7 @@ A typical example is a parent setting up a [trust](../t/trust.md) [fund](../f/fu
 ## Financial Technology and Trust Funds
 
 ### Digital Trust Fund Platforms
-Technological advancements have given rise to digital platforms that simplify the creation, management, and monitoring of [trust](../t/trust.md) funds. Companies like [Trust & Will](https://trustandwill.com/) [offer](../o/offer.md) online tools for setting up trusts and [estate planning](../e/estate_planning.md), making these financial instruments more accessible and affordable.
+Technological advancements have given rise to digital platforms that simplify the creation, management, and monitoring of [trust](../t/trust.md) funds. Companies like Trust & Will [offer](../o/offer.md) online tools for setting up trusts and [estate planning](../e/estate_planning.md), making these financial instruments more accessible and affordable.
 
 ### Blockchain and Smart Contracts
 [Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) are emerging as potential tools for managing [trust](../t/trust.md) funds. These technologies can automate various aspects of [trust](../t/trust.md) management, such as [asset](../a/asset.md) transfers and condition enforcement, enhancing [transparency](../t/transparency.md) and reducing administrative costs.

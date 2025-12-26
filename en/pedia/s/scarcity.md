@@ -1,6 +1,6 @@
 # Scarcity
 
-Scarcity is a fundamental economic principle that occurs because the resources available to meet human wants are limited and insufficient. This concept is central to [economics](../e/economics.md) and can significantly impact trading and [financial markets](../f/financial_market.md) as it drives decisions regarding the allocation of these limited resources. This document offers an in-depth exploration of scarcity, its influence on [financial markets](../f/financial_market.md), strategies to mitigate its effects, and its relationship with modern trading methodologies such as [algorithmic trading](../a/accountability.md).
+Scarcity is a fundamental economic principle that occurs because the resources available to meet human wants are limited and insufficient. This concept is central to [economics](../e/economics.md) and can significantly impact trading and [financial markets](../f/financial_market.md) as it drives decisions regarding the allocation of these limited resources. This document offers an in-depth exploration of scarcity, its influence on [financial markets](../f/financial_market.md), strategies to mitigate its effects, and its relationship with modern trading methodologies such as [algorithmic trading](../a/algorithmic_trading.md).
 
 ---
 
@@ -36,7 +36,7 @@ In [financial markets](../f/financial_market.md), scarcity affects the pricing o
 
 ## Mitigating Scarcity through Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (algo trading) is one area where scarcity can be effectively managed. Algo trading employs computers programmed to follow a specified set of instructions for placing a [trade](../t/trade.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md).
+[Algorithmic trading](../a/algorithmic_trading.md) (algo trading) is one area where scarcity can be effectively managed. Algo trading employs computers programmed to follow a specified set of instructions for placing a [trade](../t/trade.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md).
 
 ### Key Benefits of Algo Trading in Mitigating Scarcity
 
@@ -92,4 +92,4 @@ Rare earth metals, essential for various high-tech industries, are both scarce a
 
 ## Conclusion
 
-Scarcity is an omnipresent force that shapes economic decisions, [financial markets](../f/financial_market.md), and [trading strategies](../t/trading_strategies.md). Understanding its implications and employing advanced methodologies like [algorithmic trading](../a/accountability.md) and fintech innovations can help investors, traders, and policymakers navigate the challenges posed by limited resources.
+Scarcity is an omnipresent force that shapes economic decisions, [financial markets](../f/financial_market.md), and [trading strategies](../t/trading_strategies.md). Understanding its implications and employing advanced methodologies like [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations can help investors, traders, and policymakers navigate the challenges posed by limited resources.

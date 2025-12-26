@@ -4,7 +4,7 @@ The [welfare](../w/welfare.md) state refers to a social system in which the gove
 
 ## History and Evolution
 
-The roots of the [welfare](../w/welfare.md) state can be traced back to various social and [economic conditions](../e/economic_conditions.md) that prompted governments to take responsibility for the [welfare](../w/welfare.md) of their citizens. Historically, many societies implemented rudimentary forms of social assistance through religious institutions and community support mechanisms. 
+The roots of the [welfare](../w/welfare.md) state can be traced back to various social and [economic conditions](../e/economic_conditions.md) that prompted governments to take responsibility for the [welfare](../w/welfare.md) of their citizens. Historically, many societies implemented rudimentary forms of social assistance through religious institutions and community support mechanisms.
 
 The modern [welfare](../w/welfare.md) state concept, however, emerged in the 19th and 20th centuries, particularly in Europe, as countries grappled with the consequences of the [Industrial Revolution](../i/industrial_revolution.md). [Industrialization](../i/industrialization.md) led to significant social transformations, such as urbanization and the rise of the [working class](../w/working_class.md), which created new social risks and exposed vulnerabilities in existing support structures.
 

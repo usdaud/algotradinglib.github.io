@@ -50,4 +50,3 @@ Despite its many benefits, the FHA program is not without criticisms and challen
 
 The Federal Housing Administration has been an instrumental part of the American housing [market](../m/market.md) for nearly a century. It has provided opportunities for millions of individuals and families to achieve homeownership and has contributed to the stability and growth of the housing sector. While it faces certain criticisms and challenges, the FHA’s role in promoting accessible and affordable housing [finance](../f/finance.md) remains as critical today as it was during its inception.
 
-For more details on the Federal Housing Administration, please visit their official [website](https://www.hud.gov/federal_housing_administration).

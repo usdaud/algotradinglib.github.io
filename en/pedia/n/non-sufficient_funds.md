@@ -8,24 +8,24 @@ Non-Sufficient Funds (NSF) is a term used in banking and [finance](../f/finance.
 Non-Sufficient Funds occurs when an account holder initiates a [transaction](../t/transaction.md), be it a [check](../c/check.md), direct [debit](../d/debit.md), or electronic transfer, and the [available balance](../a/available_balance.md) is lower than the [transaction](../t/transaction.md) amount. Instead of completing the [transaction](../t/transaction.md), the [bank](../b/bank.md) declines it and typically levies an NSF [fee](../f/fee.md) on the account holder.
 
 ### 2. NSF vs. Overdraft
-NSF should not be confused with an [overdraft](../o/overdraft.md). While both involve insufficient account balances to cover transactions, overdrafts involve a [bank](../b/bank.md) covering the [shortfall](../s/shortfall.md) temporarily, which may incur [overdraft](../o/overdraft.md) fees and [interest](../i/interest.md). 
+NSF should not be confused with an [overdraft](../o/overdraft.md). While both involve insufficient account balances to cover transactions, overdrafts involve a [bank](../b/bank.md) covering the [shortfall](../s/shortfall.md) temporarily, which may incur [overdraft](../o/overdraft.md) fees and [interest](../i/interest.md).
 
 ### 3. NSF Fees
 Financial institutions charge NSF fees to cover the administrative costs associated with dealing with [insufficient funds](../i/insufficient_funds.md) transactions. These fees can [range](../r/range.md) from $25 to $39 depending on the institution and are often subject to regulations that vary by country and state.
 
 ### 4. Consequences of NSF
 The consequences of NSF can be quite severe for account holders:
-   - **Financial Penalties:** Repeated NSF occurrences can lead to significant financial stress due to accumulated fees.
-   - **[Credit Rating](../c/credit_rating.md) Impact:** Persistent NSF issues can affect one's [credit score](../c/credit_score.md), as unresolved NSF incidents may get reported to [credit](../c/credit.md) bureaus.
-   - **Service Disruption:** Services reliant on timely payments, such as utilities or subscriptions, may get interrupted.
-   - **Account Closure:** Continuous NSF incidents might result in the [bank](../b/bank.md) closing the affected account.
+ - **Financial Penalties:** Repeated NSF occurrences can lead to significant financial stress due to accumulated fees.
+ - **[Credit Rating](../c/credit_rating.md) Impact:** Persistent NSF issues can affect one's [credit score](../c/credit_score.md), as unresolved NSF incidents may get reported to [credit](../c/credit.md) bureaus.
+ - **Service Disruption:** Services reliant on timely payments, such as utilities or subscriptions, may get interrupted.
+ - **Account Closure:** Continuous NSF incidents might result in the [bank](../b/bank.md) closing the affected account.
 
 ### 5. Preventive Measures
 Account holders can adopt various strategies to avoid NSF:
-   - **Regular Monitoring:** Regularly [checking account](../c/checking_account.md) balances and recent transactions.
-   - **Alerts:** Setting up account alerts for low balances and pending transactions.
-   - **Budgeting:** Using budgeting tools and applications to manage finances more effectively.
-   - **[Overdraft Protection](../o/overdraft_protection.md):** Linking accounts to savings or [credit](../c/credit.md) lines that can cover shortfalls.
+ - **Regular Monitoring:** Regularly [checking account](../c/checking_account.md) balances and recent transactions.
+ - **Alerts:** Setting up account alerts for low balances and pending transactions.
+ - **Budgeting:** Using budgeting tools and applications to manage finances more effectively.
+ - **[Overdraft Protection](../o/overdraft_protection.md):** Linking accounts to savings or [credit](../c/credit.md) lines that can cover shortfalls.
 
 ## Impact on Financial Institutions
 
@@ -66,10 +66,10 @@ Automated transfer services between linked accounts ensure that funds are availa
 ## Case Studies
 
 ### 1. Wells Fargo
-Wells Fargo provides extensive information about their NSF fees and offers customers several tools to avoid [insufficient funds](../i/insufficient_funds.md) scenarios. Their approach includes mobile alerts, [overdraft protection](../o/overdraft_protection.md) [options](../o/options.md), and [customer](../c/customer.md) education. More detailed information can be found on their [official website](https://www.wellsfargo.com).
+Wells Fargo provides extensive information about their NSF fees and offers customers several tools to avoid [insufficient funds](../i/insufficient_funds.md) scenarios. Their approach includes mobile alerts, [overdraft protection](../o/overdraft_protection.md) [options](../o/options.md), and [customer](../c/customer.md)
 
 ### 2. Chase Bank
-Chase [Bank](../b/bank.md) is another financial institution that offers various solutions to manage NSF fees. These include [overdraft protection](../o/overdraft_protection.md) transfers from linked accounts and real-time [account balance](../a/account_balance.md) notifications through their mobile app. For more details, visit their [official website](https://www.chase.com).
+Chase [Bank](../b/bank.md) is another financial institution that offers various solutions to manage NSF fees. These include [overdraft protection](../o/overdraft_protection.md) transfers from linked accounts and real-time [account balance](../a/account_balance.md) notifications through their mobile app.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Greenshoe Option
 
-Greenshoe option, also known as an [overallotment](../o/overallotment.md) option, is a financial mechanism used in the [equity](../e/equity.md) and securities markets that allows underwriters to buy up to an additional 15% of a company's [shares](../s/shares.md) at the initial [offering price](../o/offering_price.md). This option is essentially used to stabilize the [issue](../i/issue.md) price of a stock after a company’s initial public [offering](../o/offering.md) (IPO). The term derives from the first company that utilized this option, Green Shoe [Manufacturing](../m/manufacturing.md) (now known as Stride Rite). 
+Greenshoe option, also known as an [overallotment](../o/overallotment.md) option, is a financial mechanism used in the [equity](../e/equity.md) and securities markets that allows underwriters to buy up to an additional 15% of a company's [shares](../s/shares.md) at the initial [offering price](../o/offering_price.md). This option is essentially used to stabilize the [issue](../i/issue.md) price of a stock after a company’s initial public [offering](../o/offering.md) (IPO). The term derives from the first company that utilized this option, Green Shoe [Manufacturing](../m/manufacturing.md) (now known as Stride Rite).
 
 ## Purpose and Function
 
@@ -31,7 +31,7 @@ The greenshoe option offers a [range](../r/range.md) of benefits to various stak
 ### Benefits
 
 1. **[Investor](../i/investor.md) Protection:** By maintaining share price stability, the greenshoe option mitigates the [risk](../r/risk.md) for investors who might otherwise face significant losses due to volatile price swings.
-   
+
 2. **[Market](../m/market.md) Stability:** Not only does this mechanism benefit individual investors, but it also contributes to overall [market](../m/market.md) stability. It ensures that new issues are absorbed smoothly, reducing [market](../m/market.md) disruption.
 
 3. **Enhanced [Liquidity](../l/liquidity.md):** By allowing additional [shares](../s/shares.md) to be issued in response to [demand](../d/demand.md), the greenshoe option ensures sufficient [liquidity](../l/liquidity.md), which is critical for the efficient functioning of the securities [market](../m/market.md).
@@ -48,7 +48,7 @@ The greenshoe option offers a [range](../r/range.md) of benefits to various stak
 
 ## Historical Context and Examples
 
-The greenshoe option has been utilized in various IPOs and significant financial transactions globally. It gained significant prominence and legal recognition in regulatory frameworks following its success. 
+The greenshoe option has been utilized in various IPOs and significant financial transactions globally. It gained significant prominence and legal recognition in regulatory frameworks following its success.
 
 ### Example: Facebook IPO
 

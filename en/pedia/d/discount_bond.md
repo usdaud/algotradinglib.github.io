@@ -55,17 +55,17 @@ In [algorithmic trading](../a/accountability.md), [discount](../d/discount.md) b
 ### Arbitrage Strategies
 
 1. **Cash and Carry [Arbitrage](../a/arbitrage.md)**:
-    - Involves buying the [discount](../d/discount.md) [bond](../b/bond.md) and holding it until [maturity](../m/maturity.md) while simultaneously entering into a [futures contract](../f/futures_contract.md) to sell the [bond](../b/bond.md)’s [face value](../f/face_value.md).
-    - The price differential between the [bond](../b/bond.md)'s current price and the future price is exploited.
+ - Involves buying the [discount](../d/discount.md) [bond](../b/bond.md) and holding it until [maturity](../m/maturity.md) while simultaneously entering into a [futures contract](../f/futures_contract.md) to sell the [bond](../b/bond.md)’s [face value](../f/face_value.md).
+ - The price differential between the [bond](../b/bond.md)'s current price and the future price is exploited.
 
 2. **Reverse Cash and Carry [Arbitrage](../a/arbitrage.md)**:
-    - Involves [short selling](../s/short_selling.md) the [bond](../b/bond.md) and [investing](../i/investing.md) the proceeds in a [risk](../r/risk.md)-free rate until the [bond](../b/bond.md)'s [maturity](../m/maturity.md).
+ - Involves [short selling](../s/short_selling.md) the [bond](../b/bond.md) and [investing](../i/investing.md) the proceeds in a [risk](../r/risk.md)-free rate until the [bond](../b/bond.md)'s [maturity](../m/maturity.md).
 
 ### Hedging Strategies
 
 Algorithmic traders use [discount](../d/discount.md) bonds to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) risks, [currency](../c/currency.md) risks, and other financial risks. For instance:
 - **[Interest Rate Risk Management](../i/interest_rate_risk_management.md)**:
-    - [Discount](../d/discount.md) bonds can be included in a portfolio to adjust its [duration](../d/duration.md), thereby managing exposure to [interest rate](../i/interest_rate.md) movements.
+ - [Discount](../d/discount.md) bonds can be included in a portfolio to adjust its [duration](../d/duration.md), thereby managing exposure to [interest rate](../i/interest_rate.md) movements.
 
 ### Liability-Driven Investment (LDI) Strategies
 
@@ -75,26 +75,25 @@ Pension funds and [insurance](../i/insurance.md) companies use [discount](../d/d
 
 ### Major Issuers
 1. **Government Securities**:
-    - Governments around the world [issue](../i/issue.md) [discount](../d/discount.md) bonds, such as T-Bills in the United States, to [finance](../f/finance.md) short-term needs.
-  
+ - Governments around the world [issue](../i/issue.md) [discount](../d/discount.md) bonds, such as T-Bills in the United States, to [finance](../f/finance.md) short-term needs.
+
 2. **Corporations**:
-    - Some corporations [issue](../i/issue.md) zero-coupon bonds to raise [capital](../c/capital.md) without the need for periodic [interest](../i/interest.md) payments.
+ - Some corporations [issue](../i/issue.md) zero-coupon bonds to raise [capital](../c/capital.md) without the need for periodic [interest](../i/interest.md) payments.
 
 ### Major Traders and Platforms
 
 1. **Trading Platforms**:
-    - **[Bloomberg Terminal](../b/bloomberg_terminal.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)**: Provides real-time data, news, analytics, and facilitates trading of [discount](../d/discount.md) bonds.
-    - **Tradeweb (https://www.tradeweb.com/)**: An online platform for trading [fixed income securities](../f/fixed_income_securities.md), including [discount](../d/discount.md) bonds.
+ - **[Bloomberg Terminal](../b/bloomberg_terminal.md) ( Provides real-time data, news, analytics, and facilitates trading of [discount](../d/discount.md) bonds.
+ - **Tradeweb ( An online platform for trading [fixed income securities](../f/fixed_income_securities.md), including [discount](../d/discount.md) bonds.
 
 2. **[Investment Banks](../i/investment_bank_(ib).md) and Financial Institutions**:
-    - Major financial institutions engage in trading and [market](../m/market.md)-making for [discount](../d/discount.md) bonds.
-    - Examples include **Goldman Sachs (https://www.goldmansachs.com/)**, **J.P. Morgan (https://www.jpmorgan.com/)**, and **Morgan Stanley (https://www.morganstanley.com/)**.
-
+ - Major financial institutions engage in trading and [market](../m/market.md)-making for [discount](../d/discount.md) bonds.
+ - Examples include **Goldman Sachs **J.P. Morgan and **Morgan Stanley
 ## Risks and Considerations
 
 ### Interest Rate Risk
 
-[Discount](../d/discount.md) bonds are highly sensitive to changes in [interest](../i/interest.md) rates. An increase in [interest](../i/interest.md) rates [will](../w/will.md) result in a decrease in the [bond](../b/bond.md)'s price and vice versa. 
+[Discount](../d/discount.md) bonds are highly sensitive to changes in [interest](../i/interest.md) rates. An increase in [interest](../i/interest.md) rates [will](../w/will.md) result in a decrease in the [bond](../b/bond.md)'s price and vice versa.
 
 ### Reinvestment Risk
 

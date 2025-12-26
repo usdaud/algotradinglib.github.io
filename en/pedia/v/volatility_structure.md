@@ -1,6 +1,6 @@
 # Volatility Structure
 
-[Volatility](../v/volatility.md) structure is a crucial concept in [financial markets](../f/financial_market.md), particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). This term often relates to the [variability](../v/variability.md) and [distribution](../d/distribution.md) of price changes of financial instruments. The concept encompasses various forms, including [historical volatility](../h/historical_volatility.md), implied [volatility](../v/volatility.md), term structure of [volatility](../v/volatility.md), and the [volatility surface](../v/volatility_surface.md). Understanding [volatility](../v/volatility.md) structure can significantly enhance the performance of [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) practices. 
+[Volatility](../v/volatility.md) structure is a crucial concept in [financial markets](../f/financial_market.md), particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). This term often relates to the [variability](../v/variability.md) and [distribution](../d/distribution.md) of price changes of financial instruments. The concept encompasses various forms, including [historical volatility](../h/historical_volatility.md), implied [volatility](../v/volatility.md), term structure of [volatility](../v/volatility.md), and the [volatility surface](../v/volatility_surface.md). Understanding [volatility](../v/volatility.md) structure can significantly enhance the performance of [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) practices.
 
 ## Historical Volatility
 
@@ -21,26 +21,26 @@ The formula for calculating [historical volatility](../h/historical_volatility.m
 Assume a stock has daily closing prices for the last 5 days as follows: 100, 102, 101, 105, 107.
 
 1. Calculate the daily returns:
-   - (102/100) - 1 = 0.02
-   - (101/102) - 1 = -0.0098
-   - (105/101) - 1 = 0.0396
-   - (107/105) - 1 = 0.019
+ - (102/100) - 1 = 0.02
+ - (101/102) - 1 = -0.0098
+ - (105/101) - 1 = 0.0396
+ - (107/105) - 1 = 0.019
 
 2. Mean of daily returns:
-   - (0.02 - 0.0098 + 0.0396 + 0.019) / 4 = 0.0172
+ - (0.02 - 0.0098 + 0.0396 + 0.019) / 4 = 0.0172
 
 3. Deviations from the mean:
-   - (0.02 - 0.0172), (-0.0098 - 0.0172), (0.0396 - 0.0172), (0.019 - 0.0172)
-   - 0.0028, -0.027, 0.0224, 0.0018
+ - (0.02 - 0.0172), (-0.0098 - 0.0172), (0.0396 - 0.0172), (0.019 - 0.0172)
+ - 0.0028, -0.027, 0.0224, 0.0018
 
 4. Squared deviations:
-   - 0.00000784, 0.000729, 0.00050176, 0.00000324
+ - 0.00000784, 0.000729, 0.00050176, 0.00000324
 
 5. Variance:
-   - (0.00000784 + 0.000729 + 0.00050176 + 0.00000324) / 4 = 0.00031046
+ - (0.00000784 + 0.000729 + 0.00050176 + 0.00000324) / 4 = 0.00031046
 
 6. [Standard Deviation](../s/standard_deviation.md) ([Volatility](../v/volatility.md)):
-   - sqrt(0.0003104) = 0.0176 or 1.76%
+ - sqrt(0.0003104) = 0.0176 or 1.76%
 
 ## Implied Volatility
 

@@ -68,31 +68,31 @@ Several firms are at the forefront of quantitative [fund](../f/fund.md) manageme
 
 Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [Fund](../f/fund.md), which has posted exceptional returns over the years. The [firm](../f/firm.md)'s success is attributed to its rigorous quantitative approach and talented team of mathematicians and scientists.
 
-[https://www.rentec.com/](https://www.rentec.com/)
+
 
 ### Two Sigma
 
 Two Sigma employs a wide [range](../r/range.md) of data sources and advanced modeling techniques to drive its investment strategies. The [firm](../f/firm.md) focuses on innovation and research to stay ahead in the competitive [quant fund](../q/quant_fund.md) landscape.
 
-[https://www.twosigma.com/](https://www.twosigma.com/)
+
 
 ### Citadel
 
 Citadel, founded by Ken Griffin, utilizes quantitative methods across its various investment strategies, including equities, [fixed income](../f/fixed_income.md), and commodities. The [firm](../f/firm.md)'s extensive technological [infrastructure](../i/infrastructure.md) supports its high-frequency and [systematic trading](../s/systematic_trading.md) activities.
 
-[https://www.citadel.com/](https://www.citadel.com/)
+
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management integrates [quantitative research](../q/quantitative_research.md) with [fundamental analysis](../f/fundamental_analysis.md) to deliver diversified investment solutions. The [firm](../f/firm.md)'s expertise spans a wide [range](../r/range.md) of [asset](../a/asset.md) classes and investment strategies.
 
-[https://www.aqr.com/](https://www.aqr.com/)
+
 
 ### D.E. Shaw Group
 
 The D.E. Shaw Group is known for its systematic approach to [investment management](../i/investment_management.md), employing sophisticated [quantitative models](../q/quantitative_models.md) and extensive computing resources to identify and exploit [market](../m/market.md) inefficiencies.
 
-[https://www.deshaw.com/](https://www.deshaw.com/)
+
 
 ## Challenges and Considerations
 

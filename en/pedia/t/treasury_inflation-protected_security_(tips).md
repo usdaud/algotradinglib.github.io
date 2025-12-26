@@ -96,7 +96,7 @@ The semiannual [inflation](../i/inflation.md) adjustments to the [principal](../
 
 ### Direct Purchases from TreasuryDirect
 
-Investors can purchase TIPS directly from the U.S. government through the TreasuryDirect website. This method is beneficial for those who want to [hold](../h/hold.md) TIPS to [maturity](../m/maturity.md) and avoid brokerage fees.
+Investors can purchase TIPS directly from the U.S. government. This method is beneficial for those who want to [hold](../h/hold.md) TIPS to [maturity](../m/maturity.md) and avoid brokerage fees.
 
 ### Brokerage Accounts
 
@@ -110,4 +110,4 @@ TIPS can also be purchased through brokerage accounts. This method provides more
 
 Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) [offer](../o/offer.md) a unique and valuable addition to an [investor](../i/investor.md)’s portfolio, providing essential protection against the eroding effects of [inflation](../i/inflation.md). By adjusting the [principal](../p/principal.md) [value](../v/value.md) with the changing [inflation](../i/inflation.md) rate, TIPS ensure that the [investor](../i/investor.md)'s [purchasing power](../p/purchasing_power.md) remains intact. Their safety, backed by the U.S. government, along with their [inflation](../i/inflation.md)-protection characteristics, makes them an attractive option for [risk-averse](../r/risk-averse.md) investors and those seeking to diversify their investment portfolios.
 
-For more information on TIPS and how to purchase them, visit the [U.S. Treasury](../u/u.s._treasury.md)'s official site [TreasuryDirect](https://www.treasurydirect.gov/).
+For more information on TIPS and how to purchase them, visit the [U.S. Treasury](../u/u.s._treasury.md)'s public materials TreasuryDirect.

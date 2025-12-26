@@ -54,15 +54,15 @@ Algorithms detect trends based on historical price movements, placing limit orde
 
 ### Algorithm Development
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers cloud-based tools for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect offers cloud-based tools for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
 - **Quantopian**: Although closed in 2020, it provided popular resources for [algorithmic trading](../a/algorithmic_trading.md).
 - **MetaTrader 5**: A leading [trading platform](../t/trading_platform.md) supporting custom [algorithmic trading](../a/algorithmic_trading.md) strategies with MQL5.
 
 ### Brokerage Services
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/) provides advanced trading platforms and tools, ideal for implementing dynamic [limit order](../l/limit_order.md) strategies.
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/) offers a suite of trading tools and integration capabilities for algorithmic traders.
-- **[Robinhood](../r/robinhood.md)**: [Robinhood](https://robinhood.com/), though designed for retail investors, supports basic [limit order](../l/limit_order.md) functionality.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers provides advanced trading platforms and tools, ideal for implementing dynamic [limit order](../l/limit_order.md) strategies.
+- **TD [Ameritrade](../a/ameritrade.md)**: TD Ameritrade offers a suite of trading tools and integration capabilities for algorithmic traders.
+- **[Robinhood](../r/robinhood.md)**: Robinhood, though designed for retail investors, supports basic [limit order](../l/limit_order.md) functionality.
 
 ## Advanced Techniques in Limit Order Strategies
 
@@ -98,7 +98,7 @@ Large orders are divided into smaller chunks to minimize [market](../m/market.md
 
 For further reading and resources, visit the platforms mentioned above:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [TD Ameritrade](https://www.tdameritrade.com/)
-- [Robinhood](https://robinhood.com/)
+- QuantConnect
+- Interactive Brokers
+- TD Ameritrade
+- Robinhood

@@ -12,14 +12,14 @@ Dividends are paid out by companies to their shareholders as a [distribution](..
 
 ### 3. **Capital Gains**
 [Capital](../c/capital.md) gains are realized when an investment is sold for a higher price than its purchase cost. There are two types of [capital](../c/capital.md) gains:
-   - **Short-term [capital](../c/capital.md) gains**: Realized on assets held for less than a year, usually taxed as [ordinary income](../o/ordinary_income.md).
-   - **Long-term [capital](../c/capital.md) gains**: Realized on assets held for more than a year, generally taxed at a lower rate compared to short-term gains.
+ - **Short-term [capital](../c/capital.md) gains**: Realized on assets held for less than a year, usually taxed as [ordinary income](../o/ordinary_income.md).
+ - **Long-term [capital](../c/capital.md) gains**: Realized on assets held for more than a year, generally taxed at a lower rate compared to short-term gains.
 
 ### 4. **Investment Expenses**
 Investment expenses include costs directly related to managing investments, such as:
-   - **Advisory fees**: Payments to financial advisors or [asset](../a/asset.md) managers for their services.
-   - **[Interest](../i/interest.md) paid on loans**: [Interest](../i/interest.md) on loans used to acquire investments.
-   - **Miscellaneous expenses**: Costs such as custodial fees, subscriptions to financial publications, and other expenses that can be directly attributed to managing investments.
+ - **Advisory fees**: Payments to financial advisors or [asset](../a/asset.md) managers for their services.
+ - **[Interest](../i/interest.md) paid on loans**: [Interest](../i/interest.md) on loans used to acquire investments.
+ - **Miscellaneous expenses**: Costs such as custodial fees, subscriptions to financial publications, and other expenses that can be directly attributed to managing investments.
 
 ## Calculation of Net Investment Income
 
@@ -28,40 +28,40 @@ The basic formula for calculating Net [Investment Income](../i/investment_income
 \[ \text{NII} = \text{Total [Investment Income](../i/investment_income.md)} - \text{Investment Expenses} \]
 
 Where:
-   - **Total [Investment Income](../i/investment_income.md)**: Sum of dividends, [interest](../i/interest.md) [income](../i/income.md), and [capital](../c/capital.md) gains.
-   - **Investment Expenses**: Sum of all costs associated with managing investments.
+ - **Total [Investment Income](../i/investment_income.md)**: Sum of dividends, [interest](../i/interest.md) [income](../i/income.md), and [capital](../c/capital.md) gains.
+ - **Investment Expenses**: Sum of all costs associated with managing investments.
 
 ### Example Calculation
 
 Let's assume an individual has the following [investment income](../i/investment_income.md) and expenses for a year:
 
-   - Dividends: $5,000
-   - [Interest](../i/interest.md) [Income](../i/income.md): $3,000
-   - Short-term [Capital](../c/capital.md) Gains: $2,000
-   - Long-term [Capital](../c/capital.md) Gains: $4,000
+ - Dividends: $5,000
+ - [Interest](../i/interest.md) [Income](../i/income.md): $3,000
+ - Short-term [Capital](../c/capital.md) Gains: $2,000
+ - Long-term [Capital](../c/capital.md) Gains: $4,000
 
 Total [Investment Income](../i/investment_income.md):
 
-\[ 
-\text{Total [Investment Income](../i/investment_income.md)} = \$5,000 + \$3,000 + \$2,000 + \$4,000 = \$14,000 
+\[
+\text{Total [Investment Income](../i/investment_income.md)} = \$5,000 + \$3,000 + \$2,000 + \$4,000 = \$14,000
 \]
 
 Now, subtract the investment-related expenses:
 
-   - Advisory Fees: $2,000
-   - [Interest](../i/interest.md) Paid on Loans: $1,500
-   - Miscellaneous Expenses: $500
+ - Advisory Fees: $2,000
+ - [Interest](../i/interest.md) Paid on Loans: $1,500
+ - Miscellaneous Expenses: $500
 
 Total Investment Expenses:
 
-\[ 
-\text{Total Investment Expenses} = \$2,000 + \$1,500 + \$500 = \$4,000 
+\[
+\text{Total Investment Expenses} = \$2,000 + \$1,500 + \$500 = \$4,000
 \]
 
 Net [Investment Income](../i/investment_income.md):
 
-\[ 
-\text{NII} = \$14,000 - \$4,000 = \$10,000 
+\[
+\text{NII} = \$14,000 - \$4,000 = \$10,000
 \]
 
 ## Significance of Net Investment Income
@@ -77,10 +77,10 @@ For corporations, NII is an [indicator](../i/indicator.md) of the [efficiency](.
 
 ## NII in Algorithmic Trading and Fintech
 
-In the realm of [algorithmic trading](../a/accountability.md) and fintech, NII plays a pivotal role in shaping investment strategies and financial products. Here are a few ways NII integrates into these sectors:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and fintech, NII plays a pivotal role in shaping investment strategies and financial products. Here are a few ways NII integrates into these sectors:
 
 ### Algorithmic Trading Systems
-[Algorithmic trading](../a/accountability.md) systems [leverage](../l/leverage.md) NII calculations for [backtesting](../b/backtesting.md) and optimizing [trading algorithms](../t/trading_algorithms.md). By accurately factoring in dividends, [interest](../i/interest.md) [income](../i/income.md), and [capital](../c/capital.md) gains, these systems can predict the potential profitability of [trading strategies](../t/trading_strategies.md) and improve decision-making processes.
+[Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) NII calculations for [backtesting](../b/backtesting.md) and optimizing [trading algorithms](../t/trading_algorithms.md). By accurately factoring in dividends, [interest](../i/interest.md) [income](../i/income.md), and [capital](../c/capital.md) gains, these systems can predict the potential profitability of [trading strategies](../t/trading_strategies.md) and improve decision-making processes.
 
 ### Robo-Advisors
 Robo-advisors, which automate [investment management](../i/investment_management.md) using algorithms, use NII to tailor investment strategies to individual preferences and financial goals. By analyzing historical and projected NII, robo-advisors can recommend portfolios that maximize after-tax returns and align with the user's [risk tolerance](../r/risk_tolerance.md).
@@ -107,4 +107,4 @@ Effective use of NII requires integration with broader [financial planning](../f
 
 ## Conclusion
 
-Net [Investment Income](../i/investment_income.md) is a fundamental metric in both personal and [corporate finance](../c/corporate_finance.md), providing a clear picture of the profitability of investment activities. Understanding NII allows investors to make informed decisions, optimize tax strategies, and measure [portfolio performance](../p/portfolio_performance.md). In the evolving landscape of [algorithmic trading](../a/accountability.md) and fintech, NII remains a crucial element in developing advanced financial solutions and maximizing investment returns. As investments grow in complexity and tax regulations continue to evolve, accurate calculation and strategic use of NII [will](../w/will.md) remain essential for achieving financial success.
+Net [Investment Income](../i/investment_income.md) is a fundamental metric in both personal and [corporate finance](../c/corporate_finance.md), providing a clear picture of the profitability of investment activities. Understanding NII allows investors to make informed decisions, optimize tax strategies, and measure [portfolio performance](../p/portfolio_performance.md). In the evolving landscape of [algorithmic trading](../a/algorithmic_trading.md) and fintech, NII remains a crucial element in developing advanced financial solutions and maximizing investment returns. As investments grow in complexity and tax regulations continue to evolve, accurate calculation and strategic use of NII [will](../w/will.md) remain essential for achieving financial success.

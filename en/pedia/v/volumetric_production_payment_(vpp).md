@@ -96,7 +96,7 @@ In today's financial landscape, VPPs have found a niche beyond traditional oil a
 
 ### Companies Utilizing VPPs
 
-For example, you can find more information about current users of VPPs within larger financial entities and energy companies. Companies such as **Chesapeake Energy** ([link](https://www.chk.com/)) and **ExxonMobil** ([link](https://corporate.exxonmobil.com/)) are notable for their involvement in VPP transactions.
+For example, you can find more information about current users of VPPs within larger financial entities and energy companies. Companies such as **Chesapeake Energy** (link) and **ExxonMobil** (link) are notable for their involvement in VPP transactions.
 
 ## Conclusion
 

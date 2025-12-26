@@ -6,7 +6,7 @@ The "house [money](../m/money.md) effect" is a concept primarily found in [behav
 
 The term "house [money](../m/money.md) effect" originated from gambling, where the "house" refers to the casino. When gamblers win [money](../m/money.md), they often regard these winnings as less valuable than the [money](../m/money.md) they originally brought to the game. This leads them to play more aggressively and make riskier bets, a behavior that has intriguing parallels in the world of trading and investment.
 
-In [behavioral finance](../b/behavioral_finance.md), the house [money](../m/money.md) effect is a type of [mental accounting](../m/mental_accounting.md) bias. [Mental accounting](../m/mental_accounting.md) refers to the cognitive process where people categorize, compartmentalize, and treat [money](../m/money.md) differently depending on its source, purpose, or intended use. Richard Thaler, a pioneer in [behavioral economics](../b/behavioral_economics.md), extensively discussed [mental accounting](../m/mental_accounting.md) in his research. The house [money](../m/money.md) effect can significantly influence financial decision-making, as it alters one's [risk](../r/risk.md) appetite based on previous gains. 
+In [behavioral finance](../b/behavioral_finance.md), the house [money](../m/money.md) effect is a type of [mental accounting](../m/mental_accounting.md) bias. [Mental accounting](../m/mental_accounting.md) refers to the cognitive process where people categorize, compartmentalize, and treat [money](../m/money.md) differently depending on its source, purpose, or intended use. Richard Thaler, a pioneer in [behavioral economics](../b/behavioral_economics.md), extensively discussed [mental accounting](../m/mental_accounting.md) in his research. The house [money](../m/money.md) effect can significantly influence financial decision-making, as it alters one's [risk](../r/risk.md) appetite based on previous gains.
 
 ## Understanding the Psychological Mechanism
 
@@ -23,9 +23,9 @@ Several psychological factors contribute to this effect:
 
 ### Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), the house [money](../m/money.md) effect can influence the design and performance of [trading algorithms](../t/trading_algorithms.md). [Algorithmic trading](../a/accountability.md) relies on pre-set rules and models to make trading decisions, often reducing emotional biases. However, the parameters and strategies developed by human traders can still be subject to [cognitive biases](../c/cognitive_biases_in_trading.md), including the house [money](../m/money.md) effect.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the house [money](../m/money.md) effect can influence the design and performance of [trading algorithms](../t/trading_algorithms.md). [Algorithmic trading](../a/algorithmic_trading.md) relies on pre-set rules and models to make trading decisions, often reducing emotional biases. However, the parameters and strategies developed by human traders can still be subject to [cognitive biases](../c/cognitive_biases_in_trading.md), including the house [money](../m/money.md) effect.
 
-[Algorithmic trading](../a/accountability.md) systems might be adjusted based on recent [trading performance](../t/trading_performance.md). For instance, a [trader](../t/trader.md) might allow an algorithm to take on more significant risks after a series of profitable trades, influenced by the house [money](../m/money.md) effect. While this can sometimes result in higher profits, it can also lead to substantial losses if the increased risks are not well-calculated.
+[Algorithmic trading](../a/algorithmic_trading.md) systems might be adjusted based on recent [trading performance](../t/trading_performance.md). For instance, a [trader](../t/trader.md) might allow an algorithm to take on more significant risks after a series of profitable trades, influenced by the house [money](../m/money.md) effect. While this can sometimes result in higher profits, it can also lead to substantial losses if the increased risks are not well-calculated.
 
 ### Behavioral Finance and Investor Behavior
 

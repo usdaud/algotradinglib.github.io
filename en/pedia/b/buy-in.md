@@ -44,7 +44,7 @@ Regulations surrounding buy-ins differ from one jurisdiction to another but aim 
 
 ### 1. **SEC Regulation SHO in the U.S.**
 
-[Regulation SHO](../r/regulation_sho.md) is enforced by the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) to address issues related to short sales and fails to deliver. It mandates marking of sales, delivery requirements, and close-out procedures for fails to deliver. More information can be found on the [SEC's official website](https://www.sec.gov/rules/final/34-50103.htm).
+[Regulation SHO](../r/regulation_sho.md) is enforced by the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) to address issues related to short sales and fails to deliver. It mandates marking of sales, delivery requirements, and close-out procedures for fails to deliver.
 
 ### 2. **European Securities and Markets Authority (ESMA)**
 

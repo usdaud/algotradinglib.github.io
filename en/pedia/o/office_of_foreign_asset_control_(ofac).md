@@ -19,7 +19,7 @@ OFAC administers a variety of sanctions programs that can be country-specific (e
 
 ### Specially Designated Nationals (SDN) List
 
-A cornerstone of OFAC’s enforcement capabilities is the Specially Designated Nationals and Blocked Persons List (SDN List). Individuals and entities [listed](../l/listed.md) are subject to [asset](../a/asset.md) freezes and U.S. persons are generally prohibited from dealing with them. The SDN List is continually updated as new threats emerge and is accessible via the [OFAC website](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-list-data-formats).
+A cornerstone of OFAC’s enforcement capabilities is the Specially Designated Nationals and Blocked Persons List (SDN List). Individuals and entities [listed](../l/listed.md) are subject to [asset](../a/asset.md) freezes and U.S. persons are generally prohibited from dealing with them. The SDN List is continually
 
 ### Licensing
 
@@ -77,4 +77,4 @@ As global dynamics shift, OFAC is continually adapting its strategies. The rise 
 
 The Office of Foreign [Asset](../a/asset.md) Control (OFAC) plays a crucial role in the U.S. government's toolkit for maintaining national [security](../s/security.md) and addressing foreign policy challenges. Through its sanctions programs, enforcement actions, and international collaborations, OFAC aims to curtail adversarial infrastructures and activities that pose threats. While its impact is broad and sometimes controversial, the agency's work is fundamental to the strategic economic and [security](../s/security.md) interests of the United States.
 
-For more details and updates on OFAC's activities, you can visit the [U.S. Department of the Treasury’s OFAC page](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information).
+For more details and updates on OFAC's activities, consult U.S. Department of the Treasury materials.

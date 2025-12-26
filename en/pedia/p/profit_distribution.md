@@ -7,7 +7,7 @@
 
 ### Stakeholders
 In an [algorithmic trading](../a/algorithmic_trading.md) setup, stakeholders can include individual traders, investment firms, data scientists, software developers, and investors. Understanding who the stakeholders are and their respective roles is crucial for effective [profit](../p/profit.md) [distribution](../d/distribution.md).
-  
+
 - **Traders**: These are the individuals or firms who operate or own the [trading algorithms](../t/trading_algorithms.md). They typically have significant knowledge of [market](../m/market.md) conditions and [trading strategies](../t/trading_strategies.md).
 - **Investors**: These are individuals or entities that provide [capital](../c/capital.md) for trading. They are vital as they [supply](../s/supply.md) the funds required to execute trades.
 - **Data Scientists**: Responsible for developing and refining algorithms. Their expertise in statistical analysis, [machine learning](../m/machine_learning.md), and data management is essential.
@@ -29,7 +29,7 @@ Profits are allocated based on [performance metrics](../p/performance_metrics.md
 #### Simple Proportional Distribution Formula
 \[ \text{[Profit](../p/profit.md) Share}_{i} = \frac{\text{Investment}_{i}}{\sum \text{Investments}} \times \text{Total Profits} \]
 
-In this formula, 
+In this formula,
 - \( \text{[Profit](../p/profit.md) Share}_{i} \) is the share of profits for the \( i^{th} \) [investor](../i/investor.md),
 - \( \text{Investment}_{i} \) is the amount invested by the \( i^{th} \) [stakeholder](../s/stakeholder.md),
 - \( \sum \text{Investments} \) is the total investment made by all stakeholders,
@@ -45,7 +45,7 @@ Example:
 **Licensing Agreements** - Used when [proprietary algorithms](../p/proprietary_algorithms.md) are licensed to third parties. The owner of the algorithm receives a percentage of the profits generated from its use.
 ### Legal and Regulatory Considerations
 
-Ensuring compliance with relevant laws and regulations is crucial for [algorithmic trading](../a/algorithmic_trading.md) operations. 
+Ensuring compliance with relevant laws and regulations is crucial for [algorithmic trading](../a/algorithmic_trading.md) operations.
 **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)** - Regulates securities trading in the United States.
 **Markets in Financial Instruments Directive ([MiFID II](../m/mifid_ii.md))** - Regulates trading operations in the [European Union](../e/european_union_(eu).md).
 **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)** - Regulates [futures](../f/futures.md) and [options](../o/options.md) markets in the United States.

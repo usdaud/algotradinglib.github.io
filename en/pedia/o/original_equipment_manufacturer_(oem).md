@@ -42,7 +42,6 @@ In electronics, companies like **Intel**, **Qualcomm**, and **Samsung** serve as
 In the software [industry](../i/industry.md), companies like **Microsoft** often provide OEM software licenses. For example, a new laptop might come with a pre-installed Windows OS, which is an OEM version of the software. This benefits consumers by providing a pre-tested and optimized combination of hardware and software.
 
 #### Example: Microsoft OEM Products
-- **Website:** [Microsoft OEM](https://www.microsoft.com)
 
 ## Challenges and Considerations
 

@@ -66,11 +66,11 @@ Before deploying [volume](../v/volume.md)-based algorithms in live trading, rigo
 
 Several trading platforms and tools [offer](../o/offer.md) support for implementing [volume](../v/volume.md) confirmation in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform that offers extensive data, including [volume](../v/volume.md), for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com)
-  
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data and analytics, including [volume](../v/volume.md) metrics, which can be used for real-time and historical analysis. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
-  
-- **[TradingView](../t/tradingview.md)**: A popular charting platform that supports [volume analysis](../v/volume_analysis.md) and can be used to develop and test [volume](../v/volume.md)-based [trading strategies](../t/trading_strategies.md). [TradingView](https://www.tradingview.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform that offers extensive data, including [volume](../v/volume.md), for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. QuantConnect
+
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data and analytics, including [volume](../v/volume.md) metrics, which can be used for real-time and historical analysis. Bloomberg Terminal
+
+- **[TradingView](../t/tradingview.md)**: A popular charting platform that supports [volume analysis](../v/volume_analysis.md) and can be used to develop and test [volume](../v/volume.md)-based [trading strategies](../t/trading_strategies.md). TradingView
 
 ## Conclusion
 

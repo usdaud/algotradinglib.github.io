@@ -22,7 +22,7 @@ This formula indicates the optimal fraction of one's [money](../m/money.md) to b
 
 ### Application in Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), the [Kelly Criterion](../k/kelly_criterion.md) can be used to determine the portion of the trading [capital](../c/capital.md) to invest in a particular strategy or [asset](../a/asset.md). The goal is to adjust the [trade](../t/trade.md) size based on the expected returns and the win-rate of the [trading strategy](../t/trading_strategy.md). 
+In [algorithmic trading](../a/algorithmic_trading.md), the [Kelly Criterion](../k/kelly_criterion.md) can be used to determine the portion of the trading [capital](../c/capital.md) to invest in a particular strategy or [asset](../a/asset.md). The goal is to adjust the [trade](../t/trade.md) size based on the expected returns and the win-rate of the [trading strategy](../t/trading_strategy.md).
 
 #### Example
 
@@ -95,11 +95,9 @@ Financial advisors and modern [algorithmic trading](../a/algorithmic_trading.md)
 ## Kelly Criterion in Technology and Software
 
 Several financial technology companies have developed tools and software that help traders apply Kelly betting strategies. For instance:
-- **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) solutions, including Kelly-based [portfolio optimization](../p/portfolio_optimization.md).
-- **AlgorithmicTrading.net** (https://algorithmictrading.net/): Provides traders with [algorithmic trading](../a/algorithmic_trading.md) strategies that sometimes [leverage](../l/leverage.md) the principles of the [Kelly Criterion](../k/kelly_criterion.md).
+- **[StockSharp](../s/stocksharp.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) solutions, including Kelly-based [portfolio optimization](../p/portfolio_optimization.md).
+- **AlgorithmicTrading.net** ( Provides traders with [algorithmic trading](../a/algorithmic_trading.md) strategies that sometimes [leverage](../l/leverage.md) the principles of the [Kelly Criterion](../k/kelly_criterion.md).
 
 ## Conclusion
 
 Kelly betting strategies [offer](../o/offer.md) a scientifically grounded method for optimal bet sizing in trading, gambling, and [investing](../i/investing.md). While theoretically attractive, practical application requires careful estimation of probabilities and often benefits from a fractional approach to balance growth and [risk management](../r/risk_management.md). Adoption of Kelly strategies in financial trading platforms and [hedge](../h/hedge.md) funds attests to their [robust](../r/robust.md) [utility](../u/utility.md) and the ongoing relevance in the dynamic world of trading and investment.
-
-

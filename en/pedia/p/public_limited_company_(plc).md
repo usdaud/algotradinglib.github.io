@@ -64,16 +64,16 @@ A PLC may eventually choose to delist from the stock [exchange](../e/exchange.md
 ## Case Studies
 
 ### GlaxoSmithKline plc (GSK)
-GlaxoSmithKline plc is one of the leading pharmaceutical companies globally and is [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md). Being a PLC allows GSK to raise the [capital](../c/capital.md) needed for extensive research and development in developing new medications and vaccines. More information can be found at [GSK](https://www.gsk.com/).
+GlaxoSmithKline plc is one of the leading pharmaceutical companies globally and is [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md). Being a PLC allows GSK to raise the [capital](../c/capital.md) needed for extensive research and development in developing new medications and vaccines. More information can be found at GSK.
 
 ### Tesco plc
-Tesco plc is a multinational grocery and general merchandise retailer. As a PLC, Tesco can [leverage](../l/leverage.md) its public [shareholder](../s/shareholder.md) base to [fund](../f/fund.md) its operations and strategic expansions across the globe. For further details, visit [Tesco](https://www.tescoplc.com/).
+Tesco plc is a multinational grocery and general merchandise retailer. As a PLC, Tesco can [leverage](../l/leverage.md) its public [shareholder](../s/shareholder.md) base to [fund](../f/fund.md) its operations and strategic expansions across the globe. For further details, visit Tesco.
 
 ### HSBC Holdings plc
-HSBC [Holdings](../h/holdings.md) plc is one of the largest banking and financial services organizations in the world. Its status as a PLC allows it to access extensive [capital markets](../c/capital_markets.md) to support its wide [range](../r/range.md) of banking services. More insights can be found at [HSBC](https://www.hsbc.com/).
+HSBC [Holdings](../h/holdings.md) plc is one of the largest banking and financial services organizations in the world. Its status as a PLC allows it to access extensive [capital markets](../c/capital_markets.md) to support its wide [range](../r/range.md) of banking services. More insights can be found at HSBC.
 
 ## Conclusion
 
-A Public Limited Company (PLC) provides a unique structure that facilitates access to vast pools of [capital](../c/capital.md), enhances corporate credibility, and offers [liquidity](../l/liquidity.md) to shareholders. However, it also comes with its set of challenges, including regulatory burdens and the need for significant public [disclosure](../d/disclosure.md). The decision to go public and become a PLC is a pivotal move that can significantly influence a company's future trajectory, governance, and [financial health](../f/financial_health.md). Factors such as the ability to raise [capital](../c/capital.md), improve [liquidity](../l/liquidity.md), and expand into new markets often outweigh the challenges, making the PLC a popular choice for large enterprises looking to grow and scale their operations. 
+A Public Limited Company (PLC) provides a unique structure that facilitates access to vast pools of [capital](../c/capital.md), enhances corporate credibility, and offers [liquidity](../l/liquidity.md) to shareholders. However, it also comes with its set of challenges, including regulatory burdens and the need for significant public [disclosure](../d/disclosure.md). The decision to go public and become a PLC is a pivotal move that can significantly influence a company's future trajectory, governance, and [financial health](../f/financial_health.md). Factors such as the ability to raise [capital](../c/capital.md), improve [liquidity](../l/liquidity.md), and expand into new markets often outweigh the challenges, making the PLC a popular choice for large enterprises looking to grow and scale their operations.
 
 This understanding of PLCs, including their characteristics, advantages, disadvantages, and lifecycle, provides a comprehensive overview of what it means to operate as a Public Limited Company in today’s complex financial landscape.

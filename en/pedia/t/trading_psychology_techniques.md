@@ -14,7 +14,7 @@ Effective [trading psychology](../t/trading_psychology.md) helps traders:
 #### Common Psychological Challenges in Trading
 
 1. **Fear and Greed**: These are the two primary emotions that influence trading decisions. Fear can prevent traders from taking advantage of opportunities, while greed can lead to [overtrading](../o/overtrading.md).
-   
+
 2. **Overconfidence**: Traders making a series of successful trades may become overconfident, leading to excessive [risk](../r/risk.md)-taking.
 
 3. **Impatience**: The desire for quick profits can lead to premature actions.
@@ -43,13 +43,13 @@ Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
 #### Renowned Companies and Figures in Trading Psychology
 
-- **Van Tharp Institute**: Dr. Van Tharp is known for his work on developing psychological techniques for traders. His institute offers various courses, workshops, and books on [trading psychology](../t/trading_psychology.md). More details can be found on their [official site](https://www.vantharp.com/).
+- **Van Tharp Institute**: Dr. Van Tharp is known for his work on developing psychological techniques for traders. His institute offers various courses, workshops, and books on [trading psychology](../t/trading_psychology.md).
 
-- **SMB [Capital](../c/capital.md)**: An innovative prop trading [firm](../f/firm.md) providing education and training on mental resilience and [trading psychology](../t/trading_psychology.md) as part of their mentoring. Additional information is available on their [website](https://www.smbcapital.com/).
+- **SMB [Capital](../c/capital.md)**: An innovative prop trading [firm](../f/firm.md) providing education and training on mental resilience and [trading psychology](../t/trading_psychology.md) as part of their mentoring.
 
-- **Brett N. Steenbarger**: An authority in the field, known for his books and blogs about [trading psychology](../t/trading_psychology.md). Details can be found on his [blog page](https://traderfeed.blogspot.com/).
+- **Brett N. Steenbarger**: An authority in the field, known for his books and blogs about [trading psychology](../t/trading_psychology.md). Details can be found on his blog page.
 
-- **[Trading Psychology](../t/trading_psychology.md) Edge**: Run by Dr. Gary Dayton, it offers resources and training focusing on the psychological aspects of trading. More information is on their [official site](https://tradingpsychologyedge.com/).
+- **[Trading Psychology](../t/trading_psychology.md) Edge**: Run by Dr. Gary Dayton, it offers resources and training focusing on the psychological aspects of trading.
 
 #### Books and Publications
 

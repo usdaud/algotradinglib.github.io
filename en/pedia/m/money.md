@@ -110,7 +110,7 @@ The rise of financial technology (fintech) has transformed how money is managed,
 
 ### Digital Payments
 
-Fintech has revolutionized [payment](../p/payment.md) systems by introducing seamless and secure digital [payment](../p/payment.md) methods. Platforms like [PayPal](../p/paypal.md), Stripe, and Square enable online transactions, peer-to-peer payments, and merchant services ([PayPal](https://www.paypal.com), [Stripe](https://stripe.com), [Square](https://squareup.com)).
+Fintech has revolutionized [payment](../p/payment.md) systems by introducing seamless and secure digital [payment](../p/payment.md) methods. Platforms like [PayPal](../p/paypal.md), Stripe, and Square enable online transactions, peer-to-peer payments, and merchant services (PayPal, Stripe, Square).
 
 ### Mobile Banking
 
@@ -118,19 +118,19 @@ Fintech has revolutionized [payment](../p/payment.md) systems by introducing sea
 
 ### Cryptocurrencies and Blockchain
 
-Cryptocurrencies like [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) have introduced decentralized digital currencies based on [blockchain](../b/blockchain_in_trading.md) technology. These digital assets operate independently of traditional banking systems and [offer](../o/offer.md) alternative means of storing and transferring [value](../v/value.md). For more information, visit [Bitcoin](https://bitcoin.org) and [Ethereum](https://ethereum.org).
+Cryptocurrencies like [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) have introduced decentralized digital currencies based on [blockchain](../b/blockchain_in_trading.md) technology. These digital assets operate independently of traditional banking systems and [offer](../o/offer.md) alternative means of storing and transferring [value](../v/value.md). For more information, visit Bitcoin and Ethereum.
 
 ### Robo-Advisors
 
-Robo-advisors are automated platforms that provide [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) services. Using algorithms and data analysis, they [offer](../o/offer.md) personalized investment strategies at lower costs compared to traditional financial advisors. Examples include Betterment, Wealthfront, and [Robinhood](../r/robinhood.md) ([Betterment](https://www.betterment.com), [Wealthfront](https://www.wealthfront.com), [Robinhood](https://www.robinhood.com)).
+Robo-advisors are automated platforms that provide [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) services. Using algorithms and data analysis, they [offer](../o/offer.md) personalized investment strategies at lower costs compared to traditional financial advisors. Examples include Betterment, Wealthfront, and [Robinhood](../r/robinhood.md) (Betterment, Wealthfront, Robinhood).
 
 ### Peer-to-Peer Lending
 
-Fintech platforms facilitate [peer-to-peer lending](../p/peer-to-peer_lending.md), connecting borrowers directly with lenders. This innovation bypasses traditional banks, providing individuals and small businesses with access to [credit](../c/credit.md). Notable platforms include LendingClub and Prosper ([LendingClub](https://www.lendingclub.com), [Prosper](https://www.prosper.com)).
+Fintech platforms facilitate [peer-to-peer lending](../p/peer-to-peer_lending.md), connecting borrowers directly with lenders. This innovation bypasses traditional banks, providing individuals and small businesses with access to [credit](../c/credit.md). Notable platforms include LendingClub and Prosper (LendingClub, Prosper).
 
 ### Insurtech
 
-[Insurtech](../i/insurtech.md) companies [leverage](../l/leverage.md) technology to streamline [insurance](../i/insurance.md) processes, from [underwriting](../u/underwriting.md) to claims management. They [offer](../o/offer.md) personalized, data-driven [insurance](../i/insurance.md) solutions and enhance [customer](../c/customer.md) experiences. Examples include Lemonade and Oscar Health ([Lemonade](https://www.lemonade.com), [Oscar Health](https://www.hioscar.com)).
+[Insurtech](../i/insurtech.md) companies [leverage](../l/leverage.md) technology to streamline [insurance](../i/insurance.md) processes, from [underwriting](../u/underwriting.md) to claims management. They [offer](../o/offer.md) personalized, data-driven [insurance](../i/insurance.md) solutions and enhance [customer](../c/customer.md) experiences. Examples include Lemonade and Oscar Health (Lemonade, Oscar Health).
 
 ## The Future of Money
 

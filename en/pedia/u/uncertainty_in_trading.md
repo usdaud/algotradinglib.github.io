@@ -76,7 +76,6 @@ Uncertainty in trading is a multifaceted phenomenon that continually challenges 
 
 ## Additional Resources
 
-- [Chicago Board Options Exchange (CBOE) - VIX Index](https://www.cboe.com/tradable_products/vix/)
-- [Risk Metrics - VaR and CVaR](https://www.riskmetrics.com/solutions/)
-- [FINRA - Regulatory Notice 20-03](https://www.finra.org/rules-guidance/notices/20-03)
-
+- Chicago Board Options Exchange (CBOE) - VIX Index
+- Risk Metrics - VaR and CVaR
+- FINRA - Regulatory Notice 20-03

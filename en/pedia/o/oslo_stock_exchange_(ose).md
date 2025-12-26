@@ -84,17 +84,17 @@ OSE plays a significant role in the Norwegian [economy](../e/economy.md) by prov
 
 ## Environmental and Social Governance (ESG)
 
-In recent years, there has been a growing focus on ESG at OSE. The [exchange](../e/exchange.md) encourages [listed](../l/listed.md) companies to adopt sustainable practices and provides specialized indices for tracking ESG-compliant companies. 
+In recent years, there has been a growing focus on ESG at OSE. The [exchange](../e/exchange.md) encourages [listed](../l/listed.md) companies to adopt sustainable practices and provides specialized indices for tracking ESG-compliant companies.
 
 ## Conclusion
 
-The Oslo Stock [Exchange](../e/exchange.md) is a cornerstone of the [financial markets](../f/financial_market.md) in Norway, [offering](../o/offering.md) a sophisticated [trading platform](../t/trading_platform.md) for a wide [range](../r/range.md) of securities. With its [robust](../r/robust.md) regulatory framework, advanced technology, and diverse [market](../m/market.md) segments, OSE continues to attract both domestic and international investors. To learn more about the Oslo Stock [Exchange](../e/exchange.md), you can visit their official website [here](https://www.euronext.com/en/markets/oslo).
+The Oslo Stock [Exchange](../e/exchange.md) is a cornerstone of the [financial markets](../f/financial_market.md) in Norway, [offering](../o/offering.md) a sophisticated [trading platform](../t/trading_platform.md) for a wide [range](../r/range.md) of securities. With its [robust](../r/robust.md) regulatory framework, advanced technology, and diverse [market](../m/market.md) segments, OSE continues to attract both domestic and international investors. To learn more about the Oslo Stock [Exchange](../e/exchange.md),
 
 ## Additional Resources for Algorithmic Trading
 
 ### Algorithmic Trading Protocols
 
-OSE supports various protocols that facilitate [algorithmic trading](../a/accountability.md), including:
+OSE supports various protocols that facilitate [algorithmic trading](../a/algorithmic_trading.md), including:
 
 - **FIX Protocol**: The Financial Information [eXchange](../e/exchange.md) (FIX) protocol is widely used for electronic trading.
 - **OUCH Protocol**: A lightweight protocol primarily used for high-frequency trading (HFT).
@@ -104,7 +104,7 @@ OSE supports various protocols that facilitate [algorithmic trading](../a/accoun
 For algorithmic traders, OSE provides historical data that can be used for [backtesting trading strategies](../b/backtesting_trading_strategies.md). Tools and platforms that facilitate this include:
 
 - **OSE Historical Data Service**: Offers comprehensive historical [market](../m/market.md) data.
-- **Third-party platforms**: Such as [QuantConnect](../q/quantconnect.md) and AlgoTrader, which support [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) for strategies involving OSE-[listed](../l/listed.md) securities.
+- **Third-party platforms**: Such as [StockSharp](../s/stocksharp.md) and AlgoTrader, which support [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) for strategies involving OSE-[listed](../l/listed.md) securities.
 
 ### Statistical Insights
 

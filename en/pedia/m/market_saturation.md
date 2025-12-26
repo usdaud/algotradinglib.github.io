@@ -102,4 +102,4 @@ The fast food [industry](../i/industry.md) has also faced [market](../m/market.m
 
 ---
 
-For further reading and examples, you may refer to company websites like [Apple](https://www.apple.com/), [Tesla](https://www.tesla.com/), and [McDonald's](https://www.mcdonalds.com/).
+For further reading and examples, you may refer to company websites like Apple, Tesla, and McDonald's.

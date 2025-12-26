@@ -12,7 +12,7 @@ First-party agencies are often subsidiaries of the original company to which the
 
 ### Third-Party Agencies
 
-Third-party agencies are independent companies hired by creditors to collect debts on their behalf. Unlike first-party agencies, third-party agencies have no direct relationship with the borrower. They typically operate on a [contingency](../c/contingency.md) [fee](../f/fee.md) [basis](../b/basis.md), meaning they charge a percentage of the amount collected. 
+Third-party agencies are independent companies hired by creditors to collect debts on their behalf. Unlike first-party agencies, third-party agencies have no direct relationship with the borrower. They typically operate on a [contingency](../c/contingency.md) [fee](../f/fee.md) [basis](../b/basis.md), meaning they charge a percentage of the amount collected.
 
 ### Debt Buyers
 
@@ -118,8 +118,8 @@ Compliance management software helps ensure that agencies adhere to all relevant
 
 ## Notable Collection Agencies
 
-- **American Collectors Association International (ACA International)**: A professional organization representing collection agencies, creditors, [debt](../d/debt.md) buyers, and collection attorneys. [ACA International](https://www.acainternational.org)
-- **Encore [Capital](../c/capital.md) Group**: One of the largest [debt](../d/debt.md) buyers and collectors in the United States. [Encore Capital](https://www.encorecapital.com)
-- **Portfolio Recovery Associates (PRA Group)**: A leading company in the [acquisition](../a/acquisition.md) and collection of nonperforming loans. [PRA Group](https://www.pragroup.com)
+- **American Collectors Association International (ACA International)**: A professional organization representing collection agencies, creditors, [debt](../d/debt.md) buyers, and collection attorneys. ACA International
+- **Encore [Capital](../c/capital.md) Group**: One of the largest [debt](../d/debt.md) buyers and collectors in the United States. Encore Capital
+- **Portfolio Recovery Associates (PRA Group)**: A leading company in the [acquisition](../a/acquisition.md) and collection of nonperforming loans. PRA Group
 
 Collection agencies play a crucial role in the financial ecosystem by helping creditors recover owed debts, thereby assisting in maintaining [credit](../c/credit.md) flow and economic stability. Nonetheless, their operations must balance effective [debt](../d/debt.md) recovery with ethical practices and compliance with the law to protect consumers' rights.

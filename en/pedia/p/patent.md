@@ -28,7 +28,7 @@ The process of obtaining a patent involves several steps:
 
 To be patentable, an invention must meet several critical criteria:
 
-1. **Novelty**: The invention must be new and not known to the public before the filing date of the application. 
+1. **Novelty**: The invention must be new and not known to the public before the filing date of the application.
 
 2. **Non-obviousness**: The invention must not be obvious to someone skilled in the field. This criterion prevents the patenting of trivial improvements on existing technology.
 
@@ -48,7 +48,7 @@ Patent rights are enforceable by law, and the patent holder can take legal actio
 
 ## Licensing and Assignment
 
-Patent holders can choose to license or assign their patents. 
+Patent holders can choose to license or assign their patents.
 
 1. **Licensing**: The patent holder grants permission to another party to use the patented invention under specific conditions. Licensing agreements can be exclusive or non-exclusive.
 
@@ -81,9 +81,9 @@ Patents have a complex relationship with innovation. They encourage inventors by
 Fintech is an [industry](../i/industry.md) ripe with innovation, from [blockchain](../b/blockchain_in_trading.md) technology to novel financial products. Patents in fintech can cover:
 
 1. **[Blockchain](../b/blockchain_in_trading.md) and Cryptography**: Innovations in secure, decentralized [transaction](../t/transaction.md) methods.
-   
-2. **[Algorithmic Trading](../a/accountability.md)**: Systems and methods for automated financial trading based on algorithms.
-   
+
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Systems and methods for automated financial trading based on algorithms.
+
 3. **[Payment](../p/payment.md) Processing**: New methods of conducting digital transactions and verifying identities.
 
 One notable example is the patents filed by companies like [Mastercard](../m/mastercard.md) and Visa for [blockchain](../b/blockchain_in_trading.md)-based [payment](../p/payment.md) systems.
@@ -108,4 +108,4 @@ Patent law continues to evolve, responding to technological advancements and cha
 
 3. **Innovation in Patent Examination**: Advances in technology, such as AI, could streamline patent examination processes, reducing the time and cost associated with obtaining patents.
 
-Patents are a critical component of the innovation ecosystem, providing inventors with the protection needed to [capitalize](../c/capitalize.md) on their inventions while contributing to public knowledge. Whether in traditional industries or cutting-edge fields like fintech, patents incentivize and protect the creative efforts that drive technological advancement. For more detailed information on patents, you can visit the United States Patent and [Trademark](../t/trademark.md) Office (USPTO) [website](https://www.uspto.gov) or the European Patent Office (EPO) [website](https://www.epo.org).
+Patents are a critical component of the innovation ecosystem, providing inventors with the protection needed to [capitalize](../c/capitalize.md) on their inventions while contributing to public knowledge. Whether in traditional industries or cutting-edge fields like fintech, patents incentivize and protect the creative efforts that drive technological advancement. For more detailed information on patents, you can visit the United States Patent and [Trademark](../t/trademark.md)

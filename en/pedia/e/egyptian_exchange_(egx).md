@@ -110,6 +110,6 @@ While EGX has achieved considerable milestones, it faces challenges such as poli
 - **International Collaboration**: Strengthening ties with global [financial markets](../f/financial_market.md).
 - **Innovation**: Embracing fintech innovations for better [market efficiency](../m/market_efficiency.md).
 
-For more information, you can visit the official website of the Egyptian [Exchange](../e/exchange.md): [EGX Official Website](https://www.egx.com.eg).
+./e/exchange.md):
 
 In conclusion, the Egyptian [Exchange](../e/exchange.md) is more than just a platform for buying and selling securities; it is a cornerstone of Egypt's financial ecosystem, fostering [economic growth](../e/economic_growth.md) and providing diverse investment opportunities. Its evolving nature ensures that it remains a vital player in both regional and global [financial markets](../f/financial_market.md).

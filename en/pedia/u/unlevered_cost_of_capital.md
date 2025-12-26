@@ -1,6 +1,6 @@
 # Unlevered Cost of Capital
 
-The unlevered [cost of capital](../c/cost_of_capital.md), often denoted as \( r_U \), represents the [cost of capital](../c/cost_of_capital.md) for a company without any [debt](../d/debt.md). It is the [cost of capital](../c/cost_of_capital.md) as if the company operated with purely [equity financing](../e/equity_financing.md), excluding the [financial risk](../f/financial_risk.md) introduced by [leverage](../l/leverage.md) ([debt](../d/debt.md)). This measure reflects the [inherent risk](../i/inherent_risk.md) in the company's core operations, independent of its [capital structure](../c/capital_structure.md). 
+The unlevered [cost of capital](../c/cost_of_capital.md), often denoted as \( r_U \), represents the [cost of capital](../c/cost_of_capital.md) for a company without any [debt](../d/debt.md). It is the [cost of capital](../c/cost_of_capital.md) as if the company operated with purely [equity financing](../e/equity_financing.md), excluding the [financial risk](../f/financial_risk.md) introduced by [leverage](../l/leverage.md) ([debt](../d/debt.md)). This measure reflects the [inherent risk](../i/inherent_risk.md) in the company's core operations, independent of its [capital structure](../c/capital_structure.md).
 
 Understanding and calculating the unlevered [cost of capital](../c/cost_of_capital.md) is crucial for several reasons, including corporate [valuation](../v/valuation.md), investment decision-making, and [capital structure](../c/capital_structure.md) [optimization](../o/optimization.md). This document [will](../w/will.md) cover various aspects related to the unlevered [cost of capital](../c/cost_of_capital.md), including its theoretical foundation, the difference between levered and unlevered [cost of capital](../c/cost_of_capital.md), methods of calculation, and applications in [finance](../f/finance.md) and trading.
 
@@ -131,16 +131,16 @@ For traders and investors, the unlevered [cost of capital](../c/cost_of_capital.
 
 ### Fintech and Algorithmic Trading
 
-In the realm of fintech and [algorithmic trading](../a/accountability.md), the unlevered [cost of capital](../c/cost_of_capital.md) can be incorporated into sophisticated [trading algorithms](../t/trading_algorithms.md) to enhance decision-making. For instance, algorithms can utilize the unlevered [cost of capital](../c/cost_of_capital.md) to filter out firms with high [operational risk](../o/operational_risk.md) and lower [intrinsic value](../i/intrinsic_value.md), leading to more [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md).
+In the realm of fintech and [algorithmic trading](../a/algorithmic_trading.md), the unlevered [cost of capital](../c/cost_of_capital.md) can be incorporated into sophisticated [trading algorithms](../t/trading_algorithms.md) to enhance decision-making. For instance, algorithms can utilize the unlevered [cost of capital](../c/cost_of_capital.md) to filter out firms with high [operational risk](../o/operational_risk.md) and lower [intrinsic value](../i/intrinsic_value.md), leading to more [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md).
 
 Moreover, fintech platforms often provide tools and analytics that help investors calculate and interpret the unlevered [cost of capital](../c/cost_of_capital.md), thereby democratizing access to advanced financial insights and leveling the playing field for retail and institutional investors alike.
 
 ## Conclusion
 
-The unlevered [cost of capital](../c/cost_of_capital.md) is a fundamental metric in [finance](../f/finance.md), [offering](../o/offering.md) a clear view of a company's intrinsic [risk](../r/risk.md) and [return](../r/return.md) potential, independent of its [capital structure](../c/capital_structure.md). By stripping away the effects of financial [leverage](../l/leverage.md), it provides a pure measure of operational performance, which is essential for [valuation](../v/valuation.md), investment, and strategic decision-making. 
+The unlevered [cost of capital](../c/cost_of_capital.md) is a fundamental metric in [finance](../f/finance.md), [offering](../o/offering.md) a clear view of a company's intrinsic [risk](../r/risk.md) and [return](../r/return.md) potential, independent of its [capital structure](../c/capital_structure.md). By stripping away the effects of financial [leverage](../l/leverage.md), it provides a pure measure of operational performance, which is essential for [valuation](../v/valuation.md), investment, and strategic decision-making.
 
 Understanding how to calculate and apply the unlevered [cost of capital](../c/cost_of_capital.md) equips financial professionals, investors, and corporate managers with the insights needed to optimize financial strategies and enhance long-term [value](../v/value.md) creation.
 
-For more information, visit the financial analytics platforms and [corporate finance](../c/corporate_finance.md) resources such as [Damodaran Online](http://pages.stern.nyu.edu/~adamodar/) and [Corporate Finance Institute](https://corporatefinanceinstitute.com/).
+For more information, visit the financial analytics platforms and [corporate finance](../c/corporate_finance.md) resources such as Damodaran Online and Corporate Finance Institute.
 
 These resources [offer](../o/offer.md) comprehensive materials and tools for further exploration and application of the unlevered [cost of capital](../c/cost_of_capital.md) in various financial contexts.

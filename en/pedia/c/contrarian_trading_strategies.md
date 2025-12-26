@@ -45,11 +45,8 @@ Contrarian traders use a variety of indicators to identify potential [trade](../
 Several successful contrarian traders have made a name for themselves in the [financial markets](../f/financial_market.md). Some notable examples include:
 
 1. **Warren Buffett**: Known for his famous saying, "Be fearful when others are greedy, and greedy when others are fearful," Buffett is a quintessential contrarian [investor](../i/investor.md). Through his [firm](../f/firm.md), [Berkshire Hathaway](../b/berkshire_hathaway.md), he has made numerous successful contrarian bets.
-   [Berkshire Hathaway](https://www.berkshirehathaway.com)
 2. **John Templeton**: Sir John Templeton founded the Templeton [Growth Fund](../g/growth_fund.md) in 1954. He was known for his global contrarian investments, especially during times of [market](../m/market.md) distress.
-   [Templeton Funds](https://www.franklintempleton.com)
 3. **David Dreman**: Author of "Contrarian Investment Strategies: The Psychological Edge," Dreman is a pioneer in [behavioral finance](../b/behavioral_finance.md) and contrarian [investing](../i/investing.md).
-   [Dreman Value Management](http://www.dreman.com)
 
 ### Advantages and Disadvantages
 
@@ -65,4 +62,4 @@ Several successful contrarian traders have made a name for themselves in the [fi
 
 ### Conclusion
 
-Contrarian [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a unique approach to profiting from the [financial markets](../f/financial_market.md) by capitalizing on extreme [market sentiment](../m/market_sentiment.md) and overreactions. While this strategy requires a strong psychological [disposition](../d/disposition.md) and a thorough understanding of [market indicators](../m/market_indicators.md), it can provide substantial returns and [diversification benefits](../d/diversification_benefits.md) when executed correctly. By following the principles, methods, and indicators outlined in this guide, aspiring contrarian traders can better position themselves for success in this challenging but rewarding investment arena.
+Contrarian [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a unique approach to profiting from the [financial markets](../f/financial_market.md) by capitalizing on extreme [market sentiment](../m/market_sentiment.md) and overreactions. While this strategy requires a strong psychological [disposition](../d/disposition.md) and a thorough understanding of [market indicators](../m/market_indicators.md), it can provide substantial returns and [diversification benefits](../d/diversification_benefits.md) when executed correctly. By following the principles, methods, and indicators outlined in this guide, aspiring contrarian traders can better position themselves for success in this challenging but rewarding investment arena.

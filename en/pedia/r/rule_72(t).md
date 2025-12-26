@@ -85,4 +85,4 @@ For significant medical expenses not covered by [insurance](../i/insurance.md), 
 
 Rule 72(t) offers flexibility for early access to retirement funds, but it should be used with caution. Understanding the calculation methods, complying with SEPP requirements, and recognizing the associated risks are essential steps for making informed decisions. Before embarking on early withdrawals, consulting with a [financial advisor](../f/financial_advisor.md) or tax professional is advisable to ensure compliance and alignment with long-term financial goals.
 
-For more detailed information, you might want to visit the IRS website: [Internal Revenue Service](https://www.irs.gov/)
+For more detailed information, you might want to

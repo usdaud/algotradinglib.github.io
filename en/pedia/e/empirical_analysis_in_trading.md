@@ -35,10 +35,10 @@ Once a [trading strategy](../t/trading_strategy.md) is developed, it must be tes
 
 2. **[Performance Metrics](../p/performance_metrics.md)**: Various metrics are used to evaluate the strategy's performance, such as:
 
-   - **Returns**: The overall [gain](../g/gain.md) or loss produced by the strategy.
-   - **[Sharpe Ratio](../s/sharpe_ratio.md)**: This measures the [return](../r/return.md) per unit of [risk](../r/risk.md).
-   - **[Drawdown](../d/drawdown.md)**: The peak-to-[trough](../t/trough.md) decline in the [value](../v/value.md) of the portfolio, indicating [risk](../r/risk.md).
-   - **Win Rate**: The percentage of trades that are profitable.
+ - **Returns**: The overall [gain](../g/gain.md) or loss produced by the strategy.
+ - **[Sharpe Ratio](../s/sharpe_ratio.md)**: This measures the [return](../r/return.md) per unit of [risk](../r/risk.md).
+ - **[Drawdown](../d/drawdown.md)**: The peak-to-[trough](../t/trough.md) decline in the [value](../v/value.md) of the portfolio, indicating [risk](../r/risk.md).
+ - **Win Rate**: The percentage of trades that are profitable.
 
 3. **[Transaction Costs](../t/transaction_costs.md) and [Slippage](../s/slippage.md)**: Realistic [backtesting](../b/backtesting.md) should account for [transaction costs](../t/transaction_costs.md) (e.g., commissions, [spreads](../s/spreads.md)) and [slippage](../s/slippage.md) (the difference between the expected price of a [trade](../t/trade.md) and the actual executed price).
 
@@ -62,6 +62,6 @@ Empirical analysis in trading can be demonstrated through [multiple](../m/multip
 
 2. **[Mean Reversion](../m/mean_reversion.md)**: This strategy assumes that prices [will](../w/will.md) revert to their historical averages. [Backtesting](../b/backtesting.md) might reveal specific conditions under which [mean reversion](../m/mean_reversion.md) works best, such as high [volatility](../v/volatility.md) periods.
 
-3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Companies like Renaissance Technologies (https://www.rentec.com) have famously used empirical analysis and sophisticated algorithms to generate substantial returns. Their approach involves crunching massive datasets to find patterns and exploit inefficiencies in the [market](../m/market.md).
+3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Companies like Renaissance Technologies ( have famously used empirical analysis and sophisticated algorithms to generate substantial returns. Their approach involves crunching massive datasets to find patterns and exploit inefficiencies in the [market](../m/market.md).
 
 In conclusion, empirical analysis in trading is a systematic and data-driven approach to understanding [market](../m/market.md) behaviors and developing profitable [trading strategies](../t/trading_strategies.md). By leveraging high-quality data, statistical tools, [robust](../r/robust.md) [backtesting](../b/backtesting.md), and rigorous interpretation of results, traders can enhance their decision-making processes and improve their chances of success in the [financial markets](../f/financial_market.md).

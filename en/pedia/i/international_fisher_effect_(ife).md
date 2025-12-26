@@ -4,7 +4,7 @@ The International [Fisher Effect](../f/fisher_effect.md) (IFE) is an economic th
 
 ## The Basic Premise
 
-The IFE suggests that countries with higher [nominal](../n/nominal.md) [interest](../i/interest.md) rates [will](../w/will.md) see their currencies depreciate against those with lower [nominal](../n/nominal.md) [interest](../i/interest.md) rates. This [depreciation](../d/depreciation.md) offsets the benefit of holding assets in the higher-[interest](../i/interest.md)-rate country. In essence, the theory argues that real [interest](../i/interest.md) rates (adjusted for [inflation](../i/inflation.md)) [will](../w/will.md) equalize across different countries, eliminating any [arbitrage opportunities](../a/arbitrage_opportunities.md). 
+The IFE suggests that countries with higher [nominal](../n/nominal.md) [interest](../i/interest.md) rates [will](../w/will.md) see their currencies depreciate against those with lower [nominal](../n/nominal.md) [interest](../i/interest.md) rates. This [depreciation](../d/depreciation.md) offsets the benefit of holding assets in the higher-[interest](../i/interest.md)-rate country. In essence, the theory argues that real [interest](../i/interest.md) rates (adjusted for [inflation](../i/inflation.md)) [will](../w/will.md) equalize across different countries, eliminating any [arbitrage opportunities](../a/arbitrage_opportunities.md).
 
 ## Formula
 
@@ -72,10 +72,10 @@ According to the IFE, Country A's [currency](../c/currency.md) should depreciate
 
 ### Application in Algo-Trading
 
-[Algorithmic trading](../a/accountability.md) systems frequently incorporate economic theories like the International [Fisher Effect](../f/fisher_effect.md) to enhance [trading algorithms](../t/trading_algorithms.md)' predictive accuracy. By including [interest rate](../i/interest_rate.md) differentials and expected [exchange rate](../e/exchange_rate.md) changes, traders develop more sophisticated models to inform buy/sell decisions in the forex [market](../m/market.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems frequently incorporate economic theories like the International [Fisher Effect](../f/fisher_effect.md) to enhance [trading algorithms](../t/trading_algorithms.md)' predictive accuracy. By including [interest rate](../i/interest_rate.md) differentials and expected [exchange rate](../e/exchange_rate.md) changes, traders develop more sophisticated models to inform buy/sell decisions in the forex [market](../m/market.md).
 
 ## Conclusion
 
 The International [Fisher Effect](../f/fisher_effect.md) remains a cornerstone theory in the field of international [finance](../f/finance.md) and [exchange rate](../e/exchange_rate.md) determination. While not without its limitations and criticisms, it provides a foundational framework for understanding the relationship between [interest](../i/interest.md) rates and [exchange](../e/exchange.md) rates. For investors, policymakers, and algo-traders alike, the IFE offers crucial insights, guiding decisions in an ever-complex global financial environment.
 
-For more detailed information on the applications of the International [Fisher Effect](../f/fisher_effect.md), you can visit [Investopedia's page on International Fisher Effect](https://www.investopedia.com/terms/i/ife.asp).
+For more detailed information on the applications of the International [Fisher Effect](../f/fisher_effect.md), you can

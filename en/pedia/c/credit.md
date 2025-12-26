@@ -46,4 +46,3 @@
 
 ## Conclusion
 Credit is a fundamental financial tool that enables individuals and businesses to access funds for various purposes, contributing to [economic growth](../e/economic_growth.md) and financial flexibility. Understanding the types of credit, assessing [creditworthiness](../c/creditworthiness.md), and practicing responsible borrowing and [repayment](../r/repayment.md) are crucial for maintaining good [financial health](../f/financial_health.md) and maximizing the benefits of credit.
-

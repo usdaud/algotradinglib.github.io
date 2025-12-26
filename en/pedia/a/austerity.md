@@ -32,7 +32,7 @@ The hardware requirements for implementing [algorithmic trading strategies](../a
 The software architecture for [algorithmic trading](../a/accountability.md) typically involves:
 
 - **Interactive Development Environments (IDEs)**: Tools like PyCharm or VS Code for coding and debugging algorithms.
-- **[Backtesting Frameworks](../b/backtesting_frameworks.md)**: Software that allows traders to test their strategies on historical data before deploying them in live markets. Examples include [QuantConnect](../q/quantconnect.md) and [Backtrader](../b/backtrader.md).
+- **[Backtesting Frameworks](../b/backtesting_frameworks.md)**: Software that allows traders to test their strategies on historical data before deploying them in live markets. Examples include [StockSharp](../s/stocksharp.md) and [Backtrader](../b/backtrader.md).
 - **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Platforms that manage the [execution](../e/execution.md) of orders and ensure compliance with trading regulations.
 - **Data Feeds**: Real-time data feeds from financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or [Quandl](../q/quandl.md) are essential for live trading.
 
@@ -60,19 +60,16 @@ Regulatory bodies continually update rules surrounding [algorithmic trading](../
 
 ### Renaissance Technologies
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 Founded by mathematician James Simons, Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) funds utilizing algorithmic strategies. Their Medallion [Fund](../f/fund.md), known for its exceptional returns, uses complex [mathematical models](../m/mathematical_models_in_trading.md) to analyze and execute trades.
 
 ### Two Sigma
 
-[Visit Two Sigma](https://www.twosigma.com/)
 
 Two Sigma Investments employs advanced technologies and [data science](../d/data_science_in_trading.md) to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its use of [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing in trading.
 
 ### Citadel Securities
 
-[Visit Citadel Securities](https://www.citadelsecurities.com/)
 
 Citadel Securities is a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md). With a strong focus on technology and [quantitative research](../q/quantitative_research.md), Citadel's algorithms execute a significant [volume](../v/volume.md) of trades across various [asset](../a/asset.md) classes.
 

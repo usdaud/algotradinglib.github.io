@@ -140,11 +140,11 @@ For algotrading firms, maintaining a favorable [accounts payable turnover ratio]
 
 ### Citadel LLC
 
-Citadel LLC, a notable player in the algotrading space, exemplifies the importance of managing working [capital](../c/capital.md) ratios effectively. The [firm](../f/firm.md)'s ability to maintain strong [liquidity ratios](../l/liquidity_ratios.md) ensures they can meet substantial [margin](../m/margin.md) requirements and navigate [market](../m/market.md) [volatility](../v/volatility.md) efficiently. For more information about Citadel LLC, visit their [official website](https://www.citadel.com).
+Citadel LLC, a notable player in the algotrading space, exemplifies the importance of managing working [capital](../c/capital.md) ratios effectively. The [firm](../f/firm.md)'s ability to maintain strong [liquidity ratios](../l/liquidity_ratios.md) ensures they can meet substantial [margin](../m/margin.md) requirements and navigate [market](../m/market.md) [volatility](../v/volatility.md) efficiently.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, another giant in the field of [algorithmic trading](../a/algorithmic_trading.md), utilizes sophisticated [quantitative models](../q/quantitative_models.md) to manage its working [capital](../c/capital.md). The [firm](../f/firm.md)’s strategies often depend on high-frequency, short-term trades, making [liquidity](../l/liquidity.md) management a critical aspect. Maintaining favorable working [capital](../c/capital.md) ratios enables them to execute trades seamlessly. For more information, visit their [official website](https://www.rentec.com).
+Renaissance Technologies, another giant in the field of [algorithmic trading](../a/algorithmic_trading.md), utilizes sophisticated [quantitative models](../q/quantitative_models.md) to manage its working [capital](../c/capital.md). The [firm](../f/firm.md)’s strategies often depend on high-frequency, short-term trades, making [liquidity](../l/liquidity.md) management a critical aspect. Maintaining favorable working [capital](../c/capital.md) ratios enables them to execute trades seamlessly.
 
 ## Conclusion
 

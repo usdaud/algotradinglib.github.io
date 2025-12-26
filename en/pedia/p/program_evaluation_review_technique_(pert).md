@@ -16,9 +16,9 @@ Events are specific points within the project timeline marking the beginning or 
 
 ### 3. **PERT Formula and Time Estimates**
 One of the most critical aspects of PERT is the use of a probabilistic model to estimate time. PERT considers three types of time estimates:
-   - **Optimistic Time (O):** The minimum possible time required to complete a task, assuming everything proceeds better than expected.
-   - **Pessimistic Time (P):** The maximum possible time required to complete a task, assuming everything goes wrong.
-   - **Most Likely Time (M):** The best estimate of the time required to complete a task, assuming everything proceeds as normal.
+ - **Optimistic Time (O):** The minimum possible time required to complete a task, assuming everything proceeds better than expected.
+ - **Pessimistic Time (P):** The maximum possible time required to complete a task, assuming everything goes wrong.
+ - **Most Likely Time (M):** The best estimate of the time required to complete a task, assuming everything proceeds as normal.
 
 The expected time (TE) for each task is calculated using the PERT formula:
 \[ TE = \frac{O + 4M + P}{6} \]
@@ -28,39 +28,39 @@ The critical path is a sequence of tasks that determines the minimum project [du
 
 ### 5. **Dependencies**
 Dependencies are relationships between tasks that dictate the [order](../o/order.md) in which activities must be performed. Common types of dependencies include:
-   - **Finish-to-start (FS):** A task cannot start until a preceding task has finished.
-   - **Start-to-start (SS):** A task cannot start until a preceding task has started.
-   - **Finish-to-finish (FF):** A task cannot finish until a preceding task has finished.
-   - **Start-to-finish (SF):** A task cannot finish until a preceding task has started.
+ - **Finish-to-start (FS):** A task cannot start until a preceding task has finished.
+ - **Start-to-start (SS):** A task cannot start until a preceding task has started.
+ - **Finish-to-finish (FF):** A task cannot finish until a preceding task has finished.
+ - **Start-to-finish (SF):** A task cannot finish until a preceding task has started.
 
 ## PERT Chart
 
 A PERT chart is a visual representation of a project's timeline that includes tasks, events, milestones, and dependencies. It consists of nodes (representing tasks or milestones) and directed edges (arrows) representing the sequence of tasks. The PERT chart helps project managers visualize the entire project, identify critical tasks, and recognize potential bottlenecks.
 
 ### Elements of the PERT Chart:
-   - **Nodes:** Represent tasks or milestones.
-   - **Arrows:** Indicate task dependencies and the sequence of activities.
-   - **Dummy Activities:** Represent dependencies without actual work, usually indicated by dashed arrows.
+ - **Nodes:** Represent tasks or milestones.
+ - **Arrows:** Indicate task dependencies and the sequence of activities.
+ - **Dummy Activities:** Represent dependencies without actual work, usually indicated by dashed arrows.
 
 ## Steps in Creating a PERT Chart
 
 1. **Identify all tasks:**
-   List all tasks required to complete the project.
-   
+ List all tasks required to complete the project.
+
 2. **Determine dependencies:**
-   Identify dependencies and sequencing of tasks.
-   
+ Identify dependencies and sequencing of tasks.
+
 3. **Estimate time for each task:**
-   Use optimistic, pessimistic, and most likely times to calculate the expected time (TE) for each task.
+ Use optimistic, pessimistic, and most likely times to calculate the expected time (TE) for each task.
 
 4. **Diagram the network:**
-   Draw the PERT chart with nodes for each task and directed edges showing dependencies.
+ Draw the PERT chart with nodes for each task and directed edges showing dependencies.
 
 5. **Identify the critical path:**
-   Determine the longest path through the network, which dictates the minimum project [duration](../d/duration.md).
+ Determine the longest path through the network, which dictates the minimum project [duration](../d/duration.md).
 
 6. **Update and monitor:**
-   Periodically update the PERT chart to reflect progress and recalibrate as necessary.
+ Periodically update the PERT chart to reflect progress and recalibrate as necessary.
 
 ## Benefits of PERT
 

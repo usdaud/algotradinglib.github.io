@@ -11,7 +11,7 @@
 A [vertical market](../v/vertical_market.md) refers to a [market](../m/market.md) in which vendors [offer](../o/offer.md) goods and services that are specific to a given [industry](../i/industry.md), [trade](../t/trade.md), profession, or other group of customers with specialized needs. Vertical markets for [algorithmic trading](../a/algorithmic_trading.md) can be broadly categorized based on different [asset](../a/asset.md) classes, [trading strategies](../t/trading_strategies.md), and technological infrastructures.
 
 **1. Equities:**
-Equities are one of the most common [asset](../a/asset.md) classes for [algorithmic trading](../a/algorithmic_trading.md). Algorithms are used for various strategies such as [market](../m/market.md) making, [arbitrage](../a/arbitrage.md), statistical [arbitrage](../a/arbitrage.md), and [trend following](../t/trend_following.md). 
+Equities are one of the most common [asset](../a/asset.md) classes for [algorithmic trading](../a/algorithmic_trading.md). Algorithms are used for various strategies such as [market](../m/market.md) making, [arbitrage](../a/arbitrage.md), statistical [arbitrage](../a/arbitrage.md), and [trend following](../t/trend_following.md).
 
 **2. [Fixed Income](../f/fixed_income.md):**
 [Fixed income](../f/fixed_income.md) markets such as bonds have traditionally been less [liquid](../l/liquid.md) compared to [equity](../e/equity.md) markets. However, [algorithmic trading](../a/algorithmic_trading.md) is increasingly being applied to [fixed income securities](../f/fixed_income_securities.md) to improve [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md).
@@ -59,19 +59,19 @@ Compliance with regulatory requirements is crucial in [algorithmic trading](../a
 #### Companies in Vertical Markets of Algorithmic Trading
 
 **1. [QuantConnect](../q/quantconnect.md):**
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) offers an [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes. It provides a suite of tools for research, back-testing, and live trading.
+[QuantConnect](../q/quantconnect.md) ( offers an [open](../o/open.md)-source, [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes. It provides a suite of tools for research, back-testing, and live trading.
 
 **2. [AlgoTrader](../a/algotrader.md):**
-[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital [asset](../a/asset.md) trading. Its platform includes features for strategy development, [simulation](../s/simulation_in_trading.md), and [execution](../e/execution.md).
+[AlgoTrader](../a/algotrader.md) ( is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital [asset](../a/asset.md) trading. Its platform includes features for strategy development, [simulation](../s/simulation_in_trading.md), and [execution](../e/execution.md).
 
 **3. Numerai:**
-Numerai (https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that crowdsources its [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. The company uses a unique incentive structure and [machine learning](../m/machine_learning.md) to develop its [trading strategies](../t/trading_strategies.md).
+Numerai ( is a [hedge fund](../h/hedge_fund.md) that crowdsources its [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. The company uses a unique incentive structure and [machine learning](../m/machine_learning.md) to develop its [trading strategies](../t/trading_strategies.md).
 
 **4. [Deltix](../d/deltix.md):**
-[Deltix](../d/deltix.md) (https://www.deltixlab.com) offers software and services for [quantitative research](../q/quantitative_research.md), [algorithmic trading](../a/algorithmic_trading.md), and [execution](../e/execution.md). Its products cater to [hedge](../h/hedge.md) funds, [asset](../a/asset.md) managers, and [proprietary trading](../p/proprietary_trading.md) firms.
+[Deltix](../d/deltix.md) ( offers software and services for [quantitative research](../q/quantitative_research.md), [algorithmic trading](../a/algorithmic_trading.md), and [execution](../e/execution.md). Its products cater to [hedge](../h/hedge.md) funds, [asset](../a/asset.md) managers, and [proprietary trading](../p/proprietary_trading.md) firms.
 
 **5. Trading Technologies:**
-Trading Technologies (https://www.tradingtechnologies.com) provides professional trading software, [infrastructure](../i/infrastructure.md), and data solutions for a variety of [asset](../a/asset.md) classes. Their platform is known for its speed and reliability.
+Trading Technologies ( provides professional trading software, [infrastructure](../i/infrastructure.md), and data solutions for a variety of [asset](../a/asset.md) classes. Their platform is known for its speed and reliability.
 
 #### Future Trends and Challenges
 
@@ -90,4 +90,3 @@ The automation of [trading strategies](../t/trading_strategies.md) brings ethica
 **Conclusion**
 
 [Vertical market](../v/vertical_market.md) trends in [algorithmic trading](../a/algorithmic_trading.md) encompass a wide [range](../r/range.md) of [asset](../a/asset.md) classes, [trading strategies](../t/trading_strategies.md), and technological advances. Understanding these trends is crucial for [market](../m/market.md) participants to develop effective [trading algorithms](../t/trading_algorithms.md) and maintain a competitive edge in the [financial markets](../f/financial_market.md). As technology continues to advance, the landscape of [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) likely see further changes, presenting new challenges and opportunities for traders and investors alike.
-

@@ -34,12 +34,12 @@ Microfinance institutions also [offer](../o/offer.md) [payment](../p/payment.md)
 
 ## Microfinance Institutions (MFIs)
 
-Microfinance institutions (MFIs) are specialized entities that provide financial services to those traditionally excluded from the banking sector. These include non-governmental organizations (NGOs), [credit](../c/credit.md) unions, cooperatives, and some commercial banks. 
+Microfinance institutions (MFIs) are specialized entities that provide financial services to those traditionally excluded from the banking sector. These include non-governmental organizations (NGOs), [credit](../c/credit.md) unions, cooperatives, and some commercial banks.
 
 ### Examples of Prominent MFIs
 
 - **Grameen [Bank](../b/bank.md)**: Founded by Muhammad Yunus, Grameen [Bank](../b/bank.md) in Bangladesh is perhaps the most well-known MFI globally. It operates on the principle of group-based lending and focuses extensively on women's economic empowerment.
-  
+
 - **BancoSol**: In Bolivia, BancoSol transitioned from being an NGO to a fully regulated [commercial bank](../c/commercial_bank.md). It offers a wide [range](../r/range.md) of services tailored to micro-entrepreneurs.
 
 - **FINCA International**: FINCA operates in [multiple](../m/multiple.md) countries, providing microloans, savings accounts, and [insurance](../i/insurance.md) products aimed at empowering low-[income](../i/income.md) individuals.
@@ -84,15 +84,15 @@ Technological advancements have brought significant innovations to microfinance,
 
 Examples include:
 - **[M-Pesa](../m/m-pesa.md) (Kenya)**: Launched by Vodafone and Safaricom, [M-Pesa](../m/m-pesa.md) is a [mobile banking](../m/mobile_banking.md) service that allows users to store and transfer [money](../m/money.md) through their mobile phones. It has become a vital financial tool in Kenya and other parts of Africa.
-  - [Link to M-Pesa](https://www.safaricom.co.ke/personal/m-pesa)
+ - Link to M-Pesa
 
 ### Blockchain Technology
 
 [Blockchain](../b/blockchain_in_trading.md) technology is emerging as a transformative tool for microfinance by providing secure, transparent, and cost-effective financial transactions. Projects such as Humaniq use [blockchain](../b/blockchain_in_trading.md) to [offer](../o/offer.md) financial services to the [unbanked](../u/unbanked.md) through mobile applications.
-  - [Link to Humaniq](https://humaniq.com/)
+ - Link to Humaniq
 
 ## Conclusion
 
 Microfinance presents a significant opportunity to enhance [financial inclusion](../f/financial_inclusion.md) and economic empowerment for millions worldwide. While it has led to notable successes in [poverty](../p/poverty.md) alleviation, women’s empowerment, and economic resilience, the sector also faces inherent challenges and criticisms. The continual evolution of technology and innovative financial products [will](../w/will.md) likely shape the future landscape of microfinance, ensuring its relevance and effectiveness in addressing global financial inequalities.
 
-For further exploration and a deeper dive into microfinance practices and innovations, you may visit [Grameen Bank](https://grameenbank.org/) and other leading MFIs.
+For further exploration and a deeper dive into microfinance practices and innovations, you may visit Grameen Bank and other leading MFIs.

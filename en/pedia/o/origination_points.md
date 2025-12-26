@@ -4,13 +4,13 @@
 
 ## What are Origination Points?
 
-[Origination](../o/origination.md) points, sometimes referred to as [discount](../d/discount.md) points, are charges paid to a [lender](../l/lender.md) directly by the borrower at the time the [loan](../l/loan.md) is originated. The [fee](../f/fee.md) is used to [offset](../o/offset.md) the cost of processing the [loan](../l/loan.md). The primary purpose of these points is to lower the [interest rate](../i/interest_rate.md) on the [loan](../l/loan.md), effectively "buying down" the rate. 
+[Origination](../o/origination.md) points, sometimes referred to as [discount](../d/discount.md) points, are charges paid to a [lender](../l/lender.md) directly by the borrower at the time the [loan](../l/loan.md) is originated. The [fee](../f/fee.md) is used to [offset](../o/offset.md) the cost of processing the [loan](../l/loan.md). The primary purpose of these points is to lower the [interest rate](../i/interest_rate.md) on the [loan](../l/loan.md), effectively "buying down" the rate.
 
 For example, on a $300,000 [mortgage](../m/mortgage.md), one point equals $3,000. The number of points a borrower elects to pay can vary, and each point typically reduces the [interest rate](../i/interest_rate.md) by about 0.25%, although this can vary by [lender](../l/lender.md) and [market](../m/market.md) conditions.
 
 ### How Origination Points Work
 
-When closing on a [mortgage](../m/mortgage.md) [loan](../l/loan.md), borrowers have the option to pay [origination](../o/origination.md) points upfront to secure a lower [interest rate](../i/interest_rate.md). The decision to pay points should be based on how long the borrower plans to stay in the [home](../h/home.md) and keep the [mortgage](../m/mortgage.md). Paying points is worthwhile if the borrower plans to stay in the [home](../h/home.md) long enough for the monthly savings from the reduced [interest rate](../i/interest_rate.md) to surpass the initial cost of the points. 
+When closing on a [mortgage](../m/mortgage.md) [loan](../l/loan.md), borrowers have the option to pay [origination](../o/origination.md) points upfront to secure a lower [interest rate](../i/interest_rate.md). The decision to pay points should be based on how long the borrower plans to stay in the [home](../h/home.md) and keep the [mortgage](../m/mortgage.md). Paying points is worthwhile if the borrower plans to stay in the [home](../h/home.md) long enough for the monthly savings from the reduced [interest rate](../i/interest_rate.md) to surpass the initial cost of the points.
 
 ### Calculating Origination Points
 
@@ -72,8 +72,8 @@ Borrowers planning to move or [refinance](../r/refinance.md) within a few years 
 
 ## External Links
 
-- [Quicken Loans](https://www.quickenloans.com)
-- [Bank of America](https://www.bankofamerica.com)
-- [Wells Fargo](https://www.wellsfargo.com)
+- Quicken Loans
+- Bank of America
+- Wells Fargo
 
 Understanding and properly assessing [origination](../o/origination.md) points can equip borrowers with the knowledge to potentially save thousands of dollars over the life of their [mortgage](../m/mortgage.md).

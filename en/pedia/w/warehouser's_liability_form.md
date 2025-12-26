@@ -1,12 +1,12 @@
 # Warehouser's Liability Form
 
-[Warehousing](../w/warehousing.md) is an essential component of the [supply chain](../s/supply_chain.md) and [inventory management](../i/inventory_management.md). The [warehousing](../w/warehousing.md) [industry](../i/industry.md) must navigate a myriad of complexities, especially regarding the liabilities associated with storing and handling goods. One of the key documents that manage these liabilities is the Warehouser's [Liability](../l/liability.md) Form. This document delineates the responsibilities and accountabilities of the [warehousing](../w/warehousing.md) entity concerning the goods stored within its facilities.  
+[Warehousing](../w/warehousing.md) is an essential component of the [supply chain](../s/supply_chain.md) and [inventory management](../i/inventory_management.md). The [warehousing](../w/warehousing.md) [industry](../i/industry.md) must navigate a myriad of complexities, especially regarding the liabilities associated with storing and handling goods. One of the key documents that manage these liabilities is the Warehouser's [Liability](../l/liability.md) Form. This document delineates the responsibilities and accountabilities of the [warehousing](../w/warehousing.md) entity concerning the goods stored within its facilities.
 
 ## Understanding Warehouser's Liability
 
 Warehouser's [liability](../l/liability.md) is the legal responsibility that warehouse operators accept for the safekeeping and management of goods stored in their facilities. This [liability](../l/liability.md) exists to protect the interests of the goods' owners by legally binding the warehouse to certain standards and practices to prevent loss or damage. The specifics of this [liability](../l/liability.md) can vary significantly based on the legal jurisdiction, type of goods stored, and terms agreed upon between the warehouse and the owner of the goods.
 
-### Importance of Warehouser’s Liability 
+### Importance of Warehouser’s Liability
 
 1. **Protection for Owners:** It provides a legal [recourse](../r/recourse.md) for the owners (or bailors) of the goods in case of damage or loss, ensuring that they are compensated adequately.
 2. **Operational Standards:** It enforces standards and [best practices](../b/best_practices.md) within the [warehousing](../w/warehousing.md) [industry](../i/industry.md), fostering an environment of reliability and [trust](../t/trust.md).

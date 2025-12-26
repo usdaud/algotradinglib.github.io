@@ -6,7 +6,7 @@ Capitalize (Also Known As [Capitalization](../c/capitalization.md)) Refers To Th
 
 ### Initial Investment
 
-In Algo-trading, The Initial Development, Testing, And Deployment Of [Trading Algorithms](../t/trading_algorithms.md) Often Require Significant Upfront Costs. These Costs May Include Hardware, Software Licenses, Data Feeds, And Salaries For Developers And Analysts. By Capitalizing These Expenses, A [Firm](../f/firm.md) Can Treat Them As Assets On The [Balance Sheet](../b/balance_sheet.md), Recognizing The [Expense](../e/expense.md) Gradually Over Time Through [Depreciation](../d/depreciation.md) Or Amortization. This Approach Provides A More Accurate Picture Of The [Firm](../f/firm.md)’s [Financial Health](../f/financial_health.md) And Long-term Profitability. 
+In Algo-trading, The Initial Development, Testing, And Deployment Of [Trading Algorithms](../t/trading_algorithms.md) Often Require Significant Upfront Costs. These Costs May Include Hardware, Software Licenses, Data Feeds, And Salaries For Developers And Analysts. By Capitalizing These Expenses, A [Firm](../f/firm.md) Can Treat Them As Assets On The [Balance Sheet](../b/balance_sheet.md), Recognizing The [Expense](../e/expense.md) Gradually Over Time Through [Depreciation](../d/depreciation.md) Or Amortization. This Approach Provides A More Accurate Picture Of The [Firm](../f/firm.md)’s [Financial Health](../f/financial_health.md) And Long-term Profitability.
 
 ### Cost Management
 
@@ -54,13 +54,9 @@ Intangible Assets, Such As Software Licenses And Patents On [Trading Algorithms]
 
 Virtu Financial Is A Prominent Player In The Global Algo-trading Landscape. The Company’s Strategy Relies On High-frequency Trading And [Market](../m/market.md)-making Activities, Supported By [Robust](../r/robust.md) Technology [Infrastructure](../i/infrastructure.md). By Capitalizing Investments In Their [Trading Systems](../t/trading_systems.md) And [Infrastructure](../i/infrastructure.md), Virtu Ensures That These Costs Are Spread Over Their Useful Lives, Reflecting The Long-term [Value](../v/value.md) Generated From Such Investments.
 
-Website: [Virtu Financial](https://www.virtu.com/)
-
 ### AlgoTrader
 
 AlgoTrader Is A Comprehensive [Algorithmic Trading](../a/accountability.md) Solution For [Quantitative Research](../q/quantitative_research.md), [Trading Strategy](../t/trading_strategy.md) Development, Strategy [Backtesting](../b/backtesting.md), And Live Trading. The Platform Itself Represents A Significant [Capital Investment](../c/capital_investment.md), Including Software Development, Maintenance, And Upgrades. By Capitalizing These Costs, AlgoTrader Ensures Optimal Financial Management While Continuously Enhancing Their Product [Offering](../o/offering.md) To Clients.
-
-Website: [AlgoTrader](https://www.algotrader.com/)
 
 ## Importance For Stakeholders
 

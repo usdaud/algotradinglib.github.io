@@ -8,8 +8,8 @@
 
 Geometric [return](../r/return.md), also known as compound [return](../r/return.md), measures the [rate of return](../r/rate_of_return.md) on an investment that is compounded over [multiple](../m/multiple.md) periods. It is particularly useful for evaluating the performance of investments over time, as it accounts for the effects of [compounding](../c/compounding.md). Geometric [return](../r/return.md) is calculated using the formula:
 
-\[ 
-\text{Geometric [Return](../r/return.md)} = \left( \prod_{i=1}^{n} (1 + R_i) \right)^{\frac{1}{n}} - 1 
+\[
+\text{Geometric [Return](../r/return.md)} = \left( \prod_{i=1}^{n} (1 + R_i) \right)^{\frac{1}{n}} - 1
 \]
 
 Where:
@@ -29,14 +29,14 @@ Geometric [return](../r/return.md) provides a more accurate measure of the avera
 
 The geometric [return](../r/return.md) builds upon the principles of [geometric mean](../g/geometric_mean_in_trading.md), extending it into [multiple](../m/multiple.md)-period returns. The [geometric mean](../g/geometric_mean_in_trading.md) is defined as:
 
-\[ 
-\text{[Geometric Mean](../g/geometric_mean_in_trading.md)} = \left( \prod_{i=1}^{n} X_i \right)^{\frac{1}{n}} 
+\[
+\text{[Geometric Mean](../g/geometric_mean_in_trading.md)} = \left( \prod_{i=1}^{n} X_i \right)^{\frac{1}{n}}
 \]
 
 For returns, the formula becomes:
 
-\[ 
-\text{Geometric [Return](../r/return.md)} = \left( \prod_{i=1}^{n} \left( 1 + R_i \right) \right)^{\frac{1}{n}} - 1 
+\[
+\text{Geometric [Return](../r/return.md)} = \left( \prod_{i=1}^{n} \left( 1 + R_i \right) \right)^{\frac{1}{n}} - 1
 \]
 
 This formula reflects the compounded growth rate, which is more suitable for financial time-series data as it accounts for [variability](../v/variability.md) between different periods.
@@ -63,18 +63,18 @@ Although HFT often focuses on short-term gains, understanding the geometric [ret
 
 #### Case Study 1: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md). The platform supports various [mathematical models](../m/mathematical_models_in_trading.md), including geometric [return](../r/return.md) models. In [QuantConnect](../q/quantconnect.md), users can backtest their strategies using geometric returns to ensure that the [compounding](../c/compounding.md) effect of returns is accurately reflected in their [performance metrics](../p/performance_metrics.md).
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md). The platform supports various [mathematical models](../m/mathematical_models_in_trading.md), including geometric [return](../r/return.md) models. In [QuantConnect](../q/quantconnect.md), users can backtest their strategies using geometric returns to ensure that the [compounding](../c/compounding.md) effect of returns is accurately reflected in their [performance metrics](../p/performance_metrics.md).
 
-**Link**: [QuantConnect](https://www.quantconnect.com)
+**Link**: QuantConnect
 
 #### Case Study 2: Alpaca
 
 [Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with an API for [algorithmic trading](../a/algorithmic_trading.md). By integrating geometric [return](../r/return.md) calculations, [Alpaca](../a/alpaca.md) helps traders evaluate the long-term performance of their strategies, enhancing their decision-making processes.
 
-**Link**: [Alpaca](https://alpaca.markets)
+**Link**: Alpaca
 
 ### Conclusion
 
 Geometric [return](../r/return.md) models are a fundamental tool in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to account for the [compounding](../c/compounding.md) effect of returns over [multiple](../m/multiple.md) periods. Their importance spans [risk management](../r/risk_management.md), performance measurement, [portfolio optimization](../p/portfolio_optimization.md), and [backtesting](../b/backtesting.md). By incorporating geometric returns into their [trading algorithms](../t/trading_algorithms.md), traders can achieve a more accurate and realistic understanding of their strategies' long-term potential.
 
-Implementing geometric [return](../r/return.md) models in platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) highlights their practical applications and benefits, providing traders with the tools needed to optimize their [trading strategies](../t/trading_strategies.md) effectively.
+Implementing geometric [return](../r/return.md) models in platforms like [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) highlights their practical applications and benefits, providing traders with the tools needed to optimize their [trading strategies](../t/trading_strategies.md) effectively.

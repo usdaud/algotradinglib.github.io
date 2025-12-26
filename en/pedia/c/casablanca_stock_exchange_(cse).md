@@ -6,7 +6,7 @@ The CSE is under the regulatory oversight of Morocco’s [capital markets](../c/
 
 ## History and Development
 
-The CSE was established in 1929 as the "Office de Compensation des Valeurs Mobilières." Over the years, it has undergone a number of significant changes and modernization efforts. In 1993, it became the CSE following major reform, which also coincided with the creation of the new regulatory framework. 
+The CSE was established in 1929 as the "Office de Compensation des Valeurs Mobilières." Over the years, it has undergone a number of significant changes and modernization efforts. In 1993, it became the CSE following major reform, which also coincided with the creation of the new regulatory framework.
 
 ### Milestones
 
@@ -17,7 +17,7 @@ The CSE was established in 1929 as the "Office de Compensation des Valeurs Mobil
 
 ## Structure and Market Segments
 
-The CSE is structured into two main markets: 
+The CSE is structured into two main markets:
 
 ### The Central Market
 
@@ -38,12 +38,12 @@ The CSE operates a number of [market](../m/market.md) indices, with the most sig
 - **MASI (Moroccan All [Shares](../s/shares.md) [Index](../i/index_instrument.md))**: A comprehensive [index](../i/index_instrument.md) covering all [listed](../l/listed.md) companies.
 - **MADEX (Moroccan Most Active [Shares](../s/shares.md) [Index](../i/index_instrument.md))**: Includes the most actively traded [stocks](../s/stock.md).
 - **CFG 25**: Comprising 25 [stocks](../s/stock.md) selected by CFG Group.
-  
+
 These indices provide benchmarks for [fund](../f/fund.md) managers and are used to gauge the overall [market](../m/market.md) performance.
 
 ## Trading Mechanism
 
-The CSE operates with an electronic [order](../o/order.md)-driven system supported by the NSC V900 [trading platform](../t/trading_platform.md). The system ensures [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and speed in executing transactions. The trading hours for the [exchange](../e/exchange.md) are usually from 9:30 AM to 3:30 PM, Monday to Friday. 
+The CSE operates with an electronic [order](../o/order.md)-driven system supported by the NSC V900 [trading platform](../t/trading_platform.md). The system ensures [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and speed in executing transactions. The trading hours for the [exchange](../e/exchange.md) are usually from 9:30 AM to 3:30 PM, Monday to Friday.
 
 ### Order Types
 
@@ -104,4 +104,3 @@ As of the latest available data, the CSE reported a [market capitalization](../m
 
 The future of the Casablanca Stock [Exchange](../e/exchange.md) looks promising, with plans to further expand its [market](../m/market.md) segments, improve regulatory frameworks, and enhance technological capabilities. Additionally, efforts are being made to increase foreign participation and investments, ensuring the CSE remains an attractive destination for global investors.
 
-For more information, you can visit the [official website of the Casablanca Stock Exchange](https://www.casablanca-bourse.com).

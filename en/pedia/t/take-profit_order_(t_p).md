@@ -4,7 +4,7 @@ A Take-[Profit](../p/profit.md) [Order](../o/order.md) (often abbreviated as T/P
 
 ## Understanding Take-Profit Orders
 
-### Definition and Purpose 
+### Definition and Purpose
 A Take-[Profit](../p/profit.md) [Order](../o/order.md) is designed to close a [trade](../t/trade.md) at a specific favorable price set by the [trader](../t/trader.md). The main purpose of this [order](../o/order.md) type is to secure profits in the volatile [financial markets](../f/financial_market.md). By setting a take-[profit](../p/profit.md) point, traders can ensure that their positions [will](../w/will.md) be closed, capturing gains when the target level is reached. This can be particularly beneficial for traders who may not always be able to monitor the [market](../m/market.md).
 
 ### How It Works
@@ -62,10 +62,10 @@ Consider a stock [trader](../t/trader.md) who buys [shares](../s/shares.md) at $
 
 ### Trading Platforms with T/P Orders
 - **MetaTrader 4/5**: Popular trading platforms in the forex [market](../m/market.md) allowing easy setup of T/P orders.
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides T/P functionality for [stocks](../s/stock.md), [options](../o/options.md), and [futures](../f/futures.md) trading. [Interactive Brokers](https://www.interactivebrokers.com)
-- **Thinkorswim**: [Trading platform](../t/trading_platform.md) by TD [Ameritrade](../a/ameritrade.md) [offering](../o/offering.md) advanced [order types](../o/order_types_in_trading.md) including T/P. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides T/P functionality for [stocks](../s/stock.md), [options](../o/options.md), and [futures](../f/futures.md) trading. Interactive Brokers
+- **Thinkorswim**: [Trading platform](../t/trading_platform.md) by TD [Ameritrade](../a/ameritrade.md) [offering](../o/offering.md) advanced [order types](../o/order_types_in_trading.md) including T/P. Thinkorswim
 
-### Algorithmic Trading 
+### Algorithmic Trading
 [Automated trading systems](../a/automated_trading_systems.md), including those used for high-frequency trading (HFT), often incorporate T/P orders to systematically [capitalize](../c/capitalize.md) on [profit](../p/profit.md) opportunities within milliseconds.
 
 ## Conclusion

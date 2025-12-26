@@ -58,30 +58,23 @@ Businesses involved in international [trade](../t/trade.md), such as agricultura
 
 ### JPMorgan Chase & Co.
 JPMorgan offers a [range](../r/range.md) of [currency](../c/currency.md) hedging products, including [forward contracts](../f/forward_contracts.md), [options](../o/options.md), and swaps. These products are designed to help clients manage their [foreign exchange risk](../f/foreign_exchange_risk.md) effectively.
-[Learn more](https://www.jpmorgan.com/solutions/cib/markets/currencies)
 
 ### Goldman Sachs
 Goldman Sachs provides comprehensive [currency](../c/currency.md) [risk management](../r/risk_management.md) solutions, utilizing sophisticated tools and strategies to help clients mitigate [exchange rate](../e/exchange_rate.md) risks.
-[Learn more](https://www.goldmansachs.com/)
 
 ### HSBC
 HSBC offers a variety of [currency](../c/currency.md) hedging services tailored to meet the needs of businesses and investors. Their solutions include forwards, [options](../o/options.md), and structured products.
-[Learn more](https://www.business.hsbc.com/foreign-exchange/currency-hedging)
 
 ### Citi
 Citi's [currency](../c/currency.md) hedging solutions are designed to assist firms in managing their [exchange rate](../e/exchange_rate.md) exposures, improve financial predictability, and stabilize cash flows.
-[Learn more](https://www.citibank.com/commercialbank/solutions/foreigncurrency/index.jsp)
 
 ### BNP Paribas
 BNP Paribas features an array of [currency](../c/currency.md) hedging tools that cater to the needs of corporations and financial institutions. Their offerings include [forward contracts](../f/forward_contracts.md), [options](../o/options.md), and structured products.
-[Learn more](https://cib.bnpparibas.com/)
 
 ### Advanced Solutions
 
 #### Algorithmic Trading in Currency Hedging
 [Algorithmic trading](../a/algorithmic_trading.md) can enhance [currency](../c/currency.md) [hedging strategies](../h/hedging_strategies.md) by automatically executing trades based on predefined criteria. These algorithms can analyze [market](../m/market.md) conditions in real-time, identifying optimal times to execute hedging transactions. Companies like XTX Markets and Citadel Securities specialize in [algorithmic trading](../a/algorithmic_trading.md) and [offer](../o/offer.md) sophisticated tools for managing [currency](../c/currency.md) [risk](../r/risk.md).
-[Learn more about XTX Markets](https://www.xtxmarkets.com/)
-[Learn more about Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Conclusion
 [Currency](../c/currency.md) hedging is a vital strategy for businesses and investors exposed to [foreign exchange risk](../f/foreign_exchange_risk.md). While it comes with complexities and costs, effective hedging can provide financial stability and competitive advantages. Employing advanced tools and consulting with experts can help in designing effective [hedging strategies](../h/hedging_strategies.md) tailored to specific needs.

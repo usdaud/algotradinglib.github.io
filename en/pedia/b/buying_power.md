@@ -94,13 +94,13 @@ A [stop-loss order](../s/stop-loss_order.md) is designed to limit an [investor](
 
 [Interactive Brokers](../i/interactive_brokers.md) is one of the largest and most well-known firms [offering](../o/offering.md) [margin trading](../m/margin_trading.md) [options](../o/options.md), providing a wide [range](../r/range.md) of investment tools, including advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). They [offer](../o/offer.md) detailed insights into buying power, [margin](../m/margin.md) requirements, and [risk management](../r/risk_management.md).
 
-Visit: [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+Visit: Interactive Brokers
 
 ### Robinhood
 
-[Robinhood](../r/robinhood.md) has democratized trading for retail investors by [offering](../o/offering.md) [commission](../c/commission.md)-free trades. They also provide [margin](../m/margin.md) accounts, known as [Robinhood](../r/robinhood.md) Gold, which [offer](../o/offer.md) users increased buying power for a monthly [fee](../f/fee.md). 
+[Robinhood](../r/robinhood.md) has democratized trading for retail investors by [offering](../o/offering.md) [commission](../c/commission.md)-free trades. They also provide [margin](../m/margin.md) accounts, known as [Robinhood](../r/robinhood.md) Gold, which [offer](../o/offer.md) users increased buying power for a monthly [fee](../f/fee.md).
 
-Visit: [Robinhood](https://robinhood.com/us/en/)
+Visit: Robinhood
 
 ## Conclusion
 

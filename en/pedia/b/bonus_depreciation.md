@@ -22,10 +22,10 @@ The TCJA, signed into law by President Donald Trump in December 2017, made signi
 - **100% [Deduction](../d/deduction.md)**: The TCJA allows for a 100% bonus [depreciation](../d/depreciation.md) for qualified property acquired and placed in service between September 27, 2017, and January 1, 2023.
 - **Used Property**: As noted earlier, the TCJA expanded what qualifies for bonus [depreciation](../d/depreciation.md) to include used as well as new property.
 - **Phase-Down**: The 100% bonus [depreciation](../d/depreciation.md) is not permanent. It phases down:
-  - 80% for property placed in service in 2023,
-  - 60% for property placed in service in 2024,
-  - 40% for property placed in service in 2025,
-  - 20% for property placed in service in 2026.
+ - 80% for property placed in service in 2023,
+ - 60% for property placed in service in 2024,
+ - 40% for property placed in service in 2025,
+ - 20% for property placed in service in 2026.
 
 ## Accounting Implications
 
@@ -33,7 +33,7 @@ The TCJA, signed into law by President Donald Trump in December 2017, made signi
 
 ### Financial Reporting
 
-For financial reporting, companies follow GAAP (Generally Accepted [Accounting Principles](../a/accounting_principles.md)) in the United States. GAAP does not allow for the immediate expensing of fixed assets; instead, these assets are depreciated over their useful lives. 
+For financial reporting, companies follow GAAP (Generally Accepted [Accounting Principles](../a/accounting_principles.md)) in the United States. GAAP does not allow for the immediate expensing of fixed assets; instead, these assets are depreciated over their useful lives.
 
 ### Tax Accounting
 
@@ -52,15 +52,14 @@ Bonus [depreciation](../d/depreciation.md) can impact a company's financial deci
 
 ### Machinery and Equipment
 
-Large [manufacturing](../m/manufacturing.md) companies, such as Caterpillar Inc. (https://www.caterpillar.com), often benefit from bonus [depreciation](../d/depreciation.md) when they purchase new machinery or production equipment. 
-
+Large [manufacturing](../m/manufacturing.md) companies, such as Caterpillar Inc. ( often benefit from bonus [depreciation](../d/depreciation.md) when they purchase new machinery or production equipment.
 ### Technology and Software
 
-Technology companies like Microsoft (https://www.microsoft.com) invest heavily in computer equipment and software, both of which can be immediately expensed under bonus [depreciation](../d/depreciation.md) guidelines.
+Technology companies like Microsoft ( invest heavily in computer equipment and software, both of which can be immediately expensed under bonus [depreciation](../d/depreciation.md) guidelines.
 
 ### Qualified Improvement Property
 
-Retail companies, such as Walmart (https://www.walmart.com), often invest in improvements to their stores and [distribution](../d/distribution.md) centers, which can qualify as qualified improvement property under bonus [depreciation](../d/depreciation.md).
+Retail companies, such as Walmart ( often invest in improvements to their stores and [distribution](../d/distribution.md) centers, which can qualify as qualified improvement property under bonus [depreciation](../d/depreciation.md).
 
 ## Legislative Outlook
 

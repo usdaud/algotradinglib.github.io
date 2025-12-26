@@ -32,9 +32,9 @@ Several factors can influence the shape and slope of the [learning curve](../l/l
 
 Applying the concept of learning curves in trading involves several practical steps:
 
-1. **Data Collection:** Gather historical and real-time trading data. The breadth and depth of this data are critical for training and evaluating models. Companies like [Quandl](https://www.quandl.com/) and [Alpha Vantage](https://www.alphavantage.co/) provide extensive financial datasets that can be used for this purpose.
+1. **Data Collection:** Gather historical and real-time trading data. The breadth and depth of this data are critical for training and evaluating models. Companies like Quandl and Alpha Vantage provide extensive financial datasets that can be used for this purpose.
 2. **Model Training:** Use [machine learning](../m/machine_learning.md) frameworks (such as [TensorFlow](../t/tensorflow.md) or [PyTorch](../p/pytorch.md)) to train models on the collected data. Training includes splitting data into training and test sets, and possibly cross-validation, to ensure [robust](../r/robust.md) evaluation.
-3. **Performance Monitoring:** Continuously monitor the performance of the model using validation data and real-time trading results. Tools like [QuantConnect](https://www.quantconnect.com/) [offer](../o/offer.md) platforms to backtest and deploy [trading algorithms](../t/trading_algorithms.md) with integrated performance monitoring.
+3. **Performance Monitoring:** Continuously monitor the performance of the model using validation data and real-time trading results. Tools like QuantConnect [offer](../o/offer.md) platforms to backtest and deploy [trading algorithms](../t/trading_algorithms.md) with integrated performance monitoring.
 4. **Iterative Refinement:** Based on performance insights, iteratively refine models, adjust features, and improve data quality. This refinement loop is crucial for navigating the [learning curve](../l/learning_curve.md) effectively.
 5. **Deployment and Adaptation:** Once the [learning curve](../l/learning_curve.md) indicates satisfactory performance, deploy the algorithm in live trading with [risk management](../r/risk_management.md) protocols. Continually adapt the model based on new data and evolving [market](../m/market.md) conditions.
 
@@ -53,13 +53,13 @@ Several tools and technologies facilitate the analysis and application of learni
 
 1. **Data Processing Tools:** Pandas, NumPy, and Dask help in managing and preprocessing large datasets efficiently.
 2. **[Machine Learning](../m/machine_learning.md) Frameworks:** [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), and Scikit-learn are popular frameworks for building and training models.
-3. **Trading Platforms:** Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) provide environments for implementing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
+3. **Trading Platforms:** Platforms like MetaTrader, [StockSharp](../s/stocksharp.md), and [NinjaTrader](../n/ninjatrader.md) provide environments for implementing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
 4. **Visualization Tools:** Matplotlib, Seaborn, and Plotly are useful for visualizing learning curves and other [performance metrics](../p/performance_metrics.md).
-   
+
 ### Case Studies
 
-1. **[Hedge Fund](../h/hedge_fund.md) Learning Curves:** [Hedge](../h/hedge.md) funds that employ [algorithmic trading](../a/algorithmic_trading.md) continuously refine their strategies through [machine learning](../m/machine_learning.md). Firms like [Two Sigma](https://www.twosigma.com/) [leverage](../l/leverage.md) learning curves to optimize [trading models](../t/trading_models.md), resulting in significant improvements in P&L.
-2. **Retail Traders:** Retail traders using platforms like [QuantConnect](../q/quantconnect.md) or MetaTrader can also benefit from understanding and applying learning curves. These platforms provide the necessary tools to visualize and analyze learning curves for various [trading strategies](../t/trading_strategies.md).
+1. **[Hedge Fund](../h/hedge_fund.md) Learning Curves:** [Hedge](../h/hedge.md) funds that employ [algorithmic trading](../a/algorithmic_trading.md) continuously refine their strategies through [machine learning](../m/machine_learning.md). Firms like Two Sigma [leverage](../l/leverage.md) learning curves to optimize [trading models](../t/trading_models.md), resulting in significant improvements in P&L.
+2. **Retail Traders:** Retail traders using platforms like [StockSharp](../s/stocksharp.md) or MetaTrader can also benefit from understanding and applying learning curves. These platforms provide the necessary tools to visualize and analyze learning curves for various [trading strategies](../t/trading_strategies.md).
 3. **High-Frequency Trading (HFT):** HFT firms rely heavily on learning curves to maintain their competitive edge. Rapid adaptation to [market](../m/market.md) micro-structures is critical, and learning curves help these firms optimize their algorithms for speed and accuracy.
 
 ### Conclusion

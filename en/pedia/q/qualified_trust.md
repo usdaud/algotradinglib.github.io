@@ -13,7 +13,7 @@ A Qualified Domestic [Trust](../t/trust.md) (QDOT) is designed specifically for 
 - The [trust](../t/trust.md)’s assets must be sufficient to pay the [estate](../e/estate.md) [taxes](../t/taxes.md).
 - Certain provisions need to be included to ensure compliance with IRS rules.
 
-For more detailed information on QDOTs, see the IRS page on qualified domestic trusts: [IRS QDOT Information](https://www.irs.gov/taxtopics/tc761)
+For more detailed information on QDOTs, see IRS guidance on qualified domestic trusts.
 
 ### Qualified Terminable Interest Property Trust (QTIP)
 A Qualified Terminable [Interest](../i/interest.md) Property [Trust](../t/trust.md) (QTIP) allows the [grantor](../g/grantor.md) to provide for a surviving spouse while maintaining control of the [trust](../t/trust.md)'s [principal](../p/principal.md). QTIPs are commonly used in [estate planning](../e/estate_planning.md) to ensure that a surviving spouse is taken care of while the remainder of the [estate](../e/estate.md) can be directed to other beneficiaries (e.g., children from a previous marriage) after the surviving spouse’s death.
@@ -24,7 +24,7 @@ A Qualified Terminable [Interest](../i/interest.md) Property [Trust](../t/trust.
 - The [grantor](../g/grantor.md) dictates how the remaining [trust](../t/trust.md) assets are distributed upon the death of the surviving spouse.
 - The [trust](../t/trust.md) qualifies for the marital [deduction](../d/deduction.md) for federal [estate](../e/estate.md) [taxes](../t/taxes.md).
 
-Further insights about QTIPs can be found on the IRS page: [IRS QTIP Information](https://www.irs.gov/publications/p559)
+Further insights about QTIPs can be found on the IRS page: IRS QTIP Information
 
 ### Qualified Retirement Trusts
 Qualified retirement trusts, such as 401(k) plans, pension trusts, and other defined benefit or defined contribution plans, meet specific criteria under the Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA) and the Internal [Revenue](../r/revenue.md) Code. These retirement plans provide tax benefits to both the employer and employees, including [tax-deferred](../t/tax_deferred.md) growth on investment [earnings](../e/earnings.md).
@@ -35,7 +35,7 @@ Qualified retirement trusts, such as 401(k) plans, pension trusts, and other def
 - Early [withdrawal](../w/withdrawal.md) penalties and Required Minimum Distributions (RMDs) apply.
 - They are subject to non-discrimination rules to ensure benefits do not disproportionately favor highly compensated employees.
 
-For more detailed information on various retirement plans, refer to the IRS page on retirement topics: [IRS Retirement Plans](https://www.irs.gov/retirement-plans)
+For more detailed information on various retirement plans, refer to IRS guidance on retirement topics.
 
 ## Creation and Administration of Qualified Trusts
 

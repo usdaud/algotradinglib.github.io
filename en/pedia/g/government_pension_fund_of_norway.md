@@ -46,4 +46,3 @@ Looking ahead, the Government Pension [Fund](../f/fund.md) of Norway [will](../w
 
 The Government Pension [Fund](../f/fund.md) of Norway stands as a testament to prudent and forward-thinking resource management. By [investing](../i/investing.md) oil revenues responsibly, adhering to ethical guidelines, and focusing on long-term sustainability, Norway has created a financial legacy that [will](../w/will.md) benefit its citizens for generations to come.
 
-For more information, visit the official [Norges Bank Investment Management website](https://www.nbim.no/en/).

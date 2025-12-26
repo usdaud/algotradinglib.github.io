@@ -1,6 +1,6 @@
 # Musharakah
 
-Musharakah is an Islamic financial concept rooted in the principles of Sharia, which allows [multiple](../m/multiple.md) parties to invest [capital](../c/capital.md) into a [joint](../j/joint.md) venture or [business](../b/business.md) project, sharing profits and losses in proportion to their respective contributions. The term "Musharakah" is derived from the Arabic word "Sharikah," which means partnership. It is an important tool in Islamic [finance](../f/finance.md), promoting [risk](../r/risk.md)-sharing and ethical investment practices. 
+Musharakah is an Islamic financial concept rooted in the principles of Sharia, which allows [multiple](../m/multiple.md) parties to invest [capital](../c/capital.md) into a [joint](../j/joint.md) venture or [business](../b/business.md) project, sharing profits and losses in proportion to their respective contributions. The term "Musharakah" is derived from the Arabic word "Sharikah," which means partnership. It is an important tool in Islamic [finance](../f/finance.md), promoting [risk](../r/risk.md)-sharing and ethical investment practices.
 
 **1. Principles of Musharakah**
 
@@ -60,9 +60,9 @@ Despite its benefits, Musharakah faces several challenges:
 
 **6. Case Studies and Examples**
 
-- **Meezan [Bank](../b/bank.md)**: As Pakistan’s leading Islamic [bank](../b/bank.md), Meezan [Bank](../b/bank.md) utilizes Musharakah to [offer](../o/offer.md) various [financing](../f/financing.md) products, including [home](../h/home.md) [financing](../f/financing.md) and corporate [financing](../f/financing.md) solutions. More information on Meezan [Bank](../b/bank.md)'s offerings can be found at [Meezan Bank](https://www.meezanbank.com/).
+- **Meezan [Bank](../b/bank.md)**: As Pakistan’s leading Islamic [bank](../b/bank.md), Meezan [Bank](../b/bank.md) utilizes Musharakah to [offer](../o/offer.md) various [financing](../f/financing.md) products, including [home](../h/home.md) [financing](../f/financing.md) and corporate [financing](../f/financing.md) solutions. More information on Meezan [Bank](../b/bank.md)'s offerings can be found at Meezan Bank.
 
-- **Al Baraka Banking Group**: Al Baraka Banking Group operates in various countries, providing Islamic financial services, including Musharakah-based products. Detailed offerings can be explored at [Al Baraka Group](https://www.albaraka.com/).
+- **Al Baraka Banking Group**: Al Baraka Banking Group operates in various countries, providing Islamic financial services, including Musharakah-based products. Detailed offerings can be explored at Al Baraka Group.
 
 **7. Comparison with Conventional [Financing](../f/financing.md)**
 

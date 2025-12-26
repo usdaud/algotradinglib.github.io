@@ -72,9 +72,8 @@ Multinational corporations play a pivotal role in NFFI calculations. Their [earn
 
 ### Example: Apple Inc.
 
-Apple Inc., a multinational technology company, earns a significant portion of its [income](../i/income.md) from global markets. The [income](../i/income.md) Apple generates from its international operations contributes positively to the United States' NFFI. 
+Apple Inc., a multinational technology company, earns a significant portion of its [income](../i/income.md) from global markets. The [income](../i/income.md) Apple generates from its international operations contributes positively to the United States' NFFI.
 
-For more details, visit [Apple's Investor Relations](https://investor.apple.com/).
 
 ## Challenges in Measuring NFFI
 

@@ -89,9 +89,7 @@ print(detect_double_top(prices))
 
 To further delve into the algorithms and frameworks for detecting double tops, consider exploring:
 
-- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
-- **Kaggle Datasets and Notebooks**: [https://www.kaggle.com](https://www.kaggle.com)
-
+- **[QuantConnect](../q/quantconnect.md)**- **Kaggle Datasets and Notebooks**
 ## Trading Strategies Based on Double Top
 
 ### Short Selling

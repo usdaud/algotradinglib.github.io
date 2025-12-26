@@ -89,6 +89,5 @@ As the world gravitates towards ethical and sustainable [financing](../f/financi
 
 ## Conclusion
 
-Sukuk represents a unique [financial instrument](../f/financial_instrument.md) blending the ethical principles of Islam with modern [finance](../f/finance.md). Its [asset](../a/asset.md)-backed, [profit](../p/profit.md)-sharing nature offers investors an alternative to conventional bonds, with the added benefit of adherence to Shariah law. As global [interest](../i/interest.md) in ethical and socially responsible [investing](../i/investing.md) grows, Sukuk are set to become an increasingly vital component of the global financial landscape. 
+Sukuk represents a unique [financial instrument](../f/financial_instrument.md) blending the ethical principles of Islam with modern [finance](../f/finance.md). Its [asset](../a/asset.md)-backed, [profit](../p/profit.md)-sharing nature offers investors an alternative to conventional bonds, with the added benefit of adherence to Shariah law. As global [interest](../i/interest.md) in ethical and socially responsible [investing](../i/investing.md) grows, Sukuk are set to become an increasingly vital component of the global financial landscape.
 
-For more information about Sukuk, you can visit [AAOIFI's official website](http://www.aaoifi.com) to explore detailed standards and guidelines.

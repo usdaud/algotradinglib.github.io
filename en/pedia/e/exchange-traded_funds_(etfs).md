@@ -58,7 +58,7 @@ ETFs [offer](../o/offer.md) flexibility in terms of investment strategies. Inves
 Like all investments, ETFs are subject to [market risk](../m/market_risk.md). The [value](../v/value.md) of an ETF can fluctuate based on the performance of its [underlying](../u/underlying.md) assets. Investors should be prepared for potential losses, especially in volatile markets.
 
 ### Tracking Error
-[Tracking error](../t/tracking_error.md) refers to the discrepancy between the ETF's performance and the performance of the [index](../i/index_instrument.md) it aims to track. Factors contributing to [tracking error](../t/tracking_error.md) include management fees, [trading costs](../t/trading_costs.md), and imperfect replication of the [index](../i/index_instrument.md). 
+[Tracking error](../t/tracking_error.md) refers to the discrepancy between the ETF's performance and the performance of the [index](../i/index_instrument.md) it aims to track. Factors contributing to [tracking error](../t/tracking_error.md) include management fees, [trading costs](../t/trading_costs.md), and imperfect replication of the [index](../i/index_instrument.md).
 
 ### Liquidity Risk
 While many ETFs are highly [liquid](../l/liquid.md), some ETFs, especially those that invest in less [liquid](../l/liquid.md) assets, can experience [liquidity risk](../l/liquidity_risk.md). This [risk](../r/risk.md) can manifest in wider [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and increased [trading costs](../t/trading_costs.md) during periods of [market](../m/market.md) stress or [illiquidity](../i/illiquid.md).
@@ -72,19 +72,19 @@ Some types of ETFs, such as leveraged and [inverse ETFs](../i/inverse_etfs.md), 
 ## ETF Providers and Key Players
 
 ### BlackRock (iShares)
-BlackRock, through its [iShares](../i/ishares.md) brand, is one of the largest providers of ETFs globally. [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of ETFs covering different [asset](../a/asset.md) classes, sectors, and regions. More information can be found on their [website](https://www.ishares.com).
+BlackRock, through its [iShares](../i/ishares.md) brand, is one of the largest providers of ETFs globally. [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of ETFs covering different [asset](../a/asset.md) classes, sectors, and regions.
 
 ### Vanguard
-Vanguard is known for its low-cost investment [options](../o/options.md), and its ETF offerings are no exception. Vanguard ETFs cover various indices and sectors, focusing on providing broad [market exposure](../m/market_exposure.md) with low [expense](../e/expense.md) ratios. Details can be found on their [website](https://investor.vanguard.com/etf/).
+Vanguard is known for its low-cost investment [options](../o/options.md), and its ETF offerings are no exception. Vanguard ETFs cover various indices and sectors, focusing on providing broad [market exposure](../m/market_exposure.md) with low [expense](../e/expense.md) ratios.
 
 ### State Street Global Advisors (SPDR)
-State Street Global Advisors is another major player in the ETF [market](../m/market.md) with their SPDR (Standard & Poor's Depositary [Receipts](../r/receipt.md)) ETFs. The SPDR S&P 500 ETF (SPY) is one of the most widely traded ETFs in the world. More information is available on their [website](https://www.ssga.com/spdr).
+State Street Global Advisors is another major player in the ETF [market](../m/market.md) with their SPDR (Standard & Poor's Depositary [Receipts](../r/receipt.md)) ETFs. The SPDR S&P 500 ETF (SPY) is one of the most widely traded ETFs in the world.
 
 ### Invesco (PowerShares)
-Invesco offers a wide [range](../r/range.md) of ETFs under the PowerShares brand. These ETFs cover various [equity](../e/equity.md), [fixed income](../f/fixed_income.md), and [commodity](../c/commodity.md) indices, catering to both retail and institutional investors. Detailed information can be found on their [website](https://www.invesco.com/us/financial-products/etfs).
+Invesco offers a wide [range](../r/range.md) of ETFs under the PowerShares brand. These ETFs cover various [equity](../e/equity.md), [fixed income](../f/fixed_income.md), and [commodity](../c/commodity.md) indices, catering to both retail and institutional
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) provides a broad selection of ETFs with competitive [expense](../e/expense.md) ratios and [commission](../c/commission.md)-free trading for Schwab clients. Schwab ETFs aim to [offer](../o/offer.md) investors a cost-effective way to diversify their portfolios. More details can be found on their [website](https://www.schwab.com/etfs).
+[Charles Schwab](../c/charles_schwab.md) provides a broad selection of ETFs with competitive [expense](../e/expense.md) ratios and [commission](../c/commission.md)-free trading for Schwab clients. Schwab ETFs aim to [offer](../o/offer.md) investors a cost-effective way to diversify their portfolios. More
 
 ## Conclusion
 

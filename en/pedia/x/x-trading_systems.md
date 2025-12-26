@@ -8,7 +8,7 @@ In the dynamic world of [financial markets](../f/financial_market.md), X-[Tradin
 
 ## X-Trading Systems Overview
 
-X-[Trading Systems](../t/trading_systems.md), found at [X-Trading Official Site](https://www.x-trading.com), has positioned itself as a leader in the [algorithmic trading](../a/algorithmic_trading.md) [industry](../i/industry.md). With a [robust](../r/robust.md) suite of trading tools and platforms, X-[Trading Systems](../t/trading_systems.md) provides its clients with the technology needed to stay ahead in the competitive world of [financial markets](../f/financial_market.md).
+X-[Trading Systems](../t/trading_systems.md), found at X-Trading public materials, has positioned itself as a leader in the [algorithmic trading](../a/algorithmic_trading.md) [industry](../i/industry.md). With a [robust](../r/robust.md) suite of trading tools and platforms, X-[Trading Systems](../t/trading_systems.md) provides its clients with the technology needed to stay ahead in the competitive world of [financial markets](../f/financial_market.md).
 
 ## History and Background
 

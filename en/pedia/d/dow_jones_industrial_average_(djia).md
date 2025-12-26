@@ -41,7 +41,7 @@ Financial companies also form a significant part of the DJIA, including:
 - JPMorgan Chase (JPM)
 - American Express (AXP)
 
-For the most up-to-date list of DJIA components, refer to the official S&P Dow Jones Indices page: [S&P Dow Jones Indices DJIA](https://www.spglobal.com/spdji/en/indices/equity/dow-jones-industrial-average/)
+For the most up-to-date list of DJIA components, refer to S&P Dow Jones Indices publications.
 
 ## Importance of the DJIA
 

@@ -46,5 +46,3 @@ Maybank Kim Eng is regulated by several top-tier financial authorities in Asia, 
 - Hong Kong Securities and [Futures](../f/futures.md) [Commission](../c/commission.md) (SFC)
 - Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) of Thailand (SEC)
 
-## Website
-For more information and to start trading, visit the official Maybank Kim Eng website: [Maybank Kim Eng](https://www.maybank-ke.com)

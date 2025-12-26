@@ -8,9 +8,9 @@ An X-Y chart plots data points on a horizontal (X) and a vertical (Y) axis, repr
 
 ### Components of X-Y Charts
 
-1. **Axes**: 
-   - **X (Horizontal) Axis**: Represents the independent variable.
-   - **Y (Vertical) Axis**: Represents the dependent variable.
+1. **Axes**:
+ - **X (Horizontal) Axis**: Represents the independent variable.
+ - **Y (Vertical) Axis**: Represents the dependent variable.
 2. **Data Points**: Individual observations plotted on the chart.
 3. **Grid Lines**: Help to reference the data points.
 4. **Title and Labels**: Usually describe what the chart is showcasing.
@@ -69,11 +69,11 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) a
 - **R**: Offers powerful packages like ggplot2 for creating detailed scatter plots.
 - **Excel**: Despite being basic, Excel’s charting capabilities can be useful for quick and simple X-Y chart generation.
 - **Tableau**: Known for its [robust](../r/robust.md) [data visualization](../d/data_visualization.md) capabilities and interactive charts.
-- **[QuantConnect](../q/quantconnect.md) and Zipline**: [Algorithmic trading](../a/algorithmic_trading.md) platforms that allow for extensive [data visualization](../d/data_visualization.md), including scatter plots, integrated into their [backtesting](../b/backtesting.md) engines.
+- **[StockSharp](../s/stocksharp.md) and Zipline**: [Algorithmic trading](../a/algorithmic_trading.md) platforms that allow for extensive [data visualization](../d/data_visualization.md), including scatter plots, integrated into their [backtesting](../b/backtesting.md) engines.
 
 ### Example Companies
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect
 - **Zipline (Quantopian)**: No longer active, but previously integrated [robust](../r/robust.md) [data visualization](../d/data_visualization.md).
 
 ## Practical Example
@@ -84,12 +84,12 @@ Imagine we have a dataset of daily closing prices for two [stocks](../s/stock.md
 
 #### Data Sample:
 
-| Date       | Stock A Price | Stock B Price |
+| Date | Stock A Price | Stock B Price |
 |------------|----------------|----------------|
-| 2022-01-01 | 150.50         | 100.30         |
-| 2022-01-02 | 151.20         | 101.00         |
-| 2022-01-03 | 149.80         | 99.70          |
-| ...        | ...            | ...            |
+| 2022-01-01 | 150.50 | 100.30 |
+| 2022-01-02 | 151.20 | 101.00 |
+| 2022-01-03 | 149.80 | 99.70 |
+|... |... |... |
 
 ### Creating an X-Y Chart in Python
 

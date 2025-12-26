@@ -54,11 +54,11 @@ Moreover, the SEC's enforcement actions serve as a powerful deterrent against se
 
 ## Technological Advancements and Challenges
 
-The rise of technology and the increasing complexity of the [financial markets](../f/financial_market.md) present both opportunities and challenges for the SEC. Advances in technology, such as [algorithmic trading](../a/accountability.md), high-frequency trading, and [blockchain](../b/blockchain_in_trading.md), have transformed how markets operate and how securities are traded.
+The rise of technology and the increasing complexity of the [financial markets](../f/financial_market.md) present both opportunities and challenges for the SEC. Advances in technology, such as [algorithmic trading](../a/algorithmic_trading.md), high-frequency trading, and [blockchain](../b/blockchain_in_trading.md), have transformed how markets operate and how securities are traded.
 
 ### Algorithmic and High-Frequency Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute trades based on predefined criteria. High-frequency trading (HFT) is a subset of [algorithmic trading](../a/accountability.md) that relies on super-fast [execution](../e/execution.md) speeds to [capitalize](../c/capitalize.md) on small price discrepancies. These technologies have increased [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md) but also raised concerns about [market](../m/market.md) stability and fairness.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades based on predefined criteria. High-frequency trading (HFT) is a subset of [algorithmic trading](../a/algorithmic_trading.md) that relies on super-fast [execution](../e/execution.md) speeds to [capitalize](../c/capitalize.md) on small price discrepancies. These technologies have increased [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md) but also raised concerns about [market](../m/market.md) stability and fairness.
 
 The SEC has implemented rules to address the risks associated with algorithmic and high-frequency trading. For example, the SEC's Regulation SCI (Systems Compliance and Integrity) aims to strengthen the [infrastructure](../i/infrastructure.md) of securities markets by requiring exchanges and other key [market](../m/market.md) participants to have [robust](../r/robust.md) systems, policies, and procedures in place to ensure operational integrity.
 
@@ -80,4 +80,3 @@ The SEC is a critical institution in the U.S. financial regulatory landscape, ta
 
 As [financial markets](../f/financial_market.md) continue to evolve with technological advancements, the SEC must adapt and innovate to address new challenges and opportunities. By collaborating with international regulators and leveraging [data analytics](../d/data_analytics.md) and economic research, the SEC remains at the forefront of efforts to safeguard the interests of investors and promote the stability and integrity of [financial markets](../f/financial_market.md).
 
-For more information about the SEC and its activities, visit the [official SEC website](https://www.sec.gov).

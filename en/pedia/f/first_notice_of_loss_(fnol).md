@@ -1,6 +1,6 @@
 # First Notice of Loss (FNOL)
 
-First Notice of Loss (FNOL) refers to the initial report made by a policyholder to an [insurance](../i/insurance.md) company after experiencing a loss, theft, damage, or another adverse event covered by an [insurance](../i/insurance.md) policy. While this term is most commonly associated with the [insurance](../i/insurance.md) [industry](../i/industry.md), it has significant implications across various sectors including healthcare, [property management](../p/property_management.md), and legal services. The FNOL process involves logging and initiating the claim process, assessing the extent of the damage or loss, and determining the subsequent steps for investigation and resolution. 
+First Notice of Loss (FNOL) refers to the initial report made by a policyholder to an [insurance](../i/insurance.md) company after experiencing a loss, theft, damage, or another adverse event covered by an [insurance](../i/insurance.md) policy. While this term is most commonly associated with the [insurance](../i/insurance.md) [industry](../i/industry.md), it has significant implications across various sectors including healthcare, [property management](../p/property_management.md), and legal services. The FNOL process involves logging and initiating the claim process, assessing the extent of the damage or loss, and determining the subsequent steps for investigation and resolution.
 
 ## Definition and Importance
 
@@ -39,10 +39,9 @@ Modern technology plays a pivotal role in optimizing the FNOL process. Several t
 
 Several companies and service providers specialize in enhancing the FNOL process for insurers. Notable entities include:
 
-- **CCC Intelligent Solutions:** Provides comprehensive software solutions for FNOL and claims management. (https://www.cccis.com/)
-- **Guidewire Software:** Offers an integrated platform for [insurance](../i/insurance.md) operations, including FNOL management. (https://www.guidewire.com/)
-- **Duck Creek Technologies:** Develops adaptable SaaS solutions tailored to FNOL and the broader [insurance](../i/insurance.md) lifecycle. (https://www.duckcreek.com/)
-- **Crawford & Company:** A global leader in claims management, [offering](../o/offering.md) advanced FNOL services and technologies. (https://www.crawco.com/)
+- **CCC Intelligent Solutions:** Provides comprehensive software solutions for FNOL and claims management. - **Guidewire Software:** Offers an integrated platform for [insurance](../i/insurance.md) operations, including FNOL management. (
+- **Duck Creek Technologies:** Develops adaptable SaaS solutions tailored to FNOL and the broader [insurance](../i/insurance.md) lifecycle. (
+- **Crawford & Company:** A global leader in claims management, [offering](../o/offering.md) advanced FNOL services and technologies. (
 
 ## Challenges
 

@@ -11,19 +11,19 @@ The TSI takes into account the price difference between successive bars, often r
 The TSI is calculated with the following formula:
 
 1. **Price Change (`[delta](../d/delta.md)`)**:
-    \( \[Delta](../d/delta.md) = \text{Close} - \text{Close}_{prev} \)
+ \( \[Delta](../d/delta.md) = \text{Close} - \text{Close}_{prev} \)
 
 2. **Smoothed Price Change (`[Delta](../d/delta.md)`)**:
-    \( \text{Smoothed} \[Delta](../d/delta.md) = EMA(EMA(\[Delta](../d/delta.md), r), s) \)
+ \( \text{Smoothed} \[Delta](../d/delta.md) = EMA(EMA(\[Delta](../d/delta.md), r), s) \)
 
 3. **Absolute Price Change (`absDelta`)**:
-    \( abs\[Delta](../d/delta.md) = |\[Delta](../d/delta.md)| \)
+ \( abs\[Delta](../d/delta.md) = |\[Delta](../d/delta.md)| \)
 
 4. **Smoothed Absolute Price Change (`absDelta`)**:
-    \( \text{Smoothed} abs\[Delta](../d/delta.md) = EMA(EMA(abs\[Delta](../d/delta.md), r), s) \)
+ \( \text{Smoothed} abs\[Delta](../d/delta.md) = EMA(EMA(abs\[Delta](../d/delta.md), r), s) \)
 
 5. **True Strength [Index](../i/index_instrument.md)**:
-    \( TSI = \frac{Smoothed \[Delta](../d/delta.md)}{Smoothed abs\[Delta](../d/delta.md)} \times 100 \)
+ \( TSI = \frac{Smoothed \[Delta](../d/delta.md)}{Smoothed abs\[Delta](../d/delta.md)} \times 100 \)
 
 Where:
 - `EMA` is the Exponential Moving Average
@@ -75,15 +75,15 @@ Let's assume `r = 25` and `s = 13`. Here is a step-by-step process to calculate 
 
 ## Application in Algorithmic Trading
 
-The TSI can play a significant role in [algorithmic trading](../a/accountability.md) due to its responsiveness and accuracy in detecting [momentum](../m/momentum.md) shifts. Here's an example of how TSI can be integrated into an [algorithmic trading](../a/accountability.md) strategy:
+The TSI can play a significant role in [algorithmic trading](../a/algorithmic_trading.md) due to its responsiveness and accuracy in detecting [momentum](../m/momentum.md) shifts. Here's an example of how TSI can be integrated into an [algorithmic trading](../a/algorithmic_trading.md) strategy:
 
 ### Strategy Outline
 
 1. **Data Preprocessing**: Collect historical price data for the [financial instrument](../f/financial_instrument.md).
 2. **TSI Calculation**: Calculate the TSI values based on chosen `r` and `s` periods.
 3. **Signal Generation**:
-    - **Buy Signal**: Trigger a buy [trade](../t/trade.md) when the TSI crosses above the signal line or rises above zero.
-    - **Sell Signal**: Trigger a sell [trade](../t/trade.md) when the TSI crosses below the signal line or falls below zero.
+ - **Buy Signal**: Trigger a buy [trade](../t/trade.md) when the TSI crosses above the signal line or rises above zero.
+ - **Sell Signal**: Trigger a sell [trade](../t/trade.md) when the TSI crosses below the signal line or falls below zero.
 4. **[Backtesting](../b/backtesting.md)**: Validate the strategy by running it against historical data to assess performance (profitability, [drawdown](../d/drawdown.md), win-rate, etc.).
 5. **[Optimization](../o/optimization.md)**: Adjust parameters (`r` and `s`) and thresholds to optimize performance.
 6. **Implementation**: Deploy the strategy in a live [trading environment](../t/trading_environment.md) with [risk management](../r/risk_management.md) settings.
@@ -93,14 +93,14 @@ The TSI can play a significant role in [algorithmic trading](../a/accountability
 Various libraries and frameworks in languages such as Python and R can be leveraged to implement TSI-based strategies:
 
 - **Python**:
-    - `pandas` for data manipulation
-    - `numpy` for numerical calculations
-    - `ta-lib` or `pandas_ta` for [technical indicators](../t/technical_indicator.md), including TSI
-    - `[backtrader](../b/backtrader.md)` for [backtesting](../b/backtesting.md)
+ - `pandas` for data manipulation
+ - `numpy` for numerical calculations
+ - `ta-lib` or `pandas_ta` for [technical indicators](../t/technical_indicator.md), including TSI
+ - `[backtrader](../b/backtrader.md)` for [backtesting](../b/backtesting.md)
 - **R**:
-    - `quantmod` for data retrieval
-    - `TTR` for [technical analysis](../t/technical_analysis.md) functions, including TSI
-    - `PerformanceAnalytics` for [performance metrics](../p/performance_metrics.md)
+ - `quantmod` for data retrieval
+ - `TTR` for [technical analysis](../t/technical_analysis.md) functions, including TSI
+ - `PerformanceAnalytics` for [performance metrics](../p/performance_metrics.md)
 
 ## Example in Python
 
@@ -127,17 +127,17 @@ print(df)
 [TradingView](../t/tradingview.md) is a popular platform that traders use for charting, screening, and analyzing [financial markets](../f/financial_market.md). Integrating TSI into [TradingView](../t/tradingview.md) charts is straightforward:
 
 1. **Adding TSI [Indicator](../i/indicator.md)**:
-    - [Open](../o/open.md) a chart in [TradingView](../t/tradingview.md).
-    - Click on "Indicators" in the toolbar.
-    - Search for "True Strength [Index](../i/index_instrument.md)" and select it.
+ - [Open](../o/open.md) a chart in [TradingView](../t/tradingview.md).
+ - Click on "Indicators" in the toolbar.
+ - Search for "True Strength [Index](../i/index_instrument.md)" and select it.
 2. **Customizing Parameters**:
-    - Adjust the periods for the EMAs (`r` and `s`) as desired in the settings.
+ - Adjust the periods for the EMAs (`r` and `s`) as desired in the settings.
 3. **Interpreting Signals**:
-    - Observe TSI crossovers and divergences in relation to price movements.
-    - Utilize [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions to make informed trading decisions.
+ - Observe TSI crossovers and divergences in relation to price movements.
+ - Utilize [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions to make informed trading decisions.
 
-You can explore TSI further on [TradingView](../t/tradingview.md)'s website: [TradingView](https://www.tradingview.com).
+You can explore TSI further on [TradingView](../t/tradingview.md)'s online platform: TradingView.
 
 ## Conclusion
 
-The True Strength [Index](../i/index_instrument.md) is a valuable [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that provides insights into the strength and direction of [market](../m/market.md) trends. Its double smoothing technique reduces [noise](../n/noise.md) and makes it an effective tool for identifying potential entry and exit points in various [trading strategies](../t/trading_strategies.md). Whether used for manual [market](../m/market.md) analysis or integrated into more complex [algorithmic trading](../a/accountability.md) systems, TSI can significantly enhance a [trader](../t/trader.md)'s ability to navigate [financial markets](../f/financial_market.md).
+The True Strength [Index](../i/index_instrument.md) is a valuable [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that provides insights into the strength and direction of [market](../m/market.md) trends. Its double smoothing technique reduces [noise](../n/noise.md) and makes it an effective tool for identifying potential entry and exit points in various [trading strategies](../t/trading_strategies.md). Whether used for manual [market](../m/market.md) analysis or integrated into more complex [algorithmic trading](../a/algorithmic_trading.md) systems, TSI can significantly enhance a [trader](../t/trader.md)'s ability to navigate [financial markets](../f/financial_market.md).

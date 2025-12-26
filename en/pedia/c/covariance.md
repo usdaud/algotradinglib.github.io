@@ -17,7 +17,7 @@ Where:
 ## Interpretation
 
 - **Positive Covariance:** When the covariance is positive, it indicates that as one variable increases, the other variable also tends to increase. For example, if the prices of two different [stocks](../s/stock.md) have a positive covariance, when one stock’s price increases, the other stock’s price is also likely to increase.
-  
+
 - **Negative Covariance:** When the covariance is negative, it suggests that as one variable increases, the other variable tends to decrease. For instance, a negative covariance between two [stocks](../s/stock.md) means that when one stock's price goes up, the other’s price is likely to go down.
 
 - **Zero Covariance:** A covariance of zero indicates that there is no [linear relationship](../l/linear_relationship.md) between the movements of the two variables.
@@ -25,12 +25,12 @@ Where:
 ## Mathematical Properties
 
 1. **Symmetry:**
-   \[ \text{Cov}(X, Y) = \text{Cov}(Y, X) \]
+ \[ \text{Cov}(X, Y) = \text{Cov}(Y, X) \]
 
 2. **Linearity in Each Argument:**
-   For any constant \(a\) and \(b\):
-   \[ \text{Cov}(aX, bY) = ab \cdot \text{Cov}(X, Y) \]
-   \[ \text{Cov}(X + a, Y + b) = \text{Cov}(X, Y) \]
+ For any constant \(a\) and \(b\):
+ \[ \text{Cov}(aX, bY) = ab \cdot \text{Cov}(X, Y) \]
+ \[ \text{Cov}(X + a, Y + b) = \text{Cov}(X, Y) \]
 
 3. **Units of Measure:** Covariance has units of \(X\) times \(Y\). Unlike the [correlation coefficient](../c/correlation_coefficient.md), it does not have a standardized scale of -1 to 1.
 
@@ -82,7 +82,6 @@ print("Covariance between Stock A and Stock B:", covariance)
 
 Renaissance Technologies is one of the most renowned [quantitative hedge funds](../q/quantitative_hedge_funds.md) and a pioneer in [algorithmic trading](../a/accountability.md). Covariance and other statistical measures are fundamental to their models. They use highly sophisticated mathematical algorithms and statistical models to analyze [market](../m/market.md) data and make trading decisions. Renaissance’s flagship Medallion [Fund](../f/fund.md), known for delivering extraordinary returns, relies heavily on such quantitative techniques.
 
-For more details, you can visit their page: [Renaissance Technologies](https://www.rentec.com/)
 
 ## Common Misconceptions and Pitfalls
 

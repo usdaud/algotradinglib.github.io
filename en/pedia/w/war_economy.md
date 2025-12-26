@@ -53,7 +53,7 @@ The Soviet Union maintained a war [economy](../e/economy.md) throughout much of 
 ## Modern Implications
 
 ### Defense Industry
-The defense [industry](../i/industry.md) continues to play a significant role in modern economies, particularly in countries like the United States, China, and Russia. Companies such as Lockheed Martin, Northrop Grumman, and Raytheon are integral to the defense sector, influencing economic policies and research priorities. For more information, visit [Lockheed Martin](https://www.lockheedmartin.com/), [Northrop Grumman](https://www.northropgrumman.com/), and [Raytheon](https://www.rtx.com/).
+The defense [industry](../i/industry.md) continues to play a significant role in modern economies, particularly in countries like the United States, China, and Russia. Companies such as Lockheed Martin, Northrop Grumman, and Raytheon are integral to the defense sector, influencing economic policies and research priorities. For more information, visit Lockheed Martin, Northrop Grumman, and Raytheon.
 
 ### Economic Policy
 Modern economic policies often reflect lessons learned from past war economies. Governments are more cautious about accruing [debt](../d/debt.md) and strive for a balance between military and civilian needs. However, the legacy of high military spending persists in many nations, affecting budgetary allocations and economic priorities.

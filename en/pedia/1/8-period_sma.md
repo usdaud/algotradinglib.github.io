@@ -73,7 +73,7 @@ class SMACrossStrategy(bt.Strategy):
     params = (('sma_period', 8),)
 
     def __init__(self):
-        self.sma = bt.indicators.SimpleMovingAverage(
+ self.sma = bt.indicators.SimpleMovingAverage
             self.data.close, period=self.params.sma_period)
 
     def next(self):
@@ -122,4 +122,4 @@ In stock trading, the 8-period SMA can be applied to detect sudden changes in [m
 
 ## Conclusion
 
-The 8-period SMA is a versatile and valuable tool in algotrading, providing key insights into [market](../m/market.md) trends and potential trading opportunities. While it has its limitations, its simplicity and effectiveness in certain [market](../m/market.md) conditions make it a staple in the toolkit of many traders and [algorithmic trading](../a/algorithmic_trading.md) systems. Understanding how to calculate, apply, and interpret the 8-period SMA can enhance the performance of [trading strategies](../t/trading_strategies.md) and contribute to more informed decision-making in the [financial markets](../f/financial_market.md).
+The 8-period SMA is a versatile and valuable tool in algotrading, providing key insights into [market](../m/market.md) trends and potential trading opportunities. While it has its limitations, its simplicity and effectiveness in certain [market](../m/market.md) conditions make it a staple in the toolkit of many traders and [algorithmic trading](../a/algorithmic_trading.md) systems. Understanding how to calculate, apply, and interpret the 8-period SMA can enhance the performance of [trading strategies](../t/trading_strategies.md) and contribute to more informed decision-making in the [financial markets](../f/financial_market.md).

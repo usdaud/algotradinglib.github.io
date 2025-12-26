@@ -1,6 +1,6 @@
 # Interpolation
 
-Interpolation is a method of estimating unknown values that fall between known values. It is widely used in various fields including [finance](../f/finance.md), engineering, computer graphics, and natural sciences. In the realm of [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md), interpolation plays a crucial role in data analysis, model creation, and [forecasting](../f/forecasting.md). This comprehensive guide delves into the different types of interpolation techniques, their applications in [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md), and the mathematical foundations behind them.
+Interpolation is a method of estimating unknown values that fall between known values. It is widely used in various fields including [finance](../f/finance.md), engineering, computer graphics, and natural sciences. In the realm of [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md), interpolation plays a crucial role in data analysis, model creation, and [forecasting](../f/forecasting.md). This comprehensive guide delves into the different types of interpolation techniques, their applications in [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md), and the mathematical foundations behind them.
 
 ## Linear Interpolation
 
@@ -86,18 +86,18 @@ Multi-dimensional interpolation extends the concept to higher dimensions, which 
 
 ## Software Tools and Libraries
 
-Several libraries and tools can assist in implementing interpolation techniques in [algorithmic trading](../a/accountability.md):
+Several libraries and tools can assist in implementing interpolation techniques in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Python Libraries**: `numpy`, `scipy`, and `pandas` all [offer](../o/offer.md) built-in functions for various interpolation methods.
-   - [NumPy](https://numpy.org/)
-   - [SciPy](https://scipy.org/)
-   - [Pandas](https://pandas.pydata.org/)
+ - NumPy
+ - SciPy
+ - Pandas
 
 2. **R Libraries**: `approx`, `spline`, and `kriging` [offer](../o/offer.md) functionalities for different types of interpolation.
-   - [CRAN R Project](https://cran.r-project.org/)
+ - CRAN R Project
 
 3. **MATLAB**: Widely used in [finance](../f/finance.md) for its high-level computational capabilities, MATLAB offers functions like `interp1`, `interp2`, and `interp3`.
-   - [MATLAB](https://www.mathworks.com/products/matlab.html)
+ - MATLAB
 
 ## Case Studies
 
@@ -111,6 +111,6 @@ A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) implem
 
 ## Conclusion
 
-Interpolation is an invaluable tool in [algorithmic trading](../a/accountability.md) and [finance](../f/finance.md), providing methods to estimate missing data, forecast future trends, and model complex relationships. From simple linear interpolation to more advanced splines and RBF techniques, each method has its own set of applications and advantages. By understanding the [underlying](../u/underlying.md) mathematics and practical considerations, traders and financial analysts can better [leverage](../l/leverage.md) interpolation techniques to enhance their strategies and models.
+Interpolation is an invaluable tool in [algorithmic trading](../a/algorithmic_trading.md) and [finance](../f/finance.md), providing methods to estimate missing data, forecast future trends, and model complex relationships. From simple linear interpolation to more advanced splines and RBF techniques, each method has its own set of applications and advantages. By understanding the [underlying](../u/underlying.md) mathematics and practical considerations, traders and financial analysts can better [leverage](../l/leverage.md) interpolation techniques to enhance their strategies and models.
 
 For further reading, you can explore comprehensive resources available through statistical and financial software documentation or academic research papers on interpolation methods and their applications in [finance](../f/finance.md).

@@ -1,6 +1,6 @@
 # Over-Selling
 
-Over-selling is a term that is frequently used in both [finance](../f/finance.md) and trading, particularly in the context of stock markets, forex trading, and other forms of [financial markets](../f/financial_market.md). In essence, over-selling refers to the practice of selling an [asset](../a/asset.md) to such an extent that its [market price](../m/market_price.md) falls significantly below its intrinsic or [fair value](../f/fair_value.md). This is often a consequence of overwhelming negative sentiment, fear, or panic among investors, which can lead to a sharp and often sudden decline in the [asset](../a/asset.md)'s price. 
+Over-selling is a term that is frequently used in both [finance](../f/finance.md) and trading, particularly in the context of stock markets, forex trading, and other forms of [financial markets](../f/financial_market.md). In essence, over-selling refers to the practice of selling an [asset](../a/asset.md) to such an extent that its [market price](../m/market_price.md) falls significantly below its intrinsic or [fair value](../f/fair_value.md). This is often a consequence of overwhelming negative sentiment, fear, or panic among investors, which can lead to a sharp and often sudden decline in the [asset](../a/asset.md)'s price.
 
 ## Causes of Over-Selling
 
@@ -20,7 +20,7 @@ In leveraged trading, where investors borrow [money](../m/money.md) to [trade](.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, is the use of automated systems to execute trades based on pre-defined criteria. While algo-trading can improve [market efficiency](../m/market_efficiency.md), it can also contribute to over-selling. [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md), such as high-frequency trading (HFT), can lead to rapid selling in response to specific [market](../m/market.md) triggers, causing a significant drop in [asset](../a/asset.md) prices within a very short period.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, is the use of automated systems to execute trades based on pre-defined criteria. While algo-trading can improve [market efficiency](../m/market_efficiency.md), it can also contribute to over-selling. [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md), such as high-frequency trading (HFT), can lead to rapid selling in response to specific [market](../m/market.md) triggers, causing a significant drop in [asset](../a/asset.md) prices within a very short period.
 
 ### Technical Indicators
 
@@ -134,9 +134,9 @@ In early 2021, the stock of GameStop, a video game retailer, experienced extreme
 
 ## Conclusion
 
-Over-selling is a complex phenomenon influenced by various factors, including [market sentiment](../m/market_sentiment.md), financial news, [margin](../m/margin.md) calls, [algorithmic trading](../a/accountability.md), and [technical indicators](../t/technical_indicator.md). While it can lead to significant price [volatility](../v/volatility.md) and [market](../m/market.md) inefficiencies, it also presents opportunities for astute traders and investors. By understanding the causes, consequences, and strategies to [capitalize](../c/capitalize.md) on over-selling, [market](../m/market.md) participants can navigate these challenging conditions more effectively.
+Over-selling is a complex phenomenon influenced by various factors, including [market sentiment](../m/market_sentiment.md), financial news, [margin](../m/margin.md) calls, [algorithmic trading](../a/algorithmic_trading.md), and [technical indicators](../t/technical_indicator.md). While it can lead to significant price [volatility](../v/volatility.md) and [market](../m/market.md) inefficiencies, it also presents opportunities for astute traders and investors. By understanding the causes, consequences, and strategies to [capitalize](../c/capitalize.md) on over-selling, [market](../m/market.md) participants can navigate these challenging conditions more effectively.
 
-For more detailed information on stock markets and [trading strategies](../t/trading_strategies.md), you can visit leading financial institutions such as [Goldman Sachs](https://www.goldmansachs.com) or [Morgan Stanley](https://www.morganstanley.com).
+For more detailed information on stock markets and [trading strategies](../t/trading_strategies.md), you can visit leading financial institutions such as Goldman Sachs or Morgan Stanley.
 
 ---
 

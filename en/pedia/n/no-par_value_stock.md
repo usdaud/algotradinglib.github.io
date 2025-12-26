@@ -72,8 +72,8 @@ When it comes to stock splits or stock dividends, no-[par value](../p/par_value.
 
 ### Corporate Case Studies
 
-1. **Apple Inc.**: Apple transitioned from a [par value](../p/par_value.md) to a no-[par value](../p/par_value.md) [capital structure](../c/capital_structure.md) to simplify its financial architecture. More details can be found on their [Investors Relations page](https://investor.apple.com/).
-2. **Google LLC (Alphabet Inc.)**: Google has employed no-par [value stock](../v/value_stock.md) to streamline its [capital structure](../c/capital_structure.md), fostering an environment of flexible financial management. Visit their [Investor Relations page](https://abc.xyz/investor/).
+1. **Apple Inc.**: Apple transitioned from a [par value](../p/par_value.md) to a no-[par value](../p/par_value.md) [capital structure](../c/capital_structure.md) to simplify its financial architecture.
+2. **Google LLC (Alphabet Inc.)**: Google has employed no-par [value stock](../v/value_stock.md) to streamline its [capital structure](../c/capital_structure.md), fostering an environment of flexible financial management.
 
 ### Financial Sector Perspective
 

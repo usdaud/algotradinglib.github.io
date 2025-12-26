@@ -48,19 +48,19 @@ This involves evaluating the [underlying](../u/underlying.md) economic and finan
 
 [Quantitative analysis](../q/quantitative_analysis.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to predict future performance. This technique is heavily used in [algorithmic trading](../a/algorithmic_trading.md), where traders write algorithms to execute trades based on [index](../i/index_instrument.md) performance.
 
-## Key Index Providers 
+## Key Index Providers
 
 ### S&P Dow Jones Indices
 
-One of the most renowned providers, known for indices such as the S&P 500 and the Dow Jones Industrial Average. Learn more from their [official page](https://www.spglobal.com/spdji/en/).
+One of the most renowned providers, known for indices such as the S&P 500 and the Dow Jones Industrial Average. Learn more from their public materials.
 
 ### MSCI
 
-MSCI Inc. offers a wide [range](../r/range.md) of indices including the MSCI World and MSCI Emerging Markets indices. More information can be found [here](https://www.msci.com/our-solutions/indexes).
+MSCI Inc. offers a wide [range](../r/range.md) of indices including the MSCI World and MSCI Emerging Markets indices. More information can be found here.
 
 ### FTSE Russell
 
-[FTSE Russell](../f/ftse_russell.md) provides global [equity](../e/equity.md) and [fixed income](../f/fixed_income.md) indices, including the widely-followed FTSE 100 and Russell 2000 indices. Detailed information is available on their [website](https://www.ftserussell.com/).
+[FTSE Russell](../f/ftse_russell.md) provides global [equity](../e/equity.md) and [fixed income](../f/fixed_income.md) indices, including the widely-followed FTSE 100 and Russell
 
 ## Software and Tools for Index Analysis
 

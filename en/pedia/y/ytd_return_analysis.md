@@ -60,16 +60,16 @@ Analysts use [YTD return](../y/ytd_return_calculation.md) data to assess the eco
 Various tools and [software platforms](../s/software_platforms_for_trading.md) are available to assist traders and investors in performing [YTD return](../y/ytd_return_calculation.md) analysis. Some of the prominent ones include:
 
 ### Bloomberg Terminal
-[Bloomberg](../b/bloomberg.md) Terminal (www.[bloomberg](../b/bloomberg.md).com) offers comprehensive financial data, including [YTD return](../y/ytd_return_calculation.md) analysis tools. It provides [real-time market data](../r/real-time_market_data.md), news, and analytics, making it a preferred choice for professional traders and investors.
+[Bloomberg](../b/bloomberg.md) Terminal ( offers comprehensive financial data, including [YTD return](../y/ytd_return_calculation.md) analysis tools. It provides [real-time market data](../r/real-time_market_data.md), news, and analytics, making it a preferred choice for professional traders and investors.
 
 ### MetaTrader
-MetaTrader (www.[metatrader4](../m/metatrader4.md).com) is a popular [trading platform](../t/trading_platform.md) that supports algo trading and includes features for calculating and analyzing YTD returns. It allows users to create and test [trading strategies](../t/trading_strategies.md) using historical data.
+MetaTrader ( is a popular [trading platform](../t/trading_platform.md) that supports algo trading and includes features for calculating and analyzing YTD returns. It allows users to create and test [trading strategies](../t/trading_strategies.md) using historical data.
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) (www.[quantconnect](../q/quantconnect.md).com) is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers [robust](../r/robust.md) analytics tools, including [YTD return](../y/ytd_return_calculation.md) analysis, to optimize [trading strategies](../t/trading_strategies.md).
+[QuantConnect](../q/quantconnect.md) ( is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers [robust](../r/robust.md) analytics tools, including [YTD return](../y/ytd_return_calculation.md) analysis, to optimize [trading strategies](../t/trading_strategies.md).
 
 ### Morningstar
-[Morningstar](../m/morningstar.md) (www.[morningstar](../m/morningstar.md).com) provides investment research and [portfolio management](../p/portfolio_management.md) tools that include [YTD return](../y/ytd_return_calculation.md) analysis. It is widely used by investors for tracking and analyzing the performance of mutual funds, [stocks](../s/stock.md), and other assets.
+[Morningstar](../m/morningstar.md) ( provides investment research and [portfolio management](../p/portfolio_management.md) tools that include [YTD return](../y/ytd_return_calculation.md) analysis. It is widely used by investors for tracking and analyzing the performance of mutual funds, [stocks](../s/stock.md), and other assets.
 
 ### Python Libraries
 For traders who prefer custom analysis, Python offers several libraries such as pandas, numpy, and matplotlib. These libraries allow for the calculation and visualization of YTD returns and are commonly used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis and strategy development.

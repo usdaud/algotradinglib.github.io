@@ -74,6 +74,6 @@ NSE embraces CSR activities focusing on education, healthcare, and community dev
 
 NSE collaborates with various global financial institutions, technology partners, and academic institutions to foster innovation, research, and [market](../m/market.md) development.
 
-For more details, visit the official [NSE website](https://www.nseindia.com).
+
 
 By creating an environment of [trust](../t/trust.md), [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md), the National Stock [Exchange](../e/exchange.md) of India Limited continues to significantly contribute to the development and modernization of India's economic landscape.

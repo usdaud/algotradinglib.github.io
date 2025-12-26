@@ -96,9 +96,9 @@ where:
 
 Given that many brokers and financial platforms [offer](../o/offer.md) APIs that support [algorithmic trading](../a/algorithmic_trading.md), it is essential to select the right tools and platforms for implementing technical [indicator](../i/indicator.md) strategies. Examples of popular platforms include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [Alpaca](https://alpaca.markets)
-- [QuantConnect](https://www.quantconnect.com)
+- Interactive Brokers
+- Alpaca
+- QuantConnect
 
 ### Coding Example
 
@@ -132,7 +132,7 @@ print(signals.head())
 
 ### Backtesting
 
-[Backtesting](../b/backtesting.md) assesses the effectiveness of a [trading strategy](../t/trading_strategy.md) by testing it on historical data. Many platforms [offer](../o/offer.md) comprehensive [backtesting](../b/backtesting.md) capabilities. For instance, [QuantConnect](../q/quantconnect.md) offers a cloud-based [backtesting](../b/backtesting.md) environment compatible with various [asset](../a/asset.md) classes.
+[Backtesting](../b/backtesting.md) assesses the effectiveness of a [trading strategy](../t/trading_strategy.md) by testing it on historical data. Many platforms [offer](../o/offer.md) comprehensive [backtesting](../b/backtesting.md) capabilities. For instance, [StockSharp](../s/stocksharp.md) offers a [backtesting](../b/backtesting.md) environment compatible with various [asset](../a/asset.md) classes.
 
 ## Conclusion
 

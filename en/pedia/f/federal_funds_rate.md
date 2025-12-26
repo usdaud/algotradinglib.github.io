@@ -24,7 +24,7 @@ The [Federal Funds](../f/federal_funds.md) Rate has far-reaching implications fo
 
 ### Financial Markets
 
-The [Federal Funds](../f/federal_funds.md) Rate is also crucial in setting the tone for [financial markets](../f/financial_market.md). A lower rate generally leads to higher [asset](../a/asset.md) prices, including [stocks](../s/stock.md) and [real estate](../r/real_estate.md), as borrowing costs decrease. Conversely, a higher rate tends to depress [asset](../a/asset.md) prices as borrowing costs increase. 
+The [Federal Funds](../f/federal_funds.md) Rate is also crucial in setting the tone for [financial markets](../f/financial_market.md). A lower rate generally leads to higher [asset](../a/asset.md) prices, including [stocks](../s/stock.md) and [real estate](../r/real_estate.md), as borrowing costs decrease. Conversely, a higher rate tends to depress [asset](../a/asset.md) prices as borrowing costs increase.
 
 ## Federal Open Market Committee (FOMC)
 
@@ -42,7 +42,6 @@ The FOMC uses several tools to achieve its target for the [Federal Funds](../f/f
 - **[Discount Rate](../d/discount_rate.md):** The [interest rate](../i/interest_rate.md) charged to commercial banks for borrowing short-term funds directly from Federal Reserve Banks.
 - **[Reserve Requirements](../r/reserve_requirements.md):** These are regulations concerning the amount of funds that a [bank](../b/bank.md) must [hold](../h/hold.md) in reserve against specified [deposit](../d/deposit.md) liabilities. Changes in [reserve requirements](../r/reserve_requirements.md) can directly affect the [Federal Funds](../f/federal_funds.md) Rate.
 
-[Learn more on the FOMC official page](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
 
 ## Mechanisms of Influence
 
@@ -68,7 +67,7 @@ Changes in the [Federal Funds](../f/federal_funds.md) Rate have direct and indir
 
 ### On Businesses
 
-For businesses, changes in the [Federal Funds](../f/federal_funds.md) Rate can affect borrowing costs and investment decisions. Higher rates increase the cost of [financing](../f/financing.md) for [capital](../c/capital.md) investments and may slow down [business](../b/business.md) [expansion](../e/expansion.md) plans. Lower rates make borrowing cheaper, which can bolster [business](../b/business.md) investment and growth. 
+For businesses, changes in the [Federal Funds](../f/federal_funds.md) Rate can affect borrowing costs and investment decisions. Higher rates increase the cost of [financing](../f/financing.md) for [capital](../c/capital.md) investments and may slow down [business](../b/business.md) [expansion](../e/expansion.md) plans. Lower rates make borrowing cheaper, which can bolster [business](../b/business.md) investment and growth.
 
 ### On the Stock Market
 

@@ -33,7 +33,7 @@ With the advent of digital technology and electronic trading platforms, the form
 
 The digital transformation has also brought about innovative tools and features, such as real-time data feeds, analytics, and integrated trading platforms, which enhance the usability and accessibility of [market](../m/market.md) data.
 
-For more on OTC Markets Group and their services, you can visit their official website: [OTC Markets Group](https://www.otcmarkets.com).
+For more on OTC Markets Group and their services,
 
 ## Impact on Financial Markets
 
@@ -53,7 +53,7 @@ Despite their benefits, Yellow Sheets and the OTC [market](../m/market.md), in g
 
 ## Role in Algorithmic Trading
 
-With the rise of [algorithmic trading](../a/accountability.md), the type of data provided by Yellow Sheets has taken on new importance. Quantitative analysts and algorithmic traders use historical and real-time data to develop [trading models](../t/trading_models.md) and strategies. The key aspects include:
+With the rise of [algorithmic trading](../a/algorithmic_trading.md), the type of data provided by Yellow Sheets has taken on new importance. Quantitative analysts and algorithmic traders use historical and real-time data to develop [trading models](../t/trading_models.md) and strategies. The key aspects include:
 
 - **[Data Mining](../d/data_mining.md):** Extracting historical [bid](../b/bid.md)-ask prices to identify trading patterns.
 - **[Liquidity](../l/liquidity.md) Assessment:** Using trading [volume](../v/volume.md) data to ensure strategies are executable without causing significant [market](../m/market.md) impact.

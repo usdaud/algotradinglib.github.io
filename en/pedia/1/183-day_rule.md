@@ -1,12 +1,12 @@
 # 183-Day Rule
 
-The 183-day rule is a key criterion used by many countries to determine the tax residency status of individuals. This rule stipulates that if an individual spends 183 days or more in a given country within a tax year, they are considered a tax resident of that country. Tax residents are typically required to pay [taxes](../t/taxes.md) on their [worldwide income](../w/worldwide_income.md) in the country where they are considered residents. 
+The 183-day rule is a key criterion used by many countries to determine the tax residency status of individuals. This rule stipulates that if an individual spends 183 days or more in a given country within a tax year, they are considered a tax resident of that country. Tax residents are typically required to pay [taxes](../t/taxes.md) on their [worldwide income](../w/worldwide_income.md) in the country where they are considered residents.
 
 The rule is an important aspect of international [tax planning](../t/tax_planning.md) and has significant implications for individuals who spend extended periods in different countries, such as expatriates, digital nomads, or employees on long-term assignments abroad.
 
 ## Understanding the 183-Day Rule
 
-The 183-day rule is a general guideline rather than a strictly enforced universal law. Specific application and interpretation can vary by country. However, the core concept remains consistent: to determine an individual's tax residency status based on the number of days they are physically present in a particular country. 
+The 183-day rule is a general guideline rather than a strictly enforced universal law. Specific application and interpretation can vary by country. However, the core concept remains consistent: to determine an individual's tax residency status based on the number of days they are physically present in a particular country.
 
 ### Calculation of the 183 Days
 
@@ -51,23 +51,23 @@ The specifics of how the 183-day rule is applied can vary significantly from cou
 In the United States, the Substantial Presence Test is used as part of the criteria to determine tax residency. An individual is considered a U.S. tax resident if they are present in the U.S. for at least:
 - 31 days during the current year, and
 - 183 days during the three-year period, calculated as follows:
-  - All days in the current year, plus
-  - One-third of the days in the previous year, plus
-  - One-sixth of the days in the second prior year.
+ - All days in the current year, plus
+ - One-third of the days in the previous year, plus
+ - One-sixth of the days in the second prior year.
 
-Further details can be found on the [IRS official website](https://www.irs.gov).
+
 
 ### United Kingdom
 
-In the UK, the Statutory Residence Test (SRT) is used. While not solely based on the 183-day rule, it incorporates it into a broader framework of criteria to determine tax residency. An individual who spends 183 or more days in the UK within a tax year is considered a UK tax resident. More information can be found on the [HM Revenue & Customs website](https://www.gov.uk/government/organisations/hm-revenue-customs).
+In the UK, the Statutory Residence Test (SRT) is used. While not solely based on the 183-day rule, it incorporates it into a broader framework of criteria to determine tax residency. An individual who spends 183 or more days in the UK within a tax year is considered a UK tax resident.
 
 ### Canada
 
-Canada uses a more comprehensive approach considering both physical presence and other significant connections to Canada, such as maintaining a [home](../h/home.md) or having family in Canada. However, individuals who spend 183 days or more in Canada in a calendar year can generally be considered residents for tax purposes. More details are available on the [Canada Revenue Agency website](https://www.canada.ca/en/revenue-agency.html).
+Canada uses a more comprehensive approach considering both physical presence and other significant connections to Canada, such as maintaining a [home](../h/home.md) or having family in Canada. However, individuals who spend 183 days or more in Canada in a calendar year can generally be considered residents for tax purposes. More
 
 ### Australia
 
-In Australia, the primary test for determining residence status for tax purposes includes the 183-day rule. If an individual is present in Australia for more than half the [income](../i/income.md) year (183 days or more), they may be considered an Australian resident for tax purposes unless it can be shown that their usual place of abode is outside Australia and they have no intention to take up residence. Additional information can be found on the [Australian Taxation Office website](https://www.ato.gov.au).
+In Australia, the primary test for determining residence status for tax purposes includes the 183-day rule. If an individual is present in Australia for more than half the [income](../i/income.md) year (183 days or more), they may be considered an Australian resident for tax purposes unless it can be shown that their usual place of abode is outside Australia and they have no intention to take up residence.
 
 ## Planning and Compliance
 
@@ -89,7 +89,7 @@ Consulting with tax professionals who specialize in international tax law can pr
 
 Proactive [tax planning](../t/tax_planning.md) strategies might involve:
 - Utilizing tax treaties to minimize [double taxation](../d/double_taxation.md)
-- Structuring [income](../i/income.md) to take advantage of favorable tax treatments 
+- Structuring [income](../i/income.md) to take advantage of favorable tax treatments
 - Considering the timing of [income](../i/income.md) recognition and deductions
 
 ## Conclusion

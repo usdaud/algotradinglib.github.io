@@ -5,7 +5,7 @@ An investment objective is a financial goal that an [investor](../i/investor.md)
 ## Types of Investment Objectives
 
 ### 1. Growth
-Growth objectives focus on increasing the [value](../v/value.md) of the investment over time. Investors seeking growth typically have a long-term perspective and are willing to accept higher levels of [risk](../r/risk.md) for the potential of higher returns. Investments in this category often include equities ([stocks](../s/stock.md)), mutual funds, and ETFs that invest in [growth stocks](../g/growth_stocks.md). 
+Growth objectives focus on increasing the [value](../v/value.md) of the investment over time. Investors seeking growth typically have a long-term perspective and are willing to accept higher levels of [risk](../r/risk.md) for the potential of higher returns. Investments in this category often include equities ([stocks](../s/stock.md)), mutual funds, and ETFs that invest in [growth stocks](../g/growth_stocks.md).
 
 ### 2. Income
 [Income](../i/income.md) objectives prioritize generating regular [income](../i/income.md), often through dividends, [interest](../i/interest.md), or other [income](../i/income.md) distributions. This is suitable for investors who require steady [cash flow](../c/cash_flow.md) from their investments, such as retirees. Bonds, [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), [real estate](../r/real_estate.md) investment trusts (REITs), and [income](../i/income.md)-focused mutual funds are common investments for an [income](../i/income.md) objective.

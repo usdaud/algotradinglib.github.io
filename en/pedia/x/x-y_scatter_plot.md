@@ -49,9 +49,9 @@ In an example involving moving averages, an X-Y scatter plot could be used to ex
 
 Several financial institutions and [algorithmic trading](../a/algorithmic_trading.md) platforms provide [robust](../r/robust.md) tools to generate X-Y scatter plots, some of which include:
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal:** A computerized system providing financial data widely used globally [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
-2. **Thomson [Reuters](../r/reuters.md) Eikon:** A professional-grade software suite for [financial analysis](../f/financial_analysis.md) [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
-3. **Python Libraries:** Tools such as `matplotlib` and `seaborn` in Python are powerful for creating scatter plots programmatically. For instance, matplotlib can be found at [Matplotlib](https://matplotlib.org/).
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** A computerized system providing financial data widely used globally Bloomberg Terminal.
+2. **Thomson [Reuters](../r/reuters.md) Eikon:** A professional-grade software suite for [financial analysis](../f/financial_analysis.md) Thomson Reuters Eikon.
+3. **Python Libraries:** Tools such as `matplotlib` and `seaborn` in Python are powerful for creating scatter plots programmatically. For instance, matplotlib can be found at Matplotlib.
 
 ## Python Example
 

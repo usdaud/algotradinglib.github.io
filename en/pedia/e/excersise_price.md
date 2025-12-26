@@ -33,28 +33,28 @@ Understanding the terms "in the [money](../m/money.md)," "out of the [money](../
 ### In the Money (ITM)
 
 - **Call [Options](../o/options.md):** A [call option](../c/call_option.md) is considered "in the [money](../m/money.md)" when the [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md) is higher than the [exercise](../e/exercise.md) price. This indicates that exercising the option would result in a [profit](../p/profit.md).
-  
-  Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $60, the [call option](../c/call_option.md) is $10 in the [money](../m/money.md).
+
+ Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $60, the [call option](../c/call_option.md) is $10 in the [money](../m/money.md).
 
 - **[Put Options](../p/put_options.md):** A [put option](../p/put.md) is considered "in the [money](../m/money.md)" when the [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md) is lower than the [exercise](../e/exercise.md) price. This indicates that exercising the option would result in a [profit](../p/profit.md).
-  
-  Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $40, the [put option](../p/put.md) is $10 in the [money](../m/money.md).
+
+ Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $40, the [put option](../p/put.md) is $10 in the [money](../m/money.md).
 
 ### Out of the Money (OTM)
 
 - **Call [Options](../o/options.md):** A [call option](../c/call_option.md) is "out of the [money](../m/money.md)" when the [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md) is below the [exercise](../e/exercise.md) price. Exercising the option would not be profitable.
-  
-  Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $40, the [call option](../c/call_option.md) is out of the [money](../m/money.md).
+
+ Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $40, the [call option](../c/call_option.md) is out of the [money](../m/money.md).
 
 - **[Put Options](../p/put_options.md):** A [put option](../p/put.md) is "out of the [money](../m/money.md)" when the [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md) is above the [exercise](../e/exercise.md) price. Exercising the option would not be profitable.
-  
-  Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $60, the [put option](../p/put.md) is out of the [money](../m/money.md).
+
+ Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $60, the [put option](../p/put.md) is out of the [money](../m/money.md).
 
 ### At the Money (ATM)
 
 - **Call and [Put Options](../p/put_options.md):** An option (whether call or put) is "[at the money](../a/at_the_money.md)" when the [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md) is equal to the [exercise](../e/exercise.md) price. Neither a [profit](../p/profit.md) nor a loss would be realized if the option is exercised.
-  
-  Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $50, the option is [at the money](../a/at_the_money.md).
+
+ Example: If the [exercise](../e/exercise.md) price is $50 and the [asset](../a/asset.md) is trading at $50, the option is [at the money](../a/at_the_money.md).
 
 ## Real-World Application
 
@@ -64,11 +64,11 @@ The concept of the [exercise](../e/exercise.md) price and the terms ITM, OTM, an
 
 Several financial companies and services focus on [options](../o/options.md) trading and provide platforms for traders to manage their [options](../o/options.md) portfolio effectively. For instance:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)** (https://www.interactivebrokers.com): A comprehensive [trading platform](../t/trading_platform.md) [offering](../o/offering.md) a [range](../r/range.md) of financial instruments, including [options](../o/options.md).
-  
-- **[E*TRADE](../e/e_trade.md)** (https://us.etrade.com): Provides a [robust](../r/robust.md) [options](../o/options.md) trading interface along with educational resources for new traders.
-  
-- **TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com): Known for its powerful thinkorswim [trading platform](../t/trading_platform.md) designed for [options](../o/options.md) traders.
+- **[Interactive Brokers](../i/interactive_brokers.md)** ( A comprehensive [trading platform](../t/trading_platform.md) [offering](../o/offering.md) a [range](../r/range.md) of financial instruments, including [options](../o/options.md).
+
+- **[E*TRADE](../e/e_trade.md)** ( Provides a [robust](../r/robust.md) [options](../o/options.md) trading interface along with educational resources for new traders.
+
+- **TD [Ameritrade](../a/ameritrade.md)** ( Known for its powerful thinkorswim [trading platform](../t/trading_platform.md) designed for [options](../o/options.md) traders.
 
 ## Conclusion
 

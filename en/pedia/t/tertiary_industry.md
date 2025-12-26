@@ -39,14 +39,14 @@ The tertiary [industry](../i/industry.md) is critical to economic development fo
 
 The financial services sector encompasses a broad [range](../r/range.md) of businesses that manage [money](../m/money.md), including banks, investment companies, [insurance](../i/insurance.md) firms, and [real estate](../r/real_estate.md) services. This sub-sector plays a crucial role by providing [capital](../c/capital.md), managing [risk](../r/risk.md), and [offering](../o/offering.md) investment opportunities. Companies that are instrumental in this field include:
 
-- **Goldman Sachs**: An [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) (https://www.goldmansachs.com/)
-- **American International Group (AIG)**: A global [insurance](../i/insurance.md) company (https://www.aig.com/)
+- **Goldman Sachs**: An [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) (
+- **American International Group (AIG)**: A global [insurance](../i/insurance.md) company (
 
 #### Real Estate and Rental Leasing
 
 This sub-sector involves businesses that deal with the selling, leasing, and management of properties. This includes residential, commercial, industrial, and land [real estate](../r/real_estate.md). [Real estate](../r/real_estate.md) services provide the [infrastructure](../i/infrastructure.md) needed for both personal and [business activities](../b/business_activities.md).
 
-- **CBRE Group**: A [commercial real estate](../c/commercial_real_estate.md) services and investment [firm](../f/firm.md) (https://www.cbre.com/)
+- **CBRE Group**: A [commercial real estate](../c/commercial_real_estate.md) services and investment [firm](../f/firm.md) (
 
 #### Educational Services
 
@@ -56,21 +56,18 @@ Educational services encompass institutions that provide instruction and trainin
 
 This includes services provided by hospitals, clinics, long-term care facilities, and social services. This sector is vital for maintaining public health and [welfare](../w/welfare.md).
 
-- **Mayo Clinic**: A nonprofit American academic medical center (https://www.mayoclinic.org/)
-
+- **Mayo Clinic**: A nonprofit American academic medical center
 #### Professional, Scientific, and Technical Services
 
 These services include legal advice, [accounting](../a/accounting.md) services, architectural services, engineering consultancy, scientific research, and additional professional services. They provide indispensable expertise that supports the functioning of various industries.
 
-- **Deloitte**: Multinational professional services network (https://www.deloitte.com/)
-
+- **Deloitte**: Multinational professional services network
 ### Impact of Technology and Innovation
 
 The tertiary [industry](../i/industry.md) has been profoundly affected by technological advancements and innovations. Fintech, for example, has revolutionized the financial services sector by introducing apps, [mobile banking](../m/mobile_banking.md), and [blockchain](../b/blockchain_in_trading.md) technologies. Similar transformations have occurred in other sub-sectors, including the advent of telemedicine in healthcare, e-learning in education, and AI-driven [customer](../c/customer.md) support in retail.
 
-- **Stripe**: An online [payment](../p/payment.md) processing for internet businesses (https://stripe.com/)
-- **Coursera**: Online learning platform (https://www.coursera.org/)
-
+- **Stripe**: An online [payment](../p/payment.md) processing for internet businesses (
+- **Coursera**: Online learning platform
 ### Globalization and the Tertiary Industry
 
 [Globalization](../g/globalization.md) has expanded the reach of service industries, enabling companies to operate across borders more easily. With the advent of the internet and improved transportation, services can be delivered remotely, and businesses can tap into global markets. Companies like Amazon and Netflix exemplify this [trend](../t/trend.md), [offering](../o/offering.md) their products and services globally.

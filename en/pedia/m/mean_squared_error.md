@@ -3,7 +3,7 @@
 Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of [statistics](../s/statistics.md), [signal processing](../s/signal_processing_in_trading.md), [econometrics](../e/econometrics_in_trading.md), [machine learning](../m/machine_learning.md), and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of [predictive models](../p/predictive_models_in_trading.md) concerning financial data.
 
 ### Definition
-MSE is defined as the average of the squared differences between predicted and actual values. Mathematically, for a set of observations \((y_1, y_2, ..., y_n)\) and corresponding predictions \((\hat{y}_1, \hat{y}_2, ..., \hat{y}_n)\), the MSE is given by:
+MSE is defined as the average of the squared differences between predicted and actual values. Mathematically, for a set of observations \((y_1, y_2,..., y_n)\) and corresponding predictions \((\hat{y}_1, \hat{y}_2,..., \hat{y}_n)\), the MSE is given by:
 
 \[
 \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
@@ -32,13 +32,13 @@ In [algorithmic trading](../a/algorithmic_trading.md), MSE is crucial for severa
 ### Example
 Let's consider a simple example where we are trying to predict the closing price of a stock for 5 days.
 
-| Day     | Actual Price (\(y_i\)) | Predicted Price (\(\hat{y}_i\)) |
+| Day | Actual Price (\(y_i\)) | Predicted Price (\(\hat{y}_i\)) |
 |---------|-------------------------|---------------------------------|
-| Day 1   | 100                     | 95                              |
-| Day 2   | 102                     | 99                              |
-| Day 3   | 101                     | 100                             |
-| Day 4   | 103                     | 102                             |
-| Day 5   | 104                     | 106                             |
+| Day 1 | 100 | 95 |
+| Day 2 | 102 | 99 |
+| Day 3 | 101 | 100 |
+| Day 4 | 103 | 102 |
+| Day 5 | 104 | 106 |
 
 To calculate MSE:
 \[
@@ -65,22 +65,22 @@ In [machine learning](../m/machine_learning.md), MSE is commonly used as a loss 
 Although MSE is a widely-used metric, it is not the only one. Some other common evaluation metrics include:
 
 1. **Mean Absolute Error (MAE)**:
-   \[
-   \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|
-   \]
-   MAE is less sensitive to large errors compared to MSE.
+ \[
+ \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|
+ \]
+ MAE is less sensitive to large errors compared to MSE.
 
 2. **Root Mean Squared Error (RMSE)**:
-   \[
-   \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
-   \]
-   RMSE is the square root of MSE and is in the same unit as the original data.
+ \[
+ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
+ \]
+ RMSE is the square root of MSE and is in the same unit as the original data.
 
 3. **[R-squared](../r/r-squared_in_trading.md) (\(R^2\))**:
-   \[
-   R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
-   \]
-   \(R^2\) provides an indication of how well the [variability](../v/variability.md) of the actual data is captured by the model.
+ \[
+ R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
+ \]
+ \(R^2\) provides an indication of how well the [variability](../v/variability.md) of the actual data is captured by the model.
 
 ### Limitations
 While useful, MSE has its limitations:
@@ -101,9 +101,9 @@ In [portfolio management](../p/portfolio_management.md), we might use MSE to eva
 
 ### Companies and Tools
 Several companies and tools provide solutions that automatically compute MSE for models:
-1. **[QuantConnect](../q/quantconnect.md)** - An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading algorithms](../t/trading_algorithms.md): [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)** - An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading algorithms](../t/trading_algorithms.md): QuantConnect
 
-2. **Datarobot** - Provides [machine learning](../m/machine_learning.md) tools for building and evaluating [predictive models](../p/predictive_models_in_trading.md): [Datarobot](https://www.datarobot.com)
+2. **Datarobot** - Provides [machine learning](../m/machine_learning.md) tools for building and evaluating [predictive models](../p/predictive_models_in_trading.md): Datarobot
 
 ### Conclusion
 Mean Squared Error is a fundamental metric in [data science](../d/data_science_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) for evaluating [predictive models](../p/predictive_models_in_trading.md). Despite its limitations, it remains one of the most widely-used metrics due to its simplicity and sensitivity to large errors. By understanding and appropriately applying MSE, traders and data scientists can improve the accuracy and reliability of their models, leading to better decision-making and potentially higher financial returns.

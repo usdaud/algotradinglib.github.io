@@ -43,7 +43,7 @@ When structuring drag-along rights, several legal and practical aspects should b
 ## Real-World Examples
 
 1. **Tech Startups**: In the world of tech startups, where venture capitalists often own significant stakes, drag-along rights are commonly included to ensure a smooth [exit strategy](../e/exit_strategy.md) when the company is acquired by larger tech giants. For instance, in company amalgamations and acquisitions such as Facebook’s [acquisition](../a/acquisition.md) of Instagram, drag-along rights played a crucial role in facilitating the transactions.
-2. **[Private Equity](../p/private_equity.md)**: [Private equity](../p/private_equity.md) firms often negotiate drag-along rights to provide them with a clear [exit strategy](../e/exit_strategy.md). This is common in leveraged buyouts where the [firm](../f/firm.md) might have majority control but needs to ensure that minority shareholders cannot block their exit plan. For detailed information about [Private Equity](../p/private_equity.md) and its functions, [visit Bain & Company's Private Equity section](https://www.bain.com/industries/private-equity/).
+2. **[Private Equity](../p/private_equity.md)**: [Private equity](../p/private_equity.md) firms often negotiate drag-along rights to provide them with a clear [exit strategy](../e/exit_strategy.md). This is common in leveraged buyouts where the [firm](../f/firm.md) might have majority control but needs to ensure that minority shareholders cannot block their exit plan. For detailed information about [Private Equity](../p/private_equity.md) and its functions, visit Bain & Company's Private Equity section.
 
 ## Conclusion
 

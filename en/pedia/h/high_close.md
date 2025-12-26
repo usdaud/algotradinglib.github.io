@@ -1,12 +1,12 @@
 # High Close
 
-The concept of "High Close" in the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md) refers to a strategical trading pattern based on the closing price of an [asset](../a/asset.md) being near its highest price within a specific timeframe. This metric is often used by traders and algorithmic systems to identify potential bullish trends and make informed trading decisions.
+The concept of "High Close" in the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md) refers to a strategical trading pattern based on the closing price of an [asset](../a/asset.md) being near its highest price within a specific timeframe. This metric is often used by traders and algorithmic systems to identify potential bullish trends and make informed trading decisions.
 
 ## Understanding High Close
 
-In trading terminology, the closing price of an [asset](../a/asset.md), such as a stock, signifies the last price at which the [asset](../a/asset.md) was traded during a regular [trading session](../t/trading_session.md). The closing price holds significant importance as it is often considered to reflect the most accurate [value](../v/value.md) of the [asset](../a/asset.md) at the end of a trading period. A "High Close" indicates that the [asset](../a/asset.md)'s closing price is near its highest [value](../v/value.md) for the day or over a specified period (e.g., a week, month, or year). 
+In trading terminology, the closing price of an [asset](../a/asset.md), such as a stock, signifies the last price at which the [asset](../a/asset.md) was traded during a regular [trading session](../t/trading_session.md). The closing price holds significant importance as it is often considered to reflect the most accurate [value](../v/value.md) of the [asset](../a/asset.md) at the end of a trading period. A "High Close" indicates that the [asset](../a/asset.md)'s closing price is near its highest [value](../v/value.md) for the day or over a specified period (e.g., a week, month, or year).
 
-High Close patterns can be leveraged to infer upward [momentum](../m/momentum.md) and strong [investor](../i/investor.md) confidence in the [asset](../a/asset.md). [Algorithmic trading](../a/accountability.md) systems use advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify High Close patterns and execute trades based on these insights.
+High Close patterns can be leveraged to infer upward [momentum](../m/momentum.md) and strong [investor](../i/investor.md) confidence in the [asset](../a/asset.md). [Algorithmic trading](../a/algorithmic_trading.md) systems use advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify High Close patterns and execute trades based on these insights.
 
 ## Importance of High Close
 
@@ -23,7 +23,7 @@ Combining High Close patterns with [fundamental analysis](../f/fundamental_analy
 
 ### Designing Algorithms
 
-To implement High Close in [algorithmic trading](../a/accountability.md), one must design algorithms that can automatically detect high closing prices and execute trades based on predefined criteria. Here is how you can approach designing such algorithms:
+To implement High Close in [algorithmic trading](../a/algorithmic_trading.md), one must design algorithms that can automatically detect high closing prices and execute trades based on predefined criteria. Here is how you can approach designing such algorithms:
 
 1. **Data Collection**: Gather historical price data, including opening, highest, lowest, and closing prices for the [asset](../a/asset.md).
 2. **High Close Identification**: Develop a function to identify if the closing price is near the day’s or period’s high. This can be determined using a threshold, such as the closing being within 2-3% of the highest price.
@@ -62,10 +62,10 @@ for signal in high_close_signals:
 ### Real-World Application
 Prominent trading firms and [hedge](../h/hedge.md) funds utilize sophisticated High Close strategies as a component of their overall trading approach. For example, companies like Renaissance Technologies, D.E. Shaw, and Citadel employ advanced algorithmic strategies that may include High Close patterns to optimize their trades.
 
-For further information about these companies and their [algorithmic trading](../a/accountability.md) approaches, you can visit their official websites:
-- Renaissance Technologies: [Renaissance Technologies LLC](https://www.rentec.com/)
-- D.E. Shaw: [D. E. Shaw Group](https://www.deshaw.com/)
-- Citadel: [Citadel](https://www.citadel.com/)
+For further information about these companies and their [algorithmic trading](../a/algorithmic_trading.md) approaches, you can visit their official websites:
+- Renaissance Technologies: Renaissance Technologies LLC
+- D.E. Shaw: D. E. Shaw Group
+- Citadel: Citadel
 
 ## Advantages of Using High Close in Algorithmic Trading
 
@@ -94,6 +94,6 @@ Algorithmic systems rely on technology, and technical failures or connectivity i
 
 ## Conclusion
 
-The concept of High Close in [algorithmic trading](../a/accountability.md) serves as a potent tool for identifying potential bullish trends and making informed trading decisions. By leveraging advanced algorithms to detect High Close patterns, traders can enhance their [trading strategies](../t/trading_strategies.md)' accuracy, speed, and [efficiency](../e/efficiency.md). Integrating High Close indicators with comprehensive [risk management](../r/risk_management.md) and rigorous [backtesting](../b/backtesting.md) ensures [robust](../r/robust.md) and profitable [trading systems](../t/trading_systems.md).
+The concept of High Close in [algorithmic trading](../a/algorithmic_trading.md) serves as a potent tool for identifying potential bullish trends and making informed trading decisions. By leveraging advanced algorithms to detect High Close patterns, traders can enhance their [trading strategies](../t/trading_strategies.md)' accuracy, speed, and [efficiency](../e/efficiency.md). Integrating High Close indicators with comprehensive [risk management](../r/risk_management.md) and rigorous [backtesting](../b/backtesting.md) ensures [robust](../r/robust.md) and profitable [trading systems](../t/trading_systems.md).
 
 While High Close offers numerous advantages, traders must remain mindful of its challenges and continuously refine their algorithms. Combining [technical analysis](../t/technical_analysis.md) with fundamental insights and adopting a multi-faceted trading approach can further boost the effectiveness of High Close strategies in the dynamic world of [financial markets](../f/financial_market.md).

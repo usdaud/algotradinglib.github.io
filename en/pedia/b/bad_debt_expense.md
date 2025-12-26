@@ -79,13 +79,13 @@ If the ending balance of accounts [receivable](../r/receivable.md) is $200,000 a
 This method involves categorizing accounts [receivable](../r/receivable.md) based on the length of time they have been outstanding and applying different percentages of uncollectibility to each category.
 
 **Example:**
-| Age Category       | Balance | Estimated Uncollectible Percentage | Estimated Uncollectible Amount |
+| Age Category | Balance | Estimated Uncollectible Percentage | Estimated Uncollectible Amount |
 |--------------------|---------|-------------------------------------|---------------------------------|
-| 0-30 days          | $100,000| 1%                                 | $1,000                          |
-| 31-60 days         | $50,000 | 3%                                 | $1,500                          |
-| 61-90 days         | $30,000 | 5%                                 | $1,500                          |
-| Over 90 days       | $20,000 | 10%                                | $2,000                          |
-| **Total**          | **$200,000**| **N/A**                      | **$6,000**                      |
+| 0-30 days | $100,000| 1% | $1,000 |
+| 31-60 days | $50,000 | 3% | $1,500 |
+| 61-90 days | $30,000 | 5% | $1,500 |
+| Over 90 days | $20,000 | 10% | $2,000 |
+| **Total** | **$200,000**| **N/A** | **$6,000** |
 
 #### Choosing the Right Method
 The choice between the direct [write-off](../w/write-off.md) method and the allowance method depends on several factors, including the size and nature of the [business](../b/business.md), [industry](../i/industry.md) practices, and regulatory requirements. While the direct [write-off](../w/write-off.md) method may be suitable for small businesses with minimal receivables, larger companies and those required to follow GAAP typically use the allowance method.
@@ -105,13 +105,13 @@ External auditors review a company’s estimation methods and assumptions relate
 In the [technology sector](../t/technology_sector.md), companies often deal with large volumes of receivables from various customers. For example, companies like Apple and Cisco use complex algorithms and historical data to estimate [bad debt](../b/bad_debt.md) [expense](../e/expense.md) accurately.
 
 ### Financial Services
-In the financial services [industry](../i/industry.md), institutions like banks and [credit card](../c/credit_card.md) companies rely on sophisticated models to predict defaults and manage allowances for [loan](../l/loan.md) losses. Companies such as JP Morgan Chase and [Bank](../b/bank.md) of America implement advanced analytics to manage [credit risk](../c/credit_risk.md) (refer to their [official websites](https://www.jpmorganchase.com/) and [Bank of America](https://www.bankofamerica.com/)).
+In the financial services [industry](../i/industry.md), institutions like banks and [credit card](../c/credit_card.md) companies rely on sophisticated models to predict defaults and manage allowances for [loan](../l/loan.md) losses. Companies such as JP Morgan Chase and [Bank](../b/bank.md) of America implement advanced analytics to manage [credit risk](../c/credit_risk.md) (refer to their official websites and Bank of America).
 
 ### Retail Industry
 Retailers like Walmart and Amazon manage significant amounts of receivables and need [robust](../r/robust.md) systems to estimate bad debts. They often analyze past trends, [customer](../c/customer.md) [creditworthiness](../c/creditworthiness.md), and [economic conditions](../e/economic_conditions.md) to estimate allowances.
 
 ### Healthcare
-Healthcare providers, such as hospitals and clinics, face unique challenges in estimating bad debts due to the complexity of [insurance](../i/insurance.md) claims and patient billing. Institutions like Mayo Clinic and Cleveland Clinic use detailed analyses to manage receivables (visit the [Mayo Clinic](https://www.mayoclinic.org/) and [Cleveland Clinic](https://my.clevelandclinic.org/)).
+Healthcare providers, such as hospitals and clinics, face unique challenges in estimating bad debts due to the complexity of [insurance](../i/insurance.md) claims and patient billing. Institutions like Mayo Clinic and Cleveland Clinic use detailed analyses to manage receivables (visit the Mayo Clinic and Cleveland Clinic).
 
 ## Improving Bad Debt Management
 ### Credit Policies
@@ -124,7 +124,7 @@ Effective collections strategies, such as timely follow-ups, [offering](../o/off
 Maintaining strong relationships with customers can improve [payment](../p/payment.md) behavior and reduce disputes. Providing clear billing information and addressing concerns promptly can enhance collections.
 
 ### Technological Solutions
-Leveraging technology, such as [accounting](../a/accounting.md) software and [predictive analytics](../p/predictive_analytics.md), can improve the accuracy of [bad debt](../b/bad_debt.md) estimates and streamline collections processes. Solutions from companies like QuickBooks (Intuit's product - [QuickBooks](https://quickbooks.intuit.com/)) and SAP (visit [SAP](https://www.sap.com/)) [offer](../o/offer.md) [robust](../r/robust.md) receivables management modules.
+Leveraging technology, such as [accounting](../a/accounting.md) software and [predictive analytics](../p/predictive_analytics.md), can improve the accuracy of [bad debt](../b/bad_debt.md) estimates and streamline collections processes. Solutions from companies like QuickBooks (Intuit's product - QuickBooks) and SAP (visit SAP) [offer](../o/offer.md) [robust](../r/robust.md) receivables management modules.
 
 ### Regular Review and Analysis
 Regularly reviewing [accounts receivable aging](../a/accounts_receivable_aging.md) reports and analyzing trends can help identify potential issues early and take corrective actions.
@@ -149,25 +149,25 @@ Cr. [Bad Debt](../b/bad_debt.md) Recovery (or [Revenue](../r/revenue.md))
 [Bad debt](../b/bad_debt.md) [expense](../e/expense.md) affects several key [financial ratios](../f/financial_ratios.md), impacting how stakeholders view the company’s [financial health](../f/financial_health.md).
 
 ### Accounts Receivable Turnover Ratio
-**Formula:**  
+**Formula:**
 \[ \text{Accounts [Receivable](../r/receivable.md) [Turnover](../t/turnover.md)} = \frac{\text{Net [Credit](../c/credit.md) Sales}}{\text{Average Accounts [Receivable](../r/receivable.md)}} \]
 
 Higher [bad debt](../b/bad_debt.md) expenses can lower net [credit](../c/credit.md) sales, reducing the [turnover ratio](../t/turnover_ratio.md).
 
 ### Profit Margin
-**Formula:**  
+**Formula:**
 \[ \text{[Profit Margin](../p/profit_margin.md)} = \frac{\text{Net [Income](../i/income.md)}}{\text{[Net Sales](../n/net_sales.md)}} \]
 
 An increase in [bad debt](../b/bad_debt.md) [expense](../e/expense.md) reduces net [income](../i/income.md), impacting the [profit margin](../p/profit_margin.md).
 
 ### Current Ratio
-**Formula:**  
+**Formula:**
 \[ \text{Current Ratio} = \frac{\text{Current Assets}}{\text{[Current Liabilities](../c/current_liabilities.md)}} \]
 
 A reduction in accounts [receivable](../r/receivable.md) due to [bad debt](../b/bad_debt.md) [expense](../e/expense.md) lowers [current assets](../c/current_assets.md), affecting the [current ratio](../c/current_ratio.md).
 
 ### Debt-to-Equity Ratio
-**Formula:**  
+**Formula:**
 \[ \text{Debt-to-Equity Ratio} = \frac{\text{[Total Liabilities](../t/total_liabilities.md)}}{\text{Shareholders' [Equity](../e/equity.md)}} \]
 
 A decrease in net [income](../i/income.md) from higher [bad debt](../b/bad_debt.md) [expense](../e/expense.md) reduces [retained earnings](../r/retained_earnings.md), impacting shareholders' [equity](../e/equity.md) and the [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio.

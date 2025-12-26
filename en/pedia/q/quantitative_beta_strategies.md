@@ -66,13 +66,13 @@ The advent of [big data](../b/big_data_in_trading.md) and advancements in [machi
 Several firms specialize in developing and managing quantitative [beta](../b/beta.md) strategies. These include:
 
 - **BlackRock**: Offers a [range](../r/range.md) of [factor](../f/factor.md)-based and [smart beta](../s/smart_beta.md) ETFs under its [iShares](../i/ishares.md) brand.
-  - [iShares by BlackRock](https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts)
+ - iShares by BlackRock
 - **Research Affiliates**: Pioneer in fundamental weighting and [smart beta](../s/smart_beta.md) strategies.
-  - [Research Affiliates](https://www.researchaffiliates.com/)
+ - Research Affiliates
 - **AQR [Capital](../c/capital.md) Management**: Known for implementing advanced quantitative techniques in [factor investing](../f/factor_investing.md) and [risk parity](../r/risk_parity.md) strategies.
-  - [AQR Capital Management](https://www.aqr.com/)
+ - AQR Capital Management
 - **Dimensional [Fund](../f/fund.md) Advisors**: Applies academic research on [factor investing](../f/factor_investing.md) to create more efficient and effective investment solutions.
-  - [Dimensional Fund Advisors](https://www.dimensional.com/)
+ - Dimensional Fund Advisors
 
 ### Challenges and Considerations
 
@@ -88,6 +88,5 @@ While quantitative [beta](../b/beta.md) strategies [offer](../o/offer.md) numero
 Quantitative [beta](../b/beta.md) strategies represent a fusion of advanced quantitative techniques and traditional investment principles to systematically capture and enhance [market](../m/market.md) [beta](../b/beta.md). By leveraging statistical models, [factor analysis](../f/factor_analysis.md), [risk parity](../r/risk_parity.md) principles, and cutting-edge technologies like AI and ML, these strategies provide investors with sophisticated tools to achieve superior [risk](../r/risk.md)-adjusted returns. While challenges persist, the continuous evolution of [data science](../d/data_science_in_trading.md) and computational capabilities promises to further enrich the landscape of [quantitative investing](../q/quantitative_investing.md).
 
 For more information on quantitative [beta](../b/beta.md) strategies and relevant services, visit the following notable provider websites:
-- [iShares by BlackRock](https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts)
-- [Research Affiliates](https://www.researchaffiliates.com/)
-
+- iShares by BlackRock
+- Research Affiliates

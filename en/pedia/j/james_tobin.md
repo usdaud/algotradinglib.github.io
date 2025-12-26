@@ -42,4 +42,4 @@ James Tobin's work has left a lasting impact on the field of [economics](../e/ec
 
 Even after his death in 2002, Tobin's ideas continue to be relevant in discussions about economic stability, investment, and [financial markets](../f/financial_market.md). His legacy is reflected in the ongoing use of concepts such as Tobin's q ratio and the [Tobin tax](../t/tobin_tax.md) in both academic research and policy analysis.
 
-For more information on James Tobin's contributions, visit the [Yale Department of Economics](https://economics.yale.edu/).
+For more information on James Tobin's contributions, visit the Yale Department of Economics.

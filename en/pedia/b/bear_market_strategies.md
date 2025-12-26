@@ -21,7 +21,7 @@ To effectively implement [bear market](../b/bear_market.md) strategies, it's cru
 **[Short selling](../s/short_selling.md)** involves borrowing and selling an [asset](../a/asset.md) with the anticipation of buying it back at a lower price. Algorithmic tools can enhance [short selling](../s/short_selling.md) by identifying [overvalued](../o/overvalued.md) assets and executing trades more efficiently.
 
 - **[Technical Indicators](../t/technical_indicators.md)**: Algorithms can use [technical indicators](../t/technical_indicators.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to identify short-selling opportunities.
-  
+
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Algorithms can analyze news, [social media](../s/social_media.md), and other data streams to gauge [market sentiment](../m/market_sentiment.md) and predict potential downturns.
 
 #### 2. Inverse ETFs
@@ -35,7 +35,7 @@ To effectively implement [bear market](../b/bear_market.md) strategies, it's cru
 **[Put Options](../p/put_options.md)** give the holder the right to sell an [asset](../a/asset.md) at a predetermined price. Buying [put options](../p/put_options.md) is a common strategy during bear markets to [hedge](../h/hedge.md) against losses or speculate on further declines.
 
 - **[Option Pricing Models](../o/option_pricing_models.md)**: Algorithms can use models like Black-Scholes to price [options](../o/options.md) and identify [undervalued](../u/undervalued.md) puts that [offer](../o/offer.md) favorable [risk](../r/risk.md)-reward ratios.
-  
+
 - **[Volatility Skew](../v/volatility_skew.md) Analysis**: Algorithms can analyze the [volatility skew](../v/volatility_skew.md) to identify which strike prices might [offer](../o/offer.md) the best opportunities based on current [market](../m/market.md) conditions.
 
 #### 4. Pair Trading
@@ -43,7 +43,7 @@ To effectively implement [bear market](../b/bear_market.md) strategies, it's cru
 **Pair trading** involves simultaneously buying and selling two correlated assets. In bear markets, this strategy helps mitigate the [risk](../r/risk.md) by trading on the relative performance of two securities rather than their absolute performance.
 
 - **[Correlation Analysis](../c/correlation_analysis.md)**: Algorithms can continually analyze the [correlation](../c/correlation.md) between pairs of [stocks](../s/stock.md) to identify diverging patterns that present trading opportunities.
-  
+
 - **[Mean Reversion](../m/mean_reversion.md)**: This principle underpins pair trading; the expectation is that the relative prices of correlated assets [will](../w/will.md) revert to their historical norms.
 
 #### 5. Market Timing
@@ -71,7 +71,7 @@ Implementation involves creating algorithms that can execute these strategies ef
 Collecting extensive historical and real-time data is vital. This data can include:
 
 - **Price and [Volume](../v/volume.md) Data**: Historical price and [volume](../v/volume.md) data for [stocks](../s/stock.md), ETFs, [options](../o/options.md), and other assets.
-  
+
 - **Economic Data**: Macroeconomic indicators that can predict [market](../m/market.md) downturns.
 
 - **Sentiment Data**: News feeds, [social media](../s/social_media.md), and analyst reports that provide insights into [market sentiment](../m/market_sentiment.md).
@@ -107,17 +107,17 @@ Efficient [execution](../e/execution.md) is crucial due to the high [volatility]
 Examining how algorithmic strategies performed during a significant [bear market](../b/bear_market.md) like the 2008 [Financial Crisis](../f/financial_crisis.md) provides valuable insights. During this period:
 
 - **[Short Selling](../s/short_selling.md)**: Algorithms that effectively shorted financial [stocks](../s/stock.md), which were most affected, generated substantial returns.
-  
+
 - **[Inverse ETFs](../i/inverse_etfs.md)**: [Inverse ETFs](../i/inverse_etfs.md) gained popularity as investors sought to [hedge](../h/hedge.md) their portfolios against declining markets.
 
 - **[Put Options](../p/put_options.md)**: Those who bought [put options](../p/put_options.md) on major indices and vulnerable sectors reaped significant rewards.
 
 Companies that effectively manage algotrading strategies during bear markets include:
 
-- **[Two Sigma](https://www.twosigma.com/)**: Utilizes advanced data analysis and [machine learning](../m/machine_learning.md) to navigate [market](../m/market.md) downturns.
-  
-- **[Renaissance Technologies](https://www.rentec.com/)**: Known for their Medallion [Fund](../f/fund.md), which uses sophisticated algorithms to achieve remarkable returns regardless of [market](../m/market.md) conditions.
+- **Two Sigma**: Utilizes advanced data analysis and [machine learning](../m/machine_learning.md) to navigate [market](../m/market.md) downturns.
+
+- **Renaissance Technologies**: Known for their Medallion [Fund](../f/fund.md), which uses sophisticated algorithms to achieve remarkable returns regardless of [market](../m/market.md) conditions.
 
 ### Conclusion
 
-Bear markets, while challenging, [offer](../o/offer.md) numerous opportunities for algorithmic traders. By leveraging strategies like [short selling](../s/short_selling.md), [inverse ETFs](../i/inverse_etfs.md), [put options](../p/put_options.md), pair trading, [market timing](../m/market_timing.md), and systematic [trend following](../t/trend_following.md), traders can [capitalize](../c/capitalize.md) on declining markets. Effective data collection, model development, and [execution](../e/execution.md), combined with [robust](../r/robust.md) [risk management](../r/risk_management.md), are essential to succeed in these volatile environments. Whether through advanced [data analytics](../d/data_analytics.md) or sophisticated models, the implementation of these strategies requires a nuanced understanding of [market dynamics](../m/market_dynamics.md) and a disciplined approach to trading.
+Bear markets, while challenging, [offer](../o/offer.md) numerous opportunities for algorithmic traders. By leveraging strategies like [short selling](../s/short_selling.md), [inverse ETFs](../i/inverse_etfs.md), [put options](../p/put_options.md), pair trading, [market timing](../m/market_timing.md), and systematic [trend following](../t/trend_following.md), traders can [capitalize](../c/capitalize.md) on declining markets. Effective data collection, model development, and [execution](../e/execution.md), combined with [robust](../r/robust.md) [risk management](../r/risk_management.md), are essential to succeed in these volatile environments. Whether through advanced [data analytics](../d/data_analytics.md) or sophisticated models, the implementation of these strategies requires a nuanced understanding of [market dynamics](../m/market_dynamics.md) and a disciplined approach to trading.

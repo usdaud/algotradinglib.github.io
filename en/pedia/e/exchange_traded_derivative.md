@@ -40,37 +40,37 @@ Exchanges provide a centralized marketplace where large numbers of buyers and se
 
 The CME Group is one of the world's leading and most diversified [derivatives](../d/derivatives.md) marketplaces. It provides trading facilities for a wide [range](../r/range.md) of [asset](../a/asset.md) classes, including [interest](../i/interest.md) rates, [equity](../e/equity.md) indexes, [foreign exchange](../f/foreign_exchange.md), energy, agricultural products, and metals. The CME Group’s platforms include the Chicago Mercantile [Exchange](../e/exchange.md), Chicago Board of [Trade](../t/trade.md) (CBOT), New York Mercantile [Exchange](../e/exchange.md) (NYMEX), and COMEX.
 
-Website: [CME Group](https://www.cmegroup.com/)
+online platform: CME Group
 
 ### Intercontinental Exchange (ICE)
 
 ICE offers a global platform for trading and [clearing](../c/clearing.md) a wide [range](../r/range.md) of [derivatives](../d/derivatives.md) across [asset](../a/asset.md) classes such as commodities, [interest](../i/interest.md) rates, equities, and [foreign exchange](../f/foreign_exchange.md). ICE [Futures](../f/futures.md) U.S. and ICE [Futures](../f/futures.md) Europe are among the most active exchanges under the ICE umbrella.
 
-Website: [Intercontinental Exchange](https://www.theice.com/)
+online platform: Intercontinental Exchange
 
 ### Eurex Exchange
 
 Eurex is among Europe’s largest [derivatives](../d/derivatives.md) exchanges and operates a fully electronic [trading platform](../t/trading_platform.md). It offers a diverse portfolio, including [futures](../f/futures.md) and [options](../o/options.md) on equities, bonds, and indices.
 
-Website: [Eurex Exchange](https://www.eurex.com/)
+online platform: Eurex Exchange
 
 ### NASDAQ OMX
 
 [NASDAQ](../n/nasdaq.md) OMX Group offers trading in a wide [range](../r/range.md) of [derivatives](../d/derivatives.md), including [options](../o/options.md) and [futures](../f/futures.md), across different indices, equities, and commodities. It also provides [clearing](../c/clearing.md) and [risk management](../r/risk_management.md) services.
 
-Website: [NASDAQ OMX](https://www.nasdaq.com/)
+online platform: NASDAQ OMX
 
 ### Hong Kong Exchanges and Clearing Limited (HKEX)
 
 HKEX operates a [derivatives](../d/derivatives.md) [trading platform](../t/trading_platform.md) in Asia, [offering](../o/offering.md) products on Hong Kong, Chinese, and other international underlyings.
 
-Website: [HKEX](https://www.hkex.com.hk/)
+online platform: HKEX
 
 ### Bombay Stock Exchange (BSE)
 
 BSE is a prominent [exchange](../e/exchange.md) in India providing trading in [derivatives](../d/derivatives.md) such as stock [futures](../f/futures.md) and [options](../o/options.md), along with [index futures](../i/index_futures.md) and [options](../o/options.md).
 
-Website: [Bombay Stock Exchange](https://www.bseindia.com/)
+online platform: Bombay Stock Exchange
 
 ## Key Concepts and Terminologies
 

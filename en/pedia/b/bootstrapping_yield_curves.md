@@ -105,8 +105,8 @@ Bootstrapping [yield](../y/yield.md) curves is a powerful method enabling trader
 
 ### References
 
-- [QuantLib Library](https://www.quantlib.org)
-- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- QuantLib Library
+- Federal Reserve Economic Data (FRED)
+- Bloomberg Terminal
 
-By applying bootstrapping, traders can achieve a deep understanding of [interest rate](../i/interest_rate.md) structures and use this insight to optimize their [trading strategies](../t/trading_strategies.md), manage risks, and identify [market](../m/market.md) opportunities.
+By applying bootstrapping, traders can achieve a deep understanding of [interest rate](../i/interest_rate.md) structures and use this insight to optimize their [trading strategies](../t/trading_strategies.md), manage risks, and identify [market](../m/market.md) opportunities.

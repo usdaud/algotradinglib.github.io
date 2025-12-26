@@ -30,19 +30,19 @@ This is a specialized form of [arbitrage](../a/arbitrage.md) focused on the [acq
 
 1. **Data Feeds**
 
-   Real-time and historical [market](../m/market.md) data feeds are essential for [algorithmic trading](../a/algorithmic_trading.md) systems. Providers like [Bloomberg](../b/bloomberg.md), Refinitiv, and [Quandl](../q/quandl.md) [offer](../o/offer.md) comprehensive datasets covering [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+ Real-time and historical [market](../m/market.md) data feeds are essential for [algorithmic trading](../a/algorithmic_trading.md) systems. Providers like [Bloomberg](../b/bloomberg.md), Refinitiv, and [Quandl](../q/quandl.md) [offer](../o/offer.md) comprehensive datasets covering [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
 2. **[Execution](../e/execution.md) Platforms**
 
-   High-frequency trading platforms (HFT) such as those provided by trading technology firms like Citadel Securities (https://www.citadelsecurities.com/) and Virtu Financial (https://www.virtu.com/) enable traders to execute orders with minimal latency.
+ High-frequency trading platforms (HFT) such as those provided by trading technology firms like Citadel Securities ( and Virtu Financial ( enable traders to execute orders with minimal latency.
 
 3. **Programming Languages**
 
-   Python, C++, and Java are commonly used due to their rapid processing capabilities and compatibility with data analysis libraries.
+ Python, C++, and Java are commonly used due to their rapid processing capabilities and compatibility with data analysis libraries.
 
 4. **[Quantitative Models](../q/quantitative_models.md)**
 
-   These include [machine learning](../m/machine_learning.md) models, statistical techniques, and econometric models which are backtested on historical data to ensure their reliability and robustness.
+ These include [machine learning](../m/machine_learning.md) models, statistical techniques, and econometric models which are backtested on historical data to ensure their reliability and robustness.
 
 ## Risk Management
 
@@ -64,7 +64,7 @@ Compliance includes reporting requirements, periodic audits, and ensuring system
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons (https://www.rentec.com/), is one of the most successful firms specializing in low-[risk](../r/risk.md) [arbitrage](../a/arbitrage.md) and [algorithmic trading](../a/algorithmic_trading.md). Their flagship Medallion [Fund](../f/fund.md) has generated returns far exceeding traditional [market](../m/market.md) indices, largely thanks to their sophisticated [quantitative models](../q/quantitative_models.md) and emphasis on low-[risk](../r/risk.md) [arbitrage](../a/arbitrage.md) opportunities.
+Renaissance Technologies, founded by James Simons ( is one of the most successful firms specializing in low-[risk](../r/risk.md) [arbitrage](../a/arbitrage.md) and [algorithmic trading](../a/algorithmic_trading.md). Their flagship Medallion [Fund](../f/fund.md) has generated returns far exceeding traditional [market](../m/market.md) indices, largely thanks to their sophisticated [quantitative models](../q/quantitative_models.md) and emphasis on low-[risk](../r/risk.md) [arbitrage](../a/arbitrage.md) opportunities.
 
 ## Conclusion
 

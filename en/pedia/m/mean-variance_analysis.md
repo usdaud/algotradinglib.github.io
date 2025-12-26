@@ -76,57 +76,57 @@ A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates a more favorable [risk-a
 While mean-[variance analysis](../v/variance_analysis.md) is a powerful tool in [finance](../f/finance.md), it has several limitations:
 
 1. **Assumption of Normality**:
-   - Returns are assumed to follow a [normal distribution](../n/normal_distribution_in_trading.md). However, in reality, [asset](../a/asset.md) returns can exhibit [skewness and kurtosis](../s/skewness_and_kurtosis.md).
+ - Returns are assumed to follow a [normal distribution](../n/normal_distribution_in_trading.md). However, in reality, [asset](../a/asset.md) returns can exhibit [skewness and kurtosis](../s/skewness_and_kurtosis.md).
 
 2. **Single-Period Model**:
-   - The analysis operates under a single-period assumption and does not account for changes over [multiple](../m/multiple.md) periods.
+ - The analysis operates under a single-period assumption and does not account for changes over [multiple](../m/multiple.md) periods.
 
 3. **Parameter Sensitivity**:
-   - Mean-[variance analysis](../v/variance_analysis.md) relies heavily on the accuracy of the expected returns, variances, and covariances. Estimating these parameters can be challenging.
+ - Mean-[variance analysis](../v/variance_analysis.md) relies heavily on the accuracy of the expected returns, variances, and covariances. Estimating these parameters can be challenging.
 
 4. **[Risk](../r/risk.md) Measurement**:
-   - Variance (or [standard deviation](../s/standard_deviation.md)) is used as the [risk](../r/risk.md) measure, which may not capture all dimensions of [risk](../r/risk.md), such as [tail risk](../t/tail_risk.md) or extreme events.
+ - Variance (or [standard deviation](../s/standard_deviation.md)) is used as the [risk](../r/risk.md) measure, which may not capture all dimensions of [risk](../r/risk.md), such as [tail risk](../t/tail_risk.md) or extreme events.
 
 ## Application in Algorithmic Trading
 
-Mean-[variance analysis](../v/variance_analysis.md) is fundamental in [algorithmic trading](../a/accountability.md), where [quantitative models](../q/quantitative_models.md) and algorithms are developed to make systematic investment decisions. Traders use [mean-variance optimization](../m/mean-variance_optimization.md) to construct portfolios that maximize expected returns while keeping [risk](../r/risk.md) within acceptable bounds. 
+Mean-[variance analysis](../v/variance_analysis.md) is fundamental in [algorithmic trading](../a/algorithmic_trading.md), where [quantitative models](../q/quantitative_models.md) and algorithms are developed to make systematic investment decisions. Traders use [mean-variance optimization](../m/mean-variance_optimization.md) to construct portfolios that maximize expected returns while keeping [risk](../r/risk.md) within acceptable bounds.
 
 ### Steps in Algorithmic Implementation
 
 1. **Data Gathering**:
-   - Collect historical price data for relevant assets to estimate expected returns, variances, and covariances.
+ - Collect historical price data for relevant assets to estimate expected returns, variances, and covariances.
 
 2. **[Return](../r/return.md) Calculation**:
-   - Calculate [historical returns](../h/historical_returns.md) and their statistical properties.
+ - Calculate [historical returns](../h/historical_returns.md) and their statistical properties.
 
 3. **[Covariance](../c/covariance.md) Matrix Estimation**:
-   - Estimate the [covariance](../c/covariance.md) matrix to understand the relationship between [asset](../a/asset.md) returns.
+ - Estimate the [covariance](../c/covariance.md) matrix to understand the relationship between [asset](../a/asset.md) returns.
 
 4. **[Optimization](../o/optimization.md) Algorithm**:
-   - Implement [optimization](../o/optimization.md) algorithms (e.g., quadratic programming) to solve for the portfolio weights that minimize [risk](../r/risk.md) for a given [return](../r/return.md) or maximize [return](../r/return.md) for a given [risk](../r/risk.md).
+ - Implement [optimization](../o/optimization.md) algorithms (e.g., quadratic programming) to solve for the portfolio weights that minimize [risk](../r/risk.md) for a given [return](../r/return.md) or maximize [return](../r/return.md) for a given [risk](../r/risk.md).
 
 5. **[Backtesting](../b/backtesting.md)**:
-   - Validate the strategy by [backtesting](../b/backtesting.md) it against historical data to assess its performance.
+ - Validate the strategy by [backtesting](../b/backtesting.md) it against historical data to assess its performance.
 
 6. **[Execution](../e/execution.md)**:
-   - Use [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and APIs to execute the optimal portfolios in real-time markets.
+ - Use [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and APIs to execute the optimal portfolios in real-time markets.
 
 ## Fintech and Mean-Variance Analysis
 
-Financial technology (Fintech) has revolutionized how mean-[variance analysis](../v/variance_analysis.md) is conducted. Advanced software solutions and platforms now [offer](../o/offer.md) [robust](../r/robust.md) tools for [portfolio optimization](../p/portfolio_optimization.md). One notable company in this space is [BlackRock's Aladdin](https://www.blackrock.com/aladdin).
+Financial technology (Fintech) has revolutionized how mean-[variance analysis](../v/variance_analysis.md) is conducted. Advanced software solutions and platforms now [offer](../o/offer.md) [robust](../r/robust.md) tools for [portfolio optimization](../p/portfolio_optimization.md). One notable company in this space is BlackRock's Aladdin.
 
 ### Features of Fintech Solutions
 
 - **Real-time Data Handling**:
-  - Fintech platforms can process [real-time market data](../r/real-time_market_data.md) and update portfolios dynamically.
+ - Fintech platforms can process [real-time market data](../r/real-time_market_data.md) and update portfolios dynamically.
 
 - **Scalable Computing Power**:
-  - Utilizing [cloud computing](../c/cloud_computing_in_trading.md) to [handle](../h/handle.md) large datasets and complex calculations concurrently.
+ - Utilizing [cloud computing](../c/cloud_computing_in_trading.md) to [handle](../h/handle.md) large datasets and complex calculations concurrently.
 
 - **User-Friendly Interfaces**:
-  - Interactive dashboards and visualization tools to interpret [optimization](../o/optimization.md) results easily.
+ - Interactive dashboards and visualization tools to interpret [optimization](../o/optimization.md) results easily.
 
 - **[Risk Management](../r/risk_management.md) Tools**:
-  - Comprehensive [risk](../r/risk.md) analytics and stress-testing features to evaluate portfolio resilience under various [market](../m/market.md) scenarios.
+ - Comprehensive [risk](../r/risk.md) analytics and stress-testing features to evaluate portfolio resilience under various [market](../m/market.md) scenarios.
 
 In conclusion, mean-[variance analysis](../v/variance_analysis.md) remains a vital concept in [finance](../f/finance.md), underpinning many investment decision-making processes. Its applications span from traditional [portfolio management](../p/par.md) to sophisticated [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), and its relevance continues to be enhanced by advances in financial technology.

@@ -57,10 +57,10 @@ Effective [risk management](../r/risk_management.md) in quantitative [value](../
 ## Case Studies and Real-World Applications
 
 ### Case Study: AQR Capital Management
-[AQR Capital Management](https://www.aqr.com) is known for its application of quantitative [value](../v/value.md) strategies. They utilize complex models incorporating [multiple](../m/multiple.md) financial metrics to identify [value](../v/value.md) [stocks](../s/stock.md) across global markets. Their systematic approach allows them to process vast amounts of data and execute trades based on statistical decision-making.
+AQR Capital Management is known for its application of quantitative [value](../v/value.md) strategies. They utilize complex models incorporating [multiple](../m/multiple.md) financial metrics to identify [value](../v/value.md) [stocks](../s/stock.md) across global markets. Their systematic approach allows them to process vast amounts of data and execute trades based on statistical decision-making.
 
 ### Case Study: Two Sigma Investments
-[Two Sigma Investments](https://www.twosigma.com) employs advanced [machine learning](../m/machine_learning.md) and data-driven techniques for quantitative [value](../v/value.md) strategies. Their algorithms analyze diverse datasets, including non-traditional financial information, to uncover [undervalued](../u/undervalued.md) investment opportunities and optimize [portfolio performance](../p/portfolio_performance.md).
+Two Sigma Investments employs advanced [machine learning](../m/machine_learning.md) and data-driven techniques for quantitative [value](../v/value.md) strategies. Their algorithms analyze diverse datasets, including non-traditional financial information, to uncover [undervalued](../u/undervalued.md) investment opportunities and optimize [portfolio performance](../p/portfolio_performance.md).
 
 ## Benefits and Challenges
 
@@ -79,4 +79,3 @@ Effective [risk management](../r/risk_management.md) in quantitative [value](../
 Quantitative [value](../v/value.md) strategies blend the time-tested principles of [value investing](../v/value_investing.md) with the power of [quantitative analysis](../q/quantitative_analysis.md). By leveraging [mathematical models](../m/mathematical_models_in_trading.md) and large datasets, these strategies aim to systematically identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md) and construct high-performing, [risk](../r/risk.md)-managed portfolios. Despite challenges such as [model risk](../m/model_risk.md) and data quality, the benefits of objectivity, [efficiency](../e/efficiency.md), and consistency make quantitative [value](../v/value.md) strategies a compelling approach for modern [investing](../i/investing.md).
 
 For practitioners and researchers, continuous advancements in algorithmic techniques and computational power [offer](../o/offer.md) exciting opportunities to refine these strategies and achieve superior investment outcomes.
-

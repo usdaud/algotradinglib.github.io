@@ -115,7 +115,7 @@ def sharpe_ratio(weights, mean_returns, cov_matrix, risk_free_rate):
     [return](../r/return.md) (portfolio_return - risk_free_rate) / portfolio_stddev
 
 mean_returns = np.array([0.12, 0.18, 0.15])
-cov_matrix = np.array([[0.02, 0.01, 0.01],
+cov_matrix = np.array[[0.02, 0.01, 0.01],
                        [0.01, 0.03, 0.01],
                        [0.01, 0.01, 0.04]])
 risk_free_rate = 0.03
@@ -127,8 +127,7 @@ def neg_sharpe_ratio(weights):
 constraints = {'type': 'eq', 'fun': [lambda](../l/lambda.md) x: np.sum(x) - 1}
 bounds = tuple((0, 1) for [asset](../a/asset.md) in [range](../r/range.md)(num_assets))
 
-result = minimize(neg_sharpe_ratio, num_assets * [1. / num_assets,], 
-                  method='SLSQP', bounds=bounds, constraints=constraints)
+result = minimizeneg_sharpe_ratio, num_assets * [1. / num_assets,],                   method='SLSQP', bounds=bounds, constraints=constraints)
 
 optimal_weights = result.x
 print(f"Optimal Weights: {optimal_weights}")

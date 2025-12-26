@@ -19,7 +19,7 @@ This 30% represents the [acquisition](../a/acquisition.md) [premium](../p/premiu
 [Acquisition](../a/acquisition.md) premiums are critical in mergers and acquisitions (M&A) for several reasons:
 
 1. **Reflection of [Intrinsic Value](../i/intrinsic_value.md)**: They often reflect what the acquirer believes to be the [intrinsic value](../i/intrinsic_value.md) of the target company, including its future growth prospects and synergies that can be realized post-[acquisition](../a/acquisition.md).
-  
+
 2. **Incentivizing Sellers**: [Offering](../o/offering.md) a [premium](../p/premium.md) above the [market price](../m/market_price.md) can incentivize shareholders of the target company to sell their [shares](../s/shares.md), facilitating the [transaction](../t/transaction.md).
 
 3. **[Competitive Advantage](../c/competitive_advantage.md)**: In the event of [multiple](../m/multiple.md) suitors for a target company, a higher [premium](../p/premium.md) can give one acquirer a competitive edge over others.

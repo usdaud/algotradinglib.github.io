@@ -40,10 +40,10 @@
 
 1. **[Broker](../b/broker.md)-Dealers**: Firms like Goldman Sachs and Morgan Stanley play a pivotal role as intermediaries in lending securities to other [market](../m/market.md) participants.
 2. **[Custodian](../c/custodian.md) Banks**: Institutions like State Street and BNY Mellon [offer](../o/offer.md) [securities lending](../s/securities_lending.md) services to their clients while managing the operational details.
-   - [State Street](https://www.statestreet.com)
-   - [BNY Mellon](https://www.bnymellon.com)
+ - State Street
+ - BNY Mellon
 3. **Lending Agents**: Specialized firms like eSecLending facilitate and manage [securities lending](../s/securities_lending.md) transactions to optimize returns for lenders.
-   - [eSecLending](https://www.eseclending.com)
+ - eSecLending
 4. **[Hedge](../h/hedge.md) Funds**: Major borrowers of securities, [hedge](../h/hedge.md) funds, use borrowed securities to implement their [trading strategies](../t/trading_strategies.md).
 
 ### Technological Innovations

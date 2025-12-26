@@ -38,7 +38,7 @@ Advanced [pattern recognition](../p/pattern_recognition.md) algorithms can be de
 
 ### Backtesting
 
-Implementation of [Kicker](../k/kicker.md) [Pattern recognition](../p/pattern_recognition.md) in [algorithmic trading](../a/accountability.md) requires rigorous [backtesting](../b/backtesting.md). This involves:
+Implementation of [Kicker](../k/kicker.md) [Pattern recognition](../p/pattern_recognition.md) in [algorithmic trading](../a/algorithmic_trading.md) requires rigorous [backtesting](../b/backtesting.md). This involves:
 - **[Historical Data Analysis](../h/historical_data_analysis.md).** Testing the algorithm against historical price data to validate its effectiveness in detecting genuine [Kicker](../k/kicker.md) Patterns and predicting price movements.
 - **Refinement.** Fine-tuning the algorithm's parameters to reduce false positives and enhance precision.
 

@@ -11,51 +11,47 @@ A [Bitcoin](../b/bitcoin.md) wallet is a device, physical medium, program, or a 
 Software wallets are applications installed on a computer or mobile device. They can be:
 
 - **Desktop Wallets**: These wallets are installed directly on a computer. Examples include:
-  - **[Bitcoin](../b/bitcoin.md) Core**: The original [Bitcoin](../b/bitcoin.md) wallet, serving as both a full-node data store and wallet for [Bitcoin](../b/bitcoin.md) transactions. (https://bitcoincore.org/)
-  - **Electrum**: A lightweight [Bitcoin](../b/bitcoin.md) wallet that provides increased speed by using remote servers to [handle](../h/handle.md) the heaviest parts of the [Bitcoin](../b/bitcoin.md) system. (https://electrum.org/)
-  - **Armory**: Known for its advanced [security](../s/security.md) features. (https://btcarmory.com/)
-  
+ - **[Bitcoin](../b/bitcoin.md) Core**: The original [Bitcoin](../b/bitcoin.md) wallet, serving as both a full-node data store and wallet for [Bitcoin](../b/bitcoin.md) transactions. (
+ - **Electrum**: A lightweight [Bitcoin](../b/bitcoin.md) wallet that provides increased speed by using remote servers to [handle](../h/handle.md) the heaviest parts of the [Bitcoin](../b/bitcoin.md) system. (
+ - **Armory**: Known for its advanced [security](../s/security.md) features. (
+
 - **Mobile Wallets**: Mobile wallets run on a smartphone app. They can be convenient, allowing for QR code scanning and NFC payments. Examples include:
-  - **Mycelium**: Focuses on advanced privacy features for the users. (https://mycelium.com/)
-  - **Breadwallet**: Simple to use and known for its clean user interface design. (https://breadwallet.com/)
-  - **Samourai Wallet**: Renowned for its emphasis on user [security](../s/security.md) and privacy. (https://samouraiwallet.com/)
+ - **Mycelium**: Focuses on advanced privacy features for the users. - **Breadwallet**: Simple to use and known for its clean user interface design. - **Samourai Wallet**: Renowned for its emphasis on user [security](../s/security.md) and privacy. (
 
 ### Web Wallets
 
 Web wallets store your private keys online on a server controlled by a third-party. This makes them accessible from any device with an internet connection but potentially more vulnerable to attacks and theft.
 
-- **[Coinbase](../c/coinbase.md)**: A major [exchange](../e/exchange.md) that also offers a wallet service. (https://www.[coinbase](../c/coinbase.md).com/)
-- **[Blockchain](../b/blockchain_in_trading.md).info**: Known for its simplicity and ease of use. (https://www.[blockchain](../b/blockchain_in_trading.md).com/)
-- **Xapo**: Combines a cold-storage vault with a convenient day-to-day wallet. (https://xapo.com/)
-
+- **[Coinbase](../c/coinbase.md)**: A major [exchange](../e/exchange.md) that also offers a wallet service. (
+- **[Blockchain](../b/blockchain_in_trading.md).info**: Known for its simplicity and ease of use. (
+- **Xapo**: Combines a cold-storage vault with a convenient day-to-day wallet.
 ### Hardware Wallets
 
 Hardware wallets are physical devices specifically designed to use and secure [Bitcoin](../b/bitcoin.md). Hardware wallets are immune to computer viruses, providing a higher [security](../s/security.md) level. They need to be connected to a computer or mobile phone before Bitcoins can be spent. Examples include:
 
-- **Trezor**: The first [Bitcoin](../b/bitcoin.md) hardware wallet with a screen, designed to protect your private keys from both physical and virtual thefts. (https://trezor.io/)
-- **Ledger Nano S/X**: Popular hardware wallets that support [multiple](../m/multiple.md) cryptocurrencies including [Bitcoin](../b/bitcoin.md). (https://www.ledger.com/)
-- **KeepKey**: Known for its luxurious design and easy-to-use interface. (https://shapeshift.com/keepkey)
-
+- **Trezor**: The first [Bitcoin](../b/bitcoin.md) hardware wallet with a screen, designed to protect your private keys from both physical and virtual thefts. (
+- **Ledger Nano S/X**: Popular hardware wallets that support [multiple](../m/multiple.md) cryptocurrencies including [Bitcoin](../b/bitcoin.md). (
+- **KeepKey**: Known for its luxurious design and easy-to-use interface.
 ### Paper Wallets
 
 Paper wallets involve printing out the private and public keys onto a physical sheet paper. It's an incredibly secure offline method, but if the paper is lost or damaged, [Bitcoin](../b/bitcoin.md) funds can be irretrievably lost. Examples of services that help create paper wallets include:
 
-- **BitAddress**: An [open](../o/open.md)-source JavaScript client-side Wallet Generator. (https://bitaddress.org/)
-- **WalletGenerator.net**: Similar to BitAddress but supports [multiple](../m/multiple.md) cryptocurrencies. (https://walletgenerator.net/)
+- **BitAddress**: An [open](../o/open.md)-source JavaScript client-side Wallet Generator. (
+- **WalletGenerator.net**: Similar to BitAddress but supports [multiple](../m/multiple.md) cryptocurrencies. (
 
 ## How Bitcoin Wallets Work
 
 To understand how [Bitcoin](../b/bitcoin.md) wallets work, it's important to first understand [Bitcoin](../b/bitcoin.md)'s [underlying](../u/underlying.md) technology: the [blockchain](../b/blockchain_in_trading.md). Here’s a simplified breakdown:
 
 1. **Private and Public Keys**: A [Bitcoin](../b/bitcoin.md) wallet contains a pair of cryptographic keys:
-    - **Private Key**: A secret key that must remain hidden as it is used to 'sign' transactions, providing a cryptographic proof that they have come from the wallet owner.
-    - **Public Key**: Derived from the private key and shared openly. It’s hashed to form an address which others can use to send [Bitcoin](../b/bitcoin.md) to the wallet.
-   
+ - **Private Key**: A secret key that must remain hidden as it is used to 'sign' transactions, providing a cryptographic proof that they have come from the wallet owner.
+ - **Public Key**: Derived from the private key and shared openly. It’s hashed to form an address which others can use to send [Bitcoin](../b/bitcoin.md) to the wallet.
+
 2. **Address Generation**: [Bitcoin](../b/bitcoin.md) addresses are generated using the public key. Every time you want to receive [Bitcoin](../b/bitcoin.md), you create a new address within your wallet.
 
 3. **Handling Transactions**:
-    - **Sending [Bitcoin](../b/bitcoin.md)**: The wallet uses the private key to sign the [transaction](../t/transaction.md), ensuring only the owner of that private key can move funds from the associated address.
-    - **Receiving [Bitcoin](../b/bitcoin.md)**: Others send [Bitcoin](../b/bitcoin.md) to one of the wallet's public addresses. 
+ - **Sending [Bitcoin](../b/bitcoin.md)**: The wallet uses the private key to sign the [transaction](../t/transaction.md), ensuring only the owner of that private key can move funds from the associated address.
+ - **Receiving [Bitcoin](../b/bitcoin.md)**: Others send [Bitcoin](../b/bitcoin.md) to one of the wallet's public addresses.
 
 4. **Broadcasting to the Network**: Once a [transaction](../t/transaction.md) is signed, it’s broadcast to the [Bitcoin](../b/bitcoin.md) network where miners validate and add it to the [blockchain](../b/blockchain_in_trading.md).
 
@@ -65,7 +61,7 @@ Setting up a [Bitcoin](../b/bitcoin.md) wallet generally follows these steps:
 
 ### Software Wallet
 
-1. **Download**: Choose a wallet provider and download the application from their official website or app store.
+1. **Download**: Choose a wallet provider and download the application from a trusted source or app store.
 2. **Install**: Run the installer and follow the on-screen instructions.
 3. **Backup**: Once installed, create a backup of the wallet’s private keys. This information is typically provided as a recovery phrase.
 4. **Secure**: Set up additional [security](../s/security.md) measures such as a PIN, password, or two-[factor](../f/factor.md) authentication (2FA).
@@ -81,7 +77,7 @@ Setting up a [Bitcoin](../b/bitcoin.md) wallet generally follows these steps:
 
 ### Web Wallet
 
-1. **Sign Up**: Visit the wallet provider’s website and create an account.
+1. **Sign Up**:
 2. **Secure**: Activate [security](../s/security.md) features such as 2FA and create a strong password.
 3. **Use**: You can access your wallet from any internet-connected device to send and receive [Bitcoin](../b/bitcoin.md).
 
@@ -93,18 +89,18 @@ While [Bitcoin](../b/bitcoin.md) wallets are a secure way to [hold](../h/hold.md
 - **Use Strong Passwords**: Passwords should be long, unique, and contain a mix of characters.
 - **2FA**: Enable two-[factor](../f/factor.md) authentication whenever possible.
 - **Keep Software Updated**: Regularly update your wallet software and any antivirus programs to protect against vulnerabilities.
-- **Beware of Phishing**: Be vigilant about phishing attacks. Never enter your private key on any website or application.
+- **Beware of Phishing**: Be vigilant about phishing attacks. Never enter your private key on any online form or application.
 - **Cold Storage**: For large amounts, consider using cold storage methods like hardware or paper wallets.
 
 ## Service Providers
 
 There are numerous [Bitcoin](../b/bitcoin.md) wallet service providers, each catering to different needs:
 
-- **[Coinbase](../c/coinbase.md)**: Offers both [exchange](../e/exchange.md) and wallet services with an intuitive user interface. (https://www.[coinbase](../c/coinbase.md).com/)
-- **Trezor**: Trusted for its [security](../s/security.md) and easy integration with various online services. (https://trezor.io/)
-- **Ledger**: Known for its wide [range](../r/range.md) of supported cryptocurrencies. (https://www.ledger.com/)
-- **[Blockchain](../b/blockchain_in_trading.md).com**: Simple, user-friendly web and mobile wallets. (https://www.[blockchain](../b/blockchain_in_trading.md).com/)
-- **Exodus**: A desktop wallet with a beautiful design and embedded [exchange](../e/exchange.md) features. (https://www.exodus.com/)
+- **[Coinbase](../c/coinbase.md)**: Offers both [exchange](../e/exchange.md) and wallet services with an intuitive user interface. (
+- **Trezor**: Trusted for its [security](../s/security.md) and easy integration with various online services. (
+- **Ledger**: Known for its wide [range](../r/range.md) of supported cryptocurrencies. (
+- **[Blockchain](../b/blockchain_in_trading.md).com**: Simple, user-friendly web and mobile wallets. (
+- **Exodus**: A desktop wallet with a beautiful design and embedded [exchange](../e/exchange.md) features. (
 
 ## Conclusion
 

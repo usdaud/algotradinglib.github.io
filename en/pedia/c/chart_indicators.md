@@ -5,11 +5,11 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md) (or algo trad
 ### Moving Averages
 
 #### Simple Moving Average (SMA)
-Simple Moving Average (SMA) is one of the most common and straightforward indicators. It calculates the average of a selected [range](../r/range.md) of prices, typically closing prices, by the number of periods in that [range](../r/range.md). 
+Simple Moving Average (SMA) is one of the most common and straightforward indicators. It calculates the average of a selected [range](../r/range.md) of prices, typically closing prices, by the number of periods in that [range](../r/range.md).
 ```markdown
 SMA = (P1 + P2 + ... + Pn) / n
 ```
-Where P1, P2, ..., Pn are the closing prices of the [security](../s/security.md) for n periods.
+Where P1, P2,..., Pn are the closing prices of the [security](../s/security.md) for n periods.
 
 #### Exponential Moving Average (EMA)
 Exponential Moving Average (EMA) gives more weight to the most recent prices, making it more sensitive to recent price moves. It reacts more quickly to price changes compared to SMA.
@@ -142,10 +142,10 @@ In [algorithmic trading](../a/algorithmic_trading.md), custom indicators can be 
 
 Several platforms and companies provide comprehensive tools for [technical analysis](../t/technical_analysis.md), including chart indicators. Some notable mentions include:
 
-- **[TradingView](../t/tradingview.md)**: A financial visualization platform that offers a broad array of charts and indicators, enabling traders to perform complex [technical analysis](../t/technical_analysis.md). [TradingView](https://www.tradingview.com)
-- **MetaTrader 4 and 5**: Trading platforms widely used for forex and CFD trading, providing numerous built-in [technical indicators](../t/technical_indicators.md) and the ability to script custom ones. [MetaTrader](https://www.metatrader4.com/)
-- **[Thinkorswim](../t/thinkorswim.md)**: Offered by TD [Ameritrade](../a/ameritrade.md), [Thinkorswim](../t/thinkorswim.md) is a professional-level [trading platform](../t/trading_platform.md) providing a wide [range](../r/range.md) of [technical analysis](../t/technical_analysis.md) tools and indicators. [Thinkorswim](https://www.thinkorswim.com/)
-- **[NinjaTrader](../n/ninjatrader.md)**: Known for its advanced charting and trading capabilities, [NinjaTrader](../n/ninjatrader.md) offers extensive support for [algorithmic trading](../a/algorithmic_trading.md) and custom [indicator](../i/indicator.md) development. [NinjaTrader](https://ninjatrader.com/)
+- **[TradingView](../t/tradingview.md)**: A financial visualization platform that offers a broad array of charts and indicators, enabling traders to perform complex [technical analysis](../t/technical_analysis.md). TradingView
+- **MetaTrader 4 and 5**: Trading platforms widely used for forex and CFD trading, providing numerous built-in [technical indicators](../t/technical_indicators.md) and the ability to script custom ones. MetaTrader
+- **[Thinkorswim](../t/thinkorswim.md)**: Offered by TD [Ameritrade](../a/ameritrade.md), [Thinkorswim](../t/thinkorswim.md) is a professional-level [trading platform](../t/trading_platform.md) providing a wide [range](../r/range.md) of [technical analysis](../t/technical_analysis.md) tools and indicators. Thinkorswim
+- **[NinjaTrader](../n/ninjatrader.md)**: Known for its advanced charting and trading capabilities, [NinjaTrader](../n/ninjatrader.md) offers extensive support for [algorithmic trading](../a/algorithmic_trading.md) and custom [indicator](../i/indicator.md) development. NinjaTrader
 
 ### Conclusion
 

@@ -31,8 +31,8 @@ In commodities markets, warehousing refers to the storage of physical commoditie
 Gold warehousing represents a significant part of the commodities [market](../m/market.md). Companies like JP Morgan Chase and HSBC maintain extensive gold storage facilities to manage their gold trading operations. These warehousing efforts are vital to ensuring that there is enough physical gold to meet [market](../m/market.md) demands and settling contracts.
 
 For more details, you may visit the respective institution websites:
-- [JP Morgan Chase](https://www.jpmorganchase.com)
-- [HSBC](https://www.hsbc.com)
+- JP Morgan Chase
+- HSBC
 
 ## Regulatory Aspects
 
@@ -70,7 +70,7 @@ For instance, in creating a collateralized [debt](../d/debt.md) obligation (CDO)
 
 ## Implications for Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies significantly on warehousing. Algorithms can be programmed to manage warehousing operations, including the timing and quantity of assets to be warehoused, ensuring effective [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) relies significantly on warehousing. Algorithms can be programmed to manage warehousing operations, including the timing and quantity of assets to be warehoused, ensuring effective [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
 
 ### Algorithmic Warehousing Strategies
 
@@ -80,4 +80,4 @@ For instance, in creating a collateralized [debt](../d/debt.md) obligation (CDO)
 
 ## Conclusion
 
-Warehousing, in the realm of [finance](../f/finance.md) and trading, is a multifaceted practice involving the accumulation and [strategic management](../s/strategic_management.md) of assets. From providing [market](../m/market.md) [liquidity](../l/liquidity.md) and enabling [risk management](../r/risk_management.md) to supporting [market](../m/market.md)-making and [arbitrage](../a/arbitrage.md), warehousing plays a pivotal role in modern [financial markets](../f/financial_market.md). As technology continues to advance, warehousing practices are evolving, integrating sophisticated analytics, [blockchain](../b/blockchain_in_trading.md) technology, and AI to enhance [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md). Regulatory frameworks ensure the fair conduct of warehousing activities, safeguarding [market](../m/market.md) integrity and preventing manipulative practices. Whether for [financial engineering](../f/financial_engineering.md) or [algorithmic trading](../a/accountability.md), warehousing remains an indispensable component, driving the seamless operation of global [financial markets](../f/financial_market.md).
+Warehousing, in the realm of [finance](../f/finance.md) and trading, is a multifaceted practice involving the accumulation and [strategic management](../s/strategic_management.md) of assets. From providing [market](../m/market.md) [liquidity](../l/liquidity.md) and enabling [risk management](../r/risk_management.md) to supporting [market](../m/market.md)-making and [arbitrage](../a/arbitrage.md), warehousing plays a pivotal role in modern [financial markets](../f/financial_market.md). As technology continues to advance, warehousing practices are evolving, integrating sophisticated analytics, [blockchain](../b/blockchain_in_trading.md) technology, and AI to enhance [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md). Regulatory frameworks ensure the fair conduct of warehousing activities, safeguarding [market](../m/market.md) integrity and preventing manipulative practices. Whether for [financial engineering](../f/financial_engineering.md) or [algorithmic trading](../a/algorithmic_trading.md), warehousing remains an indispensable component, driving the seamless operation of global [financial markets](../f/financial_market.md).

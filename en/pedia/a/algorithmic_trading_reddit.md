@@ -12,7 +12,7 @@ The [Algorithmic Trading](../a/algorithmic_trading.md) subreddit, found at r/alg
 
 4. **Programming and Development**: Discussions often focus on the technical side of [algorithmic trading](../a/algorithmic_trading.md), including coding in languages such as Python, R, and C++, and using libraries like Pandas, NumPy, and [TensorFlow](../t/tensorflow.md).
 
-5. **Trading Platforms**: Members discuss and share experiences with various trading platforms and tools, such as MetaTrader, [QuantConnect](../q/quantconnect.md), [Interactive Brokers](../i/interactive_brokers.md), and more.
+5. **Trading Platforms**: Members discuss and share experiences with various trading platforms and tools, such as MetaTrader, [StockSharp](../s/stocksharp.md), [Interactive Brokers](../i/interactive_brokers.md), and more.
 
 6. **[Market](../m/market.md) Analysis**: The community engages in discussions about [market](../m/market.md) conditions, [trading signals](../t/trading_signals.md), and the impact of economic events on [trading strategies](../t/trading_strategies.md).
 
@@ -36,7 +36,7 @@ The [Algorithmic Trading](../a/algorithmic_trading.md) subreddit, found at r/alg
 Discussions in r/algotrading often cover the use of various APIs and libraries for [algorithmic trading](../a/algorithmic_trading.md):
 - **REST APIs**: For accessing [market](../m/market.md) data and executing trades programmatically.
 - **WebSocket APIs**: For [real-time market data](../r/real-time_market_data.md) streaming.
-- **[Trading Platform](../t/trading_platform.md) APIs**: Integration with platforms like [QuantConnect](../q/quantconnect.md), [Interactive Brokers](../i/interactive_brokers.md), and MetaTrader.
+- **[Trading Platform](../t/trading_platform.md) APIs**: Integration with platforms like [StockSharp](../s/stocksharp.md), [Interactive Brokers](../i/interactive_brokers.md), and MetaTrader.
 
 ## Clients and Partners
 The subreddit serves a diverse [range](../r/range.md) of users, including:
@@ -45,5 +45,5 @@ The subreddit serves a diverse [range](../r/range.md) of users, including:
 - **Financial Professionals**: Professionals in [finance](../f/finance.md) and trading sharing insights and seeking collaboration.
 - **Students and Researchers**: Individuals in academia exploring [algorithmic trading](../a/algorithmic_trading.md) concepts and research.
 
-## Website
-For more information and to join the community, visit the [Algorithmic Trading](../a/algorithmic_trading.md) subreddit: [r/algotrading](https://www.reddit.com/r/algotrading/)
+##
+For more information and to join the community, visit the [Algorithmic Trading](../a/algorithmic_trading.md) subreddit: r/algotrading

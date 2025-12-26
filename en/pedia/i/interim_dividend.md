@@ -65,10 +65,7 @@ Microsoft also pays regular interim dividends on a quarterly [basis](../b/basis.
 ### Unilever
 Unilever, a multinational [consumer goods](../c/consumer_goods.md) company, pays interim dividends to its shareholders. The company's [financial health](../f/financial_health.md) and stability allow it to make regular payouts.
 
-For more details, you can visit their respective [investor relations](../i/investor_relations.md) pages:
-- [Apple Investor Relations](https://investor.apple.com/)
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
-- [Unilever Investor Relations](https://www.unilever.com/investors/)
+./i/investor_relations.md) pages:
 
 ## Conclusion
 

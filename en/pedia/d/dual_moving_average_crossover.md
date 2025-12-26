@@ -46,8 +46,8 @@ The basic algorithm for a Dual Moving Average Crossover strategy is as follows:
 1. **Fetch the data**: Gather historical price data for the [asset](../a/asset.md) of [interest](../i/interest.md).
 2. **Calculate Moving Averages**: Compute the short-term and long-term moving averages.
 3. **Identify Crossover Points**:
-    - Generate a buy signal when the short-term moving average crosses above the long-term moving average.
-    - Generate a sell signal when the short-term moving average crosses below the long-term moving average.
+ - Generate a buy signal when the short-term moving average crosses above the long-term moving average.
+ - Generate a sell signal when the short-term moving average crosses below the long-term moving average.
 4. **Execute Trades**: Buy or sell the [asset](../a/asset.md) based on the crossover points.
 5. **[Risk Management](../r/risk_management.md)**: Set stop-loss and take-[profit](../p/profit.md) levels.
 
@@ -150,27 +150,22 @@ Numerous [software platforms](../s/software_platforms_for_trading.md) and tools 
 ### TradeStation
 
 **[TradeStation](../t/tradestation.md)** is a popular platform that offers advanced charting, [backtesting](../b/backtesting.md) capabilities, and strategy development tools. It supports [algorithmic trading](../a/algorithmic_trading.md) and provides data feeds for various markets.
-[TradeStation](https://www.tradestation.com/)
 
 ### MetaTrader
 
 **MetaTrader 4 and 5 (MT4/MT5)** are widely-used trading platforms with built-in programming languages (MQL4 and MQL5) for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). They [offer](../o/offer.md) [robust](../r/robust.md) tools for implementing moving average crossover algorithms.
-[MetaTrader](https://www.metatrader4.com/)
 
-### QuantConnect
+### StockSharp
 
-**[QuantConnect](../q/quantconnect.md)** is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including Python and C#. It offers extensive data libraries and powerful [backtesting](../b/backtesting.md) engines.
-[QuantConnect](https://www.quantconnect.com/)
+**[StockSharp](../s/stocksharp.md)** is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#. It offers extensive data libraries and powerful [backtesting](../b/backtesting.md) engines.
 
 ### Alpaca
 
 **[Alpaca](../a/alpaca.md)** is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides an API for [algorithmic trading](../a/algorithmic_trading.md). Developers can design, backtest, and deploy [trading strategies](../t/trading_strategies.md) in Python.
-[Alpaca](https://alpaca.markets/)
 
 ### TradingView
 
 **[TradingView](../t/tradingview.md)** offers advanced charting tools and scriptable alerts using the Pine Script programming language. Traders can create and test custom strategies, including [moving average crossovers](../m/moving_average_crossovers.md).
-[TradingView](https://www.tradingview.com/)
 
 ## Case Study
 
@@ -191,7 +186,7 @@ Conducting thorough [backtesting](../b/backtesting.md) is crucial to validate th
 - **[Risk-adjusted return](../r/risk-adjusted_return.md)**: [Return](../r/return.md) analysis [accounting](../a/accounting.md) for the [risk](../r/risk.md) exposure.
 - **Drawdowns**: Maximum losses during the [simulation](../s/simulation_in_trading.md) period.
 
-For instance, a backtest over a 10-year period on the SP 500 [index](../i/index_instrument.md) may show a 60% win rate with an average [annual return](../a/annual_return.md) of 8%, adjusted for [risk](../r/risk.md). 
+For instance, a backtest over a 10-year period on the SP 500 [index](../i/index_instrument.md) may show a 60% win rate with an average [annual return](../a/annual_return.md) of 8%, adjusted for [risk](../r/risk.md).
 
 ## Conclusion
 

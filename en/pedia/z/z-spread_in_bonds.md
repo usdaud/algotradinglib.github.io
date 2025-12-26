@@ -22,9 +22,9 @@ Where:
 ### Components of Z-Spread
 
 1. **Treasury Spot Rates**: The spot rates, derived from Treasury securities, represent the [risk](../r/risk.md)-free rates at different maturities. They serve as the [benchmark](../b/benchmark.md) to which the Z-spread is added.
-  
+
 2. **Cash Flows**: Future payments, both [interest](../i/interest.md) (coupons) and [principal](../p/principal.md) repayments from the [bond](../b/bond.md), are the cash flows being discounted.
-  
+
 3. **[Present Value](../p/present_value.md)**: The Z-spread ensures that the discounted [present value](../p/present_value.md) of the [bond](../b/bond.md)’s cash flows equals its current [market price](../m/market_price.md).
 
 ### Interpretation of Z-Spread
@@ -37,7 +37,7 @@ The Z-spread is used extensively by portfolio managers, traders, and analysts fo
 
 1. **[Risk](../r/risk.md) Assessment**: It helps in analyzing the [credit risk](../c/credit_risk.md) and [liquidity risk](../l/liquidity_risk.md) of bonds by [offering](../o/offering.md) a relative measure against the [risk](../r/risk.md)-free spot rates.
 
-2. **Pricing Bonds**: It aids in the pricing of bonds by [discounting](../d/discounting.md) cash flows more accurately than using a single [yield to maturity](../y/yield_to_maturity.md). 
+2. **Pricing Bonds**: It aids in the pricing of bonds by [discounting](../d/discounting.md) cash flows more accurately than using a single [yield to maturity](../y/yield_to_maturity.md).
 
 3. **[Bond](../b/bond.md) Comparison**: Investors can compare bonds with different structures and maturities effectively.
 
@@ -46,11 +46,11 @@ The Z-spread is used extensively by portfolio managers, traders, and analysts fo
 ## Advantages of Z-Spread
 
 1. **Detailed Analysis**: It provides a comprehensive [spread analysis](../s/spread_analysis.md) over the entire [yield curve](../y/yield_curve.md), rather than a single point, thus capturing subtle differences in [bond](../b/bond.md) valuations.
-  
+
 2. **[Risk](../r/risk.md) Measurement**: Helps in accurately measuring the risks associated with bonds especially in varying [interest rate](../i/interest_rate.md) environments.
 
 3. **Consistency**: Offers a consistent measure across different bonds making it easier to compare and contrast different [fixed income securities](../f/fixed_income_securities.md).
-  
+
 4. **Integration with Models**: The Z-spread integrates well with other models used in [finance](../f/finance.md) such as Monte Carlo simulations and can be helpful in [scenario analysis](../s/scenario_analysis.md).
 
 ## Application in Fixed Income Markets
@@ -105,4 +105,4 @@ Algorithms can use Z-[spreads](../s/spreads.md) to calculate the [credit risk](.
 
 The Z-spread is an indispensable tool in the [bond market](../b/bond_market.md), [offering](../o/offering.md) a nuanced view of the additional [yield](../y/yield.md) required to compensate for the [credit](../c/credit.md) and [liquidity](../l/liquidity.md) risks of a [bond](../b/bond.md) over [risk](../r/risk.md)-free spot rates. Its comprehensive approach in considering the [yield curve](../y/yield_curve.md) makes it superior to other spread measures for precise [bond](../b/bond.md) pricing, [risk](../r/risk.md) assessment, and investment decision-making. As [financial markets](../f/financial_market.md) evolve and the use of sophisticated [trading strategies](../t/trading_strategies.md) continues to grow, the Z-spread remains a critical component in the arsenal of investors, portfolio managers, and traders alike.
 
-Further information about financial metrics and tools used in [fixed income](../f/fixed_income.md) trading can be found on the websites of prominent financial institutions and [bond](../b/bond.md) marketplaces such as [Bloomberg](https://www.bloomberg.com/) and [Moody's](https://www.moodys.com/). 
+Further information about financial metrics and tools used in [fixed income](../f/fixed_income.md) trading can be found on the websites of prominent financial institutions and [bond](../b/bond.md) marketplaces such as Bloomberg and Moody's.

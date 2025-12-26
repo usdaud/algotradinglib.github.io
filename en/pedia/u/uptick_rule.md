@@ -17,7 +17,7 @@ To curb these potentially destructive trading practices, the SEC established Rul
 ### How the Uptick Rule Works
 
 1. **Price Limitation**: The [Uptick](../u/uptick.md) Rule requires that a [short sale](../s/short_sale.md) can be executed only if the [sale](../s/sale.md) price is higher than the last different price (the last non-equal price change).
-   
+
 2. **Zero-Plus [Tick](../t/tick.md)**: Alternatively, a zero-plus [tick](../t/tick.md) condition allows [short selling](../s/short_selling.md) if the price remains the same as the last different price but has increased compared to the last different price.
 
 3. **[Order](../o/order.md) Handling**: [Trading systems](../t/trading_systems.md) and algorithms need to incorporate mechanisms to [check](../c/check.md) the last traded price and compare it before executing a [short sale](../s/short_sale.md).
@@ -64,15 +64,15 @@ While the initial repeal of the [Uptick](../u/uptick.md) Rule was met with skept
 
 ### Trading Platforms
 
-- **[Nasdaq](../n/nasdaq.md)**: One of the major stock exchanges in the United States, well-versed in implementing and adapting [trading systems](../t/trading_systems.md) to comply with regulatory changes, including those related to [short selling](../s/short_selling.md). [Nasdaq](https://www.nasdaq.com/)
+- **[Nasdaq](../n/nasdaq.md)**: One of the major stock exchanges in the United States, well-versed in implementing and adapting [trading systems](../t/trading_systems.md) to comply with regulatory changes, including those related to [short selling](../s/short_selling.md). Nasdaq
 
-- **New York Stock [Exchange](../e/exchange.md) (NYSE)**: Another significant stock [exchange](../e/exchange.md) that has navigated the transition from the [Uptick](../u/uptick.md) Rule to the Alternative [Uptick](../u/uptick.md) Rule, ensuring compliance while maintaining [market efficiency](../m/market_efficiency.md). [NYSE](https://www.nyse.com/)
+- **New York Stock [Exchange](../e/exchange.md) (NYSE)**: Another significant stock [exchange](../e/exchange.md) that has navigated the transition from the [Uptick](../u/uptick.md) Rule to the Alternative [Uptick](../u/uptick.md) Rule, ensuring compliance while maintaining [market efficiency](../m/market_efficiency.md). NYSE
 
 ### Brokerage Firms
 
-- **[Charles Schwab](../c/charles_schwab.md)**: A prominent brokerage [firm](../f/firm.md) that has implemented necessary systems and procedures to comply with [short selling](../s/short_selling.md) regulations, providing retail and institutional traders with compliant trading platforms. [Charles Schwab](https://www.schwab.com/)
+- **[Charles Schwab](../c/charles_schwab.md)**: A prominent brokerage [firm](../f/firm.md) that has implemented necessary systems and procedures to comply with [short selling](../s/short_selling.md) regulations, providing retail and institutional traders with compliant trading platforms. Charles Schwab
 
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Another major brokerage [firm](../f/firm.md) [offering](../o/offering.md) trading services with built-in compliance measures for [short selling](../s/short_selling.md) rules, ensuring clients adhere to regulatory requirements. [Fidelity](https://www.fidelity.com/)
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Another major brokerage [firm](../f/firm.md) [offering](../o/offering.md) trading services with built-in compliance measures for [short selling](../s/short_selling.md) rules, ensuring clients adhere to regulatory requirements. Fidelity
 
 ## Conclusion
 

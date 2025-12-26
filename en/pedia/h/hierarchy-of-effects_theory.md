@@ -68,19 +68,19 @@ To address some of the criticisms, modern adaptations of the Hierarchy-of-Effect
 
 McKinsey & Company introduced the [Customer](../c/customer.md) Decision Journey to capture the non-linear nature of consumer decision-making in a digital age. This model recognizes the interplay of various touchpoints and emphasizes the importance of post-purchase experience and loyalty loops.
 
-**Reference**: [McKinsey & Company - Customer Decision Journey](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-consumer-decision-journey)
+**Reference**: McKinsey & Company - Customer Decision Journey
 
 ### Adaptive Customer Experience
 
 Companies like Adobe have focused on creating adaptive [customer](../c/customer.md) experience models where the touchpoints and consumer interactions are dynamically customized based on real-time [data analytics](../d/data_analytics.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
-**Reference**: [Adobe Experience Cloud](https://business.adobe.com/products/experience-cloud/adobe-experience-cloud.html)
+**Reference**: Adobe Experience Cloud
 
 ### Integrated Marketing Communications (IMC)
 
 IMC practices integrate traditional and [digital marketing](../d/digital_marketing.md) tactics to ensure a cohesive and consistent message across all stages of the Hierarchy-of-Effects. This approach considers the fragmented media landscape and changing consumer touchpoints.
 
-**Reference**: [American Marketing Association - IMC](https://www.ama.org/topics/integrated-marketing-communications/)
+**Reference**: American Marketing Association - IMC
 
 ## Conclusion
 

@@ -49,11 +49,11 @@ When implementing EOR techniques, several factors must be taken into account:
 
 Several companies specialize in providing EOR solutions and technologies:
 
-- **Schlumberger Limited**: As one of the world’s leading oilfield services companies, Schlumberger offers a wide [range](../r/range.md) of EOR technologies and services. [Schlumberger EOR Solutions](https://www.slb.com/well-production/enhanced-oil-recovery).
-- **Halliburton**: Another major player in the [industry](../i/industry.md), Halliburton provides various EOR services and technologies. [Halliburton Enhanced Oil Recovery](https://www.halliburton.com/en/products/enhanced-oil-recovery).
-- **Baker Hughes**: Baker Hughes offers EOR solutions aimed at improving reservoir performance and maximizing oil recovery. [Baker Hughes EOR](https://www.bakerhughes.com/recovery/enhanced-oil-recovery).
-- **Chevron [Corporation](../c/corporation.md)**: Chevron is involved in various EOR projects and innovations aimed at enhancing oil recovery. [Chevron EOR](https://www.chevron.com/projects/enhancing-oil-recovery).
-- **ExxonMobil**: Known for its extensive research and development in EOR technologies, ExxonMobil actively pursues various EOR projects. [ExxonMobil EOR](https://corporate.exxonmobil.com/energy-and-innovation/advanced-technologies/enhanced-oil-recovery).
+- **Schlumberger Limited**: As one of the world’s leading oilfield services companies, Schlumberger offers a wide [range](../r/range.md) of EOR technologies and services. Schlumberger EOR Solutions.
+- **Halliburton**: Another major player in the [industry](../i/industry.md), Halliburton provides various EOR services and technologies. Halliburton Enhanced Oil Recovery.
+- **Baker Hughes**: Baker Hughes offers EOR solutions aimed at improving reservoir performance and maximizing oil recovery. Baker Hughes EOR.
+- **Chevron [Corporation](../c/corporation.md)**: Chevron is involved in various EOR projects and innovations aimed at enhancing oil recovery. Chevron EOR.
+- **ExxonMobil**: Known for its extensive research and development in EOR technologies, ExxonMobil actively pursues various EOR projects. ExxonMobil EOR.
 
 ## Advanced EOR Research and Future Directions
 

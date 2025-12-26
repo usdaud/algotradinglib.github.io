@@ -92,16 +92,16 @@ In adverse conditions, banks might receive [capital](../c/capital.md) injections
 Prominent banks have employed various [capital](../c/capital.md)-raising strategies to meet their regulatory requirements and strategic goals.
 
 ### JPMorgan Chase
-JPMorgan Chase, one of the largest banks in the world, regularly issues both [equity](../e/equity.md) and [debt](../d/debt.md) instruments to manage its [capital](../c/capital.md) base. The [bank](../b/bank.md)'s [robust](../r/robust.md) [retained earnings](../r/retained_earnings.md) also play a significant role in maintaining its [capital](../c/capital.md) levels. [JPMorgan Chase](https://www.jpmorganchase.com/)
+JPMorgan Chase, one of the largest banks in the world, regularly issues both [equity](../e/equity.md) and [debt](../d/debt.md) instruments to manage its [capital](../c/capital.md) base. The [bank](../b/bank.md)'s [robust](../r/robust.md) [retained earnings](../r/retained_earnings.md) also play a significant role in maintaining its [capital](../c/capital.md) levels. JPMorgan Chase
 
 ### HSBC
-HSBC, a global banking giant, often resorts to [asset](../a/asset.md) sales to raise [capital](../c/capital.md). Extensive divestitures in non-core markets have allowed it to fortify its [capital](../c/capital.md) reserves while focusing on strategic markets. [HSBC](https://www.hsbc.com/)
+HSBC, a global banking giant, often resorts to [asset](../a/asset.md) sales to raise [capital](../c/capital.md). Extensive divestitures in non-core markets have allowed it to fortify its [capital](../c/capital.md) reserves while focusing on strategic markets. HSBC
 
 ### Deutsche Bank
-During [financial distress](../f/financial_distress.md), Deutsche [Bank](../b/bank.md) has raised [capital](../c/capital.md) by issuing new [shares](../s/shares.md) and converting hybrid instruments. Their approach has been pivotal in meeting [Basel III](../b/basel_iii.md) requirements. [Deutsche Bank](https://www.db.com/)
+During [financial distress](../f/financial_distress.md), Deutsche [Bank](../b/bank.md) has raised [capital](../c/capital.md) by issuing new [shares](../s/shares.md) and converting hybrid instruments. Their approach has been pivotal in meeting [Basel III](../b/basel_iii.md) requirements. Deutsche Bank
 
 ### Royal Bank of Scotland (RBS)
-Following the [financial crisis](../f/financial_crisis.md), RBS received substantial government bailouts, significantly stabilizing its [capital](../c/capital.md). The [bank](../b/bank.md) has since employed a mix of [equity](../e/equity.md) issuance and [asset](../a/asset.md) sales to enhance its [capital](../c/capital.md) position. [RBS](https://www.rbs.com/)
+Following the [financial crisis](../f/financial_crisis.md), RBS received substantial government bailouts, significantly stabilizing its [capital](../c/capital.md). The [bank](../b/bank.md) has since employed a mix of [equity](../e/equity.md) issuance and [asset](../a/asset.md) sales to enhance its [capital](../c/capital.md) position. RBS
 
 ## Conclusion
 [Bank](../b/bank.md) [capital](../c/capital.md) is a foundational element of banking stability and [financial system](../f/financial_system.md) integrity. Comprising various tiers, it serves as a buffer against losses, ensuring banks can weather [financial distress](../f/financial_distress.md). Regulatory frameworks, such as the [Basel Accords](../b/basel_accords.md), mandate stringent [capital](../c/capital.md) requirements to safeguard the [financial system](../f/financial_system.md). Maintaining adequate [capital](../c/capital.md) is challenging but critical, with banks employing diverse strategies to bolster their reserves. Prominent banks around the globe continuously refine their [capital](../c/capital.md) management practices to align with regulatory standards and strategic objectives, underscoring the importance of [robust](../r/robust.md) [bank](../b/bank.md) [capital](../c/capital.md) in sustaining economic stability.

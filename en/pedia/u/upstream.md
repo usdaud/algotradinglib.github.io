@@ -86,23 +86,23 @@ Each country has its own regulatory framework governing upstream activities. Thi
 
 ### ExxonMobil
 
-A global leader in upstream operations, ExxonMobil's activities span exploration, production, and development in [multiple](../m/multiple.md) regions. More info: [ExxonMobil](https://corporate.exxonmobil.com/)
+A global leader in upstream operations, ExxonMobil's activities span exploration, production, and development in [multiple](../m/multiple.md) regions. More info: ExxonMobil
 
 ### Royal Dutch Shell
 
-Shell is another major player with extensive upstream operations, including deepwater and unconventional resources. More info: [Shell](https://www.shell.com/)
+Shell is another major player with extensive upstream operations, including deepwater and unconventional resources. More info: Shell
 
 ### Chevron
 
-Chevron's upstream segment focuses on abundant and accessible resources, leveraging advanced technologies for exploration and production. More info: [Chevron](https://www.chevron.com/)
+Chevron's upstream segment focuses on abundant and accessible resources, leveraging advanced technologies for exploration and production. More info: Chevron
 
 ### BP
 
-BP operates a broad array of upstream projects, from traditional oil and gas to innovative EOR techniques. More info: [BP](https://www.bp.com/)
+BP operates a broad array of upstream projects, from traditional oil and gas to innovative EOR techniques. More info: BP
 
 ### Schlumberger
 
-While not an oil producer, Schlumberger is a leading provider of technology and services to the upstream sector. More info: [Schlumberger](https://www.slb.com/)
+While not an oil producer, Schlumberger is a leading provider of technology and services to the upstream sector. More info: Schlumberger
 
 ## Future Trends
 

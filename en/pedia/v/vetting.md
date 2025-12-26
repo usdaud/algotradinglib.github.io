@@ -1,8 +1,8 @@
 # Vetting in Trading and Finance
 
-Vetting is a crucial process in the trading and [finance](../f/finance.md) sectors, especially in [algorithmic trading](../a/accountability.md) (algo trading) and fintech, where [due diligence](../d/due_diligence.md) and [risk management](../r/risk_management.md) are of paramount importance. Vetting involves thoroughly examining an entity, whether it be a company, trading algorithm, [investment strategy](../i/investment_strategy.md), or individual, to ensure compliance with standards, regulations, and [best practices](../b/best_practices.md). Below, we explore the concept of vetting comprehensively, outlining its importance, methods, and specific applications in trading and [finance](../f/finance.md).
+Vetting is a crucial process in the trading and [finance](../f/finance.md) sectors, especially in [algorithmic trading](../a/algorithmic_trading.md) (algo trading) and fintech, where [due diligence](../d/due_diligence.md) and [risk management](../r/risk_management.md) are of paramount importance. Vetting involves thoroughly examining an entity, whether it be a company, trading algorithm, [investment strategy](../i/investment_strategy.md), or individual, to ensure compliance with standards, regulations, and [best practices](../b/best_practices.md). Below, we explore the concept of vetting comprehensively, outlining its importance, methods, and specific applications in trading and [finance](../f/finance.md).
 
-## The Importance of Vetting 
+## The Importance of Vetting
 
 In today's fast-paced [financial markets](../f/financial_market.md), vetting provides [multiple](../m/multiple.md) benefits, such as [risk](../r/risk.md) mitigation, compliance with regulations, and enhancement of [stakeholder](../s/stakeholder.md) [trust](../t/trust.md). Effective vetting processes help prevent [fraud](../f/fraud.md), financial loss, and reputational damage by ensuring that all operational aspects adhere to established norms and regulatory frameworks.
 
@@ -10,7 +10,7 @@ In today's fast-paced [financial markets](../f/financial_market.md), vetting pro
 
 Vetting is essential for identifying and managing potential risks before they materialize into significant issues. By scrutinizing [trading algorithms](../t/trading_algorithms.md), investment strategies, and counterparties, financial institutions can detect red flags, assess the reliability, and evaluate the [risk](../r/risk.md) profile.
 
-### Compliance 
+### Compliance
 
 The financial [industry](../i/industry.md) is heavily regulated, with stringent rules aimed at ensuring [market](../m/market.md) integrity and protecting consumers. Vetting ensures that entities comply with relevant laws and regulations, such as the Dodd-Frank Act, GDPR, and [MiFID II](../m/mifid_ii.md). It helps avoid legal penalties and maintain a good standing with regulatory bodies.
 
@@ -56,13 +56,13 @@ AML involves policies and procedures aimed at preventing the flow of illegal fun
 
 ## Applications in Algo Trading
 
-[Algorithmic trading](../a/accountability.md) relies on computer algorithms to execute trades at high speeds and frequencies, often without human intervention. Given its complexity and potential risks, vetting is particularly critical in this domain.
+[Algorithmic trading](../a/algorithmic_trading.md) relies on computer algorithms to execute trades at high speeds and frequencies, often without human intervention. Given its complexity and potential risks, vetting is particularly critical in this domain.
 
 ### Algorithm Design and Development
 
 - **Quality [Assurance](../a/assurance.md) (QA)**: Implementing QA processes to ensure that [trading algorithms](../t/trading_algorithms.md) operate as intended.
 - **Sourcing Reliable Data**: Vetting the sources and quality of data feeds used in algorithms.
-  
+
 ### Performance Evaluation
 
 - **Benchmarking**: Comparing algorithm performance against [industry](../i/industry.md) benchmarks to assess effectiveness.
@@ -81,11 +81,11 @@ Large trading firms, such as **Morgan Stanley** and **Goldman Sachs**, implement
 
 ### Fintech Companies
 
-Fintech companies, like **Stripe** (https://stripe.com) and **Square** (https://square.com), employ [robust](../r/robust.md) vetting procedures to secure their platforms and [payment](../p/payment.md) processing systems. This involves [fraud](../f/fraud.md) detection algorithms, KYC processes, and [transaction](../t/transaction.md) monitoring to protect against financial crimes.
+Fintech companies, like **Stripe** ( and **Square** ( employ [robust](../r/robust.md) vetting procedures to secure their platforms and [payment](../p/payment.md) processing systems. This involves [fraud](../f/fraud.md) detection algorithms, KYC processes, and [transaction](../t/transaction.md) monitoring to protect against financial crimes.
 
 ### Crypto Exchanges
 
-Crypto exchanges, such as **[Coinbase](../c/coinbase.md)** (https://www.[coinbase](../c/coinbase.md).com) and **[Binance](../b/binance.md)** (https://www.[binance](../b/binance.md).com), conduct extensive vetting processes to comply with AML regulations and ensure the [security](../s/security.md) of their digital [asset](../a/asset.md) transactions. This includes [blockchain](../b/blockchain_in_trading.md) analysis, user verification, and continuous [transaction](../t/transaction.md) monitoring for illicit activities.
+Crypto exchanges, such as **[Coinbase](../c/coinbase.md)** ( and **[Binance](../b/binance.md)** ( conduct extensive vetting processes to comply with AML regulations and ensure the [security](../s/security.md) of their digital [asset](../a/asset.md) transactions. This includes [blockchain](../b/blockchain_in_trading.md) analysis, user verification, and continuous [transaction](../t/transaction.md) monitoring for illicit activities.
 
 ## Tools and Software for Vetting in Trading and Finance
 
@@ -93,18 +93,18 @@ Numerous tools and software solutions are available to facilitate the vetting pr
 
 ### Identity Verification Tools
 
-- **Jumio** (https://www.jumio.com): Provides AI-powered identity verification solutions for KYC and AML compliance.
-- **Onfido** (https://www.onfido.com): Offers automated identity verification services using biometric and AI technologies.
+- **Jumio** Provides AI-powered identity verification solutions for KYC and AML compliance.
+- **Onfido** Offers automated identity verification services using biometric and AI technologies.
 
 ### Algorithmic Trading Tools
 
-- **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com): An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md), with features for code review and performance evaluation.
-- **Algorithmia** (https://algorithmia.com): A platform for deploying and managing [machine learning](../m/machine_learning.md) models, with built-in vetting capabilities for algorithm performance and [security](../s/security.md).
+- **[QuantConnect](../q/quantconnect.md)** ( An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md), with features for code review and performance evaluation.
+- **Algorithmia** ( A platform for deploying and managing [machine learning](../m/machine_learning.md) models, with built-in vetting capabilities for algorithm performance and [security](../s/security.md).
 
 ### AML and Compliance Solutions
 
-- **Thomson [Reuters](../r/reuters.md) World-[Check](../c/check.md)** (https://[risk](../r/risk.md).thomsonreuters.com/en/products/world-[check](../c/check.md)-kyc-screening.html): A global database for screening clients and transactions against sanction lists.
-- **Actimize** (https://www.niceactimize.com): Provides comprehensive AML solutions, including [transaction](../t/transaction.md) monitoring, client screening, and regulatory reporting.
+- **Thomson [Reuters](../r/reuters.md) World-[Check](../c/check.md)** ( A global database for screening clients and transactions against sanction lists.
+- **Actimize** ( Provides comprehensive AML solutions, including [transaction](../t/transaction.md) monitoring, client screening, and regulatory reporting.
 
 ## Challenges and Future Trends in Vetting
 

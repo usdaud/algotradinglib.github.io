@@ -85,4 +85,4 @@ As the ESG landscape evolves, [Morningstar](../m/morningstar.md) collaborates wi
 
 The [Morningstar](../m/morningstar.md) Sustainability [Rating](../r/rating.md) provides a valuable framework for evaluating the ESG performance of mutual funds and ETFs. By using this tool, investors can make more informed decisions that align with their sustainability values, manage risks associated with ESG factors, and contribute to the broader goal of fostering sustainable development in the investment landscape.
 
-For more detailed information on the [Morningstar](../m/morningstar.md) Sustainability [Rating](../r/rating.md), you can visit the official [Morningstar](../m/morningstar.md) page at [Morningstar Sustainability Rating](https://www.morningstar.com/lp/sustainability).
+For more detailed information on the [Morningstar](../m/morningstar.md) Sustainability [Rating](../r/rating.md), consult Morningstar materials on the Sustainability Rating.

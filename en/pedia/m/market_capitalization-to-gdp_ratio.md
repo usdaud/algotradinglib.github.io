@@ -64,5 +64,4 @@ The [Market Capitalization](../m/market_capitalization.md)-to-GDP ratio can vary
 
 The [Market Capitalization](../m/market_capitalization.md)-to-GDP Ratio serves as a valuable metric for understanding the relative size of a [stock market](../s/stock_market.md) in comparison to its [economy](../e/economy.md). Investors and analysts use it to gauge [market](../m/market.md) valuations and [economic conditions](../e/economic_conditions.md), while recognizing its limitations and the broader context of global markets. As markets evolve and new data become available, the ratio remains a relevant tool for assessing [financial health](../f/financial_health.md) and investment opportunities.
 
-For more detailed analysis and data, please visit [Gurufocus](https://www.gurufocus.com) or [MacroTrends](https://www.macrotrends.net).
-
+For more detailed analysis and data, please visit Gurufocus or MacroTrends.

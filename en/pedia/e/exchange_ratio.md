@@ -31,7 +31,7 @@ Before determining the [exchange](../e/exchange.md) ratio, accurate valuations o
 
 ### 2. Determine the Offer Price per Share
 
-Once the valuations are determined, the next step is to decide the [offer](../o/offer.md) price per share for the target company's stock. This often includes a [premium](../p/premium.md) to incentivize the target company's shareholders to approve the deal. 
+Once the valuations are determined, the next step is to decide the [offer](../o/offer.md) price per share for the target company's stock. This often includes a [premium](../p/premium.md) to incentivize the target company's shareholders to approve the deal.
 
 ### 3. Setting the Exchange Ratio
 

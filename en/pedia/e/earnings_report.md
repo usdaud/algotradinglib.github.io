@@ -83,31 +83,26 @@ Several financial technology companies specialize in providing tools, data, and 
 
 ### Bloomberg Terminal
 
-[Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) offers real-time data, financial news, and analytics tools that can be crucial for parsing and acting on [earnings](../e/earnings.md) reports.
 
 ### Thomson Reuters Eikon
 
-[Website](https://eikon.thomsonreuters.com/index.html)
 
 Another powerful tool for traders and analysts, Eikon provides access to comprehensive financial data and analytics that are often used in [algorithmic trading](../a/accountability.md).
 
 ### AlphaSense
 
-[Website](https://www.alpha-sense.com/)
 
 AlphaSense employs AI to scan, search, and analyze financial documents, including [earnings](../e/earnings.md) reports, enabling more informed trading decisions.
 
 ### QuantConnect
 
-[Website](https://www.quantconnect.com/)
 
 [QuantConnect](../q/quantconnect.md) offers a platform for algorithmic traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md), often utilizing financial data such as [earnings](../e/earnings.md) reports.
 
 ### Trade Ideas
 
-[Website](https://www.trade-ideas.com/)
 
 [Trade](../t/trade.md) Ideas offers powerful AI-powered tools for idea generation and strategy development in trading, utilizing [multiple](../m/multiple.md) data sources including [earnings](../e/earnings.md) reports.
 

@@ -6,7 +6,7 @@ Financial Independence, Retire Early (FIRE) is a [personal finance](../p/persona
 
 The principles of the FIRE movement can be traced back to the book "Your [Money](../m/money.md) or Your Life" by Joe Dominguez and Vicki Robin. Published in 1992, the book focuses on the relationship between time and [money](../m/money.md) and offers a transformative way to think about [wealth](../w/wealth.md), work, and life purpose. It laid the groundwork for many of the ideas embraced by the FIRE community.
 
-The FIRE concept gained more mainstream attention with the advent of the internet and [personal finance](../p/personal_finance_in_trading.md) blogs, where individuals began to share their stories, tips, and strategies for achieving financial independence. Blogs like Mr. [Money](../m/money.md) Mustache (https://www.mrmoneymustache.com/) and forums like Reddit’s Financial Independence subreddit (https://www.reddit.com/r/financialindependence/) have become key platforms for the movement.
+The FIRE concept gained more mainstream attention with the advent of the internet and [personal finance](../p/personal_finance_in_trading.md) blogs, where individuals began to share their stories, tips, and strategies for achieving financial independence. Blogs like Mr. [Money](../m/money.md) Mustache ( and forums like Reddit’s Financial Independence subreddit ( have become key platforms for the movement.
 
 ## Key Principles of FIRE
 
@@ -22,7 +22,7 @@ One of the most distinctive features of the FIRE movement is the emphasis on a h
 
 ### 3. Expense Tracking and Budgeting
 
-Closely monitoring spending is another fundamental aspect of FIRE. This involves tracking every expenditure to identify opportunities for cost-cutting and smarter spending. Several tools and apps, such as Mint (https://www.mint.com/) and Personal [Capital](../c/capital.md) (https://www.personalcapital.com/), are often recommended to help individuals keep a detailed account of their financial activities.
+Closely monitoring spending is another fundamental aspect of FIRE. This involves tracking every expenditure to identify opportunities for cost-cutting and smarter spending. Several tools and apps, such as Mint ( and Personal [Capital](../c/capital.md) ( are often recommended to help individuals keep a detailed account of their financial activities.
 
 ### 4. Multiple Streams of Income
 
@@ -113,4 +113,4 @@ Early retirement can also result in social isolation, as retirees may find thems
 
 The Financial Independence, Retire Early (FIRE) movement offers a compelling alternative to traditional [retirement planning](../r/retirement_planning.md), emphasizing the potential for early financial independence through disciplined saving, smart [investing](../i/investing.md), and strategic lifestyle choices. While achieving FIRE requires significant commitment and sacrifices, it provides a path towards autonomy, flexibility, and the opportunity to pursue one’s passions free from financial constraints. Despite its challenges and criticisms, FIRE continues to inspire individuals to rethink their financial goals and retirement aspirations, demonstrating that with the right strategies, early retirement is an achievable dream.
 
-For more insights and resources about the FIRE movement, you can visit prominent FIRE blogs such as Mr. [Money](../m/money.md) Mustache (https://www.mrmoneymustache.com/), ChooseFI (https://www.choosefi.com/), and The Mad Fientist (https://www.madfientist.com/).
+For more insights and resources about the FIRE movement, you can visit prominent FIRE blogs such as Mr. [Money](../m/money.md) Mustache ( ChooseFI ( and The Mad Fientist (

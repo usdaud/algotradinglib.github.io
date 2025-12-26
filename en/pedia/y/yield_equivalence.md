@@ -26,7 +26,7 @@ Where:
 - **Tax-Exempt [Yield](../y/yield.md)** is the [yield](../y/yield.md) offered by a tax-exempt [security](../s/security.md).
 - **[Tax Rate](../t/tax_rate.md)** is the [investor](../i/investor.md)'s [marginal tax rate](../m/marginal_tax_rate.md).
 
-### Example 
+### Example
 
 Suppose an [investor](../i/investor.md) is considering a [municipal bond](../m/municipal_bond.md) (which is tax-exempt) with a [yield](../y/yield.md) of 4%. The [investor](../i/investor.md)'s [marginal tax rate](../m/marginal_tax_rate.md) is 25%. The taxable equivalent [yield](../y/yield.md) can be calculated as follows:
 
@@ -53,7 +53,7 @@ Investors can also use [yield](../y/yield.md) equivalence to determine the best 
 
 ## Yield Equivalence in Algorithmic Trading
 
-[Yield](../y/yield.md) equivalence isn't limited to manual [investing](../i/investing.md) decisions. In the world of [algorithmic trading](../a/accountability.md), it holds substantial significance. Algorithms are used to identify the best investment opportunities by considering both pre-tax and after-tax yields of various securities. Sophisticated [trading algorithms](../t/trading_algorithms.md) [factor](../f/factor.md) in [yield](../y/yield.md) equivalence to optimize portfolio returns by dynamically selecting between taxable and tax-exempt bonds based on prevailing tax rates and [market](../m/market.md) conditions.
+[Yield](../y/yield.md) equivalence isn't limited to manual [investing](../i/investing.md) decisions. In the world of [algorithmic trading](../a/algorithmic_trading.md), it holds substantial significance. Algorithms are used to identify the best investment opportunities by considering both pre-tax and after-tax yields of various securities. Sophisticated [trading algorithms](../t/trading_algorithms.md) [factor](../f/factor.md) in [yield](../y/yield.md) equivalence to optimize portfolio returns by dynamically selecting between taxable and tax-exempt bonds based on prevailing tax rates and [market](../m/market.md) conditions.
 
 ### Yield Equivalence Algorithms
 
@@ -66,12 +66,7 @@ Financial technology companies and [hedge](../h/hedge.md) funds often build algo
 Several companies provide tools and platforms that specialize in [yield](../y/yield.md) equivalence analysis:
 
 1. **[Morningstar](../m/morningstar.md)**: Provides comprehensive tools and analysis for comparing taxable and tax-exempt bonds.
-   - Website: [Morningstar](https://www.morningstar.com)
 2. **[Charles Schwab](../c/charles_schwab.md)**: Offers advanced calculators and financial advisory services that include [yield](../y/yield.md) equivalence analysis.
-   - Website: [Charles Schwab](https://www.schwab.com)
 3. **BlackRock**: Utilizes sophisticated algorithms to manage portfolios that optimize for [yield](../y/yield.md) equivalence.
-   - Website: [BlackRock](https://www.blackrock.com)
-
 ## Conclusion
-
-[Yield](../y/yield.md) equivalence is a critical concept in [finance](../f/finance.md) and trading that allows investors to make informed decisions concerning taxable and tax-exempt securities. Understanding this concept helps in strategic [asset allocation](../a/asset_allocation.md), effective planning, and optimizing after-tax returns. With the advent of [algorithmic trading](../a/accountability.md), [yield](../y/yield.md) equivalence has become an integral component of sophisticated [trading strategies](../t/trading_strategies.md) designed to maximize [investor](../i/investor.md) returns in a tax-efficient manner.
+[Yield](../y/yield.md) equivalence is a critical concept in [finance](../f/finance.md) and trading that allows investors to make informed decisions concerning taxable and tax-exempt securities. Understanding this concept helps in strategic [asset allocation](../a/asset_allocation.md), effective planning, and optimizing after-tax returns. With the advent of [algorithmic trading](../a/algorithmic_trading.md), [yield](../y/yield.md) equivalence has become an integral component of sophisticated [trading strategies](../t/trading_strategies.md) designed to maximize [investor](../i/investor.md) returns in a tax-efficient manner.

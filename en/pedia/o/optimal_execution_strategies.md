@@ -83,19 +83,18 @@ HFT involves using sophisticated algorithms to execute trades at extremely high 
 ### Virtu Financial
 
 Virtu Financial is a leading provider of [market](../m/market.md)-making and [execution](../e/execution.md) services, known for its advanced [algorithmic trading](../a/algorithmic_trading.md) technologies. Their [execution](../e/execution.md) services focus on minimizing [market](../m/market.md) impact and [transaction costs](../t/transaction_costs.md).
-- [Virtu Financial](https://www.virtu.com/)
+- Virtu Financial
 
 ### Citadel Securities
 
 Citadel Securities is a prominent [market maker](../m/market_maker.md) and provider of [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. Their advanced algorithms and technology [infrastructure](../i/infrastructure.md) ensure high-quality [execution](../e/execution.md) of trades.
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Citadel Securities
 
 ### Two Sigma
 
 Two Sigma is an [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its data-driven approach and use of technology in trading. Their [execution](../e/execution.md) strategies [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) and AI to optimize [trade](../t/trade.md) performance.
-- [Two Sigma](https://www.twosigma.com/)
+- Two Sigma
 
 ## Conclusion
 
 Optimal [execution](../e/execution.md) strategies are essential for achieving the best possible outcomes in [algorithmic trading](../a/algorithmic_trading.md). By using sophisticated algorithms and technologies, traders can minimize [market](../m/market.md) impact, reduce [transaction costs](../t/transaction_costs.md), and optimize [trade](../t/trade.md) performance. As technology continues to evolve, the future of optimal [execution](../e/execution.md) promises further enhancements in [efficiency](../e/efficiency.md) and effectiveness.
-

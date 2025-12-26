@@ -42,9 +42,9 @@ The U.S. government provides substantial subsidies to its agricultural sector to
 Governments worldwide provide subsidies to the renewable [energy sector](../e/energy_sector.md) to combat climate change and reduce reliance on fossil fuels. These include tax incentives, feed-in tariffs, and grants for renewable energy projects. While these subsidies promote sustainable energy, concerns about [economic efficiency](../e/economic_efficiency.md) and long-term sustainability persist.
 
 #### 3. **Silicon Valley and Technology Innovation**
-Tax credits and direct funding for R&D have been crucial in supporting Silicon Valley’s growth and innovation. These subsidies have helped tech companies mitigate high [startup](../s/startup.md) costs and fostered the development of breakthrough technologies. 
+Tax credits and direct funding for R&D have been crucial in supporting Silicon Valley’s growth and innovation. These subsidies have helped tech companies mitigate high [startup](../s/startup.md) costs and fostered the development of breakthrough technologies.
 
-For instance, Alphabet Inc., the [parent company](../p/parent_company.md) of Google, has benefited from substantial R&D tax credits, contributing significantly to its ability to invest in innovative technologies (https://abc.xyz/).
+For instance, Alphabet Inc., the [parent company](../p/parent_company.md) of Google, has benefited from substantial R&D tax credits, contributing significantly to its ability to invest in innovative technologies (
 
 ### Conclusion
 

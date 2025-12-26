@@ -6,7 +6,7 @@
 
 ## Historical Context and Economic Cycles
 
-Historically, job markets have experienced cyclical fluctuations characterized by periods of [expansion](../e/expansion.md) and contraction. During economic recessions, [unemployment](../u/unemployment.md) rates typically rise as businesses cut back on production and services, leading to job losses. Conversely, economic recoveries see a resurgence in employment as [demand](../d/demand.md) for goods and services increases, prompting businesses to hire more workers. 
+Historically, job markets have experienced cyclical fluctuations characterized by periods of [expansion](../e/expansion.md) and contraction. During economic recessions, [unemployment](../u/unemployment.md) rates typically rise as businesses cut back on production and services, leading to job losses. Conversely, economic recoveries see a resurgence in employment as [demand](../d/demand.md) for goods and services increases, prompting businesses to hire more workers.
 
 ### The Great Depression
 

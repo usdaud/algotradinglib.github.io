@@ -76,19 +76,19 @@ ECN brokers typically cater to professional and institutional traders, which mea
 
 [Pepperstone](../p/pepperstone.md) is one of the renowned ECN brokers that provides traders with the ability to access deep [liquidity](../l/liquidity.md) and tight [spreads](../s/spreads.md). As an ECN [broker](../b/broker.md), [Pepperstone](../p/pepperstone.md) offers a [range](../r/range.md) of trading platforms, including MetaTrader 4 and [cTrader](../c/ctrader.md), tailored for both professional and retail traders. The company's advanced financial technology allows for quick [execution](../e/execution.md) and reliable performance.
 
-To learn more, visit: [Pepperstone](https://www.pepperstone.com)
+To learn more, visit: Pepperstone
 
 ### IC Markets
 
 IC Markets is another leading ECN [broker](../b/broker.md) known for providing high-speed trading services. Their platform aggregates [liquidity](../l/liquidity.md) from various sources to [offer](../o/offer.md) low [spreads](../s/spreads.md) and fast [execution](../e/execution.md). IC Markets is particularly popular among algorithmic traders due to its [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) and support for [automated trading systems](../a/automated_trading_systems.md).
 
-For more details, visit: [IC Markets](https://www.icmarkets.com)
+For more details, visit: IC Markets
 
 ### FXOpen
 
 FXOpen is an ECN [broker](../b/broker.md) that offers traders access to interbank [liquidity](../l/liquidity.md) and transparent trading conditions. The [broker](../b/broker.md) supports various trading platforms and offers competitive [commission](../c/commission.md) rates. FXOpen is well-regarded for its reliable network and commitment to technological innovation.
 
-For more information, visit: [FXOpen](https://www.fxopen.com)
+For more information, visit: FXOpen
 
 ## Conclusion
 

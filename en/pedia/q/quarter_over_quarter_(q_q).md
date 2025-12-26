@@ -58,7 +58,7 @@ Investors often use Q/Q [growth rates](../g/growth_rates_in_trading.md) to make 
 
 ## Applications in Algotrading
 
-Algotrading, or [algorithmic trading](../a/accountability.md), leverages [mathematical models](../m/mathematical_models_in_trading.md) and computer algorithms to execute trades at high speeds and with minimal human intervention. In this context, Q/Q [growth rates](../g/growth_rates_in_trading.md) can play a vital role in developing [trading strategies](../t/trading_strategies.md).
+Algotrading, or [algorithmic trading](../a/algorithmic_trading.md), leverages [mathematical models](../m/mathematical_models_in_trading.md) and computer algorithms to execute trades at high speeds and with minimal human intervention. In this context, Q/Q [growth rates](../g/growth_rates_in_trading.md) can play a vital role in developing [trading strategies](../t/trading_strategies.md).
 
 ### Signal Generation
 
@@ -106,18 +106,18 @@ Suppose Tesla reported the following [revenue](../r/revenue.md) for the recent q
 
 Calculating the Q/Q [growth rates](../g/growth_rates_in_trading.md):
 - Q2 over Q1:
-  $$
-  Q/Q Growth (\%) = \left( \frac{19.96-18.76}{18.76} \right) \times 100 = 6.39\%
-  $$
+ $$
+ Q/Q Growth (\%) = \left( \frac{19.96-18.76}{18.76} \right) \times 100 = 6.39\%
+ $$
 
 - Q3 over Q2:
-  $$
-  Q/Q Growth (\%) = \left( \frac{21.45-19.96}{19.96} \right) \times 100 = 7.46\%
-  $$
+ $$
+ Q/Q Growth (\%) = \left( \frac{21.45-19.96}{19.96} \right) \times 100 = 7.46\%
+ $$
 
 These [growth rates](../g/growth_rates_in_trading.md) indicate a positive upward [trend](../t/trend.md) in Tesla’s [revenue](../r/revenue.md), suggesting strong [financial health](../f/financial_health.md) and possibly influencing positive [investor](../i/investor.md) sentiment.
 
-For further details, you can explore Tesla's [investor relations](../i/investor_relations.md) page: [Tesla Investor Relations](https://ir.tesla.com/).
+./i/investor_relations.md) page.
 
 ## Limitations of Q/Q Analysis
 

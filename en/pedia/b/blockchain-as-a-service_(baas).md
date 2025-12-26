@@ -33,15 +33,15 @@ The adoption of [Blockchain](../b/blockchain_in_trading.md)-as-a-Service offers 
 
 Several prominent technology companies [offer](../o/offer.md) [Blockchain](../b/blockchain_in_trading.md)-as-a-Service solutions:
 
-- **IBM [Blockchain](../b/blockchain_in_trading.md) Platform**: [IBM Blockchain](https://www.ibm.com/blockchain/platform) offers a comprehensive platform that supports [Hyperledger Fabric](../h/hyperledger_fabric.md), empowering developers with tools and tutorials, and [offering](../o/offering.md) a secure environment to develop and govern [blockchain](../b/blockchain_in_trading.md) networks.
+- **IBM [Blockchain](../b/blockchain_in_trading.md) Platform**: IBM Blockchain offers a comprehensive platform that supports [Hyperledger Fabric](../h/hyperledger_fabric.md), empowering developers with tools and tutorials, and [offering](../o/offering.md) a secure environment to develop and govern [blockchain](../b/blockchain_in_trading.md) networks.
 
-- **Microsoft Azure [Blockchain](../b/blockchain_in_trading.md) Service**: [Microsoft Azure](https://azure.microsoft.com/en-us/services/blockchain/) provides a fully managed [blockchain](../b/blockchain_in_trading.md) service for building and deploying secure [blockchain](../b/blockchain_in_trading.md) networks at scale, supporting a [range](../r/range.md) of ledger technologies including [Ethereum](../e/ethereum_.md) and [Hyperledger Fabric](../h/hyperledger_fabric.md).
+- **Microsoft Azure [Blockchain](../b/blockchain_in_trading.md) Service**: Microsoft Azure provides a fully managed [blockchain](../b/blockchain_in_trading.md) service for building and deploying secure [blockchain](../b/blockchain_in_trading.md) networks at scale, supporting a [range](../r/range.md) of ledger technologies including [Ethereum](../e/ethereum_.md) and [Hyperledger Fabric](../h/hyperledger_fabric.md).
 
-- **Amazon Managed [Blockchain](../b/blockchain_in_trading.md)**: [Amazon AWS](https://aws.amazon.com/managed-blockchain/) allows users to create and manage scalable [blockchain](../b/blockchain_in_trading.md) networks using popular frameworks like [Hyperledger Fabric](../h/hyperledger_fabric.md) and [Ethereum](../e/ethereum_.md).
+- **Amazon Managed [Blockchain](../b/blockchain_in_trading.md)**: Amazon AWS allows users to create and manage scalable [blockchain](../b/blockchain_in_trading.md) networks using popular frameworks like [Hyperledger Fabric](../h/hyperledger_fabric.md) and [Ethereum](../e/ethereum_.md).
 
-- **Oracle [Blockchain](../b/blockchain_in_trading.md)**: [Oracle Blockchain](https://www.oracle.com/blockchain/) offers a platform optimized for developing and running [smart contracts](../s/smart_contracts_in_trading.md), along with integration capabilities for enterprise systems.
+- **Oracle [Blockchain](../b/blockchain_in_trading.md)**: Oracle Blockchain offers a platform optimized for developing and running [smart contracts](../s/smart_contracts_in_trading.md), along with integration capabilities for enterprise systems.
 
-- **Alibaba Cloud BaaS**: [Alibaba Cloud](https://www.alibabacloud.com/product/blockchain) provides a global distributed [infrastructure](../i/infrastructure.md) service aimed at helping customers build a secure and stable [blockchain](../b/blockchain_in_trading.md) environment.
+- **Alibaba Cloud BaaS**: Alibaba Cloud provides a global distributed [infrastructure](../i/infrastructure.md) service aimed at helping customers build a secure and stable [blockchain](../b/blockchain_in_trading.md) environment.
 
 ## Use Cases of BaaS
 

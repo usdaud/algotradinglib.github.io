@@ -1,6 +1,6 @@
 # Sell in May and Go Away
 
-"Sell in May and Go Away" is an adage that suggests investors should sell their stock [holdings](../h/holdings.md) in May and possibly [return](../r/return.md) to the [market](../m/market.md) in November. This strategy is rooted in the historical underperformance of the [stock market](../s/stock_market.md) during the six-month period from May to October compared to the six-month period from November to April. The strategy is often employed by traders and investors who follow seasonal trends in the [stock market](../s/stock_market.md). 
+"Sell in May and Go Away" is an adage that suggests investors should sell their stock [holdings](../h/holdings.md) in May and possibly [return](../r/return.md) to the [market](../m/market.md) in November. This strategy is rooted in the historical underperformance of the [stock market](../s/stock_market.md) during the six-month period from May to October compared to the six-month period from November to April. The strategy is often employed by traders and investors who follow seasonal trends in the [stock market](../s/stock_market.md).
 
 ## Historical Background
 
@@ -67,7 +67,7 @@ Frequent buying and selling can generate substantial [transaction costs](../t/tr
 
 ### Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), the "Sell in May and Go Away" adage can be integrated into [trading algorithms](../t/trading_algorithms.md) that [factor](../f/factor.md) in seasonal [market](../m/market.md) trends. [Quantitative models](../q/quantitative_models.md) can be developed to automate the selling and buying processes, reducing human biases and errors. These algorithms may also consider other variables like [market](../m/market.md) [volatility](../v/volatility.md), [liquidity](../l/liquidity.md), and macroeconomic indicators to enhance decision-making.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the "Sell in May and Go Away" adage can be integrated into [trading algorithms](../t/trading_algorithms.md) that [factor](../f/factor.md) in seasonal [market](../m/market.md) trends. [Quantitative models](../q/quantitative_models.md) can be developed to automate the selling and buying processes, reducing human biases and errors. These algorithms may also consider other variables like [market](../m/market.md) [volatility](../v/volatility.md), [liquidity](../l/liquidity.md), and macroeconomic indicators to enhance decision-making.
 
 ### Portfolio Management
 

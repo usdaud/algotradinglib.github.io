@@ -88,22 +88,18 @@ HFT employs sophisticated algorithms to execute a large number of orders at extr
 ### Renaissance Technologies
 
 Founded by James Simons, Renaissance Technologies is a legendary [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its Medallion [Fund](../f/fund.md), which relies heavily on statistical and [trend analysis](../t/trend_analysis.md) models to achieve unprecedented returns.
-[Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 
 Two Sigma leverages [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to identify patterns in [financial markets](../f/financial_market.md). Their approach includes extensive [trend analysis](../t/trend_analysis.md) to inform trading decisions.
-[Two Sigma](https://www.twosigma.com/)
 
 ### Citadel Securities
 
 A leading [market maker](../m/market_maker.md), Citadel Securities employs algorithmic strategies driven by comprehensive price [trend analysis](../t/trend_analysis.md) to improve [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md) in [financial markets](../f/financial_market.md).
-[Citadel Securities](https://www.citadelsecurities.com/)
 
 ### DE Shaw & Co.
 
 Founded by David E. Shaw, the [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) and [trend analysis](../t/trend_analysis.md) algorithms to independently manage varying aspects of [risk](../r/risk.md) and [return](../r/return.md) in its investment portfolios.
-[DE Shaw](https://www.deshaw.com/)
 
 ## Challenges in Price Trends Analysis
 

@@ -63,7 +63,7 @@ Several [software tools](../s/software_tools_for_trading.md) and platforms are a
 - **Python**: With libraries like Pandas, NumPy, and scikit-learn, Python is a versatile choice for implementing [machine learning](../m/machine_learning.md) models for [volatility forecasting](../v/volatility_forecasting.md).
 - **Eviews**: [Econometrics](../e/econometrics_in_trading.md) software commonly used in academic and professional settings for [time series analysis](../t/time_series_analysis.md).
 
-For practical applications and building [robust](../r/robust.md) models, integration with trading platforms and historical [market](../m/market.md) data is crucial. Companies like [Quandl](https://www.quandl.com) provide financial data APIs that can be used in conjunction with these tools.
+For practical applications and building [robust](../r/robust.md) models, integration with trading platforms and historical [market](../m/market.md) data is crucial. Companies like Quandl provide financial data APIs that can be used in conjunction with these tools.
 
 ## Real-World Applications
 
@@ -73,11 +73,11 @@ Financial institutions like banks and [hedge](../h/hedge.md) funds [leverage](..
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), strategies often incorporate [volatility](../v/volatility.md) forecasts to optimize [trade](../t/trade.md) [execution](../e/execution.md) and [market timing](../m/market_timing.md). Firms like [Two Sigma](https://www.twosigma.com) and [Renaissance Technologies](https://www.rentec.com) utilize sophisticated models to maintain their edge in the [market](../m/market.md).
+In [algorithmic trading](../a/algorithmic_trading.md), strategies often incorporate [volatility](../v/volatility.md) forecasts to optimize [trade](../t/trade.md) [execution](../e/execution.md) and [market timing](../m/market_timing.md). Firms like Two Sigma and Renaissance Technologies utilize sophisticated models to maintain their edge in the [market](../m/market.md).
 
 ### Derivatives Pricing
 
-[Market](../m/market.md) makers and traders in [derivatives](../d/derivatives.md) markets rely heavily on accurate [volatility](../v/volatility.md) estimates to price [options](../o/options.md) and other [derivative](../d/derivative.md) products. Software solutions from companies like [Bloomberg](https://www.bloomberg.com) and [Reuters](https://www.reuters.com) [offer](../o/offer.md) tools for continuous [volatility](../v/volatility.md) monitoring and [forecasting](../f/forecasting.md).
+[Market](../m/market.md) makers and traders in [derivatives](../d/derivatives.md) markets rely heavily on accurate [volatility](../v/volatility.md) estimates to price [options](../o/options.md) and other [derivative](../d/derivative.md) products. Software solutions from companies like Bloomberg and Reuters [offer](../o/offer.md) tools for continuous [volatility](../v/volatility.md) monitoring and [forecasting](../f/forecasting.md).
 
 ## Challenges and Future Directions
 

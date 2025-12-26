@@ -81,13 +81,13 @@ With technological advancements, eBOLs are gaining popularity. They [offer](../o
 ## Industry Solutions for Bill of Lading
 
 ### CargoDocs by essDOCS
-CargoDocs is a widely used solution for electronic documentation in shipping. It provides functionalities for creating, managing, and transferring eBOLs, significantly reducing paperwork and processing times. [essDOCS CargoDocs](https://www.essdocs.com)
+CargoDocs is a widely used solution for electronic documentation in shipping. It provides functionalities for creating, managing, and transferring eBOLs, significantly reducing paperwork and processing times. essDOCS CargoDocs
 
 ### Bolero
-Bolero offers a fully electronic [trade finance](../t/trade_finance.md) platform, including the issuance and management of eBOLs. It provides secure solutions for digital [trade](../t/trade.md) documentation, enhancing [efficiency](../e/efficiency.md) and [security](../s/security.md). [Bolero](https://www.bolero.net)
+Bolero offers a fully electronic [trade finance](../t/trade_finance.md) platform, including the issuance and management of eBOLs. It provides secure solutions for digital [trade](../t/trade.md) documentation, enhancing [efficiency](../e/efficiency.md) and [security](../s/security.md). Bolero
 
 ### TradeLens
-Developed by IBM and Maersk, TradeLens is a [blockchain](../b/blockchain_in_trading.md)-enabled platform for digitizing shipping documentation, including BOLs. It offers enhanced [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) for global [supply](../s/supply.md) chains. [TradeLens](https://www.tradelens.com)
+Developed by IBM and Maersk, TradeLens is a [blockchain](../b/blockchain_in_trading.md)-enabled platform for digitizing shipping documentation, including BOLs. It offers enhanced [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) for global [supply](../s/supply.md) chains. TradeLens
 
 ## Challenges and Considerations
 

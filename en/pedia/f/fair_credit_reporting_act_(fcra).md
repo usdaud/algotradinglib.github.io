@@ -83,10 +83,10 @@ Consumers can take several proactive measures to utilize their FCRA rights effec
 
 For those who wish to explore more about the FCRA and related resources, here are some useful links:
 
-- [Equifax](https://www.equifax.com/)
-- [Experian](https://www.experian.com/)
-- [TransUnion](https://www.transunion.com/)
-- [Federal Trade Commission - FCRA](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act)
-- [Consumer Financial Protection Bureau - FCRA](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/fair-credit-reporting-act/)
+- Equifax
+- Experian
+- TransUnion
+- Federal Trade Commission - FCRA
+- Consumer Financial Protection Bureau - FCRA
 
 The FCRA plays a critical role in the [consumer credit](../c/consumer_credit.md) ecosystem, aiming to create a balanced framework where consumer information is accurately reported and fairly used, protecting consumers from misinformation and misuse of their data.

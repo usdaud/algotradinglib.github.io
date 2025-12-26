@@ -46,10 +46,10 @@ Unexecuted orders can have various effects on [trading strategies](../t/trading_
 ### Case Studies and Examples
 
 **Citadel Securities:**
-Citadel Securities, a leading global [market maker](../m/market_maker.md), leverages advanced [algorithmic trading](../a/algorithmic_trading.md) strategies. They implement sophisticated techniques to manage unexecuted orders and improve [execution](../e/execution.md) quality. By combining vast datasets and real-time analytics, Citadel Securities minimizes the instances of unexecuted orders, thereby ensuring optimal trading outcomes. For more information, visit [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel Securities, a leading global [market maker](../m/market_maker.md), leverages advanced [algorithmic trading](../a/algorithmic_trading.md) strategies. They implement sophisticated techniques to manage unexecuted orders and improve [execution](../e/execution.md) quality. By combining vast datasets and real-time analytics, Citadel Securities minimizes the instances of unexecuted orders, thereby ensuring optimal trading outcomes. For more information, visit Citadel Securities.
 
 **Virtu Financial:**
-Virtu Financial is another prominent player in electronic [market](../m/market.md) making. They utilize proprietary technology to optimize [order](../o/order.md) [execution](../e/execution.md) by dynamically adjusting their [trading algorithms](../t/trading_algorithms.md). Virtu Financial’s technology constantly adapts to [market](../m/market.md) conditions to reduce the chances of unexecuted orders. For more information, visit [Virtu Financial](https://www.virtu.com/).
+Virtu Financial is another prominent player in electronic [market](../m/market.md) making. They utilize proprietary technology to optimize [order](../o/order.md) [execution](../e/execution.md) by dynamically adjusting their [trading algorithms](../t/trading_algorithms.md). Virtu Financial’s technology constantly adapts to [market](../m/market.md) conditions to reduce the chances of unexecuted orders. For more information, visit Virtu Financial.
 
 ### Conclusion
 

@@ -1,6 +1,6 @@
 # Board of Trustees
 
-A Board of Trustees is a governing body that oversees the activities of an organization, ensuring that it operates within established guidelines and in a manner that achieves its mission. Often found in non-[profit](../p/profit.md) organizations, educational institutions, and other entities, the Board of Trustees holds significant responsibilities ranging from fiduciary oversight to strategic direction and governance. In the context of [algorithmic trading](../a/accountability.md) (also known as "algo trading" or "automated trading"), the Board of Trustees would typically exist within larger financial institutions or organizations that deploy [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). This board sets policy, ensures compliance with regulatory requirements, and monitors [financial performance](../f/financial_performance.md) among other tasks. 
+A Board of Trustees is a governing body that oversees the activities of an organization, ensuring that it operates within established guidelines and in a manner that achieves its mission. Often found in non-[profit](../p/profit.md) organizations, educational institutions, and other entities, the Board of Trustees holds significant responsibilities ranging from fiduciary oversight to strategic direction and governance. In the context of [algorithmic trading](../a/accountability.md) (also known as "algo trading" or "automated trading"), the Board of Trustees would typically exist within larger financial institutions or organizations that deploy [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). This board sets policy, ensures compliance with regulatory requirements, and monitors [financial performance](../f/financial_performance.md) among other tasks.
 
 ## Structure and Composition
 
@@ -41,8 +41,7 @@ The roles and responsibilities of a Board of Trustees, especially in the context
 
 ## Case Study: Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a well-known [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that extensively utilizes [data science](../d/data_science_in_trading.md) and technology in its [trading strategies](../t/trading_strategies.md). The Board of Trustees at Two Sigma plays a crucial role in ensuring the [firm](../f/firm.md)'s ongoing success and adherence to its mission. Here's a closer look at how the board functions within the organization:
-
+Two Sigma is a well-known [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that extensively utilizes [data science](../d/data_science_in_trading.md) and technology in its [trading strategies](../t/trading_strategies.md). The Board of Trustees at Two Sigma plays a crucial role in ensuring the [firm](../f/firm.md)'s ongoing success and adherence to its mission. Here's a closer look at how the board functions within the organization
 ### Governance and Oversight
 
 The board at Two Sigma oversees a [range](../r/range.md) of activities to ensure the [firm](../f/firm.md) remains a leader in [quantitative trading](../q/quantitative_trading.md). This includes:
@@ -125,6 +124,5 @@ Encouraging trustees to learn from the experiences of other boards in similar fi
 
 The Board of Trustees plays a pivotal role in the governance and success of [algorithmic trading](../a/accountability.md) firms. By ensuring strategic alignment, [robust](../r/robust.md) oversight, and ethical conduct, the board helps steer the organization toward its goals while navigating the complex landscape of modern [financial markets](../f/financial_market.md). Through continual learning and adaptation, trustees can effectively address the challenges that arise, safeguarding the [firm](../f/firm.md)'s reputation and performance.
 
-For further information on similar structures, another example to consider is [Citadel Securities](https://www.citadelsecurities.com/), a company that also employs a board to oversee its high-frequency trading operations, ensuring adherence to both strategic goals and regulatory requirements. 
-
+For further information on similar structures, another example to consider is Citadel Securities, a company that also employs a board to oversee its high-frequency trading operations, ensuring adherence to both strategic goals and regulatory requirements.
 By fostering a culture of excellence and accountability, Boards of Trustees in algo trading firms not only contribute to the financial success of their organizations but also to the integrity and stability of the [financial markets](../f/financial_market.md) as a whole.

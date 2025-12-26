@@ -77,13 +77,13 @@ The foreign ownership in the Saudi [stock market](../s/stock_market.md) has been
 
 ## Links
 
-### Tadawul Official Website
-For more detailed information about the Saudi Stock [Exchange](../e/exchange.md) (Tadawul), visit the official website: [Tadawul](https://www.saudiexchange.sa/wps/portal/tadawul/home/)
+###
+For more detailed information about the Saudi Stock [Exchange](../e/exchange.md) (Tadawul),
 
 ### Capital Market Authority (CMA)
-For regulatory information, visit the CMA website: [CMA](https://cma.org.sa/en/Pages/home.aspx)
+For regulatory information,
 
 ### Saudi Vision 2030
-For more about the strategic framework guiding the [market](../m/market.md)'s future, see: [Vision 2030](https://www.vision2030.gov.sa/)
+For more about the strategic framework guiding the [market](../m/market.md)'s future, see: Vision 2030
 
 In conclusion, the Saudi Stock [Exchange](../e/exchange.md) (Tadawul) serves as a pivotal institution in the Kingdom's financial ecosystem and aims to support its long-term economic [diversification](../d/diversification.md) goals. Whether it's through the listing of world-leading companies or introducing new financial products, Tadawul is a central pillar in the ambitious Vision 2030 agenda.

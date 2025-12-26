@@ -56,15 +56,14 @@ Consider a high-frequency trading (HFT) algorithm that exploits minute pricing i
 
 Renaissance Technologies, a pioneer in the field of [quantitative trading](../q/quantitative_trading.md), focuses on statistical anomalies that often result in negatively skewed distributions. Through their sophisticated and [proprietary algorithms](../p/proprietary_algorithms.md), they successfully account for and manage the risks associated with negative [skewness](../s/skewness.md).
 
-For more details, visit [Renaissance Technologies](https://www.rentec.com/).
+For more details, visit Renaissance Technologies.
 
 #### Bridgewater Associates
 
 Bridgewater Associates employs a rigorous approach to understanding and mitigating tail risks, including those introduced by negative [skewness](../s/skewness.md) in [asset](../a/asset.md) returns. Through an emphasis on [diversification](../d/diversification.md) and hedging, they aim to create "all-weather" portfolios that can withstand extreme [market](../m/market.md) conditions.
 
-For more details, visit [Bridgewater Associates](https://www.bridgewater.com/).
+For more details, visit Bridgewater Associates.
 
 ### Conclusion
 
 Understanding negative [skewness](../s/skewness.md) is vital for creating [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. Negative [skewness](../s/skewness.md) poses unique challenges, primarily due to the higher [risk](../r/risk.md) of significant losses. Effective [risk management](../r/risk_management.md), [diversification](../d/diversification.md), hedging, and strategy calibration are essential to mitigate these risks. As the field of [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, incorporating advanced statistical measures like [skewness](../s/skewness.md) into algorithms [will](../w/will.md) be indispensable for achieving sustainable returns.
-

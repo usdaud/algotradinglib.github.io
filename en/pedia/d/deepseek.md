@@ -4,23 +4,23 @@
 
 ### Key Components
 
-1. **[Open](../o/open.md)-Source Philosophy:**  
-   DeepSeek makes its models available under permissive licenses (e.g., MIT), allowing global developers to use and improve upon their technology.
+1. **[Open](../o/open.md)-Source Philosophy:**
+ DeepSeek makes its models available under permissive licenses (e.g., MIT), allowing global developers to use and improve upon their technology.
 
-2. **Cost [Efficiency](../e/efficiency.md):**  
-   By employing innovative [optimization](../o/optimization.md) techniques and leveraging less expensive hardware, DeepSeek achieves training and inference costs significantly lower than those of Western counterparts.
+2. **Cost [Efficiency](../e/efficiency.md):**
+ By employing innovative [optimization](../o/optimization.md) techniques and leveraging less expensive hardware, DeepSeek achieves training and inference costs significantly lower than those of Western counterparts.
 
-3. **Adaptation Under Constraints:**  
-   Despite U.S. [export](../e/export.md) restrictions on advanced AI chips, DeepSeek uses available resources effectively to produce high-performance models.
+3. **Adaptation Under Constraints:**
+ Despite U.S. [export](../e/export.md) restrictions on advanced AI chips, DeepSeek uses available resources effectively to produce high-performance models.
 
 ### Applications
 
-- **Chatbots and Virtual Assistants:**  
-  Competing with products like ChatGPT by [offering](../o/offering.md) advanced conversational capabilities.
-- **Specialized Reasoning Tasks:**  
-  Excelling in mathematics, programming, and logical problem solving through dedicated models.
-- **[Business](../b/business.md) Integration:**  
-  [Offering](../o/offering.md) API access that enables companies to incorporate AI functionalities at drastically lower costs.
+- **Chatbots and Virtual Assistants:**
+ Competing with products like ChatGPT by [offering](../o/offering.md) advanced conversational capabilities.
+- **Specialized Reasoning Tasks:**
+ Excelling in mathematics, programming, and logical problem solving through dedicated models.
+- **[Business](../b/business.md) Integration:**
+ [Offering](../o/offering.md) API access that enables companies to incorporate AI functionalities at drastically lower costs.
 
 ### Advantages
 

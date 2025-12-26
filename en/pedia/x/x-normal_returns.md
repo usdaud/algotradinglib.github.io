@@ -88,12 +88,12 @@ Markets are constantly changing, and historical data may not always accurately p
 
 Several companies stand at the forefront of using sophisticated techniques, including X-Normal Returns, to enhance their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com): A cutting-edge quant [trading platform](../t/trading_platform.md) providing access to extensive historical data and cloud-based [backtesting](../b/backtesting.md).
-  
-- **Numerai** [Numerai](https://numer.ai): Uses [machine learning](../m/machine_learning.md) models to predict [financial markets](../f/financial_market.md), leveraging crowd-sourced data scientists' contributions.
-  
-- **Kensho Technologies** [Kensho](https://www.kensho.com): Specializes in insights derived from [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), supporting advanced [financial analysis](../f/financial_analysis.md).
-  
+- **[QuantConnect](../q/quantconnect.md)** QuantConnect: A cutting-edge quant [trading platform](../t/trading_platform.md) providing access to extensive historical data and cloud-based [backtesting](../b/backtesting.md).
+
+- **Numerai** Numerai: Uses [machine learning](../m/machine_learning.md) models to predict [financial markets](../f/financial_market.md), leveraging crowd-sourced data scientists' contributions.
+
+- **Kensho Technologies** Kensho: Specializes in insights derived from [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), supporting advanced [financial analysis](../f/financial_analysis.md).
+
 ### Conclusion
 
 X-Normal Returns are a powerful tool in the world of [algorithmic trading](../a/algorithmic_trading.md), providing nuanced insights into investment performance through normalization. By [accounting](../a/accounting.md) for benchmarks, expected returns, or external factors, X-Normal Returns [offer](../o/offer.md) a refined view of how investments perform, which is invaluable for performance measurement, [risk management](../r/risk_management.md), and strategy [optimization](../o/optimization.md). Understanding and effectively applying X-Normal Returns can potentially [offer](../o/offer.md) significant advantages in the competitive field of [algorithmic trading](../a/algorithmic_trading.md).

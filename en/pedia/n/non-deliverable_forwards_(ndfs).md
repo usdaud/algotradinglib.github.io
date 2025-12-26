@@ -1,6 +1,6 @@
 # Non-Deliverable Forwards (NDFs)
 
-Non-Deliverable Forwards (NDFs) are a type of financial [derivative](../d/derivative.md) used primarily in the [foreign exchange](../f/foreign_exchange.md) markets. They are a [forward contract](../f/forward_contract.md) where [counterparty](../c/counterparty.md) settlement is made in a [currency](../c/currency.md) different from the local [currency](../c/currency.md) of one of the two legs of the deal. NDFs are especially common in currencies that are not freely convertible or suffer from heavy governmental regulation, making them a popular tool in emerging markets. 
+Non-Deliverable Forwards (NDFs) are a type of financial [derivative](../d/derivative.md) used primarily in the [foreign exchange](../f/foreign_exchange.md) markets. They are a [forward contract](../f/forward_contract.md) where [counterparty](../c/counterparty.md) settlement is made in a [currency](../c/currency.md) different from the local [currency](../c/currency.md) of one of the two legs of the deal. NDFs are especially common in currencies that are not freely convertible or suffer from heavy governmental regulation, making them a popular tool in emerging markets.
 
 ## Key Characteristics of NDFs
 

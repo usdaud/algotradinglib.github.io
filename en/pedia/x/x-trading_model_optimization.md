@@ -147,7 +147,7 @@ plt.show()
 
 Once the X-Trading model is optimized, it needs to be deployed on a [trading platform](../t/trading_platform.md) for live trading. This involves:
 
-1. **Choosing a [Trading Platform](../t/trading_platform.md)**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [Alpaca](../a/alpaca.md) provide APIs for [algorithmic trading](../a/algorithmic_trading.md).
+1. **Choosing a [Trading Platform](../t/trading_platform.md)**: Platforms like MetaTrader, [StockSharp](../s/stocksharp.md), and [Alpaca](../a/alpaca.md) provide APIs for [algorithmic trading](../a/algorithmic_trading.md).
 2. **Connecting to Brokers**: Integrate with brokers [offering](../o/offering.md) API access for real-time data and [trade](../t/trade.md) [execution](../e/execution.md).
 3. **Monitoring and Maintenance**: Continuously monitor the algorithm's performance and make necessary adjustments based on changing [market](../m/market.md) conditions. Utilize logging and alert mechanisms to detect anomalies.
 
@@ -159,11 +159,11 @@ Renaissance Technologies, founded by Jim Simons, is one of the most successful [
 
 ### Two Sigma
 
-Two Sigma Investments employs [data science](../d/data_science_in_trading.md) and technology to drive their [trading strategies](../t/trading_strategies.md). Their approach involves utilizing [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md). Learn more about their innovative methods on their [official website](https://twosigma.com).
+Two Sigma Investments employs [data science](../d/data_science_in_trading.md) and technology to drive their [trading strategies](../t/trading_strategies.md). Their approach involves utilizing [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md).
 
 ### Citadel Securities
 
-Citadel Securities is a global [market](../m/market.md)-making [firm](../f/firm.md) that uses advanced algorithmic strategies. They focus on providing [liquidity](../l/liquidity.md) and efficient [market](../m/market.md) functioning through their optimized [trading models](../t/trading_models.md). More information can be found on their [website](https://www.citadelsecurities.com).
+Citadel Securities is a global [market](../m/market.md)-making [firm](../f/firm.md) that uses advanced algorithmic strategies. They focus on providing [liquidity](../l/liquidity.md) and efficient [market](../m/market.md) functioning through their optimized [trading models](../t/trading_models.md).
 
 ## Future Trends in Trading Model Optimization
 

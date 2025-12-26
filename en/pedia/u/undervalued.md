@@ -9,7 +9,7 @@ In the world of [finance](../f/finance.md) and investment, the term "undervalued
 Identifying undervalued assets is a critical aspect of [investment strategy](../i/investment_strategy.md) and [portfolio management](../p/par.md). The primary importance lies in:
 
 1. **Potential for Significant Returns**: [Investing](../i/investing.md) in undervalued assets provides the opportunity to benefit from price corrections. As the [market](../m/market.md) eventually recognizes the [asset](../a/asset.md)'s true [value](../v/value.md), its price is likely to rise, [offering](../o/offering.md) substantial returns to early investors.
-   
+
 2. **Minimized [Risk](../r/risk.md)**: Since an undervalued [asset](../a/asset.md) is priced below its [intrinsic value](../i/intrinsic_value.md), there is often a degree of financial cushioning. [Investing](../i/investing.md) in such assets can minimize the [risk](../r/risk.md) of loss because the [asset](../a/asset.md) may not fall much further from its already low price.
 
 3. **[Market Efficiency](../m/market_efficiency.md)**: The concept of undervalued assets is also a testimony to [market](../m/market.md) inefficiencies. Investors who can identify these inefficiencies and [capitalize](../c/capitalize.md) on them can [outperform](../o/outperform.md) the [market](../m/market.md).
@@ -23,11 +23,11 @@ Determining whether an [asset](../a/asset.md) is undervalued involves various me
 [Fundamental analysis](../f/fundamental_analysis.md) involves examining an [asset](../a/asset.md)'s [financial statements](../f/financial_statements.md), [market](../m/market.md) position, and overall [economic indicators](../e/economic_indicators.md). Key metrics used in this approach include:
 
 - **Price-to-[Earnings](../e/earnings.md) (P/E) Ratio**: A lower P/E ratio might indicate that the stock is undervalued compared to its [earnings](../e/earnings.md).
-  
+
 - **Price-to-Book (P/B) Ratio**: This ratio compares the [market value](../m/market_value.md) of a stock to its [book value](../b/book_value.md), giving an idea of whether the stock is undervalued.
-  
+
 - **[Dividend Yield](../d/dividend_yield.md)**: A high [dividend yield](../d/dividend_yield.md) relative to the stock's price might suggest the stock is undervalued.
-  
+
 - **Discounted [Cash Flow](../c/cash_flow.md) (DCF) Analysis**: This method involves estimating the [asset](../a/asset.md)'s future cash flows and [discounting](../d/discounting.md) them to [present value](../p/present_value.md) to determine its [intrinsic value](../i/intrinsic_value.md).
 
 ### Qualitative Analysis
@@ -45,7 +45,7 @@ Although not a direct method to find undervalued [stocks](../s/stock.md), [techn
 ## Examples of Undervalued Stocks and Market Opportunities
 
 - **Apple (AAPL)** during 2003-2004 was considered undervalued by many analysts despite its strong growth potential and innovative products.
-  
+
 - **Netflix (NFLX)** in its early stages when it transitioned from DVD rentals to streaming services was outraight misunderstood by many, making it undervalued.
 
 ## Potential Traps and Challenges
@@ -76,7 +76,7 @@ The recovery from the [dotcom bubble](../d/dotcom_bubble.md) burst saw many tech
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses computer algorithms to execute trades based on predefined criteria. These algorithms can be programmed to identify undervalued [stocks](../s/stock.md) by continuously scanning the [market](../m/market.md) for opportunities based on fundamental and [technical indicators](../t/technical_indicator.md).
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades based on predefined criteria. These algorithms can be programmed to identify undervalued [stocks](../s/stock.md) by continuously scanning the [market](../m/market.md) for opportunities based on fundamental and [technical indicators](../t/technical_indicator.md).
 
 ### Machine Learning
 
@@ -104,6 +104,6 @@ The concept of undervalued assets is a cornerstone of [investment strategy](../i
 
 ### Additional Resources
 
-- **[Morningstar](../m/morningstar.md)**: Provides independent investment research, including [stock analysis](../s/stock_analysis.md) and ratings. [Morningstar](https://www.morningstar.com)
-- **[Bloomberg](../b/bloomberg.md)**: Financial software, data, and media company [offering](../o/offering.md) comprehensive [market](../m/market.md) analysis tools. [Bloomberg](https://www.bloomberg.com)
-- **[Reuters](../r/reuters.md)**: Offers financial [market](../m/market.md) data and analysis through [Reuters](../r/reuters.md) Eikon platform. [Reuters](https://www.thomsonreuters.com)
+- **[Morningstar](../m/morningstar.md)**: Provides independent investment research, including [stock analysis](../s/stock_analysis.md) and ratings. Morningstar
+- **[Bloomberg](../b/bloomberg.md)**: Financial software, data, and media company [offering](../o/offering.md) comprehensive [market](../m/market.md) analysis tools. Bloomberg
+- **[Reuters](../r/reuters.md)**: Offers financial [market](../m/market.md) data and analysis through [Reuters](../r/reuters.md) Eikon platform. Reuters

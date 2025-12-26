@@ -32,22 +32,22 @@ In statistical terms, [correlation](../c/correlation.md) measures the degree to 
 #### Renaissance Technologies
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company known for its quantitative and algo-[trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has achieved approximately 66% yearly returns from 1988 through 2018, with returns largely uncorrelated to broader [market](../m/market.md) indices. Renaissance Technologies employs sophisticated algorithms and [machine learning](../m/machine_learning.md) techniques to [trade](../t/trade.md) globally across various [asset](../a/asset.md) classes.
 
-**Website:** [Renaissance Technologies](https://www.rentec.com/)
+**online platform:** Renaissance Technologies
 
 #### Two Sigma
 Two Sigma is another prominent player in the world of [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributive computing technologies to develop [trading strategies](../t/trading_strategies.md) that aim for uncorrelated returns. Two Sigma's diversified approach spans equities, [futures](../f/futures.md), [options](../o/options.md), and [fixed income](../f/fixed_income.md) instruments, among others.
 
-**Website:** [Two Sigma](https://www.twosigma.com/)
+**online platform:** Two Sigma
 
 #### Bridgewater Associates
 Founded by Ray Dalio, Bridgewater Associates is the world's largest [hedge fund](../h/hedge_fund.md). Its flagship [fund](../f/fund.md), Pure [Alpha](../a/alpha.md), focuses on achieving uncorrelated returns through macroeconomic trends. Bridgewater's team combines [quantitative analysis](../q/quantitative_analysis.md) with discretionary judgement to invest across a variety of [asset](../a/asset.md) classes, including equities, bonds, commodities, and currencies.
 
-**Website:** [Bridgewater Associates](https://www.bridgewater.com/)
+**online platform:** Bridgewater Associates
 
 #### AQR Capital Management
 AQR [Capital](../c/capital.md) Management uses quantitative and algorithmic strategies to manage a wide array of funds. Specializing in both traditional and [alternative investment](../a/alternative_investment.md) strategies, AQR aims to deliver uncorrelated returns by heavily [investing](../i/investing.md) in research and development. Their approaches often involve [risk parity](../r/risk_parity.md), [factor investing](../f/factor_investing.md), and [market](../m/market.md)-[neutral](../n/neutral.md) strategies.
 
-**Website:** [AQR Capital Management](https://www.aqr.com/)
+**online platform:** AQR Capital Management
 
 ### Conclusion
 Uncorrelated returns are a crucial element in sophisticated [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md). Traders and portfolio managers seek uncorrelated returns to manage [risk](../r/risk.md), improve [diversification](../d/diversification.md), and achieve superior [risk](../r/risk.md)-adjusted returns. Achieving uncorrelated returns involves a combination of advanced algorithmic strategies, meticulous [portfolio management](../p/portfolio_management.md) techniques, and comprehensive [quantitative analysis](../q/quantitative_analysis.md). Leading [hedge](../h/hedge.md) funds like Renaissance Technologies, Two Sigma, Bridgewater Associates, and AQR [Capital](../c/capital.md) Management exemplify the successful implementation of these approaches.

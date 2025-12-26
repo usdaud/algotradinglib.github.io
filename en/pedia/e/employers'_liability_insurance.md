@@ -40,19 +40,15 @@ The claims process typically involves the employee notifying the employer of the
 
 ### Hiscox
 Hiscox offers tailored employers' [liability insurance](../l/liability_insurance.md) policies that cater to businesses of various sizes. Their comprehensive coverage includes not only standard legal and compensation costs but also additional support services for managing claims efficiently.
-[Hiscox Website](https://www.hiscox.co.uk/)
 
 ### Allianz
 Allianz provides a broad [range](../r/range.md) of employer [liability](../l/liability.md) coverage [options](../o/options.md) with global reach, making it suitable for multinational corporations as well as local businesses. Their policies often come with [risk management](../r/risk_management.md) support to help businesses minimize [liability](../l/liability.md) risks.
-[Allianz Website](https://www.allianz.com/)
 
 ### Zurich Insurance Group
 Zurich offers small [business](../b/business.md) employers' [liability insurance](../l/liability_insurance.md) that is customizable to specific [industry](../i/industry.md) requirements. Their policies are designed to provide protection against a variety of workplace injuries and illnesses.
-[Zurich Insurance Website](https://www.zurich.com/)
 
 ### Aviva
 Aviva’s [Liability Insurance](../l/liability_insurance.md) covers employers against standard and some specialized risks. Their services include legal advice and [guidance](../g/guidance.md) on how to prevent workplace injuries.
-[Aviva Website](https://www.aviva.com/)
 
 ## Case Studies
 

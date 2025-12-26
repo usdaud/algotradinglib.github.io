@@ -58,15 +58,15 @@ Traditional banks and [credit](../c/credit.md) unions are common sources of unse
 ### Online Lenders
 The rise of fintech has seen numerous online lenders entering the [unsecured loan](../u/unsecured_loan.md) [market](../m/market.md). These platforms often provide faster application processes and quicker funding compared to traditional financial institutions. Examples of popular online lenders include:
 
-- [SoFi](https://www.sofi.com)
-- [LendingClub](https://www.lendingclub.com)
-- [Prosper](https://www.prosper.com)
-  
+- SoFi
+- LendingClub
+- Prosper
+
 ### Peer-to-Peer Lending
 Peer-to-peer (P2P) lending platforms connect borrowers directly with individual investors willing to [fund](../f/fund.md) their loans. P2P lending can [offer](../o/offer.md) more flexible terms and sometimes lower [interest](../i/interest.md) rates. Examples include:
 
-- [Upstart](https://www.upstart.com)
-- [Funding Circle](https://www.fundingcircle.com)
+- Upstart
+- Funding Circle
 
 ## Risks and Considerations for Borrowers
 

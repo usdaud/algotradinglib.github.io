@@ -75,23 +75,23 @@ Several renowned high street banks operate globally, [offering](../o/offering.md
 
 ### Barclays
 
-[Barclays](https://home.barclays) is a British multinational investment [bank](../b/bank.md) and financial services company headquartered in London. Barclays operates as two divisions, Barclays UK and Barclays International, providing a variety of services.
+Barclays is a British multinational investment [bank](../b/bank.md) and financial services company headquartered in London. Barclays operates as two divisions, Barclays UK and Barclays International, providing a variety of services.
 
 ### HSBC
 
-[HSBC](https://www.hsbc.com) (Hongkong and Shanghai Banking [Corporation](../c/corporation.md)) is one of the largest banking and financial services organizations in the world. Headquartered in London, it serves millions of customers worldwide.
- 
+HSBC (Hongkong and Shanghai Banking [Corporation](../c/corporation.md)) is one of the largest banking and financial services organizations in the world. Headquartered in London, it serves millions of customers worldwide.
+
 ### Lloyds Banking Group
 
-[Lloyds Banking Group](https://www.lloydsbankinggroup.com) is a leading UK-based financial services group providing a wide [range](../r/range.md) of banking and financial services.
+Lloyds Banking Group is a leading UK-based financial services group providing a wide [range](../r/range.md) of banking and financial services.
 
 ### JPMorgan Chase
 
-[JPMorgan Chase](https://www.jpmorganchase.com) is a leading global financial services [firm](../f/firm.md) and one of the largest banking institutions in the United States, with operations worldwide.
+JPMorgan Chase is a leading global financial services [firm](../f/firm.md) and one of the largest banking institutions in the United States, with operations worldwide.
 
 ### Bank of America
 
-[Bank of America](https://www.bankofamerica.com) is one of the world's largest financial institutions, serving individual consumers, small and middle-[market](../m/market.md) businesses, and large corporations.
+Bank of America is one of the world's largest financial institutions, serving individual consumers, small and middle-[market](../m/market.md) businesses, and large corporations.
 
 ## Challenges and Future Trends
 

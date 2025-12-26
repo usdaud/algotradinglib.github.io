@@ -1,6 +1,6 @@
 # Cum Dividend
 
-Cum [Dividend](../d/dividend.md), a Latin term meaning "with [dividend](../d/dividend.md)," is a status of a stock that indicates that buyers of the stock [will](../w/will.md) receive the next [dividend](../d/dividend.md) [payment](../p/payment.md). This terminology is critical in the field of [algorithmic trading](../a/accountability.md) as it affects stock prices, trading decisions, and [market](../m/market.md) analysis. In contrast, "[ex-dividend](../e/ex-dividend.md)" refers to buying [stocks](../s/stock.md) without the benefit of the upcoming [dividend](../d/dividend.md). Understanding these terms is crucial for traders and financial analysts. 
+Cum [Dividend](../d/dividend.md), a Latin term meaning "with [dividend](../d/dividend.md)," is a status of a stock that indicates that buyers of the stock [will](../w/will.md) receive the next [dividend](../d/dividend.md) [payment](../p/payment.md). This terminology is critical in the field of [algorithmic trading](../a/accountability.md) as it affects stock prices, trading decisions, and [market](../m/market.md) analysis. In contrast, "[ex-dividend](../e/ex-dividend.md)" refers to buying [stocks](../s/stock.md) without the benefit of the upcoming [dividend](../d/dividend.md). Understanding these terms is crucial for traders and financial analysts.
 
 ## Significance in Algorithmic Trading
 
@@ -20,7 +20,7 @@ One popular strategy that directly benefits from cum [dividend](../d/dividend.md
 
 ### Dividend Yield
 
-The [dividend yield](../d/dividend_yield.md) is a financial ratio that shows how much a company pays out in dividends each year relative to its stock price. [Algorithmic trading](../a/accountability.md) systems use this ratio to gauge the attractiveness of a stock, especially around the cum [dividend](../d/dividend.md) date, to predict stock price moves. 
+The [dividend yield](../d/dividend_yield.md) is a financial ratio that shows how much a company pays out in dividends each year relative to its stock price. [Algorithmic trading](../a/accountability.md) systems use this ratio to gauge the attractiveness of a stock, especially around the cum [dividend](../d/dividend.md) date, to predict stock price moves.
 
 ### Price Adjustment
 
@@ -30,11 +30,11 @@ On the [ex-dividend](../e/ex-dividend.md) date, the price of the stock generally
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/accountability.md) platform that offers various tools to model and backtest [trading strategies](../t/trading_strategies.md). It takes into account various factors, including cum [dividend](../d/dividend.md) dates, to help traders improve their performance. The platform provides historical data and advanced analytical tools to integrate [dividend](../d/dividend.md) considerations into [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/accountability.md) platform that offers various tools to model and backtest [trading strategies](../t/trading_strategies.md). It takes into account various factors, including cum [dividend](../d/dividend.md) dates, to help traders improve their performance. The platform provides historical data and advanced analytical tools to integrate [dividend](../d/dividend.md) considerations into [trading algorithms](../t/trading_algorithms.md). QuantConnect
 
 ### Trading Technologies
 
-Trading Technologies specializes in creating high-performance trading software. They [offer](../o/offer.md) real-time data and extensive analytics capabilities. Their software can be customized to incorporate [dividend](../d/dividend.md) dates and execute [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) the cum [dividend](../d/dividend.md) status. [Trading Technologies](https://www.tradingtechnologies.com/)
+Trading Technologies specializes in creating high-performance trading software. They [offer](../o/offer.md) real-time data and extensive analytics capabilities. Their software can be customized to incorporate [dividend](../d/dividend.md) dates and execute [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) the cum [dividend](../d/dividend.md) status. Trading Technologies
 
 ## Risks and Considerations
 
@@ -52,6 +52,6 @@ Frequent buying and selling to capture dividends can lead to high [transaction c
 
 ## Conclusion
 
-Understanding the concept of cum [dividend](../d/dividend.md) is crucial for anyone involved in [algorithmic trading](../a/accountability.md). By incorporating [dividend](../d/dividend.md) dates into [trading algorithms](../t/trading_algorithms.md), traders can predict price movements, develop profitable strategies, and optimize their portfolios. Platforms like [QuantConnect](../q/quantconnect.md) and Trading Technologies [offer](../o/offer.md) a [range](../r/range.md) of tools to model and backtest such strategies effectively. However, traders must be mindful of risks such as inconsistent [dividend](../d/dividend.md) policies, tax implications, and [transaction costs](../t/transaction_costs.md).
+Understanding the concept of cum [dividend](../d/dividend.md) is crucial for anyone involved in [algorithmic trading](../a/accountability.md). By incorporating [dividend](../d/dividend.md) dates into [trading algorithms](../t/trading_algorithms.md), traders can predict price movements, develop profitable strategies, and optimize their portfolios. Platforms like [StockSharp](../s/stocksharp.md) and Trading Technologies [offer](../o/offer.md) a [range](../r/range.md) of tools to model and backtest such strategies effectively. However, traders must be mindful of risks such as inconsistent [dividend](../d/dividend.md) policies, tax implications, and [transaction costs](../t/transaction_costs.md).
 
 Incorporating cum [dividend](../d/dividend.md) considerations can add a significant edge to [trading strategies](../t/trading_strategies.md), especially in an environment where every fraction of a percentage point counts. The predictable nature of stock price movements around [dividend](../d/dividend.md) dates provides excellent opportunities for [profit](../p/profit.md), making cum [dividend](../d/dividend.md) a key term in the lexicon of [algorithmic trading](../a/accountability.md).

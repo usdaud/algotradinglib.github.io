@@ -65,7 +65,7 @@ TBVPS is considered a more conservative measure compared to other [valuation](..
 
 ### Comparison Across Industries
 
-TBVPS can be especially insightful when comparing companies within the same [industry](../i/industry.md), where the proportion of tangible versus intangible assets may vary widely. For example, in [manufacturing](../m/manufacturing.md) industries, [tangible assets](../t/tangible_asset.md) like machinery and [inventory](../i/inventory.md) play a crucial role, making TBVPS highly useful. Conversely, technology companies usually have significant intangible assets, thus TBVPS might indicate a lower [valuation](../v/valuation.md) compared to BVPS. 
+TBVPS can be especially insightful when comparing companies within the same [industry](../i/industry.md), where the proportion of tangible versus intangible assets may vary widely. For example, in [manufacturing](../m/manufacturing.md) industries, [tangible assets](../t/tangible_asset.md) like machinery and [inventory](../i/inventory.md) play a crucial role, making TBVPS highly useful. Conversely, technology companies usually have significant intangible assets, thus TBVPS might indicate a lower [valuation](../v/valuation.md) compared to BVPS.
 
 ### Avoidance of Overstated Values
 
@@ -121,4 +121,4 @@ Banks and regulators focus on TBVPS for evaluating [financial health](../f/finan
 
 In summary, Tangible [Book Value](../b/book_value.md) Per Share (TBVPS) is a vital financial metric that strips down a company's [value](../v/value.md) to its bare tangible essentials. While it provides a rooted, conservative assessment, ensuring awareness and understanding of its limitations is key to making balanced investment decisions. From [risk](../r/risk.md) mitigation to serving as a trustworthy guardrail in acquisitions, TBVPS underpins various facets of [financial analysis](../f/financial_analysis.md), ensuring it remains a pertinent tool in the financial analyst’s arsenal. As always, leveraging TBVPS in concert with other metrics ensures a [robust](../r/robust.md), holistic approach to understanding a company’s [intrinsic value](../i/intrinsic_value.md).
 
-For more detailed insights into how TBVPS is applied in practical [finance](../f/finance.md), you can explore resources from leading financial institutions like [Goldman Sachs](https://www.goldmansachs.com/) or [Morgan Stanley](https://www.morganstanley.com/).
+For more detailed insights into how TBVPS is applied in practical [finance](../f/finance.md), you can explore resources from leading financial institutions like Goldman Sachs or Morgan Stanley.

@@ -32,13 +32,13 @@ Alternative investments, such as [private equity](../p/private_equity.md), [hedg
 ## Notable Institutions and Case Studies
 
 ### BlackRock
-BlackRock is one of the world's leading [investment management](../i/investment_management.md) firms, known for its expertise in managing institutional assets. The company leverages advanced technology and a comprehensive analytics platform known as Aladdin to manage [risk](../r/risk.md) and enhance investment performance. More information can be found on their [website](https://www.blackrock.com).
+BlackRock is one of the world's leading [investment management](../i/investment_management.md) firms, known for its expertise in managing institutional assets. The company leverages advanced technology and a comprehensive analytics platform known as Aladdin to manage [risk](../r/risk.md) and enhance investment performance.
 
 ### Vanguard
-Vanguard is renowned for its low-cost [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md) primarily employs [passive investment strategies](../p/passive_investment_strategies.md), focusing on providing diversified and cost-effective investment solutions for institutions and individual investors alike. More details are available on their [website](https://www.vanguard.com).
+Vanguard is renowned for its low-cost [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md) primarily employs [passive investment strategies](../p/passive_investment_strategies.md), focusing on providing diversified and cost-effective investment solutions for institutions and individual investors alike. More
 
 ### Norges Bank Investment Management (NBIM)
-NBIM manages the Norwegian Government Pension [Fund](../f/fund.md) Global, one of the world's largest sovereign [wealth](../w/wealth.md) funds. The [fund](../f/fund.md) employs a diverse [range](../r/range.md) of investment strategies, including equities, [fixed income](../f/fixed_income.md), and [real estate](../r/real_estate.md), with a strong emphasis on ESG principles. More information can be found on their [website](https://www.nbim.no).
+NBIM manages the Norwegian Government Pension [Fund](../f/fund.md) Global, one of the world's largest sovereign [wealth](../w/wealth.md) funds. The [fund](../f/fund.md) employs a diverse [range](../r/range.md) of investment strategies, including equities, [fixed income](../f/fixed_income.md), and [real estate](../r/real_estate.md), with a strong emphasis on ESG principles.
 
 ## Conclusion
 Institutional investment strategies are complex and multifaceted, involving a combination of [asset allocation](../a/asset_allocation.md), [risk management](../r/risk_management.md), [quantitative analysis](../q/quantitative_analysis.md), and long-term planning. The scale and influence of institutional investors require them to employ sophisticated techniques to achieve their financial goals while managing risks effectively. Through case studies and examples of prominent institutions, we can better understand the diverse approaches and methodologies used to navigate the complexities of the [financial markets](../f/financial_market.md).

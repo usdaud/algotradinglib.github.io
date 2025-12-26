@@ -30,51 +30,51 @@ Several sectors have seen significant transformations due to the sharing [econom
 
 #### Ride-Sharing
 
-Services like Uber and Lyft have redefined urban mobility. These platforms connect riders with drivers who use their private vehicles to [offer](../o/offer.md) transport services. This model has made it easier and often cheaper for people to get from one place to another. [Uber](https://www.uber.com/), [Lyft](https://www.lyft.com/)
+Services like Uber and Lyft have redefined urban mobility. These platforms connect riders with drivers who use their private vehicles to [offer](../o/offer.md) transport services. This model has made it easier and often cheaper for people to get from one place to another. Uber, Lyft
 
 #### Car Sharing
 
-Platforms like Zipcar and Turo facilitate car-sharing, allowing individuals to rent vehicles by the hour or day. This reduces the need for car ownership, especially in urban areas where parking and maintenance costs can be prohibitive. [Zipcar](https://www.zipcar.com/), [Turo](https://www.turo.com/)
+Platforms like Zipcar and Turo facilitate car-sharing, allowing individuals to rent vehicles by the hour or day. This reduces the need for car ownership, especially in urban areas where parking and maintenance costs can be prohibitive. Zipcar, Turo
 
 ### Accommodation
 
 #### Home Sharing
 
-Perhaps one of the most well-known examples of the sharing [economy](../e/economy.md), platforms like Airbnb enable individuals to rent out their homes or spare rooms to travelers. This provides a unique and often more affordable alternative to traditional hotels. [Airbnb](https://www.airbnb.com/)
+Perhaps one of the most well-known examples of the sharing [economy](../e/economy.md), platforms like Airbnb enable individuals to rent out their homes or spare rooms to travelers. This provides a unique and often more affordable alternative to traditional hotels. Airbnb
 
 #### Housing Sublets
 
-Platforms like HomeAway and Vrbo specialize in vacation rentals, [offering](../o/offering.md) entire homes for medium to long-term stays. This is particularly popular among families and larger groups who need more space than traditional accommodations can [offer](../o/offer.md). [HomeAway](https://www.homeaway.com/), [Vrbo](https://www.vrbo.com/)
+Platforms like HomeAway and Vrbo specialize in vacation rentals, [offering](../o/offering.md) entire homes for medium to long-term stays. This is particularly popular among families and larger groups who need more space than traditional accommodations can [offer](../o/offer.md). HomeAway, Vrbo
 
 ### Finance
 
 #### Peer-to-Peer Lending
 
-Platforms like LendingClub and Prosper allow individuals to lend [money](../m/money.md) directly to other individuals or small businesses, bypassing traditional banks. Investors can earn [interest](../i/interest.md) on their loans, while borrowers often benefit from lower [interest](../i/interest.md) rates. [LendingClub](https://www.lendingclub.com/), [Prosper](https://www.prosper.com/)
+Platforms like LendingClub and Prosper allow individuals to lend [money](../m/money.md) directly to other individuals or small businesses, bypassing traditional banks. Investors can earn [interest](../i/interest.md) on their loans, while borrowers often benefit from lower [interest](../i/interest.md) rates. LendingClub, Prosper
 
 #### Crowdfunding
 
-Websites like Kickstarter and Indiegogo enable creators to raise funds for their projects directly from backers. This model has democratized the funding process, making it easier for innovative ideas to receive financial backing. [Kickstarter](https://www.kickstarter.com/), [Indiegogo](https://www.indiegogo.com/)
+Websites like Kickstarter and Indiegogo enable creators to raise funds for their projects directly from backers. This model has democratized the funding process, making it easier for innovative ideas to receive financial backing. Kickstarter, Indiegogo
 
 ### Retail
 
 #### Online Marketplaces
 
-Platforms like eBay and Etsy allow individuals to buy and sell goods directly. This has opened up new avenues for small businesses and individual sellers to reach a global audience. [eBay](https://www.ebay.com/), [Etsy](https://www.etsy.com/)
+Platforms like eBay and Etsy allow individuals to buy and sell goods directly. This has opened up new avenues for small businesses and individual sellers to reach a global audience. eBay, Etsy
 
 #### Clothing Rental
 
-Services like Rent the Runway enable users to rent high-end fashion items for special occasions, reducing the need for one-time purchases and promoting sustainable fashion practices. [Rent the Runway](https://www.renttherunway.com/)
+Services like Rent the Runway enable users to rent high-end fashion items for special occasions, reducing the need for one-time purchases and promoting sustainable fashion practices. Rent the Runway
 
 ### Labor
 
 #### Gig Work
 
-Platforms like TaskRabbit and Fiverr connect freelancers with clients seeking specific services. Whether it's [home](../h/home.md) repairs, [digital marketing](../d/digital_marketing.md), or graphic design, these [gig economy](../g/gig_economy.md) platforms [offer](../o/offer.md) flexible work opportunities. [TaskRabbit](https://www.taskrabbit.com/), [Fiverr](https://www.fiverr.com/)
+Platforms like TaskRabbit and Fiverr connect freelancers with clients seeking specific services. Whether it's [home](../h/home.md) repairs, [digital marketing](../d/digital_marketing.md), or graphic design, these [gig economy](../g/gig_economy.md) platforms [offer](../o/offer.md) flexible work opportunities. TaskRabbit, Fiverr
 
 #### Professional Services
 
-Freelance job boards like Upwork and Freelancer allow professionals to [offer](../o/offer.md) specialized services like software development, consulting, and writing on a project [basis](../b/basis.md). [Upwork](https://www.upwork.com/), [Freelancer](https://www.freelancer.com/)
+Freelance job boards like Upwork and Freelancer allow professionals to [offer](../o/offer.md) specialized services like software development, consulting, and writing on a project [basis](../b/basis.md). Upwork, Freelancer
 
 ## Economic and Social Impact
 

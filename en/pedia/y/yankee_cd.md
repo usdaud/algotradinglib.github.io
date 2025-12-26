@@ -65,9 +65,9 @@ Foreign banks issuing Yankee CDs often include large multinational institutions 
 - **Deutsche [Bank](../b/bank.md)**: A German [bank](../b/bank.md) that uses Yankee CDs to diversify its funding sources and tap into U.S. [capital](../c/capital.md).
 
 For more detailed information on their financial products and operations, you can visit their official websites:
-- [HSBC](https://www.hsbc.com)
-- [Barclays](https://www.barclays.com)
-- [Deutsche Bank](https://www.db.com)
+- HSBC
+- Barclays
+- Deutsche Bank
 
 ## Investment Strategies
 

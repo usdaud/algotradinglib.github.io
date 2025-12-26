@@ -43,19 +43,19 @@ Reliable connectivity solutions ensure that [trading systems](../t/trading_syste
 ## Prominent X-Order Management Solutions and Providers
 
 ### 1. Bloomberg EMSX
-[Bloomberg Execution Management System (EMSX)](https://www.bloomberg.com/professional/solution/execution-management-system/) is a multi-[asset](../a/asset.md) [order management](../o/order_management_in_trading.md) and [execution](../e/execution.md) platform that integrates [Bloomberg](../b/bloomberg.md)’s [market](../m/market.md) data and analytics. It provides advanced functionalities for [order routing](../o/order_routing.md), [execution](../e/execution.md), and real-time performance monitoring.
+Bloomberg Execution Management System (EMSX) is a multi-[asset](../a/asset.md) [order management](../o/order_management_in_trading.md) and [execution](../e/execution.md) platform that integrates [Bloomberg](../b/bloomberg.md)’s [market](../m/market.md) data and analytics. It provides advanced functionalities for [order routing](../o/order_routing.md), [execution](../e/execution.md), and real-time performance monitoring.
 
 ### 2. FactSet OMS
-[FactSet Order Management System (OMS)](https://www.factset.com/products/oms) offers comprehensive tools for [order](../o/order.md) generation, [execution](../e/execution.md), and compliance. It integrates seamlessly with [FactSet](../f/factset.md)’s other analytics and data products, providing a unified platform for [asset](../a/asset.md) managers and [hedge](../h/hedge.md) funds.
+FactSet Order Management System (OMS) offers comprehensive tools for [order](../o/order.md) generation, [execution](../e/execution.md), and compliance. It integrates seamlessly with [FactSet](../f/factset.md)’s other analytics and data products, providing a unified platform for [asset](../a/asset.md) managers and [hedge](../h/hedge.md) funds.
 
 ### 3. FlexTrade
-[FlexTrade Systems](https://flextrade.com/) delivers customized trading solutions for equities, FX, [options](../o/options.md), [futures](../f/futures.md), and [fixed income](../f/fixed_income.md). Their FlexTRADER EMS is renowned for its advanced multi-[asset](../a/asset.md) capabilities, [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md), and real-time analytics.
+FlexTrade Systems delivers customized trading solutions for equities, FX, [options](../o/options.md), [futures](../f/futures.md), and [fixed income](../f/fixed_income.md). Their FlexTRADER EMS is renowned for its advanced multi-[asset](../a/asset.md) capabilities, [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md), and real-time analytics.
 
 ### 4. Charles River Development
-[Charles River Development](https://www.crd.com/) offers a comprehensive [Investment Management](../i/investment_management.md) Solution (IMS) that covers the entire investment lifecycle, including [order management](../o/order_management_in_trading.md), [execution](../e/execution.md), compliance, and performance measurement. Their system is widely used by [asset](../a/asset.md) managers, [hedge](../h/hedge.md) funds, and pension funds.
+Charles River Development offers a comprehensive [Investment Management](../i/investment_management.md) Solution (IMS) that covers the entire investment lifecycle, including [order management](../o/order_management_in_trading.md), [execution](../e/execution.md), compliance, and performance measurement. Their system is widely used by [asset](../a/asset.md) managers, [hedge](../h/hedge.md) funds, and pension funds.
 
 ### 5. Tradeweb
-[Tradeweb](https://www.tradeweb.com/) provides a [range](../r/range.md) of electronic trading platforms for [fixed income](../f/fixed_income.md), [derivatives](../d/derivatives.md), and ETFs. Their OMS offers advanced [order](../o/order.md) and [execution](../e/execution.md) management tools, ensuring access to deep [liquidity](../l/liquidity.md) and high-speed [execution](../e/execution.md).
+Tradeweb provides a [range](../r/range.md) of electronic trading platforms for [fixed income](../f/fixed_income.md), [derivatives](../d/derivatives.md), and ETFs. Their OMS offers advanced [order](../o/order.md) and [execution](../e/execution.md) management tools, ensuring access to deep [liquidity](../l/liquidity.md) and high-speed [execution](../e/execution.md).
 
 ## Challenges and Considerations in X-Order Management
 

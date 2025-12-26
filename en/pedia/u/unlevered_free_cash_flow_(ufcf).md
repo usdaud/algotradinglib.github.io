@@ -13,22 +13,22 @@ To calculate UFCF, one must start with [Operating Income](../o/operating_income.
 ### Step-by-Step Breakdown
 
 1. **[Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md) (EBIT):** This is the starting point, representing a company’s [profit](../p/profit.md) from its core operations excluding [interest](../i/interest.md) payments and [income tax](../i/income_tax.md) expenses.
-   
-2. **[Tax Rate](../t/tax_rate.md):** Represents the [effective tax rate](../e/effective_tax_rate.md) that the company pays on its [income](../i/income.md). The formula incorporates the tax effect to convert EBIT to an after-tax amount. 
 
-   \[ \text{EBIT (1 - [Tax Rate](../t/tax_rate.md))} \]
+2. **[Tax Rate](../t/tax_rate.md):** Represents the [effective tax rate](../e/effective_tax_rate.md) that the company pays on its [income](../i/income.md). The formula incorporates the tax effect to convert EBIT to an after-tax amount.
+
+ \[ \text{EBIT (1 - [Tax Rate](../t/tax_rate.md))} \]
 
 3. **Non-Cash Charges ([Depreciation](../d/depreciation.md) and Amortization):** These are added back because they are [accounting](../a/accounting.md) expenses not involving actual cash outflow.
-   
-   \[ \text{[Depreciation](../d/depreciation.md) + Amortization} \]
+
+ \[ \text{[Depreciation](../d/depreciation.md) + Amortization} \]
 
 4. **Change in Working [Capital](../c/capital.md):** This pertains to the [net change](../n/net_change.md) in [current assets](../c/current_assets.md) and [current liabilities](../c/current_liabilities.md), representing the short-term [liquidity](../l/liquidity.md) adjustments the company makes to [fund](../f/fund.md) its day-to-day operations.
-   
-   \[ \text{Change in Working Capital (Current Assets - [Current Liabilities](../c/current_liabilities.md))} \]
+
+ \[ \text{Change in Working Capital (Current Assets - [Current Liabilities](../c/current_liabilities.md))} \]
 
 5. **[Capital](../c/capital.md) Expenditures (CapEx):** These are funds used by a company to acquire or [upgrade](../u/upgrade.md) physical assets such as property, industrial buildings, or equipment.
 
-   \[ \text{[Capital](../c/capital.md) Expenditures (CapEx)} \]
+ \[ \text{[Capital](../c/capital.md) Expenditures (CapEx)} \]
 
 Once all these components are accurately computed and combined, the result is the UFCF, which indicates the amount of cash generated from [business](../b/business.md) operations that is available after making necessary investments in working [capital](../c/capital.md) and [capital](../c/capital.md) expenditures but before [debt](../d/debt.md) servicing.
 
@@ -68,14 +68,14 @@ To illustrate the concept of Unlevered Free [Cash Flow](../c/cash_flow.md), let'
 - [Capital](../c/capital.md) Expenditures: $70,000
 
 ### Calculation:
-1. EBIT (1 - [Tax Rate](../t/tax_rate.md)): 
-   \[ 500,000 \times (1 - 0.30) = 500,000 \times 0.70 = 350,000 \]
+1. EBIT (1 - [Tax Rate](../t/tax_rate.md)):
+ \[ 500,000 \times (1 - 0.30) = 500,000 \times 0.70 = 350,000 \]
 
-2. Add Non-Cash Charges ([Depreciation](../d/depreciation.md) + Amortization): 
-   \[ 350,000 + 50,000 + 20,000 = 420,000 \]
+2. Add Non-Cash Charges ([Depreciation](../d/depreciation.md) + Amortization):
+ \[ 350,000 + 50,000 + 20,000 = 420,000 \]
 
-3. Subtract Change in Working [Capital](../c/capital.md) and CapEx: 
-   \[ 420,000 - 10,000 - 70,000 = 340,000 \]
+3. Subtract Change in Working [Capital](../c/capital.md) and CapEx:
+ \[ 420,000 - 10,000 - 70,000 = 340,000 \]
 
 ### Result:
 \[
@@ -99,7 +99,7 @@ Excel remains a quintessential tool for [financial analysis](../f/financial_anal
 ### PitchBook
 [PitchBook](../p/pitchbook.md) tracks [private equity](../p/private_equity.md), [venture capital](../v/venture_capital.md), and M&A transactions, providing insight and data that can supplement UFCF analyses for private and public companies.
 
-### [Tyme Bank](https://www.tymebank.com/)
+### Tyme Bank
 A Fintech company that could [leverage](../l/leverage.md) UFCF in [financial planning](../f/financial_planning.md) and [investment analysis](../i/investment_analysis.md).
 
 ## Conclusion

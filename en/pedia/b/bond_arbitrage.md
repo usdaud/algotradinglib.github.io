@@ -96,7 +96,7 @@ Major [investment banks](../i/investment_bank_(ib).md) are significant players i
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds are known for employing diverse [trading strategies](../t/trading_strategies.md), including [bond](../b/bond.md) [arbitrage](../a/arbitrage.md), to generate high returns. Firms such as [Bridgewater Associates](https://www.bridgewater.com/) and [Renaissance Technologies](https://www.rentec.com/) are renowned for their [arbitrage](../a/arbitrage.md) strategies.
+[Hedge](../h/hedge.md) funds are known for employing diverse [trading strategies](../t/trading_strategies.md), including [bond](../b/bond.md) [arbitrage](../a/arbitrage.md), to generate high returns. Firms such as Bridgewater Associates and Renaissance Technologies are renowned for their [arbitrage](../a/arbitrage.md) strategies.
 
 ### Proprietary Trading Firms
 

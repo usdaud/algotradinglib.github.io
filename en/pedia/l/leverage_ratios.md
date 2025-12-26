@@ -69,9 +69,9 @@ Traders use [leverage](../l/leverage.md) ratios as [performance metrics](../p/pe
 
 Several prominent financial institutions and trading firms [leverage](../l/leverage.md) these ratios in their [algorithmic trading](../a/algorithmic_trading.md) operations, including:
 
-- **Jane Street**: One of the leading [proprietary trading](../p/proprietary_trading.md) firms, Jane Street makes extensive use of [leverage](../l/leverage.md) ratios to inform their high-frequency trading and [market](../m/market.md)-making strategies. [Jane Street](https://www.janestreet.com/)
-- **Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) employs [leverage](../l/leverage.md) ratios within its [algorithmic trading](../a/algorithmic_trading.md) models to balance [risk](../r/risk.md) and [return](../r/return.md). [Two Sigma](https://www.twosigma.com/)
-- **Citadel Securities**: A major player in [market](../m/market.md)-making and [algorithmic trading](../a/algorithmic_trading.md), Citadel Securities integrates [leverage analysis](../l/leverage_analysis.md) to optimize its [trading strategies](../t/trading_strategies.md). [Citadel Securities](https://www.citadelsecurities.com/)
+- **Jane Street**: One of the leading [proprietary trading](../p/proprietary_trading.md) firms, Jane Street makes extensive use of [leverage](../l/leverage.md) ratios to inform their high-frequency trading and [market](../m/market.md)-making strategies. Jane Street
+- **Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) employs [leverage](../l/leverage.md) ratios within its [algorithmic trading](../a/algorithmic_trading.md) models to balance [risk](../r/risk.md) and [return](../r/return.md). Two Sigma
+- **Citadel Securities**: A major player in [market](../m/market.md)-making and [algorithmic trading](../a/algorithmic_trading.md), Citadel Securities integrates [leverage analysis](../l/leverage_analysis.md) to optimize its [trading strategies](../t/trading_strategies.md). Citadel Securities
 
 ### Conclusion
 

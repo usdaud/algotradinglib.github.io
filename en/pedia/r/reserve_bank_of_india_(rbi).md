@@ -44,7 +44,7 @@ Besides the central office located in Mumbai, the RBI has several regional offic
 The primary objective of RBI's [monetary policy](../m/monetary_policy.md) is to maintain price stability while ensuring adequate flow of [credit](../c/credit.md) to productive sectors. Post 2016, the RBI adopted an [inflation](../i/inflation.md) targeting framework, establishing an [inflation](../i/inflation.md) target of 4% with a [variability](../v/variability.md) band of +/- 2%.
 
 ### Tools
-- **Repo Rate:** The rate at which the RBI lends short-term funds to commercial banks. 
+- **Repo Rate:** The rate at which the RBI lends short-term funds to commercial banks.
 - **Reverse Repo Rate:** The rate at which the RBI borrows [money](../m/money.md) from commercial banks.
 - **Cash [Reserve Ratio](../r/reserve_ratio.md) (CRR):** The percentage of a [bank](../b/bank.md)'s total deposits that must be held in reserve.
 - **Statutory [Liquidity Ratio](../l/liquidity_ratio.md) (SLR):** A percentage of net [demand](../d/demand.md) and time liabilities that banks must maintain as [liquid](../l/liquid.md) assets.
@@ -91,4 +91,3 @@ The RBI also undertakes and supports significant economic research and dissemina
 
 The Reserve [Bank](../b/bank.md) of India, through its broad array of functions, plays a crucial role in the country’s economic stability and growth. By effectively regulating the [financial system](../f/financial_system.md), implementing [monetary policy](../m/monetary_policy.md), issuing [currency](../c/currency.md), and managing [foreign exchange](../f/foreign_exchange.md), the RBI ensures that India's financial [infrastructure](../i/infrastructure.md) remains [robust](../r/robust.md) and conducive to sustainable economic development.
 
-For more information, you can visit the [Reserve Bank of India’s official website](https://www.rbi.org.in/).

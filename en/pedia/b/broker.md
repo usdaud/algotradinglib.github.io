@@ -10,25 +10,25 @@ Brokers can be classified based on the services they provide:
 
 These brokers [offer](../o/offer.md) a wide [range](../r/range.md) of services, including financial consultation, [retirement planning](../r/retirement_planning.md), tax advice, and research. Clients generally pay a [premium](../p/premium.md) for these services. Examples include:
 
-- **[Merrill Lynch](../m/merrill_lynch.md)**: [Merrill Lynch](https://www.ml.com)
-- **Morgan Stanley**: [Morgan Stanley](https://www.morganstanley.com)
-- **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
+- **[Merrill Lynch](../m/merrill_lynch.md)**: Merrill Lynch
+- **Morgan Stanley**: Morgan Stanley
+- **Goldman Sachs**: Goldman Sachs
 
 ### Discount Brokers
 
 [Discount](../d/discount.md) brokers provide only the basic services without much advisory services. They usually charge lower fees than full-service brokers. Examples include:
 
-- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
-- **[Fidelity Investments](../f/fidelity_investments.md)**: [Fidelity Investments](https://www.fidelity.com)
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com)
+- **[Charles Schwab](../c/charles_schwab.md)**: Charles Schwab
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity Investments
+- **Charles Schwab** (includes former TD Ameritrade following September 2023 acquisition): Charles Schwab
 
 ### Online Brokers
 
 These brokers operate exclusively over the internet and [offer](../o/offer.md) an online platform for clients to [trade](../t/trade.md) independently. Their services are similar to [discount](../d/discount.md) brokers, but they often include more tools and resources for self-directed investors. Examples include:
 
-- **[Robinhood](../r/robinhood.md)**: [Robinhood](https://www.robinhood.com)
-- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://us.etrade.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
+- **[Robinhood](../r/robinhood.md)**: Robinhood
+- **[E*TRADE](../e/e_trade.md)**: E*TRADE
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
 
 ## Regulatory Aspects
 
@@ -47,9 +47,9 @@ Brokers are subject to various regulations depending on the jurisdiction in whic
 
 Many brokers provide Application Programming Interfaces (APIs) that allow traders to connect their algorithms directly to the broker’s [trading platform](../t/trading_platform.md). Through these APIs, algorithms can send [trade](../t/trade.md) orders directly to the [market](../m/market.md). Examples include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md) API**: [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
-- **TD [Ameritrade](../a/ameritrade.md) API**: [TD Ameritrade API](https://developer.tdameritrade.com/apis)
-- **[Alpaca](../a/alpaca.md) API**: [Alpaca API](https://alpaca.markets/docs/api-documentation/)
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: Interactive Brokers API
+- **Charles Schwab API** (includes former TD Ameritrade API following September 2023 acquisition): Charles Schwab for Developers
+- **[Alpaca](../a/alpaca.md) API**: Alpaca API
 
 ### Execution Algorithms
 
@@ -77,7 +77,7 @@ Brokers charge fees and commissions for their services, which can significantly 
 
 ### Commission Fees
 
-A [fee](../f/fee.md) per [trade](../t/trade.md) [transaction](../t/transaction.md), either as a flat [fee](../f/fee.md) or a percentage of the [trade](../t/trade.md)’s [value](../v/value.md). 
+A [fee](../f/fee.md) per [trade](../t/trade.md) [transaction](../t/transaction.md), either as a flat [fee](../f/fee.md) or a percentage of the [trade](../t/trade.md)’s [value](../v/value.md).
 
 ### Spread
 

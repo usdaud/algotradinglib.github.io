@@ -51,17 +51,17 @@ Effective warranty management is crucial for businesses to build [trust](../t/tr
 
 ### The Role of Warranties in Marketing
 
-Warranties play a critical role in [marketing](../m/marketing.md) strategies. A strong warranty can be a significant selling point, providing peace of mind to consumers and differentiating a product in a crowded [market](../m/market.md). Companies often highlight their warranties in advertising campaigns to bolster consumer confidence and drive sales. 
+Warranties play a critical role in [marketing](../m/marketing.md) strategies. A strong warranty can be a significant selling point, providing peace of mind to consumers and differentiating a product in a crowded [market](../m/market.md). Companies often highlight their warranties in advertising campaigns to bolster consumer confidence and drive sales.
 
 ### Example Companies and Warranty Policies
 
 Several companies are known for their remarkable warranty policies, illustrating how warranties can enhance brand reputation and [customer](../c/customer.md) loyalty. Here are a few examples:
 
-- **Apple Inc.**: Apple provides a standard one-year limited warranty with their products and offers the option to purchase AppleCare+ for extended coverage, including accidental damage (source: [Apple Warranty](https://www.apple.com/legal/warranty/)).
+- **Apple Inc.**: Apple provides a standard one-year limited warranty with their products and offers the option to purchase AppleCare+ for extended coverage, including accidental damage (source: Apple Warranty).
 
-- **Tesla, Inc.**: Tesla offers extensive warranties on their electric vehicles, including a Basic Vehicle Limited Warranty and a Battery and Drive Unit Limited Warranty for up to 8 years or a specified number of miles (source: [Tesla Vehicle Warranty](https://www.tesla.com/support/vehicle-warranty)).
+- **Tesla, Inc.**: Tesla offers extensive warranties on their electric vehicles, including a Basic Vehicle Limited Warranty and a Battery and Drive Unit Limited Warranty for up to 8 years or a specified number of miles (source: Tesla Vehicle Warranty).
 
-- **L.L. Bean**: Known for its generous "100% Satisfaction Guarantee," L.L. Bean offers a lifetime warranty on their products, reflecting their commitment to quality and [customer](../c/customer.md) satisfaction (source: [L.L. Bean Guarantee](https://www.llbean.com/llb/shop/1000001694)).
+- **L.L. Bean**: Known for its generous "100% Satisfaction Guarantee," L.L. Bean offers a lifetime warranty on their products, reflecting their commitment to quality and [customer](../c/customer.md) satisfaction (source: L.L. Bean Guarantee).
 
 ### Trends and Innovations in Warranty Management
 

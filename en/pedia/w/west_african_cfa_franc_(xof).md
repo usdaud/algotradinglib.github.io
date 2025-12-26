@@ -85,4 +85,3 @@ Efforts are underway to promote sustainable development in the region. This incl
 
 The West African CFA Franc (XOF) plays a pivotal role in the economies of its member states. While it provides stability and fosters regional cooperation, it also comes with limitations and challenges. As the region looks to the future, potential changes like the introduction of the Eco and advancements in digital financial services could reshape the economic landscape. However, achieving sustainable development and [economic growth](../e/economic_growth.md) [will](../w/will.md) require coordinated efforts and strategic planning.
 
-For more information about the West African CFA Franc and the BCEAO, you can visit the official [BCEAO website](https://www.bceao.int/).

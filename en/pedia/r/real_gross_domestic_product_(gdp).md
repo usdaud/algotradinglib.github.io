@@ -83,4 +83,4 @@ Robo-advisors use real GDP data to adjust portfolio allocations. For example, in
 ### Macroeconomic Models
 Fintech companies develop complex macroeconomic models that include real GDP as a variable to simulate economic scenarios. These models help in stress-testing financial portfolios and assessing economic risks.
 
-For more detailed information about Real GDP from an institutional source, refer to the Bureau of Economic Analysis (BEA) website: [https://www.bea.gov/](https://www.bea.gov/).
+For more detailed information about Real GDP from an institutional source,

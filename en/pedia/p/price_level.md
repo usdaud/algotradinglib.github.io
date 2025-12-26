@@ -33,7 +33,7 @@ Trendlines are a fundamental concept in [technical analysis](../t/technical_anal
 Moving averages are utilized to smooth out price data and identify trends by averaging the prices over a specific period. Common types include the Simple Moving Average (SMA) and the Exponential Moving Average (EMA).
 
 - **SMA**: The SMA calculates the average of a set number of prices over a time period, giving each price [equal weight](../e/equal_weight.md). For example, a 20-day SMA adds up the closing prices over 20 days and divides by 20.
-  
+
 - **EMA**: The EMA also calculates the average price over a period, but gives more weight to recent prices, making it more responsive to new information.
 
 ### Fibonacci Retracement Levels
@@ -59,23 +59,23 @@ Traders employ various software and platforms to monitor and analyze price level
 ### Trading Platforms
 
 1. **MetaTrader**: A widely-used platform [offering](../o/offering.md) comprehensive charting tools, [technical indicators](../t/technical_indicator.md), and automated trading capabilities through Expert Advisors (EA).
-   - [MetaTrader](https://www.metatrader4.com)
+ - MetaTrader
 
 2. **Thinkorswim**: Provided by TD [Ameritrade](../a/ameritrade.md), this platform offers advanced trading tools, including customizable charts, [technical indicators](../t/technical_indicator.md), and paper trading features.
-   - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+ - Thinkorswim
 
 3. **[NinjaTrader](../n/ninjatrader.md)**: A platform that focuses on [futures](../f/futures.md) and forex trading, [offering](../o/offering.md) advanced charting, [market](../m/market.md) analytics, and automated trading solutions.
-   - [NinjaTrader](https://ninjatrader.com)
+ - NinjaTrader
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses pre-programmed instructions to execute trades based on various criteria like time, price, and [volume](../v/volume.md). It minimizes human intervention, allowing for faster and more efficient trades.
+[Algorithmic trading](../a/algorithmic_trading.md) uses pre-programmed instructions to execute trades based on various criteria like time, price, and [volume](../v/volume.md). It minimizes human intervention, allowing for faster and more efficient trades.
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/accountability.md) platform that provides cloud-based [backtesting](../b/backtesting.md) and live trading capabilities for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
-   - [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md) and live trading capabilities for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+ - QuantConnect
 
 2. **[Alpaca](../a/alpaca.md)**: An API-first brokerage that allows developers to build and deploy [trading algorithms](../t/trading_algorithms.md) with ease.
-   - [Alpaca](https://alpaca.markets)
+ - Alpaca
 
 ## Psychological Aspects of Price Levels
 
@@ -94,9 +94,9 @@ Psychological price points, often rounded numbers (e.g., 100, 50, or 1,000), ser
 Traders are subject to various [behavioral biases](../b/behavioral_biases_in_trading.md) that influence their perception of price levels and subsequent trading decisions.
 
 1. **[Anchoring](../a/anchoring.md) Bias**: This occurs when traders fixate on specific price levels based on initial information, leading to suboptimal decision-making.
-  
+
 2. **[Confirmation Bias](../c/confirmation_bias.md)**: Traders tend to seek out information that confirms their preconceived notions about price levels, ignoring contradictory evidence.
-  
+
 3. **Herding**: The tendency to mimic the actions of the majority can amplify [market](../m/market.md) trends, establishing temporary price levels that may not be fundamentally justified.
 
 ## Summary

@@ -4,7 +4,7 @@
 
 ## Introduction to Backtesting
 
-[Backtesting](../b/backtesting.md) is the process of testing a [trading strategy](../t/trading_strategy.md) on historical data to see how it would have performed in the past. It is a critical part of [trading strategy](../t/trading_strategy.md) development because it helps traders and developers to understand how their strategies behave under different [market](../m/market.md) conditions. The results of [backtesting](../b/backtesting.md) can provide insights into the profitability, [risk](../r/risk.md), and robustness of the [trading strategy](../t/trading_strategy.md). 
+[Backtesting](../b/backtesting.md) is the process of testing a [trading strategy](../t/trading_strategy.md) on historical data to see how it would have performed in the past. It is a critical part of [trading strategy](../t/trading_strategy.md) development because it helps traders and developers to understand how their strategies behave under different [market](../m/market.md) conditions. The results of [backtesting](../b/backtesting.md) can provide insights into the profitability, [risk](../r/risk.md), and robustness of the [trading strategy](../t/trading_strategy.md).
 
 ## Why Use MATLAB for Backtesting?
 
@@ -125,6 +125,6 @@ In this example, `backtest_strategy` is a custom function that would implement t
 
 ## Conclusion
 
-[Backtesting](../b/backtesting.md) in MATLAB involves a straightforward but comprehensive process of defining, implementing, and refining [trading strategies](../t/trading_strategies.md) based on historical [market](../m/market.md) data. MATLAB’s powerful computational capabilities, extensive toolboxes, and visualization tools make it an ideal environment for developing and evaluating [algorithmic trading](../a/algorithmic_trading.md) strategies. 
+[Backtesting](../b/backtesting.md) in MATLAB involves a straightforward but comprehensive process of defining, implementing, and refining [trading strategies](../t/trading_strategies.md) based on historical [market](../m/market.md) data. MATLAB’s powerful computational capabilities, extensive toolboxes, and visualization tools make it an ideal environment for developing and evaluating [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 By following systematic steps—data [acquisition](../a/acquisition.md) and preparation, strategy definition, implementation, performance evaluation, and [optimization](../o/optimization.md)—traders and quantitative analysts can effectively backtest their strategies and [gain](../g/gain.md) significant insights into their performance and potential profitability.

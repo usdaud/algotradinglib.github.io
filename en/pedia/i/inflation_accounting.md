@@ -10,7 +10,7 @@
 - **Comparability**: It allows for better comparability across periods with differing [inflation](../i/inflation.md) rates.
 - **Decision-making**: Helps management in making informed decisions, particularly concerning investments, pricing, and [cost control](../c/cost_control.md).
 - **Performance Measurement**: Offers a more realistic measurement of [financial performance](../f/financial_performance.md), which is essential for shareholders, investors, and analysts.
-  
+
 ## Methods of Inflation Accounting
 
 Several methods can be employed for [inflation](../i/inflation.md) [accounting](../a/accounting.md), each with its own set of rules and suitability depending on the specific economic context:
@@ -79,7 +79,7 @@ In the United States, the [Financial Accounting](../f/financial_accounting.md) S
 Various countries have their own specific standards and guidelines for [inflation](../i/inflation.md) [accounting](../a/accounting.md). For example:
 - **Argentina**: The Argentine Federation of Professional Councils in Economic Sciences (FACPCE) provides local guidelines for [inflation](../i/inflation.md) [accounting](../a/accounting.md) in hyperinflationary economies.
 - **Brazil**: The Brazilian [Accounting](../a/accounting.md) Pronouncements Committee (CPC) has issued CPC 42, which aligns with IAS 29 for financial reporting in hyperinflationary environments.
-  
+
 ## Practical Applications and Case Studies
 
 ### Company A: Adopting Inflation Accounting in a Hyperinflationary Economy
@@ -105,13 +105,13 @@ Company B is analyzing its [financial performance](../f/financial_performance.md
 Several software solutions and tools are available to assist companies in implementing [inflation](../i/inflation.md) [accounting](../a/accounting.md). These tools can automate the adjustment process, ensuring accuracy and consistency. Some of the popular solutions include:
 
 - **Oracle Hyperion**: A comprehensive financial management software that offers modules for [inflation](../i/inflation.md) [accounting](../a/accounting.md), enabling companies to adjust their [financial statements](../f/financial_statements.md) accurately.
-  - [Oracle Hyperion](https://www.oracle.com/solutions/financial-management/hyperion-financial-management/)
+ - Oracle Hyperion
 
 - **SAP [Financial Accounting](../f/financial_accounting.md) (FI)**: SAP’s FI module includes functionalities for [inflation](../i/inflation.md) [accounting](../a/accounting.md), allowing companies to maintain [inflation](../i/inflation.md)-adjusted financial records.
-  - [SAP FI](https://www.sap.com/products/financial-management.html)
+ - SAP FI
 
 - **Infor SunSystems**: A financial management software that supports [inflation](../i/inflation.md) [accounting](../a/accounting.md), with features for [asset](../a/asset.md) [revaluation](../r/revaluation.md) and financial reporting in hyperinflationary environments.
-  - [Infor SunSystems](https://www.infor.com/products/sunsystems)
+ - Infor SunSystems
 
 ## Conclusion
 

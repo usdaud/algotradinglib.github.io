@@ -94,7 +94,7 @@ Calculating accurate benchmarks requires [robust](../r/robust.md) technological 
 
 ### Integration of Algorithmmic Solutions
 
-With advancements in technology and increased adoption of [algorithmic trading](../a/accountability.md) solutions, WM/[Reuters](../r/reuters.md) has integrated sophisticated algorithms into the [benchmark](../b/benchmark.md) calculation process. These algorithms can process large datasets, ensuring the benchmarks reflect real-time [market](../m/market.md) conditions more accurately.
+With advancements in technology and increased adoption of [algorithmic trading](../a/algorithmic_trading.md) solutions, WM/[Reuters](../r/reuters.md) has integrated sophisticated algorithms into the [benchmark](../b/benchmark.md) calculation process. These algorithms can process large datasets, ensuring the benchmarks reflect real-time [market](../m/market.md) conditions more accurately.
 
 ### Expansion of Coverage
 
@@ -122,4 +122,4 @@ The rise of cryptocurrencies and digital assets is likely to influence the futur
 
 WM/[Reuters](../r/reuters.md) [Benchmark](../b/benchmark.md) Rates form an essential backbone for the global forex [market](../m/market.md). Despite facing challenges and controversies, continuous improvements in [transparency](../t/transparency.md), regulatory compliance, and technological integration ensure their relevance. As [financial markets](../f/financial_market.md) evolve, WM/[Reuters](../r/reuters.md) is poised to adapt, maintaining its position as a pivotal reference in global [finance](../f/finance.md).
 
-For more detailed information, please visit the official Thomson [Reuters](../r/reuters.md) page on WM/[Reuters](../r/reuters.md) Benchmarks: [Thomson Reuters Official Page](https://www.refinitiv.com/en/financial-data/financial-benchmarks/wm-reuters-benchmarks).
+For more detailed information, consult Thomson [Reuters](../r/reuters.md) materials on WM/[Reuters](../r/reuters.md) Benchmarks.

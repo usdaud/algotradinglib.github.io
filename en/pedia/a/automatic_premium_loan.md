@@ -49,16 +49,16 @@ Now, the policyholder owes $1,000 plus 5% [interest](../i/interest.md) on this [
 ## Companies Offering APL Provisions
 
 ### New York Life
-New York Life is a leading provider of [life insurance](../l/life_insurance.md) products that include an automatic [premium](../p/premium.md) [loan](../l/loan.md) [provision](../p/provision.md) in their [whole life insurance](../w/whole_life_insurance.md) policies. For more detailed information, visit their website at [New York Life](https://www.newyorklife.com).
+New York Life is a leading provider of [life insurance](../l/life_insurance.md) products that include an automatic [premium](../p/premium.md) [loan](../l/loan.md) [provision](../p/provision.md) in their [whole life insurance](../w/whole_life_insurance.md) policies.
 
 ### Northwestern Mutual
-Northwestern Mutual offers [whole life insurance](../w/whole_life_insurance.md) policies with an APL feature, ensuring that their clients' coverage remains intact even if they miss [premium](../p/premium.md) payments. Learn more at [Northwestern Mutual](https://www.northwesternmutual.com).
+Northwestern Mutual offers [whole life insurance](../w/whole_life_insurance.md) policies with an APL feature, ensuring that their clients' coverage remains intact even if they miss [premium](../p/premium.md) payments.
 
 ### MassMutual
-Massachusetts Mutual [Life Insurance](../l/life_insurance.md) Company (MassMutual) also provides [whole life insurance](../w/whole_life_insurance.md) [options](../o/options.md) with an automatic [premium](../p/premium.md) [loan](../l/loan.md) [provision](../p/provision.md). For further details, visit their site at [MassMutual](https://www.massmutual.com).
+Massachusetts Mutual [Life Insurance](../l/life_insurance.md) Company (MassMutual) also provides [whole life insurance](../w/whole_life_insurance.md) [options](../o/options.md) with an automatic [premium](../p/premium.md) [loan](../l/loan.md) [provision](../p/provision.md).
 
 ### Guardian Life
-Guardian Life includes the APL feature in many of their [whole life insurance](../w/whole_life_insurance.md) policies, providing added [security](../s/security.md) for policyholders. More information can be found at [Guardian Life](https://www.guardianlife.com).
+Guardian Life includes the APL feature in many of their [whole life insurance](../w/whole_life_insurance.md) policies, providing added [security](../s/security.md) for policyholders.
 
 ## Conclusion
 

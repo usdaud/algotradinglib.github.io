@@ -84,22 +84,22 @@ The matching engine is the core of an [order](../o/order.md)-driven [market](../
 
 Prominent stock exchanges that utilize [order](../o/order.md)-driven [market](../m/market.md) structures include:
 
-- **New York Stock [Exchange](../e/exchange.md) (NYSE):** [NYSE](https://www.nyse.com) employs an [order](../o/order.md)-driven [market](../m/market.md) model to facilitate trading in its [listed](../l/listed.md) securities.
-- **[Nasdaq](../n/nasdaq.md):** [Nasdaq](https://www.nasdaq.com) operates as an electronic [order](../o/order.md)-driven [market](../m/market.md) for a wide [range](../r/range.md) of securities.
+- **New York Stock [Exchange](../e/exchange.md) (NYSE):** NYSE employs an [order](../o/order.md)-driven [market](../m/market.md) model to facilitate trading in its [listed](../l/listed.md) securities.
+- **[Nasdaq](../n/nasdaq.md):** Nasdaq operates as an electronic [order](../o/order.md)-driven [market](../m/market.md) for a wide [range](../r/range.md) of securities.
 
 ### Futures Markets
 
 [Futures](../f/futures.md) exchanges such as the Chicago Mercantile [Exchange](../e/exchange.md) (CME) and the Intercontinental [Exchange](../e/exchange.md) (ICE) use [order](../o/order.md)-driven [market](../m/market.md) structures for trading [futures contracts](../f/futures_contracts.md).
 
-- **CME Group:** [CME Group](https://www.cmegroup.com) is a leading [derivatives](../d/derivatives.md) marketplace that employs an electronic [order](../o/order.md)-driven [market](../m/market.md) model.
-- **ICE:** [Intercontinental Exchange](https://www.theice.com) operates various [futures](../f/futures.md) exchanges with [order](../o/order.md)-driven trading mechanisms.
+- **CME Group:** CME Group is a leading [derivatives](../d/derivatives.md) marketplace that employs an electronic [order](../o/order.md)-driven [market](../m/market.md) model.
+- **ICE:** Intercontinental Exchange operates various [futures](../f/futures.md) exchanges with [order](../o/order.md)-driven trading mechanisms.
 
 ### Electronic Communication Networks (ECNs)
 
 ECNs are automated systems that match buy and sell orders for securities. They operate as [order](../o/order.md)-driven markets and are widely used in forex and [equity trading](../e/equity_trading.md).
 
-- **Instinet:** [Instinet](https://www.instinet.com) is an early pioneer of ECNs and provides electronic trading solutions for institutional clients.
-- **Bats Global Markets:** [Bats Global Markets](https://www.markets.cboe.com) is a major operator of stock exchanges and ECNs, now part of Cboe Global Markets.
+- **Instinet:** Instinet is an early pioneer of ECNs and provides electronic trading solutions for institutional clients.
+- **Bats Global Markets:** Bats Global Markets is a major operator of stock exchanges and ECNs, now part of Cboe Global Markets.
 
 ## Conclusion
 

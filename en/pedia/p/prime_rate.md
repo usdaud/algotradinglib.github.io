@@ -2,6 +2,8 @@
 
 The prime rate, often referred to simply as the prime, is an important economic [benchmark](../b/benchmark.md) in the banking and financial industries. It is the [interest rate](../i/interest_rate.md) that commercial banks charge their most creditworthy customers, typically large corporations. The prime rate is pivotal because it acts as a reference point for various [interest](../i/interest.md) rates including those for loans, mortgages, and [credit](../c/credit.md) cards. Understanding the prime rate is crucial not only for financial professionals but also for borrowers and investors.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Origin and Determination of the Prime Rate
 
 The prime rate is not set by the Federal Reserve (Fed) directly, but there is a strong [correlation](../c/correlation.md) between the prime rate and the Federal Reserve's [federal funds rate](../f/federal_funds_rate.md). The [federal funds rate](../f/federal_funds_rate.md) is the [interest rate](../i/interest_rate.md) at which banks lend to each other overnight and serves as the foundation for other [interest](../i/interest.md) rates in the [economy](../e/economy.md). Generally, the prime rate is determined by banks based on the [federal funds rate](../f/federal_funds_rate.md) plus a [margin](../m/margin.md).
@@ -58,10 +60,10 @@ For instance, in a low-[interest](../i/interest.md)-rate environment, central ba
 
 In summary, the prime rate is a fundamental [benchmark](../b/benchmark.md) in the financial world. It influences a wide array of financial products and has significant implications for borrowers, investors, and businesses. Understanding how the prime rate is determined, its historical trends, and its broader economic impacts is essential for making informed financial decisions.
 
-For more detailed information, consider visiting the Federal Reserve's official website or financial institutions' published materials.
+For more detailed information, consider visiting the Federal Reserve's public materials or financial institutions' published materials.
 
 **References:**
 
-- [Federal Reserve](https://www.federalreserve.gov)
-- [Wall Street Journal Prime Rate](https://www.wsj.com)
-- [Wells Fargo Prime Rate](https://www.wellsfargo.com/per/prime-interest-rate)
+- Federal Reserve
+- Wall Street Journal Prime Rate
+- Wells Fargo Prime Rate

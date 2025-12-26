@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Transaction](../t/transaction.md) costs are the expenses incurred when buying or selling goods and services. In the context of [financial markets](../f/financial_market.md), [transaction](../t/transaction.md) costs refer to the costs associated with trading securities — [stocks](../s/stock.md), bonds, commodities, etc. These costs can significantly impact an [investor](../i/investor.md)'s or [trader](../t/trader.md)'s profitability and decision-making process. Understanding the various components of [transaction](../t/transaction.md) costs is essential for optimizing [trading strategies](../t/trading_strategies.md), particularly in the realms of [algorithmic trading](../a/accountability.md) and financial technology (fintech).
+[Transaction](../t/transaction.md) costs are the expenses incurred when buying or selling goods and services. In the context of [financial markets](../f/financial_market.md), [transaction](../t/transaction.md) costs refer to the costs associated with trading securities — [stocks](../s/stock.md), bonds, commodities, etc. These costs can significantly impact an [investor](../i/investor.md)'s or [trader](../t/trader.md)'s profitability and decision-making process. Understanding the various components of [transaction](../t/transaction.md) costs is essential for optimizing [trading strategies](../t/trading_strategies.md), particularly in the realms of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ## Types of Transaction Costs
 
@@ -12,7 +12,7 @@ Explicit costs are direct and easily quantifiable charges associated with tradin
 
 #### a) Commissions
 
-Commissions are paid to brokers for executing trades on behalf of the [investor](../i/investor.md). While [commission](../c/commission.md) rates have decreased due to fintech advancements and increased [market](../m/market.md) competition, they still represent a significant cost for many traders. 
+Commissions are paid to brokers for executing trades on behalf of the [investor](../i/investor.md). While [commission](../c/commission.md) rates have decreased due to fintech advancements and increased [market](../m/market.md) competition, they still represent a significant cost for many traders.
 
 #### b) Fees
 
@@ -28,7 +28,7 @@ The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the price
 
 #### b) Market Impact
 
-[Market](../m/market.md) impact refers to the effect that a [trader](../t/trader.md)'s actions have on the price of the [security](../s/security.md) being traded. For large trades, the buying or selling pressure can move the price unfavorably, increasing the cost of the [transaction](../t/transaction.md). 
+[Market](../m/market.md) impact refers to the effect that a [trader](../t/trader.md)'s actions have on the price of the [security](../s/security.md) being traded. For large trades, the buying or selling pressure can move the price unfavorably, increasing the cost of the [transaction](../t/transaction.md).
 
 #### c) Slippage
 
@@ -48,7 +48,7 @@ Implementation [shortfall](../s/shortfall.md) is another popular method for meas
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute trades with minimal human intervention. By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed data feeds, algotrading aims to optimize [trade](../t/trade.md) [execution](../e/execution.md) and reduce [transaction](../t/transaction.md) costs. Common strategies include:
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades with minimal human intervention. By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed data feeds, algotrading aims to optimize [trade](../t/trade.md) [execution](../e/execution.md) and reduce [transaction](../t/transaction.md) costs. Common strategies include:
 
 #### a) VWAP (Volume Weighted Average Price)
 
@@ -68,7 +68,7 @@ Fintech innovations have also revolutionized the way traders approach [transacti
 
 #### a) Commission-Free Trading
 
-Platforms like [Robinhood](../r/robinhood.md) [offer](../o/offer.md) [commission](../c/commission.md)-free trading, significantly reducing explicit costs for retail investors. [Robinhood](https://robinhood.com/) has gained popularity due to its user-friendly interface and lack of [commission](../c/commission.md) fees, although it generates [revenue](../r/revenue.md) through other means, such as [payment](../p/payment.md) for [order](../o/order.md) flow.
+Platforms like [Robinhood](../r/robinhood.md) [offer](../o/offer.md) [commission](../c/commission.md)-free trading, significantly reducing explicit costs for retail investors. Robinhood has gained popularity due to its user-friendly interface and lack of [commission](../c/commission.md) fees, although it generates [revenue](../r/revenue.md) through other means, such as [payment](../p/payment.md) for [order](../o/order.md) flow.
 
 #### b) Blockchain Technology
 
@@ -104,14 +104,14 @@ The Dodd-Frank Act introduced significant changes to the financial [industry](..
 
 ## Conclusion
 
-[Transaction](../t/transaction.md) costs are a critical aspect of trading that can significantly affect an [investor](../i/investor.md)'s profitability and decision-making process. By understanding the various components of [transaction](../t/transaction.md) costs, traders can adopt strategies to minimize these expenses, such as [algorithmic trading](../a/accountability.md) and leveraging fintech innovations. Additionally, regulatory frameworks play a crucial role in shaping [transaction](../t/transaction.md) costs, promoting [transparency](../t/transparency.md), and protecting investors.
+[Transaction](../t/transaction.md) costs are a critical aspect of trading that can significantly affect an [investor](../i/investor.md)'s profitability and decision-making process. By understanding the various components of [transaction](../t/transaction.md) costs, traders can adopt strategies to minimize these expenses, such as [algorithmic trading](../a/algorithmic_trading.md) and leveraging fintech innovations. Additionally, regulatory frameworks play a crucial role in shaping [transaction](../t/transaction.md) costs, promoting [transparency](../t/transparency.md), and protecting investors.
 
 As the [financial markets](../f/financial_market.md) continue to evolve, advancements in technology and regulatory changes [will](../w/will.md) likely further influence [transaction](../t/transaction.md) costs. Staying informed about these developments and continuously optimizing [trading strategies](../t/trading_strategies.md) [will](../w/will.md) be essential for achieving cost-[efficiency](../e/efficiency.md) and maximizing returns.
 
-For more information on online trading platforms and [commission](../c/commission.md)-free trading, visit [Robinhood](https://robinhood.com/).
+For more information on online trading platforms and [commission](../c/commission.md)-free trading, visit Robinhood.
 
 ## References
 
-- [Robinhood](https://robinhood.com/)
-- Chicago Mercantile [Exchange](../e/exchange.md) (CME): [CME Fee Guide](https://www.cmegroup.com/company/clearing/clearing-fees.html)
-- European Securities and Markets Authority (ESMA) on [MiFID II](../m/mifid_ii.md): [ESMA MiFID II Guide](https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir)
+- Robinhood
+- Chicago Mercantile [Exchange](../e/exchange.md) (CME): CME Fee Guide
+- European Securities and Markets Authority (ESMA) on [MiFID II](../m/mifid_ii.md): ESMA MiFID II Guide

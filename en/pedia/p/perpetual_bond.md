@@ -44,10 +44,10 @@ If the [bond](../b/bond.md) is callable, there is always the [risk](../r/risk.md
 ## Examples of Perpetual Bond Issuances
 
 ### Banks and Financial Institutions
-[Perpetual bonds](../p/perpetual_bonds.md) are often issued by banks and financial institutions as they count towards regulatory [capital](../c/capital.md) requirements. For example, major banks such as HSBC (https://www.hsbc.com) and JPMorgan Chase (https://www.jpmorganchase.com) have issued [perpetual bonds](../p/perpetual_bonds.md) to strengthen their [capital](../c/capital.md) base.
+[Perpetual bonds](../p/perpetual_bonds.md) are often issued by banks and financial institutions as they count towards regulatory [capital](../c/capital.md) requirements. For example, major banks such as HSBC ( and JPMorgan Chase ( have issued [perpetual bonds](../p/perpetual_bonds.md) to strengthen their [capital](../c/capital.md) base.
 
 ### Corporate Issuers
-Large corporations may also [issue](../i/issue.md) [perpetual bonds](../p/perpetual_bonds.md) as a means of raising long-term [capital](../c/capital.md) without the obligation of repaying the [principal](../p/principal.md). An example can be found in companies like AT&T (https://www.att.com) which have utilized [perpetual bonds](../p/perpetual_bonds.md) for [capital](../c/capital.md) raising purposes.
+Large corporations may also [issue](../i/issue.md) [perpetual bonds](../p/perpetual_bonds.md) as a means of raising long-term [capital](../c/capital.md) without the obligation of repaying the [principal](../p/principal.md). An example can be found in companies like AT&T ( which have utilized [perpetual bonds](../p/perpetual_bonds.md) for [capital](../c/capital.md) raising purposes.
 
 ## Valuation and Pricing
 
@@ -70,7 +70,7 @@ As mentioned earlier, [perpetual bonds](../p/perpetual_bonds.md) are highly sens
 For financial institutions, [perpetual bonds](../p/perpetual_bonds.md) can qualify as additional Tier 1 (AT1) or [Tier 2 capital](../t/tier_2_capital.md) under international banking regulations. This classification can help banks meet regulatory [capital](../c/capital.md) requirements and improve their [leverage ratios](../l/leverage_ratios.md).
 
 ### Accounting Implications
-[Perpetual bonds](../p/perpetual_bonds.md) are recorded on the [balance sheet](../b/balance_sheet.md) as [debt](../d/debt.md). The [interest](../i/interest.md) payments are treated as an [expense](../e/expense.md) on the [income statement](../i/income_statement.md), reducing the [issuer](../i/issuer.md)'s [taxable income](../t/taxable_income.md). 
+[Perpetual bonds](../p/perpetual_bonds.md) are recorded on the [balance sheet](../b/balance_sheet.md) as [debt](../d/debt.md). The [interest](../i/interest.md) payments are treated as an [expense](../e/expense.md) on the [income statement](../i/income_statement.md), reducing the [issuer](../i/issuer.md)'s [taxable income](../t/taxable_income.md).
 
 ## Conclusion
 

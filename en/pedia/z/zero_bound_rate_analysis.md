@@ -80,9 +80,9 @@ DSGE models are commonly used to evaluate the macroeconomic impacts of policies 
 
 Central banks frequently publish research and policy briefs analyzing the [zero lower bound](../z/zero_lower_bound.md) and its implications. These publications [offer](../o/offer.md) valuable insights into central banks' thinking and policy strategies.
 
-- [Federal Reserve's Research and Data](https://www.federalreserve.gov/data.htm)
-- [European Central Bank's Research and Publications](https://www.ecb.europa.eu/pub/research/html/index.en.html)
-- [Bank of Japan's Research Papers](https://www.boj.or.jp/en/research/)
+- Federal Reserve's Research and Data
+- European Central Bank's Research and Publications
+- Bank of Japan's Research Papers
 
 ### Academic Studies
 

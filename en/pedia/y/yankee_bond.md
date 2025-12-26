@@ -85,6 +85,6 @@ The [World Bank](../w/world_bank.md), a vital [supranational](../s/supranational
 
 ## Conclusion
 
-Yankee bonds represent a significant segment of the global [debt](../d/debt.md) markets, [offering](../o/offering.md) advantages for both foreign issuers and U.S. investors. While they carry certain risks related to [currency](../c/currency.md) movements and regulatory compliance, the benefits of [diversification](../d/diversification.md) and access to the deep U.S. [capital markets](../c/capital_markets.md) make them an attractive option for many. Understanding the intricacies of Yankee bonds can help investors make informed decisions and issuers to optimize their [capital](../c/capital.md)-raising strategies. 
+Yankee bonds represent a significant segment of the global [debt](../d/debt.md) markets, [offering](../o/offering.md) advantages for both foreign issuers and U.S. investors. While they carry certain risks related to [currency](../c/currency.md) movements and regulatory compliance, the benefits of [diversification](../d/diversification.md) and access to the deep U.S. [capital markets](../c/capital_markets.md) make them an attractive option for many. Understanding the intricacies of Yankee bonds can help investors make informed decisions and issuers to optimize their [capital](../c/capital.md)-raising strategies.
 
-For more information on specific Yankee bonds and their issuers, you can visit [Daimler AG](https://www.daimler.com) and [World Bank](https://www.worldbank.org).
+For more information on specific Yankee bonds and their issuers, you can visit Daimler AG and World Bank.

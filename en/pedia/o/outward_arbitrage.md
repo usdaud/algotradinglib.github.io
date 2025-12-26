@@ -48,14 +48,14 @@ Given the highly fragmented and often unregulated nature of cryptocurrency marke
 ## Technology and Outward Arbitrage
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md), or algo-trading, refers to the use of computer algorithms to execute trades at high speeds and volumes. In the context of outward [arbitrage](../a/arbitrage.md), these algorithms can analyze vast amounts of data across [multiple](../m/multiple.md) jurisdictions, detect [arbitrage opportunities](../a/arbitrage_opportunities.md), and execute trades in milliseconds.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, refers to the use of computer algorithms to execute trades at high speeds and volumes. In the context of outward [arbitrage](../a/arbitrage.md), these algorithms can analyze vast amounts of data across [multiple](../m/multiple.md) jurisdictions, detect [arbitrage opportunities](../a/arbitrage_opportunities.md), and execute trades in milliseconds.
 
 - **Example**: An algorithm might identify an opportunity to [arbitrage](../a/arbitrage.md) price differences between cryptocurrency exchanges in different countries and execute a series of buy and sell orders faster than a human could.
 
 ### Fintech Platforms
 Fintech platforms provide the [infrastructure](../i/infrastructure.md) needed for efficient cross-border transactions and resource allocation. These platforms can [offer](../o/offer.md) integrated services for [currency](../c/currency.md) conversion, [transaction execution](../t/transaction_execution.md), and regulatory compliance, simplifying the operational aspects of outward [arbitrage](../a/arbitrage.md).
 
-- **Example**: Companies like TransferWise (now Wise) [Wise](https://wise.com/) [offer](../o/offer.md) cost-effective solutions for [currency](../c/currency.md) conversion and international [money](../m/money.md) transfers, which can be crucial for implementing outbound [arbitrage](../a/arbitrage.md) strategies.
+- **Example**: Companies like TransferWise (now Wise) Wise [offer](../o/offer.md) cost-effective solutions for [currency](../c/currency.md) conversion and international [money](../m/money.md) transfers, which can be crucial for implementing outbound [arbitrage](../a/arbitrage.md) strategies.
 
 ### Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) technology adds a layer of [transparency](../t/transparency.md) and [security](../s/security.md) to outward [arbitrage](../a/arbitrage.md) transactions, particularly in the realm of cryptocurrencies. [Smart contracts](../s/smart_contracts_in_trading.md) can automate and enforce the rules of [arbitrage](../a/arbitrage.md) transactions, reducing the [risk](../r/risk.md) of human error or [fraud](../f/fraud.md).

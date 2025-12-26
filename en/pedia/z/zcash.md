@@ -12,9 +12,9 @@ In the context of ZCash, zk-SNARKs allow users to prove that a [transaction](../
 
 1. **Setup**: An initial phase where certain cryptographic parameters are generated. These parameters must be created in a way that ensures they are secure and not tampered with.
 
-2. **Proving and Verifying**: 
-    - **Prover**: The entity that wants to prove the validity of a [transaction](../t/transaction.md) constructs a proof.
-    - **Verifier**: The entity that verifies the proof can ensure the [transaction](../t/transaction.md) is valid without needing to know the specifics of sender, recipient, or amount.
+2. **Proving and Verifying**:
+ - **Prover**: The entity that wants to prove the validity of a [transaction](../t/transaction.md) constructs a proof.
+ - **Verifier**: The entity that verifies the proof can ensure the [transaction](../t/transaction.md) is valid without needing to know the specifics of sender, recipient, or amount.
 
 3. **Public Verification**: After the proof is created, it can be publicly verified using the cryptographic parameters generated in the setup phase.
 
@@ -24,9 +24,9 @@ In the context of ZCash, zk-SNARKs allow users to prove that a [transaction](../
 
 2. **Selective [Disclosure](../d/disclosure.md)**: Users can choose to disclose [transaction](../t/transaction.md) details for auditing or regulatory purposes without compromising overall privacy. This feature balances usability for both individual users and businesses.
 
-3. **Two Types of Addresses**: 
-    - **T-Addresses (Transparent)**: Function similarly to [Bitcoin](../b/bitcoin.md) addresses, providing no additional privacy.
-    - **Z-Addresses (Shielded)**: Utilize zk-SNARKs to provide full privacy.
+3. **Two Types of Addresses**:
+ - **T-Addresses (Transparent)**: Function similarly to [Bitcoin](../b/bitcoin.md) addresses, providing no additional privacy.
+ - **Z-Addresses (Shielded)**: Utilize zk-SNARKs to provide full privacy.
 
 4. **Network [Security](../s/security.md)**: ZCash uses a Proof-of-Work (PoW) consensus mechanism with the Equihash algorithm, which is ASIC-resistant, promoting a more decentralized [mining](../m/mining.md) environment.
 
@@ -54,7 +54,7 @@ ZCash has a fixed total [supply](../s/supply.md) of 21 million coins, mirroring 
 
 As of 2023, ZCash continues to innovate and improve upon its technology. The most recent upgrades focus on enhancing [scalability](../s/scalability.md) and usability while maintaining high levels of privacy and [security](../s/security.md). The development community is also exploring Quantum-resistant cryptographic algorithms to future-proof the network against potential advances in [quantum computing](../q/quantum_computing_in_trading.md).
 
-For more details, you can visit the official [ZCash website](https://z.cash).
+
 
 ## Conclusion
 

@@ -13,7 +13,6 @@ The RSI is calculated using the following formula:
 
 \[ RSI = 100 - \frac{100}{1 + RS} \]
 
-where
 
 \[ RS = \frac{\text{Average [Gain](../g/gain.md)}}{\text{Average Loss}} \]
 
@@ -39,9 +38,9 @@ The ATR is calculated as follows:
 
 1. **True [Range](../r/range.md) (TR)** is the greatest of the following:
 
-   - Current High minus Current Low
-   - Absolute [value](../v/value.md) of Current High minus Previous Close
-   - Absolute [value](../v/value.md) of Current Low minus Previous Close
+ - Current High minus Current Low
+ - Absolute [value](../v/value.md) of Current High minus Previous Close
+ - Absolute [value](../v/value.md) of Current Low minus Previous Close
 
 \[ \text{True [Range](../r/range.md)} = \max(\text{Current High} - \text{Current Low}, |\text{Current High} - \text{Previous Close}|, |\text{Current Low} - \text{Previous Close}|) \]
 
@@ -81,8 +80,8 @@ The DMI is used to identify the presence and strength of a [trend](../t/trend.md
 #### Calculation
 1. **Calculate Directional Movement (+DM and -DM)**:
 
-   - +DM = Current High - Previous High (if positive and greater than -DM, else 0)
-   - -DM = Previous Low - Current Low (if positive and greater than +DM, else 0)
+ - +DM = Current High - Previous High (if positive and greater than -DM, else 0)
+ - -DM = Previous Low - Current Low (if positive and greater than +DM, else 0)
 
 2. **Calculate Smoothed +DM and -DM** using a 14-period smoothing:
 
@@ -116,7 +115,7 @@ These techniques provide a [robust](../r/robust.md) framework for [systematic tr
 
 For more information about their applications in modern [trading systems](../t/trading_systems.md), consider reviewing resources provided by financial [market](../m/market.md) education services or professional trading firms that specialize in [algorithmic trading](../a/algorithmic_trading.md).
 
-- [Investopedia: Relative Strength Index (RSI)](https://www.investopedia.com/terms/r/rsi.asp)
-- [Investopedia: Average True Range (ATR)](https://www.investopedia.com/terms/a/atr.asp)
-- [Investopedia: Parabolic SAR](https://www.investopedia.com/terms/p/parabolicindicator.asp)
-- [Investopedia: Directional Movement Index (DMI)](https://www.investopedia.com/terms/d/dmi.asp)
+- Investopedia: Relative Strength Index (RSI)
+- Investopedia: Average True Range (ATR)
+- Investopedia: Parabolic SAR
+- Investopedia: Directional Movement Index (DMI)

@@ -27,13 +27,13 @@ This metric is particularly important for policymakers, economists, and investor
 ### Comparability
 
 - **Cross-Country Comparison**: [Net debt](../n/net_debt.md) [per capita](../p/per_capita.md) allows for an apples-to-apples comparison between countries irrespective of their overall size or economic structure. This makes it easier to understand how fiscal policies and economic health differ internationally.
-  
+
 - **Temporal Analysis**: By tracking [net debt](../n/net_debt.md) [per capita](../p/per_capita.md) over time, analysts can understand the trends in a country's fiscal sustainability and the effectiveness of its economic policies.
 
 ### Policy Implications
 
 - **Fiscal Health**: A high [net debt](../n/net_debt.md) [per capita](../p/per_capita.md) may indicate that a country is over-leveraged and could face difficulties in managing its [debt](../d/debt.md), leading to higher [taxes](../t/taxes.md) or reduced public services.
-  
+
 - **Government Spending**: Policymakers can use this metric to make informed decisions regarding government spending, borrowing, and saving strategies.
 
 ## Examples and Case Studies
@@ -144,11 +144,11 @@ Sudden policy changes, such as tax reforms or austerity measures, can alter the 
 
 ### Fintech
 
-With advancements in financial technology, [real-time data analysis](../r/real-time_data_analysis.md) and AI-driven insights are increasingly used to monitor and predict [debt](../d/debt.md) trends. Firms like **[Bloomberg](../b/bloomberg.md)** [Bloomberg](https://www.bloomberg.com/) and **[Reuters](../r/reuters.md)** [Reuters](https://www.reuters.com/) provide comprehensive platforms for financial data analysis.
+With advancements in financial technology, [real-time data analysis](../r/real-time_data_analysis.md) and AI-driven insights are increasingly used to monitor and predict [debt](../d/debt.md) trends. Firms like **[Bloomberg](../b/bloomberg.md)** Bloomberg and **[Reuters](../r/reuters.md)** Reuters provide comprehensive platforms for financial data analysis.
 
 ### Algortihmic Trading and Machine Learning
 
-[Algorithmic trading](../a/accountability.md) firms and [hedge](../h/hedge.md) funds use [machine learning](../m/machine_learning.md) models to analyze [debt](../d/debt.md) metrics, including [net debt](../n/net_debt.md) [per capita](../p/per_capita.md), to make informed trading decisions. Companies like **Two Sigma** [Two Sigma](https://www.twosigma.com/) and **Citadel** [Citadel](https://www.citadel.com/) are at the forefront of applying these technologies in [finance](../f/finance.md).
+[Algorithmic trading](../a/algorithmic_trading.md) firms and [hedge](../h/hedge.md) funds use [machine learning](../m/machine_learning.md) models to analyze [debt](../d/debt.md) metrics, including [net debt](../n/net_debt.md) [per capita](../p/per_capita.md), to make informed trading decisions. Companies like **Two Sigma** Two Sigma and **Citadel** Citadel are at the forefront of applying these technologies in [finance](../f/finance.md).
 
 ## Conclusion
 

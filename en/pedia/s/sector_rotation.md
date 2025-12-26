@@ -74,9 +74,9 @@ Refinitiv Eikon is another powerful tool [offering](../o/offering.md) [financial
 
 [Exchange](../e/exchange.md)-Traded Funds (ETFs) focused on specific sectors provide a straightforward way to [gain](../g/gain.md) exposure. Examples include:
 
-- **Technology Select Sector SPDR [Fund](../f/fund.md) ([XLK](https://www.ssga.com/us/en/intermediary/etfs/funds/technology-select-sector-spdr-fund-xlk))**
-- **Consumer Discretionary Select Sector SPDR [Fund](../f/fund.md) ([XLY](https://www.ssga.com/us/en/intermediary/etfs/funds/consumer-discretionary-select-sector-spdr-fund-xly))**
-- **Utilities Select Sector SPDR [Fund](../f/fund.md) ([XLU](https://www.ssga.com/us/en/intermediary/etfs/funds/utilities-select-sector-spdr-fund-xlu))**
+- **Technology Select Sector SPDR [Fund](../f/fund.md) (XLK)**
+- **Consumer Discretionary Select Sector SPDR [Fund](../f/fund.md) (XLY)**
+- **Utilities Select Sector SPDR [Fund](../f/fund.md) (XLU)**
 
 ### 4. Quantitative Models
 

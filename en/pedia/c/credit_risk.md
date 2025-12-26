@@ -39,7 +39,7 @@ Analyzing [financial statements](../f/financial_statements.md) provides insights
 [Stress testing](../s/stress_testing.md) involves evaluating the potential impact of extreme conditions on an entity's ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md). [Scenario analysis](../s/scenario_analysis.md) tests how various unforeseeable events could affect the borrower's financial stability.
 
 ### Machine Learning and AI
-Advanced algorithms and [machine learning](../m/machine_learning.md) models are increasingly used to predict [credit](../c/credit.md) [risk](../r/risk.md). These models can process large datasets, identifying patterns that traditional methods might miss. Companies like Zest AI (https://www.zest.ai/) specialize in AI-driven [credit](../c/credit.md) [risk](../r/risk.md) assessment.
+Advanced algorithms and [machine learning](../m/machine_learning.md) models are increasingly used to predict [credit](../c/credit.md) [risk](../r/risk.md). These models can process large datasets, identifying patterns that traditional methods might miss. Companies like Zest AI ( specialize in AI-driven [credit](../c/credit.md) [risk](../r/risk.md) assessment.
 
 ### Portfolio Management
 [Diversification](../d/diversification.md) helps manage [credit](../c/credit.md) [risk](../r/risk.md) across a portfolio by spreading exposure across various borrowers, industries, and geographic regions. Strategic [asset allocation](../a/asset_allocation.md) mitigates the [risk](../r/risk.md) of large losses from a single [default](../d/default.md).
@@ -59,13 +59,13 @@ The [Dodd-Frank Wall Street Reform and Consumer Protection Act](../d/dodd-frank_
 ## Leading Industry Players
 
 ### Moody's Corporation
-Moody's (https://www.moodys.com/) is a global [credit rating](../c/credit_rating.md), research, and [risk analysis](../r/risk_analysis.md) [firm](../f/firm.md). It provides [credit](../c/credit.md) ratings, research, tools, and analysis that contribute to transparent and integrated [financial markets](../f/financial_market.md).
+Moody's ( is a global [credit rating](../c/credit_rating.md), research, and [risk analysis](../r/risk_analysis.md) [firm](../f/firm.md). It provides [credit](../c/credit.md) ratings, research, tools, and analysis that contribute to transparent and integrated [financial markets](../f/financial_market.md).
 
 ### Standard & Poor's (S&P) Global Ratings
-S&P Global Ratings (https://www.spglobal.com/ratings/en/) is another leading [credit rating](../c/credit_rating.md) agency. It offers independent investment research and benchmarks for [financial markets](../f/financial_market.md) worldwide.
+S&P Global Ratings ( is another leading [credit rating](../c/credit_rating.md) agency. It offers independent investment research and benchmarks for [financial markets](../f/financial_market.md) worldwide.
 
 ### Fitch Ratings
-[Fitch Ratings](../f/fitch_ratings.md) (https://www.fitchratings.com/) provides ratings, commentary, and research for global [credit](../c/credit.md) markets. Its [credit](../c/credit.md) ratings are used by investors as reliable measures of [credit](../c/credit.md) [risk](../r/risk.md).
+[Fitch Ratings](../f/fitch_ratings.md) ( provides ratings, commentary, and research for global [credit](../c/credit.md) markets. Its [credit](../c/credit.md) ratings are used by investors as reliable measures of [credit](../c/credit.md) [risk](../r/risk.md).
 
 ## Case Studies
 

@@ -43,4 +43,3 @@ The G-11 group originally included the following countries:
 
 ## Conclusion
 The G-11 group represents an important coalition of developing countries working together to address common economic challenges and promote sustainable development. Through cooperation, shared learning, and collective advocacy, the G-11 aims to enhance the economic well-being of its member countries and ensure their voices are heard in the global economic arena. Understanding the objectives, activities, and importance of the G-11 helps highlight the role of such groups in fostering international cooperation and development.
-

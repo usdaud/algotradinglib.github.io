@@ -4,12 +4,12 @@
 
 ## Understanding Warrants
 
-**[Warrants](../w/warrants_in_trading.md)** are financial instruments issued by a company that grants the holder the right, but not the obligation, to purchase the company’s stock at a specific price (known as the [strike price](../s/strike_price.md)) before the [expiration date](../e/expiration_date.md). There are two main types of [warrants](../w/warrants_in_trading.md): call [warrants](../w/warrants_in_trading.md) and put [warrants](../w/warrants_in_trading.md). 
+**[Warrants](../w/warrants_in_trading.md)** are financial instruments issued by a company that grants the holder the right, but not the obligation, to purchase the company’s stock at a specific price (known as the [strike price](../s/strike_price.md)) before the [expiration date](../e/expiration_date.md). There are two main types of [warrants](../w/warrants_in_trading.md): call [warrants](../w/warrants_in_trading.md) and put [warrants](../w/warrants_in_trading.md).
 
 - **Call [Warrants](../w/warrants_in_trading.md)**: These [grant](../g/grant.md) the holder the right to purchase the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md).
 - **Put [Warrants](../w/warrants_in_trading.md)**: These provide the holder the right to sell the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md).
 
-For more information on [warrants](../w/warrants_in_trading.md), visit [Warrant Definition provided by Investopedia](https://www.investopedia.com/terms/w/warrant.asp).
+For more information on [warrants](../w/warrants_in_trading.md), visit Warrant Definition provided by Investopedia.
 
 ## Mechanics of Warrant Arbitrage
 
@@ -22,7 +22,7 @@ The core idea behind [warrant](../w/warrant.md) [arbitrage](../a/arbitrage.md) i
 3. **[Leverage](../l/leverage.md) the [Time Value](../t/time_value.md)**: [Warrants](../w/warrants_in_trading.md) have a [time value](../t/time_value.md) that erodes as they approach expiration. Arbitrageurs can [profit](../p/profit.md) from the predictable nature of [time decay](../t/time_decay.md).
 4. **[Execution](../e/execution.md)**: Implementing [arbitrage](../a/arbitrage.md) strategies requires swift [execution](../e/execution.md) due to the fleeting nature of [arbitrage](../a/arbitrage.md) opportunities.
 
-An example of a company dealing with such instruments is [Interactive Brokers](https://www.interactivebrokers.com).
+An example of a company dealing with such instruments is Interactive Brokers.
 
 ## Intrinsic and Time Value in Warrants
 
@@ -47,7 +47,7 @@ One common form of [arbitrage](../a/arbitrage.md) is the [delta](../d/delta.md)-
 
 Convertible [arbitrage](../a/arbitrage.md) involves simultaneously entering into a long position on convertible securities like [warrants](../w/warrants_in_trading.md) and a short position in the [underlying](../u/underlying.md) [common stock](../c/common_stock.md). This allows for exploiting price differentials between the stock and the convertible securities.
 
-For institutions that facilitate such trading, including [algorithmic trading](../a/algorithmic_trading.md) systems, [TradeStation](https://www.tradestation.com) is a significant player.
+For institutions that facilitate such trading, including [algorithmic trading](../a/algorithmic_trading.md) systems, TradeStation is a significant player.
 
 ## Risk Management in Warrant Arbitrage
 
@@ -65,7 +65,7 @@ Operational risks involve the broader aspects of managing [multiple](../m/multip
 
 ## Technology and Platforms in Warrant Arbitrage
 
-Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms and technology play a pivotal role in [warrant](../w/warrant.md) [arbitrage](../a/arbitrage.md). These platforms enable real-time monitoring, rapid [execution](../e/execution.md), and sophisticated [risk management](../r/risk_management.md). Integrating with data providers, brokers, and exchanges ensures the [efficiency](../e/efficiency.md) of these operations. 
+Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms and technology play a pivotal role in [warrant](../w/warrant.md) [arbitrage](../a/arbitrage.md). These platforms enable real-time monitoring, rapid [execution](../e/execution.md), and sophisticated [risk management](../r/risk_management.md). Integrating with data providers, brokers, and exchanges ensures the [efficiency](../e/efficiency.md) of these operations.
 
 ### Algorithm Development
 
@@ -75,7 +75,7 @@ Developing algorithms for [warrant](../w/warrant.md) [arbitrage](../a/arbitrage.
 
 [Execution](../e/execution.md) platforms must be capable of handling high-frequency trades, analyzing [market](../m/market.md) data feeds, and providing minimal latency in [order](../o/order.md) [execution](../e/execution.md). Ensuring compatibility with various [financial markets](../f/financial_market.md) and instruments is also critical.
 
-For more information on sophisticated trading solutions and API access for [algorithmic trading](../a/algorithmic_trading.md), consider checking [QuantConnect](https://www.quantconnect.com).
+For more information on sophisticated trading solutions and API access for [algorithmic trading](../a/algorithmic_trading.md), consider checking QuantConnect.
 
 ## Regulatory Considerations in Warrant Arbitrage
 
@@ -91,7 +91,7 @@ Regulatory landscapes vary across countries, affecting [warrant](../w/warrant.md
 
 Ensuring algorithmic systems and [arbitrage](../a/arbitrage.md) strategies align with regulatory requirements involves regular audits, transparent reporting mechanisms, and adherence to trading limits and disclosures. Companies must stay updated on regulatory changes and technological improvements to maintain compliance.
 
-For compliance solutions and consulting, refer to [KPMG’s Financial Services](https://home.kpmg/xx/en/home/industries/financial-services.html).
+For compliance solutions and consulting, refer to KPMG’s Financial Services.
 
 ## Conclusion
 

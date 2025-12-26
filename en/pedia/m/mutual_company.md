@@ -23,13 +23,10 @@ The defining feature of a mutual company is that it is owned by its members or p
 Mutual [insurance](../i/insurance.md) companies are perhaps the most common example of mutual organizations. These companies provide various types of [insurance](../i/insurance.md), including life, health, property, and casualty [insurance](../i/insurance.md). Notable mutual [insurance](../i/insurance.md) companies include:
 
 - **Northwestern Mutual**: Known for [life insurance](../l/life_insurance.md) and financial services.
-  [Northwestern Mutual](https://www.northwesternmutual.com)
 
 - **New York [Life Insurance](../l/life_insurance.md) Company**: One of the largest mutual life insurers in the United States.
-  [New York Life](https://www.newyorklife.com)
 
 - **Mutual of Omaha**: Offers a wide [range](../r/range.md) of [insurance](../i/insurance.md) and financial products.
-  [Mutual of Omaha](https://www.mutualofomaha.com)
 
 ### Mutual Savings Banks
 
@@ -40,10 +37,9 @@ Mutual savings banks, also known as mutual savings associations or mutual thrift
 [Credit](../c/credit.md) unions are nonprofit financial cooperatives owned by their members, who are also the customers. They [offer](../o/offer.md) similar services to those provided by banks but typically at more favorable terms. Profits are returned to members in the form of lower [loan](../l/loan.md) rates, higher savings rates, or lower fees. Notable [credit](../c/credit.md) unions include:
 
 - **Navy Federal [Credit](../c/credit.md) Union**: The largest [credit](../c/credit.md) union in the U.S., serving military personnel and their families.
-  [Navy Federal Credit Union](https://www.navyfederal.org)
 
 - **State Employees' [Credit](../c/credit.md) Union (SECU)**: One of the largest [credit](../c/credit.md) unions in the U.S., serving state employees and their families in North Carolina.
-  [State Employees' Credit Union](https://www.ncsecu.org)
+ State Employees' Credit Union
 
 ## Advantages
 
@@ -72,7 +68,7 @@ Mutual savings banks, also known as mutual savings associations or mutual thrift
 Like many sectors, mutual companies have begun adopting digital technologies to improve [efficiency](../e/efficiency.md) and enhance member experience. Digital transformation initiatives include:
 
 - **Online and [Mobile Banking](../m/mobile_banking.md)**: Mutual savings banks and [credit](../c/credit.md) unions are increasingly [offering](../o/offering.md) [robust](../r/robust.md) online and [mobile banking](../m/mobile_banking.md) services to meet the expectations of tech-savvy members.
-  
+
 - **[Insurtech](../i/insurtech.md) Solutions**: Mutual [insurance](../i/insurance.md) companies are leveraging [insurtech](../i/insurtech.md) to streamline [underwriting](../u/underwriting.md) processes, [offer](../o/offer.md) personalized policies, and enhance [customer](../c/customer.md) interactions.
 
 ### Mergers and Acquisitions

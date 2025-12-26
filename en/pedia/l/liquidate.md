@@ -61,7 +61,7 @@ In trading, [liquidation](../l/liquidation.md) primarily refers to the process o
 ### On Businesses
 
 - **Operation Ceases**: The most obvious consequence of [liquidation](../l/liquidation.md) is that the [business](../b/business.md) ceases to operate. Employees are laid off, and ongoing contracts are terminated.
-  
+
 - **[Debt](../d/debt.md) Relief**: For insolvent companies, [liquidation](../l/liquidation.md) provides a way to pay off creditors. This can sometimes result in a partial or total discharge of debts.
 
 ### On Creditors
@@ -73,7 +73,7 @@ In trading, [liquidation](../l/liquidation.md) primarily refers to the process o
 ### On Investors
 
 - **Financial Loss**: Shareholders often face significant financial losses in [liquidation](../l/liquidation.md), particularly if the company is insolvent. In most cases, they receive nothing until all creditors have been paid.
-  
+
 - **Tax Implications**: [Liquidation](../l/liquidation.md) may have tax implications for investors. In some jurisdictions, they might be able to claim a [capital](../c/capital.md) loss, which can be used to [offset](../o/offset.md) other [taxable income](../t/taxable_income.md).
 
 ## Legal Aspects of Liquidation
@@ -83,9 +83,9 @@ In trading, [liquidation](../l/liquidation.md) primarily refers to the process o
 Different countries have different laws and regulations governing the [liquidation](../l/liquidation.md) process. Generally, these laws define how the process should be conducted, the rights and responsibilities of the [liquidator](../l/liquidator.md), and how creditors’ claims should be prioritized.
 
 - **United States**: In the U.S, the process is primarily governed by the [Bankruptcy](../b/bankruptcy.md) Code. Chapter 7 [bankruptcy](../b/bankruptcy.md), for instance, outlines the process for [liquidation](../l/liquidation.md).
-  
+
 - **United Kingdom**: In the UK, company [liquidation](../l/liquidation.md) is governed by the [Insolvency](../i/insolvency.md) Act 1986.
-  
+
 - **[European Union](../e/european_union_(eu).md)**: EU member states have their own laws, but these must be in harmony with EU regulations governing [insolvency](../i/insolvency.md) proceedings.
 
 ### Legal Protections
@@ -105,7 +105,7 @@ The [liquidator](../l/liquidator.md) has broad powers to manage the [liquidation
 Recent technological advancements have introduced various tools and platforms that facilitate the [liquidation](../l/liquidation.md) process. Fintech platforms can help accelerate the [asset](../a/asset.md) evaluation and [sale](../s/sale.md) process, allowing for quicker and more efficient liquidations. These technologies include:
 
 - **Automated [Valuation Models](../v/valuation_models.md)**: These models use [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to provide faster and more accurate valuations of assets.
-  
+
 - **Online Auction Platforms**: These platforms can help liquidators reach a wider audience, potentially driving up the price of the assets being sold.
 
 ### Algo-Trading and Liquidation
@@ -113,7 +113,7 @@ Recent technological advancements have introduced various tools and platforms th
 [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) may involve automated [liquidation](../l/liquidation.md) of certain positions as part of their [risk management](../r/risk_management.md) protocols. These algorithms can be programmed to:
 
 - **Execute [Stop-Loss Orders](../s/stop-loss_orders.md)**: Automatically sell a position when it hits a predefined stop-loss limit.
-  
+
 - **Rebalance Portfolios**: Automatically liquidate certain [holdings](../h/holdings.md) to maintain the desired portfolio allocation.
 
 ## Conclusion

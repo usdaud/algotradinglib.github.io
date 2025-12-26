@@ -83,28 +83,26 @@ Apps like Venmo and Zelle enable P2P transactions, allowing individuals to send 
 
 ## Key Companies and Projects
 
-### 1. BlockFi
-**Link:** [BlockFi](https://blockfi.com)
-
-BlockFi provides financial products for cryptocurrency holders, including [interest](../i/interest.md)-bearing accounts, loans, and trading services. They aim to bridge the gap between traditional [finance](../f/finance.md) and the cryptocurrency ecosystem.
+### 1. BlockFi (Defunct)
+**Note:** BlockFi filed for bankruptcy in November 2022 following the collapse of FTX and ceased operations. The company was a cryptocurrency lending platform that previously offered interest-bearing accounts, loans, and trading services.
 
 ### 2. Coinbase
-**Link:** [Coinbase](https://www.coinbase.com)
+**Link:** Coinbase
 
 [Coinbase](../c/coinbase.md) is one of the largest and most popular cryptocurrency exchanges in the world. It offers a platform for buying, selling, and storing cryptocurrencies, along with a [range](../r/range.md) of educational resources for users.
 
 ### 3. Ripple
-**Link:** [Ripple](https://ripple.com)
+**Link:** Ripple
 
 [Ripple](../r/ripple.md) is a digital [payment](../p/payment.md) protocol that enables real-time, cross-border payments. They utilize the XRP cryptocurrency to facilitate transactions and have partnered with various financial institutions globally.
 
 ### 4. PayPal
-**Link:** [PayPal](https://www.paypal.com)
+**Link:** PayPal
 
 [PayPal](../p/paypal.md) is a widely-used [digital wallet](../d/digital_wallet.md) and online [payment](../p/payment.md) system that allows users to make payments, send and receive [money](../m/money.md), and conduct transactions in various currencies.
 
 ### 5. China’s Digital Currency Electronic Payment (DCEP)
-**Link:** [PBOC](http://www.pbc.gov.cn)
+**Link:** PBOC
 
 The People’s [Bank](../b/bank.md) of China (PBOC) has been developing the [Digital Currency](../d/digital_currency.md) Electronic [Payment](../p/payment.md) (DCEP), a digital form of the yuan. This initiative aims to modernize China's [financial system](../f/financial_system.md) and enhance [payment](../p/payment.md) [efficiency](../e/efficiency.md).
 

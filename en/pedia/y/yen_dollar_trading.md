@@ -18,7 +18,7 @@ A wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.
 
 ### Fundamental Analysis
 
-[Fundamental analysis](../f/fundamental_analysis.md) involves assessing the [underlying](../u/underlying.md) economic, social, and political factors that may influence the [exchange rate](../e/exchange_rate.md). For USD/JPY, this includes reviewing [interest rate](../i/interest_rate.md) policies from the Federal Reserve and the [Bank](../b/bank.md) of Japan, monitoring [trade](../t/trade.md) balances, and analyzing [inflation](../i/inflation.md) rates. 
+[Fundamental analysis](../f/fundamental_analysis.md) involves assessing the [underlying](../u/underlying.md) economic, social, and political factors that may influence the [exchange rate](../e/exchange_rate.md). For USD/JPY, this includes reviewing [interest rate](../i/interest_rate.md) policies from the Federal Reserve and the [Bank](../b/bank.md) of Japan, monitoring [trade](../t/trade.md) balances, and analyzing [inflation](../i/inflation.md) rates.
 
 ### Technical Analysis
 
@@ -36,7 +36,7 @@ A wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.
 
 ### Central Bank Meetings
 
-The Federal Reserve in the U.S. and the [Bank](../b/bank.md) of Japan (BoJ) [hold](../h/hold.md) regular meetings to discuss [monetary policy](../m/monetary_policy.md). Decisions made during these meetings, such as changes in [interest](../i/interest.md) rates, can significantly impact the USD/JPY [exchange rate](../e/exchange_rate.md). 
+The Federal Reserve in the U.S. and the [Bank](../b/bank.md) of Japan (BoJ) [hold](../h/hold.md) regular meetings to discuss [monetary policy](../m/monetary_policy.md). Decisions made during these meetings, such as changes in [interest](../i/interest.md) rates, can significantly impact the USD/JPY [exchange rate](../e/exchange_rate.md).
 
 ### Economic Releases
 
@@ -74,9 +74,8 @@ Several trading platforms specialize in forex trading, [offering](../o/offering.
 
 Choosing a reputable [broker](../b/broker.md) is essential for successful forex trading. Key considerations include regulatory compliance, trading fees, and [customer](../c/customer.md) support. Some well-regarded brokers for trading USD/JPY include:
 
-- **[IG Group](../i/ig_group.md)** [ig.com](https://www.ig.com) 
-- **[OANDA](../o/oanda.md)** [oanda.com](https://www.oanda.com)
-- **FOREX.com** [forex.com](https://www.forex.com)
+- **[IG Group](../i/ig_group.md)** ig.com - **[OANDA](../o/oanda.md)** oanda.com
+- **FOREX.com** forex.com
 
 ## Conclusion
 

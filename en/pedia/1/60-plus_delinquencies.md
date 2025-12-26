@@ -50,7 +50,7 @@ Improving the [credit](../c/credit.md) assessment process can mitigate the likel
 - **Stricter [Underwriting Standards](../u/underwriting_standards.md):** Implementing more [robust](../r/robust.md) [underwriting](../u/underwriting.md) criteria can ensure that only creditworthy borrowers receive loans.
 - **[Credit](../c/credit.md) Scoring Models:** Utilising sophisticated [credit](../c/credit.md) scoring models and [alternative data](../a/alternative_data.md) can provide a more accurate assessment of borrower [risk](../r/risk.md).
 
-### Leveraging Technology 
+### Leveraging Technology
 
 Technological advancements [offer](../o/offer.md) tools for better delinquency management:
 - **[Predictive Analytics](../p/predictive_analytics.md):** Using [predictive analytics](../p/predictive_analytics.md) can help identify at-[risk](../r/risk.md) accounts before they become [delinquent](../d/delinquent.md).

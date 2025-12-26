@@ -95,7 +95,7 @@ Traders use Greeks to form profitable strategies under different [market](../m/m
 
 ### Automated Trading
 
-For firms that engage in [algorithmic trading](../a/accountability.md), Greeks can be programmed into [trading algorithms](../t/trading_algorithms.md) to dynamically adjust positions based on changes in the [market](../m/market.md), ensuring that portfolios remain hedged in real-time.
+For firms that engage in [algorithmic trading](../a/algorithmic_trading.md), Greeks can be programmed into [trading algorithms](../t/trading_algorithms.md) to dynamically adjust positions based on changes in the [market](../m/market.md), ensuring that portfolios remain hedged in real-time.
 
 ## Key Considerations
 

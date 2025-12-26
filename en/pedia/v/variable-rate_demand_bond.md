@@ -2,6 +2,8 @@
 
 Variable-Rate [Demand](../d/demand.md) Bonds (VRDBs), also known as Variable Rate [Demand](../d/demand.md) [Obligations](../o/obligation.md) (VRDOs), are a type of [municipal bond](../m/municipal_bond.md) with a [floating interest rate](../f/floating_interest_rate.md) that adjusts periodically. Unlike fixed-rate [municipal bonds](../m/municipal_bonds.md), the [interest](../i/interest.md) rates on VRDBs fluctuate based on changes in prevailing [market](../m/market.md) [interest](../i/interest.md) rates, which makes them an attractive investment for those seeking to [hedge](../h/hedge.md) against [interest rate risk](../i/interest_rate_risk.md). Here's a deep dive into various aspects of VRDBs:
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Characteristics
 ### Interest Rate Adjustments
 The [interest rate](../i/interest_rate.md) on VRDBs is typically reset at regular intervals—daily, weekly, or monthly—based on a specified [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR) or the Securities [Industry](../i/industry.md) and [Financial Markets](../f/financial_market.md) Association (SIFMA) Municipal [Swap](../s/swap.md) [Index](../i/index_instrument.md).
@@ -65,7 +67,7 @@ For investors, VRDBs serve as short-term investment instruments that [offer](../
 With the gradual phase-out of LIBOR, the VRDB [market](../m/market.md) has been transitioning toward alternative benchmarks like the Secured Overnight [Financing](../f/financing.md) Rate (SOFR). This transition aims to ensure a more stable and reliable [basis](../b/basis.md) for [interest rate](../i/interest_rate.md) adjustments.
 
 ### Digital Transformation and FinTech
-The adoption of digital platforms and fintech solutions is changing the landscape of how [municipal bonds](../m/municipal_bonds.md), including VRDBs, are issued and traded. Platforms that facilitate electronic trading, such as those provided by companies like BondCliQ ([https://www.bondcliq.com](https://www.bondcliq.com)), [offer](../o/offer.md) enhanced [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in the [market](../m/market.md).
+The adoption of digital platforms and fintech solutions is changing the landscape of how [municipal bonds](../m/municipal_bonds.md), including VRDBs, are issued and traded. Platforms that facilitate electronic trading, such as those provided by companies like BondCliQ ( [offer](../o/offer.md) enhanced [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in the [market](../m/market.md).
 
 ### Increased Focus on Sustainability
 As environmental, social, and governance (ESG) considerations [gain](../g/gain.md) prominence, municipalities are increasingly issuing VRDBs to [fund](../f/fund.md) sustainable and socially responsible projects. This [trend](../t/trend.md) aligns with the growing [investor](../i/investor.md) [demand](../d/demand.md) for investments that contribute to positive societal impacts.

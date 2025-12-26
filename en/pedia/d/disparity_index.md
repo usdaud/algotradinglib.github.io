@@ -10,8 +10,8 @@ The Disparity [Index](../i/index_instrument.md) is the difference between the cu
 
 The formula for calculating the Disparity [Index](../i/index_instrument.md) is:
 
-\[ 
-Disparity [Index](../i/index_instrument.md) (\%) = \left( \frac{Current Price - Moving Average}{Moving Average} \right) \times 100 
+\[
+Disparity [Index](../i/index_instrument.md) (\%) = \left( \frac{Current Price - Moving Average}{Moving Average} \right) \times 100
 \]
 
 Where:
@@ -33,7 +33,7 @@ Where:
 
 Imagine the current price of a stock is $150, and its 50-day Simple Moving Average (SMA) is $140. The Disparity [Index](../i/index_instrument.md) would be calculated as follows:
 
-\[ 
+\[
 Disparity [Index](../i/index_instrument.md) (\%) = \left( \frac{150 - 140}{140} \right) \times 100 = 7.14\%
 \]
 
@@ -65,19 +65,19 @@ Several trading platforms and institutions use the Disparity [Index](../i/index_
 
 The [Bloomberg](../b/bloomberg.md) Terminal provides functionalities for Disparity [Index](../i/index_instrument.md) analysis, allowing traders to set custom alerts based on Disparity [Index](../i/index_instrument.md) values. The [Bloomberg](../b/bloomberg.md) Terminal is widely used in [investment banking](../i/investment_banking.md), [asset management](../a/asset_management.md), and [wealth management](../w/wealth_management.md) industries.
 
-**Link**: [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+**Link**: Bloomberg Professional Services
 
 ### MetaTrader 4 & 5
 
 MetaTrader platforms [offer](../o/offer.md) built-in indicators for the Disparity [Index](../i/index_instrument.md). Traders can also create custom Expert Advisors (EAs) to automate strategies based on the Disparity [Index](../i/index_instrument.md).
 
-**Link**: [MetaTrader 4](https://www.metatrader4.com), [MetaTrader 5](https://www.metatrader5.com)
+**Link**: MetaTrader 4, MetaTrader 5
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) also supports the Disparity [Index](../i/index_instrument.md), allowing [backtesting](../b/backtesting.md) and deployment of custom strategies that include the Disparity [Index](../i/index_instrument.md) as a key parameter.
 
-**Link**: [NinjaTrader](https://ninjatrader.com)
+**Link**: NinjaTrader
 
 ## Advantages and Limitations
 
@@ -109,4 +109,4 @@ Ongoing research and development in the field of [algorithmic trading](../a/algo
 
 ## Conclusion
 
-The Disparity [Index](../i/index_instrument.md) remains a significant tool in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Its straightforward calculation and ability to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions make it a versatile addition to any [trader](../t/trader.md)'s toolkit. As research and technology evolve, so too [will](../w/will.md) the applications and effectiveness of the Disparity [Index](../i/index_instrument.md) in [financial markets](../f/financial_market.md).
+The Disparity [Index](../i/index_instrument.md) remains a significant tool in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Its straightforward calculation and ability to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions make it a versatile addition to any [trader](../t/trader.md)'s toolkit. As research and technology evolve, so too [will](../w/will.md) the applications and effectiveness of the Disparity [Index](../i/index_instrument.md) in [financial markets](../f/financial_market.md).

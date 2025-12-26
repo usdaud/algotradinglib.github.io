@@ -27,9 +27,9 @@ The key difference here is the \( \sqrt{r_t} \) term, which ensures that [intere
 
 ## Hull-White Model
 
-The [Hull-White model](../h/hull-white_model.md) is an extension of the Vasicek model, introduced by John Hull and Alan White. It allows for the time-varying mean level \( \[theta](../t/theta.md)(t) \):
+The [Hull-White model](../h/hull-white_model.md) is an extension of the Vasicek model, introduced by John Hull and Alan White. It allows for the time-varying mean level \( \theta(t) \):
 
-\[ dr_t = (\[theta](../t/theta.md)(t) - ar_t)dt + \sigma dW_t \]
+\[ dr_t = (\theta(t) - ar_t)dt + \sigma dW_t \]
 
 This time-dependent flexibility makes the [Hull-White model](../h/hull-white_model.md) more adaptable to current [market](../m/market.md) conditions compared to the Vasicek model.
 
@@ -37,26 +37,26 @@ This time-dependent flexibility makes the [Hull-White model](../h/hull-white_mod
 
 The Heath-Jarrow-Morton (HJM) framework, developed by David Heath, Robert Jarrow, and Andrew Morton, takes a different approach by modeling the entire [forward rate](../f/forward_rate.md) curve rather than a short-term [interest rate](../i/interest_rate.md). It is described by:
 
-\[ df(t, T) = \[alpha](../a/alpha.md)(t, T)dt + \sigma(t, T) dW_t \]
+\[ df(t, T) = \alpha(t, T)dt + \sigma(t, T) dW_t \]
 
-where \( f(t, T) \) is the [forward rate](../f/forward_rate.md) at time \( t \) for time \( T \), and \( \[alpha](../a/alpha.md)(t, T) \) and \( \sigma(t, T) \) are the drift and [volatility](../v/volatility.md) functions, respectively. The HJM model is very general and can accommodate a wide [range](../r/range.md) of dynamics for the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
+where \( f(t, T) \) is the [forward rate](../f/forward_rate.md) at time \( t \) for time \( T \), and \( \alpha(t, T) \) and \( \sigma(t, T) \) are the drift and [volatility](../v/volatility.md) functions, respectively. The HJM model is very general and can accommodate a wide [range](../r/range.md) of dynamics for the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
-## LIBOR Market Model (BGM Model)
+## Market Models (LMM/RFR)
 
-The LIBOR [Market](../m/market.md) Model, also known as the Brace-Gatarek-Musiela (BGM) model, extends the HJM framework specifically for the modeling of [forward rate](../f/forward_rate.md) agreements and [interest rate](../i/interest_rate.md) caps/floors. It models the evolution of LIBOR rates directly:
+The LIBOR Market Model (LMM), also known as the Brace-Gatarek-Musiela (BGM) model, extends the HJM framework specifically for the modeling of [forward rate](../f/forward_rate.md) agreements and [interest rate](../i/interest_rate.md) caps/floors. Following the discontinuation of LIBOR in 2023, the industry has transitioned to Risk-Free Rate (RFR) market models that apply the same framework to rates such as SOFR (Secured Overnight Financing Rate), SONIA, and €STR. The model describes the evolution of forward rates as:
 
 \[ dL_i(t) = L_i(t) \left( \mu_i dt + \sum_{j} \sigma_{ij} dW_j(t) \right) \]
 
-where \( L_i(t) \) is the forward [LIBOR rate](../l/libor_rate_analysis.md) with [maturity](../m/maturity.md) \( i \), and \( \mu_i \) and \( \sigma_{ij} \) are the drift and [volatility](../v/volatility.md) terms. It is particularly popular in [market](../m/market.md) practice for its ability to closely match observed [market](../m/market.md) prices of [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md).
+where \( L_i(t) \) is the forward rate with [maturity](../m/maturity.md) \( i \), and \( \mu_i \) and \( \sigma_{ij} \) are the drift and [volatility](../v/volatility.md) terms. This framework remains particularly popular in [market](../m/market.md) practice for its ability to closely match observed [market](../m/market.md) prices of [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md).
 
 ## Application in Algo Trading
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md), [interest rate](../i/interest_rate.md) models play a pivotal role in pricing and hedging [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md), managing risks, and generating [alpha](../a/alpha.md). Algorithmic traders use these models to forecast [interest rate](../i/interest_rate.md) movements and to identify trading opportunities in the [bond](../b/bond.md) and [derivatives](../d/derivatives.md) markets.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), [interest rate](../i/interest_rate.md) models play a pivotal role in pricing and hedging [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md), managing risks, and generating alpha. Algorithmic traders use these models to forecast [interest rate](../i/interest_rate.md) movements and to identify trading opportunities in the [bond](../b/bond.md) and [derivatives](../d/derivatives.md) markets.
 
 ### Example Companies
 
-- **Numerix**: A renowned provider of [risk management](../r/risk_management.md) and trading analytics solutions, utilizing advanced [interest rate](../i/interest_rate.md) models. More information at [Numerix](https://www.numerix.com/).
-- **Quantifi**: Delivers enterprise [risk](../r/risk.md), analytics, and trading solutions for the [financial markets](../f/financial_market.md), leveraging state-of-the-art [interest rate](../i/interest_rate.md) models. Learn more at [Quantifi](https://www.quantifisolutions.com/).
+- **Numerix**: A renowned provider of [risk management](../r/risk_management.md) and trading analytics solutions, utilizing advanced [interest rate](../i/interest_rate.md) models. More information at Numerix.
+- **Quantifi**: Delivers enterprise [risk](../r/risk.md), analytics, and trading solutions for the [financial markets](../f/financial_market.md), leveraging state-of-the-art [interest rate](../i/interest_rate.md) models. Learn more at Quantifi.
 
 ## Conclusion
 

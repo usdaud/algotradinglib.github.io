@@ -88,4 +88,4 @@ Looking ahead, the IFC aims to build on its strengths and address these challeng
 
 The International [Finance](../f/finance.md) [Corporation](../c/corporation.md) plays a pivotal role in fostering [private sector](../p/private_sector.md) development in developing countries. Through its diverse [range](../r/range.md) of financial products, advisory services, and strategic initiatives, the IFC contributes to [economic growth](../e/economic_growth.md), [poverty](../p/poverty.md) reduction, and sustainable development worldwide. As the institution continues to innovate and evolve, it remains committed to its mission of creating opportunities and improving lives in the world's most challenging environments.
 
-For more detailed information, you can visit the [International Finance Corporation's official website](https://www.ifc.org).
+For more detailed information,

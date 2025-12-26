@@ -7,24 +7,24 @@
 A [market](../m/market.md) cycle consists of four main phases: accumulation, [uptrend](../u/uptrend.md) (or markup), [distribution](../d/distribution.md), and [downtrend](../d/downtrend.md) (or markdown). Each of these phases represents a distinct poet of [market dynamics](../m/market_dynamics.md) and [investor](../i/investor.md) psychology:
 
 1. **[Accumulation Phase](../a/accumulation_phase.md)**:
-   - **Characteristics**: This phase occurs after the [market](../m/market.md) has bottomed out and is marked by relatively low prices. During this period, informed investors start purchasing assets at low prices anticipating future appreciation.
-   - **[Investor](../i/investor.md) Sentiment**: Pessimism still predominates, but the [smart money](../s/smart_money.md) (institutional investors) begins to accumulate [shares](../s/shares.md).
-   - **Algo-Trading Role**: Algorithms may scan for [undervalued](../u/undervalued.md) [stocks](../s/stock.md) or signs of increased [volume](../v/volume.md) to signal the start of accumulation.
+ - **Characteristics**: This phase occurs after the [market](../m/market.md) has bottomed out and is marked by relatively low prices. During this period, informed investors start purchasing assets at low prices anticipating future appreciation.
+ - **[Investor](../i/investor.md) Sentiment**: Pessimism still predominates, but the [smart money](../s/smart_money.md) (institutional investors) begins to accumulate [shares](../s/shares.md).
+ - **Algo-Trading Role**: Algorithms may scan for [undervalued](../u/undervalued.md) [stocks](../s/stock.md) or signs of increased [volume](../v/volume.md) to signal the start of accumulation.
 
 2. **[Uptrend](../u/uptrend.md)/Markup Phase**:
-   - **Characteristics**: Prices begin to rise as more investors join the buying spree, often driven by improving [economic indicators](../e/economic_indicators.md) and increasing [investor](../i/investor.md) confidence.
-   - **[Investor](../i/investor.md) Sentiment**: Optimism and increasing greed.
-   - **Algo-Trading Role**: Algorithms may utilize [trend](../t/trend.md)-following strategies to [capitalize](../c/capitalize.md) on the rising [market](../m/market.md).
+ - **Characteristics**: Prices begin to rise as more investors join the buying spree, often driven by improving [economic indicators](../e/economic_indicators.md) and increasing [investor](../i/investor.md) confidence.
+ - **[Investor](../i/investor.md) Sentiment**: Optimism and increasing greed.
+ - **Algo-Trading Role**: Algorithms may utilize [trend](../t/trend.md)-following strategies to [capitalize](../c/capitalize.md) on the rising [market](../m/market.md).
 
 3. **[Distribution](../d/distribution.md) Phase**:
-   - **Characteristics**: Prices start to stabilize and may show signs of topping out. This period is characterized by increasing [volatility](../v/volatility.md).
-   - **[Investor](../i/investor.md) Sentiment**: Mixed emotions, but savvy investors begin to sell their [holdings](../h/holdings.md).
-   - **Algo-Trading Role**: Algorithms might begin to signal for [profit](../p/profit.md)-taking strategies or short-selling opportunities.
+ - **Characteristics**: Prices start to stabilize and may show signs of topping out. This period is characterized by increasing [volatility](../v/volatility.md).
+ - **[Investor](../i/investor.md) Sentiment**: Mixed emotions, but savvy investors begin to sell their [holdings](../h/holdings.md).
+ - **Algo-Trading Role**: Algorithms might begin to signal for [profit](../p/profit.md)-taking strategies or short-selling opportunities.
 
 4. **[Downtrend](../d/downtrend.md)/Markdown Phase**:
-   - **Characteristics**: The [market](../m/market.md) starts to decline, driven by widespread selling as investors offload their positions in response to negative news and economic downturns.
-   - **[Investor](../i/investor.md) Sentiment**: Fear and panic.
-   - **Algo-Trading Role**: Algorithms may engage in short-selling or utilize [hedging strategies](../h/hedging_strategies.md) to protect against losses.
+ - **Characteristics**: The [market](../m/market.md) starts to decline, driven by widespread selling as investors offload their positions in response to negative news and economic downturns.
+ - **[Investor](../i/investor.md) Sentiment**: Fear and panic.
+ - **Algo-Trading Role**: Algorithms may engage in short-selling or utilize [hedging strategies](../h/hedging_strategies.md) to protect against losses.
 
 ## Identifying Market Cycles
 
@@ -88,11 +88,10 @@ Advanced algorithms scan news articles, [social media](../s/social_media.md), an
 
 Several companies specialize in providing tools and platforms optimized for algo-trading based on [market](../m/market.md) cycles:
 
-- **[QuantConnect](../q/quantconnect.md)**: A [premium](../p/premium.md) [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies using historical data. [QuantConnect](https://www.quantconnect.com).
-- **[Alpaca](../a/alpaca.md)**: This [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) features an API that's favored by algo-traders for its low latency and cutting-edge integration capabilities. [Alpaca](https://www.alpaca.markets).
-- **pQuantConnect**: A research-driven [firm](../f/firm.md) [offering](../o/offering.md) advanced [algorithmic trading](../a/algorithmic_trading.md) software solutions designed for [hedge](../h/hedge.md) funds and trading strategists. [TradeStation](https://www.tradestation.com).
-  
+- **[QuantConnect](../q/quantconnect.md)**: A [premium](../p/premium.md) [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies using historical data. QuantConnect.
+- **[Alpaca](../a/alpaca.md)**: This [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) features an API that's favored by algo-traders for its low latency and cutting-edge integration capabilities. Alpaca.
+- **pQuantConnect**: A research-driven [firm](../f/firm.md) [offering](../o/offering.md) advanced [algorithmic trading](../a/algorithmic_trading.md) software solutions designed for [hedge](../h/hedge.md) funds and trading strategists. TradeStation.
+
 ## Conclusion
 
 Understanding [market](../m/market.md) cycles is an essential skill for any [trader](../t/trader.md), and it becomes even more critical when engaging in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be specifically tailored to take advantage of each phase of the [market](../m/market.md) cycle, leveraging both [technical indicators](../t/technical_indicators.md) and [fundamental analysis](../f/fundamental_analysis.md). Furthermore, advances in [machine learning](../m/machine_learning.md) and AI provide traders with powerful tools to predict and navigate these cycles more effectively. By incorporating these strategies into their [trading systems](../t/trading_systems.md), algo-traders can enhance their ability to generate [alpha](../a/alpha.md) and manage [risk](../r/risk.md) in various [market](../m/market.md) conditions.
-

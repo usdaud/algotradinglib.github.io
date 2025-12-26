@@ -7,39 +7,39 @@ Nonmonetary assets are assets that cannot be easily converted into a known amoun
 ### Tangible Assets
 
 1. **Property, Plant, and Equipment (PP&E)**
-   - **Land:** Unlike many other [tangible assets](../t/tangible_asset.md), land generally does not depreciate over time.
-   - **Buildings:** Structures used for operational purposes, [warehousing](../w/warehousing.md), or administrative functions.
-   - **Machinery and Equipment:** Used in production processes and other operational activities.
+ - **Land:** Unlike many other [tangible assets](../t/tangible_asset.md), land generally does not depreciate over time.
+ - **Buildings:** Structures used for operational purposes, [warehousing](../w/warehousing.md), or administrative functions.
+ - **Machinery and Equipment:** Used in production processes and other operational activities.
 
 2. **Natural Resources**
-   - **Oil and Gas Reserves:** Extracted and converted into products for [sale](../s/sale.md).
-   - **Mineral Deposits:** Metals and other minerals extracted from mine sites.
-   - **Forestry Resources:** Harvested as timber or other forest products.
+ - **Oil and Gas Reserves:** Extracted and converted into products for [sale](../s/sale.md).
+ - **Mineral Deposits:** Metals and other minerals extracted from mine sites.
+ - **Forestry Resources:** Harvested as timber or other forest products.
 
 3. **[Inventory](../i/inventory.md)**
-   - **[Raw Materials](../r/raw_materials.md):** Items used in the production of goods and services.
-   - **Work-in-Progress (WIP):** Partially completed goods that are still in the production process.
-   - **Finished Goods:** Completed products ready for [sale](../s/sale.md).
+ - **[Raw Materials](../r/raw_materials.md):** Items used in the production of goods and services.
+ - **Work-in-Progress (WIP):** Partially completed goods that are still in the production process.
+ - **Finished Goods:** Completed products ready for [sale](../s/sale.md).
 
 ### Intangible Assets
 
 1. **[Goodwill](../g/goodwill.md)**
-   - Represented as the [premium](../p/premium.md) paid over the fair [market value](../m/market_value.md) of the net assets during an [acquisition](../a/acquisition.md).
-   - Reflects elements such as brand reputation, [customer](../c/customer.md) relationships, and innovative products.
+ - Represented as the [premium](../p/premium.md) paid over the fair [market value](../m/market_value.md) of the net assets during an [acquisition](../a/acquisition.md).
+ - Reflects elements such as brand reputation, [customer](../c/customer.md) relationships, and innovative products.
 
 2. **Intellectual Property (IP)**
-   - **Patents:** Legal rights granted for an invention, giving the holder exclusive rights to its use and [distribution](../d/distribution.md).
-   - **Trademarks:** Recognizable signs, logos, or names protecting brands.
-   - **Copyrights:** Protection of artistic works, including literature, music, and software.
+ - **Patents:** Legal rights granted for an invention, giving the holder exclusive rights to its use and [distribution](../d/distribution.md).
+ - **Trademarks:** Recognizable signs, logos, or names protecting brands.
+ - **Copyrights:** Protection of artistic works, including literature, music, and software.
 
 3. **Licenses and Permits**
-   - Grants the holder rights to undertake specific activities. Common in industries like broadcasting, [mining](../m/mining.md), and telecommunications.
+ - Grants the holder rights to undertake specific activities. Common in industries like broadcasting, [mining](../m/mining.md), and telecommunications.
 
 4. **Franchises**
-   - Agreements that allow one entity to [market](../m/market.md) and sell the products or services of another company.
+ - Agreements that allow one entity to [market](../m/market.md) and sell the products or services of another company.
 
 5. **Research and Development (R&D) Costs**
-   - Often capitalized when certain criteria are met, representing the efforts toward innovation and new product development.
+ - Often capitalized when certain criteria are met, representing the efforts toward innovation and new product development.
 
 ## Valuation of Nonmonetary Assets
 
@@ -74,7 +74,7 @@ Valuing nonmonetary assets can be complex due to their diverse nature and the su
 
 ## Financial Decision-making Implications
 
-The management and accurate reporting of nonmonetary assets is crucial for various stakeholders, as these assets can significantly impact [financial health](../f/financial_health.md) and operational capacity. 
+The management and accurate reporting of nonmonetary assets is crucial for various stakeholders, as these assets can significantly impact [financial health](../f/financial_health.md) and operational capacity.
 
 ### Capital Investment Decisions
 - Investment in PP&E or intangible assets requires careful consideration of [expected return](../e/expected_return.md) on investment (ROI) and payback periods.
@@ -94,12 +94,12 @@ The management and accurate reporting of nonmonetary assets is crucial for vario
 ## Examples of Companies with Significant Nonmonetary Assets
 
 1. **Apple Inc.**
-   - Heavily reliant on intellectual property, including patents and trademarks. URL: [Apple Inc.](https://www.apple.com/)
-   
+ - Heavily reliant on intellectual property, including patents and trademarks. URL: Apple Inc.
+
 2. **ExxonMobil**
-   - Holds significant nonmonetary assets in the form of natural resource reserves. URL: [ExxonMobil](https://corporate.exxonmobil.com/)
+ - Holds significant nonmonetary assets in the form of natural resource reserves. URL: ExxonMobil
 
 3. **Coca-Cola**
-   - Known for its branding and [goodwill](../g/goodwill.md). URL: [Coca-Cola](https://www.coca-colacompany.com/)
+ - Known for its branding and [goodwill](../g/goodwill.md). URL: Coca-Cola
 
 Understanding nonmonetary assets is vital in the context of overall [asset management](../a/asset_management.md) and financial strategy. They often represent substantial portions of a company's [balance sheet](../b/balance_sheet.md) and require diligent management to maximize their [value](../v/value.md) and ensure the sustainable success of the [business](../b/business.md).

@@ -5,7 +5,7 @@ Neoclassical growth theory is a framework used to analyze the long-term [economi
 ## Key Components
 
 ### Capital Accumulation
-[Capital](../c/capital.md) accumulation refers to the growth of [capital](../c/capital.md) resources, including human and [physical capital](../p/physical_capital.md). According to the neoclassical growth theory, investments in [physical capital](../p/physical_capital.md) (e.g., machinery, [infrastructure](../i/infrastructure.md)) and [human capital](../h/human_capital.md) (e.g., education, skills) are crucial for enhancing an [economy](../e/economy.md)'s productive capacity. 
+[Capital](../c/capital.md) accumulation refers to the growth of [capital](../c/capital.md) resources, including human and [physical capital](../p/physical_capital.md). According to the neoclassical growth theory, investments in [physical capital](../p/physical_capital.md) (e.g., machinery, [infrastructure](../i/infrastructure.md)) and [human capital](../h/human_capital.md) (e.g., education, skills) are crucial for enhancing an [economy](../e/economy.md)'s productive capacity.
 
 1. **[Physical Capital](../p/physical_capital.md)**: Investments in [physical capital](../p/physical_capital.md) contribute to higher [productivity](../p/productivity.md) by enabling more efficient production processes.
 2. **[Human Capital](../h/human_capital.md)**: Investments in education, training, and health improve the [productivity](../p/productivity.md) of workers, which in turn supports [economic growth](../e/economic_growth.md).
@@ -34,27 +34,27 @@ The Solow-Swan model is a pivotal analytical tool within neoclassical growth the
 ### Core Equations
 
 1. **Production Function**: The production function in the Solow-Swan model is typically represented as:
-   \[
-   Y = A \cdot F(K, L)
-   \]
-   where \(Y\) denotes total output, \(A\) represents technological progress, \(K\) stands for [capital](../c/capital.md), and \(L\) is labor.
+ \[
+ Y = A \cdot F(K, L)
+ \]
+ where \(Y\) denotes total output, \(A\) represents technological progress, \(K\) stands for [capital](../c/capital.md), and \(L\) is labor.
 
 2. **[Capital](../c/capital.md) Accumulation Equation**: The change in [capital stock](../c/capital_stock.md) over time (\(\[Delta](../d/delta.md) K\)) is given by:
-   \[
-   \[Delta](../d/delta.md) K = sY - \[delta](../d/delta.md) K
-   \]
-   where \(s\) is the savings rate and \(\[delta](../d/delta.md)\) denotes the [depreciation](../d/depreciation.md) rate of [capital](../c/capital.md).
+ \[
+ \[Delta](../d/delta.md) K = sY - \[delta](../d/delta.md) K
+ \]
+ where \(s\) is the savings rate and \(\[delta](../d/delta.md)\) denotes the [depreciation](../d/depreciation.md) rate of [capital](../c/capital.md).
 
 3. **Steady State**: The [economy](../e/economy.md) reaches a steady state when [capital](../c/capital.md) per worker (\(k\)) remains constant over time, implying that new investments just cover [depreciation](../d/depreciation.md) and the [dilution](../d/dilution.md) of [capital](../c/capital.md) from labor force growth. Mathematically, this occurs when:
-   \[
-   s f(k) = (\[delta](../d/delta.md) + n) k
-   \]
-   where \(n\) is the labor force growth rate, and \(f(k)\) is the per-worker production function.
+ \[
+ s f(k) = (\[delta](../d/delta.md) + n) k
+ \]
+ where \(n\) is the labor force growth rate, and \(f(k)\) is the per-worker production function.
 
 ### Implications of the Solow-Swan Model
 
 1. **Convergence Hypothesis**: The model implies that poorer economies [will](../w/will.md) eventually converge to the [income](../i/income.md) levels of richer economies, provided they share similar savings rates, [depreciation](../d/depreciation.md) rates, and access to technology. This phenomenon is known as conditional convergence.
-   
+
 2. **Role of Policy**: The Solow-Swan model emphasizes the importance of policies that encourage high savings rates, stable population growth, and investments in technology to support sustained [economic growth](../e/economic_growth.md).
 
 ## Endogenous Growth Theory
@@ -64,7 +64,7 @@ While neoclassical growth theory and the Solow-Swan model provide valuable insig
 ### Key Features
 
 1. **Knowledge Spillovers**: [Endogenous growth theory](../e/endogenous_growth_theory.md) posits that investments in research and development create knowledge that spills over to other firms and sectors, driving continuous technological progress.
-   
+
 2. **[Human Capital](../h/human_capital.md) Accumulation**: The theory emphasizes the role of [human capital](../h/human_capital.md) and suggests that policies promoting education and skills development can lead to sustained [economic growth](../e/economic_growth.md).
 
 3. **Positive Externalities**: Investments in [human capital](../h/human_capital.md), innovation, and knowledge create positive externalities that lead to increasing returns to scale, contrary to the diminishing returns in the Solow-Swan model.
@@ -74,16 +74,16 @@ While neoclassical growth theory and the Solow-Swan model provide valuable insig
 Paul Romer's contribution to [endogenous growth theory](../e/endogenous_growth_theory.md) includes a model where technological change is driven by intentional investments in research and development, influenced by economic incentives.
 
 1. **Production Function**: In Romer's model, the production function incorporates knowledge as an input:
-   \[
-   Y = A \cdot K^\[alpha](../a/alpha.md) \cdot L^\[beta](../b/beta.md) \cdot H^\[gamma](../g/gamma.md)
-   \]
-   where \(H\) represents the stock of [human capital](../h/human_capital.md).
+ \[
+ Y = A \cdot K^\[alpha](../a/alpha.md) \cdot L^\[beta](../b/beta.md) \cdot H^\[gamma](../g/gamma.md)
+ \]
+ where \(H\) represents the stock of [human capital](../h/human_capital.md).
 
 2. **Knowledge Accumulation**: Technological progress within Romer's framework is described by:
-   \[
-   \[Delta](../d/delta.md) A = B \cdot H \cdot A
-   \]
-   where \(B\) is a parameter determining the effect of [human capital](../h/human_capital.md) on innovation.
+ \[
+ \[Delta](../d/delta.md) A = B \cdot H \cdot A
+ \]
+ where \(B\) is a parameter determining the effect of [human capital](../h/human_capital.md) on innovation.
 
 ## Real-World Applications and Case Studies
 
@@ -103,4 +103,4 @@ Despite its contributions, neoclassical growth theory faces criticisms, especial
 
 Neoclassical growth theory, with its focus on [capital](../c/capital.md) accumulation, labor force growth, and technological progress, remains a cornerstone in understanding long-term [economic growth](../e/economic_growth.md). Tools like the Solow-Swan model [offer](../o/offer.md) valuable insights into the dynamics of growth and convergence among economies. However, evolving theoretical advancements, such as [endogenous growth theory](../e/endogenous_growth_theory.md), continue to enrich our understanding by incorporating innovation and knowledge as intrinsic elements of the growth process.
 
-For further information on companies and innovative research related to [economic growth](../e/economic_growth.md) theory, visiting their official websites or specific economic departments in universities can provide deeper insights. For instance, exploring the work of economists at the National Bureau of Economic Research (NBER) can provide additional empirical studies and theoretical advancements in this domain. Their website is [NBER](https://www.nber.org/).
+For further information on companies and innovative research related to [economic growth](../e/economic_growth.md) theory, visiting their official websites or specific economic departments in universities can provide deeper insights. For instance, exploring the work of economists at the National Bureau of Economic Research (NBER) can provide additional empirical studies and theoretical advancements in this domain. their online platform is NBER.

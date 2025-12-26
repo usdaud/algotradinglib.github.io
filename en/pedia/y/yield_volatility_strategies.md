@@ -41,9 +41,9 @@ Investors and portfolio managers use [yield volatility](../y/yield_volatility.md
 
 ### Real-world Applications and Examples
 
-Several financial institutions and [asset management](../a/asset_management.md) firms employ [yield volatility](../y/yield_volatility.md) strategies. One prominent example is PIMCO, a global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [fixed income](../f/fixed_income.md). PIMCO uses a [range](../r/range.md) of [yield volatility](../y/yield_volatility.md) strategies to manage its [bond](../b/bond.md) portfolios and generate returns for its clients. More information about their approach can be found on their [official website](https://www.pimco.com).
+Several financial institutions and [asset management](../a/asset_management.md) firms employ [yield volatility](../y/yield_volatility.md) strategies. One prominent example is PIMCO, a global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [fixed income](../f/fixed_income.md). PIMCO uses a [range](../r/range.md) of [yield volatility](../y/yield_volatility.md) strategies to manage its [bond](../b/bond.md) portfolios and generate returns for its clients.
 
-Another notable example is BlackRock, the world's largest [asset](../a/asset.md) manager. BlackRock employs sophisticated [yield volatility](../y/yield_volatility.md) strategies across its fixed-[income](../i/income.md) funds to optimize [portfolio performance](../p/portfolio_performance.md). Details on their methodologies are available on their [official website](https://www.blackrock.com).
+Another notable example is BlackRock, the world's largest [asset](../a/asset.md) manager. BlackRock employs sophisticated [yield volatility](../y/yield_volatility.md) strategies across its fixed-[income](../i/income.md) funds to optimize [portfolio performance](../p/portfolio_performance.md).
 
 ### Conclusion
 

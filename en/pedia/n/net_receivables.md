@@ -25,7 +25,7 @@ For example, if a company has gross receivables of $500,000 and the [allowance f
 Net receivables are crucial for several reasons:
 
 1. **[Cash Flow](../c/cash_flow.md) Management**: Effective [cash flow](../c/cash_flow.md) management hinges on accurate net receivables. Since it represents the realistic figures of incoming cash, businesses can plan their finances better and ensure sufficient [liquidity](../l/liquidity.md).
-   
+
 2. **Financial Reporting**: Net receivables [offer](../o/offer.md) a truer representation of a company's [financial health](../f/financial_health.md) on the [balance sheet](../b/balance_sheet.md), as it adjusts for potential losses from bad debts.
 
 3. **[Creditworthiness](../c/creditworthiness.md)**: Analysts and creditors often examine net receivables to gauge a company's [credit](../c/credit.md) policies and [risk management](../r/risk_management.md). A higher [allowance for doubtful accounts](../a/allowance_for_doubtful_accounts.md) may indicate a higher [risk](../r/risk.md) of non-collection, affecting the company's borrowing ability.
@@ -105,7 +105,7 @@ With the advent of financial technology (fintech), the management of net receiva
 
 4. **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology promises enhanced [transparency](../t/transparency.md), immutable records, and efficient contract management, which can significantly reduce disputes and ensure timely payments.
 
-5. **Automated Collection Solutions**: Fintech companies like **AvidXchange** (https://www.avidxchange.com) and **Bill.com** (https://www.bill.com) [offer](../o/offer.md) automated invoicing and [payment](../p/payment.md) solutions that expedite collections while reducing human errors.
+5. **Automated Collection Solutions**: Fintech companies like **AvidXchange** ( and **Bill.com** ( [offer](../o/offer.md) automated invoicing and [payment](../p/payment.md) solutions that expedite collections while reducing human errors.
 
 ## Challenges in Managing Net Receivables
 

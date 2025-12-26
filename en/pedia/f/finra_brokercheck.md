@@ -13,11 +13,11 @@ FINRA BrokerCheck is a comprehensive database that offers detailed information a
 BrokerCheck provides a [wealth](../w/wealth.md) of information about brokers and brokerage firms, including:
 
 - **Employment History**: Detailed records of a [broker](../b/broker.md)'s employment over the years, allowing investors to see tenure and movement within the [industry](../i/industry.md).
-  
+
 - **Licensing and Registrations**: Comprehensive information regarding the licenses a [broker](../b/broker.md) or brokerage holds, including [Series 7](../s/series_7.md), [Series 63](../s/series_63.md), and other relevant qualifications.
-  
+
 - **Disclosures**: Information on any disciplinary actions, regulatory rulings, or [investor](../i/investor.md) complaints that have been filed against the [broker](../b/broker.md) or brokerage.
-  
+
 - **Examinations Passed**: Details about the different regulatory exams the [broker](../b/broker.md) has passed, showcasing their qualifications.
 
 ### User-Friendly Interface
@@ -44,9 +44,9 @@ Under the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934
 
 ## How to Use BrokerCheck: A Step-by-Step Guide
 
-### Step 1: Access the Website
+### Step 1:
 
-Visit the [FINRA BrokerCheck website](https://brokercheck.finra.org).
+
 
 ### Step 2: Begin Your Search
 
@@ -100,4 +100,4 @@ A newly graduated [finance](../f/finance.md) major wants to start [investing](..
 
 FINRA BrokerCheck is a pivotal resource for anyone involved in financial investments, whether retail or institutional investors. It offers unparalleled [transparency](../t/transparency.md) and detailed information that helps individuals make informed decisions about brokers and brokerage firms. By leveraging this tool, investors can enhance their [due diligence](../d/due_diligence.md) processes, mitigate risks, and promote overall [market](../m/market.md) integrity. As the financial world becomes increasingly complex, tools like BrokerCheck play a crucial role in safeguarding investors' interests and fostering a transparent financial environment.
 
-To start using FINRA BrokerCheck or to find more information, visit [FINRA BrokerCheck](https://brokercheck.finra.org).
+To start using FINRA BrokerCheck or to find more information, visit FINRA BrokerCheck.

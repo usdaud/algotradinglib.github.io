@@ -43,13 +43,13 @@ Continuous monitoring and reporting of risks ensure that [risk management](../r/
 ## Examples of Companies Managing Business Risk
 
 ### J.P. Morgan Chase & Co.
-J.P. Morgan Chase & Co., a leading global financial services [firm](../f/firm.md), has a [robust](../r/robust.md) [risk management](../r/risk_management.md) framework to address various [business](../b/business.md) risks. The company's approach includes comprehensive [risk](../r/risk.md) identification, assessment, and mitigation strategies tailored to financial risks, operational risks, and compliance risks. More information can be found on their [official website](https://www.jpmorganchase.com).
+J.P. Morgan Chase & Co., a leading global financial services [firm](../f/firm.md), has a [robust](../r/robust.md) [risk management](../r/risk_management.md) framework to address various [business](../b/business.md) risks. The company's approach includes comprehensive [risk](../r/risk.md) identification, assessment, and mitigation strategies tailored to financial risks, operational risks, and compliance risks.
 
 ### Procter & Gamble (P&G)
-Procter & Gamble, a multinational [consumer goods](../c/consumer_goods.md) [corporation](../c/corporation.md), implements extensive [risk management](../r/risk_management.md) practices to manage its diverse portfolio and global operations. P&G focuses on strategic risks, [supply chain](../s/supply_chain.md) risks, and reputational risks, adopting numerous [risk](../r/risk.md) reduction and transfer strategies. Their approach is detailed on their [official website](https://us.pg.com).
+Procter & Gamble, a multinational [consumer goods](../c/consumer_goods.md) [corporation](../c/corporation.md), implements extensive [risk management](../r/risk_management.md) practices to manage its diverse portfolio and global operations. P&G focuses on strategic risks, [supply chain](../s/supply_chain.md) risks, and reputational risks, adopting numerous [risk](../r/risk.md) reduction
 
 ### Microsoft Corporation
-Microsoft [Corporation](../c/corporation.md), a global technology company, faces significant cybersecurity and compliance risks due to its expansive digital operations. Microsoft's comprehensive [risk management](../r/risk_management.md) program includes advanced cybersecurity measures, compliance with international data protection laws, and continuous monitoring of emerging threats. More information is available on their [official website](https://www.microsoft.com).
+Microsoft [Corporation](../c/corporation.md), a global technology company, faces significant cybersecurity and compliance risks due to its expansive digital operations. Microsoft's comprehensive [risk management](../r/risk_management.md) program includes advanced cybersecurity measures, compliance with international data protection laws, and continuous monitoring of emerging threats.
 
 ## Conclusion
 

@@ -38,8 +38,8 @@ For portfolio managers, the 52-week [range](../r/range.md) informs [risk managem
 1. **Data Collection**: Compile historical price data for the target [security](../s/security.md) over the last 52 weeks.
 2. **[Range](../r/range.md) Calculation**: Calculate the 52-week high, low, and the current price.
 3. **Signal Generation**:
-   - **Buy Signal**: If the current price is within 5% of the 52-week low, generate a buy signal.
-   - **Sell Signal**: If the current price is within 5% of the 52-week high, generate a sell signal.
+ - **Buy Signal**: If the current price is within 5% of the 52-week low, generate a buy signal.
+ - **Sell Signal**: If the current price is within 5% of the 52-week high, generate a sell signal.
 4. **[Execution](../e/execution.md)**: Automated systems place trades based on the generated signals.
 
 Here's a simplified Python code snippet for such a strategy:
@@ -69,16 +69,16 @@ for [index](../i/index_instrument.md), row in df.iterrows():
 Several companies and financial platforms provide real-time 52-week [range](../r/range.md) information. Here are a few examples:
 
 ### Yahoo Finance
-[Yahoo Finance](../y/yahoo_finance.md) is a widely used platform that offers detailed financial data, including the 52-week [range](../r/range.md) for [stocks](../s/stock.md). [Yahoo Finance](https://finance.yahoo.com)
+[Yahoo Finance](../y/yahoo_finance.md) is a widely used platform that offers detailed financial data, including the 52-week [range](../r/range.md) for [stocks](../s/stock.md).
 
 ### Google Finance
-Google [Finance](../f/finance.md) offers a clean interface for [tracking stock](../t/tracking_stock.md) performance, including their 52-week [range](../r/range.md). [Google Finance](https://www.google.com/finance)
+Google [Finance](../f/finance.md) offers a clean interface for [tracking stock](../t/tracking_stock.md) performance, including their 52-week [range](../r/range.md).
 
 ### Morningstar
-[Morningstar](../m/morningstar.md) provides comprehensive investment research, featuring the 52-week [range](../r/range.md) as part of their [stock analysis](../s/stock_analysis.md) tools. [Morningstar](https://www.morningstar.com)
+[Morningstar](../m/morningstar.md) provides comprehensive investment research, featuring the 52-week [range](../r/range.md) as part of their [stock analysis](../s/stock_analysis.md) tools.
 
 ### TradingView
-[TradingView](../t/tradingview.md) is a sophisticated charting platform used by traders worldwide, [offering](../o/offering.md) access to financial metrics like the 52-week [range](../r/range.md). [TradingView](https://www.tradingview.com)
+[TradingView](../t/tradingview.md) is a sophisticated charting platform used by traders worldwide, [offering](../o/offering.md) access to financial metrics like the 52-week [range](../r/range.md).
 
 ## Conclusion
 The 52-week [range](../r/range.md) is an invaluable tool in the arsenal of anyone involved in the [financial markets](../f/financial_market.md). It provides crucial insights into the price extremes over the past year, helping traders and investors gauge [volatility](../v/volatility.md), identify potential trading opportunities, and make more informed decisions. Whether used in conjunction with [technical analysis](../t/technical_analysis.md), fundamental assessments, or [quantitative models](../q/quantitative_models.md), the 52-week [range](../r/range.md) stands as a cornerstone metric for understanding [market dynamics](../m/market_dynamics.md).

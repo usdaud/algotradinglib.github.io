@@ -1,6 +1,6 @@
 # Singapore Exchange (SGX)
 
-**Singapore [Exchange](../e/exchange.md) Limited (SGX)** is a prominent and vital financial services provider headquartered in Singapore. Recognized globally as a multi-[asset](../a/asset.md) [exchange](../e/exchange.md), SGX provides listing, trading, [clearing](../c/clearing.md), settlement, [depository](../d/depository.md), and data services. It is one of Asia’s leading [exchange](../e/exchange.md) networks, actively facilitating the trading of equities, [fixed income](../f/fixed_income.md), [derivatives](../d/derivatives.md), and commodities. The [exchange](../e/exchange.md) plays a crucial role in driving increased [market](../m/market.md) [transparency](../t/transparency.md), providing a comprehensive platform for investors and corporations alike. For more information, you can visit their [official website](https://www.sgx.com/).
+**Singapore [Exchange](../e/exchange.md) Limited (SGX)** is a prominent and vital financial services provider headquartered in Singapore. Recognized globally as a multi-[asset](../a/asset.md) [exchange](../e/exchange.md), SGX provides listing, trading, [clearing](../c/clearing.md), settlement, [depository](../d/depository.md), and data services. It is one of Asia’s leading [exchange](../e/exchange.md) networks, actively facilitating the trading of equities, [fixed income](../f/fixed_income.md), [derivatives](../d/derivatives.md), and commodities. The [exchange](../e/exchange.md) plays a crucial role in driving increased [market](../m/market.md) [transparency](../t/transparency.md), providing a comprehensive platform for investors and corporations alike.
 
 ## Overview
 
@@ -39,7 +39,7 @@ SGX’s commodities [market](../m/market.md) is a focal point featuring prominen
 
 ## Technology and Innovation
 
-SGX takes pride in its state-of-the-art technological [infrastructure](../i/infrastructure.md) facilitating high-speed, low-latency trading. They have invested significantly in technology to ensure resilience, [security](../s/security.md), and [efficiency](../e/efficiency.md) across all trades and settlements. 
+SGX takes pride in its state-of-the-art technological [infrastructure](../i/infrastructure.md) facilitating high-speed, low-latency trading. They have invested significantly in technology to ensure resilience, [security](../s/security.md), and [efficiency](../e/efficiency.md) across all trades and settlements.
 
 ### Market Data and Analytics
 
@@ -90,4 +90,4 @@ SGX’s initiatives have also aimed at enhancing [financial inclusion](../f/fina
 
 Singapore [Exchange](../e/exchange.md) (SGX) remains a pivotal institution within the global and regional [financial markets](../f/financial_market.md). Through continuous innovation, stringent regulatory adherence, and comprehensive product offerings, SGX facilitates [robust](../r/robust.md) trading activities, supporting both economic development and [investor](../i/investor.md) interests across the globe.
 
-For more up-to-date information and to explore SGX’s services and offerings, please visit their [official website](https://www.sgx.com/).
+For more up-to-date information and to explore SGX’s services and offerings, please

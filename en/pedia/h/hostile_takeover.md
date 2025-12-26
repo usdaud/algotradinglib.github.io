@@ -58,7 +58,7 @@ While initially not hostile, the 2000 [takeover](../t/takeover.md) of Time Warne
 
 ## Ethical Considerations
 
-Hostile takeovers raise significant ethical considerations. They can dramatically affect employees, result in substantial redundancies, and lead to unsettling changes in [corporate culture](../c/corporate_culture.md). Additionally, while shareholders might benefit from [premium](../p/premium.md) offers, the long-term health and strategy of the target company can be jeopardized. 
+Hostile takeovers raise significant ethical considerations. They can dramatically affect employees, result in substantial redundancies, and lead to unsettling changes in [corporate culture](../c/corporate_culture.md). Additionally, while shareholders might benefit from [premium](../p/premium.md) offers, the long-term health and strategy of the target company can be jeopardized.
 
 ### Impact on Employees
 
@@ -94,15 +94,15 @@ In 2010, French pharmaceutical company Sanofi-Aventis made a [hostile bid](../h/
 
 ### KKR (Kohlberg Kravis Roberts & Co.)
 
-KKR is a global investment [firm](../f/firm.md) known for its role in leveraged buyouts and hostile takeovers. The [firm](../f/firm.md)'s aggressive strategies and high-profile acquisitions, such as the RJR Nabisco [takeover](../t/takeover.md), have made it a major player in the world of [private equity](../p/private_equity.md). Visit their official website: [KKR](https://www.kkr.com/).
+KKR is a global investment [firm](../f/firm.md) known for its role in leveraged buyouts and hostile takeovers. The [firm](../f/firm.md)'s aggressive strategies and high-profile acquisitions, such as the RJR Nabisco [takeover](../t/takeover.md), have made it a major player in the world of [private equity](../p/private_equity.md).
 
 ### Icahn Enterprises
 
-Founded by [activist investor](../a/activist_investor.md) Carl Icahn, Icahn Enterprises is renowned for its involvement in numerous hostile [takeover](../t/takeover.md) attempts. Icahn's aggressive investment strategies often involve shaking up company management and pushing for changes that he believes [will](../w/will.md) increase [shareholder value](../s/shareholder_value.md). For more information, visit: [Icahn Enterprises](https://www.ielp.com/).
+Founded by [activist investor](../a/activist_investor.md) Carl Icahn, Icahn Enterprises is renowned for its involvement in numerous hostile [takeover](../t/takeover.md) attempts. Icahn's aggressive investment strategies often involve shaking up company management and pushing for changes that he believes [will](../w/will.md) increase [shareholder value](../s/shareholder_value.md). For more information, visit: Icahn Enterprises.
 
 ### Pershing Square Capital Management
 
-Led by Bill Ackman, Pershing Square [Capital](../c/capital.md) Management is another prominent [firm](../f/firm.md) in the sphere of hostile takeovers. Ackman is known for his activist approach, often taking significant positions in companies and pushing for strategic changes. More details available at: [Pershing Square Capital Management](https://www.pershingsquareholdings.com/).
+Led by Bill Ackman, Pershing Square [Capital](../c/capital.md) Management is another prominent [firm](../f/firm.md) in the sphere of hostile takeovers. Ackman is known for his activist approach, often taking significant positions in companies and pushing for strategic changes. More details available at: Pershing Square Capital Management.
 
 ## Conclusion
 

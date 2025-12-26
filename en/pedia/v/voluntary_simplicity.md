@@ -52,7 +52,7 @@ Many people practicing Voluntary Simplicity find themselves drawn to entrepreneu
 
 ### Algorithmic Trading as an Enabler
 
-[Algorithmic trading](../a/accountability.md), or algotrading, is the use of computer algorithms to automate trading decisions. For individuals interested in Voluntary Simplicity, algotrading can serve as an enabler of financial independence and a reduced consumption lifestyle by:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, is the use of computer algorithms to automate trading decisions. For individuals interested in Voluntary Simplicity, algotrading can serve as an enabler of financial independence and a reduced consumption lifestyle by:
 
 - **Efficient management of investments**: Algorithms can continuously monitor and adjust investments without the need for constant human intervention, making it easier to maintain a simplified, hands-off approach to financial management.
 - **Maximized returns with minimal effort**: Properly designed algorithms can optimize [trading strategies](../t/trading_strategies.md) to maximize returns while minimizing time and effort.

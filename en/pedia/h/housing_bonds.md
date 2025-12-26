@@ -76,21 +76,21 @@ HFAs play a critical role in the issuance and administration of housing bonds. T
 
 ### Municipal Securities Rulemaking Board (MSRB)
 
-The MSRB regulates the municipal securities [market](../m/market.md), including the housing bonds segment. The board sets standards and rules to protect investors and promote a fair, efficient [market](../m/market.md). More information can be found on their [official website](https://www.msrb.org).
+The MSRB regulates the municipal securities [market](../m/market.md), including the housing bonds segment. The board sets standards and rules to protect investors and promote a fair, efficient [market](../m/market.md).
 
 ### U.S. Department of Housing and Urban Development (HUD)
 
-HUD supports state and local housing agencies through grants, technical assistance, and policy [guidance](../g/guidance.md). HUD’s programs provide critical funding that complements housing [bond](../b/bond.md) initiatives to create comprehensive housing solutions. For more details, visit HUD's [official website](https://www.hud.gov).
+HUD supports state and local housing agencies through grants, technical assistance, and policy [guidance](../g/guidance.md). HUD’s programs provide critical funding that complements housing [bond](../b/bond.md) initiatives to create comprehensive housing solutions.
 
 ## Case Studies
 
 ### Case Study: California Housing Finance Agency (CalHFA)
 
-CalHFA is one of the leading state-level HFAs and has successfully utilized housing bonds to [finance](../f/finance.md) a wide [range](../r/range.md) of affordable housing programs. Through the issuance of MRBs and multifamily housing bonds, CalHFA has been able to support thousands of homebuyers and renters across California. More information can be found on the [CalHFA website](https://www.calhfa.ca.gov).
+CalHFA is one of the leading state-level HFAs and has successfully utilized housing bonds to [finance](../f/finance.md) a wide [range](../r/range.md) of affordable housing programs. Through the issuance of MRBs and multifamily housing bonds, CalHFA has been able to support thousands of homebuyers and renters across California.
 
 ### Case Study: New York State Homes and Community Renewal (HCR)
 
-New York State’s HCR has been leveraging housing bonds to [fund](../f/fund.md) innovative affordable housing projects. Their approach includes using bonds to facilitate the development of both urban and rural housing, addressing the diverse needs of the state’s population. For more information, visit the [HCR website](https://hcr.ny.gov).
+New York State’s HCR has been leveraging housing bonds to [fund](../f/fund.md) innovative affordable housing projects. Their approach includes using bonds to facilitate the development of both urban and rural housing, addressing the diverse needs of the state’s population.
 
 ## Future Prospects
 

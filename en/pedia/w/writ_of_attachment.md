@@ -54,11 +54,11 @@ Writs of attachment complicate the [valuation](../v/valuation.md) and management
 
 ### Algorithmic Trading
 
-In the world of [algorithmic trading](../a/accountability.md), where speed and [liquidity](../l/liquidity.md) are paramount, a [writ](../w/writ.md) of attachment could impose severe restrictions. Frozen assets mean algorithms cannot make trades based on those assets, potentially leading to significant financial loss and missed opportunities.
+In the world of [algorithmic trading](../a/algorithmic_trading.md), where speed and [liquidity](../l/liquidity.md) are paramount, a [writ](../w/writ.md) of attachment could impose severe restrictions. Frozen assets mean algorithms cannot make trades based on those assets, potentially leading to significant financial loss and missed opportunities.
 
 ### Example: Peregrine Financial Group, Inc.
 
-Consider the case of Peregrine Financial Group, Inc., where the CEO defrauded customers of over $200 million. Before legal proceedings concluded, a [writ](../w/writ.md) of attachment was essential to prevent the misappropriation of funds and ensure victims could be compensated. For more details, visit [Peregrine Financial Group](https://www.nfa.futures.org/basicnet/Case.aspx?entityid=158293&case=13BCC00001&contrib=NFA).
+Consider the case of Peregrine Financial Group, Inc., where the CEO defrauded customers of over $200 million. Before legal proceedings concluded, a [writ](../w/writ.md) of attachment was essential to prevent the misappropriation of funds and ensure victims could be compensated. For more details, visit Peregrine Financial Group.
 
 ## Conclusion
 

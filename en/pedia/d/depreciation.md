@@ -101,20 +101,20 @@ Depreciation must comply with [accounting](../a/accounting.md) standards like Ge
 Each country has its own tax regulations that dictate allowable depreciation methods and rates. Companies must ensure compliance to benefit from tax deductions without facing legal repercussions.
 
 ### Auditor Scrutiny
-External auditors review a company's depreciation policies and calculations to ensure accuracy and compliance with [accounting](../a/accounting.md) standards. 
+External auditors review a company's depreciation policies and calculations to ensure accuracy and compliance with [accounting](../a/accounting.md) standards.
 
 ## Real-World Examples of Depreciation
 
 ### Amazon
 Amazon extensively uses depreciation as part of its [capital expenditure](../c/capital_expenditure.md) management. Their significant investments in [infrastructure](../i/infrastructure.md) like warehouses, data centers, and [logistics](../l/logistics.md) involve substantial depreciation expenses.
-For more on Amazon's approach, visit [Amazon's Investor Relations](https://www.amazon.com/ir).
+For more on Amazon's approach, visit Amazon's company filings.
 
 ### Apple
 Apple uses specific depreciation methods to match the rapid pace of technological advancement in their products. High depreciation rates for new products ensure they reflect accurate [financial performance](../f/financial_performance.md).
-For details, refer to [Apple's Investor Page](https://investor.apple.com).
+For details, refer to Apple's filings.
 
 ### Tesla
 Tesla deals with significant depreciation expenses related to their [manufacturing](../m/manufacturing.md) plants and machinery, reflecting both usage and technological changes.
-Explore Tesla's financials at [Tesla's Investor Relations](https://ir.tesla.com).
+Explore Tesla's financials at Tesla's company filings.
 
 By understanding depreciation, businesses can manage their assets better, optimize [taxation](../t/taxation.md), and provide more accurate financial reports. Investors, on the other hand, can [gain](../g/gain.md) deeper insights into a company's [asset management](../a/asset_management.md) and long-term [financial health](../f/financial_health.md).

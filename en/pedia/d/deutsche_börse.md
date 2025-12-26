@@ -31,7 +31,7 @@ Clearstream is the post-[trade](../t/trade.md) services provider of Deutsche Bö
 The Deutsche Börse Group continuously invests in state-of-the-art trading and [clearing](../c/clearing.md) technologies, including the C7 [clearing](../c/clearing.md) system and T7 trading architecture. These technologies are built for high performance, low latency, and [scalability](../s/scalability.md), making them ideal for high-frequency trading (HFT) and other advanced [trading strategies](../t/trading_strategies.md).
 
 #### Blockchain and DLT
-Deutsche Börse is also exploring [blockchain](../b/blockchain_in_trading.md) and distributed ledger technologies (DLT) to enhance the [efficiency](../e/efficiency.md) of post-[trade](../t/trade.md) processes and to innovate new financial products and services. 
+Deutsche Börse is also exploring [blockchain](../b/blockchain_in_trading.md) and distributed ledger technologies (DLT) to enhance the [efficiency](../e/efficiency.md) of post-[trade](../t/trade.md) processes and to innovate new financial products and services.
 
 ## Statistics and Market Data
 
@@ -65,4 +65,3 @@ Deutsche Börse is emphasizing environmental, social, and governance (ESG) crite
 ### Expansion into Asia-Pacific
 Strategic partnerships and acquisitions are helping Deutsche Börse to expand its footprint in the Asia-Pacific region. This includes collaborations with local exchanges and fintech companies to tap into new markets.
 
-For more details, visit the official [Deutsche Börse website](https://www.deutsche-boerse.com/dbg-en/).

@@ -80,13 +80,13 @@ Let's consider a hypothetical [startup](../s/startup.md), XYZ, which has raised 
 
 If XYZ is acquired for $15 million, the [distribution](../d/distribution.md) would proceed as follows:
 
-1. **Series A:** 
-   - Receives $1 million (1x non-participating)
-2. **Series B:** 
-   - Receives $4.5 million (1.5x)
-   - Plus participation in the remaining $9.5 million.
-3. **Series C:** 
-   - Receives $10 million (2x capped at 3x [total return](../t/total_return.md))
+1. **Series A:**
+ - Receives $1 million (1x non-participating)
+2. **Series B:**
+ - Receives $4.5 million (1.5x)
+ - Plus participation in the remaining $9.5 million.
+3. **Series C:**
+ - Receives $10 million (2x capped at 3x [total return](../t/total_return.md))
 
 In this scenario, common shareholders receive any residual amount post these distributions.
 
@@ -95,16 +95,16 @@ In this scenario, common shareholders receive any residual amount post these dis
 Negotiating [liquidation](../l/liquidation.md) preferences requires a strategic balance. Founders should strive for terms that protect [investor](../i/investor.md) interests while ensuring sufficient [upside](../u/upside.md) for themselves and early employees to stay motivated.
 
 1. **Multiples and Caps:**
-   - Prefer lower multiples (1x) and caps on participation.
-   
+ - Prefer lower multiples (1x) and caps on participation.
+
 2. **Senior vs. Junior Preferences:**
-   - Understand the implications of seniority in subsequent funding rounds.
-   
+ - Understand the implications of seniority in subsequent funding rounds.
+
 3. **[Pro Rata](../p/pro_rata.md) Rights:**
-   - Ensure investors maintain the right to participate in future funding rounds.
+ - Ensure investors maintain the right to participate in future funding rounds.
 
 ## Conclusion
 
 [Liquidation](../l/liquidation.md) preference is a fundamental concept in [venture capital](../v/venture_capital.md) that greatly influences the financial outcomes for investors and [startup](../s/startup.md) stakeholders during a [liquidity event](../l/liquidity_event.md). Its implications stretch beyond immediate [payout](../p/payout.md) structures, affecting future fundraising, [stakeholder](../s/stakeholder.md) motivation, and strategic decisions in a company’s lifecycle. Founders and investors should carefully consider and negotiate these preferences to balance mutual interests and ensure long-term growth and success.
 
-For further details on [venture capital](../v/venture_capital.md) terminologies and investment structures, refer to specialized [venture capital](../v/venture_capital.md) [firm](../f/firm.md) websites like [Sequoia Capital](https://www.sequoiacap.com) or [Andreessen Horowitz](https://www.a16z.com).
+For further details on [venture capital](../v/venture_capital.md) terminologies and investment structures, refer to specialized [venture capital](../v/venture_capital.md) [firm](../f/firm.md) websites like Sequoia Capital or Andreessen Horowitz.

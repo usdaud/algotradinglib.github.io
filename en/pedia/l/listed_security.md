@@ -64,6 +64,6 @@ Regulatory bodies such as the Securities and [Exchange](../e/exchange.md) [Commi
 
 For more information about specific [listing requirements](../l/listing_requirements.md) and processes, you can visit the official pages of stock exchanges:
 
-- [New York Stock Exchange (NYSE)](https://www.nyse.com/listings/listing-manager)
-- [Nasdaq](https://listingcenter.nasdaq.com/)
-- [London Stock Exchange (LSE)](https://www.londonstockexchange.com/resources/rules-and-regulations/listing-rules)
+- New York Stock Exchange (NYSE)
+- Nasdaq
+- London Stock Exchange (LSE)

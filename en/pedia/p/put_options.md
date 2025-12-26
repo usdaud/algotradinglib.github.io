@@ -71,9 +71,9 @@ Advanced algorithms incorporate [sentiment analysis](../s/sentiment_analysis.md)
 
 Several leading financial institutions and platforms support [algorithmic trading](../a/algorithmic_trading.md) with put [options](../o/options.md):
 
-- **Citadel Securities**: Known for its [market](../m/market.md)-making prowess, Citadel Securities employs sophisticated algorithms to [trade](../t/trade.md) a vast array of [derivatives](../d/derivatives.md), including put [options](../o/options.md). [Citadel Securities](https://www.citadelsecurities.com/)
-- **DRW Trading**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that integrates technology and [risk management](../r/risk_management.md) to [trade](../t/trade.md) [options](../o/options.md) across various markets. [DRW Trading](https://drw.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) API access for automated [trading strategies](../t/trading_strategies.md), including put [options](../o/options.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+- **Citadel Securities**: Known for its [market](../m/market.md)-making prowess, Citadel Securities employs sophisticated algorithms to [trade](../t/trade.md) a vast array of [derivatives](../d/derivatives.md), including put [options](../o/options.md). Citadel Securities
+- **DRW Trading**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that integrates technology and [risk management](../r/risk_management.md) to [trade](../t/trade.md) [options](../o/options.md) across various markets. DRW Trading
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) API access for automated [trading strategies](../t/trading_strategies.md), including put [options](../o/options.md). Interactive Brokers
 
 ## Conclusion
 

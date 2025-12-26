@@ -9,16 +9,16 @@
 ### Key Components
 
 1. **[Capital](../c/capital.md) Tiers**: The [capital](../c/capital.md) held by banks is categorized into different tiers based on their loss-absorbing capacity.
-    - **[Tier 1 Capital](../t/tier_1_capital.md)**: Often referred to as "core [capital](../c/capital.md)," includes common [equity](../e/equity.md) tier 1 (CET1) and additional tier 1 (AT1) [capital](../c/capital.md).
-    - **[Tier 2 Capital](../t/tier_2_capital.md)**: Known as "supplementary [capital](../c/capital.md)," includes [subordinated debt](../s/subordinated_debt.md), certain hybrid instruments, and other specific types of [capital](../c/capital.md) instruments.
+ - **[Tier 1 Capital](../t/tier_1_capital.md)**: Often referred to as "core [capital](../c/capital.md)," includes common [equity](../e/equity.md) tier 1 (CET1) and additional tier 1 (AT1) [capital](../c/capital.md).
+ - **[Tier 2 Capital](../t/tier_2_capital.md)**: Known as "supplementary [capital](../c/capital.md)," includes [subordinated debt](../s/subordinated_debt.md), certain hybrid instruments, and other specific types of [capital](../c/capital.md) instruments.
 
 2. **[Risk-Weighted Assets](../r/risk-weighted_assets.md) (RWA)**: Assets are assigned [risk](../r/risk.md) weights based on their [credit](../c/credit.md), [market](../m/market.md), and operational risks. Higher [risk-weighted assets](../r/risk-weighted_assets.md) require higher [capital](../c/capital.md) charges.
 
 3. **[Capital](../c/capital.md) Adequacy Ratio (CAR)**: This ratio is used to measure a [bank](../b/bank.md)'s [capital](../c/capital.md) relative to its [risk-weighted assets](../r/risk-weighted_assets.md). It is calculated as follows:
-   \[
-   CAR = \frac{\text{[Tier 1 Capital](../t/tier_1_capital.md)} + \text{[Tier 2 Capital](../t/tier_2_capital.md)}}{\text{[Risk-Weighted Assets](../r/risk-weighted_assets.md)}}
-   \]
-   Regulatory standards mandate a minimum CAR, ensuring banks maintain an adequate [capital](../c/capital.md) buffer.
+ \[
+ CAR = \frac{\text{[Tier 1 Capital](../t/tier_1_capital.md)} + \text{[Tier 2 Capital](../t/tier_2_capital.md)}}{\text{[Risk-Weighted Assets](../r/risk-weighted_assets.md)}}
+ \]
+ Regulatory standards mandate a minimum CAR, ensuring banks maintain an adequate [capital](../c/capital.md) buffer.
 
 ## Basel III Framework
 
@@ -31,8 +31,8 @@ The [Basel III](../b/basel_iii.md) framework is a comprehensive set of reform me
 3. **[Liquidity](../l/liquidity.md) Standards**: Implementation of [liquidity](../l/liquidity.md) [coverage ratio](../c/coverage_ratio.md) (LCR) and net stable funding ratio (NSFR) to enhance banks' resilience in terms of [liquidity](../l/liquidity.md) and long-term funding stability.
 
 4. **[Capital](../c/capital.md) Buffers**:
-    - **[Capital](../c/capital.md) Conservation Buffer**: An additional buffer of 2.5% of RWA that banks must [hold](../h/hold.md) above the minimum [capital](../c/capital.md) requirement.
-    - **Countercyclical Buffer**: A variable buffer of up to 2.5% that can be adjusted by national regulators based on macroeconomic conditions.
+ - **[Capital](../c/capital.md) Conservation Buffer**: An additional buffer of 2.5% of RWA that banks must [hold](../h/hold.md) above the minimum [capital](../c/capital.md) requirement.
+ - **Countercyclical Buffer**: A variable buffer of up to 2.5% that can be adjusted by national regulators based on macroeconomic conditions.
 
 ## Application and Importance
 
@@ -86,11 +86,11 @@ The growing emphasis on sustainable [finance](../f/finance.md) and environmental
 
 ### JP Morgan Chase
 
-JP Morgan Chase, one of the largest financial institutions in the world, has exemplified [robust](../r/robust.md) [risk](../r/risk.md)-based [capital](../c/capital.md) management. The [bank](../b/bank.md)'s commitment to maintaining strong [capital](../c/capital.md) ratios is evident in its comprehensive [risk management](../r/risk_management.md) framework and adherence to [Basel III](../b/basel_iii.md) standards. More information on their [capital](../c/capital.md) management practices can be found on their [website](https://www.jpmorganchase.com/).
+JP Morgan Chase, one of the largest financial institutions in the world, has exemplified [robust](../r/robust.md) [risk](../r/risk.md)-based [capital](../c/capital.md) management. The [bank](../b/bank.md)'s commitment to maintaining strong [capital](../c/capital.md) ratios is evident in its comprehensive [risk management](../r/risk_management.md) framework and adherence to [Basel III](../b/basel_iii.md) standards. More information on their [capital](../c/capital.md)
 
 ### HSBC Holdings
 
-HSBC [Holdings](../h/holdings.md), a leading international [bank](../b/bank.md), has also demonstrated effective implementation of [risk](../r/risk.md)-based [capital](../c/capital.md) requirements. HSBC's approach to [capital](../c/capital.md) management includes regular [stress testing](../s/stress_testing.md), rigorous [risk](../r/risk.md) assessments, and adherence to regulatory standards. Additional details can be found on their [website](https://www.hsbc.com/).
+HSBC [Holdings](../h/holdings.md), a leading international [bank](../b/bank.md), has also demonstrated effective implementation of [risk](../r/risk.md)-based [capital](../c/capital.md) requirements. HSBC's approach to [capital](../c/capital.md) management includes regular [stress testing](../s/stress_testing.md), rigorous [risk](../r/risk.md) assessments, and adherence to regulatory standards.
 
 ## Conclusion
 

@@ -37,7 +37,7 @@ Algorithms can be programmed to place buy orders at specific [bid](../b/bid.md) 
 [Market](../m/market.md)-making algorithms provide [liquidity](../l/liquidity.md) by placing both [bid and ask](../b/bid_and_ask.md) prices for a particular [security](../s/security.md). They [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md) by executing a large number of trades in a short time frame.
 
 ### High-Frequency Trading (HFT)
-In high-frequency trading, which is a subset of [algorithmic trading](../a/accountability.md), the [bid](../b/bid.md) price becomes exceedingly important. Algorithms must react in microseconds to changes in the [bid](../b/bid.md) price to execute trades advantageously. Firms like Virtu Financial (https://www.virtu.com/) are known for their work in HFT, relying heavily on the constantly fluctuating [bid](../b/bid.md) prices to generate profits.
+In high-frequency trading, which is a subset of [algorithmic trading](../a/accountability.md), the [bid](../b/bid.md) price becomes exceedingly important. Algorithms must react in microseconds to changes in the [bid](../b/bid.md) price to execute trades advantageously. Firms like Virtu Financial ( are known for their work in HFT, relying heavily on the constantly fluctuating [bid](../b/bid.md) prices to generate profits.
 
 ## Practical Implications for Traders
 
@@ -50,7 +50,7 @@ When placing [market](../m/market.md) orders, it is essential to acknowledge the
 For stop orders, especially sell stop orders, the [bid](../b/bid.md) price determines when the [order](../o/order.md) [will](../w/will.md) be executed. If the [bid](../b/bid.md) price falls to the stop price, the sell [stop order](../s/stop_order.md) becomes a [market order](../m/market_order.md).
 
 ### Spread Strategy
-Traders can create strategies around the [bid-ask spread](../b/bid-ask_spread.md), opting to wait for the [bid](../b/bid.md) price to rise if they are selling, or the ask price to fall if they are buying. 
+Traders can create strategies around the [bid-ask spread](../b/bid-ask_spread.md), opting to wait for the [bid](../b/bid.md) price to rise if they are selling, or the ask price to fall if they are buying.
 
 ## Conclusion
 

@@ -22,8 +22,8 @@ Internal crossing networks are private exchanges where block trades are matched 
 
 [Dark pools](../d/dark_pools.md) are private financial forums or exchanges where traders can execute large orders without the [order](../o/order.md) becoming publicly visible. Notable examples include:
 
-- **Liquidnet**: [Liquidnet](https://www.liquidnet.com)
-- **ITG POSIT**: [ITG POSIT](https://www.itg.com/platforms/posit/)
+- **Liquidnet**: Liquidnet
+- **ITG POSIT**: ITG POSIT
 - **Goldman Sachs Sigma X**: Facilitated by Goldman Sachs, Sigma X differs from public exchanges because orders are not displayed.
 
 [Dark pools](../d/dark_pools.md) are favorable for institutional investors due to their ability to place large trades anonymously, thus preventing significant [market](../m/market.md) disruptions.
@@ -42,9 +42,9 @@ Internal crossing networks are private exchanges where block trades are matched 
 
 Key players in this space include:
 
-- **Goldman Sachs**: [Goldman Sachs Newsroom](https://www.goldmansachs.com/what-we-do)
-- **Morgan Stanley**: [Morgan Stanley Institutional Services](https://www.morganstanley.com)
-- **J.P. Morgan**: [J.P. Morgan Markets](https://www.jpmorgan.com)
+- **Goldman Sachs**: Goldman Sachs Newsroom
+- **Morgan Stanley**: Morgan Stanley Institutional Services
+- **J.P. Morgan**: J.P. Morgan Markets
 
 ## Challenges and Risks
 
@@ -65,14 +65,14 @@ BlackRock, one of the largest [asset](../a/asset.md) managers globally, often en
 
 Citadel Securities, a major player in the [market](../m/market.md)-making and trading landscape, provides advanced [infrastructure](../i/infrastructure.md) and technology to facilitate block trades. By leveraging [proprietary algorithms](../p/proprietary_algorithms.md) and anonymized trading venues, Citadel Securities ensures efficient [execution](../e/execution.md).
 
-- **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com)
+- **Citadel Securities**: Citadel Securities
 
 ### Example 3: Morgan Stanley’s Block Trading Strategies
 
 Morgan Stanley utilizes a blend of [dark pool](../d/dark_pool.md) trading and algorithmic solutions. The [firm](../f/firm.md)’s [proprietary trading](../p/proprietary_trading.md) tools help clients execute large orders discreetly and cost-effectively.
 
-- **Morgan Stanley**: [Morgan Stanley Algorithms](https://www.morganstanley.com/institutional-sales/algorithms)
+- **Morgan Stanley**: Morgan Stanley Algorithms
 
 ## Conclusion
 
-In the world of [finance](../f/finance.md), [block trade](../b/block_trade.md) [execution](../e/execution.md) is an essential mechanism for managing and executing large orders with minimal [market](../m/market.md) disruption. As the [market](../m/market.md) evolves, the techniques and technologies supporting [block trade](../b/block_trade.md) [execution](../e/execution.md) continue to advance, providing increasingly sophisticated solutions for institutional investors. The effective implementation of [block trade](../b/block_trade.md) [execution](../e/execution.md) strategies not only ensures [efficiency](../e/efficiency.md) but also contributes significantly to [market](../m/market.md) stability and integrity.
+In the world of [finance](../f/finance.md), [block trade](../b/block_trade.md) [execution](../e/execution.md) is an essential mechanism for managing and executing large orders with minimal [market](../m/market.md) disruption. As the [market](../m/market.md) evolves, the techniques and technologies supporting [block trade](../b/block_trade.md) [execution](../e/execution.md) continue to advance, providing increasingly sophisticated solutions for institutional investors. The effective implementation of [block trade](../b/block_trade.md) [execution](../e/execution.md) strategies not only ensures [efficiency](../e/efficiency.md) but also contributes significantly to [market](../m/market.md) stability and integrity.

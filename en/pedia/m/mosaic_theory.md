@@ -47,7 +47,7 @@ Quantitative applications might involve:
 The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States monitors and regulates the use of information in trading to prevent unfair advantages and maintain [market](../m/market.md) integrity. While Mosaic Theory is a legitimate method for gathering and analyzing information, it skirts the edge of [insider trading](../i/insider.md) regulations. Therefore, clear boundaries between material and non-material non-public information must be maintained.
 
 - **[Insider Trading](../i/insider.md):** This involves trading based on material, non-public information. [Insider trading](../i/insider.md) is illegal and punishable by law. Regulatory bodies like the SEC keep a vigilant eye on suspicious trading patterns and information sources.
-  
+
 - **SEC Guidelines:** The SEC allows the use of non-material non-public information as long as it does not compromise [market](../m/market.md) fairness. Firms often have compliance programs and training to ensure that analysts and traders understand the nuances of what constitutes legally acceptable information.
 
 ## Case Studies and Examples
@@ -59,7 +59,7 @@ Imagine an investment analyst aims to evaluate the future prospects of Apple Inc
 1. **Public Information**: The analyst reviews Apple's [financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) calls, and press releases.
 2. **Non-material Non-public Information**: The analyst attends [industry](../i/industry.md) [trade](../t/trade.md) shows, speaks with suppliers in Asia, and gathers insights from retail employees about consumer trends.
 3. **Behavioral Observations**: Monitoring foot traffic at Apple stores and tracking the [supply chain](../s/supply_chain.md) activities.
-   
+
 Combining these diverse data points, the analyst forms a detailed, nuanced view of Apple's [business](../b/business.md) outlook, potentially leading to an investment recommendation.
 
 ### Example 2: **Pharmaceutical Industry**

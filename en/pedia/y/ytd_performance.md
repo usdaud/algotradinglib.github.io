@@ -47,24 +47,24 @@ The YTD performance of the [algorithmic trading](../a/algorithmic_trading.md) po
 Several platforms and tools are available to assist algorithmic traders in monitoring and calculating YTD performance. These tools [offer](../o/offer.md) advanced analytics, real-time data, and comprehensive reporting features. Some popular platforms include:
 
 1. **[QuantConnect](../q/quantconnect.md):**
-   [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides traders with the tools to design, test, and execute [trading algorithms](../t/trading_algorithms.md). It offers features to monitor YTD performance and other financial metrics.
-   Link: [QuantConnect](https://www.quantconnect.com/)
+ [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides traders with the tools to design, test, and execute [trading algorithms](../t/trading_algorithms.md). It offers features to monitor YTD performance and other financial metrics.
+ Link: QuantConnect
 
 2. **[AlgoTrader](../a/algotrader.md):**
-   [AlgoTrader](../a/algotrader.md) is another sophisticated platform for [algorithmic trading](../a/algorithmic_trading.md) that supports automated trading, strategy [backtesting](../b/backtesting.md), and performance monitoring, including YTD returns.
-   Link: [AlgoTrader](https://www.algotrader.com/)
+ [AlgoTrader](../a/algotrader.md) is another sophisticated platform for [algorithmic trading](../a/algorithmic_trading.md) that supports automated trading, strategy [backtesting](../b/backtesting.md), and performance monitoring, including YTD returns.
+ Link: AlgoTrader
 
 3. **[TradeStation](../t/tradestation.md):**
-   [TradeStation](../t/tradestation.md) offers powerful tools for [algorithmic trading](../a/algorithmic_trading.md) with features to track and analyze YTD performance. It provides historical data, real-time updates, and customizable analytics.
-   Link: [TradeStation](https://www.tradestation.com/)
+ [TradeStation](../t/tradestation.md) offers powerful tools for [algorithmic trading](../a/algorithmic_trading.md) with features to track and analyze YTD performance. It provides historical data, real-time updates, and customizable analytics.
+ Link: TradeStation
 
 4. **MetaTrader:**
-   MetaTrader is a popular [trading platform](../t/trading_platform.md) known for its [algorithmic trading](../a/algorithmic_trading.md) capabilities. Traders can monitor YTD performance and other financial metrics through built-in analytics and custom scripts.
-   Link: [MetaTrader](https://www.metatrader5.com/)
+ MetaTrader is a popular [trading platform](../t/trading_platform.md) known for its [algorithmic trading](../a/algorithmic_trading.md) capabilities. Traders can monitor YTD performance and other financial metrics through built-in analytics and custom scripts.
+ Link: MetaTrader
 
 5. **[Interactive Brokers](../i/interactive_brokers.md):**
-   [Interactive Brokers](../i/interactive_brokers.md) provides a comprehensive [trading platform](../t/trading_platform.md) that supports automated trading and performance analysis. Traders can track YTD performance using their detailed reporting tools.
-   Link: [Interactive Brokers](https://www.interactivebrokers.com/)
+ [Interactive Brokers](../i/interactive_brokers.md) provides a comprehensive [trading platform](../t/trading_platform.md) that supports automated trading and performance analysis. Traders can track YTD performance using their detailed reporting tools.
+ Link: Interactive Brokers
 
 ### Factors Affecting YTD Performance in Algorithmic Trading
 

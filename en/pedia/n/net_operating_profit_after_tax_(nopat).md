@@ -1,6 +1,6 @@
 # Net Operating Profit After Tax (NOPAT)
 
-Net [Operating Profit](../o/operating_profit.md) After Tax (NOPAT) is a crucial financial metric used to evaluate a company's profitability from its core operations, after [accounting](../a/accounting.md) for [taxes](../t/taxes.md) but before [financing](../f/financing.md) costs are considered. It provides a clearer picture of an organization's [operational efficiency](../o/operational_efficiency_in_trading.md) and performance, excluding the effects of its [capital structure](../c/capital_structure.md). For those involved in trading, [financial analysis](../f/financial_analysis.md), and particularly [algorithmic trading](../a/accountability.md), understanding and utilizing NOPAT can be instrumental for making informed investment decisions.
+Net [Operating Profit](../o/operating_profit.md) After Tax (NOPAT) is a crucial financial metric used to evaluate a company's profitability from its core operations, after [accounting](../a/accounting.md) for [taxes](../t/taxes.md) but before [financing](../f/financing.md) costs are considered. It provides a clearer picture of an organization's [operational efficiency](../o/operational_efficiency_in_trading.md) and performance, excluding the effects of its [capital structure](../c/capital_structure.md). For those involved in trading, [financial analysis](../f/financial_analysis.md), and particularly [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing NOPAT can be instrumental for making informed investment decisions.
 
 ## Understanding NOPAT
 
@@ -37,9 +37,9 @@ For algo-traders, integrating NOPAT into [trading algorithms](../t/trading_algor
 
 In the fintech space, NOPAT can be harnessed to develop sophisticated [financial analysis](../f/financial_analysis.md) tools and investment platforms:
 
-1. **Investment Platforms**: Platforms like [Wealthfront](https://www.wealthfront.com) and [Betterment](https://www.betterment.com) can integrate NOPAT-based filters to create curated investment portfolios that focus on companies with strong operational performance.
+1. **Investment Platforms**: Platforms like Wealthfront and Betterment can integrate NOPAT-based filters to create curated investment portfolios that focus on companies with strong operational performance.
 2. **[Risk](../r/risk.md) Assessment Tools**: Fintech companies can [leverage](../l/leverage.md) NOPAT in [credit risk models](../c/credit_risk_models.md) to assess the operational profitability of potential borrowers or investment opportunities.
-3. **Automation and AI**: AI-driven fintech solutions, such as [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or [FactSet](https://www.factset.com/solutions/portfolio-management), can use NOPAT to automate analysis and provide real-time insights into a company's operational performance.
+3. **Automation and AI**: AI-driven fintech solutions, such as Bloomberg Terminal or FactSet, can use NOPAT to automate analysis and provide real-time insights into a company's operational performance.
 
 ## Practical Example
 

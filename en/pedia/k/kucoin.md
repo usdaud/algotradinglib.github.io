@@ -8,7 +8,7 @@ KuCoin is a global cryptocurrency [exchange](../e/exchange.md) that was launched
 
 KuCoin is operated by Mek Global Limited, registered in Seychelles. The company was co-founded by Michael Gan and Eric Don, who have extensive backgrounds in [finance](../f/finance.md), technology, and [blockchain](../b/blockchain_in_trading.md). The main goal of KuCoin is to provide a secure and easy-to-use platform for cryptocurrency trading.
 
-For more information about KuCoin, you can visit their official website: [KuCoin Official Website](https://www.kucoin.com).
+
 
 ## Features
 
@@ -93,4 +93,3 @@ KuCoin Labs is an investment and research arm of the [exchange](../e/exchange.md
 
 KuCoin has established itself as a leading cryptocurrency [exchange](../e/exchange.md) by [offering](../o/offering.md) a comprehensive suite of features, a user-friendly platform, and [robust](../r/robust.md) [security](../s/security.md) measures. With its wide [range](../r/range.md) of supported cryptocurrencies, advanced trading tools, and commitment to innovation, KuCoin continues to attract traders from around the world. Whether you are a beginner looking to enter the world of cryptocurrency trading or an experienced [trader](../t/trader.md) seeking advanced features, KuCoin offers a platform that caters to your needs.
 
-For further details and to start trading, visit the [KuCoin Official Website](https://www.kucoin.com).

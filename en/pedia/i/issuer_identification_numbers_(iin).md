@@ -7,7 +7,7 @@
 The structure of an [Issuer](../i/issuer.md) Identification Number is standardized to facilitate universal understanding and application. Typically, an IIN/BIN comprises the first six digits of a card number, although shifts towards an eight-digit model are being implemented to cater to expanding [demand](../d/demand.md).
 
 - **Digits 1-6 (or 1-8 in the extended model)**: These digits represent the IIN/BIN and are allocated to the issuing institution by the International Organization for Standardization (ISO). The leading digit often indicates the major [industry](../i/industry.md) identifier (MII), which denotes the [industry](../i/industry.md) category of the card [issuer](../i/issuer.md).
-    - For example, a leading digit of '4' signifies that the card is affiliated with Visa, while '5' represents [MasterCard](../m/mastercard.md).
+ - For example, a leading digit of '4' signifies that the card is affiliated with Visa, while '5' represents [MasterCard](../m/mastercard.md).
 
 ## Major Industry Identifier (MII)
 
@@ -83,5 +83,5 @@ To illustrate the practical applications of IIN/BIN, it's helpful to examine cas
 The [Issuer](../i/issuer.md) Identification Number (IIN), or [Bank](../b/bank.md) Identification Number (BIN), is a foundational element in modern electronic [payment](../p/payment.md) systems. Its structure and function ensure efficient [transaction](../t/transaction.md) processing, [fraud](../f/fraud.md) detection, and network interoperability. As the global financial environment continues to evolve, the IIN/BIN system remains pivotal in maintaining the robustness and reliability of card-based transactions.
 
 For more details on the oversight and allocation of IINs/BINs, refer to:
-- [International Organization for Standardization (ISO)](https://www.iso.org)
-- [American National Standards Institute (ANSI)](https://www.ansi.org)
+- International Organization for Standardization (ISO)
+- American National Standards Institute (ANSI)

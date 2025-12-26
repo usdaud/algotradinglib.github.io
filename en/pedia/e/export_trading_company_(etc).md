@@ -68,25 +68,22 @@ With the rise of e-[commerce](../c/commerce.md) and digital platforms, tradition
 
 ECOM is a global [commodity](../c/commodity.md) trading company specializing in coffee, cocoa, and cotton. They provide a full [range](../r/range.md) of services including sourcing, [logistics](../l/logistics.md), and [risk management](../r/risk_management.md). ECOM's extensive network and expertise make them a leader in the agricultural [export](../e/export.md) sector.
 
-[ECOM Agroindustrial Corporation](https://www.ecomtrading.com/)
 
 ### Mitsui & Co., Ltd.
 
 Mitsui & Co. is a Japanese trading company with a diverse portfolio including machinery, chemicals, textiles, and food. They operate globally, [offering](../o/offering.md) comprehensive trading and investment services across various industries.
 
-[Mitsui & Co., Ltd.](https://www.mitsui.com/jp/en/)
+Mitsui & Co., Ltd.
 
 ### Olam International
 
 Olam is a leading global integrated [supply chain](../s/supply_chain.md) manager and processor of agricultural products and food ingredients. They operate in 60 countries, providing solutions across the [value chain](../v/value_chain.md), including sourcing, processing, [logistics](../l/logistics.md), and [risk management](../r/risk_management.md).
 
-[Olam International](https://www.olamgroup.com/)
 
 ### Sumitomo Corporation
 
 Sumitomo [Corporation](../c/corporation.md) is a major Japanese trading company engaged in multifaceted [business activities](../b/business_activities.md), including [import](../i/import.md) and [export](../e/export.md) of a wide [range](../r/range.md) of goods, [supply](../s/supply.md) of services, and [trade](../t/trade.md) [infrastructure](../i/infrastructure.md) construction.
 
-[Sumitomo Corporation](https://www.sumitomocorp.com/en/jp)
 
 ## Future Trends and Developments
 

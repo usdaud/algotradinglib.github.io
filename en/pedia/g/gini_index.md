@@ -20,7 +20,7 @@ Alternatively, the Gini Coefficient can also be computed using statistical metho
 
 Where:
 - \( n \) is the number of [income](../i/income.md) recipients.
-- \( X_i \) are cumulative proportions of the population (e.g., 1/n, 2/n, ..., n/n).
+- \( X_i \) are cumulative proportions of the population (e.g., 1/n, 2/n,..., n/n).
 - \( Y_i \) are cumulative proportions of [income](../i/income.md) earned.
 
 ### Interpreting the Gini Index
@@ -103,24 +103,24 @@ Using [robust](../r/robust.md) statistical methods and techniques like bootstrap
 Suppose five individuals have annual incomes of $10,000, $20,000, $30,000, $40,000, and $50,000. The Gini [Index](../i/index_instrument.md) can be approximated as follows:
 
 1. **Rank and Proportion of [Income](../i/income.md)**:
-    | Individual | [Income](../i/income.md) | Cumulative Proportion of [Income](../i/income.md) |
-    |------------|--------|--------------------------------|
-    | 1          | 10,000 | 10% (0.1)                      |
-    | 2          | 20,000 | 30% (0.3)                      |
-    | 3          | 30,000 | 60% (0.6)                      |
-    | 4          | 40,000 | 100% (1.0)                     |
-    | 5          | 50,000 | 150% (1.5)                     |
+ | Individual | [Income](../i/income.md) | Cumulative Proportion of [Income](../i/income.md) |
+ |------------|--------|--------------------------------|
+ | 1 | 10,000 | 6.67% (0.067) |
+ | 2 | 20,000 | 20% (0.20) |
+ | 3 | 30,000 | 40% (0.40) |
+ | 4 | 40,000 | 66.67% (0.667) |
+ | 5 | 50,000 | 100% (1.0) |
 
 2. **[Lorenz Curve](../l/lorenz_curve.md) Values**:
-    Assume each 20% of the population (since we have 5 individuals) holds the cumulative proportion of [income](../i/income.md) as shown above. The [Lorenz Curve](../l/lorenz_curve.md) points are:
-    \[ L = [(0.2,0.1), (0.4, 0.3), (0.6, 0.6), (0.8,1.0), (1.0,1.5)] \]
+ Assume each 20% of the population (since we have 5 individuals) holds the cumulative proportion of [income](../i/income.md) as shown above. The [Lorenz Curve](../l/lorenz_curve.md) points are:
+ \[ L = [(0.2, 0.067), (0.4, 0.20), (0.6, 0.40), (0.8, 0.667), (1.0, 1.0)] \]
 
 3. **Calculate Gini [Index](../i/index_instrument.md)**:
-    Use the [Lorenz Curve](../l/lorenz_curve.md) coordinates to find the area and then the Gini [Index](../i/index_instrument.md). Assuming a continuous approximation between points:
-    \[ A = \sum_{i} (y_i - y_{i-1}) (x_i + x_{i-1})/2 \]
-    \[ G = 1 - 2A \]
+ Use the [Lorenz Curve](../l/lorenz_curve.md) coordinates to find the area and then the Gini [Index](../i/index_instrument.md). Assuming a continuous approximation between points:
+ \[ A = \sum_{i} (y_i - y_{i-1}) (x_i + x_{i-1})/2 \]
+ \[ G = 1 - 2A \]
 
-    After computations, this results in approximating a Gini [Index](../i/index_instrument.md) for the given data.
+ After computations, this results in approximating a Gini [Index](../i/index_instrument.md) for the given data.
 
 ### Computational Tools
 

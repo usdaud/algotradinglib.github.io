@@ -1,14 +1,14 @@
 # Utility Maximization
 
-[Utility](../u/utility.md) maximization is a foundational concept in [economics](../e/economics.md) and financial theory that involves optimizing the allocation of resources to achieve the highest possible level of satisfaction or [utility](../u/utility.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), this theory is leveraged to design [automated trading systems](../a/automated_trading_systems.md) that maximize the [expected utility](../e/expected_utility.md) of returns while minimizing associated risks. 
+[Utility](../u/utility.md) maximization is a foundational concept in [economics](../e/economics.md) and financial theory that involves optimizing the allocation of resources to achieve the highest possible level of satisfaction or [utility](../u/utility.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), this theory is leveraged to design [automated trading systems](../a/automated_trading_systems.md) that maximize the [expected utility](../e/expected_utility.md) of returns while minimizing associated risks.
 
 ## Definition and Importance
 
-**[Utility](../u/utility.md)** can be understood as a measure of the satisfaction or [value](../v/value.md) that a [trader](../t/trader.md) or [investor](../i/investor.md) receives from the outcomes of their portfolio or trading decisions. Maximizing [utility](../u/utility.md) is particularly crucial in [algorithmic trading](../a/algorithmic_trading.md) because it balances the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md) in a structured manner. 
+**[Utility](../u/utility.md)** can be understood as a measure of the satisfaction or [value](../v/value.md) that a [trader](../t/trader.md) or [investor](../i/investor.md) receives from the outcomes of their portfolio or trading decisions. Maximizing [utility](../u/utility.md) is particularly crucial in [algorithmic trading](../a/algorithmic_trading.md) because it balances the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md) in a structured manner.
 
-[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage portfolios. These systems can execute complex strategies at speeds and frequencies impossible for human traders. 
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage portfolios. These systems can execute complex strategies at speeds and frequencies impossible for human traders.
 
-The goal of [utility](../u/utility.md) maximization in this field is to program these algorithms to seek the highest [expected utility](../e/expected_utility.md). This involves factors such as [expected return](../e/expected_return.md), [risk tolerance](../r/risk_tolerance.md), [transaction costs](../t/transaction_costs.md), and [market](../m/market.md) impact. 
+The goal of [utility](../u/utility.md) maximization in this field is to program these algorithms to seek the highest [expected utility](../e/expected_utility.md). This involves factors such as [expected return](../e/expected_return.md), [risk tolerance](../r/risk_tolerance.md), [transaction costs](../t/transaction_costs.md), and [market](../m/market.md) impact.
 
 ## Principles of Utility Maximization
 
@@ -25,16 +25,16 @@ where \( U(x_i) \) represents the [utility](../u/utility.md) of outcome \( x_i \
 A [utility](../u/utility.md) function, \( U(x) \), maps the level of [wealth](../w/wealth.md) or returns to a real number representing the agent's satisfaction level. Common forms of [utility functions in trading](../u/utility_functions_in_trading.md) include:
 
 - **Linear [Utility](../u/utility.md) Function:** Assumes that [utility](../u/utility.md) changes at a constant rate with [wealth](../w/wealth.md). Suitable for [risk](../r/risk.md)-[neutral](../n/neutral.md) investors.
-  
-  \[ U(x) = ax + b \]
-  
+
+ \[ U(x) = ax + b \]
+
 - **Quadratic [Utility](../u/utility.md) Function:** Reflects [risk](../r/risk.md) aversion or preference for [diversification](../d/diversification.md).
-  
-  \[ U(x) = ax - bx^2 \]
-  
+
+ \[ U(x) = ax - bx^2 \]
+
 - **Logarithmic [Utility](../u/utility.md) Function:** Often used for modeling proportional [risk](../r/risk.md) aversion over a wide [range](../r/range.md) of [wealth](../w/wealth.md) levels.
-  
-  \[ U(x) = \log(x) \]
+
+ \[ U(x) = \log(x) \]
 
 ### Risk Aversion
 
@@ -44,7 +44,7 @@ A [utility](../u/utility.md) function, \( U(x) \), maps the level of [wealth](..
 
 ### Portfolio Optimization
 
-[Utility](../u/utility.md) maximization in [algorithmic trading](../a/algorithmic_trading.md) commonly involves [portfolio optimization](../p/portfolio_optimization.md). This process determines the optimal allocation of assets by maximizing the [expected utility](../e/expected_utility.md) of the portfolio's returns. One widely-used approach is the **[Mean-Variance Optimization](../m/mean-variance_optimization.md)** formulated by [Harry Markowitz](../h/harry_markowitz.md) in Modern Portfolio Theory (MPT). The objective is to find the portfolio with the least variance (or [risk](../r/risk.md)) for a given level of [expected return](../e/expected_return.md) or vice versa. 
+[Utility](../u/utility.md) maximization in [algorithmic trading](../a/algorithmic_trading.md) commonly involves [portfolio optimization](../p/portfolio_optimization.md). This process determines the optimal allocation of assets by maximizing the [expected utility](../e/expected_utility.md) of the portfolio's returns. One widely-used approach is the **[Mean-Variance Optimization](../m/mean-variance_optimization.md)** formulated by [Harry Markowitz](../h/harry_markowitz.md) in Modern Portfolio Theory (MPT). The objective is to find the portfolio with the least variance (or [risk](../r/risk.md)) for a given level of [expected return](../e/expected_return.md) or vice versa.
 
 ```
 Maximize: EU = μ - (0.5 * λ * σ^2)
@@ -60,7 +60,7 @@ where:
 [Algorithmic trading](../a/algorithmic_trading.md) systems incorporate [utility](../u/utility.md) maximization principles to make real-time decisions on [trade](../t/trade.md) [execution](../e/execution.md) and [asset allocation](../a/asset_allocation.md). These systems can quickly analyze large volumes of data, including historical prices, [market](../m/market.md) trends, and [economic indicators](../e/economic_indicators.md), to predict the most [lucrative](../l/lucrative.md) trades. The following elements are vital in [algorithm design](../a/algorithm_design.md):
 
 - **[Predictive Models](../p/predictive_models_in_trading.md):** Utilize [machine learning](../m/machine_learning.md) and statistical methods to forecast [asset](../a/asset.md) prices and [market](../m/market.md) movements.
-  
+
 - **[Risk Management](../r/risk_management.md) Module:** Continuously monitors and manages [risk](../r/risk.md) exposure to align with the [trader](../t/trader.md)’s [risk tolerance](../r/risk_tolerance.md) levels.
 
 - **[Transaction Cost Analysis](../t/transaction_cost_analysis.md):** Assesses the impact of [transaction costs](../t/transaction_costs.md) on [utility](../u/utility.md), optimizing [order](../o/order.md) size and timing to minimize these costs.
@@ -72,12 +72,12 @@ where:
 Consider a [hedge fund](../h/hedge_fund.md) that employs a quantitative [algorithmic trading](../a/algorithmic_trading.md) strategy. The [fund](../f/fund.md)’s algorithm is designed to maximize [utility](../u/utility.md) based on the mean-variance framework. The following steps illustrate the process:
 
 1. **Data Collection and Analysis:** The algorithm collects historical price data, trading volumes, economic reports, and news articles to identify potential trading opportunities.
-  
+
 2. **Modeling Expected Returns:** Using statistical and [machine learning](../m/machine_learning.md) models, the algorithm estimates the expected returns for various securities.
 
 3. **[Risk](../r/risk.md) Assessment:** The algorithm evaluates the [covariance](../c/covariance.md) matrix of [security](../s/security.md) returns to understand the portfolio's [risk](../r/risk.md) characteristics.
 
-4. **[Optimization](../o/optimization.md):** Apply the [utility](../u/utility.md) maximization formula to identify the optimal [asset allocation](../a/asset_allocation.md) that maximizes the [expected utility](../e/expected_utility.md). This involves solving the [optimization](../o/optimization.md) problem with constraints related to regulatory requirements and [liquidity](../l/liquidity.md) considerations. 
+4. **[Optimization](../o/optimization.md):** Apply the [utility](../u/utility.md) maximization formula to identify the optimal [asset allocation](../a/asset_allocation.md) that maximizes the [expected utility](../e/expected_utility.md). This involves solving the [optimization](../o/optimization.md) problem with constraints related to regulatory requirements and [liquidity](../l/liquidity.md) considerations.
 
 5. **[Trade](../t/trade.md) [Execution](../e/execution.md):** The algorithm executes trades in a manner that seeks to maximize [utility](../u/utility.md), factoring in [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [market](../m/market.md) impact, and other [transaction costs](../t/transaction_costs.md).
 
@@ -85,7 +85,7 @@ Consider a [hedge fund](../h/hedge_fund.md) that employs a quantitative [algorit
 
 ## Real-World Example
 
-Many [hedge](../h/hedge.md) funds and financial institutions incorporate [utility](../u/utility.md) maximization in their [algorithmic trading](../a/algorithmic_trading.md) strategies. A notable example is **AQR [Capital](../c/capital.md) Management** (https://www.aqr.com/), a global [investment management](../i/investment_management.md) [firm](../f/firm.md). AQR’s [trading strategies](../t/trading_strategies.md) often involve sophisticated quant models designed to maximize [risk](../r/risk.md)-adjusted returns.
+Many [hedge](../h/hedge.md) funds and financial institutions incorporate [utility](../u/utility.md) maximization in their [algorithmic trading](../a/algorithmic_trading.md) strategies. A notable example is **AQR [Capital](../c/capital.md) Management** ( a global [investment management](../i/investment_management.md) [firm](../f/firm.md). AQR’s [trading strategies](../t/trading_strategies.md) often involve sophisticated quant models designed to maximize [risk](../r/risk.md)-adjusted returns.
 
 ## Challenges and Considerations
 

@@ -44,7 +44,7 @@ Over the long term, high [expense](../e/expense.md) ratios can significantly ero
 
 ### Mutual Funds vs. ETFs
 
-Mutual funds and ETFs often have different [expense](../e/expense.md) structures. Generally, ETFs tend to have lower [expense](../e/expense.md) ratios compared to mutual funds. This is due in part to the passive management style of many ETFs, which track indices rather than engaging in [active management](../a/active_management.md). 
+Mutual funds and ETFs often have different [expense](../e/expense.md) structures. Generally, ETFs tend to have lower [expense](../e/expense.md) ratios compared to mutual funds. This is due in part to the passive management style of many ETFs, which track indices rather than engaging in [active management](../a/active_management.md).
 
 **Example Comparison:**
 
@@ -55,7 +55,6 @@ Mutual funds and ETFs often have different [expense](../e/expense.md) structures
 
 Vanguard has long been known for its low-cost investment products. Their insistence on keeping [expense](../e/expense.md) ratios low is a significant part of their [value proposition](../v/value_proposition.md) to investors.
 
-[Vanguard](https://www.vanguard.com)
 
 For example, the Vanguard Total [Stock Market](../s/stock_market.md) ETF (VTI) boasts an extremely low [expense](../e/expense.md) ratio of just 0.03%.
 
@@ -74,7 +73,6 @@ Over the past few decades, a [trend](../t/trend.md) towards lower [expense](../e
 
 ### Case Study: Fidelity
 
-[Fidelity](https://www.fidelity.com)
 
 In response to [market](../m/market.md) [demand](../d/demand.md) for low-cost investment [options](../o/options.md), Fidelity introduced their Zero-[Fee](../f/fee.md) [Index](../i/index_instrument.md) Funds, which aim to attract investors by eliminating [expense](../e/expense.md) ratios altogether. These funds are remarkable in the context of algotrading, as they can significantly reduce operational costs for high-frequency and algorithm-driven [trading strategies](../t/trading_strategies.md).
 

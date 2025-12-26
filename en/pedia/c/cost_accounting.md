@@ -100,15 +100,15 @@ Modern cost [accounting](../a/accounting.md) relies heavily on technology to cap
 
 ### Enterprise Resource Planning (ERP) Systems
 
-ERP systems integrate various [business](../b/business.md) processes, including cost [accounting](../a/accounting.md), into a single unified system. Examples include SAP ERP (https://www.sap.com/products/erp.html) and Oracle ERP (https://www.oracle.com/erp).
+ERP systems integrate various [business](../b/business.md) processes, including cost [accounting](../a/accounting.md), into a single unified system. Examples include SAP ERP ( and Oracle ERP (
 
 ### Specialized Cost Accounting Software
 
-There are specialized software solutions designed specifically for cost [accounting](../a/accounting.md), [offering](../o/offering.md) features such as job costing, project costing, and activity-based costing. Examples include QuickBooks (https://quickbooks.intuit.com) and Xero (https://www.xero.com).
+There are specialized software solutions designed specifically for cost [accounting](../a/accounting.md), [offering](../o/offering.md) features such as job costing, project costing, and activity-based costing. Examples include QuickBooks ( and Xero (
 
 ### Business Intelligence (BI) Tools
 
-BI tools, such as Tableau (https://www.tableau.com) and Power BI (https://powerbi.microsoft.com), provide advanced data analysis and visualization capabilities, helping businesses make data-driven decisions.
+BI tools, such as Tableau and Power BI provide advanced data analysis and visualization capabilities, helping businesses make data-driven decisions.
 
 ## Challenges in Cost Accounting
 

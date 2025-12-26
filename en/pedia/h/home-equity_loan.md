@@ -27,32 +27,32 @@ A HELOC is more flexible than a fixed-rate [loan](../l/loan.md). It's a [revolvi
 ## Application Process
 
 1. **Assessment of [Home Equity](../h/home_equity.md):**
-   Lenders evaluate the [home](../h/home.md)'s [market value](../m/market_value.md) and the outstanding [mortgage](../m/mortgage.md) [debt](../d/debt.md) to determine the available [equity](../e/equity.md).
+ Lenders evaluate the [home](../h/home.md)'s [market value](../m/market_value.md) and the outstanding [mortgage](../m/mortgage.md) [debt](../d/debt.md) to determine the available [equity](../e/equity.md).
 
 2. **[Credit](../c/credit.md) [Check](../c/check.md) and Approval:**
-   A [credit](../c/credit.md) [check](../c/check.md) is conducted to assess the borrower's [creditworthiness](../c/creditworthiness.md). Factors such as [income](../i/income.md), [credit score](../c/credit_score.md), and [debt](../d/debt.md)-to-[income](../i/income.md) ratio are critically evaluated.
+ A [credit](../c/credit.md) [check](../c/check.md) is conducted to assess the borrower's [creditworthiness](../c/creditworthiness.md). Factors such as [income](../i/income.md), [credit score](../c/credit_score.md), and [debt](../d/debt.md)-to-[income](../i/income.md) ratio are critically evaluated.
 
 3. **[Loan](../l/loan.md) Terms Discussion:**
-   Terms, including [interest](../i/interest.md) rates, [loan](../l/loan.md) period, and [repayment](../r/repayment.md) schedule, are negotiated and agreed upon. 
+ Terms, including [interest](../i/interest.md) rates, [loan](../l/loan.md) period, and [repayment](../r/repayment.md) schedule, are negotiated and agreed upon.
 
 4. **[Disbursement](../d/disbursement.md) of Funds:**
-   For fixed-rate loans, the entire [loan](../l/loan.md) amount is disbursed upfront. For HELOCs, the [credit](../c/credit.md) line is made available, and funds can be withdrawn as needed.
+ For fixed-rate loans, the entire [loan](../l/loan.md) amount is disbursed upfront. For HELOCs, the [credit](../c/credit.md) line is made available, and funds can be withdrawn as needed.
 
 ## Uses of Home-Equity Loans
 
 [Home](../h/home.md)-[equity](../e/equity.md) loans can be used for various purposes, including but not limited to:
 
 1. **[Home](../h/home.md) Improvements:**
-   [Investing](../i/investing.md) in [home](../h/home.md) renovations to increase property [value](../v/value.md) or [upgrade](../u/upgrade.md) living conditions.
+ [Investing](../i/investing.md) in [home](../h/home.md) renovations to increase property [value](../v/value.md) or [upgrade](../u/upgrade.md) living conditions.
 
 2. **[Debt Consolidation](../d/debt_consolidation.md):**
-   Paying off high-[interest](../i/interest.md) debts such as [credit card](../c/credit_card.md) balances by consolidating them into a single, lower-[interest](../i/interest.md) [loan](../l/loan.md).
+ Paying off high-[interest](../i/interest.md) debts such as [credit card](../c/credit_card.md) balances by consolidating them into a single, lower-[interest](../i/interest.md) [loan](../l/loan.md).
 
 3. **Medical Expenses:**
-   Covering large or unexpected medical bills.
+ Covering large or unexpected medical bills.
 
 4. **Education:**
-   Funding higher education expenses for oneself or family members.
+ Funding higher education expenses for oneself or family members.
 
 ## Risks and Considerations
 
@@ -73,24 +73,19 @@ Particularly relevant to HELOCs, varying [interest](../i/interest.md) rates can 
 Several banks and financial institutions [offer](../o/offer.md) [home](../h/home.md)-[equity](../e/equity.md) loans and HELOCs. Prominent ones include:
 
 1. **Wells Fargo**:
-   Wells Fargo provides both fixed-rate [home](../h/home.md)-[equity](../e/equity.md) loans and HELOCs with various terms.  
-   [Learn More](https://www.wellsfargo.com/mortgage/home-equity/)
+ Wells Fargo provides both fixed-rate [home](../h/home.md)-[equity](../e/equity.md) loans and HELOCs with various terms.
 
 2. **[Bank](../b/bank.md) of America**:
-   [Bank](../b/bank.md) of America offers competitive rates for [home](../h/home.md)-[equity](../e/equity.md) loans and lines of [credit](../c/credit.md).
-   [Learn More](https://www.bankofamerica.com/home-loans/heloc/)
+ [Bank](../b/bank.md) of America offers competitive rates for [home](../h/home.md)-[equity](../e/equity.md) loans and lines of [credit](../c/credit.md).
 
 3. **Chase**:
-   Chase provides [home](../h/home.md)-[equity](../e/equity.md) lines of [credit](../c/credit.md) with a comprehensive online application process.
-   [Learn More](https://www.chase.com/personal/home-equity)
+ Chase provides [home](../h/home.md)-[equity](../e/equity.md) lines of [credit](../c/credit.md) with a comprehensive online application process.
 
 4. **U.S. [Bank](../b/bank.md)**:
-   U.S. [Bank](../b/bank.md) offers flexible HELOC [options](../o/options.md) along with fixed-rate loans.
-   [Learn More](https://www.usbank.com/home-loans/home-equity/)
+ U.S. [Bank](../b/bank.md) offers flexible HELOC [options](../o/options.md) along with fixed-rate loans.
 
 5. **Citibank**:
-   Citibank provides [home](../h/home.md)-[equity](../e/equity.md) solutions tailored to individual financial goals.
-   [Learn More](https://online.citi.com/US/JRS/pands/detail.do?ID=HELOC)
+ Citibank provides [home](../h/home.md)-[equity](../e/equity.md) solutions tailored to individual financial goals.
 
 ## Conclusion
 

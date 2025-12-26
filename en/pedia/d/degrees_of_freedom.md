@@ -2,7 +2,7 @@
 
 In the context of [algorithmic trading](../a/accountability.md), "degrees of freedom" refers to the number of parameters or inputs that can be adjusted within a trading model or strategy. The concept is derived from [statistics](../s/statistics.md) and is crucial for understanding the flexibility and robustness of a trading algorithm. In simpler terms, degrees of freedom represent the amount of independent information available to the model for making predictions or decisions. This concept is foundational for ensuring that the models are optimized and not overfitted, thus maintaining their performance out-of-sample.
 
-## Understanding Degrees of Freedom in Algo Trading 
+## Understanding Degrees of Freedom in Algo Trading
 In statistical modeling and [machine learning](../m/machine_learning.md), degrees of freedom (DOF) are often defined as the number of values in the final calculation of a statistic that are free to vary. For example, if you have a sample size of `n`, and you compute the mean of the sample, then you have `n-1` degrees of freedom for estimating the variance. The concept translates similarly in [algorithmic trading](../a/accountability.md).
 
 Algo trading involves designing strategies using various [forecasting models](../f/forecasting_models.md), mathematical rigor, and advanced computational power. When developing a strategy, [multiple](../m/multiple.md) parameters such as entry and exit points, [stop-loss orders](../s/stop-loss_orders.md), moving averages, and other [technical indicators](../t/technical_indicator.md) can be tuned. Each parameter adds a degree of freedom to the model. The more degrees of freedom a model has, the more it can potentially fit the historical data. However, this also increases the [risk](../r/risk.md) of [overfitting](../o/overfitting.md), where the model becomes too tailored to the past data and fails to generalize well on unseen data.
@@ -36,24 +36,20 @@ One of the primary areas where degrees of freedom play a crucial role is in feat
 [Backtesting](../b/backtesting.md) involves testing the trading model on historical data to assess its performance. The degrees of freedom in the model should be carefully managed during [backtesting](../b/backtesting.md) to avoid fitting the historical data too closely. Forward testing, or [out-of-sample testing](../o/out-of-sample_testing.md), helps in ensuring that the model generalizes well to new data, providing a more accurate measure of its performance.
 
 ### Model Calibration
-Calibration deals with fine-tuning model parameters to improve performance. Each parameter adjustment contributes to the degrees of freedom. Effective calibration seeks to find the optimal balance whereby the model performs well without being overly complex. 
+Calibration deals with fine-tuning model parameters to improve performance. Each parameter adjustment contributes to the degrees of freedom. Effective calibration seeks to find the optimal balance whereby the model performs well without being overly complex.
 
 ### Example: Risk Management
 Consider a trading model that utilizes moving averages for making trading decisions. The choice of the period for the moving average is a parameter that adds to the degrees of freedom. A shorter period might react faster to [market](../m/market.md) changes but could also lead to more [false signals](../f/false_signals_in_trading.md). Conversely, a longer period might be more reliable but slower to react. Balancing this parameter is crucial for effective [risk management](../r/risk_management.md).
 
 ### Companies and Tools
 
-1. **[QuantConnect](../q/quantconnect.md)**: A platform that helps in designing, testing, and deploying algorithms. It supports [multiple](../m/multiple.md) data sources, algorithms, and brokerage integrations.
-   [QuantConnect](https://www.quantconnect.com/)
+1. **[StockSharp](../s/stocksharp.md)**: A platform that helps in designing, testing, and deploying algorithms. It supports [multiple](../m/multiple.md) data sources, algorithms, and brokerage integrations.
 
 2. **AlgoTrader**: Provides an [end-to-end algorithmic trading](../e/end-to-end.md) software solution for designing, testing, and running automated [trading strategies](../t/trading_strategies.md).
-   [AlgoTrader](https://www.algotrader.com/)
 
 3. **Numerai**: A [hedge fund](../h/hedge_fund.md) that crowdsources algorithms from data scientists globally. Each individual's model has its degrees of freedom, which are all aggregated to form a meta-model.
-   [Numerai](https://numer.ai/)
 
 4. **Kaggle**: Although not exclusively for trading, Kaggle provides numerous datasets and problems related to [financial markets](../f/financial_market.md) where degrees of freedom in models are of crucial importance.
-   [Kaggle](https://www.kaggle.com/)
 
 ### Best Practices
 

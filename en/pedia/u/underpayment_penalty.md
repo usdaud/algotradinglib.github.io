@@ -58,9 +58,9 @@ Individuals or businesses facing significant underpayment penalties might seek l
 ### Online Resources and Tools
 
 Several online platforms and tools can assist in managing and avoiding underpayment penalties:
-- **IRS E-File (U.S.):** [IRS E-File](https://www.irs.gov/e-file-providers/efile-for-businesses-and-self-employed-individuals) offers resources for electronic filing and estimated tax calculations.
-- **Tax Preparation Software:** Programs like TurboTax (https://turbotax.intuit.com) and H&R Block (https://www.hrblock.com) provide features to estimate [taxes](../t/taxes.md) and manage withholdings.
-- **Financial Advisors:** Platforms like Betterment (https://www.betterment.com) or Wealthfront (https://www.wealthfront.com) [offer](../o/offer.md) financial advising services, including [tax planning](../t/tax_planning.md).
+- **IRS E-File (U.S.):** IRS E-File offers resources for electronic filing and estimated tax calculations.
+- **Tax Preparation Software:** Programs like TurboTax ( and H&R Block ( provide features to estimate [taxes](../t/taxes.md) and manage withholdings.
+- **Financial Advisors:** Platforms like Betterment ( or Wealthfront ( [offer](../o/offer.md) financial advising services, including [tax planning](../t/tax_planning.md).
 
 **Conclusion**
 

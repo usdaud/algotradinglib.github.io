@@ -127,7 +127,7 @@ In certain cases, customized benchmarks are created to better reflect the specif
 
 ### Algorithmic Trading and Tracking Error
 
-In the realm of [algorithmic trading](../a/accountability.md), minimizing tracking error is critical for strategies aimed at [index](../i/index_instrument.md) replication. Sophisticated algorithms are developed to manage [order](../o/order.md) [execution](../e/execution.md), minimize [market](../m/market.md) impact, and reduce [transaction costs](../t/transaction_costs.md), all contributing to lower tracking error.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), minimizing tracking error is critical for strategies aimed at [index](../i/index_instrument.md) replication. Sophisticated algorithms are developed to manage [order](../o/order.md) [execution](../e/execution.md), minimize [market](../m/market.md) impact, and reduce [transaction costs](../t/transaction_costs.md), all contributing to lower tracking error.
 
 ## Conclusion
 

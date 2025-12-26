@@ -38,7 +38,7 @@ Recognizing the [scalability](../s/scalability.md) and energy [efficiency](../e/
 
 ### Vitalik’s Blog and Research
 
-Aside from his work on [Ethereum](../e/ethereum_.md), Buterin is an active researcher and [writer](../w/writer.md). His blog, [Vitalik Buterin’s website](https://vitalik.ca), is a treasure trove of articles, research papers, and musings on various topics, from cryptography and [economics](../e/economics.md) to philosophy and social issues. His writings reflect his deep understanding of [blockchain](../b/blockchain_in_trading.md) technology and its potential to innovate across [multiple](../m/multiple.md) sectors.
+Aside from his work on [Ethereum](../e/ethereum_.md), Buterin is an active researcher and [writer](../w/writer.md). His blog, Vitalik Buterin’s online platform, is a treasure trove of articles, research papers, and musings on various topics, from cryptography and [economics](../e/economics.md) to philosophy and social issues. His writings reflect his deep understanding of [blockchain](../b/blockchain_in_trading.md) technology and its potential to innovate across [multiple](../m/multiple.md) sectors.
 
 ### Philanthropy and Social Impact
 

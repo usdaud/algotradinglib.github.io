@@ -81,11 +81,11 @@ Since deferred tax assets are recorded as non-[current assets](../c/current_asse
 
 ### Technology Sector
 
-Many tech companies like Apple ([apple.com](https://www.apple.com)) and Google ([about.google.com](https://about.google/)) actively manage deferred tax assets due to their significant R&D expenses and international operations.
+Many tech companies like Apple (apple.com) and Google (about.google.com) actively manage deferred tax assets due to their significant R&D expenses and international operations.
 
 ### Pharmaceutical Industry
 
-Pharmaceutical companies, due to extensive R&D investments and long product development cycles, often have substantial deferred tax assets. Companies like Pfizer ([pfizer.com](https://www.pfizer.com)) and Moderna ([modernatx.com](https://www.modernatx.com)) [leverage](../l/leverage.md) R&D tax credits to optimize their deferred tax assets.
+Pharmaceutical companies, due to extensive R&D investments and long product development cycles, often have substantial deferred tax assets. Companies like Pfizer (pfizer.com) and Moderna (modernatx.com) [leverage](../l/leverage.md) R&D tax credits to optimize their deferred tax assets.
 
 ## Challenges and Considerations
 

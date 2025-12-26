@@ -47,44 +47,44 @@ Several tools and platforms facilitate the implementation of [robust](../r/robus
 Both MATLAB and Python [offer](../o/offer.md) powerful libraries and toolboxes for [portfolio optimization](../p/portfolio_optimization.md) and [risk management](../r/risk_management.md). MATLAB’s Financial Toolbox and Python’s libraries like Pandas, Numpy, SciPy, and PyPortfolioOpt provide comprehensive frameworks for developing and testing [robust](../r/robust.md) portfolios.
 
 **Python Libraries:**
-- [Pandas](https://pandas.pydata.org/)
-- [Numpy](https://numpy.org/)
-- [SciPy](https://scipy.org/)
-- [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)
+- Pandas
+- Numpy
+- SciPy
+- PyPortfolioOpt
 
 #### 2. QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) languages, including Python and C#, and offers extensive data sources and processing capabilities ideal for portfolio construction.
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). It supports C#, and offers extensive data sources and processing capabilities ideal for portfolio construction.
 
 **[QuantConnect](../q/quantconnect.md) Platform:**
-- [QuantConnect](https://www.quantconnect.com/)
+- QuantConnect
 
 #### 3. QSTrader
 
 QSTrader is an [open](../o/open.md)-source [backtesting](../b/backtesting.md) framework for implementing portfolio-based strategies in Python. It allows users to test their strategies against historical data with a [robust](../r/robust.md) set of analytics and [performance metrics](../p/performance_metrics.md).
 
 **QSTrader:**
-- [QSTrader GitHub](https://github.com/timxzl/qstrader)
+- QSTrader GitHub
 
 ### Steps to Construct a Robust Portfolio
 
 1. **Define Objectives and Constraints:**
-   Start by outlining the investment goals, [risk tolerance](../r/risk_tolerance.md), and any specific constraints (e.g., maximum [drawdown](../d/drawdown.md), [investment horizon](../i/investment_horizon.md)).
+ Start by outlining the investment goals, [risk tolerance](../r/risk_tolerance.md), and any specific constraints (e.g., maximum [drawdown](../d/drawdown.md), [investment horizon](../i/investment_horizon.md)).
 
 2. **Select [Asset](../a/asset.md) Universe:**
-   Choose a diverse set of [asset](../a/asset.md) classes, including equities, bonds, commodities, and alternative investments. Ensure a mix that provides non-[correlation](../c/correlation.md).
+ Choose a diverse set of [asset](../a/asset.md) classes, including equities, bonds, commodities, and alternative investments. Ensure a mix that provides non-[correlation](../c/correlation.md).
 
 3. **Estimate Inputs:**
-   Using historical data and [robust](../r/robust.md) statistical methods, estimate the expected returns, variances, and covariances of the assets.
+ Using historical data and [robust](../r/robust.md) statistical methods, estimate the expected returns, variances, and covariances of the assets.
 
 4. **Optimize Portfolio:**
-   Apply [optimization](../o/optimization.md) techniques, ensuring robustness. This could be through [robust](../r/robust.md) [mean-variance optimization](../m/mean-variance_optimization.md), [risk parity](../r/risk_parity.md) models, or more sophisticated [machine learning](../m/machine_learning.md) methods.
+ Apply [optimization](../o/optimization.md) techniques, ensuring robustness. This could be through [robust](../r/robust.md) [mean-variance optimization](../m/mean-variance_optimization.md), [risk parity](../r/risk_parity.md) models, or more sophisticated [machine learning](../m/machine_learning.md) methods.
 
 5. **Backtest and Stress Test:**
-   Implement [backtesting](../b/backtesting.md) using historical data to gauge performance. Additionally, conduct scenario and stress tests to assess how the portfolio holds up under adverse conditions.
+ Implement [backtesting](../b/backtesting.md) using historical data to gauge performance. Additionally, conduct scenario and stress tests to assess how the portfolio holds up under adverse conditions.
 
 6. **Implement and Monitor:**
-   Deploy the portfolio and continually monitor its performance. Rebalance periodically to ensure compliance with the defined [risk](../r/risk.md) and [return](../r/return.md) targets.
+ Deploy the portfolio and continually monitor its performance. Rebalance periodically to ensure compliance with the defined [risk](../r/risk.md) and [return](../r/return.md) targets.
 
 ### Conclusion
 

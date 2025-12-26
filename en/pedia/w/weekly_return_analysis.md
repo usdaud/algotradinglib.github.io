@@ -27,9 +27,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), weekly [return](../r/retu
 
 Accurate data collection is paramount. Sources can include historical data feeds from financial exchanges, specialized data vendors, or platforms like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md).
 
-Companies providing comprehensive data: 
-- [Bloomberg](https://www.bloomberg.com)
-- [Reuters](https://www.reuters.com)
+Companies providing comprehensive data:
+- Bloomberg
+- Reuters
 
 ### Data Preprocessing
 
@@ -94,12 +94,12 @@ Using adjusted closing prices, calculate the weekly returns:
 ## Case Studies
 
 ### Real-World Application
-1. **[Hedge](../h/hedge.md) Funds:** Many [hedge](../h/hedge.md) funds rely on weekly [return](../r/return.md) analysis to fine-tune their algorithmic strategies for medium-term trading. 
-   - For instance, [AQR Capital Management](https://www.aqr.com) uses sophisticated quantitative techniques to analyze weekly returns and optimize [portfolio performance](../p/portfolio_performance.md).
+1. **[Hedge](../h/hedge.md) Funds:** Many [hedge](../h/hedge.md) funds rely on weekly [return](../r/return.md) analysis to fine-tune their algorithmic strategies for medium-term trading.
+ - For instance, AQR Capital Management uses sophisticated quantitative techniques to analyze weekly returns and optimize [portfolio performance](../p/portfolio_performance.md).
 
 ### Academic Research
 
-Numerous research papers explore the effectiveness of weekly [return](../r/return.md) analysis in different markets and time periods. 
+Numerous research papers explore the effectiveness of weekly [return](../r/return.md) analysis in different markets and time periods.
 
 1. **"Predictability of Stock Returns" by F. Fama and K. French:** A seminal paper analyzing time-series predictability, which includes weekly [return](../r/return.md) data.
 
@@ -112,17 +112,17 @@ Numerous research papers explore the effectiveness of weekly [return](../r/retur
 
 ### Trading Platforms
 
-1. **[QuantConnect](../q/quantconnect.md):** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform integrating data, [backtesting](../b/backtesting.md), and live trading capabilities.
-   - [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md):** [algorithmic trading](../a/algorithmic_trading.md) platform integrating data, [backtesting](../b/backtesting.md), and live trading capabilities.
+ - QuantConnect
 2. **MetaTrader:** Popular among retail traders for its [robust](../r/robust.md) scripting language (MQL) and extensive [backtesting](../b/backtesting.md) tools.
-   - [MetaTrader](https://www.metatrader4.com)
+ - MetaTrader
 
 ### Visualization Tools
 
 1. **Tableau:** [Data visualization](../d/data_visualization.md) software useful for creating interactive and shareable dashboards.
-   - [Tableau](https://www.tableau.com)
+ - Tableau
 2. **Power BI:** Microsoft’s [business](../b/business.md) analytics service enabling [data visualization](../d/data_visualization.md) and sharing insights.
-   - [Power BI](https://powerbi.microsoft.com)
+ - Power BI
 
 ## Conclusion
 

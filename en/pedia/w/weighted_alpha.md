@@ -39,11 +39,11 @@ print("[Weighted](../w/weighted.md) [Alpha](../a/alpha.md):", weighted_alpha)
 
 ### Example Companies Utilizing Weighted Alpha
 
-1. **[TradeStation](../t/tradestation.md)**: Known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms, [TradeStation](../t/tradestation.md) allows the implementation of custom strategies that can utilize [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). [TradeStation](https://www.tradestation.com/)
-2. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a [range](../r/range.md) of indicators and metrics, including [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). [QuantConnect](https://www.quantconnect.com/)
-3. **[Alpha](../a/alpha.md) Architect**: This company uses data-driven strategies and tools that may include metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md) for better investment decisions. [Alpha Architect](https://alphaarchitect.com/)
-4. **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that employs advanced analytics and models, which potentially use metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). [Two Sigma](https://www.twosigma.com/)
-5. **Renaissance Technologies**: One of the most successful [hedge](../h/hedge.md) funds that uses [quantitative models](../q/quantitative_models.md) for trading, possibly incorporating metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). [Renaissance Technologies](https://www.rentec.com/)
+1. **[TradeStation](../t/tradestation.md)**: Known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms, [TradeStation](../t/tradestation.md) allows the implementation of custom strategies that can utilize [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). TradeStation
+2. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a [range](../r/range.md) of indicators and metrics, including [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). QuantConnect
+3. **[Alpha](../a/alpha.md) Architect**: This company uses data-driven strategies and tools that may include metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md) for better investment decisions. Alpha Architect
+4. **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that employs advanced analytics and models, which potentially use metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). Two Sigma
+5. **Renaissance Technologies**: One of the most successful [hedge](../h/hedge.md) funds that uses [quantitative models](../q/quantitative_models.md) for trading, possibly incorporating metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md). Renaissance Technologies
 
 ### Benefits of Using Weighted Alpha
 

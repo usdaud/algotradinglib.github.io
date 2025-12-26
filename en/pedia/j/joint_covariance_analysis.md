@@ -60,27 +60,27 @@ Several [software platforms](../s/software_platforms_for_trading.md) and librari
 ### Python Libraries
 
 1. **NumPy**: Fundamental for numerical computations, including [covariance](../c/covariance.md) matrix calculations.
-   - [NumPy](https://numpy.org/)
+ - NumPy
 
 2. **Pandas**: Excellent for data manipulation and analysis, including [covariance](../c/covariance.md) [statistics](../s/statistics.md).
-   - [Pandas](https://pandas.pydata.org/)
+ - Pandas
 
 3. **SciPy**: Contains advanced statistical functions and tools for [covariance](../c/covariance.md) analysis.
-   - [SciPy](https://scipy.org/)
+ - SciPy
 
 4. **scikit-learn**: Offers [machine learning](../m/machine_learning.md) tools that include PCA and other [covariance](../c/covariance.md)-related techniques.
-   - [scikit-learn](https://scikit-learn.org/)
+ - scikit-learn
 
 ### Trading Platforms
 
-1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for [covariance](../c/covariance.md) analysis and more.
-   - [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for [covariance](../c/covariance.md) analysis and more.
+ - QuantConnect
 
 2. **[Quantlib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md), including tools for [covariance](../c/covariance.md) and [risk analysis](../r/risk_analysis.md).
-   - [Quantlib](https://www.quantlib.org/)
+ - Quantlib
 
 3. **MatLab**: Widely used in academia and [industry](../i/industry.md) for its [robust](../r/robust.md) statistical and mathematical toolsets, including [covariance](../c/covariance.md) analysis.
-   - [MatLab](https://www.mathworks.com/products/matlab.html)
+ - MatLab
 
 ## Challenges and Considerations
 

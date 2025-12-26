@@ -26,14 +26,14 @@ A [commodity futures](../c/commodity_futures.md) contract is a standardized lega
 
 ## Popular Commodity Futures Exchanges
 
-1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: [CME Group](https://www.cmegroup.com)
-   - Products: Livestock, precious metals, energy, agricultural products.
+1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: CME Group
+ - Products: Livestock, precious metals, energy, agricultural products.
 2. **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: Part of CME Group.
-   - Products: [Crude oil](../c/crude_oil.md), natural gas, gasoline.
-3. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: [ICE](https://www.theice.com)
-   - Products: Energy, agricultural, financial contracts.
-4. **London Metal [Exchange](../e/exchange.md) (LME)**: [LME](https://www.lme.com)
-   - Products: Non-ferrous metals like aluminum, copper, zinc.
+ - Products: [Crude oil](../c/crude_oil.md), natural gas, gasoline.
+3. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE
+ - Products: Energy, agricultural, financial contracts.
+4. **London Metal [Exchange](../e/exchange.md) (LME)**: LME
+ - Products: Non-ferrous metals like aluminum, copper, zinc.
 
 ## Trading Strategies in Commodity Futures
 

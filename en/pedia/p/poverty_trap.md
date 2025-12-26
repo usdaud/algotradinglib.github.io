@@ -12,7 +12,7 @@ Low [income](../i/income.md) levels result in low saving rates. When a person or
 
 ### Healthcare and Education
 
-Lack of access to healthcare and education is a significant contributor to [poverty](../p/poverty.md) traps. Poor health can limit a person's ability to work, reducing their [income](../i/income.md). The lack of education limits their job opportunities, often confining them to low-wage, unskilled jobs. 
+Lack of access to healthcare and education is a significant contributor to [poverty](../p/poverty.md) traps. Poor health can limit a person's ability to work, reducing their [income](../i/income.md). The lack of education limits their job opportunities, often confining them to low-wage, unskilled jobs.
 
 ### Unemployment and Underemployment
 

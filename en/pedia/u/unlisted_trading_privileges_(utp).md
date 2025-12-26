@@ -71,7 +71,7 @@ Another example involves foreign securities [listed](../l/listed.md) on U.S. exc
 
 ### Algorithmic Trading
 
-UTP has paved the way for advanced [trading strategies](../t/trading_strategies.md) such as [algorithmic trading](../a/accountability.md). With securities traded across [multiple](../m/multiple.md) exchanges, traders can employ complex algorithms to exploit price discrepancies and achieve better [trade](../t/trade.md) [execution](../e/execution.md).
+UTP has paved the way for advanced [trading strategies](../t/trading_strategies.md) such as [algorithmic trading](../a/algorithmic_trading.md). With securities traded across [multiple](../m/multiple.md) exchanges, traders can employ complex algorithms to exploit price discrepancies and achieve better [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### High-Frequency Trading (HFT)
 
@@ -93,4 +93,3 @@ As technology continues to evolve, the landscape of UTP is likely to become more
 
 Unlisted Trading Privileges (UTP) have played a pivotal role in modernizing [financial markets](../f/financial_market.md) by increasing [liquidity](../l/liquidity.md), enhancing competition, and improving [price discovery](../p/price_discovery.md). Despite the challenges of regulatory compliance and operational complexity, the benefits far outweigh the drawbacks. As technology continues to evolve, the future prospects of UTP look promising, [offering](../o/offering.md) even more opportunities for [market](../m/market.md) participants.
 
-For more details, you can visit the [SEC's official website](https://www.sec.gov/).

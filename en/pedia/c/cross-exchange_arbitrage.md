@@ -74,9 +74,9 @@ High-speed internet, advanced software, and hardware are essential to successful
 
 Several prominent financial institutions and specialized trading firms are involved in cross-[exchange](../e/exchange.md) [arbitrage](../a/arbitrage.md). They employ advanced technology and algorithms to [capitalize](../c/capitalize.md) on these opportunities. Some of these firms include:
 
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that is well-known for its [arbitrage](../a/arbitrage.md) strategies. [Jane Street](https://www.janestreet.com/)
-- **[Jump Trading](../j/jump_trading.md)**: Specializes in [proprietary trading](../p/proprietary_trading.md) across various [asset](../a/asset.md) classes including [arbitrage](../a/arbitrage.md). [Jump Trading](https://www.jumptrading.com/)
-- **Citadel Securities**: Engages in [market](../m/market.md) making and employs [arbitrage](../a/arbitrage.md) strategies as part of its operations. [Citadel Securities](https://www.citadel.com/)
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that is well-known for its [arbitrage](../a/arbitrage.md) strategies. Jane Street
+- **[Jump Trading](../j/jump_trading.md)**: Specializes in [proprietary trading](../p/proprietary_trading.md) across various [asset](../a/asset.md) classes including [arbitrage](../a/arbitrage.md). Jump Trading
+- **Citadel Securities**: Engages in [market](../m/market.md) making and employs [arbitrage](../a/arbitrage.md) strategies as part of its operations. Citadel Securities
 
 ## Conclusion
 

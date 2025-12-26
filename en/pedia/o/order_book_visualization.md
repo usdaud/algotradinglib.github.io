@@ -34,7 +34,7 @@ An [order book](../o/order_book.md) is an electronic list of buy and sell orders
 
 #### Example
 
-![Heatmap Example](https://www.example.com/heatmap-example)
+!Heatmap Example
 
 ### Depth Charts
 
@@ -42,7 +42,7 @@ Depth charts plot the cumulative quantity of buy and sell orders against price l
 
 #### Example
 
-![Depth Chart Example](https://www.example.com/depth-chart-example)
+!Depth Chart Example
 
 ### Market Profile
 
@@ -50,7 +50,7 @@ Depth charts plot the cumulative quantity of buy and sell orders against price l
 
 #### Example
 
-![Market Profile Example](https://www.example.com/market-profile-example)
+!Market Profile Example
 
 ### Time and Sales
 
@@ -58,7 +58,7 @@ Time and Sales data presents a real-time chronological record of individual trad
 
 #### Example
 
-![Time and Sales Example](https://www.example.com/time-and-sales-example)
+!Time and Sales Example
 
 ## Tools and Platforms for Order Book Visualization
 
@@ -68,31 +68,26 @@ Several [software tools](../s/software_tools_for_trading.md) and platforms cater
 
 Bookmap provides detailed [heatmap](../h/heatmap.md) visualizations of [order book](../o/order_book.md) data and supports various financial instruments, including [stocks](../s/stock.md), [futures](../f/futures.md), and cryptocurrencies.
 
-[Bookmap](https://www.bookmap.com)
 
 ### TradingView
 
 [TradingView](../t/tradingview.md) offers depth charts and various other tools for visualizing [market](../m/market.md) data, catering to both retail and professional traders.
 
-[TradingView](https://www.tradingview.com)
 
 ### Sierra Chart
 
 [Sierra Chart](../s/sierra_chart.md) supports advanced [market](../m/market.md) profile and [order book](../o/order_book.md) visualizations, making it a favorite among professional traders.
 
-[Sierra Chart](https://www.sierrachart.com)
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md) with advanced tools for [order book](../o/order_book.md) data analysis and visualization.
+[StockSharp](../s/stocksharp.md) provides [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md) with advanced tools for [order book](../o/order_book.md) data analysis and visualization.
 
-[QuantConnect](https://www.quantconnect.com)
 
 ### AlgoTrader
 
 [AlgoTrader](../a/algotrader.md) offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solution with comprehensive [order book](../o/order_book.md) visualization capabilities.
 
-[AlgoTrader](https://www.algotrader.com)
 
 ## Practical Applications of Order Book Visualization
 

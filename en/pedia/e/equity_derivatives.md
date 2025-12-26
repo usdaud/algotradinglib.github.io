@@ -6,18 +6,18 @@
 
 #### Options
 
-[Options](../o/options.md) are financial contracts that give the buyer the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a fixed price within a specified period. There are two main types of [options](../o/options.md): 
+[Options](../o/options.md) are financial contracts that give the buyer the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a fixed price within a specified period. There are two main types of [options](../o/options.md):
 
 - **Call [Options](../o/options.md)**: These allow the holder to buy the [underlying asset](../u/underlying_asset.md) at a specified price ([strike price](../s/strike_price.md)) before the option expires.
 - **[Put Options](../p/put_options.md)**: These allow the holder to sell the [underlying asset](../u/underlying_asset.md) at a specified price before the option expires.
 
-[Options](../o/options.md) can be traded on exchanges, such as the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) [CBOE](https://www.cboe.com/), or over-the-counter (OTC). They are commonly used for hedging [risk](../r/risk.md) or for speculative purposes.
+[Options](../o/options.md) can be traded on exchanges, such as the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) CBOE, or over-the-counter (OTC). They are commonly used for hedging [risk](../r/risk.md) or for speculative purposes.
 
 #### Futures
 
 [Futures](../f/futures.md) are standardized contracts obligating the buyer to purchase, or the seller to sell, an [asset](../a/asset.md) at a predetermined future date and price. Unlike [options](../o/options.md), [futures contracts](../f/futures_contracts.md) require the contract holder to fulfill the terms of the contract, either by [physical delivery](../p/physical_delivery_in_trading.md) of the [asset](../a/asset.md) or through a cash settlement.
 
-[Equity](../e/equity.md) [futures](../f/futures.md) are [listed](../l/listed.md) on exchanges like the CME Group [CME Group](https://www.cmegroup.com/), which provides a platform for the trading of various financial [derivatives](../d/derivatives.md).
+[Equity](../e/equity.md) [futures](../f/futures.md) are [listed](../l/listed.md) on exchanges like the CME Group CME Group, which provides a platform for the trading of various financial [derivatives](../d/derivatives.md).
 
 #### Warrants
 
@@ -67,11 +67,11 @@ The ability to [hedge](../h/hedge.md) and manage [risk](../r/risk.md) effectivel
 
 Several financial institutions, exchanges, and brokerage firms are heavily involved in the trading and [clearing](../c/clearing.md) of [equity](../e/equity.md) [derivatives](../d/derivatives.md). Examples include:
 
-- **CME Group**: [CME Group](https://www.cmegroup.com/) offers a wide [range](../r/range.md) of [equity](../e/equity.md) [index futures](../i/index_futures.md) and [options](../o/options.md), serving as a major platform for [derivatives](../d/derivatives.md) trading globally.
-- **Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE)**: [CBOE](https://www.cboe.com/) is one of the largest [options](../o/options.md) exchanges in the world, providing a marketplace for [options](../o/options.md) on individual [stocks](../s/stock.md), ETFs, and [equity](../e/equity.md) indices.
-- **NYSE [Euronext](../e/euronext.md)**: Part of the Intercontinental [Exchange](../e/exchange.md) (ICE), [NYSE Euronext](https://www.nyse.com/) is another major player, [offering](../o/offering.md) various [equity](../e/equity.md) [derivatives](../d/derivatives.md), including [options](../o/options.md) and [futures contracts](../f/futures_contracts.md).
-- **Goldman Sachs**: A leading investment [bank](../b/bank.md) and financial services company, [Goldman Sachs](https://www.goldmansachs.com/) is deeply involved in the trading, structuring, and [market](../m/market.md)-making of [equity](../e/equity.md) [derivatives](../d/derivatives.md).
-- **Morgan Stanley**: [Morgan Stanley](https://www.morganstanley.com/) provides comprehensive [equity](../e/equity.md) [derivatives](../d/derivatives.md) services, including trading, research, and [risk management](../r/risk_management.md) solutions.
+- **CME Group**: CME Group offers a wide [range](../r/range.md) of [equity](../e/equity.md) [index futures](../i/index_futures.md) and [options](../o/options.md), serving as a major platform for [derivatives](../d/derivatives.md) trading globally.
+- **Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE)**: CBOE is one of the largest [options](../o/options.md) exchanges in the world, providing a marketplace for [options](../o/options.md) on individual [stocks](../s/stock.md), ETFs, and [equity](../e/equity.md) indices.
+- **NYSE [Euronext](../e/euronext.md)**: Part of the Intercontinental [Exchange](../e/exchange.md) (ICE), NYSE Euronext is another major player, [offering](../o/offering.md) various [equity](../e/equity.md) [derivatives](../d/derivatives.md), including [options](../o/options.md) and [futures contracts](../f/futures_contracts.md).
+- **Goldman Sachs**: A leading investment [bank](../b/bank.md) and financial services company, Goldman Sachs is deeply involved in the trading, structuring, and [market](../m/market.md)-making of [equity](../e/equity.md) [derivatives](../d/derivatives.md).
+- **Morgan Stanley**: Morgan Stanley provides comprehensive [equity](../e/equity.md) [derivatives](../d/derivatives.md) services, including trading, research, and [risk management](../r/risk_management.md) solutions.
 
 ### Conclusion
 

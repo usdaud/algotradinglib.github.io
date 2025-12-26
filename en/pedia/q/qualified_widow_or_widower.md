@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the realm of tax filing, various statuses are available for different scenarios, including [Married Filing Jointly](../m/married_filing_jointly.md), Single, [Head of Household](../h/head_of_household.md), and [Married Filing Separately](../m/married_filing_separately.md). Another critical status, which is less commonly known but offers significant tax benefits, is the Qualified Widow or Widower status. This tax category aims to provide financial relief to individuals who have recently lost their spouses and are left with the responsibility of supporting the life they had previously sustained as part of a dual-[income](../i/income.md) household. 
+In the realm of tax filing, various statuses are available for different scenarios, including [Married Filing Jointly](../m/married_filing_jointly.md), Single, [Head of Household](../h/head_of_household.md), and [Married Filing Separately](../m/married_filing_separately.md). Another critical status, which is less commonly known but offers significant tax benefits, is the Qualified Widow or Widower status. This tax category aims to provide financial relief to individuals who have recently lost their spouses and are left with the responsibility of supporting the life they had previously sustained as part of a dual-[income](../i/income.md) household.
 
 ## Definition
 
@@ -46,4 +46,4 @@ John's wife passed away in 2022, but they did not have any children. John cannot
 
 The tax [filing status](../f/filing_status.md) of Qualified Widow or Widower is a crucial [provision](../p/provision.md) within the U.S. tax code, designed to alleviate some of the financial burdens during a challenging time following the loss of a spouse. By understanding and utilizing this status, qualifying individuals can [gain](../g/gain.md) financial benefits that help them maintain stability and focus on supporting their family through the transition.
 
-For more detailed information or personal assistance, it's advisable to consult with a tax professional or visit the IRS website [here](https://www.irs.gov/).
+For more detailed information or personal assistance, it's advisable to consult with a tax professional or

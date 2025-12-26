@@ -8,7 +8,7 @@
 
 ### Increased Volatility
 
-One primary characteristic of recessionary periods is increased [market](../m/market.md) [volatility](../v/volatility.md). The [uncertainty](../u/uncertainty_in_trading.md) surrounding economic downturns leads to more drastic swings in [asset](../a/asset.md) prices. [Algorithmic trading](../a/algorithmic_trading.md) systems, particularly those that employ high-frequency trading (HFT) strategies, thrive on [volatility](../v/volatility.md). This is because more price fluctuations create more opportunities for executing profitable trades. 
+One primary characteristic of recessionary periods is increased [market](../m/market.md) [volatility](../v/volatility.md). The [uncertainty](../u/uncertainty_in_trading.md) surrounding economic downturns leads to more drastic swings in [asset](../a/asset.md) prices. [Algorithmic trading](../a/algorithmic_trading.md) systems, particularly those that employ high-frequency trading (HFT) strategies, thrive on [volatility](../v/volatility.md). This is because more price fluctuations create more opportunities for executing profitable trades.
 
 However, increased [volatility](../v/volatility.md) also comes with heightened risks. Algorithms that [fail](../f/fail.md) to adapt to rapidly changing conditions can incur significant losses. This necessitates [robust](../r/robust.md) [risk management](../r/risk_management.md) protocols and [adaptive algorithms](../a/adaptive_algorithms.md) that can respond dynamically to [market](../m/market.md) shifts.
 
@@ -74,7 +74,7 @@ During economic downturns, institutional investors often dominate the trading la
 
 ### Democratization of Algotrading
 
-Despite the dominance of institutional players, the rise of user-friendly [algorithmic trading](../a/algorithmic_trading.md) platforms has helped democratize access to these tools. Platforms such as [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) allow retail investors to develop and deploy their own [trading algorithms](../t/trading_algorithms.md). Although these platforms do not [offer](../o/offer.md) the same level of sophistication as institutional tools, they empower individual traders to participate in algotrading during recessions.
+Despite the dominance of institutional players, the rise of user-friendly [algorithmic trading](../a/algorithmic_trading.md) platforms has helped democratize access to these tools. Platforms such as [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) allow retail investors to develop and deploy their own [trading algorithms](../t/trading_algorithms.md). Although these platforms do not [offer](../o/offer.md) the same level of sophistication as institutional tools, they empower individual traders to participate in algotrading during recessions.
 
 ## Technological Advancements
 
@@ -100,27 +100,27 @@ As [machine learning](../m/machine_learning.md) and AI become more integral to [
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is one of the most well-known [hedge](../h/hedge.md) funds specializing in [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make trading decisions. For more information, you can visit their website at [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is one of the most well-known [hedge](../h/hedge.md) funds specializing in [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make trading decisions.
 
 ### Two Sigma
 
-Two Sigma is another leading [firm](../f/firm.md) in the field of [algorithmic trading](../a/algorithmic_trading.md). The company employs a [range](../r/range.md) of [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) techniques to develop its [trading strategies](../t/trading_strategies.md). Visit [Two Sigma's website](https://www.twosigma.com/) for more details.
+Two Sigma is another leading [firm](../f/firm.md) in the field of [algorithmic trading](../a/algorithmic_trading.md). The company employs a [range](../r/range.md) of [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) techniques to develop its [trading strategies](../t/trading_strategies.md).
 
 ### Citadel Securities
 
-Citadel Securities is a major player in [market](../m/market.md) making and high-frequency trading. The [firm](../f/firm.md) utilizes advanced technology and sophisticated algorithms to provide [liquidity](../l/liquidity.md) and facilitate efficient [market](../m/market.md) operations. More information can be found on their official website at [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel Securities is a major player in [market](../m/market.md) making and high-frequency trading. The [firm](../f/firm.md) utilizes advanced technology and sophisticated algorithms to provide [liquidity](../l/liquidity.md) and facilitate efficient [market](../m/market.md) operations.
 
 ### DE Shaw & Co.
 
-DE Shaw & Co. is a global investment and technology development [firm](../f/firm.md) that focuses on [quantitative trading](../q/quantitative_trading.md) strategies. The company's algorithms [leverage](../l/leverage.md) extensive data analysis to inform their trading decisions. Learn more at [DE Shaw & Co.](https://www.deshaw.com/).
+DE Shaw & Co. is a global investment and technology development [firm](../f/firm.md) that focuses on [quantitative trading](../q/quantitative_trading.md) strategies. The company's algorithms [leverage](../l/leverage.md) extensive data analysis to inform their trading decisions. Learn more at DE Shaw & Co..
 
 ### Alpaca
 
-[Alpaca](../a/alpaca.md) is a technology company that offers a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with an emphasis on [algorithmic trading](../a/algorithmic_trading.md). The platform provides APIs that allow users to create and deploy their own [trading strategies](../t/trading_strategies.md). Visit [Alpaca](https://alpaca.markets/) for more information.
+[Alpaca](../a/alpaca.md) is a technology company that offers a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with an emphasis on [algorithmic trading](../a/algorithmic_trading.md). The platform provides APIs that allow users to create and deploy their own [trading strategies](../t/trading_strategies.md). Visit Alpaca for more information.
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers extensive historical data for [backtesting](../b/backtesting.md). More details can be found at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers extensive historical data for [backtesting](../b/backtesting.md). More details can be found at QuantConnect.
 
 ## Conclusion
 

@@ -80,10 +80,10 @@ Zero Bound [Yield](../y/yield.md) Strategies [offer](../o/offer.md) a toolkit of
 
 ## References
 
-- [JPMorgan Chase & Co.](https://www.jpmorgan.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [Morgan Stanley](https://www.morganstanley.com/)
-- [Citadel LLC](https://www.citadel.com/)
-- [Bridgewater Associates](https://www.bridgewater.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [BlackRock](https://www.blackrock.com/)
+- JPMorgan Chase & Co.
+- Goldman Sachs
+- Morgan Stanley
+- Citadel LLC
+- Bridgewater Associates
+- Renaissance Technologies
+- BlackRock

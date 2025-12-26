@@ -15,11 +15,11 @@ In the financial context, a **Multiple** refers to a ratio used to [value](../v/
 
 ## Example Scenarios
 1. **Price-to-[Earnings](../e/earnings.md) (P/E) Ratio**: A multiple that compares a company’s share price to its [earnings](../e/earnings.md) per share (EPS). It indicates how much investors are willing to pay for a dollar of [earnings](../e/earnings.md).
-   - Example: A company with a share price of $50 and an EPS of $5 has a P/E ratio of 10 ($50 / $5).
+ - Example: A company with a share price of $50 and an EPS of $5 has a P/E ratio of 10 ($50 / $5).
 2. **Enterprise [Value](../v/value.md)-to-EBITDA (EV/EBITDA)**: A multiple that compares a company’s enterprise [value](../v/value.md) (EV) to its [earnings](../e/earnings.md) before [interest](../i/interest.md), [taxes](../t/taxes.md), [depreciation](../d/depreciation.md), and amortization (EBITDA). It is used to assess a company’s overall [value](../v/value.md).
-   - Example: A company with an EV of $500 million and EBITDA of $50 million has an EV/EBITDA ratio of 10 ($500 million / $50 million).
+ - Example: A company with an EV of $500 million and EBITDA of $50 million has an EV/EBITDA ratio of 10 ($500 million / $50 million).
 3. **Price-to-Sales (P/S) Ratio**: A multiple that compares a company’s [market capitalization](../m/market_capitalization.md) to its total sales or [revenue](../r/revenue.md). It indicates how much investors are willing to pay for a dollar of sales.
-   - Example: A company with a [market capitalization](../m/market_capitalization.md) of $200 million and annual sales of $100 million has a P/S ratio of 2 ($200 million / $100 million).
+ - Example: A company with a [market capitalization](../m/market_capitalization.md) of $200 million and annual sales of $100 million has a P/S ratio of 2 ($200 million / $100 million).
 
 ## Types of Multiples
 1. **Price-to-[Earnings](../e/earnings.md) (P/E) Ratio**: Measures the current share price relative to its per-share [earnings](../e/earnings.md).
@@ -40,4 +40,3 @@ In the financial context, a **Multiple** refers to a ratio used to [value](../v/
 
 ## Conclusion
 Multiples are a vital tool in [financial analysis](../f/financial_analysis.md) for valuing companies and comparing them to [industry](../i/industry.md) peers. They provide insights into how much investors are willing to pay for various financial metrics. Understanding the different types of multiples, their importance, and [best practices](../b/best_practices.md) for their use can help investors and financial analysts make informed decisions and accurately assess company valuations.
-

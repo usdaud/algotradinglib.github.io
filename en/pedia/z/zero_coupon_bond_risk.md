@@ -36,7 +36,7 @@ An [investor](../i/investor.md) buying a [zero-coupon bond](../z/zero-coupon_bon
 
 ## Liquidity Risk
 
-[Liquidity risk](../l/liquidity_risk.md) refers to the [risk](../r/risk.md) that an [investor](../i/investor.md) may not be able to sell the [zero-coupon bond](../z/zero-coupon_bond.md) quickly without significantly affecting its price. Zero-coupon bonds are often less [liquid](../l/liquid.md) than coupon-bearing bonds because they are less attractive to a broad [range](../r/range.md) of investors, particularly those seeking regular [income](../i/income.md). 
+[Liquidity risk](../l/liquidity_risk.md) refers to the [risk](../r/risk.md) that an [investor](../i/investor.md) may not be able to sell the [zero-coupon bond](../z/zero-coupon_bond.md) quickly without significantly affecting its price. Zero-coupon bonds are often less [liquid](../l/liquid.md) than coupon-bearing bonds because they are less attractive to a broad [range](../r/range.md) of investors, particularly those seeking regular [income](../i/income.md).
 
 ### Example:
 

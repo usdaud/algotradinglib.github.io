@@ -40,7 +40,7 @@ Several [technical indicators](../t/technical_indicator.md) help traders identif
 
 ## Algorithms in Trend Analysis
 
-In [algorithmic trading](../a/accountability.md), automated systems are programmed to identify trends through [technical indicators](../t/technical_indicator.md) and predefined rules. These systems can execute trades at speeds and frequencies that are impossible for human traders. Algorithms are designed to recognize [market](../m/market.md) patterns and make trades based on those patterns.
+In [algorithmic trading](../a/algorithmic_trading.md), automated systems are programmed to identify trends through [technical indicators](../t/technical_indicator.md) and predefined rules. These systems can execute trades at speeds and frequencies that are impossible for human traders. Algorithms are designed to recognize [market](../m/market.md) patterns and make trades based on those patterns.
 
 ### Machine Learning and AI
 
@@ -80,9 +80,9 @@ Numerous tools and platforms facilitate [trend analysis](../t/trend_analysis.md)
 
 **Examples and additional resources:**
 
-- [TradingView](https://www.tradingview.com/)
-- [MetaTrader 4/5](https://www.metatrader4.com/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- TradingView
+- MetaTrader 4/5
+- Bloomberg Terminal
 
 ## Conclusion
 

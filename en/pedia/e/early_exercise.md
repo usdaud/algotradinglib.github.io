@@ -8,7 +8,7 @@ Early [exercise](../e/exercise.md) refers to the action of exercising an [option
 
 ## The Mechanism of Early Exercise
 
-When an option is exercised early, the holder opts to execute the right to buy (in the case of a [call option](../c/call_option.md)) or sell (in the case of a [put option](../p/put.md)) the [underlying asset](../u/underlying_asset.md) at the predetermined [strike price](../s/strike_price.md). This is done before the [expiration date](../e/expiration_date.md) of the option. 
+When an option is exercised early, the holder opts to execute the right to buy (in the case of a [call option](../c/call_option.md)) or sell (in the case of a [put option](../p/put.md)) the [underlying asset](../u/underlying_asset.md) at the predetermined [strike price](../s/strike_price.md). This is done before the [expiration date](../e/expiration_date.md) of the option.
 
 Here’s how it breaks down:
 
@@ -33,13 +33,13 @@ For call [options](../o/options.md), the most common reason for early [exercise]
 The prevailing [interest rate](../i/interest_rate.md) is another critical [factor](../f/factor.md) influencing early [exercise](../e/exercise.md) decisions, albeit more so in financial theory than in practice. The concept of [time value](../t/time_value.md) of [money](../m/money.md) implies that [money](../m/money.md) today is worth more than [money](../m/money.md) in the future due to earning potential through [interest](../i/interest.md) or investments:
 
 - **Cost of Carry:** For holding a short stock position, the [interest rate](../i/interest_rate.md) environment might prompt put holders to [exercise](../e/exercise.md) early.
-  
+
 ### Deep In-the-Money Options
 
 When [options](../o/options.md) are deep in-the-[money](../m/money.md), the [extrinsic value](../e/extrinsic_value.md) ([time value](../t/time_value.md)) diminishes, and the [intrinsic value](../i/intrinsic_value.md) becomes significant:
 
 - **Minimal [Time Value](../t/time_value.md)**: If the [time value](../t/time_value.md) of an in-the-[money](../m/money.md) option is negligible, early [exercise](../e/exercise.md) might be considered since holding the option yields little additional benefit.
-  
+
 ## Determining the Optimal Time to Exercise
 
 Deciding when to [exercise](../e/exercise.md) early involves balancing [intrinsic value](../i/intrinsic_value.md) and the remaining [time value](../t/time_value.md). Here are some strategies and models used to evaluate the timing:
@@ -61,7 +61,7 @@ The Binomial Model offers a more flexible approach by evaluating [multiple](../m
 Sophisticated [simulation](../s/simulation_in_trading.md) algorithms can run numerous scenarios comparing the outcomes of exercising early versus holding. Some notable algorithms include:
 
 - **Monte Carlo Simulations**: These involve running thousands of iterations to predict pricing and the impacts of early [exercise](../e/exercise.md).
-  
+
 ## Practical Considerations and Risks
 
 While theoretical models provide [guidance](../g/guidance.md), practical trading also involves understanding [market](../m/market.md) mechanics and risks:
@@ -126,7 +126,7 @@ Retail trading platforms often [offer](../o/offer.md) features to guide retail i
 
 Firms specializing in high-frequency and [algorithmic trading](../a/accountability.md) [leverage](../l/leverage.md) advanced models to optimize early [exercise](../e/exercise.md) decisions:
 
-- **Automated [Execution](../e/execution.md)**: Platforms like Two Sigma (https://www.twosigma.com) and Renaissance Technologies (https://www.rentec.com) implement automated systems to capture early [exercise](../e/exercise.md) opportunities within milliseconds.
+- **Automated [Execution](../e/execution.md)**: Platforms like Two Sigma ( and Renaissance Technologies ( implement automated systems to capture early [exercise](../e/exercise.md) opportunities within milliseconds.
 
 ## Conclusion
 

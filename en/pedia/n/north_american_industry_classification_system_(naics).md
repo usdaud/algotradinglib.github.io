@@ -1,6 +1,6 @@
 # North American Industry Classification System (NAICS)
 
-The North American [Industry](../i/industry.md) Classification System (NAICS) is a standardized method used by the United States, Canada, and Mexico to classify [business](../b/business.md) establishments for the purpose of collecting, analyzing, and publishing statistical data related to the [economy](../e/economy.md). This system enables consistent categorization of industries across the three countries and facilitates cross-border comparisons and economic analysis. 
+The North American [Industry](../i/industry.md) Classification System (NAICS) is a standardized method used by the United States, Canada, and Mexico to classify [business](../b/business.md) establishments for the purpose of collecting, analyzing, and publishing statistical data related to the [economy](../e/economy.md). This system enables consistent categorization of industries across the three countries and facilitates cross-border comparisons and economic analysis.
 
 ## Origins and Development
 
@@ -91,9 +91,9 @@ NAICS is designed to be compatible with international [industry](../i/industry.m
 
 NAICS information is publicly accessible through various governmental websites. For instance:
 
-- The U.S. Census Bureau (https://www.census.gov/naics/) provides comprehensive NAICS resources, including current codes, proposed changes, and historical data.
-- [Statistics](../s/statistics.md) Canada (https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/[index](../i/index_instrument.md)) offers Canadian [industry](../i/industry.md) classifications based on NAICS.
-- INEGI (http://www.inegi.org.mx/) details the Mexican implementation and utilization of NAICS.
+- The U.S. Census Bureau provides comprehensive NAICS resources, including current codes, proposed changes, and historical data.
+- [Statistics](../s/statistics.md) Canada ( offers Canadian [industry](../i/industry.md) classifications based on NAICS.
+- INEGI details the Mexican implementation and utilization of NAICS.
 
 These resources ensure that businesses, researchers, policymakers, and the general public can easily access and employ NAICS data for their respective needs.
 

@@ -12,7 +12,7 @@ Several empirical studies have demonstrated the [Endowment](../e/endowment.md) E
 
 ### Psychological Underpinnings
 
-The [Endowment](../e/endowment.md) Effect is primarily driven by [loss aversion](../l/loss_aversion.md) and ownership. 
+The [Endowment](../e/endowment.md) Effect is primarily driven by [loss aversion](../l/loss_aversion.md) and ownership.
 
 - **[Loss Aversion](../l/loss_aversion.md)**: People tend to fear losses more than they [value](../v/value.md) equivalent gains. In other words, the pain of losing something is greater than the pleasure of gaining something of similar [value](../v/value.md).
 - **Ownership**: Psychological ownership contributes to the [Endowment](../e/endowment.md) Effect. Once people take ownership of an object, they begin to integrate it into their sense of self and assign it more [value](../v/value.md).
@@ -62,19 +62,19 @@ The [Endowment](../e/endowment.md) Effect also affects how people price assets i
 
 Zillow, a popular [real estate](../r/real_estate.md) marketplace, often shows discrepancies between homeowners' listing prices and their Zestimate (a [value](../v/value.md) estimate provided by Zillow). This phenomenon can partly be attributed to the [Endowment](../e/endowment.md) Effect as homeowners overvalue their properties.
 
-- **Link**: [Zillow](https://www.zillow.com)
+- **Link**: Zillow
 
 ### Robinhood’s Trading Platform
 
 On platforms like [Robinhood](../r/robinhood.md), retail investors display behavior influenced by the [Endowment](../e/endowment.md) Effect. The platform’s design, which gamifies trading, can exacerbate emotional attachment to owned [stocks](../s/stock.md), leading to overvaluation and reluctance to sell.
 
-- **Link**: [Robinhood](https://robinhood.com)
+- **Link**: Robinhood
 
 ### Apple’s Product Trials
 
 Apple allows potential buyers to try products in-store, generating a sense of ownership that can lead to increased sales. This strategy effectively leverages the [Endowment](../e/endowment.md) Effect.
 
-- **Link**: [Apple](https://www.apple.com)
+- **Link**: Apple
 
 ## Criticisms and Limitations
 

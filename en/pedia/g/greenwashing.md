@@ -8,9 +8,9 @@ The term "greenwashing" was coined by environmental activists in the 1980s. It i
 
 ## Typologies of Greenwashing
 
-1. **Vague Claims:** Companies might use ambiguous terms like "natural," "eco-friendly," or "green" without providing concrete evidence or definitions. 
+1. **Vague Claims:** Companies might use ambiguous terms like "natural," "eco-friendly," or "green" without providing concrete evidence or definitions.
 2. **Irrelevant Claims:** Some claims may be technically true but irrelevant to the product's overall environmental impact. For example, a product might boast that it is "CFC-free," even though CFCs (chlorofluorocarbons) were banned decades ago.
-3. **Exaggerated Claims:** Companies may overstretch the environmental benefits of their products. 
+3. **Exaggerated Claims:** Companies may overstretch the environmental benefits of their products.
 4. **Hidden [Trade](../t/trade.md)-offs:** These companies may highlight a minor positive environmental attribute while ignoring significant negative impacts. For example, a paper product might be labeled as "recyclable," but this overlooks the deforestation involved in producing the paper.
 5. **Lack of Proof:** Claims that cannot be substantiated with accessible evidence or certifications fall under this category.
 6. **Misleading Visuals:** Using green colors, images of nature, or animals can create a deceptive perception of a product's environmental friendliness.
@@ -57,7 +57,7 @@ Consumers and organizations can look for specific signs to identify potential gr
 ## Notable Anti-Greenwashing Initiatives
 
 ### Greenpeace
-Greenpeace has been at the forefront of exposing greenwashing practices. The organization leverages activism, research, and advocacy to reveal misleading claims and press companies to adopt more sustainable practices. [Greenpeace](https://www.greenpeace.org/international/)
+Greenpeace has been at the forefront of exposing greenwashing practices. The organization leverages activism, research, and advocacy to reveal misleading claims and press companies to adopt more sustainable practices. Greenpeace
 
 ### Green Guides
 The Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC) in the United States has developed "Green Guides" to help marketers avoid making misleading environmental claims. These guides are continually updated to reflect current [market](../m/market.md) practices and scientific advancements.
@@ -67,7 +67,7 @@ The Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC) in the
 Companies caught engaging in greenwashing can face several significant repercussions:
 
 1. **Legal Actions:** Regulatory bodies can impose fines and sanctions. Volkswagen, for instance, faced billions in fines due to the Dieselgate scandal.
-2. **Reputation Damage:** Consumer backlash can tarnish a brand's image for an extended period. 
+2. **Reputation Damage:** Consumer backlash can tarnish a brand's image for an extended period.
 3. **Financial Losses:** Boycotts and loss of consumer [trust](../t/trust.md) can lead to considerable financial setbacks.
 
 ## Future Trends

@@ -27,9 +27,9 @@ A company conducting a [buyback](../b/buyback.md) essentially purchases its own 
 
 Several prominent companies have been known to engage in buybacks and use algorithmic strategies to execute them:
 
-- **Apple Inc.**: Apple has been one of the largest conductors of buybacks. Detailed information about their strategy can be found on [Apple's official website](https://www.apple.com/investor/).
-- **Microsoft**: Microsoft frequently executes stock buybacks, with detailed financial [performance metrics](../p/performance_metrics.md) available on [Microsoft's investor relations page](https://www.microsoft.com/en-us/Investor/).
-- **IBM**: IBM regularly engages in share repurchases and provides reports on [IBM's investor relations site](https://www.ibm.com/investor/).
+- **Apple Inc.**: Apple has been one of the largest conductors of buybacks. Detailed information about their strategy is available in Apple's filings and reports.
+- **Microsoft**: Microsoft frequently executes stock buybacks, with detailed financial [performance metrics](../p/performance_metrics.md) available in Microsoft's reports.
+- **IBM**: IBM regularly engages in share repurchases and provides reports in its filings.
 
 #### Regulatory Framework and Compliance
 
@@ -65,4 +65,4 @@ The landscape of [buyback](../b/buyback.md) strategies is continually evolving, 
 
 [Buyback](../b/buyback.md) strategies play a significant role in a company’s financial management and stock price [optimization](../o/optimization.md), and the integration of [algorithmic trading](../a/algorithmic_trading.md) has substantially enhanced these capabilities. By leveraging advanced algorithms, companies can execute buybacks more efficiently, minimizing costs and maximizing [shareholder value](../s/shareholder_value.md). However, it's crucial for companies to navigate the regulatory landscape carefully and consider the broader implications of their [buyback](../b/buyback.md) activities.
 
-Companies and investors need to stay informed about the latest tools, technologies, and regulatory changes to effectively manage and execute [buyback](../b/buyback.md) strategies in an increasingly complex and dynamic [market](../m/market.md) environment.
+Companies and investors need to stay informed about the latest tools, technologies, and regulatory changes to effectively manage and execute [buyback](../b/buyback.md) strategies in an increasingly complex and dynamic [market](../m/market.md) environment.

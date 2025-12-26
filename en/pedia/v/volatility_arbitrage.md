@@ -50,14 +50,14 @@ A calendar spread involves buying and selling [options](../o/options.md) with di
 
 Several trading firms and [hedge](../h/hedge.md) funds specialize in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md), using sophisticated algorithms and advanced trading platforms to execute their strategies. Notable firms include:
 
-- **Citadel LLC**: [Citadel](https://www.citadel.com) is a global financial institution involved in [hedge fund](../h/hedge_fund.md) management and [market](../m/market.md) making, known for its expertise in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
-- **DE Shaw Group**: [DE Shaw](https://www.deshaw.com) uses computational techniques and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for trading, including vol arb.
-- **Two Sigma Investments**: [Two Sigma](https://www.twosigma.com) employs [machine learning](../m/machine_learning.md) and advanced statistical analysis in its vol arb strategies.
+- **Citadel LLC**: Citadel is a global financial institution involved in [hedge fund](../h/hedge_fund.md) management and [market](../m/market.md) making, known for its expertise in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
+- **DE Shaw Group**: DE Shaw uses computational techniques and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for trading, including vol arb.
+- **Two Sigma Investments**: Two Sigma employs [machine learning](../m/machine_learning.md) and advanced statistical analysis in its vol arb strategies.
 
 #### Software and Models
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) assets and strategies, including vol arb.
-- **OptionVue**: [OptionVue](https://www.optionvue.com) provides tools for option pricing, analytics, and [backtesting](../b/backtesting.md), essential for [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) assets and strategies, including vol arb.
+- **OptionVue**: OptionVue provides tools for option pricing, analytics, and [backtesting](../b/backtesting.md), essential for [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
 
 ### Conclusion
 

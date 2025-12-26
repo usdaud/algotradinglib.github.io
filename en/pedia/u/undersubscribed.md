@@ -6,7 +6,7 @@ Undersubscribed is a term commonly used in [financial markets](../f/financial_ma
 
 ### Pricing Issues
 
-One of the primary reasons for an [offering](../o/offering.md) to be undersubscribed is poor pricing. When securities are priced too high, they may become unattractive to potential investors. Underwriters often play a crucial role in setting the price of an IPO or [bond](../b/bond.md) issuance, and any miscalculation can lead to an undersubscribed [issue](../i/issue.md). 
+One of the primary reasons for an [offering](../o/offering.md) to be undersubscribed is poor pricing. When securities are priced too high, they may become unattractive to potential investors. Underwriters often play a crucial role in setting the price of an IPO or [bond](../b/bond.md) issuance, and any miscalculation can lead to an undersubscribed [issue](../i/issue.md).
 
 ### Market Conditions
 
@@ -67,6 +67,6 @@ Smaller companies or those issuing high-[risk](../r/risk.md) bonds often face th
 Undersubscription is an important concept in the [financial markets](../f/financial_market.md) that underscores the balance between [supply](../s/supply.md) and [demand](../d/demand.md) for securities. It serves as a critical [indicator](../i/indicator.md) of [market sentiment](../m/market_sentiment.md), [issuer](../i/issuer.md) credibility, and pricing strategies. Understanding the causes and ramifications of undersubscription can help issuers, underwriters, and investors make more informed decisions, thereby fostering healthier [market dynamics](../m/market_dynamics.md).
 
 For more information, you may refer to resources such as:
-- [New York Stock Exchange (NYSE)](https://www.nyse.com)
-- [NASDAQ](https://www.nasdaq.com)
-- [Bloomberg](https://www.bloomberg.com/markets)
+- New York Stock Exchange (NYSE)
+- NASDAQ
+- Bloomberg

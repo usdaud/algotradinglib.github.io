@@ -60,19 +60,15 @@ Several companies provide platforms and technologies for managing long [tail ris
 
 ### Numerix
 Numerix offers a suite of analytics tools for pricing, trading, and [risk management](../r/risk_management.md). Their software allows traders to model complex financial instruments and assess risks associated with [long tail](../l/long_tail.md) events.
-[Visit Numerix](https://www.numerix.com/)
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to various data sources and advanced [backtesting](../b/backtesting.md) tools. It allows traders to develop and test algorithms with a focus on [risk management](../r/risk_management.md), including the assessment of [long tail](../l/long_tail.md) risks.
-[Visit QuantConnect](https://www.quantconnect.com/)
+### StockSharp
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to various data sources and advanced [backtesting](../b/backtesting.md) tools. It allows traders to develop and test algorithms with a focus on [risk management](../r/risk_management.md), including the assessment of [long tail](../l/long_tail.md) risks.
 
 ### Axioma
 Axioma, a part of Qontigo, provides portfolio and [risk management](../r/risk_management.md) solutions. Their software includes advanced [risk models](../r/risk_models_in_trading.md) that account for [long tail](../l/long_tail.md) risks, helping traders to optimize their portfolios and mitigate potential losses.
-[Visit Axioma](https://www.qontigo.com/axioma/)
 
 ### RiskMetrics
 RiskMetrics, part of MSCI, offers [risk management](../r/risk_management.md) analytics and tools. Their platform includes models for measuring and managing [long tail](../l/long_tail.md) risks, supporting traders in making informed decisions.
-[Visit RiskMetrics](https://www.msci.com/riskmetrics)
 
 ## Conclusion
-Long [tail risk](../t/tail_risk.md) represents a significant challenge in [algorithmic trading](../a/algorithmic_trading.md). While traditional [risk management](../r/risk_management.md) models often fall short in predicting extreme events, understanding different statistical distributions, historical examples, and advanced [risk measures](../r/risk_measures.md) can help. By utilizing tools and strategies such as [diversification](../d/diversification.md), [risk](../r/risk.md) limits, advanced algorithms, and [tail risk](../t/tail_risk.md) hedging, traders can better prepare for and mitigate the impact of these rare but impactful events. Leveraging the technologies and platforms provided by companies like Numerix, [QuantConnect](../q/quantconnect.md), Axioma, and RiskMetrics can further enhance the ability to manage long [tail risk](../t/tail_risk.md) effectively.
+Long [tail risk](../t/tail_risk.md) represents a significant challenge in [algorithmic trading](../a/algorithmic_trading.md). While traditional [risk management](../r/risk_management.md) models often fall short in predicting extreme events, understanding different statistical distributions, historical examples, and advanced [risk measures](../r/risk_measures.md) can help. By utilizing tools and strategies such as [diversification](../d/diversification.md), [risk](../r/risk.md) limits, advanced algorithms, and [tail risk](../t/tail_risk.md) hedging, traders can better prepare for and mitigate the impact of these rare but impactful events. Leveraging the technologies and platforms provided by companies like Numerix, [StockSharp](../s/stocksharp.md), Axioma, and RiskMetrics can further enhance the ability to manage long [tail risk](../t/tail_risk.md) effectively.

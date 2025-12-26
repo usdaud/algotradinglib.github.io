@@ -11,7 +11,7 @@ Divestiture refers to the process by which a company sells, liquidates, or other
 There are several types of divestitures, each serving different strategic purposes:
 
 1. **[Spin-off](../s/spinoff.md)**: In a [spin-off](../s/spinoff.md), a [parent company](../p/parent_company.md) creates a new independent company by distributing new [shares](../s/shares.md) to its existing shareholders. This is often employed when the [parent company](../p/parent_company.md) believes that the spun-off entity [will](../w/will.md) perform better independently.
-   
+
 2. **[Equity](../e/equity.md) [Carve-out](../c/carve-out.md)**: This involves selling a partial [interest](../i/interest.md) in a subsidiary or [business](../b/business.md) unit through an Initial Public [Offering](../o/offering.md) (IPO), while the [parent company](../p/parent_company.md) retains a controlling stake. This method may unlock [value](../v/value.md) by allowing the [market](../m/market.md) to [value](../v/value.md) the subsidiary independently.
 
 3. **[Sale](../s/sale.md) of Assets**: This is the direct [sale](../s/sale.md) of a subsidiary, division, or specific assets to another company. This approach can be advantageous when the selling company needs immediate cash or wants to focus solely on its core operations.
@@ -73,27 +73,27 @@ Divestitures may affect the perceived [risk](../r/risk.md) profile of a company.
 
 ## Notable Examples of Company Divestitures
 
-Several high-profile divestitures illustrate the varied approaches and strategic rationales behind such moves. 
+Several high-profile divestitures illustrate the varied approaches and strategic rationales behind such moves.
 
 ### General Electric (GE)
 
-General Electric (GE) has undergone several divestitures to streamline its [business](../b/business.md) and focus on core industrial operations. Notably, GE sold its financial arm, GE [Capital](../c/capital.md), to refocus on its primary [manufacturing](../m/manufacturing.md) operations. This [sale](../s/sale.md) was intended to reduce complexity and [debt](../d/debt.md), improving overall [financial health](../f/financial_health.md). More information can be found on their website: [GE](https://www.ge.com/).
+General Electric (GE) has undergone several divestitures to streamline its [business](../b/business.md) and focus on core industrial operations. Notably, GE sold its financial arm, GE [Capital](../c/capital.md), to refocus on its primary [manufacturing](../m/manufacturing.md) operations. This [sale](../s/sale.md) was intended to reduce complexity and [debt](../d/debt.md), improving overall [financial health](../f/financial_health.md). GE.
 
 ### Procter & Gamble (P&G)
 
-Procter & Gamble (P&G) has divested several non-core brands to concentrate on its leading products and enhance profitability. In a prominent move, P&G sold various beauty brands to Coty Inc. This strategy allowed P&G to focus on higher-[margin](../m/margin.md), high-growth categories. More information can be found on their website: [P&G](https://us.pg.com/).
+Procter & Gamble (P&G) has divested several non-core brands to concentrate on its leading products and enhance profitability. In a prominent move, P&G sold various beauty brands to Coty Inc. This strategy allowed P&G to focus on higher-[margin](../m/margin.md), high-growth categories. P&G.
 
 ### eBay
 
-eBay's [spin-off](../s/spinoff.md) of its [payment](../p/payment.md) service, [PayPal](../p/paypal.md), is a notable example of a divestiture aimed at unlocking the [value](../v/value.md) of the subsidiary. As an independent entity, [PayPal](../p/paypal.md) could focus on its growth trajectory, and the move was well-received by investors, leading to a significant increase in share prices for both companies. More information can be found on their website: [eBay](https://www.ebayinc.com/).
+eBay's [spin-off](../s/spinoff.md) of its [payment](../p/payment.md) service, [PayPal](../p/paypal.md), is a notable example of a divestiture aimed at unlocking the [value](../v/value.md) of the subsidiary. As an independent entity, [PayPal](../p/paypal.md) could focus on its growth trajectory, and the move was well-received by investors, leading to a significant increase in share prices for both companies. eBay.
 
 ### ConocoPhillips
 
-ConocoPhillips strategically divested its [downstream](../d/downstream.md) assets, including refineries and chemical plants, to focus on [upstream](../u/upstream.md) oil and gas exploration and production. This move aimed to enhance [shareholder value](../s/shareholder_value.md) by creating a more focused and less cyclical [business](../b/business.md). More information can be found on their website: [ConocoPhillips](https://www.conocophillips.com/).
+ConocoPhillips strategically divested its [downstream](../d/downstream.md) assets, including refineries and chemical plants, to focus on [upstream](../u/upstream.md) oil and gas exploration and production. This move aimed to enhance [shareholder value](../s/shareholder_value.md) by creating a more focused and less cyclical [business](../b/business.md). ConocoPhillips.
 
 ### IBM
 
-IBM divested its semiconductor [manufacturing](../m/manufacturing.md) [business](../b/business.md) to GlobalFoundries and shifted its focus towards high-growth areas like [cloud computing](../c/cloud_computing_in_trading.md) and cognitive computing. This divestiture was part of IBM's broader strategy to transition into a data-first company. More information can be found on their website: [IBM](https://www.ibm.com/).
+IBM divested its semiconductor [manufacturing](../m/manufacturing.md) [business](../b/business.md) to GlobalFoundries and shifted its focus towards high-growth areas like [cloud computing](../c/cloud_computing_in_trading.md) and cognitive computing. This divestiture was part of IBM's broader strategy to transition into a data-first company. IBM.
 
 ## Managing Divestitures
 
@@ -125,6 +125,6 @@ Ensuring compliance with regulatory requirements and accurately reporting the fi
 
 ## Conclusion
 
-Divestiture is a powerful strategic tool that allows companies to refocus on their core activities, unlock [shareholder value](../s/shareholder_value.md), and manage [financial health](../f/financial_health.md). For algorithmic traders, understanding divestiture dynamics can provide opportunities for exploiting [market](../m/market.md) [volatility](../v/volatility.md), [arbitrage](../a/arbitrage.md), and sentiment-driven trades. Successful divestiture management requires meticulous planning, accurate [valuation](../v/valuation.md), effective communication, and meticulous [execution](../e/execution.md). As corporate strategies evolve in a dynamic [market](../m/market.md) environment, divestitures [will](../w/will.md) continue to play a pivotal role in shaping the strategic landscape. 
+Divestiture is a powerful strategic tool that allows companies to refocus on their core activities, unlock [shareholder value](../s/shareholder_value.md), and manage [financial health](../f/financial_health.md). For algorithmic traders, understanding divestiture dynamics can provide opportunities for exploiting [market](../m/market.md) [volatility](../v/volatility.md), [arbitrage](../a/arbitrage.md), and sentiment-driven trades. Successful divestiture management requires meticulous planning, accurate [valuation](../v/valuation.md), effective communication, and meticulous [execution](../e/execution.md). As corporate strategies evolve in a dynamic [market](../m/market.md) environment, divestitures [will](../w/will.md) continue to play a pivotal role in shaping the strategic landscape.
 
 By analyzing historical examples and understanding the implications for [market](../m/market.md) participants, including those using [algorithmic trading](../a/accountability.md) systems, investors can better anticipate and respond to the opportunities and challenges presented by divestitures.

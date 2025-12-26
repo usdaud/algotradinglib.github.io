@@ -4,7 +4,7 @@ The term "freemium" is a portmanteau of "free" and "[premium](../p/premium.md),"
 
 ## History of Freemium
 
-The freemium model has its roots in the early days of the internet and software [industry](../i/industry.md), but it became more formally recognized in the early 2000s. The term is believed to have first been coined by Jarid Lukin of Alacra, an enterprise content company, in 2006. However, the concepts underpinning the freemium model had already been in practice for some time. 
+The freemium model has its roots in the early days of the internet and software [industry](../i/industry.md), but it became more formally recognized in the early 2000s. The term is believed to have first been coined by Jarid Lukin of Alacra, an enterprise content company, in 2006. However, the concepts underpinning the freemium model had already been in practice for some time.
 
 Popularized by companies such as Skype and Dropbox, the model gained significant traction in the late 2000s and early 2010s, serving as a viable strategy for exponentially expanding user bases and fostering loyalty. Today, it remains a dominant model, particularly among tech startups and established companies seeking to disrupt traditional industries.
 
@@ -48,19 +48,16 @@ Retaining users, both free and [premium](../p/premium.md), is essential. The fre
 
 Dropbox, the file hosting service, is a quintessential example of the freemium model. The company offers a basic plan with limited storage space for free. With this entry-level [offer](../o/offer.md), Dropbox gained millions of users and then leveraged its user base, encouraging people to [upgrade](../u/upgrade.md) for additional storage and features.
 
-* Website: [Dropbox](https://www.dropbox.com)
 
 ### Spotify
 
 Spotify employs the freemium model by [offering](../o/offering.md) a free, ad-supported version of its music streaming service. Users who wish to access [premium](../p/premium.md) features, such as offline listening and an ad-free experience, can subscribe to the [premium](../p/premium.md) service. This model has been instrumental in helping Spotify become one of the largest music streaming platforms worldwide.
 
-* Website: [Spotify](https://www.spotify.com)
 
 ### Slack
 
 Slack is another example of a company using the freemium model to great effect. The basic version of Slack is free, albeit with limitations such as the number of messages stored and integrations. To utilize advanced features and larger storage, businesses transition to paid plans.
 
-* Website: [Slack](https://slack.com)
 
 ## Implementation Strategies
 

@@ -1,10 +1,10 @@
 # Overhead Ratio
 
-The [financial performance](../f/financial_performance.md) of a [business](../b/business.md) or an organization is often scrutinized through various metrics. One crucial metric that frequently comes under the spotlight is the **Overhead Ratio**. The Overhead Ratio is a key financial metric that evaluates the proportion of overhead costs to total [revenue](../r/revenue.md) or any other relevant base measure. Understanding and managing overhead ratios is pivotal for businesses aiming to optimize [profit margins](../p/profit_margins_in_trading.md) and ensure [operational efficiency](../o/operational_efficiency_in_trading.md). 
+The [financial performance](../f/financial_performance.md) of a [business](../b/business.md) or an organization is often scrutinized through various metrics. One crucial metric that frequently comes under the spotlight is the **Overhead Ratio**. The Overhead Ratio is a key financial metric that evaluates the proportion of overhead costs to total [revenue](../r/revenue.md) or any other relevant base measure. Understanding and managing overhead ratios is pivotal for businesses aiming to optimize [profit margins](../p/profit_margins_in_trading.md) and ensure [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Concept and Definition
 
-The Overhead Ratio is defined as the total of a company's overhead costs divided by its total [revenue](../r/revenue.md), often expressed as a percentage. 
+The Overhead Ratio is defined as the total of a company's overhead costs divided by its total [revenue](../r/revenue.md), often expressed as a percentage.
 
 \[ \text{Overhead Ratio} = \left(\frac{\text{Total Overhead Costs}}{\text{Total [Revenue](../r/revenue.md)}}\right) \times 100 \]
 
@@ -12,7 +12,7 @@ The Overhead Ratio is defined as the total of a company's overhead costs divided
 
 Overhead costs refer to the ongoing operational expenses that are necessary for running a [business](../b/business.md) but are not directly attributable to the production of goods or services. These include but are not limited to:
 
-1. **Rent and Utilities**: Costs for leasing spaces, electricity, water, and other [utility](../u/utility.md) bills. 
+1. **Rent and Utilities**: Costs for leasing spaces, electricity, water, and other [utility](../u/utility.md) bills.
 2. **[Depreciation](../d/depreciation.md)**: The reduction in [value](../v/value.md) of fixed assets over time.
 3. **[Insurance](../i/insurance.md)**: Premiums paid for various [insurance](../i/insurance.md) policies like health, [liability](../l/liability.md), and [property insurance](../p/property_insurance.md).
 4. **Administrative Salaries**: Salaries of non-technical staff such as managers and administrative employees.
@@ -22,7 +22,7 @@ Overhead costs refer to the ongoing operational expenses that are necessary for 
 
 ### Relevance and Importance
 
-Understanding the Overhead Ratio is crucial as it helps businesses identify how much of their [revenue](../r/revenue.md) is being consumed by non-production related expenses. A high Overhead Ratio could indicate inefficiencies and uncontrolled overhead costs, which might eat into [profit margins](../p/profit_margins_in_trading.md). Consistently managing this ratio is essential for operational health and long-term sustainability. 
+Understanding the Overhead Ratio is crucial as it helps businesses identify how much of their [revenue](../r/revenue.md) is being consumed by non-production related expenses. A high Overhead Ratio could indicate inefficiencies and uncontrolled overhead costs, which might eat into [profit margins](../p/profit_margins_in_trading.md). Consistently managing this ratio is essential for operational health and long-term sustainability.
 
 ### Application Across Different Industries
 
@@ -98,7 +98,7 @@ Company A operates a chain of retail stores. By implementing state-of-the-art [i
 
 Company B, providing IT consulting services, outsourced non-core administrative functions like [payroll](../p/payroll.md) processing. This approach helped reduce overhead costs by 18%, bringing down their Overhead Ratio from 22% to 18% and allowing them to be more competitive on pricing without compromising on service quality.
 
-[See Company B's strategy here](https://examplecompany.com/strategy)
+See Company B's strategy here
 
 ## Conclusion
 

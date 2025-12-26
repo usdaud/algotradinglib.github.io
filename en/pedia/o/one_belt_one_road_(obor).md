@@ -26,7 +26,7 @@ OBOR emphasizes reducing the developmental gap between China's wealthier coastal
 ## Financial Framework
 
 ### Funding
-A variety of financial mechanisms have been established to [fund](../f/fund.md) OBOR projects. 
+A variety of financial mechanisms have been established to [fund](../f/fund.md) OBOR projects.
 - **Silk Road [Fund](../f/fund.md)**: This $40 billion [fund](../f/fund.md) was created specifically to [finance](../f/finance.md) OBOR projects.
 - **Asian [Infrastructure](../i/infrastructure.md) Investment [Bank](../b/bank.md) (AIIB)**: Founded by Beijing, AIIB supports [infrastructure](../i/infrastructure.md) development across Asia.
 - **New Development [Bank](../b/bank.md)**: Also known as the BRICS Development [Bank](../b/bank.md), it complements OBOR [financing](../f/financing.md) schemes.
@@ -38,15 +38,12 @@ Chinese state-owned enterprises (SOEs) are central players in OBOR. They have be
 
 ### China-Pakistan Economic Corridor (CPEC)
 One of the most significant and high-profile OBOR projects, CPEC is a network of highways, railways, and energy projects aimed at enhancing connectivity between China and Pakistan. It includes developments such as Gwadar Port, a strategic deep-sea port that provides China with direct access to the Arabian Sea.
-[China-Pakistan Economic Corridor - Official Portal](http://cpec.gov.pk/)
 
-### Jakarta-Bandung High-Speed Rail 
+### Jakarta-Bandung High-Speed Rail
 Another significant OBOR project, this rail line connects Jakarta and Bandung in Indonesia, and is intended to enhance economic activity and reduce travel time significantly. It exemplifies China's advancements in high-speed rail technology and its willingness to [export](../e/export.md) such expertise.
-[Jakarta-Bandung High-Speed Rail](https://www.jakarta-bandunghsr.com/)
 
-### Mombasa-Nairobi Railway 
+### Mombasa-Nairobi Railway
 A key project in Africa, this 480 km railway in Kenya enhances internal [trade](../t/trade.md) and connectivity. It significantly reduces travel time between the two key cities and facilitates the movement of goods, demonstrating OBOR's impact on African [infrastructure](../i/infrastructure.md).
-[Mombasa-Nairobi Railway](https://www.krc.co.ke/)
 
 ## Challenges and Criticisms
 

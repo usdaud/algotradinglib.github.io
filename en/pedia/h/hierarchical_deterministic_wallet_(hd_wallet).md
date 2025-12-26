@@ -53,19 +53,14 @@ Using a different address for each [transaction](../t/transaction.md) makes it s
 ### Popular HD Wallets
 
 1. **Ledger**: A hardware wallet providing a secure method for storing various cryptocurrencies with support for HD wallet structures.
-   [Ledger](https://www.ledger.com/)
 
 2. **Trezor**: Another hardware wallet popular for its [security](../s/security.md), also supports HD wallet features.
-   [Trezor](https://trezor.io/)
 
 3. **Electrum**: A software wallet known for its ease of use and support for HD wallets.
-   [Electrum](https://electrum.org/)
 
 4. **MetaMask**: Primarily used for [Ethereum](../e/ethereum_.md) and ERC-20 tokens, it supports HD wallet structures.
-   [MetaMask](https://metamask.io/)
 
 5. **Mycelium**: A [mobile wallet](../m/mobile_wallet.md) that supports HD wallet features and offers good [security](../s/security.md).
-   [Mycelium](https://wallet.mycelium.com/)
 
 ## Security Considerations
 

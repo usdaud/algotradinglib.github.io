@@ -71,7 +71,7 @@ Despite their potential benefits, trading weather [futures](../f/futures.md) inv
 
 The CME is one of the leading platforms [offering](../o/offering.md) weather [futures](../f/futures.md) and other [weather derivatives](../w/weather_derivative.md). It provides [robust](../r/robust.md) [trading systems](../t/trading_systems.md), a variety of weather [index](../i/index_instrument.md) products, and wide geographical coverage.
 
-For more information, visit: [CME Weather Derivatives](https://www.cmegroup.com/trading/weather/)
+For more information, visit: CME Weather Derivatives
 
 ### Various Private Weather Risk Companies
 

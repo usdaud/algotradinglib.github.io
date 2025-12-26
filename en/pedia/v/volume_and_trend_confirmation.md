@@ -79,10 +79,10 @@ A simple example algorithm might involve the following steps:
 ## Industry Use-Cases
 
 ### Institutional Trading Firms
-Firms such as [Jane Street](https://www.janestreet.com) and [Renaissance Technologies](https://www.rentec.com) [leverage](../l/leverage.md) complex algorithms that integrate [volume](../v/volume.md) and [trend](../t/trend.md) confirmation for high-frequency trading. These firms utilize advanced statistical and [machine learning](../m/machine_learning.md) models to enhance their [trading strategies](../t/trading_strategies.md) continually.
+Firms such as Jane Street and Renaissance Technologies [leverage](../l/leverage.md) complex algorithms that integrate [volume](../v/volume.md) and [trend](../t/trend.md) confirmation for high-frequency trading. These firms utilize advanced statistical and [machine learning](../m/machine_learning.md) models to enhance their [trading strategies](../t/trading_strategies.md) continually.
 
 ### Retail Algorithmic Trading Platforms
-Platforms like [QuantConnect](https://www.quantconnect.com) and [AlgoTrader](https://www.algotrader.com) [offer](../o/offer.md) tools for retail traders to develop, test, and deploy algorithms. These platforms support the integration of [volume](../v/volume.md) and [trend indicators](../t/trend_indicators.md), empowering traders to build sophisticated [trading models](../t/trading_models.md).
+Platforms like QuantConnect and AlgoTrader [offer](../o/offer.md) tools for retail traders to develop, test, and deploy algorithms. These platforms support the integration of [volume](../v/volume.md) and [trend indicators](../t/trend_indicators.md), empowering traders to build sophisticated [trading models](../t/trading_models.md).
 
 ## Conclusion
 

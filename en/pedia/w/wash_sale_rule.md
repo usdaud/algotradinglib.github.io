@@ -1,6 +1,6 @@
 # Wash Sale Rule
 
-The [Wash Sale](../w/wash_sale.md) Rule is a regulation set forth by the Internal [Revenue](../r/revenue.md) Service (IRS) in the United States, aimed at preventing taxpayers from claiming a [tax deduction](../t/tax_deduction.md) for a [security](../s/security.md) sold in a [wash sale](../w/wash_sale.md). A [wash sale](../w/wash_sale.md) occurs when an [investor](../i/investor.md) sells a [security](../s/security.md) at a loss and then repurchases the same or substantially identical [security](../s/security.md) within 30 days before or after the [sale](../s/sale.md). This rule can be confusing and has significant implications for individual traders and [algorithmic trading](../a/algorithmic_trading.md) strategies alike. 
+The [Wash Sale](../w/wash_sale.md) Rule is a regulation set forth by the Internal [Revenue](../r/revenue.md) Service (IRS) in the United States, aimed at preventing taxpayers from claiming a [tax deduction](../t/tax_deduction.md) for a [security](../s/security.md) sold in a [wash sale](../w/wash_sale.md). A [wash sale](../w/wash_sale.md) occurs when an [investor](../i/investor.md) sells a [security](../s/security.md) at a loss and then repurchases the same or substantially identical [security](../s/security.md) within 30 days before or after the [sale](../s/sale.md). This rule can be confusing and has significant implications for individual traders and [algorithmic trading](../a/algorithmic_trading.md) strategies alike.
 
 ### Definition and Background
 
@@ -12,13 +12,13 @@ The [wash sale](../w/wash_sale.md) rule is codified in Section 1091 of the Inter
 ### Key Components of the Wash Sale Rule
 
 1. **Substantially Identical Securities**
-    - A [security](../s/security.md) is considered "substantially identical" if it is very similar in terms of [risk](../r/risk.md) and [return](../r/return.md) profile. This can include different classes of stock from the same company, [options](../o/options.md), or other [derivative](../d/derivative.md) instruments. Specific [guidance](../g/guidance.md) from the IRS is somewhat limited, but the principle is that if the repurchased [security](../s/security.md) operates essentially as a replacement for the sold [security](../s/security.md), it [will](../w/will.md) likely be considered substantially identical.
+ - A [security](../s/security.md) is considered "substantially identical" if it is very similar in terms of [risk](../r/risk.md) and [return](../r/return.md) profile. This can include different classes of stock from the same company, [options](../o/options.md), or other [derivative](../d/derivative.md) instruments. Specific [guidance](../g/guidance.md) from the IRS is somewhat limited, but the principle is that if the repurchased [security](../s/security.md) operates essentially as a replacement for the sold [security](../s/security.md), it [will](../w/will.md) likely be considered substantially identical.
 
 2. **30-Day Window**
-    - The rule applies to the period beginning 30 days before and ending 30 days after the [sale](../s/sale.md) date, totaling a 61-day window. This prevents traders from circumventing the rule by timing their transactions just outside a single 30-day period.
+ - The rule applies to the period beginning 30 days before and ending 30 days after the [sale](../s/sale.md) date, totaling a 61-day window. This prevents traders from circumventing the rule by timing their transactions just outside a single 30-day period.
 
 3. **Disallowed Losses and [Basis](../b/basis.md) Adjustment**
-    - If a [wash sale](../w/wash_sale.md) occurs, the loss from the [sale](../s/sale.md) is disallowed for tax purposes. Instead, the disallowed loss is added to the [basis](../b/basis.md) of the repurchased [security](../s/security.md). This adjustment effectively defers the loss until the repurchased [security](../s/security.md) is eventually sold, ensuring that the [taxpayer](../t/taxpayer.md) does not evade [taxation](../t/taxation.md) but merely postpones it.
+ - If a [wash sale](../w/wash_sale.md) occurs, the loss from the [sale](../s/sale.md) is disallowed for tax purposes. Instead, the disallowed loss is added to the [basis](../b/basis.md) of the repurchased [security](../s/security.md). This adjustment effectively defers the loss until the repurchased [security](../s/security.md) is eventually sold, ensuring that the [taxpayer](../t/taxpayer.md) does not evade [taxation](../t/taxation.md) but merely postpones it.
 
 ### Impact on Traders
 
@@ -62,7 +62,7 @@ Several software solutions and platforms assist traders and firms with complianc
 
 - **Built-in Compliance Modules**: Trading platforms such as [Interactive Brokers](../i/interactive_brokers.md) and [ThinkOrSwim](../t/thinkorswim.md) [offer](../o/offer.md) built-in tools to track [wash](../w/wash.md) sales automatically.
 - **Tax Calculation Software**: Applications like TradeLog provide extensive tax lot tracking and [wash sale](../w/wash_sale.md) rule calculations, tailored for active traders.
-- **Custom Algorithms**: Firms may develop custom algorithms using platforms like [QuantConnect](../q/quantconnect.md) or data analysts who write bespoke functions in languages like Python/R to dynamically adjust to [wash sale](../w/wash_sale.md) implications.
+- **Custom Algorithms**: Firms may develop custom algorithms using platforms like [StockSharp](../s/stocksharp.md) or data analysts who write bespoke functions in C#/R to dynamically adjust to [wash sale](../w/wash_sale.md) implications.
 
 ### Legal and Regulatory Aspects
 
@@ -70,7 +70,7 @@ Several software solutions and platforms assist traders and firms with complianc
 
 The IRS provides periodic [guidance](../g/guidance.md) on the application and specifics of the [wash sale](../w/wash_sale.md) rule. It is essential for traders and tax professionals to stay updated on any changes or clarifications issued by the IRS.
 
-- **[IRS Publication 550](../i/irs_publication_550.md)**: This publication details [investment income](../i/investment_income.md) and expenses, including specific guidelines on [wash](../w/wash.md) sales. [IRS Publication 550](https://www.irs.gov/publications/p550)
+- **[IRS Publication 550](../i/irs_publication_550.md)**: This publication details [investment income](../i/investment_income.md) and expenses, including specific guidelines on [wash](../w/wash.md) sales. IRS Publication 550
 
 #### Professional Advice
 

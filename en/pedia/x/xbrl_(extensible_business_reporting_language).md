@@ -119,4 +119,3 @@ While XBRL aims to enhance interoperability, differences in taxonomies across ju
 
 XBRL represents a significant advancement in the standardization, automation, and [transparency](../t/transparency.md) of financial reporting. By providing a [robust](../r/robust.md) framework for the [exchange](../e/exchange.md) of [business](../b/business.md) information, XBRL has become an integral part of the regulatory landscape and financial ecosystem worldwide. Organizations adopting XBRL can benefit from streamlined reporting processes, enhanced data accuracy, and improved decision-making capabilities.
 
-For more information about XBRL and its adoption, visit the official [XBRL International](https://www.xbrl.org) website.

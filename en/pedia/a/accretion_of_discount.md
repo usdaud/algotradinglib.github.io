@@ -16,7 +16,7 @@ In the United States, the [Financial Accounting](../f/financial_accounting.md) S
 
 ### Effective Interest Method
 
-Under the effective [interest](../i/interest.md) method, the amount of periodic [accretion](../a/accretion.md) is not constant but increases over time. This is because the method applies a constant [interest rate](../i/interest_rate.md) to the carrying amount of the [bond](../b/bond.md) at the beginning of each period. 
+Under the effective [interest](../i/interest.md) method, the amount of periodic [accretion](../a/accretion.md) is not constant but increases over time. This is because the method applies a constant [interest rate](../i/interest_rate.md) to the carrying amount of the [bond](../b/bond.md) at the beginning of each period.
 
 **Formula:**
 
@@ -59,33 +59,51 @@ Annual [Accretion](../a/accretion.md) = $100 / 5 = $20
 
 ### Company XYZ Bond Discount Accretion
 
-Company XYZ issues a $1,000 [bond](../b/bond.md) with a [coupon rate](../c/coupon_rate.md) of 3% when the [market](../m/market.md) rate is 5%, resulting in a [bond discount](../b/bond_discount.md). The [bond](../b/bond.md) sells for $950 and matures in 5 years. 
+Company XYZ issues a $1,000 [bond](../b/bond.md) with a [coupon rate](../c/coupon_rate.md) of 3% when the [market](../m/market.md) rate is 5%, resulting in a [bond discount](../b/bond_discount.md). The annual coupon [payment](../p/payment.md) is $30 ($1,000 × 3%). The [bond](../b/bond.md) matures in 5 years.
+
+First, we calculate the [issue](../i/issue.md) price using [present value](../p/present_value.md):
+```
+PV = $30/(1.05) + $30/(1.05)² + $30/(1.05)³ + $30/(1.05)⁴ + $1,030/(1.05)⁵
+PV = $28.57 + $27.21 + $25.92 + $24.68 + $806.96 = $913.34
+```
 
 Using the effective [interest](../i/interest.md) method, we calculate as follows:
 
 **Year 1:**
 ```
-[Interest Expense](../i/interest_expense.md) = $950 × 5% = $47.50
-Carrying Amount = $950 + $47.50 - $30 (Coupon [Payment](../p/payment.md)) = $967.50
+[Interest Expense](../i/interest_expense.md) = $913.34 × 5% = $45.67
+Carrying Amount = $913.34 + $45.67 - $30 (Coupon [Payment](../p/payment.md)) = $929.01
 ```
 
 **Year 2:**
 ```
-[Interest Expense](../i/interest_expense.md) = $967.50 × 5% = $48.38
-Carrying Amount = $967.50 + $48.38 - $30 = $985.88
+[Interest Expense](../i/interest_expense.md) = $929.01 × 5% = $46.45
+Carrying Amount = $929.01 + $46.45 - $30 = $945.46
 ```
 
 **Year 3:**
 ```
-[Interest Expense](../i/interest_expense.md) = $985.88 × 5% = $49.29
-Carrying Amount = $985.88 + $49.29 - $30 = $1,005.17
+[Interest Expense](../i/interest_expense.md) = $945.46 × 5% = $47.27
+Carrying Amount = $945.46 + $47.27 - $30 = $962.73
 ```
 
-By the end of the [bond](../b/bond.md)'s term, the carrying amount [will](../w/will.md) accrete to the [face value](../f/face_value.md), accurately reflecting the [issuer](../i/issuer.md)'s obligation to repay the [bond](../b/bond.md)'s [face value](../f/face_value.md).
+**Year 4:**
+```
+[Interest Expense](../i/interest_expense.md) = $962.73 × 5% = $48.14
+Carrying Amount = $962.73 + $48.14 - $30 = $980.87
+```
+
+**Year 5:**
+```
+[Interest Expense](../i/interest_expense.md) = $980.87 × 5% = $49.04
+Carrying Amount = $980.87 + $49.04 - $30 = $999.91 ≈ $1,000
+```
+
+By the end of the [bond](../b/bond.md)'s term, the carrying amount accretes to the [face value](../f/face_value.md) of $1,000, accurately reflecting the [issuer](../i/issuer.md)'s obligation to repay the [bond](../b/bond.md)'s [face value](../f/face_value.md). Note: Minor rounding differences may occur; the final adjustment ensures the carrying amount equals exactly $1,000 at [maturity](../m/maturity.md).
 
 ## Tax Implications
 
-The IRS requires the use of the effective [interest](../i/interest.md) method for tax purposes, which means that both the [bond](../b/bond.md) [issuer](../i/issuer.md) and the [investor](../i/investor.md) must report [interest](../i/interest.md) [income](../i/income.md) and [expense](../e/expense.md) based on the [yield to maturity](../y/yield_to_maturity.md). 
+The IRS requires the use of the effective [interest](../i/interest.md) method for tax purposes, which means that both the [bond](../b/bond.md) [issuer](../i/issuer.md) and the [investor](../i/investor.md) must report [interest](../i/interest.md) [income](../i/income.md) and [expense](../e/expense.md) based on the [yield to maturity](../y/yield_to_maturity.md).
 
 The IRS also views the [accretion](../a/accretion.md) of [discount](../d/discount.md) as [taxable income](../t/taxable_income.md) to the [investor](../i/investor.md), meaning that the incremental amount of [accretion](../a/accretion.md) must be included as [interest](../i/interest.md) [income](../i/income.md) on their tax returns. Failure to accurately report this can result in penalties.
 
@@ -106,8 +124,8 @@ Convertible bonds, which can be converted into a predetermined number of the [is
 Various financial [software tools](../s/software_tools_for_trading.md) exist to aid in the computation of [bond discount](../b/bond_discount.md) [accretion](../a/accretion.md). These tools are particularly beneficial for large, complex portfolios that require precise calculations. Leading companies like [Bloomberg](../b/bloomberg.md) and Charles River [offer](../o/offer.md) extensive fixed-[income](../i/income.md) analytics solutions.
 
 For example:
-- [Bloomberg Terminal](../b/bloomberg_terminal.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
-- Charles River [Investment Management](../i/investment_management.md) Solution (https://www.crd.com/solutions/investment-management/)
+- [Bloomberg Terminal](../b/bloomberg_terminal.md) (
+- Charles River [Investment Management](../i/investment_management.md) Solution (
 
 These solutions provide sophisticated calculations that conform to [accounting](../a/accounting.md) standards and tax regulations, aiding in improved decision making and compliance.
 

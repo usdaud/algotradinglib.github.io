@@ -56,26 +56,18 @@ Firms are likely to concentrate on their [core competencies](../c/core_competenc
 
 ### Automotive Industry
 
-The automotive [industry](../i/industry.md) is a classic example of a mature sector. Major players like General Motors, Ford, and Toyota dominate the [market](../m/market.md), focusing on incremental improvements in vehicle performance, fuel [efficiency](../e/efficiency.md), and safety features. While innovation continues, it is often in the form of enhancements to existing technologies rather than groundbreaking advancements. 
+The automotive [industry](../i/industry.md) is a classic example of a mature sector. Major players like General Motors, Ford, and Toyota dominate the [market](../m/market.md), focusing on incremental improvements in vehicle performance, fuel [efficiency](../e/efficiency.md), and safety features. While innovation continues, it is often in the form of enhancements to existing technologies rather than groundbreaking advancements.
 
-[General Motors](https://www.gm.com)
-[Ford](https://www.ford.com)
-[Toyota](https://www.toyota.com)
 
 ### Steel Industry
 
 The steel [industry](../i/industry.md) exhibits many characteristics of a mature [industry](../i/industry.md) including [market saturation](../m/market_saturation.md), standardization, and stable competition. Steel producers like ArcelorMittal and Nippon Steel focus largely on operational efficiencies and cost management to maintain profitability.
 
-[ArcelorMittal](https://www.arcelormittal.com)
-[Nippon Steel](https://www.nipponsteel.com)
 
 ### Consumer Electronics
 
 Companies in the consumer electronics sector also operate within a mature [industry](../i/industry.md) framework. Giants like Samsung, Sony, and LG focus on incremental product upgrades, [brand loyalty](../b/brand_loyalty.md), and operational efficiencies to stay competitive.
 
-[Samsung](https://www.samsung.com)
-[Sony](https://www.sony.com)
-[LG](https://www.lg.com)
 
 ## Financial Performance in Mature Industries
 

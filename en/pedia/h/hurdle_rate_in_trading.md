@@ -61,11 +61,11 @@ In [algorithmic trading](../a/algorithmic_trading.md), decisions on modifying or
 
 ### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies ([rentech.com](https://www.rentech.com)) extensively use hurdle rates to measure the performance of their various [trading strategies](../t/trading_strategies.md). By setting hurdle rates, they ensure that their complex algorithms not only maximize returns but do so in a way that justifies the inherent risks.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies (rentech.com) extensively use hurdle rates to measure the performance of their various [trading strategies](../t/trading_strategies.md). By setting hurdle rates, they ensure that their complex algorithms not only maximize returns but do so in a way that justifies the inherent risks.
 
 ### High-Frequency Trading Firms
 
-Firms like Citadel Securities ([citadelsecurities.com](https://www.citadelsecurities.com)) use hurdle rates as part of their high-frequency [trading models](../t/trading_models.md). These models execute a large number of trades at rapid speeds, and ensuring these trades exceed a certain [return](../r/return.md) threshold helps in maintaining profitability and managing operational risks.
+Firms like Citadel Securities (citadelsecurities.com) use hurdle rates as part of their high-frequency [trading models](../t/trading_models.md). These models execute a large number of trades at rapid speeds, and ensuring these trades exceed a certain [return](../r/return.md) threshold helps in maintaining profitability and managing operational risks.
 
 ## Challenges and Considerations
 
@@ -87,5 +87,5 @@ The hurdle rate is a critical concept in trading and investment, providing a [be
 
 ## References
 
-- Renaissance Technologies: [rentech.com](https://www.rentech.com)
-- Citadel Securities: [citadelsecurities.com](https://www.citadelsecurities.com)
+- Renaissance Technologies: rentech.com
+- Citadel Securities: citadelsecurities.com

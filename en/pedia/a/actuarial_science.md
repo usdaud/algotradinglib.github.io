@@ -1,6 +1,6 @@
 # Actuarial Science
 
-Actuarial science is a discipline that employs mathematical and statistical methods to assess [risk](../r/risk.md) in the [insurance](../i/insurance.md) and [finance](../f/finance.md) industries. This field focuses on understanding the mechanisms of financial [uncertainty](../u/uncertainty_in_trading.md) and developing models to manage, calculate, and mitigate potential financial losses or gains. It is a critical aspect of the broader financial services [industry](../i/industry.md) and plays a vital role in sectors like [insurance](../i/insurance.md), pensions, and investments. 
+Actuarial science is a discipline that employs mathematical and statistical methods to assess [risk](../r/risk.md) in the [insurance](../i/insurance.md) and [finance](../f/finance.md) industries. This field focuses on understanding the mechanisms of financial [uncertainty](../u/uncertainty_in_trading.md) and developing models to manage, calculate, and mitigate potential financial losses or gains. It is a critical aspect of the broader financial services [industry](../i/industry.md) and plays a vital role in sectors like [insurance](../i/insurance.md), pensions, and investments.
 
 ## Key Concepts and Applications
 
@@ -58,8 +58,8 @@ The CAS is a professional organization that represents actuaries in the property
 
 For more information about the SOA and CAS, you can visit their official websites:
 
-- [Society of Actuaries (SOA)](https://www.soa.org/)
-- [Casualty Actuarial Society (CAS)](https://www.casact.org/)
+- Society of Actuaries (SOA)
+- Casualty Actuarial Society (CAS)
 
 ## Actuarial Science in Practice
 

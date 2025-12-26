@@ -77,7 +77,7 @@ Breaking large orders into smaller chunks can minimize the impact on [market pri
 
 ## Slippage in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), slippage is a critical [factor](../f/factor.md) that algorithms must account for. Algorithms can be designed to optimize [trading strategies](../t/trading_strategies.md) that minimize slippage. Techniques include:
+In [algorithmic trading](../a/algorithmic_trading.md), slippage is a critical [factor](../f/factor.md) that algorithms must account for. Algorithms can be designed to optimize [trading strategies](../t/trading_strategies.md) that minimize slippage. Techniques include:
 
 ### 1. **Smart Order Routing (SOR)**
 Advanced algorithms can route orders across [multiple](../m/multiple.md) venues to find the best possible [execution](../e/execution.md) price, thereby reducing slippage.
@@ -96,10 +96,10 @@ These algorithms strive to minimize the [execution](../e/execution.md) cost, inc
 ## Real-World Examples
 
 ### 1. **High-Frequency Trading Firms**
-High-frequency trading (HFT) firms, such as Virtu Financial, extensively utilize algorithms to mitigate slippage and other [execution](../e/execution.md) costs. More information about their techniques can be found on [Virtu Financial's website](https://www.virtu.com/).
+High-frequency trading (HFT) firms, such as Virtu Financial, extensively utilize algorithms to mitigate slippage and other [execution](../e/execution.md) costs.
 
 ### 2. **Retail Brokers**
-Retail brokers like [Interactive Brokers](../i/interactive_brokers.md) [offer](../o/offer.md) a [range](../r/range.md) of [order types](../o/order_types_in_trading.md) and advanced algorithms designed to [handle](../h/handle.md) slippage efficiently. More details are available on [Interactive Brokers' website](https://www.interactivebrokers.com/).
+Retail brokers like [Interactive Brokers](../i/interactive_brokers.md) [offer](../o/offer.md) a [range](../r/range.md) of [order types](../o/order_types_in_trading.md) and advanced algorithms designed to [handle](../h/handle.md) slippage efficiently. More
 
 ---
 

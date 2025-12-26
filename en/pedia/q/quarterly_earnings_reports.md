@@ -27,7 +27,7 @@ A typical quarterly [earnings report](../e/earnings_report.md) contains several 
 Quarterly [earnings](../e/earnings.md) reports are generally released in accordance with the following protocols:
 
 1. **Timing**: Most companies release their quarterly reports within 45 days of the end of the quarter. The exact timing is often announced in advance.
-2. **Platforms**: [Earnings](../e/earnings.md) reports are typically published on the company’s [investor relations](../i/investor_relations.md) website, submitted to regulatory bodies such as the SEC (in the U.S.), and disseminated through financial news services.
+2. **Platforms**: [Earnings](../e/earnings.md) reports are typically published on the company’s [company filings](../i/investor_relations.md) online platform, submitted to regulatory bodies such as the SEC (in the U.S.), and disseminated through financial news services.
 3. **[Earnings](../e/earnings.md) Calls**: Companies often host [earnings](../e/earnings.md) calls to discuss the report in detail. These calls provide an opportunity for analysts and investors to ask questions directly to senior management.
 
 ## Impact on Algorithmic Trading
@@ -44,9 +44,9 @@ Quarterly [earnings](../e/earnings.md) reports are generally released in accorda
 
 Several firms specialize in providing tools and services for analyzing [earnings](../e/earnings.md) reports in the context of [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **[FactSet](../f/factset.md) Research Systems Inc.**: [FactSet](https://www.factset.com) offers comprehensive financial data, including [earnings](../e/earnings.md) reports, to assist traders in making data-driven decisions.
-2. **[Bloomberg](../b/bloomberg.md) L.P.**: [Bloomberg](https://www.bloomberg.com) provides an extensive [range](../r/range.md) of financial information, analytics, and trading tools, including detailed [earnings](../e/earnings.md) reports and analysis.
-3. **Thomson [Reuters](../r/reuters.md) Eikon**: [Thomson Reuters](https://www.thomsonreuters.com) offers the Eikon platform, which provides access to a vast repository of financial data and advanced analytics.
+1. **[FactSet](../f/factset.md) Research Systems Inc.**: FactSet offers comprehensive financial data, including [earnings](../e/earnings.md) reports, to assist traders in making data-driven decisions.
+2. **[Bloomberg](../b/bloomberg.md) L.P.**: Bloomberg provides an extensive [range](../r/range.md) of financial information, analytics, and trading tools, including detailed [earnings](../e/earnings.md) reports and analysis.
+3. **Thomson [Reuters](../r/reuters.md) Eikon**: Thomson Reuters offers the Eikon platform, which provides access to a vast repository of financial data and advanced analytics.
 
 ## Conclusion
 

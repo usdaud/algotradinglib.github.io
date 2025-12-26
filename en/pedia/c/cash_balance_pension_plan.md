@@ -8,7 +8,7 @@ A Cash Balance [Pension Plan](../p/pension_plan.md) defines the benefit in terms
 
 ### Key Features
 
-1. **Employer Contributions:** Unlike traditional pension plans where benefits are based on years of service and salary history, Cash Balance Plans are determined by contributions from the employer. 
+1. **Employer Contributions:** Unlike traditional pension plans where benefits are based on years of service and salary history, Cash Balance Plans are determined by contributions from the employer.
 2. **[Interest](../i/interest.md) Credits:** The [account balance](../a/account_balance.md) also grows by applying annual [interest](../i/interest.md) credits. Employers typically decide on the [interest](../i/interest.md)-crediting rate, which can [range](../r/range.md) from a [fixed interest rate](../f/fixed_interest_rate.md) or a variable rate pegged to an [index](../i/index_instrument.md) like the [U.S. Treasury](../u/u.s._treasury.md) rates.
 3. **Portability:** One significant feature of a Cash Balance Plan is that it provides employees with an easier to understand, individual [account balance](../a/account_balance.md) which can be rolled over to another retirement account if the employee leaves the company.
 4. **[Vesting](../v/vesting.md):** Similar to other pension plans, Cash Balance Plans have [vesting](../v/vesting.md) schedules. Full [vesting](../v/vesting.md) can be immediate or can occur over a period of time, usually not exceeding 3 years.
@@ -17,10 +17,10 @@ A Cash Balance [Pension Plan](../p/pension_plan.md) defines the benefit in terms
 ### How It Works
 
 An example [will](../w/will.md) illustrate how a Cash Balance Plan functions:
-  
+
 - **Employee's Account:** Suppose an employee has a salary of $100,000 and the company's Cash Balance Plan specifies an annual pay [credit](../c/credit.md) of 5% of salary and an [interest](../i/interest.md) [credit](../c/credit.md) of 4%. In the first year, the company would add a pay [credit](../c/credit.md) of $5,000 to the employee’s account.
-- **[Interest](../i/interest.md) [Credit](../c/credit.md):** If the initial balance is $0, by the end of the first year, the account [will](../w/will.md) grow by the specified 4%. Hence, after the first year, the account [will](../w/will.md) have:  
-  $5,000 + (4% of $5,000) = $5,200.
+- **[Interest](../i/interest.md) [Credit](../c/credit.md):** If the initial balance is $0, by the end of the first year, the account [will](../w/will.md) grow by the specified 4%. Hence, after the first year, the account [will](../w/will.md) have:
+ $5,000 + (4% of $5,000) = $5,200.
 - **Yearly Addition:** Next year, if the salary and [interest rate](../i/interest_rate.md) remain the same, a $5,000 pay [credit](../c/credit.md) [will](../w/will.md) be added, making it $10,200 before [interest](../i/interest.md) [credit](../c/credit.md). The new total after [interest](../i/interest.md) crediting [will](../w/will.md) escalate further over the years.
 
 ## Advantages and Disadvantages
@@ -54,10 +54,10 @@ Employers opting for Cash Balance Plans should closely work with actuarial firms
 Many well-known companies have opted for Cash Balance Plans to provide structured and reliable benefits for their employees.
 
 - **IBM**: One of the most prominent examples, IBM transitioned from a traditional [pension plan](../p/pension_plan.md) to a Cash Balance Plan in 1999. The company faced legal scrutiny but eventually, the plan was validated to comply with age discrimination laws.
-  - More details: [IBM](https://www.ibm.com)
-  
+ - More details: IBM
+
 - **Motorola Solutions**: Motorola Solutions similarly has a Cash Balance [Pension Plan](../p/pension_plan.md) which provides a clear structure for its employees’ retirement benefits.
-  - More details: [Motorola](https://www.motorolasolutions.com)
+ - More details: Motorola
 
 ## Important Considerations
 

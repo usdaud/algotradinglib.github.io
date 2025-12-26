@@ -36,29 +36,29 @@ Governance and [transparency](../t/transparency.md) are critical components for 
 ### 1. Norway Government Pension Fund Global (GPFG)
 Managed by Norges [Bank](../b/bank.md) [Investment Management](../i/investment_management.md), this [fund](../f/fund.md) is one of the largest and most transparent SWFs globally. Established from oil revenues, it focuses on generating long-term returns through investments in equities, bonds, and [real estate](../r/real_estate.md).
 
-**Link:** [Norges Bank Investment Management](https://www.nbim.no/)
+**Link:** Norges Bank Investment Management
 
 ### 2. Abu Dhabi Investment Authority (ADIA)
 Founded in 1976, ADIA is one of the largest SWFs in the world and derives its funds from excess oil revenues. It invests globally in a diversified portfolio that includes equities, [fixed income](../f/fixed_income.md), [infrastructure](../i/infrastructure.md), and [real estate](../r/real_estate.md).
 
-**Link:** [Abu Dhabi Investment Authority](https://www.adia.ae/)
+**Link:** Abu Dhabi Investment Authority
 
 ### 3. China Investment Corporation (CIC)
 Established in 2007, CIC manages part of China's [foreign exchange reserves](../f/foreign_exchange_reserves.md). It focuses on achieving high returns through investments in global [financial markets](../f/financial_market.md), including public equities, [fixed income](../f/fixed_income.md), and alternative investments.
 
-**Link:** [China Investment Corporation](http://www.china-inv.cn/)
+**Link:** China Investment Corporation
 
 ### 4. Kuwait Investment Authority (KIA)
 KIA is one of the oldest SWFs, established in 1953 to manage the country’s excess oil revenues. The [fund](../f/fund.md) aims to provide sustainable financial returns through diversified investments to support Kuwait’s [economy](../e/economy.md) in the absence of oil revenues.
 
-**Link:** [Kuwait Investment Authority](https://www.kia.gov.kw/)
+**Link:** Kuwait Investment Authority
 
 ### 5. Singapore’s GIC and Temasek Holdings
 Singapore has two prominent SWFs: GIC, established to manage the country's foreign reserves, and Temasek [Holdings](../h/holdings.md), focused on strategic investments in key industries within Singapore and abroad. Both funds prioritize long-term returns through diversified global investments.
 
-**Link:** [GIC](https://www.gic.com.sg/)
+**Link:** GIC
 
-**Link:** [Temasek Holdings](https://www.temasek.com.sg/)
+**Link:** Temasek Holdings
 
 ## Impact of SWFs on Global Financial Markets
 

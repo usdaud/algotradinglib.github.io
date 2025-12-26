@@ -20,7 +20,7 @@ The United Kingdom introduced its Digital Services Tax in April 2020. The DST ap
 - **Thresholds**: Companies are liable for DST if their worldwide [revenue](../r/revenue.md) from digital activities exceeds £500 million, and more than £25 million of this [revenue](../r/revenue.md) is derived from UK users.
 - **Impact**: The UK government estimated that by the fiscal year 2024-2025, the tax would generate approximately £515 million annually.
 
-For more information, you can visit the [UK Government Website](https://www.gov.uk/government/publications/introduction-of-the-new-digital-services-tax).
+
 
 ### French Digital Services Tax
 France was one of the first countries to implement a tax specifically aimed at large digital companies. The French Digital Services Tax came into effect in July 2019.
@@ -29,7 +29,7 @@ France was one of the first countries to implement a tax specifically aimed at l
 - **Thresholds**: Companies must make more than €750 million in global digital revenues, of which €25 million must be derived from French users.
 - **Rate**: The tax is set at a rate of 3% on the eligible companies' French revenues.
 
-Further information can be found on the [French Government Website](https://www.gouvernement.fr/en/introduction-of-the-new-digital-services-tax).
+
 
 ### Other Countries
 Several other countries have also introduced or are considering similar [taxes](../t/taxes.md). Some key examples include:
@@ -46,7 +46,6 @@ The Organization for Economic Co-operation and Development (OECD) has been at th
 
 Implementation of these measures is expected to begin in 2023 and is seen as a significant step towards a more equitable global tax system.
 
-You can read more about these initiatives on the [OECD Website](https://www.oecd.org/tax/beps/).
 
 ## Criticism and Challenges
 While the Google Tax and similar measures aim to create a fairer tax system, they are not without criticism:

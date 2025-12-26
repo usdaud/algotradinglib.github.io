@@ -1,6 +1,6 @@
 # Harmonic Wave Patterns
 
-Harmonic [wave patterns](../w/wave_patterns_in_trading.md) are a set of specific price movements that repeatedly occur in [financial markets](../f/financial_market.md). These patterns are identified using [Fibonacci retracement](../f/fibonacci_retracement.md) and extension levels. Harmonic trading, developed by Scott Carney in the late 1990s, is based on the idea that [market](../m/market.md) movements are harmonic in nature and that they conform to specific patterns dictated by Fibonacci ratios. [Harmonic patterns](../h/harmonic_patterns.md) are predictive by nature, as opposed to reactive, [offering](../o/offering.md) traders an advance warning of a potential [reversal](../r/reversal.md) in price. 
+Harmonic [wave patterns](../w/wave_patterns_in_trading.md) are a set of specific price movements that repeatedly occur in [financial markets](../f/financial_market.md). These patterns are identified using [Fibonacci retracement](../f/fibonacci_retracement.md) and extension levels. Harmonic trading, developed by Scott Carney in the late 1990s, is based on the idea that [market](../m/market.md) movements are harmonic in nature and that they conform to specific patterns dictated by Fibonacci ratios. [Harmonic patterns](../h/harmonic_patterns.md) are predictive by nature, as opposed to reactive, [offering](../o/offering.md) traders an advance warning of a potential [reversal](../r/reversal.md) in price.
 
 ## Introduction to Harmonic Patterns
 
@@ -87,7 +87,7 @@ Several algorithms can be used to recognize and [trade](../t/trade.md) [harmonic
 
 ### Risk Management
 
-Effective integration of [harmonic patterns](../h/harmonic_patterns.md) into an [algorithmic trading](../a/algorithmic_trading.md) strategy requires rigorous [risk management](../r/risk_management.md). 
+Effective integration of [harmonic patterns](../h/harmonic_patterns.md) into an [algorithmic trading](../a/algorithmic_trading.md) strategy requires rigorous [risk management](../r/risk_management.md).
 
 **[Risk Management](../r/risk_management.md) Techniques:**
 - **[Position Sizing](../p/position_sizing.md)**: Determine [trade](../t/trade.md) size based on [risk tolerance](../r/risk_tolerance.md).
@@ -98,10 +98,9 @@ Effective integration of [harmonic patterns](../h/harmonic_patterns.md) into an 
 Various financial institutions and trading firms [leverage](../l/leverage.md) [harmonic patterns](../h/harmonic_patterns.md) as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 *Examples of Firms Utilizing [Harmonic Patterns](../h/harmonic_patterns.md):*
-- **EABlue**: EABlue offers automated trading software that integrates harmonic [pattern recognition](../p/pattern_recognition.md) (https://eablue.com).
-- **HarmonicTrader**: Founded by Scott Carney, this platform provides educational resources and software for trading [harmonic patterns](../h/harmonic_patterns.md) (http://www.harmonictrader.com).
+- **EABlue**: EABlue offers automated trading software that integrates harmonic [pattern recognition](../p/pattern_recognition.md) (
+- **HarmonicTrader**: Founded by Scott Carney, this platform provides educational resources and software for trading [harmonic patterns](../h/harmonic_patterns.md) (
 
 ## Conclusion
 
 Harmonic [wave patterns](../w/wave_patterns_in_trading.md) [offer](../o/offer.md) a structured and predictive approach to trading by utilizing the natural mathematical relationships found in Fibonacci sequences. Their integration into [algorithmic trading](../a/algorithmic_trading.md) can potentially enhance trading [efficiency](../e/efficiency.md) and profitability. As with any trading methodology, the key to success with [harmonic patterns](../h/harmonic_patterns.md) lies in rigorous [backtesting](../b/backtesting.md), continuous monitoring, and disciplined [risk management](../r/risk_management.md).
-

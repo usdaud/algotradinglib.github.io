@@ -1,10 +1,10 @@
 # Normal-Course Issuer Bid (NCIB)
 
-A Normal-Course [Issuer](../i/issuer.md) [Bid](../b/bid.md), commonly abbreviated as NCIB, is a corporate action whereby a publicly traded company repurchases its own outstanding [shares](../s/shares.md) from the existing shareholders, usually through the [open market](../o/open_market.md). This mechanism is a form of share [buyback](../b/buyback.md) program that Canadian companies often employ but can also be used by businesses in other jurisdictions under different terms and regulations. 
+A Normal-Course [Issuer](../i/issuer.md) [Bid](../b/bid.md), commonly abbreviated as NCIB, is a corporate action whereby a publicly traded company repurchases its own outstanding [shares](../s/shares.md) from the existing shareholders, usually through the [open market](../o/open_market.md). This mechanism is a form of share [buyback](../b/buyback.md) program that Canadian companies often employ but can also be used by businesses in other jurisdictions under different terms and regulations.
 
 ## Overview
 
-Share repurchases via NCIBs are a key aspect of [capital](../c/capital.md) management for [listed](../l/listed.md) companies. These buybacks are generally initiated when the company's management believes that its [shares](../s/shares.md) are [undervalued](../u/undervalued.md), thus representing a good investment. By repurchasing [shares](../s/shares.md), companies aim to reduce the number of outstanding [shares](../s/shares.md), thereby potentially increasing [earnings](../e/earnings.md) per share (EPS) and boosting share price. 
+Share repurchases via NCIBs are a key aspect of [capital](../c/capital.md) management for [listed](../l/listed.md) companies. These buybacks are generally initiated when the company's management believes that its [shares](../s/shares.md) are [undervalued](../u/undervalued.md), thus representing a good investment. By repurchasing [shares](../s/shares.md), companies aim to reduce the number of outstanding [shares](../s/shares.md), thereby potentially increasing [earnings](../e/earnings.md) per share (EPS) and boosting share price.
 
 NCIBs are typically conducted over a set period, often up to a year, and companies are required to adhere to specific rules and regulations set forth by securities regulators to ensure [transparency](../t/transparency.md) and fair treatment of all shareholders. While not obligatory, announcements and disclosures regarding NCIBs are standard practice to maintain [investor](../i/investor.md) confidence and compliance with regulations.
 
@@ -50,8 +50,7 @@ NCIBs are typically conducted over a set period, often up to a year, and compani
 
 ### Example: Royal Bank of Canada (RBC)
 
-Royal [Bank](../b/bank.md) of Canada (RBC) is a notable example where NCIBs are effectively utilized. For more detailed information, visit [RBC's NCIB page](https://www.rbc.com/investor-relations/share-buybacks.html). 
-
+Royal [Bank](../b/bank.md) of Canada (RBC) is a notable example where NCIBs are effectively utilized. For more detailed information,
 RBC announces NCIB programs specifying the number of [shares](../s/shares.md) it intends to repurchase, explaining the rationale behind the repurchase, and detailing the method of [execution](../e/execution.md). These announcements often follow board approval and are aligned with RBC’s strategic [financial planning](../f/financial_planning.md).
 
 ### Regulatory Context

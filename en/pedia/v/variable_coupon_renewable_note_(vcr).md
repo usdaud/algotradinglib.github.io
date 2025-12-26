@@ -2,6 +2,8 @@
 
 Variable Coupon Renewable Notes (VCRs) represent a [financial instrument](../f/financial_instrument.md) that is relatively uncommon but highly innovative. These notes are designed to [offer](../o/offer.md) flexibility in [interest](../i/interest.md) payments through adjustable or "variable" coupons, making them a unique option for both issuers and investors. Here's an in-depth look into what VCRs are, how they work, and their broader impact on the world of [finance](../f/finance.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## What is a Variable Coupon Renewable Note?
 
 A Variable Coupon Renewable [Note](../n/note.md) (VCR) is a type of [debt instrument](../d/debt_instrument.md) that features fluctuating [interest](../i/interest.md) payments instead of fixed coupon rates. Essentially, the [interest rate](../i/interest_rate.md) on these notes can vary over time according to predefined criteria, which can include [market](../m/market.md) indices, [interest rate](../i/interest_rate.md) benchmarks, or other financial metrics. Additionally, the "renewable" aspect refers to the capacity to extend the [maturity](../m/maturity.md) period of the [note](../n/note.md) under agreed terms, making it more dynamic compared to traditional [debt](../d/debt.md) instruments.

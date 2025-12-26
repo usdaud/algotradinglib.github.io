@@ -48,7 +48,7 @@ Integrating growth [cycle analysis](../c/cycle_analysis.md) into an [algorithmic
 ### Signal Generation
 
 1. **[Indicator](../i/indicator.md)-Based Signals**: Develop indicators based on economic data. For example, creating a composite [index](../i/index_instrument.md) that combines GDP growth, [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md) to identify the current phase of the [economic cycle](../e/economic_cycle.md).
-   
+
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: Utilize machine [learning algorithms](../l/learning_algorithms_in_trading.md) to recognize patterns that precede transitions between different phases. For instance, a combination of falling GDP and rising [unemployment](../u/unemployment.md) may signal an upcoming contraction.
 
 ### Strategy Development
@@ -60,13 +60,13 @@ Integrating growth [cycle analysis](../c/cycle_analysis.md) into an [algorithmic
 ### Risk Management
 
 1. **Dynamic [Risk](../r/risk.md) Adjustment**: Adjust [risk](../r/risk.md) levels dynamically based on the phase. For instance, increase [risk](../r/risk.md) exposure during early [expansion](../e/expansion.md) and reduce it as the [economy](../e/economy.md) nears a peak.
-   
+
 2. **[Diversification](../d/diversification.md)**: Ensure diversified portfolios to mitigate risks. Use [correlation analysis](../c/correlation_analysis.md) to minimize exposure to highly correlated assets.
 
 ### Backtesting and Optimization
 
 1. **Historical Testing**: Backtest the developed strategies using historical data to gauge their performance across different economic phases. Tools like Monte Carlo simulations can also be employed to assess robustness.
-   
+
 2. **Parameter [Optimization](../o/optimization.md)**: Use [optimization](../o/optimization.md) techniques to fine-tune algorithms. [Genetic algorithms](../g/genetic_algorithms_in_trading.md), [grid search](../g/grid_search_in_trading.md), and [Bayesian optimization](../b/bayesian_optimization.md) can be employed to find optimal parameters.
 
 ## Example Case Studies
@@ -75,13 +75,12 @@ Integrating growth [cycle analysis](../c/cycle_analysis.md) into an [algorithmic
 
 Renaissance Technologies, led by mathematician Jim Simons, is known for its Medallion [Fund](../f/fund.md), which has achieved legendary success through [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) employs growth [cycle analysis](../c/cycle_analysis.md) to adjust its [market](../m/market.md) strategies. During the late 2000s [financial crisis](../f/financial_crisis.md), Renaissance Technologies shifted its focus toward less volatile and defensive assets, minimizing losses and quickly recovering post-crisis.
 
-Visit their website to learn more: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Case Study 2: Two Sigma
 
 Two Sigma, a [hedge fund](../h/hedge_fund.md) that relies heavily on [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md), integrates [economic indicators](../e/economic_indicators.md) into its [trading algorithms](../t/trading_algorithms.md). By analyzing [economic cycles](../e/economic_cycles.md), Two Sigma dynamically adjusts its investment strategies to [capitalize](../c/capitalize.md) on [market](../m/market.md) conditions. This adaptability has contributed to its consistent outperformance.
 
-Learn more about Two Sigma here: [Two Sigma](https://www.twosigma.com/)
+Learn more about Two Sigma here: Two Sigma
 
 ## Challenges and Considerations
 

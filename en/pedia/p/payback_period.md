@@ -44,7 +44,7 @@ Therefore, the Payback Period is 3.5 years.
 
 ## Disadvantages of Payback Period
 
-1. **Ignores [Time Value](../t/time_value.md) of [Money](../m/money.md) (TVM)**: The basic Payback Period does not [discount](../d/discount.md) future cash flows, thereby ignoring the principle that [money](../m/money.md) today is worth more than the same amount in the future. 
+1. **Ignores [Time Value](../t/time_value.md) of [Money](../m/money.md) (TVM)**: The basic Payback Period does not [discount](../d/discount.md) future cash flows, thereby ignoring the principle that [money](../m/money.md) today is worth more than the same amount in the future.
 2. **No [Profit](../p/profit.md) Information**: Does not account for profitability beyond the payback period. An investment might recover its costs early but be unprofitable in the [long run](../l/long_run.md).
 3. **[Cash Flow](../c/cash_flow.md) [Variability](../v/variability.md)**: More accurate calculation requires detailed [cash flow](../c/cash_flow.md) projections, which may not be straightforward for all investments.
 4. **Subjectivity**: The choice of an acceptable payback period threshold can be arbitrary and vary across industries and organizations.
@@ -95,4 +95,4 @@ Due to its limitations, the Payback Period is often used alongside other financi
 
 The Payback Period offers a straightforward and quick method for assessing the time required to recover an investment's initial cost. While it is useful for initial screening and [risk](../r/risk.md) assessment, it should be complemented with more comprehensive financial metrics to make sound investment decisions. Techniques like [Discounted Payback Period](../d/discounted_payback_periods.md), NPV, and IRR provide a more nuanced view by incorporating the [time value](../t/time_value.md) of [money](../m/money.md) and long-term profitability. With its strengths and limitations in mind, the Payback Period remains a valuable part of the financial analytical toolkit.
 
-For further information on financial metrics and [capital budgeting](../c/capital_budgeting.md) techniques, you can visit [corporate finance](../c/corporate_finance.md) resources such as [Investopedia](https://www.investopedia.com) or consult financial textbooks and corporate guidelines from reputable institutions like [McKinsey & Company](https://www.mckinsey.com).
+For further information on financial metrics and [capital budgeting](../c/capital_budgeting.md) techniques, you can visit [corporate finance](../c/corporate_finance.md) resources such as Investopedia or consult financial textbooks and corporate guidelines from reputable institutions like McKinsey & Company.

@@ -26,21 +26,21 @@ Understanding the key components of an [options](../o/options.md) contract is cr
 The [valuation](../v/valuation.md) of [options](../o/options.md) is complex and typically accomplished through various [mathematical models](../m/mathematical_models_in_trading.md). The most widely used models include:
 
 - **[Black-Scholes Model](../b/black-scholes_model.md)**: A mathematical model that provides a theoretical estimate of European-style [options](../o/options.md). The formula takes into account factors such as the current stock price, the option's [strike price](../s/strike_price.md), the time to expiration, [risk](../r/risk.md)-free [interest](../i/interest.md) rates, and the [asset](../a/asset.md)'s [volatility](../v/volatility.md).
-  
-  ```math
-  C = S_0N(d_1) - Ke^{-rt}N(d_2)
-  ```
-  where:
-  - \( d_1 = \frac{\ln(S_0/K) + (r + \sigma^2/2)t}{\sigma\sqrt{t}} \)
-  - \( d_2 = d_1 - \sigma\sqrt{t} \)
+
+ ```math
+ C = S_0N(d_1) - Ke^{-rt}N(d_2)
+ ```
+ where:
+ - \( d_1 = \frac{\ln(S_0/K) + (r + \sigma^2/2)t}{\sigma\sqrt{t}} \)
+ - \( d_2 = d_1 - \sigma\sqrt{t} \)
 
 - **[Binomial Option Pricing Model](../b/binomial_option_pricing_model.md)**: A flexible model that uses a tree of potential future prices where each node represents a potential price of the [underlying asset](../u/underlying_asset.md) at a given point in time until the option expires.
 
-  ```math
-  C = \frac{pC_u + (1 - p)C_d}{1 + r}
-  ```
-  where:
-  - \( p = \frac{e^{(\mu - r) \[Delta](../d/delta.md) t} - d}{u - d} \)
+ ```math
+ C = \frac{pC_u + (1 - p)C_d}{1 + r}
+ ```
+ where:
+ - \( p = \frac{e^{(\mu - r) \[Delta](../d/delta.md) t} - d}{u - d} \)
 
 ## Strategies Involving Options
 
@@ -53,7 +53,7 @@ The [valuation](../v/valuation.md) of [options](../o/options.md) is complex and 
 
 ## Risk Management and Hedging
 
-[Options](../o/options.md) are pivotal in [risk management](../r/risk_management.md) due to their ability to [hedge](../h/hedge.md) against potential losses in an investment portfolio. 
+[Options](../o/options.md) are pivotal in [risk management](../r/risk_management.md) due to their ability to [hedge](../h/hedge.md) against potential losses in an investment portfolio.
 
 - **[Portfolio Insurance](../p/portfolio_insurance.md)**: Using [put options](../p/put_options.md) to protect against a decline in the [value](../v/value.md) of a portfolio.
 - **[Delta Hedging](../d/delta_hedging.md)**: A strategy that aims to reduce the directional [risk](../r/risk.md) associated with price movements in the [underlying asset](../u/underlying_asset.md). This involves holding a position in the option and the [underlying asset](../u/underlying_asset.md) such that the total [delta](../d/delta.md) ([price sensitivity](../p/price_sensitivity.md)) of the position is zero.
@@ -85,8 +85,8 @@ The [Greeks](../g/greeks.md) are pivotal in [options](../o/options.md) trading, 
 
 Several platforms and brokers facilitate the trading of [options](../o/options.md), including:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its low-cost structure and comprehensive trading tools. More information is available [here](https://www.interactivebrokers.com/).
-- **TD [Ameritrade](../a/ameritrade.md)**: Offers extensive educational resources and a [robust](../r/robust.md) [trading platform](../t/trading_platform.md). More information is available [here](https://www.tdameritrade.com/).
-- **[E*TRADE](../e/e_trade.md)**: Features intuitive trading platforms and [options](../o/options.md) trading tutorials. More information is available [here](https://us.etrade.com/).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its low-cost structure and comprehensive trading tools. More information is available here.
+- **TD [Ameritrade](../a/ameritrade.md)**: Offers extensive educational resources and a [robust](../r/robust.md) [trading platform](../t/trading_platform.md). More information is available here.
+- **[E*TRADE](../e/e_trade.md)**: Features intuitive trading platforms and [options](../o/options.md) trading tutorials. More information is available here.
 
 [Options](../o/options.md) contracts play an integral role in modern [financial markets](../f/financial_market.md), providing traders and investors with powerful tools for strategy formulation, [risk management](../r/risk_management.md), and opportunities for [profit](../p/profit.md). As markets evolve, the understanding and application of [options](../o/options.md) [will](../w/will.md) continue to be essential for sophisticated [market](../m/market.md) participants.

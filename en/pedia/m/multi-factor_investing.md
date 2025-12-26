@@ -1,6 +1,6 @@
 # Multi-Factor Investing
 
-Multi-[factor investing](../f/factor_investing.md), also known as multi-[factor](../f/factor.md) strategies, is an approach to investment that involves the simultaneous use of [multiple](../m/multiple.md) quantifiable attributes or factors to select securities. This methodology seeks to improve the investment results by capturing the diverse sources of [risk](../r/risk.md) premia and diversifying idiosyncratic risks, providing more [robust](../r/robust.md) performance over time. 
+Multi-[factor investing](../f/factor_investing.md), also known as multi-[factor](../f/factor.md) strategies, is an approach to investment that involves the simultaneous use of [multiple](../m/multiple.md) quantifiable attributes or factors to select securities. This methodology seeks to improve the investment results by capturing the diverse sources of [risk](../r/risk.md) premia and diversifying idiosyncratic risks, providing more [robust](../r/robust.md) performance over time.
 
 ## Key Concepts and Definitions
 
@@ -63,8 +63,8 @@ Multi-[factor](../f/factor.md) strategies allow for customization to align with 
 ETFs are a popular vehicle for implementing multi-[factor](../f/factor.md) strategies. They [offer](../o/offer.md) a cost-effective and [liquid](../l/liquid.md) means to [gain](../g/gain.md) exposure to a multi-[factor](../f/factor.md) approach.
 
 Examples include:
-- **[iShares](../i/ishares.md) Edge MSCI Multifactor USA ETF** ([iShares ETF](https://www.ishares.com/us/products/239726/ishares-msci-usa-multifactor-etf))
-- **Invesco Russell 1000 Dynamic Multifactor ETF** ([Invesco ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?p=OMFL))
+- **[iShares](../i/ishares.md) Edge MSCI Multifactor USA ETF** (iShares ETF)
+- **Invesco Russell 1000 Dynamic Multifactor ETF** (Invesco ETF)
 
 ### Active Management
 Active multi-[factor](../f/factor.md) strategies involve portfolio managers who tailor the selection and weighting of factors based on their expertise and [market](../m/market.md) views. [Active management](../a/active_management.md) can provide flexibility to adapt to changing [market](../m/market.md) conditions.

@@ -74,7 +74,6 @@ Steps include:
 ## Case Study: Successful Implementation
 A prominent example of a [firm](../f/firm.md) successfully integrating advanced [seasonality](../s/seasonality.md) detection is Two Sigma Investments. Two Sigma employs vast amounts of data, including unconventional datasets, to identify patterns and anomalies that traditional methods might miss. Their approach underscores the importance of data variety and the use of cutting-edge analytical techniques.
 
-[Learn more about Two Sigma Investments](https://www.twosigma.com/)
 
 ## Challenges and Considerations
 

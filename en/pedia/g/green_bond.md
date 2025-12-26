@@ -13,7 +13,7 @@ In the years that followed, an increasing number of organizations began issuing 
 ## Types of Green Bonds
 
 1. **Use of Proceeds Bonds**: These are the most traditional and prevalent type of [green bonds](../g/green_bonds.md). The proceeds from these bonds are exclusively allocated to qualifying environmental projects.
-  
+
 2. **[Revolving Credit](../r/revolving_credit.md) [Green Bonds](../g/green_bonds.md)**: These bonds provide a [revolving credit](../r/revolving_credit.md) [facility](../f/facility.md), ensuring that the [capital](../c/capital.md) is used for green purposes. Once one project is paid off, the funds can be used for another project.
 
 3. **Securitized [Green Bonds](../g/green_bonds.md)**: Secured by green assets or [collateral](../c/collateral.md), these bonds provide an added layer of [security](../s/security.md) to investors.
@@ -49,37 +49,34 @@ The foremost characteristic of [green bonds](../g/green_bonds.md) is their empha
 To ensure the credibility and efficacy of [green bonds](../g/green_bonds.md), several standards and certification schemes have been developed:
 
 1. **Green [Bond](../b/bond.md) Principles (GBP)**:
-   - Established by the International [Capital](../c/capital.md) [Market](../m/market.md) Association (ICMA), these voluntary guidelines recommend [transparency](../t/transparency.md) and [disclosure](../d/disclosure.md).
-   - Website: [ICMA - Green Bond Principles](https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/green-bond-principles-gbp/)
+ - Established by the International [Capital](../c/capital.md) [Market](../m/market.md) Association (ICMA), these voluntary guidelines recommend [transparency](../t/transparency.md) and [disclosure](../d/disclosure.md).
 
 2. **Climate Bonds Standard (CBS)**:
-   - Managed by the Climate Bonds Initiative (CBI), CBS provides a certification scheme for [green bonds](../g/green_bonds.md).
-   - Website: [Climate Bonds Initiative](https://www.climatebonds.net/standard)
+ - Managed by the Climate Bonds Initiative (CBI), CBS provides a certification scheme for [green bonds](../g/green_bonds.md).
 
 3. **EU Green [Bond](../b/bond.md) Standard**:
-   - Proposed by the European [Commission](../c/commission.md), this standard aims to create a unified European framework for [green bonds](../g/green_bonds.md).
-   - Website: [European Commission - EU Green Bond Standard](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance/eu-green-bond-standard_en)
+ - Proposed by the European [Commission](../c/commission.md), this standard aims to create a unified European framework for [green bonds](../g/green_bonds.md).
 
 ## Benefits of Issuing Green Bonds
 
 ### For Issuers
 
 1. **Reputation and Branding**:
-   - Issuing [green bonds](../g/green_bonds.md) can enhance an organization’s sustainability profile and branding.
-   
+ - Issuing [green bonds](../g/green_bonds.md) can enhance an organization’s sustainability profile and branding.
+
 2. **Access to a New [Investor](../i/investor.md) Base**:
-   - [Green bonds](../g/green_bonds.md) attract a different set of investors focused on sustainability, thus broadening the [issuer](../i/issuer.md)’s [investor](../i/investor.md) base.
+ - [Green bonds](../g/green_bonds.md) attract a different set of investors focused on sustainability, thus broadening the [issuer](../i/issuer.md)’s [investor](../i/investor.md) base.
 
 3. **Potential for Better Pricing**:
-   - Increased [demand](../d/demand.md) for [green bonds](../g/green_bonds.md) can sometimes result in more favorable pricing terms for the [issuer](../i/issuer.md).
+ - Increased [demand](../d/demand.md) for [green bonds](../g/green_bonds.md) can sometimes result in more favorable pricing terms for the [issuer](../i/issuer.md).
 
 ### For Investors
 
 1. **Sustainable Investment**:
-   - [Green bonds](../g/green_bonds.md) [offer](../o/offer.md) an avenue for investors looking to support environmental initiatives while earning a [return](../r/return.md).
+ - [Green bonds](../g/green_bonds.md) [offer](../o/offer.md) an avenue for investors looking to support environmental initiatives while earning a [return](../r/return.md).
 
 2. **[Risk](../r/risk.md) Mitigation**:
-   - Investments in green sectors like renewable energy are seen as future-proof and less vulnerable to regulatory changes.
+ - Investments in green sectors like renewable energy are seen as future-proof and less vulnerable to regulatory changes.
 
 ## Case Studies of Green Bond Issuance
 
@@ -87,13 +84,13 @@ To ensure the credibility and efficacy of [green bonds](../g/green_bonds.md), se
 
 In 2016 and 2017, Apple issued a total of $2.5 billion in [green bonds](../g/green_bonds.md) to [fund](../f/fund.md) a variety of environmental projects, including renewable energy installations and sustainable material sourcing.
 
-Website: [Apple's Environmental Initiatives](https://www.apple.com/environment/)
+online platform: Apple's Environmental Initiatives
 
 ### Republic of France’s Sovereign Green Bond
 
 In January 2017, France issued the world’s first sovereign green [bond](../b/bond.md), raising €7 billion to [finance](../f/finance.md) sustainable projects, including renewable energy, biodiversity protection, and climate change adaptation.
 
-Website: [French Treasury (Ministry of Economy, Finance and the Recovery)](https://www.tresor.economie.gouv.fr/)
+online platform: French Treasury (Ministry of Economy, Finance and the Recovery)
 
 ## Challenges and Criticisms
 
@@ -114,16 +111,16 @@ Issuing [green bonds](../g/green_bonds.md) often involves additional costs, incl
 The green [bond market](../b/bond_market.md) is expected to continue its [robust](../r/robust.md) growth, driven by increasing awareness of climate change and the urgent need for sustainable [finance](../f/finance.md). Key developments to watch include:
 
 1. **Adoption of New Technologies**:
-   - Innovations in green technologies can [open](../o/open.md) new avenues for green [bond](../b/bond.md) projects.
-   
+ - Innovations in green technologies can [open](../o/open.md) new avenues for green [bond](../b/bond.md) projects.
+
 2. **Regulatory Developments**:
-   - Governments and international bodies are likely to introduce stricter regulations and incentives for green [bond](../b/bond.md) issuance and investment.
-   
+ - Governments and international bodies are likely to introduce stricter regulations and incentives for green [bond](../b/bond.md) issuance and investment.
+
 3. **[Expansion](../e/expansion.md) into Emerging Markets**:
-   - Emerging economies present significant opportunities for green [bond](../b/bond.md) growth, enabling the funding of critical environmental projects in these regions.
+ - Emerging economies present significant opportunities for green [bond](../b/bond.md) growth, enabling the funding of critical environmental projects in these regions.
 
 4. **Integration with Broader ESG Criteria**:
-   - The integration of [green bonds](../g/green_bonds.md) within broader Environmental, Social, and Governance (ESG) investment frameworks could further accelerate [market](../m/market.md) [expansion](../e/expansion.md).
+ - The integration of [green bonds](../g/green_bonds.md) within broader Environmental, Social, and Governance (ESG) investment frameworks could further accelerate [market](../m/market.md) [expansion](../e/expansion.md).
 
 ## Conclusion
 

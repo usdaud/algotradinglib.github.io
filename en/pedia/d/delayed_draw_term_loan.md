@@ -14,7 +14,7 @@ A commitment [fee](../f/fee.md) is a [fee](../f/fee.md) paid by the borrower to 
 
 ### Interest Rate
 
-The [interest rate](../i/interest_rate.md) on a DDTL can be either fixed or floating. A [fixed interest rate](../f/fixed_interest_rate.md) remains constant throughout the life of the [loan](../l/loan.md), while a floating rate fluctuates based on a [reference rate](../r/reference_rate.md), such as the London Interbank Offered Rate (LIBOR) or the Secured Overnight [Financing](../f/financing.md) Rate (SOFR). The [interest](../i/interest.md) is typically only charged on the drawn portion of the [loan](../l/loan.md), not on the undrawn amount.
+The [interest rate](../i/interest_rate.md) on a DDTL can be either fixed or floating. A [fixed interest rate](../f/fixed_interest_rate.md) remains constant throughout the life of the [loan](../l/loan.md), while a floating rate fluctuates based on a [reference rate](../r/reference_rate.md), such as the Secured Overnight [Financing](../f/financing.md) Rate (SOFR), which replaced LIBOR after its discontinuation in June 2023. The [interest](../i/interest.md) is typically only charged on the drawn portion of the [loan](../l/loan.md), not on the undrawn amount.
 
 ### Repayment Schedule
 
@@ -82,19 +82,19 @@ Several financial institutions and banks [offer](../o/offer.md) Delayed Draw Ter
 
 ### Bank of America Merrill Lynch
 [Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md) provides a comprehensive [range](../r/range.md) of lending solutions, including Delayed Draw Term Loans, tailored to meet the various [financing](../f/financing.md) needs of corporations.
-Website: [Bank of America Merrill Lynch](https://www.bofaml.com)
+online platform: Bank of America Merrill Lynch
 
 ### JPMorgan Chase & Co.
 JPMorgan Chase & Co. offers DDTLs as part of their corporate [financing](../f/financing.md) offerings, designed to support strategic initiatives such as M&A, [capital](../c/capital.md) expenditures, and expansions.
-Website: [JPMorgan Chase & Co.](https://www.jpmorganchase.com)
+online platform: JPMorgan Chase & Co.
 
 ### Wells Fargo
 Wells Fargo provides Delayed Draw Term Loans to help businesses manage their [capital](../c/capital.md) needs effectively, [offering](../o/offering.md) flexible drawing and [repayment](../r/repayment.md) [options](../o/options.md).
-Website: [Wells Fargo](https://www.wellsfargo.com)
+online platform: Wells Fargo
 
 ### Citibank
 Citibank offers a variety of [term loan](../t/term_loan.md) structures, including Delayed Draw Term Loans, to meet the [financing](../f/financing.md) requirements of their corporate clients.
-Website: [Citibank](https://www.citi.com)
+online platform: Citibank
 
 ## Conclusion
 

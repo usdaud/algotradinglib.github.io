@@ -54,4 +54,4 @@ Despite these positive signs, Abenomics faced several challenges and criticisms:
 
 In conclusion, Abenomics was a bold and multifaceted approach to reviving Japan's [economy](../e/economy.md). While it achieved some success and left a lasting impact, it also highlighted the complexities and challenges of economic policymaking in a globalized world.
 
-For more detailed information about Abenomics and its outcomes, you can visit [Bank of Japan](https://www.boj.or.jp/en/) and [Government of Japan](https://japan.kantei.go.jp/).
+For more detailed information about Abenomics and its outcomes, you can visit Bank of Japan and Government of Japan.

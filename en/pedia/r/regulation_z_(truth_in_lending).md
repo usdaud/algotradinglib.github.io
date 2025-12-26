@@ -13,20 +13,20 @@ Regulation Z was created to safeguard consumers by requiring lenders to provide 
 Some of the significant aspects of Regulation Z are:
 
 1. **[Disclosure](../d/disclosure.md) Requirements**:
-    - Lenders must disclose annual percentage rates (APR), [finance charges](../f/finance_charge.md), and total [payment](../p/payment.md) schedules in a standard format.
-    - Borrowers receive clear information regarding their borrowing costs, enabling comparison between different [credit](../c/credit.md) products.
-  
+ - Lenders must disclose annual percentage rates (APR), [finance charges](../f/finance_charge.md), and total [payment](../p/payment.md) schedules in a standard format.
+ - Borrowers receive clear information regarding their borrowing costs, enabling comparison between different [credit](../c/credit.md) products.
+
 2. **[Right of Rescission](../r/right_of_rescission.md)**:
-    - Provides consumers with a three-day period to cancel certain [loan](../l/loan.md) agreements without penalty, especially in non-purchase [money](../m/money.md) mortgages.
-  
+ - Provides consumers with a three-day period to cancel certain [loan](../l/loan.md) agreements without penalty, especially in non-purchase [money](../m/money.md) mortgages.
+
 3. **Advertising Standards**:
-    - Mandates that all lending-related advertisements must be accurate and not misleading. Special terms like "fixed rate" or "low monthly payments" must meet specific criteria to be advertised.
-    
+ - Mandates that all lending-related advertisements must be accurate and not misleading. Special terms like "fixed rate" or "low monthly payments" must meet specific criteria to be advertised.
+
 4. **Billing Disputes**:
-    - Establishes procedures for resolving billing disputes and unauthorized transactions on [credit](../c/credit.md) accounts.
-    
+ - Establishes procedures for resolving billing disputes and unauthorized transactions on [credit](../c/credit.md) accounts.
+
 5. **[Credit Card](../c/credit_card.md) Protections**:
-    - Protects against unfair [credit card](../c/credit_card.md) practices such as rate increases, and caps the [liability](../l/liability.md) on fraudulent transactions.
+ - Protects against unfair [credit card](../c/credit_card.md) practices such as rate increases, and caps the [liability](../l/liability.md) on fraudulent transactions.
 
 ## Historical Context
 
@@ -106,7 +106,7 @@ Given the fast-paced nature of the financial world, Regulation Z [will](../w/wil
 Regulation Z’s role in the financial landscape cannot be overstated. By mandating clear, uniform disclosures, it empowers consumers to make informed decisions and fosters [transparency](../t/transparency.md) and fairness within the lending [industry](../i/industry.md). As financial products and technologies advance, ongoing amendments and [robust](../r/robust.md) regulatory oversight [will](../w/will.md) be essential to maintain its relevance and effectiveness.
 
 For more detailed information on Regulation Z, you can visit:
-- [Consumer Financial Protection Bureau - Regulation Z (Truth in Lending)](https://www.consumerfinance.gov/policy-compliance/rulemaking/final-rules/regulation-z-truth-in-lending-act/)
+- Consumer Financial Protection Bureau - Regulation Z (Truth in Lending)
 
 ---
 

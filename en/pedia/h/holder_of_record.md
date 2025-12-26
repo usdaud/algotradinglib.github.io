@@ -8,7 +8,7 @@ Incorporated companies [issue](../i/issue.md) securities to investors, who can b
 
 ### Importance of the Holder of Record
 
-The primary importance of identifying the Holder of Record lies in determining who is entitled to receive dividends, participate in mergers and acquisitions, vote in [shareholder](../s/shareholder.md) meetings, and enjoy other benefits tied to owning a share of the company. 
+The primary importance of identifying the Holder of Record lies in determining who is entitled to receive dividends, participate in mergers and acquisitions, vote in [shareholder](../s/shareholder.md) meetings, and enjoy other benefits tied to owning a share of the company.
 
 1. **[Dividend](../d/dividend.md) Payments**: When a company declares a [dividend](../d/dividend.md), it needs to know who the current shareholders are to distribute dividends effectively. The Holder of Record, as noted on the [record date](../r/record_date.md), [will](../w/will.md) be entitled to receive the declared dividends.
 
@@ -24,7 +24,7 @@ The [record date](../r/record_date.md) is a cut-off date established by a compan
 
 ## Beneficial Owner vs. Holder of Record
 
-While the Holder of Record is the name [listed](../l/listed.md) in the [issuer](../i/issuer.md)'s books, the actual, or "beneficial", owner might be different. The [beneficial owner](../b/beneficial_owner.md) is the person or entity that enjoys the ultimate benefits of ownership even though the title might be in another name, often for ease of trading or holding. 
+While the Holder of Record is the name [listed](../l/listed.md) in the [issuer](../i/issuer.md)'s books, the actual, or "beneficial", owner might be different. The [beneficial owner](../b/beneficial_owner.md) is the person or entity that enjoys the ultimate benefits of ownership even though the title might be in another name, often for ease of trading or holding.
 
 1. **[Broker](../b/broker.md)-Dealers and Nominees**: Institutional investors such as mutual funds, pension funds, and other large entities often [hold](../h/hold.md) [stocks](../s/stock.md) and bonds through [broker](../b/broker.md)-dealers or nominees. Even though the [broker](../b/broker.md) or nominee is the Holder of Record, the beneficial owners are the clients of these brokers or institutions.
 
@@ -32,7 +32,7 @@ While the Holder of Record is the name [listed](../l/listed.md) in the [issuer](
 
 ## Transfer Agents
 
-Transfer agents play a crucial role in maintaining accurate and updated records of Holders of Record. They act as intermediaries for the issuing company, handling changes in ownership, [distribution](../d/distribution.md) of dividends, and other administrative tasks. Companies like [Computershare](https://www.computershare.com) and [American Stock Transfer & Trust Company (AST)](https://www.astfinancial.com) are well-known transfer agents providing these services.
+Transfer agents play a crucial role in maintaining accurate and updated records of Holders of Record. They act as intermediaries for the issuing company, handling changes in ownership, [distribution](../d/distribution.md) of dividends, and other administrative tasks. Companies like Computershare and American Stock Transfer & Trust Company (AST) are well-known transfer agents providing these services.
 
 ### Functions of Transfer Agents
 
@@ -43,7 +43,7 @@ Transfer agents play a crucial role in maintaining accurate and updated records 
 
 ## Legal Implications and Regulatory Framework
 
-The concept of the Holder of Record is subject to various regulatory requirements. In the United States, for instance, the role and responsibilities of Holders of Record, along with [corporate governance](../c/corporate_governance.md), are governed by regulations from the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). 
+The concept of the Holder of Record is subject to various regulatory requirements. In the United States, for instance, the role and responsibilities of Holders of Record, along with [corporate governance](../c/corporate_governance.md), are governed by regulations from the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC).
 
 1. **[Securities Act of 1933](../s/securities_act_of_1933.md) and [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md)**: These foundational pieces of legislation outline the requirements for companies to register securities and maintain accurate records of holders.
 2. **Sarbanes-Oxley Act**: Enacted in response to corporate scandals, this act enhances the accountability of companies, pushing for accurate record-keeping and more transparent corporate actions.

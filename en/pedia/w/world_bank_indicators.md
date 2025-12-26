@@ -80,22 +80,18 @@ Several financial institutions and trading firms utilize [World Bank](../w/world
 ### Citadel LLC
 
 **Citadel LLC** is a global financial institution that leverages data, including [World Bank](../w/world_bank.md) Indicators, to inform its [trading strategies](../t/trading_strategies.md). By integrating macroeconomic data into their algorithms, Citadel can anticipate [market](../m/market.md) trends and optimize [trading performance](../t/trading_performance.md).
-[Citadel LLC](https://www.citadel.com/)
 
 ### BlackRock
 
 **BlackRock**, the world’s largest [asset](../a/asset.md) manager, integrates [economic indicators](../e/economic_indicators.md) into its investment models. By analyzing global economic data, BlackRock can make informed decisions on [asset allocation](../a/asset_allocation.md) and [portfolio management](../p/portfolio_management.md).
-[BlackRock](https://www.blackrock.com/)
 
 ### Renaissance Technologies
 
 **Renaissance Technologies** is a renowned [hedge fund](../h/hedge_fund.md) that employs [quantitative analysis](../q/quantitative_analysis.md) and incorporates various data sources, including [World Bank](../w/world_bank.md) Indicators, to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
-[Renaissance Technologies](https://www.rentec.com/)
 
 ### AQR Capital Management
 
 **AQR [Capital](../c/capital.md) Management** uses a data-driven approach in its [trading strategies](../t/trading_strategies.md). By analyzing [economic indicators](../e/economic_indicators.md), AQR can develop [predictive models](../p/predictive_models_in_trading.md) to enhance their [trading algorithms](../t/trading_algorithms.md).
-[AQR Capital Management](https://www.aqr.com/)
 
 ## Challenges and Limitations
 

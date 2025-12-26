@@ -13,7 +13,7 @@ The primary use of VTAs is in securing or maintaining corporate control. Shareho
 
 ### Mergers and Acquisitions
 
-During mergers and acquisitions, VTAs can simplify the process by centralizing voting power. This ensures that necessary decisions related to the M&A process are made efficiently and in accordance with the [merger](../m/merger.md) agreement. 
+During mergers and acquisitions, VTAs can simplify the process by centralizing voting power. This ensures that necessary decisions related to the M&A process are made efficiently and in accordance with the [merger](../m/merger.md) agreement.
 
 ### Investor Assurance
 
@@ -78,6 +78,6 @@ Establishing and maintaining a VTA involves considerable legal and administrativ
 
 ## Conclusion
 
-[Voting Trust](../v/voting_trust.md) Agreements are powerful instruments in [corporate governance](../c/corporate_governance.md), providing mechanisms for stability, unified decision-making, and protection against hostile takeovers. They are particularly useful in scenarios involving complex mergers and acquisitions, [investor](../i/investor.md) assurances, and strategic [corporate governance](../c/corporate_governance.md). However, the complexity of their establishment and potential misalignment of interests must be managed carefully. As with any legal instrument, detailed agreements and adherence to fiduciary standards are critical to their successful implementation and maintenance. 
+[Voting Trust](../v/voting_trust.md) Agreements are powerful instruments in [corporate governance](../c/corporate_governance.md), providing mechanisms for stability, unified decision-making, and protection against hostile takeovers. They are particularly useful in scenarios involving complex mergers and acquisitions, [investor](../i/investor.md) assurances, and strategic [corporate governance](../c/corporate_governance.md). However, the complexity of their establishment and potential misalignment of interests must be managed carefully. As with any legal instrument, detailed agreements and adherence to fiduciary standards are critical to their successful implementation and maintenance.
 
-For those interested in further exploring VTAs, companies like [SEC](https://www.sec.gov) provide detailed regulatory information and case studies that [offer](../o/offer.md) deeper insights into their practical applications and implications.
+For those interested in further exploring VTAs, companies like SEC provide detailed regulatory information and case studies that [offer](../o/offer.md) deeper insights into their practical applications and implications.

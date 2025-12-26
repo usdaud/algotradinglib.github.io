@@ -51,9 +51,9 @@ Despite the deregulatory [trend](../t/trend.md), regulators have taken steps to 
 
 Several firms and institutions have been at the center of algotrading and the discourse on deregulation:
 
-- **Virtu Financial ([virtuwho](https://www.virtu.com))**: A leading [firm](../f/firm.md) in high-frequency trading, Virtu Financial has been pivotal in shaping the algotrading landscape.
-- **Jane Street ([janestreet](https://www.janestreet.com))**: Known for its [quantitative trading](../q/quantitative_trading.md) models, Jane Street is a major player in algotrading, operating within various [asset](../a/asset.md) classes globally.
-- **Goldman Sachs ([goldmansachs](https://www.goldmansachs.com))**: An [investment banking](../i/investment_banking.md) giant, Goldman Sachs has employed sophisticated [trading algorithms](../t/trading_algorithms.md) and maintained a significant presence in the global [financial markets](../f/financial_market.md).
+- **Virtu Financial (virtuwho)**: A leading [firm](../f/firm.md) in high-frequency trading, Virtu Financial has been pivotal in shaping the algotrading landscape.
+- **Jane Street (janestreet)**: Known for its [quantitative trading](../q/quantitative_trading.md) models, Jane Street is a major player in algotrading, operating within various [asset](../a/asset.md) classes globally.
+- **Goldman Sachs (goldmansachs)**: An [investment banking](../i/investment_banking.md) giant, Goldman Sachs has employed sophisticated [trading algorithms](../t/trading_algorithms.md) and maintained a significant presence in the global [financial markets](../f/financial_market.md).
 
 ## Conclusions
 

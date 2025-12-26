@@ -63,7 +63,7 @@ Brokers can connect borrowers with private investors or lending firms specializi
 ### Specialized Lending Firms
 Some firms specialize exclusively in [hard money](../h/hard_money.md) lending. These companies provide a large portion of the [capital](../c/capital.md) in the hard [loan](../l/loan.md) [market](../m/market.md).
 
-For example, you can look into [LendingHome](https://www.lendinghome.com) and [Patch of Land](https://www.patchofland.com), both of which are significant players in the hard [loan](../l/loan.md) [industry](../i/industry.md).
+For example, you can look into LendingHome and Patch of Land, both of which are significant players in the hard [loan](../l/loan.md) [industry](../i/industry.md).
 
 ## Legal and Regulatory Aspects
 
@@ -83,4 +83,4 @@ In case of [default](../d/default.md), lenders must follow specific legal proces
 
 Hard loans are a viable [financing](../f/financing.md) option for specific scenarios, particularly in [real estate](../r/real_estate.md) investment and situations requiring quick access to funds. While they come with high costs and risks, their flexibility and speed make them an attractive option for borrowers who need immediate [capital](../c/capital.md) and can manage the inherent risks and higher [interest](../i/interest.md) rates associated with this type of [loan](../l/loan.md).
 
-For more detailed information, you can visit companies specializing in hard loans such as [LendingOne](https://www.lendingone.com) and [RCN Capital](https://www.rcncapital.com).
+For more detailed information, you can visit companies specializing in hard loans such as LendingOne and RCN Capital.

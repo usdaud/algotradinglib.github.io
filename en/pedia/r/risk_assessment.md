@@ -70,7 +70,7 @@ Identifying and managing risks proactively helps protect an entity's assets from
 
 ### Risk Assessment in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of automated systems to execute trades based on predefined rules and algorithms. [Risk](../r/risk.md) assessment in this context is crucial for the following reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of automated systems to execute trades based on predefined rules and algorithms. [Risk](../r/risk.md) assessment in this context is crucial for the following reasons:
 
 #### Model Risk
 
@@ -82,7 +82,7 @@ Identifying and managing risks proactively helps protect an entity's assets from
 
 #### Market Impact
 
-[Algorithmic trading](../a/accountability.md) can inadvertently cause high [market](../m/market.md) impact, leading to adverse price movements. Strategies such as minimizing [order](../o/order.md) sizes and spreading trades over time can reduce this [risk](../r/risk.md).
+[Algorithmic trading](../a/algorithmic_trading.md) can inadvertently cause high [market](../m/market.md) impact, leading to adverse price movements. Strategies such as minimizing [order](../o/order.md) sizes and spreading trades over time can reduce this [risk](../r/risk.md).
 
 ### Emerging Technologies in Risk Assessment
 
@@ -102,7 +102,7 @@ AI and [machine learning](../m/machine_learning.md) can analyze vast datasets to
 
 ### Case Study: JPMorgan Chase & Co.
 
-JPMorgan Chase & Co. is a leading global financial services [firm](../f/firm.md) that demonstrates the comprehensive application of [risk](../r/risk.md) assessment. The [firm](../f/firm.md) employs advanced [quantitative models](../q/quantitative_models.md), AI, and [machine learning](../m/machine_learning.md) to manage [market](../m/market.md), [credit](../c/credit.md), and operational risks. More information on their [risk management](../r/risk_management.md) practices can be found on [JPMorgan's official website](https://www.jpmorganchase.com/).
+JPMorgan Chase & Co. is a leading global financial services [firm](../f/firm.md) that demonstrates the comprehensive application of [risk](../r/risk.md) assessment. The [firm](../f/firm.md) employs advanced [quantitative models](../q/quantitative_models.md), AI, and [machine learning](../m/machine_learning.md) to manage [market](../m/market.md), [credit](../c/credit.md), and operational risks. More information on their [risk management](../r/risk_management.md) practices can be found on JPMorgan's
 
 ### Conclusion
 

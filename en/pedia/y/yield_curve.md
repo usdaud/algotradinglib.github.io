@@ -45,13 +45,13 @@ In [derivative](../d/derivative.md) markets, [yield](../y/yield.md) curves play 
 
 ## Major Market Players
 
-### Bloomberg [Bloomberg Website](https://www.bloomberg.com)
+###
 [Bloomberg](../b/bloomberg.md) offers real-time [yield](../y/yield.md) curve data which is critical for traders and financial analysts. Their [Bloomberg](../b/bloomberg.md) Terminal provides advanced analytical tools to model and predict changes in [yield](../y/yield.md) curves.
 
-### CME Group [CME Group Website](https://www.cmegroup.com)
+###
 CME Group is a global markets company that provides [yield](../y/yield.md) curve-related [futures](../f/futures.md) and [options](../o/options.md). They [offer](../o/offer.md) products based on various government bonds which traders can use to [hedge](../h/hedge.md) or speculate on changes in the [yield](../y/yield.md) curve.
 
-### Federal Reserve [Federal Reserve Website](https://www.federalreserve.gov)
+###
 The Federal Reserve's [interest rate](../i/interest_rate.md) policies heavily influence the [yield](../y/yield.md) curve. They provide data and reports that include crucial information on the [yield](../y/yield.md) curve and its implications for [monetary policy](../m/monetary_policy.md).
 
 ## Conclusion

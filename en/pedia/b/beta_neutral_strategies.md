@@ -67,17 +67,17 @@ Understanding [market microstructure](../m/market_microstructure.md)—the intri
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management is renowned for its systematic, research-driven approaches, which include [beta](../b/beta.md) [neutral](../n/neutral.md) strategies. They [leverage](../l/leverage.md) [quantitative models](../q/quantitative_models.md) to balance long and short positions, aiming for [market](../m/market.md)-[neutral](../n/neutral.md) performance.
-Visit: [AQR Capital Management](https://www.aqr.com/)
+Visit: AQR Capital Management
 
 ### Two Sigma Investments
 
 Two Sigma Investments utilizes [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to implement [beta](../b/beta.md)-[neutral](../n/neutral.md), [market](../m/market.md)-[neutral](../n/neutral.md) strategies. They focus on statistical [arbitrage](../a/arbitrage.md) among other [quantitative strategies](../q/quantitative_strategies_in_trading.md).
-Visit: [Two Sigma Investments](https://www.twosigma.com/)
+Visit: Two Sigma Investments
 
 ### Renaissance Technologies
 
 Renaissance Technologies is known for its Medallion [Fund](../f/fund.md), which employs complex [mathematical models](../m/mathematical_models_in_trading.md) to execute a variety of [market](../m/market.md)-[neutral](../n/neutral.md) strategies, including [beta](../b/beta.md) [neutral](../n/neutral.md) approaches.
-Visit: [Renaissance Technologies](http://www.rentec.com/)
+Visit: Renaissance Technologies
 
 ## Technological and Regulatory Aspects
 
@@ -93,4 +93,4 @@ The role of advanced [algorithmic trading](../a/algorithmic_trading.md) systems 
 
 [Beta](../b/beta.md) [Neutral](../n/neutral.md) Strategies [offer](../o/offer.md) a sophisticated approach to achieving [market](../m/market.md)-independent returns. By focusing on constructing portfolios with no systemic [market risk](../m/market_risk.md), these strategies emphasize skill in stock selection and trading [efficiency](../e/efficiency.md). However, like all [trading strategies](../t/trading_strategies.md), they come with inherent risks and complexities, necessitating meticulous planning, [robust](../r/robust.md) [quantitative models](../q/quantitative_models.md), and continuous monitoring and adjustment.
 
-Investors must understand the [underlying](../u/underlying.md) principles, adequately manage risks, and employ cutting-edge technology to navigate the intricacies of [beta](../b/beta.md)-[neutral](../n/neutral.md) approaches successfully. As [financial markets](../f/financial_market.md) evolve, so too [will](../w/will.md) the methodologies and tools used to implement these strategies, promising a continually dynamic landscape for [beta](../b/beta.md)-[neutral](../n/neutral.md) [investing](../i/investing.md).
+Investors must understand the [underlying](../u/underlying.md) principles, adequately manage risks, and employ cutting-edge technology to navigate the intricacies of [beta](../b/beta.md)-[neutral](../n/neutral.md) approaches successfully. As [financial markets](../f/financial_market.md) evolve, so too [will](../w/will.md) the methodologies and tools used to implement these strategies, promising a continually dynamic landscape for [beta](../b/beta.md)-[neutral](../n/neutral.md) [investing](../i/investing.md).

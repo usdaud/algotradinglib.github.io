@@ -64,9 +64,9 @@ Seasonal adjustments using the X-11 method are vital for a wide [range](../r/ran
 - **Demetra**: A tool developed by Eurostat for seasonal adjustment using various methods including X-12-ARIMA and X-13.
 
 For more details on their implementations:
-- SAS: [SAS Seasonal Adjustment](https://www.sas.com/en_us/software/stat.html)
-- EViews: [EViews](https://www.eviews.com/)
-- Eurostat Demetra: [Demetra+](https://ec.europa.eu/eurostat/cros/content/software_en)
+- SAS: SAS Seasonal Adjustment
+- EViews: EViews
+- Eurostat Demetra: Demetra+
 
 ### Conclusion
 

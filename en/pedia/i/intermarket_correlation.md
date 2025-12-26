@@ -35,7 +35,7 @@ where $X_i$ and $Y_i$ are the data points, and $\mu_X$ and $\mu_Y$ are the means
 
 ### Spearman Rank Correlation
 Spearman's rank [correlation coefficient](../c/correlation_coefficient.md) (ρ) assesses the monotonic relationship between two variables. It is useful when the data is not normally distributed or contains outliers. The formula is:
-$$\[rho](../r/rho.md) = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}$$
+$$\rho = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}$$
 where $d_i$ is the difference between the ranks of corresponding values, and $n$ is the number of observations.
 
 ### Kendall Tau Correlation
@@ -62,14 +62,14 @@ By analyzing intermarket correlations, traders can anticipate potential risks an
 [Hedge](../h/hedge.md) funds frequently analyze intermarket correlations as part of their [market](../m/market.md) models to make informed decisions on [asset allocation](../a/asset_allocation.md) and [hedging strategies](../h/hedging_strategies.md). For instance, a [fund](../f/fund.md) may evaluate the [correlation](../c/correlation.md) between [interest](../i/interest.md) rates and [equity](../e/equity.md) prices to adjust its [leverage](../l/leverage.md) and exposure accordingly.
 
 Notable [hedge](../h/hedge.md) funds that utilize [intermarket analysis](../i/intermarket_analysis.md) include:
-- **Bridgewater Associates:** Known for its all-weather portfolio strategy that diversifies across various [asset](../a/asset.md) classes to balance [risk](../r/risk.md) and [return](../r/return.md). [Bridgewater Associates](https://www.bridgewater.com/)
-- **Man Group:** Utilizes [quantitative models](../q/quantitative_models.md) to analyze [market](../m/market.md) correlations and develop [systematic trading](../s/systematic_trading.md) strategies. [Man Group](https://www.man.com/)
+- **Bridgewater Associates:** Known for its all-weather portfolio strategy that diversifies across various [asset](../a/asset.md) classes to balance [risk](../r/risk.md) and [return](../r/return.md). Bridgewater Associates
+- **Man Group:** Utilizes [quantitative models](../q/quantitative_models.md) to analyze [market](../m/market.md) correlations and develop [systematic trading](../s/systematic_trading.md) strategies. Man Group
 
 ### Trading Platforms and Software
 Many trading platforms and software vendors provide tools for [correlation analysis](../c/correlation_analysis.md):
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Offers extensive tools for analyzing intermarket correlations, including [correlation](../c/correlation.md) matrices and scatter plots for visualizing relationships between assets.
-- **[QuantConnect](../q/quantconnect.md):** A platform for [algorithmic trading](../a/algorithmic_trading.md) that enables users to backtest strategies using historical data, including [correlation analysis](../c/correlation_analysis.md) to refine [trading models](../t/trading_models.md). [QuantConnect](https://www.quantconnect.com/)
-- **MetaTrader:** Popular among retail traders, offers various plugins and scripts for performing [correlation analysis](../c/correlation_analysis.md) and integrating it into automated [trading strategies](../t/trading_strategies.md). [MetaTrader](https://www.metatrader5.com/)
+- **[QuantConnect](../q/quantconnect.md):** A platform for [algorithmic trading](../a/algorithmic_trading.md) that enables users to backtest strategies using historical data, including [correlation analysis](../c/correlation_analysis.md) to refine [trading models](../t/trading_models.md). QuantConnect
+- **MetaTrader:** Popular among retail traders, offers various plugins and scripts for performing [correlation analysis](../c/correlation_analysis.md) and integrating it into automated [trading strategies](../t/trading_strategies.md). MetaTrader
 
 ### Research and Academia
 Academic research often explores intermarket correlations to understand [market dynamics](../m/market_dynamics.md) and develop new financial theories. Studies may focus on the impact of economic news, policy changes, or global events on intermarket relationships.

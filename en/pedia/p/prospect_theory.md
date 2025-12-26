@@ -12,10 +12,10 @@ The [value](../v/value.md) function is central to Prospect Theory and it describ
 - **Diminishing Sensitivity**: The [value](../v/value.md) function is concave for gains and convex for losses. This means that the marginal [value](../v/value.md) of gains decreases with size, and similarly, the marginal disutility of losses decreases with size.
 
 Mathematically, the [value](../v/value.md) function \(v\) can be represented as:
-\[ v(x) = \begin{cases} 
-    (x - \[lambda](../l/lambda.md))^\[alpha](../a/alpha.md) & \text{if } x \geq \[lambda](../l/lambda.md) \\
-    -\[kappa](../k/kappa.md) (\[lambda](../l/lambda.md) - x)^\[beta](../b/beta.md) & \text{if } x < \[lambda](../l/lambda.md) 
-  \end{cases}
+\[ v(x) = \begin{cases}
+ (x - \[lambda](../l/lambda.md))^\[alpha](../a/alpha.md) & \text{if } x \geq \[lambda](../l/lambda.md) \\
+ -\[kappa](../k/kappa.md) (\[lambda](../l/lambda.md) - x)^\[beta](../b/beta.md) & \text{if } x < \[lambda](../l/lambda.md)
+ \end{cases}
 \]
 Where:
 - \(x\) is the outcome.
@@ -68,7 +68,7 @@ Prospect Theory explains why people purchase [insurance](../i/insurance.md) and 
 
 ## Implications for Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on models that predict [market](../m/market.md) movements and make trading decisions. Understanding Prospect Theory allows developers to:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on models that predict [market](../m/market.md) movements and make trading decisions. Understanding Prospect Theory allows developers to:
 
 - Incorporate human decision-making biases into algorithms, improving prediction models.
 - Design algorithms that exploit [behavioral biases](../b/behavioral_biases_in_trading.md) in the [market](../m/market.md) (e.g., exploiting the [disposition](../d/disposition.md) effect).
@@ -76,10 +76,10 @@ Prospect Theory explains why people purchase [insurance](../i/insurance.md) and 
 
 ## Conclusion
 
-Prospect Theory provides a more realistic framework for understanding decision-making under [risk](../r/risk.md) than traditional rational models. Its insights into how people actually perceive gains, losses, and probabilities make it invaluable in fields like trading and [finance](../f/finance.md). By integrating these behavioral insights, financial professionals and algorithm developers can create better strategies, mitigate [risk](../r/risk.md), and ultimately improve financial outcomes. 
+Prospect Theory provides a more realistic framework for understanding decision-making under [risk](../r/risk.md) than traditional rational models. Its insights into how people actually perceive gains, losses, and probabilities make it invaluable in fields like trading and [finance](../f/finance.md). By integrating these behavioral insights, financial professionals and algorithm developers can create better strategies, mitigate [risk](../r/risk.md), and ultimately improve financial outcomes.
 
 For further reading and a comprehensive dive into this theory, you may refer to the following resources:
 
-- [Daniel Kahneman's Nobel Prize Lecture](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/)
-- [Kahneman's book "Thinking, Fast and Slow"](http://danielkahneman.com/books/thinking-fast-and-slow/)
-- [Amos Tversky's article in JSTOR](https://www.jstor.org/stable/10.1086/260367)
+- Daniel Kahneman's Nobel Prize Lecture
+- Kahneman's book "Thinking, Fast and Slow"
+- Amos Tversky's article in JSTOR

@@ -64,7 +64,7 @@ In the contemporary [business](../b/business.md) landscape, companies [offering]
 
 The rise of Financial Technology (FinTech) companies has introduced new dynamics to the question of usury. Platforms like [peer-to-peer lending](../p/peer-to-peer_lending.md) and digital banks aim to [offer](../o/offer.md) more transparent and competitive [interest](../i/interest.md) rates. However, the [risk](../r/risk.md) of innovation in lending also introduces new challenges, such as ensuring that these platforms do not perpetuate or even exacerbate usurious practices.
 
-For instance, platforms like LendingClub [visit LendingClub](https://www.lendingclub.com) and Funding Circle [visit Funding Circle](https://www.fundingcircle.com) aim to [offer](../o/offer.md) more favorable [loan](../l/loan.md) terms by leveraging technology, thereby reducing costs and potentially [offering](../o/offering.md) lower [interest](../i/interest.md) rates.
+For instance, platforms like LendingClub visit LendingClub and Funding Circle visit Funding Circle aim to [offer](../o/offer.md) more favorable [loan](../l/loan.md) terms by leveraging technology, thereby reducing costs and potentially [offering](../o/offering.md) lower [interest](../i/interest.md) rates.
 
 ## Usury in the Global Context
 

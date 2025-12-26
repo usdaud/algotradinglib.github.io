@@ -70,15 +70,15 @@ There is a growing [demand](../d/demand.md) for [transparency](../t/transparency
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a pioneering company in the field of quantitative and [algorithmic trading](../a/accountability.md). Founded by James Simons, Renaissance Technologies manages the Medallion [Fund](../f/fund.md), which is known for its high returns and sophisticated [trading algorithms](../t/trading_algorithms.md). More information can be found on their [official website](https://www.rentec.com/).
+Renaissance Technologies is a pioneering company in the field of quantitative and [algorithmic trading](../a/accountability.md). Founded by James Simons, Renaissance Technologies manages the Medallion [Fund](../f/fund.md), which is known for its high returns and sophisticated [trading algorithms](../t/trading_algorithms.md).
 
 ### BlackRock
 
-BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, [offering](../o/offering.md) a [range](../r/range.md) of investment funds, including those managed by algorithms. BlackRock's Aladdin platform leverages AI and ML to enhance investment decision-making and [risk management](../r/risk_management.md). More information can be found on their [official website](https://www.blackrock.com/).
+BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, [offering](../o/offering.md) a [range](../r/range.md) of investment funds, including those managed by algorithms. BlackRock's Aladdin platform leverages AI and ML to enhance investment decision-making and [risk management](../r/risk_management.md).
 
 ### Two Sigma
 
-Two Sigma is a quantitative investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to manage investments. The [firm](../f/firm.md) employs a large number of data scientists and engineers to develop [trading algorithms](../t/trading_algorithms.md) and strategies. More information can be found on their [official website](https://www.twosigma.com/).
+Two Sigma is a quantitative investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to manage investments. The [firm](../f/firm.md) employs a large number of data scientists and engineers to develop [trading algorithms](../t/trading_algorithms.md) and strategies.
 
 ## Conclusion
 

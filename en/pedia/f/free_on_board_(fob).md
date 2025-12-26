@@ -85,7 +85,7 @@ Modern [supply chain](../s/supply_chain.md) management software can help manage 
 
 ## Case Study: Maersk
 
-Maersk, a leading global shipping company, has implemented solutions leveraging [blockchain](../b/blockchain_in_trading.md) to enhance [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [trade](../t/trade.md) operations, including transactions under FOB terms. More information can be found on their official website: [Maersk](https://www.maersk.com/).
+Maersk, a leading global shipping company, has implemented solutions leveraging [blockchain](../b/blockchain_in_trading.md) to enhance [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [trade](../t/trade.md) operations, including transactions under FOB terms.
 
 ## Conclusion
 

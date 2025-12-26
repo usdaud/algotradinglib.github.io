@@ -1,4 +1,4 @@
-# Yield Gap Analysis 
+# Yield Gap Analysis
 
 [Yield](../y/yield.md) [gap analysis](../g/gap_analysis.md) is a crucial concept in both agriculture and investment fields. For the purpose of understanding the term within the investment and [algorithmic trading](../a/algorithmic_trading.md) context, we [will](../w/will.md) delve into the intricacies of [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md) as it pertains to the [financial sector](../f/financial_sector.md). It involves the comparative study of yields from different types of securities to analyze the [income](../i/income.md) potential versus the risks involved. This type of analysis is instrumental in guiding investment decisions, particularly in the realms of [bond](../b/bond.md) and [equity](../e/equity.md) markets.
 
@@ -11,7 +11,7 @@ In practical terms, if a [government bond](../g/government_bond.md) offers a 2% 
 The analysis helps investors to:
 
 1. **Assess [Risk](../r/risk.md) and [Return](../r/return.md):** By understanding the [yield](../y/yield.md) gap, investors can better gauge the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md). A wider [yield](../y/yield.md) gap typically indicates higher [risk](../r/risk.md) and higher potential [return](../r/return.md), while a narrower gap suggests lower [risk](../r/risk.md) and lower [return](../r/return.md).
-  
+
 2. **Identify [Market Sentiment](../m/market_sentiment.md):** A [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md) can give insights into [market sentiment](../m/market_sentiment.md) and the economic condition. For example, a narrowing [yield](../y/yield.md) gap may indicate increasing confidence in the [economy](../e/economy.md), while a widening gap might signal caution or fear.
 
 3. **[Portfolio Diversification](../p/portfolio_diversification.md):** Helps in creating a diversified portfolio. Investors can balance their [holdings](../h/holdings.md) between high-[yield](../y/yield.md), high-[risk](../r/risk.md) investments and low-[yield](../y/yield.md), low-[risk](../r/risk.md) securities to optimize their returns.
@@ -84,7 +84,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), [yield](../y
 
 **Example: J.P. Morgan's Algo [Trading Desk](../t/trading_desk.md)**
 
-J.P. Morgan is a leading financial institution that employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies involving [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md). Their algorithms can rapidly execute trading decisions based on real-time [yield](../y/yield.md) gap data, enhancing profitability and managing [risk](../r/risk.md). More information can be found on their [website](https://www.jpmorgan.com/).
+J.P. Morgan is a leading financial institution that employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies involving [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md). Their algorithms can rapidly execute trading decisions based on real-time [yield](../y/yield.md) gap data, enhancing profitability and managing [risk](../r/risk.md).
 
 ### Macroeconomic Policy
 
@@ -142,9 +142,9 @@ Finbox is a financial data platform that offers a [range](../r/range.md) of tool
 
 MATLAB’s Financial Toolbox provides advanced functions for [yield curve](../y/yield_curve.md) modeling, [bond](../b/bond.md) pricing, and [risk management](../r/risk_management.md), making it an excellent tool for conducting [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md).
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables developers to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It supports [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md) by providing access to a [wealth](../w/wealth.md) of financial data and modeling tools.
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables developers to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It supports [yield](../y/yield.md) [gap analysis](../g/gap_analysis.md) by providing access to a [wealth](../w/wealth.md) of financial data and modeling tools.
 
 ## Conclusion
 

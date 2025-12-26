@@ -6,7 +6,7 @@ The Great [Recession](../r/recession.md) was a severe global economic downturn t
 
 ### Housing Bubble
 
-The roots of the Great [Recession](../r/recession.md) can be traced back to the early 2000s [housing bubble](../h/housing_bubble.md) in the United States. Housing prices surged dramatically due to speculative investments, easy [credit](../c/credit.md) conditions, and lax lending standards. The Federal Reserve had lowered [interest](../i/interest.md) rates after the dot-com bubble burst in 2000 and the attacks on September 11, 2001, making borrowing cheap and encouraging investment in housing. 
+The roots of the Great [Recession](../r/recession.md) can be traced back to the early 2000s [housing bubble](../h/housing_bubble.md) in the United States. Housing prices surged dramatically due to speculative investments, easy [credit](../c/credit.md) conditions, and lax lending standards. The Federal Reserve had lowered [interest](../i/interest.md) rates after the dot-com bubble burst in 2000 and the attacks on September 11, 2001, making borrowing cheap and encouraging investment in housing.
 
 ### Subprime Mortgage Crisis
 

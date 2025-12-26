@@ -8,7 +8,7 @@ A licensing agreement is a formal, legally binding contract between two parties,
 This section clarifies the specific terms used in the agreement, ensuring that both parties have a mutual understanding of key concepts. Definitions may include the [scope](../s/scope.md) of the intellectual property, the [duration](../d/duration.md) of the license, and the geographic territories covered.
 
 ### 2. Grant of Rights
-This clause outlines the specific rights granted to the [licensee](../l/licensee.md). These rights can be exclusive, non-exclusive, or sole. 
+This clause outlines the specific rights granted to the [licensee](../l/licensee.md). These rights can be exclusive, non-exclusive, or sole.
 
 - **Exclusive License**: Only the [licensee](../l/licensee.md) has the right to use the IP, even excluding the licensor.
 - **Non-exclusive License**: The licensor can [grant](../g/grant.md) the same rights to other licensees.
@@ -66,7 +66,7 @@ In the pharmaceutical [industry](../i/industry.md), a small biotech [firm](../f/
 Brands such as Nike often enter into licensing agreements allowing manufacturers to produce goods bearing their logos and trademarks, extending their brand reach without the necessity of [manufacturing](../m/manufacturing.md) all products [in-house](../i/in-house.md).
 
 **Example:**
-IBM Licensing Information: [IBM Licensing](https://www.ibm.com/annualreport/)
+IBM Licensing Information: IBM Licensing
 
 ## Legal and Financial Considerations
 

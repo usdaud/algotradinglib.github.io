@@ -10,11 +10,11 @@
 
 ## Major Sources of Federal Income
 1. **Individual [Income Tax](../i/income_tax.md)**: [Taxes](../t/taxes.md) paid by individuals based on their [earnings](../e/earnings.md), including wages, salaries, investments, and other [income](../i/income.md).
-   - **[Progressive Tax](../p/progressive_tax.md)**: The U.S. federal [income tax](../i/income_tax.md) system is progressive, meaning higher [income](../i/income.md) earners pay a higher percentage in [taxes](../t/taxes.md).
+ - **[Progressive Tax](../p/progressive_tax.md)**: The U.S. federal [income tax](../i/income_tax.md) system is progressive, meaning higher [income](../i/income.md) earners pay a higher percentage in [taxes](../t/taxes.md).
 2. **Corporate [Income Tax](../i/income_tax.md)**: [Taxes](../t/taxes.md) on the profits of corporations. The rate and regulations can vary and often include deductions and credits to promote [business](../b/business.md) investment.
 3. **[Payroll](../p/payroll.md) [Taxes](../t/taxes.md)**: [Taxes](../t/taxes.md) collected from employees and employers to [fund](../f/fund.md) [social security](../s/social_security.md), Medicare, and [unemployment](../u/unemployment.md) [insurance](../i/insurance.md).
-   - **[Social Security](../s/social_security.md) Tax**: A [payroll tax](../p/payroll_tax.md) that funds the [Social Security](../s/social_security.md) program, providing benefits for retirees, the disabled, and survivors.
-   - **Medicare Tax**: A [payroll tax](../p/payroll_tax.md) that funds Medicare, the federal [health insurance](../h/health_insurance.md) program for people aged 65 and older and certain younger people with disabilities.
+ - **[Social Security](../s/social_security.md) Tax**: A [payroll tax](../p/payroll_tax.md) that funds the [Social Security](../s/social_security.md) program, providing benefits for retirees, the disabled, and survivors.
+ - **Medicare Tax**: A [payroll tax](../p/payroll_tax.md) that funds Medicare, the federal [health insurance](../h/health_insurance.md) program for people aged 65 and older and certain younger people with disabilities.
 4. **Excise [Taxes](../t/taxes.md)**: [Taxes](../t/taxes.md) on specific goods and services, such as gasoline, tobacco, and alcohol. These are often included in the price of the product.
 5. **Tariffs and Customs Duties**: [Taxes](../t/taxes.md) on imports and exports that provide [revenue](../r/revenue.md) and protect domestic industries.
 6. **Other Revenues**: Includes fees for government services, [earnings](../e/earnings.md) from federal reserve [holdings](../h/holdings.md), and other miscellaneous sources.
@@ -38,4 +38,3 @@
 
 ## Conclusion
 Federal [income](../i/income.md) is a critical component of a nation's economic structure, providing the necessary funds for government operations and public services. It is primarily derived from [taxes](../t/taxes.md) on individuals and businesses, with additional [revenue](../r/revenue.md) from excise [taxes](../t/taxes.md), tariffs, and other sources. Effective management of federal [income](../i/income.md) is essential for economic stability, equitable [wealth](../w/wealth.md) [distribution](../d/distribution.md), and the [provision](../p/provision.md) of essential services to the public.
-

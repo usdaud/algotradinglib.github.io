@@ -50,9 +50,9 @@ In practical implementation, [utility](../u/utility.md) [optimization](../o/opti
 
 ### Case Studies
 
-1. **Jane Street**: A prominent [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) (https://www.janestreet.com/), Jane Street employs sophisticated algorithms that utilize [utility](../u/utility.md) [optimization](../o/optimization.md) principles to manage [risk](../r/risk.md) and maximize returns across various [asset](../a/asset.md) classes.
+1. **Jane Street**: A prominent [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) ( Jane Street employs sophisticated algorithms that utilize [utility](../u/utility.md) [optimization](../o/optimization.md) principles to manage [risk](../r/risk.md) and maximize returns across various [asset](../a/asset.md) classes.
 
-2. **Two Sigma**: This quantitative investment [firm](../f/firm.md) (https://www.twosigma.com/) leverages large datasets and advanced statistical models to develop [trading strategies](../t/trading_strategies.md) that optimize [utility](../u/utility.md) while managing exposure to [market risk](../m/market_risk.md).
+2. **Two Sigma**: This quantitative investment [firm](../f/firm.md) ( leverages large datasets and advanced statistical models to develop [trading strategies](../t/trading_strategies.md) that optimize [utility](../u/utility.md) while managing exposure to [market risk](../m/market_risk.md).
 
 ### Conclusion
 

@@ -60,19 +60,19 @@ Consider a [trader](../t/trader.md) who buys a [straddle](../s/straddle.md) at-t
 
 ### Market Movement
 
-1. **Stock Price Increases to $105:** 
-    - The long [call option](../c/call_option.md)'s [delta](../d/delta.md) increases to 0.6.
-    - The long [put option](../p/put.md)'s [delta](../d/delta.md) decreases to -0.4.
-    - Combined [delta](../d/delta.md) = 0.6 - 0.4 = 0.2 (long [delta](../d/delta.md) position)
+1. **Stock Price Increases to $105:**
+ - The long [call option](../c/call_option.md)'s [delta](../d/delta.md) increases to 0.6.
+ - The long [put option](../p/put.md)'s [delta](../d/delta.md) decreases to -0.4.
+ - Combined [delta](../d/delta.md) = 0.6 - 0.4 = 0.2 (long [delta](../d/delta.md) position)
 
-    To [delta](../d/delta.md)-[hedge](../h/hedge.md), the [trader](../t/trader.md) sells 20 [shares](../s/shares.md) of the [underlying](../u/underlying.md) stock to bring the position back to [delta](../d/delta.md)-[neutral](../n/neutral.md).
+ To [delta](../d/delta.md)-[hedge](../h/hedge.md), the [trader](../t/trader.md) sells 20 [shares](../s/shares.md) of the [underlying](../u/underlying.md) stock to bring the position back to [delta](../d/delta.md)-[neutral](../n/neutral.md).
 
 2. **Stock Price Decreases to $95:**
-    - The long [call option](../c/call_option.md)'s [delta](../d/delta.md) decreases to 0.4.
-    - The long [put option](../p/put.md)'s [delta](../d/delta.md) increases to -0.6.
-    - Combined [delta](../d/delta.md) = 0.4 - 0.6 = -0.2 (short [delta](../d/delta.md) position)
+ - The long [call option](../c/call_option.md)'s [delta](../d/delta.md) decreases to 0.4.
+ - The long [put option](../p/put.md)'s [delta](../d/delta.md) increases to -0.6.
+ - Combined [delta](../d/delta.md) = 0.4 - 0.6 = -0.2 (short [delta](../d/delta.md) position)
 
-    To [delta](../d/delta.md)-[hedge](../h/hedge.md), the [trader](../t/trader.md) buys 20 [shares](../s/shares.md) of the [underlying](../u/underlying.md) stock to bring the position back to [delta](../d/delta.md)-[neutral](../n/neutral.md).
+ To [delta](../d/delta.md)-[hedge](../h/hedge.md), the [trader](../t/trader.md) buys 20 [shares](../s/shares.md) of the [underlying](../u/underlying.md) stock to bring the position back to [delta](../d/delta.md)-[neutral](../n/neutral.md).
 
 ### Profit Realization
 
@@ -83,24 +83,24 @@ The profits from these adjustments come from selling high and buying low, effect
 Various tools and platforms facilitate [gamma](../g/gamma.md) [scalping](../s/scalping.md) strategies by providing the necessary analytics and [execution](../e/execution.md) capabilities. Notable platforms include:
 
 1. **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):**
-    - Offers [robust](../r/robust.md) [options](../o/options.md) analytics including [Greeks](../g/greeks.md) and [volatility analysis](../v/volatility_analysis.md).
-    - [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+ - Offers [robust](../r/robust.md) [options](../o/options.md) analytics including [Greeks](../g/greeks.md) and [volatility analysis](../v/volatility_analysis.md).
+ - ThinkOrSwim
 
 2. **OptionVue:**
-    - Provides advanced [options](../o/options.md) software for [risk management](../r/risk_management.md) and strategy analysis.
-    - [OptionVue](https://www.optionvue.com/)
+ - Provides advanced [options](../o/options.md) software for [risk management](../r/risk_management.md) and strategy analysis.
+ - OptionVue
 
 3. **[LiveVol](../l/livevol.md) by Cboe Global Markets:**
-    - Delivers advanced [options](../o/options.md) trading and analysis tools, including [greeks](../g/greeks.md) monitoring.
-    - [LiveVol](https://marketdata.cboe.com/livevol-portal/)
+ - Delivers advanced [options](../o/options.md) trading and analysis tools, including [greeks](../g/greeks.md) monitoring.
+ - LiveVol
 
 4. **[Interactive Brokers](../i/interactive_brokers.md):**
-    - Offers comprehensive tools for [options](../o/options.md) traders, including real-time [risk](../r/risk.md) evaluations.
-    - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Offers comprehensive tools for [options](../o/options.md) traders, including real-time [risk](../r/risk.md) evaluations.
+ - Interactive Brokers
 
 5. **[Bloomberg](../b/bloomberg.md) Terminal:**
-    - Provides a wide array of tools for professional traders, including [options](../o/options.md) pricing models and [greeks](../g/greeks.md) calculators.
-    - [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ - Provides a wide array of tools for professional traders, including [options](../o/options.md) pricing models and [greeks](../g/greeks.md) calculators.
+ - Bloomberg Professional Services
 
 ## Conclusion
 

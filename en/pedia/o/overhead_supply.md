@@ -41,10 +41,10 @@ Understanding overhead [supply](../s/supply.md) is crucial for [risk management]
 ## Real-World Examples
 
 ### Tesla, Inc. (NASDAQ: TSLA)
-Tesla, Inc. has experienced significant [volatility](../v/volatility.md) and overhead [supply](../s/supply.md) at various points due to its high profile and speculative nature. When TSLA stock approaches previous highs, the overhead [supply](../s/supply.md) from bearish investors looking to sell can create noticeable resistance. [Tesla](https://www.tesla.com/)
+Tesla, Inc. has experienced significant [volatility](../v/volatility.md) and overhead [supply](../s/supply.md) at various points due to its high profile and speculative nature. When TSLA stock approaches previous highs, the overhead [supply](../s/supply.md) from bearish investors looking to sell can create noticeable resistance. Tesla
 
 ### Amazon.com, Inc. (NASDAQ: AMZN)
-Amazon.com has faced overhead [supply](../s/supply.md) during periods of rapid price appreciation. Investors who bought [shares](../s/shares.md) during previous peaks often sell when the stock revisits those levels, establishing resistance. [Amazon](https://www.amazon.com/)
+Amazon.com has faced overhead [supply](../s/supply.md) during periods of rapid price appreciation. Investors who bought [shares](../s/shares.md) during previous peaks often sell when the stock revisits those levels, establishing resistance. Amazon
 
 ## Strategies for Dealing with Overhead Supply
 

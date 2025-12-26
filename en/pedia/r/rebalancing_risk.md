@@ -63,10 +63,10 @@ Instead of making large adjustments, smaller and more frequent [rebalancing](../
 ### Portfolio Rebalancing Tools and Platforms
 
 - **Wealthfront** offers automated [rebalancing](../r/rebalancing.md) as part of its robo-advisory services, aiming to ensure portfolios remain aligned with clients’ [risk tolerance](../r/risk_tolerance.md) levels.
-  - [Wealthfront](https://www.wealthfront.com/)
-  
+ - Wealthfront
+
 - **Betterment** provides algorithm-driven [rebalancing](../r/rebalancing.md) to maintain optimal portfolio allocation.
-  - [Betterment](https://www.betterment.com/)
+ - Betterment
 
 ### High-Frequency Trading (HFT)
 

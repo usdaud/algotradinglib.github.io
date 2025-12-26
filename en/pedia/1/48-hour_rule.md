@@ -34,7 +34,7 @@ Clearinghouses play a crucial role in ensuring adherence to the 48-Hour Rule. Th
 
 Modern trading and settlement rely heavily on electronic systems and technology. Automated systems and platforms like the [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC) streamline the settlement process, ensuring that trades are executed and settled within the specified time frame. These systems provide real-time monitoring and tracking of trades, reducing errors and enhancing [efficiency](../e/efficiency.md).
 
-[Depository Trust & Clearing Corporation (DTCC)](https://www.dtcc.com/)
+Depository Trust & Clearing Corporation (DTCC)
 
 ## Implications for Market Participants
 

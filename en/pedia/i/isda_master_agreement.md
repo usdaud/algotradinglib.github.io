@@ -10,7 +10,7 @@ Given the complex nature of [derivatives](../d/derivatives.md) and the significa
 
 ### Schedule
 
-The ISDA Master Agreement consists of a pre-printed form and a [negotiable](../n/negotiable.md) schedule. The pre-printed form includes general terms and conditions, while the schedule allows parties to customize certain aspects of their relationship. 
+The ISDA Master Agreement consists of a pre-printed form and a [negotiable](../n/negotiable.md) schedule. The pre-printed form includes general terms and conditions, while the schedule allows parties to customize certain aspects of their relationship.
 
 ### Confirmations
 
@@ -96,4 +96,4 @@ Regulatory requirements have led to the adoption of various [risk](../r/risk.md)
 
 The ISDA Master Agreement is a cornerstone of the global [derivatives](../d/derivatives.md) markets, providing a standardized, flexible, and legally [robust](../r/robust.md) framework for managing the complexities and risks associated with [derivative](../d/derivative.md) transactions. Its widespread adoption across various [market](../m/market.md) participants and jurisdictions underscores its importance and effectiveness in fostering a stable and efficient [financial system](../f/financial_system.md).
 
-For more detailed information, you can visit the official ISDA website: [here](http://www.isda.org).
+For more detailed information,

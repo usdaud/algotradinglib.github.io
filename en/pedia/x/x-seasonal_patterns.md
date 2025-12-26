@@ -11,7 +11,7 @@ Seasonal patterns occur due to a variety of reasons including [economic cycles](
 ### 1. Daily Patterns
 
 - **Opening and Closing Trends**: Certain [stocks](../s/stock.md) or [market](../m/market.md) indices exhibit predictable behavior at [market](../m/market.md) [open](../o/open.md) and close. For instance, the first and the last hours of trading (known as the "[Opening Bell](../o/opening_bell.md)" and "Closing Bell") can be particularly volatile or [liquid](../l/liquid.md).
-  
+
 - **Time of Day Effect**: Some assets may show specific trends at particular times of the day. This could be due to institutional trading, [market](../m/market.md) news releases, or global financial events.
 
 ### 2. Weekly Patterns
@@ -23,7 +23,7 @@ Seasonal patterns occur due to a variety of reasons including [economic cycles](
 ### 3. Monthly Patterns
 
 - **Turn of the Month Effect**: This pattern indicates that stock prices tend to rise around the first day of the month. Investors might adjust their portfolios at the beginning of each month, leading to buying activity.
-  
+
 - **[Earnings](../e/earnings.md) Season**: [Quarterly earnings reports](../q/quarterly_earnings_reports.md) significantly impact stock prices. Companies generally follow a quarterly reporting cycle and traders can predict heightened [volatility](../v/volatility.md) and opportunity around these periods.
 
 ### 4. Annual Patterns
@@ -37,14 +37,14 @@ Seasonal patterns occur due to a variety of reasons including [economic cycles](
 ### 5. Event-Driven Patterns
 
 - **Elections**: Political events like elections can create seasonal patterns. [Market sentiment](../m/market_sentiment.md) and [volatility](../v/volatility.md) are influenced by policy expectations and outcomes.
-  
+
 - **Product Launch and Corporate Actions**: Product launches, mergers, acquisitions, and other corporate actions can result in identifiable seasonal patterns.
 
 ## Building Algorithmic Strategies using X-Seasonal Patterns
 
 Constructing [algorithmic trading](../a/algorithmic_trading.md) strategies based on these patterns involves a systematic approach:
 
-### 1. Data Collection 
+### 1. Data Collection
 
 Historical price data is the foundation for recognizing seasonal patterns. Traders use data from various time periods and assets to identify recurring trends.
 
@@ -69,13 +69,13 @@ Once the strategy is backtested and refined, it can be implemented using [algori
 ### Advantages
 
 - **Predictability**: Seasonal patterns provide a level of predictability that can be leveraged to enhance [trading strategy](../t/trading_strategy.md) effectiveness.
-  
+
 - **Enhanced Returns**: Recognizing and acting on these patterns can significantly improve trading returns.
 
 ### Challenges
 
 - **[Market](../m/market.md) Changes**: Markets evolve, and what was once a reliable pattern may no longer [hold](../h/hold.md) true due to changes in [market](../m/market.md) structure, regulations, or behaviors.
-  
+
 - **[Overfitting](../o/overfitting.md)**: The danger of [overfitting](../o/overfitting.md) models to historical data can lead to poor performance in live trading.
 
 - **Data Quality**: Reliable and clean historical data is essential for identifying true patterns. Data artifacts or errors can mislead analysis.
@@ -93,7 +93,7 @@ Software like R, Python's Pandas and NumPy libraries, and dedicated [financial a
 ### 3. Trading Platforms
 
 - **MetaTrader**: A popular platform for [algorithmic trading](../a/algorithmic_trading.md) that provides [robust](../r/robust.md) tools for [backtesting](../b/backtesting.md) and live trading.
-  
+
 - **[NinjaTrader](../n/ninjatrader.md)**: Another well-known [trading platform](../t/trading_platform.md) that supports advanced algorithms and strategy development.
 
 ### 4. Research Papers and Journals
@@ -106,6 +106,6 @@ X-Seasonal Patterns [offer](../o/offer.md) a [wealth](../w/wealth.md) of opportu
 
 References:
 
-- [MetaTrader](https://www.metatrader4.com/)
-- [NinjaTrader](https://ninjatrader.com/)
-- [Quandl](https://www.quandl.com/)
+- MetaTrader
+- NinjaTrader
+- Quandl

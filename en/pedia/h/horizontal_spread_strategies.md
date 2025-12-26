@@ -133,7 +133,7 @@ Here, the [trader](../t/trader.md) expects a significant downward movement in Te
 [Horizontal spread](../h/horizontal_spread.md) strategies [offer](../o/offer.md) traders a way to [capitalize](../c/capitalize.md) on [time decay](../t/time_decay.md) and [volatility](../v/volatility.md) discrepancies between [options](../o/options.md) with the same [strike price](../s/strike_price.md) but different expiration dates. While these strategies can be complex, they provide a flexible and potentially profitable approach for those who understand the intricacies of [options](../o/options.md) trading. Leveraging algorithmic systems can further enhance the [efficiency](../e/efficiency.md) of executing these strategies, making them viable for both individual traders and institutional investors.
 
 For further professional reading and tools for implementation, professionals may refer to:
-- [Option Strategies Insider](https://optionstrategiesinsider.com/)
-- [Cboe Global Markets](https://www.cboe.com/)
+- Option Strategies Insider
+- Cboe Global Markets
 
 By employing a well-calibrated approach and advanced algorithmic systems, traders can effectively manage risks and enhance returns using [horizontal spread](../h/horizontal_spread.md) strategies. The blend of theoretical knowledge and practical [execution](../e/execution.md) is key to mastering these sophisticated trading techniques.

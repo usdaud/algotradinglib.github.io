@@ -21,7 +21,7 @@ Being underwater affects different stakeholders in various ways:
 ## Financial Instruments and Underwater Conditions
 
 ### Equities
-Equities, or stock investments, are one of the most common instruments where the concept of being underwater is frequently observed. Stock prices are subject to [market](../m/market.md) forces, including company performance, macroeconomic conditions, and [investor](../i/investor.md) sentiment. 
+Equities, or stock investments, are one of the most common instruments where the concept of being underwater is frequently observed. Stock prices are subject to [market](../m/market.md) forces, including company performance, macroeconomic conditions, and [investor](../i/investor.md) sentiment.
 
 ### Real Estate
 [Real estate](../r/real_estate.md) investments can also become underwater, especially after financial crises or [market](../m/market.md) corrections. When the [value](../v/value.md) of a property drops below the outstanding balance on the [mortgage](../m/mortgage.md), homeowners face [negative equity](../n/negative_equity.md). This scenario was widely observed during the 2008 [financial crisis](../f/financial_crisis.md).
@@ -64,4 +64,4 @@ Hedging techniques, such as using [options](../o/options.md) contracts to [offse
 
 Understanding the concept of being underwater is fundamental for anyone involved in [financial markets](../f/financial_market.md). By recognizing the implications and employing appropriate strategies, investors and traders can better navigate through periods of adverse [market](../m/market.md) conditions and aim for more informed and strategic financial decision-making.
 
-For further reading and resources, consider visiting [Investopedia](https://www.investopedia.com), a comprehensive resource for financial terms, concepts, and strategies.
+For further reading and resources, consider visiting Investopedia, a comprehensive resource for financial terms, concepts, and strategies.

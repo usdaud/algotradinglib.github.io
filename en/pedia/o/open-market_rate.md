@@ -2,6 +2,8 @@
 
 The term "[Open](../o/open.md)-[Market](../m/market.md) Rate" refers to the [interest rate](../i/interest_rate.md) that is determined by the interaction of [supply](../s/supply.md) and [demand](../d/demand.md) in the [open market](../o/open_market.md). In the context of [financial markets](../f/financial_market.md), this rate serves as a [benchmark](../b/benchmark.md) for various borrowing and lending activities conducted between financial institutions, corporations, and investors. Unlike [interest](../i/interest.md) rates that are set administratively by central banks, the [open](../o/open.md)-[market](../m/market.md) rate is established through competitive bidding in [financial markets](../f/financial_market.md), such as the [money market](../m/money_market.md) or [bond market](../b/bond_market.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Definitions and Context
 
 The [open](../o/open.md)-[market](../m/market.md) rate is a crucial element in financial systems, impacting everything from [bank](../b/bank.md) loans to mortgages. It reflects the cost of borrowing and the [return](../r/return.md) on savings and investments. This rate is inherently variable, influenced by macroeconomic conditions, [investor](../i/investor.md) sentiment, and other [market dynamics](../m/market_dynamics.md).
@@ -72,6 +74,6 @@ The outbreak of COVID-19 in 2020 led to unprecedented disruptions in global [fin
 
 In summary, the [open](../o/open.md)-[market](../m/market.md) rate is a fundamental and dynamic element of the [financial system](../f/financial_system.md). It serves as a barometer of [economic conditions](../e/economic_conditions.md) and a crucial tool for [monetary policy](../m/monetary_policy.md) implementation. Understanding the factors that influence this rate and its implications across different markets is essential for financial professionals, investors, and policymakers alike. The [open](../o/open.md)-[market](../m/market.md) rate not only affects borrowing and lending activities but also shapes economic outcomes by influencing investment decisions and consumer behavior.
 
-For a deeper understanding and further resources, financial professionals can visit authoritative sites such as the Federal Reserve's official page on [monetary policy](../m/monetary_policy.md) and [open market operations](../o/open_market_operations.md) ([Federal Reserve](https://www.federalreserve.gov/monetarypolicy/openmarket.htm)).
+For a deeper understanding and further resources, financial professionals can./m/monetary_policy.md) and [open market operations](../o/open_market_operations.md) (Federal Reserve).
 
 In closing, the [open](../o/open.md)-[market](../m/market.md) rate exemplifies the intricate interplay between [market](../m/market.md) forces and policy measures, underscoring its significance in the global financial landscape.

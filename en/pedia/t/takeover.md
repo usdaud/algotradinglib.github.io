@@ -93,13 +93,13 @@ Diversifying through takeovers can reduce [business risk](../b/business_risk.md)
 
 ## Notable Examples of Takeovers
 
-- **Disney's [Acquisition](../a/acquisition.md) of 21st Century Fox (2019)**: This $71.3 billion deal allowed Disney to acquire notable assets, including TV shows, movies, and a stake in streaming services, positioning Disney as a major player in content creation. [Disney's website](https://www.thewaltdisneycompany.com)
-  
-- **Microsoft's [Acquisition](../a/acquisition.md) of LinkedIn (2016)**: Microsoft acquired LinkedIn for $26.2 billion in an all-cash [transaction](../t/transaction.md) to enhance its professional network capabilities and integrate LinkedIn with Microsoft Office products. [Microsoft's website](https://www.microsoft.com)
+- **Disney's [Acquisition](../a/acquisition.md) of 21st Century Fox (2019)**: This $71.3 billion deal allowed Disney to acquire notable assets, including TV shows, movies, and a stake in streaming services, positioning Disney as a major player in content creation. Disney's online platform
 
-- **Amazon's [Acquisition](../a/acquisition.md) of Whole Foods (2017)**: Amazon purchased the [premium](../p/premium.md) grocery chain for $13.7 billion to expand its footprint in brick-and-mortar retail and enhance its grocery delivery services. [Amazon's website](https://www.amazon.com)
+- **Microsoft's [Acquisition](../a/acquisition.md) of LinkedIn (2016)**: Microsoft acquired LinkedIn for $26.2 billion in an all-cash [transaction](../t/transaction.md) to enhance its professional network capabilities and integrate LinkedIn with Microsoft Office products. Microsoft's online platform
 
-## Risks and Challenges 
+- **Amazon's [Acquisition](../a/acquisition.md) of Whole Foods (2017)**: Amazon purchased the [premium](../p/premium.md) grocery chain for $13.7 billion to expand its footprint in brick-and-mortar retail and enhance its grocery delivery services. Amazon's online platform
+
+## Risks and Challenges
 
 ### Cultural Integration
 

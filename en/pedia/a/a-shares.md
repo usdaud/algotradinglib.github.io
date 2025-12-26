@@ -9,7 +9,7 @@ A-[shares](../s/shares.md) represent a substantial portion of the Chinese [equit
 ### Key Characteristics
 
 1. **[Denomination](../d/denomination.md) and Accessibility**: A-[shares](../s/shares.md) are denominated in Chinese yuan. Originally, A-[shares](../s/shares.md) were available only to Chinese citizens and certain Chinese institutions. Foreign investors were largely excluded, except through specific qualified programs such as the Qualified Foreign [Institutional Investor](../i/institutional_investor.md) (QFII) and the Renminbi Qualified Foreign [Institutional Investor](../i/institutional_investor.md) (RQFII) programs.
-   
+
 2. **[Market Regulation](../m/market_regulation.md)**: The China Securities Regulatory [Commission](../c/commission.md) (CSRC) oversees the regulation of A-[shares](../s/shares.md), ensuring compliance with financial policies meant to protect investors and maintain [market](../m/market.md) stability.
 
 3. **[Index](../i/index_instrument.md) Inclusion**: Major global indices, like the MSCI Emerging Markets [Index](../i/index_instrument.md), have gradually started to include A-[shares](../s/shares.md), reflecting their growing importance in the global investment landscape.
@@ -81,7 +81,7 @@ Environmental, Social, and Governance (ESG) criteria are gaining traction global
 A-[shares](../s/shares.md) represent a vital component of the Chinese [equity market](../e/equity_market.md), [offering](../o/offering.md) unique opportunities and challenges for investors. With ongoing [market](../m/market.md) reforms, increased international accessibility, and China's pivotal role in the global [economy](../e/economy.md), A-[shares](../s/shares.md) are likely to remain a focal point for both domestic and international investors seeking growth, [diversification](../d/diversification.md), and exposure to one of the world's most dynamic markets. Proper [due diligence](../d/due_diligence.md), awareness of associated risks, and a keen understanding of the [market dynamics](../m/market_dynamics.md) [will](../w/will.md) be essential for investors navigating the A-[shares](../s/shares.md) landscape.
 
 For more detailed information on companies and brokerage firms facilitating A-[shares](../s/shares.md), interested individuals can visit:
-- [CICC](https://www.cicc.com)
-- [CITIC Securities](https://www.citics.com)
-- [Haitong Securities](http://www.htsec.com)
-- [MSCI](https://www.msci.com)
+- CICC
+- CITIC Securities
+- Haitong Securities
+- MSCI

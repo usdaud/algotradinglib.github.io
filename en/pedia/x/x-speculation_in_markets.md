@@ -35,13 +35,13 @@ Statistical [arbitrage](../a/arbitrage.md) involves the use of [quantitative mod
 
 ## Prominent Firms Engaged in X-Speculation
 ### Renaissance Technologies
-Renaissance Technologies is one of the most famous [hedge](../h/hedge.md) funds known for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), managed by Jim Simons, has delivered extraordinary returns through highly complex and secretive algorithms [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies is one of the most famous [hedge](../h/hedge.md) funds known for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), managed by Jim Simons, has delivered extraordinary returns through highly complex and secretive algorithms Renaissance Technologies.
 
 ### Citadel LLC
-Citadel LLC, founded by Ken Griffin, is a global financial institution that engages in a variety of speculative [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is a leader in [quantitative trading](../q/quantitative_trading.md) and [hedge fund](../h/hedge_fund.md) management [Citadel LLC](https://www.citadel.com/).
+Citadel LLC, founded by Ken Griffin, is a global financial institution that engages in a variety of speculative [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is a leader in [quantitative trading](../q/quantitative_trading.md) and [hedge fund](../h/hedge_fund.md) management Citadel LLC.
 
 ### Two Sigma
-Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), advanced [statistics](../s/statistics.md), and technology-driven approaches to execute its [trading strategies](../t/trading_strategies.md). It is a front-runner in the utilization of [machine learning](../m/machine_learning.md) for [financial markets](../f/financial_market.md) [Two Sigma](https://www.twosigma.com/).
+Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), advanced [statistics](../s/statistics.md), and technology-driven approaches to execute its [trading strategies](../t/trading_strategies.md). It is a front-runner in the utilization of [machine learning](../m/machine_learning.md) for [financial markets](../f/financial_market.md) Two Sigma.
 
 ## The Role of Risk Management in X-Speculation
 ### VaR and CVaR
@@ -75,4 +75,3 @@ The future of X-[Speculation](../s/speculation.md) is likely to be increasingly 
 
 ## Conclusion
 X-[Speculation](../s/speculation.md) represents the pinnacle of [risk](../r/risk.md) and reward in the [financial markets](../f/financial_market.md). While it offers the potential for high returns, it also comes with significant risks that require advanced [risk management](../r/risk_management.md) and ethical considerations. Technology continues to evolve, and with it, the strategies and tools available for X-[Speculation](../s/speculation.md), shaping the future of [financial markets](../f/financial_market.md).
-

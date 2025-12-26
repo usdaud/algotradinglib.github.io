@@ -6,8 +6,6 @@ Coineal is a global cryptocurrency [exchange](../e/exchange.md) that offers a pl
 
 Coineal aims to create a sophisticated [trading environment](../t/trading_environment.md) by providing state-of-the-art [infrastructure](../i/infrastructure.md) and a wide [range](../r/range.md) of digital assets. It supports various cryptocurrencies including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), and numerous altcoins. The platform is designed to cater to both novice and experienced traders with diverse needs.
 
-**Website:** [Coineal](https://www.coineal.com) 
-
 ## Key Features
 
 ### High Security

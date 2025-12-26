@@ -78,13 +78,13 @@ Benchmarking against competitors or [industry](../i/industry.md) standards helps
 
 ### Profitability Ratios:
 1. **[Operating Margin](../o/operating_margin.md)**: This is calculated as [operating income](../o/operating_income.md) (EBIT) divided by operating [revenue](../r/revenue.md), reflecting the [efficiency](../e/efficiency.md) of core operations.
-   \[
-   \text{[Operating Margin](../o/operating_margin.md)} = \frac{\text{[Operating Income](../o/operating_income.md)}}{\text{Operating [Revenue](../r/revenue.md)}}
-   \]
+ \[
+ \text{[Operating Margin](../o/operating_margin.md)} = \frac{\text{[Operating Income](../o/operating_income.md)}}{\text{Operating [Revenue](../r/revenue.md)}}
+ \]
 2. **[Gross Margin](../g/gross_margin.md)**: This is the [gross profit](../g/gross_profit.md) divided by operating [revenue](../r/revenue.md), showing the cost [efficiency](../e/efficiency.md) in producing goods or services.
-   \[
-   \text{[Gross Margin](../g/gross_margin.md)} = \frac{\text{[Gross Profit](../g/gross_profit.md)}}{\text{Operating [Revenue](../r/revenue.md)}}
-   \]
+ \[
+ \text{[Gross Margin](../g/gross_margin.md)} = \frac{\text{[Gross Profit](../g/gross_profit.md)}}{\text{Operating [Revenue](../r/revenue.md)}}
+ \]
 
 ## Key Considerations in Operating Revenue
 1. **[Accounting Policies](../a/accounting_policies.md)**: Different [revenue recognition](../r/revenue_recognition.md) criteria can affect reported figures. For instance, companies might recognize [revenue](../r/revenue.md) upon delivery of goods/services or upon receipt of [payment](../p/payment.md).
@@ -114,6 +114,6 @@ By analyzing these breakdowns, stakeholders can discern which segments are drivi
 ## Conclusion
 Operating [revenue](../r/revenue.md) is the lifeblood of any [business](../b/business.md), illuminating the success of primary [business activities](../b/business_activities.md). Its analysis provides critical insights for growth, [operational efficiency](../o/operational_efficiency_in_trading.md), and strategic decision-making. By focusing on core [revenue](../r/revenue.md) streams, stakeholders can better understand the company's performance and potential.
 
-For further reading and understanding the [financial performance](../f/financial_performance.md) based on detailed operating [revenue](../r/revenue.md) structures, one can visit the official financial reports of companies like Alphabet Inc. [Alphabet Inc. financials](https://abc.xyz/investor/).
+For further reading and understanding the [financial performance](../f/financial_performance.md) based on detailed operating [revenue](../r/revenue.md) structures, one can visit the official financial reports of companies like Alphabet Inc. Alphabet Inc. financials.
 
 By refining the knowledge of operating [revenue](../r/revenue.md), stakeholders can make informed decisions that foster sustainable [business](../b/business.md) growth and profitability.

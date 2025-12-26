@@ -66,7 +66,7 @@ Lagging indicators can be instrumental in setting realistic stop-loss and take-[
 While lagging indicators are incredibly useful, they are not without their drawbacks:
 
 1. **Delayed Signals**: Their primary limitation is the inherent delay in signal generation. By the time a [lagging indicator](../l/lagging_indicator.md) signals a [trend](../t/trend.md), a significant portion of the movement might already have occurred.
-  
+
 2. **Inapplicability in Sideways Markets**: In non-trending, [range](../r/range.md)-bound markets, lagging indicators can generate misleading signals, as these tools are designed to perform best in trending conditions.
 
 3. **Dependency on Historical Data**: Since lagging indicators are based on past price movements, their effectiveness is limited by the nature and behavior of historical data.
@@ -77,8 +77,8 @@ Lagging indicators, despite their inherent delays, play a crucial role in [techn
 
 For further reading and detailed explanations of specific lagging indicators, you can visit the official pages of some of the leading companies in financial [market](../m/market.md) analytics and trading technology:
 
-- [MetaTrader](https://www.metatrader4.com/)
-- [TradeStation](https://www.tradestation.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- MetaTrader
+- TradeStation
+- NinjaTrader
 
 By integrating lagging indicators into their [trading strategies](../t/trading_strategies.md), traders can achieve a balanced approach that leverages the strengths of both leading and lagging indicators.

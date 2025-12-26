@@ -10,7 +10,7 @@ The foundation of the ASE traces back to the early 1970s when the Amman Financia
 
 The ASE operates under a strict regulatory framework set by the Jordan Securities [Commission](../c/commission.md) (JSC). The JSC ensures that trading on the ASE is conducted in a fair, transparent, and orderly manner. It also oversees the licensing and regulation of [market](../m/market.md) participants, including brokerage firms, [listed](../l/listed.md) companies, and other financial institutions.
 
-- **Sources:** [Amman Stock Exchange Overview](http://www.exchange.jo/en/overview)
+- **Sources:** Amman Stock Exchange Overview
 
 ## Market Structure
 
@@ -33,12 +33,12 @@ The ASE uses an Automated Trading System (ATS) to facilitate efficient and secur
 
 - **[Order](../o/order.md) Matching:** Orders are matched based on price-time priority, ensuring fair and transparent [trade](../t/trade.md) executions.
 - **Trading Sessions:** The ASE operates in predefined trading sessions:
-  - **Pre-Opening Session:** Where orders can be entered, modified, and canceled without matching.
-  - **Opening Session:** The system matches orders and determines the [opening price](../o/opening_price.md) of securities.
-  - **Continuous [Trading Session](../t/trading_session.md):** Orders are matched continuously based on the best available prices.
-  - **Closing Session:** The final trades of the day are executed, and closing prices are determined.
-  
-- **Source:** [ASE Trading Mechanisms](http://www.exchange.jo/en/trading-mechanism)
+ - **Pre-Opening Session:** Where orders can be entered, modified, and canceled without matching.
+ - **Opening Session:** The system matches orders and determines the [opening price](../o/opening_price.md) of securities.
+ - **Continuous [Trading Session](../t/trading_session.md):** Orders are matched continuously based on the best available prices.
+ - **Closing Session:** The final trades of the day are executed, and closing prices are determined.
+
+- **Source:** ASE Trading Mechanisms
 
 ## Listing Requirements
 
@@ -66,7 +66,7 @@ The ASE maintains several indices to measure [market](../m/market.md) performanc
 
 The ASE has invested significantly in technology to ensure [robust](../r/robust.md) and efficient [market](../m/market.md) operations. This includes adopting electronic trading platforms, real-time data dissemination systems, and integrating cybersecurity measures to protect [market](../m/market.md) integrity.
 
-- **Source:** [ASE Technology and Innovation](http://www.exchange.jo/en/technology-and-innovation)
+- **Source:** ASE Technology and Innovation
 
 ## Market Participants
 
@@ -76,7 +76,7 @@ The ASE has invested significantly in technology to ensure [robust](../r/robust.
 
 Brokerage firms play a crucial role in facilitating trades, [offering](../o/offering.md) various services like [order](../o/order.md) [execution](../e/execution.md), research, and financial advisory.
 
-- **List of Licensed Brokers:** [ASE Licensed Brokers](http://www.exchange.jo/en/authorized-brokers)
+- **List of Licensed Brokers:** ASE Licensed Brokers
 
 ### Listed Companies
 
@@ -90,8 +90,8 @@ The performance of the ASE reflects the [economic conditions](../e/economic_cond
 
 - **[Market Capitalization](../m/market_capitalization.md):** As of recent reports, the ASE [market capitalization](../m/market_capitalization.md) stands at approximately 16 billion Jordanian Dinars.
 - **Trading [Volume](../v/volume.md):** The average daily trading [volume](../v/volume.md) is around 7 million [shares](../s/shares.md).
-  
-- **Source:** [ASE Market Performance](http://www.exchange.jo/en/market-performance)
+
+- **Source:** ASE Market Performance
 
 ## International Relations
 
@@ -113,4 +113,3 @@ The ASE is continually evolving, with future prospects focused on enhancing [mar
 
 The Amman Stock [Exchange](../e/exchange.md) (ASE) is a cornerstone of Jordan's financial landscape, providing a dynamic and transparent platform for trading securities. With a strong regulatory framework, advanced technology, and a commitment to [market](../m/market.md) integrity, the ASE continues to attract local and international investors, contributing to the growth and stability of Jordan's [economy](../e/economy.md).
 
-For more information, visit the [Amman Stock Exchange website](http://www.exchange.jo/en).

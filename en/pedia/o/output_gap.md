@@ -4,16 +4,16 @@ The output gap is a crucial economic metric that measures the difference between
 
 ## Definition of Output Gap
 
-The output gap is defined as the difference between the actual output of an [economy](../e/economy.md) (Gross Domestic Product or GDP) and the potential output. Potential output represents the highest level of economic activity an [economy](../e/economy.md) can sustain over the long term without triggering [inflation](../i/inflation.md). It considers factors such as technology, labor force, and [capital](../c/capital.md). 
+The output gap is defined as the difference between the actual output of an [economy](../e/economy.md) (Gross Domestic Product or GDP) and the potential output. Potential output represents the highest level of economic activity an [economy](../e/economy.md) can sustain over the long term without triggering [inflation](../i/inflation.md). It considers factors such as technology, labor force, and [capital](../c/capital.md).
 
 In mathematical terms:
 
 \[ \text{Output Gap} = \frac{(\text{Actual Output} - \text{Potential Output})}{\text{Potential Output}} \times 100 \]
 
-The output gap can be positive or negative. 
+The output gap can be positive or negative.
 
 - **Positive Output Gap**: This occurs when actual output exceeds potential output, indicating that the [economy](../e/economy.md) is operating above its sustainable capacity. This situation often leads to inflationary pressures as [demand](../d/demand.md) outstrips [supply](../s/supply.md).
-  
+
 - **Negative Output Gap**: This takes place when actual output is below potential output, suggesting underutilization of resources and indicating economic slack. A negative output gap is often associated with higher [unemployment](../u/unemployment.md) and can lead to deflationary pressures.
 
 ## Calculation Methods of Output Gap

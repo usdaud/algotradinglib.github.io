@@ -62,11 +62,11 @@ There are several ways to obtain disability [insurance](../i/insurance.md):
 
 ## Top Companies Offering Disability Insurance
 
-- **Northwestern Mutual:** Offers a [range](../r/range.md) of [options](../o/options.md) for both short-term and long-term disability [insurance](../i/insurance.md). [Northwestern Mutual](https://www.northwesternmutual.com)
-- **Guardian Life:** Known for customizable policies that can be tailored to meet individual needs. [Guardian Life](https://www.guardianlife.com)
-- **MassMutual:** Offers disability [income](../i/income.md) [insurance](../i/insurance.md) plans that cater to different occupations and [income](../i/income.md) levels. [MassMutual](https://www.massmutual.com)
-- **[Principal](../p/principal.md):** Provides flexible disability [insurance](../i/insurance.md) solutions with various benefit periods and coverage amounts. [Principal](https://www.principal.com)
-- **The Standard:** Specializes in both group and individual disability [insurance](../i/insurance.md) plans. [The Standard](https://www.standard.com)
+- **Northwestern Mutual:** Offers a [range](../r/range.md) of [options](../o/options.md) for both short-term and long-term disability [insurance](../i/insurance.md). Northwestern Mutual
+- **Guardian Life:** Known for customizable policies that can be tailored to meet individual needs. Guardian Life
+- **MassMutual:** Offers disability [income](../i/income.md) [insurance](../i/insurance.md) plans that cater to different occupations and [income](../i/income.md) levels. MassMutual
+- **[Principal](../p/principal.md):** Provides flexible disability [insurance](../i/insurance.md) solutions with various benefit periods and coverage amounts. Principal
+- **The Standard:** Specializes in both group and individual disability [insurance](../i/insurance.md) plans. The Standard
 
 ## Conclusion
 

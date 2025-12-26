@@ -24,15 +24,15 @@ The percentages required for the corridor are as follows:
 
 | Age of Insured | Corridor Percentage |
 |:--------------:|:-------------------:|
-| Up to 40       | 250%                |
-| 41 - 45        | 215%                |
-| 46 - 50        | 185%                |
-| 51 - 55        | 150%                |
-| 56 - 60        | 130%                |
-| 61 - 65        | 120%                |
-| 66 - 70        | 115%                |
-| 71 - 75        | 105%                |
-| 76 - 90        | 105%                |
+| Up to 40 | 250% |
+| 41 - 45 | 215% |
+| 46 - 50 | 185% |
+| 51 - 55 | 150% |
+| 56 - 60 | 130% |
+| 61 - 65 | 120% |
+| 66 - 70 | 115% |
+| 71 - 75 | 105% |
+| 76 - 90 | 105% |
 
 For insured individuals above age 90, the corridor percentage remains 105%.
 

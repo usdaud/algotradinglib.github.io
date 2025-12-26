@@ -73,9 +73,9 @@ Experienced traders might incorporate naked [options](../o/options.md) into broa
 
 Various trading platforms provide tools and functionalities for trading naked [options](../o/options.md):
 
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A popular platform with [robust](../r/robust.md) tools for [options](../o/options.md) trading. For more information, visit [TD Ameritrade](https://www.tdameritrade.com).
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers comprehensive [options](../o/options.md) trading solutions, including [risk management](../r/risk_management.md) tools. Details can be found on the [Interactive Brokers](https://www.interactivebrokers.com) site.
-- **eOption**: Known for their low-cost [options](../o/options.md) trading services, [offering](../o/offering.md) powerful tools for managing naked [options](../o/options.md). Learn more at [eOption](https://www.eoption.com).
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A popular platform with [robust](../r/robust.md) tools for [options](../o/options.md) trading. For more information, visit TD Ameritrade.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers comprehensive [options](../o/options.md) trading solutions, including [risk management](../r/risk_management.md) tools. Details can be found on the Interactive Brokers site.
+- **eOption**: Known for their low-cost [options](../o/options.md) trading services, [offering](../o/offering.md) powerful tools for managing naked [options](../o/options.md). Learn more at eOption.
 
 ## Risk Management Techniques
 
@@ -94,7 +94,7 @@ In the real world, writing naked [options](../o/options.md) is generally reserve
 
 ## Conclusion
 
-Naked [options](../o/options.md) represent a high-[risk](../r/risk.md), high-reward strategy in [financial markets](../f/financial_market.md). These [options](../o/options.md) can [offer](../o/offer.md) substantial [premium](../p/premium.md) [income](../i/income.md) but also expose the [writer](../w/writer.md) to significant, often unlimited, [risk](../r/risk.md). Therefore, they are generally reserved for experienced traders and institutional investors with a well-developed understanding of [options](../o/options.md) markets and [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md). 
+Naked [options](../o/options.md) represent a high-[risk](../r/risk.md), high-reward strategy in [financial markets](../f/financial_market.md). These [options](../o/options.md) can [offer](../o/offer.md) substantial [premium](../p/premium.md) [income](../i/income.md) but also expose the [writer](../w/writer.md) to significant, often unlimited, [risk](../r/risk.md). Therefore, they are generally reserved for experienced traders and institutional investors with a well-developed understanding of [options](../o/options.md) markets and [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md).
 
 For retail investors, it is essential to weigh the risks carefully and consider less risky alternatives, such as covered [options](../o/options.md), before diving into naked [options](../o/options.md) trading. Always consult with a [financial advisor](../f/financial_advisor.md) to understand how naked [options](../o/options.md) fit into your broader [investment strategy](../i/investment_strategy.md) and [risk tolerance](../r/risk_tolerance.md).
 

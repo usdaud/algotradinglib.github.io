@@ -22,7 +22,7 @@ RSS is a crucial metric in [regression analysis](../r/regression_analysis.md) fo
 1. **Model Fit Assessment**: A lower RSS indicates a better-fitting model as it suggests that the predicted values are closer to the actual observed values.
 2. **Model Comparison**: When comparing different models, the one with the lowest RSS is typically preferred because it has the least deviation from the actual data.
 3. **Parameter Estimation**: Minimizing RSS is a common method for parameter estimation in regression models, including Ordinary Least Squares (OLS) regression.
-   
+
 ## Ordinary Least Squares (OLS)
 
 In the context of OLS regression, the objective is to find the regression coefficients (\( \[beta](../b/beta.md) \)) that minimize the RSS:
@@ -41,11 +41,11 @@ By minimizing RSS, the OLS method seeks to find the best possible linear fit for
 Several model selection criteria use RSS as an integral component. Two widely recognized criteria are:
 
 - **Akaike Information Criterion (AIC)**:
-  \[ \text{AIC} = n \ln\left(\frac{\text{RSS}}{n}\right) + 2k \]
-  Where \( k \) is the number of parameters in the model.
-  
+ \[ \text{AIC} = n \ln\left(\frac{\text{RSS}}{n}\right) + 2k \]
+ Where \( k \) is the number of parameters in the model.
+
 - **Bayesian Information Criterion (BIC)**:
-  \[ \text{BIC} = n \ln\left(\frac{\text{RSS}}{n}\right) + k \ln(n) \]
+ \[ \text{BIC} = n \ln\left(\frac{\text{RSS}}{n}\right) + k \ln(n) \]
 
 Both AIC and BIC introduce a penalty term for the number of parameters, discouraging [overfitting](../o/overfitting.md).
 
@@ -65,7 +65,7 @@ In [machine learning](../m/machine_learning.md), especially for regression tasks
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), regression models are frequently used to predict prices and returns of financial instruments. Minimizing RSS helps in building precise prediction models, which are crucial for developing [trading strategies](../t/trading_strategies.md) and algorithms.
+In [algorithmic trading](../a/algorithmic_trading.md), regression models are frequently used to predict prices and returns of financial instruments. Minimizing RSS helps in building precise prediction models, which are crucial for developing [trading strategies](../t/trading_strategies.md) and algorithms.
 
 ## Example Calculation
 
@@ -73,11 +73,11 @@ To illustrate the calculation of RSS, consider a simple dataset:
 
 | Actual [Value](../v/value.md) (y) | Predicted [Value](../v/value.md) (\(\hat{y}\)) | Residual (\(y - \hat{y}\)) | Squared Residual ((\(y - \hat{y}\))^2) |
 |------------------|-------------------------------|----------------------------|-------------------------------------|
-| 10               | 12                            | -2                         | 4                                   |
-| 15               | 15                            | 0                          | 0                                   |
-| 25               | 20                            | 5                          | 25                                  |
-| 30               | 29                            | 1                          | 1                                   |
-| 50               | 45                            | 5                          | 25                                  |
+| 10 | 12 | -2 | 4 |
+| 15 | 15 | 0 | 0 |
+| 25 | 20 | 5 | 25 |
+| 30 | 29 | 1 | 1 |
+| 50 | 45 | 5 | 25 |
 
 Sum of Squared Residuals (RSS) = 4 + 0 + 25 + 1 + 25 = 55
 
@@ -91,4 +91,4 @@ In this example, RSS equals 55, indicating the total squared error between the a
 
 ## Conclusion
 
-The Residual [Sum of Squares](../s/sum_of_squares.md) is a foundational concept in [regression analysis](../r/regression_analysis.md), [offering](../o/offering.md) a straightforward yet powerful measure of model fit. Its applications span across various fields, from traditional statistical modeling to modern [machine learning](../m/machine_learning.md) and [algorithmic trading](../a/accountability.md), underscoring its importance in [quantitative analysis](../q/quantitative_analysis.md). By providing a tangible quantification of prediction errors, RSS remains an invaluable tool for analysts and researchers aiming to develop and refine [predictive models](../p/predictive_models_in_trading.md).
+The Residual [Sum of Squares](../s/sum_of_squares.md) is a foundational concept in [regression analysis](../r/regression_analysis.md), [offering](../o/offering.md) a straightforward yet powerful measure of model fit. Its applications span across various fields, from traditional statistical modeling to modern [machine learning](../m/machine_learning.md) and [algorithmic trading](../a/algorithmic_trading.md), underscoring its importance in [quantitative analysis](../q/quantitative_analysis.md). By providing a tangible quantification of prediction errors, RSS remains an invaluable tool for analysts and researchers aiming to develop and refine [predictive models](../p/predictive_models_in_trading.md).

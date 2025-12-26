@@ -76,8 +76,8 @@ By incorporating [realized volatility](../r/realized_volatility.md) data, trader
 
 Several financial institutions and fintech companies have embraced [realized volatility](../r/realized_volatility.md) models for their [trading algorithms](../t/trading_algorithms.md). For instance, Two Sigma and AQR [Capital](../c/capital.md) Management are known for their use of advanced [quantitative models](../q/quantitative_models.md), including [realized volatility](../r/realized_volatility.md) measures, in their [trading strategies](../t/trading_strategies.md).
 
-- [Two Sigma](https://www.twosigma.com/)
-- [AQR Capital Management](https://www.aqr.com/)
+- Two Sigma
+- AQR Capital Management
 
 ### Conclusion
 

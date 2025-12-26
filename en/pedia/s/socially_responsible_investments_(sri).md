@@ -4,7 +4,7 @@ Investors are increasingly seeking ways to ensure that their portfolios reflect 
 
 ## What is Socially Responsible Investing (SRI)?
 
-Socially Responsible [Investing](../i/investing.md) (SRI) is an investment style that integrates non-financial criteria into the investment process. These criteria often include Environmental, Social, and Governance (ESG) factors. The aim is to generate both financial returns and social good. 
+Socially Responsible [Investing](../i/investing.md) (SRI) is an investment style that integrates non-financial criteria into the investment process. These criteria often include Environmental, Social, and Governance (ESG) factors. The aim is to generate both financial returns and social good.
 
 Key components of SRI include:
 - **Environmental Impact**: Focusing on sustainability and eco-friendliness.
@@ -61,19 +61,19 @@ Several organizations lead the charge in promoting and facilitating SRI. Some of
 
 The Principles for Responsible Investment (PRI) is a UN-supported network of investors working to promote sustainable investment. The PRI offers six guiding principles that investors can adopt to integrate ESG factors into their investment practices.
 
-For more information, visit: [UN PRI](https://www.unpri.org/)
+For more information, visit: UN PRI
 
 ### US SIF (The Forum for Sustainable and Responsible Investment)
 
 The US SIF promotes sustainable, responsible, and [impact investing](../i/impact_investing.md) across all [asset](../a/asset.md) classes. They provide resources, research, and advocacy to help investors implement SRI strategies.
 
-For more information, visit: [US SIF](https://www.ussif.org/)
+For more information, visit: US SIF
 
 ### SASB (Sustainability Accounting Standards Board)
 
 SASB develops [industry](../i/industry.md)-specific standards for financially material sustainability information. These standards help investors understand the ESG risks and opportunities in their portfolios.
 
-For more information, visit: [SASB](https://www.sasb.org/)
+For more information, visit: SASB
 
 ## SRI Performance
 

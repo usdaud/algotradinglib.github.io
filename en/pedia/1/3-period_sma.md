@@ -44,32 +44,32 @@ One basic [algorithmic trading](../a/algorithmic_trading.md) strategy involves u
 Several platforms and [software tools](../s/software_tools_for_trading.md) allow for the calculation and use of SMAs, including the 3-Period SMA, making them accessible for both novice and expert traders. Popular platforms include:
 
 - **MetaTrader 4/5:** A leading platform for Forex, [Futures](../f/futures.md), and CFD markets. It's favored for its [robust](../r/robust.md) charting tools and ability to create custom indicators and automated [trading strategies](../t/trading_strategies.md) via MQL scripting.
-  - [MetaTrader](https://www.metatrader4.com/)
-  
+ - MetaTrader
+
 - **[NinjaTrader](../n/ninjatrader.md):** This software is renowned for [futures](../f/futures.md) and forex trading, [offering](../o/offering.md) advanced charting and [backtesting](../b/backtesting.md) tools.
-  - [NinjaTrader](https://ninjatrader.com/)
+ - NinjaTrader
 
 - **[TradingView](../t/tradingview.md):** A popular web-based platform known for its community-driven approach, extensive scripting capabilities in Pine Script, and ease of use.
-  - [TradingView](https://www.tradingview.com/)
+ - TradingView
 
 - **[QuantConnect](../q/quantconnect.md):** An algorithm [trading platform](../t/trading_platform.md) [offering](../o/offering.md) powerful [backtesting](../b/backtesting.md) capabilities and support for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
-  - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 #### Limitations of 3-Period SMA
 
 Despite its usefulness, the 3-Period SMA has some limitations:
 
 **1. Sensitivity to [Noise](../n/noise.md):**
-   - Being calculated over a very short period, the 3-Period SMA is highly sensitive to random price fluctuations, or '[noise](../n/noise.md)', which might not necessarily indicate a true [market](../m/market.md) [trend](../t/trend.md).
+ - Being calculated over a very short period, the 3-Period SMA is highly sensitive to random price fluctuations, or '[noise](../n/noise.md)', which might not necessarily indicate a true [market](../m/market.md) [trend](../t/trend.md).
 
 **2. [Lagging Indicator](../l/lagging_indicator.md):**
-   - Like all moving averages, the SMA is a [lagging indicator](../l/lagging_indicator.md), meaning it is based on past price data. Therefore, by the time a [trend](../t/trend.md) is identified, the move may be well underway or near its end.
+ - Like all moving averages, the SMA is a [lagging indicator](../l/lagging_indicator.md), meaning it is based on past price data. Therefore, by the time a [trend](../t/trend.md) is identified, the move may be well underway or near its end.
 
 **3. Ineffective in Ranging Markets:**
-   - In sideways or ranging markets, the 3-Period SMA might generate [false signals](../f/false_signals_in_trading.md) due to frequent price whipsaws around the average.
+ - In sideways or ranging markets, the 3-Period SMA might generate [false signals](../f/false_signals_in_trading.md) due to frequent price whipsaws around the average.
 
 #### Conclusion
 
 The 3-Period SMA is a simple yet potent tool for traders looking to [gain](../g/gain.md) quick insights into short-term [market](../m/market.md) movements. While it must be used with caution due to its sensitivity to [noise](../n/noise.md) and lagging nature, integrating it into a comprehensive [trading strategy](../t/trading_strategy.md) can enhance decision-making. Traders and algo experts frequently combine short-term SMAs with other indicators and methods to mitigate their individual limitations and [capitalize](../c/capitalize.md) on their strengths.
 
-In summary, understanding and effectively using the 3-Period Simple Moving Average can provide a solid foundation for developing more complex [trading strategies](../t/trading_strategies.md), making it a worthwhile component in the toolkit of both novice and seasoned traders alike.
+In summary, understanding and effectively using the 3-Period Simple Moving Average can provide a solid foundation for developing more complex [trading strategies](../t/trading_strategies.md), making it a worthwhile component in the toolkit of both novice and seasoned traders alike.

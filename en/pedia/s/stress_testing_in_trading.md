@@ -61,15 +61,15 @@ Stress testing is not a one-time [exercise](../e/exercise.md). It should be cond
 Several specialized tools and software solutions aid in conducting [robust](../r/robust.md) stress tests. Some of the leading platforms include:
 
 - **MSCI’s RiskMetrics**: Provides a comprehensive suite of [risk management](../r/risk_management.md) tools, including stress testing capabilities.
-  
+
 - **Moody’s Analytics**: Offers advanced stress testing solutions tailored for regulatory compliance and internal [risk management](../r/risk_management.md).
-  
+
 - **IBM Algorithmics**: Known for its powerful [risk](../r/risk.md) analytics and stress testing features.
 
 For more information on these tools, you can visit their respective websites:
-- [MSCI RiskMetrics](https://www.msci.com/what-we-do/risk-management/riskmetrics)
-- [Moody’s Analytics Stress Testing Solutions](https://www.moodysanalytics.com/product-list/stress-testing)
-- [IBM Algorithmics](https://www.ibm.com/analytics/algorithmics)
+- MSCI RiskMetrics
+- Moody’s Analytics Stress Testing Solutions
+- IBM Algorithmics
 
 ## Regulatory Framework
 
@@ -130,5 +130,5 @@ Stress testing is an essential component of modern trading and [risk management]
 ---
 
 **For additional resources and developments in stress testing:**
-- [Federal Reserve Stress Tests](https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm)
-- [European Banking Authority Stress Testing](https://www.eba.europa.eu/risk-analysis-and-data/eu-wide-stress-testing)
+- Federal Reserve Stress Tests
+- European Banking Authority Stress Testing

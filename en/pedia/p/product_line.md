@@ -29,17 +29,16 @@ A potential downside to line extensions is **cannibalization** – when a new pr
 ### Apple Inc.
 Apple's product lines include the iPhone, iPad, Mac, Apple Watch, and AirPods. Each line contains various models and configurations that cater to different [market](../m/market.md) segments, from [budget](../b/budget.md)-conscious consumers to high-end users. Apple's ability to continually innovate and expand each product line has solidified its dominance in the tech [industry](../i/industry.md).
 
-[Apple's Products](https://www.apple.com/shop/buy-iphone)
+Apple's Products
 
 ### Coca-Cola
 Coca-Cola offers a vast product line under its core brand, including Diet Coke, Coke Zero Sugar, Cherry Coke, and regional variations with unique flavors. This extensive line caters to diverse consumer preferences while maintaining the strong, recognizable Coca-Cola [brand identity](../b/brand_identity.md).
 
-[Coca-Cola Products](https://us.coca-cola.com/products)
 
 ### Nike
 Nike's product lines span a variety of sports and lifestyle categories. From running shoes to basketball sneakers, each line includes numerous models with different features, technologies, and price points. Nike's product lines target everyone from professional athletes to casual fitness enthusiasts, supporting its status as a leading global sports brand.
 
-[Nike's Products](https://www.nike.com/)
+Nike's Products
 
 ## Managing a Product Line
 
@@ -68,6 +67,6 @@ Different product lines may require adherence to various regulatory standards de
 A well-managed product line can significantly benefit a company by enhancing [market](../m/market.md) reach, [customer](../c/customer.md) loyalty, and [revenue](../r/revenue.md) potential. Through strategic segmentation, innovation, and efficient operations, companies can successfully navigate the complexities and challenges of maintaining a diverse [product portfolio](../p/product_portfolio.md). As markets and consumer preferences evolve, ongoing research and adaptability remain key to sustaining the relevance and success of a product line.
 
 For more detailed examples and current product offerings, visit:
-- [Apple](https://www.apple.com/shop/buy-iphone)
-- [Coca-Cola](https://us.coca-cola.com/products)
-- [Nike](https://www.nike.com/)
+- Apple
+- Coca-Cola
+- Nike

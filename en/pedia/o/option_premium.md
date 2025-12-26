@@ -25,16 +25,16 @@ If the [intrinsic value](../i/intrinsic_value.md) is zero or negative, the optio
 ### Components of Extrinsic Value
 
 1. **Time to Expiration:**
-   Generally, the longer the time until an option's expiration, the higher its [extrinsic value](../e/extrinsic_value.md). This is because there's more time for the [underlying asset](../u/underlying_asset.md)'s price to move in a favorable direction.
+ Generally, the longer the time until an option's expiration, the higher its [extrinsic value](../e/extrinsic_value.md). This is because there's more time for the [underlying asset](../u/underlying_asset.md)'s price to move in a favorable direction.
 
 2. **[Volatility](../v/volatility.md):**
-   Higher [volatility](../v/volatility.md) increases the potential for the [underlying asset](../u/underlying_asset.md)'s price to fluctuate, thereby raising the [extrinsic value](../e/extrinsic_value.md) of the option. Traders often use the [Black-Scholes model](../b/black-scholes_model.md) and other [volatility](../v/volatility.md) metrics to gauge this.
+ Higher [volatility](../v/volatility.md) increases the potential for the [underlying asset](../u/underlying_asset.md)'s price to fluctuate, thereby raising the [extrinsic value](../e/extrinsic_value.md) of the option. Traders often use the [Black-Scholes model](../b/black-scholes_model.md) and other [volatility](../v/volatility.md) metrics to gauge this.
 
 3. **[Interest](../i/interest.md) Rates:**
-   For example, rising [interest](../i/interest.md) rates can increase the [extrinsic value](../e/extrinsic_value.md) of call [options](../o/options.md) while decreasing that of [put options](../p/put_options.md).
+ For example, rising [interest](../i/interest.md) rates can increase the [extrinsic value](../e/extrinsic_value.md) of call [options](../o/options.md) while decreasing that of [put options](../p/put_options.md).
 
 4. **Dividends:**
-   Expected dividends can also influence the option [premium](../p/premium.md), particularly for American-style [options](../o/options.md) that can be exercised before expiration.
+ Expected dividends can also influence the option [premium](../p/premium.md), particularly for American-style [options](../o/options.md) that can be exercised before expiration.
 
 ## Black-Scholes Model
 
@@ -68,22 +68,22 @@ Here, \(\sigma\) represents the [volatility](../v/volatility.md) of the [underly
 The [Greeks](../g/greeks.md) are [derivative](../d/derivative.md) [statistics](../s/statistics.md) that provide further insights into the option price sensitivities with respect to various factors, and are critical in assessing the option [premium](../p/premium.md):
 
 1. **[Delta](../d/delta.md):**
-   Measures the rate of change of the option price concerning changes in the [underlying asset](../u/underlying_asset.md) price.
+ Measures the rate of change of the option price concerning changes in the [underlying asset](../u/underlying_asset.md) price.
 
 2. **[Gamma](../g/gamma.md):**
-   Measures the rate of change of [Delta](../d/delta.md) with respect to changes in the [underlying](../u/underlying.md) price.
+ Measures the rate of change of [Delta](../d/delta.md) with respect to changes in the [underlying](../u/underlying.md) price.
 
 3. **[Theta](../t/theta.md):**
-   Represents the rate of change of the option price with respect to the passage of time ([time decay](../t/time_decay.md)).
+ Represents the rate of change of the option price with respect to the passage of time ([time decay](../t/time_decay.md)).
 
 4. **[Vega](../v/vega.md):**
-   Measures sensitivity to [volatility](../v/volatility.md) changes in the [underlying asset](../u/underlying_asset.md).
+ Measures sensitivity to [volatility](../v/volatility.md) changes in the [underlying asset](../u/underlying_asset.md).
 
 5. **[Rho](../r/rho.md):**
-   Represents sensitivity to [interest rate](../i/interest_rate.md) changes.
+ Represents sensitivity to [interest rate](../i/interest_rate.md) changes.
 
 ## Real-World Application
-In practical trading environments, [market](../m/market.md) participants use sophisticated tools and software to analyze these factors. Platforms like Thinkorswim (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) [offer](../o/offer.md) [robust](../r/robust.md) tools for option analysis, including real-time data on option premiums and [Greeks](../g/greeks.md).
+In practical trading environments, [market](../m/market.md) participants use sophisticated tools and software to analyze these factors. Platforms like Thinkorswim ( and [Interactive Brokers](../i/interactive_brokers.md) ( [offer](../o/offer.md) [robust](../r/robust.md) tools for option analysis, including real-time data on option premiums and [Greeks](../g/greeks.md).
 
 ## Volatility Skew and Smile
 

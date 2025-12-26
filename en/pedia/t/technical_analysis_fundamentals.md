@@ -5,7 +5,7 @@
 ## Price Chart Basics
 
 ### Line Charts
-A [line chart](../l/line_chart.md) is the simplest form of chart used in [technical analysis](../t/technical_analysis.md). It connects closing prices of the [asset](../a/asset.md) over a specified period with a continuous line. The simplicity of the [line chart](../l/line_chart.md) makes it easy to visualize overall trends over time. 
+A [line chart](../l/line_chart.md) is the simplest form of chart used in [technical analysis](../t/technical_analysis.md). It connects closing prices of the [asset](../a/asset.md) over a specified period with a continuous line. The simplicity of the [line chart](../l/line_chart.md) makes it easy to visualize overall trends over time.
 
 ### Bar Charts
 Bar charts provide more information than line charts. Each bar represents the [open](../o/open.md), high, low, and close prices (OHLC) for a given time period. The top of the bar marks the highest price, the bottom marks the lowest price, and horizontal lines to the left and right indicate the [open](../o/open.md) and close prices, respectively.
@@ -75,8 +75,8 @@ Utilizing software and trading platforms is essential for effective [technical a
 
 By understanding and applying the fundamentals of [technical analysis](../t/technical_analysis.md), traders can make more informed decisions and improve their [trading performance](../t/trading_performance.md). Here are some companies that provide [advanced technical analysis](../a/advanced_technical_analysis.md) tools and platforms:
 
-- [MetaTrader](https://www.metatrader4.com/)
-- [TradeStation](https://www.tradestation.com/)
-- [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- MetaTrader
+- TradeStation
+- Thinkorswim
 
 Understanding these principles sets the foundation for more advanced analysis techniques and strategy development in trading.

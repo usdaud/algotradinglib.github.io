@@ -9,13 +9,13 @@ Heikin-Ashi, which translates from Japanese to "average bar," is a type of [cand
 Heikin-Ashi candlesticks are calculated using the following formulas:
 
 - **Close:** ([Open](../o/open.md) + High + Low + Close) / 4
-  - This calculation is the average of the current period’s [open](../o/open.md), high, low, and close prices.
+ - This calculation is the average of the current period’s [open](../o/open.md), high, low, and close prices.
 - **[Open](../o/open.md):** (Previous Heikin-Ashi [Open](../o/open.md) + Previous Heikin-Ashi Close) / 2
-  - This is the average of the previous Heikin-Ashi [open](../o/open.md) and close.
+ - This is the average of the previous Heikin-Ashi [open](../o/open.md) and close.
 - **High:** Max(High, Heikin-Ashi [Open](../o/open.md), Heikin-Ashi Close)
-  - This is the highest [value](../v/value.md) among the current period’s high, Heikin-Ashi [open](../o/open.md), and Heikin-Ashi close.
+ - This is the highest [value](../v/value.md) among the current period’s high, Heikin-Ashi [open](../o/open.md), and Heikin-Ashi close.
 - **Low:** Min(Low, Heikin-Ashi [Open](../o/open.md), Heikin-Ashi Close)
-  - This is the lowest [value](../v/value.md) among the current period’s low, Heikin-Ashi [open](../o/open.md), and Heikin-Ashi close.
+ - This is the lowest [value](../v/value.md) among the current period’s low, Heikin-Ashi [open](../o/open.md), and Heikin-Ashi close.
 
 ### Significance in Algo Trading
 
@@ -56,13 +56,13 @@ Combining Heikin-Ashi with moving averages can enhance [trend](../t/trend.md) de
 #### Popular Platforms and Tools
 
 1. **MetaTrader 4/5:** MetaTrader is a widely used platform [offering](../o/offering.md) custom indicators and automated trading via Expert Advisors (EAs). There are numerous Heikin-Ashi indicators and EAs available for MT4 and MT5.
-   - [MetaTrader](https://www.metatrader4.com)
+ - MetaTrader
 2. **[NinjaTrader](../n/ninjatrader.md):** [NinjaTrader](../n/ninjatrader.md) supports a variety of third-party Heikin-Ashi indicators and strategies, and allows for the development of custom automated [trading strategies](../t/trading_strategies.md).
-   - [NinjaTrader](https://ninjatrader.com/)
+ - NinjaTrader
 3. **[TradingView](../t/tradingview.md):** [TradingView](../t/tradingview.md) is a popular charting platform known for its community scripts and indicators, including Heikin-Ashi. The Pine Script language allows for easy customization and automation of [trading strategies](../t/trading_strategies.md).
-   - [TradingView](https://www.tradingview.com)
-4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) programming languages, including Python and C#. It facilitates [backtesting](../b/backtesting.md) and live trading of Heikin-Ashi strategies.
-   - [QuantConnect](https://www.quantconnect.com)
+ - TradingView
+4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform supporting C#. It facilitates [backtesting](../b/backtesting.md) and live trading of Heikin-Ashi strategies.
+ - QuantConnect
 
 ### Risk Management in Heikin-Ashi Strategies
 
@@ -96,7 +96,7 @@ Heikin-Ashi strategies provide a unique and effective way to smoothen price data
 
 ### Additional Resources
 
-1. **MetaTrader Heikin-Ashi EA:** [MetaTrader Market](https://www.mql5.com/en/market/product/40802)
-2. **[NinjaTrader](../n/ninjatrader.md) Heikin-Ashi [Indicator](../i/indicator.md):** [NinjaTrader Ecosystem](https://ninjatraderecosystem.com/user-app-share-download/heikin-ashi-candles/)
-3. **Heikin-Ashi Pine Script on [TradingView](../t/tradingview.md):** [TradingView Script](https://www.tradingview.com/script/VbQ4US1y-Heikin-Ashi/)
-4. **[QuantConnect](../q/quantconnect.md) Algorithm with Heikin-Ashi:** [QuantConnect Example](https://www.quantconnect.com/tutorials/strategy-library/heikin-ashi-strategy)
+1. **MetaTrader Heikin-Ashi EA:** MetaTrader Market
+2. **[NinjaTrader](../n/ninjatrader.md) Heikin-Ashi [Indicator](../i/indicator.md):** NinjaTrader Ecosystem
+3. **Heikin-Ashi Pine Script on [TradingView](../t/tradingview.md):** TradingView Script
+4. **[QuantConnect](../q/quantconnect.md) Algorithm with Heikin-Ashi:** QuantConnect Example

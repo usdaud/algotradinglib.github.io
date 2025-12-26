@@ -1,6 +1,6 @@
 # Off-Balance Sheet Financing (OBSF)
 
-Off-[Balance Sheet](../b/balance_sheet.md) [Financing](../f/financing.md) (OBSF) refers to various financial transactions, arrangements, or activities that a company undertakes, which are not recorded on the company's [balance sheet](../b/balance_sheet.md) directly. This type of [financing](../f/financing.md) is used to improve the appearance of the [financial statements](../f/financial_statements.md) by reducing the amount of [debt](../d/debt.md) and increasing various financial metrics such as [return on assets](../r/return_on_assets_(roa).md) or [return](../r/return.md) on [equity](../e/equity.md). 
+Off-[Balance Sheet](../b/balance_sheet.md) [Financing](../f/financing.md) (OBSF) refers to various financial transactions, arrangements, or activities that a company undertakes, which are not recorded on the company's [balance sheet](../b/balance_sheet.md) directly. This type of [financing](../f/financing.md) is used to improve the appearance of the [financial statements](../f/financial_statements.md) by reducing the amount of [debt](../d/debt.md) and increasing various financial metrics such as [return on assets](../r/return_on_assets_(roa).md) or [return](../r/return.md) on [equity](../e/equity.md).
 
 ## Types and Instruments of OBSF
 
@@ -14,7 +14,7 @@ Another way to keep liabilities off the [balance sheet](../b/balance_sheet.md) i
 Special Purpose Entities are separate legal entities created by a [parent company](../p/parent_company.md) to isolate [financial risk](../f/financial_risk.md). The assets and liabilities of these entities are kept off the [parent company](../p/parent_company.md)'s [balance sheet](../b/balance_sheet.md). SPEs can be used for various purposes including [securitization](../s/securitization.md) of assets, and [risk management](../r/risk_management.md).
 
 ### Factoring Receivables
-Factoring involves selling accounts [receivable](../r/receivable.md) to another company at a [discount](../d/discount.md). This removes the receivables from the [balance sheet](../b/balance_sheet.md), improving [liquidity](../l/liquidity.md) without increasing liabilities. 
+Factoring involves selling accounts [receivable](../r/receivable.md) to another company at a [discount](../d/discount.md). This removes the receivables from the [balance sheet](../b/balance_sheet.md), improving [liquidity](../l/liquidity.md) without increasing liabilities.
 
 ### Synthetic Leases
 Synthetic leases are structured as operating leases for [financial accounting](../f/financial_accounting.md) purposes, but as [capital leases](../c/capital_leases.md) for tax purposes. This means the [lessee](../l/lessee.md) can keep the [debt](../d/debt.md) off the [balance sheet](../b/balance_sheet.md) while benefiting from tax deductions for [depreciation](../d/depreciation.md).
@@ -30,7 +30,7 @@ The International Financial Reporting Standards (IFRS) 16, which became effectiv
 In the United States, the [Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) issued ASC 842, which has a similar requirement to IFRS 16. Effective for fiscal years beginning after December 15, 2018, ASC 842 mandates the recognition of lease assets and liabilities on the [balance sheet](../b/balance_sheet.md), eliminating much of the off-[balance sheet](../b/balance_sheet.md) [financing](../f/financing.md) related to leases.
 
 ## The Impact on Financial Metrics
-When liabilities and assets are kept off the [balance sheet](../b/balance_sheet.md), various [financial ratios](../f/financial_ratios.md) and metrics appear more favorable. 
+When liabilities and assets are kept off the [balance sheet](../b/balance_sheet.md), various [financial ratios](../f/financial_ratios.md) and metrics appear more favorable.
 
 ### Return on Assets (ROA)
 By keeping [debt](../d/debt.md) off the [balance sheet](../b/balance_sheet.md), a company can maintain a higher [return on assets](../r/return_on_assets_(roa).md) (ROA) ratio. RAO is calculated as net [income](../i/income.md) divided by total assets. With lower reported assets, the ratio becomes higher.
@@ -46,11 +46,11 @@ Since off-[balance sheet](../b/balance_sheet.md) [financing](../f/financing.md) 
 - **Enron [Corporation](../c/corporation.md)**: One of the most infamous cases, where Enron used SPEs to hide significant amounts of [debt](../d/debt.md), ultimately leading to its collapse.
 - **Tesla**: Utilized operating leases for its retail stores to keep substantial lease commitments off the [balance sheet](../b/balance_sheet.md), until new regulations made [transparency](../t/transparency.md) mandatory.
 
-For more detailed and updated information, you can refer to their respective [investor](../i/investor.md) information pages, such as [Tesla Investor Relations](https://ir.tesla.com/) for further data on their [financial statements](../f/financial_statements.md) and lease agreements.
+For more detailed and updated information, you can refer to their respective [investor](../i/investor.md) information pages, such as Tesla company filings for further data on their [financial statements](../f/financial_statements.md) and lease agreements.
 
 ## Risks and Criticisms
 
-Off-[Balance Sheet](../b/balance_sheet.md) [Financing](../f/financing.md) can make companies appear healthier than they are. This can be misleading to investors, creditors, and other stakeholders. 
+Off-[Balance Sheet](../b/balance_sheet.md) [Financing](../f/financing.md) can make companies appear healthier than they are. This can be misleading to investors, creditors, and other stakeholders.
 
 ### Lack of Transparency
 OBSF can obscure the true [financial health](../f/financial_health.md) of a company, making it harder for stakeholders to accurately assess [risk](../r/risk.md) and performance. Cases like Enron and [Lehman Brothers](../l/lehman_brothers.md) demonstrate the potential for significant financial collapses due to hidden liabilities.

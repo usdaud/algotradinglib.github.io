@@ -65,7 +65,7 @@ In some cases, traders may benefit from professional help, such as working with 
 Jesse Livermore, one of the most famous traders in history, provides a classic example of the impact of trading psychology. Despite his immense success, Livermore struggled with his emotions, particularly overconfidence and revenge trading. His story underscores the importance of maintaining emotional discipline.
 
 ### Modern-Day Trading Firms
-Many modern-[day trading](../d/day_trading.md) firms recognize the importance of trading psychology and [offer](../o/offer.md) resources to help their traders. Firms like SMB [Capital](../c/capital.md) (https://www.smbcap.com/) provide training programs that emphasize the psychological aspects of trading, alongside technical and [fundamental analysis](../f/fundamental_analysis.md).
+Many modern-[day trading](../d/day_trading.md) firms recognize the importance of trading psychology and [offer](../o/offer.md) resources to help their traders. Firms like SMB [Capital](../c/capital.md) ( provide training programs that emphasize the psychological aspects of trading, alongside technical and [fundamental analysis](../f/fundamental_analysis.md).
 
 ## Conclusion
 

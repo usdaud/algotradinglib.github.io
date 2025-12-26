@@ -10,7 +10,7 @@ Portfolio [turnover](../t/turnover.md) is a measure of the frequency with which 
 Portfolio [Turnover](../t/turnover.md) Rate = (Lesser of purchases or sales during the period / Average total assets of the portfolio) * 100
 ```
 
-For example, if a [fund](../f/fund.md) has $5 million in average assets and the [fund manager](../f/fund_manager.md) buys and sells $1 million worth of securities in a year, the [turnover ratio](../t/turnover_ratio.md) would be 20%. 
+For example, if a [fund](../f/fund.md) has $5 million in average assets and the [fund manager](../f/fund_manager.md) buys and sells $1 million worth of securities in a year, the [turnover ratio](../t/turnover_ratio.md) would be 20%.
 
 ### Implications of High Portfolio Turnover
 
@@ -47,13 +47,13 @@ Examining portfolio [turnover](../t/turnover.md) can also be a performance metri
 
 ### Real-World Examples
 
-1. **Vanguard Group**: Known for its passive management strategy, most of Vanguard's [index](../i/index_instrument.md) funds have low portfolio [turnover](../t/turnover.md), often below 10%. This makes them cost-efficient and tax-efficient. [Vanguard](https://www.vanguard.com)
+1. **Vanguard Group**: Known for its passive management strategy, most of Vanguard's [index](../i/index_instrument.md) funds have low portfolio [turnover](../t/turnover.md), often below 10%. This makes them cost-efficient and tax-efficient. Vanguard
 
-2. **[Fidelity Investments](../f/fidelity_investments.md)**: Often exhibiting higher [turnover ratios](../t/turnover_ratios.md), as some of their actively-managed funds aim to [outperform](../o/outperform.md) the [market](../m/market.md) with frequent buying and selling. [Fidelity Investments](https://www.fidelity.com)
+2. **[Fidelity Investments](../f/fidelity_investments.md)**: Often exhibiting higher [turnover ratios](../t/turnover_ratios.md), as some of their actively-managed funds aim to [outperform](../o/outperform.md) the [market](../m/market.md) with frequent buying and selling. Fidelity Investments
 
 ### Portfolio Turnover and Automated Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), portfolio [turnover](../t/turnover.md) rates can be especially significant. [Algorithmic trading](../a/accountability.md) systems can execute high-frequency trades efficiently, but understanding [turnover](../t/turnover.md) helps in evaluating:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), portfolio [turnover](../t/turnover.md) rates can be especially significant. [Algorithmic trading](../a/algorithmic_trading.md) systems can execute high-frequency trades efficiently, but understanding [turnover](../t/turnover.md) helps in evaluating:
 
 - **[Algorithm Efficiency](../a/algorithm_efficiency.md)**: How well the algorithm manages [transaction costs](../t/transaction_costs.md) and [slippage](../s/slippage.md).
 - **Signal Effectiveness**: If the high [turnover](../t/turnover.md) corresponds to profitable signal generation.

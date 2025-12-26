@@ -1,7 +1,7 @@
 # XRT
 
 ## Introduction
-The SPDR S&P Retail ETF (XRT) is one of the more widely followed and traded [exchange](../e/exchange.md)-traded funds (ETFs) in the [financial markets](../f/financial_market.md). This ETF offers investors exposure to the retail sector by focusing on companies [listed](../l/listed.md) in the S&P Retail Select [Industry](../i/industry.md) [Index](../i/index_instrument.md), which is designed to measure the performance of the retail sub-[industry](../i/industry.md) of the S&P Total [Market Index](../m/market_index.md). This document [will](../w/will.md) [offer](../o/offer.md) an in-depth look at XRT by exploring its defining characteristics, historical performance, how it fits into the broader financial landscape, and its importance for traders and investors, particularly those involved in [algorithmic trading](../a/accountability.md) or fintech.
+The SPDR S&P Retail ETF (XRT) is one of the more widely followed and traded [exchange](../e/exchange.md)-traded funds (ETFs) in the [financial markets](../f/financial_market.md). This ETF offers investors exposure to the retail sector by focusing on companies [listed](../l/listed.md) in the S&P Retail Select [Industry](../i/industry.md) [Index](../i/index_instrument.md), which is designed to measure the performance of the retail sub-[industry](../i/industry.md) of the S&P Total [Market Index](../m/market_index.md). This document [will](../w/will.md) [offer](../o/offer.md) an in-depth look at XRT by exploring its defining characteristics, historical performance, how it fits into the broader financial landscape, and its importance for traders and investors, particularly those involved in [algorithmic trading](../a/algorithmic_trading.md) or fintech.
 
 ## What is XRT?
 
@@ -30,7 +30,7 @@ Given the cyclicality of the retail sector, XRT can play a crucial role in [sect
 ## Algorithmic Trading and Fintech Applications
 
 ### Data Availability
-For those involved in [algorithmic trading](../a/accountability.md), XRT offers extensive historical data, including pricing, [volume](../v/volume.md), and constituent information. This data is crucial for developing and back-testing [trading algorithms](../t/trading_algorithms.md) tailored to the retail sector.
+For those involved in [algorithmic trading](../a/algorithmic_trading.md), XRT offers extensive historical data, including pricing, [volume](../v/volume.md), and constituent information. This data is crucial for developing and back-testing [trading algorithms](../t/trading_algorithms.md) tailored to the retail sector.
 
 ### Strategy Development
 Algorithmic traders can [leverage](../l/leverage.md) various strategies, such as [mean reversion](../m/mean_reversion.md), [momentum](../m/momentum.md), or [pairs trading](../p/pairs_trading.md), utilizing XRT's [liquid](../l/liquid.md) and volatile nature. For example, one might develop a [mean reversion](../m/mean_reversion.md) strategy that capitalizes on the periodic overbuying or overselling of the ETF.
@@ -50,6 +50,6 @@ Given XRT's higher [beta](../b/beta.md), the ETF is more susceptible to [market]
 XRT is one of the more [liquid](../l/liquid.md) ETFs in the [market](../m/market.md), with high daily trading volumes. However, during periods of extreme [market](../m/market.md) stress, [liquidity](../l/liquidity.md) can dry up, leading to wider [spreads](../s/spreads.md) and increased [trading costs](../t/trading_costs.md).
 
 ## Conclusion
-The SPDR S&P Retail ETF (XRT) is a valuable tool for investors and traders looking to [gain](../g/gain.md) exposure to the U.S. retail sector. With its diverse [holdings](../h/holdings.md), historical performance tied closely to consumer trends, and availability of extensive data for [algorithmic trading](../a/accountability.md), XRT offers [multiple](../m/multiple.md) avenues for [portfolio diversification](../p/portfolio_diversification.md), strategic sector allocation, and innovative [trading strategies](../t/trading_strategies.md). However, potential investors should carefully consider the associated risks, including sector-specific challenges and higher [volatility](../v/volatility.md), before making an investment decision. 
+The SPDR S&P Retail ETF (XRT) is a valuable tool for investors and traders looking to [gain](../g/gain.md) exposure to the U.S. retail sector. With its diverse [holdings](../h/holdings.md), historical performance tied closely to consumer trends, and availability of extensive data for [algorithmic trading](../a/algorithmic_trading.md), XRT offers [multiple](../m/multiple.md) avenues for [portfolio diversification](../p/portfolio_diversification.md), strategic sector allocation, and innovative [trading strategies](../t/trading_strategies.md). However, potential investors should carefully consider the associated risks, including sector-specific challenges and higher [volatility](../v/volatility.md), before making an investment decision.
 
-For more detailed information, visit the official [State Street Global Advisors](https://www.ssga.com) page for XRT.
+For more detailed information,

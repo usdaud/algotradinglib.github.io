@@ -5,10 +5,10 @@
 
 ### Key Concepts
 1. **[Utility](../u/utility.md) Function**: Represents an [investor](../i/investor.md)'s preferences, translating different levels of [wealth](../w/wealth.md) or returns into a quantitative measure of satisfaction. [Utility functions](../u/utility_functions_in_trading.md) are often defined to capture the [investor](../i/investor.md)’s attitude towards [risk](../r/risk.md), with common forms including:
-   - **Linear [Utility](../u/utility.md) Function**: Implies [risk](../r/risk.md) neutrality.
-   - **Quadratic [Utility](../u/utility.md) Function**: Often used in [mean-variance optimization](../m/mean-variance_optimization.md).
-   - **Exponential [Utility](../u/utility.md) Function**: Represents constant relative [risk](../r/risk.md) aversion.
-   
+ - **Linear [Utility](../u/utility.md) Function**: Implies [risk](../r/risk.md) neutrality.
+ - **Quadratic [Utility](../u/utility.md) Function**: Often used in [mean-variance optimization](../m/mean-variance_optimization.md).
+ - **Exponential [Utility](../u/utility.md) Function**: Represents constant relative [risk](../r/risk.md) aversion.
+
 2. **[Risk](../r/risk.md) Aversion**: A measure of an [investor](../i/investor.md)’s reluctance to take on [risk](../r/risk.md). [Risk-averse](../r/risk-averse.md) investors prefer guaranteed outcomes over those with [uncertainty](../u/uncertainty_in_trading.md), even if the uncertain outcome has a potentially higher [expected return](../e/expected_return.md). The degree of [risk](../r/risk.md) aversion is a significant determinant of portfolio choices.
 
 3. **[Expected Utility](../e/expected_utility.md)**: An approach to evaluate uncertain outcomes by calculating the [weighted average](../w/weighted_average.md) of all possible utilities, where weights correspond to the probabilities of different outcomes. Expected [Utility Theory](../u/utility_theory_in_trading.md) posits that investors choose between portfolios based on the [expected utility](../e/expected_utility.md) of their [wealth](../w/wealth.md).
@@ -41,13 +41,13 @@ Several models in [portfolio management](../p/portfolio_management.md) are under
 ### Utility Theory in Practice
 #### Financial Institutions
 Financial institutions employ [Utility Theory](../u/utility_theory_in_trading.md) extensively in client advisory services and [portfolio management](../p/portfolio_management.md). They customize portfolio recommendations based on the [risk](../r/risk.md) preferences and [utility functions](../u/utility_functions_in_trading.md) specific to each [investor](../i/investor.md):
-- **Wealthfront**: An example of a robo-advisor platform that uses algorithms based on [Utility Theory](../u/utility_theory_in_trading.md) to [offer](../o/offer.md) personalized investment advice and [portfolio management](../p/portfolio_management.md). Learn more at [Wealthfront](https://www.wealthfront.com/).
-- **Betterment**: Another leading robo-advisor that leverages [Utility Theory](../u/utility_theory_in_trading.md) to optimize portfolios tailored to individual [risk tolerance](../r/risk_tolerance.md) and investment goals. Visit [Betterment](https://www.betterment.com/).
+- **Wealthfront**: An example of a robo-advisor platform that uses algorithms based on [Utility Theory](../u/utility_theory_in_trading.md) to [offer](../o/offer.md) personalized investment advice and [portfolio management](../p/portfolio_management.md). Learn more at Wealthfront.
+- **Betterment**: Another leading robo-advisor that leverages [Utility Theory](../u/utility_theory_in_trading.md) to optimize portfolios tailored to individual [risk tolerance](../r/risk_tolerance.md) and investment goals. Visit Betterment.
 
 #### Software Tools
 Several advanced [software tools](../s/software_tools_for_trading.md) and platforms incorporate [Utility Theory](../u/utility_theory_in_trading.md) for [portfolio optimization](../p/portfolio_optimization.md) and [asset allocation](../a/asset_allocation.md):
-- **[Morningstar](../m/morningstar.md) Direct**: A comprehensive [investment analysis](../i/investment_analysis.md) platform that allows portfolio managers to incorporate [utility](../u/utility.md)-based analysis in their decision-making processes. More information is available at [Morningstar Direct](https://www.morningstar.com/products/direct).
-- **[FactSet](../f/factset.md)**: Provides portfolio analytics tools that include [utility](../u/utility.md)-based frameworks for evaluating and optimizing portfolios. Explore more at [FactSet](https://www.factset.com/).
+- **[Morningstar](../m/morningstar.md) Direct**: A comprehensive [investment analysis](../i/investment_analysis.md) platform that allows portfolio managers to incorporate [utility](../u/utility.md)-based analysis in their decision-making processes. More information is available at Morningstar Direct.
+- **[FactSet](../f/factset.md)**: Provides portfolio analytics tools that include [utility](../u/utility.md)-based frameworks for evaluating and optimizing portfolios. Explore more at FactSet.
 
 ### Conclusion
 [Utility Theory](../u/utility_theory_in_trading.md) is a pivotal concept in the realm of [portfolio management](../p/portfolio_management.md), [offering](../o/offering.md) insights into how investors make decisions amidst [risk](../r/risk.md) and [uncertainty](../u/uncertainty_in_trading.md). By understanding and applying [Utility Theory](../u/utility_theory_in_trading.md), portfolio managers can better tailor their strategies to align with [investor](../i/investor.md) preferences, ultimately leading to more efficient and satisfying investment outcomes.

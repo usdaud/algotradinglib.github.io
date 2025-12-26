@@ -48,8 +48,8 @@ In a simplified one-period model:
 
 1. **Stock Price Movement:** Assume stock price \( S \) can either move up to \( S_u = S \cdot u \) or down to \( S_d = S \cdot d \) where \( u \) and \( d \) represent up and down factors respectively.
 2. **Probability Calculation:** Calculate the [risk-neutral probabilities](../r/risk-neutral_probabilities.md) \( p \) and \( 1-p \) where \( p = \frac{e^{r\[Delta](../d/delta.md) t} - d}{u - d} \).
-    - \( u = e^{\sigma\sqrt{\[Delta](../d/delta.md) t}} \)
-    - \( d = e^{-\sigma\sqrt{\[Delta](../d/delta.md) t}} \)
+ - \( u = e^{\sigma\sqrt{\[Delta](../d/delta.md) t}} \)
+ - \( d = e^{-\sigma\sqrt{\[Delta](../d/delta.md) t}} \)
 3. **[Warrant](../w/warrant.md) Payoff:** If the [warrant](../w/warrant.md) is exercised, the payoff at [maturity](../m/maturity.md) is \( max(S_T - K, 0) \).
 4. **[Discounting](../d/discounting.md) Back:** Using the [risk-neutral probabilities](../r/risk-neutral_probabilities.md), [discount](../d/discount.md) back the [expected value](../e/expected_value.md) to [present value](../p/present_value.md).
 
@@ -77,10 +77,10 @@ In a simplified one-period model:
 
 Several companies and tools specialize in providing software and services for [warrant pricing](../w/warrant_pricing.md) and [financial modeling](../f/financial_modeling.md):
 
-- **OptionMetrics:** Offers comprehensive databases and analytical tools for option markets. [OptionMetrics](https://optionmetrics.com/)
-- **DerivaGem:** A [derivatives](../d/derivatives.md) analytics software suite developed by the London [Business](../b/business.md) School. [London Business School DerivaGem Software](https://www.london.edu/)
-- **[QuantLib](../q/quantlib.md):** An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for developing and implementing financial and [derivatives](../d/derivatives.md) models. [QuantLib](https://www.quantlib.org/)
-- **MathWorks:** Offers MATLAB, which provides numerous financial toolboxes for [warrant pricing](../w/warrant_pricing.md) and other financial analyses. [MathWorks](https://www.mathworks.com/)
+- **OptionMetrics:** Offers comprehensive databases and analytical tools for option markets. OptionMetrics
+- **DerivaGem:** A [derivatives](../d/derivatives.md) analytics software suite developed by the London [Business](../b/business.md) School. London Business School DerivaGem Software
+- **[QuantLib](../q/quantlib.md):** An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for developing and implementing financial and [derivatives](../d/derivatives.md) models. QuantLib
+- **MathWorks:** Offers MATLAB, which provides numerous financial toolboxes for [warrant pricing](../w/warrant_pricing.md) and other financial analyses. MathWorks
 
 ### Practical Considerations
 

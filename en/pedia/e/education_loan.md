@@ -1,6 +1,6 @@
 # Education Loan
 
-An education [loan](../l/loan.md) is a sum of [money](../m/money.md) borrowed to [finance](../f/finance.md) post-secondary education or higher education-related expenses. These loans are designed to help students pay for university tuition, books, and living expenses. It’s different from other types of loans in that the [interest rate](../i/interest_rate.md) may be substantially lower and the [repayment](../r/repayment.md) schedule may be deferred while the student is still in education. 
+An education [loan](../l/loan.md) is a sum of [money](../m/money.md) borrowed to [finance](../f/finance.md) post-secondary education or higher education-related expenses. These loans are designed to help students pay for university tuition, books, and living expenses. It’s different from other types of loans in that the [interest rate](../i/interest_rate.md) may be substantially lower and the [repayment](../r/repayment.md) schedule may be deferred while the student is still in education.
 
 ## Purpose of Education Loans
 
@@ -35,7 +35,7 @@ Applying for an education [loan](../l/loan.md) generally involves the following 
 ### Federal Loans
 
 1. **Free Application for Federal Student Aid (FAFSA)**: Students must fill out the FAFSA form to determine eligibility for federal loans, grants, and work-study programs.
-   
+
 2. **Award Letter**: Based on the FAFSA, the college or university [will](../w/will.md) send an award letter detailing the types and amounts of aid the student is eligible to receive.
 
 3. **Master [Promissory Note](../p/promissory_note.md) (MPN)**: The student must sign an MPN agreeing to the terms of the [loan](../l/loan.md).
@@ -52,7 +52,7 @@ Applying for an education [loan](../l/loan.md) generally involves the following 
 
 ### Interest Rates
 
-[Interest](../i/interest.md) rates on education loans can either be fixed or variable. 
+[Interest](../i/interest.md) rates on education loans can either be fixed or variable.
 * **Fixed rates**: The [interest rate](../i/interest_rate.md) remains the same throughout the life of the [loan](../l/loan.md).
 * **Variable rates**: The [interest rate](../i/interest_rate.md) can change over time based on [market](../m/market.md) conditions.
 
@@ -63,9 +63,9 @@ Generally, federal loans have lower [interest](../i/interest.md) rates compared 
 [Repayment](../r/repayment.md) can be handled through various plans, especially for federal student loans. Common federal [repayment](../r/repayment.md) plans include:
 
 1. **Standard [Repayment](../r/repayment.md) Plan**: Fixed monthly payments over a 10-year period.
-   
+
 2. **Graduated [Repayment](../r/repayment.md) Plan**: Payments start low and gradually increase, typically every two years.
-   
+
 3. **[Income](../i/income.md)-Driven [Repayment](../r/repayment.md) Plans**: Monthly payments are calculated based on [income](../i/income.md) and family size, and can [range](../r/range.md) from 10% to 20% of [discretionary income](../d/discretionary_income.md). Examples include [Income](../i/income.md)-Based [Repayment](../r/repayment.md) (IBR), Pay As You Earn (PAYE), and Revised Pay As You Earn (REPAYE).
 
 4. **Extended [Repayment](../r/repayment.md) Plan**: [Loan](../l/loan.md) terms can be stretched up to 25 years, reducing monthly payments but increasing the total [interest](../i/interest.md) paid.
@@ -77,7 +77,7 @@ For private loans, [repayment](../r/repayment.md) terms can vary widely by [lend
 ### Benefits
 
 1. **Access to Education**: Makes higher education affordable and accessible to a larger population.
-   
+
 2. **Flexible [Repayment](../r/repayment.md) [Options](../o/options.md)**: Various plans cater to different financial situations.
 
 3. **Building [Credit](../c/credit.md)**: Timely payments can help in building a strong [credit](../c/credit.md) history.
@@ -85,7 +85,7 @@ For private loans, [repayment](../r/repayment.md) terms can vary widely by [lend
 ### Drawbacks
 
 1. **[Debt](../d/debt.md) Burden**: Can lead to significant [debt](../d/debt.md) upon graduation.
-  
+
 2. **[Interest](../i/interest.md) Accumulation**: For unsubsidized and private loans, [interest](../i/interest.md) can accumulate while in school, increasing the total amount owed.
 
 3. **[Default](../d/default.md) Risks**: Failure to repay can result in severe financial consequences, including damaged [credit](../c/credit.md) and limited future borrowing ability.

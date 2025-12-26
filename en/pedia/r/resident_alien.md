@@ -14,9 +14,9 @@ Even without a [Green Card](../g/green_card.md), an alien may be classified as a
 
 1. At least 31 days during the current year, and
 2. A total of 183 days during the current year and the two preceding years, calculated using:
-   - All the days present in the current year,
-   - One-third of the days present in the first preceding year,
-   - One-sixth of the days present in the second preceding year.
+ - All the days present in the current year,
+ - One-third of the days present in the first preceding year,
+ - One-sixth of the days present in the second preceding year.
 
 Certain days of physical presence may be excluded, such as days when the individual commutes from Canada or Mexico, days in transit between two locations outside the U.S., or days when the individual was unable to leave due to a medical condition that arose while in the U.S.
 

@@ -76,10 +76,10 @@ Financial advisors and [wealth](../w/wealth.md) managers can [leverage](../l/lev
 
 Several major financial institutions and [asset management](../a/asset_management.md) firms [offer](../o/offer.md) OPALS to their clients. These include:
 
-- **BlackRock** (www.blackrock.com): A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) that provides a [range](../r/range.md) of ETFs and structured products that can serve similar functions as OPALS.
-- **State Street Global Advisors** (www.ssga.com): Known for their SPDR ETFs, which include products designed to replicate optimized portfolios.
-- **Vanguard** (www.vanguard.com): Offers a broad array of ETFs and mutual funds that aim to deliver optimized returns.
-- **Invesco** (www.invesco.com): Another key player in the ETF [market](../m/market.md), providing products that [offer](../o/offer.md) [portfolio optimization](../p/portfolio_optimization.md) benefits.
+- **BlackRock** ( A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) that provides a [range](../r/range.md) of ETFs and structured products that can serve similar functions as OPALS.
+- **State Street Global Advisors** Known for their SPDR ETFs, which include products designed to replicate optimized portfolios.
+- **Vanguard** Offers a broad array of ETFs and mutual funds that aim to deliver optimized returns.
+- **Invesco** ( Another key player in the ETF [market](../m/market.md), providing products that [offer](../o/offer.md) [portfolio optimization](../p/portfolio_optimization.md) benefits.
 
 ## Future Trends and Developments
 

@@ -26,7 +26,7 @@ In the [business](../b/business.md) world, gentlemen's agreements can streamline
 In [finance](../f/finance.md), gentlemen's agreements can play a crucial role in stabilizing markets and fostering cooperation among financial institutions. They can be used to maintain certain unwritten rules regarding competition, [interest](../i/interest.md) rates, or trading practices. For example, banks may reach an informal consensus on not undercutting each other’s [interest](../i/interest.md) rates to preserve [market](../m/market.md) stability.
 
 #### Algortithmic Trading (A Subsection)
-In the context of [algorithmic trading](../a/accountability.md), gentlemen's agreements can manifest as informal understandings between trading firms to prevent predatory practices or maintain [market](../m/market.md) [equilibrium](../e/equilibrium.md). For instance, firms might agree not to use certain aggressive [trading algorithms](../t/trading_algorithms.md) that could destabilize the [market](../m/market.md), even though such restraints are not legally mandated.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), gentlemen's agreements can manifest as informal understandings between trading firms to prevent predatory practices or maintain [market](../m/market.md) [equilibrium](../e/equilibrium.md). For instance, firms might agree not to use certain aggressive [trading algorithms](../t/trading_algorithms.md) that could destabilize the [market](../m/market.md), even though such restraints are not legally mandated.
 
 ### International Relations
 

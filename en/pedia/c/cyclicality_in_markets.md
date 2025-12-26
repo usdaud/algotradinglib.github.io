@@ -80,8 +80,8 @@ Oscillators measure [market](../m/market.md) [momentum](../m/momentum.md) and ca
 
 Several notable companies and platforms focus on [algorithmic trading](../a/algorithmic_trading.md) and may [offer](../o/offer.md) tools to help understand and exploit [market cycles](../m/market_cycles.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
-- **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/) offers [commission](../c/commission.md)-free trading with an API for executing algorithmic strategies.
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
+- **[Alpaca](../a/alpaca.md)**: Alpaca offers [commission](../c/commission.md)-free trading with an API for executing algorithmic strategies.
+- **Two Sigma**: Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
 
-Understanding cyclicality in markets is fundamental for devising [robust](../r/robust.md) algotrading strategies. By analyzing economic, [market](../m/market.md), and psychological cycles, and leveraging algorithms to identify and predict these patterns, traders can increase their chances of success in [financial markets](../f/financial_market.md).
+Understanding cyclicality in markets is fundamental for devising [robust](../r/robust.md) algotrading strategies. By analyzing economic, [market](../m/market.md), and psychological cycles, and leveraging algorithms to identify and predict these patterns, traders can increase their chances of success in [financial markets](../f/financial_market.md).

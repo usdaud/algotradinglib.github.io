@@ -52,7 +52,7 @@ In [machine learning](../m/machine_learning.md) models used for trading, such as
 
 **Two Sigma** is a leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its use of advanced statistical models and [machine learning](../m/machine_learning.md). The [firm](../f/firm.md)'s [trading strategies](../t/trading_strategies.md) heavily rely on parameters like the [lambda](../l/lambda.md) [value](../v/value.md) to optimize [trading algorithms](../t/trading_algorithms.md) and manage [risk](../r/risk.md) effectively.
 
-For more information, visit [Two Sigma](https://www.twosigma.com/).
+For more information, visit Two Sigma.
 
 ### Academic Research
 

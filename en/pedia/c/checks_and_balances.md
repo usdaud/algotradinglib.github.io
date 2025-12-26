@@ -21,21 +21,21 @@
 
 ## Mechanisms of Checks and Balances
 1. **Legislative Checks**:
-   - **Approval of Appointments**: The Senate confirms presidential appointments to the judiciary and executive agencies.
-   - **[Impeachment](../i/impeachment.md) Powers**: Congress can impeach and remove the President, Vice President, and federal judges.
-   - **Override Vetoes**: Congress can override a presidential veto with a two-thirds majority in both houses.
-   - **Budgetary Control**: Congress controls federal spending and can withhold funds from executive initiatives.
+ - **Approval of Appointments**: The Senate confirms presidential appointments to the judiciary and executive agencies.
+ - **[Impeachment](../i/impeachment.md) Powers**: Congress can impeach and remove the President, Vice President, and federal judges.
+ - **Override Vetoes**: Congress can override a presidential veto with a two-thirds majority in both houses.
+ - **Budgetary Control**: Congress controls federal spending and can withhold funds from executive initiatives.
 
 2. **Executive Checks**:
-   - **Veto Power**: The President can veto legislation passed by Congress.
-   - **Executive Orders**: The President can [issue](../i/issue.md) executive orders to direct the operations of the federal government.
-   - **Appointment Power**: The President nominates judges and executive officials, subject to Senate confirmation.
-   - **Foreign Policy**: The President conducts foreign policy and negotiates treaties, which require Senate approval.
+ - **Veto Power**: The President can veto legislation passed by Congress.
+ - **Executive Orders**: The President can [issue](../i/issue.md) executive orders to direct the operations of the federal government.
+ - **Appointment Power**: The President nominates judges and executive officials, subject to Senate confirmation.
+ - **Foreign Policy**: The President conducts foreign policy and negotiates treaties, which require Senate approval.
 
 3. **Judicial Checks**:
-   - **Judicial Review**: Courts can declare laws or executive actions unconstitutional.
-   - **Lifetime Appointments**: Federal judges, appointed for life, can make independent decisions without fear of political repercussions.
-   - **Interpretation of Laws**: Courts interpret and apply laws, influencing how they are enforced and understood.
+ - **Judicial Review**: Courts can declare laws or executive actions unconstitutional.
+ - **Lifetime Appointments**: Federal judges, appointed for life, can make independent decisions without fear of political repercussions.
+ - **Interpretation of Laws**: Courts interpret and apply laws, influencing how they are enforced and understood.
 
 ## Example Scenario
 ### United States Government
@@ -51,4 +51,3 @@
 
 ## Conclusion
 Checks and balances are essential for maintaining a balanced and fair government by ensuring no single branch has unchecked power. This system promotes accountability, prevents tyranny, and protects individual rights. Understanding its mechanisms and importance is crucial for appreciating how democratic governments function and maintain stability.
-

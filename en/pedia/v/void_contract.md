@@ -1,6 +1,6 @@
 # Void Contract in Finance and Trading
 
-In [finance](../f/finance.md) and trading, contracts form the backbone of transactions, agreements, and various financial instruments. A void contract is a specific type of contract that holds significant implications for all parties involved. Understanding the nature, causes, and consequences of void contracts is essential for anyone participating in [financial markets](../f/financial_market.md), whether they are engaging in traditional trading activities or leveraging advanced [algorithmic trading](../a/accountability.md) and fintech solutions. This detailed explanation [will](../w/will.md) delve into the concept of a void contract, its characteristics, causes, and examples within the [financial sector](../f/financial_sector.md).
+In [finance](../f/finance.md) and trading, contracts form the backbone of transactions, agreements, and various financial instruments. A void contract is a specific type of contract that holds significant implications for all parties involved. Understanding the nature, causes, and consequences of void contracts is essential for anyone participating in [financial markets](../f/financial_market.md), whether they are engaging in traditional trading activities or leveraging advanced [algorithmic trading](../a/algorithmic_trading.md) and fintech solutions. This detailed explanation [will](../w/will.md) delve into the concept of a void contract, its characteristics, causes, and examples within the [financial sector](../f/financial_sector.md).
 
 ## Definition of a Void Contract
 
@@ -55,7 +55,7 @@ Contracts for the purchase and [sale](../s/sale.md) of [stocks](../s/stock.md) a
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies on predefined rules and algorithms to execute trades. If these algorithms are designed to exploit illegal [market](../m/market.md) practices or are based on invalid [market](../m/market.md) data, any contracts generated as a result of such algorithms could be void.
+[Algorithmic trading](../a/algorithmic_trading.md) relies on predefined rules and algorithms to execute trades. If these algorithms are designed to exploit illegal [market](../m/market.md) practices or are based on invalid [market](../m/market.md) data, any contracts generated as a result of such algorithms could be void.
 
 ### Mergers and Acquisitions (M&A)
 
@@ -81,8 +81,8 @@ Legal precedents and regulations surrounding void contracts vary from jurisdicti
 
 For detailed regulatory guidelines, you can refer to the official websites of these organizations:
 
-- [Securities and Exchange Commission (SEC)](https://www.sec.gov)
-- [Financial Conduct Authority (FCA)](https://www.fca.org.uk)
+- Securities and Exchange Commission (SEC)
+- Financial Conduct Authority (FCA)
 
 ## Conclusion
 

@@ -44,5 +44,3 @@ Robinhood is regulated by several top-tier financial authorities, ensuring a sec
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md))
 - Securities [Investor](../i/investor.md) Protection [Corporation](../c/corporation.md) (SIPC)
 
-## Website
-For more information and to start trading, visit the official Robinhood website: [Robinhood](https://www.robinhood.com)

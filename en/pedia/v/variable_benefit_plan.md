@@ -34,7 +34,7 @@ The 1980s and 1990s saw the proliferation of different investment vehicles, such
 
 ### Technological Advancements and Modern Era
 
-The technological advancements of the late 20th and early 21st centuries have revolutionized how Variable Benefit Plans are managed and administered. Online platforms, sophisticated [financial planning](../f/financial_planning.md) tools, and robo-advisors have made it easier for individuals to interact with their plans, monitor investment performance, and make informed decisions. 
+The technological advancements of the late 20th and early 21st centuries have revolutionized how Variable Benefit Plans are managed and administered. Online platforms, sophisticated [financial planning](../f/financial_planning.md) tools, and robo-advisors have made it easier for individuals to interact with their plans, monitor investment performance, and make informed decisions.
 
 ## Key Features and Components of Variable Benefit Plans
 
@@ -88,4 +88,4 @@ The complexity of Variable Benefit Plans can be daunting for some individuals. U
 
 Variable Benefit Plans [offer](../o/offer.md) a dynamic approach to retirement savings that can provide higher returns and [inflation](../i/inflation.md)-adjusted benefits. However, they also come with inherent risks and complexities that require careful consideration and management. As [retirement planning](../r/retirement_planning.md) continues to evolve, these plans remain a viable option for those seeking flexibility and potentially higher growth in their retirement portfolios.
 
-For more information about Variable Benefit Plans, you can visit the websites of leading financial institutions and [insurance](../i/insurance.md) companies [offering](../o/offering.md) these products. For instance, [Fidelity](https://www.fidelity.com) and [Vanguard](https://investor.vanguard.com) provide comprehensive resources and investment [options](../o/options.md) for [retirement planning](../r/retirement_planning.md), including Variable Benefit Plans.
+For more information about Variable Benefit Plans, you can visit the websites of leading financial institutions and [insurance](../i/insurance.md) companies [offering](../o/offering.md) these products. For instance, Fidelity and Vanguard provide comprehensive resources and investment [options](../o/options.md) for [retirement planning](../r/retirement_planning.md), including Variable Benefit Plans.

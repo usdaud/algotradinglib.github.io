@@ -9,7 +9,7 @@ In [economics](../e/economics.md) and [finance](../f/finance.md), asymmetric inf
 ### Key Concepts
 
 - **[Adverse Selection](../a/adverse_selection.md)**: This occurs before a [transaction](../t/transaction.md) takes place. It refers to situations where the less informed party makes suboptimal choices due to lack of information. For example, in the [insurance](../i/insurance.md) [market](../m/market.md), those most likely to need [insurance](../i/insurance.md) (high-[risk](../r/risk.md) individuals) are also the most likely to purchase it, which can drive up premiums and lead to [market](../m/market.md) inefficiency.
-  
+
 - **[Moral Hazard](../m/moral_hazard.md)**: This happens after a [transaction](../t/transaction.md) has occurred. It refers to the change in behavior of the more informed party once a deal is made. For instance, a borrower might engage in riskier behavior after receiving a [loan](../l/loan.md) because the [lender](../l/lender.md) bears the cost of that [risk](../r/risk.md).
 
 ### Implications in Markets
@@ -26,11 +26,11 @@ In [economics](../e/economics.md) and [finance](../f/finance.md), asymmetric inf
 
 ### Strategies Leveraging Asymmetric Information
 
-1. **News-Based Trading**: Algorithms can be programmed to react to news events faster than human traders. These algorithms parse news feeds for keywords and sentiment, executing trades based on the perceived impact of new information. Firms like [Bloomberg](../b/bloomberg.md) [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) [offer](../o/offer.md) services that integrate news analytics for such purposes.
+1. **News-Based Trading**: Algorithms can be programmed to react to news events faster than human traders. These algorithms parse news feeds for keywords and sentiment, executing trades based on the perceived impact of new information. Firms like [Bloomberg](../b/bloomberg.md) Bloomberg Terminal [offer](../o/offer.md) services that integrate news analytics for such purposes.
 
-2. **[Order Flow Analysis](../o/order_flow_analysis.md)**: Some traders may have access to [order](../o/order.md) flow information that others do not, such as large institutional orders that can hint at [market](../m/market.md) direction. By analyzing [order](../o/order.md) flows, algorithms can predict short-term price movements. Trading firms such as Virtu Financial [Virtu Financial](https://www.virtu.com/) specialize in leveraging such information.
+2. **[Order Flow Analysis](../o/order_flow_analysis.md)**: Some traders may have access to [order](../o/order.md) flow information that others do not, such as large institutional orders that can hint at [market](../m/market.md) direction. By analyzing [order](../o/order.md) flows, algorithms can predict short-term price movements. Trading firms such as Virtu Financial Virtu Financial specialize in leveraging such information.
 
-3. **Latency [Arbitrage](../a/arbitrage.md)**: Firms with superior technology and faster connections can exploit millisecond differences in information dissemination across exchanges. For instance, trading firms like Citadel Securities [Citadel Securities](https://www.citadelsecurities.com/) invest heavily in low-latency infrastructures to benefit from such strategies.
+3. **Latency [Arbitrage](../a/arbitrage.md)**: Firms with superior technology and faster connections can exploit millisecond differences in information dissemination across exchanges. For instance, trading firms like Citadel Securities Citadel Securities invest heavily in low-latency infrastructures to benefit from such strategies.
 
 ### Challenges and Ethical Considerations
 
@@ -43,7 +43,7 @@ In [economics](../e/economics.md) and [finance](../f/finance.md), asymmetric inf
 ### Mitigation Strategies
 
 1. **Enhanced Disclosures**: Regulators may require firms to disclose more information, leveling the informational playing field.
-   
+
 2. **Technology Investment**: Smaller trading firms invest in technology and partnerships to reduce the information gap and stay competitive.
 
 3. **[Market](../m/market.md) Surveillance**: Automated surveillance systems are deployed to detect and prevent unfair trading practices stemming from asymmetric information exploitation.
@@ -58,6 +58,6 @@ In early 2021, the GameStop [short squeeze](../s/short_squeeze.md) highlighted t
 
 ## Conclusion
 
-Asymmetric information is a foundational concept in [economics](../e/economics.md) and [finance](../f/finance.md), profoundly influencing [market](../m/market.md) outcomes and behaviors. In the realm of [algorithmic trading](../a/accountability.md), it shapes strategies, presents ethical challenges, and prompts ongoing regulatory actions. Understanding and addressing the implications of asymmetric information are crucial for fostering efficient, fair, and transparent [financial markets](../f/financial_market.md). 
+Asymmetric information is a foundational concept in [economics](../e/economics.md) and [finance](../f/finance.md), profoundly influencing [market](../m/market.md) outcomes and behaviors. In the realm of [algorithmic trading](../a/accountability.md), it shapes strategies, presents ethical challenges, and prompts ongoing regulatory actions. Understanding and addressing the implications of asymmetric information are crucial for fostering efficient, fair, and transparent [financial markets](../f/financial_market.md).
 
 As technological advancements and data accessibility continue to evolve, the dynamics of asymmetric information [will](../w/will.md) undoubtedly transform, presenting new opportunities and challenges for traders, firms, and regulators alike.

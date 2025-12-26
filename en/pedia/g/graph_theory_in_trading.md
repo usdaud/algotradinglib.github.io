@@ -18,30 +18,30 @@ At its core, graph theory studies the properties and applications of graphs, whi
 A fundamental use of graph theory in trading is [market](../m/market.md) [network analysis](../n/network_analysis_in_trading.md), where [stocks](../s/stock.md), financial instruments, or other [market](../m/market.md) entities are represented as vertices, and the relationships between them (based on correlations, transactions, etc.) are edges. [Market](../m/market.md) networks can reveal valuable insights into [market dynamics](../m/market_dynamics.md).
 
 - **[Correlation](../c/correlation.md) Networks:** One common approach is to create a [correlation](../c/correlation.md) matrix of [asset](../a/asset.md) returns and then convert it into a graph. In this graph, vertices represent assets, and edges represent correlations between [asset](../a/asset.md) returns. By analyzing the structure of this network, traders can identify clusters of highly correlated assets.
-  
-  ```python
-  [import](../i/import.md) numpy as np
-  [import](../i/import.md) networkx as nx
-  [import](../i/import.md) matplotlib.pyplot as plt
-  
-  # Generate a random [correlation](../c/correlation.md) matrix
-  np.random.seed(0)
-  random_data = np.random.randn(10, 1000)
-  corr_matrix = np.corrcoef(random_data)
-  
-  # Create a graph based on the [correlation](../c/correlation.md) matrix
-  G = nx.Graph()
-  
-  for i in [range](../r/range.md)(len(corr_matrix)):
-      for j in [range](../r/range.md)(i+1, len(corr_matrix)):
-          if abs(corr_matrix[i, j]) > 0.5:  # Thresholding to avoid too many edges
-              G.add_edge(i, j, weight=corr_matrix[i, j])
-  
-  # Visualize the graph
-  pos = nx.spring_layout(G)
-  nx.draw(G, pos, with_labels=True)
-  plt.show()
-  ```
+
+ ```python
+ [import](../i/import.md) numpy as np
+ [import](../i/import.md) networkx as nx
+ [import](../i/import.md) matplotlib.pyplot as plt
+
+ # Generate a random [correlation](../c/correlation.md) matrix
+ np.random.seed(0)
+ random_data = np.random.randn(10, 1000)
+ corr_matrix = np.corrcoef(random_data)
+
+ # Create a graph based on the [correlation](../c/correlation.md) matrix
+ G = nx.Graph()
+
+ for i in [range](../r/range.md)(len(corr_matrix)):
+ for j in [range](../r/range.md)(i+1, len(corr_matrix)):
+ if abs(corr_matrix[i, j]) > 0.5: # Thresholding to avoid too many edges
+ G.add_edge(i, j, weight=corr_matrix[i, j])
+
+ # Visualize the graph
+ pos = nx.spring_layout(G)
+ nx.draw(G, pos, with_labels=True)
+ plt.show()
+ ```
 
 #### 2. Risk Management
 
@@ -75,25 +75,25 @@ Several companies and institutions [leverage](../l/leverage.md) graph theory in 
 
 Kx Systems is a world leader in high-performance, time-series databases. The company's kdb+ database supports advanced analytics, including those based on graph theory, to enable ultra-fast decision-making in trading.
 
-Website: [Kx Systems](https://kx.com/)
+online platform: Kx Systems
 
 #### 2. **Graphistry**
 
 Graphistry offers a visual investigation platform that uses GPU-accelerated graph analytics to transform complex data into easy-to-understand graph visualizations. This can be particularly useful for detecting anomalies and [pattern recognition](../p/pattern_recognition.md) in trading data.
 
-Website: [Graphistry](https://www.graphistry.com/)
+online platform: Graphistry
 
 #### 3. **Neo4j**
 
 Neo4j is a leading graph database platform that provides tools and technologies for advanced graph analytics. In the context of trading, it can be used to model and analyze complex financial networks.
 
-Website: [Neo4j](https://neo4j.com/)
+online platform: Neo4j
 
 #### 4. **Quantexa**
 
 Quantexa uses advanced network analytics powered by graph theory to enhance decision-making in [finance](../f/finance.md). Their platform is adept at detecting risks, uncovering [fraud](../f/fraud.md), and gaining insights from [big data](../b/big_data_in_trading.md).
 
-Website: [Quantexa](https://www.quantexa.com/)
+online platform: Quantexa
 
 ### Conclusion
 

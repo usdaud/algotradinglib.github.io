@@ -32,15 +32,15 @@ The most straightforward approach to JVA is through [covariance](../c/covariance
 
 - **[Covariance](../c/covariance.md) (σxy):** Measures how two assets move together. A positive [covariance](../c/covariance.md) indicates that two securities tend to move in the same direction, while a negative [covariance](../c/covariance.md) indicates they move inversely.
 
-    \[
-    \sigma_{xy} = \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{n-1}
-    \]
+ \[
+ \sigma_{xy} = \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{n-1}
+ \]
 
 - **[Correlation](../c/correlation.md) (ρxy):** Standardizes the [covariance](../c/covariance.md) by the volatilities of the individual securities, making it easier to interpret.
 
-    \[
-    \rho_{xy} = \frac{\sigma_{xy}}{\sigma_x \sigma_y}
-    \]
+ \[
+ \rho_{xy} = \frac{\sigma_{xy}}{\sigma_x \sigma_y}
+ \]
 
 ### Multivariate GARCH (MGARCH)
 
@@ -126,10 +126,9 @@ With advances in computing power and data availability, real-time [Joint](../j/j
 
 ## References
 
-- [Robert Engle's Financial Econometrics](https://www.nyu.edu)
-- [Financial Modeling Software by MATLAB](https://www.mathworks.com) 
-- [Rugarch and Rmgarch for R](https://cran.r-project.org/web/packages/rugarch/index.html)
-- [ARCH and Statsmodels for Python](https://www.arch.readthedocs.io/en/latest/)
-- [PyMC3 for Probabilistic Programming in Python](https://docs.pymc.io/en/v3/)
+- Robert Engle's Financial Econometrics
+- Financial Modeling Software by MATLAB - Rugarch and Rmgarch for R
+- ARCH and Statsmodels for Python
+- PyMC3 for Probabilistic Programming in Python
 
 Understanding and implementing [Joint](../j/joint.md) [Volatility Analysis](../v/volatility_analysis.md) can [offer](../o/offer.md) strategic advantages in [algorithmic trading](../a/algorithmic_trading.md), particularly in complex, correlated [financial markets](../f/financial_market.md). The methodologies and tools discussed provide a [robust](../r/robust.md) framework for pursuing advanced [volatility analysis](../v/volatility_analysis.md).

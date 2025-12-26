@@ -55,6 +55,5 @@ Despite its widespread use, the BDI has certain limitations:
 
 In recent years, the BDI has experienced significant fluctuations due to factors such as the COVID-19 pandemic, which disrupted global [supply](../s/supply.md) chains and altered [trade](../t/trade.md) dynamics. As the world transitions toward recovery, the BDI [will](../w/will.md) continue to be a crucial measure of economic resilience and growth. Emerging trends such as sustainability and the decarbonization of shipping may also influence BDI calculations and the broader maritime [industry](../i/industry.md) in the future.
 
-For more information on the Baltic Dry [Index](../i/index_instrument.md) and related data, you can visit the official Baltic [Exchange](../e/exchange.md) website [here](https://www.balticexchange.com/en/index.html).
 
 Understanding the BDI provides invaluable insights into the complex interplay of global [trade](../t/trade.md), economic health, and the shipping [industry](../i/industry.md)'s dynamics. As a tool for informed decision-making and economic analysis, the BDI remains indispensable in today's interconnected world.

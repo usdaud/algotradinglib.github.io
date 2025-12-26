@@ -28,7 +28,7 @@ From a technical standpoint, the implementation of OCA orders can be complex. Tr
 
 ### Broker Support
 
-Many online brokerages and trading platforms support OCA orders. For instance, [Interactive Brokers](../i/interactive_brokers.md) (IBKR) provides extensive support for OCA orders. Traders can create OCA groups through the IBKR [Trader](../t/trader.md) Workstation or via their API, allowing for seamless integration into [automated trading systems](../a/automated_trading_systems.md). More details can be found [here](https://www.interactivebrokers.com/en/index.php?f=4985).
+Many online brokerages and trading platforms support OCA orders. For instance, [Interactive Brokers](../i/interactive_brokers.md) (IBKR) provides extensive support for OCA orders. Traders can create OCA groups through the IBKR [Trader](../t/trader.md) Workstation or via their API, allowing for seamless integration into [automated trading systems](../a/automated_trading_systems.md). More details can be found here.
 
 ### API Integration
 

@@ -126,6 +126,6 @@ The role of a Relationship Manager is multifaceted and integral to the success o
 
 ## Examples of Financial Institutions with Prominent RM Programs
 
-- **Citibank** ( [Citibank](https://www.citigroup.com) ): Prominent for its global reach and comprehensive [relationship management](../r/relationship_management.md) services tailored for various client segments.
-- **HSBC** ( [HSBC](https://www.hsbc.com) ): Known for its personalized [relationship management](../r/relationship_management.md) approach within retail and [private banking](../p/private_banking.md).
-- **Goldman Sachs** ( [Goldman Sachs](https://www.goldmansachs.com) ): Offers bespoke [relationship management](../r/relationship_management.md) services through its Private [Wealth Management](../w/wealth_management.md) division.
+- **Citibank** ( Citibank ): Prominent for its global reach and comprehensive [relationship management](../r/relationship_management.md) services tailored for various client segments.
+- **HSBC** ( HSBC ): Known for its personalized [relationship management](../r/relationship_management.md) approach within retail and [private banking](../p/private_banking.md).
+- **Goldman Sachs** ( Goldman Sachs ): Offers bespoke [relationship management](../r/relationship_management.md) services through its Private [Wealth Management](../w/wealth_management.md) division.

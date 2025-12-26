@@ -19,7 +19,7 @@ A rights [offering](../o/offering.md), also known as a rights [issue](../i/issue
 ### Types of Rights Offerings
 
 1. **Direct Rights [Offering](../o/offering.md)**: Shareholders are given rights which they may use to subscribe for additional [shares](../s/shares.md) at a discounted price.
-   
+
 2. **Standby Rights [Offering](../o/offering.md)**: The company has an agreement with an investment [bank](../b/bank.md) or another large [investor](../i/investor.md) to purchase any [unsubscribed](../u/unsubscribed.md) [shares](../s/shares.md), providing a guarantee that the company [will](../w/will.md) raise the targeted amount of [capital](../c/capital.md).
 
 3. **Renounceable Rights Offerings**: Shareholders can sell these rights in the [secondary market](../s/secondary_market.md). This type provides flexibility for shareholders who might not want to invest further in the company but want to benefit by selling those rights.
@@ -51,16 +51,16 @@ A rights [offering](../o/offering.md), also known as a rights [issue](../i/issue
 ### Practical Example
 
 1. **ABC Corp Rights [Offering](../o/offering.md)**:
-   - **Announcement**: ABC Corp announces a rights [offering](../o/offering.md) on November 1.
-   - **Terms**: 1 new share for every 4 [shares](../s/shares.md) held at $10 per new share (current [market price](../m/market_price.md) $12).
-   - **[Record Date](../r/record_date.md)**: November 10.
-   - **Subscription Period**: November 11 to November 30.
-   - **Result**: Shareholders either subscribe to new [shares](../s/shares.md) at a [discount](../d/discount.md), sell their rights, or allow them to [lapse](../l/lapse.md).
+ - **Announcement**: ABC Corp announces a rights [offering](../o/offering.md) on November 1.
+ - **Terms**: 1 new share for every 4 [shares](../s/shares.md) held at $10 per new share (current [market price](../m/market_price.md) $12).
+ - **[Record Date](../r/record_date.md)**: November 10.
+ - **Subscription Period**: November 11 to November 30.
+ - **Result**: Shareholders either subscribe to new [shares](../s/shares.md) at a [discount](../d/discount.md), sell their rights, or allow them to [lapse](../l/lapse.md).
 
 2. **XYZ Corp Standby Rights [Offering](../o/offering.md)**:
-   - **Announcement and Terms**: XYZ Corp announces they [will](../w/will.md) [issue](../i/issue.md) 2 new [shares](../s/shares.md) for every 10 [shares](../s/shares.md) held at a 15% [discount](../d/discount.md) to the [market price](../m/market_price.md).
-   - **Investment [Bank](../b/bank.md) Standby**: A reputable investment [bank](../b/bank.md) agrees to purchase any [unsubscribed](../u/unsubscribed.md) [shares](../s/shares.md).
-   - **Outcome**: Ensures the company raises the required [capital](../c/capital.md), minimizing the [financial risk](../f/financial_risk.md) related to [unsubscribed](../u/unsubscribed.md) [shares](../s/shares.md).
+ - **Announcement and Terms**: XYZ Corp announces they [will](../w/will.md) [issue](../i/issue.md) 2 new [shares](../s/shares.md) for every 10 [shares](../s/shares.md) held at a 15% [discount](../d/discount.md) to the [market price](../m/market_price.md).
+ - **Investment [Bank](../b/bank.md) Standby**: A reputable investment [bank](../b/bank.md) agrees to purchase any [unsubscribed](../u/unsubscribed.md) [shares](../s/shares.md).
+ - **Outcome**: Ensures the company raises the required [capital](../c/capital.md), minimizing the [financial risk](../f/financial_risk.md) related to [unsubscribed](../u/unsubscribed.md) [shares](../s/shares.md).
 
 ## Regulatory Considerations
 
@@ -88,16 +88,16 @@ Rights offerings can also be leveraged by fintech companies seeking to [capitali
 - **Regulatory Compliance**: Ensure compliance with ever-evolving regulatory standards.
 
 ### Algortrading Companies
-[Algorithmic trading](../a/accountability.md) firms might pursue rights offerings to:
+[Algorithmic trading](../a/algorithmic_trading.md) firms might pursue rights offerings to:
 
 - **Enhance [Infrastructure](../i/infrastructure.md)**: Invest in high-frequency trading (HFT) capabilities, low-latency networks, or sophisticated algorithms.
 - **Research and Development**: Allocate resources towards developing new [trading models](../t/trading_models.md) or [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md).
 - **Expand Working [Capital](../c/capital.md)**: Ensure they have adequate [capital](../c/capital.md) to [leverage](../l/leverage.md) [market](../m/market.md) opportunities or manage operational costs effectively.
 
-For example, an [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) might utilize the raised [capital](../c/capital.md) to [finance](../f/finance.md) the development of an AI-driven prediction model that outperforms traditional statistical models, thereby giving them a competitive edge in the [market](../m/market.md).
+For example, an [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md) might utilize the raised [capital](../c/capital.md) to [finance](../f/finance.md) the development of an AI-driven prediction model that outperforms traditional statistical models, thereby giving them a competitive edge in the [market](../m/market.md).
 
 ## Conclusion
 
 Rights offerings remain a [robust](../r/robust.md) tool for companies looking to raise [capital](../c/capital.md) while favoring existing shareholders. They bridge the gap between the company's need for [finance](../f/finance.md) and shareholders' desire to maintain their [equity](../e/equity.md) stake. Despite their complexity and potential [market](../m/market.md) impact, rights issues [offer](../o/offer.md) a balanced approach to raising funds in both stable and volatile markets.
 
-In contemporary [finance](../f/finance.md), with the rise of fintech and [algorithmic trading](../a/accountability.md), rights offerings can play a pivotal role in facilitating advanced research and technological developments, ensuring companies remain competitive and future-ready.
+In contemporary [finance](../f/finance.md), with the rise of fintech and [algorithmic trading](../a/algorithmic_trading.md), rights offerings can play a pivotal role in facilitating advanced research and technological developments, ensuring companies remain competitive and future-ready.

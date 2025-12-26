@@ -15,24 +15,24 @@
 There are various types of [simulation](../s/simulation_in_trading.md) models commonly used in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Historical Data [Simulation](../s/simulation_in_trading.md) ([Backtesting](../b/backtesting.md))**:
-   - **Definition**: Utilizes past [market](../m/market.md) data to simulate how a [trading strategy](../t/trading_strategy.md) would have performed historically.
-   - **Usage**: Helps to validate strategies based on previous [market](../m/market.md) behaviors.
-   - **Tools**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) often provide built-in [backtesting](../b/backtesting.md) capabilities.
+ - **Definition**: Utilizes past [market](../m/market.md) data to simulate how a [trading strategy](../t/trading_strategy.md) would have performed historically.
+ - **Usage**: Helps to validate strategies based on previous [market](../m/market.md) behaviors.
+ - **Tools**: Platforms like MetaTrader, [StockSharp](../s/stocksharp.md), and [NinjaTrader](../n/ninjatrader.md) often provide built-in [backtesting](../b/backtesting.md) capabilities.
 
 2. **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**:
-   - **Definition**: Uses random [sampling](../s/sampling.md) and statistical modeling to estimate the probability of different outcomes.
-   - **Usage**: Ideal for [risk](../r/risk.md) assessment and understanding the [variability](../v/variability.md) of returns.
-   - **Implementation**: Traders might run thousands of simulations with varied inputs to assess the robustness of their strategies.
+ - **Definition**: Uses random [sampling](../s/sampling.md) and statistical modeling to estimate the probability of different outcomes.
+ - **Usage**: Ideal for [risk](../r/risk.md) assessment and understanding the [variability](../v/variability.md) of returns.
+ - **Implementation**: Traders might run thousands of simulations with varied inputs to assess the robustness of their strategies.
 
 3. **Agent-Based Modeling**:
-   - **Definition**: Involves creating autonomous agents with predefined rules and simulating their interactions.
-   - **Usage**: Effective for understanding [market dynamics](../m/market_dynamics.md) resulting from the collective behavior of [multiple](../m/multiple.md) trading entities.
-   - **Research**: Often used in academic and institutional research to study [market microstructure](../m/market_microstructure.md).
+ - **Definition**: Involves creating autonomous agents with predefined rules and simulating their interactions.
+ - **Usage**: Effective for understanding [market dynamics](../m/market_dynamics.md) resulting from the collective behavior of [multiple](../m/multiple.md) trading entities.
+ - **Research**: Often used in academic and institutional research to study [market microstructure](../m/market_microstructure.md).
 
 4. **Synthetic Data Generation**:
-   - **Definition**: Creating artificial data that resembles real [market](../m/market.md) conditions using statistical techniques and machine [learning algorithms](../l/learning_algorithms_in_trading.md).
-   - **Usage**: Useful when historical data is insufficient or when testing on hypothetical scenarios.
-   - **Tools**: Algorithms such as GANs ([Generative Adversarial Networks](../g/generative_adversarial_networks.md)) are increasingly employed for synthetic data generation.
+ - **Definition**: Creating artificial data that resembles real [market](../m/market.md) conditions using statistical techniques and machine [learning algorithms](../l/learning_algorithms_in_trading.md).
+ - **Usage**: Useful when historical data is insufficient or when testing on hypothetical scenarios.
+ - **Tools**: Algorithms such as GANs ([Generative Adversarial Networks](../g/generative_adversarial_networks.md)) are increasingly employed for synthetic data generation.
 
 ### Key Components of Simulation Models
 
@@ -63,35 +63,35 @@ Evaluating a [trading strategy](../t/trading_strategy.md) requires a suite of [p
 #### Software and Platforms
 Various [software platforms](../s/software_platforms_for_trading.md) provide extensive tools for building and running [simulation](../s/simulation_in_trading.md) models. Notable ones include:
 
-1. **[QuantConnect](../q/quantconnect.md) ([quantconnect](../q/quantconnect.md).com)**:
-   - **Description**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [backtesting](../b/backtesting.md) and live trading capabilities across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
-   - **Features**: Extensive libraries, integration with brokerages, and collaboration tools for community-driven development.
+1. **[StockSharp](../s/stocksharp.md)**:
+ - **Description**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [backtesting](../b/backtesting.md) and live trading capabilities across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+ - **Features**: Extensive libraries, integration with brokerages, and collaboration tools for community-driven development.
 
 2. **MetaTrader ([metatrader5](../m/metatrader5.md).com)**:
-   - **Description**: A widely-used [trading platform](../t/trading_platform.md) providing high-performance charting, trading, and [backtesting](../b/backtesting.md) capabilities.
-   - **Features**: MQL scripting language for developing [trading strategies](../t/trading_strategies.md), extensive financial instruments coverage.
+ - **Description**: A widely-used [trading platform](../t/trading_platform.md) providing high-performance charting, trading, and [backtesting](../b/backtesting.md) capabilities.
+ - **Features**: MQL scripting language for developing [trading strategies](../t/trading_strategies.md), extensive financial instruments coverage.
 
 3. **[NinjaTrader](../n/ninjatrader.md) ([ninjatrader](../n/ninjatrader.md).com)**:
-   - **Description**: A versatile [trading platform](../t/trading_platform.md) focused on [futures](../f/futures.md), forex, and [stocks](../s/stock.md), [offering](../o/offering.md) advanced charting and [backtesting](../b/backtesting.md) features.
-   - **Features**: C# based strategy development environment, strong community support.
+ - **Description**: A versatile [trading platform](../t/trading_platform.md) focused on [futures](../f/futures.md), forex, and [stocks](../s/stock.md), [offering](../o/offering.md) advanced charting and [backtesting](../b/backtesting.md) features.
+ - **Features**: C# based strategy development environment, strong community support.
 
 4. **Matlab (mathworks.com/products/matlab.html)**:
-   - **Description**: A high-level programming environment used extensively for numerical analysis, simulations, and algorithm development.
-   - **Features**: Financial toolbox for [quantitative analysis](../q/quantitative_analysis.md), extensive [data visualization](../d/data_visualization.md) tools.
+ - **Description**: A high-level programming environment used extensively for numerical analysis, simulations, and algorithm development.
+ - **Features**: Financial toolbox for [quantitative analysis](../q/quantitative_analysis.md), extensive [data visualization](../d/data_visualization.md) tools.
 
 ### Challenges and Considerations
 
 1. **[Overfitting](../o/overfitting.md)**: There's a [risk](../r/risk.md) of creating overly complex models that perform well on historical data but [fail](../f/fail.md) in live trading.
-   - **Mitigation**: Use cross-validation techniques and [out-of-sample testing](../o/out-of-sample_testing.md) to ensure generalizability.
+ - **Mitigation**: Use cross-validation techniques and [out-of-sample testing](../o/out-of-sample_testing.md) to ensure generalizability.
 
 2. **Data Quality**: Inaccurate or incomplete data can lead to misleading [simulation](../s/simulation_in_trading.md) results.
-   - **Mitigation**: Source data from reputable providers and perform rigorous [data cleaning](../d/data_cleaning.md) and preprocessing.
+ - **Mitigation**: Source data from reputable providers and perform rigorous [data cleaning](../d/data_cleaning.md) and preprocessing.
 
 3. **Computational Resources**: Some simulations, especially Monte Carlo and agent-based models, can be computationally intensive.
-   - **Mitigation**: Utilize high-performance computing resources and optimize code for [efficiency](../e/efficiency.md).
+ - **Mitigation**: Utilize high-performance computing resources and optimize code for [efficiency](../e/efficiency.md).
 
 4. **Regulatory Considerations**: Ensure that simulations comply with relevant financial regulations and [ethical standards](../e/ethical_standards_in_trading.md).
-   - **Mitigation**: Consult with legal and compliance experts, adhere to [best practices](../b/best_practices.md).
+ - **Mitigation**: Consult with legal and compliance experts, adhere to [best practices](../b/best_practices.md).
 
 ### Conclusion
 

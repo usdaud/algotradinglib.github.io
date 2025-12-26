@@ -66,7 +66,7 @@ Engaging directly with company management through interviews, conference calls, 
 Platforms like [Bloomberg Terminal](../b/bloomberg_terminal.md) and Thomson [Reuters](../r/reuters.md) Eikon [offer](../o/offer.md) [robust](../r/robust.md) tools for conducting comprehensive [fundamental analysis](../f/fundamental_analysis.md), [financial modeling](../f/financial_modeling.md), and [market](../m/market.md) comparisons.
 
 #### Machine Learning and AI
-Advanced technologies, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), are increasingly used to process vast amounts of data and identify patterns that may not be evident through traditional analysis. Companies like Kensho Technologies are pioneering AI-driven [financial analysis](../f/financial_analysis.md) (https://www.spglobal.com/en/research-insights/articles/the-power-of-kensho).
+Advanced technologies, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), are increasingly used to process vast amounts of data and identify patterns that may not be evident through traditional analysis. Companies like Kensho Technologies are pioneering AI-driven [financial analysis](../f/financial_analysis.md) (
 
 #### Data Platforms
 Financial data providers such as S&P [Capital IQ](../c/capital_iq.md) and [FactSet](../f/factset.md) [supply](../s/supply.md) an extensive array of financial data, enabling investors to conduct detailed [fundamental analysis](../f/fundamental_analysis.md) efficiently.

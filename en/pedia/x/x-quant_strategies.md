@@ -93,21 +93,21 @@ While these strategies have increased [market efficiency](../m/market_efficiency
 
 ### RenTech's Medallion Fund
 
-Renaissance Technologies' Medallion [Fund](../f/fund.md) is one of the most successful examples of an X-Quant Strategy. The [fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to make high-frequency decisions in a wide array of markets. 
+Renaissance Technologies' Medallion [Fund](../f/fund.md) is one of the most successful examples of an X-Quant Strategy. The [fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to make high-frequency decisions in a wide array of markets.
 
-For more information: [Renaissance Technologies](https://www.rentec.com/)
+For more information: Renaissance Technologies
 
 ### Two Sigma
 
 Two Sigma is another prominent example, employing [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to manage assets across various strategies spanning global markets.
 
-For more information: [Two Sigma](https://www.twosigma.com/)
+For more information: Two Sigma
 
 ### Citadel Securities
 
 Citadel Securities uses highly advanced [quantitative models](../q/quantitative_models.md) to engage in both [market](../m/market.md) making and [alpha generation](../a/alpha_generation.md) strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
-For more information: [Citadel Securities](https://www.citadelsecurities.com/)
+For more information: Citadel Securities
 
 ## Challenges in Implementing X-Quant Strategies
 

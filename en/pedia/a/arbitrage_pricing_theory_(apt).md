@@ -16,13 +16,13 @@
 
 The formula for APT can be written as follows:
 
-\[ E(R_i) = R_f + b_{i1}F_1 + b_{i2}F_2 + ... + b_{in}F_n \]
+\[ E(R_i) = R_f + b_{i1}F_1 + b_{i2}F_2 +... + b_{in}F_n \]
 
 Where:
 - \( E(R_i) \) = [Expected return](../e/expected_return.md) of [asset](../a/asset.md) i
 - \( R_f \) = [Risk](../r/risk.md)-free rate
-- \( b_{i1}, b_{i2}, ..., b_{in} \) = Sensitivity of [asset](../a/asset.md) i to each [factor](../f/factor.md)
-- \( F_1, F_2, ..., F_n \) = [Risk](../r/risk.md) premiums for each [factor](../f/factor.md)
+- \( b_{i1}, b_{i2},..., b_{in} \) = Sensitivity of [asset](../a/asset.md) i to each [factor](../f/factor.md)
+- \( F_1, F_2,..., F_n \) = [Risk](../r/risk.md) premiums for each [factor](../f/factor.md)
 
 The residual term, often denoted by \( \epsilon_i \), captures the [idiosyncratic risk](../i/idiosyncratic_risk.md) of the [asset](../a/asset.md).
 
@@ -72,9 +72,9 @@ APT aids in [risk management](../r/risk_management.md) by identifying and quanti
 
 Several [hedge](../h/hedge.md) funds and financial institutions utilize APT within their trading and [risk management frameworks](../r/risk_management_frameworks.md). Some notable firms include:
 
-1. **AQR [Capital](../c/capital.md) Management**: AQR employs quantitative methods and multifactor models, including APT, in its investment strategies. [AQR Capital Management](https://www.aqr.com)
-2. **Two Sigma**: Two Sigma uses [data science](../d/data_science_in_trading.md) and advanced [quantitative models](../q/quantitative_models.md), which can encompass APT factors, for [algorithmic trading](../a/accountability.md) and [portfolio management](../p/par.md). [Two Sigma](https://www.twosigma.com)
-3. **Renaissance Technologies**: Renowned for its quantitative approach, Renaissance Technologies applies multifactor models, likely inclusive of APT principles, in its [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com)
+1. **AQR [Capital](../c/capital.md) Management**: AQR employs quantitative methods and multifactor models, including APT, in its investment strategies. AQR Capital Management
+2. **Two Sigma**: Two Sigma uses [data science](../d/data_science_in_trading.md) and advanced [quantitative models](../q/quantitative_models.md), which can encompass APT factors, for [algorithmic trading](../a/accountability.md) and [portfolio management](../p/par.md). Two Sigma
+3. **Renaissance Technologies**: Renowned for its quantitative approach, Renaissance Technologies applies multifactor models, likely inclusive of APT principles, in its [trading algorithms](../t/trading_algorithms.md). Renaissance Technologies
 
 ## Conclusion
 

@@ -58,11 +58,11 @@ In high-frequency trading, speed is paramount. HFT algorithms are programmed to 
 
 Many financial websites and platforms [offer](../o/offer.md) economic calendars. Some of the most prominent providers include:
 
-- **[Investing](../i/investing.md).com** (https://www.[investing](../i/investing.md).com/economic-calendar/): This site offers a comprehensive economic calendar that covers global economic events. Users can filter events by country, impact, and date [range](../r/range.md).
-- **Forex Factory** (https://www.forexfactory.com/calendar.php): Known for its detailed and user-friendly calendar, Forex Factory provides real-time data and [market](../m/market.md) impact analysis.
-- **[Trading Economics](../t/trading_economics.md)** (https://tradingeconomics.com/calendar): Offers a calendar with extensive coverage of global [economic indicators](../e/economic_indicators.md), including historical data and forecast comparisons.
-- **[Bloomberg](../b/bloomberg.md)** (https://www.[bloomberg](../b/bloomberg.md).com/markets/economic-calendar): [Bloomberg](../b/bloomberg.md)'s economic calendar is aimed at professionals, [offering](../o/offering.md) detailed event descriptions and [market](../m/market.md) analysis.
-- **MarketWatch** (https://www.marketwatch.com/[economy](../e/economy.md)-politics/calendar): Provides an intuitive calendar with a blend of economic data releases and major policy events.
+- **[Investing](../i/investing.md).com** ( This site offers a comprehensive economic calendar that covers global economic events. Users can filter events by country, impact, and date [range](../r/range.md).
+- **Forex Factory** ( Known for its detailed and user-friendly calendar, Forex Factory provides real-time data and [market](../m/market.md) impact analysis.
+- **[Trading Economics](../t/trading_economics.md)** ( Offers a calendar with extensive coverage of global [economic indicators](../e/economic_indicators.md), including historical data and forecast comparisons.
+- **[Bloomberg](../b/bloomberg.md)** ( [Bloomberg](../b/bloomberg.md)'s economic calendar is aimed at professionals, [offering](../o/offering.md) detailed event descriptions and [market](../m/market.md) analysis.
+- **MarketWatch** Provides an intuitive calendar with a blend of economic data releases and major policy events.
 
 ## Common Economic Events Listed
 

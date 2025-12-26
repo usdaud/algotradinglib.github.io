@@ -4,7 +4,7 @@ The term "overleveraged" refers to a situation where a company, an individual, o
 
 ## Understanding Leverage
 
-[Leverage](../l/leverage.md) is a strategy that involves borrowing [capital](../c/capital.md) to invest in assets with the expectation that the [income](../i/income.md) or [capital](../c/capital.md) gains from the new assets [will](../w/will.md) exceed the cost of borrowing. [Leverage](../l/leverage.md) is commonly used in various forms, including loans, bonds, and other [debt](../d/debt.md) instruments. 
+[Leverage](../l/leverage.md) is a strategy that involves borrowing [capital](../c/capital.md) to invest in assets with the expectation that the [income](../i/income.md) or [capital](../c/capital.md) gains from the new assets [will](../w/will.md) exceed the cost of borrowing. [Leverage](../l/leverage.md) is commonly used in various forms, including loans, bonds, and other [debt](../d/debt.md) instruments.
 
 When [leverage](../l/leverage.md) is employed, an entity can control a larger amount of assets for the same amount of [equity](../e/equity.md), potentially enhancing returns on investment. However, it also increases the [risk](../r/risk.md) of losses, as borrowing essentially means committing to fixed [interest](../i/interest.md) payments and [principal](../p/principal.md) [repayment](../r/repayment.md) regardless of the investment outcome.
 
@@ -16,7 +16,7 @@ When [leverage](../l/leverage.md) is employed, an entity can control a larger am
 
 3. **[Credit Rating](../c/credit_rating.md) Downgrade**: [Rating](../r/rating.md) agencies such as Standard & Poor's (S&P), Moody's, and Fitch often downgrade a company’s [credit rating](../c/credit_rating.md) if it’s believed to be overleveraged, reflecting a higher [risk](../r/risk.md) of [default](../d/default.md).
 
-4. **High-[Interest](../i/interest.md) Payments**: Regularly increasing [interest](../i/interest.md) expenses relative to [revenue](../r/revenue.md) or net [income](../i/income.md) can also be a marker of excessive [leverage](../l/leverage.md). 
+4. **High-[Interest](../i/interest.md) Payments**: Regularly increasing [interest](../i/interest.md) expenses relative to [revenue](../r/revenue.md) or net [income](../i/income.md) can also be a marker of excessive [leverage](../l/leverage.md).
 
 5. **Dependency on Refinancing**: Overleveraged companies often depend heavily on the ability to [refinance](../r/refinance.md) existing [debt](../d/debt.md). Should [market](../m/market.md) conditions change unfavorably, this reliance can become a critical vulnerability.
 
@@ -28,7 +28,7 @@ When [leverage](../l/leverage.md) is employed, an entity can control a larger am
 
 3. **[Economic Cycles](../e/economic_cycles.md)**: Economic downturns, recessions, or depressions can exacerbate the effects of excessive [leverage](../l/leverage.md). During economic contractions, sales and revenues often plummet, making it harder to cover fixed [debt](../d/debt.md) payments.
 
-4. **Financial Mismanagement**: Poor [financial planning](../f/financial_planning.md) or mismanagement, including underestimating the cost of borrowing or overestimating future cash flows, can lead to overleveraging. 
+4. **Financial Mismanagement**: Poor [financial planning](../f/financial_planning.md) or mismanagement, including underestimating the cost of borrowing or overestimating future cash flows, can lead to overleveraging.
 
 5. **[Leverage](../l/leverage.md) Buyouts**: [Private equity](../p/private_equity.md) firms often engage in [leverage](../l/leverage.md) buyouts (LBOs) where they [finance](../f/finance.md) the [acquisition](../a/acquisition.md) of companies predominantly through [debt](../d/debt.md). These companies may continue to operate under heavy [leverage](../l/leverage.md) post-[acquisition](../a/acquisition.md).
 
@@ -68,6 +68,6 @@ Before declaring [bankruptcy](../b/bankruptcy.md) in 2009, General Motors faced 
 
 ## Conclusion
 
-Overleveraging is a precarious state that amplifies [risk](../r/risk.md) across various dimensions of a company’s operations and financial stability. While [leverage](../l/leverage.md) can be an essential tool for growth and [expansion](../e/expansion.md), prudent management, careful [financial planning](../f/financial_planning.md), and regular monitoring are imperative to avoid the pitfalls associated with excessive [debt](../d/debt.md). Understanding the signs, causes, and consequences of overleveraging, along with implementing strategies to mitigate its associated risks, are crucial steps for long-term [financial health](../f/financial_health.md) and sustainability. 
+Overleveraging is a precarious state that amplifies [risk](../r/risk.md) across various dimensions of a company’s operations and financial stability. While [leverage](../l/leverage.md) can be an essential tool for growth and [expansion](../e/expansion.md), prudent management, careful [financial planning](../f/financial_planning.md), and regular monitoring are imperative to avoid the pitfalls associated with excessive [debt](../d/debt.md). Understanding the signs, causes, and consequences of overleveraging, along with implementing strategies to mitigate its associated risks, are crucial steps for long-term [financial health](../f/financial_health.md) and sustainability.
 
-For further reading on leveraging and managing financial risks, you can refer to resources from comprehensive financial advisory firms such as [Bain & Company](https://www.bain.com) and notable financial management software providers like [Intuit](https://www.intuit.com).
+For further reading on leveraging and managing financial risks, you can refer to resources from comprehensive financial advisory firms such as Bain & Company and notable financial management software providers like Intuit.

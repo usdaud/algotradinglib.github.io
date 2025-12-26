@@ -58,7 +58,7 @@ The use of 2FA adds an extra layer of [security](../s/security.md) by requiring 
 
 ## API and Algorithmic Trading
 
-WhiteBIT's API is designed to cater to traders who prefer [algorithmic trading](../a/accountability.md). The API supports RESTful methods, as well as WebSocket for real-time data and [trade](../t/trade.md) executions. This makes it suitable for high-frequency trading (HFT) as well as more complex [trading strategies](../t/trading_strategies.md).
+WhiteBIT's API is designed to cater to traders who prefer [algorithmic trading](../a/algorithmic_trading.md). The API supports RESTful methods, as well as WebSocket for real-time data and [trade](../t/trade.md) executions. This makes it suitable for high-frequency trading (HFT) as well as more complex [trading strategies](../t/trading_strategies.md).
 
 ### REST API
 
@@ -107,10 +107,10 @@ WhiteBIT maintains an active presence on various [social media](../s/social_medi
 
 ### Social Media Channels
 
-* [Twitter](https://twitter.com/WhiteBit)
-* [Facebook](https://www.facebook.com/whitebit.exchange/)
-* [Instagram](https://www.instagram.com/whitebit.exchange/)
-* [Telegram](https://t.me/whitebit)
+* Twitter
+* Facebook
+* Instagram
+* Telegram
 
 ### Community Engagement
 
@@ -120,4 +120,4 @@ WhiteBIT has numerous community programs and initiatives to engage with its user
 
 WhiteBIT stands out as a comprehensive cryptocurrency [exchange](../e/exchange.md) [offering](../o/offering.md) a plethora of features and services designed to meet the needs of various types of traders. From low trading fees to high [liquidity](../l/liquidity.md), advanced [security](../s/security.md) measures, and a user-friendly interface, WhiteBIT aims to provide a seamless trading experience. As the platform continues to grow and evolve, it is well-positioned to become a leading player in the cryptocurrency [exchange](../e/exchange.md) [market](../m/market.md).
 
-For more detailed information, visit [WhiteBIT's official website](https://whitebit.com/).
+For more detailed information,

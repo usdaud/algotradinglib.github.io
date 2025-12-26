@@ -87,19 +87,17 @@ Some [debt](../d/debt.md) securities may be difficult to buy or sell quickly wit
 
 The SEC requires issuers to provide comprehensive information about the [debt](../d/debt.md) [security](../s/security.md) and their [financial health](../f/financial_health.md), ensuring [transparency](../t/transparency.md) and protecting investors.
 
-(For more information, visit [SEC](https://www.sec.gov/))
+(For more information, visit SEC)
 
 ## Prominent Issuers
 
 ### Government Issuers
 
-- **U.S. Department of the Treasury:** Issues Treasury bonds, notes, and bills (T-bills) [Treasury Department](https://home.treasury.gov/)
-- **European Central [Bank](../b/bank.md) (ECB):** Issues [Euro](../e/euro.md)-denominated [debt](../d/debt.md) securities [ECB](https://www.ecb.europa.eu/home/html/index.en.html)
+- **U.S. Department of the Treasury:** Issues Treasury bonds, notes, and bills (T-bills) Treasury Department
+- **European Central [Bank](../b/bank.md) (ECB):** Issues [Euro](../e/euro.md)-denominated [debt](../d/debt.md) securities ECB
 
 ### Corporate Issuers
 
-- **Apple Inc.:** Known for issuing corporate bonds [Apple Investor Relations](https://investor.apple.com/)
-- **Amazon.com Inc.:** Also issues corporate bonds to raise [capital](../c/capital.md) [Amazon Investor Relations](https://www.amazon.com/ir)
 
 ## Investment Strategies
 

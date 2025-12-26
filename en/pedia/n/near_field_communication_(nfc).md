@@ -71,8 +71,8 @@ NFC often competes with or complements other communication technologies like RFI
 The future of NFC is promising, with continuous advancements expected in miniaturization, [security](../s/security.md) protocols, and integration with other technologies. With the rise of smart cities and IoT, NFC's role in providing seamless and secure interactions [will](../w/will.md) likely expand. Enhanced interoperability and universal acceptance [will](../w/will.md) further [leverage](../l/leverage.md) its potential in various industries, providing more convenient and secure user experiences.
 
 For more information about companies leveraging NFC technology, you can visit:
-- [NXP Semiconductors](https://www.nxp.com)
-- [Sony Corporation](https://www.sony.net)
-- [Apple Inc.](https://www.apple.com/apple-pay/)
-- [Google Inc.](https://pay.google.com/about/)
-- [Samsung](https://www.samsung.com/samsung-pay/)
+- NXP Semiconductors
+- Sony Corporation
+- Apple Inc.
+- Google Inc.
+- Samsung

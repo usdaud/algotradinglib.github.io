@@ -114,12 +114,12 @@ Consider a hypothetical company with the following financial data for a quarterl
 
 - Core Operating Expenses: $500,000
 - Net Working [Capital](../c/capital.md) Changes: $50,000
-  - Accounts [Receivable](../r/receivable.md) Increase: $20,000
-  - [Inventory](../i/inventory.md) Increase: $30,000
-  - Accounts Payable Increase: $0
+ - Accounts [Receivable](../r/receivable.md) Increase: $20,000
+ - [Inventory](../i/inventory.md) Increase: $30,000
+ - Accounts Payable Increase: $0
 - [Debt](../d/debt.md) Servicing: $100,000
-  - [Interest](../i/interest.md) Payments: $40,000
-  - [Principal](../p/principal.md) Repayments: $60,000
+ - [Interest](../i/interest.md) Payments: $40,000
+ - [Principal](../p/principal.md) Repayments: $60,000
 - Maintenance CapEx: $25,000
 - [Taxes](../t/taxes.md): $75,000
 
@@ -139,22 +139,22 @@ Several financial technologies and tools assist in managing and [forecasting](..
 
 ERP systems, such as SAP and Oracle, integrate various [business](../b/business.md) processes, providing real-time data crucial for accurate OCFD management.
 
-- **SAP:** [SAP ERP](https://www.sap.com/products/erp-financial-management.html)
-- **Oracle:** [Oracle ERP](https://www.oracle.com/erp/)
+- **SAP:** SAP ERP
+- **Oracle:** Oracle ERP
 
 ### 2. **Cash Flow Management Software**
 
 Dedicated [cash flow](../c/cash_flow.md) management software, like QuickBooks and Xero, help small to medium-sized businesses track and forecast their [cash flow](../c/cash_flow.md) needs.
 
-- **QuickBooks:** [QuickBooks Cash Flow Management](https://quickbooks.intuit.com/)
-- **Xero:** [Xero Cash Flow Management](https://www.xero.com/)
+- **QuickBooks:** QuickBooks Cash Flow Management
+- **Xero:** Xero Cash Flow Management
 
 ### 3. **Financial Planning and Analysis (FP&A) Tools**
 
 Tools like Adaptive Insights and Anaplan provide advanced capabilities for [financial planning](../f/financial_planning.md), budgeting, and [forecasting](../f/forecasting.md) of OCFD.
 
-- **Adaptive Insights:** [Adaptive Insights](https://www.workday.com/en-us/applications/financial-management/adaptive-insights.html)
-- **Anaplan:** [Anaplan FP&A](https://www.anaplan.com/applications/fpa/)
+- **Adaptive Insights:** Adaptive Insights
+- **Anaplan:** Anaplan FP&A
 
 ### 4. **Custom Software Solutions**
 

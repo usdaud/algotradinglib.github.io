@@ -28,7 +28,7 @@ Technological developments such as improvements in internet connectivity, the pr
 From 1994 to 1998, the internet saw [exponential growth](../e/exponential_growth.md). The number of internet users doubled every year, and businesses began to take notice. Companies started to launch websites, e-[commerce](../c/commerce.md) began to grow, and the first internet-based companies started to go public.
 
 ### Peak (1999-2000)
-The speculative frenzy reached its peak between late 1999 and early 2000. The [Nasdaq Composite index](../n/nasdaq_composite_index.md), which had many tech [stocks](../s/stock.md), soared to unprecedented levels. Many companies with little more than a [business plan](../b/business_plan.md) and a ".com" suffix in their name were able to raise millions through IPOs. 
+The speculative frenzy reached its peak between late 1999 and early 2000. The [Nasdaq Composite index](../n/nasdaq_composite_index.md), which had many tech [stocks](../s/stock.md), soared to unprecedented levels. Many companies with little more than a [business plan](../b/business_plan.md) and a ".com" suffix in their name were able to raise millions through IPOs.
 
 ### Burst (2000-2002)
 By March 2000, the bubble reached its zenith and began to burst. Several factors contributed to the downturn, including unsustainable [business models](../b/business_models.md), high burn rates of [capital](../c/capital.md), and a [market](../m/market.md) [correction](../c/correction.md) that led to plummeting stock prices. By the end of 2002, many dotcoms had gone bankrupt, and trillions of dollars in [market value](../m/market_value.md) had been wiped out.
@@ -54,11 +54,11 @@ The burst led to greater [investor](../i/investor.md) skepticism towards tech [s
 
 ### Amazon
 Amazon went public in 1997, and while many dotcoms failed, Amazon managed to survive and thrive by diversifying its services and focusing on [customer](../c/customer.md) satisfaction. Today, it is one of the largest companies in the world.
-Website: [Amazon](http://www.amazon.com)
+online platform: Amazon
 
 ### eBay
 eBay's unique [business](../b/business.md) model of online auctions also allowed it to weather the storm. The company remained profitable and continued to grow post-bubble.
-Website: [eBay](http://www.ebay.com)
+online platform: eBay
 
 ### Pets.com
 Pets.com is one of the most infamous casualties of the dotcom bubble. Despite heavy advertising and a high-profile IPO, the company failed just nine months after [going public](../g/going_public.md).

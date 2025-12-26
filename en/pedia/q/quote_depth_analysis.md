@@ -59,21 +59,21 @@ Advanced traders use machine [learning algorithms](../l/learning_algorithms_in_t
 HFT firms rely heavily on depth analysis to execute trades at lightning speeds. By leveraging fast and advanced algorithms, they can quickly interpret [market depth](../m/market_depth.md) data to identify and exploit short-term pricing inefficiencies.
 
 #### Example: Virtu Financial
-[Virtu Financial](https://www.virtu.com/) uses sophisticated algorithms and [quote](../q/quote.md) depth analysis to engage in high-frequency trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. The [firm](../f/firm.md)'s ability to process immense amounts of [market depth](../m/market_depth.md) data in real-time is key to its trading success.
+Virtu Financial uses sophisticated algorithms and [quote](../q/quote.md) depth analysis to engage in high-frequency trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. The [firm](../f/firm.md)'s ability to process immense amounts of [market depth](../m/market_depth.md) data in real-time is key to its trading success.
 
 ### Algorithmic Market Making
 
 [Market](../m/market.md) makers use [quote](../q/quote.md) depth analysis to provide [liquidity](../l/liquidity.md) by constantly quoting buy and sell prices. This ensures tighter [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and enhances [market efficiency](../m/market_efficiency.md).
 
 #### Example: Flow Traders
-[Flow Traders](https://www.flowtraders.com/) specializes in [algorithmic market making](../a/algorithmic_market_making.md), utilizing [quote](../q/quote.md) depth analysis to manage their [liquidity provision](../l/liquidity_provision.md) strategies effectively. They analyze [order](../o/order.md) books across various exchanges to maintain optimal [inventory](../i/inventory.md) levels and minimize trading risks.
+Flow Traders specializes in [algorithmic market making](../a/algorithmic_market_making.md), utilizing [quote](../q/quote.md) depth analysis to manage their [liquidity provision](../l/liquidity_provision.md) strategies effectively. They analyze [order](../o/order.md) books across various exchanges to maintain optimal [inventory](../i/inventory.md) levels and minimize trading risks.
 
 ### Retail Trading Platforms
 
 Modern retail trading platforms [offer](../o/offer.md) [market depth](../m/market_depth.md) data to their users, helping them make better-informed trading decisions. These platforms provide Level 2 data through user-friendly interfaces, enabling traders to visualize and interpret the [order book](../o/order_book.md).
 
 #### Example: Interactive Brokers
-[Interactive Brokers](https://www.interactivebrokers.com/) provides retail traders with access to [market depth](../m/market_depth.md) data through its [trading platform](../t/trading_platform.md). Users can view the [order book](../o/order_book.md) for various securities, helping them gauge [market sentiment](../m/market_sentiment.md) and potential price movements.
+Interactive Brokers provides retail traders with access to [market depth](../m/market_depth.md) data through its [trading platform](../t/trading_platform.md). Users can view the [order book](../o/order_book.md) for various securities, helping them gauge [market sentiment](../m/market_sentiment.md) and potential price movements.
 
 ## Challenges in Quote Depth Analysis
 

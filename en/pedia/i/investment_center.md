@@ -38,9 +38,9 @@ Decentralization refers to the [distribution](../d/distribution.md) of decision-
 
 Several multinational corporations structure their operations around investment centers. Some notable examples include:
 
-- **General Electric (GE)**: GE is known for its diversified [business](../b/business.md) units, each of which operates as an investment center with specific ROI targets and strategic initiatives (https://www.ge.com/).
-- **Siemens**: Siemens employs a decentralized structure where each [business](../b/business.md) division is responsible for its own [financial performance](../f/financial_performance.md) and strategic decisions (https://www.siemens.com/).
-- **Johnson & Johnson**: This healthcare giant operates through [multiple](../m/multiple.md) divisions, each treated as an investment center with accountability for financial outcomes (https://www.jnj.com/).
+- **General Electric (GE)**: GE is known for its diversified [business](../b/business.md) units, each of which operates as an investment center with specific ROI targets and strategic initiatives (
+- **Siemens**: Siemens employs a decentralized structure where each [business](../b/business.md) division is responsible for its own [financial performance](../f/financial_performance.md) and strategic decisions (
+- **Johnson & Johnson**: This healthcare giant operates through [multiple](../m/multiple.md) divisions, each treated as an investment center with accountability for financial outcomes (
 
 ## Benefits of Investment Centers
 

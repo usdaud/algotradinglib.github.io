@@ -81,52 +81,51 @@ In multi-[asset](../a/asset.md) strategies, AR models can forecast returns for e
 Below is a step-by-step guide to implementing an AR model in Python using the `statsmodels` library.
 
 1. **Install the Necessary Libraries**:
-    ```bash
-    [pip](../p/pip.md) install numpy pandas statsmodels
-    ```
+ ```bash
+ [pip](../p/pip.md) install numpy pandas statsmodels
+ ```
 
 2. **[Load](../l/load.md) the Data**:
-    ```python
-    [import](../i/import.md) numpy as np
-    [import](../i/import.md) pandas as pd
-    [import](../i/import.md) statsmodels.api as sm
-    [import](../i/import.md) matplotlib.pyplot as plt
-    
-    # Sample data: Adjust with a relevant dataset
-    data = pd.read_csv('historical_prices.csv', index_col='Date', parse_dates=True)
-    prices = data['Close']
-    ```
+ ```python
+ [import](../i/import.md) numpy as np
+ [import](../i/import.md) pandas as pd
+ [import](../i/import.md) statsmodels.api as sm
+ [import](../i/import.md) matplotlib.pyplot as plt
+
+ # Sample data: Adjust with a relevant dataset
+ data = pd.read_csv('historical_prices.csv', index_col='Date', parse_dates=True)
+ prices = data['Close']
+ ```
 
 3. **[Check](../c/check.md) for Stationarity**:
-    ```python
-    from statsmodels.tsa.stattools [import](../i/import.md) adfuller
-    
-    result = adfuller(prices)
-    print('p-[value](../v/value.md):', result[1])
-    ```
+ ```python
+ from statsmodels.tsa.stattools [import](../i/import.md) adfuller
+
+ result = adfuller(prices)
+ print('p-[value](../v/value.md):', result[1])
+ ```
 
 4. **Differencing the Data**:
-    ```python
-    d_prices = prices.diff().dropna()
-    ```
+ ```python
+ d_prices = prices.diff().dropna()
+ ```
 
 5. **Fit the AR Model**:
-    ```python
-    model = sm.tsa.AR(d_prices)
-    ar_fit = model.fit(maxlag=5, ic='aic')
-    print(ar_fit.summary())
-    ```
+ ```python
+ model = sm.tsa.AR(d_prices)
+ ar_fit = model.fit(maxlag=5, ic='aic')
+ print(ar_fit.summary())
+ ```
 
 6. **Forecast Future Prices**:
-    ```python
-    forecast = ar_fit.predict(start=len(d_prices), end=len(d_prices)+10)
-    print(forecast)
-    ```
+ ```python
+ forecast = ar_fit.predict(start=len(d_prices), end=len(d_prices)+10)
+ print(forecast)
+ ```
 
 ### Real-world Examples
 
-- **Two Sigma** ([link](https://www.twosigma.com)): Uses sophisticated statistical models, including AR models, to drive its [trading strategies](../t/trading_strategies.md). 
-- **Renaissance Technologies** ([link](https://www.rentec.com)): Known for its Medallion [Fund](../f/fund.md), which employs various [mathematical models](../m/mathematical_models_in_trading.md) including autoregressive techniques to generate exceptional returns.
+- **Two Sigma** (link): Uses sophisticated statistical models, including AR models, to drive its [trading strategies](../t/trading_strategies.md). - **Renaissance Technologies** (link): Known for its Medallion [Fund](../f/fund.md), which employs various [mathematical models](../m/mathematical_models_in_trading.md) including autoregressive techniques to generate exceptional returns.
 
 ## Challenges and Limitations
 

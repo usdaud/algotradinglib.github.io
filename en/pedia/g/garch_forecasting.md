@@ -13,53 +13,53 @@ The basic GARCH model is denoted as GARCH(p, q), where 'p' is the [order](../o/o
 A GARCH(1, 1) model can be represented as:
 
 1. Mean equation:
-    \( r_t = \mu + \epsilon_t \)
-    where \( r_t \) is the [return](../r/return.md) at time t, \( \mu \) is the mean [return](../r/return.md), and \( \epsilon_t \) is the [error term](../e/error_term.md) (innovation).
+ \( r_t = \mu + \epsilon_t \)
+ where \( r_t \) is the [return](../r/return.md) at time t, \( \mu \) is the mean [return](../r/return.md), and \( \epsilon_t \) is the [error term](../e/error_term.md) (innovation).
 
 2. [Variance equation](../v/variance_equation.md):
-    \( \sigma_t^2 = \[omega](../o/omega.md) + \[alpha](../a/alpha.md) \epsilon_{t-1}^2 + \[beta](../b/beta.md) \sigma_{t-1}^2 \)
-    where \( \sigma_t^2 \) is the conditional variance at time t, \( \[omega](../o/omega.md) \) is a constant, \( \[alpha](../a/alpha.md) \) is the coefficient of the lagged squared returns (or ARCH term), and \( \[beta](../b/beta.md) \) is the coefficient of the lagged variance (or GARCH term).
+ \( \sigma_t^2 = \omega + \lpha \epsilon_{t-1}^2 + \beta \sigma_{t-1}^2 \)
+ where \( \sigma_t^2 \) is the conditional variance at time t, \( \omega \) is a constant, \( \lpha \) is the coefficient of the lagged squared returns (or ARCH term), and \( \beta \) is the coefficient of the lagged variance (or GARCH term).
 
 The [error term](../e/error_term.md) \( \epsilon_t \) is typically assumed to follow a [Normal distribution](../n/normal_distribution_in_trading.md) with zero mean and variance \( \sigma_t^2 \).
 
 ### Estimation and Parameter Stability
 
-The parameters of the GARCH model (\(\[omega](../o/omega.md)\), \(\[alpha](../a/alpha.md)\), \(\[beta](../b/beta.md)\)) can be estimated using [Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE). This involves maximizing the likelihood function constructed from the [probability distribution](../p/probability_distribution.md) of the residuals.
+The parameters of the GARCH model (\(\omega\), \(\lpha\), \(\beta\)) can be estimated using [Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE). This involves maximizing the likelihood function constructed from the [probability distribution](../p/probability_distribution.md) of the residuals.
 
-An important aspect of GARCH modeling is the stability of the parameters. Stability ensures that the estimated parameters generate a stationary [time series](../t/time_series.md). For a GARCH(1, 1) model, the condition for stability is \(\[alpha](../a/alpha.md) + \[beta](../b/beta.md) < 1\).
+An important aspect of GARCH modeling is the stability of the parameters. Stability ensures that the estimated parameters generate a stationary [time series](../t/time_series.md). For a GARCH(1, 1) model, the condition for stability is \(\lpha + \beta < 1\).
 
 ### Applications in Algorithmic Trading
 
-1. **[Risk Management](../r/risk_management.md)**: 
-   [GARCH models](../g/garch_models.md) help in the calculation of [Value](../v/value.md) at [Risk](../r/risk.md) (VaR), which is a measure of potential loss in the [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). Accurate forecasts of [volatility](../v/volatility.md) are indispensable for assessing potential risks.
+1. **[Risk Management](../r/risk_management.md)**:
+ [GARCH models](../g/garch_models.md) help in the calculation of [Value](../v/value.md) at [Risk](../r/risk.md) (VaR), which is a measure of potential loss in the [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). Accurate forecasts of [volatility](../v/volatility.md) are indispensable for assessing potential risks.
 
 2. **Option Pricing**:
-   The [Black-Scholes model](../b/black-scholes_model.md) and other option pricing frameworks rely on the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). [GARCH models](../g/garch_models.md) provide a more sophisticated measure of [volatility](../v/volatility.md) compared to historical variance, enhancing the precision of [option pricing models](../o/option_pricing_models.md).
+ The [Black-Scholes model](../b/black-scholes_model.md) and other option pricing frameworks rely on the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). [GARCH models](../g/garch_models.md) provide a more sophisticated measure of [volatility](../v/volatility.md) compared to historical variance, enhancing the precision of [option pricing models](../o/option_pricing_models.md).
 
 3. **High-Frequency Trading (HFT)**:
-   Algorithmic traders use [GARCH models](../g/garch_models.md) to predict [volatility](../v/volatility.md) in HFT strategies. Predicting periods of high [volatility](../v/volatility.md) allows traders to adjust their [trading algorithms](../t/trading_algorithms.md) to either exploit the [volatility](../v/volatility.md) or avoid excessive [risk](../r/risk.md).
+ Algorithmic traders use [GARCH models](../g/garch_models.md) to predict [volatility](../v/volatility.md) in HFT strategies. Predicting periods of high [volatility](../v/volatility.md) allows traders to adjust their [trading algorithms](../t/trading_algorithms.md) to either exploit the [volatility](../v/volatility.md) or avoid excessive [risk](../r/risk.md).
 
 4. **[Portfolio Optimization](../p/portfolio_optimization.md)**:
-   Modern portfolio theory advocates for the [diversification](../d/diversification.md) of assets to minimize [risk](../r/risk.md). Accurate forecasts of [asset](../a/asset.md) volatilities and their correlations are integral to effective [portfolio optimization](../p/portfolio_optimization.md). [GARCH models](../g/garch_models.md) are employed to forecast these volatilities, aiding in the selection of an optimal portfolio.
+ Modern portfolio theory advocates for the [diversification](../d/diversification.md) of assets to minimize [risk](../r/risk.md). Accurate forecasts of [asset](../a/asset.md) volatilities and their correlations are integral to effective [portfolio optimization](../p/portfolio_optimization.md). [GARCH models](../g/garch_models.md) are employed to forecast these volatilities, aiding in the selection of an optimal portfolio.
 
 ### Extensions and Variants of GARCH Models
 
 The basic GARCH model has inspired numerous extensions to address various limitations and incorporate additional information:
 
 1. **EGARCH (Exponential GARCH)**:
-   Unlike the standard GARCH model, EGARCH models do not require non-negativity constraints on the parameters. They also model the [leverage effect](../l/leverage_effect_in_trading.md), where negative shocks may have a different impact on [volatility](../v/volatility.md) compared to positive shocks of the same magnitude.
+ Unlike the standard GARCH model, EGARCH models do not require non-negativity constraints on the parameters. They also model the [leverage effect](../l/leverage_effect_in_trading.md), where negative shocks may have a different impact on [volatility](../v/volatility.md) compared to positive shocks of the same magnitude.
 
 2. **GJR-GARCH (Glosten-Jagannathan-Runkle GARCH)**:
-   This model includes an additional term to capture the asymmetric impact of positive and negative returns on [volatility](../v/volatility.md). It is particularly useful in markets where bad news tends to increase [volatility](../v/volatility.md) more than good news.
+ This model includes an additional term to capture the asymmetric impact of positive and negative returns on [volatility](../v/volatility.md). It is particularly useful in markets where bad news tends to increase [volatility](../v/volatility.md) more than good news.
 
 3. **Multivariate GARCH (MGARCH)**:
-   MGARCH models extend the GARCH framework to [multiple](../m/multiple.md) [time series](../t/time_series.md), allowing the modeling of [volatility](../v/volatility.md) and [correlation](../c/correlation.md) structures between different assets.
+ MGARCH models extend the GARCH framework to [multiple](../m/multiple.md) [time series](../t/time_series.md), allowing the modeling of [volatility](../v/volatility.md) and [correlation](../c/correlation.md) structures between different assets.
 
 4. **T-GARCH (Threshold GARCH)**:
-   This model introduces threshold effects, where the impact on [volatility](../v/volatility.md) depends on whether past returns exceed a certain threshold.
+ This model introduces threshold effects, where the impact on [volatility](../v/volatility.md) depends on whether past returns exceed a certain threshold.
 
 5. **IGARCH (Integrated GARCH)**:
-   The IGARCH model is a special case where the sum of the GARCH coefficients equals one, implying that shocks to [volatility](../v/volatility.md) have a permanent effect.
+ The IGARCH model is a special case where the sum of the GARCH coefficients equals one, implying that shocks to [volatility](../v/volatility.md) have a permanent effect.
 
 ### Implementing GARCH Models in Python
 
@@ -105,4 +105,4 @@ Researchers and practitioners continually strive to address these limitations by
 
 [GARCH models](../g/garch_models.md) play an indispensable role in the toolkit of financial [econometrics](../e/econometrics_in_trading.md). Their ability to model and forecast [volatility](../v/volatility.md) underpins various aspects of [algorithmic trading](../a/algorithmic_trading.md), including [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Despite their limitations, [GARCH models](../g/garch_models.md) are continually refined and augmented by new advancements in the field, ensuring their continued relevance in the ever-evolving landscape of [financial markets](../f/financial_market.md).
 
-For more detailed insights and the latest developments, exploring the resources of financial technology firms and academic publications is recommended. Notable firms like [QuantConnect](https://www.quantconnect.com/) provide platforms and resources for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md), [offering](../o/offering.md) practical implementations and real-world applications of models like GARCH.
+For more detailed insights and the latest developments, exploring the resources of financial technology firms and academic publications is recommended. Notable firms like QuantConnect provide platforms and resources for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md), [offering](../o/offering.md) practical implementations and real-world applications of models like GARCH.

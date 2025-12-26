@@ -58,7 +58,7 @@ Cash application software automates the process of matching incoming payments to
 AR software provides real-time analytics and reporting capabilities, allowing companies to [gain](../g/gain.md) insights into their receivables performance. Dashboards and customizable reports help monitor key metrics such as [days sales outstanding](../d/days_sales_outstanding.md) (DSO), overdue accounts, and collection [efficiency](../e/efficiency.md).
 
 ### Example of AR Software Provider
-Example of a prominent AR software provider can be found at: [Billtrust](https://www.billtrust.com/).
+Example of a prominent AR software provider can be found at: Billtrust.
 
 ## Best Practices in Accounts Receivable Management
 

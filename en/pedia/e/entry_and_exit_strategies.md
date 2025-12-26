@@ -39,7 +39,7 @@ An RSI [value](../v/value.md) above 70 is considered [overbought](../o/overbough
 
 #### 3. Bollinger Bands
 
-**[Bollinger Bands](../b/bollinger_bands.md)** consist of a middle band (usually an SMA) and two outer bands that represent standard deviations from the middle band. 
+**[Bollinger Bands](../b/bollinger_bands.md)** consist of a middle band (usually an SMA) and two outer bands that represent standard deviations from the middle band.
 
 **Example:**
 When the price touches the lower Bollinger Band, it is considered [oversold](../o/oversold.md), signaling a potential entry point for a long position. Conversely, when the price touches the upper band, it is considered [overbought](../o/overbought.md), indicating a potential short position.
@@ -151,19 +151,14 @@ A [trader](../t/trader.md) could use the **RSI** for entry signals and combine i
 
 To implement entry and exit strategies effectively, traders often use [algorithmic trading](../a/algorithmic_trading.md) platforms and resources.
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) cloud-based [backtesting](../b/backtesting.md) and live trading with various brokers.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [backtesting](../b/backtesting.md) and live trading with various brokers.
 
 - **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) groups.
-  [AlgoTrader](https://www.algotrader.com/)
 
 - **Quantopian**: A platform (ceased operation in 2020) that provided a community for quantitative traders to develop and share [trading algorithms](../t/trading_algorithms.md).
-  [Quantopian Archive](https://www.quantopian.com/)
 
 - **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**: Popular trading platforms for forex and stock markets, [offering](../o/offering.md) advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
-  [MetaTrader](https://www.metatrader4.com/)
 
 ### Conclusion
 
 Entry and exit strategies are foundational to successful [algorithmic trading](../a/algorithmic_trading.md). By carefully selecting and integrating various strategies such as moving averages, RSI, [Bollinger Bands](../b/bollinger_bands.md), stop-loss, and take-[profit](../p/profit.md) orders, traders can optimize their [trading performance](../t/trading_performance.md). Utilizing advanced trading platforms and conducting thorough [backtesting](../b/backtesting.md) are essential steps in developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). Properly implemented, these strategies can help manage [risk](../r/risk.md), maximize profits, and improve overall trading consistency.
-

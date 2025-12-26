@@ -1,6 +1,6 @@
 # Interest Rate Collar
 
-An [Interest Rate](../i/interest_rate.md) [Collar](../c/collar.md) is a sophisticated [financial instrument](../f/financial_instrument.md) utilized by both corporate treasurers and institutional investors to manage [interest rate risk](../i/interest_rate_risk.md). It provides a mechanism to [hedge](../h/hedge.md) against the [volatility](../v/volatility.md) of [interest](../i/interest.md) rates by setting a predefined [range](../r/range.md) within which the [interest](../i/interest.md) rates [will](../w/will.md) fluctuate. 
+An [Interest Rate](../i/interest_rate.md) [Collar](../c/collar.md) is a sophisticated [financial instrument](../f/financial_instrument.md) utilized by both corporate treasurers and institutional investors to manage [interest rate risk](../i/interest_rate_risk.md). It provides a mechanism to [hedge](../h/hedge.md) against the [volatility](../v/volatility.md) of [interest](../i/interest.md) rates by setting a predefined [range](../r/range.md) within which the [interest](../i/interest.md) rates [will](../w/will.md) fluctuate.
 
 ## Definition
 
@@ -24,9 +24,9 @@ The [collar](../c/collar.md) works by limiting the [variability](../v/variabilit
 2. To [hedge](../h/hedge.md) against potential rate increases but benefit from possible rate decreases, the company enters into an [interest rate](../i/interest_rate.md) [collar](../c/collar.md).
 3. Assume the company sets the cap at 3% and the floor at 1%.
 4. Regardless of how LIBOR moves:
-   - If LIBOR rises above 3%, the company pays 3%.
-   - If LIBOR falls below 1%, the company pays 1%.
-   - For rates between 1% and 3%, the company pays the actual [LIBOR rate](../l/libor_rate_analysis.md).
+ - If LIBOR rises above 3%, the company pays 3%.
+ - If LIBOR falls below 1%, the company pays 1%.
+ - For rates between 1% and 3%, the company pays the actual [LIBOR rate](../l/libor_rate_analysis.md).
 
 ## Implementation Considerations
 
@@ -68,9 +68,9 @@ FRAs lock in a specific [interest rate](../i/interest_rate.md) for a future peri
 
 Large corporations and financial institutions routinely employ [Interest Rate](../i/interest_rate.md) Collars to [hedge](../h/hedge.md) their exposure to fluctuating [interest](../i/interest.md) rates. For instance:
 
-1. **General Electric**: GE has been known to use [interest rate derivatives](../i/interest_rate_derivatives.md) to manage its vast portfolio of financial [obligations](../o/obligation.md). More information can be found on their [official website](https://www.ge.com).
-  
-2. **JPMorgan Chase & Co.**: As one of the major global banks, JPMorgan employs various [hedging strategies](../h/hedging_strategies.md), including [interest rate](../i/interest_rate.md) collars, to manage their clients' and own [financial risk](../f/financial_risk.md). More details can be explored on their [official page](https://www.jpmorganchase.com).
+1. **General Electric**: GE has been known to use [interest rate derivatives](../i/interest_rate_derivatives.md) to manage its vast portfolio of financial [obligations](../o/obligation.md).
+
+2. **JPMorgan Chase & Co.**: As one of the major global banks, JPMorgan employs various [hedging strategies](../h/hedging_strategies.md), including [interest rate](../i/interest_rate.md) collars, to manage their clients' and own [financial risk](../f/financial_risk.md).
 
 ## Conclusion
 

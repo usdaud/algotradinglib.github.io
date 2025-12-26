@@ -91,13 +91,12 @@ Immunization is a strategy aimed at minimizing the impact of [interest rate](../
 
 BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, managing a broad [range](../r/range.md) of fixed-[income](../i/income.md) portfolios. They employ advanced techniques in [duration](../d/duration.md) management to optimize the [risk](../r/risk.md)-[return](../r/return.md) profile of their portfolios.
 
-More information about BlackRock's investment strategies can be found on their [official site](https://www.blackrock.com).
 
 ### Company Example: PIMCO
 
 PIMCO (Pacific [Investment Management](../i/investment_management.md) Company) is another significant player in the [asset management](../a/asset_management.md) [industry](../i/industry.md) with a strong focus on fixed-[income](../i/income.md) securities. They use sophisticated models to manage portfolio [duration](../d/duration.md) and [interest rate risk](../i/interest_rate_risk.md).
 
-For further insights into PIMCO's approach, visit their [official site](https://www.pimco.com).
+For further insights into PIMCO's approach,
 
 ## Conclusion
 

@@ -19,9 +19,9 @@ Break-even analysis helps traders:
 3. **[Profit](../p/profit.md) and Loss (P&L):** The overall profitability of a [trading strategy](../t/trading_strategy.md) that helps in determining the point at which total revenues equal total costs.
 
 4. **Break-even Point (BEP):** The exact trading [volume](../v/volume.md) or [price level](../p/price_level.md) at which profits equal losses, calculated using the formula:
-   \[
-   \text{BEP} = \frac{\text{Fixed Costs}}{\text{Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit}}
-   \]
+ \[
+ \text{BEP} = \frac{\text{Fixed Costs}}{\text{Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit}}
+ \]
 
 ### Application of Break-even Analysis in Algorithmic Trading
 
@@ -36,23 +36,23 @@ Break-even analysis helps traders:
 To provide a practical example, let's consider an [intraday trading](../i/intraday_trading.md) algorithm designed to [trade](../t/trade.md) highly [liquid](../l/liquid.md) [stocks](../s/stock.md). The steps involved in applying break-even analysis to assess its profitability include:
 
 1. **Identify Costs:**
-   - Fixed Costs: Software subscription at $200 per month, data feed at $100 per month.
-   - Variable Costs: [Commission](../c/commission.md) per [trade](../t/trade.md) at $0.01 per share, [slippage](../s/slippage.md) at $0.02 per share.
+ - Fixed Costs: Software subscription at $200 per month, data feed at $100 per month.
+ - Variable Costs: [Commission](../c/commission.md) per [trade](../t/trade.md) at $0.01 per share, [slippage](../s/slippage.md) at $0.02 per share.
 
 2. **Calculate Total Costs:**
-   - Monthly Fixed Costs: $300
-   - Variable Costs per [Trade](../t/trade.md): Assuming the average [trade](../t/trade.md) size is 100 [shares](../s/shares.md):
-     \[
-     \text{[Variable Cost](../v/variable_cost.md) per [Trade](../t/trade.md)} = 100 \times (0.01 + 0.02) = \$3
-     \]
+ - Monthly Fixed Costs: $300
+ - Variable Costs per [Trade](../t/trade.md): Assuming the average [trade](../t/trade.md) size is 100 [shares](../s/shares.md):
+ \[
+ \text{[Variable Cost](../v/variable_cost.md) per [Trade](../t/trade.md)} = 100 \times (0.01 + 0.02) = \$3
+ \]
 
 3. **Determine Break-even [Volume](../v/volume.md):**
-   Let's assume the price per unit ([profit](../p/profit.md) per [trade](../t/trade.md)) is $10:
-   \[
-   \text{BEP} = \frac{\$300}{\$10 - \$3} = \frac{\$300}{\$7} \approx 43 \text{ trades}
-   \]
+ Let's assume the price per unit ([profit](../p/profit.md) per [trade](../t/trade.md)) is $10:
+ \[
+ \text{BEP} = \frac{\$300}{\$10 - \$3} = \frac{\$300}{\$7} \approx 43 \text{ trades}
+ \]
 
-   Therefore, the algorithm needs to execute at least 43 profitable trades per month to break even.
+ Therefore, the algorithm needs to execute at least 43 profitable trades per month to break even.
 
 ### Implications and Optimization Strategies
 
@@ -74,5 +74,4 @@ While break-even analysis provides valuable insights, it comes with several chal
 
 Break-even analysis is a pivotal tool for traders looking to assess and enhance the profitability of their [algorithmic trading](../a/algorithmic_trading.md) strategies. By understanding and calculating the BEP, traders can set realistic performance benchmarks, optimize resource allocation, and implement effective [risk management](../r/risk_management.md) protocols. Despite its challenges, when used correctly, break-even analysis can significantly contribute to the long-term success of an [algorithmic trading](../a/algorithmic_trading.md) operation.
 
-For traders and firms seeking to [leverage](../l/leverage.md) break-even analysis in their [algorithmic trading](../a/algorithmic_trading.md) strategies, professional assistance and advanced analytical tools may be beneficial. Companies like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) [offer](../o/offer.md) platforms and services to support sophisticated [trading strategies](../t/trading_strategies.md) and break-even analysis.
-
+For traders and firms seeking to [leverage](../l/leverage.md) break-even analysis in their [algorithmic trading](../a/algorithmic_trading.md) strategies, professional assistance and advanced analytical tools may be beneficial. Companies like QuantConnect and AlgoTrader [offer](../o/offer.md) platforms and services to support sophisticated [trading strategies](../t/trading_strategies.md) and break-even analysis.

@@ -1,6 +1,6 @@
 # Theory of the Firm
 
-The theory of the [firm](../f/firm.md) is a fundamental economic concept that seeks to explain the nature, existence, and objectives of firms. It delves into the intricacies of how firms make decisions about production, pricing, and other operational matters. This theory is crucial for understanding the behavior of firms in different [market](../m/market.md) conditions and is foundational for various branches of [economics](../e/economics.md), including [industrial organization](../i/industrial_organization.md), [corporate finance](../c/corporate_finance.md), and [strategic management](../s/strategic_management.md). 
+The theory of the [firm](../f/firm.md) is a fundamental economic concept that seeks to explain the nature, existence, and objectives of firms. It delves into the intricacies of how firms make decisions about production, pricing, and other operational matters. This theory is crucial for understanding the behavior of firms in different [market](../m/market.md) conditions and is foundational for various branches of [economics](../e/economics.md), including [industrial organization](../i/industrial_organization.md), [corporate finance](../c/corporate_finance.md), and [strategic management](../s/strategic_management.md).
 
 ## Historical Context and Evolution
 
@@ -8,7 +8,7 @@ The theory of the [firm](../f/firm.md) is a fundamental economic concept that se
 
 In [classical economics](../c/classical_economics.md), the [firm](../f/firm.md) is often considered as a "black box" that transforms inputs into outputs. Early economists like Adam Smith and [David Ricardo](../d/david_ricardo.md) primarily focused on the role of firms in the broader [economy](../e/economy.md) without delving deeply into their internal workings. They assumed firms aim to maximize profits, facing given prices and technologies.
 
-### Neoclassical Economics 
+### Neoclassical Economics
 
 [Neoclassical economics](../n/neoclassical_economics.md) formalized the theory of the [firm](../f/firm.md) by incorporating the principles of [marginal analysis](../m/marginal_analysis.md). Alfred Marshall and later economists proposed that firms maximize profits by equating marginal cost with marginal [revenue](../r/revenue.md). In this framework, firms are seen as rational entities optimizing resource allocation to achieve productive and allocative [efficiency](../e/efficiency.md).
 
@@ -58,7 +58,7 @@ In [corporate finance](../c/corporate_finance.md), the theory informs [capital s
 
 ### Innovations in Fintech and Algoritrading
 
-The advent of fintech and [algorithmic trading](../a/accountability.md) has introduced new dimensions to the theory of the [firm](../f/firm.md). Firms [leverage](../l/leverage.md) advanced technologies and [data analytics](../d/data_analytics.md) to enhance decision-making processes, improve [operational efficiency](../o/operational_efficiency_in_trading.md), and [gain](../g/gain.md) competitive advantages in [financial markets](../f/financial_market.md). For instance, companies like [QuantConnect](https://www.quantconnect.com/) [offer](../o/offer.md) platforms for developing and deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), incorporating the principles of the theory of the [firm](../f/firm.md) in a modern, tech-driven context.
+The advent of fintech and [algorithmic trading](../a/algorithmic_trading.md) has introduced new dimensions to the theory of the [firm](../f/firm.md). Firms [leverage](../l/leverage.md) advanced technologies and [data analytics](../d/data_analytics.md) to enhance decision-making processes, improve [operational efficiency](../o/operational_efficiency_in_trading.md), and [gain](../g/gain.md) competitive advantages in [financial markets](../f/financial_market.md). For instance, companies like QuantConnect [offer](../o/offer.md) platforms for developing and deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), incorporating the principles of the theory of the [firm](../f/firm.md) in a modern, tech-driven context.
 
 ### Behavioral Economics and Decision-Making
 

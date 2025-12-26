@@ -36,19 +36,19 @@ SNR is a statistical measure used to quantify the level of a desired signal comp
 ## Practical Implementations
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) financial instruments and markets. It offers a wide [range](../r/range.md) of built-in filtering techniques, along with the flexibility to implement custom filters.
+[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source, [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) financial instruments and markets. It offers a wide [range](../r/range.md) of built-in filtering techniques, along with the flexibility to implement custom filters.
 
-You can find more information at [QuantConnect](https://www.quantconnect.com/).
+You can find more information at QuantConnect.
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), including various signal filtering [options](../o/options.md). Users can develop and backtest their strategies with integrated data filtering capabilities.
 
-More details can be accessed at [TradeStation](https://www.tradestation.com/).
+More details can be accessed at TradeStation.
 
 ### Alpaca Markets
 [Alpaca](../a/alpaca.md) Markets offers API-based trading solutions with built-in support for signal filtering. It is particularly popular among retail traders and developers for its ease of use and flexibility.
 
-Explore more at [Alpaca Markets](https://alpaca.markets/).
+Explore more at Alpaca Markets.
 
 ## Challenges and Considerations
 

@@ -5,7 +5,7 @@ Mezzanine [debt](../d/debt.md) is a hybrid [financial instrument](../f/financial
 ## Characteristics of Mezzanine Debt
 
 ### Subordinated Nature
-Mezzanine [debt](../d/debt.md) is subordinate to senior loans but ranks higher than [equity](../e/equity.md). This means that in the event of [liquidation](../l/liquidation.md), mezzanine lenders are paid after senior [debt](../d/debt.md) holders have been satisfied but before [equity](../e/equity.md) holders receive anything. 
+Mezzanine [debt](../d/debt.md) is subordinate to senior loans but ranks higher than [equity](../e/equity.md). This means that in the event of [liquidation](../l/liquidation.md), mezzanine lenders are paid after senior [debt](../d/debt.md) holders have been satisfied but before [equity](../e/equity.md) holders receive anything.
 
 ### Unsecured
 Unlike senior [debt](../d/debt.md), mezzanine [debt](../d/debt.md) is typically unsecured, which means it does not require [collateral](../c/collateral.md). As a result, mezzanine [debt](../d/debt.md) carries more [risk](../r/risk.md) for lenders compared to senior [debt](../d/debt.md).
@@ -22,7 +22,7 @@ Unlike traditional [debt](../d/debt.md), mezzanine [debt](../d/debt.md) generall
 ## Uses and Applications
 
 ### Growth Financing
-One of the main uses of mezzanine [debt](../d/debt.md) is to [finance](../f/finance.md) the growth and [expansion](../e/expansion.md) of companies, whether through [organic growth](../o/organic_growth.md) strategies or acquisitions. 
+One of the main uses of mezzanine [debt](../d/debt.md) is to [finance](../f/finance.md) the growth and [expansion](../e/expansion.md) of companies, whether through [organic growth](../o/organic_growth.md) strategies or acquisitions.
 
 ### Recapitalizations
 Mezzanine [debt](../d/debt.md) is often used in recapitalizations to reorganize the [capital structure](../c/capital_structure.md) of a company.
@@ -63,14 +63,11 @@ The [equity](../e/equity.md) conversion features can dilute existing shareholder
 ### Mezzanine Lenders
 Various financial institutions specialize in providing [mezzanine financing](../m/mezzanine_financing.md), including mezzanine funds, [private equity](../p/private_equity.md) firms, and some [hedge](../h/hedge.md) funds. Examples of such participants include:
 
-- **Goldman Sachs Mezzanine Partners**  
-  [Website](https://www.goldmansachs.com)
-  
-- **Carlyle Energy Mezzanine Opportunities Group**  
-  [Website](https://www.carlyle.com)
+- **Goldman Sachs Mezzanine Partners**
 
-- **HarbourVest Partners**  
-  [Website](https://www.harbourvest.com)
+- **Carlyle Energy Mezzanine Opportunities Group**
+
+- **HarbourVest Partners**
 
 ### Investment Banks
 Large [investment banks](../i/investment_bank_(ib).md) often have dedicated groups that provide [mezzanine financing](../m/mezzanine_financing.md) as part of their [range](../r/range.md) of [investment banking](../i/investment_banking.md) services.

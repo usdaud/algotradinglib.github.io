@@ -55,7 +55,7 @@ COFI is also a valuable [economic indicator](../e/economic_indicator.md) that re
 COFI primarily influences financial activities within the 11th Federal [Home](../h/home.md) [Loan](../l/loan.md) [Bank](../b/bank.md) District. However, due to its role in [mortgage](../m/mortgage.md) pricing, its effects can be seen beyond these borders, especially in cases where lenders operate nationwide but base their [mortgage](../m/mortgage.md) products on COFI.
 
 ### Reliability and Stability
-One of the strengths of COFI is its reliability and stability. It tends to be less volatile compared to other indices like the London Interbank Offered Rate (LIBOR). This stability makes COFI particularly appealing for long-term financial products such as mortgages.
+One of the strengths of COFI is its reliability and stability. It tends to be less volatile compared to other indices like the London Interbank Offered Rate (LIBOR, which was discontinued in June 2023 and replaced by SOFR - Secured Overnight Financing Rate). This stability makes COFI particularly appealing for long-term financial products such as mortgages.
 
 ### Criticisms
 Despite its benefits, COFI is not without criticism. Some argue that it may not fully capture rapid changes in [interest](../i/interest.md) rates due to its method of averaging over various types of funds. Consequently, it may lag in reflecting the immediate cost conditions faced by lending institutions.
@@ -74,7 +74,5 @@ Looking ahead, the future trajectory of COFI [will](../w/will.md) likely be infl
 ## Conclusion
 
 The 11th District Cost of Funds [Index](../i/index_instrument.md) (COFI) is a critical tool in the [financial sector](../f/financial_sector.md), particularly within the [mortgage](../m/mortgage.md) [market](../m/market.md). By providing a standardized measure of the costs incurred by savings institutions on their deposits and borrowings, COFI plays a vital role in the pricing of adjustable-rate mortgages. Its influence extends to both financial institutions and borrowers, making it a significant [economic indicator](../e/economic_indicator.md) in the western United States.
-
-For more information, you can visit the official page of the Federal [Home](../h/home.md) [Loan](../l/loan.md) [Bank](../b/bank.md) of San Francisco [here](https://www.fhlbsf.com).
 
 Detailed understanding and monitoring of COFI are essential for stakeholders in the [real estate](../r/real_estate.md) and [financial markets](../f/financial_market.md). As [interest](../i/interest.md) rates and [economic conditions](../e/economic_conditions.md) evolve, COFI [will](../w/will.md) continue to serve as a vital [benchmark](../b/benchmark.md) in assessing and managing financial costs and risks.

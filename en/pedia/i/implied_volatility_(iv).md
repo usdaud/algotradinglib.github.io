@@ -1,6 +1,6 @@
 # Implied Volatility (IV)
 
-Implied [Volatility](../v/volatility.md) (IV) is an integral concept in the world of [options](../o/options.md) trading and [financial derivatives](../f/financial_derivatives.md). It’s a predictive metric that helps traders gauge the [market](../m/market.md)'s expectations of future [volatility](../v/volatility.md) for a specific stock or [asset](../a/asset.md). Unlike [historical volatility](../h/historical_volatility.md), which is based on past price movements, implied [volatility](../v/volatility.md) is forward-looking and derived from the price of an option in the [market](../m/market.md). 
+Implied [Volatility](../v/volatility.md) (IV) is an integral concept in the world of [options](../o/options.md) trading and [financial derivatives](../f/financial_derivatives.md). It’s a predictive metric that helps traders gauge the [market](../m/market.md)'s expectations of future [volatility](../v/volatility.md) for a specific stock or [asset](../a/asset.md). Unlike [historical volatility](../h/historical_volatility.md), which is based on past price movements, implied [volatility](../v/volatility.md) is forward-looking and derived from the price of an option in the [market](../m/market.md).
 
 ## Understanding Implied Volatility
 
@@ -86,6 +86,6 @@ Involves buying an out-of-the-[money](../m/money.md) call and selling an out-of-
 Implied [Volatility](../v/volatility.md) is a cornerstone of [options](../o/options.md) trading, [offering](../o/offering.md) a window into [market](../m/market.md) expectations and helping traders make informed decisions. By understanding and utilizing IV, traders can enhance their [risk management](../r/risk_management.md) practices, develop effective strategies, and potentially increase profitability in various [market](../m/market.md) conditions.
 
 For further reading and up-to-date tools, traders can visit:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
-- [OptionVue](https://www.optionvue.com/)
+- Bloomberg Terminal
+- Thinkorswim
+- OptionVue

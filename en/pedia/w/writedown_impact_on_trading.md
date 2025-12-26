@@ -76,7 +76,7 @@ Over the long term, the [market](../m/market.md)’s perception of a company can
 
 ### General Electric (GE)
 
-General Electric has faced significant writedown issues in recent years. In 2018, GE announced a $23 billion writedown related to its power division, which sent shockwaves through the [market](../m/market.md). The writedown highlighted the deep-seated issues in GE's power [business](../b/business.md) and raised concerns about the company’s overall health. The [market](../m/market.md) reaction was swift, with GE’s stock price plummeting and [investor](../i/investor.md) confidence eroding. This event underscored the magnitude of writedown impacts on trading and [investor](../i/investor.md) sentiment. [GE's website](https://www.ge.com/)
+General Electric has faced significant writedown issues in recent years. In 2018, GE announced a $23 billion writedown related to its power division, which sent shockwaves through the [market](../m/market.md). The writedown highlighted the deep-seated issues in GE's power [business](../b/business.md) and raised concerns about the company’s overall health. The [market](../m/market.md) reaction was swift, with GE’s stock price plummeting and [investor](../i/investor.md) confidence eroding. This event underscored the magnitude of writedown impacts on trading and [investor](../i/investor.md) sentiment. GE's online platform
 
 ### Yahoo! and Tumblr
 

@@ -77,10 +77,10 @@ Implied [volatility](../v/volatility.md) (IV) plays a significant role in the pr
 
 Several platforms and tools are available for traders looking to implement Vertical [Debit](../d/debit.md) [Spreads](../s/spreads.md) algorithmically. Some popular [options](../o/options.md) include:
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) markets and offers extensive [backtesting](../b/backtesting.md) capabilities. (https://www.[quantconnect](../q/quantconnect.md).com/)
-2. **[AlgoTrader](../a/algotrader.md)**: A [trading platform](../t/trading_platform.md) specializing in [algorithmic trading](../a/algorithmic_trading.md), supporting automated trading on [futures](../f/futures.md) and [options](../o/options.md) markets. (https://www.[algotrader](../a/algotrader.md).com/)
-3. **[TradeStation](../t/tradestation.md)**: Known for [robust](../r/robust.md) trading software and [range](../r/range.md) of products suitable for automating [options](../o/options.md) strategies. (https://www.[tradestation](../t/tradestation.md).com/)
-4. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers API access to automate trading and supports [options trading strategies](../o/options_trading_strategies.md) such as Vertical [Debit](../d/debit.md) [Spreads](../s/spreads.md). (https://www.interactivebrokers.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) markets and offers extensive [backtesting](../b/backtesting.md) capabilities. (
+2. **[AlgoTrader](../a/algotrader.md)**: A [trading platform](../t/trading_platform.md) specializing in [algorithmic trading](../a/algorithmic_trading.md), supporting automated trading on [futures](../f/futures.md) and [options](../o/options.md) markets. (
+3. **[TradeStation](../t/tradestation.md)**: Known for [robust](../r/robust.md) trading software and [range](../r/range.md) of products suitable for automating [options](../o/options.md) strategies. (
+4. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers API access to automate trading and supports [options trading strategies](../o/options_trading_strategies.md) such as Vertical [Debit](../d/debit.md) [Spreads](../s/spreads.md). (
 
 ## Conclusion
 

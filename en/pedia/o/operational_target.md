@@ -121,8 +121,7 @@ Amazon is renowned for its [operational efficiency](../o/operational_efficiency_
 - **[Customer Service](../c/customer_service.md)**: Achieving high [customer](../c/customer.md) satisfaction through responsive and effective service.
 - **[Inventory Management](../i/inventory_management.md)**: Optimizing [inventory](../i/inventory.md) levels to ensure product availability while minimizing excess stock.
 
-For more information, visit: [https://www.amazon.com](https://www.amazon.com)
-
+For more information, visit
 ### Tesla
 
 Tesla sets clear operational targets to drive innovation and [efficiency](../e/efficiency.md) in its production processes. Key operational targets for Tesla include:
@@ -131,8 +130,7 @@ Tesla sets clear operational targets to drive innovation and [efficiency](../e/e
 - **[Quality Control](../q/quality_control.md)**: Ensuring that each vehicle meets the highest quality standards.
 - **Sustainability**: Reducing the environmental impact through efficient energy use and sustainable practices.
 
-For more information, visit: [https://www.tesla.com](https://www.tesla.com)
-
+For more information, visit
 ### Starbucks
 
 Starbucks focuses on [customer](../c/customer.md) experience and [operational efficiency](../o/operational_efficiency_in_trading.md) through its operational targets. These include:
@@ -141,8 +139,7 @@ Starbucks focuses on [customer](../c/customer.md) experience and [operational ef
 - **Product Quality**: Maintaining the quality and consistency of products across all locations.
 - **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Streamlining operations to reduce wait times and improve service speed.
 
-For more information, visit: [https://www.starbucks.com](https://www.starbucks.com)
-
+For more information, visit
 ## Challenges in Setting and Achieving Operational Targets
 
 While setting operational targets is critical for organizational success, several challenges can arise:

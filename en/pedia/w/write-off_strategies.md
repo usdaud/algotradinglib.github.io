@@ -58,15 +58,15 @@ Before deploying [write-off](../w/write-off.md) strategies in live markets, it i
 
 ### Goldman Sachs
 
-Goldman Sachs employs advanced [algorithmic trading](../a/algorithmic_trading.md) strategies, including [write-off](../w/write-off.md) mechanisms. Their algorithms continuously monitor [market](../m/market.md) conditions and financial data to identify unviable trades and close them promptly. More information can be found on their [website](https://www.goldmansachs.com/).
+Goldman Sachs employs advanced [algorithmic trading](../a/algorithmic_trading.md) strategies, including [write-off](../w/write-off.md) mechanisms. Their algorithms continuously monitor [market](../m/market.md) conditions and financial data to identify unviable trades and close them promptly.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), uses highly sophisticated algos for trading. Their [write-off](../w/write-off.md) strategies involve complex [mathematical models](../m/mathematical_models_in_trading.md) to minimize losses and optimize returns. Visit their [website](https://www.rentec.com/) for more details.
+Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), uses highly sophisticated algos for trading. Their [write-off](../w/write-off.md) strategies involve complex [mathematical models](../m/mathematical_models_in_trading.md) to minimize losses and optimize returns.
 
 ### Citadel Securities
 
-Citadel Securities, a major player in the algo trading space, employs various [write-off](../w/write-off.md) strategies to manage [risk](../r/risk.md) and optimize their portfolios. Their [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) are designed to automatically offload non-performing assets. More information can be found on their [website](https://www.citadelsecurities.com/).
+Citadel Securities, a major player in the algo trading space, employs various [write-off](../w/write-off.md) strategies to manage [risk](../r/risk.md) and optimize their portfolios. Their [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) are designed to automatically offload non-performing assets.
 
 ## Challenges and Considerations
 

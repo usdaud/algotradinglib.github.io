@@ -1,6 +1,6 @@
 # KCEX
 
-KCEX, or Korea [Commodity](../c/commodity.md) [Exchange](../e/exchange.md), is a centralized marketplace for trading commodities in South Korea. It facilitates the buying and selling of various commodities ranging from agricultural products to metals and energy. Through its efficient and transparent [exchange](../e/exchange.md) mechanisms, KCEX enhances the accessibility, [liquidity](../l/liquidity.md), and [price discovery](../p/price_discovery.md) of the commodities [market](../m/market.md) in South Korea. 
+KCEX, or Korea [Commodity](../c/commodity.md) [Exchange](../e/exchange.md), is a centralized marketplace for trading commodities in South Korea. It facilitates the buying and selling of various commodities ranging from agricultural products to metals and energy. Through its efficient and transparent [exchange](../e/exchange.md) mechanisms, KCEX enhances the accessibility, [liquidity](../l/liquidity.md), and [price discovery](../p/price_discovery.md) of the commodities [market](../m/market.md) in South Korea.
 
 ## Overview
 
@@ -68,7 +68,7 @@ By consolidating trades into a single, organized [market](../m/market.md), KCEX 
 
 ### Economic Impact
 
-KCEX stimulates [economic growth](../e/economic_growth.md) by channeling investments into the commodities sector. It provides producers with a reliable platform to sell their products, enabling them to plan and execute their production activities more effectively. 
+KCEX stimulates [economic growth](../e/economic_growth.md) by channeling investments into the commodities sector. It provides producers with a reliable platform to sell their products, enabling them to plan and execute their production activities more effectively.
 
 ## Challenges
 

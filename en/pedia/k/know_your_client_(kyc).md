@@ -1,6 +1,6 @@
 # Know Your Client (KYC)
 
-Know Your Client (KYC) is a critical regulatory and compliance process used by financial services companies and businesses, including those involved in [algorithmic trading](../a/accountability.md), to verify the identity, suitability, and risks involved with maintaining a [business](../b/business.md) relationship with a client. This process is compulsory before any financial service provider, such as banks, brokerages, or [asset](../a/asset.md) managers, can [open](../o/open.md) an account, execute financial transactions, or [offer](../o/offer.md) services to a client. KYC plays a vital role in the prevention of financial crimes such as [money laundering](../m/money_laundering.md), terrorism [financing](../f/financing.md), and [fraud](../f/fraud.md). The KYC process encompasses several key elements: [customer](../c/customer.md) identification, [customer](../c/customer.md) [due diligence](../d/due_diligence.md) (CDD), [enhanced due diligence](../e/enhanced_due_diligence.md) (EDD), ongoing monitoring, and record-keeping.
+Know Your Client (KYC) is a critical regulatory and compliance process used by financial services companies and businesses, including those involved in [algorithmic trading](../a/algorithmic_trading.md), to verify the identity, suitability, and risks involved with maintaining a [business](../b/business.md) relationship with a client. This process is compulsory before any financial service provider, such as banks, brokerages, or [asset](../a/asset.md) managers, can [open](../o/open.md) an account, execute financial transactions, or [offer](../o/offer.md) services to a client. KYC plays a vital role in the prevention of financial crimes such as [money laundering](../m/money_laundering.md), terrorism [financing](../f/financing.md), and [fraud](../f/fraud.md). The KYC process encompasses several key elements: [customer](../c/customer.md) identification, [customer](../c/customer.md) [due diligence](../d/due_diligence.md) (CDD), [enhanced due diligence](../e/enhanced_due_diligence.md) (EDD), ongoing monitoring, and record-keeping.
 
 ## Customer Identification Program (CIP)
 
@@ -56,9 +56,9 @@ Advancements in technology have significantly impacted how KYC processes are imp
 
 ## KYC in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) firms must also comply with KYC regulations to mitigate risks associated with their financial transactions. Given the high-frequency nature of [algorithmic trading](../a/accountability.md), stringent KYC measures ensure the legitimacy and integrity of trading activities.
+[Algorithmic trading](../a/algorithmic_trading.md) firms must also comply with KYC regulations to mitigate risks associated with their financial transactions. Given the high-frequency nature of [algorithmic trading](../a/algorithmic_trading.md), stringent KYC measures ensure the legitimacy and integrity of trading activities.
 
-- **Client Onboarding:** [Algorithmic trading](../a/accountability.md) firms must perform thorough KYC checks during the client onboarding process to identify and verify their clients, understanding their trading patterns and [risk profiles](../r/risk_profiles.md).
+- **Client Onboarding:** [Algorithmic trading](../a/algorithmic_trading.md) firms must perform thorough KYC checks during the client onboarding process to identify and verify their clients, understanding their trading patterns and [risk profiles](../r/risk_profiles.md).
 - **Ongoing Monitoring:** Continuous monitoring through advanced analytical tools helps ensure real-time identification of any suspicious trading activities.
 - **Regulatory Compliance:** Ensuring adherence to local and international regulations, and maintaining detailed documentation and audit trails of all KYC-related activities.
 

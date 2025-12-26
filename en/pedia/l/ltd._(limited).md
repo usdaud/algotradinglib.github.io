@@ -57,16 +57,12 @@ Forming an Ltd. company typically involves several steps:
 ### Real-World Examples and Applications
 
 1. **Private Companies**:
-   - **Dyson Ltd.**: Known for its innovative vacuum cleaners and other household appliances.
-     [Website](https://www.dyson.co.uk)
-   - **LEGO Group**: A privately held company famous for its plastic construction toys.
-     [Website](https://www.lego.com)
+ - **Dyson Ltd.**: Known for its innovative vacuum cleaners and other household appliances.
+ - **LEGO Group**: A privately held company famous for its plastic construction toys.
 
 2. **Public Companies**:
-   - **Tesco PLC**: One of the largest grocery and merchandise retailers in the UK.
-     [Website](https://www.tescoplc.com)
-   - **BP PLC**: A global oil and gas company.
-     [Website](https://www.bp.com)
+ - **Tesco PLC**: One of the largest grocery and merchandise retailers in the UK.
+ - **BP PLC**: A global oil and gas company.
 
 ### Global Perspectives on Ltd. Companies
 
@@ -90,16 +86,14 @@ In the rapidly evolving fintech landscape, many innovative startups choose the L
 
 #### Example: Revolut Ltd.
 Revolut is a UK-based fintech company that offers banking services, including [currency exchange](../c/currency_exchange.md), peer-to-peer payments, and physical [bank](../b/bank.md) cards.
-[Website](https://www.revolut.com)
 
 #### Algortrading
 
-For companies involved in [algorithmic trading](../a/accountability.md), being an Ltd. helps in segregating [business](../b/business.md) and personal liabilities, which is crucial given the high-[risk](../r/risk.md) nature of financial trading. The structure also provides a clear legal entity for entering into contracts and regulatory compliance necessary for operating in [financial markets](../f/financial_market.md).
+For companies involved in [algorithmic trading](../a/algorithmic_trading.md), being an Ltd. helps in segregating [business](../b/business.md) and personal liabilities, which is crucial given the high-[risk](../r/risk.md) nature of financial trading. The structure also provides a clear legal entity for entering into contracts and regulatory compliance necessary for operating in [financial markets](../f/financial_market.md).
 
-#### Example: QuantConnect
-[QuantConnect](../q/quantconnect.md) is a company that provides a platform for algorithmic traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md).
-[Website](https://www.quantconnect.com)
+#### Example: StockSharp
+[StockSharp](../s/stocksharp.md) is a company that provides a platform for algorithmic traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 
-The Ltd. [business](../b/business.md) structure offers significant advantages for a wide [range](../r/range.md) of companies, from small enterprises to large multinationals. By providing [limited liability](../l/limited_liability.md), a clear legal framework, and enhanced credibility, Ltd. companies are well-suited to various industries, including fintech and [algorithmic trading](../a/accountability.md). However, the regulatory and administrative requirements mean that businesses must carefully consider their capacity to manage these [obligations](../o/obligation.md) when opting for an Ltd. structure.
+The Ltd. [business](../b/business.md) structure offers significant advantages for a wide [range](../r/range.md) of companies, from small enterprises to large multinationals. By providing [limited liability](../l/limited_liability.md), a clear legal framework, and enhanced credibility, Ltd. companies are well-suited to various industries, including fintech and [algorithmic trading](../a/algorithmic_trading.md). However, the regulatory and administrative requirements mean that businesses must carefully consider their capacity to manage these [obligations](../o/obligation.md) when opting for an Ltd. structure.

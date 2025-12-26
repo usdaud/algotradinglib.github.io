@@ -70,25 +70,25 @@ These strategies aim to [capitalize](../c/capitalize.md) on the [market](../m/ma
 
 MetaTrader 4 (MT4) and MetaTrader 5 (MT5) are popular trading platforms used for [algorithmic trading](../a/algorithmic_trading.md). These platforms support the development of custom [trading algorithms](../t/trading_algorithms.md) using their proprietary MQL4 and MQL5 programming languages.
 
-- [MetaTrader](https://www.metatrader5.com/)
+- MetaTrader
 
 ### Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) offers a [range](../r/range.md) of tools for [algorithmic trading](../a/algorithmic_trading.md), including an API that allows for the development of custom [trading algorithms](../t/trading_algorithms.md).
 
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- Interactive Brokers
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. It allows traders to backtest and deploy their [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#. It allows traders to backtest and deploy their [trading algorithms](../t/trading_algorithms.md).
 
-- [QuantConnect](https://www.quantconnect.com/)
+- QuantConnect
 
 ### Alpaca
 
 [Alpaca](../a/alpaca.md) is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides APIs for building and deploying trading bots. It supports [algorithmic trading](../a/algorithmic_trading.md) in both forex and stock markets.
 
-- [Alpaca](https://alpaca.markets/)
+- Alpaca
 
 ## Developing an Algorithmic Forex Trading System
 
@@ -156,4 +156,4 @@ The rise of DeFi could lead to new opportunities and challenges in [algorithmic 
 
 ## Conclusion
 
-Algorithmic Forex Trading is a rapidly evolving field that combines the power of technology with the dynamics of the forex [market](../m/market.md). While it offers numerous advantages, it also comes with its own set of risks and challenges. Understanding these aspects is crucial for anyone looking to engage in algorithmic forex trading.
+Algorithmic Forex Trading is a rapidly evolving field that combines the power of technology with the dynamics of the forex [market](../m/market.md). While it offers numerous advantages, it also comes with its own set of risks and challenges. Understanding these aspects is crucial for anyone looking to engage in algorithmic forex trading.

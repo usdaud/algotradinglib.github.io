@@ -1,12 +1,12 @@
 # Channel Stuffing
 
-Channel stuffing is a deceptive [business](../b/business.md) practice that involves a company inflating its sales figures by sending excessive amounts of its products to distributors, regardless of actual [demand](../d/demand.md). This practice can create an artificially inflated view of the company's short-term [revenue](../r/revenue.md), often to mislead investors or meet sales targets. 
+Channel stuffing is a deceptive [business](../b/business.md) practice that involves a company inflating its sales figures by sending excessive amounts of its products to distributors, regardless of actual [demand](../d/demand.md). This practice can create an artificially inflated view of the company's short-term [revenue](../r/revenue.md), often to mislead investors or meet sales targets.
 
 ## Definition and Mechanism
 
-Channel stuffing occurs when a company "stuffs" its [distribution channel](../d/distribution_channel.md)—meaning wholesalers, retailers, or other intermediaries—with more products than the channel can realistically sell. Companies engaged in channel stuffing may use various incentives like extended [payment](../p/payment.md) terms, discounts, or other financial inducements to persuade channel partners to take on additional [inventory](../i/inventory.md). 
+Channel stuffing occurs when a company "stuffs" its [distribution channel](../d/distribution_channel.md)—meaning wholesalers, retailers, or other intermediaries—with more products than the channel can realistically sell. Companies engaged in channel stuffing may use various incentives like extended [payment](../p/payment.md) terms, discounts, or other financial inducements to persuade channel partners to take on additional [inventory](../i/inventory.md).
 
-For example, if a company has a quarterly sales target it is unlikely to meet, it might encourage a distributor to purchase three months' worth of products in one month. While this [will](../w/will.md) boost the current quarter's sales figures, it creates a future problem wherein the distributor is overstocked and unable to purchase more products until the excess [inventory](../i/inventory.md) is sold. 
+For example, if a company has a quarterly sales target it is unlikely to meet, it might encourage a distributor to purchase three months' worth of products in one month. While this [will](../w/will.md) boost the current quarter's sales figures, it creates a future problem wherein the distributor is overstocked and unable to purchase more products until the excess [inventory](../i/inventory.md) is sold.
 
 ## Identifying Channel Stuffing
 
@@ -38,7 +38,7 @@ Auditors and financial analysts often scrutinize these metrics to detect potenti
 
 ### United States
 
-In the United States, the SEC closely monitors and investigates channel stuffing practices as part of its broader mandate to ensure [market](../m/market.md) [transparency](../t/transparency.md) and protect investors. Cases where companies have been investigated or penalized for channel stuffing often involve breaches of the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md), specifically rules around financial [disclosure](../d/disclosure.md) and [accounting](../a/accounting.md) [fraud](../f/fraud.md). 
+In the United States, the SEC closely monitors and investigates channel stuffing practices as part of its broader mandate to ensure [market](../m/market.md) [transparency](../t/transparency.md) and protect investors. Cases where companies have been investigated or penalized for channel stuffing often involve breaches of the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md), specifically rules around financial [disclosure](../d/disclosure.md) and [accounting](../a/accounting.md) [fraud](../f/fraud.md).
 
 One notable case is that of Bristol-Myers Squibb, which in 2004 settled with the SEC for $150 million after being accused of engaging in channel stuffing to meet its [revenue](../r/revenue.md) targets.
 
@@ -50,11 +50,11 @@ Channel stuffing is similarly regulated in other major markets. In the [European
 
 ### Bristol-Myers Squibb
 
-In 2004, pharmaceutical giant Bristol-Myers Squibb was found to have engaged in channel stuffing to meet [Wall Street](../w/wall_street.md) sales expectations. The company had been [offering](../o/offering.md) substantial discounts and favorable terms to distributors to induce them to purchase more drugs than they could sell. This resulted in a significant [earnings](../e/earnings.md) [inflation](../i/inflation.md) and led to an SEC investigation, which ultimately resulted in the company paying $150 million to settle the charges. More information about Bristol-Myers Squibb can be found on their [official website](https://www.bms.com).
+In 2004, pharmaceutical giant Bristol-Myers Squibb was found to have engaged in channel stuffing to meet [Wall Street](../w/wall_street.md) sales expectations. The company had been [offering](../o/offering.md) substantial discounts and favorable terms to distributors to induce them to purchase more drugs than they could sell. This resulted in a significant [earnings](../e/earnings.md) [inflation](../i/inflation.md) and led to an SEC investigation, which ultimately resulted in the company paying $150 million to settle the charges.
 
 ### Sunbeam
 
-Sunbeam [Corporation](../c/corporation.md), under the [leadership](../l/leadership.md) of CEO Al Dunlap, was found guilty of channel stuffing in the late 1990s. The company aggressively loaded distributors with products to inflate sales figures artificially. While this initially boosted the company’s stock price, it eventually led to an investigation by the SEC. Sunbeam declared [bankruptcy](../b/bankruptcy.md) in 2001, and Dunlap was barred from serving as an officer or director of a [public company](../p/public_company.md) as part of the settlement. More information about the company’s history can be found [here](https://www.sunbeam.com).
+Sunbeam [Corporation](../c/corporation.md), under the [leadership](../l/leadership.md) of CEO Al Dunlap, was found guilty of channel stuffing in the late 1990s. The company aggressively loaded distributors with products to inflate sales figures artificially. While this initially boosted the company’s stock price, it eventually led to an investigation by the SEC. Sunbeam declared [bankruptcy](../b/bankruptcy.md) in 2001, and Dunlap was barred from serving as an officer or director of a [public company](../p/public_company.md) as part of the settlement. More information about the company’s history can be found here.
 
 ## Preventive Measures
 

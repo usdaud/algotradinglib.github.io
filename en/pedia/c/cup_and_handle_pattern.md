@@ -48,7 +48,7 @@ For instance:
 
 Let's consider a hypothetical example to illustrate the Cup and [Handle](../h/handle.md) pattern. Assume we're analyzing a stock called `XYZ` which has just entered a bullish [trend](../t/trend.md).
 
-1. **Cup Formation**: The stock surges from $60 to $100 but then begins to gradually decline to a low of $80 before bouncing back to $100. 
+1. **Cup Formation**: The stock surges from $60 to $100 but then begins to gradually decline to a low of $80 before bouncing back to $100.
 
 2. **[Handle](../h/handle.md) Formation**: Following the recovery to $100, the stock retreats slightly to $95, consolidating within a narrow [range](../r/range.md).
 
@@ -68,7 +68,7 @@ Here is a breakdown of these stages with actual values:
 
 For a real-world example, consider a historical case like Amazon Inc. (AMZN). During a period from mid-2019 to early-2020, Amazon's stock exhibited a classic Cup and [Handle](../h/handle.md) pattern. The stock initially surged, then went through a significant decline, forming the 'cup.' Once it began recovering, there was a slight dip forming the '[handle](../h/handle.md)' before breaking out to new highs.
 
-- **Cup Low**: $1650 
+- **Cup Low**: $1650
 - **Cup High**: $2000
 - **[Handle](../h/handle.md) Low**: $1900
 - **[Breakout](../b/breakout.md) Point**: $2000
@@ -78,4 +78,4 @@ For a real-world example, consider a historical case like Amazon Inc. (AMZN). Du
 
 The Cup and [Handle](../h/handle.md) pattern is a reliable [technical analysis](../t/technical_analysis.md) tool that helps traders identify and [capitalize](../c/capitalize.md) on bullish continuations in a stock's price. By carefully analyzing the nuances of the cup and [handle](../h/handle.md) formations and incorporating proper [entry and exit strategies](../e/entry_and_exit_strategies.md) with sensible [risk management](../r/risk_management.md), traders can effectively utilize this pattern to boost their [trading performance](../t/trading_performance.md). It is crucial, however, to validate the pattern with additional indicators and [market](../m/market.md) conditions to mitigate [false signals](../f/false_signals_in_trading.md) and enhance trading accuracy.
 
-For more detailed insights and resources, you can explore the original methodologies designed by [William J. O'Neil](../w/william_j._o'neil.md) by visiting the official site [Investor's Business Daily](https://www.investors.com), which provides comprehensive guides and tools for traders looking to [leverage](../l/leverage.md) such patterns.
+For more detailed insights and resources, you can explore the original methodologies designed by [William J. O'Neil](../w/william_j._o'neil.md) by visiting the public materials Investor's Business Daily, which provides comprehensive guides and tools for traders looking to [leverage](../l/leverage.md) such patterns.

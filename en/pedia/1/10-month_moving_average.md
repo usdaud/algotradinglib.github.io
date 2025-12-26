@@ -9,7 +9,7 @@ Moving averages (MAs) are statistical calculations used to analyze data points b
 ### Types of Moving Averages
 
 - **Simple Moving Average (SMA):** This is calculated by taking the [arithmetic mean](../a/arithmetic_mean.md) of a given set of prices over a specified number of days. For example, a [10-day SMA](../1/10-day_sma.md) would add up the closing prices for the last 10 days and divide the sum by 10.
-  
+
 - **Exponential Moving Average (EMA):** This type provides more weight to recent prices, making it more responsive to new information. This is particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where timely responses to [market](../m/market.md) changes are crucial.
 
 ## Calculation of the 10-Month Moving Average
@@ -101,8 +101,8 @@ In volatile markets, the 10MMA can generate [false signals](../f/false_signals_i
 One of the critical steps in implementing the 10MMA in [algorithmic trading](../a/algorithmic_trading.md) is [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) against historical data to evaluate its effectiveness. Algorithmic traders can use platforms like [QuantConnect](../q/quantconnect.md) or [TradingView](../t/tradingview.md) to backtest their strategies.
 
 For instance:
-- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/)
-- **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/)
+- **[QuantConnect](../q/quantconnect.md):** QuantConnect
+- **[TradingView](../t/tradingview.md):** TradingView
 
 ### Python Example
 
@@ -128,11 +128,11 @@ In this example, we use [Yahoo Finance](../y/yahoo_finance.md) to download histo
 
 Several trading platforms support the integration of custom indicators like the 10MMA.
 
-- **MetaTrader 5**: [MetaTrader 5](https://www.metatrader5.com/en)
-- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com/)
+- **MetaTrader 5**: MetaTrader 5
+- **[NinjaTrader](../n/ninjatrader.md)**: NinjaTrader
 
 These platforms allow traders to implement, test, and automate their strategies using custom indicators.
 
 ## Conclusion
 
-The 10-month moving average is a powerful tool in the arsenal of algorithmic traders, providing a long-term perspective on [market](../m/market.md) trends and helping to smooth out [market](../m/market.md) [volatility](../v/volatility.md). Despite its limitations as a [lagging indicator](../l/lagging_indicator.md), its simplicity and effectiveness in identifying trends and generating [trading signals](../t/trading_signals.md) make it a valuable component of many [trading strategies](../t/trading_strategies.md). By leveraging modern [backtesting](../b/backtesting.md) tools and platforms, traders can optimize the use of the 10MMA to improve their trading outcomes.
+The 10-month moving average is a powerful tool in the arsenal of algorithmic traders, providing a long-term perspective on [market](../m/market.md) trends and helping to smooth out [market](../m/market.md) [volatility](../v/volatility.md). Despite its limitations as a [lagging indicator](../l/lagging_indicator.md), its simplicity and effectiveness in identifying trends and generating [trading signals](../t/trading_signals.md) make it a valuable component of many [trading strategies](../t/trading_strategies.md). By leveraging modern [backtesting](../b/backtesting.md) tools and platforms, traders can optimize the use of the 10MMA to improve their trading outcomes.

@@ -53,11 +53,11 @@ Proper [financial planning](../f/financial_planning.md) is essential for employe
 
 Several prominent companies, especially in the tech sector, [offer](../o/offer.md) ISOs as part of their compensation packages. Here are a few examples:
 
-- [Google (Alphabet Inc.)](https://abc.xyz/)
-- [Apple Inc.](https://www.apple.com/)
-- [Facebook (Meta Platforms Inc.)](https://about.meta.com/)
-- [Amazon.com Inc.](https://www.amazon.com/)
-- [Tesla Inc.](https://www.tesla.com/)
+- Google (Alphabet Inc.)
+- Apple Inc.
+- Facebook (Meta Platforms Inc.)
+- Amazon.com Inc.
+- Tesla Inc.
 
 These companies use ISOs to align employees’ interests with those of shareholders, incentivizing employees to contribute to the company's success and share in its prosperity.
 

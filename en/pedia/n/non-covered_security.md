@@ -25,18 +25,18 @@ When it comes time to sell a non-covered [security](../s/security.md), the [inve
 **[Investor](../i/investor.md) A purchased 100 [shares](../s/shares.md) of XYZ [Corporation](../c/corporation.md) on December 15, 2010, for $50 per share. Since these [shares](../s/shares.md) were acquired prior to January 1, 2011, they are classified as non-covered securities.**
 
 - **Purchase Information:**
-  - Date: December 15, 2010
-  - Quantity: 100 [shares](../s/shares.md)
-  - Purchase Price: $50 per share
-  - Total [Cost Basis](../c/cost_basis.md): $5,000
+ - Date: December 15, 2010
+ - Quantity: 100 [shares](../s/shares.md)
+ - Purchase Price: $50 per share
+ - Total [Cost Basis](../c/cost_basis.md): $5,000
 
 Now suppose [Investor](../i/investor.md) A sells these 100 [shares](../s/shares.md) on March 10, 2022, for $75 per share. The key challenge for [Investor](../i/investor.md) A is accurately reporting the [cost basis](../c/cost_basis.md) and determining the [capital gain](../c/capital_gain.md) upon [sale](../s/sale.md). Assuming no corporate actions occurred, the [capital gain](../c/capital_gain.md) would be:
 
 - **[Sale](../s/sale.md) Information:**
-  - Date: March 10, 2022
-  - Quantity: 100 [shares](../s/shares.md)
-  - [Sale](../s/sale.md) Price: $75 per share
-  - Total [Sale](../s/sale.md) Proceeds: $7,500
+ - Date: March 10, 2022
+ - Quantity: 100 [shares](../s/shares.md)
+ - [Sale](../s/sale.md) Price: $75 per share
+ - Total [Sale](../s/sale.md) Proceeds: $7,500
 
 **[Capital Gain](../c/capital_gain.md) Calculation:**
 - [Cost Basis](../c/cost_basis.md): $5,000 (original purchase price)
@@ -62,9 +62,9 @@ Moreover, brokers may incur additional [customer service](../c/customer_service.
 **[Broker](../b/broker.md) B holds accounts for numerous clients, including many who have non-covered securities acquired before the respective transition dates.**
 
 - **Primary Responsibilities:**
-  - Provide clients with access to historical [trade](../t/trade.md) data.
-  - [Offer](../o/offer.md) tools and resources for [cost basis](../c/cost_basis.md) estimation.
-  - Educate clients on the importance of maintaining accurate records.
+ - Provide clients with access to historical [trade](../t/trade.md) data.
+ - [Offer](../o/offer.md) tools and resources for [cost basis](../c/cost_basis.md) estimation.
+ - Educate clients on the importance of maintaining accurate records.
 
 By [offering](../o/offering.md) these services, [Broker](../b/broker.md) B helps clients comply with tax reporting regulations and enhances client satisfaction. However, [Broker](../b/broker.md) B also makes clear that maintaining the ultimate responsibility for accurate [cost basis](../c/cost_basis.md) reporting rests with the [investor](../i/investor.md), especially for non-covered securities.
 
@@ -86,20 +86,20 @@ The IRS [Form 8949](../f/form_8949.md), "Sales and Other Dispositions of [Capita
 **[Investor](../i/investor.md) B sold 50 [shares](../s/shares.md) of ABC [Corporation](../c/corporation.md) acquired before the covered [security](../s/security.md) transition date. The selling price was $60 per share, and the original purchase price was $40 per share.**
 
 - **[Transaction](../t/transaction.md) Details:**
-  - [Security](../s/security.md): ABC [Corporation](../c/corporation.md)
-  - [Acquisition](../a/acquisition.md) Date: May 10, 2010 (non-covered)
-  - Quantity: 50 [shares](../s/shares.md)
-  - Purchase Price: $40 per share
-  - [Sale](../s/sale.md) Date: January 15, 2022
-  - [Sale](../s/sale.md) Price: $60 per share
+ - [Security](../s/security.md): ABC [Corporation](../c/corporation.md)
+ - [Acquisition](../a/acquisition.md) Date: May 10, 2010 (non-covered)
+ - Quantity: 50 [shares](../s/shares.md)
+ - Purchase Price: $40 per share
+ - [Sale](../s/sale.md) Date: January 15, 2022
+ - [Sale](../s/sale.md) Price: $60 per share
 
 **Tax Reporting Steps:**
 1. Calculate the total [cost basis](../c/cost_basis.md) and [sale](../s/sale.md) proceeds:
-   - [Cost Basis](../c/cost_basis.md): 50 [shares](../s/shares.md) x $40 = $2,000
-   - [Sale](../s/sale.md) Proceeds: 50 [shares](../s/shares.md) x $60 = $3,000
+ - [Cost Basis](../c/cost_basis.md): 50 [shares](../s/shares.md) x $40 = $2,000
+ - [Sale](../s/sale.md) Proceeds: 50 [shares](../s/shares.md) x $60 = $3,000
 
 2. Determine the [capital gain](../c/capital_gain.md):
-   - [Capital Gain](../c/capital_gain.md): $3,000 - $2,000 = $1,000
+ - [Capital Gain](../c/capital_gain.md): $3,000 - $2,000 = $1,000
 
 3. Report the [transaction](../t/transaction.md) on IRS [Form 8949](../f/form_8949.md) and then transfer the totals to Schedule D.
 
@@ -126,14 +126,14 @@ The rise of technology and automation in the financial [industry](../i/industry.
 **Company X, a fintech [firm](../f/firm.md) specializing in [investment management](../i/investment_management.md), offers a comprehensive platform that includes [cost basis](../c/cost_basis.md) tracking for both covered and non-covered securities.**
 
 - **Features:**
-  - Integration with [broker](../b/broker.md) accounts to [import](../i/import.md) [transaction](../t/transaction.md) data.
-  - Automated [cost basis](../c/cost_basis.md) calculations adjusted for corporate actions.
-  - Generation of tax forms (e.g., [Form 8949](../f/form_8949.md), Schedule D) with integrated [transaction](../t/transaction.md) details.
-  - Real-time [gain](../g/gain.md)/loss tracking and [tax liability](../t/tax_liability.md) projections.
+ - Integration with [broker](../b/broker.md) accounts to [import](../i/import.md) [transaction](../t/transaction.md) data.
+ - Automated [cost basis](../c/cost_basis.md) calculations adjusted for corporate actions.
+ - Generation of tax forms (e.g., [Form 8949](../f/form_8949.md), Schedule D) with integrated [transaction](../t/transaction.md) details.
+ - Real-time [gain](../g/gain.md)/loss tracking and [tax liability](../t/tax_liability.md) projections.
 
 By leveraging such technology, investors and brokers can significantly reduce the complexity and errors associated with non-covered [security](../s/security.md) transactions, ensuring compliance and optimizing investment strategies.
 
-For more information, you can visit the company's website: [Company X](https://www.examplecompanyx.com).
+
 
 ## Conclusion
 

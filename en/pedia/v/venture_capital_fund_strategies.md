@@ -69,34 +69,34 @@ Rigorous [due diligence](../d/due_diligence.md) procedures, involving deep dives
 ## Examples of Successful VC Firms and Their Strategies
 
 ### Sequoia Capital
-One of the most renowned VC firms globally, Sequoia [Capital](../c/capital.md) has a long history of successful investments in companies like Google, Apple, and WhatsApp. They focus on seed, early, and growth-stage investments across various sectors such as technology, healthcare, and consumer services. 
+One of the most renowned VC firms globally, Sequoia [Capital](../c/capital.md) has a long history of successful investments in companies like Google, Apple, and WhatsApp. They focus on seed, early, and growth-stage investments across various sectors such as technology, healthcare, and consumer services.
 
-Website: [Sequoia Capital](https://www.sequoiacap.com/)
+online platform: Sequoia Capital
 
 ### Andreesen Horowitz
 Andreesen Horowitz, also known as a16z, is another prominent VC [firm](../f/firm.md), specializing in backing startups in software, including [cloud computing](../c/cloud_computing_in_trading.md), mobile, and enterprise software. They adopt a hands-on approach, providing portfolio companies with extensive networks and mentorship.
 
-Website: [Andreesen Horowitz](https://a16z.com/)
+online platform: Andreesen Horowitz
 
 ### Accel Partners
 Accel focuses on early and growth-stage companies, primarily in the internet [technology sector](../t/technology_sector.md). Their strategy includes a deep understanding of technology trends and leveraging those insights to make informed investment decisions.
 
-Website: [Accel](https://www.accel.com/)
+online platform: Accel
 
 ### Benchmark Capital
 [Benchmark](../b/benchmark.md) [Capital](../c/capital.md) is known for their highly selective [investment strategy](../i/investment_strategy.md), focusing on [disruptive technology](../d/disruptive_technology.md) startups. They have invested in companies like Uber, Twitter, and eBay. Their partners play an active role within portfolio companies to foster growth.
 
-Website: [Benchmark Capital](https://www.benchmark.com/)
+online platform: Benchmark Capital
 
 ### General Catalyst
 General Catalyst's strategy involves a broad sector focus, including consumer, enterprise, and health industries. They support companies at various stages of their lifecycle from seed to growth stage.
 
-Website: [General Catalyst](https://www.generalcatalyst.com/)
+online platform: General Catalyst
 
 ### Lightspeed Venture Partners
 Lightspeed Venture Partners is focused on [multiple](../m/multiple.md) sectors including enterprise, consumer, and health. They have a global [investment strategy](../i/investment_strategy.md) and support innovators at seed, early, and growth stages.
 
-Website: [Lightspeed Venture Partners](https://lsvp.com/)
+online platform: Lightspeed Venture Partners
 
 ## Emerging Trends in Venture Capital
 

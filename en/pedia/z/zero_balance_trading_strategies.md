@@ -16,13 +16,13 @@
 
 #### Data and Model Selection
 
-- **Historical Data**: A [robust](../r/robust.md) dataset that includes past price movements, trading [volume](../v/volume.md), and other relevant factors is essential. Companies like [Quandl](https://www.quandl.com) and [Bloomberg](https://www.bloomberg.com/professional/solution/api/) provide comprehensive historical financial data.
+- **Historical Data**: A [robust](../r/robust.md) dataset that includes past price movements, trading [volume](../v/volume.md), and other relevant factors is essential. Companies like Quandl and Bloomberg provide comprehensive historical financial data.
 
 - **[Quantitative Models](../q/quantitative_models.md)**: Traders use advanced [quantitative models](../q/quantitative_models.md) to identify potential trades. Common models include [mean reversion](../m/mean_reversion.md), [co-integration](../c/co-integration.md), and [machine learning](../m/machine_learning.md) models like [Random Forests](../r/random_forests_in_trading.md) and [Neural Networks](../n/neural_networks_in_trading.md).
 
 #### Algorithm Development
 
-1. **[Backtesting](../b/backtesting.md)**: Before deploying any strategy, it must be rigorously backtested against historical data to ensure its viability. Tools for [backtesting](../b/backtesting.md) include platforms like [QuantConnect](https://www.quantconnect.com) and [Quantopian](https://www.quantopian.com).
+1. **[Backtesting](../b/backtesting.md)**: Before deploying any strategy, it must be rigorously backtested against historical data to ensure its viability. Tools for [backtesting](../b/backtesting.md) include platforms like QuantConnect and Quantopian.
 
 2. **[Execution Algorithms](../e/execution_algorithms.md)**: Efficient [order](../o/order.md) [execution](../e/execution.md) is crucial. Algorithms like TWAP (Time-[Weighted Average](../w/weighted_average.md) Price) and VWAP ([Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price) help in minimizing [market](../m/market.md) impact.
 
@@ -36,9 +36,9 @@
 
 ### Technologies and Platforms
 
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms like [MetaTrader](https://www.metatrader4.com/en/trading-platform) and proprietary platforms from firms such as [AlgoTrader](https://www.algotrader.com) and [Kensho](https://www.kensho.com) [offer](../o/offer.md) comprehensive tools for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md).
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms like MetaTrader and proprietary platforms from firms such as AlgoTrader and Kensho [offer](../o/offer.md) comprehensive tools for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md).
 
-- **High-Frequency Trading (HFT)**: HFT firms like [Virtu Financial](https://www.virtu.com) and [Citadel Securities](https://www.citadelsecurities.com) use sophisticated algorithms that can execute trades in nanoseconds, providing a significant edge in [zero balance](../z/zero_balance.md) strategies.
+- **High-Frequency Trading (HFT)**: HFT firms like Virtu Financial and Citadel Securities use sophisticated algorithms that can execute trades in nanoseconds, providing a significant edge in [zero balance](../z/zero_balance.md) strategies.
 
 ### Case Studies and Real-World Applications
 
@@ -58,7 +58,7 @@
 
 The future of [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) lies in the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). These technologies enable more adaptive and self-learning models, which can enhance the identification of trading opportunities and [risk](../r/risk.md) mitigation.
 
-- **AI and [Machine Learning](../m/machine_learning.md)**: Firms like [AlphaSense](https://www.alpha-sense.com) are pioneering the use of AI in financial analytics, paving the way for more sophisticated and adaptive [market](../m/market.md)-[neutral](../n/neutral.md) strategies.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Firms like AlphaSense are pioneering the use of AI in financial analytics, paving the way for more sophisticated and adaptive [market](../m/market.md)-[neutral](../n/neutral.md) strategies.
 
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: As [quantum computing](../q/quantum_computing_in_trading.md) evolves, it has the potential to revolutionize [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) by solving complex [optimization](../o/optimization.md) problems faster than classical computers.
 

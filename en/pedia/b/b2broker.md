@@ -48,5 +48,4 @@ B2Broker is regulated by several authorities, ensuring a secure and compliant [t
 - Financial Services Authority (FSA) of Seychelles
 - [National Bank](../n/national_bank.md) of the Republic of Belarus (NBRB)
 
-## Website
-For more information and to explore B2Broker's services, visit the official B2Broker website: [B2Broker](https://b2broker.com)
+##

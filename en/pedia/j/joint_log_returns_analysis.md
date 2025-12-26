@@ -21,7 +21,7 @@ Log returns are preferred over simple returns due to their properties of being m
 The [joint](../j/joint.md) [distribution](../d/distribution.md) of log returns examines the [probability distribution](../p/probability_distribution.md) of log returns for [multiple](../m/multiple.md) assets simultaneously. This analysis helps in understanding the dependencies and correlations between assets. [Joint](../j/joint.md) returns can be modeled using multivariate statistical techniques which may include:
 
 - **Multivariate [Normal Distribution](../n/normal_distribution_in_trading.md):** Assumes that the log returns follow a [normal distribution](../n/normal_distribution_in_trading.md) jointly. The multivariate [normal distribution](../n/normal_distribution_in_trading.md) is characterized by a mean vector and [covariance](../c/covariance.md) matrix.
-  
+
 - **Copula Functions:** Copulas allow for the modeling of the dependency structure separately from the marginals. This is particularly useful in [finance](../f/finance.md) where tail dependencies and non-linear relationships are common.
 
 ### Covariance and Correlation Matrices
@@ -29,7 +29,7 @@ The [joint](../j/joint.md) [distribution](../d/distribution.md) of log returns e
 To understand the relationship between [multiple](../m/multiple.md) assets, the [covariance](../c/covariance.md) (\(\Sigma\)) and [correlation](../c/correlation.md) (\( \[rho](../r/rho.md) \)) matrices are essential:
 
 - **[Covariance](../c/covariance.md) Matrix (\(\Sigma\)):** Measures how two log returns vary together.
-  
+
 \[ \Sigma = \begin{pmatrix}
 \sigma^2_{11} & \sigma_{12} & \cdots & \sigma_{1n} \\
 \sigma_{21} & \sigma^2_{22} & \cdots & \sigma_{2n} \\

@@ -12,7 +12,7 @@ Tape reading involves scrutinizing a stream of time and sales data, focusing on 
 
 ### Key Components
 
-1. **Price**: The most basic and essential component, indicating where transactions are occurring. 
+1. **Price**: The most basic and essential component, indicating where transactions are occurring.
 2. **[Volume](../v/volume.md)**: The number of [shares](../s/shares.md) or contracts being traded, providing insight into the strength of a price move.
 3. **Types of Trades**: Distinguishing between [market](../m/market.md) orders and limit orders can give clues about [trader](../t/trader.md) intentions.
 
@@ -69,7 +69,7 @@ Mastering tape reading requires significant practice and expertise. The sheer [v
 
 ### Technology and Latency
 
-With the advent of high-frequency trading (HFT) and [algorithmic trading](../a/accountability.md), the speed at which markets move has increased exponentially. This sometimes makes it challenging for human tape readers to compete with sophisticated algorithms.
+With the advent of high-frequency trading (HFT) and [algorithmic trading](../a/algorithmic_trading.md), the speed at which markets move has increased exponentially. This sometimes makes it challenging for human tape readers to compete with sophisticated algorithms.
 
 ### Market Manipulation
 
@@ -105,9 +105,9 @@ Even for swing traders, who [hold](../h/hold.md) positions for several days, tap
 
 Several tools and resources can assist modern tape readers. Some popular trading platforms that [offer](../o/offer.md) [robust](../r/robust.md) tape reading utilities include:
 
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Offers comprehensive real-time data and advanced charting tools. [Visit Thinkorswim](https://www.thinkorswim.com/)
-- **[NinjaTrader](../n/ninjatrader.md)**: Focuses on advanced [market](../m/market.md) data analysis and automated trading solutions. [Visit NinjaTrader](https://ninjatrader.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its extensive [market](../m/market.md) access and time and sales tools. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Offers comprehensive real-time data and advanced charting tools. Visit Thinkorswim
+- **[NinjaTrader](../n/ninjatrader.md)**: Focuses on advanced [market](../m/market.md) data analysis and automated trading solutions. Visit NinjaTrader
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its extensive [market](../m/market.md) access and time and sales tools. Visit Interactive Brokers
 
 ## Conclusion
 

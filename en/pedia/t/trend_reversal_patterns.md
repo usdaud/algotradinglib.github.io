@@ -49,9 +49,9 @@ Identifying [trend](../t/trend.md) [reversal patterns](../r/reversal_patterns.md
 
 Several tools and [software platforms](../s/software_platforms_for_trading.md) can aid in identifying [trend](../t/trend.md) reversals:
 
-- **MetaTrader**: Provides custom indicators and algorithms for analyzing [market](../m/market.md) trends. [MetaTrader](https://www.metatrader4.com/)
-- **[TradingView](../t/tradingview.md)**: Offers comprehensive charting tools and community-generated scripts for [pattern recognition](../p/pattern_recognition.md). [TradingView](https://www.tradingview.com/)
-- **[QuantConnect](../q/quantconnect.md)**: Allows for [algorithm design](../a/algorithm_design.md) and [backtesting](../b/backtesting.md), including [trend reversal](../t/trend_reversal.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+- **MetaTrader**: Provides custom indicators and algorithms for analyzing [market](../m/market.md) trends. MetaTrader
+- **[TradingView](../t/tradingview.md)**: Offers comprehensive charting tools and community-generated scripts for [pattern recognition](../p/pattern_recognition.md). TradingView
+- **[QuantConnect](../q/quantconnect.md)**: Allows for [algorithm design](../a/algorithm_design.md) and [backtesting](../b/backtesting.md), including [trend reversal](../t/trend_reversal.md) strategies. QuantConnect
 
 ### Practical Application
 
@@ -70,4 +70,3 @@ Markets evolve, and so should [trading strategies](../t/trading_strategies.md). 
 ### Conclusion
 
 [Trend](../t/trend.md) [reversal patterns](../r/reversal_patterns.md) are indispensable tools in the arsenal of an algorithmic [trader](../t/trader.md). By understanding and leveraging these patterns, traders can enhance their decision-making processes and optimize their trading outcomes.
-

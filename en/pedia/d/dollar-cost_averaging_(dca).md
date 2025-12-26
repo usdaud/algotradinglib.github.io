@@ -69,20 +69,20 @@ Investors frequently use DCA to invest in [index](../i/index_instrument.md) fund
 Consider John who wants to invest $5,000 in an [index fund](../i/index_fund.md) over five months. John decides to invest $1,000 at the start of each month.
 
 - **Month 1:** [Index fund](../i/index_fund.md) price - $50
-  - Investment: $1,000
-  - Units bought: 20
+ - Investment: $1,000
+ - Units bought: 20
 - **Month 2:** [Index fund](../i/index_fund.md) price - $40
-  - Investment: $1,000
-  - Units bought: 25
+ - Investment: $1,000
+ - Units bought: 25
 - **Month 3:** [Index fund](../i/index_fund.md) price - $45
-  - Investment: $1,000
-  - Units bought: 22.22
+ - Investment: $1,000
+ - Units bought: 22.22
 - **Month 4:** [Index fund](../i/index_fund.md) price - $55
-  - Investment: $1,000
-  - Units bought: 18.18
+ - Investment: $1,000
+ - Units bought: 18.18
 - **Month 5:** [Index fund](../i/index_fund.md) price - $50
-  - Investment: $1,000
-  - Units bought: 20
+ - Investment: $1,000
+ - Units bought: 20
 
 By the end of five months, John has invested his $5,000, purchased a total of 105.4 units, and the average price paid per unit is $47.46, compared to what could have been an initial lump-sum investment that might not have benefitted from the fluctuations in price.
 
@@ -90,11 +90,11 @@ By the end of five months, John has invested his $5,000, purchased a total of 10
 
 Numerous financial institutions and brokerage platforms [offer](../o/offer.md) tools and features that support DCA strategies:
 
-- **Vanguard:** Vanguard allows investors to set up automatic investments into mutual funds and ETFs. [Vanguard](https://investor.vanguard.com/home)
-- **Fidelity:** Fidelity provides features for automatic periodic investments in mutual funds and select [stocks](../s/stock.md). [Fidelity Investments](https://www.fidelity.com)
-- **[Robinhood](../r/robinhood.md):** Popular among new-age investors, [Robinhood](../r/robinhood.md) offers recurring investments highlighted for [stocks](../s/stock.md) and ETFs. [Robinhood](https://robinhood.com)
-- **[Coinbase](../c/coinbase.md):** For cryptocurrency investors, [Coinbase](../c/coinbase.md) provides DCA [options](../o/options.md) for recurring cryptocurrency purchases. [Coinbase](https://www.coinbase.com)
-- **[M1](../m/m1.md) [Finance](../f/finance.md):** [M1](../m/m1.md) allows investors to design their portfolios and automate their investments with DCA strategies. [M1 Finance](https://www.m1finance.com)
+- **Vanguard:** Vanguard allows investors to set up automatic investments into mutual funds and ETFs. Vanguard
+- **Fidelity:** Fidelity provides features for automatic periodic investments in mutual funds and select [stocks](../s/stock.md). Fidelity Investments
+- **[Robinhood](../r/robinhood.md):** Popular among new-age investors, [Robinhood](../r/robinhood.md) offers recurring investments highlighted for [stocks](../s/stock.md) and ETFs. Robinhood
+- **[Coinbase](../c/coinbase.md):** For cryptocurrency investors, [Coinbase](../c/coinbase.md) provides DCA [options](../o/options.md) for recurring cryptocurrency purchases. Coinbase
+- **[M1](../m/m1.md) [Finance](../f/finance.md):** [M1](../m/m1.md) allows investors to design their portfolios and automate their investments with DCA strategies. M1 Finance
 
 ## Case Studies and Historical Performance
 

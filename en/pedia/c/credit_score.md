@@ -83,10 +83,10 @@ To keep your [credit](../c/credit.md) score in good shape, it is crucial to moni
 
 For more details on specific services, refer to their respective websites:
 
-- [Credit Karma](https://www.creditkarma.com)
-- [Experian](https://www.experian.com)
-- [Equifax](https://www.equifax.com)
-- [TransUnion](https://www.transunion.com)
+- Credit Karma
+- Experian
+- Equifax
+- TransUnion
 
 ## Impact of Credit Score in Different Regions
 
@@ -120,7 +120,7 @@ Algorithmic traders often involve [risk](../r/risk.md) assessment algorithms to 
 
 Robo-advisors and trading platforms might analyze users' financial backgrounds, including [credit](../c/credit.md) scores, to tailor investment advice and product recommendations more precisely.
 
-### Data Augmentation 
+### Data Augmentation
 
 Incorporating additional datasets like [credit](../c/credit.md) scores can help enhance the robustness and reliability of [trading algorithms](../t/trading_algorithms.md), making predictions more resilient to [market](../m/market.md) fluctuations.
 

@@ -36,7 +36,7 @@ With the advancements in technology and electronic trading, one might assume tha
 
 ## Implications for Algoritrading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). Algotraders need to be aware of the Hamptons Effect because it can impact the effectiveness of their [trading algorithms](../t/trading_algorithms.md). Here's how:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). Algotraders need to be aware of the Hamptons Effect because it can impact the effectiveness of their [trading algorithms](../t/trading_algorithms.md). Here's how:
 
 ### Reduced Liquidity
 
@@ -62,7 +62,7 @@ The signal-to-[noise](../n/noise.md) ratio could be affected during periods of r
 
 Several financial firms have conducted [in-house](../i/in-house.md) studies on the Hamptons Effect. For instance, JPMorgan Chase and Morgan Stanley often publish reports examining seasonal trends in [market](../m/market.md) activity. These reports can provide insights into how the Hamptons Effect manifests and advise on optimal [trading strategies](../t/trading_strategies.md) during this period.
 
-Morgan Stanley has a dedicated section on seasonal trading patterns. For further details, you can visit their website: [Morgan Stanley Seasonality Reports](https://www.morganstanley.com)
+Morgan Stanley has a dedicated section on seasonal trading patterns.
 
 ## Conclusion
 

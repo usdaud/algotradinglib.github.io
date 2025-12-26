@@ -62,7 +62,7 @@ The [principal](../p/principal.md) has the right to revoke the SPA at any time, 
 
 ### Algo-Trading and Fintech
 
-In the realms of [algorithmic trading](../a/accountability.md) and fintech, an SPA can serve specific purposes. For instance:
+In the realms of [algorithmic trading](../a/algorithmic_trading.md) and fintech, an SPA can serve specific purposes. For instance:
 
 - **Algorithm Implementation**: A [principal](../p/principal.md) may [grant](../g/grant.md) an SPA to an agent (who could be a technical expert) to deploy and manage specific [trading algorithms](../t/trading_algorithms.md).
 - **Account Management**: An agent can be authorized to conduct trades, manage investment portfolios, or [handle](../h/handle.md) electronic transactions on behalf of the [principal](../p/principal.md).

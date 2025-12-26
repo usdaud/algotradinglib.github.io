@@ -86,11 +86,11 @@ CLNs [offer](../o/offer.md) higher coupon rates compared to other fixed-[income]
 
 ### Deutsche Bank
 
-Deutsche [Bank](../b/bank.md) offers various structured [credit](../c/credit.md) products including CLNs. For more information, visit [Deutsche Bank Structured Credit](https://www.db.com/).
+Deutsche [Bank](../b/bank.md) offers various structured [credit](../c/credit.md) products including CLNs. For more information, visit Deutsche Bank Structured Credit.
 
 ### JPMorgan Chase
 
-JPMorgan Chase provides a wide [range](../r/range.md) of [credit](../c/credit.md)-linked investments, including CLNs. More details can be found at [JPMorgan Chase Credit Risk Solutions](https://www.jpmorgan.com/).
+JPMorgan Chase provides a wide [range](../r/range.md) of [credit](../c/credit.md)-linked investments, including CLNs. More details can be found at JPMorgan Chase Credit Risk Solutions.
 
 ## Conclusion
 

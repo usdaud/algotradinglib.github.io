@@ -41,7 +41,7 @@ SVA is often compared and contrasted with other financial metrics, such as [Econ
 
 ### Practical Application of SVA
 
-In practice, companies integrate SVA into their financial reporting and strategic decision-making processes. Some leading firms, like Coca-Cola (https://www.coca-colacompany.com) and General Electric (https://www.ge.com), have embedded SVA metrics into their [corporate governance](../c/corporate_governance.md) frameworks to ensure continuous alignment with [shareholder](../s/shareholder.md) interests.
+In practice, companies integrate SVA into their financial reporting and strategic decision-making processes. Some leading firms, like Coca-Cola ( and General Electric ( have embedded SVA metrics into their [corporate governance](../c/corporate_governance.md) frameworks to ensure continuous alignment with [shareholder](../s/shareholder.md) interests.
 
 ### Case Study: General Electric (GE)
 

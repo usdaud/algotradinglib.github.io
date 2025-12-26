@@ -9,7 +9,7 @@ An orphan block occurs when new blocks are mined almost simultaneously but only 
 ### Creation of Orphan Blocks
 
 1. **[Mining](../m/mining.md) Competition**: Miners in a [blockchain](../b/blockchain_in_trading.md) network compete to solve mathematical puzzles to add a new block to the [blockchain](../b/blockchain_in_trading.md). Sometimes, more than one miner solves the puzzle at roughly the same time.
-   
+
 2. **Propagation Delay**: Because of network latency, these competing blocks [will](../w/will.md) start propagating through the network from different locations. Different nodes may temporarily end up with different versions of the [blockchain](../b/blockchain_in_trading.md).
 
 3. **Chain Split**: When this happens, for a brief moment, there are branches (or forks) of the [blockchain](../b/blockchain_in_trading.md). Nodes in the network may have some miners’ block at the end of their chain while others have another block.

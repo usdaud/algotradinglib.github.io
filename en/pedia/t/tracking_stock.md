@@ -4,7 +4,7 @@ A tracking stock, also known as a targeted stock or a letter stock, is a type of
 
 ## Overview
 
-Tracking [stocks](../s/stock.md) were first introduced in the 1980s as corporations sought innovative ways to raise [capital](../c/capital.md) and improve [shareholder value](../s/shareholder_value.md). They are designated by letters appended to the usual [ticker symbol](../t/ticker_symbol.md) of the company's [common stock](../c/common_stock.md). Although the [parent company](../p/parent_company.md) still owns the division, the tracking stock is speculated to perform according to the tracked segment’s performance rather than that of the consolidated entity. 
+Tracking [stocks](../s/stock.md) were first introduced in the 1980s as corporations sought innovative ways to raise [capital](../c/capital.md) and improve [shareholder value](../s/shareholder_value.md). They are designated by letters appended to the usual [ticker symbol](../t/ticker_symbol.md) of the company's [common stock](../c/common_stock.md). Although the [parent company](../p/parent_company.md) still owns the division, the tracking stock is speculated to perform according to the tracked segment’s performance rather than that of the consolidated entity.
 
 For instance, a major [corporation](../c/corporation.md) like Disney (which operates in diversified sectors such as media, entertainment, and more) might [issue](../i/issue.md) a tracking stock specifically for its ESPN segment. This would allow investors interested in sports broadcasting to focus their investments specifically on ESPN's performance rather than Disney’s overall [business](../b/business.md) operations.
 
@@ -14,7 +14,7 @@ For instance, a major [corporation](../c/corporation.md) like Disney (which oper
 Tracking [stocks](../s/stock.md) are essentially a financial tool that allows the [parent company](../p/parent_company.md) to segregate its diverse [business](../b/business.md) operations into more narrowly focused investment avenues without the need for a formal spinoff or [divestiture](../d/divestiture.md). This tactic is particularly practical for companies with diverse [business models](../b/business_models.md) encompassing [multiple](../m/multiple.md) divisions or product lines that may appeal to different sets of investors.
 
 ### Retained Ownership and Control
-Despite issuing tracking [stocks](../s/stock.md), the original company retains full control and ownership of the tracked [business](../b/business.md). For investors, this means that the tracked segment remains integrated with the company’s broader structure, and decisions affecting the tracked branch still inherently impact the [parent company](../p/parent_company.md). 
+Despite issuing tracking [stocks](../s/stock.md), the original company retains full control and ownership of the tracked [business](../b/business.md). For investors, this means that the tracked segment remains integrated with the company’s broader structure, and decisions affecting the tracked branch still inherently impact the [parent company](../p/parent_company.md).
 
 ### Separate Financial Metrics
 The tracked entity’s financial results are reported separately, allowing more precise [financial analysis](../f/financial_analysis.md) and a clearer [valuation](../v/valuation.md) of [business](../b/business.md) units. In reporting [earnings](../e/earnings.md), companies may present comprehensive financial data segmentally, providing [transparency](../t/transparency.md) and enabling investors to evaluate tracked unit performance against [industry](../i/industry.md) benchmarks.
@@ -64,7 +64,7 @@ In 1996, General Motors (GM) used tracking [stocks](../s/stock.md) for its Elect
 ### Dell’s VMware
 Dell Technologies tracked VMware through a tracking stock after acquiring EMC in 2016. VMware continued to reflect in its separate financial metrics and [market](../m/market.md) performance, [offering](../o/offering.md) [specialization](../s/specialization.md) and focus to investors keen on [cloud computing](../c/cloud_computing_in_trading.md) and virtualization technologies.
 
-### [Liberty Media Group](https://www.libertymedia.com/)
+### Liberty Media Group
 
 ## Conclusion
 

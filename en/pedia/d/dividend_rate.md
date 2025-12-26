@@ -104,7 +104,7 @@ As of the latest data, AT&T pays an annual [dividend](../d/dividend.md) of $2.08
 
 This high [yield](../y/yield.md) makes it an attractive option for [income](../i/income.md)-focused investors. Companies with such profiles are often targets for [dividend capture strategies](../d/dividend_capture_strategies.md) in [algorithmic trading](../a/accountability.md).
 
-Website: [AT&T Investor Relations](https://investors.att.com/)
+online platform
 
 ## Key Metrics and Tools
 
@@ -135,7 +135,7 @@ Where:
 
 This is a group of companies in the S&P 500 that have increased their dividends for 25 consecutive years or more. These companies are often sought after for their reliable [dividend](../d/dividend.md) payments.
 
-Website: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
+online platform: S&P Dow Jones Indices
 
 ## Tools for Analysis
 
@@ -151,7 +151,7 @@ Platforms like Finviz, Zacks, and others [offer](../o/offer.md) screening tools 
 
 ### Automated Trading Platforms
 
-Platforms like [QuantConnect](../q/quantconnect.md) or MetaTrader allow traders to develop and backtest algorithms based on [dividend](../d/dividend.md) criteria.
+Platforms like [StockSharp](../s/stocksharp.md) or MetaTrader allow traders to develop and backtest algorithms based on [dividend](../d/dividend.md) criteria.
 
 ## Conclusion
 

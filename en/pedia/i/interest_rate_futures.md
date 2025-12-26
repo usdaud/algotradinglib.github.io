@@ -80,7 +80,7 @@ Arbitrageurs seek to [profit](../p/profit.md) from price discrepancies between r
 
 The clearinghouses act as intermediaries between buyers and sellers, guaranteeing the performance of each contract. They require traders to post [initial margin](../i/initial_margin.md) deposits and maintain variation margins to cover potential losses. Daily mark-to-[market](../m/market.md) settlement ensures that gains and losses are realized and accounted for promptly, reducing the [risk](../r/risk.md) of [default](../d/default.md).
 
-For example, the CME Group, which operates the CBOT, uses its clearinghouse to manage [interest rate](../i/interest_rate.md) [futures contracts](../f/futures_contracts.md). More information can be found on their official website: [CME Group](https://www.cmegroup.com).
+For example, the CME Group, which operates the CBOT, uses its clearinghouse to manage [interest rate](../i/interest_rate.md) [futures contracts](../f/futures_contracts.md).
 
 ## Popular Interest Rate Futures Contracts
 

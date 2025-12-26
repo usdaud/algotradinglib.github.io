@@ -1,4 +1,4 @@
-# Social Welfare System 
+# Social Welfare System
 
 ## Introduction
 
@@ -93,7 +93,7 @@ The United States has a complex social [welfare](../w/welfare.md) system compris
 - **Temporary Assistance for Needy Families (TANF)**: Provides cash assistance and work programs for families with children.
 - **[Social Security](../s/social_security.md)**: Offers retirement, disability, and survivor benefits.
 
-For more information, visit [US Social Security Administration](https://www.ssa.gov/).
+For more information, visit US Social Security Administration.
 
 ### United Kingdom
 
@@ -104,7 +104,7 @@ The United Kingdom's social [welfare](../w/welfare.md) system includes:
 - **Child Benefit**: Offers financial support to parents for raising children.
 - **Housing Benefit**: Assists with rental costs for low-[income](../i/income.md) individuals.
 
-For more information, visit [UK Government - Benefits](https://www.gov.uk/browse/benefits).
+For more information, visit UK Government - Benefits.
 
 ### Sweden
 
@@ -114,7 +114,7 @@ Sweden is known for its comprehensive social [welfare](../w/welfare.md) system, 
 - **Arbetsförmedlingen**: Provides employment services and supports job seekers with various programs.
 - **[Statistics](../s/statistics.md) Sweden (SCB)**: Collects and analyzes data to inform social [welfare](../w/welfare.md) policies.
 
-For more information, visit [Försäkringskassan](https://www.forsakringskassan.se/).
+For more information, visit Försäkringskassan.
 
 ## Future Trends
 

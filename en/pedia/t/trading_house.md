@@ -78,7 +78,7 @@ Trading houses contribute significantly to the global [economy](../e/economy.md)
 
 ### Market Volatility
 
-While trading houses provide [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md), they can also contribute to [market](../m/market.md) [volatility](../v/volatility.md). Their large trades can sometimes create significant price movements, which can have a [ripple](../r/ripple.md) effect across global markets. 
+While trading houses provide [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md), they can also contribute to [market](../m/market.md) [volatility](../v/volatility.md). Their large trades can sometimes create significant price movements, which can have a [ripple](../r/ripple.md) effect across global markets.
 
 ### Regulatory Scrutiny
 
@@ -90,31 +90,31 @@ Given their significant influence on global markets, trading houses are subject 
 
 Glencore is one of the world’s largest global diversified natural resource companies. It has a leading presence in the production and trading of commodities including metals, minerals, oil, and agricultural products.
 
-* [Glencore](https://www.glencore.com/)
+* Glencore
 
 ### Vitol
 
 Vitol is one of the largest independent [energy trading](../e/energy_trading.md) companies. It is involved in the international transport and trading of [crude oil](../c/crude_oil.md), [petroleum](../p/petroleum.md) products, natural gas, and other energy commodities.
 
-* [Vitol](https://www.vitol.com/)
+* Vitol
 
 ### Goldman Sachs
 
 Goldman Sachs is a leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md). The company provides a wide [range](../r/range.md) of financial services to a substantial and diversified client base.
 
-* [Goldman Sachs](https://www.goldmansachs.com/)
+* Goldman Sachs
 
 ### Trafigura
 
 Trafigura is a multinational [commodity](../c/commodity.md) trading company founded in 1993 that trades in base metals and energy. It is one of the largest [physical commodities trading](../p/physical_commodities_trading.md) groups in the world.
 
-* [Trafigura](https://www.trafigura.com/)
+* Trafigura
 
 ### J.P. Morgan
 
 J.P. Morgan is a global leader in financial services [offering](../o/offering.md) solutions to the world’s most important corporations, governments, and institutions in more than 100 countries.
 
-* [J.P. Morgan](https://www.jpmorgan.com/)
+* J.P. Morgan
 
 ## Future Trends in Trading Houses
 

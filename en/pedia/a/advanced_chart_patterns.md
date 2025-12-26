@@ -93,8 +93,8 @@ Advanced [chart patterns](../c/chart_patterns.md) are indispensable for traders 
 
 ### Further Reading and Tools
 
-- [TrendSpider](https://trendspider.com)
-- [MetaStock](https://www.metastock.com)
-- [TradeStation](https://www.tradestation.com)
+- TrendSpider
+- MetaStock
+- TradeStation
 
-Understanding and leveraging advanced [chart patterns](../c/chart_patterns.md) take practice, but algorithmic tools can provide substantial support, making these patterns more accessible and actionable for both novice and experienced traders.
+Understanding and leveraging advanced [chart patterns](../c/chart_patterns.md) take practice, but algorithmic tools can provide substantial support, making these patterns more accessible and actionable for both novice and experienced traders.

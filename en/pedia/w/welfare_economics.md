@@ -76,8 +76,8 @@ One real-world application of [welfare](../w/welfare.md) [economics](../e/econom
 
 For more information on [welfare](../w/welfare.md) [economics](../e/economics.md) and contemporary research, please visit:
 
-- [Journal of Welfare Economics](https://www.jwe.com)
-- [Centre for Economic Policy Research (CEPR)](https://cepr.org)
+- Journal of Welfare Economics
+- Centre for Economic Policy Research (CEPR)
 
 ## Conclusion
 

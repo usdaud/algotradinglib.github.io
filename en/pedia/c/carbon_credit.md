@@ -12,7 +12,7 @@ Cap-and-[trade](../t/trade.md) systems, also known as Emission Trading Schemes (
 
 The [European Union](../e/european_union_(eu).md) Emission Trading Scheme (EU ETS) is one of the largest and most established cap-and-[trade](../t/trade.md) systems globally. Launched in 2005, the EU ETS covers more than 11,000 power stations and industrial plants in 30 countries.
 
-For more information: [European Commission: EU Emissions Trading System (EU ETS)](https://ec.europa.eu/clima/policies/ets_en)
+For more information: European Commission: EU Emissions Trading System (EU ETS)
 
 ### Carbon Pricing Mechanisms
 
@@ -24,16 +24,16 @@ Apart from regulated markets, there are voluntary carbon markets where companies
 
 ### Major Voluntary Carbon Standards:
 1. **Verified Carbon Standard (VCS)**: One of the most widely used voluntary carbon [offset](../o/offset.md) standards globally. Administered by Verra, VCS verifies and accredits carbon [offset](../o/offset.md) projects that meet rigorous criteria.
-   For more information: [Verra - VCS](https://verra.org/programs/verified-carbon-standard/)
-   
+ For more information: Verra - VCS
+
 2. **[Gold Standard](../g/gold_standard.md)**: Known for its stringent environmental and social safeguards, it ensures projects not only reduce carbon emissions but also contribute to sustainable development goals.
-   For more information: [Gold Standard](https://www.goldstandard.org/)
+ For more information: Gold Standard
 
 3. **American Carbon Registry (ACR)**: An early voluntary carbon [offset](../o/offset.md) program in the U.S., ACR sets high standards for project quality and rigor.
-   For more information: [American Carbon Registry](https://americancarbonregistry.org/)
+ For more information: American Carbon Registry
 
 4. **Climate Action Reserve (CAR)**: Focuses on North American projects and emphasizes [transparency](../t/transparency.md) and accountability.
-   For more information: [Climate Action Reserve](https://www.climateactionreserve.org/)
+ For more information: Climate Action Reserve
 
 ## Types of Carbon Offset Projects
 
@@ -80,29 +80,29 @@ Global cooperation and alignment on standards and regulations, such as those bei
 Several corporations are heavily invested in carbon credits, both as buyers to [offset](../o/offset.md) their own emissions and as developers of projects that generate credits.
 
 - **Microsoft**: Has committed to becoming carbon negative by 2030, [investing](../i/investing.md) in various carbon removal projects.
-  For more information: [Microsoft – Sustainability](https://www.microsoft.com/en-us/sustainability/emissions-impact-dashboard)
+ For more information: Microsoft – Sustainability
 
 - **BP**: Aims to achieve net-zero emissions by 2050, involving significant engagement with carbon [credit](../c/credit.md) markets.
-  For more information: [BP – Net Zero](https://www.bp.com/en/global/corporate/sustainability/getting-to-net-zero.html)
+ For more information: BP – Net Zero
 
 ### Carbon Credit Platforms
 
 Platforms facilitate the buying, selling, and verification of carbon credits, making them accessible to a broader [range](../r/range.md) of participants.
 
 - **South Pole**: Provides solutions for carbon footprint measurement and [offset](../o/offset.md) through verified carbon credits.
-  For more information: [South Pole](https://www.southpole.com/)
+ For more information: South Pole
 
 - **ClimateTrade**: Uses [blockchain](../b/blockchain_in_trading.md) technology to ensure [transparency](../t/transparency.md) and traceability in carbon [credit](../c/credit.md) transactions.
-  For more information: [ClimateTrade](https://climatetrade.com/)
+ For more information: ClimateTrade
 
 ### NGOs and Advocacy Groups
 
 Non-governmental organizations play a critical role in advocating for effective carbon markets and ensuring environmental integrity.
 
 - **Carbon [Market](../m/market.md) Watch**: Focuses on ensuring that carbon [market](../m/market.md) mechanisms are environmentally [robust](../r/robust.md) and socially just.
-  For more information: [Carbon Market Watch](https://carbonmarketwatch.org/)
+ For more information: Carbon Market Watch
 
 - **World Wildlife [Fund](../f/fund.md) (WWF)**: Engages in various initiatives to promote the integrity and effectiveness of carbon markets.
-  For more information: [WWF – Carbon Emissions](https://www.worldwildlife.org/initiatives/carbon-emissions)
+ For more information: WWF – Carbon Emissions
 
 In summary, carbon credits represent a pivotal mechanism in the global fight against climate change. While there are challenges and complexities involved, they [offer](../o/offer.md) a pathway to incentivize and [finance](../f/finance.md) meaningful reductions in greenhouse gas emissions. With continued innovation and collaboration, the potential of carbon credits to contribute significantly to a sustainable future is immense.

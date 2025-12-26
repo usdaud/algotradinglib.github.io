@@ -23,7 +23,7 @@ Operating through a wholly owned subsidiary can limit the [parent company](../p/
 ## Disadvantages
 
 ### High Initial Costs
-Establishing a wholly owned subsidiary can be costly, involving significant investments in legal fees, regulatory approvals, and the creation of new operational frameworks. 
+Establishing a wholly owned subsidiary can be costly, involving significant investments in legal fees, regulatory approvals, and the creation of new operational frameworks.
 
 ### Regulatory Scrutiny
 Wholly owned subsidiaries can be subject to intense regulatory scrutiny, especially in regulated industries or foreign markets. Adhering to local laws and regulations can complicate operations and add to compliance costs.
@@ -104,8 +104,8 @@ With growing emphasis on corporate [social responsibility](../s/social_responsib
 
 For more information on how companies manage their wholly owned subsidiaries, you can visit the following corporate pages:
 
-- [Amazon](https://www.amazon.com)
-- [YouTube](https://www.youtube.com)
-- [Nike](https://www.nike.com)
+- Amazon
+- YouTube
+- Nike
 
 Understanding the intricacies of wholly owned subsidiaries provides valuable insights into corporate strategy and governance, highlighting how businesses expand, diversify, and achieve long-term success.

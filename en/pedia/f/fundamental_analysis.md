@@ -58,28 +58,24 @@ Fundamental analysis is frequently used to determine if a stock is [overvalued](
 ### Application in Bonds
 In [bond](../b/bond.md) analysis, fundamental analysts assess the issuing entity’s ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md) by examining its [financial health](../f/financial_health.md), [cash flow](../c/cash_flow.md) stability, and [interest](../i/interest.md) coverage ratios.
 
-## Leading Companies in Fundamental Analysis 
+## Leading Companies in Fundamental Analysis
 Some notable companies who provide tools and services for fundamental analysis include:
 
 ### 1. Bloomberg L.P.
 [Bloomberg](../b/bloomberg.md) is a global leader in [business](../b/business.md) and financial data, providing a wide array of tools for fundamental analysis through its [Bloomberg](../b/bloomberg.md) Terminal.
 
-[Learn more about Bloomberg](https://www.bloomberg.com)
 
 ### 2. Morningstar
 [Morningstar](../m/morningstar.md) offers in-depth independent analysis on a wide [range](../r/range.md) of investment products, including [stocks](../s/stock.md), bonds, and mutual funds.
 
-[Learn more about Morningstar](https://www.morningstar.com)
 
 ### 3. FactSet
 [FactSet](../f/factset.md) provides integrated financial information and analytical applications to the global investment community, aiding in fundamental analysis.
 
-[Learn more about FactSet](https://www.factset.com)
 
 ### 4. S&P Global Market Intelligence
 S&P Global offers a comprehensive set of tools for fundamental analysis, including financial data, analytics, and research.
 
-[Learn more about S&P Global](https://www.spglobal.com)
 
 ## Conclusion
 Fundamental analysis is a vital tool for investors aiming to understand the [intrinsic value](../i/intrinsic_value.md) of a [security](../s/security.md). By examining [economic indicators](../e/economic_indicators.md), [industry](../i/industry.md) conditions, and company-specific financial data, investors can make informed decisions about their investments. Though it has its challenges and limitations, when combined with other methods, fundamental analysis can provide a [robust](../r/robust.md) framework for investment decision-making.

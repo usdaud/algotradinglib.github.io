@@ -124,11 +124,11 @@ Companies, financial advisors, and investors use the M&M theorem as a reference 
 
 #### Apple Inc.
 
-Apple Inc. (https://www.apple.com/[investor](../i/investor.md)/) provides a classic example of [capital structure](../c/capital_structure.md) management influenced by the M&M theorem and its extended models. Despite holding significant cash reserves, Apple strategically leveraged [debt](../d/debt.md) through [bond](../b/bond.md) issuance to benefit from low-[interest](../i/interest.md) rates and tax efficiencies. Apple's [capital structure](../c/capital_structure.md) decisions aim to optimize [shareholder value](../s/shareholder_value.md) by balancing the benefits of [debt](../d/debt.md) against potential risks.
+Apple Inc. ( provides a classic example of [capital structure](../c/capital_structure.md) management influenced by the M&M theorem and its extended models. Despite holding significant cash reserves, Apple strategically leveraged [debt](../d/debt.md) through [bond](../b/bond.md) issuance to benefit from low-[interest](../i/interest.md) rates and tax efficiencies. Apple's [capital structure](../c/capital_structure.md) decisions aim to optimize [shareholder value](../s/shareholder_value.md) by balancing the benefits of [debt](../d/debt.md) against potential risks.
 
 #### Tesla Inc.
 
-Tesla Inc. (https://ir.tesla.com/) illustrates the practical application of pecking [order](../o/order.md) theory. As a high-[growth company](../g/growth_company.md), Tesla initially relied heavily on [equity financing](../e/equity_financing.md) to [fund](../f/fund.md) its [expansion](../e/expansion.md) and product development due to limited internal funds and high operational risks. Over time, as Tesla generated more internal [cash flow](../c/cash_flow.md), it diversified its [capital structure](../c/capital_structure.md), incorporating [debt financing](../d/debt_financing.md) and optimizing its [cost of capital](../c/cost_of_capital.md).
+Tesla Inc. ( illustrates the practical application of pecking [order](../o/order.md) theory. As a high-[growth company](../g/growth_company.md), Tesla initially relied heavily on [equity financing](../e/equity_financing.md) to [fund](../f/fund.md) its [expansion](../e/expansion.md) and product development due to limited internal funds and high operational risks. Over time, as Tesla generated more internal [cash flow](../c/cash_flow.md), it diversified its [capital structure](../c/capital_structure.md), incorporating [debt financing](../d/debt_financing.md) and optimizing its [cost of capital](../c/cost_of_capital.md).
 
 ## Conclusion
 

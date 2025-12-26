@@ -1,10 +1,10 @@
 # Wellbore
 
-In the context of [finance](../f/finance.md), particularly within the [energy sector](../e/energy_sector.md), the term "wellbore" may not be commonly known, but it serves a critical function in understanding investments related to the oil and gas [industry](../i/industry.md). A wellbore represents the drilled hole that forms an essential part of extracting subsurface resources like oil, natural gas, or even geothermal energy. This term is particularly relevant for those involved in trading commodities, [investing](../i/investing.md) in energy [stocks](../s/stock.md), or developing [algorithmic trading](../a/accountability.md) models for the energy [market](../m/market.md). Here we [will](../w/will.md) delve into various aspects of wellbores, explaining their significance, characteristics, financial implications, and investment opportunities.
+In the context of [finance](../f/finance.md), particularly within the [energy sector](../e/energy_sector.md), the term "wellbore" may not be commonly known, but it serves a critical function in understanding investments related to the oil and gas [industry](../i/industry.md). A wellbore represents the drilled hole that forms an essential part of extracting subsurface resources like oil, natural gas, or even geothermal energy. This term is particularly relevant for those involved in trading commodities, [investing](../i/investing.md) in energy [stocks](../s/stock.md), or developing [algorithmic trading](../a/algorithmic_trading.md) models for the energy [market](../m/market.md). Here we [will](../w/will.md) delve into various aspects of wellbores, explaining their significance, characteristics, financial implications, and investment opportunities.
 
 ## Overview
 
-A wellbore is essentially the hole that is drilled into the ground to reach a reservoir of oil or gas. The wellbore allows for the extraction of these valuable resources, which can then be processed and sold. Understanding the intricacies of wellbores is vital for evaluating the viability and [productivity](../p/productivity.md) of an oil or gas field. 
+A wellbore is essentially the hole that is drilled into the ground to reach a reservoir of oil or gas. The wellbore allows for the extraction of these valuable resources, which can then be processed and sold. Understanding the intricacies of wellbores is vital for evaluating the viability and [productivity](../p/productivity.md) of an oil or gas field.
 
 ### Characteristics of a Wellbore
 
@@ -46,10 +46,7 @@ Understanding wellbores opens up various investment opportunities within the [en
 ### Direct Investments
 
 Investors can buy [shares](../s/shares.md) in companies known for efficient wellbore management and successful drilling campaigns. Companies such as ExxonMobil, Chevron, and Shell have extensive portfolios of productive wells:
-- **ExxonMobil**: https://corporate.exxonmobil.com/
-- **Chevron**: https://www.chevron.com/
-- **Shell**: https://www.shell.com/
-
+- **ExxonMobil**- **Chevron**- **Shell**
 ### Commodity Trading
 
 The performance of wellbores directly influences oil and gas supplies, affecting [commodity](../c/commodity.md) prices. Traders can [leverage](../l/leverage.md) this understanding through [futures](../f/futures.md) and [options](../o/options.md) trading.
@@ -60,13 +57,13 @@ There are mutual funds and ETFs focused on energy sectors, specifically those co
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) models can incorporate data related to wellbores to make informed trading decisions. For example:
+[Algorithmic trading](../a/algorithmic_trading.md) models can incorporate data related to wellbores to make informed trading decisions. For example:
 - **Production Data**: Real-time production data can be integrated into [trading algorithms](../t/trading_algorithms.md) to predict stock or [commodity](../c/commodity.md) price movements.
 - **Geological Data**: Combining geological surveys and wellbore data can [offer](../o/offer.md) predictive insights on new well success rates.
 - **News [Sentiment Analysis](../s/sentiment_analysis.md)**: AI-driven [sentiment analysis](../s/sentiment_analysis.md) can gauge [market](../m/market.md) reaction to wellbore drilling results, aiding in [short-term trading](../s/short-term_trading.md) strategies.
 
 ## Conclusion
 
-The wellbore is a fundamental yet often overlooked component in the financial evaluation of oil and gas investments. By understanding the technical and financial aspects of wellbores, investors can make more informed decisions. Whether through direct stock purchases, [commodity](../c/commodity.md) trading, [fund](../f/fund.md) investments, or [algorithmic trading](../a/accountability.md) models, the knowledge of wellbores can significantly enhance one's [investment strategy](../i/investment_strategy.md) in the [energy sector](../e/energy_sector.md).
+The wellbore is a fundamental yet often overlooked component in the financial evaluation of oil and gas investments. By understanding the technical and financial aspects of wellbores, investors can make more informed decisions. Whether through direct stock purchases, [commodity](../c/commodity.md) trading, [fund](../f/fund.md) investments, or [algorithmic trading](../a/algorithmic_trading.md) models, the knowledge of wellbores can significantly enhance one's [investment strategy](../i/investment_strategy.md) in the [energy sector](../e/energy_sector.md).
 
 In summary, wellbores represent a critical juncture where geology meets [finance](../f/finance.md). This intersection provides numerous opportunities and risks, all of which must be adeptly managed to ensure successful and profitable exploitation of subterranean resources. Understanding the various facets of wellbores, from technical specifications to financial implications, is crucial for anyone engaged in the energy markets, be it traders, investors, or financial analysts.

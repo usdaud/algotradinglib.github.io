@@ -59,10 +59,10 @@ In this code snippet:
 
 ## Real-World Applications
 ### Companies and Platforms
-Many trading platforms and financial institutions [offer](../o/offer.md) tools and services to implement the average-down strategy. For instance, [Interactive Brokers](../i/interactive_brokers.md) ([www.interactivebrokers.com](https://www.interactivebrokers.com)) provides APIs for [algorithmic trading](../a/algorithmic_trading.md) that can be used to develop custom average-down strategies.
+Many trading platforms and financial institutions [offer](../o/offer.md) tools and services to implement the average-down strategy. For instance, [Interactive Brokers](../i/interactive_brokers.md) ( provides APIs for [algorithmic trading](../a/algorithmic_trading.md) that can be used to develop custom average-down strategies.
 
 ### Institutions
 Large institutional investors often deploy this strategy, especially in [portfolio management](../p/portfolio_management.md). For instance, mutual funds and pension funds might use average-down strategies to manage large volumes of assets.
 
 ## Conclusion
-The average-down strategy is a powerful tool in the toolkit of both individual and algorithmic traders. By purchasing additional [shares](../s/shares.md) as prices decline, traders can lower their average cost per share and position themselves for potentially greater profits upon recovery. However, it is crucial to balance this strategy with adequate [risk management](../r/risk_management.md) practices to avoid significant losses. [Algorithmic trading](../a/algorithmic_trading.md) facilitates the systematic and emotion-free [execution](../e/execution.md) of this strategy, enhancing its effectiveness and consistency.
+The average-down strategy is a powerful tool in the toolkit of both individual and algorithmic traders. By purchasing additional [shares](../s/shares.md) as prices decline, traders can lower their average cost per share and position themselves for potentially greater profits upon recovery. However, it is crucial to balance this strategy with adequate [risk management](../r/risk_management.md) practices to avoid significant losses. [Algorithmic trading](../a/algorithmic_trading.md) facilitates the systematic and emotion-free [execution](../e/execution.md) of this strategy, enhancing its effectiveness and consistency.

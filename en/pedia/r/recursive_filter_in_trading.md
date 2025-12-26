@@ -66,7 +66,7 @@ Filters like the [Kalman Filter](../k/kalman_filter_in_trading.md) are used not 
 
 ### High-Frequency Trading
 
-In high-frequency trading (HFT), the speed and [efficiency](../e/efficiency.md) of recursive filters are crucial. They can process massive amounts of data in real-time, enabling quick decision-making. Firms such as [Jane Street](https://www.janestreet.com/) and [Virtu Financial](https://www.virtu.com/) rely heavily on such technologies.
+In high-frequency trading (HFT), the speed and [efficiency](../e/efficiency.md) of recursive filters are crucial. They can process massive amounts of data in real-time, enabling quick decision-making. Firms such as Jane Street and Virtu Financial rely heavily on such technologies.
 
 ## Implementation Challenges
 

@@ -68,13 +68,13 @@ Throughout the [loan](../l/loan.md) term, the borrower makes [interest](../i/int
 ## Notable Hard Money Lenders
 
 ### LendingHome
-[LendingHome](https://www.lendinghome.com/) is a prominent [hard money](../h/hard_money.md) [lender](../l/lender.md) in the United States, specializing in providing [financing](../f/financing.md) to [real estate](../r/real_estate.md) investors. They [offer](../o/offer.md) competitive [interest](../i/interest.md) rates, a streamlined online application process, and quick funding times.
+LendingHome is a prominent [hard money](../h/hard_money.md) [lender](../l/lender.md) in the United States, specializing in providing [financing](../f/financing.md) to [real estate](../r/real_estate.md) investors. They [offer](../o/offer.md) competitive [interest](../i/interest.md) rates, a streamlined online application process, and quick funding times.
 
 ### Fund That Flip
-[Fund That Flip](https://www.fundthatflip.com/) focuses on [hard money](../h/hard_money.md) loans for residential [real estate](../r/real_estate.md) investors. They provide funding for fix-and-[flip](../f/flip.md) projects, [offering](../o/offering.md) a seamless online experience with [options](../o/options.md) for [financing](../f/financing.md) both the purchase and the renovation costs.
+Fund That Flip focuses on [hard money](../h/hard_money.md) loans for residential [real estate](../r/real_estate.md) investors. They provide funding for fix-and-[flip](../f/flip.md) projects, [offering](../o/offering.md) a seamless online experience with [options](../o/options.md) for [financing](../f/financing.md) both the purchase and the renovation costs.
 
 ### Patch of Land
-[Patch of Land](https://www.patchofland.com/) is known for [offering](../o/offering.md) crowd-funded [hard money](../h/hard_money.md) loans. They connect investors with borrowers, providing [financing](../f/financing.md) for various [real estate](../r/real_estate.md) projects, including residential, commercial, and mixed-use properties.
+Patch of Land is known for [offering](../o/offering.md) crowd-funded [hard money](../h/hard_money.md) loans. They connect investors with borrowers, providing [financing](../f/financing.md) for various [real estate](../r/real_estate.md) projects, including residential, commercial, and mixed-use properties.
 
 ## Conclusion
 

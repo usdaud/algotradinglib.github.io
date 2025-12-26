@@ -8,13 +8,13 @@ Unilateral transfers are characterized by the absence of a [quid pro quo](../q/q
 
 ### Typical Scenarios:
 
-1. **Remittances**: [Money](../m/money.md) sent by immigrants to their families or friends in their [home](../h/home.md) countries. 
+1. **Remittances**: [Money](../m/money.md) sent by immigrants to their families or friends in their [home](../h/home.md) countries.
 2. **[Foreign Aid](../f/foreign_aid.md)**: Government-to-government transfers, or non-governmental organization (NGO) donations to developing countries.
 3. **Charity Donations**: Contributions made by individuals or organizations to non-[profit](../p/profit.md) entities without expecting a financial [return](../r/return.md).
 
 ## Economic Impact
 
-Unilateral transfers can significantly influence [economic conditions](../e/economic_conditions.md), both in the sending and receiving countries. 
+Unilateral transfers can significantly influence [economic conditions](../e/economic_conditions.md), both in the sending and receiving countries.
 
 ### In Receiving Countries:
 - **Increased Consumption and Investment**: The influx of funds can lead to higher levels of consumption or investment in [infrastructure](../i/infrastructure.md), education, and healthcare.
@@ -31,18 +31,18 @@ Unilateral transfers are tracked as part of the [current account](../c/current_a
 
 - **Balance of Payments (BoP)**: The BoP includes the [current account](../c/current_account.md), the [capital account](../c/capital_account.md), and the [financial account](../f/financial_account.md). Unilateral transfers fall under the [current account](../c/current_account.md) along with [trade](../t/trade.md) in goods and services, and [income](../i/income.md) [receipts](../r/receipt.md) and payments.
 
-    - **[Current Account](../c/current_account.md)**: Tracks the [trade](../t/trade.md) of goods and services, primary [income](../i/income.md), and secondary [income](../i/income.md) (unilateral transfers).
+ - **[Current Account](../c/current_account.md)**: Tracks the [trade](../t/trade.md) of goods and services, primary [income](../i/income.md), and secondary [income](../i/income.md) (unilateral transfers).
 
 ## Components of Current Account
 
 ### 1. Trade Balance:
 - **Exports and Imports of Goods and Services**: The difference between what a country sells and buys from foreign entities.
-  
+
 ### 2. Primary Income:
 - **[Income](../i/income.md) from Investments and Employment**: Wages, salaries, [interest](../i/interest.md), and dividends received from abroad minus those paid to foreign investors.
 
 ### 3. Secondary Income:
-- **Unilateral Transfers**: Includes remittances, gifts, grants, and pension payments. 
+- **Unilateral Transfers**: Includes remittances, gifts, grants, and pension payments.
 
 ## Managing Unilateral Transfers
 
@@ -55,8 +55,8 @@ Unilateral transfers are tracked as part of the [current account](../c/current_a
 #### Modern Fintech Solutions:
 - **Digital Wallets**: Such as [PayPal](../p/paypal.md), Venmo, or WeChat Pay which allow cross-border transfers.
 - **Cryptocurrency Platforms**: Utilization of [blockchain](../b/blockchain_in_trading.md) technology to streamline and secure transfers (e.g., [Bitcoin](../b/bitcoin.md), [Ethereum](../e/ethereum_.md)).
-  
-    - **Example**: [Ripple](https://ripple.com/) leverages [blockchain](../b/blockchain_in_trading.md) technology to [offer](../o/offer.md) efficient cross-border [payment](../p/payment.md) solutions.
+
+ - **Example**: Ripple leverages [blockchain](../b/blockchain_in_trading.md) technology to [offer](../o/offer.md) efficient cross-border [payment](../p/payment.md) solutions.
 
 #### Dedicated Remittance Services:
 - **Western Union**: Offers extensive worldwide [money](../m/money.md) transfer services.
@@ -71,17 +71,17 @@ Unilateral transfers are tracked as part of the [current account](../c/current_a
 
 ### Bilateral Aid
 - **Government to Government**: Direct financial assistance provided by one country to another.
-    - **Example**: The United States Agency for International Development ([USAID](https://www.usaid.gov/)) provides various forms of aid to developing nations.
+ - **Example**: The United States Agency for International Development (USAID) provides various forms of aid to developing nations.
 
 ### Multilateral Aid
 - **International Organizations**: Assistance provided through entities like the [World Bank](../w/world_bank.md), International Monetary [Fund](../f/fund.md) (IMF), or regional development banks.
-    - **[World Bank](../w/world_bank.md)**: Provides financial products and policy advice to help reduce [poverty](../p/poverty.md) and support development.
-    - **International Monetary [Fund](../f/fund.md)**: Offers financial support to countries facing balance of payments problems.
+ - **[World Bank](../w/world_bank.md)**: Provides financial products and policy advice to help reduce [poverty](../p/poverty.md) and support development.
+ - **International Monetary [Fund](../f/fund.md)**: Offers financial support to countries facing balance of payments problems.
 
 ### NGOs and Non-Profits
 - **Humanitarian Aid**: Charity organizations working on improving living conditions in underserved areas by providing essential services like education, healthcare, and disaster relief.
 
-    - **Example**: Oxfam ([Oxfam](https://www.oxfam.org/)), an international confederation of charitable organizations focused on [poverty](../p/poverty.md) alleviation.
+ - **Example**: Oxfam (Oxfam), an international confederation of charitable organizations focused on [poverty](../p/poverty.md) alleviation.
 
 ## Challenges and Criticisms
 
@@ -110,7 +110,7 @@ Aligning remittances and aid with SDGs to promote holistic and sustainable growt
 ### Blockchain and Distributed Ledger Technology (DLT)
 The adoption of [blockchain](../b/blockchain_in_trading.md) technology can improve the [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md) of unilateral transfers.
 
-    - **Example**: [Stellar](https://www.stellar.org/) is a [blockchain](../b/blockchain_in_trading.md)-based platform aimed at facilitating cross-border payments and remittances.
+ - **Example**: Stellar is a [blockchain](../b/blockchain_in_trading.md)-based platform aimed at facilitating cross-border payments and remittances.
 
 ### Artificial Intelligence (AI) and Machine Learning (ML)
 Utilizing AI and ML to detect [fraud](../f/fraud.md) and ensure compliance with KYC and AML regulations.
@@ -118,7 +118,7 @@ Utilizing AI and ML to detect [fraud](../f/fraud.md) and ensure compliance with 
 ### Mobile Money
 The rise of mobile [money](../m/money.md) services in developing countries has made it easier for recipients to access funds quickly and efficiently.
 
-    - **Example**: [M-Pesa](../m/m-pesa.md) ([Safaricom](https://www.safaricom.co.ke/personal/m-pesa)), a mobile [money](../m/money.md) service operating in Africa, allowing individuals to send and receive [money](../m/money.md) via mobile phones.
+ - **Example**: [M-Pesa](../m/m-pesa.md) (Safaricom), a mobile [money](../m/money.md) service operating in Africa, allowing individuals to send and receive [money](../m/money.md) via mobile phones.
 
 ## Conclusion
 

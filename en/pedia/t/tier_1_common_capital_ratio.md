@@ -13,8 +13,8 @@ The Tier 1 Common [Capital](../c/capital.md) Ratio is a financial metric used pr
 The Tier 1 Common [Capital](../c/capital.md) Ratio plays a critical role in several areas:
 
 - **Regulatory Requirement**: Banks are required to maintain a minimum level of this ratio. As of [Basel III](../b/basel_iii.md) guidelines, the minimum required Tier 1 Common [Capital](../c/capital.md) Ratio is 4.5%. Regulatory bodies like the Federal Reserve in the United States may set their own requirements above this minimum.
-  
-- **Financial Stability**: A higher ratio suggests a higher capacity for a [bank](../b/bank.md) to withstand financial shocks without threatening its [solvency](../s/solvency.md). 
+
+- **Financial Stability**: A higher ratio suggests a higher capacity for a [bank](../b/bank.md) to withstand financial shocks without threatening its [solvency](../s/solvency.md).
 
 - **[Investor](../i/investor.md) Confidence**: Investors look at this ratio as an [indicator](../i/indicator.md) of a [bank](../b/bank.md)’s financial robustness. A higher ratio can lead to increased [investor](../i/investor.md) confidence.
 
@@ -58,11 +58,11 @@ This 12.5% ratio is well above any regulatory minimums, suggesting strong [capit
 
 ### JP Morgan Chase
 
-JP Morgan Chase maintains a strong Tier 1 Common [Capital](../c/capital.md) Ratio as part of its [robust](../r/robust.md) [risk management](../r/risk_management.md) framework. More information can be found on their [Investor Relations page](https://www.jpmorganchase.com/ir).
+JP Morgan Chase maintains a strong Tier 1 Common [Capital](../c/capital.md) Ratio as part of its [robust](../r/robust.md) [risk management](../r/risk_management.md) framework.
 
 ### HSBC
 
-HSBC also keeps track of its Tier 1 Common [Capital](../c/capital.md) Ratio to ensure compliance with global regulatory standards. Detailed [capital](../c/capital.md) adequacy metrics are available on their [Investor Relations website](https://www.hsbc.com/investors).
+HSBC also keeps track of its Tier 1 Common [Capital](../c/capital.md) Ratio to ensure compliance with global regulatory standards. Detailed [capital](../c/capital.md)
 
 ## Conclusion
 

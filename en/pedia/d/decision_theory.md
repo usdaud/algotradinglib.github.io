@@ -10,7 +10,7 @@ At its core, decision theory aims to determine the logic and guidelines that ind
 
 Normative decision theory is concerned with identifying the best decisions that rational actors should make. It uses logical and mathematical frameworks to specify the optimal choice under various circumstances. Key concepts include:
 
-1. **[Utility Theory](../u/utility_theory_in_trading.md)**: This theory describes how individuals can make rational choices by maximizing a [utility](../u/utility.md) function, representing their preference ordering over a set of outcomes. 
+1. **[Utility Theory](../u/utility_theory_in_trading.md)**: This theory describes how individuals can make rational choices by maximizing a [utility](../u/utility.md) function, representing their preference ordering over a set of outcomes.
 
 2. **[Expected Utility](../e/expected_utility.md) Theory**: This is a framework where outcomes are weighed by their probabilities, advocating that individuals should choose the option with the highest [expected utility](../e/expected_utility.md).
 
@@ -48,7 +48,7 @@ High-frequency trading is an area where decision theory principles are extensive
 
 #### Quantum AI Trading
 
-Firms such as [QuantConnect](https://www.quantconnect.com/) provide platforms where traders can develop and deploy their algorithms using advanced decision theories and AI models. These platforms allow for extensive [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md), ensuring that the algorithms operate efficiently in live markets.
+Firms such as QuantConnect provide platforms where traders can develop and deploy their algorithms using advanced decision theories and AI models. These platforms allow for extensive [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md), ensuring that the algorithms operate efficiently in live markets.
 
 ### Practical Implementation
 

@@ -9,35 +9,35 @@ An economic moat, sometimes referred to as a [competitive advantage](../c/compet
 Cost advantages allow companies to produce goods or services at a lower cost than their competitors. These cost savings can be derived from various sources such as [economies of scale](../e/economies_of_scale.md), proprietary technology, or superior processes. Cost advantages often result in lower prices for consumers or higher [profit margins](../p/profit_margins_in_trading.md) for the company. Examples include:
 
 - *Walmart*: Walmart benefits from [economies of scale](../e/economies_of_scale.md) due to its massive [buying power](../b/buying_power.md), enabling it to negotiate lower prices with suppliers and [offer](../o/offer.md) low prices to consumers.
-  - [Walmart Official Website](https://www.walmart.com)
+ -
 
 ### 2. Network Effects
 
 The [network effect](../n/network_effect.md) occurs when the [value](../v/value.md) of a product or service increases as more people use it. This can create a barrier to entry for competitors because the established network becomes very difficult to replicate. Examples include:
 
 - *Facebook*: Facebook's [social media](../s/social_media.md) platform becomes more valuable as more users join, making it challenging for new entrants to compete.
-  - [Facebook Official Website](https://www.facebook.com)
+ -
 
 ### 3. Intangible Assets
 
 Intangible assets such as patents, trademarks, [brand recognition](../b/brand_recognition.md), and proprietary technology provide companies with competitive advantages that are difficult for competitors to duplicate. Examples include:
 
 - *Apple*: Apple's [brand recognition](../b/brand_recognition.md) and ecosystem of patented technology and designs foster [customer](../c/customer.md) loyalty and allow them to charge [premium](../p/premium.md) prices.
-  - [Apple Official Website](https://www.apple.com)
+ -
 
 ### 4. Switching Costs
 
 [Switching costs](../s/switching_costs.md) are the costs that consumers incur when changing from one product or service to another. High [switching costs](../s/switching_costs.md) can lock customers into a company’s product ecosystem. Examples include:
 
 - *Microsoft*: Microsoft Office Suite users face high [switching costs](../s/switching_costs.md) due to the time and effort required to learn new software and transfer data.
-  - [Microsoft Official Website](https://www.microsoft.com)
+ -
 
 ### 5. Efficient Scale
 
 Efficient scale refers to a [market](../m/market.md) situation where the largest player in the [market](../m/market.md) has optimized its operations to such an extent that new competitors entering the [market](../m/market.md) would face significant disadvantages. This often occurs in industries with high [capital](../c/capital.md) requirements and limited [market](../m/market.md) sizes. Examples include:
 
 - *Union Pacific [Corporation](../c/corporation.md)*: As one of the largest railroad companies in the United States, their efficient scale in rail transportation [infrastructure](../i/infrastructure.md) makes it difficult for new competitors to enter the [market](../m/market.md).
-  - [Union Pacific Corporation](https://www.up.com)
+ - Union Pacific Corporation
 
 ## Assessing Economic Moats
 
@@ -76,12 +76,12 @@ A loyal [customer](../c/customer.md) base with high retention rates can be indic
 ### Amazon
 
 Amazon has built a [wide economic moat](../w/wide_economic_moat.md) through its cost advantages, extensive [distribution network](../d/distribution_network.md), and technology. Their Prime membership creates high [switching costs](../s/switching_costs.md) and [customer](../c/customer.md) loyalty.
-- [Amazon Official Website](https://www.amazon.com)
+-
 
 ### Google
 
 Google, a subsidiary of Alphabet Inc., enjoys significant network effects through its search engine and advertising platform. Their [brand recognition](../b/brand_recognition.md) and data-driven insights create formidable [barriers to entry](../b/barriers_to_entry.md) in the digital advertising space.
-- [Google Official Website](https://www.google.com)
+-
 
 ## Risks to Economic Moats
 

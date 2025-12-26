@@ -55,15 +55,15 @@ Accounts [Receivable](../r/receivable.md) [Financing](../f/financing.md) is used
 
 ### Prominent AR Financing Companies
 
-1. **BlueVine**: BlueVine offers [invoice](../i/invoice.md) factoring services tailored to small and medium-sized businesses. With rapid funding and flexible terms, BlueVine is a popular choice for businesses seeking quick access to working [capital](../c/capital.md). More details can be found on their website [BlueVine](https://www.bluevine.com/).
+1. **BlueVine**: BlueVine offers [invoice](../i/invoice.md) factoring services tailored to small and medium-sized businesses. With rapid funding and flexible terms, BlueVine is a popular choice for businesses seeking quick access to working [capital](../c/capital.md). More
 
-2. **Fundbox**: Fundbox provides [invoice financing](../i/invoice_financing.md) and [business](../b/business.md) lines of [credit](../c/credit.md). Fundbox boasts a transparent [fee](../f/fee.md) structure and a fully automated process, making it a user-friendly option for businesses. For further information, visit [Fundbox](https://www.fundbox.com/).
+2. **Fundbox**: Fundbox provides [invoice financing](../i/invoice_financing.md) and [business](../b/business.md) lines of [credit](../c/credit.md). Fundbox boasts a transparent [fee](../f/fee.md) structure and a fully automated process, making it a user-friendly option for businesses. For further information, visit Fundbox.
 
-3. **Triumph [Business](../b/business.md) [Capital](../c/capital.md)**: Specializing in factoring for industries like transportation, oil and gas, and staffing, Triumph [Business](../b/business.md) [Capital](../c/capital.md) offers tailored solutions to meet specific [industry](../i/industry.md) needs. More information is available at [Triumph Business Capital](https://www.triumphbcap.com/).
+3. **Triumph [Business](../b/business.md) [Capital](../c/capital.md)**: Specializing in factoring for industries like transportation, oil and gas, and staffing, Triumph [Business](../b/business.md) [Capital](../c/capital.md) offers tailored solutions to meet specific [industry](../i/industry.md) needs. More information is available at Triumph Business Capital.
 
-4. **American [Receivable](../r/receivable.md)**: American [Receivable](../r/receivable.md) has been [offering](../o/offering.md) factoring services since 1979, providing various [financing](../f/financing.md) solutions to meet the needs of businesses across different sectors. Visit [American Receivable](https://www.americanreceivable.com/) for more information.
+4. **American [Receivable](../r/receivable.md)**: American [Receivable](../r/receivable.md) has been [offering](../o/offering.md) factoring services since 1979, providing various [financing](../f/financing.md) solutions to meet the needs of businesses across different sectors. Visit American Receivable for more information.
 
-5. **TCI [Business](../b/business.md) [Capital](../c/capital.md)**: TCI [Business](../b/business.md) [Capital](../c/capital.md) provides factoring services primarily for transportation, staffing, oilfield services, and other sectors requiring flexible [financing](../f/financing.md) [options](../o/options.md). More details are available on their website [TCI Business Capital](https://www.tcicapital.com/).
+5. **TCI [Business](../b/business.md) [Capital](../c/capital.md)**: TCI [Business](../b/business.md) [Capital](../c/capital.md) provides factoring services primarily for transportation, staffing, oilfield services, and other sectors requiring flexible [financing](../f/financing.md) [options](../o/options.md). More
 
 ### The Process of AR Financing
 

@@ -1,6 +1,6 @@
 # VeChain
 
-VeChain is an enterprise-focused [blockchain](../b/blockchain_in_trading.md) platform that aims to streamline [business](../b/business.md) processes and [supply chain](../s/supply_chain.md) management. By leveraging [distributed ledger technology](../d/distributed_ledger_technology.md) (DLT), VeChain enhances [transparency](../t/transparency.md), traceability, and [efficiency](../e/efficiency.md) across various industries. Initially established in 2015, VeChain has evolved from a [supply chain](../s/supply_chain.md)-oriented DLT project to a versatile enterprise-grade application platform. 
+VeChain is an enterprise-focused [blockchain](../b/blockchain_in_trading.md) platform that aims to streamline [business](../b/business.md) processes and [supply chain](../s/supply_chain.md) management. By leveraging [distributed ledger technology](../d/distributed_ledger_technology.md) (DLT), VeChain enhances [transparency](../t/transparency.md), traceability, and [efficiency](../e/efficiency.md) across various industries. Initially established in 2015, VeChain has evolved from a [supply chain](../s/supply_chain.md)-oriented DLT project to a versatile enterprise-grade application platform.
 
 ## Founding and Background
 
@@ -98,4 +98,3 @@ VeChain’s economic model is designed to balance token [supply](../s/supply.md)
 
 VeChain continues to explore and expand its technology to address [emerging industry](../e/emerging_industry.md) challenges. Its focus on [business](../b/business.md) adoption, sustainability, and innovation positions it as a leading platform in the [blockchain](../b/blockchain_in_trading.md) space.
 
-For more information about VeChain, visit their [official website](https://www.vechain.org).

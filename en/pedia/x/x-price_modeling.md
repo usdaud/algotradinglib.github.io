@@ -55,7 +55,7 @@ X-Price modeling is widely used across various [financial markets](../f/financia
 
 ### Case Study: Renaissance Technologies
 
-One of the most famous firms known for its expertise in [predictive modeling](../p/predictive_modeling.md), including X-Price modeling, is Renaissance Technologies. They use [quantitative analysis](../q/quantitative_analysis.md), including [machine learning](../m/machine_learning.md), to develop [trading strategies](../t/trading_strategies.md). More information on Renaissance Technologies can be found on their [official website](https://www.rentec.com/).
+One of the most famous firms known for its expertise in [predictive modeling](../p/predictive_modeling.md), including X-Price modeling, is Renaissance Technologies. They use [quantitative analysis](../q/quantitative_analysis.md), including [machine learning](../m/machine_learning.md), to develop [trading strategies](../t/trading_strategies.md).
 
 ### Challenges and Future Directions
 

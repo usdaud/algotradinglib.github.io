@@ -115,11 +115,11 @@ Training and deploying neural [network models](../n/network_models_in_trading.md
 
 ### Case Study: Renaissance Technologies
 
-Renaissance Technologies, a prominent quantitative [hedge fund](../h/hedge_fund.md), leverages advanced [machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md), to execute its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) has consistently achieved remarkable returns, showcasing the potential of [neural networks in trading](../n/neural_networks_in_trading.md) ([Renaissance Technologies](https://www.rentech.com/)).
+Renaissance Technologies, a prominent quantitative [hedge fund](../h/hedge_fund.md), leverages advanced [machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md), to execute its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) has consistently achieved remarkable returns, showcasing the potential of [neural networks in trading](../n/neural_networks_in_trading.md) (Renaissance Technologies).
 
 ### Case Study: Two Sigma
 
-Two Sigma applies [data science](../d/data_science_in_trading.md) and technology-driven approaches to trading. The [firm](../f/firm.md) employs [neural networks](../n/neural_networks_in_trading.md) to analyze vast datasets, predict [market](../m/market.md) movements, and manage portfolios ([Two Sigma](https://www.twosigma.com/)).
+Two Sigma applies [data science](../d/data_science_in_trading.md) and technology-driven approaches to trading. The [firm](../f/firm.md) employs [neural networks](../n/neural_networks_in_trading.md) to analyze vast datasets, predict [market](../m/market.md) movements, and manage portfolios (Two Sigma).
 
 ### Open-Source Libraries and Frameworks
 

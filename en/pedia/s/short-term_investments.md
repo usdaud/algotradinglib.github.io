@@ -118,5 +118,3 @@ Short-term investments are an indispensable component of a diversified financial
 
 Whether it's for building an [emergency fund](../e/emergency_fund.md), managing corporate treasury, or simply parking cash temporarily, short-term investments fulfill a variety of needs, underscoring their strategic importance in sound [financial planning](../f/financial_planning.md).
 
-For further information on short-term investments and the products, you can visit the website of leading financial institutions like [Goldman Sachs Asset Management](https://www.gsam.com), [Fidelity Investments](https://www.fidelity.com) or [Vanguard](https://www.vanguard.com).
-

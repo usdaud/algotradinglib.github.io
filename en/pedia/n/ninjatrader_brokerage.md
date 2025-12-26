@@ -44,5 +44,4 @@
 - National [Futures](../f/futures.md) Association (NFA)
 - [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)
 
-## Website
-For more information and to start trading, visit the official [NinjaTrader](../n/ninjatrader.md) Brokerage website: [NinjaTrader Brokerage](https://www.ninjatrader.com)
+For more information and to start trading, visit the official [NinjaTrader](../n/ninjatrader.md) Brokerage online platform: NinjaTrader Brokerage

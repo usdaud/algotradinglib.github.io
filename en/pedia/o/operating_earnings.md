@@ -21,7 +21,7 @@ Operating expenses comprise all costs required to run the core [business activit
 - **Research and Development (R&D):** Costs associated with innovating and developing new products or services.
 
 ### Operating Income
-[Operating income](../o/operating_income.md) is derived as follows: 
+[Operating income](../o/operating_income.md) is derived as follows:
 
 \[ \text{[Operating Income](../o/operating_income.md)} = \text{[Gross Profit](../g/gross_profit.md)} - \text{Operating Expenses} \]
 

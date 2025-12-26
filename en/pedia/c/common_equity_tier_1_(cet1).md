@@ -95,13 +95,13 @@ Banks employ various strategies to maintain or improve their CET1 ratios, ensuri
 
 JPMorgan Chase, one of the largest banks in the United States, maintains a [robust](../r/robust.md) CET1 ratio. The [bank](../b/bank.md)’s strategy includes strong [earnings](../e/earnings.md) retention, diversified investment portfolios, and [risk management](../r/risk_management.md) practices.
 
-For more information: [JPMorgan Chase](https://www.jpmorganchase.com)
+For more information: JPMorgan Chase
 
 ### HSBC Holdings
 
 HSBC, a global [bank](../b/bank.md) headquartered in London, focuses on maintaining a strong CET1 ratio through strategic [capital](../c/capital.md) allocations and managing RWAs. The [bank](../b/bank.md) also engages in regular [stress testing](../s/stress_testing.md) to ensure its [capital](../c/capital.md) adequacy under various scenarios.
 
-For more information: [HSBC Holdings](https://www.hsbc.com)
+For more information: HSBC Holdings
 
 ## Conclusion
 

@@ -91,19 +91,19 @@ Adopting new technologies often faces resistance from within organizations, part
 ## Leading RegTech Companies
 
 ### 1. Compliance.ai
-Compliance.ai offers a platform that provides actionable compliance data updates and [transaction](../t/transaction.md) monitoring solutions. [Compliance.ai](https://www.compliance.ai/)
+Compliance.ai offers a platform that provides actionable compliance data updates and [transaction](../t/transaction.md) monitoring solutions. Compliance.ai
 
 ### 2. Onfido
-Onfido uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) to help businesses verify identities through document and photo verification, supporting KYC compliance. [Onfido](https://www.onfido.com/)
+Onfido uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) to help businesses verify identities through document and photo verification, supporting KYC compliance. Onfido
 
 ### 3. Ayasdi
-Ayasdi provides AI-powered [pattern recognition](../p/pattern_recognition.md) and [data analytics](../d/data_analytics.md) tools to streamline compliance processes for financial institutions. [Ayasdi](https://www.ayasdi.com/)
+Ayasdi provides AI-powered [pattern recognition](../p/pattern_recognition.md) and [data analytics](../d/data_analytics.md) tools to streamline compliance processes for financial institutions. Ayasdi
 
 ### 4. Trunomi
-Trunomi offers consent and data rights management solutions to ensure GDPR compliance and protect [customer](../c/customer.md) data privacy. [Trunomi](https://www.trunomi.com/)
+Trunomi offers consent and data rights management solutions to ensure GDPR compliance and protect [customer](../c/customer.md) data privacy. Trunomi
 
 ### 5. Chainalysis
-Chainalysis specializes in [blockchain](../b/blockchain_in_trading.md) analytics and compliance solutions, helping businesses to ensure regulatory compliance in cryptocurrency transactions. [Chainalysis](https://www.chainalysis.com/)
+Chainalysis specializes in [blockchain](../b/blockchain_in_trading.md) analytics and compliance solutions, helping businesses to ensure regulatory compliance in cryptocurrency transactions. Chainalysis
 
 ## Future of RegTech
 

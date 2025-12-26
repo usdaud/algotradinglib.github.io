@@ -1,6 +1,6 @@
 # Market Rotation Strategies
 
-[Market](../m/market.md) rotation strategies are a subset of investment strategies that involve shifting [asset](../a/asset.md) allocations between different sectors, industries, or [asset](../a/asset.md) classes based on changing [economic conditions](../e/economic_conditions.md) or [market](../m/market.md) performance trends. The primary goal of [market](../m/market.md) rotation is to [capitalize](../c/capitalize.md) on varying phases of the [economic cycle](../e/economic_cycle.md) and improve [portfolio performance](../p/portfolio_performance.md) by overweighting sectors poised for growth and underweighting those likely to [underperform](../u/underperform.md). 
+[Market](../m/market.md) rotation strategies are a subset of investment strategies that involve shifting [asset](../a/asset.md) allocations between different sectors, industries, or [asset](../a/asset.md) classes based on changing [economic conditions](../e/economic_conditions.md) or [market](../m/market.md) performance trends. The primary goal of [market](../m/market.md) rotation is to [capitalize](../c/capitalize.md) on varying phases of the [economic cycle](../e/economic_cycle.md) and improve [portfolio performance](../p/portfolio_performance.md) by overweighting sectors poised for growth and underweighting those likely to [underperform](../u/underperform.md).
 
 ### Fundamental Concepts of Market Rotation
 
@@ -50,18 +50,18 @@ Tactical [asset allocation](../a/asset_allocation.md) (TAA) is a flexible [inves
 ### Tools and Platforms for Market Rotation
 
 #### Bloomberg Terminal
-The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive data, analytics, and news feeds, essential for implementing [market](../m/market.md) rotation strategies. ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
+The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive data, analytics, and news feeds, essential for implementing [market](../m/market.md) rotation strategies. (Bloomberg)
 
 #### FactSet
-[FactSet](../f/factset.md) provides sophisticated tools for [data integration](../d/data_integration.md), analysis, and [portfolio management](../p/portfolio_management.md), crucial for [market](../m/market.md) rotation strategies. ([FactSet](https://www.factset.com/))
+[FactSet](../f/factset.md) provides sophisticated tools for [data integration](../d/data_integration.md), analysis, and [portfolio management](../p/portfolio_management.md), crucial for [market](../m/market.md) rotation strategies. (FactSet)
 
 #### Eikon by Refinitiv
-Refinitiv's Eikon platform offers real-time data, [financial analysis](../f/financial_analysis.md), and news geared towards helping investors make informed [sector rotation](../s/sector_rotation.md) decisions. ([Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software))
+Refinitiv's Eikon platform offers real-time data, [financial analysis](../f/financial_analysis.md), and news geared towards helping investors make informed [sector rotation](../s/sector_rotation.md) decisions. (Refinitiv Eikon)
 
 ### Case Study: Successful Market Rotation
 
 #### The Great Rotation Post-Financial Crisis (2009-2013)
-Following the 2008 [financial crisis](../f/financial_crisis.md), a significant [market](../m/market.md) rotation occurred. Investors moved from defensive sectors like utilities and healthcare towards riskier, growth-oriented sectors such as technology and consumer discretionary as the [economy](../e/economy.md) began to recover. 
+Following the 2008 [financial crisis](../f/financial_crisis.md), a significant [market](../m/market.md) rotation occurred. Investors moved from defensive sectors like utilities and healthcare towards riskier, growth-oriented sectors such as technology and consumer discretionary as the [economy](../e/economy.md) began to recover.
 
 #### COVID-19 Pandemic Rotation (2020-2021)
 During the COVID-19 pandemic, initial [market](../m/market.md) rotations saw explosive growth in technology and healthcare sectors. As vaccines rolled out and economies reopened, a rotation back into cyclical sectors like energy, materials, and financials was observed.

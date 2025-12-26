@@ -75,16 +75,16 @@ Some consensus mechanisms, particularly PoW, require significant computational p
 ## Companies Leading in Distributed Ledger Technology
 
 ### IBM
-IBM has been a frontrunner in DLT, particularly with its IBM [Blockchain](../b/blockchain_in_trading.md) platform. It offers enterprise-grade [blockchain](../b/blockchain_in_trading.md) solutions for various industries, from [supply chain](../s/supply_chain.md) to [finance](../f/finance.md). Learn more about their initiatives at [IBM Blockchain](https://www.ibm.com/blockchain).
+IBM has been a frontrunner in DLT, particularly with its IBM [Blockchain](../b/blockchain_in_trading.md) platform. It offers enterprise-grade [blockchain](../b/blockchain_in_trading.md) solutions for various industries, from [supply chain](../s/supply_chain.md) to [finance](../f/finance.md). Learn more about their initiatives at IBM Blockchain.
 
 ### R3
-R3 is a leading distributed database technology company that developed the Corda [blockchain](../b/blockchain_in_trading.md) platform designed for businesses. It focuses on improving the [efficiency](../e/efficiency.md) and [security](../s/security.md) of transactions in regulated industries. More information can be found at [R3](https://www.r3.com/).
+R3 is a leading distributed database technology company that developed the Corda [blockchain](../b/blockchain_in_trading.md) platform designed for businesses. It focuses on improving the [efficiency](../e/efficiency.md) and [security](../s/security.md) of transactions in regulated industries. More information can be found at R3.
 
 ### ConsenSys
-ConsenSys is a [blockchain](../b/blockchain_in_trading.md) technology company that builds decentralized applications and tools for the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). They provide solutions for various sectors, including [finance](../f/finance.md), [supply chain](../s/supply_chain.md), and governance. Visit their site at [ConsenSys](https://consensys.net/).
+ConsenSys is a [blockchain](../b/blockchain_in_trading.md) technology company that builds decentralized applications and tools for the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). They provide solutions for various sectors, including [finance](../f/finance.md), [supply chain](../s/supply_chain.md), and governance.
 
 ### Hyperledger
-[Hyperledger](../h/hyperledger.md), an [open](../o/open.md)-source collaborative effort hosted by The Linux Foundation, aims to advance cross-[industry](../i/industry.md) [blockchain](../b/blockchain_in_trading.md) technologies. Projects under [Hyperledger](../h/hyperledger.md) include [Hyperledger Fabric](../h/hyperledger_fabric.md) and [Hyperledger Sawtooth](../h/hyperledger_sawtooth.md), which provide modular frameworks for developing enterprise-grade [blockchain](../b/blockchain_in_trading.md) applications. More details are available at [Hyperledger](https://www.hyperledger.org/).
+[Hyperledger](../h/hyperledger.md), an [open](../o/open.md)-source collaborative effort hosted by The Linux Foundation, aims to advance cross-[industry](../i/industry.md) [blockchain](../b/blockchain_in_trading.md) technologies. Projects under [Hyperledger](../h/hyperledger.md) include [Hyperledger Fabric](../h/hyperledger_fabric.md) and [Hyperledger Sawtooth](../h/hyperledger_sawtooth.md), which provide modular frameworks for developing enterprise-grade [blockchain](../b/blockchain_in_trading.md) applications. More details are available at Hyperledger.
 
 ## Conclusion
 Distributed Ledger Technology represents a paradigm shift in how data is managed, [offering](../o/offering.md) enhanced [security](../s/security.md), [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md). Despite challenges such as [scalability](../s/scalability.md), interoperability, and regulatory compliance, DLT has vast potential across various industries, from [finance](../f/finance.md) to healthcare to governance. As technology and regulatory frameworks evolve, DLT is poised to become an integral part of our digital [infrastructure](../i/infrastructure.md).

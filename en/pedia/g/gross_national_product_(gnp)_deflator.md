@@ -4,7 +4,7 @@ The Gross National Product (GNP) deflator is an economic metric used to convert 
 
 ### Definition and Concept
 
-To understand the GNP deflator, it is essential to first recognize the distinction between [nominal](../n/nominal.md) GNP and real GNP. [Nominal](../n/nominal.md) GNP measures the [value](../v/value.md) of all goods and services produced by a country's residents at current [market](../m/market.md) prices. Real GNP, on the other hand, adjusts this [value](../v/value.md) for [inflation](../i/inflation.md), reflecting the true quantity of goods and services produced. 
+To understand the GNP deflator, it is essential to first recognize the distinction between [nominal](../n/nominal.md) GNP and real GNP. [Nominal](../n/nominal.md) GNP measures the [value](../v/value.md) of all goods and services produced by a country's residents at current [market](../m/market.md) prices. Real GNP, on the other hand, adjusts this [value](../v/value.md) for [inflation](../i/inflation.md), reflecting the true quantity of goods and services produced.
 
 The GNP deflator is calculated by dividing [nominal](../n/nominal.md) GNP by real GNP and then multiplying the result by 100:
 
@@ -61,14 +61,14 @@ Though similar, the GNP deflator should not be confused with the GDP deflator. W
 
 Several economic institutions and organizations monitor and report on the GNP deflator as part of their analysis:
 
-- **United States Bureau of Economic Analysis (BEA)**: The BEA regularly publishes data on [nominal](../n/nominal.md) and real GNP, along with the GNP deflator, providing insights into the U.S. [economy](../e/economy.md)'s performance. 
-  - [BEA Website](https://www.bea.gov/)
-  
+- **United States Bureau of Economic Analysis (BEA)**: The BEA regularly publishes data on [nominal](../n/nominal.md) and real GNP, along with the GNP deflator, providing insights into the U.S. [economy](../e/economy.md)'s performance.
+ -
+
 - **International Monetary [Fund](../f/fund.md) (IMF)**: The IMF uses the GNP deflator in its global economic assessments and reports, helping to compare economic performance across countries.
-  - [IMF Website](https://www.imf.org/)
-  
+ -
+
 - **[World Bank](../w/world_bank.md)**: The [World Bank](../w/world_bank.md) also incorporates the GNP deflator in its development indicators and economic analyses.
-  - [World Bank Website](https://www.worldbank.org/)
+ -
 
 ### Future Developments
 

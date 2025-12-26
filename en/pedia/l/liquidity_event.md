@@ -9,14 +9,14 @@ An IPO denotes a company's first [sale](../s/sale.md) of stock to the public. Th
 
 Consider the example of Google's IPO in 2004. It raised $1.9 billion, establishing its [valuation](../v/valuation.md) at a staggering $23 billion—[capital](../c/capital.md) that allowed the tech giant to accelerate its growth trajectory.
 
-**URL:** [Google IPO overview](https://abc.xyz/investor/other/ipo-2004.html)
+**URL:** Google IPO overview
 
 ### Acquisition or Merger
 Acquisitions and mergers are another predominant form of [liquidity](../l/liquidity.md) event. In these scenarios, companies are either acquired by or merge with another entity. Shareholders of the acquired company typically receive cash or [shares](../s/shares.md) in the acquiring company, thus liquidating their existing [shares](../s/shares.md).
 
 For instance, when Facebook acquired Instagram for $1 billion in 2012, it not only expanded Facebook's reach but also provided a [lucrative](../l/lucrative.md) [liquidity](../l/liquidity.md) event for Instagram's investors and employees who held [shares](../s/shares.md).
 
-**URL:** [Facebook Acquires Instagram](https://investor.fb.com/)
+**URL:** Facebook Acquires Instagram
 
 ### Private Placement
 A [private placement](../p/private_placement.md) refers to the [sale](../s/sale.md) of securities to a relatively small number of private investors. While this event does not render a company public or traded widely, it can provide a [liquidity](../l/liquidity.md) event for significant stakeholders looking to cash out early or for the company itself to [gain](../g/gain.md) critical [capital](../c/capital.md) injections without the rigorous regulatory requirements of an IPO.

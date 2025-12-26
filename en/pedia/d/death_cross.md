@@ -14,7 +14,7 @@ A Death Cross pattern is considered a [lagging indicator](../l/lagging_indicator
 
 ### The Psychology Behind the Death Cross
 
-The formation of a Death Cross is often accompanied by a shift in [market sentiment](../m/market_sentiment.md). During the period before the Death Cross forms, investors might be hopeful that the shorter moving average [will](../w/will.md) [hold](../h/hold.md) above the longer moving average, signaling continued growth. However, when the shorter moving average crosses below the longer moving average, it signifies a shift from hope to caution or even fear, causing more investors to sell off their [holdings](../h/holdings.md). 
+The formation of a Death Cross is often accompanied by a shift in [market sentiment](../m/market_sentiment.md). During the period before the Death Cross forms, investors might be hopeful that the shorter moving average [will](../w/will.md) [hold](../h/hold.md) above the longer moving average, signaling continued growth. However, when the shorter moving average crosses below the longer moving average, it signifies a shift from hope to caution or even fear, causing more investors to sell off their [holdings](../h/holdings.md).
 
 ## Historical Performance
 
@@ -31,7 +31,7 @@ However, it's crucial to [note](../n/note.md) that while the Death Cross has bee
 
 ### Algorithmic Trading and the Death Cross
 
-With advancements in [algorithmic trading](../a/accountability.md), the Death Cross has been integrated into [trading algorithms](../t/trading_algorithms.md) to automate buy and sell decisions. These algorithms continuously scan for Death Cross patterns among various assets and execute trades based on predefined criteria. 
+With advancements in [algorithmic trading](../a/accountability.md), the Death Cross has been integrated into [trading algorithms](../t/trading_algorithms.md) to automate buy and sell decisions. These algorithms continuously scan for Death Cross patterns among various assets and execute trades based on predefined criteria.
 
 ### Quantitative Analysis of Death Cross
 
@@ -103,6 +103,6 @@ The Death Cross remains a valuable tool for both retail and institutional invest
 
 For additional information on companies that [offer](../o/offer.md) tools and platforms for analyzing the Death Cross, you can explore:
 
-- [TradingView](https://www.tradingview.com/)
-- [MetaTrader](https://www.metatrader4.com/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- TradingView
+- MetaTrader
+- Bloomberg Terminal

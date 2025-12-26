@@ -64,19 +64,16 @@ Some larger [credit](../c/credit.md) unions [offer](../o/offer.md) [wealth manag
 
 VyStar [Credit](../c/credit.md) Union is a Jacksonville, Florida-based [credit](../c/credit.md) union that has shown [interest](../i/interest.md) in integrating advanced financial technologies, including [algorithmic trading](../a/accountability.md), to improve its service offerings to members.
 
-- **Website**: [VyStar Credit Union](https://vystarcu.org)
 
 ### Navy Federal Credit Union
 
 Navy Federal [Credit](../c/credit.md) Union, the largest [credit](../c/credit.md) union in the world, serving the military community, invests in technology and financial services that can include automated and [algorithmic trading](../a/accountability.md) to enhance service delivery.
 
-- **Website**: [Navy Federal Credit Union](https://www.navyfederal.org)
 
 ### Alliant Credit Union
 
 Alliant [Credit](../c/credit.md) Union, headquartered in Chicago, Illinois, is known for its [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md). It has invested heavily in fintech solutions, which can encompass [algorithmic trading](../a/accountability.md) for managing its investment portfolios and treasury functions.
 
-- **Website**: [Alliant Credit Union](https://www.alliantcreditunion.org)
 
 ## Future Trends
 

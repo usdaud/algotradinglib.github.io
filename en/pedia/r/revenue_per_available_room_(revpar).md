@@ -15,11 +15,11 @@ Alternatively, RevPAR can also be calculated by multiplying the Average Daily Ra
 ### Components of RevPAR
 
 1. **Total Room [Revenue](../r/revenue.md):** This is the total [income](../i/income.md) generated from selling rooms, excluding any ancillary revenues such as food and beverage sales, parking fees, or spa services.
-   
+
 2. **Available Rooms:** The number of rooms available in the hotel for the specified period.
-   
+
 3. **Average Daily Rate (ADR):** The average rental [income](../i/income.md) per paid occupied room in a given time period.
-   
+
 4. **[Occupancy Rate](../o/occupancy_rate.md):** The percentage of available rooms that are sold during a particular time period.
 
 ## Importance of RevPAR
@@ -88,6 +88,6 @@ While RevPAR is useful for daily or monthly performance tracking, it may not ade
 
 [Revenue](../r/revenue.md) per Available Room (RevPAR) is a critical metric for the hotel [industry](../i/industry.md), [offering](../o/offering.md) valuable insights into [financial performance](../f/financial_performance.md) by combining room [revenue](../r/revenue.md) and occupancy data. While it serves as an excellent tool for benchmarking, [revenue](../r/revenue.md) management, and [investment analysis](../i/investment_analysis.md), it also has its limitations. Therefore, it should be used in conjunction with other metrics for a holistic understanding of a hotel's performance.
 
-For more detailed information on RevPAR and hotel [revenue](../r/revenue.md) management, visit [STR](https://str.com/) and [Marriott International](https://www.marriott.com/).
+For more detailed information on RevPAR and hotel [revenue](../r/revenue.md) management, visit STR and Marriott International.
 
 This thorough understanding of RevPAR allows hotel managers and investors to make informed decisions and implement strategies that can optimize [revenue](../r/revenue.md), enhance [operational efficiency](../o/operational_efficiency_in_trading.md), and ensure long-term profitability.

@@ -64,14 +64,14 @@ Analyzing [bid](../b/bid.md) size for a well-known company like Apple Inc. can p
 
 Several trading platforms provide real-time [bid](../b/bid.md) size data, enabling traders to make informed decisions. Prominent platforms include:
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Widely used by institutional traders for its comprehensive [market](../m/market.md) data, including [bid](../b/bid.md) sizes.
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers [real-time market data](../r/real-time_market_data.md) and advanced trading tools, allowing users to monitor [bid](../b/bid.md) sizes effectively. [Interactive Brokers](https://www.interactivebrokers.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers [real-time market data](../r/real-time_market_data.md) and advanced trading tools, allowing users to monitor [bid](../b/bid.md) sizes effectively. Interactive Brokers
 - **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A favored platform among retail traders for its user-friendly interface and detailed [market](../m/market.md) data.
 
 ### Market Data Feeds
 
 In addition to trading platforms, [market](../m/market.md) data feeds provide real-time [bid](../b/bid.md) size information. Some notable providers include:
-- **[Reuters](../r/reuters.md)**: Known for its extensive financial data services, including [bid](../b/bid.md) sizes across various markets. [Reuters](https://www.reuters.com)
-- **[CQG](../c/cqg.md)**: Offers [premium](../p/premium.md) [market](../m/market.md) data solutions, popular among professional traders and institutions. [CQG](https://www.cqg.com)
+- **[Reuters](../r/reuters.md)**: Known for its extensive financial data services, including [bid](../b/bid.md) sizes across various markets. Reuters
+- **[CQG](../c/cqg.md)**: Offers [premium](../p/premium.md) [market](../m/market.md) data solutions, popular among professional traders and institutions. CQG
 
 ## Challenges and Considerations
 

@@ -77,15 +77,12 @@ Understanding loss development can inform investment strategies for both [insura
 
 ### Munich Re
 Munich Re, a leading global reinsurer, uses advanced analytics and stochastic models to manage loss development. Their approach has helped them maintain financial stability and comply with regulatory requirements.
-[Munich Re](https://www.munichre.com)
 
 ### AIG
 American International Group (AIG) employs a combination of traditional and modern techniques to manage loss development. Their comprehensive approach has enabled them to better understand their loss exposures and improve their [financial performance](../f/financial_performance.md).
-[AIG](https://www.aig.com)
 
 ### Swiss Re
 Swiss Re utilizes sophisticated loss development models that incorporate a wide [range](../r/range.md) of variables, including [economic indicators](../e/economic_indicators.md) and climate change data. This has allowed them to [offer](../o/offer.md) more accurate pricing and [robust](../r/robust.md) [financial planning](../f/financial_planning.md).
-[Swiss Re](https://www.swissre.com)
 
 ## Conclusion
 

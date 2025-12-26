@@ -10,31 +10,31 @@ There are various types of transfer payments with the primary categories being:
 
 [Social Security](../s/social_security.md) benefits are payments made to retirees, disabled individuals, and survivors of deceased workers. These benefits are crucial in providing financial support to those who might not be able to work due to age, disability, or loss of a family breadwinner.
 
-**Link:** [Social Security Administration](https://www.ssa.gov/)
+**Link:** Social Security Administration
 
 ### 2. Unemployment Compensation
 
 [Unemployment compensation](../u/unemployment_compensation.md) is a temporary financial assistance program for workers who have lost their job through no fault of their own. It helps individuals meet their basic needs while they search for new employment.
 
-**Link:** [United States Department of Labor](https://www.dol.gov/general/topic/unemployment-insurance)
+**Link:** United States Department of Labor
 
 ### 3. Welfare Programs
 
 [Welfare](../w/welfare.md) programs include several government programs aimed at providing financial aid to individuals or families in need. These programs include food stamps (Supplemental Nutrition Assistance Program, or SNAP), housing assistance, and Temporary Assistance for Needy Families (TANF).
 
-**Link:** [USDA Food and Nutrition Service](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program)
+**Link:** USDA Food and Nutrition Service
 
 ### 4. Veterans’ Benefits
 
 Veterans’ benefits are payments made to individuals who have served in the armed forces. These benefits include healthcare, education, disability compensation, and pension benefits.
 
-**Link:** [U.S. Department of Veterans Affairs](https://www.va.gov/)
+**Link:** U.S. Department of Veterans Affairs
 
 ### 5. Child Support and Alimony
 
 Child support and alimony are payments made to support the living costs of a former spouse and children following a separation or divorce. These payments ensure that children and former spouses can maintain a [standard of living](../s/standard_of_living.md) post-divorce.
 
-**Link:** [Office of Child Support Enforcement](https://www.acf.hhs.gov/css)
+**Link:** Office of Child Support Enforcement
 
 ## Economic Impact of Transfer Payments
 
@@ -80,25 +80,25 @@ Different countries have various systems in place for transfer payments, reflect
 
 The U.S. has a comprehensive system of transfer payments, including [Social Security](../s/social_security.md), Medicare, [Medicaid](../m/medicaid.md), SNAP, and [unemployment](../u/unemployment.md) benefits. These programs are primarily funded by federal and state [taxes](../t/taxes.md) and are aimed at providing a safety net for its citizens.
 
-**Link:** [US Government Benefits](https://www.usa.gov/benefits)
+**Link:** US Government Benefits
 
 ### United Kingdom
 
 The UK's [welfare state](../w/welfare_state.md) includes various benefits such as Jobseeker's Allowance, Universal [Credit](../c/credit.md), Disability Living Allowance, and the State Pension. The Department for Work and Pensions (DWP) oversees these programs, which are funded through [taxation](../t/taxation.md) and National [Insurance](../i/insurance.md) contributions.
 
-**Link:** [UK Government Benefits](https://www.gov.uk/browse/benefits)
+**Link:** UK Government Benefits
 
 ### Canada
 
 Canada provides several social assistance programs like Employment [Insurance](../i/insurance.md) (EI), Old Age [Security](../s/security.md) (OAS), Guaranteed [Income](../i/income.md) Supplement (GIS), and Canada [Pension Plan](../p/pension_plan.md) (CPP). These programs are designed to support Canadians throughout their life stages, from [unemployment](../u/unemployment.md) to retirement.
 
-**Link:** [Government of Canada Benefits](https://www.canada.ca/en/services/benefits.html)
+**Link:** Government of Canada Benefits
 
 ### Germany
 
 Germany has an extensive [social welfare system](../s/social_welfare_system.md) known as the Sozialstaat. This includes [unemployment](../u/unemployment.md) benefits (Arbeitslosengeld), child benefits (Kindergeld), [health insurance](../h/health_insurance.md) (gesetzliche Krankenversicherung), and pensions (Rentenversicherung). These programs are funded through a combination of employer and employee contributions, and general [taxation](../t/taxation.md).
 
-**Link:** [German Federal Ministry of Labour and Social Affairs](https://www.bmas.de/EN/Home/home.html)
+**Link:** German Federal Ministry of Labour and Social Affairs
 
 ## Challenges and Future Directions
 

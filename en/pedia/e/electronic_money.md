@@ -66,19 +66,19 @@ Not everyone has access to the technology needed to use electronic [money](../m/
 
 ### PayPal
 
-[PayPal](../p/paypal.md) is one of the most well-known and widely used electronic [money](../m/money.md) services in the world. It allows users to make online transactions, send and receive [money](../m/money.md), and make payments using a [digital wallet](../d/digital_wallet.md). More information can be found on their [official website](https://www.paypal.com).
+[PayPal](../p/paypal.md) is one of the most well-known and widely used electronic [money](../m/money.md) services in the world. It allows users to make online transactions, send and receive [money](../m/money.md), and make payments using a [digital wallet](../d/digital_wallet.md).
 
 ### Apple Pay
 
-Apple Pay is a mobile [payment](../p/payment.md) and [digital wallet](../d/digital_wallet.md) service developed by Apple. It enables users to make payments in person, in iOS apps, and on the web. Further details are available on the [Apple Pay website](https://www.apple.com/apple-pay/).
+Apple Pay is a mobile [payment](../p/payment.md) and [digital wallet](../d/digital_wallet.md) service developed by Apple. It enables users to make payments in person, in iOS apps, and on the web.
 
 ### Google Wallet
 
-Google Wallet is a [digital wallet](../d/digital_wallet.md) platform that allows users to store [debit](../d/debit.md) cards, [credit](../c/credit.md) cards, and other [payment](../p/payment.md) information for online and in-store purchases. Visit the [Google Wallet website](https://wallet.google.com/) for more information.
+Google Wallet is a [digital wallet](../d/digital_wallet.md) platform that allows users to store [debit](../d/debit.md) cards, [credit](../c/credit.md) cards, and other [payment](../p/payment.md) information for online and in-store purchases.
 
 ### Alipay
 
-Alipay, operated by Ant Financial, is one of the largest mobile and online [payment](../p/payment.md) platforms globally, particularly popular in China. Alipay offers a wide [range](../r/range.md) of financial services, including payments, [money](../m/money.md) transfers, and [utility](../u/utility.md) bill payments. For more information, visit the [Alipay website](https://intl.alipay.com/).
+Alipay, operated by Ant Financial, is one of the largest mobile and online [payment](../p/payment.md) platforms globally, particularly popular in China. Alipay offers a wide [range](../r/range.md) of financial services, including payments, [money](../m/money.md) transfers, and [utility](../u/utility.md) bill payments.
 
 ## Future of Electronic Money
 

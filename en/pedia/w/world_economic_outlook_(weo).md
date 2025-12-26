@@ -67,4 +67,3 @@ The World Economic Outlook is a vital resource for understanding the complexitie
 
 ## References
 
-For more information on the World Economic Outlook, readers can visit the official IMF website: [IMF WEO](https://www.imf.org/en/Publications/WEO).

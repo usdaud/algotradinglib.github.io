@@ -113,31 +113,31 @@ India has one of the fastest-growing economies in the world, with a significant 
 
 The IMF provides extensive data and analysis on GDP and other [economic indicators](../e/economic_indicators.md) for member countries. Their reports and databases are valuable resources for understanding global economic trends and making informed decisions.
 
-Website: [IMF](https://www.imf.org)
+online platform: IMF
 
 ### World Bank
 
 The [World Bank](../w/world_bank.md) offers comprehensive data on GDP and economic development indicators for countries around the world. Their resources are instrumental for researchers, policymakers, and investors.
 
-Website: [World Bank](https://www.worldbank.org)
+online platform: World Bank
 
 ### Bureau of Economic Analysis (BEA)
 
 The BEA is a U.S. government agency that provides detailed data on the GDP of the United States, including information on various components and sectors of the [economy](../e/economy.md).
 
-Website: [BEA](https://www.bea.gov)
+online platform: BEA
 
 ### Eurostat
 
 Eurostat is the statistical office of the [European Union](../e/european_union_(eu).md), providing data on GDP and other [economic indicators](../e/economic_indicators.md) for EU member states. Their resources are essential for analyzing the economic performance of the EU.
 
-Website: [Eurostat](https://ec.europa.eu/eurostat)
+online platform: Eurostat
 
 ### National Bureau of Statistics of China (NBS)
 
 The NBS is the official statistical agency of China, [offering](../o/offering.md) data on GDP and other [economic indicators](../e/economic_indicators.md). Their reports are crucial for understanding China's economic dynamics.
 
-Website: [NBS](http://www.stats.gov.cn)
+online platform: NBS
 
 ## Conclusion
 

@@ -4,7 +4,7 @@ A Renewable Energy Certificate (REC) is a [market](../m/market.md)-based [financ
 
 ## Understanding RECs
 
-RECs provide a mechanism for tracking and trading the environmental benefits associated with renewable energy generation. They play a crucial role in renewable energy markets by allowing electricity customers to support renewable energy sources regardless of their geographical location. Each REC is uniquely numbered and tracked to ensure accuracy and prevent double-counting. 
+RECs provide a mechanism for tracking and trading the environmental benefits associated with renewable energy generation. They play a crucial role in renewable energy markets by allowing electricity customers to support renewable energy sources regardless of their geographical location. Each REC is uniquely numbered and tracked to ensure accuracy and prevent double-counting.
 
 The key elements that define a REC include:
 

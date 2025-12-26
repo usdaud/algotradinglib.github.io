@@ -59,13 +59,13 @@ Although accrual [accounting](../a/accounting.md) emphasizes recording transacti
 ## Real-World Applications and Examples
 
 ### Large Corporations
-Most large corporations use accrual [accounting](../a/accounting.md) due to its adherence to GAAP and its ability to provide a more accurate financial picture. For instance, companies like **Apple Inc.** ([www.apple.com](https://www.apple.com)) and **Microsoft [Corporation](../c/corporation.md)** ([www.microsoft.com](https://www.microsoft.com)) utilize accrual [accounting](../a/accounting.md) to align their [revenue recognition](../r/revenue_recognition.md) with product deliveries and service performance.
+Most large corporations use accrual [accounting](../a/accounting.md) due to its adherence to GAAP and its ability to provide a more accurate financial picture. For instance, companies like **Apple Inc.** ( and **Microsoft [Corporation](../c/corporation.md)** ( utilize accrual [accounting](../a/accounting.md) to align their [revenue recognition](../r/revenue_recognition.md) with product deliveries and service performance.
 
 ### Publicly Traded Companies
-For publicly traded companies, accrual [accounting](../a/accounting.md) is a requirement, ensuring [transparency](../t/transparency.md) and consistency for investors. These companies, such as **Amazon.com, Inc.** ([www.amazon.com](https://www.amazon.com)) and **Alphabet Inc.** ([www.abc.xyz](https://www.abc.xyz)), report using accrual [accounting](../a/accounting.md) to comply with securities regulations and provide detailed [financial statements](../f/financial_statements.md) that accurately reflect their performance.
+For publicly traded companies, accrual [accounting](../a/accounting.md) is a requirement, ensuring [transparency](../t/transparency.md) and consistency for investors. These companies, such as **Amazon.com, Inc.** ( and **Alphabet Inc.** ( report using accrual [accounting](../a/accounting.md) to comply with securities regulations and provide detailed [financial statements](../f/financial_statements.md) that accurately reflect their performance.
 
 ### Governmental and Non-Profit Entities
-Many governmental and non-[profit](../p/profit.md) organizations also use accrual [accounting](../a/accounting.md) to provide a clearer picture of their financial status and performance. This includes institutions such as the **[World Bank](../w/world_bank.md)** ([www.worldbank.org](https://www.worldbank.org)) and the **Red Cross** ([www.redcross.org](https://www.redcross.org)).
+Many governmental and non-[profit](../p/profit.md) organizations also use accrual [accounting](../a/accounting.md) to provide a clearer picture of their financial status and performance. This includes institutions such as the **[World Bank](../w/world_bank.md)** ( and the **Red Cross** (
 
 ## Conclusion
 

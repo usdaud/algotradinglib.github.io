@@ -52,7 +52,7 @@ Combining subjective probabilities with objective statistical methods can enhanc
 
 ### 3. **Dealing with Uncertainty**
 
-[Algorithmic trading](../a/accountability.md) systems often operate under conditions of high [uncertainty](../u/uncertainty_in_trading.md) and [noise](../n/noise.md). Subjective probability allows for more nuanced modeling of [uncertainty](../u/uncertainty_in_trading.md), enabling [trading systems](../t/trading_systems.md) to adapt and respond dynamically to changing [market](../m/market.md) conditions.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often operate under conditions of high [uncertainty](../u/uncertainty_in_trading.md) and [noise](../n/noise.md). Subjective probability allows for more nuanced modeling of [uncertainty](../u/uncertainty_in_trading.md), enabling [trading systems](../t/trading_systems.md) to adapt and respond dynamically to changing [market](../m/market.md) conditions.
 
 ## Challenges and Criticisms
 

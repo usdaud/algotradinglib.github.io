@@ -62,7 +62,7 @@ Corporations with international operations may use Tom Next swaps to manage thei
 
 ### Algorithmic Trading
 
-With the advent of sophisticated [trading algorithms](../t/trading_algorithms.md), Tom Next transactions can be executed with greater speed and precision. [Algorithmic trading](../a/accountability.md) systems can identify the best opportunities for these swaps and execute them efficiently, reducing the [risk](../r/risk.md) of human error.
+With the advent of sophisticated [trading algorithms](../t/trading_algorithms.md), Tom Next transactions can be executed with greater speed and precision. [Algorithmic trading](../a/algorithmic_trading.md) systems can identify the best opportunities for these swaps and execute them efficiently, reducing the [risk](../r/risk.md) of human error.
 
 ### FinTech Solutions
 

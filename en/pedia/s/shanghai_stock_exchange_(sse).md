@@ -118,7 +118,7 @@ Algorithmic traders require [robust](../r/robust.md) and low-latency connections
 
 ### Data Feeds
 
-High-quality and real-time data feeds are crucial for [algorithmic trading](../a/accountability.md). The SSE offers comprehensive [market](../m/market.md) data services that include [order book](../o/order_book.md) information, [trade](../t/trade.md) confirmations, and [market depth](../m/market_depth.md) data.
+High-quality and real-time data feeds are crucial for [algorithmic trading](../a/algorithmic_trading.md). The SSE offers comprehensive [market](../m/market.md) data services that include [order book](../o/order_book.md) information, [trade](../t/trade.md) confirmations, and [market depth](../m/market_depth.md) data.
 
 ### Risk Management
 
@@ -126,7 +126,7 @@ The SSE enforces [risk management](../r/risk_management.md) protocols to ensure 
 
 ### Compliance
 
-[Algorithmic trading](../a/accountability.md) firms must comply with regulatory requirements set by both the SSE and the CSRC. This includes pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) checks, audit trails, and reporting [obligations](../o/obligation.md).
+[Algorithmic trading](../a/algorithmic_trading.md) firms must comply with regulatory requirements set by both the SSE and the CSRC. This includes pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) checks, audit trails, and reporting [obligations](../o/obligation.md).
 
 ## Future Outlook
 
@@ -134,4 +134,3 @@ The SSE is committed to enhancing its [market](../m/market.md) [infrastructure](
 
 In summary, the Shanghai Stock [Exchange](../e/exchange.md), with its history, grandeur, and evolving landscape, continues to be a cornerstone of China's [financial system](../f/financial_system.md) and a significant player in the global [capital markets](../c/capital_markets.md). Its role in shaping the future of financial exchanges is poised to grow as it continues to innovate and adapt to changing economic landscapes and technological advancements.
 
-For more information, you can visit the [Shanghai Stock Exchange official website](http://www.sse.com.cn).

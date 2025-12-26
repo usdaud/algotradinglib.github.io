@@ -9,18 +9,18 @@ The doctrine of Stare Decisis is fundamental to the [common law](../c/common_law
 ### Principles of Stare Decisis
 
 1. **Binding Precedent (Mandatory Authority):**
-   Higher court decisions generally bind lower courts within the same jurisdiction. For example, if a Supreme Court rules on a matter, that ruling must be followed by all lower courts in subsequent cases that involve similar issues.
+ Higher court decisions generally bind lower courts within the same jurisdiction. For example, if a Supreme Court rules on a matter, that ruling must be followed by all lower courts in subsequent cases that involve similar issues.
 
 2. **Persuasive Precedent:**
-   Courts may consider rulings from courts in other jurisdictions or lower courts within the same jurisdiction, even if they are not obligated to follow them. These rulings serve as persuasive authority rather than binding authority.
+ Courts may consider rulings from courts in other jurisdictions or lower courts within the same jurisdiction, even if they are not obligated to follow them. These rulings serve as persuasive authority rather than binding authority.
 
 3. **Vertical and Horizontal Stare Decisis:**
-   - **Vertical Stare Decisis:** Requires lower courts to follow the decisions of higher courts in the same jurisdiction.
-   - **Horizontal Stare Decisis:** Occurs when courts at the same level in the hierarchy follow their own prior decisions.
+ - **Vertical Stare Decisis:** Requires lower courts to follow the decisions of higher courts in the same jurisdiction.
+ - **Horizontal Stare Decisis:** Occurs when courts at the same level in the hierarchy follow their own prior decisions.
 
 4. **Ratio Decidendi and Obiter Dicta:**
-   - **Ratio Decidendi:** These are the legal principles or reasonings that are essential to the court’s decision and become binding precedent.
-   - **Obiter Dicta:** These are additional comments or observations made by judges that are not essential to the decision and do not have the binding force.
+ - **Ratio Decidendi:** These are the legal principles or reasonings that are essential to the court’s decision and become binding precedent.
+ - **Obiter Dicta:** These are additional comments or observations made by judges that are not essential to the decision and do not have the binding force.
 
 ### Advantages of Stare Decisis
 
@@ -73,6 +73,6 @@ This case established the "Chevron deference," a principle where courts defer to
 
 Stare Decisis is a cornerstone of the legal systems that prize consistency and predictability. While it offers significant benefits in terms of legal stability and [efficiency](../e/efficiency.md), it also poses challenges related to rigidity and judicial interpretation. Understanding this doctrine is crucial, particularly in fields as dynamic and complex as financial law, where past decisions shape the operating environment for future activities.
 
-For more information on legal doctrines, visit [Cornell Law School](https://www.law.cornell.edu/wex/stare_decisis).
+For more information on legal doctrines, visit Cornell Law School.
 
 ---

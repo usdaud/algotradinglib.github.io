@@ -16,7 +16,7 @@ Zero-coupon bonds, also known as [discount](../d/discount.md) bonds or "zeros," 
 #### Types of Zero-Coupon Bonds
 
 1. **U.S. [Treasury STRIPS](../t/treasury_strips.md):** A commonly known [zero-coupon bond](../z/zero-coupon_bond.md) is the [U.S. Treasury](../u/u.s._treasury.md) STRIP (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) Securities). These bonds are sold below [face value](../f/face_value.md) and mature at their full [face value](../f/face_value.md).
-   
+
 2. **Corporate Zero-Coupon Bonds:** Corporations may [issue](../i/issue.md) zero-coupon bonds, often with varying maturities and [credit](../c/credit.md) ratings, influencing their [risk](../r/risk.md) and [yield](../y/yield.md).
 
 3. **Municipal Zero-Coupon Bonds:** Local governments [issue](../i/issue.md) these bonds, often with [tax-advantaged](../t/tax-advantaged.md) characteristics, adding another layer of attractiveness to investors.
@@ -45,29 +45,29 @@ A zero-coupon [yield curve](../y/yield_curve.md) is a graphical representation s
 Bootstrapping is the process of deriving a zero-coupon [yield curve](../y/yield_curve.md) from the [market](../m/market.md) prices of a set of coupon-bearing bonds. It involves iteratively solving for spot rates (zero rates) by using the prices of bonds and stripping away each subsequent [cash flow](../c/cash_flow.md)'s future [value](../v/value.md).
 
 1. **Spot Rates for Bonds:**
-   - Calculate the [spot rate](../s/spot_rate.md) for the shortest [maturity](../m/maturity.md) [bond](../b/bond.md).
-   - Use this rate to [discount](../d/discount.md) next period cash flows progressively.
-   - Solve for subsequent spot rates iteratively.
+ - Calculate the [spot rate](../s/spot_rate.md) for the shortest [maturity](../m/maturity.md) [bond](../b/bond.md).
+ - Use this rate to [discount](../d/discount.md) next period cash flows progressively.
+ - Solve for subsequent spot rates iteratively.
 
 2. **Algorithmic Application:**
-   - Compute spot rates for each [bond](../b/bond.md) [maturity](../m/maturity.md).
-   - Construct the [yield curve](../y/yield_curve.md).
+ - Compute spot rates for each [bond](../b/bond.md) [maturity](../m/maturity.md).
+ - Construct the [yield curve](../y/yield_curve.md).
 
 Example of the bootstrapping process:
 
 - Given:
-  - [Bond](../b/bond.md) 1: [Maturity](../m/maturity.md) 1 year, Price $950, [Face Value](../f/face_value.md) $1,000.
-  - [Bond](../b/bond.md) 2: [Maturity](../m/maturity.md) 2 years, Price $900, [Face Value](../f/face_value.md) $1,000.
+ - [Bond](../b/bond.md) 1: [Maturity](../m/maturity.md) 1 year, Price $950, [Face Value](../f/face_value.md) $1,000.
+ - [Bond](../b/bond.md) 2: [Maturity](../m/maturity.md) 2 years, Price $900, [Face Value](../f/face_value.md) $1,000.
 
-  Calculate the [spot rate](../s/spot_rate.md) for [Bond](../b/bond.md) 1:
-  \[ r_1 = \left( \frac{1000}{950} \right) - 1 \approx 5.26\% \]
+ Calculate the [spot rate](../s/spot_rate.md) for [Bond](../b/bond.md) 1:
+ \[ r_1 = \left( \frac{1000}{950} \right) - 1 \approx 5.26\% \]
 
-  Use the [spot rate](../s/spot_rate.md) of [Bond](../b/bond.md) 1 to determine the rate for [Bond](../b/bond.md) 2:
-  \[ 900 = \frac{1000}{(1 + r_2)^2} \implies r_2 = \left( \frac{1000}{900} \right)^{\frac{1}{2}} - 1 \approx 5.41\% \]
+ Use the [spot rate](../s/spot_rate.md) of [Bond](../b/bond.md) 1 to determine the rate for [Bond](../b/bond.md) 2:
+ \[ 900 = \frac{1000}{(1 + r_2)^2} \implies r_2 = \left( \frac{1000}{900} \right)^{\frac{1}{2}} - 1 \approx 5.41\% \]
 
 3. **[Yield Curve](../y/yield_curve.md) Graphical Representation:**
-   - Plot [bond](../b/bond.md) maturities on the x-axis.
-   - Plot corresponding spot rates on the y-axis.
+ - Plot [bond](../b/bond.md) maturities on the x-axis.
+ - Plot corresponding spot rates on the y-axis.
 
 ### Market Applications
 
@@ -99,12 +99,12 @@ Algorithms gauge [risk](../r/risk.md)-adjusted returns incorporating zero-coupon
 
 ### Important Entities in Zero-Coupon Analysis
 
-1. **[Bloomberg](../b/bloomberg.md) L.P.:** Provides essential [market](../m/market.md) data, analytics, and financial tools, including [zero-coupon bond](../z/zero-coupon_bond.md) pricing and [yield](../y/yield.md) curves. [Bloomberg](https://www.bloomberg.com)
-2. **[Interactive Brokers](../i/interactive_brokers.md):** Offers trading platforms and financial services for [zero-coupon bond](../z/zero-coupon_bond.md) trading. [Interactive Brokers](https://www.interactivebrokers.com)
-3. **[Fidelity Investments](../f/fidelity_investments.md):** Facilitates [zero-coupon bond](../z/zero-coupon_bond.md) investments and comprehensive [market](../m/market.md) analysis tools. [Fidelity Investments](https://www.fidelity.com)
+1. **[Bloomberg](../b/bloomberg.md) L.P.:** Provides essential [market](../m/market.md) data, analytics, and financial tools, including [zero-coupon bond](../z/zero-coupon_bond.md) pricing and [yield](../y/yield.md) curves. Bloomberg
+2. **[Interactive Brokers](../i/interactive_brokers.md):** Offers trading platforms and financial services for [zero-coupon bond](../z/zero-coupon_bond.md) trading. Interactive Brokers
+3. **[Fidelity Investments](../f/fidelity_investments.md):** Facilitates [zero-coupon bond](../z/zero-coupon_bond.md) investments and comprehensive [market](../m/market.md) analysis tools. Fidelity Investments
 
 ### Conclusion
 
-Zero-coupon [yield analysis](../y/yield_analysis.md) is a cornerstone of fixed-[income](../i/income.md) trading and financial analytics. By understanding the principles, calculations, and applications of zero-coupon bonds and their [yield](../y/yield.md) curves, [market](../m/market.md) participants can make informed decisions and develop sophisticated [trading strategies](../t/trading_strategies.md). This knowledge is essential for anyone involved in [algorithmic trading](../a/algorithmic_trading.md), [bond valuation](../b/bond_valuation.md), and [risk management](../r/risk_management.md). 
+Zero-coupon [yield analysis](../y/yield_analysis.md) is a cornerstone of fixed-[income](../i/income.md) trading and financial analytics. By understanding the principles, calculations, and applications of zero-coupon bonds and their [yield](../y/yield.md) curves, [market](../m/market.md) participants can make informed decisions and develop sophisticated [trading strategies](../t/trading_strategies.md). This knowledge is essential for anyone involved in [algorithmic trading](../a/algorithmic_trading.md), [bond valuation](../b/bond_valuation.md), and [risk management](../r/risk_management.md).
 
 The interplay between [zero-coupon bond](../z/zero-coupon_bond.md) characteristics and the broader [financial markets](../f/financial_market.md) ensures that zero-coupon [yield analysis](../y/yield_analysis.md) remains relevant and integral to [finance](../f/finance.md) and trading practices.

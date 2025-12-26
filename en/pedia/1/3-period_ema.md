@@ -15,25 +15,25 @@ Where `n` is the number of periods. In the case of a 3-Period EMA, `n` equals 3.
 ### Calculation of 3-Period EMA
 
 1. **First Step - Calculate the Simple Moving Average (SMA) for the initial period:**
-   To start calculating the EMA, you need a base [value](../v/value.md), typically done by computing the [3-Period SMA](../1/3-period_sma.md). Sum up the first three closing prices and divide by 3.
+ To start calculating the EMA, you need a base [value](../v/value.md), typically done by computing the [3-Period SMA](../1/3-period_sma.md). Sum up the first three closing prices and divide by 3.
 
-   ```
-   SMA = (Price_1 + Price_2 + Price_3) / 3
-   ```
+ ```
+ SMA = (Price_1 + Price_2 + Price_3) / 3
+ ```
 
 2. **Second Step - Apply the EMA formula:**
-   Once you have the SMA, use it as the initial EMA [value](../v/value.md) for the first calculation period. For subsequent periods, apply the EMA formula:
+ Once you have the SMA, use it as the initial EMA [value](../v/value.md) for the first calculation period. For subsequent periods, apply the EMA formula:
 
-   ```
-   EMA_today = (Price_today * (2 / (n + 1))) + (EMA_yesterday * (1 - (2 / (n + 1))))
-   ```
+ ```
+ EMA_today = (Price_today * (2 / (n + 1))) + (EMA_yesterday * (1 - (2 / (n + 1))))
+ ```
 
-   For `n = 3`:
-   
-   ```
-   EMA_today = (Price_today * (2 / (3 + 1))) + (EMA_yesterday * (1 - (2 / (3 + 1))))
-   EMA_today = (Price_today * 0.5) + (EMA_yesterday * 0.5)
-   ```
+ For `n = 3`:
+
+ ```
+ EMA_today = (Price_today * (2 / (3 + 1))) + (EMA_yesterday * (1 - (2 / (3 + 1))))
+ EMA_today = (Price_today * 0.5) + (EMA_yesterday * 0.5)
+ ```
 
 ### Example Calculation
 
@@ -46,23 +46,23 @@ Assume the closing prices for five days are as follows:
 
 1. **Calculate the initial SMA for the first 3 days:**
 
-   ```
-   SMA = (50 + 51 + 52) / 3 = 51
-   ```
+ ```
+ SMA = (50 + 51 + 52) / 3 = 51
+ ```
 
 2. **Now apply the EMA formula from Day 4 onwards:**
 
-   - **Day 4:**
+ - **Day 4:**
 
-    ```
-    EMA_4 = (53 * 0.5) + (51 * 0.5) = 52
-    ```
+ ```
+ EMA_4 = (53 * 0.5) + (51 * 0.5) = 52
+ ```
 
-   - **Day 5:**
+ - **Day 5:**
 
-    ```
-    EMA_5 = (54 * 0.5) + (52 * 0.5) = 53
-    ```
+ ```
+ EMA_5 = (54 * 0.5) + (52 * 0.5) = 53
+ ```
 
 ### Practical Applications in Trading
 
@@ -122,7 +122,7 @@ df['EMA_3'] = df['Close'].ewm(span=3, adjust=False).mean()
 
 ### Momentum Trading Algorithms
 
-Many high-frequency trading (HFT) firms and [algorithmic trading](../a/algorithmic_trading.md) strategies employ short-term EMAs like the 3-Period EMA to capture quick price movements and generate [profit](../p/profit.md) from high [volatility](../v/volatility.md). These firms include well-known entities like Renaissance Technologies [https://www.rentec.com/] and Two Sigma [https://www.twosigma.com/].
+Many high-frequency trading (HFT) firms and [algorithmic trading](../a/algorithmic_trading.md) strategies employ short-term EMAs like the 3-Period EMA to capture quick price movements and generate [profit](../p/profit.md) from high [volatility](../v/volatility.md). These firms include well-known entities like Renaissance Technologies [ and Two Sigma [
 
 ### Scalping Strategies
 
@@ -134,4 +134,4 @@ The 3-Period EMA is particularly popular in Forex trading, where [currency](../c
 
 ## Conclusion
 
-The 3-Period EMA is a versatile and valuable tool in the realm of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Its ability to quickly respond to recent price changes makes it particularly useful for [short-term trading](../s/short-term_trading.md) strategies. However, like any [indicator](../i/indicator.md), it has its limitations and should be used in conjunction with other tools and analysis methods to enhance trading decisions. By understanding the nuances of the 3-Period EMA, traders can better navigate the complexities of the [financial markets](../f/financial_market.md) and improve their overall [trading performance](../t/trading_performance.md).
+The 3-Period EMA is a versatile and valuable tool in the realm of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Its ability to quickly respond to recent price changes makes it particularly useful for [short-term trading](../s/short-term_trading.md) strategies. However, like any [indicator](../i/indicator.md), it has its limitations and should be used in conjunction with other tools and analysis methods to enhance trading decisions. By understanding the nuances of the 3-Period EMA, traders can better navigate the complexities of the [financial markets](../f/financial_market.md) and improve their overall [trading performance](../t/trading_performance.md).

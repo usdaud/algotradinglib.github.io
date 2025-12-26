@@ -59,7 +59,7 @@ RCT can also be applied in sociology to explain social behaviors, norms, and ins
 The theory is employed to understand criminal behavior. Rational Choice Theory posits that potential offenders weigh the risks and rewards before engaging in criminal activities, thus aiding in designing effective deterrents.
 
 ### Fintech and Algorithmic Trading
-In the fintech [industry](../i/industry.md) and [algorithmic trading](../a/accountability.md), Rational Choice Theory underpins many models used in automating [trading strategies](../t/trading_strategies.md). Algorithms are designed to maximize returns by making choices that are hypothesized to be rational based on available data.
+In the fintech [industry](../i/industry.md) and [algorithmic trading](../a/algorithmic_trading.md), Rational Choice Theory underpins many models used in automating [trading strategies](../t/trading_strategies.md). Algorithms are designed to maximize returns by making choices that are hypothesized to be rational based on available data.
 
 ## Case Studies
 
@@ -70,7 +70,7 @@ In the realm of [economics](../e/economics.md), the [demand curve](../d/demand_c
 In political science, Rational Choice Theory can explain why individuals vote in particular ways. For instance, the theory suggests that a voter [will](../w/will.md) choose a candidate whose policies are expected to provide the maximum benefit, even if that benefit is weighed by the probability of the candidate actually winning.
 
 ## Real-World Example in Fintech: Wealthfront
-[Wealthfront](https://www.wealthfront.com) is a prominent player in the fintech space, using automated, algorithmic [wealth management](../w/wealth_management.md) services. The algorithms operate on principles derived from Rational Choice Theory, optimizing portfolios to maximize expected returns based on an individual’s [risk](../r/risk.md) preferences and constraints.
+Wealthfront is a prominent player in the fintech space, using automated, algorithmic [wealth management](../w/wealth_management.md) services. The algorithms operate on principles derived from Rational Choice Theory, optimizing portfolios to maximize expected returns based on an individual’s [risk](../r/risk.md) preferences and constraints.
 
 ## Mathematical Models
 

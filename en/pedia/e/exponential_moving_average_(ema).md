@@ -66,8 +66,8 @@ Various trading platforms and software packages provide tools for calculating an
 - **[TradingView](../t/tradingview.md)**: Known for its [robust](../r/robust.md) charting capabilities and extensive library of indicators, [TradingView](../t/tradingview.md) allows for easy customization and implementation of EMAs.
 
 For further information, consider visiting the official platforms:
-- [MetaTrader](https://www.metatrader4.com/)
-- [TradingView](https://www.tradingview.com/)
+- MetaTrader
+- TradingView
 
 ## Examples
 
@@ -129,4 +129,3 @@ This example demonstrates how to calculate a 50-day and 200-day EMA from a CSV f
 The Exponential Moving Average (EMA) is a versatile and powerful tool in the arsenal of technical analysts and traders. Its ability to prioritize recent data makes it adept at responding to [market](../m/market.md) changes, and it can be employed in a variety of [trading strategies](../t/trading_strategies.md), from [trend](../t/trend.md) identification to signal generation. However, like any technical [indicator](../i/indicator.md), it is essential to understand its limitations and use it in conjunction with other tools and indicators to maximize its effectiveness.
 
 For more detailed and personalized strategies, traders might want to consult professional financial advisors or use advanced [backtesting](../b/backtesting.md) tools available on platforms like MetaTrader and [TradingView](../t/tradingview.md).
-

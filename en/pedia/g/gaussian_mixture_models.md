@@ -123,4 +123,4 @@ While GMMs are powerful, they come with several challenges and considerations:
 
 Gaussian Mixture Models provide a flexible and powerful framework for clustering, density estimation, [anomaly detection](../a/anomaly_detection.md), and more. They [leverage](../l/leverage.md) the probabilistic nature of Gaussian distributions to model data in a way that can capture [underlying](../u/underlying.md) patterns and relationships. Despite their potential complexity and computational demands, GMMs' versatility makes them a valuable tool in the data scientist's toolkit.
 
-For more information, you can explore [scikit-learn's documentation for Gaussian Mixture Models](https://scikit-learn.org/stable/modules/mixture.html) to see more examples and in-depth explanations.
+For more information, you can explore scikit-learn's documentation for Gaussian Mixture Models to see more examples and in-depth explanations.

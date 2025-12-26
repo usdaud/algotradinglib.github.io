@@ -42,7 +42,7 @@ Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR), also known as
 
 ### Volatility Arbitrage
 
-[Volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) involves taking offsetting positions in related securities in [order](../o/order.md) to [profit](../p/profit.md) from differences in their relative [volatility](../v/volatility.md). For example, traders may simultaneously buy and sell [options](../o/options.md) with different strikes or maturities to exploit discrepancies between implied and [realized volatility](../r/realized_volatility.md). 
+[Volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) involves taking offsetting positions in related securities in [order](../o/order.md) to [profit](../p/profit.md) from differences in their relative [volatility](../v/volatility.md). For example, traders may simultaneously buy and sell [options](../o/options.md) with different strikes or maturities to exploit discrepancies between implied and [realized volatility](../r/realized_volatility.md).
 
 ### Straddle and Strangle
 
@@ -106,15 +106,15 @@ Several leading [algorithmic trading](../a/algorithmic_trading.md) firms utilize
 
 #### Renaissance Technologies
 
-Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which uses [quantitative models](../q/quantitative_models.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. The [firm](../f/firm.md)'s secretive methods are based on complex mathematical and statistical analyses, with a significant focus on [volatility](../v/volatility.md) [Renaissance Technologies](https://www.rentec.com).
+Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which uses [quantitative models](../q/quantitative_models.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. The [firm](../f/firm.md)'s secretive methods are based on complex mathematical and statistical analyses, with a significant focus on [volatility](../v/volatility.md) Renaissance Technologies.
 
 #### Two Sigma
 
-Two Sigma combines [data science](../d/data_science_in_trading.md) and technology to develop [predictive models](../p/predictive_models_in_trading.md) for trading. The [firm](../f/firm.md) emphasizes the importance of [volatility](../v/volatility.md) analysis in understanding [market dynamics](../m/market_dynamics.md) and improving model accuracy [Two Sigma](https://www.twosigma.com).
+Two Sigma combines [data science](../d/data_science_in_trading.md) and technology to develop [predictive models](../p/predictive_models_in_trading.md) for trading. The [firm](../f/firm.md) emphasizes the importance of [volatility](../v/volatility.md) analysis in understanding [market dynamics](../m/market_dynamics.md) and improving model accuracy Two Sigma.
 
 #### DE Shaw
 
-D.E. Shaw & Co. integrates a broad array of quantitative techniques to manage [risk](../r/risk.md) and generate [alpha](../a/alpha.md). [Volatility](../v/volatility.md) analysis is a critical component of the [firm](../f/firm.md)'s approach to [systematic trading](../s/systematic_trading.md) [DE Shaw](https://www.deshaw.com).
+D.E. Shaw & Co. integrates a broad array of quantitative techniques to manage [risk](../r/risk.md) and generate [alpha](../a/alpha.md). [Volatility](../v/volatility.md) analysis is a critical component of the [firm](../f/firm.md)'s approach to [systematic trading](../s/systematic_trading.md) DE Shaw.
 
 ### Retail Traders and Volatility Tools
 

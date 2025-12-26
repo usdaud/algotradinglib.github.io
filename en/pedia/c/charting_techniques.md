@@ -79,11 +79,11 @@ RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that meas
 
 There are several platforms and companies that provide advanced charting tools integrated with [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
-- **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) (https://www.[metatrader4](../m/metatrader4.md).com/)
-- **[TradingView](../t/tradingview.md)**: Offers extensive charting tools and [social networking](../s/social_networking.md) for traders (https://www.[tradingview](../t/tradingview.md).com/)
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides professional-grade trading tools (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page)
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live trading capabilities (https://www.[quantconnect](../q/quantconnect.md).com/)
+- **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) (
+- **[TradingView](../t/tradingview.md)**: Offers extensive charting tools and [social networking](../s/social_networking.md) for traders (
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides professional-grade trading tools (
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live trading capabilities
 
 ## Conclusion
 
-The effectiveness of [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md) heavily depends on the accuracy and relevance of charting techniques employed. With the continuous evolution of [financial markets](../f/financial_market.md) and technology, staying up-to-date with advanced charting tools and methods is essential for any algorithmic [trader](../t/trader.md). Whether it's basic line charts or complex [harmonic patterns](../h/harmonic_patterns.md), mastering these techniques can significantly enhance [trading performance](../t/trading_performance.md) and outcomes.
+The effectiveness of [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md) heavily depends on the accuracy and relevance of charting techniques employed. With the continuous evolution of [financial markets](../f/financial_market.md) and technology, staying up-to-date with advanced charting tools and methods is essential for any algorithmic [trader](../t/trader.md). Whether it's basic line charts or complex [harmonic patterns](../h/harmonic_patterns.md), mastering these techniques can significantly enhance [trading performance](../t/trading_performance.md) and outcomes.

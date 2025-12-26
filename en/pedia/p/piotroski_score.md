@@ -9,71 +9,71 @@ The Piotroski Score ranges from 0 to 9, with each point representing one of nine
 ### Profitability
 
 1. **Net [Income](../i/income.md) (NI):** A positive net [income](../i/income.md) gives the company 1 point. This criterion assesses the company's ability to generate [profit](../p/profit.md).
-   
-   *Formula:* 
-   ```plaintext
-   if (Net [Income](../i/income.md) > 0) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (Net [Income](../i/income.md) > 0) Point = 1 else Point = 0
+ ```
 
 2. **Operating [Cash Flow](../c/cash_flow.md) (OCF):** Positive [cash flow](../c/cash_flow.md) from operations is another [indicator](../i/indicator.md) of [financial health](../f/financial_health.md). A positive OCF earns the company 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (Operating [Cash Flow](../c/cash_flow.md) > 0) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (Operating [Cash Flow](../c/cash_flow.md) > 0) Point = 1 else Point = 0
+ ```
 
 3. **[Return on Assets](../r/return_on_assets_(roa).md) (ROA):** This ratio represents the company's ability to use its assets to generate [earnings](../e/earnings.md). A positive ROA signifies effective [asset](../a/asset.md) utilization and earns 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (ROA > 0) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (ROA > 0) Point = 1 else Point = 0
+ ```
 
 4. **[Quality of Earnings](../q/quality_of_earnings.md) (QoE):** This criterion checks whether the [cash flow](../c/cash_flow.md) from operations is greater than net [income](../i/income.md), indicating high-quality [earnings](../e/earnings.md). If OCF > NI, the company gets 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (Operating [Cash Flow](../c/cash_flow.md) > Net [Income](../i/income.md)) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (Operating [Cash Flow](../c/cash_flow.md) > Net [Income](../i/income.md)) Point = 1 else Point = 0
+ ```
 
 ### Leverage, Liquidity, and Source of Funds
 
 5. **[Current Ratio](../c/current_ratio.md) (CR):** This assesses the company's short-term [liquidity](../l/liquidity.md). An increase in the [current ratio](../c/current_ratio.md) relative to the previous year earns the company 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (CR_CurrentYear > CR_PreviousYear) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (CR_CurrentYear > CR_PreviousYear) Point = 1 else Point = 0
+ ```
 
 6. **[Leverage](../l/leverage.md) (D/E):** This criterion examines the change in [leverage](../l/leverage.md) or [financial structure](../f/financial_structure.md). If the [leverage ratio](../l/leverage_ratio.md) ([debt](../d/debt.md) to [equity](../e/equity.md)) decreases compared to the previous year, the company earns 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (D/E_CurrentYear < D/E_PreviousYear) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (D/E_CurrentYear < D/E_PreviousYear) Point = 1 else Point = 0
+ ```
 
 7. **Share Issuance:** If the company has not issued new [shares](../s/shares.md) over the past year, it earns 1 point. This indicates that the company is not diluting its existing shareholders.
-   
-   *Formula:* 
-   ```plaintext
-   if (SharesIssued_LastYear == 0) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (SharesIssued_LastYear == 0) Point = 1 else Point = 0
+ ```
 
 ### Operating Efficiency
 
 8. **[Gross Margin](../g/gross_margin.md) (GM):** An increasing [gross margin](../g/gross_margin.md) compared to the previous year indicates improved [efficiency](../e/efficiency.md) and management effectiveness. An increase earns the company 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (GM_CurrentYear > GM_PreviousYear) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (GM_CurrentYear > GM_PreviousYear) Point = 1 else Point = 0
+ ```
 
 9. **[Asset Turnover Ratio](../a/asset_turnover_ratio.md) (ATO):** This assesses the [efficiency](../e/efficiency.md) of [asset](../a/asset.md) utilization. An increasing [asset turnover ratio](../a/asset_turnover_ratio.md) compared to the previous year earns the company 1 point.
-   
-   *Formula:* 
-   ```plaintext
-   if (ATO_CurrentYear > ATO_PreviousYear) Point = 1 else Point = 0
-   ```
+
+ *Formula:*
+ ```plaintext
+ if (ATO_CurrentYear > ATO_PreviousYear) Point = 1 else Point = 0
+ ```
 
 ## Implementation in Trading and Investing
 
@@ -89,13 +89,13 @@ Institutional investors and mutual funds often employ financial screening techni
 
 ### Quantitative Analysis
 
-For quantitatively-driven traders and [hedge](../h/hedge.md) funds, the Piotroski Score can be incorporated into [algorithmic trading](../a/accountability.md) models. These models can automate the process of scoring companies and making [trade](../t/trade.md) decisions based on predefined criteria. For example:
+For quantitatively-driven traders and [hedge](../h/hedge.md) funds, the Piotroski Score can be incorporated into [algorithmic trading](../a/algorithmic_trading.md) models. These models can automate the process of scoring companies and making [trade](../t/trade.md) decisions based on predefined criteria. For example:
 
 1. **Building a Scoring Algorithm:**
-   An algorithm can automatically fetch financial data for a specific universe of [stocks](../s/stock.md), compute the Piotroski Score for each, and rank them accordingly.
+ An algorithm can automatically fetch financial data for a specific universe of [stocks](../s/stock.md), compute the Piotroski Score for each, and rank them accordingly.
 
 2. **[Backtesting](../b/backtesting.md):**
-   Historical performance can be backtested to validate the effectiveness of using the Piotroski Score in isolation or in combination with other indicators.
+ Historical performance can be backtested to validate the effectiveness of using the Piotroski Score in isolation or in combination with other indicators.
 
 ### Risk Management
 
@@ -111,7 +111,7 @@ Financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/
 Mathew, a [value](../v/value.md) [investor](../i/investor.md), is currently looking through a list of 500 potential investments. He decides to apply the Piotroski Score as a filter. By calculating the score for all companies, he narrows the list down to the 50 highest-scoring [stocks](../s/stock.md). This process saves him time and effort, allowing him to focus only on the most promising candidates.
 
 ### Example 2: Enhancing Algorithmic Models
-Lucas runs a [hedge fund](../h/hedge_fund.md) that relies on [algorithmic trading](../a/accountability.md) models. He integrates the Piotroski Score into his existing model to enhance its stock selection criteria. By doing so, he observes an improvement in the model's [performance metrics](../p/performance_metrics.md), such as [return](../r/return.md) on investment and [Sharpe ratio](../s/sharpe_ratio.md), after several months of [backtesting](../b/backtesting.md) and live trading.
+Lucas runs a [hedge fund](../h/hedge_fund.md) that relies on [algorithmic trading](../a/algorithmic_trading.md) models. He integrates the Piotroski Score into his existing model to enhance its stock selection criteria. By doing so, he observes an improvement in the model's [performance metrics](../p/performance_metrics.md), such as [return](../r/return.md) on investment and [Sharpe ratio](../s/sharpe_ratio.md), after several months of [backtesting](../b/backtesting.md) and live trading.
 
 ### Example 3: Improving Portfolio Quality
 Eva, a [portfolio manager](../p/portfolio_manager.md), wants to improve the overall quality of her portfolio. She reviews each holding's Piotroski Score and decides to divest [stocks](../s/stock.md) with scores below 4. In their place, she invests in companies scoring 7 and above. Over the following year, Eva notes a marked improvement in her portfolio's performance and stability.
@@ -121,16 +121,16 @@ Eva, a [portfolio manager](../p/portfolio_manager.md), wants to improve the over
 While the Piotroski Score is a valuable tool, it is not without its criticisms and limitations:
 
 1. **Simplistic Nature:**
-   The score's binary structure may oversimplify complex financial realities, potentially ignoring nuanced aspects of a company’s [financial health](../f/financial_health.md).
+ The score's binary structure may oversimplify complex financial realities, potentially ignoring nuanced aspects of a company’s [financial health](../f/financial_health.md).
 
 2. **Limited Criteria [Scope](../s/scope.md):**
-   It covers only a specific set of metrics and may miss other important financial indicators or qualitative aspects that could impact a company's performance.
+ It covers only a specific set of metrics and may miss other important financial indicators or qualitative aspects that could impact a company's performance.
 
 3. **Sensitivity to [Market](../m/market.md) Conditions:**
-   The score was developed in specific [market](../m/market.md) conditions and might not be fully applicable or as effective in different economic environments.
+ The score was developed in specific [market](../m/market.md) conditions and might not be fully applicable or as effective in different economic environments.
 
 4. **One-Size-Fits-All Approach:**
-   The Piotroski Score is applied uniformly across all companies, regardless of [industry](../i/industry.md) or size, which may not be ideal as different industries have different metrics of importance.
+ The Piotroski Score is applied uniformly across all companies, regardless of [industry](../i/industry.md) or size, which may not be ideal as different industries have different metrics of importance.
 
 ## Conclusion
 

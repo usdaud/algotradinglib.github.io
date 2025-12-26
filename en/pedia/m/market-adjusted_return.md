@@ -13,15 +13,15 @@ The importance of [market](../m/market.md)-adjusted [return](../r/return.md) can
 To compute the [market](../m/market.md)-adjusted [return](../r/return.md), follow these steps:
 
 1. **Determine the Period of Evaluation:** Identify the specific period for which you want to calculate the [return](../r/return.md). This could be a week, month, quarter, or year.
-  
+
 2. **Identify the Investment's [Return](../r/return.md):** Calculate the [total return](../t/total_return.md) of the investment over the chosen period. This [total return](../t/total_return.md) includes both [capital](../c/capital.md) gains and dividends or [interest](../i/interest.md) earned.
-  
+
 3. **Identify the [Benchmark](../b/benchmark.md)'s [Return](../r/return.md):** Determine the [return](../r/return.md) of the chosen [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) over the same period. Commonly used benchmarks include the S&P 500, [NASDAQ](../n/nasdaq.md) Composite, or Russell 2000.
 
 4. **Calculate the [Market](../m/market.md)-Adjusted [Return](../r/return.md):** Subtract the [benchmark](../b/benchmark.md)'s [return](../r/return.md) from the investment’s [return](../r/return.md):
-   \[
-   \text{[Market](../m/market.md)-Adjusted [Return](../r/return.md)} = \text{Investment [Return](../r/return.md)} - \text{[Benchmark](../b/benchmark.md) [Return](../r/return.md)}
-   \]
+ \[
+ \text{[Market](../m/market.md)-Adjusted [Return](../r/return.md)} = \text{Investment [Return](../r/return.md)} - \text{[Benchmark](../b/benchmark.md) [Return](../r/return.md)}
+ \]
 
 ### Practical Example
 
@@ -44,9 +44,9 @@ This indicates that XYZ Corp outperformed the [NASDAQ](../n/nasdaq.md) Composite
 [Algorithmic trading](../a/algorithmic_trading.md) involves the use of automated systems and algorithms to execute trades based on pre-defined criteria. [Market](../m/market.md)-adjusted [return](../r/return.md) is particularly useful in this context for several reasons:
 
 1. **[Performance Benchmarking](../p/performance_benchmarking.md):** Algorithms can be designed to seek investments that provide [market](../m/market.md)-adjusted returns exceeding a certain threshold. Using [market](../m/market.md)-adjusted returns ensures the algorithm focuses on truly high-performing assets.
-   
+
 2. **[Risk Management](../r/risk_management.md):** By evaluating [market](../m/market.md)-adjusted returns, algorithms can identify whether superior returns are due to skill in selecting investments or merely a rising [market](../m/market.md), thus aiding in [risk](../r/risk.md) assessment.
-   
+
 3. **Strategy [Optimization](../o/optimization.md):** Continuous feedback from [market](../m/market.md)-adjusted [return](../r/return.md) calculations can improve the [trading algorithms](../t/trading_algorithms.md) by adjusting parameters to focus on strategies with historical success in generating [alpha](../a/alpha.md).
 
 ### Companies Utilizing Market-Adjusted Returns
@@ -54,22 +54,22 @@ This indicates that XYZ Corp outperformed the [NASDAQ](../n/nasdaq.md) Composite
 Many investment firms and [hedge](../h/hedge.md) funds integrate [market](../m/market.md)-adjusted [return](../r/return.md) metrics into their performance evaluation frameworks. Some of these firms include:
 
 - **Bridgewater Associates:** As one of the largest [hedge](../h/hedge.md) funds, Bridgewater uses complex algorithms that incorporate [market](../m/market.md)-adjusted returns to optimize [portfolio performance](../p/portfolio_performance.md).
-  - [Bridgewater Associates](https://www.bridgewater.com/)
+ - Bridgewater Associates
 
 - **Two Sigma:** This investment [firm](../f/firm.md) uses advanced [data analytics](../d/data_analytics.md) and [algorithmic trading](../a/algorithmic_trading.md), leveraging [market](../m/market.md)-adjusted returns to fine-tune their [trading strategies](../t/trading_strategies.md).
-  - [Two Sigma](https://www.twosigma.com/)
+ - Two Sigma
 
 - **Citadel:** Known for its use of [quantitative strategies](../q/quantitative_strategies_in_trading.md), Citadel incorporates [market](../m/market.md)-adjusted [return](../r/return.md) metrics to evaluate and enhance [algorithmic trading](../a/algorithmic_trading.md) performance.
-  - [Citadel](https://www.citadel.com/)
+ - Citadel
 
 ### Market-Adjusted Return vs. Other Metrics
 
 It is important to distinguish [market](../m/market.md)-adjusted [return](../r/return.md) from other popular financial metrics:
 
 - **[Alpha](../a/alpha.md):** While [market](../m/market.md)-adjusted [return](../r/return.md) provides a raw measure of outperformance, [alpha](../a/alpha.md) goes a step further by adjusting for [risk](../r/risk.md). Essentially, [market](../m/market.md)-adjusted [return](../r/return.md) is one component of [alpha](../a/alpha.md).
-  
+
 - **[Sharpe Ratio](../s/sharpe_ratio.md):** This metric assesses the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment, considering both the [return](../r/return.md) relative to a [risk-free asset](../r/risk-free_asset.md) and the investment’s [volatility](../v/volatility.md). The [market](../m/market.md)-adjusted [return](../r/return.md) does not account for [risk](../r/risk.md)-free rates or the investment’s [standard deviation](../s/standard_deviation.md).
-  
+
 - **[Beta](../b/beta.md):** This measures an investment’s sensitivity to [market](../m/market.md) movements. High-[beta](../b/beta.md) investments are more volatile relative to the [market](../m/market.md). [Market](../m/market.md)-adjusted [return](../r/return.md), on the other hand, focuses on the excess returns, irrespective of [volatility](../v/volatility.md) metrics.
 
 ### Limitations
@@ -77,9 +77,9 @@ It is important to distinguish [market](../m/market.md)-adjusted [return](../r/r
 While [market](../m/market.md)-adjusted [return](../r/return.md) is a valuable tool, it comes with limitations:
 
 - **[Benchmark](../b/benchmark.md) Selection:** The choice of [benchmark](../b/benchmark.md) can significantly influence the [market](../m/market.md)-adjusted [return](../r/return.md). Inappropriate [benchmark](../b/benchmark.md) selection may distort performance evaluation.
-  
+
 - **Time Frame:** [Market](../m/market.md) conditions fluctuate, and performance over short periods may not be indicative of long-term potential.
-  
+
 - **External Factors:** Unique events affecting specific securities but not the broader [market](../m/market.md) may skew [market](../m/market.md)-adjusted returns.
 
 ### Conclusion

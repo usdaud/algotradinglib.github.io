@@ -11,9 +11,9 @@ Gekko's [rise and fall](../r/rise_fall.md) are central to the plot of "[Wall Str
 ## Influence on Pop Culture
 
 1. **Catchphrases and Quotes**:
-    - "Greed, for lack of a better word, is good."
-    - "Lunch is for wimps."
-    - "The point is, ladies and gentlemen, that greed, for lack of a better word, is good. Greed is right, greed works. Greed clarifies, cuts through, and captures the essence of the evolutionary spirit."
+ - "Greed, for lack of a better word, is good."
+ - "Lunch is for wimps."
+ - "The point is, ladies and gentlemen, that greed, for lack of a better word, is good. Greed is right, greed works. Greed clarifies, cuts through, and captures the essence of the evolutionary spirit."
 
 2. **Books and Articles**: Gekko's character has been referenced in numerous books and articles on [finance](../f/finance.md), [economics](../e/economics.md), and [business ethics](../b/business_ethics.md). His name has become synonymous with the darker aspects of [Wall Street](../w/wall_street.md) and is frequently cited in discussions about corporate ethics.
 

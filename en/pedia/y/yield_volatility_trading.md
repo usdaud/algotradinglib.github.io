@@ -57,13 +57,13 @@ Effective [risk management](../r/risk_management.md) is critical in [yield volat
 ### Example of Companies in Yield Volatility Trading
 
 #### PIMCO (Pacific Investment Management Company LLC)
-PIMCO is a globally renowned [investment management](../i/investment_management.md) [firm](../f/firm.md) that specializes in fixed-[income](../i/income.md) investments. They employ various [yield volatility](../y/yield_volatility.md) strategies to manage portfolios. More information about PIMCO can be found on their website: [PIMCO](https://www.pimco.com)
+PIMCO is a globally renowned [investment management](../i/investment_management.md) [firm](../f/firm.md) that specializes in fixed-[income](../i/income.md) investments. They employ various [yield volatility](../y/yield_volatility.md) strategies to manage portfolios.
 
 #### BlackRock
-BlackRock is one of the largest [asset management](../a/asset_management.md) firms worldwide, [offering](../o/offering.md) a [range](../r/range.md) of fixed-[income](../i/income.md) funds and investment strategies that incorporate [yield volatility](../y/yield_volatility.md) trading. More information can be found on their website: [BlackRock](https://www.blackrock.com)
+BlackRock is one of the largest [asset management](../a/asset_management.md) firms worldwide, [offering](../o/offering.md) a [range](../r/range.md) of fixed-[income](../i/income.md) funds and investment strategies that incorporate [yield volatility](../y/yield_volatility.md) trading. BlackRock
 
 #### J.P. Morgan Asset Management
-J.P. Morgan [Asset Management](../a/asset_management.md) offers extensive expertise in fixed-[income](../i/income.md) [investing](../i/investing.md), utilizing [yield volatility](../y/yield_volatility.md) trading as part of their broader investment strategies. More details are available on their website: [J.P. Morgan Asset Management](https://am.jpmorgan.com)
+J.P. Morgan [Asset Management](../a/asset_management.md) offers extensive expertise in fixed-[income](../i/income.md) [investing](../i/investing.md), utilizing [yield volatility](../y/yield_volatility.md) trading as part of their broader investment strategies. MoreP. Morgan Asset Management
 
 ### Conclusion
 [Yield volatility](../y/yield_volatility.md) trading is a sophisticated and dynamic approach to [investing](../i/investing.md) in fixed-[income](../i/income.md) markets. It involves understanding the intricacies of [bond](../b/bond.md) yields, [volatility](../v/volatility.md), and the economic factors that drive them. By using various financial instruments and strategies, traders can potentially [profit](../p/profit.md) from changes in [yield volatility](../y/yield_volatility.md) while managing [risk](../r/risk.md). This type of trading requires a deep knowledge of [market](../m/market.md) mechanics, a keen sense of timing, and effective [risk management](../r/risk_management.md) practices.

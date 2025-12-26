@@ -99,4 +99,4 @@ Direct integration with Turkish banks facilitates easy deposits and withdrawals 
 ## Conclusion
 [Binance](../b/binance.md) TR is a [robust](../r/robust.md), secure, and compliant cryptocurrency [trading platform](../t/trading_platform.md) designed to meet the needs of the Turkish [market](../m/market.md). With features like fiat support, high [security](../s/security.md) measures, a user-friendly interface, and competitive fees, it positions itself as a leading choice for cryptocurrency traders and investors in Turkey.
 
-For more detailed information, visit the official [Binance TR website](https://www.trbinance.com/).
+For more detailed information,

@@ -8,26 +8,26 @@ The secondary [market](../m/market.md) is a financial [market](../m/market.md) w
 
 ### Stock Exchanges
 These are centralized platforms where securities are [listed](../l/listed.md) and traded. Major stock exchanges include:
-- **New York Stock [Exchange](../e/exchange.md) (NYSE)**: One of the largest and oldest stock exchanges in the world. (Website: [NYSE](https://www.nyse.com))
-- **[NASDAQ](../n/nasdaq.md)**: Known for its electronic trading system and being [home](../h/home.md) to many tech companies. (Website: [NASDAQ](https://www.nasdaq.com))
-- **London Stock [Exchange](../e/exchange.md) (LSE)**: The primary stock [exchange](../e/exchange.md) in the United Kingdom. (Website: [LSE](https://www.londonstockexchange.com))
-  
+- **New York Stock [Exchange](../e/exchange.md) (NYSE)**: One of the largest and oldest stock exchanges in the world.
+- **[NASDAQ](../n/nasdaq.md)**: Known for its electronic trading system and being [home](../h/home.md) to many tech companies.
+- **London Stock [Exchange](../e/exchange.md) (LSE)**: The primary stock [exchange](../e/exchange.md) in the United Kingdom.
+
 ### Over-The-Counter (OTC) Markets
 Unlike stock exchanges, OTC markets do not have a centralized location and involve direct [trade](../t/trade.md) between parties. Key platforms include:
-- **OTC Markets Group**: Hosts trading for many small and micro-cap companies. (Website: [OTC Markets](https://www.otcmarkets.com))
-  
+- **OTC Markets Group**: Hosts trading for many small and micro-cap companies.
+
 ### Dealer Markets
 In these markets, dealers [hold](../h/hold.md) inventories of certain securities and buy/sell for their own account. Examples include:
 - **[Bond](../b/bond.md) Markets**: Where dealers facilitate the buying and selling of bonds.
-- **[Foreign Exchange](../f/foreign_exchange.md) Markets (Forex)**: Decentralized markets where currencies are traded. (Website: [Forex](https://www.forex.com))
-  
+- **[Foreign Exchange](../f/foreign_exchange.md) Markets (Forex)**: Decentralized markets where currencies are traded.
+
 ### Auction Markets
 These are markets where buyers and sellers congregate at a single venue (physical or electronic) and submit bids and offers through [open outcry](../o/open_outcry.md) or a comparable process. An example is the Treasury auction process for government securities.
 
 ## Key Features of Secondary Markets
 
 ### Liquidity
-Secondary markets provide the [liquidity](../l/liquidity.md) necessary for investors to convert their securities into cash quickly without substantial price changes. 
+Secondary markets provide the [liquidity](../l/liquidity.md) necessary for investors to convert their securities into cash quickly without substantial price changes.
 
 ### Price Discovery
 Through continuous trading, secondary markets help in determining the fair price of securities based on [demand](../d/demand.md) and [supply](../s/supply.md) conditions.
@@ -41,9 +41,9 @@ With active trading, secondary markets ensure efficient allocation of assets and
 ## Regulations and Oversight
 
 Secondary markets are subject to stringent regulations to protect investors and maintain [market](../m/market.md) integrity. Major regulatory bodies include:
-- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Governs the U.S. securities markets. (Website: [SEC](https://www.sec.gov))
-- **Financial Conduct Authority (FCA)**: Regulates the [financial markets](../f/financial_market.md) in the UK. (Website: [FCA](https://www.fca.org.uk))
-- **European Securities and Markets Authority (ESMA)**: Oversees [European Union](../e/european_union_(eu).md) [financial markets](../f/financial_market.md). (Website: [ESMA](https://www.esma.europa.eu))
+- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Governs the U.S. securities markets.
+- **Financial Conduct Authority (FCA)**: Regulates the [financial markets](../f/financial_market.md) in the UK.
+- **European Securities and Markets Authority (ESMA)**: Oversees [European Union](../e/european_union_(eu).md) [financial markets](../f/financial_market.md).
 
 ## Mechanisms and Processes
 
@@ -58,14 +58,14 @@ Stock exchanges have specified trading hours, typically from Monday to Friday. F
 
 ### Clearing and Settlement
 The process involves the transfer of securities and funds between buyers and sellers. Prominent clearinghouses include:
-- **The [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC)**: Provides [clearing](../c/clearing.md), settlement, and information services. (Website: [DTCC](https://www.dtcc.com))
+- **The [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC)**: Provides [clearing](../c/clearing.md), settlement, and information services.
 
 ## Role of Technology
 
 ### Electronic Trading Platforms
 With advancements in technology, many secondary [market](../m/market.md) transactions are executed electronically, enhancing speed and [efficiency](../e/efficiency.md). Examples include:
-- **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md). (Website: [Robinhood](https://www.robinhood.com))
-- **[E*TRADE](../e/e_trade.md)**: Offers extensive tools for electronic trading. (Website: [E*Trade](https://us.etrade.com))
+- **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md).
+- **[E*TRADE](../e/e_trade.md)**: Offers extensive tools for electronic trading.
 
 ### Algorithmic Trading
 Algorithms facilitate automated [trading strategies](../t/trading_strategies.md), optimizing [execution](../e/execution.md) speed and minimizing human intervention. Such systems analyze [market](../m/market.md) conditions and execute trades based on predefined criteria.

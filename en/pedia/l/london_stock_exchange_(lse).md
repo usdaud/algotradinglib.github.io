@@ -21,9 +21,9 @@ The London Stock [Exchange](../e/exchange.md) operates several markets, each wit
 The process of listing on the LSE is rigorous, especially for the Main [Market](../m/market.md). Requirements include:
 
 - **Eligibility Criteria**: Companies must meet specific financial and operational thresholds. For example, they need to demonstrate a certain level of operating history, [revenue](../r/revenue.md), and free [float](../f/float.md).
-  
+
 - **[Prospectus](../p/prospectus.md)**: Companies must prepare a detailed [prospectus](../p/prospectus.md), disclosing [financial performance](../f/financial_performance.md), [business](../b/business.md) strategy, and risks. This document must be approved by the Financial Conduct Authority (FCA).
-  
+
 - **[Corporate Governance](../c/corporate_governance.md)**: Companies must adhere to the UK [Corporate Governance](../c/corporate_governance.md) Code, which outlines [best practices](../b/best_practices.md) in board composition, [shareholder](../s/shareholder.md) relations, and [internal controls](../i/internal_controls.md).
 
 ## Trading Mechanisms
@@ -31,7 +31,7 @@ The process of listing on the LSE is rigorous, especially for the Main [Market](
 The LSE employs a sophisticated trading system combining electronic and traditional methods:
 
 - **SETS (Stock [Exchange](../e/exchange.md) Electronic Trading Service)**: This is the main electronic [order book](../o/order_book.md), handling the bulk of [equity trading](../e/equity_trading.md). It supports both continuous trading and auctions at the start and end of the trading day.
-  
+
 - **SEAQ (Stock [Exchange](../e/exchange.md) Automated [Quotation](../q/quotation.md))**: A [quote](../q/quote.md)-driven system primarily used for less [liquid](../l/liquid.md) [stocks](../s/stock.md), where [market](../m/market.md) makers provide buy and sell prices.
 
 - **[Trade](../t/trade.md) Reporting**: The LSE requires timely and accurate reporting of executed trades to ensure [transparency](../t/transparency.md) and maintain [market](../m/market.md) integrity.
@@ -41,9 +41,9 @@ The LSE employs a sophisticated trading system combining electronic and traditio
 The LSE attracts a diverse [range](../r/range.md) of [market](../m/market.md) participants, including:
 
 - **Institutional Investors**: Such as pension funds, [asset](../a/asset.md) managers, and [insurance](../i/insurance.md) companies, which often [trade](../t/trade.md) large volumes.
-  
+
 - **Retail Investors**: Individuals who buy and sell [shares](../s/shares.md) through brokerage accounts.
-  
+
 - **[Market](../m/market.md) Makers**: Firms that provide [liquidity](../l/liquidity.md) by quoting buy and sell prices.
 
 - **[Hedge](../h/hedge.md) Funds and [Private Equity](../p/private_equity.md) Firms**: Which engage in more sophisticated strategies like [short selling](../s/short_selling.md), [leverage](../l/leverage.md), and [arbitrage](../a/arbitrage.md).
@@ -73,11 +73,11 @@ The LSE operates within a highly regulated environment, overseen by the Financia
 The London Stock [Exchange](../e/exchange.md) plays a vital role in the global [economy](../e/economy.md) by:
 
 - **[Capital](../c/capital.md) Formation**: Providing a platform for companies to raise funds for [expansion](../e/expansion.md), innovation, and other growth initiatives.
-  
+
 - **[Price Discovery](../p/price_discovery.md)**: Facilitating the determination of [asset](../a/asset.md) prices through the collective actions of buyers and sellers.
-  
+
 - **[Liquidity](../l/liquidity.md)**: [Offering](../o/offering.md) a [liquid market](../l/liquid_market.md) where [shares](../s/shares.md) can be easily bought and sold, attracting both domestic and international investors.
-  
+
 - **Economic Indication**: Acting as a barometer for the health of the [economy](../e/economy.md) and corporate sector. Movements in the LSE indices reflect broader economic trends and [investor](../i/investor.md) sentiment.
 
 ## Indices
@@ -114,7 +114,7 @@ Some notable companies [listed](../l/listed.md) on the LSE include:
 
 - **GlaxoSmithKline (GSK)**: A leading pharmaceutical and healthcare company focusing on the development and [distribution](../d/distribution.md) of medicines, vaccines, and consumer healthcare products.
 
-For more detailed information, please visit the official [London Stock Exchange website](https://www.londonstockexchange.com).
+For more detailed information, please
 
 ## Conclusion
 

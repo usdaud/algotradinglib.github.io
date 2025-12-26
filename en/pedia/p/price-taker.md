@@ -44,16 +44,16 @@ In the [long run](../l/long_run.md), the entry and exit of firms in a perfectly 
 ## Real-World Examples of Price-Takers
 
 ### Agricultural Markets
-Individual farmers often have to accept the [market price](../m/market_price.md) for their produce, be it grains, vegetables, or dairy products. Organizations like the Chicago Board of [Trade](../t/trade.md) provide a platform for setting standardized prices for many agricultural commodities. 
-Further details can be viewed on their official website: [Chicago Board of Trade](https://www.cmegroup.com/company/CBOT.html).
+Individual farmers often have to accept the [market price](../m/market_price.md) for their produce, be it grains, vegetables, or dairy products. Organizations like the Chicago Board of [Trade](../t/trade.md) provide a platform for setting standardized prices for many agricultural commodities.
+
 
 ### Individual Traders on Stock Exchanges
-Retail investors engaging in [day trading](../d/day_trading.md) or purchasing stock through brokerages such as TD [Ameritrade](../a/ameritrade.md) or [Robinhood](../r/robinhood.md) are classic price-takers since their individual actions do not substantially affect the stock price. 
-More about these platforms are available on their official pages: [TD Ameritrade](https://www.tdameritrade.com/) and [Robinhood](https://www.robinhood.com/).
+Retail investors engaging in [day trading](../d/day_trading.md) or purchasing stock through brokerages such as TD [Ameritrade](../a/ameritrade.md) or [Robinhood](../r/robinhood.md) are classic price-takers since their individual actions do not substantially affect the stock price.
+More about these platforms are available on their official pages: TD Ameritrade and Robinhood.
 
 ### International Commodity Traders
-Small enterprises engaging in the [trade](../t/trade.md) of international commodities look to the International [Exchange](../e/exchange.md) (ICE) or the London Metal [Exchange](../e/exchange.md) (LME) for price benchmarks. 
-Their official sites can provide deeper insights: [ICE](https://www.theice.com/) and [LME](https://www.lme.com/).
+Small enterprises engaging in the [trade](../t/trade.md) of international commodities look to the International [Exchange](../e/exchange.md) (ICE) or the London Metal [Exchange](../e/exchange.md) (LME) for price benchmarks.
+Their official sites can provide deeper insights: ICE and LME.
 
 ## Conclusion
 Price-takers form a fundamental concept in [economics](../e/economics.md) and [finance](../f/finance.md). These entities, unable to influence [market](../m/market.md) prices, present an essential consideration for understanding [market dynamics](../m/market_dynamics.md), especially in [perfect competition](../p/perfect_competition.md) scenarios. Their presence ensures markets are competitive, efficient, and conducive to fair trading practices. Whether in agricultural markets, financial exchanges, or global commodities, recognizing and analyzing the behavior of price-takers is crucial for both theoretical models and practical applications in economic strategy and policy-making.

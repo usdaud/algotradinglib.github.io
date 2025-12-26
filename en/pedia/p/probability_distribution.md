@@ -1,4 +1,4 @@
-# Probability Distribution 
+# Probability Distribution
 
 A probability [distribution](../d/distribution.md) describes how the values of a random variable are distributed. It provides a mathematical function that gives the probabilities of occurrence of different possible outcomes for an experiment. The probability [distribution](../d/distribution.md) defines whether a variable is discrete, continuous, or both, and it lays the foundation for statistical inference. [Distribution](../d/distribution.md) can be described by probability mass functions (PMFs) for discrete variables or probability density functions (PDFs) for continuous variables.
 
@@ -78,7 +78,7 @@ Example: Assessing the probability of returns from a small sample of investments
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [probability distributions](../p/probability_distributions_in_trading.md) play a crucial role in understanding [risk](../r/risk.md), [return](../r/return.md) distributions, and in the development of [trading strategies](../t/trading_strategies.md):
+In [algorithmic trading](../a/algorithmic_trading.md), [probability distributions](../p/probability_distributions_in_trading.md) play a crucial role in understanding [risk](../r/risk.md), [return](../r/return.md) distributions, and in the development of [trading strategies](../t/trading_strategies.md):
 
 ### Value at Risk (VaR)
 VaR is a statistical technique used to measure the [risk](../r/risk.md) of loss on a specific [portfolio of financial assets](../p/portfolio_of_financial_assets.md). It utilizes the [normal distribution](../n/normal_distribution_in_trading.md) to estimate the potential loss at a given confidence level over a set time period.
@@ -93,7 +93,7 @@ Various [machine learning algorithms](../m/machine_learning_algorithms_in_tradin
 Regime switching models use different [probability distributions](../p/probability_distributions_in_trading.md) to model changes in [market](../m/market.md) regimes. For example, during volatile periods, returns might be modeled using a mixture of normal distributions.
 
 #### References
-- [QuantConnect](../q/quantconnect.md): [QuantConnect](https://www.quantconnect.com/)
-- Alphalgo: [Alphalgo](https://www.alphalgo.space/)
+- [QuantConnect](../q/quantconnect.md): QuantConnect
+- Alphalgo: Alphalgo
 
 By understanding and using different types of [probability distributions](../p/probability_distributions_in_trading.md), traders and financial analysts can create well-informed strategies to optimize their portfolios and enhance their decision-making processes.

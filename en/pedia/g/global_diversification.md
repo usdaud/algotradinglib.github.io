@@ -65,14 +65,14 @@ Several technologies and tools facilitate global [diversification](../d/diversif
 Several advanced trading platforms support [algorithmic trading](../a/algorithmic_trading.md) and global [diversification](../d/diversification.md). Examples include:
 - **MetaTrader 5**: Known for its multi-[asset](../a/asset.md) capabilities, MetaTrader 5 supports trading in various [financial markets](../f/financial_market.md).
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Provides access to numerous markets worldwide with advanced trading tools and API support.
-Link: [Interactive Brokers](https://www.interactivebrokers.com)
+Link: Interactive Brokers
 
 ### Data Providers
 
 Accurate and comprehensive data is crucial for effective [algorithmic trading](../a/algorithmic_trading.md). Prominent data providers include:
 - **[Bloomberg](../b/bloomberg.md)**: Offers extensive financial data, news, and analytics.
 - **[Reuters](../r/reuters.md)**: Provides real-time news and [market](../m/market.md) data feeds.
-Link: [Bloomberg](https://www.bloomberg.com)
+Link: Bloomberg
 
 ### Analytical Tools
 
@@ -87,17 +87,17 @@ Several [hedge](../h/hedge.md) funds and investment firms have successfully impl
 ### Renaissance Technologies
 
 Renaissance Technologies, founded by mathematician James Simons, is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has achieved extraordinary returns through sophisticated algorithms and global [diversification](../d/diversification.md).
-Link: [Renaissance Technologies](https://www.rentec.com)
+Link: Renaissance Technologies
 
 ### Two Sigma
 
 Two Sigma uses advanced technology, including [machine learning](../m/machine_learning.md) and distributed computing, to execute globally diversified [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies a data-driven approach to identify opportunities across various markets and [asset](../a/asset.md) classes.
-Link: [Two Sigma](https://www.twosigma.com)
+Link: Two Sigma
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [capitalize](../c/capitalize.md) on global [market](../m/market.md) inefficiencies. The [firm](../f/firm.md) uses a diversified approach, [investing](../i/investing.md) across equities, [fixed income](../f/fixed_income.md), and alternative assets globally.
-Link: [AQR Capital Management](https://www.aqr.com)
+Link: AQR Capital Management
 
 ## Challenges and Risks
 

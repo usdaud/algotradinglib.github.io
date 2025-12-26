@@ -1,6 +1,6 @@
 # Zero Liability Policy
 
-The Zero [Liability](../l/liability.md) Policy is a [security](../s/security.md) and consumer protection measure implemented by financial institutions, primarily aimed at safeguarding users from unauthorized transactions. These measures are particularly pertinent in the context of the use of [credit](../c/credit.md) cards, [debit](../d/debit.md) cards, and other financial instruments in an era where cybercrime and data breaches are rampant. This policy promises that cardholders [will](../w/will.md) not be held responsible for fraudulent charges, [offering](../o/offering.md) peace of mind and encouraging the broader adoption of digital [payment](../p/payment.md) methods. 
+The Zero [Liability](../l/liability.md) Policy is a [security](../s/security.md) and consumer protection measure implemented by financial institutions, primarily aimed at safeguarding users from unauthorized transactions. These measures are particularly pertinent in the context of the use of [credit](../c/credit.md) cards, [debit](../d/debit.md) cards, and other financial instruments in an era where cybercrime and data breaches are rampant. This policy promises that cardholders [will](../w/will.md) not be held responsible for fraudulent charges, [offering](../o/offering.md) peace of mind and encouraging the broader adoption of digital [payment](../p/payment.md) methods.
 
 ## Fundamentals of Zero Liability Policy
 
@@ -19,7 +19,7 @@ Zero [Liability](../l/liability.md), as the name suggests, means the cardholder 
 
 Visa's Zero [Liability](../l/liability.md) Policy ensures that Visa cardholders are protected from being charged for fraudulent transactions. Whether the [transaction](../t/transaction.md) occurs online or offline, as long as the cardholder reports the unauthorized [transaction](../t/transaction.md) promptly, they are protected.
 
-Visit: [Visa Zero Liability](https://usa.visa.com/support/consumer/security.html)
+Visit: Visa Zero Liability
 
 #### Key Features
 
@@ -31,7 +31,7 @@ Visit: [Visa Zero Liability](https://usa.visa.com/support/consumer/security.html
 
 Similarly, [MasterCard](../m/mastercard.md) provides Zero [Liability](../l/liability.md) Protection for its cardholders. The [MasterCard](../m/mastercard.md) Zero [Liability](../l/liability.md) policy is comprehensive and ensures that cardholders are not responsible for unauthorized transactions.
 
-Visit: [MasterCard Zero Liability](https://www.mastercard.us/en-us/personal/get-support/zero-liability-terms.html)
+Visit: MasterCard Zero Liability
 
 #### Key Features
 
@@ -43,7 +43,7 @@ Visit: [MasterCard Zero Liability](https://www.mastercard.us/en-us/personal/get-
 
 Discover offers similar protections under its Zero [Liability](../l/liability.md) Guarantee. This means Discover cardholders [will](../w/will.md) not be held liable for unauthorized purchases made with their Discover card.
 
-Visit: [Discover Zero Liability](https://www.discover.com/credit-cards/help-center/faqs/security/zero-liability-policy.html)
+Visit: Discover Zero Liability
 
 #### Key Features
 
@@ -89,7 +89,7 @@ In the FinTech space, Zero [Liability](../l/liability.md) Policies are crucial b
 
 ### Influence on Algorithmic Trading
 
-In the domain of [algorithmic trading](../a/accountability.md), Zero [Liability](../l/liability.md) can impact the way trading platforms manage unauthorized transactions and secure trading activities:
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), Zero [Liability](../l/liability.md) can impact the way trading platforms manage unauthorized transactions and secure trading activities:
 
 - **Secure Transactions:** Traders can act with more confidence knowing their transactions are secured under Zero [Liability](../l/liability.md).
 - **[Risk Management](../r/risk_management.md):** Ensures that fraudulent transactions do not impact the [capital](../c/capital.md) retained for trading activities.

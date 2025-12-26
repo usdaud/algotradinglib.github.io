@@ -1,6 +1,6 @@
 # Wei
 
-Wei is the smallest [denomination](../d/denomination.md) of Ether (ETH), which is the native cryptocurrency on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). Understanding the concept of Wei is crucial for anyone involved in [Ethereum](../e/ethereum_.md) transactions, whether they are engaged in trading, development, or any kind of financial activities within the [Ethereum](../e/ethereum_.md) ecosystem. 
+Wei is the smallest [denomination](../d/denomination.md) of Ether (ETH), which is the native cryptocurrency on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). Understanding the concept of Wei is crucial for anyone involved in [Ethereum](../e/ethereum_.md) transactions, whether they are engaged in trading, development, or any kind of financial activities within the [Ethereum](../e/ethereum_.md) ecosystem.
 
 ## Background
 
@@ -14,11 +14,11 @@ Wei allows for high precision when making transactions. Given the fluctuating [v
 
 ### Gas Fees
 
-Transactions on the [Ethereum](../e/ethereum_.md) network require gas, which is a [fee](../f/fee.md) paid in Ether. Gas fees can vary significantly depending on the complexity of the [transaction](../t/transaction.md) and network congestion. Because gas fees can be relatively small, they are often calculated in Wei to maintain precision and accuracy. 
+Transactions on the [Ethereum](../e/ethereum_.md) network require gas, which is a [fee](../f/fee.md) paid in Ether. Gas fees can vary significantly depending on the complexity of the [transaction](../t/transaction.md) and network congestion. Because gas fees can be relatively small, they are often calculated in Wei to maintain precision and accuracy.
 
 ### Smart Contracts
 
-[Smart contracts](../s/smart_contracts_in_trading.md) on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md) often deal with very small amounts of Ether. Using Wei makes it easier to [handle](../h/handle.md) these small amounts programmatically, reducing the chances of rounding errors in calculations. 
+[Smart contracts](../s/smart_contracts_in_trading.md) on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md) often deal with very small amounts of Ether. Using Wei makes it easier to [handle](../h/handle.md) these small amounts programmatically, reducing the chances of rounding errors in calculations.
 
 ## Denominations
 
@@ -65,7 +65,7 @@ print(f"{gwei_amount} Gwei is equal to {wei_amount} Wei")
 
 ### Price Precision
 
-In [algorithmic trading](../a/accountability.md), the precision of price data is crucial. Using Wei ensures that algorithms can [handle](../h/handle.md) and execute trades with high precision, minimizing rounding errors and ensuring accurate [execution](../e/execution.md).
+In [algorithmic trading](../a/algorithmic_trading.md), the precision of price data is crucial. Using Wei ensures that algorithms can [handle](../h/handle.md) and execute trades with high precision, minimizing rounding errors and ensuring accurate [execution](../e/execution.md).
 
 ### Transaction Fees
 
@@ -93,4 +93,4 @@ In the DeFi space, where fractional ownership and small-[value](../v/value.md) t
 
 Wei, as the smallest unit of Ether, plays an indispensable role in the [Ethereum](../e/ethereum_.md) ecosystem by enabling high precision in transactions, [smart contracts](../s/smart_contracts_in_trading.md), and financial calculations. Whether you're a developer, [trader](../t/trader.md), or involved in DeFi, a thorough understanding of Wei can help you manage and execute more accurate and efficient transactions.
 
-For more information on the [Ethereum](../e/ethereum_.md) project and its ecosystem, visit the [official Ethereum website](https://ethereum.org).
+For more information on the [Ethereum](../e/ethereum_.md) project and its ecosystem,

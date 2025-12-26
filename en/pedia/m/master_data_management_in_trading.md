@@ -18,7 +18,7 @@ Master Data Management consists of all the processes, governance, policies, stan
 
 ### 1. **Data Integration**
 
-In trading, data comes from [multiple](../m/multiple.md) sources such as [market](../m/market.md) data providers, trading platforms, internal systems, and more. An MDM system integrates this data, cleansing and aggregating it into a single repository. 
+In trading, data comes from [multiple](../m/multiple.md) sources such as [market](../m/market.md) data providers, trading platforms, internal systems, and more. An MDM system integrates this data, cleansing and aggregating it into a single repository.
 
 ### 2. **Data Quality Management**
 
@@ -104,7 +104,7 @@ Regular monitoring and auditing of the MDM system ensure ongoing data quality an
 
 ### Vendor Selection
 
-Choosing the right technology partner is crucial. Companies like **Informatica** (https://www.informatica.com), **IBM** (https://www.ibm.com), and **Oracle** (https://www.oracle.com) [offer](../o/offer.md) advanced MDM solutions tailored for the trading [industry](../i/industry.md).
+Choosing the right technology partner is crucial. Companies like **Informatica** ( **IBM** ( and **Oracle** ( [offer](../o/offer.md) advanced MDM solutions tailored for the trading [industry](../i/industry.md).
 
 ## Case Study: MDM Implementation in a Trading Firm
 

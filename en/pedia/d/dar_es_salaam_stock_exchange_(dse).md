@@ -101,4 +101,4 @@ The DSE plays a vital role in Tanzania's [economy](../e/economy.md) by:
 
 The Dar es Salaam Stock [Exchange](../e/exchange.md) (DSE) has emerged as a key component of Tanzania's [financial system](../f/financial_system.md), supporting the country's economic development by providing a platform for [capital](../c/capital.md) mobilization and investment. With continued modernization and [expansion](../e/expansion.md), the DSE is well-positioned to contribute to Tanzania's long-term growth and integration into the global [financial markets](../f/financial_market.md).
 
-For more information, you can visit the official website of the Dar es Salaam Stock [Exchange](../e/exchange.md) at [www.dse.co.tz](https://www.dse.co.tz).
+./e/exchange.md) at

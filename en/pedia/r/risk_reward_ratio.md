@@ -1,6 +1,6 @@
 # Risk/Reward Ratio
 
-The [Risk](../r/risk.md)/Reward Ratio (RRR) is a foundational concept in the field of trading and [finance](../f/finance.md) that plays a crucial role in managing investment strategies effectively. It is a metric that quantifies the expected returns of an investment relative to the amount of [risk](../r/risk.md) undertaken to achieve these returns. This ratio helps traders and investors to evaluate the potential profitability of a [trade](../t/trade.md) or investment by comparing the potential gains to the potential losses. A well-understood and properly utilized [Risk](../r/risk.md)/Reward Ratio can significantly enhance decision-making processes, whether in [day trading](../d/day_trading.md), [swing trading](../s/swing_trading.md), long-term [investing](../i/investing.md), or [algorithmic trading](../a/accountability.md).
+The [Risk](../r/risk.md)/Reward Ratio (RRR) is a foundational concept in the field of trading and [finance](../f/finance.md) that plays a crucial role in managing investment strategies effectively. It is a metric that quantifies the expected returns of an investment relative to the amount of [risk](../r/risk.md) undertaken to achieve these returns. This ratio helps traders and investors to evaluate the potential profitability of a [trade](../t/trade.md) or investment by comparing the potential gains to the potential losses. A well-understood and properly utilized [Risk](../r/risk.md)/Reward Ratio can significantly enhance decision-making processes, whether in [day trading](../d/day_trading.md), [swing trading](../s/swing_trading.md), long-term [investing](../i/investing.md), or [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition and Calculation
 
@@ -24,17 +24,17 @@ Understanding the [Risk](../r/risk.md)/Reward Ratio is essential for a variety o
 
 1. **[Risk Management](../r/risk_management.md)**: It helps traders and investors control the amount of [risk](../r/risk.md) they are exposed to. By identifying trades with favorable ratios, they can mitigate potential losses while maximizing profits.
 
-2. **[Trade](../t/trade.md) Evaluation**: It aids in the objective evaluation of trades, bypassing emotional biases that can lead to poor decision-making. 
+2. **[Trade](../t/trade.md) Evaluation**: It aids in the objective evaluation of trades, bypassing emotional biases that can lead to poor decision-making.
 
 3. **Consistency**: It provides a systematic approach to selecting trades, which can result in consistent profitability over the long term.
 
-4. **[Optimization](../o/optimization.md)**: When integrated into an [algorithmic trading](../a/accountability.md) system, the [Risk](../r/risk.md)/Reward Ratio can optimize the performance by filtering out high-[risk](../r/risk.md), low-reward trades.
+4. **[Optimization](../o/optimization.md)**: When integrated into an [algorithmic trading](../a/algorithmic_trading.md) system, the [Risk](../r/risk.md)/Reward Ratio can optimize the performance by filtering out high-[risk](../r/risk.md), low-reward trades.
 
 ## Implementation in Trading Strategies
 
 ### Algorithmic Trading (Algo-Trading)
 
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades based on pre-defined criteria. These algorithms can integrate the [Risk](../r/risk.md)/Reward Ratio to enhance the decision-making process.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades based on pre-defined criteria. These algorithms can integrate the [Risk](../r/risk.md)/Reward Ratio to enhance the decision-making process.
 
 1. **[Backtesting](../b/backtesting.md)**: Prior to live trading, algorithms can be back-tested to evaluate their performance based on historical data, optimizing the [Risk](../r/risk.md)/Reward Ratios to find the most profitable trades.
 
@@ -46,7 +46,7 @@ Understanding the [Risk](../r/risk.md)/Reward Ratio is essential for a variety o
 
 Financial technology (FinTech) innovations often incorporate [Risk](../r/risk.md)/Reward assessment tools to assist investors in making better decisions. Examples include:
 
-1. **Robo-Advisors**: These automated platforms use algorithms to create and manage investment portfolios. They often utilize the [Risk](../r/risk.md)/Reward Ratio to align with the [investor](../i/investor.md)'s [risk tolerance](../r/risk_tolerance.md) and financial goals. 
+1. **Robo-Advisors**: These automated platforms use algorithms to create and manage investment portfolios. They often utilize the [Risk](../r/risk.md)/Reward Ratio to align with the [investor](../i/investor.md)'s [risk tolerance](../r/risk_tolerance.md) and financial goals.
 
 2. **Mobile Trading Apps**: Many trading apps [offer](../o/offer.md) built-in tools for calculating the [Risk](../r/risk.md)/Reward Ratio, allowing users to evaluate trades on-the-go.
 

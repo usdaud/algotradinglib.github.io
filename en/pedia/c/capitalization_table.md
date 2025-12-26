@@ -29,7 +29,7 @@ A comprehensive Cap Table typically includes:
 
 Managing a Cap Table can become complex as the number of shareholders increases and the company grows. Proper management involves:
 
-1. **[Software Tools](../s/software_tools_for_trading.md)**: Leveraging specialized [software tools](../s/software_tools_for_trading.md) like [Carta](https://carta.com), [Capshare](https://capshare.com), or [Gust](https://www.gust.com) can simplify the process of Cap Table management.
+1. **[Software Tools](../s/software_tools_for_trading.md)**: Leveraging specialized [software tools](../s/software_tools_for_trading.md) like Carta, Capshare, or Gust can simplify the process of Cap Table management.
 2. **Regular Updates**: Ensuring the Cap Table is regularly updated to reflect any changes such as issuing new [shares](../s/shares.md), transferring [shares](../s/shares.md), or exercising [options](../o/options.md).
 3. **Professional Assistance**: Seeking assistance from financial advisors or legal professionals to maintain accuracy and compliance.
 
@@ -39,10 +39,10 @@ Here's an example of a simple Cap Table in Excel format:
 
 | [Shareholder](../s/shareholder.md) Name | Type of Share | Number of [Shares](../s/shares.md) | % Ownership |
 |------------------|---------------|------------------|-------------|
-| Founder 1        | Common        | 1,000,000        | 50%         |
-| Founder 2        | Common        | 1,000,000        | 50%         |
-| [Investor](../i/investor.md) A       | Preferred     | 500,000          | 25%         |
-| Employee Pool    | [Option Pool](../o/option_pool.md)   | 200,000          | 10%         |
+| Founder 1 | Common | 1,000,000 | 50% |
+| Founder 2 | Common | 1,000,000 | 50% |
+| [Investor](../i/investor.md) A | Preferred | 500,000 | 25% |
+| Employee Pool | [Option Pool](../o/option_pool.md) | 200,000 | 10% |
 
 ### Key Events Impacting the Cap Table
 
@@ -64,13 +64,13 @@ Assume a company, Tech Innovators Inc., is planning to raise a Series A round of
 
 #### Pre-Money Cap Table:
 
-| [Shareholder](../s/shareholder.md)      | Number of [Shares](../s/shares.md) | % Ownership |
+| [Shareholder](../s/shareholder.md) | Number of [Shares](../s/shares.md) | % Ownership |
 |------------------|------------------|-------------|
-| Founder A        | 2,000,000        | 50%         |
-| Founder B        | 1,000,000        | 25%         |
-| Employee Stock [Options](../o/options.md) | 500,000    | 12.5%       |
-| Angel Investors  | 500,000          | 12.5%       |
-| **Total**        | **4,000,000**    | **100%**    |
+| Founder A | 2,000,000 | 50% |
+| Founder B | 1,000,000 | 25% |
+| Employee Stock [Options](../o/options.md) | 500,000 | 12.5% |
+| Angel Investors | 500,000 | 12.5% |
+| **Total** | **4,000,000** | **100%** |
 
 Upon completion of the Series A round:
 
@@ -80,14 +80,14 @@ Upon completion of the Series A round:
 
 #### Post-Money Cap Table:
 
-| [Shareholder](../s/shareholder.md)      | Number of [Shares](../s/shares.md) | % Ownership |
+| [Shareholder](../s/shareholder.md) | Number of [Shares](../s/shares.md) | % Ownership |
 |------------------|------------------|-------------|
-| Founder A        | 2,000,000        | 40%         |
-| Founder B        | 1,000,000        | 20%         |
-| Employee Stock [Options](../o/options.md) | 500,000    | 10%         |
-| Angel Investors  | 500,000          | 10%         |
-| Series A Investors | 1,250,000      | 20%         |
-| **Total**        | **5,000,000**    | **100%**    |
+| Founder A | 2,000,000 | 40% |
+| Founder B | 1,000,000 | 20% |
+| Employee Stock [Options](../o/options.md) | 500,000 | 10% |
+| Angel Investors | 500,000 | 10% |
+| Series A Investors | 1,250,000 | 20% |
+| **Total** | **5,000,000** | **100%** |
 
 The Series A investors now own 20% of the company post-[financing](../f/financing.md), while the existing shareholders' percentages have been diluted accordingly.
 
@@ -95,9 +95,9 @@ The Series A investors now own 20% of the company post-[financing](../f/financin
 
 Several tools can greatly enhance the ease of managing Cap Tables:
 
-1. **Carta**: Offers comprehensive Cap Table management, valuations, and compliance features. More information at [Carta](https://carta.com).
-2. **Capshare**: Focused on simplifying [equity](../e/equity.md) management and [offering](../o/offering.md) detailed analytics. Visit [Capshare](https://capshare.com) for more details.
-3. **Gust [Equity](../e/equity.md) Management**: Designed for startups to manage their [equity](../e/equity.md). More at [Gust](https://www.gust.com).
+1. **Carta**: Offers comprehensive Cap Table management, valuations, and compliance features. More information at Carta.
+2. **Capshare**: Focused on simplifying [equity](../e/equity.md) management and [offering](../o/offering.md) detailed analytics. Visit Capshare for more details.
+3. **Gust [Equity](../e/equity.md) Management**: Designed for startups to manage their [equity](../e/equity.md). More at Gust.
 
 Managing a Cap Table effectively ensures that all stakeholders have a transparent view of the company's [equity](../e/equity.md) structure, which is crucial for strategic planning and decision-making.
 

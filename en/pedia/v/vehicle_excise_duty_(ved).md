@@ -86,4 +86,4 @@ The digitization of VED administration, including online registration and [payme
 
 Vehicle Excise Duty remains a crucial component of the UK's road transport system, funding [infrastructure](../i/infrastructure.md) while incentivizing environmentally conscious choices. Its evolving structure reflects broader policy objectives and technological advancements, making it essential for stakeholders to stay informed about changes and their implications. Whether you're an individual vehicle owner or a [business](../b/business.md) fleet manager, understanding VED is key to ensuring compliance, optimizing costs, and contributing to sustainable transport solutions.
 
-For more specific details and current VED rates, you can visit the official UK government page on [Vehicle Tax Rates](https://www.gov.uk/vehicle-tax-rate-tables).
+For more specific details and current VED rates, you can

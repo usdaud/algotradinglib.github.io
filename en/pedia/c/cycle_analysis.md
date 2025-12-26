@@ -50,12 +50,11 @@ John Ehlers is recognized for pioneering the application of [signal processing](
 ### J.P. Morgan's Quantitative Research Group
 J.P. Morgan's [Quantitative Research](../q/quantitative_research.md) Group applies cycle analysis alongside other advanced modeling techniques to develop sophisticated [trading strategies](../t/trading_strategies.md). Their research often blends traditional financial theory with modern computational techniques to identify and [capitalize](../c/capitalize.md) on cyclical patterns in the markets.
 
-[Visit J.P. Morgan's Quantitative Research Group](https://www.jpmorgan.com/global/research)
+Visit J.P. Morgan's Quantitative Research Group
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools and resources for developing [quantitative trading](../q/quantitative_trading.md) strategies, including those based on cycle analysis. The platform supports [backtesting](../b/backtesting.md) and live trading, enabling traders to refine and implement their cycle-based strategies.
+### StockSharp
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools and resources for developing [quantitative trading](../q/quantitative_trading.md) strategies, including those based on cycle analysis. The platform supports [backtesting](../b/backtesting.md) and live trading, enabling traders to refine and implement their cycle-based strategies.
 
-[Visit QuantConnect](https://www.quantconnect.com)
 
 ## Challenges and Limitations of Cycle Analysis
 

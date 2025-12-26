@@ -61,10 +61,7 @@ Stablecoins are digital currencies that are pegged to the [value](../v/value.md)
 
 Innovative financial technology companies such as [PayPal](../p/paypal.md), Square, and Stripe integrate USD into their platforms to facilitate seamless digital payments across borders. These platforms [leverage](../l/leverage.md) the stability of the USD to provide a trusted medium for global transactions.
 
-- **[PayPal](../p/paypal.md):** [https://www.paypal.com/](https://www.paypal.com/)
-- **Square:** [https://squareup.com/](https://squareup.com/)
-- **Stripe:** [https://stripe.com/](https://stripe.com/)
-
+- **[PayPal](../p/paypal.md):** - **Square:** - **Stripe:**
 ### Decentralized Finance (DeFi)
 
 Decentralized [finance](../f/finance.md) applications allow users to lend, borrow, and earn [interest](../i/interest.md) on their USD [holdings](../h/holdings.md) through [blockchain](../b/blockchain_in_trading.md) technology. Platforms like Compound and Aave provide financial services that mimic those of traditional banking without intermediaries.

@@ -1,6 +1,6 @@
 # Margin Debt
 
-In the realm of [finance](../f/finance.md) and trading, "[margin](../m/margin.md) [debt](../d/debt.md)" is a term that frequently surfaces, particularly among those engaging in leveraged trading activities. [Margin](../m/margin.md) [debt](../d/debt.md) represents the amount of [money](../m/money.md) that investors borrow from a [broker](../b/broker.md) to purchase securities. This borrowed [money](../m/money.md) can potentially amplify the returns of investments, but it also introduces a higher level of [risk](../r/risk.md). This document aims to delve deeply into the concept, mechanics, benefits, risks, and broader implications of [margin](../m/margin.md) [debt](../d/debt.md), especially in the context of modern trading practices like [algorithmic trading](../a/accountability.md) (algo-trading) and the financial technology (fintech) landscape.
+In the realm of [finance](../f/finance.md) and trading, "[margin](../m/margin.md) [debt](../d/debt.md)" is a term that frequently surfaces, particularly among those engaging in leveraged trading activities. [Margin](../m/margin.md) [debt](../d/debt.md) represents the amount of [money](../m/money.md) that investors borrow from a [broker](../b/broker.md) to purchase securities. This borrowed [money](../m/money.md) can potentially amplify the returns of investments, but it also introduces a higher level of [risk](../r/risk.md). This document aims to delve deeply into the concept, mechanics, benefits, risks, and broader implications of [margin](../m/margin.md) [debt](../d/debt.md), especially in the context of modern trading practices like [algorithmic trading](../a/algorithmic_trading.md) (algo-trading) and the financial technology (fintech) landscape.
 
 ## What is Margin Debt?
 
@@ -11,7 +11,7 @@ The amount borrowed, known as the [margin](../m/margin.md) [debt](../d/debt.md),
 ## How Margin Debt Works
 
 1. **Opening a [Margin Account](../m/margin_account.md)**: To start borrowing on [margin](../m/margin.md), an [investor](../i/investor.md) first needs to [open](../o/open.md) a [margin account](../m/margin_account.md) with their brokerage [firm](../f/firm.md). This requires an agreement to terms and conditions that outline how [margin trading](../m/margin_trading.md) works and the risks involved.
-   
+
 2. **[Initial Margin](../i/initial_margin.md) Requirement**: When purchasing securities on [margin](../m/margin.md), the [investor](../i/investor.md) must meet the [initial margin](../i/initial_margin.md) requirement, which is set by the Federal Reserve and enforced by brokerage firms. This typically means that the [investor](../i/investor.md) needs to [deposit](../d/deposit.md) at least 50% of the purchase price of the securities.
 
 3. **[Maintenance Margin](../m/maintenance_margin.md)**: After the purchase, the brokerage [firm](../f/firm.md) sets a [maintenance margin](../m/maintenance_margin.md) requirement, often around 25%. If the [equity](../e/equity.md) in the [margin account](../m/margin_account.md) falls below this level due to a decline in the [market value](../m/market_value.md) of the securities, a [margin call](../m/margin_call.md) is triggered.
@@ -52,7 +52,7 @@ The increased [volatility](../v/volatility.md) and potential for large losses ca
 
 ## Margin Debt in Algo-Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computers programmed to follow a defined set of instructions for placing trades in [order](../o/order.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md). [Margin](../m/margin.md) [debt](../d/debt.md) can play a significant role in this area, allowing algorithms to [leverage](../l/leverage.md) positions more effectively.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computers programmed to follow a defined set of instructions for placing trades in [order](../o/order.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md). [Margin](../m/margin.md) [debt](../d/debt.md) can play a significant role in this area, allowing algorithms to [leverage](../l/leverage.md) positions more effectively.
 
 ### Speed and Efficiency
 
@@ -124,10 +124,10 @@ During the 2008 [financial crisis](../f/financial_crisis.md), high levels of [le
 
 ### Useful References
 
-- [ETrade Margin Accounts](https://us.etrade.com/what-we-offer/our-accounts/margin-trading)
-- [Interactive Brokers Margin Trading](https://www.interactivebrokers.com/en/index.php?f=margin&p=overview)
-- [SEC Margin Rules](https://www.sec.gov/fast-answers/answersmarginhtm.html)
-- [FINRA Margin FAQ](https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-trading)
-- [Robinhood Margin Investing](https://robinhood.com/us/en/support/articles/margin/)
+- ETrade Margin Accounts
+- Interactive Brokers Margin Trading
+- SEC Margin Rules
+- FINRA Margin FAQ
+- Robinhood Margin Investing
 
 In summary, [margin](../m/margin.md) [debt](../d/debt.md) is a double-edged sword in the world of trading and [finance](../f/finance.md). While it offers the potential for enhanced returns, it also introduces significant risks that must be carefully considered and managed. As trading practices continue to evolve with advancements in technology, the role and impact of [margin](../m/margin.md) [debt](../d/debt.md) [will](../w/will.md) remain a critical area of focus for investors, regulators, and financial institutions alike.

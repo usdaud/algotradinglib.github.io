@@ -120,9 +120,9 @@ Support activities enable the core processes in the [financial sector](../f/fina
 
 Fintech, a portmanteau of "financial technology," describes emerging technology that is used to improve and automate the delivery and use of financial services. Notable fintech companies include:
 
-- **Stripe**: Aims to reduce the complexity of online [payment](../p/payment.md) processes (`https://stripe.com`).
-- **Square**: Allows businesses to accept card payments easily (`https://squareup.com`).
-- **[Robinhood](../r/robinhood.md)**: Provides [commission](../c/commission.md)-free trading services (`https://[robinhood](../r/robinhood.md).com`).
+- **Stripe**: Aims to reduce the complexity of online [payment](../p/payment.md) processes (`
+- **Square**: Allows businesses to accept card payments easily `
+- **[Robinhood](../r/robinhood.md)**: Provides [commission](../c/commission.md)-free trading services (`
 
 Fintech companies optimize various stages of the financial [value](../v/value.md) chain—particularly focusing on reducing costs, enhancing [customer](../c/customer.md) experiences, and introducing innovative financial products. Key areas impacted by fintech include:
 

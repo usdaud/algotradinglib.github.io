@@ -57,7 +57,7 @@ Using Python, a simple [pattern recognition](../p/pattern_recognition.md) algori
 Before deploying [triangle](../t/triangle.md) pattern-based strategies in live markets, it is crucial to backtest them using historical price data. This involves simulating trades to evaluate the performance and adjust the parameters for optimal results.
 
 ##### Backtesting Tools:
-- **[QuantConnect](../q/quantconnect.md):** A cloud-based [trading platform](../t/trading_platform.md) [offering](../o/offering.md) comprehensive [backtesting](../b/backtesting.md) tools.
+- **[StockSharp](../s/stocksharp.md):** A [trading platform](../t/trading_platform.md) [offering](../o/offering.md) comprehensive [backtesting](../b/backtesting.md) tools.
 - **Zipline:** An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library in Python.
 
 #### 3. Risk Management
@@ -77,7 +77,7 @@ Several platforms and tools facilitate the implementation of [triangle](../t/tri
 
 - **[TradingView](../t/tradingview.md):** A popular charting tool with powerful scripting capabilities to develop custom indicators and strategies.
 - **MetaTrader 4/5:** A versatile [trading platform](../t/trading_platform.md) with [algorithmic trading](../a/algorithmic_trading.md) features using the MQL4/MQL5 languages.
-- **[QuantConnect](../q/quantconnect.md):** Offers a collaborative environment for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **[StockSharp](../s/stocksharp.md):** Offers a collaborative environment for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Real-world Applications and Case Studies
 
@@ -85,13 +85,13 @@ Several platforms and tools facilitate the implementation of [triangle](../t/tri
 
 Renaissance Technologies, founded by Jim Simons in 1982, is a prominent [hedge fund](../h/hedge_fund.md) known for its use of [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. The [firm](../f/firm.md) leverages various [pattern recognition](../p/pattern_recognition.md) techniques, including [triangle patterns](../t/triangle_patterns_in_trading.md), to generate substantial returns.
 
-- **Renaissance Technologies**: [Website](https://www.rentec.com)
+- **Renaissance Technologies**
 
 #### Case Study 2: Two Sigma
 
 Two Sigma Investments, another leading [hedge fund](../h/hedge_fund.md), harnesses [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze [market](../m/market.md) patterns, including [triangle](../t/triangle.md) formations, to predict price movements.
 
-- **Two Sigma Investments**: [Website](https://www.twosigma.com)
+- **Two Sigma Investments**
 
 ### Conclusion
 

@@ -95,7 +95,7 @@ Fintech companies are revolutionizing the landscape of financial services by lev
 
 ### Robo-Advisors
 
-- **Management Fees:** Typically charge a percentage of assets under management (AUM) for providing automated investment advice. 
+- **Management Fees:** Typically charge a percentage of assets under management (AUM) for providing automated investment advice.
 - **Trading Fees:** Some robo-advisors might include [trading costs](../t/trading_costs.md) within their management fees, while others may pass these costs onto the user.
 
 ### Lending Platforms
@@ -136,9 +136,9 @@ Some institutions, particularly for high-net-worth individuals or businesses, ma
 [Transaction](../t/transaction.md) fees are an unavoidable aspect of financial transactions but can be managed effectively with proper understanding and strategy. From trading [stocks](../s/stock.md) and bonds to converting currencies and buying cryptocurrencies, [transaction](../t/transaction.md) fees play an integral role. By staying informed and applying smart tactics to minimize these fees, both individuals and businesses can optimize their financial operations and improve their overall [financial health](../f/financial_health.md).
 
 For more information, you may visit the websites of leading financial institutions and fintech companies:
-- [E*TRADE](https://us.etrade.com/home)
-- [Robinhood](https://robinhood.com/us/en/)
-- [Coinbase](https://www.coinbase.com/)
-- [Stripe](https://stripe.com/)
+- E*TRADE
+- Robinhood
+- Coinbase
+- Stripe
 
 Understanding and strategizing around [transaction](../t/transaction.md) fees can lead to significant cost savings and more efficient financial management, whether you're an individual [trader](../t/trader.md), a [business](../b/business.md), or a fintech enterprise.

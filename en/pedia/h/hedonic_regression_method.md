@@ -10,13 +10,13 @@ Hedonic regression seeks to determine the implicit prices of individual attribut
 
 The [hedonic pricing](../h/hedonic_pricing.md) model can be represented mathematically as follows:
 
-\[ P_i = \[alpha](../a/alpha.md) + \beta_1X_{1i} + \beta_2X_{2i} + ... + \beta_kX_{ki} + \epsilon_i \]
+\[ P_i = \[alpha](../a/alpha.md) + \beta_1X_{1i} + \beta_2X_{2i} +... + \beta_kX_{ki} + \epsilon_i \]
 
 Where:
 
 - \( P_i \) is the price of the \( i \)-th product.
-- \( X_{1i}, X_{2i}, ..., X_{ki} \) are the characteristics of the \( i \)-th product.
-- \( \beta_1, \beta_2, ..., \beta_k \) are the coefficients representing the [value](../v/value.md) of each characteristic.
+- \( X_{1i}, X_{2i},..., X_{ki} \) are the characteristics of the \( i \)-th product.
+- \( \beta_1, \beta_2,..., \beta_k \) are the coefficients representing the [value](../v/value.md) of each characteristic.
 - \( \[alpha](../a/alpha.md) \) is the intercept.
 - \( \epsilon_i \) is the [error term](../e/error_term.md), capturing unobserved factors that influence the price.
 
@@ -83,7 +83,7 @@ While traditional [linear regression](../l/linear_regression.md) is a common sta
 
 To address non-linear relationships, polynomial regressions or log-transformed variables can be used. For instance, the log-linear model can be represented as:
 
-\[ \ln(P_i) = \[alpha](../a/alpha.md) + \beta_1X_{1i} + \beta_2X_{2i} + ... + \beta_kX_{ki} + \epsilon_i \]
+\[ \ln(P_i) = \[alpha](../a/alpha.md) + \beta_1X_{1i} + \beta_2X_{2i} +... + \beta_kX_{ki} + \epsilon_i \]
 
 This transformation can stabilize variance and make the relationship between variables more linear.
 

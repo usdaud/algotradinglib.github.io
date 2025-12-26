@@ -117,4 +117,4 @@ Firms like Optiver and IMC engage in HFT, using their [proprietary algorithms](.
 The Australian Securities [Exchange](../e/exchange.md) (ASX) plays a crucial role in Australia's [financial markets](../f/financial_market.md), serving as a hub for various [market](../m/market.md) activities ranging from [equity trading](../e/equity_trading.md) to [fixed income](../f/fixed_income.md) and [derivatives](../d/derivatives.md). The advent and proliferation of [algorithmic trading](../a/accountability.md) have further transformed the nature of transactions on ASX, bringing speed and [efficiency](../e/efficiency.md) to the forefront. With its [robust](../r/robust.md) regulatory framework, cutting-edge technology, and diverse product offerings, ASX continues to be a dynamic and integral part of the global financial landscape.
 
 For more information:
-- Visit the [ASX official website](https://www2.asx.com.au/)
+-

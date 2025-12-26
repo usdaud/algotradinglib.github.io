@@ -46,12 +46,10 @@ In [quote](../q/quote.md)-driven markets, orders from buyers and sellers are fun
 #### NASDAQ
 [NASDAQ](../n/nasdaq.md) is one of the most well-known examples of a [quote-driven market](../q/quote-driven_market.md). It operates through a network of [market](../m/market.md) makers who [trade](../t/trade.md) securities [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 
-- **Website**: [NASDAQ](https://www.nasdaq.com)
 
 #### London Stock Exchange (LSE)
 The London Stock [Exchange](../e/exchange.md) also employs a [quote](../q/quote.md)-driven system, particularly for less [liquid](../l/liquid.md) securities.
 
-- **Website**: [LSE](https://www.londonstockexchange.com)
 
 ### Technological Advancements in Quote Driven Markets
 
@@ -76,12 +74,10 @@ ECNs are automated systems that match buy and sell orders for securities. They c
 #### Securities and Exchange Commission (SEC)
 In the United States, the SEC regulates securities markets, including [quote](../q/quote.md)-driven markets. It enforces rules designed to protect investors and ensure [market](../m/market.md) integrity.
 
-- **Website**: [SEC](https://www.sec.gov)
 
 #### Financial Conduct Authority (FCA)
 In the United Kingdom, the FCA oversees [financial markets](../f/financial_market.md), including [quote](../q/quote.md)-driven markets. It ensures that markets operate in a fair, transparent, and efficient manner.
 
-- **Website**: [FCA](https://www.fca.org.uk)
 
 ### Conclusion
 

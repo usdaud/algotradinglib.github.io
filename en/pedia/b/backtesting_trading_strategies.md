@@ -54,29 +54,29 @@ To avoid [overfitting](../o/overfitting.md), where a strategy performs exception
 There are numerous tools and platforms available for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Each has its own set of features, advantages, and limitations. Some popular [backtesting](../b/backtesting.md) tools include:
 
 ### MetaTrader
-MetaTrader provides built-in [backtesting](../b/backtesting.md) capabilities using historical data. It supports both automated [trading strategies](../t/trading_strategies.md) (Expert Advisors) and manual strategies. 
+MetaTrader provides built-in [backtesting](../b/backtesting.md) capabilities using historical data. It supports both automated [trading strategies](../t/trading_strategies.md) (Expert Advisors) and manual strategies.
 
-More details: [MetaTrader](https://www.metatrader4.com/).
+More details: MetaTrader.
 
 ### QuantConnect
 An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows [backtesting](../b/backtesting.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes like equities, forex, and cryptocurrencies. It supports C#, Python, and F#.
 
-More details: [QuantConnect](https://www.quantconnect.com/).
+More details: QuantConnect.
 
 ### TradingView
 Apart from being a charting platform, [TradingView](../t/tradingview.md) offers Pine Script, a scripting language for building and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
-More details: [TradingView](https://www.tradingview.com/).
+More details: TradingView.
 
 ### Zipline
-A Pythonic [algorithmic trading](../a/algorithmic_trading.md) library, powering the Quantopian platform. It is designed for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
+A Pythonic [algorithmic trading](../a/algorithmic_trading.md) library, originally developed for the Quantopian platform (which closed in November 2020). It remains a popular choice for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) and is now community-maintained.
 
-More details: [Zipline](https://www.zipline.io/).
+More details: Zipline.
 
 ### Backtrader
 A Python library for [backtesting](../b/backtesting.md) for [trading strategies](../t/trading_strategies.md). It’s highly flexible and supports [multiple](../m/multiple.md) data sources and quick iterations.
 
-More details: [Backtrader](https://www.backtrader.com/).
+More details: Backtrader.
 
 ## Challenges in Backtesting
 

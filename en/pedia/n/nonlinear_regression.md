@@ -76,7 +76,7 @@ Nonlinear regression models help quantify and predict [risk](../r/risk.md), part
 
 ## Algorithmic Trading
 
-Nonlinear models are integral to [algorithmic trading](../a/accountability.md), where trading decisions are made based on predefined criteria often derived from complex models. Nonlinear regression enhances the ability to detect patterns in historical data and forecast future price movements more accurately than [linear models](../l/linear_models_in_trading.md).
+Nonlinear models are integral to [algorithmic trading](../a/algorithmic_trading.md), where trading decisions are made based on predefined criteria often derived from complex models. Nonlinear regression enhances the ability to detect patterns in historical data and forecast future price movements more accurately than [linear models](../l/linear_models_in_trading.md).
 
 ## Fintech and Machine Learning
 
@@ -126,4 +126,4 @@ This example demonstrates how to fit a nonlinear exponential model to data using
 
 ## Conclusion
 
-Nonlinear regression is a powerful statistical tool for modeling complex relationships that cannot be captured by [linear models](../l/linear_models_in_trading.md). Its applications in [finance](../f/finance.md), trading, [algorithmic trading](../a/accountability.md), and fintech are extensive, providing significant insights and predictive power. By leveraging modern computational tools and software, practitioners can implement and benefit from advanced nonlinear [regression techniques](../r/regression_techniques.md) to enhance decision-making and [forecasting](../f/forecasting.md) accuracy.
+Nonlinear regression is a powerful statistical tool for modeling complex relationships that cannot be captured by [linear models](../l/linear_models_in_trading.md). Its applications in [finance](../f/finance.md), trading, [algorithmic trading](../a/algorithmic_trading.md), and fintech are extensive, providing significant insights and predictive power. By leveraging modern computational tools and software, practitioners can implement and benefit from advanced nonlinear [regression techniques](../r/regression_techniques.md) to enhance decision-making and [forecasting](../f/forecasting.md) accuracy.

@@ -7,25 +7,25 @@ The 10-day Exponential Moving Average (EMA) is a type of moving average used in 
 The formula for the EMA involves both a smoothing [factor](../f/factor.md) and the previous EMA [value](../v/value.md). Here's a step-by-step breakdown:
 
 1. **Determine the smoothing constant (α)**:
-   \[
-   \[alpha](../a/alpha.md) = \frac{2}{N + 1}
-   \]
-   For a 10-day EMA, \( N = 10 \):
-   \[
-   \[alpha](../a/alpha.md) = \frac{2}{10 + 1} = \frac{2}{11} \approx 0.1818
-   \]
+ \[
+ \[alpha](../a/alpha.md) = \frac{2}{N + 1}
+ \]
+ For a 10-day EMA, \( N = 10 \):
+ \[
+ \[alpha](../a/alpha.md) = \frac{2}{10 + 1} = \frac{2}{11} \approx 0.1818
+ \]
 
 2. **Calculate the initial SMA (Simple Moving Average)**:
-   The initial EMA [value](../v/value.md) is often calculated using the SMA over the same period, which is the sum of the first 10 closing prices divided by 10.
-   
-   \[
-   SMA = \frac{P_1 + P_2 + P_3 + \ldots + P_{10}}{10}
-   \]
+ The initial EMA [value](../v/value.md) is often calculated using the SMA over the same period, which is the sum of the first 10 closing prices divided by 10.
+
+ \[
+ SMA = \frac{P_1 + P_2 + P_3 + \ldots + P_{10}}{10}
+ \]
 
 3. **Subsequent EMA values**:
-   \[
-   EMA_{today} = \left( P_{today} - EMA_{yesterday} \right) \times \[alpha](../a/alpha.md) + EMA_{yesterday}
-   \]
+ \[
+ EMA_{today} = \left( P_{today} - EMA_{yesterday} \right) \times \[alpha](../a/alpha.md) + EMA_{yesterday}
+ \]
 
 Where:
 - \(P_{today}\) is the current closing price.
@@ -88,13 +88,13 @@ For subsequent days, the EMA would be iteratively calculated using the closing p
 
 ### Trading Platforms
 Several trading platforms provide built-in tools to calculate and visualize the 10-day EMA:
-- [MetaTrader](https://www.metatrader4.com)
-- [TradingView](https://www.tradingview.com)
-- [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [NinjaTrader](https://ninjatrader.com)
+- MetaTrader
+- TradingView
+- Thinkorswim by TD Ameritrade (now Charles Schwab, acquired in September 2023)
+- NinjaTrader
 
 ### Custom Implementations
-For custom implementations, traders can use programming languages such as Python, R, or MATLAB to calculate and analyze the 10-day EMA. 
+For custom implementations, traders can use programming languages such as Python, R, or MATLAB to calculate and analyze the 10-day EMA.
 
 Here's a simple Python example using the Pandas library:
 
@@ -120,4 +120,4 @@ The 10-day EMA is best-suited for short-term analysis. For longer-term trends, t
 
 ## Conclusion
 
-The 10-day EMA is a powerful yet simple tool that helps traders smooth out short-term price fluctuations and identify potential buy or sell signals. While it has its limitations, combining the 10-day EMA with other [technical indicators](../t/technical_indicators.md) and conducting thorough [backtesting](../b/backtesting.md) can enhance its efficacy in [trading strategies](../t/trading_strategies.md).
+The 10-day EMA is a powerful yet simple tool that helps traders smooth out short-term price fluctuations and identify potential buy or sell signals. While it has its limitations, combining the 10-day EMA with other [technical indicators](../t/technical_indicators.md) and conducting thorough [backtesting](../b/backtesting.md) can enhance its efficacy in [trading strategies](../t/trading_strategies.md).

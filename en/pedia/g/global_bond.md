@@ -5,9 +5,9 @@ A **global [bond](../b/bond.md)** is a type of [bond](../b/bond.md) that is issu
 ## Characteristics of Global Bonds
 
 ### 1. Dual Listing
-Global bonds are typically [listed](../l/listed.md) on [multiple](../m/multiple.md) securities exchanges. This allows international investors to [trade](../t/trade.md) these bonds conveniently and ensures greater [liquidity](../l/liquidity.md). Common [dual listing](../d/dual_listing.md) venues include major financial centers like New York, London, Tokyo, and Luxembourg. 
+Global bonds are typically [listed](../l/listed.md) on [multiple](../m/multiple.md) securities exchanges. This allows international investors to [trade](../t/trade.md) these bonds conveniently and ensures greater [liquidity](../l/liquidity.md). Common [dual listing](../d/dual_listing.md) venues include major financial centers like New York, London, Tokyo, and Luxembourg.
 
-### 2. Currency 
+### 2. Currency
 Global bonds can be issued in various currencies. While many global bonds are issued in significant world currencies such as the US Dollar (USD), [Euro](../e/euro.md) (EUR), British Pound (GBP), and Japanese Yen (JPY), some issuers may also opt for emerging [market](../m/market.md) currencies depending on their target [investor](../i/investor.md) base.
 
 ### 3. Marketability
@@ -16,7 +16,7 @@ These bonds are designed to be marketable to a global audience, appealing to dif
 ### 4. Credit Rating
 The [creditworthiness](../c/creditworthiness.md) of a global [bond](../b/bond.md) is assessed by [credit rating](../c/credit_rating.md) agencies such as Moody's, Standard & Poor's (S&P), and [Fitch Ratings](../f/fitch_ratings.md). A higher [credit rating](../c/credit_rating.md) generally indicates lower [risk](../r/risk.md) and thus may attract more conservative investors.
 
-### 5. Legal and Regulatory Framework 
+### 5. Legal and Regulatory Framework
 Issuers of global bonds must navigate the legal and regulatory requirements of [multiple](../m/multiple.md) jurisdictions. This involves compliance with securities regulations, tax laws, and [listing requirements](../l/listing_requirements.md) in each [market](../m/market.md) where the [bond](../b/bond.md) [will](../w/will.md) be traded.
 
 ## Types of Global Bonds
@@ -47,13 +47,13 @@ Often, global bonds are issued by highly rated entities such as stable governmen
 ## Key Players in Issuance
 
 ### Investment Banks
-Global [investment banks](../i/investment_bank_(ib).md) like Goldman Sachs ([link](https://www.goldmansachs.com)), JPMorgan Chase ([link](https://www.jpmorganchase.com)), and Morgan Stanley ([link](https://www.morganstanley.com)) often act as underwriters and lead managers for global [bond](../b/bond.md) issuances. Their global presence and expertise make them ideal partners for corporations and governments looking to [issue](../i/issue.md) bonds internationally.
+Global [investment banks](../i/investment_bank_(ib).md) like Goldman Sachs (link), JPMorgan Chase (link), and Morgan Stanley (link) often act as underwriters and lead managers for global [bond](../b/bond.md) issuances. Their global presence and expertise make them ideal partners for corporations and governments looking to [issue](../i/issue.md) bonds internationally.
 
 ### Rating Agencies
-[Credit rating](../c/credit_rating.md) agencies such as Moody's ([link](https://www.moodys.com)), S&P ([link](https://www.spglobal.com/ratings/en/)), and Fitch ([link](https://www.fitchratings.com)) play a crucial role by providing independent [credit](../c/credit.md) ratings, which influence the [bond](../b/bond.md)'s [interest](../i/interest.md) rates and [investor](../i/investor.md) perception.
+[Credit rating](../c/credit_rating.md) agencies such as Moody's (link), S&P (link), and Fitch (link) play a crucial role by providing independent [credit](../c/credit.md) ratings, which influence the [bond](../b/bond.md)'s [interest](../i/interest.md) rates and [investor](../i/investor.md) perception.
 
 ### Clearing Houses
-[Clearing](../c/clearing.md) houses like [Euroclear](../e/euroclear.md) ([link](https://www.euroclear.com)) and Clearstream ([link](https://www.clearstream.com)) facilitate the settlement of global [bond](../b/bond.md) transactions, ensuring smooth and secure transfer of ownership.
+[Clearing](../c/clearing.md) houses like [Euroclear](../e/euroclear.md) (link) and Clearstream (link) facilitate the settlement of global [bond](../b/bond.md) transactions, ensuring smooth and secure transfer of ownership.
 
 ## Risks Involved
 

@@ -13,7 +13,7 @@ The purpose of the LCR is to ensure that financial institutions have a sufficien
 ### High-Quality Liquid Assets (HQLA)
 HQLA are assets that are easily and immediately convertible into cash with little or no loss of [value](../v/value.md). HQLA are divided into two tiers:
 - **[Level 1 assets](../l/level_1_assets.md)**: These assets have the highest [liquidity](../l/liquidity.md) and include central [bank](../b/bank.md) reserves, government securities, and certain [cash equivalents](../c/cash_equivalents.md). They are not subject to haircuts and can be included in their full amount in the calculation of the LCR.
-- **[Level 2 assets](../l/level_2_assets.md)**: These are relatively less [liquid](../l/liquid.md) but still considered quite [liquid](../l/liquid.md) and include certain corporate [debt](../d/debt.md) securities and municipal securities. [Level 2 assets](../l/level_2_assets.md) are subject to haircuts and limits on the amount that can be included in the stock of HQLA for the LCR calculation. 
+- **[Level 2 assets](../l/level_2_assets.md)**: These are relatively less [liquid](../l/liquid.md) but still considered quite [liquid](../l/liquid.md) and include certain corporate [debt](../d/debt.md) securities and municipal securities. [Level 2 assets](../l/level_2_assets.md) are subject to haircuts and limits on the amount that can be included in the stock of HQLA for the LCR calculation.
 
 ### Net Cash Outflows
 [Net Cash](../n/net_cash.md) Outflows are calculated by considering all of a [bank](../b/bank.md)'s cash inflows and outflows expected over a 30-day stress period. Factors influencing these outflows include [deposit](../d/deposit.md) withdrawals, maturing wholesale funding, [credit](../c/credit.md) line drawdowns, and other contingent liabilities.
@@ -35,7 +35,7 @@ The [Basel III](../b/basel_iii.md) framework mandates that banks must maintain a
 ### JPMorgan Chase
 JPMorgan Chase is a leading global financial institution that has been at the forefront of implementing LCR requirements. By holding large portfolios of high-quality [liquid](../l/liquid.md) assets and employing rigorous stress-testing techniques, JPMorgan Chase has maintained LCR levels well above the regulatory minimum. This has helped the [bank](../b/bank.md) manage [liquidity risk](../l/liquidity_risk.md) effectively during periods of financial instability.
 
-For more information, visit [JPMorgan Chase](https://www.jpmorganchase.com).
+For more information, visit JPMorgan Chase.
 
 ## Future Outlook
 As [financial markets](../f/financial_market.md) evolve, so too [will](../w/will.md) the standards governing [liquidity risk](../l/liquidity_risk.md) management. Ongoing reviews and updates to the LCR framework are likely to continue, incorporating lessons learned from new financial crises and [market](../m/market.md) developments. Innovations in financial technology and changes in regulatory practices [will](../w/will.md) also influence the future implementation and effectiveness of the LCR.

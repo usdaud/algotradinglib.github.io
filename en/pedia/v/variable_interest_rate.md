@@ -2,6 +2,8 @@
 
 A variable [interest rate](../i/interest_rate.md), sometimes referred to as a floating or adjustable rate, is an [interest rate](../i/interest_rate.md) on a [loan](../l/loan.md) or [security](../s/security.md) that fluctuates over time based on an [underlying](../u/underlying.md) [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md) that changes periodically. This adjustment allows the [interest rate](../i/interest_rate.md) to better reflect the current [market](../m/market.md) conditions. In contrast to fixed [interest](../i/interest.md) rates, which remain constant for the [duration](../d/duration.md) of the [loan](../l/loan.md) or investment, variable rates are inherently more dynamic and can [offer](../o/offer.md) the potential for lower initial rates or better alignment with changes in [inflation](../i/inflation.md) and other [economic indicators](../e/economic_indicators.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Definition and Mechanism
 
 At its core, a variable [interest rate](../i/interest_rate.md) is calculated as the sum of a base rate ([index](../i/index_instrument.md) rate) and a spread (or [margin](../m/margin.md)). The base rate is usually derived from a standard financial [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR), the [Federal Funds Rate](../f/federal_funds_rate.md), or the [Prime Rate](../p/prime_rate.md). The spread is a percentage that is added to the base rate and remains relatively constant over the life of the [loan](../l/loan.md).
@@ -77,7 +79,7 @@ The financial [industry](../i/industry.md) is highly regulated to ensure [transp
 - **Adjustable Rate [Mortgage](../m/mortgage.md) Rule:** Issued by the Consumer Financial Protection Bureau (CFPB), this rule mandates specific disclosures and [interest rate](../i/interest_rate.md) adjustment notices for ARMs.
 - **SOFR Transition:** With the phase-out of LIBOR, regulators have encouraged the adoption of alternative benchmarks like SOFR, requiring significant adjustments in financial contracts and reporting standards.
 
-For more detailed information on regulations and compliance, institutions may refer to the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) and the [Federal Reserve](https://www.federalreserve.gov).
+For more detailed information on regulations and compliance, institutions may refer to the Consumer Financial Protection Bureau and the Federal Reserve.
 
 ## Impact of Economic Conditions
 

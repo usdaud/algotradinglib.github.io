@@ -134,4 +134,4 @@ The Bahrain Bourse is poised for continued growth. With its strategic location i
 
 ## Contact Information
 
-For more detailed information, visit the official Bahrain Bourse website: [Bahrain Bourse](https://www.bahrainbourse.com/).
+For more detailed information,

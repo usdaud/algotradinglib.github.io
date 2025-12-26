@@ -2,6 +2,8 @@
 
 The London Interbank Offered Rate (LIBOR) curve is an essential element in the world of [finance](../f/finance.md) and trading, acting as a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) for various financial instruments. Understanding the intricacies of the LIBOR curve is crucial for traders, financial analysts, and anyone involved in [interest rate](../i/interest_rate.md)-based financial products. In this comprehensive discussion, we [will](../w/will.md) unpack what the LIBOR curve is, its significance, components, construction, and usage in different financial contexts.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## What is LIBOR?
 
 LIBOR stands for the London Interbank Offered Rate. It is the average rate at which major global banks borrow from one another in the international [interbank market](../i/interbank_market.md). Traditionally, LIBOR has been calculated in five currencies: the US Dollar (USD), the [Euro](../e/euro.md) (EUR), the British Pound Sterling (GBP), the Japanese Yen (JPY), and the Swiss Franc (CHF), and for seven different maturities: overnight, one week, and one month, two months, three months, six months, and one year.
@@ -32,7 +34,7 @@ Constructing the LIBOR curve involves a series of steps:
 
 1. **Data Collection**: Collect the current LIBOR rates for different maturities. These rates are usually published daily.
 
-2. **Bootstrapping Method**: This is a process used to derive zero-coupon [yield](../y/yield.md) curves from the [market](../m/market.md) prices of a set of coupon-bearing products, primarily swaps. 
+2. **Bootstrapping Method**: This is a process used to derive zero-coupon [yield](../y/yield.md) curves from the [market](../m/market.md) prices of a set of coupon-bearing products, primarily swaps.
 
 3. **Linear [Interpolation](../i/interpolation.md)**: To fill any [gaps](../g/gap.md) between the maturities for which the LIBOR rates are available, linear [interpolation](../i/interpolation.md) is used.
 
@@ -66,8 +68,7 @@ Despite its widespread use, LIBOR has faced criticisms and challenges:
 
 ## Conclusion
 
-The LIBOR curve remains a cornerstone in [financial markets](../f/financial_market.md), influencing a myriad of financial instruments and contracts. While it has faced its share of controversies, understanding the LIBOR curve is indispensable for anyone involved in [finance](../f/finance.md). As the [market](../m/market.md) transitions to new benchmarks, the [underlying](../u/underlying.md) principles and techniques for analyzing [interest](../i/interest.md) rates [will](../w/will.md) remain crucial. 
+The LIBOR curve remains a cornerstone in [financial markets](../f/financial_market.md), influencing a myriad of financial instruments and contracts. While it has faced its share of controversies, understanding the LIBOR curve is indispensable for anyone involved in [finance](../f/finance.md). As the [market](../m/market.md) transitions to new benchmarks, the [underlying](../u/underlying.md) principles and techniques for analyzing [interest](../i/interest.md) rates [will](../w/will.md) remain crucial.
 
-For further information, you can visit the [ICE LIBOR official page](https://www.theice.com/iba/libor) where updated daily rates and further technical details are provided.
 
 This comprehensive overview captures the essence and importance of the LIBOR curve, providing the foundational knowledge required to navigate its complexities in the financial world.

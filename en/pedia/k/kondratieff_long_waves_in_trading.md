@@ -37,9 +37,9 @@ Modern technology, particularly in the field of [data science](../d/data_science
 
 #### Case Studies and Practical Examples
 
-Several investment firms and [hedge](../h/hedge.md) funds incorporate long-[wave analysis](../w/wave_analysis.md) into their [trading strategies](../t/trading_strategies.md). For instance, [Bridgewater Associates](https://www.bridgewater.com/), one of the world's largest [hedge](../h/hedge.md) funds, takes a macroeconomic approach to [investing](../i/investing.md), considering long-term cycles and economic patterns in their [portfolio management](../p/portfolio_management.md).
+Several investment firms and [hedge](../h/hedge.md) funds incorporate long-[wave analysis](../w/wave_analysis.md) into their [trading strategies](../t/trading_strategies.md). For instance, Bridgewater Associates, one of the world's largest [hedge](../h/hedge.md) funds, takes a macroeconomic approach to [investing](../i/investing.md), considering long-term cycles and economic patterns in their [portfolio management](../p/portfolio_management.md).
 
-Another example is [Renaissance Technologies](https://www.rentec.com/), known for its scientific approach to trading. While specific details of their [trading algorithms](../t/trading_algorithms.md) are proprietary, it is plausible that long-term [economic cycles](../e/economic_cycles.md), such as [Kondratieff waves](../k/kondratieff_waves.md), are a part of their analysis framework.
+Another example is Renaissance Technologies, known for its scientific approach to trading. While specific details of their [trading algorithms](../t/trading_algorithms.md) are proprietary, it is plausible that long-term [economic cycles](../e/economic_cycles.md), such as [Kondratieff waves](../k/kondratieff_waves.md), are a part of their analysis framework.
 
 #### Conclusion
 

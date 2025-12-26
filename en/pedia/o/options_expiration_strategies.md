@@ -59,11 +59,10 @@ Effective [risk management](../r/risk_management.md) is paramount during [option
 ## Tools and Platforms
 
 Modern trading platforms [offer](../o/offer.md) sophisticated tools for [options](../o/options.md) expiration strategies. Among the noteworthy ones are:
-- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Renowned for its comprehensive [options](../o/options.md) analysis tools and customizable strategies (source: [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)).
-- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers a [robust](../r/robust.md) set of tools for [options](../o/options.md) trading, including [options](../o/options.md) analytics and [risk management](../r/risk_management.md) features (source: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=optionshedgehog&p=options)).
-- **Tastyworks**: Designed specifically for [options](../o/options.md) traders, providing intuitive tools and [commission](../c/commission.md)-free trading (source: [Tastyworks](https://tastyworks.com/)).
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Renowned for its comprehensive [options](../o/options.md) analysis tools and customizable strategies (source: TD Ameritrade).
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers a [robust](../r/robust.md) set of tools for [options](../o/options.md) trading, including [options](../o/options.md) analytics and [risk management](../r/risk_management.md) features (source: Interactive Brokers).
+- **Tastyworks**: Designed specifically for [options](../o/options.md) traders, providing intuitive tools and [commission](../c/commission.md)-free trading (source: Tastyworks).
 
 ## Conclusion
 
 Navigating [options](../o/options.md) expiration with well-devised strategies can significantly enhance trading efficacy and profitability. Understanding each strategy's mechanics, potential payoffs, and risks, combined with effective [risk management](../r/risk_management.md), is essential for success. As financial instruments and markets evolve, so too [will](../w/will.md) the opportunities and strategies available to traders, continually reshaping the landscape of [options](../o/options.md) trading.
-

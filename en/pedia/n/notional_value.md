@@ -11,9 +11,9 @@ In the context of [derivatives](../d/derivatives.md) trading, understanding noti
 Notional [value](../v/value.md) is essential for several reasons:
 
 1. **[Risk Management](../r/risk_management.md)**: It helps in estimating the overall exposure in a portfolio. Although the actual cost of entering into a [derivative](../d/derivative.md) might be much smaller, the [underlying](../u/underlying.md) [value](../v/value.md) controlled by these instruments is often significantly higher.
-  
+
 2. **[Leverage](../l/leverage.md) Insight**: It illuminates the degree of [leverage](../l/leverage.md) in [derivative](../d/derivative.md) transactions. High notional values relative to the actual investment indicate higher [leverage](../l/leverage.md), implying greater [risk](../r/risk.md) and potential [return](../r/return.md).
-  
+
 3. **Regulatory Compliance**: Many regulatory bodies require the assessment of notional amounts to ensure systematic financial stability. For instance, the Dodd-Frank Act in the United States mandates reporting of notional values for over-the-counter (OTC) [derivatives](../d/derivatives.md) to mitigate [systemic risk](../s/systemic_risk.md).
 
 ## Notional Value in Different Derivatives
@@ -39,9 +39,9 @@ Swaps involve the [exchange](../e/exchange.md) of cash flows between two parties
 The specific method for calculating notional [value](../v/value.md) can vary based on the type of [derivative](../d/derivative.md) instrument:
 
 - **[Equity Derivatives](../e/equity_derivatives.md)**: In [equity derivatives](../e/equity_derivatives.md) such as [futures](../f/futures.md) and [options](../o/options.md), calculate notional [value](../v/value.md) by multiplying the number of contracts by the price of the [underlying asset](../u/underlying_asset.md) and the contract size.
-  
+
 - **[Interest Rate Derivatives](../i/interest_rate_derivatives.md)**: For swaps and bonds, the notional [value](../v/value.md) represents the [principal](../p/principal.md) amount that dictates the [interest](../i/interest.md) computations.
-  
+
 - **[Currency](../c/currency.md) [Derivatives](../d/derivatives.md)**: In [currency](../c/currency.md) [futures](../f/futures.md), [options](../o/options.md), and swaps, notional [value](../v/value.md) is the quantity of [currency](../c/currency.md) being traded. If 1,000 EUR/USD positions are opened at an [exchange rate](../e/exchange_rate.md) of 1.20, the notional [value](../v/value.md) is €1,000,000.
 
 ## Notional Value vs. Market Value
@@ -49,7 +49,7 @@ The specific method for calculating notional [value](../v/value.md) can vary bas
 One must distinguish between notional [value](../v/value.md) and [market value](../m/market_value.md), as they represent different concepts:
 
 - **Notional [Value](../v/value.md)**: Reflects the face or [nominal value](../n/nominal_value.md) [underlying](../u/underlying.md) a [derivative](../d/derivative.md) contract. It stays constant and is utilized for calculating periodic payments in swaps or the overall [value](../v/value.md) in [futures](../f/futures.md) and [options](../o/options.md).
-  
+
 - **[Market Value](../m/market_value.md)**: Represents the current trading [value](../v/value.md) of an [asset](../a/asset.md) or [derivative](../d/derivative.md) in the marketplace. It fluctuates based on [market](../m/market.md) conditions and includes considerations of [profit](../p/profit.md) and loss, premiums paid, and more.
 
 ## Practical Examples and Applications
@@ -90,4 +90,4 @@ Notional [value](../v/value.md) is indispensable in the world of [finance](../f/
 
 Understanding notional [value](../v/value.md) also clarifies the distinctions between notional and [market value](../m/market_value.md), ensuring accurate assessments of [leverage](../l/leverage.md) and exposure. Furthermore, its significance is underscored by regulatory frameworks mandating the reporting and monitoring of [derivative](../d/derivative.md) notional amounts to safeguard [market](../m/market.md) stability and [transparency](../t/transparency.md).
 
-For more information on [derivatives](../d/derivatives.md) and trading services, one might refer to [industry](../i/industry.md) leaders such as CME Group [CME Group Official](https://www.cmegroup.com/).
+For more information on [derivatives](../d/derivatives.md) and trading services, one might refer to [industry](../i/industry.md) leaders such as CME Group CME Group Official.

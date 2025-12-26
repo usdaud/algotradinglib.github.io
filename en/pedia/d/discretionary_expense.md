@@ -9,15 +9,15 @@ A discretionary [expense](../e/expense.md) is a cost or expenditure that a [busi
 Discretionary expenses, also known as non-essential expenses, are not mandatory and are often tied to luxury or non-essential activities. They differ from non-discretionary expenses, which are mandatory and necessary for basic functioning and survival. Examples of discretionary expenses include:
 
 - **Leisure and Entertainment:**
-  - Movie tickets, concert tickets, and hobbies.
+ - Movie tickets, concert tickets, and hobbies.
 - **Dining Out:**
-  - Expenses at restaurants, cafés, and bars.
+ - Expenses at restaurants, cafés, and bars.
 - **Travel:**
-  - Costs associated with vacations, including airfare, hotel stays, and activities.
+ - Costs associated with vacations, including airfare, hotel stays, and activities.
 - **Additional Services and Subscriptions:**
-  - Gym memberships, streaming services, and subscription boxes.
+ - Gym memberships, streaming services, and subscription boxes.
 - **Luxury Goods:**
-  - Designer clothing, high-end electronics, and luxury cars.
+ - Designer clothing, high-end electronics, and luxury cars.
 
 ### Difference Between Discretionary and Non-Discretionary Expenses
 
@@ -57,24 +57,24 @@ A high proportion of discretionary expenses in one’s or a company’s [budget]
 Whether for personal or [business](../b/business.md) finances, tracking discretionary expenses helps in identifying trends and making informed financial decisions. Common tools include:
 
 - **[Expense](../e/expense.md) Tracking Software:**
-  - Platforms like Mint, Quicken, or YNAB (You Need a [Budget](../b/budget.md))
+ - Platforms like Mint, Quicken, or YNAB (You Need a [Budget](../b/budget.md))
 - **Corporate Financial Tools:**
-  - Enterprise Resource Planning (ERP) systems like SAP, Oracle, or Microsoft Dynamics
+ - Enterprise Resource Planning (ERP) systems like SAP, Oracle, or Microsoft Dynamics
 
 ### Financial Planning Techniques
 
 - **Zero-Based Budgeting:**
-  - Every [expense](../e/expense.md) must be justified for each new period.
+ - Every [expense](../e/expense.md) must be justified for each new period.
 - **[Envelope](../e/envelope.md) Method:**
-  - Allocating a certain amount of cash for spending in different categories.
+ - Allocating a certain amount of cash for spending in different categories.
 - **50/30/20 Rule:**
-  - Allocate 50% of [income](../i/income.md) to needs, 30% to wants (discretionary), and 20% to savings and [debt](../d/debt.md) [repayment](../r/repayment.md).
+ - Allocate 50% of [income](../i/income.md) to needs, 30% to wants (discretionary), and 20% to savings and [debt](../d/debt.md) [repayment](../r/repayment.md).
 
 ## Case Studies and Examples
 
 ### Corporate Example: Google
 
-Google, a subsidiary of Alphabet Inc., is known for [investing](../i/investing.md) heavily in discretionary expenditures, especially in terms of research and development, which although not essential for day-to-day operations, positions the company at the cutting edge of technology. Their expenditures can be explored through their [official financial reports](https://abc.xyz/investor/).
+Google, a subsidiary of Alphabet Inc., is known for [investing](../i/investing.md) heavily in discretionary expenditures, especially in terms of research and development, which although not essential for day-to-day operations, positions the company at the cutting edge of technology. Their expenditures can be explored through their official financial reports.
 
 ### Individual Example: Managing Personal Finances
 

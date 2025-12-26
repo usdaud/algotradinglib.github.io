@@ -65,6 +65,6 @@ Other cryptocurrencies also face double-spending challenges.
 
 Double-spending poses a significant threat to digital currencies' integrity. [Blockchain](../b/blockchain_in_trading.md) technology, consensus mechanisms, and additional layers of [security](../s/security.md) are implemented to mitigate this [risk](../r/risk.md). However, as digital currencies evolve, so do the tactics of malicious actors, necessitating continuous advancements in [security](../s/security.md) measures.
 
-For further details on company-specific implementations and real-world applications, visit the [Blockchain Technology Implementation at IBM](https://www.ibm.com/blockchain).
+For further details on company-specific implementations and real-world applications, visit the Blockchain Technology Implementation at IBM.
 
 Understanding and mitigating double-spending is crucial for the future development and acceptance of digital currencies and [blockchain](../b/blockchain_in_trading.md) technology.

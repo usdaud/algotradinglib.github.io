@@ -38,7 +38,7 @@ While a quorum prevents a small number of members from making decisions, it also
 
 ## Quorums in Corporate Governance
 
-In corporate settings, quorums play a critical role especially in board meetings and annual general meetings (AGMs). These quorums are often defined in the [corporation](../c/corporation.md)'s bylaws and may vary depending on the size and nature of the organization. 
+In corporate settings, quorums play a critical role especially in board meetings and annual general meetings (AGMs). These quorums are often defined in the [corporation](../c/corporation.md)'s bylaws and may vary depending on the size and nature of the organization.
 
 ### Board Meetings
 
@@ -76,7 +76,7 @@ Electronic voting systems enable members to vote from remote locations, thus con
 
 ### Banks
 
-In banks, achieving a quorum is particularly important for [risk management](../r/risk_management.md) committees where decisions related to lending, [asset management](../a/asset_management.md), and compliance are taken. 
+In banks, achieving a quorum is particularly important for [risk management](../r/risk_management.md) committees where decisions related to lending, [asset management](../a/asset_management.md), and compliance are taken.
 
 ### Investment Firms
 
@@ -92,7 +92,7 @@ For [insurance](../i/insurance.md) companies, quorums are crucial for claims man
 - A majority of [shares](../s/shares.md) must be present in person or by [proxy](../p/proxy.md).
 - The specific percentage of the quorum must be stated in the company's governing documents.
 
-Learn more about [NASDAQ](../n/nasdaq.md)'s quorum requirements [here](https://listingcenter.nasdaq.com/assets/rulebook/NASDAQ/rules).
+Learn more about [NASDAQ](../n/nasdaq.md)'s quorum requirements here.
 
 ## Conclusion
 

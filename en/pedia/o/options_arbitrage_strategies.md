@@ -8,7 +8,7 @@
 ### 2. Types of Options Arbitrage Strategies
 
 #### 2.1. Conversion Arbitrage
-Conversion [arbitrage](../a/arbitrage.md) involves the creation of a synthetic long position in the [underlying asset](../u/underlying_asset.md). This position is created by purchasing a [call option](../c/call_option.md) and selling a [put option](../p/put.md), while simultaneously shorting the [underlying asset](../u/underlying_asset.md) (or holding a short position). 
+Conversion [arbitrage](../a/arbitrage.md) involves the creation of a synthetic long position in the [underlying asset](../u/underlying_asset.md). This position is created by purchasing a [call option](../c/call_option.md) and selling a [put option](../p/put.md), while simultaneously shorting the [underlying asset](../u/underlying_asset.md) (or holding a short position).
 
 **Steps:**
 1. Buy a [call option](../c/call_option.md).
@@ -77,10 +77,9 @@ While [options](../o/options.md) [arbitrage](../a/arbitrage.md) might sound [ris
 
 ### 5. Tools and Platforms
 Professional traders use advanced tools and platforms to automate and manage these strategies. Some prominent platforms include:
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **Optiver**: [Optiver](https://www.optiver.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: TD Ameritrade
+- **Optiver**: Optiver
 
 ### 6. Conclusion
 [Options](../o/options.md) [arbitrage](../a/arbitrage.md) strategies are a sophisticated, nuanced approach to trading that [leverage](../l/leverage.md) [market](../m/market.md) inefficiencies to secure riskless profits. While theoretically straightforward, effective implementation requires [robust](../r/robust.md) tools, quick [execution](../e/execution.md), and deep [market](../m/market.md) knowledge. As with any financial strategy, understanding the intricacies and potential pitfalls is crucial for success.
-

@@ -32,17 +32,17 @@ Zero-sum games can be classified into various categories based on certain charac
 
 ### Zero-Sum Game in Financial Markets
 
-In [financial markets](../f/financial_market.md), the concept of zero-sum games is applied in various trading activities. 
+In [financial markets](../f/financial_market.md), the concept of zero-sum games is applied in various trading activities.
 
 - **[Futures](../f/futures.md) and [Options](../o/options.md)**: These [derivatives](../d/derivatives.md) markets are often cited as examples of zero-sum games. For every [profit](../p/profit.md) made by a buyer of a [futures contract](../f/futures_contract.md), the seller incurs an equivalent loss, and vice versa.
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: In high-frequency trading, algorithms compete for the best [execution](../e/execution.md) prices. The [gain](../g/gain.md) from getting a favorable price is precisely the loss endured by the [counterparty](../c/counterparty.md).
-  
+
 ### Companies and Zero-Sum Game Concept
 
 Several companies specialize in trading and have platforms and tools that operate under the principles of zero-sum games:
 
-1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a wide array of trading tools that are used in [futures](../f/futures.md) and [options](../o/options.md) markets (https://www.interactivebrokers.com)
-2. **CME Group**: The world's largest [futures](../f/futures.md) and [options](../o/options.md) [exchange](../e/exchange.md), where many [zero-sum trading](../z/zero-sum_trading.md) activities take place (https://www.cmegroup.com)
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a wide array of trading tools that are used in [futures](../f/futures.md) and [options](../o/options.md) markets (
+2. **CME Group**: The world's largest [futures](../f/futures.md) and [options](../o/options.md) [exchange](../e/exchange.md), where many [zero-sum trading](../z/zero-sum_trading.md) activities take place (
 
 ### Criticisms and Limitations
 

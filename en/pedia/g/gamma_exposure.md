@@ -4,7 +4,7 @@
 
 ### Introduction to Gamma Exposure
 
-In [options](../o/options.md) trading, there are several "[Greeks](../g/greeks.md)" that measure the sensitivities of an option's price to various factors. [Gamma](../g/gamma.md) (Γ) is one of these [Greeks](../g/greeks.md) and represents the rate of change of [delta](../d/delta.md) (Δ) with respect to changes in the [underlying asset](../u/underlying_asset.md) price. [Delta](../d/delta.md) measures the sensitivity of an option's price to movements in the [underlying asset](../u/underlying_asset.md), while [gamma](../g/gamma.md) measures the change in [delta](../d/delta.md) for a one-point move in the [underlying asset](../u/underlying_asset.md). 
+In [options](../o/options.md) trading, there are several "[Greeks](../g/greeks.md)" that measure the sensitivities of an option's price to various factors. [Gamma](../g/gamma.md) (Γ) is one of these [Greeks](../g/greeks.md) and represents the rate of change of [delta](../d/delta.md) (Δ) with respect to changes in the [underlying asset](../u/underlying_asset.md) price. [Delta](../d/delta.md) measures the sensitivity of an option's price to movements in the [underlying asset](../u/underlying_asset.md), while [gamma](../g/gamma.md) measures the change in [delta](../d/delta.md) for a one-point move in the [underlying asset](../u/underlying_asset.md).
 
 [Gamma](../g/gamma.md) exposure, therefore, quantifies the impact of price movements of the [underlying asset](../u/underlying_asset.md) on the portfolio's [delta](../d/delta.md) exposure. This is particularly important for understanding and managing the non-linear risks associated with [options](../o/options.md) portfolios.
 
@@ -50,7 +50,7 @@ High-frequency trading (HFT) firms are some of the most sophisticated users of [
 
 #### Example: Citadel Securities
 
-Citadel Securities, one of the leading [market](../m/market.md) makers in the world, uses sophisticated algorithms to manage its massive [options](../o/options.md) trading portfolio. According to their [official website](https://www.citadelsecurities.com), they [leverage](../l/leverage.md) advanced [risk management](../r/risk_management.md) tools that integrate [gamma](../g/gamma.md) exposure metrics to ensure that their portfolios are optimized for performance and [risk](../r/risk.md) mitigation.
+Citadel Securities, one of the leading [market](../m/market.md) makers in the world, uses sophisticated algorithms to manage its massive [options](../o/options.md) trading portfolio. According to their public materials, they [leverage](../l/leverage.md) advanced [risk management](../r/risk_management.md) tools that integrate [gamma](../g/gamma.md) exposure metrics to ensure that their portfolios are optimized for performance and [risk](../r/risk.md) mitigation.
 
 ### Conclusion
 

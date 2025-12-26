@@ -25,13 +25,13 @@ X-[Signal Processing](../s/signal_processing_in_trading.md) in the domain of [al
 
 The success of X-[signal processing](../s/signal_processing_in_trading.md) depends significantly on the tools used. Here are some primary environments and tools:
 
-1. **Python**: Widely used because of libraries like NumPy, pandas, scikit-learn, [TensorFlow](../t/tensorflow.md) (https://www.[tensorflow](../t/tensorflow.md).org/), [PyTorch](../p/pytorch.md) (https://[pytorch](../p/pytorch.md).org/).
+1. **Python**: Widely used because of libraries like NumPy, pandas, scikit-learn, [TensorFlow](../t/tensorflow.md) ( [PyTorch](../p/pytorch.md) (
 2. **R**: Praised for statistical analysis with packages like forecast, caret, and xts.
 3. **MATLAB**: Powerful for complex computations and has built-in [signal processing](../s/signal_processing_in_trading.md) capabilities.
 4. **Platforms**:
-    - **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform (https://www.[quantconnect](../q/quantconnect.md).com/).
-    - **Quantopian**: Another notable platform providing a community-driven approach (now closed, but its remnants influence others).
-    - **[Alpaca](../a/alpaca.md)**: [Commission](../c/commission.md)-free trading with API access for [algorithmic trading](../a/algorithmic_trading.md) (https://[alpaca](../a/alpaca.md).markets/).
+ - **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform (
+ - **Quantopian**: Another notable platform providing a community-driven approach (now closed, but its remnants influence others).
+ - **[Alpaca](../a/alpaca.md)**: [Commission](../c/commission.md)-free trading with API access for [algorithmic trading](../a/algorithmic_trading.md) (
 
 #### Examples of Practical Algorithms
 

@@ -24,9 +24,9 @@ The velocity of [market](../m/market.md) movements is a critical concept in [fin
 
 #### Real-world Examples and Applications
 
-1. **High-Frequency Trading Firms**: Companies like Virtu Financial and Citadel Securities employ strategies that require reacting to high-velocity [market](../m/market.md) movements to [capitalize](../c/capitalize.md) on minuscule price changes that occur in fractions of a second ([Virtu Financial](https://www.virtu.com/) and [Citadel Securities](https://www.citadelsecurities.com/)).
-2. **Latency [Arbitrage](../a/arbitrage.md)**: Latency [arbitrage](../a/arbitrage.md) strategies exploit delays in information dissemination across different markets or exchanges. Firms such as [Jump Trading](../j/jump_trading.md) and DRW put substantial effort into reducing latency to [profit](../p/profit.md) from high-velocity conditions ([Jump Trading](https://www.jumptrading.com/) and [DRW](https://drw.com/)).
-3. **[Market](../m/market.md) Making**: [Market](../m/market.md) makers like Jane Street and IMC Trading provide [liquidity](../l/liquidity.md) and rely on understanding [market](../m/market.md) velocity to set [bid](../b/bid.md)-ask [spreads](../s/spreads.md) that manage their [risk](../r/risk.md) and profitability ([Jane Street](https://www.janestreet.com/) and [IMC Trading](https://www.imc.com/)).
+1. **High-Frequency Trading Firms**: Companies like Virtu Financial and Citadel Securities employ strategies that require reacting to high-velocity [market](../m/market.md) movements to [capitalize](../c/capitalize.md) on minuscule price changes that occur in fractions of a second (Virtu Financial and Citadel Securities).
+2. **Latency [Arbitrage](../a/arbitrage.md)**: Latency [arbitrage](../a/arbitrage.md) strategies exploit delays in information dissemination across different markets or exchanges. Firms such as [Jump Trading](../j/jump_trading.md) and DRW put substantial effort into reducing latency to [profit](../p/profit.md) from high-velocity conditions (Jump Trading and DRW).
+3. **[Market](../m/market.md) Making**: [Market](../m/market.md) makers like Jane Street and IMC Trading provide [liquidity](../l/liquidity.md) and rely on understanding [market](../m/market.md) velocity to set [bid](../b/bid.md)-ask [spreads](../s/spreads.md) that manage their [risk](../r/risk.md) and profitability (Jane Street and IMC Trading).
 
 #### Challenges in High-Velocity Markets
 

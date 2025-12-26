@@ -50,7 +50,7 @@ The BCBA categorizes its [market](../m/market.md) into various segments based on
 
 ### Leading Companies
 
-This segment includes large, well-established companies with significant [market capitalization](../m/market_capitalization.md) and trading [volume](../v/volume.md). Examples include YPF (https://www.ypf.com), Banco Macro (https://www.macro.com.ar), and Tenaris (https://www.tenaris.com).
+This segment includes large, well-established companies with significant [market capitalization](../m/market_capitalization.md) and trading [volume](../v/volume.md). Examples include YPF ( Banco Macro ( and Tenaris (
 
 ### General Companies
 
@@ -58,7 +58,7 @@ The general segment comprises medium-sized companies with moderate [market capit
 
 ### Emerging Companies
 
-This segment consists of smaller, often newer companies that are in the growth phase. Firms in this category may have less trading [volume](../v/volume.md) but [offer](../o/offer.md) high growth potential. 
+This segment consists of smaller, often newer companies that are in the growth phase. Firms in this category may have less trading [volume](../v/volume.md) but [offer](../o/offer.md) high growth potential.
 
 ## Technological Infrastructure
 

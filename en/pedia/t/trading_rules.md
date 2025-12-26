@@ -4,7 +4,7 @@
 
 ## What are Trading Rules?
 
-Trading rules are predefined stipulations that guide the operations of [trading algorithms](../t/trading_algorithms.md). These rules cover various aspects, including entry and exit points, [risk management](../r/risk_management.md), [position sizing](../p/position_sizing.md), and the handling of different [market](../m/market.md) conditions. 
+Trading rules are predefined stipulations that guide the operations of [trading algorithms](../t/trading_algorithms.md). These rules cover various aspects, including entry and exit points, [risk management](../r/risk_management.md), [position sizing](../p/position_sizing.md), and the handling of different [market](../m/market.md) conditions.
 
 ### Types of Trading Rules
 
@@ -65,7 +65,7 @@ There are various tools and platforms available for developing and implementing 
 
 Renaissance Technologies, one of the most successful [quantitative trading](../q/quantitative_trading.md) firms, is renowned for its rigorous approach to trading rules. Founded by Jim Simons, the [firm](../f/firm.md) relies heavily on [mathematical models](../m/mathematical_models_in_trading.md) and sophisticated algorithms to execute trades. Their Medallion [Fund](../f/fund.md), known for its high returns, exemplifies the power of well-defined trading rules and meticulous implementation.
 
-For more information, visit [Renaissance Technologies](https://www.rentec.com/).
+For more information, visit Renaissance Technologies.
 
 ## Common Strategies and Associated Rules
 

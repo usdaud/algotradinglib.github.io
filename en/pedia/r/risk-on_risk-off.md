@@ -9,7 +9,7 @@ In a [risk](../r/risk.md)-on environment, investors feel confident about the eco
 - **Equities**: [Stocks](../s/stock.md), particularly those in sectors like technology and consumer discretionary, tend to [rally](../r/rally.md) as investors shift [capital](../c/capital.md) from safer assets due to increased confidence.
 - **Bonds**: Yields on government bonds generally rise as their prices fall. Investors withdraw investment from bonds to reallocate into equities and other higher-yielding assets.
 - **Currencies**: [Risk](../r/risk.md)-sensitive currencies such as the Australian Dollar (AUD) and emerging [market](../m/market.md) currencies tend to appreciate as global [liquidity](../l/liquidity.md) increases.
-- **Commodities**: Industrial commodities like oil and copper typically see increased [demand](../d/demand.md), driving prices higher. 
+- **Commodities**: Industrial commodities like oil and copper typically see increased [demand](../d/demand.md), driving prices higher.
 
 ### Indicators of Risk-On Sentiment
 
@@ -58,7 +58,7 @@ The period during the COVID-19 pandemic in early 2020 exemplifies a [risk](../r/
 
 ### Sentiment Analysis
 
-[Algorithmic trading](../a/accountability.md) systems often employ [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to analyze news, [social media](../s/social_media.md), and other textual data sources to gauge [market sentiment](../m/market_sentiment.md). By detecting shifts in sentiment, these systems can adaptively adjust [trading strategies](../t/trading_strategies.md) in alignment with [risk](../r/risk.md)-on or [risk](../r/risk.md)-off environments.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often employ [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to analyze news, [social media](../s/social_media.md), and other textual data sources to gauge [market sentiment](../m/market_sentiment.md). By detecting shifts in sentiment, these systems can adaptively adjust [trading strategies](../t/trading_strategies.md) in alignment with [risk](../r/risk.md)-on or [risk](../r/risk.md)-off environments.
 
 ### Machine Learning Models
 

@@ -4,7 +4,7 @@ A Bullish Harami is a [candlestick](../c/candlestick.md) chart pattern used in [
 
 ## Definition
 
-The Bullish Harami pattern consists of two candles: 
+The Bullish Harami pattern consists of two candles:
 
 1. **First Candle:** A large bearish candle (red or black) that represents a significant [downtrend](../d/downtrend.md). This candle has a large real body, indicating strong selling pressure.
 2. **Second Candle:** A smaller bullish candle (green or white) that appears within the real body of the first candle. The second candle's body is contained entirely within the [range](../r/range.md) of the first candle's body, indicating a possible pause or [reversal](../r/reversal.md) of the prevailing [trend](../t/trend.md).
@@ -14,7 +14,7 @@ The Bullish Harami pattern consists of two candles:
 ### First Candle
 
 - **[Trend](../t/trend.md):** The [market](../m/market.md) should be in a [downtrend](../d/downtrend.md), confirming a prevailing bearish sentiment.
-- **Body:** The first candle is typically long and bearish, representing strong downward [momentum](../m/momentum.md). 
+- **Body:** The first candle is typically long and bearish, representing strong downward [momentum](../m/momentum.md).
 - **Shadows:** The shadows (or wicks) can vary in length, but the essential part is the size of the real body showing a definitive bearish move.
 
 ### Second Candle
@@ -30,7 +30,7 @@ The Bullish Harami pattern is significant because it indicates a potential end t
 ## Market Psychology
 
 The psychology behind a Bullish Harami pattern involves a transition from bearish to bullish sentiment:
- 
+
 - **First Candle:** Reflects the [market](../m/market.md)'s overall bearish sentiment, capturing a continuation of a [downtrend](../d/downtrend.md).
 - **Second Candle:** Indicates [uncertainty](../u/uncertainty_in_trading.md) and weakening of selling pressure. The smaller bullish candle within the previous bearish candle's [range](../r/range.md) suggests that sellers may be exhausted and buyers could be stepping back in.
 
@@ -78,16 +78,16 @@ While the Bullish Harami pattern is useful, it is not infallible. Traders should
 In the [stock market](../s/stock_market.md), a Bullish Harami pattern can be found in various [stocks](../s/stock.md), ETFs, and indices. For instance:
 
 - **Company Name:** Apple Inc. (AAPL)
-  - Stock Chart: [Apple Inc. (AAPL) Chart](https://finance.yahoo.com/quote/AAPL)
-  - Observing the daily, weekly, or monthly charts, traders can identify Bullish Harami patterns to make informed trading decisions.
+ - Stock Chart: Apple Inc. (AAPL) Chart
+ - Observing the daily, weekly, or monthly charts, traders can identify Bullish Harami patterns to make informed trading decisions.
 
 ### Example in the Forex Market
 
 In the Forex [market](../m/market.md), [currency](../c/currency.md) pairs often exhibit Bullish Harami patterns:
 
 - **[Currency](../c/currency.md) Pair:** EUR/USD
-  - Forex Chart: [EUR/USD Chart](https://www.tradingview.com/chart/?symbol=FX:EURUSD)
-  - [Technical analysis](../t/technical_analysis.md) on [currency](../c/currency.md) pairs can reveal potential [trend](../t/trend.md) reversals, providing opportunities for long trades.
+ - Forex Chart: EUR/USD Chart
+ - [Technical analysis](../t/technical_analysis.md) on [currency](../c/currency.md) pairs can reveal potential [trend](../t/trend.md) reversals, providing opportunities for long trades.
 
 ## Conclusion
 

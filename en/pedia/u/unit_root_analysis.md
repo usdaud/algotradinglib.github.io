@@ -31,13 +31,13 @@ The test statistic is compared against critical values, and if the calculated st
 
 ### Phillips-Perron (PP) Test
 
-The Phillips-Perron test is another method to test for unit roots, [accounting](../a/accounting.md) for potential serial [correlation](../c/correlation.md) and [heteroskedasticity](../h/heteroskedasticity.md) in the error terms. Unlike the ADF test, the PP test does not include lagged differences explicitly but adjusts the test [statistics](../s/statistics.md) to account for serial [correlation](../c/correlation.md). 
+The Phillips-Perron test is another method to test for unit roots, [accounting](../a/accounting.md) for potential serial [correlation](../c/correlation.md) and [heteroskedasticity](../h/heteroskedasticity.md) in the error terms. Unlike the ADF test, the PP test does not include lagged differences explicitly but adjusts the test [statistics](../s/statistics.md) to account for serial [correlation](../c/correlation.md).
 
 The hypotheses for the PP test are similar to the ADF test, with the [null hypothesis](../n/null_hypothesis.md) indicating the presence of a unit root.
 
 ### Kwiatkowski-Phillips-Schmidt-Shin (KPSS) Test
 
-The KPSS test takes a different approach by testing the [null hypothesis](../n/null_hypothesis.md) that a [time series](../t/time_series.md) is stationary against the alternative that it is non-stationary due to a unit root. 
+The KPSS test takes a different approach by testing the [null hypothesis](../n/null_hypothesis.md) that a [time series](../t/time_series.md) is stationary against the alternative that it is non-stationary due to a unit root.
 
 - [Null Hypothesis](../n/null_hypothesis.md) (H0): The [time series](../t/time_series.md) is stationary.
 - Alternative Hypothesis (H1): The [time series](../t/time_series.md) is not stationary due to a unit root process.
@@ -48,7 +48,7 @@ The KPSS test is often used in conjunction with the ADF and PP tests to confirm 
 
 The presence of a unit root has significant implications for [time series modeling](../t/time_series_modeling.md) in [financial markets](../f/financial_market.md):
 
-### Model Appropriateness 
+### Model Appropriateness
 
 If a [time series](../t/time_series.md) is found to have a unit root, models that assume stationarity, like ARMA (Autoregressive Moving Average), are inappropriate. Instead, models like ARIMA (Autoregressive Integrated Moving Average), which can [handle](../h/handle.md) non-stationary data through differencing, may be more suitable.
 
@@ -82,17 +82,14 @@ Various statistical software and programming libraries [offer](../o/offer.md) to
 ### R
 
 - `urca` package: Provides functions for [unit root testing](../u/unit_root_testing.md), including ADF, PP, and KPSS tests.
-  [urca package documentation](https://cran.r-project.org/web/packages/urca/urca.pdf)
 
 ### Python
 
 - `statsmodels` library: Includes functions for ADF, PP, and KPSS unit root tests.
-  [statsmodels documentation](https://www.statsmodels.org/stable/index.html)
 
 ### EViews
 
 EViews offers comprehensive tools for unit root analysis, including graphical representations and extensive modeling capabilities.
-[EViews official website](http://www.eviews.com/)
 
 ## Conclusion
 

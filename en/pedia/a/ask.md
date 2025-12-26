@@ -31,4 +31,3 @@ Consider a stock currently quoted with a [bid price](../b/bid_price.md) of $50 a
 
 ### Conclusion
 The ask price is a fundamental concept in trading, reflecting the lowest price at which sellers are willing to part with their assets. Understanding the ask price, along with the [bid price](../b/bid_price.md), is essential for making informed trading decisions, managing [transaction costs](../t/transaction_costs.md), and gauging [market](../m/market.md) conditions.
-

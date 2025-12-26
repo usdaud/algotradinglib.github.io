@@ -12,11 +12,11 @@ ARIMA models are composed of three main components:
 ### Autoregressive (AR) Term
 The autoregressive part of the ARIMA model is essentially a regression of the [time series](../t/time_series.md) on itself. It assumes that the current [value](../v/value.md) of the series can be explained by a linear combination of its previous values. Mathematically, the AR term can be expressed as:
 
-\[ Y_t = \phi_1 Y_{t-1} + \phi_2 Y_{t-2} + ... + \phi_p Y_{t-p} + \epsilon_t \]
+\[ Y_t = \phi_1 Y_{t-1} + \phi_2 Y_{t-2} +... + \phi_p Y_{t-p} + \epsilon_t \]
 
 Where:
 - \( Y_t \) is the current [value](../v/value.md) of the series.
-- \( \phi_1, \phi_2, ..., \phi_p \) are the coefficients.
+- \( \phi_1, \phi_2,..., \phi_p \) are the coefficients.
 - \( \epsilon_t \) is the [error term](../e/error_term.md).
 
 ### Integrated (I) Term
@@ -37,12 +37,12 @@ The parameter `d` indicates the number of times differencing is applied.
 ### Moving Average (MA) Term
 The moving average part of the ARIMA model involves using past forecast errors to predict future values. This component accounts for the unexplained part of the series by incorporating the errors from previous periods. The mathematical representation of the MA term is:
 
-\[ Y_t = \mu + \epsilon_t + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + ... + \theta_q \epsilon_{t-q} \]
+\[ Y_t = \mu + \epsilon_t + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} +... + \theta_q \epsilon_{t-q} \]
 
 Where:
 - \( \mu \) is the mean of the series.
-- \( \epsilon_t, \epsilon_{t-1}, \epsilon_{t-2}, ..., \epsilon_{t-q} \) are the forecast errors.
-- \( \theta_1, \theta_2, ..., \theta_q \) are the coefficients.
+- \( \epsilon_t, \epsilon_{t-1}, \epsilon_{t-2},..., \epsilon_{t-q} \) are the forecast errors.
+- \( \theta_1, \theta_2,..., \theta_q \) are the coefficients.
 
 ## Model Identification
 
@@ -50,8 +50,8 @@ Before an ARIMA model can be constructed, it's crucial to identify the appropria
 
 1. **Differencing to achieve stationarity**: Plot the [time series](../t/time_series.md) and difference it until it appears stationary. The number of differences applied [will](../w/will.md) determine the parameter `d`.
 2. **[Autocorrelation](../a/autocorrelation.md) Function (ACF) and Partial [Autocorrelation](../a/autocorrelation.md) Function (PACF)**: Examine the ACF and PACF plots to identify the potential values of `p` and `q`.
-   - The ACF plot shows the [correlation](../c/correlation.md) between the [time series](../t/time_series.md) and its past values.
-   - The PACF plot shows the partial [correlation](../c/correlation.md) after removing the influence of earlier lags.
+ - The ACF plot shows the [correlation](../c/correlation.md) between the [time series](../t/time_series.md) and its past values.
+ - The PACF plot shows the partial [correlation](../c/correlation.md) after removing the influence of earlier lags.
 
 ### ACF and PACF Interpretation
 - **AR Model (Autoregressive)**: If the series is an AR process, the PACF [will](../w/will.md) show a significant spike at the lag corresponding to the [order](../o/order.md) `p`, with all other lags being insignificant. The ACF [will](../w/will.md) show a gradual decay.
@@ -124,17 +124,17 @@ Several [software tools](../s/software_tools_for_trading.md) and libraries facil
 
 ### Python
 - **Statsmodels**: A comprehensive library for statistical modeling, including ARIMA and SARIMA.
-  - Documentation: [Statsmodels](https://www.statsmodels.org/)
+ - Documentation: Statsmodels
 - **pmdarima**: An extension of Statsmodels for automatic ARIMA fitting.
-  - Documentation: [pmdarima](http://alkaline-ml.com/pmdarima/)
+ - Documentation: pmdarima
 
 ### R
 - **forecast**: A widely-used package for [time series forecasting](../t/time_series_forecasting.md), supporting ARIMA and other models.
-  - Documentation: [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf)
+ - Documentation: forecast
 
 ### MATLAB
 - **[Econometrics](../e/econometrics_in_trading.md) Toolbox**: Provides functions for ARIMA modeling and Bayesian analysis.
-  - Documentation: [Econometrics Toolbox](https://www.mathworks.com/products/econometrics.html)
+ - Documentation: Econometrics Toolbox
 
 ## Conclusion
 

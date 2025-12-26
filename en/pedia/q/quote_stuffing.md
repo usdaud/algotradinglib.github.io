@@ -74,8 +74,8 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increa
 
 ### High-Frequency Trading Firms
 Several HFT firms are known for their advanced trading technologies and strategies:
-- **Citadel Securities**: A leading HFT [firm](../f/firm.md) known for its sophisticated algorithms and technology [infrastructure](../i/infrastructure.md). [Citadel Securities](https://www.citadelsecurities.com/)
-- **Virtu Financial**: An HFT [firm](../f/firm.md) with advanced [trading strategies](../t/trading_strategies.md), focusing on using technology to ensure [market efficiency](../m/market_efficiency.md). [Virtu Financial](https://www.virtu.com/)
+- **Citadel Securities**: A leading HFT [firm](../f/firm.md) known for its sophisticated algorithms and technology [infrastructure](../i/infrastructure.md). Citadel Securities
+- **Virtu Financial**: An HFT [firm](../f/firm.md) with advanced [trading strategies](../t/trading_strategies.md), focusing on using technology to ensure [market efficiency](../m/market_efficiency.md). Virtu Financial
 
 ## Mitigation Strategies
 

@@ -6,15 +6,15 @@
 
 ### Surveys and Polls
 
-- **AAII Sentiment Survey**: The American Association of Individual Investors (AAII) conducts a weekly sentiment survey that captures the investment sentiment of individual investors. This survey involves asking participants about their expectations for stock prices over the next six months. The results are categorized into bullish, bearish, and [neutral](../n/neutral.md) sentiment. [AAII Sentiment Survey](http://www.aaii.com/sentimentsurvey).
+- **AAII Sentiment Survey**: The American Association of Individual Investors (AAII) conducts a weekly sentiment survey that captures the investment sentiment of individual investors. This survey involves asking participants about their expectations for stock prices over the next six months. The results are categorized into bullish, bearish, and [neutral](../n/neutral.md) sentiment. AAII Sentiment Survey.
 
-- **[Investor](../i/investor.md) Intelligence (II) Survey**: This survey targets investment advisors and [money](../m/money.md) managers. Conducted by [Investor](../i/investor.md) Intelligence, it collects data on whether these professionals are bullish, bearish, or [neutral](../n/neutral.md). The results can provide valuable insights into the behavior and strategies of [market](../m/market.md) professionals. [Investor Intelligence Survey](https://www.investorsintelligence.com/x/default.html).
+- **[Investor](../i/investor.md) Intelligence (II) Survey**: This survey targets investment advisors and [money](../m/money.md) managers. Conducted by [Investor](../i/investor.md) Intelligence, it collects data on whether these professionals are bullish, bearish, or [neutral](../n/neutral.md). The results can provide valuable insights into the behavior and strategies of [market](../m/market.md) professionals. Investor Intelligence Survey.
 
 ### Market Data-Based Indicators
 
 - **Put/Call Ratio**: The put/call ratio is derived from the [options](../o/options.md) [market](../m/market.md) and indicates the trading [volume](../v/volume.md) of [put options](../p/put_options.md) relative to call [options](../o/options.md). A higher put/call ratio suggests that more traders are purchasing [put options](../p/put_options.md), which generally indicates bearish sentiment. Conversely, a lower ratio indicates bullish sentiment.
 
-- **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md))**: Often referred to as the "fear gauge," the VIX measures the [market](../m/market.md)'s expectation of future [volatility](../v/volatility.md) based on the prices of [options](../o/options.md) on the S&P 500 [index](../i/index_instrument.md). Higher VIX values indicate increased [investor](../i/investor.md) fear and pessimism, while lower values suggest complacency and optimism. More information can be found on the [CBOE (Chicago Board Options Exchange)](http://www.cboe.com/vix).
+- **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md))**: Often referred to as the "fear gauge," the VIX measures the [market](../m/market.md)'s expectation of future [volatility](../v/volatility.md) based on the prices of [options](../o/options.md) on the S&P 500 [index](../i/index_instrument.md). Higher VIX values indicate increased [investor](../i/investor.md) fear and pessimism, while lower values suggest complacency and optimism. More information can be found on the CBOE (Chicago Board Options Exchange).
 
 - **[High-Low Index](../h/high-low_index.md)**: This [index](../i/index_instrument.md) compares the number of [stocks](../s/stock.md) making new 52-week highs to those making new 52-week lows. A high [index](../i/index_instrument.md) [value](../v/value.md) suggests optimistic [market sentiment](../m/market_sentiment.md), as more [stocks](../s/stock.md) are achieving new highs, whereas a low [value](../v/value.md) indicates pessimism.
 
@@ -54,11 +54,11 @@ This term arises from the Federal Reserve's past behavior under Chairman [Alan G
 
 ## Examples of Companies Providing Sentiment Analysis Tools
 
-- **StockTwits**: This [social media](../s/social_media.md) platform is tailored specifically for investors and traders. It aggregates financial sentiment based on user discussions and provides real-time [sentiment indicators](../s/sentiment_indicators.md). [StockTwits](http://www.stocktwits.com).
+- **StockTwits**: This [social media](../s/social_media.md) platform is tailored specifically for investors and traders. It aggregates financial sentiment based on user discussions and provides real-time [sentiment indicators](../s/sentiment_indicators.md). StockTwits.
 
-- **MarketPsych Data**: They provide granular sentiment data derived from financial news and [social media](../s/social_media.md), which can be integrated into [trading algorithms](../t/trading_algorithms.md) and models. [MarketPsych](https://www.marketpsych.com/).
+- **MarketPsych Data**: They provide granular sentiment data derived from financial news and [social media](../s/social_media.md), which can be integrated into [trading algorithms](../t/trading_algorithms.md) and models. MarketPsych.
 
-- **Quiver Quantitative**: This company offers [alternative data](../a/alternative_data.md) analytics for individual and institutional investors, supplying [sentiment analysis](../s/sentiment_analysis.md) among other data points. [Quiver Quantitative](https://www.quiverquant.com/).
+- **Quiver Quantitative**: This company offers [alternative data](../a/alternative_data.md) analytics for individual and institutional investors, supplying [sentiment analysis](../s/sentiment_analysis.md) among other data points. Quiver Quantitative.
 
 ## Challenges and Limitations
 

@@ -54,7 +54,7 @@ Auditors evaluate the company's [internal controls](../i/internal_controls.md) o
 These procedures involve tests of details and substantive analytical procedures aimed at verifying the amounts and disclosures in the [financial statements](../f/financial_statements.md).
 
 ### Gathering Audit Evidence
-Auditors collect evidence to support their opinion by examining documents, conducting interviews, and performing analytical procedures. 
+Auditors collect evidence to support their opinion by examining documents, conducting interviews, and performing analytical procedures.
 
 ### Review and Reconciliation
 Auditors review [financial statements](../f/financial_statements.md), reconcile any discrepancies, and ensure that the [financial statements](../f/financial_statements.md) align with [accounting](../a/accounting.md) standards.
@@ -140,7 +140,7 @@ Cybersecurity is becoming a critical aspect of audits, especially with the rise 
 An unqualified audit is a cornerstone of financial [transparency](../t/transparency.md) and reliability. It fosters [investor](../i/investor.md) confidence, ensures regulatory compliance, and enhances a company’s credibility with all stakeholders. Companies can achieve unqualified audit reports by maintaining strong [internal controls](../i/internal_controls.md), continuous monitoring, transparent communication, and staying updated with current standards and technologies.
 
 For further reading, you can visit:
-- [PwC: Auditing](https://www.pwc.com/gx/en/services/audit.html)
-- [Deloitte: Audit and Assurance](https://www2.deloitte.com/global/en/pages/audit/solutions/audit-and-assurance.html)
+- PwC: Auditing
+- Deloitte: Audit and Assurance
 
 By adhering to these principles and continuously evolving to meet new challenges and standards, companies can strive to consistently achieve unqualified audits, thereby bolstering their [financial health](../f/financial_health.md) and [market](../m/market.md) reputation.

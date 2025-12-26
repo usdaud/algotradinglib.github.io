@@ -69,15 +69,15 @@ Agribusiness is inherently risky due to factors such as weather [volatility](../
 
 ### Cargill
 
-Cargill, a global leader in agribusiness, has been at the forefront of leveraging [algorithmic trading](../a/accountability.md). The company uses advanced analytics and algorithmic models to optimize [trading strategies](../t/trading_strategies.md), enhance [supply chain](../s/supply_chain.md) [efficiency](../e/efficiency.md), and manage risks effectively. Visit their official website to learn more: [Cargill](https://www.cargill.com/)
+Cargill, a global leader in agribusiness, has been at the forefront of leveraging [algorithmic trading](../a/accountability.md). The company uses advanced analytics and algorithmic models to optimize [trading strategies](../t/trading_strategies.md), enhance [supply chain](../s/supply_chain.md) [efficiency](../e/efficiency.md), and manage risks effectively.
 
 ### John Deere
 
-John Deere, a renowned agricultural equipment manufacturer, integrates [algorithmic trading](../a/accountability.md) and IoT technologies to enhance precision farming. Their platform collects data from various sources, including satellite imagery and sensors, to optimize planting, irrigation, and harvesting processes. More information can be found on their website: [John Deere](https://www.deere.com/en/)
+John Deere, a renowned agricultural equipment manufacturer, integrates [algorithmic trading](../a/accountability.md) and IoT technologies to enhance precision farming. Their platform collects data from various sources, including satellite imagery and sensors, to optimize planting, irrigation, and harvesting processes. John Deere
 
 ### Climate Corporation
 
-Climate [Corporation](../c/corporation.md), a subsidiary of Bayer, leverages [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to provide predictive insights for farmers. Their Climate FieldView platform forecasts weather patterns, crop yields, and disease risks, enabling data-driven decision-making. Visit their site for additional details: [Climate Corporation](https://climate.com/)
+Climate [Corporation](../c/corporation.md), a subsidiary of Bayer, leverages [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to provide predictive insights for farmers. Their Climate FieldView platform forecasts weather patterns, crop yields, and disease risks, enabling data-driven decision-making.
 
 ## Challenges and Considerations
 
@@ -121,6 +121,6 @@ The integration of IoT devices and remote sensing technologies [will](../w/will.
 
 ## References
 
-- [Cargill](https://www.cargill.com/)
-- [John Deere](https://www.deere.com/en/)
-- [Climate Corporation](https://climate.com/)
+- Cargill
+- John Deere
+- Climate Corporation

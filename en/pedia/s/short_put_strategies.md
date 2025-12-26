@@ -1,6 +1,6 @@
 # Short Put Strategies
 
-A [short put](../s/short_put.md) strategy is an [options](../o/options.md) [trading strategy](../t/trading_strategy.md) where the [trader](../t/trader.md) sells ("writes") a [put option](../p/put.md) with the expectation that the price of the [underlying asset](../u/underlying_asset.md) [will](../w/will.md) either remain above the [strike price](../s/strike_price.md) or rise. This strategy is often employed because it can provide both [income](../i/income.md) and potential for [capital](../c/capital.md) gains. 
+A [short put](../s/short_put.md) strategy is an [options](../o/options.md) [trading strategy](../t/trading_strategy.md) where the [trader](../t/trader.md) sells ("writes") a [put option](../p/put.md) with the expectation that the price of the [underlying asset](../u/underlying_asset.md) [will](../w/will.md) either remain above the [strike price](../s/strike_price.md) or rise. This strategy is often employed because it can provide both [income](../i/income.md) and potential for [capital](../c/capital.md) gains.
 
 The following is a comprehensive overview of [short put](../s/short_put.md) strategies, covering fundamental concepts, [risk](../r/risk.md)/reward profiles, [market](../m/market.md) scenarios, and management techniques.
 
@@ -37,7 +37,7 @@ If the [underlying asset](../u/underlying_asset.md)'s price falls significantly,
 
 ### Breakeven Point
 
-The [breakeven point](../b/breakeven_point.md) of a [short put](../s/short_put.md) strategy is the [strike price](../s/strike_price.md) minus the [premium](../p/premium.md) received. At this price, the [trader](../t/trader.md) neither makes a [profit](../p/profit.md) nor incurs a loss. 
+The [breakeven point](../b/breakeven_point.md) of a [short put](../s/short_put.md) strategy is the [strike price](../s/strike_price.md) minus the [premium](../p/premium.md) received. At this price, the [trader](../t/trader.md) neither makes a [profit](../p/profit.md) nor incurs a loss.
 
 \[ \text{[Breakeven Point](../b/breakeven_point.md)} = \text{[Strike Price](../s/strike_price.md)} - \text{[Premium](../p/premium.md)} \]
 
@@ -83,7 +83,7 @@ Using stops, limits, and predefined exit points can help manage [risk](../r/risk
 
 ## Real-World Application
 
-Many professional traders and financial institutions utilize [short put](../s/short_put.md) strategies to generate [income](../i/income.md) and improve portfolio returns. Companies like TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/), [E*TRADE](../e/e_trade.md) (https://us.etrade.com/[home](../h/home.md)), and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/en/[home](../h/home.md).php) [offer](../o/offer.md) platforms and tools to facilitate such [options trading strategies](../o/options_trading_strategies.md).
+Many professional traders and financial institutions utilize [short put](../s/short_put.md) strategies to generate [income](../i/income.md) and improve portfolio returns. Companies like TD [Ameritrade](../a/ameritrade.md) ( [E*TRADE](../e/e_trade.md) ( and [Interactive Brokers](../i/interactive_brokers.md) ( [offer](../o/offer.md) platforms and tools to facilitate such [options trading strategies](../o/options_trading_strategies.md).
 
 ## Conclusion
 

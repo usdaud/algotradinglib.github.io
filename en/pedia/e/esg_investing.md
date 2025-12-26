@@ -10,7 +10,7 @@ Environmental factors evaluate a company's impact on the natural world. This inc
 - **Resource [Depletion](../d/depletion.md):** How efficiently companies use finite resources.
 - **Waste Management:** The approach toward reduction, management, and recycling of waste.
 - **Pollution & Emissions:** Levels of pollutants and greenhouse gas emissions produced.
-- **Biodiversity:** The impact of company operations on ecosystems and species. 
+- **Biodiversity:** The impact of company operations on ecosystems and species.
 
 ## Social Factors
 
@@ -47,11 +47,11 @@ There are several ESG investment strategies, each with a different focus and app
 
 The rise of ESG [investing](../i/investing.md) has led to the development of ESG ratings and reporting. These ratings are provided by external agencies and measure how well a company performs on ESG criteria. Some prominent ESG [rating](../r/rating.md) agencies include:
 
-- **MSCI ESG Ratings**: Provides metrics on companies’ exposures to and management of ESG risks and opportunities [MSCI](https://www.msci.com/our-solutions/esg-investing).
-- **Sustainalytics**: Offers ESG [risk](../r/risk.md) ratings to measure company exposure to [industry](../i/industry.md)-specific material ESG risks [Sustainalytics](https://www.sustainalytics.com/).
-- **[FTSE Russell](../f/ftse_russell.md) (FTSE4Good)**: An [index](../i/index_instrument.md) series that measures the performance of companies demonstrating strong ESG practices [FTSE Russell](https://www.ftserussell.com/).
-- **ISS ESG**: Delivers ESG ratings, and governance quality scores [ISS ESG](https://www.issgovernance.com/esg/).
-- **[Bloomberg](../b/bloomberg.md) ESG Data**: Provides ESG data, scores, and benchmarking [Bloomberg](https://www.bloomberg.com/professional/solution/esg-data/).
+- **MSCI ESG Ratings**: Provides metrics on companies’ exposures to and management of ESG risks and opportunities MSCI.
+- **Sustainalytics**: Offers ESG [risk](../r/risk.md) ratings to measure company exposure to [industry](../i/industry.md)-specific material ESG risks Sustainalytics.
+- **[FTSE Russell](../f/ftse_russell.md) (FTSE4Good)**: An [index](../i/index_instrument.md) series that measures the performance of companies demonstrating strong ESG practices FTSE Russell.
+- **ISS ESG**: Delivers ESG ratings, and governance quality scores ISS ESG.
+- **[Bloomberg](../b/bloomberg.md) ESG Data**: Provides ESG data, scores, and benchmarking Bloomberg.
 
 ## ESG Standards and Frameworks
 

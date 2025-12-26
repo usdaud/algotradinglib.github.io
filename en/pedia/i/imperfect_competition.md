@@ -60,7 +60,7 @@ Economists often use several metrics to measure the degree of imperfection in a 
 
 ### 1. Concentration Ratios
 
-Concentration ratios measure the [market share](../m/market_share.md) of the largest firms in the [industry](../i/industry.md). A high [concentration ratio](../c/concentration_ratio.md) indicates that a few firms dominate the [market](../m/market.md), suggesting oligopolistic or monopolistic structures. The four-[firm](../f/firm.md) [concentration ratio](../c/concentration_ratio.md) (CR4) is a commonly used measure, which sums the [market](../m/market.md) [shares](../s/shares.md) of the four largest firms. 
+Concentration ratios measure the [market share](../m/market_share.md) of the largest firms in the [industry](../i/industry.md). A high [concentration ratio](../c/concentration_ratio.md) indicates that a few firms dominate the [market](../m/market.md), suggesting oligopolistic or monopolistic structures. The four-[firm](../f/firm.md) [concentration ratio](../c/concentration_ratio.md) (CR4) is a commonly used measure, which sums the [market](../m/market.md) [shares](../s/shares.md) of the four largest firms.
 
 ### 2. The Herfindahl-Hirschman Index (HHI)
 
@@ -74,7 +74,7 @@ The Cournot model describes an [oligopoly](../o/oligopoly.md) where firms compet
 
 ### 2. Bertrand Model
 
-In contrast to the Cournot model, the Bertrand model describes an [oligopoly](../o/oligopoly.md) where firms compete on price rather than quantity. Each [firm](../f/firm.md) assumes the prices set by their competitors remain constant. 
+In contrast to the Cournot model, the Bertrand model describes an [oligopoly](../o/oligopoly.md) where firms compete on price rather than quantity. Each [firm](../f/firm.md) assumes the prices set by their competitors remain constant.
 
 ### 3. Stackelberg Model
 
@@ -90,7 +90,7 @@ Governments often intervene in imperfectly competitive markets to correct [marke
 
 ### 1. Antitrust Laws
 
-[Antitrust](../a/antitrust.md) laws aim to prevent mergers and acquisitions that would reduce competition and to dismantle monopolistic practices. 
+[Antitrust](../a/antitrust.md) laws aim to prevent mergers and acquisitions that would reduce competition and to dismantle monopolistic practices.
 
 - **Example**: The United States’ [Sherman Antitrust Act](../s/sherman_antitrust_act.md) and the [European Union](../e/european_union_(eu).md)’s competition laws.
 
@@ -110,20 +110,17 @@ Governments can also use subsidies and support programs to help new firms enter 
 
 The [technology sector](../t/technology_sector.md) has many examples of imperfect competition due to high entry barriers and significant [economies of scale](../e/economies_of_scale.md). Companies like Google and Apple have substantial [market power](../m/market_power.md) in their respective segments.
 
-- **Link**: Google ([https://about.google/](https://about.google/))
-
+- **Link**: Google
 ### 2. Pharmaceutical Industry
 
 Pharmaceutical companies often operate under monopolistic conditions due to patents, which [grant](../g/grant.md) them exclusive rights to produce a drug for a certain period.
 
-- **Link**: Pfizer ([https://www.pfizer.com/](https://www.pfizer.com/))
-
+- **Link**: Pfizer
 ### 3. Retail Industry
 
 Retail markets, particularly e-[commerce](../c/commerce.md), show characteristics of [monopolistic competition](../m/monopolistic_competition.md). Companies like Amazon dominate the [market](../m/market.md) but still face competition from firms [offering](../o/offering.md) differentiated products.
 
-- **Link**: Amazon ([https://www.amazon.com/](https://www.amazon.com/))
-
+- **Link**: Amazon
 ## Conclusion
 
 Imperfect competition is a broad concept that encompasses various [market](../m/market.md) structures lying between [perfect competition](../p/perfect_competition.md) and [monopoly](../m/monopoly.md). Understanding these structures helps economists analyze [market](../m/market.md) behavior, [firm](../f/firm.md) strategies, and the impacts of public policies to ensure competitive markets and consumer [welfare](../w/welfare.md).

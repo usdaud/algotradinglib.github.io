@@ -75,7 +75,7 @@ Average Total Assets = \( \frac{250 + 241}{2} = 245.5 \) billion
 
 Walmart’s high [asset turnover ratio](../a/asset_turnover_ratio.md) indicates its efficient use of assets to generate significant [revenue](../r/revenue.md), characteristic of the retail [industry](../i/industry.md).
 
-For more financial information about Walmart, you can visit their [financial report](https://stock.walmart.com/financials/annual-reports-and-proxies/default.aspx).
+For more financial information about Walmart, you can visit their financial report.
 
 ## Conclusion
 

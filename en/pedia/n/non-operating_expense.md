@@ -77,7 +77,6 @@ Apple Inc. is a prime example where non-operating expenses can be observed in it
 General Electric, a diversified industrial company, often incurs non-operating expenses related to [restructuring](../r/restructuring.md) and impairments. In their 2022 [annual report](../a/annual_report.md), these costs were highlighted separately to provide a clear view of GE's operational performance versus the costs stemming from [restructuring](../r/restructuring.md) efforts.
 
 For more information on General Electric's [financial performance](../f/financial_performance.md) and reporting:
-[General Electric Investor Relations](https://www.ge.com/investor-relations)
 
 ### Challenges and Considerations
 

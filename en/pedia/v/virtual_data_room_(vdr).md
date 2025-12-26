@@ -1,6 +1,6 @@
 # Virtual Data Room (VDR)
 
-A Virtual Data Room (VDR) is a secure online platform used for storing and sharing confidential information. It is a key technology tool utilized in various [business](../b/business.md) transactions, including mergers and acquisitions (M&A), fundraising, IPOs, and corporate [due diligence](../d/due_diligence.md). VDRs ensure that sensitive [business](../b/business.md) data is protected and accessible only to authorized users, which is crucial in today’s digital era where data breaches and cybersecurity threats are prevalent. 
+A Virtual Data Room (VDR) is a secure online platform used for storing and sharing confidential information. It is a key technology tool utilized in various [business](../b/business.md) transactions, including mergers and acquisitions (M&A), fundraising, IPOs, and corporate [due diligence](../d/due_diligence.md). VDRs ensure that sensitive [business](../b/business.md) data is protected and accessible only to authorized users, which is crucial in today’s digital era where data breaches and cybersecurity threats are prevalent.
 
 ## Key Features and Functionality
 
@@ -12,7 +12,7 @@ A Virtual Data Room (VDR) is a secure online platform used for storing and shari
 - **Multi-[Factor](../f/factor.md) Authentication (MFA):** Users must go through [multiple](../m/multiple.md) layers of authentication to [gain](../g/gain.md) access, reducing the [risk](../r/risk.md) of unauthorized entry.
 - **Access Controls:** Detailed permission settings allow administrators to control who can view, edit, or download documents.
 - **Audit Trails:** VDRs often include comprehensive tracking logs that record every user activity within the platform, aiding in compliance and forensic analysis.
-  
+
 Many VDRs adhere to major regulatory standards and [industry](../i/industry.md) [best practices](../b/best_practices.md), such as GDPR, HIPAA, and SOC 2, ensuring that they comply with stringent [security](../s/security.md) and privacy regulations.
 
 ### Document Management
@@ -76,19 +76,19 @@ Financial institutions must comply with various regulatory requirements for data
 
 ### Intralinks
 
-Intralinks is a global leader in VDR solutions, known for its extensive [security](../s/security.md) measures and [robust](../r/robust.md) features tailored for complex financial transactions. Their platform supports M&A, [capital](../c/capital.md) raising, and other sensitive [business](../b/business.md) processes with features like AI-powered document organization and real-time insights. More information can be found on their [official website](https://www.intralinks.com).
+Intralinks is a global leader in VDR solutions, known for its extensive [security](../s/security.md) measures and [robust](../r/robust.md) features tailored for complex financial transactions. Their platform supports M&A, [capital](../c/capital.md) raising, and other sensitive [business](../b/business.md) processes with features like AI-powered document organization and real-time insights.
 
 ### Datasite
 
-Datasite specializes in VDR services that cater primarily to the M&A [market](../m/market.md). Their platform provides tools for [due diligence](../d/due_diligence.md), [asset](../a/asset.md) [marketing](../m/marketing.md), and document management, with a strong focus on [security](../s/security.md) and user experience. More details are available on their [official website](https://www.datasite.com).
+Datasite specializes in VDR services that cater primarily to the M&A [market](../m/market.md). Their platform provides tools for [due diligence](../d/due_diligence.md), [asset](../a/asset.md) [marketing](../m/marketing.md), and document management, with a strong focus on [security](../s/security.md) and user experience. More
 
 ### Box
 
-Box offers a versatile cloud content management service that includes VDR capabilities. It supports enterprises in handling secure document sharing, compliance, and workflow automation across various [business](../b/business.md) needs. Their focus extends to collaboration and integration with other enterprise tools. More information can be found on their [official website](https://www.box.com).
+Box offers a versatile cloud content management service that includes VDR capabilities. It supports enterprises in handling secure document sharing, compliance, and workflow automation across various [business](../b/business.md) needs. Their focus extends to collaboration and integration with other enterprise tools.
 
 ### Firmex
 
-Firmex provides a secure VDR platform popular among financial advisors, banks, legal firms, and corporations. They [offer](../o/offer.md) features such as dynamic watermarking, document expiry, and integrated Q&A with an emphasis on ease-of-use and [security](../s/security.md). Further information is available on their [official website](https://www.firmex.com).
+Firmex provides a secure VDR platform popular among financial advisors, banks, legal firms, and corporations. They [offer](../o/offer.md) features such as dynamic watermarking, document expiry, and integrated Q&A with an emphasis on ease-of-use and [security](../s/security.md).
 
 ## Future Trends and Innovations
 

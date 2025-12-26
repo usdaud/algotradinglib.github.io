@@ -80,13 +80,13 @@ In emerging markets, Walmart often faces different challenges and opportunities.
 
 ### Sustainability Initiatives
 
-To mitigate some of the negative aspects of the Walmart Effect, the [corporation](../c/corporation.md) has undertaken several sustainability initiatives. These include investments in renewable energy, waste reduction programs, and the promotion of sustainable agriculture. Walmart aims to source 100% of its energy from renewable sources and has made significant strides in reducing packaging waste. 
+To mitigate some of the negative aspects of the Walmart Effect, the [corporation](../c/corporation.md) has undertaken several sustainability initiatives. These include investments in renewable energy, waste reduction programs, and the promotion of sustainable agriculture. Walmart aims to source 100% of its energy from renewable sources and has made significant strides in reducing packaging waste.
 
 ### Community Engagement
 
 Walmart also engages in philanthropic activities aimed at giving back to the communities it operates in. The company’s charitable foundation, the Walmart Foundation, distributes millions of dollars annually to support various causes such as hunger relief, education, and disaster response. Such efforts help to [offset](../o/offset.md) some of the criticisms related to Walmart’s [business](../b/business.md) practices and their impact on local communities.
 
-For more information about Walmart, you can visit their official website: [Walmart Corporate](https://corporate.walmart.com/).
+
 
 ## Conclusion
 

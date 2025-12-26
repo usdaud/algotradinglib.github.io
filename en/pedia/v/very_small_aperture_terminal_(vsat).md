@@ -1,4 +1,4 @@
-# Very Small Aperture Terminal (VSAT) 
+# Very Small Aperture Terminal (VSAT)
 
 A Very Small Aperture Terminal (VSAT) is a two-way satellite ground station with a dish antenna that is generally smaller than 3 meters in diameter. VSATs are used for a multitude of purposes including the [provision](../p/provision.md) of broadband internet access, private network access and [video conferencing](../v/video_conferencing.md). The smaller the dish, the higher the frequency at which it operates, and the higher the cost of equipment and bandwidth. By leveraging geostationary satellites, they are capable of providing Internet access and connectivity to remote locations where it is challenging to extend traditional terrestrial network infrastructures.
 
@@ -96,10 +96,10 @@ Although the cost of VSAT technology has been decreasing, it can still be prohib
 
 Several companies are at the forefront of the VSAT [industry](../i/industry.md), providing equipment, connectivity services, and comprehensive solutions. Some of the leading providers include:
 
-- **Hughes Network Systems:** [Hughes Network Systems](https://www.hughes.com/) offers a [range](../r/range.md) of VSAT solutions catering to various sectors including enterprise, government, and consumer markets.
-- **Viasat Inc.:** [Viasat Inc.](https://www.viasat.com/) provides high-speed satellite broadband services, satellite systems, and enterprise connectivity solutions.
-- **Inmarsat:** [Inmarsat](https://www.inmarsat.com/) specializes in global mobile satellite communications, including VSAT solutions for maritime, aviation, and government sectors.
-- **SES Networks:** [SES Networks](https://www.ses.com/networks) offers satellite and ground [infrastructure](../i/infrastructure.md) to provide high-performance connectivity across various industries.
+- **Hughes Network Systems:** Hughes Network Systems offers a [range](../r/range.md) of VSAT solutions catering to various sectors including enterprise, government, and consumer markets.
+- **Viasat Inc.:** Viasat Inc. provides high-speed satellite broadband services, satellite systems, and enterprise connectivity solutions.
+- **Inmarsat:** Inmarsat specializes in global mobile satellite communications, including VSAT solutions for maritime, aviation, and government sectors.
+- **SES Networks:** SES Networks offers satellite and ground [infrastructure](../i/infrastructure.md) to provide high-performance connectivity across various industries.
 
 ## Conclusion
 

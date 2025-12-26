@@ -41,19 +41,19 @@ Penetrating a horizontal [market](../m/market.md) can be challenging due to the 
 ## Examples of Horizontal Markets
 
 ### Information Technology
-The information [technology sector](../t/technology_sector.md) is a classic example of a horizontal [market](../m/market.md). Products such as computer hardware, software applications, and [networking](../n/networking.md) solutions are indispensable across virtually all industries. Companies like Microsoft (https://www.microsoft.com), Google (https://www.google.com), and Apple (https://www.apple.com) dominate this space by providing versatile technology solutions that cater to a broad audience.
+The information [technology sector](../t/technology_sector.md) is a classic example of a horizontal [market](../m/market.md). Products such as computer hardware, software applications, and [networking](../n/networking.md) solutions are indispensable across virtually all industries. Companies like Microsoft ( Google ( and Apple ( dominate this space by providing versatile technology solutions that cater to a broad audience.
 
 ### Office Supplies
-Office supplies represent another prominent horizontal [market](../m/market.md). Businesses across various sectors require office essentials such as stationery, paper, printers, and furniture. Companies like Staples (https://www.staples.com) and Office Depot (https://www.officedepot.com) [supply](../s/supply.md) a wide [range](../r/range.md) of office products that serve the needs of diverse industries.
+Office supplies represent another prominent horizontal [market](../m/market.md). Businesses across various sectors require office essentials such as stationery, paper, printers, and furniture. Companies like Staples ( and Office Depot ( [supply](../s/supply.md) a wide [range](../r/range.md) of office products that serve the needs of diverse industries.
 
 ### Financial Services
-Financial services, including banking, [insurance](../i/insurance.md), and investment products, form a significant horizontal [market](../m/market.md). These services are necessary for both individuals and businesses regardless of [industry](../i/industry.md). Major financial institutions such as JPMorgan Chase (https://www.jpmorganchase.com), Goldman Sachs (https://www.goldmansachs.com), and [Bank](../b/bank.md) of America (https://www.bankofamerica.com) operate in this broad [market](../m/market.md).
+Financial services, including banking, [insurance](../i/insurance.md), and investment products, form a significant horizontal [market](../m/market.md). These services are necessary for both individuals and businesses regardless of [industry](../i/industry.md). Major financial institutions such as JPMorgan Chase ( Goldman Sachs ( and [Bank](../b/bank.md) of America ( operate in this broad [market](../m/market.md).
 
 ### Human Resources Solutions
-Human resources (HR) solutions, encompassing [payroll](../p/payroll.md), recruitment, training, and [performance management](../p/performance_management.md), are essential for organizations across all sectors. Companies like ADP (https://www.adp.com), Workday (https://www.workday.com), and Paychex (https://www.paychex.com) provide HR solutions that cater to a wide [range](../r/range.md) of industries.
+Human resources (HR) solutions, encompassing [payroll](../p/payroll.md), recruitment, training, and [performance management](../p/performance_management.md), are essential for organizations across all sectors. Companies like ADP ( Workday ( and Paychex ( provide HR solutions that cater to a wide [range](../r/range.md) of industries.
 
 ### Marketing and Advertising
-[Marketing](../m/marketing.md) and advertising services are universally required across industries to build [brand awareness](../b/brand_awareness.md) and drive sales. Agencies and platforms like WPP (https://www.wpp.com), Omnicom Group (https://www.omnicomgroup.com), and HubSpot (https://www.hubspot.com) [offer](../o/offer.md) [marketing](../m/marketing.md) solutions suitable for various [business](../b/business.md) sectors.
+[Marketing](../m/marketing.md) and advertising services are universally required across industries to build [brand awareness](../b/brand_awareness.md) and drive sales. Agencies and platforms like WPP ( Omnicom Group ( and HubSpot ( [offer](../o/offer.md) [marketing](../m/marketing.md) solutions suitable for various [business](../b/business.md) sectors.
 
 ## Strategies for Success in Horizontal Markets
 

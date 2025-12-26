@@ -58,7 +58,7 @@ Technological advancements in the form of Automated [Valuation Models](../v/valu
 
 ## Case Study: Rocket Mortgage
 
-[Rocket Mortgage](https://www.rocketmortgage.com/) is an example of a company that utilizes advanced technology to streamline the [mortgage](../m/mortgage.md) approval process, including the calculation of LTV ratios. By leveraging online tools and real-time [data integration](../d/data_integration.md), Rocket [Mortgage](../m/mortgage.md) provides borrowers with instant [loan](../l/loan.md) approvals, while accurately assessing LTV ratios.
+Rocket Mortgage is an example of a company that utilizes advanced technology to streamline the [mortgage](../m/mortgage.md) approval process, including the calculation of LTV ratios. By leveraging online tools and real-time [data integration](../d/data_integration.md), Rocket [Mortgage](../m/mortgage.md) provides borrowers with instant [loan](../l/loan.md) approvals, while accurately assessing LTV ratios.
 
 ## Conclusion
 

@@ -72,19 +72,19 @@ MNCs often face intense scrutiny regarding their ethical practices, especially c
 
 Apple Inc. is a quintessential example of an MNC. With its headquarters in Cupertino, California, Apple operates retail stores and [manufacturing](../m/manufacturing.md) facilities across [multiple](../m/multiple.md) countries. Apple's [business](../b/business.md) model includes a mix of centralized strategic control and decentralized operational management.
 
-For more detailed information, you can visit [Apple's official website](https://www.apple.com).
+For more detailed information,
 
 ### Toyota Motor Corporation
 
 Toyota Motor [Corporation](../c/corporation.md) operates [manufacturing](../m/manufacturing.md) plants and sells vehicles across various continents, including North America, Europe, and Asia. They have successfully balanced global strategies with local adaptations, making them one of the most successful automobile manufacturers in the world.
 
-For more detailed information, you can visit [Toyota's official website](https://www.toyota-global.com).
+For more detailed information,
 
 ### Unilever
 
 Unilever is another well-known MNC that manufactures [consumer goods](../c/consumer_goods.md). It operates in over 190 countries and focuses on producing goods tailored to local preferences while maintaining a strong global brand.
 
-For more detailed information, you can visit [Unilever's official website](https://www.unilever.com).
+For more detailed information,
 
 ## Impact of Multinational Corporations on Host Countries
 

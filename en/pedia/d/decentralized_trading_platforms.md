@@ -9,7 +9,7 @@ Decentralized trading platforms utilize [smart contracts](../s/smart_contracts_i
 ## Key Features of Decentralized Trading Platforms
 
 1. **Autonomy and Control**: Users retain full control over their funds without entrusting them to a centralized entity, mitigating risks associated with hacks and [insolvency](../i/insolvency.md).
-   
+
 2. **[Transparency](../t/transparency.md)**: All transactions are recorded on the [blockchain](../b/blockchain_in_trading.md), ensuring [transparency](../t/transparency.md) and immutability.
 
 3. **[Security](../s/security.md)**: Decentralized platforms reduce the [risk](../r/risk.md) of centralized breaches since assets are managed through individual wallets and [smart contracts](../s/smart_contracts_in_trading.md) rather than being held on the [exchange](../e/exchange.md).
@@ -22,7 +22,7 @@ Decentralized trading platforms utilize [smart contracts](../s/smart_contracts_i
 
 ### Uniswap
 
-[Uniswap](https://uniswap.org/) is one of the pioneer decentralized trading platforms built on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). It functions as an automated [market maker](../m/market_maker.md) (AMM), allowing users to [trade](../t/trade.md) ERC-20 tokens without the need for an [order book](../o/order_book.md).
+Uniswap is one of the pioneer decentralized trading platforms built on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). It functions as an automated [market maker](../m/market_maker.md) (AMM), allowing users to [trade](../t/trade.md) ERC-20 tokens without the need for an [order book](../o/order_book.md).
 
 - **[Automated Market Making](../a/automated_market_making.md)**: Uses a constant product formula (x * y = k) to facilitate trades.
 - **[Liquidity Pools](../l/liquidity_pools.md)**: Users can provide [liquidity](../l/liquidity.md) to pools in [exchange](../e/exchange.md) for a share of the trading fees.
@@ -31,7 +31,7 @@ Decentralized trading platforms utilize [smart contracts](../s/smart_contracts_i
 
 ### SushiSwap
 
-[SushiSwap](https://sushi.com/) started as a fork of Uniswap and quickly evolved to establish its identity within the DeFi space. [SushiSwap](../s/sushiswap.md) also operates as an AMM-based platform with additional features for the community.
+SushiSwap started as a fork of Uniswap and quickly evolved to establish its identity within the DeFi space. [SushiSwap](../s/sushiswap.md) also operates as an AMM-based platform with additional features for the community.
 
 - **AMM Design**: Functions similarly to Uniswap but adds incentives for [liquidity](../l/liquidity.md) providers.
 - **[Yield](../y/yield.md) Farming**: Users can stake SUSHI tokens to earn rewards.
@@ -40,7 +40,7 @@ Decentralized trading platforms utilize [smart contracts](../s/smart_contracts_i
 
 ### PancakeSwap
 
-[PancakeSwap](https://pancakeswap.finance/) is a decentralized [exchange](../e/exchange.md) built on the [Binance](../b/binance.md) Smart Chain, known for its lower [transaction costs](../t/transaction_costs.md) and faster processing times compared to [Ethereum](../e/ethereum_.md)-based DEXs.
+PancakeSwap is a decentralized [exchange](../e/exchange.md) built on the [Binance](../b/binance.md) Smart Chain, known for its lower [transaction costs](../t/transaction_costs.md) and faster processing times compared to [Ethereum](../e/ethereum_.md)-based DEXs.
 
 - **AMM Design**: Similar to Uniswap but on [Binance](../b/binance.md) Smart Chain.
 - **[Yield](../y/yield.md) Farming**: Offers high-[yield](../y/yield.md) farming opportunities with CAKE tokens.
@@ -49,7 +49,7 @@ Decentralized trading platforms utilize [smart contracts](../s/smart_contracts_i
 
 ### Balancer
 
-[Balancer](https://balancer.fi/) is a distinct decentralized [trading platform](../t/trading_platform.md) that enables users to create [liquidity pools](../l/liquidity_pools.md) with [multiple](../m/multiple.md) assets and customized weightings.
+Balancer is a distinct decentralized [trading platform](../t/trading_platform.md) that enables users to create [liquidity pools](../l/liquidity_pools.md) with [multiple](../m/multiple.md) assets and customized weightings.
 
 - **Multifaceted Pools**: Allows creation of [liquidity pools](../l/liquidity_pools.md) with [multiple](../m/multiple.md) tokens and different ratios.
 - **Smart Pools**: Flexible [liquidity pools](../l/liquidity_pools.md) that self-adjust parameters based on pre-defined conditions.
@@ -101,4 +101,4 @@ Cross-chain interoperability is crucial for the growth of DEXs. Projects like Po
 
 ## Conclusion
 
-Decentralized trading platforms represent a transformative shift in the way digital assets are traded, moving towards a more autonomous, secure, and transparent environment. As technology evolves and the DeFi ecosystem expands, these platforms are poised to play a pivotal role in the [financial markets](../f/financial_market.md) of the future, despite the ongoing challenges. Continuous innovation and adaptation [will](../w/will.md) be key to fully realizing the potential of decentralized [finance](../f/finance.md).
+Decentralized trading platforms represent a transformative shift in the way digital assets are traded, moving towards a more autonomous, secure, and transparent environment. As technology evolves and the DeFi ecosystem expands, these platforms are poised to play a pivotal role in the [financial markets](../f/financial_market.md) of the future, despite the ongoing challenges. Continuous innovation and adaptation [will](../w/will.md) be key to fully realizing the potential of decentralized [finance](../f/finance.md).

@@ -50,7 +50,7 @@ The [Mean Reversion](../m/mean_reversion.md) strategy is based on the idea that 
 
 [Pairs trading](../p/pairs_trading.md) involves taking a long position in one [security](../s/security.md) and a short position in a correlated [security](../s/security.md). The idea is that the prices of these two securities [will](../w/will.md) move together, and any [divergence](../d/divergence.md) from this relationship [will](../w/will.md) revert back, allowing for [profit](../p/profit.md).
 
-## Tools and Platforms for Quantitative Trading 
+## Tools and Platforms for Quantitative Trading
 
 ### Python
 
@@ -64,15 +64,13 @@ R is another popular language used in [quantitative finance](../q/quantitative_f
 
 MATLAB is a high-level language and environment for numerical computation, visualization, and programming. It is highly regarded for its powerful toolboxes specifically designed for [financial modeling](../f/financial_modeling.md).
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based [infrastructure](../i/infrastructure.md) for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). They [offer](../o/offer.md) extensive data libraries and integration with [multiple](../m/multiple.md) brokers.
-[QuantConnect](https://www.quantconnect.com/)
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides [infrastructure](../i/infrastructure.md) for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). They [offer](../o/offer.md) extensive data libraries and integration with [multiple](../m/multiple.md) brokers.
 
 ### MetaTrader
 
 MetaTrader is a popular electronic [trading platform](../t/trading_platform.md) used for online trading in forex, CFD, and [futures](../f/futures.md) markets. It has extensive scripting capabilities through its MQL language, allowing for automated trading.
-[MetaTrader](https://www.metatrader5.com/en)
 
 ### Algorithmic Trading Firms
 
@@ -81,17 +79,15 @@ Several [algorithmic trading](../a/algorithmic_trading.md) firms have made signi
 #### Renaissance Technologies
 
 Renaissance Technologies is one of the most successful [quantitative trading](../q/quantitative_trading.md) firms. Known primarily for its flagship Medallion [Fund](../f/fund.md), the [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify [market](../m/market.md) inefficiencies.
-[Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
 
 Two Sigma Investments is another leading quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to identify investment opportunities. They are known for their rigorous approach to research and development.
-[Two Sigma](https://www.twosigma.com/)
 
 #### D. E. Shaw & Co.
 
 D. E. Shaw & Co. is a global investment and technology development [firm](../f/firm.md). They are well-known for their work in [algorithmic trading](../a/algorithmic_trading.md), using a broad array of quantitative techniques to generate [alpha](../a/alpha.md).
-[D. E. Shaw & Co.](https://www.deshaw.com/)
+D. E. Shaw & Co.
 
 ## Challenges in Quantitative Trading
 

@@ -14,7 +14,7 @@ Successful high probability [trading strategies](../t/trading_strategies.md) rel
 - **[Uptrend](../u/uptrend.md)**: Marked by higher highs and higher lows.
 - **[Downtrend](../d/downtrend.md)**: Characterized by lower lows and lower highs.
 - **Sideways [Trend](../t/trend.md)**: Occurs when the [market](../m/market.md) shows little directional movement.
- 
+
 [Technical indicators](../t/technical_indicators.md) like moving averages (MA), the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are often used to identify and confirm trends.
 
 **[Momentum](../m/momentum.md)**
@@ -53,13 +53,13 @@ Statistical models [offer](../o/offer.md) another layer of sophistication in hig
 Several [technical indicators](../t/technical_indicators.md) and tools are essential for high probability [trading strategies](../t/trading_strategies.md):
 
 - **Moving Averages (MA)**: Smoothens price data to identify trends.
-  - Simple Moving Average (SMA)
-  - Exponential Moving Average (EMA)
-  
+ - Simple Moving Average (SMA)
+ - Exponential Moving Average (EMA)
+
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Provide a relative definition of high and low prices.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md)**: Predicts potential [support and resistance](../s/support_and_resistance.md) levels.
 - **[Ichimoku Cloud](../i/ichimoku_cloud.md)**: Offers a snapshot of potential [support and resistance](../s/support_and_resistance.md), [trend](../t/trend.md) direction, and [momentum](../m/momentum.md).
-  
+
 **Platforms and Software**
 
 Several platforms and software solutions support the implementation of high probability [trading strategies](../t/trading_strategies.md):
@@ -67,7 +67,7 @@ Several platforms and software solutions support the implementation of high prob
 - **MetaTrader 4 & 5**: Offers advanced charting and trading automation capabilities.
 - **[NinjaTrader](../n/ninjatrader.md)**: Renowned for its [robust](../r/robust.md) charting, analysis, and [execution](../e/execution.md) tools.
 - **[TradingView](../t/tradingview.md)**: Provides comprehensive charting tools and [social networking](../s/social_networking.md) features.
-- **[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com)**: A platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **[StockSharp](../s/stocksharp.md)**: A platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 **Case Studies**
 
@@ -75,7 +75,7 @@ Several platforms and software solutions support the implementation of high prob
 Renaissance Technologies, founded by Jim Simons, uses [quantitative models](../q/quantitative_models.md) to analyze and execute trades. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is known for its high-frequency [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) [mean reversion](../m/mean_reversion.md) and other statistical models.
 
 **Company B: Two Sigma**
-Two Sigma utilizes [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to develop high probability [trading strategies](../t/trading_strategies.md). The company combines data-driven insights with innovative technology to create [robust](../r/robust.md) [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com)
+Two Sigma utilizes [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to develop high probability [trading strategies](../t/trading_strategies.md). The company combines data-driven insights with innovative technology to create [robust](../r/robust.md) [trading models](../t/trading_models.md). Two Sigma
 
 **[Best Practices](../b/best_practices.md)**
 
@@ -90,4 +90,3 @@ To effectively apply high probability [trading strategies](../t/trading_strategi
 **Conclusion**
 
 High probability [trading strategies](../t/trading_strategies.md) are vital for achieving consistent trading success. Through sound understanding, meticulous planning, and disciplined [execution](../e/execution.md), traders can significantly enhance their performance. Utilizing advanced tools, platforms, and technologies can further bolster the effectiveness of these strategies, setting the stage for sustained profitability.
-

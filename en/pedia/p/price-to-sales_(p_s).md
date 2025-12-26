@@ -52,14 +52,14 @@ Historically, the P/S ratio gained prominence during the dot-com boom in the lat
 
 Today, investors and analysts use a variety of tools and software to calculate and analyze the P/S ratio. Financial services platforms like [Bloomberg](../b/bloomberg.md), [Yahoo Finance](../y/yahoo_finance.md), and specialized [financial analysis](../f/financial_analysis.md) tools provide real-time P/S ratio data:
 
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [Yahoo Finance](https://finance.yahoo.com/)
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Yahoo Finance
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg
 
 These platforms [offer](../o/offer.md) comprehensive financial data, including [market capitalization](../m/market_capitalization.md) and [revenue](../r/revenue.md), which are essential for calculating the P/S ratio.
 
 ## Algorithmic Trading and P/S Ratio
 
-In [algorithmic trading](../a/accountability.md), the P/S ratio can be incorporated into [trading algorithms](../t/trading_algorithms.md) to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md). By automating the analysis of P/S ratios across a large dataset, traders can quickly identify potential investment opportunities in real-time.
+In [algorithmic trading](../a/algorithmic_trading.md), the P/S ratio can be incorporated into [trading algorithms](../t/trading_algorithms.md) to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md). By automating the analysis of P/S ratios across a large dataset, traders can quickly identify potential investment opportunities in real-time.
 
 ### Example Algorithm
 

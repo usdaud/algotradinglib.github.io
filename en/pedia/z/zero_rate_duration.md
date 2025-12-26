@@ -26,7 +26,7 @@ These calculations are pivotal for constructing the zero curve since they enable
 
 ## Duration
 
-[Duration](../d/duration.md) measures the sensitivity of a [bond](../b/bond.md)'s price to changes in [interest](../i/interest.md) rates and serves as a critical [risk management](../r/risk_management.md) tool. [Macaulay Duration](../m/macaulay_duration.md) is the [weighted average](../w/weighted_average.md) time to receive the [bond](../b/bond.md)'s cash flows. For zero-coupon bonds, the [duration](../d/duration.md) is simply the [bond](../b/bond.md)'s time to [maturity](../m/maturity.md). 
+[Duration](../d/duration.md) measures the sensitivity of a [bond](../b/bond.md)'s price to changes in [interest](../i/interest.md) rates and serves as a critical [risk management](../r/risk_management.md) tool. [Macaulay Duration](../m/macaulay_duration.md) is the [weighted average](../w/weighted_average.md) time to receive the [bond](../b/bond.md)'s cash flows. For zero-coupon bonds, the [duration](../d/duration.md) is simply the [bond](../b/bond.md)'s time to [maturity](../m/maturity.md).
 
 \[ \text{[Duration](../d/duration.md)} = \frac{\sum_{t=1}^n t \cdot PV(CF_t)}{ \text{[Bond](../b/bond.md) Price}} \]
 For zero-coupon bonds, it simplifies to:
@@ -79,4 +79,4 @@ Immunization is a strategy to shield a portfolio against [interest rate](../i/in
 
 Zero Rate [Duration](../d/duration.md) is a pivotal concept for [fixed income](../f/fixed_income.md) traders and portfolio managers. It provides a precise measure of [interest rate risk](../i/interest_rate_risk.md) by relying on zero-coupon rates. By incorporating Zero Rate [Duration](../d/duration.md) into their [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) strategies, [market](../m/market.md) participants can better navigate the complexities of [interest rate](../i/interest_rate.md) movements and optimize their [portfolio performance](../p/portfolio_performance.md).
 
-For further reading and practical tools, many financial institutions and research centers provide resources that delve deeper into these topics. Notably, [Bloomberg](https://www.bloomberg.com/professional/product/risk/) offers comprehensive data and analytics for managing [fixed income](../f/fixed_income.md) portfolios, including tools for calculating zero rates and [duration](../d/duration.md).
+For further reading and practical tools, many financial institutions and research centers provide resources that delve deeper into these topics. Notably, Bloomberg offers comprehensive data and analytics for managing [fixed income](../f/fixed_income.md) portfolios, including tools for calculating zero rates and [duration](../d/duration.md).

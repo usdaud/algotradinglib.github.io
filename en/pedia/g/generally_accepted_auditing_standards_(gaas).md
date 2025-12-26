@@ -51,4 +51,3 @@ While GAAS provides a [robust](../r/robust.md) framework for auditing, there are
 ## Conclusion
 Generally Accepted Auditing Standards are essential guidelines that shape the auditing profession. By encompassing the competencies, ethical considerations, and practical steps involved in auditing, GAAS helps ensure that financial audits are carried out with integrity and precision. The ongoing evolution of GAAS, driven by changes in the [business](../b/business.md) environment and advancements in auditing practices, highlights the commitment to maintaining the highest standards of financial accuracy and reliability.
 
-For more information on GAAS, you can visit the American Institute of Certified Public Accountants (AICPA) website [here](https://www.aicpa.org/).

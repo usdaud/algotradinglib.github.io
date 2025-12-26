@@ -70,4 +70,4 @@ Regulatory frameworks set certain requirements for [transparency](../t/transpare
 
 Wrongful dishonor is a serious matter with significant legal, financial, and reputational implications for all parties involved. Understanding the legal ramifications and preventive measures is crucial for both consumers and financial institutions. Adopting a proactive approach helps mitigate risks, ensuring smoother banking operations and safeguarding consumer rights.
 
-For more detailed information, you can visit the official website of the **Federal Reserve**: [Federal Reserve](https://www.federalreserve.gov).
+For more detailed information,

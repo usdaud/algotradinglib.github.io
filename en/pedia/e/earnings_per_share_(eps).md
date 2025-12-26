@@ -45,7 +45,7 @@ EPS is reported at the bottom of a company's [income statement](../i/income_stat
 [Multiple](../m/multiple.md) factors can affect a company's EPS:
 
 1. **[Revenue](../r/revenue.md) Growth**: An increase in total [revenue](../r/revenue.md), assuming costs are controlled, directly boosts net [income](../i/income.md) and therefore EPS.
-   
+
 2. **Cost Management**: Efficient management of operational costs, such as reducing overhead and improving [production efficiency](../p/production_efficiency.md), can increase net [income](../i/income.md) and EPS.
 
 3. **[Share Buybacks](../s/share_buybacks.md)**: When a company buys back its own [shares](../s/shares.md), the total number of outstanding [shares](../s/shares.md) decreases. This can artificially inflate EPS by dividing net [income](../i/income.md) among fewer [shares](../s/shares.md).
@@ -60,13 +60,9 @@ EPS is an essential measure for assessing a company's capacity to pay dividends.
 
 ### Examples of Companies Reporting EPS
 
-1. **Apple Inc. (AAPL)**: [Apple Investor Relations](https://investor.apple.com)
-   
-2. **Microsoft [Corporation](../c/corporation.md) (MSFT)**: [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
 
-3. **Amazon.com Inc. (AMZN)**: [Amazon Investor Relations](https://ir.aboutamazon.com)
 
-4. **Tesla Inc. (TSLA)**: [Tesla Investor Relations](https://ir.tesla.com)
+
 
 ### Analyst Forecasts and EPS
 

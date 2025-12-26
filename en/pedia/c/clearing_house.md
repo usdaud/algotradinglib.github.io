@@ -6,7 +6,7 @@ A [clearing](../c/clearing.md) house is a central entity in the [financial marke
 
 [Clearing](../c/clearing.md) houses have a long history dating back to the 17th century, with the London [Clearing](../c/clearing.md) House established in 1773. The evolution of [clearing](../c/clearing.md) houses has paralleled the evolution of [financial markets](../f/financial_market.md), expanding from traditional commodities markets to modern [financial derivatives](../f/financial_derivatives.md) markets. Their role and importance have grown significantly with the increased complexity and [volume](../v/volume.md) of transactions in today’s global [financial system](../f/financial_system.md).
 
-## Functions 
+## Functions
 
 ### Trade Matching and Confirmation
 
@@ -37,15 +37,15 @@ Settlement involves the actual transfer of funds and securities between parties.
 
 Several major [clearing](../c/clearing.md) houses operate globally, each serving different markets and regions. Some of the prominent [clearing](../c/clearing.md) houses include:
 
-- **CME [Clearing](../c/clearing.md)**: Operated by the Chicago Mercantile [Exchange](../e/exchange.md), it provides [clearing and settlement](../c/clearing_and_settlement.md) services for [futures](../f/futures.md) and [options](../o/options.md) contracts traded at CME Group (www.cmegroup.com).
+- **CME [Clearing](../c/clearing.md)**: Operated by the Chicago Mercantile [Exchange](../e/exchange.md), it provides [clearing and settlement](../c/clearing_and_settlement.md) services for [futures](../f/futures.md) and [options](../o/options.md) contracts traded at CME Group (
 
-- **LCH (London [Clearing](../c/clearing.md) House)**: A leading international [clearing](../c/clearing.md) house serving major exchanges and platforms, particularly known for [clearing](../c/clearing.md) [interest rate swaps](../i/interest_rate_swaps.md) and other OTC [derivatives](../d/derivatives.md) (www.lch.com).
+- **LCH (London [Clearing](../c/clearing.md) House)**: A leading international [clearing](../c/clearing.md) house serving major exchanges and platforms, particularly known for [clearing](../c/clearing.md) [interest rate swaps](../i/interest_rate_swaps.md) and other OTC [derivatives](../d/derivatives.md) (
 
-- **DTCC ([Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md))**: Provides [clearing and settlement](../c/clearing_and_settlement.md) services for the equities, corporate/[municipal bond](../m/municipal_bond.md) [market](../m/market.md) in the U.S. It also offers a [range](../r/range.md) of other post-[trade](../t/trade.md) services (www.dtcc.com).
+- **DTCC ([Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md))**: Provides [clearing and settlement](../c/clearing_and_settlement.md) services for the equities, corporate/[municipal bond](../m/municipal_bond.md) [market](../m/market.md) in the U.S. It also offers a [range](../r/range.md) of other post-[trade](../t/trade.md) services (
 
-- **Eurex [Clearing](../c/clearing.md)**: Part of the [Deutsche Börse](../d/deutsche_börse.md) Group, it offers [clearing](../c/clearing.md) services for a [range](../r/range.md) of [derivatives](../d/derivatives.md) and securities (www.eurex.com).
+- **Eurex [Clearing](../c/clearing.md)**: Part of the [Deutsche Börse](../d/deutsche_börse.md) Group, it offers [clearing](../c/clearing.md) services for a [range](../r/range.md) of [derivatives](../d/derivatives.md) and securities (
 
-- **CCP12 (The Global Association of Central Counterparties)**: Represents the global [clearing](../c/clearing.md) community, advocating for effective [clearing and settlement](../c/clearing_and_settlement.md) practices (www.ccp12.org).
+- **CCP12 (The Global Association of Central Counterparties)**: Represents the global [clearing](../c/clearing.md) community, advocating for effective [clearing and settlement](../c/clearing_and_settlement.md) practices (
 
 ## Regulatory Environment
 
@@ -84,12 +84,12 @@ Looking forward, the integration of advanced technologies, enhancement of [risk 
 
 ## Conclusion
 
-[Clearing](../c/clearing.md) houses are indispensable to the structure and functioning of the [financial markets](../f/financial_market.md). By mitigating [risk](../r/risk.md), ensuring the seamless [execution](../e/execution.md) of trades, and providing a [robust](../r/robust.md) framework for settlement and custody, they provide crucial support to [market](../m/market.md) integrity and participant confidence. Their role, underscored by a complex interplay of regulatory oversight, technological innovation, and [risk management](../r/risk_management.md), is set to evolve further, shaping the future of financial transactions worldwide. 
+[Clearing](../c/clearing.md) houses are indispensable to the structure and functioning of the [financial markets](../f/financial_market.md). By mitigating [risk](../r/risk.md), ensuring the seamless [execution](../e/execution.md) of trades, and providing a [robust](../r/robust.md) framework for settlement and custody, they provide crucial support to [market](../m/market.md) integrity and participant confidence. Their role, underscored by a complex interplay of regulatory oversight, technological innovation, and [risk management](../r/risk_management.md), is set to evolve further, shaping the future of financial transactions worldwide.
 
 With continuous advancements and ongoing challenges, [clearing](../c/clearing.md) houses [will](../w/will.md) remain at the heart of financial [market](../m/market.md) [infrastructure](../i/infrastructure.md), driving towards a more secure, efficient, and transparent [trading environment](../t/trading_environment.md). For more detailed information on specific [clearing](../c/clearing.md) houses, their operations, and services, please visit their respective websites.
 
-- [CME Group](https://www.cmegroup.com)
-- [LCH Group](https://www.lch.com)
-- [DTCC](https://www.dtcc.com)
-- [Eurex](https://www.eurex.com)
-- [CCP12](https://www.ccp12.org)
+- CME Group
+- LCH Group
+- DTCC
+- Eurex
+- CCP12

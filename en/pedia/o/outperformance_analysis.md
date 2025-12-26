@@ -110,19 +110,19 @@ Several tools and platforms are available for conducting outperformance analysis
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and outperformance analysis. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and integrates with various data providers.
+QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and outperformance analysis. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and integrates with various data providers.
 
 ### QuantLib
 
-[QuantLib](http://quantlib.org) is a comprehensive library for [quantitative finance](../q/quantitative_finance.md) and provides tools for analyzing financial instruments, conducting [performance attribution](../p/performance_attribution.md), and carrying out various statistical analyses.
+QuantLib is a comprehensive library for [quantitative finance](../q/quantitative_finance.md) and provides tools for analyzing financial instruments, conducting [performance attribution](../p/performance_attribution.md), and carrying out various statistical analyses.
 
 ### Aladdin by BlackRock
 
-[Aladdin](https://www.blackrock.com/aladdin/home) is BlackRock’s investment and [risk management](../r/risk_management.md) platform that offers in-depth analytics, including outperformance analysis, for institutional investors.
+Aladdin is BlackRock’s investment and [risk management](../r/risk_management.md) platform that offers in-depth analytics, including outperformance analysis, for institutional investors.
 
 ### IBKR’s Algorithmic Trading Platform
 
-[Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=31816) provides a [robust](../r/robust.md) platform for [algorithmic trading](../a/algorithmic_trading.md) and analysis. It offers comprehensive tools for [backtesting](../b/backtesting.md), real-time monitoring, and performance evaluation.
+Interactive Brokers provides a [robust](../r/robust.md) platform for [algorithmic trading](../a/algorithmic_trading.md) and analysis. It offers comprehensive tools for [backtesting](../b/backtesting.md), real-time monitoring, and performance evaluation.
 
 ## Conclusion
 

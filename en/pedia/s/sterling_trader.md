@@ -16,39 +16,39 @@ The flagship product of the suite, Sterling [Trader](../t/trader.md) Pro is a po
 ### Key Features:
 
 1. **Advanced [Order](../o/order.md) Entry**
-  - [Multiple](../m/multiple.md) [order types](../o/order_types_in_trading.md) ([market](../m/market.md), limit, stop, etc.)
-  - Single-click trading
-  - Customizable hotkeys
-  - Basket trading capabilities
+ - [Multiple](../m/multiple.md) [order types](../o/order_types_in_trading.md) ([market](../m/market.md), limit, stop, etc.)
+ - Single-click trading
+ - Customizable hotkeys
+ - Basket trading capabilities
 
 2. **[Real-Time Market Data](../r/real-time_market_data.md)**
-  - Level I and Level II quotes
-  - Time & Sales window
-  - Customizable watchlists
-  - Real-time news integration
+ - Level I and Level II quotes
+ - Time & Sales window
+ - Customizable watchlists
+ - Real-time news integration
 
 3. **Charting**
-  - [Multiple](../m/multiple.md) chart types and timeframes
-  - [Technical indicators](../t/technical_indicators.md) and drawing tools
-  - Customizable layouts
+ - [Multiple](../m/multiple.md) chart types and timeframes
+ - [Technical indicators](../t/technical_indicators.md) and drawing tools
+ - Customizable layouts
 
 4. **[Risk Management](../r/risk_management.md)**
-  - Real-time position tracking
-  - P&L monitoring
-  - Customizable alerts and notifications
+ - Real-time position tracking
+ - P&L monitoring
+ - Customizable alerts and notifications
 
 5. **[Order Routing](../o/order_routing.md)**
-  - Direct [market](../m/market.md) access (DMA)
-  - Smart [order routing](../o/order_routing.md)
-  - Access to [dark pools](../d/dark_pools.md) and ECNs
+ - Direct [market](../m/market.md) access (DMA)
+ - Smart [order routing](../o/order_routing.md)
+ - Access to [dark pools](../d/dark_pools.md) and ECNs
 
 6. **Customization**
-  - Fully customizable interface
-  - API for custom add-ons and integrations
+ - Fully customizable interface
+ - API for custom add-ons and integrations
 
 7. **Compliance Tools**
-  - [Trade](../t/trade.md) surveillance features
-  - Reporting capabilities for regulatory requirements
+ - [Trade](../t/trade.md) surveillance features
+ - Reporting capabilities for regulatory requirements
 
 ## Sterling Trader® Elite
 

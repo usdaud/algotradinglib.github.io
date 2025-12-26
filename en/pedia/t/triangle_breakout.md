@@ -75,8 +75,8 @@ Several trading platforms and tools support the implementation of [algorithmic t
 
 ### Example: Algorithmic Trading Firms
 
-- [Two Sigma](https://www.twosigma.com/): A technology-driven [firm](../f/firm.md) that utilizes advanced algorithms and machine-learning techniques.
-- [QuantConnect](https://www.quantconnect.com/): An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to design and backtest strategies using historical data.
+- Two Sigma: A technology-driven [firm](../f/firm.md) that utilizes advanced algorithms and machine-learning techniques.
+- QuantConnect: An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to design and backtest strategies using historical data.
 
 ## Challenges and Considerations
 

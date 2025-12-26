@@ -49,7 +49,7 @@ Many traders use CCI in conjunction with other [technical indicators](../t/techn
 
 ### TradingView
 
-[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com) is a widely-used platform that provides an extensive suite of tools for [technical analysis](../t/technical_analysis.md), including the [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI). Traders can easily add CCI to their charts and customize it to their preferred time periods.
+[TradingView](../t/tradingview.md) ( is a widely-used platform that provides an extensive suite of tools for [technical analysis](../t/technical_analysis.md), including the [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI). Traders can easily add CCI to their charts and customize it to their preferred time periods.
 
 ### MetaTrader 4 & 5
 
@@ -57,11 +57,11 @@ MetaTrader platforms, offered by MetaQuotes Software Corp., support CCI and vari
 
 ### Thinkorswim
 
-[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page) offers professional-grade trading tools including the CCI [indicator](../i/indicator.md). It’s known for its advanced charting [options](../o/options.md) and customizable [trading strategies](../t/trading_strategies.md).
+[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) ( offers professional-grade trading tools including the CCI [indicator](../i/indicator.md). It’s known for its advanced charting [options](../o/options.md) and customizable [trading strategies](../t/trading_strategies.md).
 
 ### NinjaTrader
 
-[NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com) offers advanced charting and automated trading tools, and it supports CCI among many other [technical indicators](../t/technical_indicators.md). It caters to both discretionary traders and those looking to automate their strategies.
+[NinjaTrader](../n/ninjatrader.md) ( offers advanced charting and automated trading tools, and it supports CCI among many other [technical indicators](../t/technical_indicators.md). It caters to both discretionary traders and those looking to automate their strategies.
 
 ## Real-World Applications of CCI
 
@@ -91,4 +91,4 @@ The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CC
 
 For more detailed and specific applications, traders often rely on platforms like [TradingView](../t/tradingview.md), MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [NinjaTrader](../n/ninjatrader.md), each of which provides [robust](../r/robust.md) tools for integrating CCI into comprehensive [trading strategies](../t/trading_strategies.md).
 
-Understanding the principles behind CCI and its practical applications can help traders make more informed and strategic decisions, ultimately improving their chances of success in the markets.
+Understanding the principles behind CCI and its practical applications can help traders make more informed and strategic decisions, ultimately improving their chances of success in the markets.

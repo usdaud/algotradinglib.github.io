@@ -73,7 +73,7 @@ Individuals with disabilities or those purchasing a [home](../h/home.md) for a r
 
 ### Impact on RRSP Growth
 
-Participants should consider the impact of withdrawing from their RRSPs on long-term growth. Since the RRSP contributions are meant for retirement savings, using them for a [home](../h/home.md) purchase can reduce the future [value](../v/value.md) of retirement funds. 
+Participants should consider the impact of withdrawing from their RRSPs on long-term growth. Since the RRSP contributions are meant for retirement savings, using them for a [home](../h/home.md) purchase can reduce the future [value](../v/value.md) of retirement funds.
 
 ### Tax Implications
 

@@ -50,7 +50,7 @@ While movements along the [demand curve](../d/demand_curve.md) are caused by cha
 
 ## Applications in Market Analysis and Business Strategies
 
-Understanding quantity demanded is essential for various stakeholders in the [economy](../e/economy.md), including businesses, policymakers, and financial analysts. 
+Understanding quantity demanded is essential for various stakeholders in the [economy](../e/economy.md), including businesses, policymakers, and financial analysts.
 
 ### Market Equilibrium
 

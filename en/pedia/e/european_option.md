@@ -4,29 +4,29 @@ A European option is a type of financial [derivative](../d/derivative.md) that g
 
 ## Key Features of European Options
 
-### 1. **Exercise Date**: 
+### 1. **Exercise Date**:
 The primary differentiating feature of [European options](../e/european_options.md) is that they can only be exercised on their [expiration date](../e/expiration_date.md). This means that the holder does not have the flexibility to choose any other date for [exercise](../e/exercise.md), limiting the [options](../o/options.md) use in certain strategic financial maneuvers compared to American [options](../o/options.md).
 
-### 2. **Underlying Asset**: 
+### 2. **Underlying Asset**:
 [European options](../e/european_options.md) can be written on a [wide variety](../w/wide_variety.md) of [underlying](../u/underlying.md) assets, which include [stocks](../s/stock.md), indices, commodities, currencies, and [interest](../i/interest.md) rates. The choice of the [underlying asset](../u/underlying_asset.md) largely depends on the objective of the [investor](../i/investor.md), whether it is hedging, [income](../i/income.md) generation, or [speculation](../s/speculation.md).
 
-### 3. **Strike Price**: 
+### 3. **Strike Price**:
 This is the predetermined price at which the option holder can buy (in the case of a [call option](../c/call_option.md)) or sell (in the case of a [put option](../p/put.md)) the [underlying asset](../u/underlying_asset.md). The [strike price](../s/strike_price.md) is established at the time the option contract is written.
 
-### 4. **Premium**: 
+### 4. **Premium**:
 The [option premium](../o/option_premium.md) is the price that the buyer of the option pays to the seller for the rights that the option confers. This amount is influenced by various factors, including the [underlying asset](../u/underlying_asset.md)'s price, [volatility](../v/volatility.md), time to expiration, and [interest](../i/interest.md) rates.
 
-### 5. **Expiry Date**: 
+### 5. **Expiry Date**:
 This is the date on which the option expires and is the only date that the holder of a European option may [exercise](../e/exercise.md) their right. After this date, the option lapses and can no longer be exercised.
 
 ## Types of European Options
 
-[European options](../e/european_options.md) can be categorized into two main types: 
+[European options](../e/european_options.md) can be categorized into two main types:
 
-### 1. **Call Options**: 
+### 1. **Call Options**:
 These give the holder the right to buy the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md) on the [expiration date](../e/expiration_date.md). Investors might purchase call [options](../o/options.md) if they anticipate a rise in the price of the [underlying asset](../u/underlying_asset.md).
 
-### 2. **Put Options**: 
+### 2. **Put Options**:
 These give the holder the right to sell the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md) on the [expiration date](../e/expiration_date.md). [Put options](../p/put_options.md) are typically purchased by investors who predict a decline in the price of the [underlying asset](../u/underlying_asset.md).
 
 ## Pricing Models for European Options
@@ -84,7 +84,7 @@ Several tools and platforms assist traders and investors in managing and analyzi
 ### 1. **Bloomberg Terminal**:
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides comprehensive tools for option pricing, [risk management](../r/risk_management.md), and sophisticated financial analytics. Details about [European options](../e/european_options.md), implied volatilities, and various [greeks](../g/greeks.md) can be accessed through its advanced interface.
 
-Website: [Bloomberg Terminal](https://www.bloomberg.com/professional/product/terminal/)
+online platform: Bloomberg Terminal
 
 ### 2. **Option Pricing Software**:
 Various specialized software products focus on option pricing and analysis. These tools often come with built-in models for pricing [European options](../e/european_options.md) and other [derivatives](../d/derivatives.md), enabling traders to make informed decisions based on [market](../m/market.md) data and theoretical models.

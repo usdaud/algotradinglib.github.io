@@ -47,7 +47,7 @@ On a larger scale, national wealth can be measured by examining the Gross Domest
 
 ### Wealth Inequality Metrics
 
-Wealth inequality can be measured using various indices, such as the Gini coefficient and the [Lorenz curve](../l/lorenz_curve.md). 
+Wealth inequality can be measured using various indices, such as the Gini coefficient and the [Lorenz curve](../l/lorenz_curve.md).
 
 ## Wealth Management
 
@@ -105,15 +105,15 @@ AI and [machine learning](../m/machine_learning.md) can analyze vast amounts of 
 
 ### JPMorgan Chase & Co. 
 
-JPMorgan Chase provides a wide [range](../r/range.md) of [wealth management](../w/wealth_management.md) services including [retirement planning](../r/retirement_planning.md), trusts, and investments. [JPMorgan Chase](https://www.jpmorganchase.com).
+JPMorgan Chase provides a wide [range](../r/range.md) of [wealth management](../w/wealth_management.md) services including [retirement planning](../r/retirement_planning.md), trusts, and investments. JPMorgan Chase.
 
 ### Goldman Sachs
 
-Goldman Sachs offers comprehensive [wealth management](../w/wealth_management.md) services for high net-worth individuals and institutions. [Goldman Sachs](https://www.goldmansachs.com).
+Goldman Sachs offers comprehensive [wealth management](../w/wealth_management.md) services for high net-worth individuals and institutions. Goldman Sachs.
 
 ### Vanguard
 
-Vanguard is known for its low-cost investment funds and [wealth management](../w/wealth_management.md) services. [Vanguard](https://www.vanguard.com).
+Vanguard is known for its low-cost investment funds and [wealth management](../w/wealth_management.md) services. Vanguard.
 
 ## Risks and Challenges
 - **[Market](../m/market.md) [Volatility](../v/volatility.md):** Economic downturns and [market](../m/market.md) fluctuations can significantly affect the [value](../v/value.md) of financial assets.

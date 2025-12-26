@@ -1,8 +1,8 @@
 # Hyperledger Burrow
 
-[Hyperledger](../h/hyperledger.md) Burrow is an [open](../o/open.md)-source [blockchain](../b/blockchain_in_trading.md) framework part of the [Hyperledger](../h/hyperledger.md) Project, created and hosted by The Linux Foundation. It provides a modular [blockchain](../b/blockchain_in_trading.md) client with a permissioned smart contract interpreter developed partly to the specification of the [Ethereum](../e/ethereum_.md) Virtual Machine (EVM). Designed for enterprise use, Burrow allows businesses to [leverage](../l/leverage.md) the benefits of [blockchain](../b/blockchain_in_trading.md) technology in a secure, permissioned environment. 
+[Hyperledger](../h/hyperledger.md) Burrow is an [open](../o/open.md)-source [blockchain](../b/blockchain_in_trading.md) framework part of the [Hyperledger](../h/hyperledger.md) Project, created and hosted by The Linux Foundation. It provides a modular [blockchain](../b/blockchain_in_trading.md) client with a permissioned smart contract interpreter developed partly to the specification of the [Ethereum](../e/ethereum_.md) Virtual Machine (EVM). Designed for enterprise use, Burrow allows businesses to [leverage](../l/leverage.md) the benefits of [blockchain](../b/blockchain_in_trading.md) technology in a secure, permissioned environment.
 
-## Key Features 
+## Key Features
 
 ### Permissioned Network
 
@@ -22,7 +22,7 @@ Burrow supports the creation, deployment, and [execution](../e/execution.md) of 
 
 ### Modular Architecture
 
-The modular architecture of Burrow allows for flexibility and customization. Various components like consensus, EVM, and RPC can be replaced or extended to fit specific use-cases or performance requirements. 
+The modular architecture of Burrow allows for flexibility and customization. Various components like consensus, EVM, and RPC can be replaced or extended to fit specific use-cases or performance requirements.
 
 ## Technical Components
 
@@ -60,11 +60,11 @@ In the financial [industry](../i/industry.md), Burrow can be used to build secur
 
 Legal contracts and compliance mechanisms can be implemented as [smart contracts](../s/smart_contracts_in_trading.md) on [Hyperledger](../h/hyperledger.md) Burrow. This ensures that agreements are executed exactly as specified and provides an immutable record that can be used for audit and verification purposes.
 
-## Governance and Community 
+## Governance and Community
 
-[Hyperledger](../h/hyperledger.md) Burrow is governed under the [Hyperledger](../h/hyperledger.md) umbrella and benefits from the collaboration and oversight provided by the Linux Foundation. This ensures that the development of Burrow adheres to stringent quality and [security](../s/security.md) protocols. 
+[Hyperledger](../h/hyperledger.md) Burrow is governed under the [Hyperledger](../h/hyperledger.md) umbrella and benefits from the collaboration and oversight provided by the Linux Foundation. This ensures that the development of Burrow adheres to stringent quality and [security](../s/security.md) protocols.
 
-For more information about [Hyperledger](../h/hyperledger.md) Burrow, visit the [official website](https://www.hyperledger.org/use/burrow).
+For more information about [Hyperledger](../h/hyperledger.md) Burrow,
 
 ## Conclusion
 

@@ -53,13 +53,13 @@ The company’s management, along with the underwriters, embarks on a “[roadsh
 After gauging [interest](../i/interest.md) from potential investors, the price per share is set and the underwriters allocate [shares](../s/shares.md) to investors. Finally, the company’s [shares](../s/shares.md) begin trading on the stock [exchange](../e/exchange.md).
 
 ## Case Study: Apple Inc.
-[Apple Inc.](https://www.apple.com) is a classic example of a public company that has leveraged its public status to become one of the most valuable companies in the world. Apple went public on December 12, 1980, with an IPO price of $22. The stock has since undergone several splits and generated tremendous returns for its early investors.
+Apple Inc. is a classic example of a public company that has leveraged its public status to become one of the most valuable companies in the world. Apple went public on December 12, 1980, with an IPO price of $22. The stock has since undergone several splits and generated tremendous returns for its early investors.
 
 ### Key Milestones:
 - **1980:** IPO and immediate surge in the stock price.
 - **2007:** Introduction of the iPhone, leading to [exponential growth](../e/exponential_growth.md).
 - **2018:** Apple becomes the first public company to reach a $1 trillion [market](../m/market.md) cap.
-  
+
 Apple's public status has provided it with the necessary [capital](../c/capital.md) to innovate continuously and stay at the forefront of technology, which has been crucial for its success.
 
 ## Conclusion

@@ -15,8 +15,8 @@ In the United States, jobless claims data is released weekly by the Department o
 
 - **Initial Claims**: The number of new applications for [unemployment](../u/unemployment.md) benefits.
 - **Continuing Claims**: The number of individuals who continue to receive benefits.
-  
-For detailed reports and data, you can visit the U.S. Department of Labor website at [dol.gov](https://www.dol.gov).
+
+For detailed reports and data, you can visit the U.S. Department of Labor online platform at online resource.
 
 ## Importance of Jobless Claims in Economic Analysis
 Jobless claims are closely watched as they provide real-time information about the [labor market](../l/labor_market.md). Here are some reasons why they are vital:
@@ -26,7 +26,7 @@ Jobless claims are closely watched as they provide real-time information about t
 3. **[Market Sentiment](../m/market_sentiment.md)**: [Financial markets](../f/financial_market.md) often react to jobless claims data. Positive surprises (lower than expected claims) can boost [investor](../i/investor.md) confidence, while negative surprises (higher than expected claims) may lead to [market](../m/market.md) declines.
 
 ## Jobless Claims and Algorthmic Trading
-[Algorithmic trading](../a/accountability.md), also known as algo trading, utilizes computer algorithms to execute [trading strategies](../t/trading_strategies.md) based on predefined criteria. Jobless claims data can be a critical input for these algorithms due to its potential impact on [financial markets](../f/financial_market.md). Here's how it can be used:
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, utilizes computer algorithms to execute [trading strategies](../t/trading_strategies.md) based on predefined criteria. Jobless claims data can be a critical input for these algorithms due to its potential impact on [financial markets](../f/financial_market.md). Here's how it can be used:
 
 1. **[Trend Analysis](../t/trend_analysis.md)**: Algorithms can analyze the [trend](../t/trend.md) in jobless claims data to predict [market](../m/market.md) movements. For instance, a persistent rise in claims may trigger sell signals in [stocks](../s/stock.md).
 2. **Event-Driven Strategies**: Algo traders often design strategies around scheduled economic releases. Jobless claims are released weekly, providing regular opportunities for [event-driven trading](../e/event-driven_trading.md).

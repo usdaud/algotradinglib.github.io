@@ -89,23 +89,23 @@ Securing the systems against cyber threats is crucial to protect sensitive finan
 
 ### 1. Two Sigma Investments
 Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to derive insights from vast amounts of data and develop innovative [trading strategies](../t/trading_strategies.md).
-Website: [Two Sigma](https://www.twosigma.com/)
+online platform: Two Sigma
 
 ### 2. Renaissance Technologies
 RenTech is known for its Medallion [Fund](../f/fund.md), which has consistently delivered high returns using statistical and [mathematical models](../m/mathematical_models_in_trading.md).
-Website: [Renaissance Technologies](https://www.rentec.com/)
+online platform: Renaissance Technologies
 
 ### 3. Numerai
 Numerai is a [hedge fund](../h/hedge_fund.md) that crowdsources [machine learning](../m/machine_learning.md) models from data scientists worldwide to predict [financial markets](../f/financial_market.md).
-Website: [Numerai](https://numer.ai/)
+online platform: Numerai
 
 ### 4. AlphaSense
 AlphaSense uses AI to analyze and extract valuable insights from financial documents and [market](../m/market.md) data.
-Website: [AlphaSense](https://www.alpha-sense.com/)
+online platform: AlphaSense
 
 ### 5. XTX Markets
 XTX Markets is a leading quantitative-driven electronic [market](../m/market.md)-maker, leveraging [machine learning](../m/machine_learning.md) for trading across various markets.
-Website: [XTX Markets](https://www.xtxmarkets.com/)
+online platform: XTX Markets
 
 ## Future Trends in Intelligent Trading Agents
 

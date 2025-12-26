@@ -15,7 +15,7 @@ To become part of the TSA PreCheck program, travelers must meet specific eligibi
 
 The application process for TSA PreCheck involves several steps:
 
-1. **Online Application**: Applicants begin by filling out an online application form available on the TSA's official website.
+1. **Online Application**: Applicants begin by filling out an online application form available on the TSA's
 2. **In-Person Appointment**: After completing the online portion, applicants must schedule an appointment at an enrollment center. The appointment includes fingerprinting and a background [check](../c/check.md).
 3. **[Payment](../p/payment.md)**: There is a non-refundable application [fee](../f/fee.md) that currently stands at $85. This [fee](../f/fee.md) covers a five-year membership in the program.
 4. **Approval**: After the background [check](../c/check.md) is complete, approved applicants receive a Known Traveler Number (KTN), which they can use when booking flights to access TSA PreCheck lanes.
@@ -37,7 +37,7 @@ The TSA PreCheck program has substantially improved the travel experience for it
 
 TSA PreCheck can be combined with other trusted traveler programs, providing even greater flexibility and convenience:
 
-1. **Global Entry**: This U.S. Customs and Border Protection (CBP) program allows expedited entry into the U.S. from international destinations. Members of Global Entry also receive TSA PreCheck benefits. More information can be found on the [CBP website](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry).
+1. **Global Entry**: This U.S. Customs and Border Protection (CBP) program allows expedited entry into the U.S. from international destinations. Members of Global Entry also receive TSA PreCheck benefits.
 2. **NEXUS**: For travelers between the U.S. and Canada, the NEXUS program offers expedited processing. NEXUS members also receive TSA PreCheck benefits.
 3. **SENTRI**: This program allows expedited entry into the U.S. for travelers crossing the southern land border. SENTRI members likewise receive TSA PreCheck benefits.
 
@@ -69,4 +69,4 @@ The TSA continues to explore ways to expand and improve the TSA PreCheck program
 
 TSA PreCheck represents a significant advancement in modern air travel, [offering](../o/offering.md) tangible benefits to frequent flyers and occasional travelers alike. Its development underscores a broader shift towards improved [efficiency](../e/efficiency.md), [security](../s/security.md), and [customer service](../c/customer_service.md) in the aviation [industry](../i/industry.md). By understanding the ins and outs of the program, eligible travelers can make informed decisions about whether to enroll and how best to take advantage of its numerous benefits.
 
-For more detailed information, potential applicants can visit the official TSA PreCheck [website](https://www.tsa.gov/precheck).
+For more detailed information, potential applicants can

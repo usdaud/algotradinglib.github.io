@@ -66,7 +66,7 @@ For Dependent Care FSAs, employees determine their annual contribution amount du
 
 ### Claim Submission
 
-To receive [reimbursement](../r/reimbursement.md) for dependent care expenses, employees must submit claims that include detailed [receipts](../r/receipt.md) or invoices from care providers. The claims process varies by employer and FSA administrator but generally involves providing information such as the date of service, amounts paid, and the care provider’s information. 
+To receive [reimbursement](../r/reimbursement.md) for dependent care expenses, employees must submit claims that include detailed [receipts](../r/receipt.md) or invoices from care providers. The claims process varies by employer and FSA administrator but generally involves providing information such as the date of service, amounts paid, and the care provider’s information.
 
 ### Deadlines and Grace Periods
 
@@ -74,7 +74,7 @@ Most Dependent Care FSAs operate on a plan year [basis](../b/basis.md), with spe
 
 ### Balancing Work and Caregiving
 
-Dependent Care Benefits can significantly impact an employee’s ability to balance their work responsibilities with caregiving duties. By reducing financial stress and providing convenient care [options](../o/options.md), these benefits enable employees to be more productive and engaged at work. 
+Dependent Care Benefits can significantly impact an employee’s ability to balance their work responsibilities with caregiving duties. By reducing financial stress and providing convenient care [options](../o/options.md), these benefits enable employees to be more productive and engaged at work.
 
 ## Potential Challenges and Considerations
 
@@ -94,15 +94,15 @@ Employers must effectively communicate the availability and advantages of Depend
 
 ### Google
 
-Google is renowned for [offering](../o/offering.md) extensive employee benefits, including Dependent Care Benefits. [Google](https://careers.google.com/) provides on-site childcare services, backup childcare, and substantial parental leave policies, demonstrating its commitment to supporting employees with dependents.
+Google is renowned for [offering](../o/offering.md) extensive employee benefits, including Dependent Care Benefits. Google provides on-site childcare services, backup childcare, and substantial parental leave policies, demonstrating its commitment to supporting employees with dependents.
 
 ### IBM
 
-IBM offers a variety of dependent care solutions, including Dependent Care FSAs and resources for finding and paying for childcare and elder care. Employees can access [IBM's Work-Life] (https://www.ibm.com/us-en/employment/) programs that provide comprehensive support for balancing work and caregiving responsibilities.
+IBM offers a variety of dependent care solutions, including Dependent Care FSAs and resources for finding and paying for childcare and elder care. Employees can access [IBM's Work-Life] programs that provide comprehensive support for balancing work and caregiving responsibilities.
 
 ### Amazon
 
-Amazon has implemented programs like backup childcare through partners like Care.com, providing employees with access to dependable care solutions during unexpected situations. More information about Amazon's benefits can be found on their [careers page](https://www.amazon.jobs/).
+Amazon has implemented programs like backup childcare through partners like online resource, providing employees with access to dependable care solutions during unexpected situations.
 
 ## Conclusion
 

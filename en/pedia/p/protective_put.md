@@ -63,20 +63,20 @@ Investors with [long-term investments](../l/long-term_investments.md) may use pr
 ## Example Scenarios
 
 1. **Scenario 1: [Market](../m/market.md) Decline**
-    - Stock Price: $100
-    - [Strike Price](../s/strike_price.md): $95
-    - [Premium](../p/premium.md): $2
-    - Stock Falls to: $80
-    - Loss Without Put: $20 per share
-    - Loss With Put: $7 per share (95 - 80 + 2)
+ - Stock Price: $100
+ - [Strike Price](../s/strike_price.md): $95
+ - [Premium](../p/premium.md): $2
+ - Stock Falls to: $80
+ - Loss Without Put: $20 per share
+ - Loss With Put: $7 per share (95 - 80 + 2)
 
 2. **Scenario 2: [Market](../m/market.md) [Rally](../r/rally.md)**
-    - Stock Price: $100
-    - [Strike Price](../s/strike_price.md): $95
-    - [Premium](../p/premium.md): $2
-    - Stock Rises to: $120
-    - [Gain](../g/gain.md) Without Put: $20 per share
-    - [Gain](../g/gain.md) With Put: $18 per share (20 [gain](../g/gain.md) - 2 [premium](../p/premium.md))
+ - Stock Price: $100
+ - [Strike Price](../s/strike_price.md): $95
+ - [Premium](../p/premium.md): $2
+ - Stock Rises to: $120
+ - [Gain](../g/gain.md) Without Put: $20 per share
+ - [Gain](../g/gain.md) With Put: $18 per share (20 [gain](../g/gain.md) - 2 [premium](../p/premium.md))
 
 ## Conclusion
 

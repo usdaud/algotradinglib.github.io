@@ -7,14 +7,14 @@ The Reverse [Iron Butterfly](../i/iron_butterfly.md), also known as the reverse 
 ### Components
 
 The Reverse [Iron Butterfly](../i/iron_butterfly.md) is composed of four [options](../o/options.md) contracts:
-1. **Long [Call Option](../c/call_option.md) (Lower Strike)**  
-   A [call option](../c/call_option.md) with the lowest [strike price](../s/strike_price.md).
-2. **[Short Call Option](../s/short_call_option.md) (Middle Strike)**  
-   A [call option](../c/call_option.md) with a middle [strike price](../s/strike_price.md), typically at-the-[money](../m/money.md).
-3. **Short [Put Option](../p/put.md) (Middle Strike)**  
-   A [put option](../p/put.md) with the same middle [strike price](../s/strike_price.md) as the [short call](../s/short_call.md).
-4. **Long [Put Option](../p/put.md) (Higher Strike)**  
-   A [put option](../p/put.md) with the highest [strike price](../s/strike_price.md).
+1. **Long [Call Option](../c/call_option.md) (Lower Strike)**
+ A [call option](../c/call_option.md) with the lowest [strike price](../s/strike_price.md).
+2. **[Short Call Option](../s/short_call_option.md) (Middle Strike)**
+ A [call option](../c/call_option.md) with a middle [strike price](../s/strike_price.md), typically at-the-[money](../m/money.md).
+3. **Short [Put Option](../p/put.md) (Middle Strike)**
+ A [put option](../p/put.md) with the same middle [strike price](../s/strike_price.md) as the [short call](../s/short_call.md).
+4. **Long [Put Option](../p/put.md) (Higher Strike)**
+ A [put option](../p/put.md) with the highest [strike price](../s/strike_price.md).
 
 ### Formation
 
@@ -47,10 +47,10 @@ The maximum loss is restricted to the [net premium](../n/net_premium.md) paid to
 ### Breakeven Points
 
 There are two breakeven points for the Reverse [Iron Butterfly](../i/iron_butterfly.md):
-1. **Lower [Breakeven Point](../b/breakeven_point.md):**  
-   Lower Strike + [Net Premium](../n/net_premium.md) Paid
-2. **Upper [Breakeven Point](../b/breakeven_point.md):**  
-   Higher Strike - [Net Premium](../n/net_premium.md) Paid
+1. **Lower [Breakeven Point](../b/breakeven_point.md):**
+ Lower Strike + [Net Premium](../n/net_premium.md) Paid
+2. **Upper [Breakeven Point](../b/breakeven_point.md):**
+ Higher Strike - [Net Premium](../n/net_premium.md) Paid
 
 ## Greeks of the Reverse Iron Butterfly
 
@@ -101,10 +101,10 @@ During [earnings](../e/earnings.md) season, companies often experience substanti
 
 ## Conclusion
 
-The Reverse [Iron Butterfly](../i/iron_butterfly.md) is a powerful strategy for traders equipped with a solid understanding of [options](../o/options.md) and [market dynamics](../m/market_dynamics.md). While it offers limited [risk](../r/risk.md) and the potential for high rewards, it requires precise [execution](../e/execution.md) and a keen eye on [market](../m/market.md) conditions. It is most beneficial in volatile markets and requires a disciplined approach to manage risks associated with [time decay](../t/time_decay.md) and [market](../m/market.md) movements. 
+The Reverse [Iron Butterfly](../i/iron_butterfly.md) is a powerful strategy for traders equipped with a solid understanding of [options](../o/options.md) and [market dynamics](../m/market_dynamics.md). While it offers limited [risk](../r/risk.md) and the potential for high rewards, it requires precise [execution](../e/execution.md) and a keen eye on [market](../m/market.md) conditions. It is most beneficial in volatile markets and requires a disciplined approach to manage risks associated with [time decay](../t/time_decay.md) and [market](../m/market.md) movements.
 
 For further exploration and advanced tools for [options](../o/options.md) strategies, the following firms provide comprehensive resources:
-- [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)
-- [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985)
+- Thinkorswim by TD Ameritrade
+- Interactive Brokers
 
 These platforms [offer](../o/offer.md) [robust](../r/robust.md) [options](../o/options.md) trading tools, educational resources, and analytics to help traders effectively implement strategies like the Reverse [Iron Butterfly](../i/iron_butterfly.md).

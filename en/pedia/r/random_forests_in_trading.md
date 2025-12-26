@@ -64,10 +64,10 @@ Random Forests can be computationally expensive, particularly when dealing with 
 
 Several tools and libraries facilitate the implementation of Random Forests in trading:
 
-- **Scikit-learn**: A popular Python library for [machine learning](../m/machine_learning.md) that offers an easy-to-use implementation of Random Forests. (https://scikit-learn.org/)
-- **XGBoost**: An optimized gradient boosting library that can be used for implementing Random Forests with high [efficiency](../e/efficiency.md) and speed. (https://xgboost.readthedocs.io/)
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports Random Forests and other [machine learning](../m/machine_learning.md) models. (https://www.[quantconnect](../q/quantconnect.md).com/)
-- **[QuantLib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that can be used in conjunction with Random Forest models for complex [trading strategies](../t/trading_strategies.md). (https://www.[quantlib](../q/quantlib.md).org/)
+- **Scikit-learn**: A popular Python library for [machine learning](../m/machine_learning.md) that offers an easy-to-use implementation of Random Forests. (
+- **XGBoost**: An optimized gradient boosting library that can be used for implementing Random Forests with high [efficiency](../e/efficiency.md) and speed. (
+- **[QuantConnect](../q/quantconnect.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that supports Random Forests and other [machine learning](../m/machine_learning.md) models. (
+- **[QuantLib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that can be used in conjunction with Random Forest models for complex [trading strategies](../t/trading_strategies.md). (
 
 ## Conclusion
 

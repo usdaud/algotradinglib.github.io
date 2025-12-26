@@ -98,13 +98,13 @@ The COVID-19 pandemic led to unprecedented [market](../m/market.md) [volatility]
 Several financial platforms and tools allow traders and investors to monitor the Put-Call Ratio:
 
 ### Online Financial Websites
-Websites like [Bloomberg](https://www.bloomberg.com/), [Yahoo Finance](https://finance.yahoo.com/), and [MarketWatch](https://www.marketwatch.com/) often provide real-time data on the Put-Call Ratio alongside other [market indicators](../m/market_indicators.md).
+Websites like Bloomberg, Yahoo Finance, and MarketWatch often provide real-time data on the Put-Call Ratio alongside other [market indicators](../m/market_indicators.md).
 
 ### Brokerage Platforms
-Many brokerage platforms, including [TD Ameritrade](https://www.tdameritrade.com/), [E*TRADE](https://us.etrade.com/), and [Interactive Brokers](https://www.interactivebrokers.com/), [offer](../o/offer.md) tools to track the Put-Call Ratio and integrate it into [trading strategies](../t/trading_strategies.md).
+Many brokerage platforms, including TD Ameritrade, E*TRADE, and Interactive Brokers, [offer](../o/offer.md) tools to track the Put-Call Ratio and integrate it into [trading strategies](../t/trading_strategies.md).
 
 ### Financial Data Services
-Specialized financial data services, such as [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software), provide comprehensive [market](../m/market.md) analytics, including detailed PCR metrics.
+Specialized financial data services, such as Bloomberg Terminal and Thomson Reuters Eikon, provide comprehensive [market](../m/market.md) analytics, including detailed PCR metrics.
 
 ## Conclusion
 

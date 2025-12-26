@@ -38,9 +38,9 @@ The oversubscription rate is a critical metric for several reasons:
 
 Several high-profile companies have experienced significant oversubscription in their IPOs:
 
-1. **Alibaba Group Holding Limited (NYSE: BABA)**: Alibaba's IPO in 2014 was heavily [oversubscribed](../o/oversubscribed.md). The initial price [range](../r/range.md) was set between $60-66 per share, but due to extremely high [demand](../d/demand.md), it was raised to $68, resulting in the largest IPO in history at that time, raising $25 billion. [Alibaba Group IPO Details](https://www.alibaba.com/).
+1. **Alibaba Group Holding Limited (NYSE: BABA)**: Alibaba's IPO in 2014 was heavily [oversubscribed](../o/oversubscribed.md). The initial price [range](../r/range.md) was set between $60-66 per share, but due to extremely high [demand](../d/demand.md), it was raised to $68, resulting in the largest IPO in history at that time, raising $25 billion. Alibaba Group IPO Details.
 
-2. **Saudi Aramco (Tadawul: 2222)**: When Saudi Aramco went public in 2019, the IPO was [oversubscribed](../o/oversubscribed.md) by 4.6 times the amount offered to institutional investors. This level of [demand](../d/demand.md) indicated significant [investor](../i/investor.md) [interest](../i/interest.md) and confidence in the company. [Saudi Aramco IPO Details](https://www.saudiaramco.com/).
+2. **Saudi Aramco (Tadawul: 2222)**: When Saudi Aramco went public in 2019, the IPO was [oversubscribed](../o/oversubscribed.md) by 4.6 times the amount offered to institutional investors. This level of [demand](../d/demand.md) indicated significant [investor](../i/investor.md) [interest](../i/interest.md) and confidence in the company. Saudi Aramco IPO Details.
 
 ## Implications for Investors
 

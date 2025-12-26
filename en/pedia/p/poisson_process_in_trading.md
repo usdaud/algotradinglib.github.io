@@ -71,7 +71,7 @@ Modern trading platforms and systems implement Poisson processes in:
 - **[Order Book](../o/order_book.md) [Simulation](../s/simulation_in_trading.md)**: Simulating [order book dynamics](../o/order_book_dynamics.md) by modeling the arrival of new orders and cancellations.
 - **[Market](../m/market.md) Impact Estimation**: Predicting the impact of large orders based on the frequency of trades.
 
-Companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading like [Virtu Financial](https://www.virtu.com/) and [Flow Traders](https://www.flowtraders.com/) often [leverage](../l/leverage.md) Poisson processes within their trading engines for dynamic and real-time decision-making.
+Companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading like Virtu Financial and Flow Traders often [leverage](../l/leverage.md) Poisson processes within their trading engines for dynamic and real-time decision-making.
 
 ### Example in R
 

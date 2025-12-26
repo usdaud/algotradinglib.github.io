@@ -101,19 +101,19 @@ Regularly reviewing the [options](../o/options.md) portfolio and conducting stre
 
 [Hedge](../h/hedge.md) funds are significant players in the [options](../o/options.md) [market](../m/market.md) and employ sophisticated [risk management](../r/risk_management.md) strategies.
 
-**Case Study**: [Bridgewater Associates](https://www.bridgewater.com/) - One of the largest [hedge](../h/hedge.md) funds, Bridgewater uses a combination of [diversification](../d/diversification.md), hedging, and rigorous [risk management](../r/risk_management.md) protocols to manage its [options](../o/options.md) portfolio.
+**Case Study**: Bridgewater Associates - One of the largest [hedge](../h/hedge.md) funds, Bridgewater uses a combination of [diversification](../d/diversification.md), hedging, and rigorous [risk management](../r/risk_management.md) protocols to manage its [options](../o/options.md) portfolio.
 
 ### Proprietary Trading Firms
 
 [Proprietary trading](../p/proprietary_trading.md) firms rely on advanced algorithms and high-frequency [trading strategies](../t/trading_strategies.md), necessitating [robust](../r/robust.md) [risk management](../r/risk_management.md) frameworks.
 
-**Example**: [Citadel Securities](https://www.citadelsecurities.com/) – Known for its [quantitative trading](../q/quantitative_trading.md) strategies, Citadel employs state-of-the-art [risk management](../r/risk_management.md) systems to [handle](../h/handle.md) its vast [options](../o/options.md) trading activities.
+**Example**: Citadel Securities – Known for its [quantitative trading](../q/quantitative_trading.md) strategies, Citadel employs state-of-the-art [risk management](../r/risk_management.md) systems to [handle](../h/handle.md) its vast [options](../o/options.md) trading activities.
 
 ### Retail Traders
 
 Retail traders, unlike institutional players, often face higher risks due to limited resources. However, they can still employ effective [risk management](../r/risk_management.md) strategies.
 
-**Example**: Using online platforms such as [TD Ameritrade](https://www.tdameritrade.com/) or [Interactive Brokers](https://www.interactivebrokers.com/), retail traders can access tools for setting [stop-loss orders](../s/stop-loss_orders.md), monitoring [Greeks](../g/greeks.md), and conducting backtests.
+**Example**: Using online platforms such as TD Ameritrade or Interactive Brokers, retail traders can access tools for setting [stop-loss orders](../s/stop-loss_orders.md), monitoring [Greeks](../g/greeks.md), and conducting backtests.
 
 ## Conclusion
 

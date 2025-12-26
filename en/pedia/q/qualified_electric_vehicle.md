@@ -41,12 +41,12 @@ In Europe, various countries have introduced subsidies, tax reductions, and ince
 ### China
 China offers substantial incentives to purchase electric vehicles, including subsidies, reductions in the purchase tax, and registration priority. The Chinese government aims to ensure that New Energy Vehicles (NEVs), which include BEVs and PHEVs, make up at least 20% of the country's new car sales by 2025.
 
-## Environmental Impact 
+## Environmental Impact
 
 Qualified Electric Vehicles are key players in the global effort to reduce greenhouse gas emissions and combat climate change. By transitioning from fossil fuel-dependent ICEs to electric and hydrogen fuel cell systems, QEVs help lower the carbon footprint of the [transportation sector](../t/transportation_sector.md). However, the overall environmental benefit also depends on the energy sources used to generate the electricity or hydrogen.
 
-### Life Cycle Assessment 
-The environmental impact of QEVs is often evaluated using [Life Cycle](../l/life_cycle.md) Assessment (LCA), which takes into account the emissions and energy consumption throughout the vehicle's lifecycle—from production to disposal. 
+### Life Cycle Assessment
+The environmental impact of QEVs is often evaluated using [Life Cycle](../l/life_cycle.md) Assessment (LCA), which takes into account the emissions and energy consumption throughout the vehicle's lifecycle—from production to disposal.
 
 #### Production
 The production phase for QEVs, especially BEVs, can be more energy-intensive and produce higher emissions due to the [manufacturing](../m/manufacturing.md) of battery packs. However, advances in battery technology and recycling methods are gradually mitigating these impacts.
@@ -54,7 +54,7 @@ The production phase for QEVs, especially BEVs, can be more energy-intensive and
 #### Operation
 During the operation phase, BEVs have a significant advantage because they produce zero tailpipe emissions. The environmental benefit for PHEVs and FCVs, during this phase, depends on factors like the electricity grid mix and hydrogen production methods (e.g., whether the hydrogen is produced via electrolysis using renewable energy).
 
-#### End-of-Life 
+#### End-of-Life
 The end-of-life phase includes the recycling and potential second-life applications of battery packs. Efficient and sustainable recycling methods are essential to minimize the environmental impact linked to the disposal of battery packs.
 
 ## Technological Advancements
@@ -62,23 +62,16 @@ The end-of-life phase includes the recycling and potential second-life applicati
 ### Battery Technology
 Advancements in battery technology—such as the development of solid-state batteries, improved energy densities, and faster charging times—are pivotal in enhancing the performance and viability of BEVs. Prominent companies in this space include:
 
-- Tesla's Gigafactory (https://www.tesla.com/gigafactory)
-- QuantumScape (https://www.quantumscape.com)
-- CATL (Contemporary Amperex Technology Co., Limited) (http://www.catl.com)
+- Tesla's Gigafactory - QuantumScape - CATL (Contemporary Amperex Technology Co., Limited) (
 
 ### Charging Infrastructure
 The [expansion](../e/expansion.md) of charging [infrastructure](../i/infrastructure.md) is crucial for the widespread adoption of BEVs and PHEVs. Companies and organizations are [investing](../i/investing.md) heavily in expanding reliable and fast-charging networks:
 
-- ChargePoint (https://www.chargepoint.com)
-- EVgo (https://www.evgo.com)
-- Ionity (https://ionity.eu)
-
+- ChargePoint - EVgo - Ionity
 ### Hydrogen Technology
 For FCVs, advancements in hydrogen production, storage, and refueling [infrastructure](../i/infrastructure.md) are essential. The focus is on producing green hydrogen using renewable energy sources to further reduce environmental impact. Notable entities in hydrogen technology include:
 
-- Plug Power (https://www.plugpower.com)
-- Ballard Power Systems (https://www.ballard.com)
-- Nikola [Corporation](../c/corporation.md) (https://nikolamotor.com)
+- Plug Power - Ballard Power Systems - Nikola [Corporation](../c/corporation.md) (
 
 ## Economic Considerations
 
@@ -96,10 +89,10 @@ Investors are increasingly focusing on the electric vehicle [market](../m/market
 The future outlook for Qualified Electric Vehicles is promising, with continued advancements in technology, supportive regulatory environments, and growing consumer acceptance driving [market](../m/market.md) growth. Key trends that are expected to shape the QEV landscape in the coming years include:
 
 ### Autonomous Electric Vehicles
-The integration of autonomous driving technology with electric vehicles is a major area of focus. Companies like Waymo (https://waymo.com) and Cruise (https://getcruise.com) are at the forefront of developing autonomous electric vehicles that promise to redefine urban mobility.
+The integration of autonomous driving technology with electric vehicles is a major area of focus. Companies like Waymo and Cruise are at the forefront of developing autonomous electric vehicles that promise to redefine urban mobility.
 
 ### Vehicle-to-Grid (V2G) Technology
-Vehicle-to-Grid (V2G) technology enables electric vehicles to feed electricity back into the grid, thereby supporting grid stability and renewable energy integration. Companies like Nuuve (https://nuuve.com) are pioneering in this space.
+Vehicle-to-Grid (V2G) technology enables electric vehicles to feed electricity back into the grid, thereby supporting grid stability and renewable energy integration. Companies like Nuuve ( are pioneering in this space.
 
 ### Corporate and Fleet Adoption
 Corporate and fleet adoption of QEVs is accelerating, as businesses seek to reduce their carbon footprint and benefit from lower operating costs. Notable examples include Amazon's investment in Rivian and UPS's commitment to electric delivery vehicles.

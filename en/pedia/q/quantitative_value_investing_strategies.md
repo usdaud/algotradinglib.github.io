@@ -73,7 +73,7 @@ Once a quantitative strategy is implemented, continuous monitoring and adjustmen
 
 ### Company Example: AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management (https://www.aqr.com/) is a well-known investment [firm](../f/firm.md) that integrates [quantitative analysis](../q/quantitative_analysis.md) into its [value investing](../v/value_investing.md) strategies. By employing advanced statistical models and extensive datasets, AQR has generated significant returns for its clients. Their approach includes [factor investing](../f/factor_investing.md), where they exploit anomalies associated with [value](../v/value.md), [momentum](../m/momentum.md), and profitability factors.
+AQR [Capital](../c/capital.md) Management ( is a well-known investment [firm](../f/firm.md) that integrates [quantitative analysis](../q/quantitative_analysis.md) into its [value investing](../v/value_investing.md) strategies. By employing advanced statistical models and extensive datasets, AQR has generated significant returns for its clients. Their approach includes [factor investing](../f/factor_investing.md), where they exploit anomalies associated with [value](../v/value.md), [momentum](../m/momentum.md), and profitability factors.
 
 ### Quantitative Value Funds
 
@@ -84,7 +84,7 @@ Investment funds such as DFA (Dimensional [Fund](../f/fund.md) Advisors) and Ren
 - **Python:** A popular programming language used for data analysis, [machine learning](../m/machine_learning.md), and [quantitative finance](../q/quantitative_finance.md). Libraries such as Pandas, NumPy, and SciPy are essential for statistical analysis.
 - **R:** Another statistical programming language often used in [quantitative finance](../q/quantitative_finance.md) for data manipulation and visualization.
 - **MATLAB:** A high-level language and environment for numerical computing.
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ## Challenges and Limitations
 

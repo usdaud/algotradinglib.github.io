@@ -59,7 +59,7 @@ The [earnings](../e/earnings.md) press release often provides a summary of the k
 Examine the [income statement](../i/income_statement.md), [balance sheet](../b/balance_sheet.md), and [cash flow statement](../c/cash_flow_statement.md) for any significant changes or trends. Pay close attention to [revenue](../r/revenue.md) growth, [margin](../m/margin.md) improvement, changes in liabilities, and [cash flow](../c/cash_flow.md) trends.
 
 ### 3. Compare Against Analyst Expectations
-Compare the company’s reported results with analyst estimates. Sites like [Yahoo Finance](https://finance.yahoo.com/) or [Google Finance](https://www.google.com/finance) aggregate analyst forecasts.
+Compare the company’s reported results with analyst estimates. Sites like Yahoo Finance or Google Finance aggregate analyst forecasts.
 
 ### 4. Evaluate Management’s Guidance
 Management’s [guidance](../g/guidance.md) for the next quarter or fiscal year is critical as it sets the expectations for future performance. Investors often react strongly to upward or downward revisions in [guidance](../g/guidance.md).
@@ -108,16 +108,16 @@ Cash generated from operations minus [capital](../c/capital.md) expenditures. It
 ## Tools and Techniques for Quarterly Earnings Analysis
 
 ### Financial Modeling
-[Financial modeling](../f/financial_modeling.md) involves creating detailed [financial statements](../f/financial_statements.md) forecasts based on historical data and assumptions. Tools like [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) are commonly used for this purpose.
+[Financial modeling](../f/financial_modeling.md) involves creating detailed [financial statements](../f/financial_statements.md) forecasts based on historical data and assumptions. Tools like Microsoft Excel are commonly used for this purpose.
 
 ### Analyst Reports
-Investment firms often publish analyst reports that provide insights and evaluations of [earnings](../e/earnings.md) reports. Examples include reports from [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/).
+Investment firms often publish analyst reports that provide insights and evaluations of [earnings](../e/earnings.md) reports. Examples include reports from Goldman Sachs and Morgan Stanley.
 
 ### Earnings Call Transcripts
-[Earnings call](../e/earnings_call.md) transcripts provide verbatim records of the conference calls held post-[earnings](../e/earnings.md) release. These transcripts often include management discussion and Q&A sessions. Services like [Seeking Alpha](https://seekingalpha.com/) or [FactSet](https://www.factset.com/) [offer](../o/offer.md) access to these transcripts.
+[Earnings call](../e/earnings_call.md) transcripts provide verbatim records of the conference calls held post-[earnings](../e/earnings.md) release. These transcripts often include management discussion and Q&A sessions. Services like Seeking Alpha or FactSet [offer](../o/offer.md) access to these transcripts.
 
 ### Stock Screeners
-Stock screeners can filter [stocks](../s/stock.md) based on [earnings](../e/earnings.md) performance and other criteria. Popular screeners include those provided by [Finviz](https://finviz.com/) and [Zacks Investment Research](https://www.zacks.com/).
+Stock screeners can filter [stocks](../s/stock.md) based on [earnings](../e/earnings.md) performance and other criteria. Popular screeners include those provided by Finviz and Zacks Investment Research.
 
 ## Case Studies
 

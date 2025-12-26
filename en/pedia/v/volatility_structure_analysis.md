@@ -60,19 +60,16 @@ Numerous tools and software are available to perform [volatility structure](../v
 
 [QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides comprehensive support for [volatility](../v/volatility.md) modeling.
 
-[QuantLib - Github](https://github.com/lballabio/QuantLib)
 
 ### MATLAB
 
 MATLAB is widely used for mathematical computing and offers [robust](../r/robust.md) toolkits for [financial modeling](../f/financial_modeling.md), including [volatility analysis](../v/volatility_analysis.md) and option pricing.
 
-[MathWorks - MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ### R
 
 R is a statistical computing environment that provides various packages for financial [econometrics](../e/econometrics_in_trading.md), including GARCH and stochastic [volatility](../v/volatility.md) modeling.
 
-[R Project for Statistical Computing](https://www.r-project.org/)
 
 ### Python
 
@@ -82,7 +79,6 @@ Python libraries such as NumPy, SciPy, and pandas [offer](../o/offer.md) extensi
 
 The [Bloomberg](../b/bloomberg.md) Terminal provides real-time financial data, analytics, and trading tools. It includes advanced functions for [volatility analysis](../v/volatility_analysis.md) and modeling.
 
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Companies Specializing in Volatility Analysis
 
@@ -92,19 +88,16 @@ Numerous financial firms specialize in [volatility analysis](../v/volatility_ana
 
 OptionMetrics provides historical implied and realized [options](../o/options.md) [volatility](../v/volatility.md) data for institutional investors and academic researchers.
 
-[OptionMetrics](https://optionmetrics.com/)
 
 ### CBOE Global Markets
 
 CBOE Global Markets offers a wide [range](../r/range.md) of [volatility](../v/volatility.md) indices, including the famous VIX, which measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) conveyed by S&P 500 stock [index option](../i/index_option.md) prices.
 
-[CBOE Global Markets](https://www.cboe.com/)
 
 ### FORTS Moscow Exchange
 
 FORTS, part of the Moscow [Exchange](../e/exchange.md), offers various tools and services for trading [derivatives](../d/derivatives.md), including [futures](../f/futures.md) and [options](../o/options.md), providing essential [volatility analysis](../v/volatility_analysis.md).
 
-[FORTS Moscow Exchange](https://www.moex.com/en/forts.aspx)
 
 ### Institutional Volatility Index (IVI)
 

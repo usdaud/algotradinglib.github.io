@@ -71,7 +71,7 @@ The availability and terms of non-amortizing loans can be influenced by [market]
 ## Non-Amortizing Loans in Algorithmic Trading
 
 ### Portfolio Diversification
-In [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md), non-amortizing loans can be part of a diversified portfolio strategy. Algorithms can be programmed to account for the unique [cash flow](../c/cash_flow.md) characteristics and risks associated with these loans, optimizing for returns while managing [risk](../r/risk.md) exposure.
+In [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), non-amortizing loans can be part of a diversified portfolio strategy. Algorithms can be programmed to account for the unique [cash flow](../c/cash_flow.md) characteristics and risks associated with these loans, optimizing for returns while managing [risk](../r/risk.md) exposure.
 
 ### Risk Management
 Algorithmic systems can be designed to evaluate and manage the risks associated with non-amortizing loans by incorporating [predictive analytics](../p/predictive_analytics.md) and [machine learning](../m/machine_learning.md) models. This enables traders to anticipate [market](../m/market.md) swings and adjust their [holdings](../h/holdings.md) accordingly.
@@ -81,11 +81,11 @@ Algorithmic systems can be designed to evaluate and manage the risks associated 
 ### Lending Institutions
 Various financial institutions [offer](../o/offer.md) non-amortizing [loan](../l/loan.md) products, typically including large banks, [mortgage](../m/mortgage.md) lenders, and specialized [finance](../f/finance.md) companies. Notable examples include:
 
-- [Rocket Mortgage](https://www.rocketmortgage.com/) offers [interest-only mortgage](../i/interest-only_mortgage.md) [options](../o/options.md) to qualified borrowers.
-- [SoFi](https://www.sofi.com/) provides personal loans that may have [interest](../i/interest.md)-only [payment](../p/payment.md) [options](../o/options.md) for a set period.
+- Rocket Mortgage offers [interest-only mortgage](../i/interest-only_mortgage.md) [options](../o/options.md) to qualified borrowers.
+- SoFi provides personal loans that may have [interest](../i/interest.md)-only [payment](../p/payment.md) [options](../o/options.md) for a set period.
 
 ### Crowdfunding Platforms
-In the fintech space, [crowdfunding](../c/crowdfunding.md) platforms like [Fundrise](https://fundrise.com/) and [RealtyMogul](https://www.realtymogul.com/) may [offer](../o/offer.md) [real estate](../r/real_estate.md) investment opportunities with non-amortizing [loan](../l/loan.md) structures.
+In the fintech space, [crowdfunding](../c/crowdfunding.md) platforms like Fundrise and RealtyMogul may [offer](../o/offer.md) [real estate](../r/real_estate.md) investment opportunities with non-amortizing [loan](../l/loan.md) structures.
 
 ## Conclusion
 

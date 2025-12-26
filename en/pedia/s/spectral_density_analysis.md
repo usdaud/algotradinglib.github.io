@@ -84,25 +84,24 @@ Understanding the microstructure of markets – the way orders get matched and t
 Several libraries and tools are available for performing spectral density analysis, including but not limited to:
 
 - **Python’s `scipy.signal` module:** Provides functions for [spectral analysis](../s/spectral_analysis.md), including periodogram and Welch’s method.
-  
-  ```python
-  [import](../i/import.md) scipy.signal as signal
-  f, Pxx = signal.welch(x, fs=1.0, nperseg=256)
-  ```
+
+ ```python
+ [import](../i/import.md) scipy.signal as signal
+ f, Pxx = signal.welch(x, fs=1.0, nperseg=256)
+ ```
 
 - **Matlab’s [Signal Processing](../s/signal_processing_in_trading.md) Toolbox:** Offers extensive tools for [spectral analysis](../s/spectral_analysis.md) including Fourier transforms, periodograms, and multitaper methods.
-  
-  ```matlab
-  [Pxx,F] = pwelch(x, [], [], [], fs);
-  ```
+
+ ```matlab
+ [Pxx,F] = pwelch(x, [], [], [], fs);
+ ```
 
 - **R’s `spectrum` function:** Part of base R, used for estimating the spectral density.
-  
-  ```R
-  spec <- spectrum(x, method="pgram")
-  ```
 
-**[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers' Official Site](https://www.interactivebrokers.com)
+ ```R
+ spec <- spectrum(x, method="pgram")
+ ```
+
 
 ## Conclusion
 

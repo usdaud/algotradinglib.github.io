@@ -112,19 +112,19 @@ Several companies across diverse industries have successfully implemented activi
 
 ### 1. Hewlett-Packard (HP)
 
-Hewlett-Packard, a global technology giant, successfully adopted ABC systems to improve its cost management and decision-making processes. By identifying key activity cost drivers, HP was able to allocate overhead costs more accurately and optimize its [product portfolio](../p/product_portfolio.md). For more information, visit [Hewlett-Packard's website](https://www.hp.com).
+Hewlett-Packard, a global technology giant, successfully adopted ABC systems to improve its cost management and decision-making processes. By identifying key activity cost drivers, HP was able to allocate overhead costs more accurately and optimize its [product portfolio](../p/product_portfolio.md).
 
 ### 2. The Boeing Company
 
-The Boeing Company, a leading aerospace manufacturer, implemented ABC systems to enhance its [cost control](../c/cost_control.md) and pricing strategies. By analyzing activity cost drivers, Boeing gained insights into the cost structure of its [manufacturing](../m/manufacturing.md) processes and identified opportunities for cost reduction and [efficiency](../e/efficiency.md) improvements. For more information, visit [Boeing's website](https://www.boeing.com).
+The Boeing Company, a leading aerospace manufacturer, implemented ABC systems to enhance its [cost control](../c/cost_control.md) and pricing strategies. By analyzing activity cost drivers, Boeing gained insights into the cost structure of its [manufacturing](../m/manufacturing.md) processes and identified opportunities for cost reduction and [efficiency](../e/efficiency.md) improvements.
 
 ### 3. Procter & Gamble (P&G)
 
-Procter & Gamble, a multinational [consumer goods](../c/consumer_goods.md) company, leveraged activity cost drivers to improve its [supply chain](../s/supply_chain.md) management and product costing. By tracing costs to specific activities, P&G was able to optimize its [supply chain](../s/supply_chain.md) processes and enhance the profitability of its diverse [product portfolio](../p/product_portfolio.md). For more information, visit [Procter & Gamble's website](https://us.pg.com).
+Procter & Gamble, a multinational [consumer goods](../c/consumer_goods.md) company, leveraged activity cost drivers to improve its [supply chain](../s/supply_chain.md) management and product costing. By tracing costs to specific activities, P&G was able to optimize its [supply chain](../s/supply_chain.md) processes and enhance the profitability of its diverse [product portfolio](../p/product_portfolio.md).
 
 ### 4. Caterpillar Inc.
 
-Caterpillar Inc., a leading manufacturer of construction and [mining](../m/mining.md) equipment, adopted ABC systems to [gain](../g/gain.md) a deeper understanding of its cost drivers and enhance its cost allocation processes. By leveraging activity cost drivers, Caterpillar achieved more accurate product costing and pricing strategies, leading to improved profitability. For more information, visit [Caterpillar's website](https://www.caterpillar.com).
+Caterpillar Inc., a leading manufacturer of construction and [mining](../m/mining.md) equipment, adopted ABC systems to [gain](../g/gain.md) a deeper understanding of its cost drivers and enhance its cost allocation processes. By leveraging activity cost drivers, Caterpillar achieved more accurate product costing and pricing strategies, leading to improved profitability.
 
 ## Future Trends and Innovations
 

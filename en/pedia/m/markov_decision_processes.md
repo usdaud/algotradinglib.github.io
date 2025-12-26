@@ -107,7 +107,7 @@ SARSA is an on-policy TD control algorithm that updates the action-[value](../v/
 \[ Q(s_t, a_t) \leftarrow Q(s_t, a_t) + \[alpha](../a/alpha.md) \left[ R_{t+1} + \[gamma](../g/gamma.md) Q(s_{t+1}, a_{t+1}) - Q(s_t, a_t) \right] \]
 
 ## Applications in Algorithmic Trading
-MDPs have significant applications in [algorithmic trading](../a/algorithmic_trading.md), where agents must make sequential decisions under [uncertainty](../u/uncertainty_in_trading.md) to maximize returns. 
+MDPs have significant applications in [algorithmic trading](../a/algorithmic_trading.md), where agents must make sequential decisions under [uncertainty](../u/uncertainty_in_trading.md) to maximize returns.
 
 ### Optimal Execution
 One of the key applications is optimal [trade](../t/trade.md) [execution](../e/execution.md), wherein an agent determines the best times and quantities to [trade](../t/trade.md) to minimize [transaction costs](../t/transaction_costs.md) and [market](../m/market.md) impact.
@@ -119,7 +119,7 @@ MDPs can be used for dynamic [portfolio optimization](../p/portfolio_optimizatio
 Agents can use MDPs to design optimal [market](../m/market.md)-making strategies, setting [bid](../b/bid.md)-ask [spreads](../s/spreads.md) based on likely future price movements to maximize [profit](../p/profit.md) from the spread while managing [inventory](../i/inventory.md) [risk](../r/risk.md).
 
 ### Reinforcement Learning in Trading
-[Reinforcement learning](../r/reinforcement_learning.md), encompassing many MDP solution methods, is used for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Platforms like [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/) provide environments for testing and deploying these strategies.
+[Reinforcement learning](../r/reinforcement_learning.md), encompassing many MDP solution methods, is used for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Platforms like Alpaca and QuantConnect provide environments for testing and deploying these strategies.
 
 ## Conclusion
 Markov Decision Processes [offer](../o/offer.md) a [robust](../r/robust.md) framework for solving sequential decision-making problems in stochastic environments. With their ability to balance immediate and future rewards, they are indispensable in various fields, particularly in [algorithmic trading](../a/algorithmic_trading.md), where they help design strategies to optimize financial returns under [uncertainty](../u/uncertainty_in_trading.md). Through methods including [dynamic programming](../d/dynamic_programming_in_trading.md), Monte Carlo, and temporal difference learning, MDPs facilitate the development of optimal policies for complex, real-world problems.

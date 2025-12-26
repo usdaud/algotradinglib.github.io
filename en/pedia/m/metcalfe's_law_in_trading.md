@@ -28,7 +28,6 @@ Cryptocurrencies provide a vivid illustration of Metcalfe's Law in action. [Bitc
 
 [eToro](../e/etoro.md) is a [social trading](../s/social_trading.md) and multi-[asset](../a/asset.md) [brokerage company](../b/brokerage_company.md) that provides services for trading and [investing](../i/investing.md) in various financial instruments. The platform allows users to follow and copy the trades of successful traders, leveraging the collective wisdom of the crowd. The increasing number of users enhances the platform's [value](../v/value.md), making it a prime example of Metcalfe's Law in action within trading.
 
-[Visit eToro](https://www.etoro.com/)
 
 ### Decentralized Exchanges (DEXs)
 
@@ -38,7 +37,6 @@ Decentralized exchanges are another example where Metcalfe's Law applies. DEXs l
 
 Uniswap is a decentralized trading protocol known for its role in facilitating automated trading of decentralized [finance](../f/finance.md) (DeFi) tokens. The platform uses an [automated market making](../a/automated_market_making.md) (AMM) system, and its [value](../v/value.md) increases as more users provide [liquidity](../l/liquidity.md) and participate in trading.
 
-[Visit Uniswap](https://uniswap.org/)
 
 ### Impact on Trading Algorithms
 

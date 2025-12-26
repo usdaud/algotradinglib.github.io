@@ -16,13 +16,13 @@ In the financial context, **Issue** refers to the process by which a company or 
 
 ## Types of Issues
 1. **Initial Public [Offering](../o/offering.md) (IPO)**: The first time a company offers its [shares](../s/shares.md) to the public.
-   - **Example**: A tech [startup](../s/startup.md) [going public](../g/going_public.md) to raise [capital](../c/capital.md) for [expansion](../e/expansion.md).
+ - **Example**: A tech [startup](../s/startup.md) [going public](../g/going_public.md) to raise [capital](../c/capital.md) for [expansion](../e/expansion.md).
 2. **Secondary [Offering](../o/offering.md)**: The [sale](../s/sale.md) of additional [shares](../s/shares.md) by a company that is already publicly traded.
-   - **Example**: A [corporation](../c/corporation.md) issuing more [shares](../s/shares.md) to [fund](../f/fund.md) a major [acquisition](../a/acquisition.md).
+ - **Example**: A [corporation](../c/corporation.md) issuing more [shares](../s/shares.md) to [fund](../f/fund.md) a major [acquisition](../a/acquisition.md).
 3. **[Bond](../b/bond.md) Issuance**: The creation and [sale](../s/sale.md) of bonds to investors, representing a [loan](../l/loan.md) made by investors to the [issuer](../i/issuer.md).
-   - **Example**: A government issuing bonds to [finance](../f/finance.md) [infrastructure](../i/infrastructure.md) projects.
+ - **Example**: A government issuing bonds to [finance](../f/finance.md) [infrastructure](../i/infrastructure.md) projects.
 4. **[Private Placement](../p/private_placement.md)**: The [sale](../s/sale.md) of securities to a relatively small number of select investors rather than the general public.
-   - **Example**: A company raising [capital](../c/capital.md) by selling [shares](../s/shares.md) directly to institutional investors.
+ - **Example**: A company raising [capital](../c/capital.md) by selling [shares](../s/shares.md) directly to institutional investors.
 
 ## Process of Issuing Securities
 1. **Preparation**: The [issuer](../i/issuer.md) prepares detailed information about the securities and the purpose of the issue.
@@ -45,4 +45,3 @@ In the financial context, **Issue** refers to the process by which a company or 
 
 ## Conclusion
 In the financial context, issuing securities is a fundamental mechanism for raising [capital](../c/capital.md). It involves careful preparation, regulatory compliance, and collaboration with financial institutions to successfully sell new securities to investors. Understanding the different types of issues, the process involved, and the challenges can help issuers and investors navigate this critical aspect of [financial markets](../f/financial_market.md).
-

@@ -25,7 +25,7 @@ The calculation of Omega involves the following steps:
 2. **Calculate the CDF**: Determine the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the returns. This process typically involves creating a [histogram](../h/histogram.md) or estimating the [probability distribution](../p/probability_distribution.md) of returns.
 3. **Integrate**: Compute the integral of the returns above and below the threshold.
 
-For practical purposes, we can discretize the integral into summations if exact analytical solutions are impractical. 
+For practical purposes, we can discretize the integral into summations if exact analytical solutions are impractical.
 
 ## Omega in Portfolio Optimization
 
@@ -58,7 +58,7 @@ Omega can be particularly useful in [portfolio optimization](../p/portfolio_opti
 
 1. **Comprehensive Measure**: Omega includes all moments of the [return](../r/return.md) [distribution](../d/distribution.md), [offering](../o/offering.md) a fuller picture.
 2. **Flexibility**: Can be adjusted to different threshold returns based on [investor](../i/investor.md) preferences.
-3. **Applications in Complex Strategies**: Particularly useful in [hedge](../h/hedge.md) funds and [algorithmic trading](../a/accountability.md) where traditional metrics may fall short.
+3. **Applications in Complex Strategies**: Particularly useful in [hedge](../h/hedge.md) funds and [algorithmic trading](../a/algorithmic_trading.md) where traditional metrics may fall short.
 
 ### Limitations
 
@@ -68,14 +68,14 @@ Omega can be particularly useful in [portfolio optimization](../p/portfolio_opti
 
 ## Real-World Applications
 
-1. **[Algorithmic Trading](../a/accountability.md)**: Omega's ability to capture tail risks and consider the entire [distribution](../d/distribution.md) makes it particularly suitable for evaluating [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that may have non-normal [return](../r/return.md) distributions.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Omega's ability to capture tail risks and consider the entire [distribution](../d/distribution.md) makes it particularly suitable for evaluating [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that may have non-normal [return](../r/return.md) distributions.
 2. **[Risk Management](../r/risk_management.md) in [Hedge](../h/hedge.md) Funds**: [Hedge](../h/hedge.md) funds often deal with complex securities and strategies that traditional [risk measures](../r/risk_measures.md) may not fully capture. Omega provides a more nuanced assessment.
 
 ## Software and Tools
 
 Several financial software and tools support the calculation of Omega, from specialized [risk management](../r/risk_management.md) platforms to more general [financial analysis](../f/financial_analysis.md) tools. Some notable platforms include:
 
-- **MathWorks MATLAB**: Offers statistical and [optimization](../o/optimization.md) tools to calculate Omega. [Website](https://www.mathworks.com/)
+- **MathWorks MATLAB**: Offers statistical and [optimization](../o/optimization.md)
 - **R and Python Libraries**: Both R and Python communities have developed libraries to facilitate the calculation of Omega. For Python, libraries such as `numpy` and `pandas` can be utilized, while R has packages like `PerformanceAnalytics`.
 
 ## Case Study: Hedge Fund Performance
@@ -91,4 +91,4 @@ The [hedge fund](../h/hedge_fund.md) can then use the Omega ratio to report to i
 
 ## Conclusion
 
-Omega is a sophisticated and valuable [risk](../r/risk.md) measure in the financial landscape. Its ability to encapsulate the entire returns [distribution](../d/distribution.md) makes it a [robust](../r/robust.md) tool for evaluating investment performance, particularly for sophisticated investors and complex strategies such as those employed in [algorithmic trading](../a/accountability.md) and [hedge](../h/hedge.md) funds. While it may require substantial data and computational resources, the insights it provides can significantly enhance [risk management](../r/risk_management.md) and decision-making in [portfolio management](../p/par.md).
+Omega is a sophisticated and valuable [risk](../r/risk.md) measure in the financial landscape. Its ability to encapsulate the entire returns [distribution](../d/distribution.md) makes it a [robust](../r/robust.md) tool for evaluating investment performance, particularly for sophisticated investors and complex strategies such as those employed in [algorithmic trading](../a/algorithmic_trading.md) and [hedge](../h/hedge.md) funds. While it may require substantial data and computational resources, the insights it provides can significantly enhance [risk management](../r/risk_management.md) and decision-making in [portfolio management](../p/par.md).

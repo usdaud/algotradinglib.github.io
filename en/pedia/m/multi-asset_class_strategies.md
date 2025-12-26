@@ -69,23 +69,18 @@ Several financial firms specialize in [multi-asset class](../m/multi-asset_class
 
 ### BlackRock
 BlackRock is one of the largest and most renowned [asset management](../a/asset_management.md) firms that [offer](../o/offer.md) a wide [range](../r/range.md) of [multi-asset class](../m/multi-asset_class.md) solutions. Their strategies are managed using a systematic approach addressing both strategic and tactical [asset allocation](../a/asset_allocation.md).
-[BlackRock](https://www.blackrock.com)
 
 ### Vanguard
 Vanguard offers various balanced and target-date funds that employ multi-[asset](../a/asset.md) investment strategies designed to meet specific investment goals.
-[Vanguard](https://www.vanguard.com)
 
 ### PIMCO
 PIMCO provides [multi-asset class](../m/multi-asset_class.md) investment solutions with a focus on advanced macroeconomic analysis and [quantitative risk management](../q/quantitative_risk_management.md).
-[PIMCO](https://www.pimco.com)
 
 ### JP Morgan Asset Management
 JP Morgan [Asset Management](../a/asset_management.md) offers [multi-asset class](../m/multi-asset_class.md) portfolios managed by a combination of tactical and strategic [asset allocation](../a/asset_allocation.md).
-[JP Morgan Asset Management](https://am.jpmorgan.com)
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management is known for its quantitative approach to [multi-asset class](../m/multi-asset_class.md) [investing](../i/investing.md), employing sophisticated models and algorithms for [portfolio management](../p/portfolio_management.md).
-[AQR Capital Management](https://www.aqr.com)
 
 ## The Future of Multi-Asset Class Strategies
 

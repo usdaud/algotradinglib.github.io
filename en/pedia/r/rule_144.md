@@ -84,4 +84,4 @@ Rule 144 stands as a cornerstone of the SEC's regulatory framework, balancing th
 
 **References:**
 
-- U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) official website: https://www.sec.gov
+- U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)

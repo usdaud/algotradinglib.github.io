@@ -70,25 +70,25 @@ There are several types of limited [liability](../l/liability.md) entities, each
 
 A [corporation](../c/corporation.md) is a legal entity that is separate from its owners, providing limited [liability](../l/liability.md) to its shareholders. Corporations can be publicly traded or privately held, and they are characterized by structured governance (board of directors) and the ability to [issue](../i/issue.md) stock.
 
-**Example:** Apple Inc. - A publicly traded [corporation](../c/corporation.md) providing limited [liability](../l/liability.md) to its shareholders. [Apple Inc.](https://www.apple.com)
+**Example:** Apple Inc. - A publicly traded [corporation](../c/corporation.md) providing limited [liability](../l/liability.md) to its shareholders. Apple Inc.
 
 ### Limited Liability Company (LLC)
 
 An LLC combines the flexibility of a partnership with the limited [liability](../l/liability.md) protection of a [corporation](../c/corporation.md). It is a popular choice for small to medium-sized businesses due to its simplified management structure and tax benefits.
 
-**Example:** Google LLC - Initially founded as a limited [liability](../l/liability.md) company. [Google LLC](https://www.google.com)
+**Example:** Google LLC - Initially founded as a limited [liability](../l/liability.md) company. Google LLC
 
 ### Limited Liability Partnership (LLP)
 
 An LLP provides limited [liability](../l/liability.md) protection to its partners, who are typically involved in the [business](../b/business.md)'s management. It is commonly used by professional service firms like law firms and [accounting](../a/accounting.md) firms.
 
-**Example:** Deloitte LLP - A global professional services network. [Deloitte LLP](https://www2.deloitte.com)
+**Example:** Deloitte LLP - A global professional services network. Deloitte LLP
 
 ### Private Limited Company (Ltd)
 
 A private limited company is an entity where [shares](../s/shares.md) are privately held, restricting the number of shareholders and not available for public trading. It is common in countries like the UK.
 
-**Example:** Dyson Ltd - A British technology company. [Dyson Ltd](https://www.dyson.com)
+**Example:** Dyson Ltd - A British technology company. Dyson Ltd
 
 ## Legal and Financial Implications
 

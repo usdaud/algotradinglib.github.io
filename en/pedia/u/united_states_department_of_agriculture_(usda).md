@@ -96,6 +96,5 @@ The USDA is also focusing on global food [security](../s/security.md), working w
 
 ## Conclusion
 
-The United States Department of Agriculture (USDA) is a cornerstone of American policy, crucial in shaping agriculture, food safety, and rural development. It plays a vital role in ensuring the stability, [productivity](../p/productivity.md), and sustainability of the U.S. agricultural sector. While it faces numerous challenges and criticisms, its contributions to the [economy](../e/economy.md), public health, and environmental conservation are indispensable. As it adapts to modern challenges and embraces technological advancements, the USDA [will](../w/will.md) continue to play a key role in the nation’s future. 
+The United States Department of Agriculture (USDA) is a cornerstone of American policy, crucial in shaping agriculture, food safety, and rural development. It plays a vital role in ensuring the stability, [productivity](../p/productivity.md), and sustainability of the U.S. agricultural sector. While it faces numerous challenges and criticisms, its contributions to the [economy](../e/economy.md), public health, and environmental conservation are indispensable. As it adapts to modern challenges and embraces technological advancements, the USDA [will](../w/will.md) continue to play a key role in the nation’s future.
 
-For more information, visit the [USDA's official website](https://www.usda.gov).

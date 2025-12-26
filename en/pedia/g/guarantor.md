@@ -2,7 +2,7 @@
 
 ## The Role of a Guarantor
 
-A guarantor in the context of [algorithmic trading](../a/accountability.md) is an entity—typically a financial institution—that ensures the fulfillment of financial transactions, provides [collateral management](../c/collateral_management.md), facilitates [risk](../r/risk.md) mitigation, and guarantees the [execution](../e/execution.md) of trades. The presence of a guarantor adds a layer of [security](../s/security.md) and confidence for all parties involved in the trading process.
+A guarantor in the context of [algorithmic trading](../a/algorithmic_trading.md) is an entity—typically a financial institution—that ensures the fulfillment of financial transactions, provides [collateral management](../c/collateral_management.md), facilitates [risk](../r/risk.md) mitigation, and guarantees the [execution](../e/execution.md) of trades. The presence of a guarantor adds a layer of [security](../s/security.md) and confidence for all parties involved in the trading process.
 
 ## Functions of a Guarantor
 
@@ -10,7 +10,7 @@ A guarantor in the context of [algorithmic trading](../a/accountability.md) is a
 
 Guarantors provide [credit](../c/credit.md) enhancement, which lowers the [risk](../r/risk.md) associated with a financial [transaction](../t/transaction.md) and guarantees the completion of a [trade](../t/trade.md) even if one of the parties defaults. This is particularly crucial in high-frequency trading where [transaction](../t/transaction.md) volumes are large, and the potential for [counterparty risk](../c/counterparty_risk.md) is ever-present.
 
-### 2. Risk Mitigation 
+### 2. Risk Mitigation
 
 By acting as an intermediary, guarantors help mitigate various types of risks including [counterparty risk](../c/counterparty_risk.md), settlement [risk](../r/risk.md), and [market risk](../m/market_risk.md). They achieve this through continuous monitoring of the [trading environment](../t/trading_environment.md), assessing the [financial health](../f/financial_health.md) of involved parties, and maintaining necessary [collateral](../c/collateral.md).
 
@@ -48,15 +48,15 @@ For investors and institutional clients, knowing there is a guarantor involved a
 
 ### JPMorgan Chase
 
-JPMorgan Chase is a prime example of a financial institution that acts as a guarantor within the [algorithmic trading](../a/accountability.md) space. The [bank](../b/bank.md) leverages its extensive [capital](../c/capital.md) base to provide [credit](../c/credit.md) enhancements and [collateral management](../c/collateral_management.md). For more information, visit: [JPMorgan Chase](https://www.jpmorganchase.com).
+JPMorgan Chase is a prime example of a financial institution that acts as a guarantor within the [algorithmic trading](../a/algorithmic_trading.md) space. The [bank](../b/bank.md) leverages its extensive [capital](../c/capital.md) base to provide [credit](../c/credit.md) enhancements and [collateral management](../c/collateral_management.md). For more information, visit: JPMorgan Chase.
 
 ### Goldman Sachs
 
-Goldman Sachs employs its vast resources to guarantee [trade](../t/trade.md) executions and manage risks involved in [algorithmic trading](../a/accountability.md). The [firm](../f/firm.md)’s role as a guarantor ensures that trades are executed seamlessly and participants can [trust](../t/trust.md) in the integrity of the trading process. For more information, visit: [Goldman Sachs](https://www.goldmansachs.com).
+Goldman Sachs employs its vast resources to guarantee [trade](../t/trade.md) executions and manage risks involved in [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md)’s role as a guarantor ensures that trades are executed seamlessly and participants can [trust](../t/trust.md) in the integrity of the trading process. For more information, visit: Goldman Sachs.
 
 ### ICAP
 
-ICAP, now part of TP ICAP, provides [broker-dealer](../b/broker-dealer.md) and interdealer services, acting as a guarantor to facilitate efficient and secure trading activities. They [handle](../h/handle.md) a significant portion of global trading [volume](../v/volume.md), showcasing the importance of reliable guarantor services. For more information, visit: [TP ICAP](https://www.tpicap.com).
+ICAP, now part of TP ICAP, provides [broker-dealer](../b/broker-dealer.md) and interdealer services, acting as a guarantor to facilitate efficient and secure trading activities. They [handle](../h/handle.md) a significant portion of global trading [volume](../v/volume.md), showcasing the importance of reliable guarantor services. For more information, visit: TP ICAP.
 
 ## Technological Implications
 
@@ -92,4 +92,4 @@ As financial trades move increasingly online, cybersecurity becomes a major conc
 
 ## Conclusion
 
-In summary, guarantors play an indispensable role in the complex world of [algorithmic trading](../a/accountability.md). Through functions like [credit](../c/credit.md) enhancement, [risk](../r/risk.md) mitigation, [collateral management](../c/collateral_management.md), and [execution](../e/execution.md) guarantee, they provide the backbone of [trust](../t/trust.md) and [security](../s/security.md) that allows the algo trading ecosystem to function efficiently. Guarantors interact with various components of the [trading environment](../t/trading_environment.md) including [broker](../b/broker.md)-dealers, clearinghouses, regulatory bodies, and trading platforms, making them a crucial part of this intricate network. Companies like JPMorgan Chase, Goldman Sachs, and TP ICAP exemplify the role of guarantors, utilizing advanced technologies and [robust](../r/robust.md) frameworks to ensure the stability and integrity of the trading process. Amidst rapid technological evolution, regulatory changes, and [market](../m/market.md) [volatility](../v/volatility.md), guarantors continually adapt to maintain their pivotal role in [algorithmic trading](../a/accountability.md).
+In summary, guarantors play an indispensable role in the complex world of [algorithmic trading](../a/algorithmic_trading.md). Through functions like [credit](../c/credit.md) enhancement, [risk](../r/risk.md) mitigation, [collateral management](../c/collateral_management.md), and [execution](../e/execution.md) guarantee, they provide the backbone of [trust](../t/trust.md) and [security](../s/security.md) that allows the algo trading ecosystem to function efficiently. Guarantors interact with various components of the [trading environment](../t/trading_environment.md) including [broker](../b/broker.md)-dealers, clearinghouses, regulatory bodies, and trading platforms, making them a crucial part of this intricate network. Companies like JPMorgan Chase, Goldman Sachs, and TP ICAP exemplify the role of guarantors, utilizing advanced technologies and [robust](../r/robust.md) frameworks to ensure the stability and integrity of the trading process. Amidst rapid technological evolution, regulatory changes, and [market](../m/market.md) [volatility](../v/volatility.md), guarantors continually adapt to maintain their pivotal role in [algorithmic trading](../a/algorithmic_trading.md).

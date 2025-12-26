@@ -17,9 +17,9 @@ In most practical scenarios, the [benchmark](../b/benchmark.md) is typically an 
 The concept of excess [return](../r/return.md) is critically important for several reasons:
 
 1. **Performance Measurement**: It allows investors to determine whether an investment is outperforming or underperforming relative to a [benchmark](../b/benchmark.md).
-   
+
 2. **[Risk](../r/risk.md) Assessment**: By comparing returns to a [risk](../r/risk.md)-free rate, investors can assess how much additional [risk](../r/risk.md) they are taking on for the excess returns achieved.
-   
+
 3. **Strategy Evaluation**: For algorithmic traders, excess [return](../r/return.md) is a key metric to evaluate and refine [trading algorithms](../t/trading_algorithms.md) and strategies.
 
 4. **Compensation and Incentives**: [Fund](../f/fund.md) managers and active traders often have their compensation tied to the ability to generate excess returns, also known as [alpha](../a/alpha.md).
@@ -58,7 +58,7 @@ In algo trading, the selection of an appropriate [benchmark](../b/benchmark.md) 
 
 ### Case Study: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a platform that provides [algorithmic trading](../a/accountability.md) and research tools. It allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). [QuantConnect](../q/quantconnect.md)'s platform also enables users to evaluate the excess [return](../r/return.md) of their strategies using historical data. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a platform that provides [algorithmic trading](../a/accountability.md) and research tools. It allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). [QuantConnect](../q/quantconnect.md)'s platform also enables users to evaluate the excess [return](../r/return.md) of their strategies using historical data. For more information, visit QuantConnect.
 
 ## Factors Affecting Excess Return
 
@@ -86,7 +86,7 @@ Changes in regulations can affect the feasibility of certain [trading strategies
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies is one of the most famous [hedge](../h/hedge.md) funds known for its application of quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Its Medallion [Fund](../f/fund.md) has been exceptionally successful in generating high excess returns. For more information, visit [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies is one of the most famous [hedge](../h/hedge.md) funds known for its application of quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Its Medallion [Fund](../f/fund.md) has been exceptionally successful in generating high excess returns. For more information, visit Renaissance Technologies.
 
 ## Enhancing Excess Return
 
@@ -98,7 +98,7 @@ By diversifying the portfolio across different [asset](../a/asset.md) classes, s
 
 ### Advanced Analytics
 
-Utilizing advanced analytics, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), can help in identifying patterns and opportunities that traditional methods might miss. Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools to implement such analytics.
+Utilizing advanced analytics, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), can help in identifying patterns and opportunities that traditional methods might miss. Platforms like [StockSharp](../s/stocksharp.md) [offer](../o/offer.md) tools to implement such analytics.
 
 ### Continuous Optimization
 

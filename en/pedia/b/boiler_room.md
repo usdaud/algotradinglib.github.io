@@ -69,5 +69,5 @@ If you encounter a boiler room operation or suspect unethical behavior, report i
 Boiler rooms represent a significant [risk](../r/risk.md) to investors, using high-pressure tactics, misleading information, and often unregistered securities to deceive individuals into making poor investment choices. While regulatory bodies like the SEC and FINRA work diligently to curtail these practices, individuals must remain vigilant and proactive in protecting their investments. Understanding the characteristics of boiler rooms and following [best practices](../b/best_practices.md) for [due diligence](../d/due_diligence.md) can significantly reduce the [risk](../r/risk.md) of falling victim to such schemes.
 
 For further information and regulatory resources, you can visit:
-- [Securities and Exchange Commission (SEC)](https://www.sec.gov)
-- [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org)
+- Securities and Exchange Commission (SEC)
+- Financial Industry Regulatory Authority (FINRA)

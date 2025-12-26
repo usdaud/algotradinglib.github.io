@@ -70,7 +70,7 @@ Since Non-Traded REITs are not traded on public exchanges, they are less affecte
 Non-Traded REITs can serve as a [complement](../c/complement.md) to traditional investment portfolios, [offering](../o/offering.md) both [diversification](../d/diversification.md) and exposure to [real estate](../r/real_estate.md). However, they are best suited for investors with a higher [risk tolerance](../r/risk_tolerance.md) and long-term investment horizons due to their illiquid nature and potential risks.
 
 ### Allocation Strategy
-Financial advisors generally recommend a thoughtful allocation strategy to incorporate Non-Traded REITs into a broader investment portfolio. Typically, these investments should represent a smaller portion of the portfolio, balancing the potential benefits with their inherent risks.  
+Financial advisors generally recommend a thoughtful allocation strategy to incorporate Non-Traded REITs into a broader investment portfolio. Typically, these investments should represent a smaller portion of the portfolio, balancing the potential benefits with their inherent risks.
 
 ## Key Considerations Before Investing in Non-Traded REITs
 
@@ -90,8 +90,8 @@ Staying informed about the regulatory environment around Non-Traded REITs helps 
 
 Some well-known companies that sponsor Non-Traded REITs include:
 
-- **Blackstone [Real Estate](../r/real_estate.md) [Income](../i/income.md) [Trust](../t/trust.md) (BREIT)**: BREIT focuses on multifamily, industrial, hotel, office, and retail properties. [BREIT Website](https://www.breit.com/)
-- **Griffin [Capital](../c/capital.md) Company**: Griffin [Capital](../c/capital.md) sponsors Non-Traded REITs with a focus on [income](../i/income.md)-producing office and industrial properties. [Griffin Capital Website](https://www.griffincapital.com/)
+- **Blackstone [Real Estate](../r/real_estate.md) [Income](../i/income.md) [Trust](../t/trust.md) (BREIT)**: BREIT focuses on multifamily, industrial, hotel, office,
+- **Griffin [Capital](../c/capital.md) Company**: Griffin [Capital](../c/capital.md) sponsors Non-Traded REITs with a focus on [income](../i/income.md)-producing
 
 These examples represent the diverse [range](../r/range.md) of properties and strategies that Non-Traded REITs can encompass.
 

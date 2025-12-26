@@ -17,12 +17,12 @@ Lock-up agreements serve a fundamental purpose in maintaining [market](../m/mark
 Several critical components constitute a typical lock-up agreement:
 
 1. **[Duration](../d/duration.md):** The standard [lock-up period](../l/lock-up_period.md) generally lasts between 90 to 180 days but can vary based on the company and the nature of the IPO.
-   
+
 2. **[Scope](../s/scope.md):** The agreement specifies the types of securities covered, usually including [common stock](../c/common_stock.md) and stock [options](../o/options.md) held by insiders.
 
 3. **Exemptions:** Certain circumstances may allow insiders to sell [shares](../s/shares.md) during the [lock-up period](../l/lock-up_period.md), such as secondary offerings or significant shifts in the company's status.
 
-4. **Penalties:** Violating a lock-up agreement can result in severe penalties, including financial repercussions and reputational damage. 
+4. **Penalties:** Violating a lock-up agreement can result in severe penalties, including financial repercussions and reputational damage.
 
 5. **Modification Clauses:** Some agreements include clauses that allow the underwriters or the company to modify the terms under specific conditions, such as significant changes in the [market](../m/market.md).
 
@@ -48,4 +48,4 @@ Lock-up agreements are governed by securities laws specified by regulatory bodie
 
 Lock-up agreements play a crucial role in maintaining [market](../m/market.md) stability, building [investor](../i/investor.md) confidence, and preventing conflicts of [interest](../i/interest.md) in the period following an IPO. By restricting insiders from selling their [shares](../s/shares.md) for a specified [duration](../d/duration.md), these agreements help manage the [supply](../s/supply.md) of [shares](../s/shares.md) in the [market](../m/market.md) and mitigate potential [volatility](../v/volatility.md). As a result, lock-up agreements contribute significantly to the overall health and integrity of the [financial markets](../f/financial_market.md).
 
-For more information on lock-up agreements and related financial topics, please visit the United States Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s [official website](https://www.sec.gov/).
+For more information on lock-up agreements and related financial topics, please visit the United States Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s

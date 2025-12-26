@@ -5,7 +5,7 @@
 ## Types of Markets
 
 ### 1. **Stock Markets**
-Stock markets are the most well-known and are primarily used for the issuance and trading of stock [shares](../s/shares.md). 
+Stock markets are the most well-known and are primarily used for the issuance and trading of stock [shares](../s/shares.md).
 
 - **[Primary Market](../p/primary_market.md)**: The [primary market](../p/primary_market.md) is where securities are created. In this [market](../m/market.md), companies [issue](../i/issue.md) new [stocks](../s/stock.md) and bonds to the public for the first time, such as through an Initial Public [Offering](../o/offering.md) (IPO).
 - **[Secondary Market](../s/secondary_market.md)**: This [market](../m/market.md) is where investors buy and sell securities they already own. It includes exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md).
@@ -27,7 +27,7 @@ The Forex [market](../m/market.md) is where currencies are traded. It is one of 
 
 - **Corporate Bonds**: These are bonds issued by companies.
 - **Government Bonds**: These are issued by national governments.
-  
+
 ### 5. **Cryptocurrency Markets**
 Cryptocurrency markets have emerged as a new kind of [market](../m/market.md) where digital assets such as [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) are traded.
 
@@ -78,11 +78,11 @@ Algorithmic performance can be measured differently in various markets. For inst
 
 ## Major Companies Involved in Algorithmic Trading
 
-1. [Jane Street Capital](https://www.janestreet.com/)
-2. [Two Sigma Investments](https://www.twosigma.com/)
-3. [Citadel LLC](https://www.citadel.com/)
-4. [DE Shaw & Co.](https://www.deshaw.com/)
-5. [Jump Trading](https://www.jumptrading.com/)
+1. Jane Street Capital
+2. Two Sigma Investments
+3. Citadel LLC
+4. DE Shaw & Co.
+5. Jump Trading
 
 ### 1. **Jane Street Capital**
 Jane Street [Capital](../c/capital.md) is a [firm](../f/firm.md) known for its expertise in [quantitative trading](../q/quantitative_trading.md) and research.

@@ -55,4 +55,4 @@ SISE aims to expand its operations by:
 ## Conclusion
 The Solomon Islands Stock [Exchange](../e/exchange.md), though a nascent financial institution, represents a vital component of the country's economic [infrastructure](../i/infrastructure.md). Continued development and regulatory support [will](../w/will.md) be critical to its success in fostering [economic growth](../e/economic_growth.md) and investment.
 
-For more information, you can visit [SISE's official webpage](https://cbsi.com.sb/financial-system/sisee/).
+For more information, you can visit SISE's official webpage.

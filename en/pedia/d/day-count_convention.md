@@ -44,7 +44,7 @@ The 30/365 convention uses 30 days for the months but assumes a 365-day year. Th
 Day-count conventions are critical in [financial markets](../f/financial_market.md) for several reasons:
 
 1. **Accurate Pricing**: Provides a consistent method to calculate [accrued interest](../a/accrued_interest.md) and the [present value](../p/present_value.md) of securities.
-   
+
 2. **Standardization**: Ensures that [market](../m/market.md) participants have a common understanding, which aids in compliance and reduces discrepancies.
 
 3. **[Risk Management](../r/risk_management.md)**: Helps in precise measurement and management of [interest rate risk](../i/interest_rate_risk.md).
@@ -55,7 +55,7 @@ Day-count conventions are critical in [financial markets](../f/financial_market.
 
 ### Fixed-Income Securities
 
-Day-count conventions are fundamental in determining coupon payments on bonds. For instance, a [bond](../b/bond.md) with semi-annual coupons might use the Actual/Actual convention to calculate  the exact [interest](../i/interest.md) owed to a [bondholder](../b/bondholder.md).
+Day-count conventions are fundamental in determining coupon payments on bonds. For instance, a [bond](../b/bond.md) with semi-annual coupons might use the Actual/Actual convention to calculate the exact [interest](../i/interest.md) owed to a [bondholder](../b/bondholder.md).
 
 ### Derivatives
 
@@ -77,7 +77,7 @@ Portfolio managers use day-count conventions to calculate the [yield](../y/yield
 
 ### Corporate Bonds
 
-Most corporate bonds in the U.S. adopt the 30/360 convention for simplicity and ease of calculation. This helps in maintaining uniformity across the [market](../m/market.md), aiding investors and analysts in comparing different securities. 
+Most corporate bonds in the U.S. adopt the 30/360 convention for simplicity and ease of calculation. This helps in maintaining uniformity across the [market](../m/market.md), aiding investors and analysts in comparing different securities.
 
 ### Money Market Instruments
 

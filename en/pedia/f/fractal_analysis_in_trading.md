@@ -12,7 +12,7 @@ For a bit of background, fractals were first studied by Mandelbrot in relation t
 
 ## Application of Fractals in Trading
 
-The application of fractal analysis in trading involves identifying recurring [price patterns](../p/price_patterns.md) that can indicate potential [market](../m/market.md) movements. These patterns can be identified on various time frames, from minutes and hours to days and weeks. 
+The application of fractal analysis in trading involves identifying recurring [price patterns](../p/price_patterns.md) that can indicate potential [market](../m/market.md) movements. These patterns can be identified on various time frames, from minutes and hours to days and weeks.
 
 ### Identification of Fractal Patterns
 
@@ -77,19 +77,19 @@ Several trading platforms and [software tools](../s/software_tools_for_trading.m
 
 MetaTrader platforms [offer](../o/offer.md) built-in fractal indicators. Traders can easily apply these indicators to their charts and adjust settings based on their analysis.
 
-- [MetaTrader](https://www.metatrader4.com/)
+- MetaTrader
 
 ### TradingView
 
 [TradingView](../t/tradingview.md) provides a wide [range](../r/range.md) of fractal indicators that traders can apply to various types of charts and markets.
 
-- [TradingView](https://www.tradingview.com/)
+- TradingView
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) is another [robust](../r/robust.md) [trading platform](../t/trading_platform.md) that offers fractal analysis tools, allowing traders to integrate fractals into their [trading strategies](../t/trading_strategies.md).
 
-- [NinjaTrader](https://ninjatrader.com/)
+- NinjaTrader
 
 ## Conclusion
 

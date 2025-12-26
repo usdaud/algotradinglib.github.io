@@ -6,7 +6,7 @@ Zero Rate Hedging is a type of financial strategy primarily used in [interest ra
 
 Before diving into zero rate hedging, it’s essential to understand the term "zero rate." The zero rate, or zero-[coupon rate](../c/coupon_rate.md), represents the [yield](../y/yield.md) on a [zero-coupon bond](../z/zero-coupon_bond.md), which pays no periodic [interest](../i/interest.md) but is sold at a [discount](../d/discount.md); its [yield](../y/yield.md) is the rate at which [money](../m/money.md) grows over a period until [maturity](../m/maturity.md). The concept of zero rate is foundational in [fixed income](../f/fixed_income.md) and other financial sectors because it helps in [discounting](../d/discounting.md) future cash flows, price zero-coupon bonds, and understand the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
-### Zero-Coupon Bonds 
+### Zero-Coupon Bonds
 
 Zero-coupon bonds are a type of [bond](../b/bond.md) that does not pay periodic [interest](../i/interest.md). Instead, they are issued at a significant [discount](../d/discount.md) from their [face value](../f/face_value.md). The [investor](../i/investor.md) receives the [face value](../f/face_value.md) upon [maturity](../m/maturity.md). The difference between the purchase price and the [face value](../f/face_value.md) represents the [interest](../i/interest.md) earned. The [yield to maturity](../y/yield_to_maturity.md) (YTM) on a [zero-coupon bond](../z/zero-coupon_bond.md) is considered the zero rate for the [maturity](../m/maturity.md) period of the [bond](../b/bond.md).
 
@@ -113,4 +113,4 @@ Regulations affecting how [derivatives](../d/derivatives.md) and other financial
 
 Zero rate hedging is an advanced financial strategy aimed at nullifying [interest rate](../i/interest_rate.md) exposure. Through tools like swaps, [futures](../f/futures.md), [options](../o/options.md), and zero-coupon instruments, organizations can achieve more predictable financial outcomes, mitigating the risks associated with [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md). Although complex and not without challenges, the benefits of zero rate hedging make it a crucial practice in [financial risk management](../f/financial_risk_management.md).
 
-For more detailed information on zero rate hedging, financial strategies, and consulting services, you can visit the pages of financial institutions such as [Goldman Sachs](https://www.goldmansachs.com), [JP Morgan](https://www.jpmorgan.com), or [BlackRock](https://www.blackrock.com).
+For more detailed information on zero rate hedging, financial strategies, and consulting services, you can visit the pages of financial institutions such as Goldman Sachs, JP Morgan, or BlackRock.

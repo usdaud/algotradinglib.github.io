@@ -86,15 +86,15 @@ Some lenders [offer](../o/offer.md) bi-weekly [payment](../p/payment.md) arrange
 ### Mortgage Calculators
 Many [finance](../f/finance.md) websites [offer](../o/offer.md) [mortgage](../m/mortgage.md) and [loan](../l/loan.md) calculators which allow potential borrowers to input their [loan](../l/loan.md) amount, [interest rate](../i/interest_rate.md), and term to compute monthly payments and visualize amortization schedules. Examples include:
 
-- [Bankrate’s Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx)
-- [NerdWallet’s Loan Calculator](https://www.nerdwallet.com/mortgages/mortgage-calculator)
+- Bankrate’s Mortgage Calculator
+- NerdWallet’s Loan Calculator
 
 ### Financial Institutions
 These institutions provide a [range](../r/range.md) of amortized [loan](../l/loan.md) products for consumers:
 
-- [Quicken Loans - Rocket Mortgage](https://www.rocketmortgage.com/)
-- [Wells Fargo Home Mortgage](https://www.wellsfargo.com/mortgage/)
-- [Chase Mortgage](https://www.chase.com/personal/mortgage)
+- Quicken Loans - Rocket Mortgage
+- Wells Fargo Home Mortgage
+- Chase Mortgage
 
 ## Conclusion
 

@@ -41,7 +41,7 @@ New York City has had some form of [rent control](../r/rent_control.md) or rent 
 
 ### Oil Price Controls in the 1970s
 
-During the 1970s, the United States implemented price controls on oil in response to the oil crisis. While intended to keep fuel affordable, the controls led to long lines at gas stations and a significant [supply](../s/supply.md) shortage. 
+During the 1970s, the United States implemented price controls on oil in response to the oil crisis. While intended to keep fuel affordable, the controls led to long lines at gas stations and a significant [supply](../s/supply.md) shortage.
 
 ### Minimum Wage Laws
 
@@ -65,11 +65,11 @@ Behavioral economists analyze how price controls influence consumer and producer
 
 ### Fintech Solutions
 
-Fintech companies like [Robinhood](https://www.robinhood.com) and [Acorns](https://www.acorns.com) aim to democratize access to [financial markets](../f/financial_market.md), although they must sometimes navigate regulatory landscapes shaped by price controls on services and [transaction fees](../t/transaction_fees.md).
+Fintech companies like Robinhood and Acorns aim to democratize access to [financial markets](../f/financial_market.md), although they must sometimes navigate regulatory landscapes shaped by price controls on services and [transaction fees](../t/transaction_fees.md).
 
 ### Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), price controls can alter [market dynamics](../m/market_dynamics.md). Algorithms need to be adapted to recognize government interventions and adjust [trading strategies](../t/trading_strategies.md) accordingly. This could involve setting constraints within [trading algorithms](../t/trading_algorithms.md) when price floors or ceilings are expected to be enforced.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), price controls can alter [market dynamics](../m/market_dynamics.md). Algorithms need to be adapted to recognize government interventions and adjust [trading strategies](../t/trading_strategies.md) accordingly. This could involve setting constraints within [trading algorithms](../t/trading_algorithms.md) when price floors or ceilings are expected to be enforced.
 
 ### International Perspectives
 

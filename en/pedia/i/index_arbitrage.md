@@ -52,13 +52,13 @@ Software designed to execute high-frequency [trading strategies](../t/trading_st
 
 Low-latency connections to exchanges and data feeds to ensure timely [execution](../e/execution.md) and access to [real-time market data](../r/real-time_market_data.md).
 
-### Prominent Players in Index Arbitrage 
+### Prominent Players in Index Arbitrage
 
 Several firms and trading desks specialize in [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md). These include:
 
-1. **Jane Street:** A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs sophisticated technology for [market](../m/market.md) making and [arbitrage](../a/arbitrage.md). More information can be found on their [website](https://www.janestreet.com/).
-2. **[Jump Trading](../j/jump_trading.md):** Known for its high-frequency [trading strategies](../t/trading_strategies.md), [Jump Trading](../j/jump_trading.md) is a private [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) engaged in [multiple](../m/multiple.md) [arbitrage](../a/arbitrage.md) practices. Visit their [website](https://jumptrading.com/).
-3. **Tower Research [Capital](../c/capital.md):** This financial services [firm](../f/firm.md) focuses on [quantitative trading](../q/quantitative_trading.md) and executes various forms of [arbitrage](../a/arbitrage.md) strategies. Their [website](https://www.tower-research.com/) provides more insights.
+1. **Jane Street:** A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs sophisticated technology for [market](../m/market.md) making and [arbitrage](../a/arbitrage.md).
+2. **[Jump Trading](../j/jump_trading.md):** Known for its high-frequency [trading strategies](../t/trading_strategies.md), [Jump Trading](../j/jump_trading.md) is a private [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) engaged in [multiple](../m/multiple.md) [arbitrage](../a/arbitrage.md) practices.
+3. **Tower Research [Capital](../c/capital.md):** This financial services [firm](../f/firm.md) focuses on [quantitative trading](../q/quantitative_trading.md) and executes various forms of [arbitrage](../a/arbitrage.md) strategies. their online platform provides more insights.
 
 ### Regulation of Index Arbitrage
 

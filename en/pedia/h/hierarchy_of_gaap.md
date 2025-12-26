@@ -16,7 +16,7 @@ This is the highest level of GAAP and includes:
 - **American Institute of Certified Public Accountants (AICPA) Auditing Standards and Interpretations**
 - **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) Rules and Interpretations for public entities**
 
-FASB is an independent non-[profit](../p/profit.md) organization responsible for establishing [accounting](../a/accounting.md) and financial reporting standards for companies and non-[profit](../p/profit.md) organizations in the United States. Here is the link to the FASB website: [FASB](https://www.fasb.org)
+FASB is an independent non-[profit](../p/profit.md) organization responsible for establishing [accounting](../a/accounting.md) and financial reporting standards for companies and non-[profit](../p/profit.md) organizations in the United States. Here is the link to the FASB online platform: FASB
 
 ### Level 2: Authoritative Body Pronouncements
 

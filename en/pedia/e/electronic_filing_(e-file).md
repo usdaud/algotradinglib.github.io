@@ -12,7 +12,7 @@ Tax filing is one of the most widely known applications of e-filing. Taxpayers c
 - **Speed:** Faster processing times compared to traditional paper filings.
 - **Convenience:** Filers can submit returns from anywhere with internet access.
 
-Websites like the [IRS's Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) portal [offer](../o/offer.md) resources for e-filing federal tax returns in the United States.
+Websites like the IRS's Free File portal [offer](../o/offer.md) resources for e-filing federal tax returns in the United States.
 
 ### Legal Filings
 
@@ -22,7 +22,7 @@ In the legal sector, e-filing has revolutionized the way documents are submitted
 - **[Efficiency](../e/efficiency.md):** Reducing the need for physical document storage and retrieval.
 - **[Transparency](../t/transparency.md):** Easy access to case files and records for judges, lawyers, and related parties.
 
-An example of a platform [offering](../o/offering.md) such services is [PACER (Public Access to Court Electronic Records)](https://pacer.uscourts.gov).
+An example of a platform [offering](../o/offering.md) such services is PACER (Public Access to Court Electronic Records).
 
 ### Financial Filings
 
@@ -32,7 +32,7 @@ Financial institutions and publicly traded companies often use e-filing to meet 
 - **Banking Reports:** Banks submit electronic compliance and regulatory reports.
 - **Investment Disclosures:** [Fund](../f/fund.md) managers and brokers submit [disclosure](../d/disclosure.md) documents.
 
-For more information, visit the [SEC's EDGAR database](https://www.sec.gov/edgar/searchedgar/companysearch.html).
+For more information, visit the SEC's EDGAR database.
 
 ## Benefits of E-Filing
 
@@ -124,6 +124,6 @@ Electronic filing systems have transformed the way individuals and businesses su
 
 For more detailed information on e-filing and its various applications, you can visit:
 
-- [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
-- [PACER](https://pacer.uscourts.gov)
-- [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+- IRS Free File
+- PACER
+- SEC EDGAR

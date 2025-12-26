@@ -93,8 +93,8 @@ As economies navigate post-pandemic recoveries, questions about the sustainabili
 
 *For further reading and comprehensive case studies, visit:
 
-- [Bank of International Settlements](https://www.bis.org)
-- [International Monetary Fund](https://www.imf.org)
-- [OECD](https://www.oecd.org)
+- Bank of International Settlements
+- International Monetary Fund
+- OECD
 
 *[Note](../n/note.md): The analysis and potential solutions discussed are based on prevailing economic theories and empirical data, and are subject to change as new research and [economic conditions](../e/economic_conditions.md) evolve.*

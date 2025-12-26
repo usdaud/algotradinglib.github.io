@@ -53,7 +53,7 @@ Implementing [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjus
 Numerous academic papers and [industry](../i/industry.md) research have demonstrated the significant impact of [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) on [trading strategies](../t/trading_strategies.md). For example, studies have shown that during [market](../m/market.md) crashes or financial crises, [asset](../a/asset.md) returns exhibit leptokurtic and negatively skewed characteristics, necessitating adaptations in [algorithmic trading](../a/algorithmic_trading.md) models to manage these extreme risks effectively.
 
 #### Industry Applications
-Financial institutions and [hedge](../h/hedge.md) funds employ [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjustments in their [trading algorithms](../t/trading_algorithms.md). For instance, Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), utilizes advanced statistical techniques, including [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjustments, to [outperform](../o/outperform.md) the [market](../m/market.md) consistently. More information about their strategies can be found on their [official website](https://www.rentec.com).
+Financial institutions and [hedge](../h/hedge.md) funds employ [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjustments in their [trading algorithms](../t/trading_algorithms.md). For instance, Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), utilizes advanced statistical techniques, including [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjustments, to [outperform](../o/outperform.md) the [market](../m/market.md) consistently.
 
 ### Tools and Software for Analysis
 
@@ -61,7 +61,7 @@ Financial institutions and [hedge](../h/hedge.md) funds employ [kurtosis](../k/k
 Both R and Python [offer](../o/offer.md) extensive libraries for performing [kurtosis and skewness analysis](../k/kurtosis_skewness_analysis.md). Libraries such as `statsmodels` and `scipy` in Python, and packages like `e1071` in R, provide functions to easily calculate and adjust for these statistical measures.
 
 #### Specialized Trading Platforms
-Many trading platforms and software solutions, such as [QuantConnect](../q/quantconnect.md) and AlgorithmicTrading.net, provide built-in tools for incorporating [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjustments in algorithmic strategies. For more details, you can visit [QuantConnect's website](https://www.quantconnect.com) and [AlgorithmicTrading.net](https://algorithmictrading.net).
+Many trading platforms and software solutions, such as [QuantConnect](../q/quantconnect.md) and AlgorithmicTrading.net, provide built-in tools for incorporating [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) adjustments in algorithmic strategies.net.
 
 ### Challenges and Considerations
 

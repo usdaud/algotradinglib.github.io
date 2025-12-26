@@ -9,7 +9,7 @@ The EBA is headquartered in Paris, France, and its [organizational structure](..
 The Board of Supervisors is the primary decision-making body of the EBA. It consists of representatives from each of the 27 EU member states, additional members from countries in the European Economic Area (EEA), and representatives from the European Central [Bank](../b/bank.md) (ECB) and the European [Commission](../c/commission.md).
 
 ### Management Board
-The Management Board oversees the day-to-day operations of the EBA. It consists of a Chairperson, a Vice-Chairperson, and several other members elected by the Board of Supervisors. 
+The Management Board oversees the day-to-day operations of the EBA. It consists of a Chairperson, a Vice-Chairperson, and several other members elected by the Board of Supervisors.
 
 ### Chairperson
 The Chairperson is responsible for representing the EBA externally and ensuring the effective [execution](../e/execution.md) of its mandate. The Chairperson is appointed for a renewable five-year term.
@@ -80,4 +80,3 @@ The EBA's efforts in combating [money laundering](../m/money_laundering.md) and 
 ## Conclusion
 The European Banking Authority (EBA) plays a critical role in shaping and overseeing the regulatory landscape of the European banking sector. Through its harmonization efforts, supervisory activities, and consumer protection initiatives, the EBA has significantly contributed to financial stability, integrity, and innovation within the EU banking [market](../m/market.md). As the financial landscape continues to evolve, the EBA [will](../w/will.md) remain a key player in ensuring that the European banking sector remains resilient, competitive, and consumer-friendly.
 
-For more information about the European Banking Authority, you can visit their official website [here](https://www.eba.europa.eu/).

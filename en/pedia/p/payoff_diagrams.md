@@ -23,7 +23,7 @@ A long [call option](../c/call_option.md) gives the holder the right, but not th
 - **Maximum Loss**: Limited to the [premium](../p/premium.md) paid.
 - **Maximum [Profit](../p/profit.md)**: Potentially unlimited, as the [underlying](../u/underlying.md) price can rise indefinitely.
 
-![Long Call Payoff Diagram](https://example.com/long_call.png)
+!Long Call Payoff Diagram
 
 ### 2. Long Put Option
 
@@ -34,7 +34,7 @@ A long [put option](../p/put.md) grants the holder the right to sell the [underl
 - **Maximum Loss**: Limited to the [premium](../p/premium.md) paid.
 - **Maximum [Profit](../p/profit.md)**: Limited to the [strike price](../s/strike_price.md) minus the [premium](../p/premium.md), assuming the [underlying asset](../u/underlying_asset.md) could fall to zero.
 
-![Long Put Payoff Diagram](https://example.com/long_put.png)
+!Long Put Payoff Diagram
 
 ### 3. Covered Call
 
@@ -45,7 +45,7 @@ A [covered call](../c/covered_call.md) strategy involves holding a long position
 - **Maximum Loss**: Significant, as it includes the potential for the [underlying asset](../u/underlying_asset.md) price to drop to zero minus the [premium](../p/premium.md) received.
 - **Maximum [Profit](../p/profit.md)**: Limited to the [premium](../p/premium.md) received plus the difference between the purchase price of the [underlying](../u/underlying.md) and the [strike price](../s/strike_price.md).
 
-![Covered Call Payoff Diagram](https://example.com/covered_call.png)
+!Covered Call Payoff Diagram
 
 ### 4. Protective Put
 
@@ -56,7 +56,7 @@ A [protective put](../p/protective_put.md) strategy involves holding a long posi
 - **Maximum Loss**: Limited to the purchase price of the [underlying asset](../u/underlying_asset.md) plus the cost of the put minus the [strike price](../s/strike_price.md) of the put.
 - **Maximum [Profit](../p/profit.md)**: Unlimited, based on the appreciation of the [underlying asset](../u/underlying_asset.md) price minus the [premium](../p/premium.md) paid.
 
-![Protective Put Payoff Diagram](https://example.com/protective_put.png)
+!Protective Put Payoff Diagram
 
 ### 5. Straddle
 
@@ -67,7 +67,7 @@ A [straddle](../s/straddle.md) involves simultaneously buying a call and a [put 
 - **Maximum Loss**: Limited to the combined premiums paid for the call and put.
 - **Maximum [Profit](../p/profit.md)**: Unlimited, as long as the [underlying](../u/underlying.md) moves substantially either up or down.
 
-![Straddle Payoff Diagram](https://example.com/straddle.png)
+!Straddle Payoff Diagram
 
 ## Advanced Strategies and Combinations
 
@@ -82,7 +82,7 @@ A [bull call spread](../b/bull_call_spread.md) involves buying a [call option](.
 - **Maximum Loss**: Limited to the [net premium](../n/net_premium.md) paid.
 - **Maximum [Profit](../p/profit.md)**: Limited to the difference between the strike prices minus the [net premium](../n/net_premium.md) paid.
 
-![Bull Call Spread Payoff Diagram](https://example.com/bull_call_spread.png)
+!Bull Call Spread Payoff Diagram
 
 ### 2. Bear Put Spread
 
@@ -93,7 +93,7 @@ A [bear put spread](../b/bear_put_spread.md) involves buying a [put option](../p
 - **Maximum Loss**: Limited to the [net premium](../n/net_premium.md) paid.
 - **Maximum [Profit](../p/profit.md)**: Limited to the difference between the strike prices minus the [net premium](../n/net_premium.md) paid.
 
-![Bear Put Spread Payoff Diagram](https://example.com/bear_put_spread.png)
+!Bear Put Spread Payoff Diagram
 
 ### 3. Iron Condor
 
@@ -104,7 +104,7 @@ An [iron condor](../i/iron_condor.md) involves selling a call spread and a put s
 - **Maximum Loss**: Limited to the differences in strike prices minus the [net premium](../n/net_premium.md) received.
 - **Maximum [Profit](../p/profit.md)**: Limited to the [net premium](../n/net_premium.md) received.
 
-![Iron Condor Payoff Diagram](https://example.com/iron_condor.png)
+!Iron Condor Payoff Diagram
 
 ### 4. Butterfly Spread
 
@@ -115,7 +115,7 @@ A [butterfly spread](../b/butterfly_spread.md) involves buying a call (or put) a
 - **Maximum Loss**: Limited to the [net premium](../n/net_premium.md) paid.
 - **Maximum [Profit](../p/profit.md)**: Limited to the difference between the middle strike and either outer strike minus the [net premium](../n/net_premium.md) paid.
 
-![Butterfly Spread Payoff Diagram](https://example.com/butterfly_spread.png)
+!Butterfly Spread Payoff Diagram
 
 ## Applications and Considerations
 
@@ -129,4 +129,4 @@ When using payoff diagrams, it's critical to keep in mind certain applications a
 
 In conclusion, payoff diagrams are versatile tools in the arsenal of investors and traders, providing critical insights into the [profit](../p/profit.md) and loss potential of various strategies. By analyzing these diagrams, individuals can align their trading decisions more closely with their financial goals and [risk profiles](../r/risk_profiles.md).
 
-For further information on how payoff diagrams can be used for specific [trading strategies](../t/trading_strategies.md), you can explore comprehensive educational resources from [options](../o/options.md) trading institutions such as [Cboe Global Markets](https://www.cboe.com/), leaders in facilitating [options](../o/options.md) trading and education.
+For further information on how payoff diagrams can be used for specific [trading strategies](../t/trading_strategies.md), you can explore comprehensive educational resources from [options](../o/options.md) trading institutions such as Cboe Global Markets, leaders in facilitating [options](../o/options.md) trading and education.

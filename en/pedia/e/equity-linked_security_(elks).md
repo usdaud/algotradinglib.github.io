@@ -74,19 +74,19 @@ Several financial institutions are known for issuing ELKS, providing a [range](.
 
 JP Morgan offers a variety of ELKS, often linked to major [equity](../e/equity.md) indices or blue-chip [stocks](../s/stock.md). Their products are designed to cater to both retail and institutional investors.
 
-For more information, visit [JP Morgan](https://www.jpmorganchase.com).
+For more information, visit JP Morgan.
 
 ### Morgan Stanley
 
 Morgan Stanley provides customized [equity](../e/equity.md)-linked securities that cater to sophisticated investors looking for innovative investment solutions. Their ELKS can be linked to various [underlying](../u/underlying.md) assets, including international equities and sector-specific indices.
 
-For more information, visit [Morgan Stanley](https://www.morganstanley.com).
+For more information, visit Morgan Stanley.
 
 ### UBS
 
 [UBS](../u/ubs.md) offers a broad [range](../r/range.md) of structured products, including ELKS. They provide detailed prospectuses and educational material to help investors understand the risks and benefits associated with these instruments.
 
-For more information, visit [UBS](https://www.ubs.com).
+For more information, visit UBS.
 
 ## Regulatory Environment
 

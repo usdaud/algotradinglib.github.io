@@ -40,9 +40,9 @@ Managed [futures](../f/futures.md) have historically shown the potential to deli
 
 ## Notable Managed Futures Firms
 Several firms specialize in managed [futures](../f/futures.md), employing experienced CTAs and sophisticated [trading strategies](../t/trading_strategies.md). Some of the leading firms in this space include:
-- **AQR [Capital](../c/capital.md) Management** (https://www.aqr.com): A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its systematic approaches to managed [futures](../f/futures.md) and other investment strategies.
-- **Winton Group** (https://www.winton.com): A research-driven [investment management](../i/investment_management.md) [firm](../f/firm.md) that focuses on data analysis and [predictive modeling](../p/predictive_modeling.md) in its managed [futures](../f/futures.md) strategies.
-- **Man AHL** (https://www.ahl.com): A diversified quantitative investment [firm](../f/firm.md) that utilizes a variety of [systematic trading](../s/systematic_trading.md) strategies within its managed [futures](../f/futures.md) programs.
+- **AQR [Capital](../c/capital.md) Management** ( A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its systematic approaches to managed [futures](../f/futures.md) and other investment strategies.
+- **Winton Group** ( A research-driven [investment management](../i/investment_management.md) [firm](../f/firm.md) that focuses on data analysis and [predictive modeling](../p/predictive_modeling.md) in its managed [futures](../f/futures.md) strategies.
+- **Man AHL** ( A diversified quantitative investment [firm](../f/firm.md) that utilizes a variety of [systematic trading](../s/systematic_trading.md) strategies within its managed [futures](../f/futures.md) programs.
 
 ## Regulatory Environment
 Managed [futures](../f/futures.md) are subject to regulatory oversight to ensure [transparency](../t/transparency.md), fairness, and [investor](../i/investor.md) protection. The primary regulatory bodies include:

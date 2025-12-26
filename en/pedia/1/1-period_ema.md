@@ -16,7 +16,7 @@ $$ \text{EMA}_{\text{today}} = ( \text{Price}_{\text{today}} \times K ) + ( \tex
 
 Where:
 - $K$ is the smoothing [factor](../f/factor.md), calculated as $\frac{2}{n+1}$, and $n$ is the number of periods.
-  
+
 In the case of the 1-period EMA, the smoothing [factor](../f/factor.md) $K$ is maximized, making it highly sensitive to the most recent price changes.
 
 ## Characteristics of the 1-Period EMA
@@ -99,4 +99,4 @@ double calculateEMA(double price, int period) {
 
 ## Conclusion
 
-The 1-period EMA, while often overshadowed by its longer-period counterparts, holds significant potential in [algorithmic trading](../a/algorithmic_trading.md). Its unique characteristics cater to the strategies that [demand](../d/demand.md) immediacy, minimal lag, and instantaneous [market](../m/market.md) feedback. Incorporating the 1-period EMA into your [trading algorithms](../t/trading_algorithms.md) could enhance responsiveness and improve trading outcomes. Whether you're a high-frequency [trader](../t/trader.md) or an intraday enthusiast, the 1-period EMA [warrants](../w/warrants_in_trading.md) consideration as a valuable component in your trading toolkit.
+The 1-period EMA, while often overshadowed by its longer-period counterparts, holds significant potential in [algorithmic trading](../a/algorithmic_trading.md). Its unique characteristics cater to the strategies that [demand](../d/demand.md) immediacy, minimal lag, and instantaneous [market](../m/market.md) feedback. Incorporating the 1-period EMA into your [trading algorithms](../t/trading_algorithms.md) could enhance responsiveness and improve trading outcomes. Whether you're a high-frequency [trader](../t/trader.md) or an intraday enthusiast, the 1-period EMA [warrants](../w/warrants_in_trading.md) consideration as a valuable component in your trading toolkit.

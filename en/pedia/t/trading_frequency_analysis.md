@@ -11,17 +11,17 @@ This topic is crucial for traders, quants, and financial engineers who seek to u
 High-frequency trading involves the rapid [execution](../e/execution.md) of a large number of orders in fractions of a second. This strategy is typically executed by sophisticated algorithms that can analyze [market](../m/market.md) conditions and execute trades at blinding speeds. The effectiveness of HFT depends heavily on low latency, which is minimized through direct [market](../m/market.md) access and colocated servers.
 
 **Companies in HFT:**
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Virtu Financial](https://www.virtu.com/)
-- [Jump Trading](https://www.jumptrading.com/)
+- Citadel Securities
+- Virtu Financial
+- Jump Trading
 
 ### Low-Frequency Trading (LFT)
 [Low-frequency trading](../l/low-frequency_trading.md) is executed over longer time horizons, and strategies may involve holding positions for days, months, or years. This approach often depends on [fundamental analysis](../f/fundamental_analysis.md) and macroeconomic factors. Decision-making can still be algorithmically driven but with less emphasis on speed.
 
 **Companies in LFT:**
 - **Warren Buffett’s [Berkshire Hathaway](../b/berkshire_hathaway.md):**
-  - though not algorithmic, it is a quintessential [low-frequency trading](../l/low-frequency_trading.md) company.
-  - [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+ - though not algorithmic, it is a quintessential [low-frequency trading](../l/low-frequency_trading.md) company.
+ - Berkshire Hathaway
 
 ### Day Trading
 [Day trading](../d/day_trading.md) involves making trades within the same trading day and closing all positions before the [market](../m/market.md) closes. This frequency involves both HFT and LFT and sits somewhere in the middle. It requires a good understanding of [technical analysis](../t/technical_analysis.md) and [market sentiment](../m/market_sentiment.md) within short time frames.
@@ -74,8 +74,8 @@ Statistical [arbitrage](../a/arbitrage.md) involves using historical data and st
 Effective [risk management](../r/risk_management.md) systems are essential for any [trading strategy](../t/trading_strategy.md). These systems monitor the [risk metrics](../r/risk_metrics.md) in real-time and ensure that the [trading strategy](../t/trading_strategy.md) adheres to pre-set [risk](../r/risk.md) parameters.
 
 **Example [Risk Management](../r/risk_management.md) Tools:**
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- Bloomberg Terminal
+- Thomson Reuters Eikon
 
 ## Practical Applications
 

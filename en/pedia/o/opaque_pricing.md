@@ -22,8 +22,8 @@ The travel [industry](../i/industry.md) frequently uses opaque pricing to manage
 
 Retailers often use opaque pricing through mystery boxes or grab bags. These products contain unknown items which can be appealing to consumers looking for a perceived bargain or surprise.
 
-- **Mystery Boxes**: Companies like **Loot Crate (https://www.lootcrate.com)** sell themed boxes containing various items such as toys, collectibles, and apparel, without revealing the exact contents.
-- **Subscription Services**: Services like **FabFitFun (https://www.fabfitfun.com)** [offer](../o/offer.md) subscription boxes where the consumer is partially aware of the box theme but does not know all the specific items contained within.
+- **Mystery Boxes**: Companies like **Loot Crate sell themed boxes containing various items such as toys, collectibles, and apparel, without revealing the exact contents.
+- **Subscription Services**: Services like **FabFitFun ( [offer](../o/offer.md) subscription boxes where the consumer is partially aware of the box theme but does not know all the specific items contained within.
 
 ### Economic and Psychological Theories
 
@@ -50,7 +50,7 @@ While opaque pricing can [offer](../o/offer.md) benefits, it also raises ethical
 
 #### Priceline.com
 
-**Priceline (https://www.priceline.com)** is one of the pioneers of opaque pricing in the travel [industry](../i/industry.md). The company's "Name Your Own Price" tool allowed customers to [bid](../b/bid.md) on hotel rooms, flights, and car rentals without knowing the specific details until their [bid](../b/bid.md) was accepted. Although the bidding model has become less prominent, opaque deals are still a significant part of Priceline's strategy.
+**Priceline ( is one of the pioneers of opaque pricing in the travel [industry](../i/industry.md). The company's "Name Your Own Price" tool allowed customers to [bid](../b/bid.md) on hotel rooms, flights, and car rentals without knowing the specific details until their [bid](../b/bid.md) was accepted. Although the bidding model has become less prominent, opaque deals are still a significant part of Priceline's strategy.
 
 ##### Impact:
 
@@ -59,7 +59,7 @@ While opaque pricing can [offer](../o/offer.md) benefits, it also raises ethical
 
 #### Hotwire
 
-**Hotwire (https://www.hotwire.com)** uses a similar model, enabling customers to book hotel rooms, flights, cars, and vacation packages at discounted rates without knowing the identity of the service provider until after booking.
+**Hotwire uses a similar model, enabling customers to book hotel rooms, flights, cars, and vacation packages at discounted rates without knowing the identity of the service provider until after booking.
 
 ##### Impact:
 

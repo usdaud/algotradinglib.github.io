@@ -18,11 +18,11 @@ The major characteristics of a Jumbo CD include:
 
 ### Callable Jumbo CDs
 
-Callable Jumbo CDs give the issuing financial institution the option to "call," or redeem, the CD before it matures. This typically happens if [interest](../i/interest.md) rates drop significantly, allowing the [bank](../b/bank.md) to avoid paying higher [interest](../i/interest.md) rates on the CD. 
+Callable Jumbo CDs give the issuing financial institution the option to "call," or redeem, the CD before it matures. This typically happens if [interest](../i/interest.md) rates drop significantly, allowing the [bank](../b/bank.md) to avoid paying higher [interest](../i/interest.md) rates on the CD.
 
 ### Brokered Jumbo CDs
 
-Brokered Jumbo CDs are sold through a brokerage rather than directly by a [bank](../b/bank.md). Investors may use a [broker](../b/broker.md) to find the best rates available across [multiple](../m/multiple.md) institutions. 
+Brokered Jumbo CDs are sold through a brokerage rather than directly by a [bank](../b/bank.md). Investors may use a [broker](../b/broker.md) to find the best rates available across [multiple](../m/multiple.md) institutions.
 
 ### Variable Rate Jumbo CDs
 
@@ -56,6 +56,6 @@ Jumbo CDs are significant in the broader financial landscape for several reasons
 
 ## Conclusion
 
-In conclusion, Jumbo CDs are a specialized financial product catering to investors capable of meeting the high minimum [deposit](../d/deposit.md) requirements. They [offer](../o/offer.md) higher [interest](../i/interest.md) rates, low [risk](../r/risk.md) due to FDIC or NCUA [insurance](../i/insurance.md), and predictable returns. However, they come with certain risks such as [inflation](../i/inflation.md) [risk](../r/risk.md), [interest rate risk](../i/interest_rate_risk.md), and penalties for early [withdrawal](../w/withdrawal.md). In the financial landscape, they play a pivotal role by providing [capital](../c/capital.md) to financial institutions and [offering](../o/offering.md) low-[risk](../r/risk.md) investment opportunities for large-scale investors. 
+In conclusion, Jumbo CDs are a specialized financial product catering to investors capable of meeting the high minimum [deposit](../d/deposit.md) requirements. They [offer](../o/offer.md) higher [interest](../i/interest.md) rates, low [risk](../r/risk.md) due to FDIC or NCUA [insurance](../i/insurance.md), and predictable returns. However, they come with certain risks such as [inflation](../i/inflation.md) [risk](../r/risk.md), [interest rate risk](../i/interest_rate_risk.md), and penalties for early [withdrawal](../w/withdrawal.md). In the financial landscape, they play a pivotal role by providing [capital](../c/capital.md) to financial institutions and [offering](../o/offering.md) low-[risk](../r/risk.md) investment opportunities for large-scale investors.
 
-For more detailed information on various financial products and services offered by a [bank](../b/bank.md), consider visiting the [Bank of America](https://www.bankofamerica.com/deposits/certificates-of-deposit-cds/) or another reputable financial institution’s website.
+For more detailed information on various financial products and services offered by a [bank](../b/bank.md), consider visiting the Bank of America or another reputable financial institution’s online platform.

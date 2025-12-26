@@ -14,9 +14,9 @@ Where:
 
 Consider an example:
 If a company has a [market capitalization](../m/market_capitalization.md) of $500 million, a [market value](../m/market_value.md) of [debt](../d/debt.md) amounting to $200 million, and total [capital](../c/capital.md) invested is $600 million, the MVA [will](../w/will.md) be:
-\[  \text{MVA} = (\$500 \text{ million} + \$200 \text{ million}) - \$600 \text{ million} \]
-\[  \text{MVA} = \$700 \text{ million} - \$600 \text{ million} \]
-\[  \text{MVA} = \$100 \text{ million} \]
+\[ \text{MVA} = (\$500 \text{ million} + \$200 \text{ million}) - \$600 \text{ million} \]
+\[ \text{MVA} = \$700 \text{ million} - \$600 \text{ million} \]
+\[ \text{MVA} = \$100 \text{ million} \]
 
 ## Importance and Relevance
 
@@ -56,7 +56,6 @@ CEOs and CFOs may rely on MVA to steer strategic decisions. Companies like Gener
 ### Case Study: General Electric (GE)
 General Electric (GE) has been a long-term user of [value](../v/value.md)-based management metrics, including MVA. Their annual reports often highlight MVA as one of the key [performance indicators](../p/performance_indicators.md). This practice aligns management goals with [shareholder value](../s/shareholder_value.md) maximization.
 
-For more information on General Electric’s application of MVA, you can visit their official website: [General Electric](https://www.ge.com)
 
 ## Limitations of MVA
 

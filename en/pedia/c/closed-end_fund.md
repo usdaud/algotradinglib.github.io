@@ -17,11 +17,11 @@ Many CEFs use [leverage](../l/leverage.md) to enhance returns. [Leverage](../l/l
 ## Types of Closed-End Funds
 
 1. **[Equity](../e/equity.md) Funds**: Invest primarily in [stocks](../s/stock.md). These can [range](../r/range.md) from broad-based funds to those focusing on specific sectors or regions.
-   
+
 2. **[Bond](../b/bond.md) Funds**: Focus on fixed-[income](../i/income.md) securities, such as corporate bonds, [municipal bonds](../m/municipal_bonds.md), or other [debt](../d/debt.md) instruments.
-   
+
 3. **Hybrid Funds**: Combine equities and fixed-[income](../i/income.md) investments to provide a balanced investment approach.
-   
+
 4. **Specialty Funds**: Target specific industries, commodities, or investment strategies, including [real estate](../r/real_estate.md), [infrastructure](../i/infrastructure.md), or [private equity](../p/private_equity.md).
 
 ## Benefits of Closed-End Funds
@@ -63,9 +63,9 @@ Some investors use CEFs for tactical investments, taking advantage of [short-ter
 ### Research and Due Diligence
 
 1. **Performance History**: Review the [fund](../f/fund.md)’s historical performance, keeping in mind that past performance is not a guarantee of future returns.
-   
+
 2. **Management Team**: Assess the experience and track record of the [fund](../f/fund.md)’s management team.
-   
+
 3. **Portfolio [Holdings](../h/holdings.md)**: Examine the [fund](../f/fund.md)’s [holdings](../h/holdings.md) to ensure they align with your investment goals.
 
 4. **[Leverage](../l/leverage.md)**: Understand the [fund](../f/fund.md)’s use of [leverage](../l/leverage.md) and how it impacts [risk](../r/risk.md) and [return](../r/return.md).
@@ -80,11 +80,11 @@ Consistently trading at a [discount](../d/discount.md) may [offer](../o/offer.md
 
 ## Notable Closed-End Fund Companies
 
-- **BlackRock**: BlackRock offers a [range](../r/range.md) of CEFs across various [asset](../a/asset.md) classes, emphasizing [fixed income](../f/fixed_income.md), [equity](../e/equity.md), and multi-[asset](../a/asset.md) strategies. More information can be found on their [official website](https://www.blackrock.com/us/individual/products/212453/blackrock-muni-yield-ny-quality-fund-inc/).
+- **BlackRock**: BlackRock offers a [range](../r/range.md) of CEFs across various [asset](../a/asset.md) classes, emphasizing [fixed income](../f/fixed_income.md), [equity](../e/equity.md), and multi-[asset](../a/asset.md) strategies.
 
-- **Nuveen**: Nuveen’s extensive lineup of CEFs includes [municipal bond](../m/municipal_bond.md) funds, [equity](../e/equity.md) funds, and multi-[asset](../a/asset.md) funds, catering to various investment goals and [risk](../r/risk.md) appetites. Their offerings are detailed on their [official website](https://www.nuveen.com/).
+- **Nuveen**: Nuveen’s extensive lineup of CEFs includes [municipal bond](../m/municipal_bond.md) funds, [equity](../e/equity.md) funds, and multi-[asset](../a/asset.md) funds, catering to various investment goals and [risk](../r/risk.md)
 
-- **PIMCO**: Known for its fixed-[income](../i/income.md) expertise, PIMCO provides CEFs focused on generating [income](../i/income.md) through bonds and other [debt](../d/debt.md) securities. Additional information is available on their [official website](https://www.pimco.com/en-us/investments/closed-end-funds/).
+- **PIMCO**: Known for its fixed-[income](../i/income.md) expertise, PIMCO provides CEFs focused on generating [income](../i/income.md) through bonds and other [debt](../d/debt.md) securities.
 
 ## Conclusion
 

@@ -73,5 +73,5 @@ The 9-EMA is often used in conjunction with other [technical indicators](../t/te
 The 9-EMA is a [robust](../r/robust.md) [technical analysis](../t/technical_analysis.md) tool that serves [multiple](../m/multiple.md) purposes in [algorithmic trading](../a/algorithmic_trading.md). Its ability to provide timely signals for [trend](../t/trend.md) identification, crossovers, and dynamic [support and resistance](../s/support_and_resistance.md) levels makes it a valuable addition to any [trading strategy](../t/trading_strategy.md). However, like all indicators, it should be used in conjunction with other analysis techniques to maximize its effectiveness.
 
 For more information, visit:
-- [Investopedia - Exponential Moving Average](https://www.investopedia.com/terms/e/ema.asp)
-- [TradingView - EMA Indicator](https://www.tradingview.com/wiki/Exponential_Moving_Average_(EMA))
+- Investopedia - Exponential Moving Average
+- TradingView - EMA Indicator)

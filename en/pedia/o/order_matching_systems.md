@@ -10,7 +10,7 @@ An [order](../o/order.md) matching system is a computerized network that matches
 
 ### Order Books
 
-[Order](../o/order.md) books are digital lists of buy and sell orders for a particular [security](../s/security.md) or [financial instrument](../f/financial_instrument.md), organized by [price level](../p/price_level.md). They are maintained by the [order](../o/order.md) matching systems and form the core of modern trading platforms. 
+[Order](../o/order.md) books are digital lists of buy and sell orders for a particular [security](../s/security.md) or [financial instrument](../f/financial_instrument.md), organized by [price level](../p/price_level.md). They are maintained by the [order](../o/order.md) matching systems and form the core of modern trading platforms.
 
 **Main Components of an [Order Book](../o/order_book.md):**
 - **Bids:** Represent the prices and amounts buyers are willing to pay.
@@ -35,7 +35,7 @@ The matching engine is the computational core of the [order](../o/order.md) matc
 - **Limit Orders:** Orders to buy or sell at a specific price or better.
 - **Stop Orders:** Orders that become [market](../m/market.md) orders once a predefined [price level](../p/price_level.md) is reached.
 - **Iceberg Orders:** Large single orders divided into smaller lots to conceal the total [order](../o/order.md) quantity.
-- **Fill or [Kill](../k/kill.md) (FOK) Orders:** Orders that must be executed immediately in their entirety or not at all. 
+- **Fill or [Kill](../k/kill.md) (FOK) Orders:** Orders that must be executed immediately in their entirety or not at all.
 
 ## Algorithmic Trading and Order Matching Systems
 
@@ -81,16 +81,16 @@ Sophisticated [order matching algorithms](../o/order_matching_algorithms.md) req
 Several major exchanges and technology companies have developed advanced [order](../o/order.md) matching systems:
 
 1. **[NASDAQ](../n/nasdaq.md) OMX:** Known for its INET technology, which offers one of the most advanced and high-speed matching engines in the world.
-   - [NASDAQ OMX Technology](http://business.nasdaq.com/market-tech.html)
+ - NASDAQ OMX Technology
 
 2. **New York Stock [Exchange](../e/exchange.md) (NYSE):** Uses the NYSE Pillar, a high-performance trading technology.
-   - [NYSE Pillar](https://www.nyse.com/pillar)
+ - NYSE Pillar
 
 3. **CME Group:** Operates one of the world's largest [derivatives](../d/derivatives.md) exchanges with its Globex platform, known for high-speed [trade](../t/trade.md) [execution](../e/execution.md) and matching.
-   - [CME Group Technology](https://www.cmegroup.com/trading/electronic-trading.html)
+ - CME Group Technology
 
 4. **ICE (Intercontinental [Exchange](../e/exchange.md)):** Uses state-of-the-art technology to provide efficient and reliable [order](../o/order.md) matching.
-   - [ICE Trading Technology](https://www.theice.com/market-data/technology)
+ - ICE Trading Technology
 
 ## Future Trends
 

@@ -70,9 +70,9 @@ triggered = [price <= stop_price for price, stop_price in zip(prices, stop_price
 ### Risk Management Systems
 Professional algo trading platforms often come equipped with built-in [risk management](../r/risk_management.md) systems. Examples include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Their [Trader](../t/trader.md) Workstation (TWS) offers [risk management](../r/risk_management.md) tools such as [stop-loss orders](../s/stop-loss_orders.md), price alerts, and complex [trading algorithms](../t/trading_algorithms.md). Link: [Interactive Brokers Risk Management](https://www.interactivebrokers.com/en/index.php?f=13986)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Their [Trader](../t/trader.md) Workstation (TWS) offers [risk management](../r/risk_management.md) tools such as [stop-loss orders](../s/stop-loss_orders.md), price alerts, and complex [trading algorithms](../t/trading_algorithms.md). Link: Interactive Brokers Risk Management
 
-- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) strategies. Link: [QuantConnect Risk Management](https://www.quantconnect.com/docs/algorithm-reference/risk-management)
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) strategies. Link: QuantConnect Risk Management
 
 ## Importance of Testing and Backtesting
 

@@ -56,15 +56,15 @@ Algo-[trading strategies](../t/trading_strategies.md) for hot [sector rotation](
 
 ### JPMorgan Chase & Co.
 
-JPMorgan Chase & Co. [website](https://www.jpmorganchase.com) employs sophisticated algo-[trading strategies](../t/trading_strategies.md), including [sector rotation](../s/sector_rotation.md). Their [quantitative research](../q/quantitative_research.md) teams develop models that dynamically adjust sector allocations based on economic forecasts, [market sentiment](../m/market_sentiment.md), and other quantitative factors.
+JPMorgan Chase & Co. online platform employs sophisticated algo-[trading strategies](../t/trading_strategies.md), including [sector rotation](../s/sector_rotation.md). Their [quantitative research](../q/quantitative_research.md) teams develop models that dynamically adjust sector allocations based on economic forecasts, [market sentiment](../m/market_sentiment.md), and other quantitative factors.
 
 ### BlackRock
 
-BlackRock [website](https://www.blackrock.com) is another leading institution utilizing [sector rotation](../s/sector_rotation.md) in their various funds and ETFs. Their investment strategies incorporate macroeconomic analysis and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to optimize sector exposure, enhancing [portfolio performance](../p/portfolio_performance.md).
+BlackRock online platform is another leading institution utilizing [sector rotation](../s/sector_rotation.md) in their various funds and ETFs. Their investment strategies incorporate macroeconomic analysis and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to optimize sector exposure, enhancing [portfolio performance](../p/portfolio_performance.md).
 
 ### Personal Wealth Management Software
 
-Individual investors can access [sector rotation](../s/sector_rotation.md) strategies through software solutions like Wealthfront [website](https://www.wealthfront.com) and Betterment [website](https://www.betterment.com). These platforms [leverage](../l/leverage.md) algorithmic models to provide personalized investment advice and automatically adjust sector allocations in users' portfolios.
+Individual investors can access [sector rotation](../s/sector_rotation.md) strategies. These platforms [leverage](../l/leverage.md) algorithmic models to provide personalized investment advice and automatically adjust sector allocations in users' portfolios.
 
 ## Technological Advancements
 

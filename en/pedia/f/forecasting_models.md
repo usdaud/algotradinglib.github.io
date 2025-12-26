@@ -102,7 +102,7 @@ These models apply statistical techniques to fundamental data to identify factor
 
 ## 6. Sentiment Analysis Models
 
-[Sentiment analysis](../s/sentiment_analysis.md) models incorporate qualitative data, such as news articles, tweets, and other [social media](../s/social_media.md) content, into [forecasting](../f/forecasting.md) models. 
+[Sentiment analysis](../s/sentiment_analysis.md) models incorporate qualitative data, such as news articles, tweets, and other [social media](../s/social_media.md) content, into [forecasting](../f/forecasting.md) models.
 
 ### 6.1 Natural Language Processing (NLP)
 
@@ -142,4 +142,4 @@ This approach gauges public sentiment from [social media](../s/social_media.md) 
 
 [Forecasting](../f/forecasting.md) models are fundamental to [algorithmic trading](../a/algorithmic_trading.md), combining statistical rigor, [machine learning](../m/machine_learning.md), and economic theory to predict [market](../m/market.md) movements. The effectiveness of these models relies heavily on the quality of input data, model choice, and the ability to adapt and integrate [multiple](../m/multiple.md) [forecasting](../f/forecasting.md) techniques. As computational power and data availability continue to grow, the sophistication and accuracy of these models are expected to enhance, driving new innovations in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
-Companies such as **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com), **[Alpaca](../a/alpaca.md)** (https://[alpaca](../a/alpaca.md).markets), and **Numerai** (https://numer.ai) are at the forefront of developing and providing these sophisticated [forecasting](../f/forecasting.md) tools and platforms for both individual and institutional traders.
+Companies such as **[StockSharp](../s/stocksharp.md)**, **[Alpaca](../a/alpaca.md)** ( and **Numerai** ( are at the forefront of developing and providing these sophisticated [forecasting](../f/forecasting.md) tools and platforms for both individual and institutional traders.

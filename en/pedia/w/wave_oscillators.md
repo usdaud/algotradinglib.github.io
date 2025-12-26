@@ -4,7 +4,7 @@
 
 ## Introduction to Wave Oscillators
 
-Wave oscillators are a subset of technical oscillators used by traders to [gain](../g/gain.md) insights into the cyclical nature of [market](../m/market.md) movements. Unlike simple moving averages or [trend](../t/trend.md) lines, wave oscillators aim to capture the ebb and flow of [price action](../p/price_action.md), often represented as waves. 
+Wave oscillators are a subset of technical oscillators used by traders to [gain](../g/gain.md) insights into the cyclical nature of [market](../m/market.md) movements. Unlike simple moving averages or [trend](../t/trend.md) lines, wave oscillators aim to capture the ebb and flow of [price action](../p/price_action.md), often represented as waves.
 
 ### Definition and Purpose
 
@@ -63,19 +63,19 @@ Several leading platforms and tools provide advanced features for incorporating 
 
 MetaTrader 5 (MT5) is a popular [trading platform](../t/trading_platform.md) that offers a wide [range](../r/range.md) of [technical analysis](../t/technical_analysis.md) tools, including wave oscillators. It supports automated trading through its MetaTrader Language 5 (MQL5) and provides extensive charting and [backtesting](../b/backtesting.md) capabilities.
 
-**Website**: [MetaTrader 5](https://www.metatrader5.com)
+**online platform**: MetaTrader 5
 
 ### TradingView
 
 [TradingView](../t/tradingview.md) is a web-based charting platform that offers a multitude of [technical indicators](../t/technical_indicators.md), including custom wave oscillators. It provides powerful charting tools, [social networking](../s/social_networking.md) features, and a scripting language called Pine Script, which allows traders to create and backtest custom strategies.
 
-**Website**: [TradingView](https://www.tradingview.com)
+**online platform**: TradingView
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) is a [trading platform](../t/trading_platform.md) that provides advanced charting, [backtesting](../b/backtesting.md), and [trade](../t/trade.md) [simulation](../s/simulation_in_trading.md) features. It supports [algorithmic trading](../a/algorithmic_trading.md) through its NinjaScript programming language and offers a variety of [technical indicators](../t/technical_indicators.md), including wave oscillators.
 
-**Website**: [NinjaTrader](https://www.ninjatrader.com)
+**online platform**: NinjaTrader
 
 ## Future Trends and Innovations in Wave Oscillator Analysis
 

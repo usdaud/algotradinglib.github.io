@@ -1,38 +1,38 @@
 # Social Media
 
-Social media refers to digital platforms, websites, and applications that enable users to create, share, and [exchange](../e/exchange.md) information, ideas, and content. This broad category encompasses a variety of applications designed for communication, media sharing, collaboration, and community-building on the internet. 
+Social media refers to digital platforms, websites, and applications that enable users to create, share, and [exchange](../e/exchange.md) information, ideas, and content. This broad category encompasses a variety of applications designed for communication, media sharing, collaboration, and community-building on the internet.
 
 ## Types of Social Media Platforms
 
 Social media is generally divided into several major types, each serving different purposes and catering to various user needs:
 
 ### Social Networking Sites
-- **Facebook**: Primarily known for connecting friends and families. Users can share status updates, photos, and videos. [Facebook](https://www.facebook.com)
-- **LinkedIn**: A professional [networking](../n/networking.md) platform that helps in career development and job seeking by connecting professionals and companies. [LinkedIn](https://www.linkedin.com)
+- **Facebook**: Primarily known for connecting friends and families. Users can share status updates, photos, and videos. Facebook
+- **LinkedIn**: A professional [networking](../n/networking.md) platform that helps in career development and job seeking by connecting professionals and companies. LinkedIn
 
 ### Microblogging
-- **Twitter**: Allows users to post brief messages called "tweets". It's widely used for news updates, political commentary, and social interaction. [Twitter](https://www.twitter.com)
-- **Tumblr**: A platform for creators to post multimedia content in a short-form blog. [Tumblr](https://www.tumblr.com)
+- **Twitter**: Allows users to post brief messages called "tweets". It's widely used for news updates, political commentary, and social interaction. Twitter
+- **Tumblr**: A platform for creators to post multimedia content in a short-form blog. Tumblr
 
 ### Photo and Video Sharing
-- **Instagram**: Focuses on photo and video sharing, with features for stories, direct messages, and IGTV (Instagram TV). [Instagram](https://www.instagram.com)
-- **Snapchat**: Allows users to send photos and videos that disappear after viewing. It also has features like stories, lenses, and filters. [Snapchat](https://www.snapchat.com)
+- **Instagram**: Focuses on photo and video sharing, with features for stories, direct messages, and IGTV (Instagram TV). Instagram
+- **Snapchat**: Allows users to send photos and videos that disappear after viewing. It also has features like stories, lenses, and filters. Snapchat
 
 ### Video Hosting Platforms
-- **YouTube**: The largest video-sharing platform where users can upload, share, and view various kinds of videos. [YouTube](https://www.youtube.com)
-- **Vimeo**: Another video-sharing platform, often preferred by artists and filmmakers for its high-quality video hosting. [Vimeo](https://www.vimeo.com)
+- **YouTube**: The largest video-sharing platform where users can upload, share, and view various kinds of videos. YouTube
+- **Vimeo**: Another video-sharing platform, often preferred by artists and filmmakers for its high-quality video hosting. Vimeo
 
 ### Discussion Forums
-- **Reddit**: A community-driven platform where users can post text, links, and multimedia content in topic-specific forums called subreddits. [Reddit](https://www.reddit.com)
-- **Quora**: A question-and-answer website where users can ask questions and provide answers on a wide [range](../r/range.md) of topics. [Quora](https://www.quora.com)
+- **Reddit**: A community-driven platform where users can post text, links, and multimedia content in topic-specific forums called subreddits. Reddit
+- **Quora**../r/range.md) of topics. Quora
 
 ### Messaging Apps
-- **WhatsApp**: A messaging app that allows users to send text messages, voice messages, photos, videos, and make voice and video calls. [WhatsApp](https://www.whatsapp.com)
-- **Telegram**: Puts a strong emphasis on [security](../s/security.md) and speed, [offering](../o/offering.md) messaging services with [robust](../r/robust.md) encryption. [Telegram](https://www.telegram.org)
+- **WhatsApp**: A messaging app that allows users to send text messages, voice messages, photos, videos, and make voice and video calls. WhatsApp
+- **Telegram**: Puts a strong emphasis on [security](../s/security.md) and speed, [offering](../o/offering.md) messaging services with [robust](../r/robust.md) encryption. Telegram
 
 ### Collaborative Platforms
-- **Slack**: Initially developed as a team collaboration tool, it offers messaging, file sharing, and third-party app integrations within workspaces. [Slack](https://www.slack.com)
-- **Discord**: Originally targeted toward gamers, Discord provides voice, video, and text communication channels for various communities. [Discord](https://www.discord.com)
+- **Slack**: Initially developed as a team collaboration tool, it offers messaging, file sharing, and third-party app integrations within workspaces. Slack
+- **Discord**: Originally targeted toward gamers, Discord provides voice, video, and text communication channels for various communities. Discord
 
 ## Role in Finance and Trading
 
@@ -94,7 +94,7 @@ The Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) also has
 
 ## Innovative Uses in Fintech and Algo-trading
 
-Social media has carved a niche in the fintech sector, particularly for [algorithmic trading](../a/accountability.md) where rapid, data-driven decisions are crucial.
+Social media has carved a niche in the fintech sector, particularly for [algorithmic trading](../a/algorithmic_trading.md) where rapid, data-driven decisions are crucial.
 
 ### Algorithmic Trading Models
 
@@ -105,7 +105,7 @@ Algos that incorporate social media analysis have exploded in popularity. These 
 APIs from social media giants like Twitter can be integrated into [trading algorithms](../t/trading_algorithms.md) to pull real-time data, ensuring the [trading systems](../t/trading_systems.md) are reacting to the latest available information.
 
 #### Example API
-- **Twitter API**: Provides real-time access to tweets that can be filtered by stock symbols, hashtags, or specific users. [Twitter Developer](https://developer.twitter.com)
+- **Twitter API**: Provides real-time access to tweets that can be filtered by stock symbols, hashtags, or specific users. Twitter Developer
 
 ### Machine Learning Models
 
@@ -117,7 +117,7 @@ Platforms like [eToro](../e/etoro.md) combine [social networking](../s/social_ne
 
 #### eToro
 - Provides a "CopyTrader" feature that lets users mimic the trades of top-performing investors.
-- Includes social feed where users can discuss and share their [trading strategies](../t/trading_strategies.md) and ideas. [eToro](https://www.etoro.com)
+- Includes social feed where users can discuss and share their [trading strategies](../t/trading_strategies.md) and ideas. eToro
 
 ## Future Trends
 

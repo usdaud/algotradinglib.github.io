@@ -2,7 +2,7 @@
 
 ## What is UZX?
 
-UZX refers to Uzbekistan’s official [currency](../c/currency.md) known as the Uzbekistan Som, often abbreviated as UZS, but for this document, we [will](../w/will.md) be referring to it as UZX. The [currency](../c/currency.md) is issued by the country’s central [bank](../b/bank.md), the Central [Bank](../b/bank.md) of the Republic of Uzbekistan. 
+UZX refers to Uzbekistan’s official [currency](../c/currency.md) known as the Uzbekistan Som, often abbreviated as UZS, but for this document, we [will](../w/will.md) be referring to it as UZX. The [currency](../c/currency.md) is issued by the country’s central [bank](../b/bank.md), the Central [Bank](../b/bank.md) of the Republic of Uzbekistan.
 
 ## Historical Background
 
@@ -14,7 +14,7 @@ The Uzbekistan Som is subdivided into 100 tiyin. However, lower denominations li
 
 ## Central Bank of Uzbekistan
 
-The Central [Bank](../b/bank.md) of the Republic of Uzbekistan is responsible for the issuance and maintenance of the [currency](../c/currency.md). Key functions include regulating [monetary policy](../m/monetary_policy.md), managing [currency](../c/currency.md) reserves, and overseeing the country's [payment](../p/payment.md) systems. Their official website is [Central Bank of Uzbekistan](https://cbu.uz/uz/).
+The Central [Bank](../b/bank.md) of the Republic of Uzbekistan is responsible for the issuance and maintenance of the [currency](../c/currency.md). Key functions include regulating [monetary policy](../m/monetary_policy.md), managing [currency](../c/currency.md) reserves, and overseeing the country's [payment](../p/payment.md) systems. Their public materials is Central Bank of Uzbekistan.
 
 ## UZX in the Global Market
 
@@ -50,7 +50,7 @@ For Uzbek citizens, wages, prices of goods, and services are all denominated in 
 
 ## Digital Transformation and UZX
 
-In recent years, Uzbekistan has been focusing on digital transformation, including the [financial sector](../f/financial_sector.md). 
+In recent years, Uzbekistan has been focusing on digital transformation, including the [financial sector](../f/financial_sector.md).
 
 ### Digital Banking
 

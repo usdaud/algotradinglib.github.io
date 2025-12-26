@@ -80,15 +80,15 @@ Conversely, in a high-[interest](../i/interest.md)-rate environment, APYs tend t
 
 ### Ally Bank
 
-Ally [Bank](../b/bank.md) is a prominent online [bank](../b/bank.md) known for [offering](../o/offering.md) competitive APYs on its savings products. For instance, Ally [Bank](../b/bank.md)'s Online [Savings Account](../s/savings_account.md) frequently features a high APY, making it an attractive option for savers seeking better returns (source: [Ally Bank](https://www.ally.com/)).
+Ally [Bank](../b/bank.md) is a prominent online [bank](../b/bank.md) known for [offering](../o/offering.md) competitive APYs on its savings products. For instance, Ally [Bank](../b/bank.md)'s Online [Savings Account](../s/savings_account.md) frequently features a high APY, making it an attractive option for savers seeking better returns (source: Ally Bank).
 
 ### Marcus by Goldman Sachs
 
-Marcus by Goldman Sachs provides an array of savings products with competitive APYs. Their high-[yield](../y/yield.md) online savings accounts often exceed the national average for APYs, reflecting the benefits of reduced overhead costs associated with [online banking](../o/online_banking.md) (source: [Marcus by Goldman Sachs](https://www.marcus.com/us/en)).
+Marcus by Goldman Sachs provides an array of savings products with competitive APYs. Their high-[yield](../y/yield.md) online savings accounts often exceed the national average for APYs, reflecting the benefits of reduced overhead costs associated with [online banking](../o/online_banking.md) (source: Marcus by Goldman Sachs).
 
 ### Synchrony Bank
 
-Synchrony [Bank](../b/bank.md) offers high-[yield](../y/yield.md) savings accounts and CDs with attractive APYs. Known for its focus on consumer-friendly financial products, Synchrony [Bank](../b/bank.md) frequently updates its APYs to stay competitive in the [market](../m/market.md) (source: [Synchrony Bank](https://www.synchronybank.com/)).
+Synchrony [Bank](../b/bank.md) offers high-[yield](../y/yield.md) savings accounts and CDs with attractive APYs. Known for its focus on consumer-friendly financial products, Synchrony [Bank](../b/bank.md) frequently updates its APYs to stay competitive in the [market](../m/market.md) (source: Synchrony Bank).
 
 ## Conclusion
 

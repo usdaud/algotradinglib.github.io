@@ -13,13 +13,13 @@ Heuristic methods are particularly valuable in situations where the problem spac
 ### 1. Greedy Algorithms
 Greedy algorithms build a solution iteratively by making the locally optimal choice at each step with the hope of finding a global optimum. These algorithms are simple to implement but do not always produce the optimal solution.
 
-#### Example: 
+#### Example:
 In trading, a greedy algorithm might select [stocks](../s/stock.md) that show the highest immediate [profit](../p/profit.md) without considering long-term trends or risks.
 
 ### 2. Genetic Algorithms
 Inspired by the process of natural selection, [genetic algorithms](../g/genetic_algorithms_in_trading.md) use techniques such as selection, crossover, and mutation to evolve solutions over successive generations. These are highly adaptive but computationally intensive.
 
-#### Example: 
+#### Example:
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md) can optimize [trading strategies](../t/trading_strategies.md) by simulating various [market](../m/market.md) conditions and evolving the most successful strategies over time.
 
 ### 3. Simulated Annealing
@@ -74,11 +74,10 @@ A tabu search algorithm might track and analyze trending topics to predict short
 
 ## Companies Utilizing Heuristic Algorithms
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [DE Shaw Group](https://www.deshaw.com/)
+- Renaissance Technologies
+- Two Sigma
+- DE Shaw Group
 
 ## Conclusion
 
 Heuristic algorithms play a pivotal role in enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies by [offering](../o/offering.md) quick, adaptable, and efficient solutions to complex [market](../m/market.md) problems. While they come with their own set of challenges, their benefits make them indispensable tools in the fast-paced world of trading.
-

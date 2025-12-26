@@ -57,7 +57,7 @@ In contrast to the Kabushiki Kaisha (KK), the Yugen Kaisha was less formal and h
 ## Link to Companies
 
 For more detailed information about the transformation and current regulations of company structures in Japan:
-- [Ministry of Justice, Japan - Company Law](http://www.moj.go.jp/ENGLISH/m_m-hogo_touki.html)
+- Ministry of Justice, Japan - Company Law
 
 ## Conclusion
 

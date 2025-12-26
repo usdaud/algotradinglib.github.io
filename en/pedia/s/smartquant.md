@@ -9,29 +9,29 @@ SmartQuant is a sophisticated [quantitative trading](../q/quantitative_trading.m
 OpenQuant is SmartQuant's primary [trading platform](../t/trading_platform.md), designed for developing, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
 
 #### Features:
-- **Strategy Development Environment**: 
+- **Strategy Development Environment**:
  - C# based programming interface
  - Extensive library of financial instruments and indicators
  - Visual strategy designer for non-programmers
 
-- **[Backtesting](../b/backtesting.md) Engine**: 
+- **[Backtesting](../b/backtesting.md) Engine**:
  - High-speed [historical simulation](../h/historical_simulation.md)
  - Multi-[asset](../a/asset.md) and multi-strategy [backtesting](../b/backtesting.md)
  - [Transaction](../t/transaction.md) cost modeling
 
-- **[Optimization](../o/optimization.md) Tools**: 
+- **[Optimization](../o/optimization.md) Tools**:
  - Genetic algorithm and [grid search](../g/grid_search_in_trading.md) [optimization](../o/optimization.md)
  - Distributed computing support for faster processing
 
-- **[Risk Management](../r/risk_management.md)**: 
+- **[Risk Management](../r/risk_management.md)**:
  - Real-time [risk](../r/risk.md) monitoring
  - Customizable [risk metrics](../r/risk_metrics.md) and alerts
 
-- **Live Trading**: 
+- **Live Trading**:
  - Automated [execution](../e/execution.md) across [multiple](../m/multiple.md) markets
  - Support for various [order types](../o/order_types_in_trading.md) and algorithms
 
-- **Data Management**: 
+- **Data Management**:
  - Integration with [multiple](../m/multiple.md) data providers
  - Built-in data cleansing and normalization tools
 
@@ -55,7 +55,7 @@ A high-performance server solution for deploying [trading strategies](../t/tradi
 
 ## Technology Stack
 
-- **Programming Languages**: C#, .NET Framework
+- **Programming Languages**: C#,.NET Framework
 - **Database**: Built-in proprietary database for [market](../m/market.md) data storage
 - **API Integrations**: FIX protocol support, REST APIs for various brokers and exchanges
 

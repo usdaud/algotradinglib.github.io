@@ -35,7 +35,7 @@ Hausman's work in healthcare [economics](../e/economics.md) has provided valuabl
 Throughout his career, Jerry Hausman has received numerous honors and awards in recognition of his contributions to [economics](../e/economics.md). Some of the most notable include:
 
 - The John Bates Clark Medal in 1985, awarded to an American [economist](../e/economist.md) under the age of 40 who has made significant contributions to economic thought and knowledge.
-- Election to the American Academy of Arts and Sciences 
+- Election to the American Academy of Arts and Sciences
 - Election to the National Academy of Sciences
 
 These accolades reflect the high regard in which Hausman is held by his peers and highlight the impact of his work on the field of [economics](../e/economics.md).
@@ -44,4 +44,4 @@ These accolades reflect the high regard in which Hausman is held by his peers an
 
 Jerry A. Hausman is a distinguished [economist](../e/economist.md) whose contributions to [econometrics](../e/econometrics_in_trading.md), telecommunications [economics](../e/economics.md), and healthcare [economics](../e/economics.md) have had a lasting impact on these fields. His development of the Hausman test has become a fundamental tool in econometric analysis, and his research has influenced policy decisions and [business](../b/business.md) strategies in telecommunications and healthcare. Throughout his career, Hausman has demonstrated a commitment to advancing economic knowledge and applying it to real-world challenges, earning him a prominent place in the field of [economics](../e/economics.md).
 
-For more information on Jerry A. Hausman, you can visit his [MIT faculty page](https://economics.mit.edu/faculty/jhausman).
+For more information on Jerry A. Hausman, you can

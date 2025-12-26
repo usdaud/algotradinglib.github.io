@@ -1,6 +1,6 @@
 # Merger
 
-In the realm of [corporate finance](../c/corporate_finance.md), a merger is a strategic move where two companies consolidate to form a single entity. This [amalgamation](../a/amalgamation.md) could be driven by various factors such as expanding [market](../m/market.md) reach, increasing operational efficiencies, securing [supply](../s/supply.md) chains, or diversifying products and services. Mergers are complex, multifaceted operations that require careful planning, regulatory approval, and seamless integration. This section provides an in-depth examination of mergers, covering definitions, types, processes, legal and financial aspects, benefits, risks, notable examples, and the impact of fintech and [algorithmic trading](../a/accountability.md).
+In the realm of [corporate finance](../c/corporate_finance.md), a merger is a strategic move where two companies consolidate to form a single entity. This [amalgamation](../a/amalgamation.md) could be driven by various factors such as expanding [market](../m/market.md) reach, increasing operational efficiencies, securing [supply](../s/supply.md) chains, or diversifying products and services. Mergers are complex, multifaceted operations that require careful planning, regulatory approval, and seamless integration. This section provides an in-depth examination of mergers, covering definitions, types, processes, legal and financial aspects, benefits, risks, notable examples, and the impact of fintech and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition of a Merger
 
@@ -119,8 +119,8 @@ Algo-[trading systems](../t/trading_systems.md) can influence mergers by swiftly
 
 ## Additional Resources
 
-- **McKinsey & Company** provides extensive advisory services on mergers and has numerous publications on [best practices](../b/best_practices.md): [McKinsey](https://www.mckinsey.com)
-- **Boston Consulting Group (BCG)** offers strategic [guidance](../g/guidance.md) on mergers and acquisitions: [BCG](https://www.bcg.com)
-- **Deloitte** specializes in merger integration and consultancy: [Deloitte](https://www2.deloitte.com)
+- **McKinsey & Company** provides extensive advisory services on mergers and has numerous publications on [best practices](../b/best_practices.md): McKinsey
+- **Boston Consulting Group (BCG)** offers strategic [guidance](../g/guidance.md) on mergers and acquisitions: BCG
+- **Deloitte** specializes in merger integration and consultancy: Deloitte
 
 By exploring the intricacies of mergers—spanning definitions, types, processes, and their multifaceted impacts—we uncover the profound strategic importance they [hold](../h/hold.md) in corporate growth and [market dynamics](../m/market_dynamics.md).

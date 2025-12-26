@@ -10,7 +10,7 @@ The origins of the Yuppie can be traced back to post-World War II economic [expa
 
 **Demographic Profile:** Generally in their late 20s to early 40s, Yuppies often come from privileged backgrounds or have risen quickly through the ranks of corporate structures owing to their education and professional skills.
 
-**Education and Career:** Yuppies often [hold](../h/hold.md) advanced degrees from prestigious universities and are employed in high-paying, high-status professions such as law, [finance](../f/finance.md), medicine, and corporate management. 
+**Education and Career:** Yuppies often [hold](../h/hold.md) advanced degrees from prestigious universities and are employed in high-paying, high-status professions such as law, [finance](../f/finance.md), medicine, and corporate management.
 
 **Consumption Patterns:** Yuppies are known for their conspicuous consumption, which includes luxury cars, fine dining, high-end fashion brands, and sophisticated electronics. This demographic shows a strong preference for urban living in cosmopolitan cities like New York, San Francisco, and London.
 
@@ -20,7 +20,7 @@ The origins of the Yuppie can be traced back to post-World War II economic [expa
 
 #### Investment Strategies
 
-Yuppies are particularly inclined to engage in various forms of investment, from [stocks](../s/stock.md) and bonds to [real estate](../r/real_estate.md) and high-[risk](../r/risk.md), high-reward opportunities like [venture capital](../v/venture_capital.md) and startups. Being highly educated and tech-savvy, many Yuppies adopt sophisticated investment strategies that may include [algorithmic trading](../a/accountability.md) or [automated portfolio management](../a/automated_portfolio_management.md) systems.
+Yuppies are particularly inclined to engage in various forms of investment, from [stocks](../s/stock.md) and bonds to [real estate](../r/real_estate.md) and high-[risk](../r/risk.md), high-reward opportunities like [venture capital](../v/venture_capital.md) and startups. Being highly educated and tech-savvy, many Yuppies adopt sophisticated investment strategies that may include [algorithmic trading](../a/algorithmic_trading.md) or [automated portfolio management](../a/automated_portfolio_management.md) systems.
 
 #### Debt and Income
 
@@ -42,4 +42,4 @@ The term "Yuppie" has often been used disparagingly to criticize what some see a
 
 As of now, the legacy of the Yuppie demographic lives on, influencing current societal trends and economic behaviors. While the specific term may have lost some relevance, the ideas it represents continue to shape the urban landscapes and economic strategies of modern-day young professionals.
 
-For more insights and trends related to the demographic, you can refer to [Deloitte](https://www2.deloitte.com/us/en.html) for detailed reports and surveys on young urban professionals, their economic impact, and future trends.
+For more insights and trends related to the demographic, you can refer to Deloitte for detailed reports and surveys on young urban professionals, their economic impact, and future trends.

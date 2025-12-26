@@ -74,9 +74,9 @@ If the [business](../b/business.md) plan is being used to seek funding, this sec
 - **Financial Projections with Funding**: Projections showing how the funding [will](../w/will.md) impact finances and when the investors can expect a [return](../r/return.md).
 
 Websites for funding platforms:
-- [Fundera](https://www.fundera.com/)
-- [Lendio](https://www.lendio.com/)
-- [AngelList](https://angel.co/)
+- Fundera
+- Lendio
+- AngelList
 
 ## Financial Projections
 

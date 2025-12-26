@@ -74,4 +74,4 @@ This LLCR of 1.34 indicates that the project generates 1.34 times the [cash flow
 
 The [Loan](../l/loan.md) Life [Coverage Ratio](../c/coverage_ratio.md) (LLCR) is a vital financial metric in [project finance](../p/project_finance.md), [offering](../o/offering.md) a comprehensive long-term view of a project's ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md). By examining the NPV of future cash flows relative to the outstanding [debt](../d/debt.md), LLCR provides lenders and investors with crucial insights into the [financial health](../f/financial_health.md) and [risk](../r/risk.md) profile of a project. Understanding and effectively utilizing LLCR can pave the way for better [risk management](../r/risk_management.md), more informed investment decisions, and successful project [financing](../f/financing.md).
 
-For more detailed information about [finance](../f/finance.md)-related services, you can visit [KPMG Corporate Finance](https://home.kpmg/xx/en/home/services/advisory/corporate-finance.html).
+For more detailed information about [finance](../f/finance.md)-related services, you can visit KPMG Corporate Finance.

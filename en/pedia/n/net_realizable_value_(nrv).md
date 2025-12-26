@@ -26,7 +26,7 @@ In [inventory accounting](../i/inventory_accounting.md), NRV is often used in co
 
 ### Practical Example
 
-Consider a [manufacturing](../m/manufacturing.md) company that holds [inventory](../i/inventory.md) of goods that cost $100,000 to produce. The estimated selling price of these goods is $120,000, but there are additional costs of $15,000 associated with completing the [sale](../s/sale.md) (e.g., [marketing](../m/marketing.md), shipping, and sales commissions). 
+Consider a [manufacturing](../m/manufacturing.md) company that holds [inventory](../i/inventory.md) of goods that cost $100,000 to produce. The estimated selling price of these goods is $120,000, but there are additional costs of $15,000 associated with completing the [sale](../s/sale.md) (e.g., [marketing](../m/marketing.md), shipping, and sales commissions).
 
 The NRV of this [inventory](../i/inventory.md) would be calculated as follows:
 
@@ -80,4 +80,3 @@ Net Realizable [Value](../v/value.md) (NRV) is a vital concept in [accounting](.
 
 By adhering to the principles of NRV, businesses can enhance their financial reporting accuracy, maintain [investor](../i/investor.md) confidence, and make informed economic decisions that drive sustainable growth.
 
-For further information and detailed standards, you can visit the IFRS official website: [IFRS](https://www.ifrs.org).

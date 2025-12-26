@@ -9,8 +9,8 @@ Real-Time [Trading Systems](../t/trading_systems.md), often abbreviated as RTTS,
 [Market](../m/market.md) data is the cornerstone of any RTTS. It encompasses various types of data such as stock prices, trading volumes, [currency exchange](../c/currency_exchange.md) rates, and news. A [market](../m/market.md) data feed collects and distributes this information in real time from different exchanges.
 
 1. **Real-Time Data Sources**:
-    - **[Exchange](../e/exchange.md) Data Feeds**: These are provided directly by stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md), [offering](../o/offering.md) real-time price and [volume](../v/volume.md) data.
-    - **Third-Party Providers**: Companies such as [Bloomberg](../b/bloomberg.md) and Thomson [Reuters](../r/reuters.md) [supply](../s/supply.md) comprehensive data feeds that integrate information from [multiple](../m/multiple.md) sources.
+ - **[Exchange](../e/exchange.md) Data Feeds**: These are provided directly by stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md), [offering](../o/offering.md) real-time price and [volume](../v/volume.md) data.
+ - **Third-Party Providers**: Companies such as [Bloomberg](../b/bloomberg.md) and Thomson [Reuters](../r/reuters.md) [supply](../s/supply.md) comprehensive data feeds that integrate information from [multiple](../m/multiple.md) sources.
 
 ### Data Processing and Storage
 Handling the massive influx of [market](../m/market.md) data requires [robust](../r/robust.md) data processing and storage solutions. These solutions must be able to process incoming data with minimal latency while ensuring data integrity and availability.
@@ -54,11 +54,9 @@ Adherence to regulatory requirements is essential for any trading system. Regula
 
 #### Citadel Securities
 Citadel Securities is well-known for its advanced high-frequency [trading strategies](../t/trading_strategies.md) and state-of-the-art technology [infrastructure](../i/infrastructure.md). They utilize real-time [trading systems](../t/trading_systems.md) to manage thousands of trades per second.
-- Website: [Citadel Securities](https://www.citadelsecurities.com/)
 
 #### Virtu Financial
 Virtu Financial operates as one of the largest HFT firms globally. Their RTTS leverages cutting-edge technology to execute electronic trading across various [asset](../a/asset.md) classes.
-- Website: [Virtu Financial](https://www.virtu.com/)
 
 ### Future Trends
 The landscape of real-time [trading systems](../t/trading_systems.md) is continually evolving, driven by technological advancements and regulatory changes.
@@ -68,4 +66,3 @@ The landscape of real-time [trading systems](../t/trading_systems.md) is continu
 
 ## Conclusion
 Real-Time [Trading Systems](../t/trading_systems.md) are indispensable in the contemporary financial trading landscape. They [offer](../o/offer.md) unparalleled speed, [efficiency](../e/efficiency.md), and accuracy in trading operations, driven by advancements in [market](../m/market.md) data processing, algorithmic modeling, and [networking](../n/networking.md) technologies. As technological innovations continue to unfold, the [scope](../s/scope.md) and capabilities of these systems are expected to further expand, heralding a new era of trading sophistication.
-

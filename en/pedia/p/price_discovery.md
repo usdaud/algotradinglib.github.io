@@ -1,6 +1,6 @@
 # Price Discovery
 
-Price discovery is a fundamental concept in [financial markets](../f/financial_market.md), extending its importance across various trading platforms, whether traditional or electronic. It refers to the process through which the price of an [asset](../a/asset.md) is determined in the marketplace through the interactions between buyers and sellers. This comprehensive examination [will](../w/will.md) delve into the intricate mechanisms and factors that influence price discovery, its significance in [financial markets](../f/financial_market.md), and its application in different contexts, including [algorithmic trading](../a/accountability.md) and fintech innovations.
+Price discovery is a fundamental concept in [financial markets](../f/financial_market.md), extending its importance across various trading platforms, whether traditional or electronic. It refers to the process through which the price of an [asset](../a/asset.md) is determined in the marketplace through the interactions between buyers and sellers. This comprehensive examination [will](../w/will.md) delve into the intricate mechanisms and factors that influence price discovery, its significance in [financial markets](../f/financial_market.md), and its application in different contexts, including [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations.
 
 ## Fundamentals of Price Discovery
 
@@ -42,7 +42,7 @@ Periodic auctions occur at specific times, such as the opening or closing of a t
 
 ### Algorithms in Price Discovery
 
-In modern [financial markets](../f/financial_market.md), [algorithmic trading](../a/accountability.md) has revolutionized the price discovery process. Algorithms can analyze large volumes of data at high speeds, contributing to [market efficiency](../m/market_efficiency.md) and price accuracy. Here are some ways algorithms are used:
+In modern [financial markets](../f/financial_market.md), [algorithmic trading](../a/algorithmic_trading.md) has revolutionized the price discovery process. Algorithms can analyze large volumes of data at high speeds, contributing to [market efficiency](../m/market_efficiency.md) and price accuracy. Here are some ways algorithms are used:
 
 - **High-Frequency Trading (HFT):** Involves executing orders at extreme speeds to [capitalize](../c/capitalize.md) on minute price differences. HFT firms play a crucial role in providing [liquidity](../l/liquidity.md) and improving [market efficiency](../m/market_efficiency.md).
 - **[Machine Learning](../m/machine_learning.md):** Algorithms can learn from historical data to predict price movements and inform [trading strategies](../t/trading_strategies.md). These models continuously improve with more data.
@@ -96,7 +96,7 @@ Certain players might attempt to manipulate prices for their [gain](../g/gain.md
 
 ### Technological Risks
 
-While technology enhances price discovery, it also introduces risks such as [algorithmic trading](../a/accountability.md) errors, cyber-attacks, and system outages. These events can lead to significant [market](../m/market.md) disruptions and impact price accuracy.
+While technology enhances price discovery, it also introduces risks such as [algorithmic trading](../a/algorithmic_trading.md) errors, cyber-attacks, and system outages. These events can lead to significant [market](../m/market.md) disruptions and impact price accuracy.
 
 ## Price Discovery in Different Contexts
 
@@ -130,4 +130,4 @@ AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading
 
 ## Conclusion
 
-Price discovery is a critical process in [financial markets](../f/financial_market.md), ensuring that [asset](../a/asset.md) prices reflect the most accurate [valuation](../v/valuation.md) based on available information. It involves a complex interplay of [market](../m/market.md) participants, trading mechanisms, and external factors. Advances in technology and fintech are poised to further refine and enhance the price discovery process, contributing to greater [market efficiency](../m/market_efficiency.md) and [transparency](../t/transparency.md). For further information on related topics, you can visit [Chainlink](https://chain.link/) and [AlphaSense](https://www.alpha-sense.com/).
+Price discovery is a critical process in [financial markets](../f/financial_market.md), ensuring that [asset](../a/asset.md) prices reflect the most accurate [valuation](../v/valuation.md) based on available information. It involves a complex interplay of [market](../m/market.md) participants, trading mechanisms, and external factors. Advances in technology and fintech are poised to further refine and enhance the price discovery process, contributing to greater [market efficiency](../m/market_efficiency.md) and [transparency](../t/transparency.md). For further information on related topics, you can visit Chainlink and AlphaSense.

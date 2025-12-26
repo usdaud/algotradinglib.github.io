@@ -62,7 +62,7 @@ While UTV can provide valuable insights, it also introduces risks:
 Unusual [trade](../t/trade.md) [volume](../v/volume.md) serves as a powerful tool in the arsenal of traders and investors. By understanding and analyzing UTV, traders can [gain](../g/gain.md) insights into potential [market](../m/market.md) movements, improve [liquidity](../l/liquidity.md) management, and refine [algorithmic trading](../a/algorithmic_trading.md) strategies. However, it is essential to approach UTV analysis with a comprehensive understanding of the [underlying](../u/underlying.md) factors and risks involved.
 
 For further information and practical tools, visit the following links:
-- [Yahoo Finance](https://finance.yahoo.com/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [TradingView](https://www.tradingview.com/)
-- [Finviz](https://finviz.com/)
+- Yahoo Finance
+- Bloomberg Terminal
+- TradingView
+- Finviz

@@ -20,9 +20,9 @@ Kurtosis can also be measured using the sample data, in which case the formula i
 Kurtosis can be categorized into three types based on the tails of the [distribution](../d/distribution.md):
 
 1. **Mesokurtic**: A [distribution](../d/distribution.md) with kurtosis similar to that of a [normal distribution](../n/normal_distribution_in_trading.md). For the [normal distribution](../n/normal_distribution_in_trading.md), kurtosis is 3, which is often referred to as a "[benchmark](../b/benchmark.md)" kurtosis. Mesokurtic distributions are neither heavy-tailed nor light-tailed, indicating a moderate level of outlier proneness.
-   
+
 2. **Leptokurtic**: A [distribution](../d/distribution.md) with kurtosis greater than 3, indicating heavy tails and a sharp peak. This means that the [distribution](../d/distribution.md) has more frequent and extreme outliers compared to a [normal distribution](../n/normal_distribution_in_trading.md). Financial returns often exhibit leptokurtic behavior, indicating a higher probability of extreme values.
-   
+
 3. **[Platykurtic](../p/platykurtic.md)**: A [distribution](../d/distribution.md) with kurtosis less than 3, indicating light tails and a flatter peak. This suggests that the [distribution](../d/distribution.md) has fewer and less extreme outliers compared to a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ## Excess Kurtosis
@@ -43,7 +43,7 @@ In [finance](../f/finance.md), kurtosis is used to assess the [risk](../r/risk.m
 
 ### Risk Management
 
-Kurtosis is a critical measure for [risk management](../r/risk_management.md) in [algorithmic trading](../a/accountability.md). Algorithms often incorporate kurtosis to adjust strategies based on the [distribution](../d/distribution.md) characteristics of [asset](../a/asset.md) returns. High kurtosis can signal the need for more conservative [risk management](../r/risk_management.md) approaches, such as:
+Kurtosis is a critical measure for [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). Algorithms often incorporate kurtosis to adjust strategies based on the [distribution](../d/distribution.md) characteristics of [asset](../a/asset.md) returns. High kurtosis can signal the need for more conservative [risk management](../r/risk_management.md) approaches, such as:
 
 - Adjusting position sizes.
 - Implementing tighter [stop-loss orders](../s/stop-loss_orders.md).
@@ -59,7 +59,7 @@ Kurtosis is essential in constructing [tail risk](../t/tail_risk.md) [hedging st
 
 ### Performance Evaluation
 
-[Algorithmic trading](../a/accountability.md) systems are evaluated not only on their returns but also on the [distribution](../d/distribution.md) characteristics of these returns. High kurtosis in the [performance metrics](../p/performance_metrics.md) of a [trading strategy](../t/trading_strategy.md) might indicate potential outliers that need to be understood and managed.
+[Algorithmic trading](../a/algorithmic_trading.md) systems are evaluated not only on their returns but also on the [distribution](../d/distribution.md) characteristics of these returns. High kurtosis in the [performance metrics](../p/performance_metrics.md) of a [trading strategy](../t/trading_strategy.md) might indicate potential outliers that need to be understood and managed.
 
 ## Practical Considerations
 
@@ -77,6 +77,6 @@ Modern trading platforms and statistical software provide tools for calculating 
 
 ## Conclusion
 
-Kurtosis is a vital statistical measure for understanding the [distribution](../d/distribution.md) characteristics of financial data. In the context of [algorithmic trading](../a/accountability.md), it helps in assessing [risk](../r/risk.md), developing strategies, and managing [tail risk](../t/tail_risk.md). By accurately measuring and interpreting kurtosis, algorithmic traders can enhance their decision-making processes and improve the robustness of their [trading systems](../t/trading_systems.md).
+Kurtosis is a vital statistical measure for understanding the [distribution](../d/distribution.md) characteristics of financial data. In the context of [algorithmic trading](../a/algorithmic_trading.md), it helps in assessing [risk](../r/risk.md), developing strategies, and managing [tail risk](../t/tail_risk.md). By accurately measuring and interpreting kurtosis, algorithmic traders can enhance their decision-making processes and improve the robustness of their [trading systems](../t/trading_systems.md).
 
 Understanding kurtosis and its implications allows traders to better navigate the complexities of [financial markets](../f/financial_market.md), ultimately leading to more informed and effective [trading strategies](../t/trading_strategies.md).

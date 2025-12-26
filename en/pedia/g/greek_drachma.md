@@ -6,7 +6,7 @@ The Greek drachma was the [currency](../c/currency.md) used in Greece before the
 
 ### Origins and Early History
 
-The drachma's origins can be traced back to ancient Greece, around the 6th century BCE. The word "drachma" is derived from the verb "drassomai," which means "to grasp." This etymology is linked to the drachma's initial conception as a handful of metal rods, called "obeloi." Six of these rods could be grasped in one hand, and this bundle was known as a "drachma." 
+The drachma's origins can be traced back to ancient Greece, around the 6th century BCE. The word "drachma" is derived from the verb "drassomai," which means "to grasp." This etymology is linked to the drachma's initial conception as a handful of metal rods, called "obeloi." Six of these rods could be grasped in one hand, and this bundle was known as a "drachma."
 
 ### Development as Coinage
 

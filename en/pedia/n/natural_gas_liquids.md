@@ -24,10 +24,10 @@ Natural gasoline, also referred to as pentanes plus (C5+), consists of pentane a
 
 ### Gas Processing Plants
 
-The extraction of NGLs starts at the natural gas processing plants, where natural gas undergoes several stages of treatment to separate impurities and extract valuable liquids. 
+The extraction of NGLs starts at the natural gas processing plants, where natural gas undergoes several stages of treatment to separate impurities and extract valuable liquids.
 
 1. **Initial Separation:** Natural gas is initially separated from oil, free water, and free [liquid](../l/liquid.md) condensate.
-   
+
 2. **Contaminant Removal:** The next stage involves removing impurities like sulfur compounds, carbon dioxide, and water vapor.
 
 3. **Dehydration and Sweetening:** Gas is dehydrated to remove any remaining water, and sweetening processes remove harmful sulfur compounds.
@@ -40,7 +40,7 @@ Fractionation is the process of converting the mixed NGL stream into its individ
 
 ## Applications of NGLs
 
-Natural Gas Liquids are versatile and have a broad [range](../r/range.md) of applications: 
+Natural Gas Liquids are versatile and have a broad [range](../r/range.md) of applications:
 
 1. **Energy and Fuel:** Propane and butane are used extensively for heating, cooking, and as vehicle fuels.
 
@@ -56,7 +56,7 @@ Natural Gas Liquids are versatile and have a broad [range](../r/range.md) of app
 
 The [market](../m/market.md) for NGLs is influenced by various economic, geopolitical, and technological factors. The prices of NGLs typically track the prices of [crude oil](../c/crude_oil.md) and natural gas but can diverge due to shifts in [supply](../s/supply.md) and [demand](../d/demand.md) dynamics:
 
-1. **Seasonal [Demand](../d/demand.md):** [Demand](../d/demand.md) for heating fuels like propane spikes during colder months, influencing prices. 
+1. **Seasonal [Demand](../d/demand.md):** [Demand](../d/demand.md) for heating fuels like propane spikes during colder months, influencing prices.
 
 2. **Geopolitical Tensions:** Political instability in major oil and gas-producing regions can lead to fluctuations in NGL prices.
 
@@ -70,15 +70,15 @@ Trading in NGLs typically involves large contracts, and prices are sometimes peg
 
 Several major players in the energy [industry](../i/industry.md) are involved in the production, processing, and trading of NGLs:
 
-1. **ExxonMobil:** A major player in the global energy [industry](../i/industry.md) that engages in all aspects of natural gas and NGL production and processing. [Website](https://corporate.exxonmobil.com)
+1. **ExxonMobil:** A major player in the global energy [industry](../i/industry.md) that engages in
 
-2. **Royal Dutch Shell:** Another global energy giant that invests in natural gas processing plants and NGL technologies. [Website](https://www.shell.com)
+2. **Royal Dutch Shell:** Another global energy giant that invests
 
-3. **Enterprise Products Partners L.P.:** A U.S.-based midstream natural gas and [crude oil](../c/crude_oil.md) pipeline company. They operate an extensive network of processing plants and fractionators. [Website](https://www.enterpriseproducts.com)
+3. **Enterprise Products Partners L.P.:** A U.S.-based midstream natural gas and [crude oil](../c/crude_oil.md) pipeline company. They operate
 
-4. **ConocoPhillips:** An integrated energy company with assets in natural gas production and processing. [Website](https://www.conocophillips.com)
+4. **ConocoPhillips:** An integrated energy
 
-5. **Chevron:** A [multinational corporation](../m/multinational_corporation.md) involved in various aspects of natural gas and NGL production. [Website](https://www.chevron.com)
+5. **Chevron:** A [multinational corporation](../m/multinational_corporation.md) involved
 
 ## Environmental and Regulatory Considerations
 

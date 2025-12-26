@@ -107,8 +107,8 @@ In 2013, Michael Dell, the founder and then CEO of Dell Inc., teamed up with [pr
 In 2007, Blackstone Group completed an MBO of Hilton Hotels for $26 billion. The management team believed that privatizing Hilton would enable them to make necessary strategic investments and changes without public [market](../m/market.md) pressures. The deal eventually proved highly successful, with Hilton [going public](../g/going_public.md) again in 2013 at a significantly higher [valuation](../v/valuation.md).
 
 For more detailed information, you can visit the websites of the companies mentioned:
-- [Dell](https://www.dell.com/)
-- [Blackstone](https://www.blackstone.com/)
+- Dell
+- Blackstone
 
 ## Conclusion
 

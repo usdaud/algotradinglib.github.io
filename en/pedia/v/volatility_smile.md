@@ -77,4 +77,4 @@ The [volatility](../v/volatility.md) smile is one of the critical nuances in [op
 
 Understanding the [volatility](../v/volatility.md) smile requires an interplay of theoretical knowledge and practical [market](../m/market.md) experience. While models continue to evolve, the essence of the [volatility](../v/volatility.md) smile remains a pivotal aspect of [financial markets](../f/financial_market.md), reflecting the complexities and inherent uncertainties of real-world trading.
 
-For more in-depth information on the [volatility](../v/volatility.md) smile and related models, traders can visit the [CBOE Volatility Index website](https://www.cboe.com/volatility/).
+For more in-depth information on the [volatility](../v/volatility.md) smile and related models, traders can

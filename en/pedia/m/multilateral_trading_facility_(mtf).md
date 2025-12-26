@@ -30,7 +30,7 @@ MTFs can facilitate trading in a wide [range](../r/range.md) of financial instru
 - **ETFs and Funds:** [Exchange](../e/exchange.md)-traded funds and mutual funds.
 
 ### 5. **Technology and Implementation**
-Advanced [algorithmic trading](../a/accountability.md) systems and high-frequency trading (HFT) are often employed on MTFs to ensure efficient [trade](../t/trade.md) [execution](../e/execution.md) and to maintain [liquidity](../l/liquidity.md). These technologies help in optimizing [trade](../t/trade.md) strategies, reducing [transaction costs](../t/transaction_costs.md), and enhancing [market efficiency](../m/market_efficiency.md).
+Advanced [algorithmic trading](../a/algorithmic_trading.md) systems and high-frequency trading (HFT) are often employed on MTFs to ensure efficient [trade](../t/trade.md) [execution](../e/execution.md) and to maintain [liquidity](../l/liquidity.md). These technologies help in optimizing [trade](../t/trade.md) strategies, reducing [transaction costs](../t/transaction_costs.md), and enhancing [market efficiency](../m/market_efficiency.md).
 
 ## Benefits of MTFs
 
@@ -67,15 +67,12 @@ MTFs generate a tremendous [volume](../v/volume.md) of data that must be effecti
 
 ### Chi-X Europe
 Chi-X Europe is one of the largest MTFs in Europe, providing trading in a wide [range](../r/range.md) of European equities. It was the first MTF to [gain](../g/gain.md) significant [market share](../m/market_share.md) against traditional exchanges in Europe.
-[Chi-X Europe](https://www.chi-x.com/)
 
 ### Turquoise
 Turquoise operates as a pan-European MTF, [offering](../o/offering.md) trading in equities from 19 European countries. It is majority-owned by the London Stock [Exchange](../e/exchange.md) Group.
-[Turquoise](https://www.lseg.com/markets-products-and-services/our-markets/turquoise)
 
 ### NASDAQ OMX BX (Boston)
 [NASDAQ](../n/nasdaq.md) OMX BX provides a [trading platform](../t/trading_platform.md) for U.S. equities and ETFs, designed to [offer](../o/offer.md) competitive pricing and innovative trading solutions.
-[NASDAQ OMX BX](https://www.nasdaq.com/solutions/nasdaq-omx-bx)
 
 ## Conclusion
 

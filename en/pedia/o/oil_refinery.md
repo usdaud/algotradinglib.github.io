@@ -12,11 +12,11 @@ The refining process generally involves two primary stages: separation and conve
 
 #### Distillation
 
-1. **[Crude Oil](../c/crude_oil.md) Distillation**: 
-   - [Crude oil](../c/crude_oil.md) is first heated in a furnace.
-   - It is then fed into a distillation column, also called a fractionating column.
-   - As the oil heats up, different components vaporize and rise through the column at different levels.
-   - Lighter fractions such as gasoline rise to the top, while heavier fractions settle at the bottom.
+1. **[Crude Oil](../c/crude_oil.md) Distillation**:
+ - [Crude oil](../c/crude_oil.md) is first heated in a furnace.
+ - It is then fed into a distillation column, also called a fractionating column.
+ - As the oil heats up, different components vaporize and rise through the column at different levels.
+ - Lighter fractions such as gasoline rise to the top, while heavier fractions settle at the bottom.
 
 #### Additional Separation Techniques
 
@@ -117,25 +117,21 @@ The integration of Internet of Things (IoT) devices enables real-time monitoring
 
 One of the world's largest publicly traded oil and gas companies, known for its extensive refining and petrochemical capabilities.
 
-[ExxonMobil Refining](https://corporate.exxonmobil.com/what-we-do/fuels-and-lubricants/refining/overview)
 
 ### Royal Dutch Shell
 
 A global group of energy and petrochemical companies, with a significant portion of its [business](../b/business.md) in refining operations.
 
-[Shell Refining](https://www.shell.com/business-customers/trading-and-supply/refining-supply-and-distribution.html)
 
 ### BP (British Petroleum)
 
 Another major player in the [industry](../i/industry.md) with a significant footprint in refining and petrochemicals.
 
-[BP Refining](https://www.bp.com/en/global/corporate/who-we-are/our-businesses/refining.html)
 
 ### Chevron
 
 Known for its integrated energy operations, Chevron also operates several major refineries around the world.
 
-[Chevron Refining](https://www.chevron.com/operations/downstream)
 
 ## Future Trends
 

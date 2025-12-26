@@ -22,13 +22,13 @@ Calculating the AMT involves several steps:
 
 - **AMT [Exemption](../e/exemption.md)**: A certain amount of [income](../i/income.md) is exempt from the AMT, which varies annually and depends on [filing status](../f/filing_status.md). The [exemption](../e/exemption.md) phases out at higher [income](../i/income.md) levels.
 - **AMT Preferences and Adjustments**: These include specific deductions and [income](../i/income.md) adjustments that are not allowed under the AMT. Examples include:
-  - Medical expenses [deduction](../d/deduction.md) thresholds.
-  - State and [local tax](../l/local_tax.md) deductions.
-  - Miscellaneous itemized deductions.
-  - [Depreciation](../d/depreciation.md) on certain assets.
+ - Medical expenses [deduction](../d/deduction.md) thresholds.
+ - State and [local tax](../l/local_tax.md) deductions.
+ - Miscellaneous itemized deductions.
+ - [Depreciation](../d/depreciation.md) on certain assets.
 - **AMT Rates**: The AMT applies a two-tiered rate system:
-  - 26% on the first portion of [taxable income](../t/taxable_income.md).
-  - 28% on amounts exceeding a specified limit.
+ - 26% on the first portion of [taxable income](../t/taxable_income.md).
+ - 28% on amounts exceeding a specified limit.
 
 ## Impact on Taxpayers
 
@@ -54,4 +54,4 @@ Corporations may also be subject to the AMT. The calculation for corporations in
 
 The Alternative Minimum Tax ensures a [baseline](../b/baseline.md) tax contribution from high-[income](../i/income.md) individuals and entities, preventing the overuse of deductions and exclusions. It complements the regular tax system, maintaining fairness and [revenue](../r/revenue.md) generation in the federal tax structure. Understanding the AMT's intricacies is crucial for affected taxpayers to manage their tax liabilities effectively.
 
-For consultation and more detailed information, you can refer to professional tax services like [H&R Block](https://www.hrblock.com) or [TurboTax](https://turbotax.intuit.com).
+For consultation and more detailed information, you can refer to professional tax services like H&R Block or TurboTax.

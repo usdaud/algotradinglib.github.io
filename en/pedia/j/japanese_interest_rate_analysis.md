@@ -4,9 +4,9 @@ Japanese [interest rate](../i/interest_rate.md) analysis involves the study and 
 
 ## Bank of Japan (BOJ) and Monetary Policy
 
-The [Bank](../b/bank.md) of Japan, founded in 1882, is Japan’s central [bank](../b/bank.md) and is primarily responsible for the country’s [monetary policy](../m/monetary_policy.md), including [interest rate](../i/interest_rate.md) decisions. BOJ’s mission is to maintain price stability and support the sound development of the [financial system](../f/financial_system.md). One of the [principal](../p/principal.md) tools for achieving these objectives is the manipulation of [interest](../i/interest.md) rates. 
+The [Bank](../b/bank.md) of Japan, founded in 1882, is Japan’s central [bank](../b/bank.md) and is primarily responsible for the country’s [monetary policy](../m/monetary_policy.md), including [interest rate](../i/interest_rate.md) decisions. BOJ’s mission is to maintain price stability and support the sound development of the [financial system](../f/financial_system.md). One of the [principal](../p/principal.md) tools for achieving these objectives is the manipulation of [interest](../i/interest.md) rates.
 
-The BOJ employs various [monetary policy](../m/monetary_policy.md) tools such as the policy [interest rate](../i/interest_rate.md), the quantitative and qualitative monetary easing (QQE), and [yield curve](../y/yield_curve.md) control (YCC). The official site of the [Bank](../b/bank.md) of Japan can be visited [here](https://www.boj.or.jp/en/).
+The BOJ employs various [monetary policy](../m/monetary_policy.md) tools such as the policy [interest rate](../i/interest_rate.md), the quantitative and qualitative monetary easing (QQE), and [yield curve](../y/yield_curve.md) control (YCC). The public materials of the [Bank](../b/bank.md) of Japan can be visited here.
 
 ## Policy Interest Rate
 

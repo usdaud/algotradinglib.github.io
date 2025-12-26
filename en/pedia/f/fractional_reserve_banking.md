@@ -6,7 +6,7 @@ Fractional reserve banking is a monetary system in which only a fraction of [ban
 
 ## The Mechanics of Fractional Reserve Banking
 
-Under a fractional reserve banking system, banks are required to keep a certain percentage of depositors' [money](../m/money.md) in reserve, meaning they cannot lend out all the [money](../m/money.md) that people [deposit](../d/deposit.md). This reserve requirement is set by the central [bank](../b/bank.md), for instance, the Federal Reserve in the United States. 
+Under a fractional reserve banking system, banks are required to keep a certain percentage of depositors' [money](../m/money.md) in reserve, meaning they cannot lend out all the [money](../m/money.md) that people [deposit](../d/deposit.md). This reserve requirement is set by the central [bank](../b/bank.md), for instance, the Federal Reserve in the United States.
 
 ### Reserve Requirements
 

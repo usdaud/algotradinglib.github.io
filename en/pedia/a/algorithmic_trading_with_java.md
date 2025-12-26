@@ -8,21 +8,21 @@ Java, being a versatile and widely-used programming language, provides an excell
 
 To start developing [algorithmic trading](../a/algorithmic_trading.md) systems with Java, you first need to set up a suitable development environment. Here are the key components you [will](../w/will.md) need:
 
-1. **Java Development Kit (JDK)**: Ensure you have the latest version of JDK installed. Java SE Development Kit (JDK) can be downloaded from the official [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+1. **Java Development Kit (JDK)**: Ensure you have the latest version of JDK installed. Java SE Development
 
-2. **Integrated Development Environment (IDE)**: Choose an IDE such as IntelliJ IDEA, Eclipse, or NetBeans. IntelliJ IDEA is particularly popular among Java developers for its [robust](../r/robust.md) features and user-friendly interface. You can download IntelliJ IDEA from the [JetBrains website](https://www.jetbrains.com/idea/download/).
+2. **Integrated Development Environment (IDE)**: Choose an IDE such as IntelliJ IDEA, Eclipse, or NetBeans. IntelliJ IDEA is particularly popular among Java developers for its [robust](../r/robust.md) features and user-friendly
 
-3. **Maven or Gradle**: These are powerful build automation tools used for dependency management. Integrating a build tool with your project can significantly streamline the development process. Maven can be downloaded and installed from the [Apache Maven website](https://maven.apache.org/download.cgi).
+3. **Maven or Gradle**: These are powerful build automation tools used for dependency management. Integrating a build tool with your project can significantly streamline the development process.
 
-4. **APIs and Libraries**: To interact with [financial markets](../f/financial_market.md) and retrieve real-time data, you [will](../w/will.md) need APIs and libraries such as [Yahoo Finance](../y/yahoo_finance.md) API, [Alpha](../a/alpha.md) Vantage, or even proprietary APIs offered by specific trading platforms. For instance, [Alpaca](../a/alpaca.md) offers an API specifically designed for algo trading which can be found [here](https://alpaca.markets/docs/api-documentation/).
+4. **APIs and Libraries**: To interact with [financial markets](../f/financial_market.md) and retrieve real-time data, you [will](../w/will.md) need APIs and libraries such as [Yahoo Finance](../y/yahoo_finance.md) API, [Alpha](../a/alpha.md) Vantage, or even proprietary APIs offered by specific trading platforms. For instance, [Alpaca](../a/alpaca.md) offers an API specifically designed for algo trading which can be found here.
 
 ## Data Collection and Preparation
 
 Data is the cornerstone of any [algorithmic trading](../a/algorithmic_trading.md) strategy. The accuracy, quality, and relevance of the data directly impact the performance of your trading algorithm. Here are some common sources of financial data:
 
-- **[Yahoo Finance](../y/yahoo_finance.md) API**: Allows for fetching historical data, real-time quotes, and other financial information. It can be accessed from [Yahoo Finance](https://www.yahoofinanceapi.com/).
-- **[Alpha](../a/alpha.md) Vantage API**: Provides a wide [range](../r/range.md) of financial data, including real-time and historical data. It can be accessed from [Alpha Vantage](https://www.alphavantage.co/).
-- **[Quandl](../q/quandl.md)**: Offers comprehensive data on various financial instruments like [stocks](../s/stock.md), commodities, and cryptocurrencies. [Quandl](../q/quandl.md) can be accessed from [here](https://www.quandl.com/).
+- **[Yahoo Finance](../y/yahoo_finance.md) API**: Allows for fetching historical data, real-time quotes, and other financial information. It can be accessed from Yahoo Finance.
+- **[Alpha](../a/alpha.md) Vantage API**: Provides a wide [range](../r/range.md) of financial data, including real-time and historical data. It can be accessed from Alpha Vantage.
+- **[Quandl](../q/quandl.md)**: Offers comprehensive data on various financial instruments like [stocks](../s/stock.md), commodities, and cryptocurrencies. [Quandl](../q/quandl.md) can be accessed from here.
 
 Once you have fetched the data, you [will](../w/will.md) need to preprocess it to suit your [trading algorithms](../t/trading_algorithms.md). This preprocessing might include cleaning the data, handling missing values, normalizing the scales, etc.
 
@@ -124,8 +124,8 @@ public class [Backtesting](../b/backtesting.md) {
 
 In the real world, effective [backtesting](../b/backtesting.md) involves sophisticated frameworks that account for [transaction costs](../t/transaction_costs.md), [market](../m/market.md) impact, [slippage](../s/slippage.md), and other real-world factors that could affect trading outcomes. Some popular Java-based [backtesting](../b/backtesting.md) frameworks include:
 
-- **[AlgoTrader](../a/algotrader.md)**: A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes. [Check](../c/check.md) [AlgoTrader](../a/algotrader.md) [here](https://www.algotrader.com/).
-- **[QuantConnect](../q/quantconnect.md)**: Though primarily in Python, [QuantConnect](../q/quantconnect.md) also supports [backtesting](../b/backtesting.md) in [multiple](../m/multiple.md) programming languages. More about it [here](https://www.quantconnect.com/).
+- **[AlgoTrader](../a/algotrader.md)**: A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes. [Check](../c/check.md) [AlgoTrader](../a/algotrader.md) here.
+- **[QuantConnect](../q/quantconnect.md)**: Though primarily in Python, [QuantConnect](../q/quantconnect.md) also supports [backtesting](../b/backtesting.md) in [multiple](../m/multiple.md) programming languages. More about it here.
 
 ## Live Trading
 
@@ -141,7 +141,7 @@ After successful [backtesting](../b/backtesting.md) and refining of your strateg
 public class LiveTrading {
 
     public static void main(String[] args) {
-        AlpacaAPI alpacaAPI = new AlpacaAPI("your-api-key", "your-api-secret", "https://paper-api.[alpaca](../a/alpaca.md).markets");
+ AlpacaAPI alpacaAPI = new AlpacaAPI"your-api-key", "your-api-secret", "
         
         try {
             placeOrder(alpacaAPI, "AAPL", 10, OrderSide.BUY);
@@ -188,6 +188,6 @@ public class RiskManagement {
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) with Java is a powerful approach to automating trading activities in [financial markets](../f/financial_market.md). Java's extensive libraries and reliable performance make it an ideal choice for developing [robust](../r/robust.md) and efficient [trading systems](../t/trading_systems.md). By following [best practices](../b/best_practices.md) in data collection, preprocessing, strategy development, [backtesting](../b/backtesting.md), and live trading, as well as implementing effective [risk management](../r/risk_management.md) techniques, traders can optimize their strategies to maximize returns while minimizing [risk](../r/risk.md). For professional [algorithmic trading](../a/algorithmic_trading.md) development and deployment, you may also consider using platforms like [AlgoTrader](https://www.algotrader.com/) and [QuantConnect](https://www.quantconnect.com/).
+[Algorithmic trading](../a/algorithmic_trading.md) with Java is a powerful approach to automating trading activities in [financial markets](../f/financial_market.md). Java's extensive libraries and reliable performance make it an ideal choice for developing [robust](../r/robust.md) and efficient [trading systems](../t/trading_systems.md). By following [best practices](../b/best_practices.md) in data collection, preprocessing, strategy development, [backtesting](../b/backtesting.md), and live trading, as well as implementing effective [risk management](../r/risk_management.md) techniques, traders can optimize their strategies to maximize returns while minimizing [risk](../r/risk.md). For professional [algorithmic trading](../a/algorithmic_trading.md) development and deployment, you may also consider using platforms like AlgoTrader and QuantConnect.
 
-Happy trading!
+Happy trading!

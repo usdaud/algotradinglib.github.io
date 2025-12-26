@@ -10,7 +10,7 @@ Zero-[dividend](../d/dividend.md) [preferred stock](../p/preferred_stock.md), al
 
 ### No Regular Dividend Payments
 
-One of the defining characteristics of zero-[dividend](../d/dividend.md) [preferred stock](../p/preferred_stock.md) is the absence of periodic [dividend](../d/dividend.md) payments. This differentiates it from other preferred [stocks](../s/stock.md) that typically provide a fixed [dividend yield](../d/dividend_yield.md). 
+One of the defining characteristics of zero-[dividend](../d/dividend.md) [preferred stock](../p/preferred_stock.md) is the absence of periodic [dividend](../d/dividend.md) payments. This differentiates it from other preferred [stocks](../s/stock.md) that typically provide a fixed [dividend yield](../d/dividend_yield.md).
 
 ### Accumulation of Capital Gains
 
@@ -68,10 +68,7 @@ The [financial health](../f/financial_health.md) of the issuing company is a key
 
 While zero-[dividend](../d/dividend.md) [preferred stock](../p/preferred_stock.md) is less common, some companies have employed this [financial instrument](../f/financial_instrument.md). Here are a few examples:
 
-- **Goldman Sachs Group Inc.** (https://www.goldmansachs.com)
-- **Morgan Stanley** (https://www.morganstanley.com)
-- **Ford Motor Company** (https://www.ford.com)
-
+- **Goldman Sachs Group Inc.** - **Morgan Stanley** - **Ford Motor Company**
 ## Conclusion
 
 Zero-[dividend](../d/dividend.md) [preferred stock](../p/preferred_stock.md) represents an interesting option for both issuers and investors. For companies, it offers a way to raise [capital](../c/capital.md) without the burden of regular [dividend](../d/dividend.md) payments. For investors, it provides an opportunity for [capital](../c/capital.md) appreciation, albeit with certain risks. Understanding the characteristics, [valuation](../v/valuation.md), and risks associated with this type of [preferred stock](../p/preferred_stock.md) is crucial for making informed investment decisions.

@@ -14,7 +14,7 @@ Cash and [cash equivalents](../c/cash_equivalents.md) are the most [liquid](../l
 
 - **Cash on hand:** Physical [currency](../c/currency.md) and coins.
 - **[Bank deposits](../b/bank_deposits.md):** [Demand](../d/demand.md) deposits held in savings and checking accounts.
-- **[Money Market](../m/money_market.md) Instruments:** Short-term, highly [liquid](../l/liquid.md) investments such as treasury bills, [commercial paper](../c/commercial_paper.md), and certificates of [deposit](../d/deposit.md) via financial institutions. 
+- **[Money Market](../m/money_market.md) Instruments:** Short-term, highly [liquid](../l/liquid.md) investments such as treasury bills, [commercial paper](../c/commercial_paper.md), and certificates of [deposit](../d/deposit.md) via financial institutions.
 
 ### 2. Stocks (Equities)
 
@@ -36,8 +36,8 @@ Bonds are [debt](../d/debt.md) instruments where an [investor](../i/investor.md)
 [Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from the performance of [underlying](../u/underlying.md) assets, [interest](../i/interest.md) rates, [currency exchange](../c/currency_exchange.md) rates, or indices. Examples include:
 
 - **[Options](../o/options.md):** Contracts that give the buyer the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a predetermined price within a specific timeframe.
-  - **Call [options](../o/options.md):** Allow buying of an [asset](../a/asset.md).
-  - **[Put options](../p/put_options.md):** Allow selling of an [asset](../a/asset.md).
+ - **Call [options](../o/options.md):** Allow buying of an [asset](../a/asset.md).
+ - **[Put options](../p/put_options.md):** Allow selling of an [asset](../a/asset.md).
 - **[Futures](../f/futures.md):** Contracts obligating the buyer to purchase, or the seller to sell, an [asset](../a/asset.md) at a predetermined future date and price.
 - **Swaps:** Financial agreements to [exchange](../e/exchange.md) cash flows or other financial instruments between parties.
 
@@ -118,19 +118,19 @@ Diversifying financial assets across various categories reduces [risk](../r/risk
 
 ### Investment Banks
 
-[Investment banks](../i/investment_bank_(ib).md) play a critical role in [underwriting](../u/underwriting.md) new securities, facilitating mergers and acquisitions, and providing advisory services. Examples include Goldman Sachs (https://www.goldmansachs.com/) and Morgan Stanley (https://www.morganstanley.com/).
+[Investment banks](../i/investment_bank_(ib).md) play a critical role in [underwriting](../u/underwriting.md) new securities, facilitating mergers and acquisitions, and providing advisory services. Examples include Goldman Sachs ( and Morgan Stanley (
 
 ### Asset Management Firms
 
-[Asset management](../a/asset_management.md) firms manage investment funds on behalf of clients. Examples include BlackRock (https://www.blackrock.com/) and Vanguard (https://www.vanguard.com/).
+[Asset management](../a/asset_management.md) firms manage investment funds on behalf of clients. Examples include BlackRock ( and Vanguard (
 
 ### Hedge Funds and Private Equity
 
-[Hedge](../h/hedge.md) funds use sophisticated strategies to generate returns regardless of [market](../m/market.md) conditions, while [private equity](../p/private_equity.md) firms invest in private companies to enhance their [value](../v/value.md) before selling them. Examples include Bridgewater Associates (https://www.bridgewater.com/) and The Carlyle Group (https://www.carlyle.com/).
+[Hedge](../h/hedge.md) funds use sophisticated strategies to generate returns regardless of [market](../m/market.md) conditions, while [private equity](../p/private_equity.md) firms invest in private companies to enhance their [value](../v/value.md) before selling them. Examples include Bridgewater Associates ( and The Carlyle Group (
 
 ### Regulatory Bodies
 
-Regulatory bodies ensure fair practices and [transparency](../t/transparency.md) in the [financial markets](../f/financial_market.md). Key regulators include the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States (https://www.sec.gov/) and the Financial Conduct Authority (FCA) in the UK (https://www.fca.org.uk/).
+Regulatory bodies ensure fair practices and [transparency](../t/transparency.md) in the [financial markets](../f/financial_market.md). Key regulators include the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States ( and the Financial Conduct Authority (FCA) in the UK (
 
 ## Conclusion
 

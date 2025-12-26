@@ -21,32 +21,32 @@ Unitary thrifts operate under a specific regulatory framework designed to ensure
 Unitary thrifts typically [offer](../o/offer.md) a suite of services that meet the financial needs of their customers. Some of the key functions include:
 
 1. **Savings Accounts:**
-   - Traditional savings accounts
-   - [Money market](../m/money_market.md) accounts
-   - Certificates of [deposit](../d/deposit.md) (CDs)
+ - Traditional savings accounts
+ - [Money market](../m/money_market.md) accounts
+ - Certificates of [deposit](../d/deposit.md) (CDs)
 
 2. **[Loan](../l/loan.md) Services:**
-   - Residential mortgages
-   - [Home equity](../h/home_equity.md) loans
-   - Personal loans
-   - Auto loans
-   - [Business](../b/business.md) loans
+ - Residential mortgages
+ - [Home equity](../h/home_equity.md) loans
+ - Personal loans
+ - Auto loans
+ - [Business](../b/business.md) loans
 
 3. **Investment Services:**
-   - Mutual funds
-   - [Brokerage services](../b/brokerage_services.md)
-   - Retirement accounts (IRAs and 401(k) plans)
+ - Mutual funds
+ - [Brokerage services](../b/brokerage_services.md)
+ - Retirement accounts (IRAs and 401(k) plans)
 
 4. **[Wealth Management](../w/wealth_management.md):**
-   - [Financial planning](../f/financial_planning.md)
-   - [Trust](../t/trust.md) services
-   - [Estate planning](../e/estate_planning.md)
+ - [Financial planning](../f/financial_planning.md)
+ - [Trust](../t/trust.md) services
+ - [Estate planning](../e/estate_planning.md)
 
 5. **Additional Banking Services:**
-   - Checking accounts
-   - [Credit](../c/credit.md) cards
-   - Online and [mobile banking](../m/mobile_banking.md)
-   - Notary services
+ - Checking accounts
+ - [Credit](../c/credit.md) cards
+ - Online and [mobile banking](../m/mobile_banking.md)
+ - Notary services
 
 ## Importance in the Financial Ecosystem
 
@@ -59,56 +59,56 @@ Moreover, unitary thrifts often [offer](../o/offer.md) more competitive rates on
 Despite their advantages, unitary thrifts face a [range](../r/range.md) of challenges in the contemporary financial landscape, including:
 
 1. **Regulatory Compliance:**
-   - Navigating complex and evolving regulatory requirements can be burdensome and costly for smaller institutions.
-   - Ensuring compliance with anti-[money laundering](../m/money_laundering.md) (AML) and know-your-[customer](../c/customer.md) (KYC) regulations.
+ - Navigating complex and evolving regulatory requirements can be burdensome and costly for smaller institutions.
+ - Ensuring compliance with anti-[money laundering](../m/money_laundering.md) (AML) and know-your-[customer](../c/customer.md) (KYC) regulations.
 
 2. **Competition:**
-   - Competing with larger, more diversified financial institutions that have greater resources and technological capabilities.
-   - The rise of fintech companies [offering](../o/offering.md) innovative financial solutions, often with lower overhead costs and more efficient service delivery.
+ - Competing with larger, more diversified financial institutions that have greater resources and technological capabilities.
+ - The rise of fintech companies [offering](../o/offering.md) innovative financial solutions, often with lower overhead costs and more efficient service delivery.
 
 3. **Economic Pressures:**
-   - Low-[interest](../i/interest.md)-rate environments can squeeze [profit margins](../p/profit_margins_in_trading.md) on traditional savings and lending products.
-   - Economic downturns and housing [market](../m/market.md) [volatility](../v/volatility.md) can impact the quality of [mortgage](../m/mortgage.md) loans and increase [default](../d/default.md) rates.
+ - Low-[interest](../i/interest.md)-rate environments can squeeze [profit margins](../p/profit_margins_in_trading.md) on traditional savings and lending products.
+ - Economic downturns and housing [market](../m/market.md) [volatility](../v/volatility.md) can impact the quality of [mortgage](../m/mortgage.md) loans and increase [default](../d/default.md) rates.
 
 4. **Technological Advancements:**
-   - Keeping pace with rapid technological developments in the banking sector, including digital banking platforms, cybersecurity measures, and [customer](../c/customer.md) [relationship management](../r/relationship_management.md) systems.
-   - [Investing](../i/investing.md) in technology to meet consumer expectations for seamless, real-time banking services.
+ - Keeping pace with rapid technological developments in the banking sector, including digital banking platforms, cybersecurity measures, and [customer](../c/customer.md) [relationship management](../r/relationship_management.md) systems.
+ - [Investing](../i/investing.md) in technology to meet consumer expectations for seamless, real-time banking services.
 
 ## The Future of Unitary Thrift
 
 The future of unitary thrifts lies in their ability to adapt to changing [market](../m/market.md) conditions, regulatory landscapes, and consumer preferences. Key areas of focus for these institutions include:
 
 1. **Digital Transformation:**
-   - Embracing digital banking solutions to enhance [customer](../c/customer.md) experience and [operational efficiency](../o/operational_efficiency_in_trading.md).
-   - Leveraging [data analytics](../d/data_analytics.md) to better understand [customer](../c/customer.md) needs and [offer](../o/offer.md) personalized financial products.
+ - Embracing digital banking solutions to enhance [customer](../c/customer.md) experience and [operational efficiency](../o/operational_efficiency_in_trading.md).
+ - Leveraging [data analytics](../d/data_analytics.md) to better understand [customer](../c/customer.md) needs and [offer](../o/offer.md) personalized financial products.
 
 2. **Enhanced Services:**
-   - Expanding service offerings to include more comprehensive [financial planning](../f/financial_planning.md) and [wealth management](../w/wealth_management.md) services.
-   - Developing partnerships with fintech entities to integrate innovative financial technologies into their service portfolio.
+ - Expanding service offerings to include more comprehensive [financial planning](../f/financial_planning.md) and [wealth management](../w/wealth_management.md) services.
+ - Developing partnerships with fintech entities to integrate innovative financial technologies into their service portfolio.
 
 3. **Community Engagement:**
-   - Continuing to prioritize community development and [financial inclusion](../f/financial_inclusion.md) initiatives.
-   - Building strong relationships with local businesses and community organizations to foster [trust](../t/trust.md) and loyalty.
+ - Continuing to prioritize community development and [financial inclusion](../f/financial_inclusion.md) initiatives.
+ - Building strong relationships with local businesses and community organizations to foster [trust](../t/trust.md) and loyalty.
 
 4. **Regulatory Alignment:**
-   - Proactively engaging with regulators to shape policies that support the growth and sustainability of unitary thrifts.
-   - Ensuring [robust](../r/robust.md) compliance frameworks to maintain regulatory adherence and mitigate operational risks.
+ - Proactively engaging with regulators to shape policies that support the growth and sustainability of unitary thrifts.
+ - Ensuring [robust](../r/robust.md) compliance frameworks to maintain regulatory adherence and mitigate operational risks.
 
 ## Prominent Unitary Thrift Institutions
 
 Several unitary thrift institutions have established themselves as leading entities in the [industry](../i/industry.md), known for their commitment to community banking and innovative financial solutions. Some notable examples include:
 
 1. **Washington Mutual (WaMu):**
-   Washington Mutual was one of the largest unitary thrifts in the United States before its collapse during the [financial crisis](../f/financial_crisis.md) of 2008. The [bank](../b/bank.md) was renowned for its extensive branch network and diverse [range](../r/range.md) of consumer banking services.
+ Washington Mutual was one of the largest unitary thrifts in the United States before its collapse during the [financial crisis](../f/financial_crisis.md) of 2008. The [bank](../b/bank.md) was renowned for its extensive branch network and diverse [range](../r/range.md) of consumer banking services.
 
 2. **[E*TRADE](../e/e_trade.md) [Bank](../b/bank.md):**
-   [E*TRADE](../e/e_trade.md) [Bank](../b/bank.md) combines thrift operations with online [brokerage services](../b/brokerage_services.md), [offering](../o/offering.md) a blend of traditional banking and digital investment solutions. More information about their services can be found on their website: [E*TRADE Bank](https://us.etrade.com/home).
+ [E*TRADE](../e/e_trade.md) [Bank](../b/bank.md) combines thrift operations with online [brokerage services](../b/brokerage_services.md), [offering](../o/offering.md) a blend of traditional banking and digital investment solutions.
 
 3. **People's United [Bank](../b/bank.md):**
-   Founded as a mutual savings [bank](../b/bank.md), People’s United [Bank](../b/bank.md) serves both retail and commercial clients, providing a wide [range](../r/range.md) of financial services. Learn more about their offerings at: [People's United Bank](https://www.peoples.com).
+ Founded as a mutual savings [bank](../b/bank.md), People’s United [Bank](../b/bank.md) serves both retail and commercial clients, providing a wide [range](../r/range.md) of financial services. Learn more about their offerings at: People's United Bank.
 
 4. **Ally [Bank](../b/bank.md):**
-   Originally known as GMAC [Bank](../b/bank.md), Ally [Bank](../b/bank.md) transitioned into a digital-centric unitary thrift, focusing on [online banking](../o/online_banking.md) and auto [financing](../f/financing.md). Visit their website for more details: [Ally Bank](https://www.ally.com).
+ Originally known as GMAC [Bank](../b/bank.md), Ally [Bank](../b/bank.md) transitioned into a digital-centric unitary thrift, focusing on [online banking](../o/online_banking.md) and auto [financing](../f/financing.md).
 
 ## Conclusion
 

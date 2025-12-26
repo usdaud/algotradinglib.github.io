@@ -54,8 +54,8 @@ In [financial markets](../f/financial_market.md), WTA dynamics can lead to highe
 Winner-Takes-All markets are characterized by a disproportionate allocation of resources to the top performers. While these markets can drive innovation and [efficiency](../e/efficiency.md), they also pose significant challenges including increased [income](../i/income.md) disparity, high [barriers to entry](../b/barriers_to_entry.md), and potential risks to financial stability. Understanding these dynamics is essential for policymakers, businesses, and consumers to navigate the complexities of modern economies.
 
 For further reading and details, one can visit the websites of the dominant players mentioned:
-- [Google](https://www.google.com)
-- [Amazon](https://www.amazon.com)
-- [Facebook](https://www.facebook.com)
+- Google
+- Amazon
+- Facebook
 
 Overall, Winner-Takes-All markets are a fascinating intersection of [economics](../e/economics.md), [business](../b/business.md) strategy, and societal impact, making them a critical area of study and observation in the contemporary world.

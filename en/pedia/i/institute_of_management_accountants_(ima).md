@@ -18,7 +18,7 @@ The core values of IMA encompass respect for the individual, passion for serving
 
 ### 3.1 Certification Programs
 
-One of the most significant offerings of IMA is its certification programs. The most prominent among these is the Certified Management [Accountant](../a/accountant.md) (CMA) program, which is recognized globally and provides a substantial career advantage to those who obtain it. The CMA credential signifies expertise in financial management and strategy, with a focus on [corporate finance](../c/corporate_finance.md), management [accounting](../a/accounting.md), and [performance management](../p/performance_management.md). 
+One of the most significant offerings of IMA is its certification programs. The most prominent among these is the Certified Management [Accountant](../a/accountant.md) (CMA) program, which is recognized globally and provides a substantial career advantage to those who obtain it. The CMA credential signifies expertise in financial management and strategy, with a focus on [corporate finance](../c/corporate_finance.md), management [accounting](../a/accounting.md), and [performance management](../p/performance_management.md).
 
 #### 3.1.1 Certified Management Accountant (CMA)
 
@@ -45,7 +45,7 @@ IMA conducts extensive research in the field of management [accounting](../a/acc
 
 - **Strategic [Finance](../f/finance.md) Magazine:** Offers insights into current trends, practices, and developments in management [accounting](../a/accounting.md) and [finance](../f/finance.md).
 - **Management [Accounting](../a/accounting.md) Quarterly:** Features scholarly research and practical applications.
-- **Statements on Management [Accounting](../a/accounting.md) (SMAs):** Provide guidelines and [best practices](../b/best_practices.md) for the profession. 
+- **Statements on Management [Accounting](../a/accounting.md) (SMAs):** Provide guidelines and [best practices](../b/best_practices.md) for the profession.
 
 ### 3.4 Advocacy and Ethics
 
@@ -77,4 +77,4 @@ IMA’s [Code of Ethics](../c/code_of_ethics.md) emphasizes principles such as h
 
 ## Conclusion
 
-The Institute of Management Accountants (IMA) is a pillar in the field of management [accounting](../a/accounting.md), [offering](../o/offering.md) unmatched resources, certification, and professional development opportunities. Its contributions to education, research, [ethical standards](../e/ethical_standards_in_trading.md), and global outreach make it an invaluable association for management accountants worldwide. To learn more about IMA and its offerings, visit their official website: [Institute of Management Accountants](https://www.imanet.org).
+The Institute of Management Accountants (IMA) is a pillar in the field of management [accounting](../a/accounting.md), [offering](../o/offering.md) unmatched resources, certification, and professional development opportunities. Its contributions to education, research, [ethical standards](../e/ethical_standards_in_trading.md), and global outreach make it an invaluable association for management accountants worldwide. To

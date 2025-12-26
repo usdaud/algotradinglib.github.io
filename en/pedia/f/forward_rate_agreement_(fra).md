@@ -10,7 +10,7 @@ FRAs involve two key dates: the [trade](../t/trade.md) date, which is the date t
 
 1. **[Notional Principal Amount](../n/notional_principal_amount.md)**: This is the amount on which the [interest](../i/interest.md) payments are calculated, though the [principal](../p/principal.md) itself is never exchanged.
 2. **Contract Rate (FRA Rate)**: The [fixed interest rate](../f/fixed_interest_rate.md) agreed upon by the two parties for the future borrowing/lending period.
-3. **[Reference Rate](../r/reference_rate.md)**: This is the [variable interest rate](../v/variable_interest_rate.md) used to calculate the actual [interest](../i/interest.md) [payment](../p/payment.md) when the contract matures, often linked to LIBOR (London Interbank Offered Rate) or EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate).
+3. **[Reference Rate](../r/reference_rate.md)**: This is the [variable interest rate](../v/variable_interest_rate.md) used to calculate the actual [interest](../i/interest.md) [payment](../p/payment.md) when the contract matures, often linked to SOFR (Secured Overnight Financing Rate), which replaced LIBOR in June 2023, or EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate).
 4. **Settlement Date**: The date on which the [interest rate](../i/interest_rate.md) payments are exchanged.
 
 ## Calculation of Payments
@@ -37,9 +37,9 @@ Because FRAs are [derivative](../d/derivative.md) instruments, they can also be 
 
 ## Example
 
-Consider a company, ABC Corp, which plans to borrow $1 million in three months’ time for a period of six months. The current three-month LIBOR is 1.5%, but ABC Corp fears that rates [will](../w/will.md) increase by the time they borrow. They enter into an FRA with a [bank](../b/bank.md) to lock in a rate of 1.75%.
+Consider a company, ABC Corp, which plans to borrow $1 million in three months’ time for a period of six months. The current three-month SOFR is 1.5%, but ABC Corp fears that rates [will](../w/will.md) increase by the time they borrow. They enter into an FRA with a [bank](../b/bank.md) to lock in a rate of 1.75%.
 
-If after three months, the actual three-month LIBOR is 2%, the [bank](../b/bank.md) [will](../w/will.md) compensate ABC Corp for the higher borrowing cost according to the formula provided earlier. Conversely, if the LIBOR had decreased to, say, 1.3%, ABC Corp would make a [payment](../p/payment.md) to the [bank](../b/bank.md).
+If after three months, the actual three-month SOFR is 2%, the [bank](../b/bank.md) [will](../w/will.md) compensate ABC Corp for the higher borrowing cost according to the formula provided earlier. Conversely, if the SOFR had decreased to, say, 1.3%, ABC Corp would make a [payment](../p/payment.md) to the [bank](../b/bank.md).
 
 ## Advantages of FRAs
 
@@ -64,11 +64,11 @@ Typical participants in the FRA [market](../m/market.md) include:
 
 ## Current Trends and Developments
 
-With the global push to phase out LIBOR due to manipulation concerns and transition to alternative reference rates like SOFR (Secured Overnight [Financing](../f/financing.md) Rate), the FRA [market](../m/market.md) is also undergoing significant changes. The need for [robust](../r/robust.md) frameworks to manage [interest rate risk](../i/interest_rate_risk.md) remains, but the instruments and reference rates used are evolving.
+Following the global transition from LIBOR (discontinued in June 2023) to alternative reference rates like SOFR (Secured Overnight [Financing](../f/financing.md) Rate), the FRA [market](../m/market.md) has adapted to these new benchmarks. The need for [robust](../r/robust.md) frameworks to manage [interest rate risk](../i/interest_rate_risk.md) remains, but the instruments and reference rates used are evolving.
 
 ### Alternative Reference Rates
 
-As the financial [industry](../i/industry.md) transitions away from LIBOR, new benchmarks such as SOFR, SONIA (Sterling Overnight [Index](../i/index_instrument.md) Average), and €STR ([Euro](../e/euro.md) Short-Term Rate) are increasingly used in FRA contracts. This shift requires [market](../m/market.md) participants to adjust their [valuation models](../v/valuation_models.md) and [risk management](../r/risk_management.md) strategies accordingly.
+Since the discontinuation of LIBOR in June 2023, new benchmarks such as SOFR, SONIA (Sterling Overnight [Index](../i/index_instrument.md) Average), and €STR ([Euro](../e/euro.md) Short-Term Rate) are now the standard reference rates used in FRA contracts. This shift requires [market](../m/market.md) participants to adjust their [valuation models](../v/valuation_models.md) and [risk management](../r/risk_management.md) strategies accordingly.
 
 ### Regulatory Changes
 
@@ -78,11 +78,11 @@ Various regulatory initiatives aim to enhance the [transparency](../t/transparen
 
 Leading [investment banks](../i/investment_bank_(ib).md) and financial institutions globally [offer](../o/offer.md) FRA contracts. Notable among them are:
 
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JP Morgan Chase](https://www.jpmorganchase.com/)
-- [CitiBank](https://www.citigroup.com/citi/)
-- [HSBC](https://www.hsbc.com/)
-- [Deutsche Bank](https://www.db.com/)
+- Goldman Sachs
+- JP Morgan Chase
+- CitiBank
+- HSBC
+- Deutsche Bank
 
 These institutions provide sophisticated trading platforms and [risk management](../r/risk_management.md) tools to facilitate FRA transactions.
 

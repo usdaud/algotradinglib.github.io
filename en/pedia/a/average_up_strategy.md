@@ -75,21 +75,18 @@ This code sets the [baseline](../b/baseline.md) for a simple Average Up strategy
 
 ## Real-World Applications
 
-### QuantConnect
+### StockSharp
 
-#### https://www.quantconnect.com/
-[QuantConnect](../q/quantconnect.md) provides a wide [range](../r/range.md) of tools for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform enables traders to implement strategies like Average Up by providing extensive libraries and data access for [backtesting](../b/backtesting.md) and live trading.
+#### [StockSharp](../s/stocksharp.md) provides a wide [range](../r/range.md) of tools for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform enables traders to implement strategies like Average Up by providing extensive libraries and data access for [backtesting](../b/backtesting.md) and live trading.
 
 ### Interactive Brokers (IBKR)
 
-#### https://www.interactivebrokers.com/
-[Interactive Brokers](../i/interactive_brokers.md) offers powerful automation tools and API access that allow traders to implement and automate strategies like Average Up. Their services support a wide [range](../r/range.md) of assets and sophisticated [trading algorithms](../t/trading_algorithms.md).
+#### [Interactive Brokers](../i/interactive_brokers.md) offers powerful automation tools and API access that allow traders to implement and automate strategies like Average Up. Their services support a wide [range](../r/range.md) of assets and sophisticated [trading algorithms](../t/trading_algorithms.md).
 
 ### Alpaca
 
-#### https://alpaca.markets/
-[Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API that is ideal for implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. With support for Python and comprehensive documentation, developers can create and deploy Average Up strategies with ease.
+#### [Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API that is ideal for implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. With support for Python and comprehensive documentation, developers can create and deploy Average Up strategies with ease.
 
 ## Conclusion
 
-The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising [stocks](../s/stock.md), traders can [leverage](../l/leverage.md) [market](../m/market.md) [momentum](../m/momentum.md) to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to [best practices](../b/best_practices.md) to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](../q/quantconnect.md), [Interactive Brokers](../i/interactive_brokers.md), and [Alpaca](../a/alpaca.md)—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).
+The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising [stocks](../s/stock.md), traders can [leverage](../l/leverage.md) [market](../m/market.md) [momentum](../m/momentum.md) to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to [best practices](../b/best_practices.md) to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [StockSharp](../s/stocksharp.md), [Interactive Brokers](../i/interactive_brokers.md), and [Alpaca](../a/alpaca.md)—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).

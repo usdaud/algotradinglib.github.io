@@ -16,7 +16,7 @@ By the mid-2010s, there were growing calls to update NAFTA to reflect the changi
 One of the primary objectives of the U.S.-Mexico [Trade](../t/trade.md) Agreement is to update and streamline tariffs and [trade](../t/trade.md) regulations between the two nations. Key changes include:
 
 - **Elimination of Tariffs:** Many tariffs on goods traded between the U.S. and Mexico have been reduced or eliminated, fostering more accessible [market](../m/market.md) conditions. This particularly affects sectors like agriculture, automotive, and [consumer goods](../c/consumer_goods.md).
-  
+
 - **Rules of Origin:** The agreement strengthens rules of origin provisions, especially for the automotive sector. A substantial percentage of vehicle parts must be manufactured in North America to qualify for [tariff](../t/tariff.md)-free status.
 
 ### Labor and Environmental Standards
@@ -30,14 +30,14 @@ The U.S.-Mexico [Trade](../t/trade.md) Agreement includes [robust](../r/robust.m
 In response to the digital [economy](../e/economy.md), the agreement modernizes intellectual property (IP) protections and enhances frameworks for digital [trade](../t/trade.md):
 
 - **IP Protections:** Extended [patent](../p/patent.md) terms, enhanced [copyright](../c/copyright.md) protections, and strict enforcement mechanisms to protect innovations in pharmaceuticals, technology, and creative industries.
-  
+
 - **Digital [Trade](../t/trade.md):** Provisions for the free flow of digital goods and services across borders, prohibitions on data localization requirements, and safeguards for cybersecurity.
 
 ### Dispute Resolution Mechanisms
 To ensure effective enforcement and resolve [trade](../t/trade.md) disputes, the U.S.-Mexico [Trade](../t/trade.md) Agreement incorporates several dispute resolution mechanisms:
 
 - **State-to-State Dispute Settlement:** Procedures for resolving disputes between the signatory governments.
-  
+
 - **[Investor](../i/investor.md)-State Dispute Settlement (ISDS):** Limited ISDS provisions applicable primarily to specific sectors such as energy and telecommunications, allowing investors to bring claims against the host nation for unfair treatment.
 
 ## Economic Impact
@@ -46,7 +46,7 @@ To ensure effective enforcement and resolve [trade](../t/trade.md) disputes, the
 Since the implementation of the U.S.-Mexico [Trade](../t/trade.md) Agreement, [bilateral trade](../b/bilateral_trade.md) has seen significant growth. The agreement's reduction in [trade](../t/trade.md) barriers has facilitated increased cross-border [commerce](../c/commerce.md), benefiting diverse sectors:
 
 - **Automotive [Industry](../i/industry.md):** The stringent rules of origin have bolstered North American production of automotive parts and vehicles, creating jobs and promoting technological innovation.
-  
+
 - **Agricultural [Trade](../t/trade.md):** U.S. and Mexican agricultural producers have gained easier access to each other's markets, enhancing the competitiveness of agricultural goods and fostering food [security](../s/security.md).
 
 ### Investment Flows
@@ -56,7 +56,7 @@ The agreement has also positively influenced investment flows between the two na
 While the U.S.-Mexico [Trade](../t/trade.md) Agreement has driven [economic growth](../e/economic_growth.md), it has also prioritized social and environmental standards. Improved labor rights and environmental protections ensure that the benefits of [trade](../t/trade.md) are more equitably distributed and sustainable:
 
 - **Fair Labor Practices:** Enhanced labor rights have improved working conditions and wages for workers in both countries, particularly in [manufacturing](../m/manufacturing.md) sectors.
-  
+
 - **Sustainable Development:** Environmental provisions have led to collaborative efforts to address cross-border environmental challenges, promoting sustainable development.
 
 ## Controversies and Criticisms

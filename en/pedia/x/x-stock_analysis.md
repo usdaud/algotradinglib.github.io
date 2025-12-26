@@ -93,21 +93,20 @@ Algo trading is subject to strict regulatory oversight to prevent [market manipu
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is one of the most famous [quantitative hedge funds](../q/quantitative_hedge_funds.md) that leverages sophisticated algorithms to achieve remarkable returns. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to analyze and [trade](../t/trade.md) a wide array of financial instruments. [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, founded by Jim Simons, is one of the most famous [quantitative hedge funds](../q/quantitative_hedge_funds.md) that leverages sophisticated algorithms to achieve remarkable returns. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to analyze and [trade](../t/trade.md) a wide array of financial instruments. Renaissance Technologies
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that applies [data science](../d/data_science_in_trading.md) and technology to [financial markets](../f/financial_market.md). The [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced techniques to devise innovative [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
+Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that applies [data science](../d/data_science_in_trading.md) and technology to [financial markets](../f/financial_market.md). The [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced techniques to devise innovative [trading strategies](../t/trading_strategies.md). Two Sigma
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management is known for its quantitatively-driven approaches to [asset management](../a/asset_management.md). The [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) to capture various [risk](../r/risk.md) premiums and deliver consistent returns across different [market](../m/market.md) conditions. [AQR Capital Management](https://www.aqr.com)
+AQR [Capital](../c/capital.md) Management is known for its quantitatively-driven approaches to [asset management](../a/asset_management.md). The [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) to capture various [risk](../r/risk.md) premiums and deliver consistent returns across different [market](../m/market.md) conditions. AQR Capital Management
 
 ### Citadel
 
-Citadel is a global financial institution that leverages technology to optimize trading and investment strategies. The [firm](../f/firm.md)'s [quantitative research](../q/quantitative_research.md) and high-frequency trading units use extensive data analysis and algorithm development to drive their trading decisions. [Citadel](https://www.citadel.com)
+Citadel is a global financial institution that leverages technology to optimize trading and investment strategies. The [firm](../f/firm.md)'s [quantitative research](../q/quantitative_research.md) and high-frequency trading units use extensive data analysis and algorithm development to drive their trading decisions. Citadel
 
 ## Conclusion
 
 X-[Stock Analysis](../s/stock_analysis.md) represents the cutting-edge of modern [trading strategies](../t/trading_strategies.md), marrying the power of data with sophisticated algorithms to achieve superior trading outcomes. While it offers significant advantages in terms of speed, precision, and [scalability](../s/scalability.md), it also presents unique challenges that must be carefully managed. As technology continues to evolve, the future of X-[Stock Analysis](../s/stock_analysis.md) [will](../w/will.md) likely see even greater integration of AI, [machine learning](../m/machine_learning.md), and real-time data processing, pushing the boundaries of what is possible in the [financial markets](../f/financial_market.md).
-

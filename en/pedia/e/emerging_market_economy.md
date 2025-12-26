@@ -16,12 +16,12 @@ Many emerging markets undertake significant economic reforms to [open](../o/open
 - **Liberalization of [Business](../b/business.md) Regulations**: Reducing state control over economic activities.
 - **[Privatization](../p/privatization.md)**: Moving from state-owned enterprises to private ownership.
 - **Financial Reforms**: Development and modernization of financial sectors to facilitate [business](../b/business.md) operations and investments.
-  
+
 ### Integration with Global Economy
 
 Emerging markets typically integrate more rapidly with the global [economy](../e/economy.md) through [trade](../t/trade.md) agreements, reductions in tariffs, and joining international financial institutions. The benefits are often seen in terms of increased foreign [direct investment](../d/direct_investment.md) (FDI) flows, which helps to stimulate [economic growth](../e/economic_growth.md) and development.
 
-### Urbanization 
+### Urbanization
 
 Urbanization is a common [trend](../t/trend.md) in emerging markets. As economies develop, people move from rural to urban areas in search of better job opportunities and living standards. This creates both opportunities and challenges for urban [infrastructure](../i/infrastructure.md), housing, and public services.
 
@@ -39,19 +39,16 @@ Brazil, as one of the BRICS nations, represents a significant EME with vast natu
 
 India’s [economy](../e/economy.md) is characterized by growth in IT & services, [manufacturing](../m/manufacturing.md), and a large agricultural sector. Economic reforms in the 1990s unleashed rapid growth, and India is now one of the world's fastest-growing economies. The Make in India initiative and digitalization efforts have significantly contributed to its emerging [market](../m/market.md) status.
 
-- Website: [Ministry of Commerce and Industry, India](https://commerce.gov.in/)
 
 ### China
 
 China is often considered an emerging [market](../m/market.md) even though it has the second-largest [economy](../e/economy.md) in the world. Its growth driven by [manufacturing](../m/manufacturing.md), technology, and exports has transformed it into a global economic powerhouse. Economic reforms initiated in the late 20th century were pivotal in propelling its growth.
 
-- Website: [Ministry of Commerce, China](http://english.mofcom.gov.cn/)
 
 ### South Africa
 
 South Africa is another key example of an EME, often highlighted within the context of the BRICS countries. Its [economy](../e/economy.md) is diversified with key sectors including [mining](../m/mining.md), [manufacturing](../m/manufacturing.md), and services. However, the country also faces challenges related to inequality, [unemployment](../u/unemployment.md), and economic policy reforms.
 
-- Website: [South African Government](https://www.gov.za/)
 
 ## Investing in Emerging Market Economies
 

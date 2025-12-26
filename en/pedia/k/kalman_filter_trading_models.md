@@ -11,60 +11,60 @@ The [Kalman Filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Kal
 The [Kalman Filter](../k/kalman_filter_in_trading.md) is based on linear dynamic systems discretized in the time domain. The system is modeled on a Markov process governed by the following state-space equations:
 
 1. **State Equation**:
-    \[
-    x_{k+1} = A x_k + B u_k + w_k
-    \]
-   where:
-   - \(x_k\) = state vector at time \(k\)
-   - \(A\) = state transition matrix
-   - \(B\) = control input matrix
-   - \(u_k\) = control vector
-   - \(w_k\) = process [noise](../n/noise.md) vector, assumed to be normally distributed with mean zero and [covariance](../c/covariance.md) \(Q\)
+ \[
+ x_{k+1} = A x_k + B u_k + w_k
+ \]
+ where:
+ - \(x_k\) = state vector at time \(k\)
+ - \(A\) = state transition matrix
+ - \(B\) = control input matrix
+ - \(u_k\) = control vector
+ - \(w_k\) = process [noise](../n/noise.md) vector, assumed to be normally distributed with mean zero and [covariance](../c/covariance.md) \(Q\)
 
 2. **Measurement Equation**:
-    \[
-    z_k = H x_k + v_k
-    \]
-   where:
-   - \(z_k\) = measurement vector at time \(k\)
-   - \(H\) = measurement matrix
-   - \(v_k\) = measurement [noise](../n/noise.md) vector, assumed to be normally distributed with mean zero and [covariance](../c/covariance.md) \(R\)
+ \[
+ z_k = H x_k + v_k
+ \]
+ where:
+ - \(z_k\) = measurement vector at time \(k\)
+ - \(H\) = measurement matrix
+ - \(v_k\) = measurement [noise](../n/noise.md) vector, assumed to be normally distributed with mean zero and [covariance](../c/covariance.md) \(R\)
 
 ### Kalman Filter Equations
 
 The [Kalman Filter](../k/kalman_filter_in_trading.md) algorithm involves two steps: Predict and Update.
 
 1. **Predict**:
-    - Prior State Estimate:
-      \[
-      \hat{x}_{k|k-1} = A \hat{x}_{k-1|k-1} + B u_k
-      \]
-    - Prior [Covariance](../c/covariance.md) Estimate:
-      \[
-      P_{k|k-1} = A P_{k-1|k-1} A^T + Q
-      \]
+ - Prior State Estimate:
+ \[
+ \hat{x}_{k|k-1} = A \hat{x}_{k-1|k-1} + B u_k
+ \]
+ - Prior [Covariance](../c/covariance.md) Estimate:
+ \[
+ P_{k|k-1} = A P_{k-1|k-1} A^T + Q
+ \]
 
 2. **Update**:
-    - Innovation or Measurement Residual:
-      \[
-      y_k = z_k - H \hat{x}_{k|k-1}
-      \]
-    - Innovation [Covariance](../c/covariance.md):
-      \[
-      S_k = H P_{k|k-1} H^T + R
-      \]
-    - Optimal [Kalman Gain](../k/kalman_gain_in_trading.md):
-      \[
-      K_k = P_{k|k-1} H^T S_k^{-1}
-      \]
-    - Updated State Estimate:
-      \[
-      \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k y_k
-      \]
-    - Updated [Covariance](../c/covariance.md) Estimate:
-      \[
-      P_{k|k} = (I - K_k H) P_{k|k-1}
-      \]
+ - Innovation or Measurement Residual:
+ \[
+ y_k = z_k - H \hat{x}_{k|k-1}
+ \]
+ - Innovation [Covariance](../c/covariance.md):
+ \[
+ S_k = H P_{k|k-1} H^T + R
+ \]
+ - Optimal [Kalman Gain](../k/kalman_gain_in_trading.md):
+ \[
+ K_k = P_{k|k-1} H^T S_k^{-1}
+ \]
+ - Updated State Estimate:
+ \[
+ \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k y_k
+ \]
+ - Updated [Covariance](../c/covariance.md) Estimate:
+ \[
+ P_{k|k} = (I - K_k H) P_{k|k-1}
+ \]
 
 ## Kalman Filter in Trading
 
@@ -74,30 +74,30 @@ In [financial markets](../f/financial_market.md), Kalman Filters are used to est
 
 1. **[Mean Reversion](../m/mean_reversion.md) Strategy**
 
-   Kalman Filters are effective in modeling mean-reverting behavior of financial instruments. In a mean-reversion strategy, the filter can estimate the mean [value](../v/value.md), deviation, and the speed at which prices revert to the mean. 
+ Kalman Filters are effective in modeling mean-reverting behavior of financial instruments. In a mean-reversion strategy, the filter can estimate the mean [value](../v/value.md), deviation, and the speed at which prices revert to the mean.
 
-   **Implementation Steps:**
-   - Model the price or spread as a state-space system.
-   - Utilize the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the mean and variance.
-   - Generate [trading signals](../t/trading_signals.md) when the observed [value](../v/value.md) deviates significantly from the estimated mean.
+ **Implementation Steps:**
+ - Model the price or spread as a state-space system.
+ - Utilize the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the mean and variance.
+ - Generate [trading signals](../t/trading_signals.md) when the observed [value](../v/value.md) deviates significantly from the estimated mean.
 
 2. **Pair Trading**
 
-   Pair trading involves trading two correlated securities. The [Kalman Filter](../k/kalman_filter_in_trading.md) can dynamically estimate the relationship between the prices of the two securities, capturing the co-integrated spread.
+ Pair trading involves trading two correlated securities. The [Kalman Filter](../k/kalman_filter_in_trading.md) can dynamically estimate the relationship between the prices of the two securities, capturing the co-integrated spread.
 
-   **Implementation Steps:**
-   - Use a state-space model to describe the spread between the two securities.
-   - Apply the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the parameters of the spread.
-   - Initiate long/short positions when the spread moves away from its estimated [equilibrium](../e/equilibrium.md).
+ **Implementation Steps:**
+ - Use a state-space model to describe the spread between the two securities.
+ - Apply the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the parameters of the spread.
+ - Initiate long/short positions when the spread moves away from its estimated [equilibrium](../e/equilibrium.md).
 
 3. **[Trend Following](../t/trend_following.md) Strategy**
 
-   [Trend following](../t/trend_following.md) strategies seek to [capitalize](../c/capitalize.md) on [market](../m/market.md) [momentum](../m/momentum.md). Kalman Filters can smooth price series and capture [underlying](../u/underlying.md) trends by filtering out short-term fluctuations.
+ [Trend following](../t/trend_following.md) strategies seek to [capitalize](../c/capitalize.md) on [market](../m/market.md) [momentum](../m/momentum.md). Kalman Filters can smooth price series and capture [underlying](../u/underlying.md) trends by filtering out short-term fluctuations.
 
-   **Implementation Steps:**
-   - Model the price series with a state-space model incorporating the [trend](../t/trend.md) component.
-   - Use the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the [trend](../t/trend.md) and residual [noise](../n/noise.md).
-   - Generate [trading signals](../t/trading_signals.md) based on the direction and strength of the [trend](../t/trend.md) estimate.
+ **Implementation Steps:**
+ - Model the price series with a state-space model incorporating the [trend](../t/trend.md) component.
+ - Use the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the [trend](../t/trend.md) and residual [noise](../n/noise.md).
+ - Generate [trading signals](../t/trading_signals.md) based on the direction and strength of the [trend](../t/trend.md) estimate.
 
 ### Case Study: Kalman Filter for ETF Trading
 
@@ -115,15 +115,15 @@ In [financial markets](../f/financial_market.md), Kalman Filters are used to est
 Several tools and libraries facilitate the implementation of [Kalman Filter](../k/kalman_filter_in_trading.md) [Trading Models](../t/trading_models.md). These include:
 
 1. **Python**:
-   - `pykalman` - A library that implements Kalman Filters in Python.
-   - `filterpy` - Another Python library for Kalman filtering and related optimal estimation methods.
+ - `pykalman` - A library that implements Kalman Filters in Python.
+ - `filterpy` - Another Python library for Kalman filtering and related optimal estimation methods.
 
 2. **R**:
-   - `dlm` - R package for Bayesian and likelihood analysis of dynamic [linear models](../l/linear_models_in_trading.md).
-   - `KFAS` - R package for state-space modeling in [statistics](../s/statistics.md).
+ - `dlm` - R package for Bayesian and likelihood analysis of dynamic [linear models](../l/linear_models_in_trading.md).
+ - `KFAS` - R package for state-space modeling in [statistics](../s/statistics.md).
 
 3. **MATLAB**:
-   - MATLAB's built-in functions support state-space modeling and Kalman filtering.
+ - MATLAB's built-in functions support state-space modeling and Kalman filtering.
 
 ### Example Code in Python
 
@@ -168,11 +168,11 @@ plt.show()
 
 Several financial institutions and [hedge](../h/hedge.md) funds utilize [Kalman Filter](../k/kalman_filter_in_trading.md) models in their [trading algorithms](../t/trading_algorithms.md). These include:
 
-- **J.P. Morgan**: Incorporates advanced filtering techniques, including Kalman Filters, for [asset management](../a/asset_management.md) and [proprietary trading](../p/proprietary_trading.md) [J.P. Morgan Asset Management](https://am.jpmorgan.com).
+- **J.P. Morgan**: Incorporates advanced filtering techniques, including Kalman Filters, for [asset management](../a/asset_management.md) and [proprietary trading](../p/proprietary_trading.md) J.P. Morgan Asset Management.
 
-- **Goldman Sachs**: Utilizes [mathematical models](../m/mathematical_models_in_trading.md) and Kalman Filters for [quantitative trading](../q/quantitative_trading.md) strategies [Goldman Sachs](https://www.goldmansachs.com).
+- **Goldman Sachs**: Utilizes [mathematical models](../m/mathematical_models_in_trading.md) and Kalman Filters for [quantitative trading](../q/quantitative_trading.md) strategies Goldman Sachs.
 
-- **Two Sigma**: Employs sophisticated models, including state-space techniques, in their [algorithmic trading](../a/algorithmic_trading.md) [Two Sigma](https://www.twosigma.com).
+- **Two Sigma**: Employs sophisticated models, including state-space techniques, in their [algorithmic trading](../a/algorithmic_trading.md) Two Sigma.
 
 ## Conclusion
 

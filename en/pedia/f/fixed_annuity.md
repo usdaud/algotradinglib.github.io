@@ -117,11 +117,11 @@ With various [payout](../p/payout.md) [options](../o/options.md), fixed annuitie
 
 There are numerous established companies that [offer](../o/offer.md) fixed annuity products, each with its own set of features and benefits. Here are a few reputable providers:
 
-- **New York [Life Insurance](../l/life_insurance.md) Company**: [New York Life Annuities](https://www.newyorklife.com/products/annuities)
-- **Lincoln Financial Group**: [Lincoln Financial Annuities](https://www.lfg.com/public/individual/annuities)
-- **Pacific [Life Insurance](../l/life_insurance.md) Company**: [Pacific Life Annuities](https://www.pacificlife.com/annuities.html)
-- **Allianz [Life Insurance](../l/life_insurance.md) Company of North America**: [Allianz Annuities](https://www.allianzlife.com/annuities)
-- **Prudential Financial**: [Prudential Annuities](https://www.prudential.com/annuities)
+- **New York [Life Insurance](../l/life_insurance.md) Company**: New York Life Annuities
+- **Lincoln Financial Group**: Lincoln Financial Annuities
+- **Pacific [Life Insurance](../l/life_insurance.md) Company**: Pacific Life Annuities
+- **Allianz [Life Insurance](../l/life_insurance.md) Company of North America**: Allianz Annuities
+- **Prudential Financial**: Prudential Annuities
 
 These providers are known for their financial stability, [range](../r/range.md) of product offerings, and [customer service](../c/customer_service.md).
 

@@ -13,7 +13,7 @@ When a [business](../b/business.md) sets up a lockbox service with a [bank](../b
 
 ## Benefits of Lockbox Banking
 
-1. **Acceleration of Receivables**: By reducing the time it takes for payments to be processed and cleared, businesses can increase their [cash flow](../c/cash_flow.md) [efficiency](../e/efficiency.md). 
+1. **Acceleration of Receivables**: By reducing the time it takes for payments to be processed and cleared, businesses can increase their [cash flow](../c/cash_flow.md) [efficiency](../e/efficiency.md).
 2. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Automating the [payment](../p/payment.md) collection process saves the [business](../b/business.md) time and reduces the need for manual processing.
 3. **Reduction in Mail Time**: Because banks often have [multiple](../m/multiple.md) lockbox locations around the country, customers can send payments to the nearest location, reducing mail transit time.
 4. **Enhanced [Security](../s/security.md)**: Banks have [robust](../r/robust.md) systems in place to ensure that the handling and processing of checks are secure, reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md) or theft.
@@ -41,7 +41,7 @@ When a [business](../b/business.md) decides to implement a lockbox banking syste
 
 ## Real-World Applications
 
-Several large banks in the United States, such as Wells Fargo ([Wells Fargo Lockbox Services](https://www.wellsfargo.com/biz/treasury-management/treasury/payables-and-disbursements/lockbox-services)) and [Bank](../b/bank.md) of America ([Bank of America Lockbox Services](https://www.bofaml.com/en-us/content/working-treasury-lockbox.html)), [offer](../o/offer.md) comprehensive lockbox services catering to the needs of diverse businesses. These banks provide sophisticated technology platforms that enable clients to track their payments in real-time and quickly reconcile their accounts. Additionally, Fintech companies are also beginning to innovate in this area by [offering](../o/offering.md) digital lockbox services, bringing the traditional lockbox model into the digital age.
+Several large banks in the United States, such as Wells Fargo (Wells Fargo Lockbox Services) and [Bank](../b/bank.md) of America (Bank of America Lockbox Services), [offer](../o/offer.md) comprehensive lockbox services catering to the needs of diverse businesses. These banks provide sophisticated technology platforms that enable clients to track their payments in real-time and quickly reconcile their accounts. Additionally, Fintech companies are also beginning to innovate in this area by [offering](../o/offering.md) digital lockbox services, bringing the traditional lockbox model into the digital age.
 
 ## Advancements and Future Trends
 

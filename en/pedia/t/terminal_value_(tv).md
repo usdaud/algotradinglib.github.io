@@ -20,7 +20,7 @@ There are two main methods to calculate terminal [value](../v/value.md): the [Pe
 
 The [Perpetuity](../p/perpetuity.md) Growth Model is based on the assumption that the company [will](../w/will.md) continue to generate cash flows at a constant growth rate indefinitely. The formula is:
 
-\[ 
+\[
 TV = \frac{FCF_{n} \times (1 + g)}{(r - g)}
 \]
 
@@ -34,7 +34,7 @@ The perpetual growth rate should be conservative, typically aligned with the lon
 
 The Exit [Multiple](../m/multiple.md) Method involves applying a [multiple](../m/multiple.md) to the company’s financial metrics such as EBITDA, EBIT, or [revenue](../r/revenue.md) at the end of the forecast period. The formula is:
 
-\[ 
+\[
 TV = Metric_{n} \times [Multiple](../m/multiple.md)
 \]
 

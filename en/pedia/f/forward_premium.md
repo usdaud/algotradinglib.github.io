@@ -10,7 +10,7 @@ A forward [premium](../p/premium.md) occurs when you agree to buy or sell a [cur
 
 The forward [premium](../p/premium.md) can be calculated using the formula:
 
-\[ \text{Forward [Premium](../p/premium.md)} = \left( \frac{F - S}{S} \right) \times  \frac{360}{n}  \times  100\% \]
+\[ \text{Forward [Premium](../p/premium.md)} = \left( \frac{F - S}{S} \right) \times \frac{360}{n} \times 100\% \]
 
 Where:
 - \( F \) = Forward [exchange rate](../e/exchange_rate.md)
@@ -31,7 +31,7 @@ Here:
 - \( F \) = Forward [exchange rate](../e/exchange_rate.md)
 - \( S \) = [Spot exchange rate](../s/spot_exchange_rate.md)
 
-[Interest rate parity](../i/interest_rate_parity.md) is a foundational principle that ensures there is no [arbitrage](../a/arbitrage.md) opportunity in the [currency](../c/currency.md) markets. 
+[Interest rate parity](../i/interest_rate_parity.md) is a foundational principle that ensures there is no [arbitrage](../a/arbitrage.md) opportunity in the [currency](../c/currency.md) markets.
 
 ## Practical Applications
 
@@ -83,8 +83,8 @@ The [liquidity](../l/liquidity.md) of [forward contracts](../f/forward_contracts
 In summary, the forward [premium](../p/premium.md) is a fundamental concept in forex trading, reflecting expectations about future [currency](../c/currency.md) movements and [interest rate](../i/interest_rate.md) differentials. Understanding and utilizing forward premiums can significantly enhance the ability to manage [risk](../r/risk.md) and seize opportunities in the dynamic world of [currency](../c/currency.md) markets.
 
 For more in-depth resources and applications, you can visit financial institutions that [offer](../o/offer.md) detailed analytics and trading platforms such as:
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [Citibank](https://www.citigroup.com)
-- [J.P. Morgan](https://www.jpmorgan.com)
+- Goldman Sachs
+- Citibank
+- J.P. Morgan
 
 These institutions provide a [wealth](../w/wealth.md) of information and tools tailored for both retail and professional traders.

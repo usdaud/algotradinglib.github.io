@@ -33,19 +33,15 @@ Cumulative [Volume](../v/volume.md) [Delta](../d/delta.md) is an [indicator](../
 
 ### TradingView
 [TradingView](../t/tradingview.md) offers advanced charting tools and indicators, including [Volume Profile](../v/volume_profile.md) and VWAP, allowing traders to perform in-depth [volume analysis](../v/volume_analysis.md) directly on their trading charts.
-[TradingView](https://www.tradingview.com)
 
 ### Sierra Chart
 [Sierra Chart](../s/sierra_chart.md) is a professional [trading platform](../t/trading_platform.md) that provides comprehensive [volume analysis](../v/volume_analysis.md) tools, including detailed [Volume Profile](../v/volume_profile.md) and [Order](../o/order.md) Flow functionalities.
-[Sierra Chart](https://www.sierrachart.com)
 
 ### NinjaTrader
 [NinjaTrader](../n/ninjatrader.md) offers advanced [order](../o/order.md) flow and [volume analysis](../v/volume_analysis.md) tools, including [Market Depth](../m/market_depth.md) and Time and Sales indicators, helping traders make informed decisions based on [volume](../v/volume.md) data.
-[NinjaTrader](https://ninjatrader.com)
 
 ### Quantower
 Quantower is a multi-[asset](../a/asset.md) platform [offering](../o/offering.md) advanced [volume analysis](../v/volume_analysis.md) tools, such as [Volume Profile](../v/volume_profile.md), VWAP, and advanced [order flow analysis](../o/order_flow_analysis.md) features.
-[Quantower](https://www.quantower.com)
 
 ## Applications of X-Volume Analysis
 

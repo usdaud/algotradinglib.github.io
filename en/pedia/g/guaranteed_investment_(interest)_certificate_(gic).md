@@ -64,11 +64,11 @@ When you invest in a GIC, you are essentially lending [money](../m/money.md) to 
 
 ### GIC Providers and References
 
-- **Royal [Bank](../b/bank.md) of Canada (RBC)**: [RBC GICs](https://www.rbcroyalbank.com/investments/gic.html)
-- **TD [Bank](../b/bank.md)**: [TD GICs](https://www.td.com/ca/en/investing/products/gic/)
-- **Scotiabank**: [Scotiabank GICs](https://www.scotiabank.com/ca/en/personal/investments/growth/investment-accounts/gic.html)
-- **CIBC**: [CIBC GICs](https://www.cibc.com/en/personal-banking/investments/guaranteed-investment-certificate-gic.html)
-- **[Bank](../b/bank.md) of Montreal (BMO)**: [BMO GICs](https://www.bmo.com/main/personal/investments/gics/)
+- **Royal [Bank](../b/bank.md) of Canada (RBC)**: RBC GICs
+- **TD [Bank](../b/bank.md)**: TD GICs
+- **Scotiabank**: Scotiabank GICs
+- **CIBC**: CIBC GICs
+- **[Bank](../b/bank.md) of Montreal (BMO)**: BMO GICs
 
 ### Conclusion
 

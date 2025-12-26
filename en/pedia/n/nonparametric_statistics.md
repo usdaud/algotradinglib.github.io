@@ -38,11 +38,11 @@ Traditional models like Black-Scholes assume normal log-returns, which might not
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems often employ [machine learning](../m/machine_learning.md) and high-frequency [trading strategies](../t/trading_strategies.md). Nonparametric [regression methods](../r/regression_methods_in_trading.md), like kernel regression or k-nearest neighbors (k-NN), are applied to forecast price movements and generate [trading signals](../t/trading_signals.md). [Machine learning](../m/machine_learning.md) models, such as [random forests](../r/random_forests_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), also benefit from nonparametric strategies to achieve a high degree of accuracy without distributional assumptions.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often employ [machine learning](../m/machine_learning.md) and high-frequency [trading strategies](../t/trading_strategies.md). Nonparametric [regression methods](../r/regression_methods_in_trading.md), like kernel regression or k-nearest neighbors (k-NN), are applied to forecast price movements and generate [trading signals](../t/trading_signals.md). [Machine learning](../m/machine_learning.md) models, such as [random forests](../r/random_forests_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), also benefit from nonparametric strategies to achieve a high degree of accuracy without distributional assumptions.
 
 ## Practical Example: Algorithmic Trading
 
-To illustrate how nonparametric [statistics](../s/statistics.md) can be instrumental in [algorithmic trading](../a/accountability.md), consider the use of a k-NN algorithm for price prediction. The following steps demonstrate a simple implementation:
+To illustrate how nonparametric [statistics](../s/statistics.md) can be instrumental in [algorithmic trading](../a/algorithmic_trading.md), consider the use of a k-NN algorithm for price prediction. The following steps demonstrate a simple implementation:
 
 1. **Data Collection**: Gather historical price data for the [security](../s/security.md) of [interest](../i/interest.md).
 2. **Feature Engineering**: Construct relevant features (e.g., daily returns, moving averages, [momentum indicators](../m/momentum_indicators.md)).
@@ -77,4 +77,4 @@ print("Predicted Price:", predicted_price)
 
 Nonparametric [statistics](../s/statistics.md) [offer](../o/offer.md) a versatile and powerful toolkit for [financial analysis](../f/financial_analysis.md) and trading. By sidestepping stringent assumptions about data distributions, they provide more [robust](../r/robust.md) and adaptable methods for managing portfolios, evaluating risks, and building [trading algorithms](../t/trading_algorithms.md). As the financial [industry](../i/industry.md) continues to embrace transformation and innovation, the role of nonparametric methods is likely to expand, driving more sophisticated and reliable decision-making processes.
 
-For those interested in further exploration, resources such as the "[Quantitative Finance and Algorithmic Trading](https://www.quantinsti.com/)" by QuantInsti provide detailed courses and workshops to delve deeper into the practical applications of nonparametric [statistics](../s/statistics.md) in the financial world.
+For those interested in further exploration, resources such as the "Quantitative Finance and Algorithmic Trading" by QuantInsti provide detailed courses and workshops to delve deeper into the practical applications of nonparametric [statistics](../s/statistics.md) in the financial world.

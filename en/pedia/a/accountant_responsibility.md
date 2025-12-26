@@ -104,7 +104,7 @@ With increased reliance on digital technologies, accountants must prioritize cyb
 Accountants are playing a pivotal role in promoting sustainability and corporate responsibility.
 
 - **Sustainable [Accounting](../a/accounting.md):** Accountants are incorporating sustainability metrics into financial reporting, helping organizations measure and report on their environmental and social impact.
-- **Corporate Responsibility:** Accountants are involved in developing and implementing corporate responsibility strategies, including ethical [business](../b/business.md) practices, community engagement, and environmental stewardship. 
+- **Corporate Responsibility:** Accountants are involved in developing and implementing corporate responsibility strategies, including ethical [business](../b/business.md) practices, community engagement, and environmental stewardship.
 
 ## Conclusion
 

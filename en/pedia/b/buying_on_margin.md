@@ -7,7 +7,7 @@ Buying on [margin](../m/margin.md) is an advanced [investment strategy](../i/inv
 When an [investor](../i/investor.md) buys on [margin](../m/margin.md), they are essentially engaging in a [leverage](../l/leverage.md)-based [trading strategy](../t/trading_strategy.md). Here’s how it works:
 
 1. **[Margin Account](../m/margin_account.md)**: To buy on [margin](../m/margin.md), the [investor](../i/investor.md) must [open](../o/open.md) a [margin account](../m/margin_account.md) with their [broker](../b/broker.md). This account differs from a standard cash account in that it allows the [investor](../i/investor.md) to borrow funds to purchase securities.
-  
+
 2. **[Margin](../m/margin.md) [Loan](../l/loan.md)**: The [broker](../b/broker.md) loans the [investor](../i/investor.md) a portion of the purchase price. This [loan](../l/loan.md) is collateralized by the securities and cash in the [investor](../i/investor.md)'s account.
 
 3. **[Initial Margin](../i/initial_margin.md) Requirement**: The initial [deposit](../d/deposit.md) that the [investor](../i/investor.md) must put up is typically a percentage of the total purchase price, known as the [initial margin](../i/initial_margin.md) requirement. As of current U.S. regulations, this is usually 50% of the purchase price of the securities.
@@ -19,22 +19,22 @@ When an [investor](../i/investor.md) buys on [margin](../m/margin.md), they are 
 Here's a step-by-step example to illustrate the process:
 
 1. **Opening a [Margin Account](../m/margin_account.md)**:
-   - John wants to invest in XYZ [Corporation](../c/corporation.md) stock but has only $5,000.
-   - He opens a [margin account](../m/margin_account.md) with his [broker](../b/broker.md), complying with the [initial margin](../i/initial_margin.md) requirement of 50%.
+ - John wants to invest in XYZ [Corporation](../c/corporation.md) stock but has only $5,000.
+ - He opens a [margin account](../m/margin_account.md) with his [broker](../b/broker.md), complying with the [initial margin](../i/initial_margin.md) requirement of 50%.
 
 2. **Making the Purchase**:
-   - XYZ [Corporation](../c/corporation.md) stock is trading at $100 per share.
-   - With his $5,000, John can buy 100 [shares](../s/shares.md) if he uses only his cash.
-   - By buying on [margin](../m/margin.md), John can purchase up to $10,000 worth of [shares](../s/shares.md), or 200 [shares](../s/shares.md), because his [broker](../b/broker.md) loans him the additional $5,000.
+ - XYZ [Corporation](../c/corporation.md) stock is trading at $100 per share.
+ - With his $5,000, John can buy 100 [shares](../s/shares.md) if he uses only his cash.
+ - By buying on [margin](../m/margin.md), John can purchase up to $10,000 worth of [shares](../s/shares.md), or 200 [shares](../s/shares.md), because his [broker](../b/broker.md) loans him the additional $5,000.
 
 3. **[Margin](../m/margin.md) [Loan](../l/loan.md)**:
-   - John now owns 200 [shares](../s/shares.md) of XYZ [Corporation](../c/corporation.md) stock, having invested only $5,000 of his own [money](../m/money.md), with the remaining $5,000 borrowed from his [broker](../b/broker.md).
-   - The [value](../v/value.md) of the purchased stock collateralizes the [loan](../l/loan.md).
+ - John now owns 200 [shares](../s/shares.md) of XYZ [Corporation](../c/corporation.md) stock, having invested only $5,000 of his own [money](../m/money.md), with the remaining $5,000 borrowed from his [broker](../b/broker.md).
+ - The [value](../v/value.md) of the purchased stock collateralizes the [loan](../l/loan.md).
 
 4. **[Profit](../p/profit.md) and Loss**:
-   - If the stock price rises to $150 per share, John’s 200 [shares](../s/shares.md) are now worth $30,000.
-   - After repaying the $5,000 [loan](../l/loan.md), John is left with $25,000, excluding [interest](../i/interest.md) and fees, resulting in a significant [profit](../p/profit.md) over his initial $10,000 outlay.
-   - Conversely, if the stock price drops to $75 per share, his 200 [shares](../s/shares.md) are now worth just $15,000. After repaying the $5,000 [margin](../m/margin.md) [loan](../l/loan.md), John has a loss.
+ - If the stock price rises to $150 per share, John’s 200 [shares](../s/shares.md) are now worth $30,000.
+ - After repaying the $5,000 [loan](../l/loan.md), John is left with $25,000, excluding [interest](../i/interest.md) and fees, resulting in a significant [profit](../p/profit.md) over his initial $10,000 outlay.
+ - Conversely, if the stock price drops to $75 per share, his 200 [shares](../s/shares.md) are now worth just $15,000. After repaying the $5,000 [margin](../m/margin.md) [loan](../l/loan.md), John has a loss.
 
 ## Risks and Benefits
 
@@ -80,7 +80,7 @@ The practice of buying on [margin](../m/margin.md) is subject to regulatory over
 2. **[Margin](../m/margin.md) Requirements**: These agencies set the initial and [maintenance margin](../m/maintenance_margin.md) requirements to control the amount of [leverage](../l/leverage.md) investors can employ.
 3. **[Investor](../i/investor.md) Suitability**: Brokers assess [investor](../i/investor.md) suitability for [margin](../m/margin.md) accounts, ensuring that only those with adequate [risk tolerance](../r/risk_tolerance.md) and understanding engage in [margin trading](../m/margin_trading.md).
 
-Firms like the Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) provide clear guidelines on [margin](../m/margin.md) requirements and trading practices which can be reviewed here: [FINRA](https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210).
+Firms like the Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) provide clear guidelines on [margin](../m/margin.md) requirements and trading practices which can be reviewed here: FINRA.
 
 ## Conclusion
 

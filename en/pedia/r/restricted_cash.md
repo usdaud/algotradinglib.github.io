@@ -57,7 +57,6 @@ Alphabet Inc., the [parent company](../p/parent_company.md) of Google, often rep
 
 Tesla's [financial statements](../f/financial_statements.md) often reflect restricted cash due to its international operations. In its 2022 [annual report](../a/annual_report.md), Tesla reported restricted cash related to certain [credit](../c/credit.md) agreements with Chinese financial institutions requiring them to [hold](../h/hold.md) cash reserves to secure these [obligations](../o/obligation.md).
 
-* More information: [Alphabet Investor Relations](https://abc.xyz/investor/), [Tesla Investor Relations](https://ir.tesla.com/)
 
 ## Importance of Understanding Restricted Cash
 

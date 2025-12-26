@@ -9,14 +9,14 @@ A [credit](../c/credit.md) [facility](../f/facility.md) is a type of [loan](../l
 A [revolving credit](../r/revolving_credit.md) [facility](../f/facility.md) allows the borrower to withdraw, repay, and redraw funds, up to a pre-approved [credit limit](../c/credit_limit.md). This type of [facility](../f/facility.md) is akin to a [credit card](../c/credit_card.md) but typically preferred by businesses for its larger limits and lower [interest](../i/interest.md) rates. It provides a flexible way of accessing funding and is commonly used for working [capital](../c/capital.md) needs.
 
 **Example:**
-HSBC offers a variety of [revolving credit](../r/revolving_credit.md) facilities to businesses of different sizes. For more information, visit [HSBC Revolving Credit](https://www.hsbc.com/).
+HSBC offers a variety of [revolving credit](../r/revolving_credit.md) facilities to businesses of different sizes. For more information, visit HSBC Revolving Credit.
 
 ### 2. Term Loan
 
 A [term loan](../t/term_loan.md) is a [credit](../c/credit.md) [facility](../f/facility.md) where the borrower receives a lump sum of [money](../m/money.md) upfront and agrees to repay over a fixed period with [interest](../i/interest.md). These loans are generally used for [capital expenditure](../c/capital_expenditure.md) or [long-term investments](../l/long-term_investments.md).
 
 **Example:**
-Wells Fargo offers term loans tailored to small and large businesses. More details can be found on [Wells Fargo Term Loans](https://www.wellsfargo.com/).
+Wells Fargo offers term loans tailored to small and large businesses. More details can be found on Wells Fargo Term Loans.
 
 ### 3. Swingline Loan
 
@@ -27,14 +27,14 @@ A [swingline loan](../s/swingline_loan.md) is a short-[term loan](../t/term_loan
 Letters of [credit](../c/credit.md) are a guarantee that a [bank](../b/bank.md) provides on behalf of a client, ensuring the seller [will](../w/will.md) receive [payment](../p/payment.md) as long as the delivery conditions are met. This type of [credit](../c/credit.md) [facility](../f/facility.md) is essential in international [trade](../t/trade.md) to mitigate risks related to sales.
 
 **Example:**
-Citibank offers Letters of [Credit](../c/credit.md) to facilitate international [trade](../t/trade.md). More details are available at [Citi Trade Services](https://www.citibank.com/).
+Citibank offers Letters of [Credit](../c/credit.md) to facilitate international [trade](../t/trade.md). More details are available at Citi Trade Services.
 
 ### 5. Equipment Financing
 
 Equipment [financing](../f/financing.md) is a [credit](../c/credit.md) [facility](../f/facility.md) specific to the purchase of machinery and equipment. The [loan](../l/loan.md)’s [collateral](../c/collateral.md) is typically the equipment itself, [offering](../o/offering.md) businesses a way to [fund](../f/fund.md) necessary assets without significant upfront costs.
 
 **Example:**
-J.P. Morgan provides equipment [financing](../f/financing.md) solutions to businesses. For more information, visit [J.P. Morgan Equipment Financing](https://www.jpmorgan.com/).
+J.P. Morgan provides equipment [financing](../f/financing.md) solutions to businesses. For more information, visit J.P. Morgan Equipment Financing.
 
 ### 6. Trade Finance
 
@@ -45,7 +45,7 @@ J.P. Morgan provides equipment [financing](../f/financing.md) solutions to busin
 An [overdraft](../o/overdraft.md) [facility](../f/facility.md) allows clients to withdraw more [money](../m/money.md) from their [bank](../b/bank.md) account than they have on [deposit](../d/deposit.md) up to a certain limit. This [facility](../f/facility.md) is useful for managing [cash flow](../c/cash_flow.md) [gaps](../g/gap.md).
 
 **Example:**
-Barclays offers [overdraft](../o/overdraft.md) facilities to businesses to manage working [capital](../c/capital.md) requirements. For more details, visit [Barclays Business Overdraft](https://www.barclays.co.uk/).
+Barclays offers [overdraft](../o/overdraft.md) facilities to businesses to manage working [capital](../c/capital.md) requirements. For more details, visit Barclays Business Overdraft.
 
 ## Structure and Terms
 

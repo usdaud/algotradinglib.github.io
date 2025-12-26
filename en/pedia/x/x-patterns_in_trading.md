@@ -47,8 +47,8 @@ To maximize the benefits of X-Patterns, they can be integrated into [algorithmic
 A high-frequency trading (HFT) [firm](../f/firm.md) specializing in equities and [derivatives](../d/derivatives.md) incorporated X-Patterns into their strategy. They developed an algorithm that could identify bullish and bearish X-Patterns in under one millisecond. Using FPGA (Field-Programmable Gate Array) technology, they achieved ultra-low latency in executing trades, allowing them to [capitalize](../c/capitalize.md) on minute price movements.
 
 **References:**
-- [Citadel Securities](https://www.citadelsecurities.com/): Known for their expertise in [market](../m/market.md)-making and advanced [trading strategies](../t/trading_strategies.md).
-- [Jane Street](https://www.janestreet.com/): Another leading [firm](../f/firm.md) utilizing sophisticated algorithms for trading.
+- Citadel Securities: Known for their expertise in [market](../m/market.md)-making and advanced [trading strategies](../t/trading_strategies.md).
+- Jane Street: Another leading [firm](../f/firm.md) utilizing sophisticated algorithms for trading.
 
 ### Challenges and Limitations
 

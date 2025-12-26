@@ -65,11 +65,11 @@ Detecting unusual patterns or anomalies in [market](../m/market.md) data can pre
 
 Several financial institutions and fintech companies implement RNNs in their [trading strategies](../t/trading_strategies.md):
 
-- **J.P. Morgan:** Through their AI research teams, J.P. Morgan has been integrating [deep learning](../d/deep_learning.md) models, including RNNs, to enhance their [trading algorithms](../t/trading_algorithms.md). [Visit J.P. Morgan](https://www.jpmorgan.com/)
+- **J.P. Morgan:** Through their AI research teams, J.P. Morgan has been integrating [deep learning](../d/deep_learning.md) models, including RNNs, to enhance their [trading algorithms](../t/trading_algorithms.md). Visit J.P. Morgan
 
-- **Goldman Sachs:** By leveraging RNNs for [predictive analytics](../p/predictive_analytics.md), Goldman Sachs has been at the forefront of employing AI in trading to maximize their [market](../m/market.md) strategies. [Visit Goldman Sachs](https://www.goldmansachs.com/)
+- **Goldman Sachs:** By leveraging RNNs for [predictive analytics](../p/predictive_analytics.md), Goldman Sachs has been at the forefront of employing AI in trading to maximize their [market](../m/market.md) strategies. Visit Goldman Sachs
 
-- **[Hedge](../h/hedge.md) Funds:** Many [hedge](../h/hedge.md) funds like Renaissance Technologies and Two Sigma have employed RNN-based models to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) inefficiencies and [predictive modeling](../p/predictive_modeling.md). [Visit Renaissance Technologies](https://www.rentec.com/), [Visit Two Sigma](https://www.twosigma.com/)
+- **[Hedge](../h/hedge.md) Funds:** Many [hedge](../h/hedge.md) funds like Renaissance Technologies and Two Sigma have employed RNN-based models to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) inefficiencies and [predictive modeling](../p/predictive_modeling.md). Visit Renaissance Technologies, Visit Two Sigma
 
 ## Future of RNNs in Trading
 

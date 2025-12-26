@@ -1,8 +1,8 @@
 # Market Economy
 
-A [market](../m/market.md) [economy](../e/economy.md) is an economic system where the production, [distribution](../d/distribution.md), and pricing of goods and services are determined by the [open market](../o/open_market.md) and consumers. In a [market](../m/market.md) [economy](../e/economy.md), decisions regarding investment, production, and [distribution](../d/distribution.md) are guided by the signals created by the forces of [supply](../s/supply.md) and [demand](../d/demand.md). 
+A [market](../m/market.md) [economy](../e/economy.md) is an economic system where the production, [distribution](../d/distribution.md), and pricing of goods and services are determined by the [open market](../o/open_market.md) and consumers. In a [market](../m/market.md) [economy](../e/economy.md), decisions regarding investment, production, and [distribution](../d/distribution.md) are guided by the signals created by the forces of [supply](../s/supply.md) and [demand](../d/demand.md).
 
-The core principle of a [market](../m/market.md) [economy](../e/economy.md) is that the [market](../m/market.md) itself, through the interactions of buyers and sellers, determines prices and quantities of goods and services produced. 
+The core principle of a [market](../m/market.md) [economy](../e/economy.md) is that the [market](../m/market.md) itself, through the interactions of buyers and sellers, determines prices and quantities of goods and services produced.
 
 ## Characteristics of a Market Economy
 
@@ -72,7 +72,7 @@ A [market](../m/market.md) [economy](../e/economy.md) is a dynamic and adaptive 
 
 For more information on [market](../m/market.md) economies and related topics, you can visit the following websites:
 
-- [IMF - International Monetary Fund](https://www.imf.org/)
-- [World Bank](https://www.worldbank.org/)
-- [OECD - Organisation for Economic Co-operation and Development](https://www.oecd.org/)
-- [Federal Reserve](https://www.federalreserve.gov/)
+- IMF - International Monetary Fund
+- World Bank
+- OECD - Organisation for Economic Co-operation and Development
+- Federal Reserve

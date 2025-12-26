@@ -32,7 +32,7 @@ Two main types of BDCs exist: Publicly traded BDCs and Non-traded BDCs.
 
 ### Publicly Traded BDCs
 
-Publicly traded BDCs are [listed](../l/listed.md) on major stock exchanges and can be bought and sold through your [brokerage account](../b/brokerage_account.md) like any other stock. They provide [transparency](../t/transparency.md), [liquidity](../l/liquidity.md), and ease of access, making them an attractive investment choice for retail investors. Examples include Ares [Capital](../c/capital.md) [Corporation](../c/corporation.md) (https://www.arescapitalcorp.com/) and [Main Street](../m/main_street.md) [Capital](../c/capital.md) [Corporation](../c/corporation.md) (https://www.mainstcapital.com/).
+Publicly traded BDCs are [listed](../l/listed.md) on major stock exchanges and can be bought and sold through your [brokerage account](../b/brokerage_account.md) like any other stock. They provide [transparency](../t/transparency.md), [liquidity](../l/liquidity.md), and ease of access, making them an attractive investment choice for retail investors. Examples include Ares [Capital](../c/capital.md) [Corporation](../c/corporation.md) ( and [Main Street](../m/main_street.md) [Capital](../c/capital.md) [Corporation](../c/corporation.md) (
 
 ### Non-traded BDCs
 
@@ -111,10 +111,10 @@ Non-traded BDCs [offer](../o/offer.md) limited [liquidity](../l/liquidity.md), i
 Here are some top publicly traded BDCs to consider for your investment portfolio:
 
 ### Ares Capital Corporation (ARCC)
-Ares [Capital](../c/capital.md) [Corporation](../c/corporation.md) is one of the largest BDCs, [offering](../o/offering.md) a diversified portfolio and consistent dividends. More details can be found on their website: [Ares Capital Corporation](https://www.arescapitalcorp.com/).
+Ares [Capital](../c/capital.md) [Corporation](../c/corporation.md) is one of the largest BDCs, [offering](../o/offering.md) a diversified portfolio and consistent dividends. More
 
 ### Main Street Capital Corporation (MAIN)
-[Main Street](../m/main_street.md) [Capital](../c/capital.md) focuses on lower middle-[market](../m/market.md) companies, providing both [debt](../d/debt.md) and [equity financing](../e/equity_financing.md). They are known for their [robust](../r/robust.md) portfolio and stable [dividend](../d/dividend.md) payouts. Visit their website: [Main Street Capital](https://www.mainstcapital.com/).
+[Main Street](../m/main_street.md) [Capital](../c/capital.md) focuses on lower middle-[market](../m/market.md) companies, providing both [debt](../d/debt.md) and [equity financing](../e/equity_financing.md). They are known for their [robust](../r/robust.md) portfolio and stable [dividend](../d/dividend.md) payouts.
 
 ### Hercules Capital Inc. (HTGC)
-Specializing in venture lending to technology, life sciences, and sustainable & renewable technology companies, Hercules [Capital](../c/capital.md) offers potentially higher returns. More information is available at: [Hercules Capital](https://www.htgc.com/).
+Specializing in venture lending to technology, life sciences, and sustainable & renewable technology companies, Hercules [Capital](../c/capital.md) offers potentially higher returns. More information is available at: Hercules Capital.

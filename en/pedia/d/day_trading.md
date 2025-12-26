@@ -1,6 +1,6 @@
 # Day Trading
 
-Day trading is a [short-term trading](../s/short-term_trading.md) strategy where trades are executed within the same trading day, meaning that all positions are closed before the [market](../m/market.md) closes for the day. Traders who engage in day trading typically aim to [capitalize](../c/capitalize.md) on small price movements in highly [liquid](../l/liquid.md) [stocks](../s/stock.md) or currencies. The strategy requires a comprehensive understanding of the [market](../m/market.md), quick decision-making skills, and a high level of discipline. 
+Day trading is a [short-term trading](../s/short-term_trading.md) strategy where trades are executed within the same trading day, meaning that all positions are closed before the [market](../m/market.md) closes for the day. Traders who engage in day trading typically aim to [capitalize](../c/capitalize.md) on small price movements in highly [liquid](../l/liquid.md) [stocks](../s/stock.md) or currencies. The strategy requires a comprehensive understanding of the [market](../m/market.md), quick decision-making skills, and a high level of discipline.
 
 ## Key Concepts in Day Trading
 
@@ -76,10 +76,10 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 ### Prominent Companies and Platforms in Algorithmic Day Trading
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-- **[AlgoTrader](../a/algotrader.md)**: A fully integrated [algorithmic trading](../a/algorithmic_trading.md) software solution for quantitative funds. [AlgoTrader](https://www.algotrader.com/)
-- **Quantopian**: Although discontinued, it was a crucial platform that allowed traders to develop and test [trading strategies](../t/trading_strategies.md). [Quantopian](https://www.quantopian.com/)
-- **Kavout**: A pioneer in AI-driven trading, [offering](../o/offering.md) private investment firms [predictive analytics](../p/predictive_analytics.md). [Kavout](https://www.kavout.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: A fully integrated [algorithmic trading](../a/algorithmic_trading.md) software solution for quantitative funds. AlgoTrader
+- **Quantopian**: Although discontinued, it was a crucial platform that allowed traders to develop and test [trading strategies](../t/trading_strategies.md). Quantopian
+- **Kavout**: A pioneer in AI-driven trading, [offering](../o/offering.md) private investment firms [predictive analytics](../p/predictive_analytics.md). Kavout
 
 ## Psychological Challenges in Day Trading
 
@@ -106,4 +106,4 @@ Day trading can have complex tax implications, and traders often seek advice fro
 
 ## Conclusion
 
-Day trading is a demanding but potentially highly rewarding endeavor. It requires an in-depth understanding of [market](../m/market.md) mechanics, the ability to deploy various [trading strategies](../t/trading_strategies.md) effectively, and strong emotional and [risk management](../r/risk_management.md) skills. With advancements in technology and the proliferation of [algorithmic trading](../a/algorithmic_trading.md), day traders now have sophisticated tools at their disposal, allowing them to compete in the fast-paced [financial markets](../f/financial_market.md) more effectively. Continuous learning, disciplined [execution](../e/execution.md), and adherence to sound [risk management](../r/risk_management.md) practices are the foundations upon which successful day trading careers are built.
+Day trading is a demanding but potentially highly rewarding endeavor. It requires an in-depth understanding of [market](../m/market.md) mechanics, the ability to deploy various [trading strategies](../t/trading_strategies.md) effectively, and strong emotional and [risk management](../r/risk_management.md) skills. With advancements in technology and the proliferation of [algorithmic trading](../a/algorithmic_trading.md), day traders now have sophisticated tools at their disposal, allowing them to compete in the fast-paced [financial markets](../f/financial_market.md) more effectively. Continuous learning, disciplined [execution](../e/execution.md), and adherence to sound [risk management](../r/risk_management.md) practices are the foundations upon which successful day trading careers are built.

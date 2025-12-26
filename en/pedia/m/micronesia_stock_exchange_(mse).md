@@ -4,7 +4,7 @@ The Micronesia Stock [Exchange](../e/exchange.md) (MSE) is a relatively new fina
 
 ## Overview
 
-The MSE was conceived to address the regional need for a [robust](../r/robust.md) and transparent marketplace where local businesses, as well as foreign investors, can [trade](../t/trade.md) [shares](../s/shares.md) and other securities. Its inception is part of broader economic reforms aimed at modernizing Micronesia’s financial [infrastructure](../i/infrastructure.md), fostering investment, and integrating its [economy](../e/economy.md) with the global [financial system](../f/financial_system.md). 
+The MSE was conceived to address the regional need for a [robust](../r/robust.md) and transparent marketplace where local businesses, as well as foreign investors, can [trade](../t/trade.md) [shares](../s/shares.md) and other securities. Its inception is part of broader economic reforms aimed at modernizing Micronesia’s financial [infrastructure](../i/infrastructure.md), fostering investment, and integrating its [economy](../e/economy.md) with the global [financial system](../f/financial_system.md).
 
 ### Vision and Mission
 
@@ -77,4 +77,3 @@ While the MSE aims to become a leading financial hub, it faces several challenge
 
 The Micronesia Stock [Exchange](../e/exchange.md) represents a pivotal step in the economic development of the Federated States of Micronesia. By providing a transparent, regulated, and efficient marketplace for trading securities, it has the potential to attract significant domestic and international investments, fostering [economic growth](../e/economic_growth.md) and [financial inclusion](../f/financial_inclusion.md). The journey ahead involves addressing challenges related to [market](../m/market.md) size, regulatory framework, and [investor](../i/investor.md) awareness, but the opportunities for regional collaboration and technological innovation are promising avenues for growth and sustainability.
 
-For more information, please visit the official website of the Micronesia Stock [Exchange](../e/exchange.md) at [MSE Official Website](http://example.com). ([Note](../n/note.md): Replace with the actual URL if available).

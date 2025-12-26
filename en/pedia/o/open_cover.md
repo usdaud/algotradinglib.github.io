@@ -61,11 +61,11 @@ Both the insured and the insurer should periodically review the [Open](../o/open
 
 It's essential to select an insurer with extensive experience and a strong reputation in marine or cargo [insurance](../i/insurance.md). The following are some notable companies in the sector:
 
-- [Lloyd's of London](https://www.lloyds.com)
-- [Marsh McLennan](https://www.marshmclennan.com)
-- [AIG (American International Group)](https://www.aig.com)
-- [Zurich Insurance Group](https://www.zurich.com)
-- [Munich Re](https://www.munichre.com)
+- Lloyd's of London
+- Marsh McLennan
+- AIG (American International Group)
+- Zurich Insurance Group
+- Munich Re
 
 ## Legal and Regulatory Considerations
 

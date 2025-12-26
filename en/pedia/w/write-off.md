@@ -1,6 +1,6 @@
 # Write-Off
 
-A write-off is a formal declaration that a company or individual [will](../w/will.md) not collect on a [debt](../d/debt.md) or [asset](../a/asset.md). This [accounting](../a/accounting.md) practice allows businesses to remove the deemed uncollectible amount from their balance sheets, reflecting a more accurate financial position. [Write-offs](../w/write-offs_in_trading.md) are essential in maintaining accurate records and are critical during financial reporting. They affect [financial statements](../f/financial_statements.md), tax calculations, and overall [asset management](../a/asset_management.md). 
+A write-off is a formal declaration that a company or individual [will](../w/will.md) not collect on a [debt](../d/debt.md) or [asset](../a/asset.md). This [accounting](../a/accounting.md) practice allows businesses to remove the deemed uncollectible amount from their balance sheets, reflecting a more accurate financial position. [Write-offs](../w/write-offs_in_trading.md) are essential in maintaining accurate records and are critical during financial reporting. They affect [financial statements](../f/financial_statements.md), tax calculations, and overall [asset management](../a/asset_management.md).
 
 ## Types of Write-Offs
 
@@ -21,7 +21,7 @@ Bad debts are receivables that cannot be collected from a [customer](../c/custom
 ### 3. Asset Write-Off
 When an [asset](../a/asset.md), such as equipment, becomes worthless or impaired, companies must recognize the loss. [Asset](../a/asset.md) [write-offs](../w/write-offs_in_trading.md) are performed in the following cases:
 
-- **[Depreciation](../d/depreciation.md):** A systematic write-off of the cost of a tangible [asset](../a/asset.md) over its [useful life](../u/useful_life.md). 
+- **[Depreciation](../d/depreciation.md):** A systematic write-off of the cost of a tangible [asset](../a/asset.md) over its [useful life](../u/useful_life.md).
 - **[Impairment](../i/impairment.md):** Assets that lose [value](../v/value.md) permanently, beyond normal [depreciation](../d/depreciation.md), necessitate an immediate write-off.
 
 ### 4. Tax Write-Off
@@ -30,7 +30,7 @@ Tax [write-offs](../w/write-offs_in_trading.md) allow individuals or businesses 
 - **[Business](../b/business.md) Expenses:** Costs directly associated with operating a [business](../b/business.md), such as supplies, salaries, and utilities.
 - **[Mortgage](../m/mortgage.md) [Interest](../i/interest.md):** [Interest](../i/interest.md) paid on loans for property can often be written off.
 - **Charitable Contributions:** Donations to qualifying non-[profit](../p/profit.md) organizations may be deducted.
-  
+
 ## Financial Implications of Write-Offs
 
 ### Impact on Financial Statements
@@ -59,15 +59,15 @@ Companies must regularly review and update their write-off policies to align wit
 
 ### Financial Institutions
 Banks and financial institutions often manage significant amounts of loans and receivables. They commonly face bad debts due to borrowers defaulting. For example:
-- **JPMorgan Chase** (https://www.jpmorganchase.com/): Regularly publishes its write-off rates in financial disclosures when discussing non-performing loans.
+- **JPMorgan Chase** Regularly publishes its write-off rates in financial disclosures when discussing non-performing loans.
 
 ### Retail
 Retailers must deal with [inventory](../i/inventory.md) [write-offs](../w/write-offs_in_trading.md) due to obsolescence or damage. Effective [inventory management](../i/inventory_management.md) minimizes these [write-offs](../w/write-offs_in_trading.md). For instance:
-- **Walmart** (https://www.walmart.com/): Reports [inventory](../i/inventory.md) [write-offs](../w/write-offs_in_trading.md) and outlines their impact on [financial performance](../f/financial_performance.md) in their annual reports.
+- **Walmart** ( Reports [inventory](../i/inventory.md) [write-offs](../w/write-offs_in_trading.md) and outlines their impact on [financial performance](../f/financial_performance.md) in their annual reports.
 
 ### Technology Companies
 Tech firms often need to write off R&D expenses if projects do not materialize into viable products. Additionally, the fast-paced nature of tech can lead to frequent [asset](../a/asset.md) and [inventory](../i/inventory.md) [write-offs](../w/write-offs_in_trading.md) due to obsolescence. For example:
-- **Amazon** (https://www.amazon.com/): May write off obsolete technology or warehouse equipment regularly.
+- **Amazon** May write off obsolete technology or warehouse equipment regularly.
 
 ## Conclusion
 

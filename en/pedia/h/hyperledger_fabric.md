@@ -40,4 +40,3 @@
 
 ## Conclusion
 [Hyperledger](../h/hyperledger.md) Fabric is a versatile and powerful [blockchain](../b/blockchain_in_trading.md) framework designed for enterprise applications, [offering](../o/offering.md) a high degree of customization, privacy, and [scalability](../s/scalability.md). Its modular architecture and permissioned network model make it suitable for a wide [range](../r/range.md) of industries, including [supply chain](../s/supply_chain.md) management, healthcare, and financial services. Understanding its key components, features, and [best practices](../b/best_practices.md) is essential for successful implementation and leveraging the benefits of [blockchain](../b/blockchain_in_trading.md) technology in an enterprise setting.
-

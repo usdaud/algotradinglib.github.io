@@ -37,7 +37,6 @@ A consistent ADR reflects a stable and effective pricing strategy, which is cruc
 ### Benchmarking
 ADR serves as a [benchmark](../b/benchmark.md) for comparing performance with competitors. Hotels in the same locality or category can use ADR to gauge where they stand in the [market](../m/market.md), enabling better strategic decisions.
 
-### Investor Relations
 For investors and stakeholders, ADR provides a clear [indicator](../i/indicator.md) of a hotel's [market](../m/market.md) position and [operational efficiency](../o/operational_efficiency_in_trading.md). Consistent increases in ADR can attract more investment by showcasing the hotel's capacity to generate [revenue](../r/revenue.md).
 
 ### Budgeting and Forecasting
@@ -91,7 +90,7 @@ Marriott International, one of the world's leading hospitality companies, provid
 ### Results
 Marriott's strategic use of ADR has resulted in consistent [revenue](../r/revenue.md) growth and high [occupancy rates](../o/occupancy_rates_in_trading.md). Their ability to balance dynamic pricing with [customer](../c/customer.md) satisfaction exemplifies effective [revenue](../r/revenue.md) management.
 
-For more information, visit [Marriott International](https://www.marriott.com/).
+For more information, visit Marriott International.
 
 ## Conclusion
 

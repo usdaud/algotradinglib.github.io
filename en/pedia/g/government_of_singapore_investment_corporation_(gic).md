@@ -103,6 +103,6 @@ Strategic alliances with other institutional investors enable GIC to share knowl
 
 GIC continues to evolve its strategies and capabilities to navigate the changing global investment landscape. The [corporation](../c/corporation.md) remains focused on achieving sustainable, long-term returns while managing risks and contributing to Singapore's economic stability.
 
-For more detailed information, you can visit the [GIC Official Website](https://www.gic.com.sg/).
+For more detailed information,
 
 GIC stands as a model of disciplined and strategic [investment management](../i/investment_management.md), ensuring that Singapore’s reserves are safeguarded and grown for future generations.

@@ -1,6 +1,6 @@
 # Commerce
 
-Commerce refers to the activity of buying and selling, especially on a large scale. It encompasses all transactions, from the smallest local trades to global exchanges involving multinational corporations. Commerce plays a critical role in the economic health of nations and significantly influences social and cultural interactions. 
+Commerce refers to the activity of buying and selling, especially on a large scale. It encompasses all transactions, from the smallest local trades to global exchanges involving multinational corporations. Commerce plays a critical role in the economic health of nations and significantly influences social and cultural interactions.
 
 ### Origins and Evolution
 
@@ -19,29 +19,29 @@ Commerce has evolved significantly over centuries. Early forms of commerce prima
 
 Retail commerce involves the [sale](../s/sale.md) of goods to the end-user. Retail stores [range](../r/range.md) from small local shops to large multinational chains. Examples include:
 
-- **Amazon**: [Amazon Website](https://www.amazon.com)
-- **Walmart**: [Walmart Website](https://www.walmart.com)
+- **Amazon**:
+- **Walmart**:
 
 #### Wholesale Commerce
 
 Wholesale commerce is crucial for supplying retailers. Wholesalers buy in bulk and sell in smaller quantities at a [profit](../p/profit.md). Examples include:
 
-- **Costco**: [Costco Website](https://www.costco.com)
-- **Alibaba**: [Alibaba Website](https://www.alibaba.com)
+- **Costco**:
+- **Alibaba**:
 
 #### Online Commerce (e-Commerce)
 
 E-commerce has grown rapidly with internet proliferation. It provides consumers with the convenience of shopping from anywhere, anytime. Examples include:
 
-- **eBay**: [eBay Website](https://www.ebay.com)
-- **Shopify**: [Shopify Website](https://www.shopify.com)
+- **eBay**:
+- **Shopify**:
 
 #### International Commerce
 
 International commerce involves trading across borders, which requires adherence to international [trade](../t/trade.md) laws, customs regulations, and [foreign exchange](../f/foreign_exchange.md) mechanisms. Examples include:
 
-- **Maersk**: [Maersk Website](https://www.maersk.com)
-- **DHL**: [DHL Website](https://www.dhl.com)
+- **Maersk**:
+- **DHL**:
 
 ### Key Concepts in Commerce
 
@@ -68,17 +68,17 @@ Financial management ensures that [business](../b/business.md) operations are fu
 - **[Accounting](../a/accounting.md)**: Recording financial transactions accurately.
 - **Budgeting**: Planning future finances.
 - **Investment Strategies**: Allocating resources for growth.
-  
+
 ### Future Trends in Commerce
 
 #### Artificial Intelligence (AI) and Machine Learning (ML)
 
-AI and ML are transforming how businesses operate, from automating repetitive tasks to predicting consumer behavior. These technologies enhance [customer](../c/customer.md) experiences, optimize [supply](../s/supply.md) chains, and improve product recommendations. 
+AI and ML are transforming how businesses operate, from automating repetitive tasks to predicting consumer behavior. These technologies enhance [customer](../c/customer.md) experiences, optimize [supply](../s/supply.md) chains, and improve product recommendations.
 
 Example companies involved in AI and ML in commerce:
 
-- **Salesforce**: [Salesforce Website](https://www.salesforce.com)
-- **IBM Watson**: [IBM Website](https://www.ibm.com/watson)
+- **Salesforce**:
+- **IBM Watson**:
 
 #### Blockchain Technology
 
@@ -86,8 +86,8 @@ Example companies involved in AI and ML in commerce:
 
 Example companies involved in [blockchain](../b/blockchain_in_trading.md) in commerce:
 
-- **IBM [Blockchain](../b/blockchain_in_trading.md)**: [IBM Blockchain Website](https://www.ibm.com/blockchain)
-- **[Ripple](../r/ripple.md)**: [Ripple Website](https://ripple.com)
+- **IBM [Blockchain](../b/blockchain_in_trading.md)**:
+- **[Ripple](../r/ripple.md)**:
 
 #### Augmented Reality (AR) and Virtual Reality (VR)
 
@@ -95,8 +95,8 @@ AR and VR are enhancing the shopping experience, allowing customers to see how p
 
 Example companies involved in AR and VR in commerce:
 
-- **Wayfair**: [Wayfair Website](https://www.wayfair.com)
-- **IKEA Place**: [IKEA Place Website](https://www.ikea.com)
+- **Wayfair**:
+- **IKEA Place**:
 
 ### Conclusion
 

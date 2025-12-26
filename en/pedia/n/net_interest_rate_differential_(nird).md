@@ -23,7 +23,7 @@ NIRD = 2% - 0.1% = 1.9%
 ### Forex Trading
 
 1. **[Carry Trade](../c/carry_trade.md) Strategy**: One of the most prominent applications of NIRD in forex trading is the '[carry trade](../c/carry_trade.md)' strategy. In carry trades, traders borrow [money](../m/money.md) in a [currency](../c/currency.md) with a low-[interest rate](../i/interest_rate.md) and invest it in a [currency](../c/currency.md) with a higher [interest rate](../i/interest_rate.md). The profitability of this strategy hinges on the NIRD. A positive NIRD suggests that traders can earn the differential as [profit](../p/profit.md), provided the [exchange rate](../e/exchange_rate.md) remains stable or moves favorably.
-   
+
 2. **[Currency](../c/currency.md) Pair Movements**: The NIRD often influences [currency](../c/currency.md) pair movements. Higher [interest](../i/interest.md) rates in a country typically attract foreign [capital](../c/capital.md), increasing [demand](../d/demand.md) for that country’s [currency](../c/currency.md). Conversely, lower [interest](../i/interest.md) rates may result in decreased [demand](../d/demand.md). Traders monitor NIRD to predict possible [currency](../c/currency.md) appreciations or depreciations.
 
 3. **Hedging and [Arbitrage](../a/arbitrage.md)**: NIRD can also be significant for hedging and [arbitrage opportunities](../a/arbitrage_opportunities.md). Traders and financial institutions may exploit NIRD to create positions that benefit from [interest rate](../i/interest_rate.md) differentials while minimizing [risk](../r/risk.md) exposure.
@@ -54,7 +54,7 @@ Several factors influence NIRD between two countries:
 
 ## NIRD in Algorithmic Trading
 
-In the sphere of [algorithmic trading](../a/accountability.md), NIRD can be part of the [quantitative models](../q/quantitative_models.md) that inform [trading algorithms](../t/trading_algorithms.md). [Algorithmic trading](../a/accountability.md) systems can incorporate NIRD to execute [carry trade](../c/carry_trade.md) strategies, identify [arbitrage opportunities](../a/arbitrage_opportunities.md), and [hedge](../h/hedge.md) [currency](../c/currency.md) exposures automatically.
+In the sphere of [algorithmic trading](../a/algorithmic_trading.md), NIRD can be part of the [quantitative models](../q/quantitative_models.md) that inform [trading algorithms](../t/trading_algorithms.md). [Algorithmic trading](../a/algorithmic_trading.md) systems can incorporate NIRD to execute [carry trade](../c/carry_trade.md) strategies, identify [arbitrage opportunities](../a/arbitrage_opportunities.md), and [hedge](../h/hedge.md) [currency](../c/currency.md) exposures automatically.
 
 ### Implementation in Algorithms
 
@@ -72,9 +72,9 @@ In the sphere of [algorithmic trading](../a/accountability.md), NIRD can be part
 
 Several financial institutions and [hedge](../h/hedge.md) funds [leverage](../l/leverage.md) NIRD in their trading and investment strategies. Below are some notable examples:
 
-1. **[Global Macro](../g/global_macro.md) [Hedge](../h/hedge.md) Funds**: Firms like Bridgewater Associates utilize macroeconomic indicators, including NIRD, to make informed decisions about [currency](../c/currency.md) exposures and international investments. (For more information, visit [Bridgewater Associates](https://www.bridgewater.com/))
+1. **[Global Macro](../g/global_macro.md) [Hedge](../h/hedge.md) Funds**: Firms like Bridgewater Associates utilize macroeconomic indicators, including NIRD, to make informed decisions about [currency](../c/currency.md) exposures and international investments. (For more information, visit Bridgewater Associates)
 
-2. **Forex Trading Platforms**: Online forex trading platforms such as [OANDA](../o/oanda.md) and IG [Index](../i/index_instrument.md) [offer](../o/offer.md) tools and analytics, including [interest rate](../i/interest_rate.md) differentials, to support traders in implementing trades based on NIRD. (For more information, visit [OANDA](https://www.oanda.com/) or [IG](https://www.ig.com/))
+2. **Forex Trading Platforms**: Online forex trading platforms such as [OANDA](../o/oanda.md) and IG [Index](../i/index_instrument.md) [offer](../o/offer.md) tools and analytics, including [interest rate](../i/interest_rate.md) differentials, to support traders in implementing trades based on NIRD. (For more information, visit OANDA or IG)
 
 3. **Central Banks and Financial Analysts**: Central banks, like the Federal Reserve and the European Central [Bank](../b/bank.md), monitor and analyze NIRD as part of their economic reports and policy decisions. Financial analysts use this data to forecast [currency](../c/currency.md) trends and advise clients.
 
@@ -83,8 +83,8 @@ Several financial institutions and [hedge](../h/hedge.md) funds [leverage](../l/
 While NIRD is a powerful tool, there are challenges and considerations:
 
 1. **[Exchange Rate](../e/exchange_rate.md) [Risk](../r/risk.md)**: Carry trades based on NIRD are exposed to [exchange rate](../e/exchange_rate.md) fluctuations. Adverse movements can negate the [interest](../i/interest.md) differential benefits.
-   
-2. **[Interest Rate](../i/interest_rate.md) [Volatility](../v/volatility.md)**: Sudden changes in [interest](../i/interest.md) rates due to unexpected [monetary policy](../m/monetary_policy.md) shifts can impact NIRD and affect [trading strategies](../t/trading_strategies.md). 
+
+2. **[Interest Rate](../i/interest_rate.md) [Volatility](../v/volatility.md)**: Sudden changes in [interest](../i/interest.md) rates due to unexpected [monetary policy](../m/monetary_policy.md) shifts can impact NIRD and affect [trading strategies](../t/trading_strategies.md).
 
 3. **Geopolitical [Risk](../r/risk.md)**: Political instability and geopolitical events can lead to sudden changes in [risk](../r/risk.md) perceptions, affecting [interest](../i/interest.md) rates and NIRD.
 
@@ -94,7 +94,7 @@ While NIRD is a powerful tool, there are challenges and considerations:
 
 ## Conclusion
 
-Net [Interest Rate](../i/interest_rate.md) Differential (NIRD) is a vital metric in the world of [finance](../f/finance.md) and forex trading. Its significance spans from influencing [currency](../c/currency.md) pair movements and [trading strategies](../t/trading_strategies.md) to impacting international investments and economic policy decisions. For traders and investors, understanding and leveraging NIRD can [offer](../o/offer.md) substantial opportunities, particularly when implemented with [robust](../r/robust.md) [risk management](../r/risk_management.md) and [market](../m/market.md) analysis protocols. As global markets evolve, the role of NIRD in [algorithmic trading](../a/accountability.md) and fintech innovations continues to grow, [offering](../o/offering.md) sophisticated tools to navigate the complexities of [interest rate](../i/interest_rate.md) dynamics and [currency](../c/currency.md) markets.
+Net [Interest Rate](../i/interest_rate.md) Differential (NIRD) is a vital metric in the world of [finance](../f/finance.md) and forex trading. Its significance spans from influencing [currency](../c/currency.md) pair movements and [trading strategies](../t/trading_strategies.md) to impacting international investments and economic policy decisions. For traders and investors, understanding and leveraging NIRD can [offer](../o/offer.md) substantial opportunities, particularly when implemented with [robust](../r/robust.md) [risk management](../r/risk_management.md) and [market](../m/market.md) analysis protocols. As global markets evolve, the role of NIRD in [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations continues to grow, [offering](../o/offering.md) sophisticated tools to navigate the complexities of [interest rate](../i/interest_rate.md) dynamics and [currency](../c/currency.md) markets.
 
 ---
 

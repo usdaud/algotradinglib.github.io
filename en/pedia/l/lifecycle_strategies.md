@@ -28,7 +28,7 @@ Once a strategy is backtested and [risk measures](../r/risk_measures.md) are in 
 1. **[Execution Algorithms](../e/execution_algorithms.md)**: Designing algorithms to execute trades efficiently and minimize [market](../m/market.md) impact. Common [execution algorithms](../e/execution_algorithms.md) include VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price), TWAP (Time [Weighted Average](../w/weighted_average.md) Price), and Implementation [Shortfall](../s/shortfall.md).
 2. **Latency and [Slippage](../s/slippage.md)**: Addressing issues related to latency (the delay in capturing and acting on [market](../m/market.md) information) and [slippage](../s/slippage.md) (the difference between expected and actual [trade](../t/trade.md) prices).
 3. **[Infrastructure](../i/infrastructure.md) Setup**: Ensuring [robust](../r/robust.md) and reliable trading [infrastructure](../i/infrastructure.md), including low-latency data feeds, co-location services, and high-speed networks.
-4. **Brokerage Selection**: Choosing the right brokerage platform that offers low [transaction costs](../t/transaction_costs.md), high reliability, and sophisticated API access. Example: [Interactive Brokers](https://www.interactivebrokers.com/).
+4. **Brokerage Selection**: Choosing the right brokerage platform that offers low [transaction costs](../t/transaction_costs.md), high reliability, and sophisticated API access. Example: Interactive Brokers.
 
 ## Monitoring and Real-Time Adjustments
 After deployment, continuous monitoring and real-time adjustments are necessary to ensure the strategy remains effective and profitable.
@@ -56,7 +56,7 @@ Compliance with regulatory requirements and [robust](../r/robust.md) governance 
 Several well-known [trading strategies](../t/trading_strategies.md) can be coded into algorithms and optimized over the lifecycle:
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Exploiting price differences between related instruments. For example, [pairs trading](../p/pairs_trading.md), where two correlated [stocks](../s/stock.md) are traded based on the [divergence](../d/divergence.md) in their price relationship.
-2. **[Market](../m/market.md) Making**: Providing [liquidity](../l/liquidity.md) by placing buy and sell orders and profiting from the [bid-ask spread](../b/bid-ask_spread.md). Example: [Jane Street](https://www.janestreet.com/).
+2. **[Market](../m/market.md) Making**: Providing [liquidity](../l/liquidity.md) by placing buy and sell orders and profiting from the [bid-ask spread](../b/bid-ask_spread.md). Example: Jane Street.
 3. **[Trend Following](../t/trend_following.md)**: Capturing gains through the identification and following of [market](../m/market.md) trends. This can be done using moving averages or [momentum indicators](../m/momentum_indicators.md).
 4. **[Mean Reversion](../m/mean_reversion.md)**: Betting that prices [will](../w/will.md) revert to their historical averages. This strategy often involves identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions using indicators like RSI or [Bollinger Bands](../b/bollinger_bands.md).
 
@@ -64,8 +64,8 @@ Several well-known [trading strategies](../t/trading_strategies.md) can be coded
 The lifecycle of [algorithmic trading](../a/algorithmic_trading.md) strategies relies heavily on various technologies and tools:
 
 1. **Programming Languages**: Languages like Python, R, and C++ are commonly used due to their [robust](../r/robust.md) libraries and performance capabilities.
-2. **[Backtesting](../b/backtesting.md) Platforms**: Tools like [QuantConnect](../q/quantconnect.md), [Backtrader](../b/backtrader.md), and Zipline provide [robust](../r/robust.md) frameworks for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-3. **Data Feeds**: Access to high-quality, low-latency data feeds is crucial. Providers like [Quandl](https://www.quandl.com/) and [Bloomberg](https://www.bloomberg.com/professional/product/market-data/) [offer](../o/offer.md) comprehensive data services.
+2. **[Backtesting](../b/backtesting.md) Platforms**: Tools like [StockSharp](../s/stocksharp.md), [Backtrader](../b/backtrader.md), and Zipline provide [robust](../r/robust.md) frameworks for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+3. **Data Feeds**: Access to high-quality, low-latency data feeds is crucial. Providers like Quandl and Bloomberg [offer](../o/offer.md) comprehensive data services.
 4. **Visualization Tools**: Platforms like Tableau and Power BI for visualizing [performance metrics](../p/performance_metrics.md) and uncovering trends in trading data.
 
 Understanding and efficiently implementing lifecycle strategies in [algorithmic trading](../a/algorithmic_trading.md) involves a multi-disciplinary approach, combining elements of [quantitative analysis](../q/quantitative_analysis.md), [risk management](../r/risk_management.md), technological [infrastructure](../i/infrastructure.md), and regulatory compliance. By mastering these phases, traders and institutions can enhance their [trading performance](../t/trading_performance.md) and maintain a competitive edge in the fast-paced, data-driven world of [financial markets](../f/financial_market.md).

@@ -50,5 +50,4 @@ AvaTrade is regulated by [multiple](../m/multiple.md) authorities, including:
 - Financial [Futures](../f/futures.md) Association of Japan (FFAJ)
 - Israel Securities Authority (ISA)
 
-## Website
-For more information and to start trading, visit the official AvaTrade website: [AvaTrade](https://www.avatrade.com)
+##

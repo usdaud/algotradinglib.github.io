@@ -25,9 +25,9 @@ When [interest](../i/interest.md) rates hit the zero bound, the central banks ca
 The arrival at the zero bound presents several significant challenges for policymakers:
 
 1. **Limited [Monetary Policy](../m/monetary_policy.md) Tools**: Traditional monetary policies become ineffective, forcing central banks to explore unconventional monetary policies such as [quantitative easing](../q/quantitative_easing.md) (QE) or negative [interest](../i/interest.md) rates.
-   
+
 2. **Deflationary Risks**: When the zero bound is reached, there is a heightened [risk](../r/risk.md) of [deflation](../d/deflation.md). [Deflation](../d/deflation.md) can lead to decreased consumer spending, as people may expect prices to continue falling.
-   
+
 3. **[Liquidity Trap](../l/liquidity_trap.md)**: A situation where [monetary policy](../m/monetary_policy.md) becomes ineffective because people hoard cash rather than [investing](../i/investing.md) or spending it.
 
 ## Responses to Zero Bound Interest Rates
@@ -39,7 +39,7 @@ The arrival at the zero bound presents several significant challenges for policy
 #### Case Studies
 
 - **United States**: The Federal Reserve implemented QE in [multiple](../m/multiple.md) phases (QE1, QE2, QE3) following the [financial crisis](../f/financial_crisis.md), purchasing trillions of dollars in assets to stabilize the [financial system](../f/financial_system.md).
-  
+
 - **Japan**: The [Bank](../b/bank.md) of Japan also used QE extensively, beginning in the early 2000s and ramping up significantly post-2008.
 
 ### Negative Interest Rates
@@ -49,7 +49,7 @@ In some cases, central banks have pushed [interest](../i/interest.md) rates belo
 #### Case Studies
 
 - **European Central [Bank](../b/bank.md)**: Initiated negative [interest](../i/interest.md) rates in June 2014, driving the [deposit](../d/deposit.md) [facility](../f/facility.md) rate below zero to combat deflationary pressures and stimulate the [economy](../e/economy.md).
-  
+
 - **[Bank](../b/bank.md) of Japan**: Implemented negative [interest](../i/interest.md) rates in January 2016 to boost [inflation](../i/inflation.md) and [economic growth](../e/economic_growth.md).
 
 ### Forward Guidance
@@ -117,6 +117,6 @@ Several alternative policy tools have been proposed to deal with the challenges 
 Zero Bound [Interest](../i/interest.md) Rates present a significant challenge for central banks and policymakers. Their limited ability to use traditional [monetary policy](../m/monetary_policy.md) tools has led to the adoption of unconventional methods like [quantitative easing](../q/quantitative_easing.md), negative [interest](../i/interest.md) rates, and forward [guidance](../g/guidance.md). The effectiveness of these measures remains a topic of intense debate, as does the search for new tools to manage economies when [interest](../i/interest.md) rates are at or near zero. The global economic landscape continues to evolve, responding to the complex interplay of these policies, with far-reaching implications for investors, [financial markets](../f/financial_market.md), and everyday citizens.
 
 For more information on [monetary policy](../m/monetary_policy.md) tools used by central banks, visit the following pages:
-- [Federal Reserve](https://www.federalreserve.gov)
-- [European Central Bank](https://www.ecb.europa.eu)
-- [Bank of Japan](https://www.boj.or.jp/en)
+- Federal Reserve
+- European Central Bank
+- Bank of Japan

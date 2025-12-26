@@ -8,8 +8,8 @@
 
 ### Components and Structure
 
-1. **[Underlying](../u/underlying.md) Assets**: [Fixed Income](../f/fixed_income.md) ETFs [hold](../h/hold.md) a diversified portfolio of bonds, which can include government bonds, corporate bonds, [municipal bonds](../m/municipal_bonds.md), or international bonds. 
-2. **Tracking [Index](../i/index_instrument.md)**: These ETFs aim to mimic the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md), such as the [Bloomberg](../b/bloomberg.md) Barclays US Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) or the ICE [U.S. Treasury](../u/u.s._treasury.md) Core [Bond](../b/bond.md) [Index](../i/index_instrument.md). 
+1. **[Underlying](../u/underlying.md) Assets**: [Fixed Income](../f/fixed_income.md) ETFs [hold](../h/hold.md) a diversified portfolio of bonds, which can include government bonds, corporate bonds, [municipal bonds](../m/municipal_bonds.md), or international bonds.
+2. **Tracking [Index](../i/index_instrument.md)**: These ETFs aim to mimic the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md), such as the [Bloomberg](../b/bloomberg.md) Barclays US Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) or the ICE [U.S. Treasury](../u/u.s._treasury.md) Core [Bond](../b/bond.md) [Index](../i/index_instrument.md).
 3. **[Liquidity](../l/liquidity.md)**: Unlike individual bonds, [Fixed Income](../f/fixed_income.md) ETFs can be traded on stock exchanges, providing [intraday liquidity](../i/intraday_liquidity.md) to investors.
 4. **Management**: [Fixed Income](../f/fixed_income.md) ETFs can be passively managed ([index](../i/index_instrument.md)-based) or actively managed, where the [fund manager](../f/fund_manager.md) selects bonds based on specific criteria.
 
@@ -37,11 +37,11 @@ Despite the many advantages, [Fixed Income](../f/fixed_income.md) ETFs also have
 
 There are several types of [Fixed Income](../f/fixed_income.md) ETFs, each catering to different investment preferences and strategies:
 
-1. **[Government Bond](../g/government_bond.md) ETFs**: Focus on bonds issued by national governments and are considered safer investments. Example: [iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT) [link](https://www.ishares.com/us/products/239458/ishares-us-treasury-bond-etf).
-2. **[Corporate Bond](../c/corporate_bond.md) ETFs**: Invest in bonds issued by corporations, [offering](../o/offering.md) higher yields but greater [risk](../r/risk.md). Example: [iShares](../i/ishares.md) iBoxx $ [Investment Grade](../i/investment_grade.md) [Corporate Bond](../c/corporate_bond.md) ETF (LQD) [link](https://www.ishares.com/us/products/239726/ishares-iboxx-investment-grade-corporate-bond-etf).
-3. **[Municipal Bond](../m/municipal_bond.md) ETFs**: Include bonds issued by state and local governments, often providing [tax-free](../t/tax_free.md) [income](../i/income.md). Example: [iShares](../i/ishares.md) National Muni [Bond ETF](../b/bond_etf.md) (MUB) [link](https://www.ishares.com/us/products/239766/ishares-national-muni-bond-etf).
-4. **[International Bond](../i/international_bond.md) ETFs**: Invest in bonds issued by foreign governments or corporations, [offering](../o/offering.md) global exposure. Example: Vanguard Total [International Bond](../i/international_bond.md) ETF (BNDX) [link](https://investor.vanguard.com/etf/profile/BNDX).
-5. **[High-Yield Bond](../h/high-yield_bond.md) ETFs**: Focus on bonds with lower [credit](../c/credit.md) ratings, [offering](../o/offering.md) higher yields but greater [default](../d/default.md) risks. Example: SPDR [Bloomberg](../b/bloomberg.md) Barclays High [Yield](../y/yield.md) [Bond ETF](../b/bond_etf.md) (JNK) [link](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-high-yield-bond-etf-jnk).
+1. **[Government Bond](../g/government_bond.md) ETFs**: Focus on bonds issued by national governments and are considered safer investments. Example: [iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT) link.
+2. **[Corporate Bond](../c/corporate_bond.md) ETFs**: Invest in bonds issued by corporations, [offering](../o/offering.md) higher yields but greater [risk](../r/risk.md). Example: [iShares](../i/ishares.md) iBoxx $ [Investment Grade](../i/investment_grade.md) [Corporate Bond](../c/corporate_bond.md) ETF (LQD) link.
+3. **[Municipal Bond](../m/municipal_bond.md) ETFs**: Include bonds issued by state and local governments, often providing [tax-free](../t/tax_free.md) [income](../i/income.md). Example: [iShares](../i/ishares.md) National Muni [Bond ETF](../b/bond_etf.md) (MUB) link.
+4. **[International Bond](../i/international_bond.md) ETFs**: Invest in bonds issued by foreign governments or corporations, [offering](../o/offering.md) global exposure. Example: Vanguard Total [International Bond](../i/international_bond.md) ETF (BNDX) link.
+5. **[High-Yield Bond](../h/high-yield_bond.md) ETFs**: Focus on bonds with lower [credit](../c/credit.md) ratings, [offering](../o/offering.md) higher yields but greater [default](../d/default.md) risks. Example: SPDR [Bloomberg](../b/bloomberg.md) Barclays High [Yield](../y/yield.md) [Bond ETF](../b/bond_etf.md) (JNK) link.
 
 ## Trading Strategies for Fixed Income ETFs
 

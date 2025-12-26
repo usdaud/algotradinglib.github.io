@@ -50,7 +50,7 @@ Several firms specialize in providing tools and services for [spread analysis](.
 
 **Kx Systems**
 Kx Systems offers kdb+, a time-series database optimized for high-frequency data capture and analysis, making it ideal for [spread analysis](../s/spread_analysis.md) in algo trading.
-Website: [Kx Systems](https://kx.com/)
+online platform: Kx Systems
 
 ## Impact of Technology on Spread Analysis
 Advances in technology have revolutionized [spread analysis](../s/spread_analysis.md) in several ways:

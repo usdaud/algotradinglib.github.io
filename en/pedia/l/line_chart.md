@@ -1,6 +1,6 @@
 # Line Chart
 
-A line chart is a type of graph used to show information that changes over time. It also plays a crucial role in [financial analysis](../f/financial_analysis.md), especially in the fields of trading and financial technology (FinTech). Line charts consist of a series of data points called ‘markers’ connected by straight line segments, representing continuous data over a specific interval, typically time. 
+A line chart is a type of graph used to show information that changes over time. It also plays a crucial role in [financial analysis](../f/financial_analysis.md), especially in the fields of trading and financial technology (FinTech). Line charts consist of a series of data points called ‘markers’ connected by straight line segments, representing continuous data over a specific interval, typically time.
 
 ## Importance in Trading
 
@@ -9,7 +9,7 @@ In the trading realm, line charts are employed to depict price movements of secu
 ### Benefits for Traders
 
 1. **[Trend Analysis](../t/trend_analysis.md)**: Line charts help identify bullish, bearish, and sideways trends. These trends assist traders in [forecasting](../f/forecasting.md) [market](../m/market.md) movements.
-  
+
 2. **Simplicity and Clarity**: Unlike more complex charts (like candlesticks charts), line charts present the information in an easy-to-read format. This simplicity means they are accessible even to novice traders.
 
 3. **Time Interval Customization**: Traders can customize the time interval on a line chart to view data in hourly, daily, weekly, or monthly formats.
@@ -18,7 +18,7 @@ In the trading realm, line charts are employed to depict price movements of secu
 
 ## Structure of Line Charts
 
-Line charts represent data points along two main axes: the horizontal (X-axis) and the vertical (Y-axis). 
+Line charts represent data points along two main axes: the horizontal (X-axis) and the vertical (Y-axis).
 
 - **X-axis**: Typically represents the time period.
 - **Y-axis**: Denotes the price or [value](../v/value.md) of the [financial instrument](../f/financial_instrument.md).
@@ -31,7 +31,7 @@ Line charts represent data points along two main axes: the horizontal (X-axis) a
 ## Comparison with Other Chart Types
 
 - **Bar Charts**: [Offer](../o/offer.md) more detailed information by displaying [open](../o/open.md), high, low, and close prices, but can be more complex to read.
-  
+
 - **[Candlestick](../c/candlestick.md) Charts**: Provide rich information including price movements and [market sentiment](../m/market_sentiment.md), but can be overwhelming due to their detail.
 
 - **Renko Charts**: Focus on price movement over time, excluding time intervals, making them different in displaying trends.
@@ -40,7 +40,7 @@ Line charts represent data points along two main axes: the horizontal (X-axis) a
 
 ### Data Smoothing
 
-Line charts are especially useful in [algorithmic trading](../a/accountability.md) for smoothening data. Algorithms can easily integrate line charts with moving averages to remove [noise](../n/noise.md) and make trends more visible.
+Line charts are especially useful in [algorithmic trading](../a/algorithmic_trading.md) for smoothening data. Algorithms can easily integrate line charts with moving averages to remove [noise](../n/noise.md) and make trends more visible.
 
 ### Backtesting
 
@@ -54,9 +54,7 @@ By looking at historical data through line charts, traders can backtest their st
 
 FinTech companies extensively use line charts within their platforms to deliver [data visualization](../d/data_visualization.md) and analysis tools to their users. For example, platforms like:
 
-- **[Robinhood](../r/robinhood.md)**: https://www.[robinhood](../r/robinhood.md).com/
-- **E-[Trade](../t/trade.md)**: https://us.etrade.com/[home](../h/home.md)
-
+- **[Robinhood](../r/robinhood.md)**- **E-[Trade](../t/trade.md)**
 ### Enhancing User Experience
 
 They [leverage](../l/leverage.md) line charts for enhancing user experience by providing:
@@ -110,7 +108,7 @@ ggplot(data, aes(x=dates, y=prices)) +
 ### Excel
 
 1. [Open](../o/open.md) Excel and input your data - one column for dates and another for prices.
-  
+
 2. Select the data and navigate to the "Insert" tab.
 
 3. Choose "Line Chart" from the "Charts" group.

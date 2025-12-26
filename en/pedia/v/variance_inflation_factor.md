@@ -20,7 +20,7 @@ In the context of [risk management](../r/risk_management.md), the VIF plays a vi
 
 ### Algorithmic Trading Strategies
 
-[Algorithmic trading](../a/accountability.md) relies on precise and efficient models to execute trades based on [market](../m/market.md) data. [Multicollinearity](../m/multicollinearity.md) in the features used for algorithmic models can lead to [overfitting](../o/overfitting.md), where the model captures [noise](../n/noise.md) rather than the [underlying](../u/underlying.md) signal. This can result in poor model performance on new, unseen data. By evaluating and adjusting for high VIFs, algo-traders can develop more [robust](../r/robust.md) and generalizable [trading algorithms](../t/trading_algorithms.md) that perform better in real-[market](../m/market.md) conditions.
+[Algorithmic trading](../a/algorithmic_trading.md) relies on precise and efficient models to execute trades based on [market](../m/market.md) data. [Multicollinearity](../m/multicollinearity.md) in the features used for algorithmic models can lead to [overfitting](../o/overfitting.md), where the model captures [noise](../n/noise.md) rather than the [underlying](../u/underlying.md) signal. This can result in poor model performance on new, unseen data. By evaluating and adjusting for high VIFs, algo-traders can develop more [robust](../r/robust.md) and generalizable [trading algorithms](../t/trading_algorithms.md) that perform better in real-[market](../m/market.md) conditions.
 
 ## Calculation and Interpretation
 

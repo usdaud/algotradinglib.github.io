@@ -54,13 +54,13 @@ Governments may also seek to close the fiscal gap by spurring [economic growth](
 ## Real-World Examples
 
 ### United States
-The fiscal [deficit](../d/deficit.md) of the United States has varied substantially over time, driven by factors like military expenditures, economic crises, and policy decisions. For updated data on the U.S. fiscal [deficit](../d/deficit.md), you can visit the [U.S. Treasury Department](https://home.treasury.gov/).
+The fiscal [deficit](../d/deficit.md) of the United States has varied substantially over time, driven by factors like military expenditures, economic crises, and policy decisions. For updated data on the U.S. fiscal [deficit](../d/deficit.md), you can visit the U.S. Treasury Department.
 
 ### European Union
-The [European Union](../e/european_union_(eu).md) has strict fiscal rules for its member states, encapsulated in the Stability and Growth Pact, which mandates that member countries maintain their fiscal deficits below 3% of GDP. Further information can be found on the [European Commission’s website](https://ec.europa.eu/info/business-economy-euro/economic-and-fiscal-policy-coordination/eu-economic-governance-monitoring-prevention-correction/stability-and-growth-pact_en).
+The [European Union](../e/european_union_(eu).md) has strict fiscal rules for its member states, encapsulated in the Stability and Growth Pact, which mandates that member countries maintain their fiscal deficits below 3% of GDP.
 
 ## Case Study: Japan’s Fiscal Deficit
-Japan has one of the highest fiscal deficits among developed countries, primarily due to its aging population and high [social security](../s/social_security.md) expenditures. Despite this, Japan has managed to maintain low-[interest](../i/interest.md) rates largely because the majority of its [debt](../d/debt.md) is domestically held. For more information, you can visit the [Ministry of Finance, Japan](https://www.mof.go.jp/english/).
+Japan has one of the highest fiscal deficits among developed countries, primarily due to its aging population and high [social security](../s/social_security.md) expenditures. Despite this, Japan has managed to maintain low-[interest](../i/interest.md) rates largely because the majority of its [debt](../d/debt.md) is domestically held. For more information, you can visit the Ministry of Finance, Japan.
 
 ## Conclusion
 

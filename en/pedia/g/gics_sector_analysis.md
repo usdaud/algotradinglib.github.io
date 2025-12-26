@@ -1,6 +1,6 @@
 # GICS Sector Analysis
 
-The Global [Industry](../i/industry.md) Classification Standard (GICS) is a comprehensive [industry](../i/industry.md) taxonomy that was developed by MSCI, a leading provider of research-based indexes and analytics, and Standard & Poor’s (S&P), a global [rating](../r/rating.md) agency. GICS is used by the global financial community to categorize and compare companies according to their sector and [industry](../i/industry.md). This standardized classification is essential for investment strategies, [financial analysis](../f/financial_analysis.md), and benchmarking. 
+The Global [Industry](../i/industry.md) Classification Standard (GICS) is a comprehensive [industry](../i/industry.md) taxonomy that was developed by MSCI, a leading provider of research-based indexes and analytics, and Standard & Poor’s (S&P), a global [rating](../r/rating.md) agency. GICS is used by the global financial community to categorize and compare companies according to their sector and [industry](../i/industry.md). This standardized classification is essential for investment strategies, [financial analysis](../f/financial_analysis.md), and benchmarking.
 
 GICS is structured hierarchically with four levels of classification: sectors, [industry](../i/industry.md) groups, industries, and sub-industries. As of today, there are 11 sectors, 24 [industry](../i/industry.md) groups, 69 industries, and 158 sub-industries.
 
@@ -16,8 +16,8 @@ This sector includes companies involved in the exploration, production, and [mar
 - Oil & Gas Equipment & Services
 
 **Examples:**
-- [ExxonMobil](https://corporate.exxonmobil.com/)
-- [Chevron Corporation](https://www.chevron.com/)
+- ExxonMobil
+- Chevron Corporation
 
 ## 2. **Materials Sector**
 
@@ -32,8 +32,8 @@ The Materials sector includes companies that manufacture chemicals, construction
 - Paper & Forest Products
 
 **Examples:**
-- [BASF](https://www.basf.com/)
-- [Dow Inc.](https://www.dow.com/)
+- BASF
+- Dow Inc.
 
 ## 3. **Industrials Sector**
 
@@ -49,8 +49,8 @@ This sector encompasses companies that produce [capital goods](../c/capital_good
 - Machinery
 
 **Examples:**
-- [Boeing](https://www.boeing.com/)
-- [General Electric](https://www.ge.com/)
+- Boeing
+- General Electric
 
 ## 4. **Consumer Discretionary Sector**
 
@@ -67,8 +67,8 @@ The [Consumer Discretionary sector](../c/consumer_discretionary.md) covers goods
 - Specialized Consumer Services
 
 **Examples:**
-- [Toyota](https://www.toyota-global.com/)
-- [Nike](https://www.nike.com/)
+- Toyota
+- Nike
 
 ## 5. **Consumer Staples Sector**
 
@@ -84,8 +84,8 @@ The [Consumer Discretionary sector](../c/consumer_discretionary.md) covers goods
 - Personal Products
 
 **Examples:**
-- [Procter & Gamble](https://us.pg.com/)
-- [PepsiCo](https://www.pepsico.com/)
+- Procter & Gamble
+- PepsiCo
 
 ## 6. **Health Care Sector**
 
@@ -101,8 +101,8 @@ The Health Care sector encompasses companies that provide health care equipment 
 - Life Sciences Tools & Services
 
 **Examples:**
-- [Johnson & Johnson](https://www.jnj.com/)
-- [Pfizer](https://www.pfizer.com/)
+- Johnson & Johnson
+- Pfizer
 
 ## 7. **Financials Sector**
 
@@ -119,8 +119,8 @@ This sector includes companies involved in activities such as banking, [investme
 - [Real Estate](../r/real_estate.md) Management & Development
 
 **Examples:**
-- [JPMorgan Chase](https://www.jpmorganchase.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
+- JPMorgan Chase
+- Goldman Sachs
 
 ## 8. **Information Technology Sector**
 
@@ -135,8 +135,8 @@ The Information [Technology sector](../t/technology_sector.md) comprises compani
 - Semiconductors & Semiconductor Equipment
 
 **Examples:**
-- [Apple](https://www.apple.com/)
-- [Microsoft](https://www.microsoft.com/)
+- Apple
+- Microsoft
 
 ## 9. **Communication Services Sector**
 
@@ -151,8 +151,8 @@ This sector includes companies that provide communication services through fixed
 - [Interactive Media](../i/interactive_media.md) & Services
 
 **Examples:**
-- [Verizon Communications](https://www.verizon.com/)
-- [Walt Disney](https://www.thewaltdisneycompany.com/)
+- Verizon Communications
+- Walt Disney
 
 ## 10. **Utilities Sector**
 
@@ -167,8 +167,8 @@ The [Utilities sector](../u/utilities_sector.md) includes companies that provide
 - Independent Power Producers & Energy Traders
 
 **Examples:**
-- [Duke Energy](https://www.duke-energy.com/)
-- [NextEra Energy](https://www.nexteraenergy.com/)
+- Duke Energy
+- NextEra Energy
 
 ## 11. **Real Estate Sector**
 
@@ -180,8 +180,8 @@ The [Real Estate](../r/real_estate.md) sector includes companies involved in [re
 - [Real Estate](../r/real_estate.md) Management & Development
 
 **Examples:**
-- [Simon Property Group](https://www.simon.com/)
-- [Prologis](https://www.prologis.com/)
+- Simon Property Group
+- Prologis
 
 ## Significance of GICS in Algortrading
 
@@ -189,7 +189,7 @@ The [Real Estate](../r/real_estate.md) sector includes companies involved in [re
 
 Sector classification is crucial for building diversified portfolios and managing risks. By categorizing companies into sectors, investors and [fund](../f/fund.md) managers can assess the impact of economic, political, and [market](../m/market.md) changes on different parts of the [economy](../e/economy.md). This enables them to make informed decisions about [asset allocation](../a/asset_allocation.md) and investment strategies.
 
-### Use in Algorithmic Trading 
+### Use in Algorithmic Trading
 
 In [algorithmic trading](../a/algorithmic_trading.md), GICS sectors help in creating sector-specific algorithms or strategies. Different sectors exhibit unique characteristics and respond differently to [market](../m/market.md) events. By focusing on specific sectors, traders can develop customized algorithms that [capitalize](../c/capitalize.md) on sector-specific trends and anomalies.
 

@@ -1,6 +1,6 @@
 # Homoskedastic
 
-Homoskedasticity, or homoscedasticity, is a term often encountered in the fields of [statistics](../s/statistics.md) and [econometrics](../e/econometrics_in_trading.md), particularly when dealing with regression models. The concept is crucial for validating the assumptions of classical [linear regression](../l/linear_regression.md), ensuring that the results derived from models are both reliable and valid. Its presence or absence affects the [efficiency](../e/efficiency.md) of estimators used in [linear regression](../l/linear_regression.md), influencing the inference drawn from data analyses. 
+Homoskedasticity, or homoscedasticity, is a term often encountered in the fields of [statistics](../s/statistics.md) and [econometrics](../e/econometrics_in_trading.md), particularly when dealing with regression models. The concept is crucial for validating the assumptions of classical [linear regression](../l/linear_regression.md), ensuring that the results derived from models are both reliable and valid. Its presence or absence affects the [efficiency](../e/efficiency.md) of estimators used in [linear regression](../l/linear_regression.md), influencing the inference drawn from data analyses.
 
 ## Definition and Importance
 
@@ -12,7 +12,7 @@ Mathematically, if Var(ε | X = x) = σ^2 for all x, then the model exhibits hom
 
 ## Violations of Homoskedasticity: Heteroskedasticity
 
-When the assumption of constant variance is violated, we encounter [heteroskedasticity](../h/heteroskedasticity.md). This condition typically manifests when the [variability](../v/variability.md) of the residuals increases or decreases with the level of the independent variable(s), leading to inefficiencies in parameter estimation, biased standard errors, and potentially misleading statistical inferences. 
+When the assumption of constant variance is violated, we encounter [heteroskedasticity](../h/heteroskedasticity.md). This condition typically manifests when the [variability](../v/variability.md) of the residuals increases or decreases with the level of the independent variable(s), leading to inefficiencies in parameter estimation, biased standard errors, and potentially misleading statistical inferences.
 
 Identifying [heteroskedasticity](../h/heteroskedasticity.md) is crucial, as failing to correct it can invalidate hypothesis tests, [confidence intervals](../c/confidence_intervals.md), and prediction intervals. The consequences of [heteroskedasticity](../h/heteroskedasticity.md) are particularly pronounced in financial applications, [econometrics](../e/econometrics_in_trading.md), and any domain where precise estimation and inference are crucial.
 
@@ -54,20 +54,20 @@ When exact functional forms of [heteroskedasticity](../h/heteroskedasticity.md) 
 
 ## Practical Applications
 
-Homoskedasticity (and its counterpart [heteroskedasticity](../h/heteroskedasticity.md)) plays a critical role in various applications, especially in [finance](../f/finance.md) and [econometrics](../e/econometrics_in_trading.md). For example, in [algorithmic trading](../a/accountability.md) (algo trading) and high-frequency trading, ensuring that [trading strategies](../t/trading_strategies.md) based on regression models are homoskedastic significantly affects the performance and reliability of those models.
+Homoskedasticity (and its counterpart [heteroskedasticity](../h/heteroskedasticity.md)) plays a critical role in various applications, especially in [finance](../f/finance.md) and [econometrics](../e/econometrics_in_trading.md). For example, in [algorithmic trading](../a/algorithmic_trading.md) (algo trading) and high-frequency trading, ensuring that [trading strategies](../t/trading_strategies.md) based on regression models are homoskedastic significantly affects the performance and reliability of those models.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on models predicting [asset](../a/asset.md) prices, returns, and [volatility](../v/volatility.md). Homoskedasticity ensures that the prediction errors, regardless of the values of input variables (e.g., stock prices, volumes), remain consistent over time. This consistency is critical for financial models used by [trading algorithms](../t/trading_algorithms.md) to signal buy or sell decisions.
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on models predicting [asset](../a/asset.md) prices, returns, and [volatility](../v/volatility.md). Homoskedasticity ensures that the prediction errors, regardless of the values of input variables (e.g., stock prices, volumes), remain consistent over time. This consistency is critical for financial models used by [trading algorithms](../t/trading_algorithms.md) to signal buy or sell decisions.
 
-- [Two Sigma Investments](https://www.twosigma.com/)
-- [AQR Capital Management](https://www.aqr.com/)
+- Two Sigma Investments
+- AQR Capital Management
 
 ### Econometrics
 
 In [econometrics](../e/econometrics_in_trading.md), regression models are instrumental in policy analysis, [forecasting](../f/forecasting.md) [economic indicators](../e/economic_indicators.md), and understanding relationships between macroeconomic variables. Ensuring homoskedasticity allows economists to make reliable inferences and [confidence intervals](../c/confidence_intervals.md), providing more [robust](../r/robust.md) policy recommendations.
 
-- [National Bureau of Economic Research (NBER)](https://www.nber.org/)
+- National Bureau of Economic Research (NBER)
 
 ## Conclusion
 

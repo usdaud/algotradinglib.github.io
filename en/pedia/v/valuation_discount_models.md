@@ -146,9 +146,5 @@ Deploy the algorithm in a live [trading environment](../t/trading_environment.md
 
 Several firms specialize in providing [financial analysis](../f/financial_analysis.md) tools and algorithms that incorporate [valuation](../v/valuation.md) [discount](../d/discount.md) models. These companies [offer](../o/offer.md) platforms and services that support traders and investors in making data-driven decisions.
 
-- **[Morningstar](../m/morningstar.md):** [www.morningstar.com](www.morningstar.com)
-- **[Bloomberg](../b/bloomberg.md):** [www.bloomberg.com](www.bloomberg.com)
-- **[FactSet](../f/factset.md):** [www.factset.com](www.factset.com)
-- **[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md):** [www.spglobal.com/marketintelligence](www.spglobal.com/marketintelligence)
-
+- **[Morningstar](../m/morningstar.md):** - **[Bloomberg](../b/bloomberg.md):** - **[FactSet](../f/factset.md):** - **[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md):**
 In conclusion, [valuation](../v/valuation.md) [discount](../d/discount.md) models are indispensable tools in the arsenal of algorithmic traders. By accurately assessing the [intrinsic value](../i/intrinsic_value.md) of assets, these models enable traders to make informed decisions, optimize their portfolios, and enhance their [trading performance](../t/trading_performance.md) in the [financial markets](../f/financial_market.md).

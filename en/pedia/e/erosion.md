@@ -99,7 +99,7 @@ Adopting [machine learning](../m/machine_learning.md) (ML) and [artificial intel
 2. **[Pattern Recognition](../p/pattern_recognition.md):** AI techniques can identify complex patterns and relationships in data that traditional models may overlook.
 3. **Automated Refinement:** AI-driven algorithms can continuously refine themselves based on new data and [market](../m/market.md) feedback.
 
-[Example: AI and machine learning solutions provided by Teradata](https://www.teradata.com/Resources/Videos/Machine-Learning-and-AI-Solutions)
+Example: AI and machine learning solutions provided by Teradata
 
 ### Cloud Computing
 [Cloud computing](../c/cloud_computing_in_trading.md) offers [scalability](../s/scalability.md), flexibility, and access to vast computational resources. Utilizing cloud [infrastructure](../i/infrastructure.md) can mitigate erosion by enabling traders to:
@@ -107,8 +107,8 @@ Adopting [machine learning](../m/machine_learning.md) (ML) and [artificial intel
 1. **Scale Resources:** Quickly scale computing resources up or down based on [demand](../d/demand.md).
 2. **Advanced Analytics:** [Leverage](../l/leverage.md) powerful cloud-based analytics tools to enhance model performance.
 3. **Collaboration:** Foster collaboration and data sharing across geographically dispersed teams.
-   
-[Example: Cloud computing services offered by Amazon Web Services (AWS)](https://aws.amazon.com/solutions/financial-services/algorithmic-trading/)
+
+Example: Cloud computing services offered by Amazon Web Services (AWS)
 
 ### Alternative Data
 Incorporating [alternative data](../a/alternative_data.md) sources can provide unique insights and enhance the robustness of [trading algorithms](../t/trading_algorithms.md). Examples include:
@@ -117,7 +117,7 @@ Incorporating [alternative data](../a/alternative_data.md) sources can provide u
 2. **Geospatial Data:** Using satellite imagery to monitor economic activities and inform trading decisions.
 3. **IoT Data:** Leveraging data from the Internet of Things (IoT) to [gain](../g/gain.md) real-time insights into [market dynamics](../m/market_dynamics.md).
 
-[Example: Alternative data offerings by Quandl](https://www.quandl.com/)
+Example: Alternative data offerings by Quandl
 
 ## Conclusion
 

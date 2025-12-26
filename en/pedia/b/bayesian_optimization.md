@@ -70,19 +70,19 @@ Several companies and tools [offer](../o/offer.md) Bayesian [Optimization](../o/
 
 ### Ax by Facebook AI Research (FAIR)
 
-[Ax](https://ax.dev/) is a platform developed by Facebook AI Research for automating experiments and Bayesian [Optimization](../o/optimization.md). It provides an interface for implementing complex [optimization](../o/optimization.md) tasks in Python.
+Ax is a platform developed by Facebook AI Research for automating experiments and Bayesian [Optimization](../o/optimization.md). It provides an interface for implementing complex [optimization](../o/optimization.md) tasks in Python.
 
 ### Google Vizier
 
-[Google Vizier](https://cloud.google.com/ai-platform/optimizer) is an advanced hyperparameter tuning and black-box [optimization](../o/optimization.md) service available in Google Cloud, leveraging Bayesian [Optimization](../o/optimization.md) techniques.
+Google Vizier is an advanced hyperparameter tuning and black-box [optimization](../o/optimization.md) service available in Google Cloud, leveraging Bayesian [Optimization](../o/optimization.md) techniques.
 
 ### OPTUNA
 
-[Optuna](https://optuna.org/) is an automatic hyperparameter [optimization](../o/optimization.md) library designed for [machine learning](../m/machine_learning.md), using efficient [sampling](../s/sampling.md) and pruning strategies for Bayesian [Optimization](../o/optimization.md).
+Optuna is an automatic hyperparameter [optimization](../o/optimization.md) library designed for [machine learning](../m/machine_learning.md), using efficient [sampling](../s/sampling.md) and pruning strategies for Bayesian [Optimization](../o/optimization.md).
 
 ### Hyperopt
 
-[Hyperopt](http://hyperopt.github.io/hyperopt/) is a Python library for serial and parallel [optimization](../o/optimization.md) over awkward search spaces, which supports various [optimization](../o/optimization.md) algorithms, including Bayesian [Optimization](../o/optimization.md).
+Hyperopt is a Python library for serial and parallel [optimization](../o/optimization.md) over awkward search spaces, which supports various [optimization](../o/optimization.md) algorithms, including Bayesian [Optimization](../o/optimization.md).
 
 ## Challenges and Future Directions
 
@@ -94,4 +94,4 @@ Despite its advantages, Bayesian [Optimization](../o/optimization.md) faces chal
 
 Researchers are actively working on addressing these issues, making Bayesian [Optimization](../o/optimization.md) a continually evolving and promising area of study.
 
-In conclusion, Bayesian [Optimization](../o/optimization.md) is a sophisticated method for optimizing expensive, noisy, and black-box functions. Its application spans numerous fields, proving invaluable for tasks requiring efficient and reliable [optimization](../o/optimization.md) strategies.
+In conclusion, Bayesian [Optimization](../o/optimization.md) is a sophisticated method for optimizing expensive, noisy, and black-box functions. Its application spans numerous fields, proving invaluable for tasks requiring efficient and reliable [optimization](../o/optimization.md) strategies.

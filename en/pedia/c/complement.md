@@ -42,4 +42,3 @@ In [economics](../e/economics.md), complements are goods that are often used tog
 
 ## Conclusion
 The term "complement" is versatile and used in various disciplines to describe something that completes or enhances another element. Understanding its application in grammar, mathematics, genetics, and [economics](../e/economics.md) provides a deeper insight into how different components interact to form a complete system.
-

@@ -53,19 +53,19 @@ Interpreting financial data correctly is critical, and any biases in the NLG sys
 ## Key Players in NLG for Trading
 
 ### 1. Automated Insights
-Automated Insights is a leader in NLG technology, providing solutions that transform data into engaging narratives. Their platform Wordsmith can generate financial reports, summaries, and personalized communications, enhancing decision-making and client engagement for trading firms. [Visit Automated Insights](https://automatedinsights.com)
+Automated Insights is a leader in NLG technology, providing solutions that transform data into engaging narratives. Their platform Wordsmith can generate financial reports, summaries, and personalized communications, enhancing decision-making and client engagement for trading firms. Visit Automated Insights
 
 ### 2. Narrative Science
-Narrative Science offers advanced NLG solutions that deliver insights from data in natural language. Their Quill platform is used by financial institutions to create regulatory reports, investment commentaries, and more. [Visit Narrative Science](https://narrativescience.com)
+Narrative Science offers advanced NLG solutions that deliver insights from data in natural language. Their Quill platform is used by financial institutions to create regulatory reports, investment commentaries, and more. Visit Narrative Science
 
 ### 3. Yseop
-Yseop specializes in NLG technology with a focus on financial services. Their Augmented Analyst platform automates the generation of financial reports, compliance documents, and client communications, helping traders and analysts save time and improve accuracy. [Visit Yseop](https://yseop.com)
+Yseop specializes in NLG technology with a focus on financial services. Their Augmented Analyst platform automates the generation of financial reports, compliance documents, and client communications, helping traders and analysts save time and improve accuracy. Visit Yseop
 
 ### 4. Arria NLG
-Arria NLG provides sophisticated NLG solutions that convert structured data into natural language narratives. Their technology is widely used in [financial markets](../f/financial_market.md) to automate the generation of [earnings](../e/earnings.md) reports, portfolio summaries, and [market](../m/market.md) analysis. [Visit Arria NLG](https://www.arria.com)
+Arria NLG provides sophisticated NLG solutions that convert structured data into natural language narratives. Their technology is widely used in [financial markets](../f/financial_market.md) to automate the generation of [earnings](../e/earnings.md) reports, portfolio summaries, and [market](../m/market.md) analysis. Visit Arria NLG
 
 ### 5. IBM Watson
-IBM Watson offers NLG capabilities as part of its broader AI and analytics services. Watson can analyze vast amounts of financial data and generate insightful reports and summaries, aiding traders and analysts in decision-making processes. [Visit IBM Watson](https://www.ibm.com/watson)
+IBM Watson offers NLG capabilities as part of its broader AI and analytics services. Watson can analyze vast amounts of financial data and generate insightful reports and summaries, aiding traders and analysts in decision-making processes. Visit IBM Watson
 
 ## Future Prospects and Trends
 

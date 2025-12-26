@@ -82,13 +82,11 @@ Before deploying the [barbell strategy](../b/barbell_strategy.md) in live tradin
 
 BlackRock, one of the world's largest [asset management](../a/asset_management.md) firms, has successfully implemented the [barbell strategy](../b/barbell_strategy.md) in its investment portfolios. By allocating a significant portion of funds to conservative assets such as government bonds and blue-chip [stocks](../s/stock.md), BlackRock ensures stability and [capital preservation](../c/capital_preservation.md). Simultaneously, the [firm](../f/firm.md) invests in high-[risk](../r/risk.md), high-reward opportunities such as emerging markets and alternative investments, aiming to achieve superior returns.
 
-[BlackRock](https://www.blackrock.com)
 
 ### Case Study 2: Renaissance Technologies
 
 Renaissance Technologies, a renowned [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md), employs a barbell-like strategy in its [algorithmic trading](../a/accountability.md) approach. The [firm](../f/firm.md) combines low-[risk](../r/risk.md) investments, such as treasury bonds, with speculative assets, including [options](../o/options.md) and [futures contracts](../f/futures_contracts.md). By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency trading techniques, Renaissance Technologies optimizes its [risk](../r/risk.md)-[return](../r/return.md) profile and consistently delivers impressive performance.
 
-[Renaissance Technologies](https://www.rentec.com)
 
 ## Conclusion
 

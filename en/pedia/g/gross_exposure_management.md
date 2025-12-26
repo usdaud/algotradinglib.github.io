@@ -50,13 +50,13 @@ Accurate and timely data is crucial for managing [gross exposure](../g/gross_exp
 Several companies and institutions lead the way in advanced [risk management](../r/risk_management.md) techniques, including gross [exposure management](../e/exposure_management.md).
 
 ### AQR Capital Management
-AQR (https://www.aqr.com) employs quantitative analytics to manage risks, including [gross exposure](../g/gross_exposure.md). Their systematic approach to trading includes rigorous [risk management](../r/risk_management.md) frameworks.
+AQR ( employs quantitative analytics to manage risks, including [gross exposure](../g/gross_exposure.md). Their systematic approach to trading includes rigorous [risk management](../r/risk_management.md) frameworks.
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com) uses advanced technologies and [data science](../d/data_science_in_trading.md) to manage their [trading strategies](../t/trading_strategies.md). Their approach to [risk management](../r/risk_management.md) includes sophisticated models for [gross exposure](../g/gross_exposure.md).
+Two Sigma ( uses advanced technologies and [data science](../d/data_science_in_trading.md) to manage their [trading strategies](../t/trading_strategies.md). Their approach to [risk management](../r/risk_management.md) includes sophisticated models for [gross exposure](../g/gross_exposure.md).
 
 ### Bridgewater Associates
-Bridgewater (https://www.bridgewater.com) is well-known for its principled approach to [risk management](../r/risk_management.md). They utilize detailed [risk metrics](../r/risk_metrics.md) and [exposure management](../e/exposure_management.md) techniques to navigate [financial markets](../f/financial_market.md).
+Bridgewater ( is well-known for its principled approach to [risk management](../r/risk_management.md). They utilize detailed [risk metrics](../r/risk_metrics.md) and [exposure management](../e/exposure_management.md) techniques to navigate [financial markets](../f/financial_market.md).
 
 ## Challenges
 

@@ -9,7 +9,7 @@ Running average strategies, often referred to as [moving average strategies](../
 The Simple Moving Average (SMA) is one of the most straightforward forms of moving averages. It is calculated by summing up the prices over a certain period and then dividing by that period.
 
 **Formula**:
-\[ \text{SMA}_n = \frac{P_1 + P_2 + ... + P_n}{n} \]
+\[ \text{SMA}_n = \frac{P_1 + P_2 +... + P_n}{n} \]
 
 Where \( P \) represents the price at a given time point, and \( n \) is the time period.
 
@@ -28,7 +28,7 @@ Where \( \[alpha](../a/alpha.md) \) is the smoothing [factor](../f/factor.md) ca
 The [Weighted](../w/weighted.md) Moving Average (WMA) assigns a different weight to each price point within the period. The most recent price gets the highest weight, and weights decrease in a linear fashion.
 
 **Formula**:
-\[ \text{WMA} = \frac{n \cdot P_1 + (n-1) \cdot P_2 + ... + 1 \cdot P_n}{\sum_{i=1}^n i} \]
+\[ \text{WMA} = \frac{n \cdot P_1 + (n-1) \cdot P_2 +... + 1 \cdot P_n}{\sum_{i=1}^n i} \]
 
 ### Moving Average Convergence Divergence (MACD)
 
@@ -114,29 +114,25 @@ cerebro.plot()
 
 ## Industry Application
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform adhering to institutional standards. The platform supports diverse financial instruments and programming languages, including Python and C#.
+[StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform adhering to institutional standards. The platform supports diverse financial instruments and C#.
 
-[QuantConnect](https://www.quantconnect.com/)
 
 ### Bloomberg Terminal
 
 [Bloomberg](../b/bloomberg.md) Terminal offers [robust](../r/robust.md) analytics tools facilitating the implementation of [moving average strategies](../m/moving_average_strategies.md). The terminal is widely used in the [finance](../f/finance.md) [industry](../i/industry.md) for [real-time data analysis](../r/real-time_data_analysis.md) and trading operations.
 
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### AlgoTrader
 
 [AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md), including moving averages. The platform offers extensive [backtesting](../b/backtesting.md) capabilities and connectivity to various [liquidity](../l/liquidity.md) providers.
 
-[AlgoTrader](https://www.algotrader.com/)
 
 ### TradingView
 
 [TradingView](../t/tradingview.md) is an online platform that provides charting tools and moving average indicators for traders. It supports scripting in Pine Script for custom strategy development and [backtesting](../b/backtesting.md).
 
-[TradingView](https://www.tradingview.com/)
 
 ## Conclusion
 

@@ -11,7 +11,7 @@ A crucial component of TOD is the designation of one or more beneficiaries. The 
 Several types of accounts can have TOD provisions:
 1. **Brokerage Accounts**: Most major brokerage firms [offer](../o/offer.md) TOD designations for investment accounts. This allows the transfer of [stocks](../s/stock.md), bonds, ETFs, and mutual funds directly to beneficiaries.
 2. **[Bank](../b/bank.md) Accounts**: Certain banks [offer](../o/offer.md) TOD registration for checking, savings, and CD accounts. This ensures direct [asset](../a/asset.md) transfer without [probate](../p/probate.md).
-3. **[Real Estate](../r/real_estate.md)**: In some states, TOD can apply to [real estate](../r/real_estate.md) deeds through a Transfer on Death [Deed](../d/deed.md). 
+3. **[Real Estate](../r/real_estate.md)**: In some states, TOD can apply to [real estate](../r/real_estate.md) deeds through a Transfer on Death [Deed](../d/deed.md).
 
 ### Legal Process
 Establishing a TOD designation typically involves filling out a simple form provided by the financial institution or brokerage [firm](../f/firm.md). It's essential to ensure the form is correctly filled out and on file with the institution. These forms can usually be updated to reflect changing [beneficiary](../b/beneficiary.md) designations.
@@ -71,4 +71,4 @@ Beneficiaries receiving assets via TOD should be aware of potential tax implicat
 ## Conclusion
 A Transfer on Death (TOD) designation is a valuable tool in [estate planning](../e/estate_planning.md) that simplifies the process of transferring assets to beneficiaries upon death. By allowing assets to bypass [probate](../p/probate.md), TOD designations [offer](../o/offer.md) a quicker, less expensive, and private means of [asset](../a/asset.md) transfer. However, it's crucial to understand the limitations and potential drawbacks, including the lack of tax benefits and the need to keep [beneficiary](../b/beneficiary.md) designations up to date. Educating oneself on state-specific regulations and consulting with financial advisors can maximize the benefits of TOD designations in an overall [estate](../e/estate.md) plan.
 
-For more detailed information, you can visit related financial institutions like [Vanguard](https://investor.vanguard.com/) or [Fidelity](https://www.fidelity.com/).
+For more detailed information, you can visit related financial institutions like Vanguard or Fidelity.

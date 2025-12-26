@@ -47,7 +47,7 @@ This simplified example illustrates the basic process, though in practice, the c
 3. **[Asset](../a/asset.md) Impairments**: Write-downs of the [value](../v/value.md) of assets that have lost [value](../v/value.md).
 4. **[Discontinued Operations](../d/discontinued_operations.md)**: Gains or losses from parts of the [business](../b/business.md) that have been sold or shut down.
 5. **[Acquisition](../a/acquisition.md) Costs**: Expenses related to mergers and acquisitions.
-6. **Natural Disasters or Accidents**: Unplanned events causing significant financial impact. 
+6. **Natural Disasters or Accidents**: Unplanned events causing significant financial impact.
 
 ### Identifying Non-Recurring Items
 Determining what constitutes a non-recurring item requires [judgment](../j/judgment.md) and a deep understanding of the company's operations and financial context. Companies typically disclose these items in their financial reports, and analysts must scrutinize these disclosures to assess their impact accurately.
@@ -86,13 +86,13 @@ Despite these challenges, [underlying](../u/underlying.md) [profit](../p/profit.
 ## Real-World Application
 
 ### Corporate Earnings Reports
-Major corporations across industries use [underlying](../u/underlying.md) [profit](../p/profit.md) to communicate [financial performance](../f/financial_performance.md). For example, companies like [Unilever](https://www.unilever.com) and [GlaxoSmithKline](https://www.gsk.com) often report [underlying](../u/underlying.md) [profit](../p/profit.md) to provide clarity on their [operational efficiency](../o/operational_efficiency_in_trading.md) and growth trajectory.
+Major corporations across industries use [underlying](../u/underlying.md) [profit](../p/profit.md) to communicate [financial performance](../f/financial_performance.md). For example, companies like Unilever and GlaxoSmithKline often report [underlying](../u/underlying.md) [profit](../p/profit.md) to provide clarity on their [operational efficiency](../o/operational_efficiency_in_trading.md) and growth trajectory.
 
 ### Investment Analysis
-Investment firms and analysts, such as those at [Goldman Sachs](https://www.goldmansachs.com) and [JP Morgan Chase](https://www.jpmorganchase.com), incorporate [underlying](../u/underlying.md) [profit](../p/profit.md) into their analysis to make well-informed investment decisions.
+Investment firms and analysts, such as those at Goldman Sachs and JP Morgan Chase, incorporate [underlying](../u/underlying.md) [profit](../p/profit.md) into their analysis to make well-informed investment decisions.
 
 ### Performance Metrics
-Management teams at companies like [Siemens](https://www.siemens.com) and [General Electric](https://www.ge.com) use [underlying](../u/underlying.md) [profit](../p/profit.md) to set performance targets and measure success, ensuring that strategic initiatives are aligned with long-term operational objectives.
+Management teams at companies like Siemens and General Electric use [underlying](../u/underlying.md) [profit](../p/profit.md) to set performance targets and measure success, ensuring that strategic initiatives are aligned with long-term operational objectives.
 
 ## Conclusion
 

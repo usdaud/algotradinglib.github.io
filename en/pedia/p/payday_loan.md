@@ -9,7 +9,7 @@ The process to obtain a payday [loan](../l/loan.md) is relatively straightforwar
 1. **Application**: Borrowers apply for the [loan](../l/loan.md) either in person or online. They are required to provide proof of identity, proof of [income](../i/income.md), and a post-dated [check](../c/check.md) or authorization for electronic [debit](../d/debit.md) from their [bank](../b/bank.md) account.
 2. **Approval**: Once the [lender](../l/lender.md) reviews the documentation and verifies that the borrower has a stable [income](../i/income.md) and an active [bank](../b/bank.md) account, the [loan](../l/loan.md) is approved.
 3. **[Disbursement](../d/disbursement.md)**: The borrower receives the [loan](../l/loan.md) amount, usually in cash or via a [direct deposit](../d/direct_deposit.md) to their [bank](../b/bank.md) account.
-   
+
 ### Repayment
 1. **Due Date**: The [loan](../l/loan.md) is typically due on the borrower's next payday, which is usually within two to four weeks.
 2. **[Repayment](../r/repayment.md) Method**: The [loan](../l/loan.md) amount plus fees and [interest](../i/interest.md) are automatically deducted from the borrower's [bank](../b/bank.md) account or the borrower redeems their post-dated [check](../c/check.md).
@@ -84,6 +84,6 @@ Regulators worldwide are increasingly focusing on protecting consumers from pred
 
 ## Conclusion
 
-Payday loans provide a quick and accessible but costly short-term [credit](../c/credit.md) solution. The structure of payday loans, combined with their high fees and [interest](../i/interest.md) rates, poses significant risks, particularly for financially vulnerable individuals. Although there are benefits to having such accessible short-term loans, the ethical considerations and potential for financial harm make this a heavily regulated and controversial financial product. Effective regulation, consumer education, and the development of alternative [credit](../c/credit.md) solutions are crucial to mitigate the risks associated with payday loans. For more detailed information about specific payday [loan](../l/loan.md) services, visit [Advance America](https://www.advanceamerica.net/), a prominent provider in the United States.
+Payday loans provide a quick and accessible but costly short-term [credit](../c/credit.md) solution. The structure of payday loans, combined with their high fees and [interest](../i/interest.md) rates, poses significant risks, particularly for financially vulnerable individuals. Although there are benefits to having such accessible short-term loans, the ethical considerations and potential for financial harm make this a heavily regulated and controversial financial product. Effective regulation, consumer education, and the development of alternative [credit](../c/credit.md) solutions are crucial to mitigate the risks associated with payday loans. For more detailed information about specific payday [loan](../l/loan.md) services, visit Advance America, a prominent provider in the United States.
 
 ```

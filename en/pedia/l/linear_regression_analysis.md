@@ -79,7 +79,7 @@ from sklearn.metrics [import](../i/import.md) mean_squared_error, r2_score
 [import](../i/import.md) matplotlib.pyplot as plt
 
 # Sample data (opening and closing prices)
-data = pd.DataFrame({
+data = pd.DataFrame{
     'opening_price': np.random.uniform(50, 150, 100),
     'closing_price': np.random.uniform(50, 150, 100)
 })
@@ -125,4 +125,4 @@ To address these, advanced techniques such as polynomial regression, ridge regre
 
 ## Conclusion
 
-[Linear regression](../l/linear_regression.md) analysis is an essential tool in the arsenal of a data scientist or quantitative [trader](../t/trader.md). It allows for understanding and predicting relationships between variables, which can be pivotal in making informed trading decisions. By adhering to its assumptions and carefully evaluating the model, one can effectively [leverage](../l/leverage.md) [linear regression](../l/linear_regression.md) for various financial applications. For further insights and tools for performing [linear regression](../l/linear_regression.md) in the context of trading, companies such as [Quandl](https://www.quandl.com/) and [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provide vast datasets and platforms for more comprehensive analysis.
+[Linear regression](../l/linear_regression.md) analysis is an essential tool in the arsenal of a data scientist or quantitative [trader](../t/trader.md). It allows for understanding and predicting relationships between variables, which can be pivotal in making informed trading decisions. By adhering to its assumptions and carefully evaluating the model, one can effectively [leverage](../l/leverage.md) [linear regression](../l/linear_regression.md) for various financial applications. For further insights and tools for performing [linear regression](../l/linear_regression.md) in the context of trading, companies such as Quandl and Bloomberg Terminal provide vast datasets and platforms for more comprehensive analysis.

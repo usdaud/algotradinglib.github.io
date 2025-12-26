@@ -68,13 +68,13 @@ An [investor](../i/investor.md) with a [risk](../r/risk.md) aversion coefficient
 Numerous platforms and software integrate [lambda](../l/lambda.md) in [portfolio optimization](../p/portfolio_optimization.md):
 
 - **Portfolio Visualizer**: Allows users to adjust [risk](../r/risk.md) aversion parameters and see the impact on portfolio allocations.
-  - [Portfolio Visualizer](https://www.portfoliovisualizer.com)
+ - Portfolio Visualizer
 
 - **[QuantConnect](../q/quantconnect.md)**: Provides a [backtesting](../b/backtesting.md) engine where users can implement custom [lambda](../l/lambda.md)-based [optimization](../o/optimization.md) algorithms.
-  - [QuantConnect](https://www.quantconnect.com)
+ - QuantConnect
 
 - **Matlab Financial Toolbox**: Offers functions for [mean-variance optimization](../m/mean-variance_optimization.md) that include [lambda](../l/lambda.md) as a parameter.
-  - [Matlab](https://www.mathworks.com/products/finance.html)
+ - Matlab
 
 ## Conclusion
 

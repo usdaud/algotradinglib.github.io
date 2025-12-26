@@ -8,7 +8,7 @@ Preference [shares](../s/shares.md), also known as [preferred stock](../p/prefer
 
 ### Dividend Priority
 
-Preference shareholders receive [dividend](../d/dividend.md) payments before common shareholders. These dividends are often fixed and may accumulate if not paid when due, a feature known as cumulative [preferred stock](../p/preferred_stock.md). This priority in dividends makes preferred [shares](../s/shares.md) an attractive investment for those seeking a steady [income](../i/income.md) stream. 
+Preference shareholders receive [dividend](../d/dividend.md) payments before common shareholders. These dividends are often fixed and may accumulate if not paid when due, a feature known as cumulative [preferred stock](../p/preferred_stock.md). This priority in dividends makes preferred [shares](../s/shares.md) an attractive investment for those seeking a steady [income](../i/income.md) stream.
 
 ### Fixed Dividend Rate
 
@@ -38,7 +38,7 @@ These [shares](../s/shares.md) come with the benefit of accumulating dividends. 
 
 ### Non-Cumulative Preference Shares
 
-Non-cumulative preference [shares](../s/shares.md) do not accumulate unpaid dividends. If a [dividend](../d/dividend.md) is skipped, the [shareholder](../s/shareholder.md) does not have the right to claim it in the future. 
+Non-cumulative preference [shares](../s/shares.md) do not accumulate unpaid dividends. If a [dividend](../d/dividend.md) is skipped, the [shareholder](../s/shareholder.md) does not have the right to claim it in the future.
 
 ### Participating Preference Shares
 
@@ -74,7 +74,7 @@ Preference [shares](../s/shares.md) can [offer](../o/offer.md) a [diversificatio
 
 ### Limited Upside Potential
 
-The fixed [dividend rate](../d/dividend_rate.md) limits the potential for [capital](../c/capital.md) appreciation seen with common [shares](../s/shares.md). 
+The fixed [dividend rate](../d/dividend_rate.md) limits the potential for [capital](../c/capital.md) appreciation seen with common [shares](../s/shares.md).
 
 ### Interest Rate Sensitivity
 
@@ -165,5 +165,5 @@ Understanding the tax implications is vital for investors, affecting the net [yi
 Preference [shares](../s/shares.md) [offer](../o/offer.md) a unique blend of characteristics, providing steady dividends with a higher claim on assets than common [shares](../s/shares.md). They are valuable tools in [corporate finance](../c/corporate_finance.md) for raising [capital](../c/capital.md) and optimizing [financial structure](../f/financial_structure.md) while [offering](../o/offering.md) investors an [income](../i/income.md)-producing alternative to bonds. However, they come with limitations, including capped [upside potential](../u/upside_potential_in_trading.md) and lack of voting rights. Understanding the detailed features, benefits, drawbacks, and regulatory landscape of preference [shares](../s/shares.md) can help both investors and corporations make informed decisions.
 
 For further details on managing and [investing](../i/investing.md) in preference [shares](../s/shares.md), companies such as Vanguard and Fidelity provide comprehensive resources:
-- [Vanguard](https://www.vanguard.com)
-- [Fidelity](https://www.fidelity.com)
+- Vanguard
+- Fidelity

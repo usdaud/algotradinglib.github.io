@@ -14,7 +14,7 @@ The price paid for the option is known as the [premium](../p/premium.md). The [s
 
 ### 2. Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, employs complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to automate the trading process. In the context of [options](../o/options.md) trading, these algorithms can be used to identify trading opportunities, execute orders, and manage [risk](../r/risk.md). 
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, employs complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to automate the trading process. In the context of [options](../o/options.md) trading, these algorithms can be used to identify trading opportunities, execute orders, and manage [risk](../r/risk.md).
 
 Key features of [algorithmic trading](../a/algorithmic_trading.md) include:
 - **Speed**: Algorithms can execute trades much faster than human traders.
@@ -54,7 +54,7 @@ Traders need a vast amount of historical and real-time data. This data includes 
 
 #### Algorithm Design and Testing
 
-The next step is designing the trading algorithm. Programmers and quantitative analysts often use programming languages like Python, R, or C++ to write the algorithms. The designed algorithms are then rigorously tested using historical data to ensure their effectiveness and reliability. 
+The next step is designing the trading algorithm. Programmers and quantitative analysts often use programming languages like Python, R, or C++ to write the algorithms. The designed algorithms are then rigorously tested using historical data to ensure their effectiveness and reliability.
 
 #### Algorithm Validation
 
@@ -77,16 +77,12 @@ Algorithmic [options](../o/options.md) trading involves significant risks, inclu
 Several firms specialize in algorithmic [options](../o/options.md) trading. Some of the notable firms include:
 
 - **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses sophisticated algorithms and provides [liquidity](../l/liquidity.md) in various markets, including [options](../o/options.md).
-  [Jane Street](https://www.janestreet.com/)
 
 - **Citadel Securities**: A leading [market maker](../m/market_maker.md) providing [liquidity](../l/liquidity.md) in a wide [range](../r/range.md) of financial instruments, including [options](../o/options.md), using advanced algorithms.
-  [Citadel Securities](https://www.citadelsecurities.com/)
 
 - **Two Sigma**: A technology-driven [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) using [data science](../d/data_science_in_trading.md) and advanced algorithms to [trade](../t/trade.md) [options](../o/options.md) and other financial instruments.
-  [Two Sigma](https://www.twosigma.com/)
 
 - **IMC**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) specializing in [algorithmic trading](../a/algorithmic_trading.md) across various [asset](../a/asset.md) classes, including [options](../o/options.md).
-  [IMC Trading](https://www.imc.com/)
 
 These firms invest heavily in technology and employ teams of quantitative analysts, data scientists, and software developers to create and maintain their [trading algorithms](../t/trading_algorithms.md).
 

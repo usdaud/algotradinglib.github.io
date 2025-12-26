@@ -1,6 +1,6 @@
-# Portfolio Variance 
+# Portfolio Variance
 
-Portfolio variance is a measure of the [dispersion](../d/dispersion.md) of returns of a portfolio. It provides an indication of the [risk](../r/risk.md) associated with the investments in the portfolio, highlighting the degree to which the returns on the assets in the portfolio change over time. 
+Portfolio variance is a measure of the [dispersion](../d/dispersion.md) of returns of a portfolio. It provides an indication of the [risk](../r/risk.md) associated with the investments in the portfolio, highlighting the degree to which the returns on the assets in the portfolio change over time.
 
 Portfolio variance is one of the key metrics used in [portfolio management](../p/par.md) and is essential when making investment decisions, especially for those seeking to maximize returns while minimizing [risk](../r/risk.md). This document provides a detailed explanation of portfolio variance, its significance, calculation, and practical applications in investment strategies.
 

@@ -80,7 +80,7 @@ An [Execution](../e/execution.md) Management System (EMS) is a specialized syste
 
 ### Trading Algorithms
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using computer algorithms to automate [trading strategies](../t/trading_strategies.md). The advantages include:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to automate [trading strategies](../t/trading_strategies.md). The advantages include:
 
 - Reduced [market](../m/market.md) impact
 - Minimized [trading costs](../t/trading_costs.md)
@@ -119,22 +119,22 @@ Effective [risk management](../r/risk_management.md) is crucial for trading desk
 Several companies specialize in providing trading desks and related services, including:
 
 1. **Goldman Sachs**
-   Website: [Goldman Sachs](https://www.goldmansachs.com)
+ online platform: Goldman Sachs
 
 2. **Morgan Stanley**
-   Website: [Morgan Stanley](https://www.morganstanley.com)
+ online platform: Morgan Stanley
 
 3. **JP Morgan**
-   Website: [JP Morgan](https://www.jpmorgan.com)
+ online platform: JP Morgan
 
 4. **Citadel Securities**
-   Website: [Citadel Securities](https://www.citadelsecurities.com)
+ online platform: Citadel Securities
 
 5. **[Interactive Brokers](../i/interactive_brokers.md)**
-   Website: [Interactive Brokers](https://www.interactivebrokers.com)
+ online platform: Interactive Brokers
 
 These firms [leverage](../l/leverage.md) their extensive resources, technology platforms, and [market](../m/market.md) expertise to provide comprehensive trading services.
 
 ## Conclusion
 
-Trading desks play a pivotal role in the [financial markets](../f/financial_market.md) by facilitating the efficient [execution](../e/execution.md) of trades across various [asset](../a/asset.md) classes. They employ an array of technologies and specialized roles to manage trades, monitor [market](../m/market.md) trends, and ensure lower [trading costs](../t/trading_costs.md) and risks. As financial technology continues to evolve, the role of trading desks and [algorithmic trading](../a/accountability.md) [will](../w/will.md) become even more significant in shaping the global financial landscape.
+Trading desks play a pivotal role in the [financial markets](../f/financial_market.md) by facilitating the efficient [execution](../e/execution.md) of trades across various [asset](../a/asset.md) classes. They employ an array of technologies and specialized roles to manage trades, monitor [market](../m/market.md) trends, and ensure lower [trading costs](../t/trading_costs.md) and risks. As financial technology continues to evolve, the role of trading desks and [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) become even more significant in shaping the global financial landscape.

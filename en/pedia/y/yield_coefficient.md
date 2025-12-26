@@ -1,6 +1,6 @@
 # Yield Coefficient
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), where trades are executed by algorithms at speeds and frequencies that are beyond human capabilities, certain mathematical and statistical measures become integral to the trading process. Among the important metrics is the [yield](../y/yield.md) coefficient, a parameter that quantifies the [efficiency](../e/efficiency.md) and profitability of an [algorithmic trading](../a/algorithmic_trading.md) strategy. 
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), where trades are executed by algorithms at speeds and frequencies that are beyond human capabilities, certain mathematical and statistical measures become integral to the trading process. Among the important metrics is the [yield](../y/yield.md) coefficient, a parameter that quantifies the [efficiency](../e/efficiency.md) and profitability of an [algorithmic trading](../a/algorithmic_trading.md) strategy.
 
 ## Understanding the Yield Coefficient
 
@@ -68,15 +68,15 @@ The latency and computational [efficiency](../e/efficiency.md) of the trading [i
 
 ### Example: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md) and live trading capabilities using [open](../o/open.md)-source LEAN Algorithm Framework. Their platform allows developers to design, optimize, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies with various [yield](../y/yield.md) coefficients that signal their profitability and [efficiency](../e/efficiency.md). For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md) and live trading capabilities using [open](../o/open.md)-source LEAN Algorithm Framework. Their platform allows developers to design, optimize, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies with various [yield](../y/yield.md) coefficients that signal their profitability and [efficiency](../e/efficiency.md). For more information, visit QuantConnect.
 
 ### Example: Two Sigma
 
-Two Sigma is a [hedge fund](../h/hedge_fund.md) that extensively uses [data science](../d/data_science_in_trading.md) and technology to develop [trading algorithms](../t/trading_algorithms.md). By integrating [performance metrics](../p/performance_metrics.md) such as [yield](../y/yield.md) coefficients, Two Sigma optimizes and selects [trading strategies](../t/trading_strategies.md) to deploy. To know more, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that extensively uses [data science](../d/data_science_in_trading.md) and technology to develop [trading algorithms](../t/trading_algorithms.md). By integrating [performance metrics](../p/performance_metrics.md) such as [yield](../y/yield.md) coefficients, Two Sigma optimizes and selects [trading strategies](../t/trading_strategies.md) to deploy. To know more, visit Two Sigma.
 
 ### Example: Jane Street
 
-Jane Street employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems to [trade](../t/trade.md) various [asset](../a/asset.md) classes. [Yield](../y/yield.md) coefficients are part of the metrics they utilize to evaluate and improve the [efficiency](../e/efficiency.md) of their [trading algorithms](../t/trading_algorithms.md). Learn more at [Jane Street](https://www.janestreet.com/).
+Jane Street employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems to [trade](../t/trade.md) various [asset](../a/asset.md) classes. [Yield](../y/yield.md) coefficients are part of the metrics they utilize to evaluate and improve the [efficiency](../e/efficiency.md) of their [trading algorithms](../t/trading_algorithms.md). Learn more at Jane Street.
 
 ## Optimizing Yield Coefficient
 

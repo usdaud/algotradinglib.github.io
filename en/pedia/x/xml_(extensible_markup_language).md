@@ -60,7 +60,7 @@ In this example, the `<[note](../n/note.md)>` element contains four child elemen
 Namespaces in XML help avoid naming conflicts by qualifying element and attribute names. Namespaces are declared using the `xmlns` attribute:
 
 ```xml
-<bookstore xmlns:bk="http://www.example.com/books">
+<bookstore xmlns:bk="
     <bk:book>
         <bk:title>XML Developer's Guide</bk:title>
         <bk:author>John Doe</bk:author>
@@ -75,7 +75,7 @@ While XML itself does not prescribe data structure rules, its capability can be 
 #### Example of an XML Schema:
 
 ```xml
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="
     <xs:element name="[note](../n/note.md)">
         <xs:complexType>
             <xs:sequence>
@@ -171,8 +171,8 @@ XML (Extensible Markup Language) has established itself as a cornerstone of the 
 
 For more information, you can explore the following resources:
 
-- [W3C XML](https://www.w3.org/XML/)
-- [Oxygen XML Editor](https://www.oxygenxml.com/)
-- [XMLSpy](https://www.altova.com/xmlspy-xml-editor)
+- W3C XML
+- Oxygen XML Editor
+- XMLSpy
 
 By mastering XML, you can significantly enhance your capability to work with diverse data formats, structures, and systems, thus adding an invaluable skill set to your technical repertoire.

@@ -70,19 +70,19 @@ Modern trading platforms and tools [offer](../o/offer.md) [robust](../r/robust.m
 
 [Thinkorswim](../t/thinkorswim.md) provides advanced [options](../o/options.md) trading tools, including [risk analysis](../r/risk_analysis.md), strategy evaluation, and paper trading. It offers comprehensive analytics for assessing [time decay](../t/time_decay.md) and implementing [hedging strategies](../h/hedging_strategies.md).
 
-Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+online platform: Thinkorswim
 
 #### 2. Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) offers a wide [range](../r/range.md) of [options](../o/options.md) trading tools, including real-time analytics, [risk management](../r/risk_management.md) features, and portfolio monitoring. Its platform supports complex [options](../o/options.md) strategies, making it suitable for [time decay](../t/time_decay.md) hedging.
 
-Website: [Interactive Brokers](https://www.interactivebrokers.com/)
+online platform: Interactive Brokers
 
 #### 3. E*TRADE
 
 [E*TRADE](../e/e_trade.md) provides a user-friendly platform with [options](../o/options.md) trading capabilities. It offers tools for analyzing [time decay](../t/time_decay.md), evaluating strategies, and managing [options](../o/options.md) portfolios.
 
-Website: [E*TRADE](https://us.etrade.com/home)
+online platform: E*TRADE
 
 ### Conclusion
 

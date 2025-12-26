@@ -13,7 +13,7 @@ The platform got its name from the concept of "T+0" settlement, a process wherei
 tZero's primary [value proposition](../v/value_proposition.md) lies in its integration of [blockchain](../b/blockchain_in_trading.md) technology into the securities trading ecosystem. Key technologies include:
 
 ### Distributed Ledger Technology (DLT)
-DLT is the cornerstone of tZero's platform. By using a distributed ledger, tZero ensures that all trading data is immutable and transparent, mitigating risks associated with data manipulation or [fraud](../f/fraud.md) typically seen in traditional [trading systems](../t/trading_systems.md). 
+DLT is the cornerstone of tZero's platform. By using a distributed ledger, tZero ensures that all trading data is immutable and transparent, mitigating risks associated with data manipulation or [fraud](../f/fraud.md) typically seen in traditional [trading systems](../t/trading_systems.md).
 
 ### Smart Contracts
 tZero utilizes [smart contracts](../s/smart_contracts_in_trading.md) to automate and enforce the terms of trading agreements, ensuring that all transactions are executed correctly and transparently. This reduces the need for intermediaries, cuts costs, and accelerates [transaction](../t/transaction.md) times.
@@ -27,7 +27,7 @@ tZero integrates digital wallets for secure storage and management of digital as
 ## Platform Functionalities
 
 ### Issuance
-One of tZero's core functionalities is the issuance of digital securities. This can radically simplify and streamline the process for businesses looking to raise [capital](../c/capital.md) through the [sale](../s/sale.md) of tokenized assets. 
+One of tZero's core functionalities is the issuance of digital securities. This can radically simplify and streamline the process for businesses looking to raise [capital](../c/capital.md) through the [sale](../s/sale.md) of tokenized assets.
 
 ### Trading
 tZero provides a [trading platform](../t/trading_platform.md) for buying and selling digital securities. It offers real-time [trade](../t/trade.md) [execution](../e/execution.md), reduced settlement times, and lower [transaction costs](../t/transaction_costs.md) compared to traditional trading platforms.
@@ -75,4 +75,4 @@ As [blockchain](../b/blockchain_in_trading.md) technology evolves, tZero may ado
 
 tZero represents a significant shift in how securities are issued, traded, and settled by integrating [blockchain](../b/blockchain_in_trading.md) technology into the traditional [financial system](../f/financial_system.md). With a focus on [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and regulatory compliance, it stands out as a pioneer in the fintech landscape. Its journey from concept to a fully operational [trading platform](../t/trading_platform.md) highlights the growing importance of technological innovation in modern [finance](../f/finance.md).
 
-For more information, you can visit tZero's official website at [tzero.com](https://www.tzero.com).
+com.

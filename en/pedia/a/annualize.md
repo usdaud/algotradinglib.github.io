@@ -60,7 +60,6 @@ So, a 2% monthly [return](../r/return.md) annualized would be approximately 26.8
 
 S&P Global provides essential financial information and analytics, including annualized [performance metrics](../p/performance_metrics.md) for various investments. Their tools and data help financial professionals make informed decisions based on normalized data.
 
-Website: [S&P Global](https://www.spglobal.com)
 
 ### Conclusion
 

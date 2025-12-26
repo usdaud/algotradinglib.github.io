@@ -22,7 +22,7 @@ Mutual funds and ETFs report YTD returns to provide investors with an understand
 
 ### Personal Finance
 
-Individuals often use YTD to track their personal financial progress, including [income](../i/income.md), expenses, savings, and investment growth. 
+Individuals often use YTD to track their personal financial progress, including [income](../i/income.md), expenses, savings, and investment growth.
 
 ## Importance of YTD in Financial Analysis
 
@@ -64,7 +64,7 @@ Net [income](../i/income.md) YTD can be found by subtracting expenses YTD from r
 
 ### Investment Returns
 
-For investment returns, the YTD performance is calculated by measuring the [percentage change](../p/percentage_change.md) in the [value](../v/value.md) of the investment from the beginning of the year to the current date. 
+For investment returns, the YTD performance is calculated by measuring the [percentage change](../p/percentage_change.md) in the [value](../v/value.md) of the investment from the beginning of the year to the current date.
 
 \[ YTD\ [Return](../r/return.md) = \left( \frac{Value_{CurrentDate}}{Value_{StartOfYear}} - 1 \right) \times 100 \]
 
@@ -100,11 +100,11 @@ Many financial software applications and mobile apps [offer](../o/offer.md) YTD 
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), YTD data can be used to optimize algorithms for better performance based on historical trends observed within the year. Algorithms may adjust [trading strategies](../t/trading_strategies.md) dynamically to [capitalize](../c/capitalize.md) on trends identified through YTD analysis. This approach ensures that [trading strategies](../t/trading_strategies.md) remain adaptive to [market](../m/market.md) conditions, enhancing their effectiveness.
+In [algorithmic trading](../a/algorithmic_trading.md), YTD data can be used to optimize algorithms for better performance based on historical trends observed within the year. Algorithms may adjust [trading strategies](../t/trading_strategies.md) dynamically to [capitalize](../c/capitalize.md) on trends identified through YTD analysis. This approach ensures that [trading strategies](../t/trading_strategies.md) remain adaptive to [market](../m/market.md) conditions, enhancing their effectiveness.
 
 ### Blockchain and Cryptocurrencies
 
-In the burgeoning world of [blockchain](../b/blockchain_in_trading.md) and cryptocurrencies, YTD figures are crucial for investors and traders. Cryptocurrencies are known for their [volatility](../v/volatility.md), and YTD metrics help provide a snapshot of their performance against this backdrop. Websites like CoinMarketCap frequently provide YTD [performance metrics](../p/performance_metrics.md) for various cryptocurrencies.
+In the burgeoning world of [blockchain](../b/blockchain_in_trading.md) and cryptocurrencies, YTD figures are crucial for investors and traders. Cryptocurrencies are known for their [volatility](../v/volatility.md), and YTD metrics help provide a snapshot of their performance against this backdrop. Market data aggregators frequently provide YTD [performance metrics](../p/performance_metrics.md) for various cryptocurrencies.
 
 ## Limitations of YTD
 
@@ -128,19 +128,19 @@ YTD calculations typically do not account for extraordinary one-time events that
 
 ### Apple Inc.
 
-Apple Inc. frequently uses YTD metrics in their financial reports. For the latest insights, visit their [investor relations](../i/investor_relations.md) page: [Apple Inc. Investor Relations](https://www.apple.com/investor/).
+Apple Inc. frequently uses YTD metrics in their financial reports. For the latest insights, review their filings.
 
 ### Google/Alphabet
 
-Google's [parent company](../p/parent_company.md), Alphabet, showcases YTD performance in their [quarterly earnings reports](../q/quarterly_earnings_reports.md). Updated [performance metrics](../p/performance_metrics.md) can be found here: [Alphabet Investor Relations](https://abc.xyz/investor/).
+Google's [parent company](../p/parent_company.md), Alphabet, showcases YTD performance in their [quarterly earnings reports](../q/quarterly_earnings_reports.md). Updated [performance metrics](../p/performance_metrics.md) are available in their reports.
 
 ### JP Morgan Chase
 
-JP Morgan Chase, a major financial institution, also uses YTD metrics in evaluating their financial products and company performance. Detailed reports can be accessed here: [JP Morgan Chase Investor Relations](https://www.jpmorganchase.com/ir).
+JP Morgan Chase, a major financial institution, also uses YTD metrics in evaluating their financial products and company performance. Detailed reports are available in their filings.
 
 ### Vanguard
 
-Vanguard, a leading [investment management](../i/investment_management.md) company, provides YTD performance data for their funds and ETFs to aid investors. More information can be found on their official page: [Vanguard](https://investor.vanguard.com/home/).
+Vanguard, a leading [investment management](../i/investment_management.md) company, provides YTD performance data for their funds and ETFs to aid investors.
 
 ## Conclusion
 

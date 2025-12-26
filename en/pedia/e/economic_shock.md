@@ -1,6 +1,6 @@
 # Economic Shock
 
-An economic shock refers to an unexpected event that causes a significant adjustment in the [economy](../e/economy.md). These events can originate from outside or within the [economy](../e/economy.md) and often have widespread repercussions on markets, industries, and the overall economic performance of a region or country. Understanding economic shocks is pivotal for economists, policymakers, and investors, especially in the realm of [algorithmic trading](../a/accountability.md), where the ability to quickly react to such shocks can provide a significant [competitive advantage](../c/competitive_advantage.md). 
+An economic shock refers to an unexpected event that causes a significant adjustment in the [economy](../e/economy.md). These events can originate from outside or within the [economy](../e/economy.md) and often have widespread repercussions on markets, industries, and the overall economic performance of a region or country. Understanding economic shocks is pivotal for economists, policymakers, and investors, especially in the realm of [algorithmic trading](../a/accountability.md), where the ability to quickly react to such shocks can provide a significant [competitive advantage](../c/competitive_advantage.md).
 
 ## Types of Economic Shocks
 
@@ -86,15 +86,15 @@ In times of economic shock, regulatory scrutiny often increases. Algorithms must
 
 ### Central Banks
 
-Central banks play a critical role in responding to economic shocks, primarily through [monetary policy](../m/monetary_policy.md) adjustments. For example, the Federal Reserve (https://www.federalreserve.gov) in the United States often employs [interest rate](../i/interest_rate.md) cuts or increases to stabilize the [economy](../e/economy.md) following a shock. Similarly, the European Central [Bank](../b/bank.md) (https://www.ecb.europa.eu) utilizes [monetary policy](../m/monetary_policy.md) tools to manage economic stability across [Eurozone](../e/eurozone.md) countries.
+Central banks play a critical role in responding to economic shocks, primarily through [monetary policy](../m/monetary_policy.md) adjustments. For example, the Federal Reserve ( in the United States often employs [interest rate](../i/interest_rate.md) cuts or increases to stabilize the [economy](../e/economy.md) following a shock. Similarly, the European Central [Bank](../b/bank.md) ( utilizes [monetary policy](../m/monetary_policy.md) tools to manage economic stability across [Eurozone](../e/eurozone.md) countries.
 
 ### Government Agencies
 
-Government responses to economic shocks are vital and can include fiscal measures, subsidies, or legislative changes. Agencies like the U.S. Department of the Treasury (https://[home](../h/home.md).treasury.gov) and equivalent bodies in other countries are typically at the forefront of implementing these policies.
+Government responses to economic shocks are vital and can include fiscal measures, subsidies, or legislative changes. Agencies like the U.S. Department of the Treasury and equivalent bodies in other countries are typically at the forefront of implementing these policies.
 
 ### International Organizations
 
-International organizations like the International Monetary [Fund](../f/fund.md) (IMF) (https://www.imf.org) and the [World Bank](../w/world_bank.md) (https://www.worldbank.org) provide support to countries experiencing severe economic shocks. They [offer](../o/offer.md) financial assistance, policy advice, and technical expertise to help stabilize affected economies.
+International organizations like the International Monetary [Fund](../f/fund.md) (IMF) ( and the [World Bank](../w/world_bank.md) ( provide support to countries experiencing severe economic shocks. They [offer](../o/offer.md) financial assistance, policy advice, and technical expertise to help stabilize affected economies.
 
 ## Conclusion
 

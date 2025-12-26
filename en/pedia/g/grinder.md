@@ -1,6 +1,6 @@
 # Grinder
 
-In the world of [algorithmic trading](../a/accountability.md), the term "Grinder" refers to a [trader](../t/trader.md) who utilizes algorithmic strategies to consistently extract small profits over numerous trades. This approach hinges on the accumulation of incremental gains, with the goal of yielding significant returns over time. The Grinder strategy is characterized by its focus on high-frequency trading (HFT), [robust](../r/robust.md) computational techniques, and an acute understanding of [market microstructure](../m/market_microstructure.md). In this comprehensive exploration, we [will](../w/will.md) delve into the intricacies of the Grinder strategy, examining its [underlying](../u/underlying.md) principles, tools, and methodologies.
+In the world of [algorithmic trading](../a/algorithmic_trading.md), the term "Grinder" refers to a [trader](../t/trader.md) who utilizes algorithmic strategies to consistently extract small profits over numerous trades. This approach hinges on the accumulation of incremental gains, with the goal of yielding significant returns over time. The Grinder strategy is characterized by its focus on high-frequency trading (HFT), [robust](../r/robust.md) computational techniques, and an acute understanding of [market microstructure](../m/market_microstructure.md). In this comprehensive exploration, we [will](../w/will.md) delve into the intricacies of the Grinder strategy, examining its [underlying](../u/underlying.md) principles, tools, and methodologies.
 
 ## Core Principles of the Grinder Strategy
 
@@ -21,7 +21,7 @@ Grind traders often employ statistical [arbitrage](../a/arbitrage.md) methods to
 ## Execution Tools and Technologies
 
 ### 1. Algorithmic Trading Platforms
-Sophisticated trading platforms such as MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) are commonly used. These platforms allow for the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md). They provide the necessary computational capabilities and connectivity to various [financial markets](../f/financial_market.md).
+Sophisticated trading platforms such as MetaTrader, [StockSharp](../s/stocksharp.md), and [NinjaTrader](../n/ninjatrader.md) are commonly used. These platforms allow for the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md). They provide the necessary computational capabilities and connectivity to various [financial markets](../f/financial_market.md).
 
 ### 2. High-Speed Connectivity
 Achieving the [execution](../e/execution.md) speeds required for HFT involves utilizing low-latency networks and colocating trading servers near [exchange](../e/exchange.md) data centers. This ensures that [trade](../t/trade.md) orders reach the [exchange](../e/exchange.md) with minimal delay, which is critical for capitalizing on brief [market](../m/market.md) opportunities.
@@ -45,7 +45,7 @@ Two Sigma is another prominent quant [hedge fund](../h/hedge_fund.md) that lever
 ### 3. Citadel Securities
 Citadel Securities is known for its [market](../m/market.md)-making and HFT operations. The [firm](../f/firm.md) utilizes sophisticated algorithms to provide [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes and execute numerous trades per second.
 
-For further information about Citadel Securities, you can visit their official website: [Citadel Securities](https://www.citadelsecurities.com/).
+
 
 ### 4. Jump Trading
 [Jump Trading](../j/jump_trading.md) is a major player in the HFT space, specializing in leveraging technology and [mathematical models](../m/mathematical_models_in_trading.md) to execute [trading strategies](../t/trading_strategies.md) across global markets. Their approach emphasizes speed, accuracy, and innovation.
@@ -83,4 +83,4 @@ The competitive landscape of HFT is fierce, with numerous firms vying to stay ah
 
 ## Conclusion
 
-The Grinder strategy represents a sophisticated approach to [algorithmic trading](../a/accountability.md), where consistency and accumulation of small profits drive overall returns. By harnessing advanced technologies, statistical methods, and an understanding of [market microstructure](../m/market_microstructure.md), grind traders aim to navigate and exploit the complexities of modern [financial markets](../f/financial_market.md) effectively. While the approach holds significant [profit](../p/profit.md) potential, it also comes with inherent risks and challenges, requiring a balanced, informed, and adaptive trading practice.
+The Grinder strategy represents a sophisticated approach to [algorithmic trading](../a/algorithmic_trading.md), where consistency and accumulation of small profits drive overall returns. By harnessing advanced technologies, statistical methods, and an understanding of [market microstructure](../m/market_microstructure.md), grind traders aim to navigate and exploit the complexities of modern [financial markets](../f/financial_market.md) effectively. While the approach holds significant [profit](../p/profit.md) potential, it also comes with inherent risks and challenges, requiring a balanced, informed, and adaptive trading practice.

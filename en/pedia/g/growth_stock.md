@@ -24,19 +24,19 @@ Since these companies reinvest most of their profits back into the [business](..
 
 ### Amazon (AMZN)
 
-Amazon is a quintessential example of a growth stock. Over the years, it has consistently reported high [revenue](../r/revenue.md) growth, driven largely by its diversified [business](../b/business.md) operations, ranging from e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) (through Amazon Web Services) to consumer electronics and media. [Amazon](https://www.amazon.com/).
+Amazon is a quintessential example of a growth stock. Over the years, it has consistently reported high [revenue](../r/revenue.md) growth, driven largely by its diversified [business](../b/business.md) operations, ranging from e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) (through Amazon Web Services) to consumer electronics and media. Amazon.
 
 ### Tesla (TSLA)
 
-Renowned for its innovations in electric vehicles and renewable energy solutions, Tesla has seen its stock price skyrocket as the [demand](../d/demand.md) for sustainable energy increases. Tesla’s focus on leading-edge technology and expanding production capabilities have made it a poster child for [growth stocks](../g/growth_stocks.md). [Tesla](https://www.tesla.com/).
+Renowned for its innovations in electric vehicles and renewable energy solutions, Tesla has seen its stock price skyrocket as the [demand](../d/demand.md) for sustainable energy increases. Tesla’s focus on leading-edge technology and expanding production capabilities have made it a poster child for [growth stocks](../g/growth_stocks.md). Tesla.
 
 ### Shopify (SHOP)
 
-Shopify provides e-[commerce](../c/commerce.md) solutions for small to medium-sized businesses and has experienced explosive growth amid the digital transformation [trend](../t/trend.md). By continually adding new services and expanding its reach, Shopify has maintained high [revenue](../r/revenue.md) [growth rates](../g/growth_rates_in_trading.md). [Shopify](https://www.shopify.com/).
+Shopify provides e-[commerce](../c/commerce.md) solutions for small to medium-sized businesses and has experienced explosive growth amid the digital transformation [trend](../t/trend.md). By continually adding new services and expanding its reach, Shopify has maintained high [revenue](../r/revenue.md) [growth rates](../g/growth_rates_in_trading.md). Shopify.
 
 ### Alphabet (GOOGL)
 
-As the [parent company](../p/parent_company.md) of Google, Alphabet has leveraged its dominance in search advertising to [fund](../f/fund.md) various growth initiatives, including [artificial intelligence](../a/artificial_intelligence_in_trading.md), autonomous vehicles through Waymo, and [cloud computing](../c/cloud_computing_in_trading.md). This [diversification](../d/diversification.md) strategy has generated strong growth prospects. [Alphabet](https://www.abc.xyz/).
+As the [parent company](../p/parent_company.md) of Google, Alphabet has leveraged its dominance in search advertising to [fund](../f/fund.md) various growth initiatives, including [artificial intelligence](../a/artificial_intelligence_in_trading.md), autonomous vehicles through Waymo, and [cloud computing](../c/cloud_computing_in_trading.md). This [diversification](../d/diversification.md) strategy has generated strong growth prospects. Alphabet.
 
 ## Growth Stocks vs. Value Stocks
 

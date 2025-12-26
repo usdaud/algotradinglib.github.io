@@ -15,18 +15,18 @@ Zero [Inflation](../i/inflation.md) Bonds exhibit several unique characteristics
 4. **No [Reinvestment Risk](../r/reinvestment_risk.md)**: Since zero [inflation](../i/inflation.md) bonds do not provide periodic [interest](../i/interest.md) payments, investors are not exposed to [reinvestment risk](../r/reinvestment_risk.md), which occurs when the proceeds from periodic [interest](../i/interest.md) payments need to be reinvested at potentially lower [interest](../i/interest.md) rates.
 
 ### How Zero Inflation Bonds Work
-When an [investor](../i/investor.md) purchases a zero [inflation](../i/inflation.md) [bond](../b/bond.md), the initial investment ([principal](../p/principal.md)) is adjusted periodically based on the [inflation](../i/inflation.md) rate. For instance, if the [inflation](../i/inflation.md) rate is 3% per year, the [principal](../p/principal.md) of the [bond](../b/bond.md) [will](../w/will.md) increase by 3% annually. At [maturity](../m/maturity.md), the [investor](../i/investor.md) receives the [inflation](../i/inflation.md)-adjusted [principal](../p/principal.md) amount. 
+When an [investor](../i/investor.md) purchases a zero [inflation](../i/inflation.md) [bond](../b/bond.md), the initial investment ([principal](../p/principal.md)) is adjusted periodically based on the [inflation](../i/inflation.md) rate. For instance, if the [inflation](../i/inflation.md) rate is 3% per year, the [principal](../p/principal.md) of the [bond](../b/bond.md) [will](../w/will.md) increase by 3% annually. At [maturity](../m/maturity.md), the [investor](../i/investor.md) receives the [inflation](../i/inflation.md)-adjusted [principal](../p/principal.md) amount.
 
 #### Example:
 1. **Initial Investment**: $10,000
 2. **Annual [Inflation](../i/inflation.md) Rate**: 3%
 3. **[Maturity](../m/maturity.md) Period**: 10 years
 
-If [inflation](../i/inflation.md) is 3% per year, the adjusted amount at the end of each year [will](../w/will.md) increase by 3%. 
+If [inflation](../i/inflation.md) is 3% per year, the adjusted amount at the end of each year [will](../w/will.md) increase by 3%.
 
-**Year 1**: $10,000 * (1 + 0.03) = $10,300  
-**Year 2**: $10,300 * (1 + 0.03) = $10,609  
-**...**  
+**Year 1**: $10,000 * (1 + 0.03) = $10,300
+**Year 2**: $10,300 * (1 + 0.03) = $10,609
+**...**
 **Year 10**: Final amount [will](../w/will.md) be approximately $13,439.
 
 ### Calculation Example
@@ -68,16 +68,16 @@ Different types of zero [inflation](../i/inflation.md) bonds exist in the [marke
 Some financial institutions and companies [offering](../o/offering.md) [inflation](../i/inflation.md)-protected investment [options](../o/options.md) include:
 
 1. **[U.S. Treasury](../u/u.s._treasury.md) Department**: Provides information about TIPS and other [inflation-protected securities](../i/inflation-protected_securities.md).
-   - [U.S. Treasury Department](https://www.treasurydirect.gov/)
-   
+ - U.S. Treasury Department
+
 2. **Vanguard**: Offers investment funds that include [inflation-protected securities](../i/inflation-protected_securities.md).
-   - [Vanguard](https://investor.vanguard.com/investment-products/funds/inflation-protected-securities)
-   
+ - Vanguard
+
 3. **BlackRock**: Offers ETFs and funds focused on [inflation](../i/inflation.md)-protected bonds.
-   - [BlackRock](https://www.blackrock.com/)
-   
+ - BlackRock
+
 4. **UK [Debt](../d/debt.md) Management Office**: Provides details about UK [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md).
-   - [UK Debt Management Office](https://www.dmo.gov.uk/)
+ - UK Debt Management Office
 
 ### Conclusion
 Zero [Inflation](../i/inflation.md) Bonds are effective financial instruments for protecting against [inflation](../i/inflation.md) while providing a predictable [return](../r/return.md) at [maturity](../m/maturity.md). While they have unique benefits, including [principal](../p/principal.md) protection and elimination of periodic reinvestments, they also come with certain risks such as [interest rate risk](../i/interest_rate_risk.md) and potential [liquidity](../l/liquidity.md) issues. Investors must weigh these factors and consider their long-term financial goals when incorporating zero [inflation](../i/inflation.md) bonds into their investment portfolio.

@@ -66,13 +66,11 @@ Sophisticated algorithms can be used to manage and optimize [turnover](../t/turn
 
 Renaissance Technologies, a leading [firm](../f/firm.md) in quantitative and [algorithmic trading](../a/algorithmic_trading.md), is known for its high-frequency trading (HFT) strategies. Despite potentially high [turnover](../t/turnover.md), the [firm](../f/firm.md)'s algorithms are designed to minimize [transaction costs](../t/transaction_costs.md) and maximize net returns. The [firm](../f/firm.md) utilizes sophisticated algorithms for optimal [trade](../t/trade.md) [execution](../e/execution.md), ensuring that the benefits of frequent trading outweigh the costs.
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) provides a platform for researching, designing, and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform offers tools to backtest strategies and analyze [turnover](../t/turnover.md). By integrating various data sources and [execution algorithms](../e/execution_algorithms.md), [QuantConnect](../q/quantconnect.md) enables traders to refine their strategies to balance [turnover](../t/turnover.md) against profitability.
+[StockSharp](../s/stocksharp.md) provides a platform for researching, designing, and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform offers tools to backtest strategies and analyze [turnover](../t/turnover.md). By integrating various data sources and [execution algorithms](../e/execution_algorithms.md), [StockSharp](../s/stocksharp.md) enables traders to refine their strategies to balance [turnover](../t/turnover.md) against profitability.
 
-[Visit QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 

@@ -59,19 +59,16 @@ ROFR clauses must be carefully drafted to avoid ambiguity and litigation. Key le
 
 Netflix Inc. has used ROFR agreements to secure exclusive content deals with producers. By having ROFR on new shows or films, Netflix ensures that it has the first opportunity to acquire and distribute the content before its competitors.
 
-[Netflix](https://www.netflix.com/)
 
 ### Amazon
 
 Amazon has implemented ROFR in various strategic partnerships, particularly concerning first-party sellers on its platform. This ensures Amazon can maintain advantageous product offerings and pricing.
 
-[Amazon](https://www.amazon.com/)
 
 ### Real Estate Firms
 
 Many [real estate](../r/real_estate.md) firms, such as Simon Property Group, incorporate ROFR in their lease agreements with tenants, ensuring they have the first right to purchase the property should the tenant decide to sell.
 
-[Simon Property Group](https://www.simon.com/)
 
 ## Conclusion
 

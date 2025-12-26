@@ -32,7 +32,7 @@ In [algorithmic trading](../a/accountability.md), the [distribution](../d/distri
 
 ### Performance Metrics and Risk Management
 
-[Algorithmic trading](../a/accountability.md) systems can use [distribution](../d/distribution.md) waterfall models to generate metrics that assess the performance and [risk](../r/risk.md) for different classes of investors. By doing so, [fund](../f/fund.md) managers can ensure compliance with fiduciary duties and enhance [investor relations](../i/investor_relations.md) by providing transparent and well-documented returns. This also helps in benchmarking the [fund](../f/fund.md) performance against defined hurdles and adjusting strategies to optimize returns for all stakeholders.
+[Algorithmic trading](../a/accountability.md) systems can use [distribution](../d/distribution.md) waterfall models to generate metrics that assess the performance and [risk](../r/risk.md) for different classes of investors. By doing so, [fund](../f/fund.md) managers can ensure compliance with fiduciary duties and enhance [company filings](../i/investor_relations.md) by providing transparent and well-documented returns. This also helps in benchmarking the [fund](../f/fund.md) performance against defined hurdles and adjusting strategies to optimize returns for all stakeholders.
 
 ### Automated Distribution Calculations
 
@@ -44,17 +44,16 @@ Several leading investment funds utilize [distribution](../d/distribution.md) wa
 
 ### Two Sigma Investments
 
-[Two Sigma](https://www.twosigma.com/) is a prominent technology-driven [hedge fund](../h/hedge_fund.md) that employs advanced algorithms and [machine learning](../m/machine_learning.md) techniques. While specific details of their [distribution](../d/distribution.md) waterfall practices are proprietary, Two Sigma's emphasis on data-driven strategies and automated processes aligns with the principles of efficient [profit distribution](../p/profit_distribution.md).
+Two Sigma is a prominent technology-driven [hedge fund](../h/hedge_fund.md) that employs advanced algorithms and [machine learning](../m/machine_learning.md) techniques. While specific details of their [distribution](../d/distribution.md) waterfall practices are proprietary, Two Sigma's emphasis on data-driven strategies and automated processes aligns with the principles of efficient [profit distribution](../p/profit_distribution.md).
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/), another leading [hedge fund](../h/hedge_fund.md), is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s systematic approach to trading and [profit distribution](../p/profit_distribution.md) embodies the integration of complex financial structures like [distribution](../d/distribution.md) waterfalls into its operations, ensuring that returns are managed efficiently and equitably.
+Renaissance Technologies, another leading [hedge fund](../h/hedge_fund.md), is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s systematic approach to trading and [profit distribution](../p/profit_distribution.md) embodies the integration of complex financial structures like [distribution](../d/distribution.md) waterfalls into its operations, ensuring that returns are managed efficiently and equitably.
 
 ## Broader Implications and Considerations
 
-### Investor Relations
 
-Effective implementation of [distribution](../d/distribution.md) waterfall structures can significantly enhance [investor relations](../i/investor_relations.md). By providing transparent and well-structured [profit](../p/profit.md) allocation frameworks, funds can build [trust](../t/trust.md) and confidence among investors. This is particularly crucial in highly competitive markets where [investor](../i/investor.md) satisfaction and retention are paramount.
+Effective implementation of [distribution](../d/distribution.md) waterfall structures can significantly enhance [company filings](../i/investor_relations.md). By providing transparent and well-structured [profit](../p/profit.md) allocation frameworks, funds can build [trust](../t/trust.md) and confidence among investors. This is particularly crucial in highly competitive markets where [investor](../i/investor.md) satisfaction and retention are paramount.
 
 ### Regulatory Compliance
 

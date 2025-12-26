@@ -64,7 +64,7 @@ Key financial hubs in Asia, including Hong Kong and Singapore, maintain regulati
 
 ## Challenges and Considerations
 
-Despite the advantages, engaging QIBs under [Rule 144A](../r/rule_144a.md) is not without challenges. 
+Despite the advantages, engaging QIBs under [Rule 144A](../r/rule_144a.md) is not without challenges.
 
 ### Regulatory Complexity
 
@@ -82,4 +82,4 @@ Given the relative opacity of unregistered offerings, QIBs must engage in thorou
 
 QIBs play a crucial role in the global financial ecosystem, driving [capital](../c/capital.md) flows, innovation, and [market](../m/market.md) [liquidity](../l/liquidity.md). Their privileged status under regulations like [Rule 144A](../r/rule_144a.md) underscores the [trust](../t/trust.md) placed in their sophistication and financial stewardship. As dynamic participants in both public and private markets, QIBs continually shape the contours of modern [finance](../f/finance.md), necessitating ongoing adaptation and vigilance to maintain their pivotal role in the ever-evolving landscape.
 
-For further reference and a detailed explanation of the rules and qualifications for QIBs, visit the SEC's official page on [Rule 144A](../r/rule_144a.md) [here](https://www.sec.gov/rules/final/33-6862.htm).
+For further reference and a detailed explanation of the rules and qualifications for QIBs,./r/rule_144a.md) here.

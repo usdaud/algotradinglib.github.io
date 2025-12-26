@@ -27,13 +27,13 @@ These are the overhead costs not directly tied to a single [underwriting](../u/u
 Personnel costs include salaries, bonuses, and commissions for employees directly involved in the [underwriting](../u/underwriting.md) process. For example, an [underwriter](../u/underwriter.md) in an [insurance](../i/insurance.md) company evaluates applications, assesses risks, and sets [premium](../p/premium.md) rates. Their compensation forms a significant part of [underwriting](../u/underwriting.md) expenses.
 
 ### Medical and Inspection Fees
-In the context of [insurance](../i/insurance.md) [underwriting](../u/underwriting.md), medical examinations, and property inspections are crucial for [risk](../r/risk.md) assessment. These services are usually outsourced, and the fees charged form part of the [underwriting](../u/underwriting.md) expenses. 
+In the context of [insurance](../i/insurance.md) [underwriting](../u/underwriting.md), medical examinations, and property inspections are crucial for [risk](../r/risk.md) assessment. These services are usually outsourced, and the fees charged form part of the [underwriting](../u/underwriting.md) expenses.
 
 ### Data and Analytics
 Modern [underwriting](../u/underwriting.md) heavily relies on data and analytics. Costs associated with acquiring, storing, and analyzing data are integral to [underwriting](../u/underwriting.md) expenses. This includes expenses on external data providers, data scientists, and analytical tools.
 
 ### Administrative and Overhead Costs
-Administrative costs encompass a [range](../r/range.md) of overhead expenses necessary for [underwriting](../u/underwriting.md) operations. These include office rent, utilities, office supplies, and costs related to maintaining [underwriting](../u/underwriting.md) departments. 
+Administrative costs encompass a [range](../r/range.md) of overhead expenses necessary for [underwriting](../u/underwriting.md) operations. These include office rent, utilities, office supplies, and costs related to maintaining [underwriting](../u/underwriting.md) departments.
 
 ### Technology and Software
 With advancements in technology, [underwriting](../u/underwriting.md) processes have become increasingly automated and data-driven. The costs associated with purchasing, maintaining, and upgrading [underwriting](../u/underwriting.md) software and technology platforms are part of [underwriting](../u/underwriting.md) expenses.
@@ -86,4 +86,4 @@ By managing [underwriting](../u/underwriting.md) expenses effectively, ABC [Insu
 ## Conclusion
 [Underwriting](../u/underwriting.md) expenses are a fundamental aspect of the financial and [insurance](../i/insurance.md) sectors. They encompass a [range](../r/range.md) of direct and indirect costs associated with [risk](../r/risk.md) assessment and pricing determination. Understanding and managing these expenses is crucial for the profitability and [financial health](../f/financial_health.md) of organizations. By optimizing [underwriting](../u/underwriting.md) costs, companies can improve their [profit margins](../p/profit_margins_in_trading.md), maintain competitiveness, and ensure sustainable growth.
 
-For more information, see financial reports and methodologies of [underwriting](../u/underwriting.md) on [Knight Insurance Group](https://www.knightinsurancegroup.com/underwriting) and [Munich Re](https://www.munichre.com/en/solutions/underwriting-well.html).
+For more information, see financial reports and methodologies of [underwriting](../u/underwriting.md) on Knight Insurance Group and Munich Re.

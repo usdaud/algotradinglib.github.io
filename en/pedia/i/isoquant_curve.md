@@ -40,9 +40,9 @@ Different forms of isoquants can be identified based on the nature of the produc
 
 3. **Cobb-Douglas Isoquants:** These are the most commonly observed isoquants in real-world production functions. They possess a convex shape and are derived from a Cobb-Douglas production function:
 
-\[ Q = AK^\[alpha](../a/alpha.md) L^\[beta](../b/beta.md) \]
+\[ Q = AK^\alpha L^\beta \]
 
-where \( A \), \( \[alpha](../a/alpha.md) \), and \( \[beta](../b/beta.md) \) are parameters that reflect the technology of production.
+where \( A \), \( \alpha \), and \( \beta \) are parameters that reflect the technology of production.
 
 ## Economic Implications
 Isoquant analysis is instrumental in various aspects of production and cost management in [economics](../e/economics.md) and [business](../b/business.md):

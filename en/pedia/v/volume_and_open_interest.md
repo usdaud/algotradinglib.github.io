@@ -1,12 +1,12 @@
 # Volume and Open Interest
 
-[Volume](../v/volume.md) and [Open Interest](../o/open_interest.md) are two of the most critical metrics in the field of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Understanding these metrics can provide traders with substantial insights into [market dynamics](../m/market_dynamics.md), helping them to make informed decisions. This document [will](../w/will.md) delve into what these terms mean, their significance, how they are calculated, and how they can be applied in [algorithmic trading](../a/algorithmic_trading.md) strategies. 
+[Volume](../v/volume.md) and [Open Interest](../o/open_interest.md) are two of the most critical metrics in the field of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Understanding these metrics can provide traders with substantial insights into [market dynamics](../m/market_dynamics.md), helping them to make informed decisions. This document [will](../w/will.md) delve into what these terms mean, their significance, how they are calculated, and how they can be applied in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Volume
 
 ### Definition
 
-[Volume](../v/volume.md) refers to the total number of [shares](../s/shares.md) or contracts traded for a particular [security](../s/security.md) or [asset](../a/asset.md) over a specified period. In [financial markets](../f/financial_market.md), [volume](../v/volume.md) is a measure of quantity, and it reflects the level of activity and [liquidity](../l/liquidity.md) for a [security](../s/security.md). 
+[Volume](../v/volume.md) refers to the total number of [shares](../s/shares.md) or contracts traded for a particular [security](../s/security.md) or [asset](../a/asset.md) over a specified period. In [financial markets](../f/financial_market.md), [volume](../v/volume.md) is a measure of quantity, and it reflects the level of activity and [liquidity](../l/liquidity.md) for a [security](../s/security.md).
 
 ### Significance
 
@@ -18,7 +18,7 @@
 
 ### Calculation
 
-[Volume](../v/volume.md) is typically published in real time on trading platforms and is calculated simply by summing the number of [shares](../s/shares.md) or contracts traded. 
+[Volume](../v/volume.md) is typically published in real time on trading platforms and is calculated simply by summing the number of [shares](../s/shares.md) or contracts traded.
 
 ```
 [Volume](../v/volume.md) = Σ (Number of [Shares](../s/shares.md) or Contracts Traded)
@@ -27,10 +27,10 @@
 ### Application in Algorithmic Trading
 
 1. **[Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP)**: VWAP is a trading [benchmark](../b/benchmark.md) that represents the average price a [security](../s/security.md) has traded at throughout the day based on both [volume](../v/volume.md) and price. It's calculated as:
-   ```
-   VWAP = (Σ (Price * [Volume](../v/volume.md))) / Σ ([Volume](../v/volume.md))
-   ```
-   Traders often use VWAP to ensure they meet or exceed average [execution](../e/execution.md) prices.
+ ```
+ VWAP = (Σ (Price * [Volume](../v/volume.md))) / Σ ([Volume](../v/volume.md))
+ ```
+ Traders often use VWAP to ensure they meet or exceed average [execution](../e/execution.md) prices.
 
 2. **[Volume Indicators](../v/volume_indicators.md)**: Various indicators such as On-Balance [Volume](../v/volume.md) (OBV), Accumulation/[Distribution](../d/distribution.md) Line, and Chaikin [Money Flow](../m/money_flow.md) use [volume](../v/volume.md) data to predict price movements.
 
@@ -68,20 +68,20 @@
 
 For both [volume](../v/volume.md) and [open interest](../o/open_interest.md), it's essential to have reliable data. Several providers [offer](../o/offer.md) real-time and historical data that can be integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. These include:
 
-1. [Bloomberg](https://www.bloomberg.com/)
-2. [Thomson Reuters](https://www.refinitiv.com/)
-3. [Quandl](https://www.quandl.com/)
-4. [Interactive Brokers](https://www.interactivebrokers.com/)
+1. Bloomberg
+2. Thomson Reuters
+3. Quandl
+4. Interactive Brokers
 
-### Software and Platforms 
+### Software and Platforms
 
 Many platforms and software [offer](../o/offer.md) tools for [algorithmic trading](../a/algorithmic_trading.md) that allow traders to utilize [volume](../v/volume.md) and [open interest](../o/open_interest.md) data efficiently:
 
-1. [MetaTrader 5](https://www.metatrader5.com/en)
-2. [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-3. [QuantConnect](https://www.quantconnect.com/)
-4. [Algorithmic Trading](https://trading.algolitics.com/)
-    
+1. MetaTrader 5
+2. ThinkOrSwim
+3. QuantConnect
+4. Algorithmic Trading
+
 ### Incorporation into Algorithms
 
 To incorporate these metrics into [algorithmic trading](../a/algorithmic_trading.md), traders often use programming languages like Python, R, or specialized trading languages like EasyLanguage (for [TradeStation](../t/tradestation.md)). Libraries like `pandas` and `numpy` are instrumental in manipulating financial data for such purposes.
@@ -90,7 +90,7 @@ To incorporate these metrics into [algorithmic trading](../a/algorithmic_trading
 [import](../i/import.md) pandas as pd
 
 # Example: Simple Volume Analysis
-df = pd.DataFrame({
+df = pd.DataFrame{
     'Price': [100, 102, 101, 105, 107],
     '[Volume](../v/volume.md)': [300, 400, 350, 500, 450]
 })

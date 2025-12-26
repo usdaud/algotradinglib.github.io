@@ -69,9 +69,9 @@ WHFITs must adhere to stringent regulatory requirements set forth by the IRS. Tr
 
 Though they might not be as prominent as mutual funds or ETFs, several financial institutions [offer](../o/offer.md) WHFITs. These trusts are often part of larger financial services companies that provide a [range](../r/range.md) of investment vehicles. Here are examples of institutions that might [offer](../o/offer.md) such products:
 
-- **J.P. Morgan**: Known for its extensive [range](../r/range.md) of investment products and services, J.P. Morgan might [offer](../o/offer.md) WHFITs as part of their portfolio. More information can be found on their official website: [J.P. Morgan](https://www.jpmorgan.com/).
-- **Vanguard**: A leader in mutual funds and ETFs, Vanguard's fixed-[income](../i/income.md) products could include offerings similar to WHFITs. Visit their site for more details: [Vanguard](https://www.vanguard.com/).
-- **BlackRock**: One of the largest [asset](../a/asset.md) managers globally, BlackRock provides a wide [range](../r/range.md) of investment products, including those focused on [fixed income](../f/fixed_income.md) that could match WHFIT characteristics. Explore their offerings here: [BlackRock](https://www.blackrock.com/).
+- **J.P. Morgan**: Known for its extensive [range](../r/range.md) of investment products and services, J.P. Morgan might [offer](../o/offer.md) WHFITs as part of their portfolio.P. Morgan.
+- **Vanguard**: A leader in mutual funds and ETFs, Vanguard's fixed-[income](../i/income.md) products could include offerings similar to WHFITs.
+- **BlackRock**: One of the largest [asset](../a/asset.md) managers globally, BlackRock provides a wide [range](../r/range.md) of investment products, including those focused on [fixed income](../f/fixed_income.md) that could match WHFIT characteristics. Explore their offerings here: BlackRock.
 
 ## Conclusion
 

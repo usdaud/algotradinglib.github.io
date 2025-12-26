@@ -89,4 +89,4 @@ The PSE is actively involved in financial education initiatives, aiming to impro
 
 The Philippine Stock [Exchange](../e/exchange.md) plays a central role in the economic development of the Philippines by providing a regulated and efficient marketplace for securities trading. Through continuous innovation, stringent regulatory compliance, and strategic initiatives, the PSE aims to enhance its position as a leading stock [exchange](../e/exchange.md) in the region.
 
-For more information about the Philippine Stock [Exchange](../e/exchange.md), please visit their official website: [Philippine Stock Exchange](https://www.pse.com.ph).
+For more information about the Philippine Stock [Exchange](../e/exchange.md), please

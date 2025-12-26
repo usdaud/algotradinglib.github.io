@@ -52,17 +52,17 @@ Spectral methods can play a role in [risk management](../r/risk_management.md) b
 Several software packages and libraries [offer](../o/offer.md) [robust](../r/robust.md) implementations of spectral methods, tailored to the needs of algorithmic traders:
 
 - **Python Libraries**: Libraries such as `numpy`, `scipy`, and `PyWavelets` provide efficient implementations of FFT, Wavelet Transforms, and PCA.
-    - [NumPy](https://numpy.org/)
-    - [SciPy](https://scipy.org/)
-    - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
+ - NumPy
+ - SciPy
+ - PyWavelets
 - **MATLAB**: Known for its powerful mathematical toolboxes, MATLAB offers a comprehensive suite of functions for performing [spectral analysis](../s/spectral_analysis.md).
-    - [MATLAB Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
+ - MATLAB Signal Processing Toolbox
 - **R**: The `stats` and `TSA` packages in R are commonly used for time-series and [spectral analysis](../s/spectral_analysis.md).
-    - [Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/)
+ - Comprehensive R Archive Network (CRAN)
 
 ## Case Studies and Practical Examples
 
-### Case Study: Detecting Seasonal Patterns 
+### Case Study: Detecting Seasonal Patterns
 
 One practical application of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is detecting seasonal patterns in [asset](../a/asset.md) prices. For example, agricultural commodities often exhibit seasonal cycles due to planting and harvesting periods. By conducting a [spectral analysis](../s/spectral_analysis.md) using the PSD, traders can identify these seasonal components and incorporate them into their [predictive models](../p/predictive_models_in_trading.md).
 

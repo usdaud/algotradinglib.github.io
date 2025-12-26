@@ -35,7 +35,7 @@ However, it is important to [note](../n/note.md) that the Hindenburg Omen also h
 
 ## Practical Use
 
-Despite its limitations, traders and [market](../m/market.md) analysts can use the Hindenburg Omen as part of a broader [risk management](../r/risk_management.md) strategy. Due to its potential to signal [market](../m/market.md) instability, it can serve as a supplementary tool to identify periods where it might be prudent to reduce exposure or [hedge](../h/hedge.md) portfolios against significant downturns. 
+Despite its limitations, traders and [market](../m/market.md) analysts can use the Hindenburg Omen as part of a broader [risk management](../r/risk_management.md) strategy. Due to its potential to signal [market](../m/market.md) instability, it can serve as a supplementary tool to identify periods where it might be prudent to reduce exposure or [hedge](../h/hedge.md) portfolios against significant downturns.
 
 ### How Traders Use the Hindenburg Omen
 

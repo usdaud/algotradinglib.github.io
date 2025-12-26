@@ -65,7 +65,7 @@ Many companies report their [earnings](../e/earnings.md) quarterly but provide a
 
 ### Inconsistent Income Streams
 
-One of the challenges in annualizing [income](../i/income.md) is dealing with inconsistency. If the [income](../i/income.md) stream is not stable or exhibits large fluctuations, the annualized figure may be misleading. 
+One of the challenges in annualizing [income](../i/income.md) is dealing with inconsistency. If the [income](../i/income.md) stream is not stable or exhibits large fluctuations, the annualized figure may be misleading.
 
 ### Market Volatility
 

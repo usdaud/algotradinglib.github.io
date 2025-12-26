@@ -116,7 +116,7 @@ Lexicon-based models use predefined dictionaries of words associated with positi
 
 [Machine learning](../m/machine_learning.md) models, such as LSTM (Long Short-Term Memory) and [transformers](../t/transformers.md), are trained on labeled datasets to predict sentiment.
 
-### Example: [FinBrain Technologies](https://finbrain.tech/)
+### Example: FinBrain Technologies
 
 FinBrain Technologies provides AI-driven [financial analysis](../f/financial_analysis.md) tools, including [sentiment analysis](../s/sentiment_analysis.md) models that aggregate data from news, [social media](../s/social_media.md), and financial reports to predict [market](../m/market.md) movements.
 
@@ -132,7 +132,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves trading securities based on 
 
 [Index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) takes advantage of price differences between the [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) within the [index](../i/index_instrument.md). Traders buy [undervalued](../u/undervalued.md) assets and sell [overvalued](../o/overvalued.md) ones.
 
-### Example: [Jane Street](https://www.janestreet.com/)
+### Example: Jane Street
 
 Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) widely known for its expertise in [arbitrage](../a/arbitrage.md) strategies, leveraging statistical and [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) models to generate consistent returns.
 
@@ -148,7 +148,7 @@ HFT models focus on executing a large number of orders at extremely high speeds 
 
 Latency [arbitrage](../a/arbitrage.md) exploits delays in price updates between different exchanges or trading platforms.
 
-### Example: [Virtu Financial](https://www.virtu.com/)
+### Example: Virtu Financial
 
 Virtu Financial is a prominent HFT [firm](../f/firm.md) known for its [market](../m/market.md)-making and latency [arbitrage](../a/arbitrage.md) strategies, leveraging cutting-edge technology to execute trades in mere microseconds.
 
@@ -172,7 +172,7 @@ LSTMs are a type of RNN capable of learning long-term dependencies, making them 
 
 CNNs are commonly used in image recognition but have been adapted for [time series analysis](../t/time_series_analysis.md) by treating them as one-dimensional images.
 
-### Example: [Numerai](https://numer.ai/)
+### Example: Numerai
 
 Numerai is a crowdsourced [hedge fund](../h/hedge_fund.md) utilizing neural [network models](../n/network_models_in_trading.md) built by data scientists worldwide to predict [stock market](../s/stock_market.md) movements based on anonymized data.
 

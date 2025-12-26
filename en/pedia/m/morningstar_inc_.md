@@ -120,4 +120,4 @@ Critics have also questioned the performance of funds rated highly by [Morningst
 
 [Morningstar](../m/morningstar.md) Inc. has established itself as a cornerstone of the financial services [industry](../i/industry.md) through its commitment to providing independent, data-driven research and analysis. With a diverse [range](../r/range.md) of products and services tailored to individual investors, financial advisors, and institutional clients, [Morningstar](../m/morningstar.md) continues to play a crucial role in shaping the way investment decisions are made. Despite facing challenges, the company's focus on [transparency](../t/transparency.md), innovation, and education ensures its continued relevance and impact in the ever-evolving financial landscape.
 
-For more detailed information, you can visit their [official website](https://www.morningstar.com).
+For more detailed information,

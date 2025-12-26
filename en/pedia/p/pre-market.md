@@ -35,9 +35,9 @@ Pre-[market](../m/market.md) trading is facilitated by ECNs, which allow buy and
 
 Retail investors can access pre-[market](../m/market.md) trading through various brokerage platforms that [offer](../o/offer.md) extended hours trading, including:
 
-- **TD [Ameritrade](../a/ameritrade.md):** Provides pre-[market](../m/market.md) trading from 7:00 a.m. to 9:15 a.m. ET. [TD Ameritrade](https://www.tdameritrade.com)
-- **[E*TRADE](../e/e_trade.md):** Allows for pre-[market](../m/market.md) trading from 7:00 a.m. to 9:30 a.m. ET. [E*TRADE](https://us.etrade.com)
-- **[Robinhood](../r/robinhood.md):** Offers pre-[market](../m/market.md) trading from 9:00 a.m. to 9:30 a.m. ET. [Robinhood](https://www.robinhood.com)
+- **TD [Ameritrade](../a/ameritrade.md):** Provides pre-[market](../m/market.md) trading from 7:00 a.m. to 9:15 a.m. ET. TD Ameritrade
+- **[E*TRADE](../e/e_trade.md):** Allows for pre-[market](../m/market.md) trading from 7:00 a.m. to 9:30 a.m. ET. E*TRADE
+- **[Robinhood](../r/robinhood.md):** Offers pre-[market](../m/market.md) trading from 9:00 a.m. to 9:30 a.m. ET. Robinhood
 
 ## Strategies for Pre-Market Trading
 

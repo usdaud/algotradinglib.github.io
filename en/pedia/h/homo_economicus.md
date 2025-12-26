@@ -65,9 +65,8 @@ Homo Economicus remains a fundamental concept in economic theory, providing a [b
 
 ## References
 
-1. [Adam Smith Institute](https://www.adamsmith.org/)
-2. [John Stuart Mill - Internet Encyclopedia of Philosophy](https://iep.utm.edu/milljs/)
-3. [Behavioural Economics - The Decision Lab](https://thedecisionlab.com/)
-4. [Herbert Simon - Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/1978/simon/biographical/)
-5. [Daniel Kahneman - Princeton University](https://psych.princeton.edu/person/daniel-kahneman)
-
+1. Adam Smith Institute
+2. John Stuart Mill - Internet Encyclopedia of Philosophy
+3. Behavioural Economics - The Decision Lab
+4. Herbert Simon - Nobel Prize
+5. Daniel Kahneman - Princeton University

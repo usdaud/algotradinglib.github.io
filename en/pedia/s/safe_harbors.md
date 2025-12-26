@@ -2,11 +2,11 @@
 
 Safe harbors constitute an essential legal concept and are particularly vital in the realms of trading and [finance](../f/finance.md). They provide a figurative and sometimes literal safe space where entities can operate without fear of legal penalties, given certain conditions are met. In these domains, safe harbor provisions shield individuals and corporations from [liability](../l/liability.md) for actions that, if not protected by these specific statutes, could result in significant legal consequences. This freedom enables innovation, experimentation, and often more aggressive strategies while adhering to predefined compliance standards.
 
-## Importance in Trading and Finance 
+## Importance in Trading and Finance
 
 ### Regulatory Compliance
 
-In the highly regulated sectors of trading and [finance](../f/finance.md), the threat of legal action due to non-compliance with numerous laws and regulations is omnipresent. Safe harbor rules [offer](../o/offer.md) definitive guidelines that, if followed, protect entities from regulatory missteps. For example, safe harbor provisions can protect against accusations of [insider trading](../i/insider.md) if certain communication and [disclosure](../d/disclosure.md) steps are followed. 
+In the highly regulated sectors of trading and [finance](../f/finance.md), the threat of legal action due to non-compliance with numerous laws and regulations is omnipresent. Safe harbor rules [offer](../o/offer.md) definitive guidelines that, if followed, protect entities from regulatory missteps. For example, safe harbor provisions can protect against accusations of [insider trading](../i/insider.md) if certain communication and [disclosure](../d/disclosure.md) steps are followed.
 
 ### Promotion of Innovation
 
@@ -34,15 +34,15 @@ In the realm of [data security](../d/data_security_in_trading.md), especially vi
 
 ### Legality and Ethical Compliance
 
-[Algorithmic trading](../a/accountability.md) firms, which use computer algorithms to execute trades at high speed and [volume](../v/volume.md), face unique legal challenges. Safe harbor provisions [offer](../o/offer.md) these firms a way to ensure their strategies comply with [market](../m/market.md) regulations. For instance, specific rules under [MiFID II](../m/mifid_ii.md) (Markets in Financial Instruments Directive) in the EU [offer](../o/offer.md) safe harbors for [algorithmic trading](../a/accountability.md) activities, provided firms disclose their algorithms and adhere to [market](../m/market.md) fairness principles.
+[Algorithmic trading](../a/algorithmic_trading.md) firms, which use computer algorithms to execute trades at high speed and [volume](../v/volume.md), face unique legal challenges. Safe harbor provisions [offer](../o/offer.md) these firms a way to ensure their strategies comply with [market](../m/market.md) regulations. For instance, specific rules under [MiFID II](../m/mifid_ii.md) (Markets in Financial Instruments Directive) in the EU [offer](../o/offer.md) safe harbors for [algorithmic trading](../a/algorithmic_trading.md) activities, provided firms disclose their algorithms and adhere to [market](../m/market.md) fairness principles.
 
 ### Market Consistency
 
 Algorithmic strategies often rely on back-testing, where historical data are used to simulate future [trading performance](../t/trading_performance.md). Safe harbor provisions can affect the availability and legality of using such data. For instance, the SEC provides guidelines on what data sets can be used without infringing on [insider trading](../i/insider.md) laws. This protected legal space allows firms to optimize their strategies more effectively.
 
-### Regulated Financial Instruments 
+### Regulated Financial Instruments
 
-When trading certain financial instruments like [derivatives](../d/derivatives.md), safe harbor laws often outline the conditions under which these trades are considered compliant and not speculative. These boundaries help maintain [market](../m/market.md) integrity and ensure that [algorithmic trading](../a/accountability.md) does not contribute to [market](../m/market.md) [volatility](../v/volatility.md) in undesirable ways.
+When trading certain financial instruments like [derivatives](../d/derivatives.md), safe harbor laws often outline the conditions under which these trades are considered compliant and not speculative. These boundaries help maintain [market](../m/market.md) integrity and ensure that [algorithmic trading](../a/algorithmic_trading.md) does not contribute to [market](../m/market.md) [volatility](../v/volatility.md) in undesirable ways.
 
 ## Global Perspectives
 

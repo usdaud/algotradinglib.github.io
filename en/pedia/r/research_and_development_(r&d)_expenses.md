@@ -64,13 +64,13 @@ The time taken to bring a new product from conception to [market](../m/market.md
 ## Examples of Companies with High R&D Expenditure
 
 ### Alphabet Inc. (Google)
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, is renowned for its significant investment in R&D. The focus areas include search algorithms, AI, and various moonshot projects. [Alphabet Inc.](https://abc.xyz)
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, is renowned for its significant investment in R&D. The focus areas include search algorithms, AI, and various moonshot projects. Alphabet Inc.
 
 ### General Motors (GM)
-GM focuses heavily on R&D for electric and autonomous vehicles. The company aims to transition to a future with zero crashes, zero emissions, and zero congestion. [General Motors](https://www.gm.com/)
+GM focuses heavily on R&D for electric and autonomous vehicles. The company aims to transition to a future with zero crashes, zero emissions, and zero congestion. General Motors
 
 ### Pfizer Inc.
-Pfizer is a global leader in pharmaceuticals and allocates a considerable portion of its [budget](../b/budget.md) to R&D. This investment helped the company rapidly develop a COVID-19 vaccine. [Pfizer](https://www.pfizer.com/)
+Pfizer is a global leader in pharmaceuticals and allocates a considerable portion of its [budget](../b/budget.md) to R&D. This investment helped the company rapidly develop a COVID-19 vaccine. Pfizer
 
 ## Conclusion
 

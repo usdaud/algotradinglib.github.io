@@ -84,7 +84,7 @@ The selection of the [valuation](../v/valuation.md) period often involves a degr
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [valuation](../v/valuation.md) periods can [range](../r/range.md) from milliseconds to days. Advanced algorithms analyze [real-time market data](../r/real-time_market_data.md) to make split-second trading decisions. The short [valuation](../v/valuation.md) periods used in [algorithmic trading](../a/accountability.md) highlight the importance of technology and computational power in modern [finance](../f/finance.md).
+In [algorithmic trading](../a/algorithmic_trading.md), [valuation](../v/valuation.md) periods can [range](../r/range.md) from milliseconds to days. Advanced algorithms analyze [real-time market data](../r/real-time_market_data.md) to make split-second trading decisions. The short [valuation](../v/valuation.md) periods used in [algorithmic trading](../a/algorithmic_trading.md) highlight the importance of technology and computational power in modern [finance](../f/finance.md).
 
 ### Fintech Innovations
 
@@ -94,7 +94,7 @@ Fintech companies are leveraging [big data](../b/big_data_in_trading.md), [machi
 
 [Blockchain](../b/blockchain_in_trading.md) technology offers a transparent and immutable record of transactions, which can be used to enhance the [valuation](../v/valuation.md) process. [Smart contracts](../s/smart_contracts_in_trading.md) and tokenization of assets on [blockchain](../b/blockchain_in_trading.md) platforms can provide real-time valuations and streamline the [valuation](../v/valuation.md) process for a broad [range](../r/range.md) of financial instruments.
 
-For example, companies like Chainlink (https://chain.link/) are developing oracle networks capable of providing reliable data feeds for various [valuation models](../v/valuation_models.md) used in decentralized [finance](../f/finance.md) (DeFi) applications.
+For example, companies like Chainlink ( are developing oracle networks capable of providing reliable data feeds for various [valuation models](../v/valuation_models.md) used in decentralized [finance](../f/finance.md) (DeFi) applications.
 
 ## Conclusion
 

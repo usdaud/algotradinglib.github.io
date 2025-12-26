@@ -46,11 +46,11 @@ The application of algorithms in [dynamic hedging](../d/dynamic_hedging.md) allo
 
 Several companies are at the forefront of dynamic [portfolio hedging](../p/portfolio_hedging.md), leveraging advanced technology and research to provide comprehensive [risk management](../r/risk_management.md) solutions. Some notable firms include:
 
-- **AQR [Capital](../c/capital.md) Management**: Known for their quantitative approach to trading and [investment management](../i/investment_management.md), AQR uses [dynamic hedging](../d/dynamic_hedging.md) techniques to manage [risk](../r/risk.md) across its portfolios. [AQR Capital Management](https://www.aqr.com/).
+- **AQR [Capital](../c/capital.md) Management**: Known for their quantitative approach to trading and [investment management](../i/investment_management.md), AQR uses [dynamic hedging](../d/dynamic_hedging.md) techniques to manage [risk](../r/risk.md) across its portfolios. AQR Capital Management.
 
-- **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify [market](../m/market.md) patterns and dynamically [hedge](../h/hedge.md) positions. [Two Sigma Investments](https://www.twosigma.com/).
+- **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify [market](../m/market.md) patterns and dynamically [hedge](../h/hedge.md) positions. Two Sigma Investments.
 
-- **DE Shaw & Co**: An investment and technology development [firm](../f/firm.md), DE Shaw employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [dynamic hedging](../d/dynamic_hedging.md). [DE Shaw & Co](https://www.deshaw.com/).
+- **DE Shaw & Co**: An investment and technology development [firm](../f/firm.md), DE Shaw employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [dynamic hedging](../d/dynamic_hedging.md). DE Shaw & Co.
 
 ## 5. Implementing Dynamic Hedging: A Step-by-Step Guide
 
@@ -134,6 +134,6 @@ Dynamic [Portfolio Hedging](../p/portfolio_hedging.md) is a vital strategy in th
 
 **References:**
 
-- AQR [Capital](../c/capital.md) Management [Website](https://www.aqr.com/)
-- Two Sigma Investments [Website](https://www.twosigma.com/)
-- DE Shaw & Co [Website](https://www.deshaw.com/)
+- AQR [Capital](../c/capital.md)
+-
+-

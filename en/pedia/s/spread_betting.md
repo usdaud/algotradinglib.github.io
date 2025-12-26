@@ -21,16 +21,16 @@ If the [trader](../t/trader.md) believes the price of gold [will](../w/will.md) 
 
 $$
 [Profit](../p/profit.md) = (Closing Price - Spread) × Stake
-       = (1,900 - 1,870) × Stake
-       = 30 × Stake
+ = (1,900 - 1,870) × Stake
+ = 30 × Stake
 $$
 
 - **If the price falls** to $1,800, the [trader](../t/trader.md) incurs a loss:
 
 $$
 Loss = (Spread - Closing Price) × Stake
-     = (1,870 - 1,800) × Stake
-     = 70 × Stake
+ = (1,870 - 1,800) × Stake
+ = 70 × Stake
 $$
 
 ## Key Features of Spread Betting
@@ -65,7 +65,7 @@ Due to [leverage](../l/leverage.md), traders can lose more [money](../m/money.md
 
 ### Hedging
 
-Traders can use spread betting for hedging purposes, especially in volatile markets. For instance, an [investor](../i/investor.md) holding a portfolio of [stocks](../s/stock.md) can place a spread bet against a falling [market](../m/market.md) to [offset](../o/offset.md) potential losses in the portfolio. 
+Traders can use spread betting for hedging purposes, especially in volatile markets. For instance, an [investor](../i/investor.md) holding a portfolio of [stocks](../s/stock.md) can place a spread bet against a falling [market](../m/market.md) to [offset](../o/offset.md) potential losses in the portfolio.
 
 ### Pair Trading
 
@@ -83,23 +83,23 @@ This strategy involves simultaneously betting on the spread between two correlat
 
 ### IG Group
 
-[IG Group](https://www.ig.com) is one of the largest and most established providers of spread betting services. Founded in 1974, IG offers a wide [range](../r/range.md) of markets, competitive [spreads](../s/spreads.md), and advanced trading tools.
+IG Group is one of the largest and most established providers of spread betting services. Founded in 1974, IG offers a wide [range](../r/range.md) of markets, competitive [spreads](../s/spreads.md), and advanced trading tools.
 
 ### CMC Markets
 
-[CMC Markets](https://www.cmcmarkets.com) provides a comprehensive spread betting platform with access to thousands of markets, including indices, forex, commodities, and [stocks](../s/stock.md). Established in 1989, [CMC Markets](../c/cmc_markets.md) is known for its [robust](../r/robust.md) trading interface and [customer](../c/customer.md) support.
+CMC Markets provides a comprehensive spread betting platform with access to thousands of markets, including indices, forex, commodities, and [stocks](../s/stock.md). Established in 1989, [CMC Markets](../c/cmc_markets.md) is known for its [robust](../r/robust.md) trading interface and [customer](../c/customer.md) support.
 
 ### Spreadex
 
-[Spreadex](https://www.spreadex.com) is a UK-based platform [offering](../o/offering.md) financial spread betting along with sports betting. They provide a diverse [range](../r/range.md) of markets and competitive [spreads](../s/spreads.md), catering to both novice and experienced traders.
+Spreadex is a UK-based platform [offering](../o/offering.md) financial spread betting along with sports betting. They provide a diverse [range](../r/range.md) of markets and competitive [spreads](../s/spreads.md), catering to both novice and experienced traders.
 
 ### City Index
 
-[City Index](https://www.cityindex.com) has been providing spread betting services since 1983. The platform offers access to numerous [financial markets](../f/financial_market.md), educational resources, and strong [customer](../c/customer.md) support, making it suitable for traders of all levels.
+City Index has been providing spread betting services since 1983. The platform offers access to numerous [financial markets](../f/financial_market.md), educational resources, and strong [customer](../c/customer.md) support, making it suitable for traders of all levels.
 
 ### ETX Capital
 
-[ETX Capital](https://www.etxcapital.com) offers a wide [range](../r/range.md) of spread betting [options](../o/options.md) with competitive [spreads](../s/spreads.md) and [leverage](../l/leverage.md). The platform offers advanced charting tools, [risk management](../r/risk_management.md) features, and educational resources for traders.
+ETX Capital offers a wide [range](../r/range.md) of spread betting [options](../o/options.md) with competitive [spreads](../s/spreads.md) and [leverage](../l/leverage.md). The platform offers advanced charting tools, [risk management](../r/risk_management.md) features, and educational resources for traders.
 
 ## Conclusion
 

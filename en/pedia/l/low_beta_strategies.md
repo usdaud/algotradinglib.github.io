@@ -48,17 +48,17 @@ During bear markets or periods of economic [recession](../r/recession.md), low [
 
 There are various tools and platforms available for implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including low [beta](../b/beta.md) strategies. Here are a few prominent ones:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and deploy their [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) supports coding in Python and C#.
-  - [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and deploy their [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) supports coding in C#.
+ - QuantConnect
 
 - **[Alpha](../a/alpha.md) Vantage**: Provides free APIs for financial data and is widely used in the [algorithmic trading](../a/algorithmic_trading.md) community.
-  - [Alpha Vantage](https://www.alphavantage.co/)
+ - Alpha Vantage
 
 - **Quantopian**: Although it has shut down, Quantopian was a significant platform in the [algorithmic trading](../a/algorithmic_trading.md) community. It allowed users to create and backtest strategies using Python.
-  - [Quantopian Archive](https://quantpedia.com/quantopian-alternative-sources/)
+ - Quantopian Archive
 
 - **[Interactive Brokers](../i/interactive_brokers.md) (IB)**: Known for its comprehensive API that supports various programming languages, making it suitable for implementing and automating [trading strategies](../t/trading_strategies.md).
-  - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 
 ### Case Studies of Low Beta Strategies
 
@@ -99,4 +99,3 @@ While low [beta](../b/beta.md) strategies [offer](../o/offer.md) several advanta
 ### Conclusion
 
 Low [beta](../b/beta.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) represent a sophisticated approach to managing [risk](../r/risk.md) while still achieving favorable returns. By focusing on [stocks](../s/stock.md) with lower [volatility](../v/volatility.md), these strategies aim to provide a more stable investment experience, particularly during turbulent [market](../m/market.md) periods. Leveraging advanced tools and platforms, traders can automate the process, ensuring efficient [execution](../e/execution.md) and continual [optimization](../o/optimization.md). However, it's crucial to stay aware of the limitations and risks inherent in this approach, requiring ongoing monitoring and adjustment. As the [algorithmic trading](../a/algorithmic_trading.md) landscape evolves, low [beta](../b/beta.md) strategies [will](../w/will.md) likely continue to be a valuable tool for both individual and institutional investors aiming for a balanced investment portfolio.
-

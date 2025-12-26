@@ -28,7 +28,7 @@ This consists of three overlapping circles. The central area where all three cir
 More complex Venn diagrams can consist of [multiple](../m/multiple.md) overlapping sets, though these can become difficult to interpret visually if there are more than four or five sets.
 
 ### Nested Venn Diagrams
-These diagrams show subsets within a larger set. Each subset is completely enclosed by the set containing it. 
+These diagrams show subsets within a larger set. Each subset is completely enclosed by the set containing it.
 
 ## Applications of Venn Diagrams
 
@@ -55,12 +55,12 @@ These diagrams show subsets within a larger set. Each subset is completely enclo
 
 ## Conclusion
 
-Venn diagrams are a versatile and effective tool for visually representing relationships between sets. They are used in a multitude of disciplines to explain complex concepts in a simple, clear manner. From mathematics to [business](../b/business.md), their application can provide significant insights and help in [data visualization](../d/data_visualization.md), making them an invaluable resource in both education and professional settings. 
+Venn diagrams are a versatile and effective tool for visually representing relationships between sets. They are used in a multitude of disciplines to explain complex concepts in a simple, clear manner. From mathematics to [business](../b/business.md), their application can provide significant insights and help in [data visualization](../d/data_visualization.md), making them an invaluable resource in both education and professional settings.
 
 To [gain](../g/gain.md) a better understanding or utilize Venn diagrams in a comprehensive way, many online tools and software are available, including:
 
-- [Lucidchart](https://www.lucidchart.com/)
-- [Creately](https://creately.com/)
-- [Vizzlo](https://vizzlo.com/)
+- Lucidchart
+- Creately
+- Vizzlo
 
 These platforms provide user-friendly interfaces for creating and manipulating Venn diagrams to aid in various forms of analysis.

@@ -9,20 +9,20 @@ At its core, a [futures](../f/futures.md) spread involves the purchase of one [f
 ### Types of Futures Spreads
 
 1. **Intra-[Market](../m/market.md) Spread (Calendar Spread)**:
-    - **Definition**: This spread involves taking long and short positions in the same [commodity](../c/commodity.md) but in different delivery months within the same [exchange](../e/exchange.md).
-    - **Example**: Buying a November [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md) and selling a January [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md).
-    
-2. **Inter-[Market](../m/market.md) Spread**:
-    - **Definition**: This involves taking long and short positions in the same delivery month but in related commodities on the same [exchange](../e/exchange.md).
-    - **Example**: Buying a [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md) and selling a heating oil [futures contract](../f/futures_contract.md) for the same delivery month.
-    
-3. **Inter-[Exchange](../e/exchange.md) Spread**:
-    - **Definition**: This involves taking long and short positions in the same [commodity](../c/commodity.md) and delivery month but on different exchanges.
-    - **Example**: Buying a wheat [futures contract](../f/futures_contract.md) on the Chicago Board of [Trade](../t/trade.md) (CBOT) and selling a wheat [futures contract](../f/futures_contract.md) on the Minneapolis Grain [Exchange](../e/exchange.md) (MGEX).
+ - **Definition**: This spread involves taking long and short positions in the same [commodity](../c/commodity.md) but in different delivery months within the same [exchange](../e/exchange.md).
+ - **Example**: Buying a November [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md) and selling a January [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md).
 
-4. **[Commodity](../c/commodity.md) Product Spread**: 
-    - **Definition**: This spread involves commodities where the end product and the raw material are traded. 
-    - **Example**: Buying soybean oil [futures](../f/futures.md) and selling soybean meal [futures](../f/futures.md).
+2. **Inter-[Market](../m/market.md) Spread**:
+ - **Definition**: This involves taking long and short positions in the same delivery month but in related commodities on the same [exchange](../e/exchange.md).
+ - **Example**: Buying a [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md) and selling a heating oil [futures contract](../f/futures_contract.md) for the same delivery month.
+
+3. **Inter-[Exchange](../e/exchange.md) Spread**:
+ - **Definition**: This involves taking long and short positions in the same [commodity](../c/commodity.md) and delivery month but on different exchanges.
+ - **Example**: Buying a wheat [futures contract](../f/futures_contract.md) on the Chicago Board of [Trade](../t/trade.md) (CBOT) and selling a wheat [futures contract](../f/futures_contract.md) on the Minneapolis Grain [Exchange](../e/exchange.md) (MGEX).
+
+4. **[Commodity](../c/commodity.md) Product Spread**:
+ - **Definition**: This spread involves commodities where the end product and the raw material are traded.
+ - **Example**: Buying soybean oil [futures](../f/futures.md) and selling soybean meal [futures](../f/futures.md).
 
 ### The Mechanics of Spread Trading
 
@@ -85,8 +85,8 @@ High-frequency trading firms use advanced technology to execute trades at extrem
 
 Several technological platforms provide tools for spread traders, including real-time spread charts, analytics, historical data, and automated trading capabilities. Examples include:
 
-- **[CQG](../c/cqg.md)**: Offers advanced charting and analytics specifically tailored for [spread trading](../s/spread_trading.md). More information can be found on their official website [here](https://www.cqg.com).
-- **[Trading Technologies](../t/trading_technologies.md) (TT)**: Known for its [robust](../r/robust.md) [spread trading](../s/spread_trading.md) functionalities and [execution](../e/execution.md) tools. Their products cater extensively to professional spread traders. Visit their website [here](https://www.tradingtechnologies.com).
+- **[CQG](../c/cqg.md)**: Offers advanced charting and analytics specifically tailored for [spread trading](../s/spread_trading.md).
+- **[Trading Technologies](../t/trading_technologies.md) (TT)**: Known for its [robust](../r/robust.md) [spread trading](../s/spread_trading.md) functionalities and [execution](../e/execution.md) tools. Their products cater extensively to professional spread traders.
 
 ## Conclusion
 

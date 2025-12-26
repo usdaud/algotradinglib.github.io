@@ -12,7 +12,7 @@ A private company, also referred to as a privately-held company, is a [business]
 
 ## Definition and Characteristics
 
-A private company is an entity whose [shares](../s/shares.md) are not available to the general public through a stock [exchange](../e/exchange.md). The ownership is usually restricted to a small group of investors, including founders, family members, employees, venture capitalists, or [private equity](../p/private_equity.md) firms. 
+A private company is an entity whose [shares](../s/shares.md) are not available to the general public through a stock [exchange](../e/exchange.md). The ownership is usually restricted to a small group of investors, including founders, family members, employees, venture capitalists, or [private equity](../p/private_equity.md) firms.
 
 Key characteristics include:
 
@@ -84,9 +84,9 @@ Private companies operate in a regulatory environment that is typically less str
 
 Several well-known private companies play major roles in their respective industries. Here are a few notable examples:
 
-1. **Cargill**: An American [multinational corporation](../m/multinational_corporation.md) operating in the food, agriculture, and industrial product industries. Known for being one of the largest privately-held companies in the world. More information: [Cargill](https://www.cargill.com/)
-2. **Koch Industries**: A [conglomerate](../c/conglomerate.md) with interests in [manufacturing](../m/manufacturing.md), trading, and investments. It is one of the largest privately-held companies by [revenue](../r/revenue.md). More information: [Koch Industries](https://www.kochind.com/)
-3. **Mars, Incorporated**: A global manufacturer of confectionery, pet food, and other food products. More information: [Mars](https://www.mars.com/)
+1. **Cargill**: An American [multinational corporation](../m/multinational_corporation.md) operating in the food, agriculture, and industrial product industries. Known for being one of the largest privately-held companies in the world. More information: Cargill
+2. **Koch Industries**: A [conglomerate](../c/conglomerate.md) with interests in [manufacturing](../m/manufacturing.md), trading, and investments. It is one of the largest privately-held companies by [revenue](../r/revenue.md). More information: Koch Industries
+3. **Mars, Incorporated**: A global manufacturer of confectionery, pet food, and other food products. More information: Mars
 
 ## Conclusion
 

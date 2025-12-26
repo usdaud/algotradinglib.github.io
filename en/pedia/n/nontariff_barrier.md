@@ -6,26 +6,26 @@ In international [trade](../t/trade.md) and [economics](../e/economics.md), nont
 
 ### 1. Quotas
 [Quotas](../q/quota.md) are direct quantitative restrictions on the amount of a specific product that can be imported or exported during a given timeframe. They limit the quantity of goods to control [supply](../s/supply.md) and influence [market](../m/market.md) prices. There are different types of [quotas](../q/quota.md):
-   
-   - **Global [Quotas](../q/quota.md)**: Apply to total quantity irrespective of source.
-   
-   - **Allocated [Quotas](../q/quota.md)**: Specific limits are set for different countries.
+
+ - **Global [Quotas](../q/quota.md)**: Apply to total quantity irrespective of source.
+
+ - **Allocated [Quotas](../q/quota.md)**: Specific limits are set for different countries.
 
 ### 2. Import Licensing
-[Import](../i/import.md) licensing measures require importers to obtain permission from the relevant authorities before bringing goods into the country. This process may involve extensive documentation and compliance with various regulations, which can act as a formidable barrier to [trade](../t/trade.md). 
+[Import](../i/import.md) licensing measures require importers to obtain permission from the relevant authorities before bringing goods into the country. This process may involve extensive documentation and compliance with various regulations, which can act as a formidable barrier to [trade](../t/trade.md).
 
 ### 3. Standards and Regulations
 Countries establish standards and regulations concerning product safety, health, and environmental impact. These may include:
-   
-   - **Technical Standards**: Given specifications that products must meet.
-   
-   - **Sanitary and Phytosanitary Measures**: Rules to protect humans, animals, and plants from diseases and contaminants.
+
+ - **Technical Standards**: Given specifications that products must meet.
+
+ - **Sanitary and Phytosanitary Measures**: Rules to protect humans, animals, and plants from diseases and contaminants.
 
 ### 4. Subsidies
-Subsidies are monetary grants given by governments to domestic companies to support them financially. They make local products cheaper and more competitive compared to foreign imports. 
+Subsidies are monetary grants given by governments to domestic companies to support them financially. They make local products cheaper and more competitive compared to foreign imports.
 
 ### 5. Customs Procedures
-Complex and lengthy customs procedures can delay shipments and add to the cost of exporting and importing goods. Bureaucratic red tape, extensive forms, and slow processing times can act as significant barriers. 
+Complex and lengthy customs procedures can delay shipments and add to the cost of exporting and importing goods. Bureaucratic red tape, extensive forms, and slow processing times can act as significant barriers.
 
 ### 6. Embargoes and Sanctions
 Embargoes are official bans on [trade](../t/trade.md) or commercial activity with specific countries, often imposed for political reasons. Sanctions are restrictions put in place to limit [trade](../t/trade.md) in certain goods or with certain entities.

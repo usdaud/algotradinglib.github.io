@@ -1,15 +1,15 @@
 # Spin-Off
 
-A spin-off, also known as a spin-out or starburst, is a type of corporate action where a company creates a new independent entity by selling or distributing new [shares](../s/shares.md) of its existing [business](../b/business.md). Typically, a spin-off occurs when a [parent company](../p/parent_company.md) breaks off a portion of its operations to form a new company, which is then separately traded on the [stock market](../s/stock_market.md). The purpose behind a spin-off can vary, but the main motivations usually include increased [operational efficiency](../o/operational_efficiency_in_trading.md), a more focused [business](../b/business.md) strategy, or unlocking [shareholder value](../s/shareholder_value.md) by separating distinct [business](../b/business.md) units that may have different growth trajectories or [risk profiles](../r/risk_profiles.md). 
+A spin-off, also known as a spin-out or starburst, is a type of corporate action where a company creates a new independent entity by selling or distributing new [shares](../s/shares.md) of its existing [business](../b/business.md). Typically, a spin-off occurs when a [parent company](../p/parent_company.md) breaks off a portion of its operations to form a new company, which is then separately traded on the [stock market](../s/stock_market.md). The purpose behind a spin-off can vary, but the main motivations usually include increased [operational efficiency](../o/operational_efficiency_in_trading.md), a more focused [business](../b/business.md) strategy, or unlocking [shareholder value](../s/shareholder_value.md) by separating distinct [business](../b/business.md) units that may have different growth trajectories or [risk profiles](../r/risk_profiles.md).
 
-Spin-offs can be beneficial for both the [parent company](../p/parent_company.md) and the spun-off entity, as they allow for greater managerial focus and operational agility. They can also attract investors who are specifically interested in the niche that the new entity serves. However, it is crucial to understand the mechanics, drivers, and potential risks associated with spin-offs to make informed investment decisions. 
+Spin-offs can be beneficial for both the [parent company](../p/parent_company.md) and the spun-off entity, as they allow for greater managerial focus and operational agility. They can also attract investors who are specifically interested in the niche that the new entity serves. However, it is crucial to understand the mechanics, drivers, and potential risks associated with spin-offs to make informed investment decisions.
 
 ## Mechanics of a Spin-Off
 ### Structuring the Spin-Off
 In a spin-off, the [parent company](../p/parent_company.md) typically transfers assets, liabilities, and operations to a newly created subsidiary, which then becomes an independent entity. Shareholders of the [parent company](../p/parent_company.md) receive [shares](../s/shares.md) of the new entity, proportionate to their existing [holdings](../h/holdings.md). This means that if an [investor](../i/investor.md) owns 5% of the [parent company](../p/parent_company.md), they [will](../w/will.md) own 5% of the new entity post-spin-off.
 
 ### Types of Spin-Offs
-1. **Pure Spin-Off**: The [parent company](../p/parent_company.md) distributes all of the [shares](../s/shares.md) of the new entity to its existing shareholders and retains no ownership stake in the new entity. 
+1. **Pure Spin-Off**: The [parent company](../p/parent_company.md) distributes all of the [shares](../s/shares.md) of the new entity to its existing shareholders and retains no ownership stake in the new entity.
 2. **Partial Spin-Off (or [Carve-Out](../c/carve-out.md))**: The [parent company](../p/parent_company.md) floats a portion of the new entity's [shares](../s/shares.md) to the public through an Initial Public [Offering](../o/offering.md) (IPO), while retaining a majority ownership stake.
 3. **[Equity](../e/equity.md) [Carve-Out](../c/carve-out.md)**: Similar to a partial spin-off, but usually involves selling a minority stake in the new entity via an IPO, allowing the parent to maintain significant control.
 
@@ -33,7 +33,7 @@ A primary motivator for spin-offs is the desire to realign the strategic focus o
 Smaller, more focused companies can often operate more efficiently and make faster decisions. This agility can be a significant [competitive advantage](../c/competitive_advantage.md) in rapidly changing markets.
 
 ### Regulatory Pressure
-Sometimes, regulatory bodies might press companies to spin-off certain operations to reduce [market](../m/market.md) dominance or to comply with [antitrust](../a/antitrust.md) laws. 
+Sometimes, regulatory bodies might press companies to spin-off certain operations to reduce [market](../m/market.md) dominance or to comply with [antitrust](../a/antitrust.md) laws.
 
 ### Responding to Activist Investors
 Activist investors often push for spin-offs when they believe the [parent company](../p/parent_company.md) is not fully realizing the [value](../v/value.md) of particular [business](../b/business.md) units. The threat or presence of activist investors can accelerate the decision-making process.
@@ -79,6 +79,5 @@ It's important to consider the potential risks involved in [investing](../i/inve
 ## Conclusion
 Spin-offs can be a powerful strategic tool for companies seeking to unlock [value](../v/value.md), enhance operational focus, and respond to [market](../m/market.md) pressures. For investors, spin-offs provide unique opportunities to invest in newly independent entities with distinct growth prospects and [risk profiles](../r/risk_profiles.md). However, like any investment decision, a thorough understanding of the mechanics, strategic drivers, and potential risks is essential for making informed choices.
 
-For further information on financial strategies and spin-offs, you can visit [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html) and [PayPal](https://www.paypal.com). 
-
+For further information on financial strategies and spin-offs, you can visit Hewlett Packard Enterprise and PayPal.
 ---

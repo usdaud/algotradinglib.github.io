@@ -8,16 +8,16 @@ In [financial markets](../f/financial_market.md), especially in [algorithmic tra
 
 ### Mathematical Formulation
 
-Given a set of data points \((x_i, y_i)\) where \(i = 1,2,...,n\), the goal in Least Absolute Deviations is to find the coefficients \( \beta_0, \beta_1, ..., \beta_k \) that minimize the objective function:
+Given a set of data points \((x_i, y_i)\) where \(i = 1,2,...,n\), the goal in Least Absolute Deviations is to find the coefficients \( \beta_0, \beta_1,..., \beta_k \) that minimize the objective function:
 
-\[ \text{Minimize} \sum_{i=1}^{n} |y_i - ( \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} + ... + \beta_k x_{ik} )| \]
+\[ \text{Minimize} \sum_{i=1}^{n} |y_i - ( \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} +... + \beta_k x_{ik} )| \]
 
-Here, \(y_i\) represents the observed [value](../v/value.md) and \( \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} + ... + \beta_k x_{ik} \) is the predicted [value](../v/value.md).
+Here, \(y_i\) represents the observed [value](../v/value.md) and \( \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} +... + \beta_k x_{ik} \) is the predicted [value](../v/value.md).
 
 ### Why Choose LAD in Algorithmic Trading?
 
 1. **Robustness**: LAD is less sensitive to extreme values as it minimizes the absolute rather than the squared differences. This characteristic is beneficial when dealing with [market](../m/market.md) data that often contain outliers.
-   
+
 2. **Better Performance with Fat-Tails**: Financial data often exhibit heavy tails (extreme deviations from the mean are more frequent than in a [normal distribution](../n/normal_distribution_in_trading.md)). LAD can [handle](../h/handle.md) such data distributions more effectively.
 
 3. **[Scalability](../s/scalability.md)**: Contemporary [algorithmic trading](../a/algorithmic_trading.md) systems require models that scale well with high-dimensional data. LAD can be computationally efficient, especially with advanced [optimization](../o/optimization.md) algorithms.
@@ -35,18 +35,18 @@ The [optimization](../o/optimization.md) problem posed by LAD is non-differentia
 ### Applications in Algorithmic Trading
 
 - **[Trend Following](../t/trend_following.md) Models**: By emphasizing prediction accuracy over managing error squared, LAD can improve [trend](../t/trend.md)-following models which are critical in [algorithmic trading](../a/algorithmic_trading.md) strategies like [momentum trading](../m/momentum_trading.md).
-  
+
 - **[Risk Management](../r/risk_management.md)**: In [risk management](../r/risk_management.md) models, minimizing absolute losses may better reflect real-world scenarios where outliers can heavily impact financial decisions.
 
 - **[Portfolio Optimization](../p/portfolio_optimization.md)**: LAD can be integrated within [portfolio optimization](../p/portfolio_optimization.md) frameworks to minimize [risk profiles](../r/risk_profiles.md) that emphasize tail-[risk measures](../r/risk_measures.md) rather than variance.
 
 ### Examples of Companies Implementing LAD
 
-1. **AQR [Capital](../c/capital.md) Management**: AQR is known for its [quantitative analysis](../q/quantitative_analysis.md) and [robust](../r/robust.md) modeling techniques which could involve sophisticated methods like LAD. More info at [AQR](https://www.aqr.com/).
+1. **AQR [Capital](../c/capital.md) Management**: AQR is known for its [quantitative analysis](../q/quantitative_analysis.md) and [robust](../r/robust.md) modeling techniques which could involve sophisticated methods like LAD. More info at AQR.
 
-2. **Two Sigma**: This [hedge fund](../h/hedge_fund.md) relies heavily on [data science](../d/data_science_in_trading.md) and statistical methods. While their public documentation is limited, their emphasis on [robust](../r/robust.md) [predictive modeling](../p/predictive_modeling.md) aligns with LAD principles. More details can be found at [Two Sigma](https://www.twosigma.com/).
+2. **Two Sigma**: This [hedge fund](../h/hedge_fund.md) relies heavily on [data science](../d/data_science_in_trading.md) and statistical methods. While their public documentation is limited, their emphasis on [robust](../r/robust.md) [predictive modeling](../p/predictive_modeling.md) aligns with LAD principles. More details can be found at Two Sigma.
 
-3. **Renaissance Technologies**: Another leading name in [quantitative finance](../q/quantitative_finance.md), Renaissance Technologies might [leverage](../l/leverage.md) [robust](../r/robust.md) statistical techniques like LAD to minimize model inaccuracies in the face of [market anomalies](../m/market_anomalies.md). Visit [Renaissance Technologies](https://www.rentech.com/) for more information.
+3. **Renaissance Technologies**: Another leading name in [quantitative finance](../q/quantitative_finance.md), Renaissance Technologies might [leverage](../l/leverage.md) [robust](../r/robust.md) statistical techniques like LAD to minimize model inaccuracies in the face of [market anomalies](../m/market_anomalies.md). Visit Renaissance Technologies for more information.
 
 ### Conclusion
 

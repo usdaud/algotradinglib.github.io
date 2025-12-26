@@ -71,24 +71,24 @@ The [liquidity](../l/liquidity.md) and the global [demand](../d/demand.md) for [
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal is an advanced tool used by financial professionals to track and analyze the [10-year bond](../1/10-year_bond.md) [yield](../y/yield.md) among other financial instruments. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal is an advanced tool used by financial professionals to track and analyze the [10-year bond](../1/10-year_bond.md) [yield](../y/yield.md) among other financial instruments.
 
-### U.S. Treasury Website
+###
 
-The U.S. Department of the Treasury provides updated information, including [yield](../y/yield.md) rates for various maturities. [U.S. Department of the Treasury](https://www.treasury.gov/)
+The U.S. Department of the Treasury provides updated information, including [yield](../y/yield.md) rates for various maturities. U.S. Department of the Treasury
 
 ### Federal Reserve Economic Data (FRED)
 
-Operated by the [Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis, FRED offers a [wealth](../w/wealth.md) of economic data, including historical [yield](../y/yield.md) curves and current 10-year yields. [FRED](https://fred.stlouisfed.org/)
+Operated by the [Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis, FRED offers a [wealth](../w/wealth.md) of economic data, including historical [yield](../y/yield.md) curves and current 10-year yields.
 
 ### MarketWatch
 
-MarketWatch is a reliable source for tracking real-time [bond](../b/bond.md) yields and related financial news. [MarketWatch](https://www.marketwatch.com/)
+MarketWatch is a reliable source for tracking real-time [bond](../b/bond.md) yields and related financial news.
 
 ### Yahoo Finance
 
-[Yahoo Finance](../y/yahoo_finance.md) offers comprehensive financial data, including the [10-year bond](../1/10-year_bond.md) [yield](../y/yield.md), alongside news and analysis. [Yahoo Finance](https://finance.yahoo.com/)
+[Yahoo Finance](../y/yahoo_finance.md) offers comprehensive financial data, including the [10-year bond](../1/10-year_bond.md) [yield](../y/yield.md), alongside news and analysis.
 
 ## Conclusion
 
-The [10-year bond](../1/10-year_bond.md) [yield](../y/yield.md) is an indispensable element in the world of [finance](../f/finance.md), a barometer of economic health, a [benchmark](../b/benchmark.md) for a broad array of [interest](../i/interest.md) rates, and a critical component of [financial analysis](../f/financial_analysis.md) and investment strategies. Understanding its movements, implications, and the factors influencing it can provide valuable insights into the broader economic landscape and facilitate more informed decisions in both personal and professional [finance](../f/finance.md).
+The [10-year bond](../1/10-year_bond.md) [yield](../y/yield.md) is an indispensable element in the world of [finance](../f/finance.md), a barometer of economic health, a [benchmark](../b/benchmark.md) for a broad array of [interest](../i/interest.md) rates, and a critical component of [financial analysis](../f/financial_analysis.md) and investment strategies. Understanding its movements, implications, and the factors influencing it can provide valuable insights into the broader economic landscape and facilitate more informed decisions in both personal and professional [finance](../f/finance.md).

@@ -58,7 +58,7 @@ Deploying a Zero Coupon [Yield Curve](../y/yield_curve.md) Strategy requires hig
 
 ### Computational Power
 
-Given the complexity of the required calculations, substantial computational power is crucial. Modern [quantitative trading](../q/quantitative_trading.md) platforms, such as those provided by [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)), can facilitate the heavy computational lifting needed for this strategy.
+Given the complexity of the required calculations, substantial computational power is crucial. Modern [quantitative trading](../q/quantitative_trading.md) platforms, such as those provided by [QuantConnect](../q/quantconnect.md) (QuantConnect), can facilitate the heavy computational lifting needed for this strategy.
 
 ### Algorithm Development
 

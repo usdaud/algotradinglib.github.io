@@ -52,9 +52,9 @@ For investments held over periods longer than a year, YTD returns do not provide
 
 Various companies and financial institutions utilize YTD returns in their performance reports and [investment analysis](../i/investment_analysis.md) tools. For example:
 
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity provides various investment tools and performance analysis, often highlighting YTD returns for mutual funds and other investment products. ([Fidelity Investments](https://www.fidelity.com))
-- **Vanguard Group**: Vanguard's online platforms [offer](../o/offer.md) insights into YTD returns for its ETFs, mutual funds, and other financial instruments. ([Vanguard Group](https://www.vanguard.com))
-- **[Charles Schwab](../c/charles_schwab.md)**: Schwab's financial services include detailed performance reporting, where YTD returns are prominently featured for various [asset](../a/asset.md) classes. ([Charles Schwab](https://www.schwab.com))
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity provides various investment tools and performance analysis, often highlighting YTD returns for mutual funds and other investment products. (Fidelity Investments)
+- **Vanguard Group**: Vanguard's online platforms [offer](../o/offer.md) insights into YTD returns for its ETFs, mutual funds, and other financial instruments. (Vanguard Group)
+- **[Charles Schwab](../c/charles_schwab.md)**: Schwab's financial services include detailed performance reporting, where YTD returns are prominently featured for various [asset](../a/asset.md) classes. (Charles Schwab)
 
 ## Conclusion
 

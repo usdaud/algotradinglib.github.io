@@ -1,14 +1,14 @@
 # Market Maker
 
-A [market](../m/market.md) maker is a [firm](../f/firm.md) or individual who actively quotes two-sided markets in a particular [security](../s/security.md), providing bids and offers (known as asks) along with the [market](../m/market.md) size of each. The role of a [market](../m/market.md) maker is to enhance [liquidity](../l/liquidity.md) and facilitate the smooth and efficient trading of financial instruments. [Market](../m/market.md) makers play a crucial role in the overall functioning of [financial markets](../f/financial_market.md) by continuously providing [liquidity](../l/liquidity.md) and reducing [volatility](../v/volatility.md). 
+A [market](../m/market.md) maker is a [firm](../f/firm.md) or individual who actively quotes two-sided markets in a particular [security](../s/security.md), providing bids and offers (known as asks) along with the [market](../m/market.md) size of each. The role of a [market](../m/market.md) maker is to enhance [liquidity](../l/liquidity.md) and facilitate the smooth and efficient trading of financial instruments. [Market](../m/market.md) makers play a crucial role in the overall functioning of [financial markets](../f/financial_market.md) by continuously providing [liquidity](../l/liquidity.md) and reducing [volatility](../v/volatility.md).
 
 ## How Market Makers Work
 
-[Market](../m/market.md) makers create a marketplace for buyers and sellers by continuously buying and selling securities at publicly quoted prices. They stand ready to buy or sell at any time, thereby ensuring that investors can [trade](../t/trade.md) the [security](../s/security.md) more easily and with smaller price fluctuations. [Market](../m/market.md) makers make a [profit](../p/profit.md) through the spread, which is the difference between the price at which they buy a [security](../s/security.md) (the [bid](../b/bid.md)) and the price at which they sell it (the ask). 
+[Market](../m/market.md) makers create a marketplace for buyers and sellers by continuously buying and selling securities at publicly quoted prices. They stand ready to buy or sell at any time, thereby ensuring that investors can [trade](../t/trade.md) the [security](../s/security.md) more easily and with smaller price fluctuations. [Market](../m/market.md) makers make a [profit](../p/profit.md) through the spread, which is the difference between the price at which they buy a [security](../s/security.md) (the [bid](../b/bid.md)) and the price at which they sell it (the ask).
 
 ### Bid-Ask Spread
 
-The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highest price that a buyer is willing to pay for a [security](../s/security.md) and the lowest price that a seller is willing to accept. [Market](../m/market.md) makers [profit](../p/profit.md) from this spread, but they also bear the [risk](../r/risk.md) of holding the [security](../s/security.md) for a period of time due to price fluctuations. 
+The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highest price that a buyer is willing to pay for a [security](../s/security.md) and the lowest price that a seller is willing to accept. [Market](../m/market.md) makers [profit](../p/profit.md) from this spread, but they also bear the [risk](../r/risk.md) of holding the [security](../s/security.md) for a period of time due to price fluctuations.
 
 For example, if the [bid price](../b/bid_price.md) for a [security](../s/security.md) is $100 and the ask price is $101, the [market](../m/market.md) maker can buy at $100 and sell at $101, making a $1 [profit](../p/profit.md) per unit sold. However, if the [security](../s/security.md)'s price drops to $99 while the [market](../m/market.md) maker holds it, they would incur a loss if they had to sell it at that price.
 
@@ -64,15 +64,15 @@ By continuously quoting buy and sell prices, [market](../m/market.md) makers hel
 
 ### Citadel Securities
 
-[Citadel Securities](https://www.citadelsecurities.com) is one of the world's leading [market](../m/market.md) makers. The [firm](../f/firm.md) actively makes markets across various [asset](../a/asset.md) classes, including equities, [options](../o/options.md), and [fixed income](../f/fixed_income.md). Citadel Securities is known for its sophisticated technology and high-frequency [trading strategies](../t/trading_strategies.md).
+Citadel Securities is one of the world's leading [market](../m/market.md) makers. The [firm](../f/firm.md) actively makes markets across various [asset](../a/asset.md) classes, including equities, [options](../o/options.md), and [fixed income](../f/fixed_income.md). Citadel Securities is known for its sophisticated technology and high-frequency [trading strategies](../t/trading_strategies.md).
 
 ### Virtu Financial
 
-[Virtu Financial](https://www.virtu.com) is another prominent [market](../m/market.md) maker that provides [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes globally. The [firm](../f/firm.md) focuses on leveraging technology to [offer](../o/offer.md) competitive [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and quick [execution](../e/execution.md).
+Virtu Financial is another prominent [market](../m/market.md) maker that provides [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes globally. The [firm](../f/firm.md) focuses on leveraging technology to [offer](../o/offer.md) competitive [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and quick [execution](../e/execution.md).
 
 ### Jane Street
 
-[Jane Street](https://www.janestreet.com) is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [market](../m/market.md) maker known for its expertise in ETFs, [options](../o/options.md), and [futures](../f/futures.md). The [firm](../f/firm.md) emphasizes the use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and technology to make markets efficiently.
+Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [market](../m/market.md) maker known for its expertise in ETFs, [options](../o/options.md), and [futures](../f/futures.md). The [firm](../f/firm.md) emphasizes the use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and technology to make markets efficiently.
 
 ## Technology in Market Making
 
@@ -82,7 +82,7 @@ High-frequency trading is an integral part of modern [market](../m/market.md) ma
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute [trading strategies](../t/trading_strategies.md) automatically. [Market](../m/market.md) makers use algorithms to manage their [inventory](../i/inventory.md), optimize [bid](../b/bid.md)-ask [spreads](../s/spreads.md), and [hedge](../h/hedge.md) risks. These algorithms can analyze vast amounts of data in real-time, enabling [market](../m/market.md) makers to make informed decisions quickly.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute [trading strategies](../t/trading_strategies.md) automatically. [Market](../m/market.md) makers use algorithms to manage their [inventory](../i/inventory.md), optimize [bid](../b/bid.md)-ask [spreads](../s/spreads.md), and [hedge](../h/hedge.md) risks. These algorithms can analyze vast amounts of data in real-time, enabling [market](../m/market.md) makers to make informed decisions quickly.
 
 ### Data Analytics
 

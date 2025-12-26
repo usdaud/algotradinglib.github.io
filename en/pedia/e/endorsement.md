@@ -11,21 +11,21 @@ An **Endorsement** is an act of giving public approval or support to someone or 
 ## Types of Endorsements
 ### Personal Endorsement
 1. **Celebrity Endorsement**: When a famous person publicly supports a product or service, often through advertisements or promotions.
-   - **Example**: An athlete promoting a sports drink.
+ - **Example**: An athlete promoting a sports drink.
 2. **[Social Media](../s/social_media.md) Endorsement**: Influencers or public figures endorsing products or brands on [social media](../s/social_media.md) platforms.
-   - **Example**: An influencer posting about a skincare product on Instagram.
+ - **Example**: An influencer posting about a skincare product on Instagram.
 
 ### Financial Endorsement
 1. **[Check](../c/check.md) Endorsement**: The act of signing the back of a [check](../c/check.md) to authorize its [negotiation](../n/negotiation.md) or transfer.
-   - **Blank Endorsement**: The [payee](../p/payee.md) signs their name, making the [check](../c/check.md) payable to any bearer.
-   - **Restrictive Endorsement**: Includes restrictions such as "For [Deposit](../d/deposit.md) Only" followed by the [payee](../p/payee.md)'s signature.
-   - **Special Endorsement**: Specifies a new [payee](../p/payee.md), transferring the [check](../c/check.md) to another person.
-   
+ - **Blank Endorsement**: The [payee](../p/payee.md) signs their name, making the [check](../c/check.md) payable to any bearer.
+ - **Restrictive Endorsement**: Includes restrictions such as "For [Deposit](../d/deposit.md) Only" followed by the [payee](../p/payee.md)'s signature.
+ - **Special Endorsement**: Specifies a new [payee](../p/payee.md), transferring the [check](../c/check.md) to another person.
+
 ### Insurance Endorsement
 1. **Policy Endorsement**: A written document attached to an [insurance](../i/insurance.md) policy that modifies the terms, coverage, or conditions of the original policy.
-   - **Example**: Adding a [rider](../r/rider.md) to a homeowner's [insurance](../i/insurance.md) policy to cover specific valuables like jewelry or artwork.
+ - **Example**: Adding a [rider](../r/rider.md) to a homeowner's [insurance](../i/insurance.md) policy to cover specific valuables like jewelry or artwork.
 2. **[Rider](../r/rider.md)**: A type of endorsement that adds, deletes, or alters coverage in the [insurance](../i/insurance.md) policy.
-   - **Example**: A [health insurance](../h/health_insurance.md) [rider](../r/rider.md) covering additional medical treatments not included in the standard policy.
+ - **Example**: A [health insurance](../h/health_insurance.md) [rider](../r/rider.md) covering additional medical treatments not included in the standard policy.
 
 ## Importance
 1. **Credibility and [Trust](../t/trust.md)**: Endorsements from reputable figures or entities can enhance credibility and [trust](../t/trust.md) in a product, service, or policy.
@@ -46,4 +46,3 @@ An **Endorsement** is an act of giving public approval or support to someone or 
 
 ## Conclusion
 Endorsements play a crucial role in various fields, from [marketing](../m/marketing.md) and advertising to [finance](../f/finance.md) and [insurance](../i/insurance.md). They provide validation, credibility, and support, influencing consumer behavior and ensuring legal and financial authorization. Understanding the different types of endorsements and their implications is essential for leveraging their benefits and managing associated challenges effectively.
-

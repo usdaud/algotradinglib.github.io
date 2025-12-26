@@ -28,7 +28,7 @@ The [effective interest rate method](../e/effective_interest_rate_method.md) is 
 
 To calculate the amortization using the [effective interest rate method](../e/effective_interest_rate_method.md):
 
-1. **Calculate the [bond](../b/bond.md)'s carrying amount:** Initially, it is the [bond](../b/bond.md)'s [issue](../i/issue.md) price. 
+1. **Calculate the [bond](../b/bond.md)'s carrying amount:** Initially, it is the [bond](../b/bond.md)'s [issue](../i/issue.md) price.
 2. **Multiply the carrying amount by the [market](../m/market.md) rate:** This gives the [interest expense](../i/interest_expense.md) for the period.
 3. **Subtract the [bond](../b/bond.md)'s cash [interest](../i/interest.md) [payment](../p/payment.md) from the [interest expense](../i/interest_expense.md):** This gives the amortization amount.
 4. **Add the amortization amount to the carrying [value](../v/value.md) of the [bond](../b/bond.md).**
@@ -42,7 +42,7 @@ Consider a [bond](../b/bond.md) with a [face value](../f/face_value.md) of $1,00
 1. Calculate the annual [interest expense](../i/interest_expense.md) using the [market](../m/market.md) rate: $950,000 * 6% = $57,000.
 2. Calculate the annual coupon [payment](../p/payment.md): $1,000,000 * 5% = $50,000.
 3. The difference is the amortization of the [discount](../d/discount.md): $57,000 - $50,000 = $7,000.
-4. Add the amortization to the [bond](../b/bond.md)'s carrying amount: $950,000 + $7,000 = $957,000. 
+4. Add the amortization to the [bond](../b/bond.md)'s carrying amount: $950,000 + $7,000 = $957,000.
 
 This process is repeated until the [bond](../b/bond.md) matures.
 

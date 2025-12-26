@@ -61,9 +61,9 @@ If the [principal](../p/principal.md) fails to meet their [obligations](../o/obl
 
 These are specialized [insurance](../i/insurance.md) companies that provide surety bonds. Some major players include:
 
-- [The Hartford](https://www.thehartford.com)
-- [Travelers Bond & Specialty Insurance](https://www.travelers.com)
-- [Liberty Mutual Surety](https://www.libertymutualsurety.com)
+- The Hartford
+- Travelers Bond & Specialty Insurance
+- Liberty Mutual Surety
 
 ### Obligees
 

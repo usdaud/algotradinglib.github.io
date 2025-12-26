@@ -6,7 +6,7 @@ Trading models play a crucial role in [algorithmic trading](../a/algorithmic_tra
 
 ## 1. Mean Reversion Models
 
-**[Mean reversion](../m/mean_reversion.md)** is based on the statistical principle that [asset](../a/asset.md) prices tend to [return](../r/return.md) to their average [value](../v/value.md) over time. 
+**[Mean reversion](../m/mean_reversion.md)** is based on the statistical principle that [asset](../a/asset.md) prices tend to [return](../r/return.md) to their average [value](../v/value.md) over time.
 - **Key Components**: Mathematical formulations like moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [z-scores](../z/z-scores_in_trading.md).
 - **Mechanics**: Identifies [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and places trades anticipating a move back to the mean.
 - **Benefits**: Best for markets with frequent reversals.
@@ -119,23 +119,23 @@ Several companies have made a mark in the field of [algorithmic trading](../a/al
 
 ## 1. Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that leverages advanced [machine learning](../m/machine_learning.md) techniques and sophisticated models to drive trading decisions.
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages advanced [machine learning](../m/machine_learning.md) techniques and sophisticated models to drive trading decisions.
 
 ## 2. Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is known for its Medallion [Fund](../f/fund.md), which uses proprietary models to achieve outstanding returns.
+Renaissance Technologies is known for its Medallion [Fund](../f/fund.md), which uses proprietary models to achieve outstanding returns.
 
 ## 3. D. E. Shaw Group
 
-[D. E. Shaw Group](https://www.deshaw.com/) employs complex quantitative techniques to uncover [lucrative](../l/lucrative.md) trading opportunities.
+D. E. Shaw Group employs complex quantitative techniques to uncover [lucrative](../l/lucrative.md) trading opportunities.
 
 ## 4. Citadel LLC
 
-[Citadel LLC](https://www.citadel.com/) uses a blend of statistical models and high-frequency trading to stay ahead in the [market](../m/market.md).
+Citadel LLC uses a blend of statistical models and high-frequency trading to stay ahead in the [market](../m/market.md).
 
 ## 5. Jane Street
 
-[Jane Street](https://www.janestreet.com/) specializes in [quantitative trading](../q/quantitative_trading.md) and leverages various models to execute high-frequency trades.
+Jane Street specializes in [quantitative trading](../q/quantitative_trading.md) and leverages various models to execute high-frequency trades.
 
 # Conclusion
 

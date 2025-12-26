@@ -5,7 +5,7 @@ Relative [performance indicators](../p/performance_indicators.md) (RPIs) are ess
 ## Importance of RPIs
 
 1. **Benchmarking**: RPIs allow traders to measure the performance of their [trading algorithms](../t/trading_algorithms.md) against a set standard or [index](../i/index_instrument.md). This helps in understanding how well or poorly the strategies are performing relative to the [market](../m/market.md).
-   
+
 2. **[Risk Management](../r/risk_management.md)**: By comparing against benchmarks, traders can assess the [risk](../r/risk.md)-adjusted returns of their strategies, which is crucial for managing and mitigating risks.
 
 3. **[Performance Attribution](../p/performance_attribution.md)**: RPIs make it easier to decompose the sources of returns. This helps to identify whether outperformance is due to [security selection](../s/security_selection.md), [market timing](../m/market_timing.md), or other factors.
@@ -18,65 +18,65 @@ Relative [performance indicators](../p/performance_indicators.md) (RPIs) are ess
 
 [Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is a measure of an investment's performance on a [risk](../r/risk.md)-adjusted [basis](../b/basis.md).
 - Formula: α = Rp - (Rf + β * (Rm - Rf))
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rf = [Risk](../r/risk.md)-free rate
-  - β = [Beta](../b/beta.md) of the investment
-  - Rm = [Return](../r/return.md) of the [market](../m/market.md)
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rf = [Risk](../r/risk.md)-free rate
+ - β = [Beta](../b/beta.md) of the investment
+ - Rm = [Return](../r/return.md) of the [market](../m/market.md)
 
 ### 2. **Beta**
 
 [Beta](../b/beta.md) measures the [volatility](../v/volatility.md), or [systematic risk](../s/systematic_risk.md), of a [security](../s/security.md) or a portfolio in comparison to the [market](../m/market.md) as a whole. A [beta](../b/beta.md) greater than 1 indicates higher [volatility](../v/volatility.md) than the [market](../m/market.md), while a [beta](../b/beta.md) less than 1 indicates lower [volatility](../v/volatility.md).
 - Formula: β = Cov(Ri, Rm) / Var(Rm)
-  - Ri = [Return](../r/return.md) of the investment
-  - Rm = [Return](../r/return.md) of the [market](../m/market.md)
+ - Ri = [Return](../r/return.md) of the investment
+ - Rm = [Return](../r/return.md) of the [market](../m/market.md)
 
 ### 3. **Sharpe Ratio**
 
 The [Sharpe Ratio](../s/sharpe_ratio.md) measures the performance of an investment compared to a [risk-free asset](../r/risk-free_asset.md), after adjusting for its [risk](../r/risk.md). It is often used to understand the [return](../r/return.md) of an investment relative to its [risk](../r/risk.md).
 - Formula: S = (Rp - Rf) / σp
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rf = [Risk](../r/risk.md)-free rate
-  - σp = [Standard deviation](../s/standard_deviation.md) of the portfolio's [excess return](../e/excess_return.md)
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rf = [Risk](../r/risk.md)-free rate
+ - σp = [Standard deviation](../s/standard_deviation.md) of the portfolio's [excess return](../e/excess_return.md)
 
 ### 4. **Sortino Ratio**
 
 Similar to the [Sharpe Ratio](../s/sharpe_ratio.md), the [Sortino Ratio](../s/sortino_ratio.md) differentiates harmful [volatility](../v/volatility.md) from total overall [volatility](../v/volatility.md). It measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment [asset](../a/asset.md) or portfolio.
 - Formula: [Sortino Ratio](../s/sortino_ratio.md) = (Rp - Rf) / σd
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rf = [Risk](../r/risk.md)-free rate
-  - σd = [Downside deviation](../d/downside_deviation.md)
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rf = [Risk](../r/risk.md)-free rate
+ - σd = [Downside deviation](../d/downside_deviation.md)
 
 ### 5. **Treynor Ratio**
 
 The [Treynor Ratio](../t/treynor_ratio.md) measures returns earned in excess of that which could have been earned on a [risk](../r/risk.md)-free investment per each unit of [market risk](../m/market_risk.md).
 - Formula: T = (Rp - Rf) / βp
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rf = [Risk](../r/risk.md)-free rate
-  - βp = [Beta](../b/beta.md) of the portfolio
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rf = [Risk](../r/risk.md)-free rate
+ - βp = [Beta](../b/beta.md) of the portfolio
 
 ### 6. **Information Ratio**
 
 The [Information Ratio](../i/information_ratio.md) measures portfolio returns above the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index_instrument.md), and adjusts this [excess return](../e/excess_return.md) by the [volatility](../v/volatility.md) of those returns.
 - Formula: IR = (Rp - Rb) / σα
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rb = [Return](../r/return.md) of the [benchmark](../b/benchmark.md)
-  - σα = [Tracking error](../t/tracking_error.md) ([standard deviation](../s/standard_deviation.md) of the excess returns)
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rb = [Return](../r/return.md) of the [benchmark](../b/benchmark.md)
+ - σα = [Tracking error](../t/tracking_error.md) ([standard deviation](../s/standard_deviation.md) of the excess returns)
 
 ### 7. **Jensen’s Alpha**
 
 [Jensen's Alpha](../j/jensen's_alpha.md) is a measure of the excess returns that a portfolio generates over its expected returns considering its [risk](../r/risk.md) ([beta](../b/beta.md)) and [market](../m/market.md) returns.
 - Formula: Jensen’s [Alpha](../a/alpha.md) = Rp - [Rf + βp*(Rm - Rf)]
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rf = [Risk](../r/risk.md)-free rate
-  - βp = [Beta](../b/beta.md) of the portfolio
-  - Rm = [Return](../r/return.md) of the [market](../m/market.md)
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rf = [Risk](../r/risk.md)-free rate
+ - βp = [Beta](../b/beta.md) of the portfolio
+ - Rm = [Return](../r/return.md) of the [market](../m/market.md)
 
 ### 8. **Tracking Error**
 
 [Tracking Error](../t/tracking_error.md) measures how closely a portfolio follows the [index](../i/index_instrument.md) to which it is benchmarked. It is the [standard deviation](../s/standard_deviation.md) of the difference between the portfolio [return](../r/return.md) and the [benchmark](../b/benchmark.md) [return](../r/return.md).
 - Formula: TE = σ(Rp - Rb)
-  - Rp = [Return](../r/return.md) of the portfolio
-  - Rb = [Return](../r/return.md) of the [benchmark](../b/benchmark.md)
+ - Rp = [Return](../r/return.md) of the portfolio
+ - Rb = [Return](../r/return.md) of the [benchmark](../b/benchmark.md)
 
 ## Application of RPIs in Algorithmic Trading
 
@@ -94,19 +94,19 @@ RPIs are indispensable for real-time performance monitoring. Algorithmic traders
 
 ### 4. **Performance Reporting**
 
-For institutional investors and [fund](../f/fund.md) managers, RPIs form the backbone of performance reporting. These metrics enable transparent and standardized reporting, which is vital for [investor relations](../i/investor_relations.md) and regulatory compliance.
+For institutional investors and [fund](../f/fund.md) managers, RPIs form the backbone of performance reporting. These metrics enable transparent and standardized reporting, which is vital for [company filings](../i/investor_relations.md) and regulatory compliance.
 
 ## Practical Examples and Case Studies
 
-### Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/)
+### Renaissance Technologies Renaissance Technologies
 
 Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), employs a variety of quantitative and algorithmic strategies. The [firm](../f/firm.md) uses extensive relative [performance indicators](../p/performance_indicators.md) to [benchmark](../b/benchmark.md) its strategies against [market](../m/market.md) indices and peer funds. This rigorous benchmarking helps the [firm](../f/firm.md) maintain its stellar performance and manage [risk](../r/risk.md) effectively.
 
-### Two Sigma Investments [Two Sigma Investments](https://www.twosigma.com/)
+### Two Sigma Investments Two Sigma Investments
 
 Two Sigma leverages [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) uses RPIs to ensure its algorithms are not just profitable but also outperforming relevant benchmarks. This benchmarking process is critical for refining algorithms and sustaining [competitive advantage](../c/competitive_advantage.md).
 
-### Bridgewater Associates [Bridgewater Associates](https://www.bridgewater.com/)
+### Bridgewater Associates Bridgewater Associates
 
 Bridgewater Associates, a [global macro hedge fund](../g/global_macro_hedge_fund.md), uses a variety of RPIs to evaluate its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) benchmarks its returns against global indices and peer funds to maintain high performance and manage exposure to various [market](../m/market.md) risks.
 

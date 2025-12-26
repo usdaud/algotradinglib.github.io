@@ -14,12 +14,12 @@ Quantitative [credit](../c/credit.md) models are mathematical frameworks used in
 #### 1. Structural Models
 [Structural models](../s/structural_models_in_trading.md) are grounded in the [firm](../f/firm.md)'s [value](../v/value.md) and [capital structure](../c/capital_structure.md). The most iconic example is the [Merton model](../m/merton_model.md), which conceptualizes [default](../d/default.md) as a [firm](../f/firm.md)'s [asset](../a/asset.md) [value](../v/value.md) falling below its [debt](../d/debt.md) [obligations](../o/obligation.md).
 
-- **[Merton Model](../m/merton_model.md)**: Introduced by Robert C. Merton, this model assumes that the [equity](../e/equity.md) of a [firm](../f/firm.md) can be modeled as a [call option](../c/call_option.md) on its assets. [More about Merton Model](https://www.risk.net/market-access/4267316/merton-model)
+- **[Merton Model](../m/merton_model.md)**: Introduced by Robert C. Merton, this model assumes that the [equity](../e/equity.md) of a [firm](../f/firm.md) can be modeled as a [call option](../c/call_option.md) on its assets. More about Merton Model
 
 #### 2. Reduced Form Models
 Reduced form models, also known as intensity-based models, do not rely directly on the [asset](../a/asset.md) [value](../v/value.md) of a company but instead model the [default](../d/default.md) event's intensity as a stochastic process.
 
-- **Jarrow-Turnbull Model**: This model defines the [hazard rate](../h/hazard_rate.md) and uses it to derive [bond](../b/bond.md) prices and [credit](../c/credit.md) [spreads](../s/spreads.md). [More about Jarrow-Turnbull Model](https://www.jstor.org/stable/2331139)
+- **Jarrow-Turnbull Model**: This model defines the [hazard rate](../h/hazard_rate.md) and uses it to derive [bond](../b/bond.md) prices and [credit](../c/credit.md) [spreads](../s/spreads.md). More about Jarrow-Turnbull Model
 
 #### 3. Machine Learning Models
 With advancements in computational power and [big data analytics](../b/big_data_analytics_in_trading.md), [machine learning](../m/machine_learning.md) models have become increasingly popular for [credit risk](../c/credit_risk.md) modeling. These models apply algorithms to discover patterns and relationships in vast data sets.
@@ -29,7 +29,7 @@ With advancements in computational power and [big data analytics](../b/big_data_
 #### 4. Hybrid Models
 To capture the benefits of both structural and reduced-form models, hybrid models integrate features from both approaches.
 
-- **Black-Cox Model**: Extends the [Merton model](../m/merton_model.md) by introducing barrier [options](../o/options.md) for different [default](../d/default.md) conditions. [More about Black-Cox Model](https://link.springer.com/article/10.1007/BF02920497)
+- **Black-Cox Model**: Extends the [Merton model](../m/merton_model.md) by introducing barrier [options](../o/options.md) for different [default](../d/default.md) conditions. More about Black-Cox Model
 
 ### Model Calibration and Validation
 
@@ -52,9 +52,9 @@ The Basel Committee on Banking Supervision has established a series of regulator
 #### Major Institutions
 Several global firms specialize in developing and applying quantitative [credit](../c/credit.md) models.
 
-- **Moody's Analytics**: Provides financial intelligence and analytical tools. Known for its [credit rating](../c/credit_rating.md) models. [Moody's](https://www.moodysanalytics.com/)
-- **Fitch Solutions**: Offers [risk](../r/risk.md) and [performance analytics](../p/performance_analytics.md) solutions, including [credit risk models](../c/credit_risk_models.md). [Fitch Solutions](https://fitchsolutions.com/)
-- **[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md)**: Develops advanced [credit risk models](../c/credit_risk_models.md) and analytics. [S&P Global](https://www.spglobal.com/marketintelligence/en/)
+- **Moody's Analytics**: Provides financial intelligence and analytical tools. Known for its [credit rating](../c/credit_rating.md) models. Moody's
+- **Fitch Solutions**: Offers [risk](../r/risk.md) and [performance analytics](../p/performance_analytics.md) solutions, including [credit risk models](../c/credit_risk_models.md). Fitch Solutions
+- **[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md)**: Develops advanced [credit risk models](../c/credit_risk_models.md) and analytics. S&P Global
 
 ### Use Cases and Applications
 

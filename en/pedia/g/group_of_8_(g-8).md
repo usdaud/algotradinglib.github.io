@@ -12,7 +12,7 @@ The primary objectives of the G-8 include:
 
 - Promoting global economic stability and growth
 - Coordinating international economic policy
-- Discussing and devising solutions for global challenges 
+- Discussing and devising solutions for global challenges
 - Addressing issues related to international [security](../s/security.md)
 
 # Meetings and Summits

@@ -45,24 +45,17 @@ In [quantitative finance](../q/quantitative_finance.md), real [interest](../i/in
 
 Central banks are primary sources for both [nominal](../n/nominal.md) [interest](../i/interest.md) rates and [inflation](../i/inflation.md) data. For instance, the Federal Reserve in the United States, the European Central [Bank](../b/bank.md) (ECB) in the [eurozone](../e/eurozone.md), and the [Bank](../b/bank.md) of Japan provide detailed reports and forecasts.
 
-- Federal Reserve: [https://www.federalreserve.gov](https://www.federalreserve.gov)
-- European Central [Bank](../b/bank.md): [https://www.ecb.europa.eu](https://www.ecb.europa.eu)
-- [Bank](../b/bank.md) of Japan: [https://www.boj.or.jp/en](https://www.boj.or.jp/en)
-
+- Federal Reserve- European Central [Bank](../b/bank.md)- [Bank](../b/bank.md) of Japan
 ### Financial Terminals
 
 [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reuters.md) Eikon are widely used among financial professionals for real-time data and comprehensive analytics. These platforms [offer](../o/offer.md) tools to track [interest](../i/interest.md) rates, [inflation](../i/inflation.md), and perform automated calculations to derive real [interest](../i/interest.md) rates.
 
-- [Bloomberg](../b/bloomberg.md) Terminal: [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Reuters](../r/reuters.md) Eikon: [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software)
-
+- [Bloomberg](../b/bloomberg.md) Terminal- [Reuters](../r/reuters.md) Eikon
 ### Online Databases
 
 Platforms like FRED (Federal Reserve Economic Data) and IMF Data also provide access to historical data on [inflation](../i/inflation.md) and [nominal](../n/nominal.md) [interest](../i/interest.md) rates, which can be used to calculate real [interest](../i/interest.md) rates.
 
-- FRED: [https://fred.stlouisfed.org](https://fred.stlouisfed.org)
-- IMF Data: [https://data.imf.org](https://data.imf.org)
-
+- FRED- IMF Data
 ## Practical Applications
 
 ### Currency Trading

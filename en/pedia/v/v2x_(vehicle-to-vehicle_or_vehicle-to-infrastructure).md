@@ -70,10 +70,10 @@ V2X allows emergency vehicles to communicate with traffic signals and other vehi
 V2X can provide real-time information on road conditions and hazards, helping drivers avoid dangerous situations. Additionally, it can connect vehicles to roadside assistance services, providing quick help in case of breakdowns or accidents.
 
 ### Autonomous Vehicle Deployment
-Several companies are using V2X technology to develop and deploy autonomous vehicles. For example, Waymo, a subsidiary of Alphabet Inc., is incorporating V2X communication in its self-driving cars to enhance safety and [efficiency](../e/efficiency.md) (https://waymo.com). Similarly, Tesla is exploring V2X technology to improve its Autopilot system and support future fully autonomous vehicles (https://www.tesla.com).
+Several companies are using V2X technology to develop and deploy autonomous vehicles. For example, Waymo, a subsidiary of Alphabet Inc., is incorporating V2X communication in its self-driving cars to enhance safety and [efficiency](../e/efficiency.md) ( Similarly, Tesla is exploring V2X technology to improve its Autopilot system and support future fully autonomous vehicles (
 
 ### Connected Infrastructure Projects
-Various cities and regions are [investing](../i/investing.md) in connected [infrastructure](../i/infrastructure.md) projects to support V2X deployment. For instance, the U.S. Department of Transportation's Connected Vehicle Pilot Program is testing V2X technology in [multiple](../m/multiple.md) locations to improve safety and mobility (https://www.transportation.gov/av/connected-vehicles/connected-vehicle-pilots).
+Various cities and regions are [investing](../i/investing.md) in connected [infrastructure](../i/infrastructure.md) projects to support V2X deployment. For instance, the U.S. Department of Transportation's Connected Vehicle Pilot Program is testing V2X technology in [multiple](../m/multiple.md) locations to improve safety and mobility (
 
 ## Conclusion
 

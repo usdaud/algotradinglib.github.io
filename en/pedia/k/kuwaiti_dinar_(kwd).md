@@ -40,9 +40,9 @@ Being an oil-rich nation, Kuwait's [economy](../e/economy.md) is heavily depende
 
 ### Central Bank of Kuwait
 
-The Central [Bank](../b/bank.md) of Kuwait (CBK) plays a pivotal role in the regulation and stabilization of the KWD. Established in 1969, the CBK is responsible for implementing [monetary policy](../m/monetary_policy.md), managing foreign reserves, and overseeing the banking sector. The official CBK website provides a plethora of information and resources about the Dinar, including [exchange](../e/exchange.md) rates, monetary policies, and financial stability reports.
+The Central [Bank](../b/bank.md) of Kuwait (CBK) plays a pivotal role in the regulation and stabilization of the KWD. Established in 1969, the CBK is responsible for implementing [monetary policy](../m/monetary_policy.md), managing foreign reserves, and overseeing the banking sector. The official CBK online platform provides a plethora of information and resources about the Dinar, including [exchange](../e/exchange.md) rates, monetary policies, and financial stability reports.
 
-For more information, visit the [Central Bank of Kuwait](https://www.cbk.gov.kw/en/).
+For more information, visit the Central Bank of Kuwait.
 
 ## Global Standing and Forex Markets
 

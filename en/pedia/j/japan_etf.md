@@ -4,7 +4,7 @@
 
 ## What is a Japan ETF?
 
-A Japan ETF is a type of [exchange](../e/exchange.md)-traded [fund](../f/fund.md) that focuses on Japanese equities. These funds aim to replicate the performance of a particular [index](../i/index_instrument.md) or sector within the Japanese [market](../m/market.md). The primary [index](../i/index_instrument.md) followed by many Japan ETFs is the [Nikkei](../n/nikkei.md) 225, which is composed of 225 of the largest companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md). Other popular indices include the TOPIX (Tokyo Stock Price [Index](../i/index_instrument.md)) and MSCI Japan [Index](../i/index_instrument.md). 
+A Japan ETF is a type of [exchange](../e/exchange.md)-traded [fund](../f/fund.md) that focuses on Japanese equities. These funds aim to replicate the performance of a particular [index](../i/index_instrument.md) or sector within the Japanese [market](../m/market.md). The primary [index](../i/index_instrument.md) followed by many Japan ETFs is the [Nikkei](../n/nikkei.md) 225, which is composed of 225 of the largest companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md). Other popular indices include the TOPIX (Tokyo Stock Price [Index](../i/index_instrument.md)) and MSCI Japan [Index](../i/index_instrument.md).
 
 ETFs are traded on stock exchanges, similar to individual [stocks](../s/stock.md), and their prices fluctuate throughout the trading day. This makes them a [liquid](../l/liquid.md) and accessible option for investors interested in Japanese markets without the need to deal with local [market](../m/market.md) specifics and individual company assessments.
 
@@ -14,11 +14,11 @@ Japan ETFs operate similarly to other ETFs. They are created and managed by [fun
 
 1. **Selection of [Index](../i/index_instrument.md):** The [fund manager](../f/fund_manager.md) selects an [index](../i/index_instrument.md) that the ETF [will](../w/will.md) track. This could be a broad [market index](../m/market_index.md) like the [Nikkei](../n/nikkei.md) 225 or a more specialized [index](../i/index_instrument.md) focusing on sectors such as technology or healthcare.
 
-2. **Creation of ETF Units:** The [fund manager](../f/fund_manager.md) creates ETF units by purchasing a basket of [stocks](../s/stock.md) that closely mirrors the selected [index](../i/index_instrument.md). 
+2. **Creation of ETF Units:** The [fund manager](../f/fund_manager.md) creates ETF units by purchasing a basket of [stocks](../s/stock.md) that closely mirrors the selected [index](../i/index_instrument.md).
 
 3. **Listing on [Exchange](../e/exchange.md):** These ETF units are then [listed](../l/listed.md) on a stock [exchange](../e/exchange.md), making them available for trading among investors. The listing may occur in various international markets, including those outside Japan.
 
-4. **Ongoing Management:** The [fund manager](../f/fund_manager.md) continuously monitors and adjusts the ETF’s [holdings](../h/holdings.md) to ensure it remains aligned with the performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md). 
+4. **Ongoing Management:** The [fund manager](../f/fund_manager.md) continuously monitors and adjusts the ETF’s [holdings](../h/holdings.md) to ensure it remains aligned with the performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
 
 ## Types of Japan ETFs
 
@@ -29,23 +29,23 @@ There are several types of Japan ETFs available, each [offering](../o/offering.m
 These ETFs aim to provide exposure to a wide [range](../r/range.md) of Japanese [stocks](../s/stock.md), generally mirroring comprehensive indices like the [Nikkei](../n/nikkei.md) 225 or the MSCI Japan [Index](../i/index_instrument.md). Examples include:
 
 - **[iShares](../i/ishares.md) MSCI Japan ETF (EWJ):**
-  - [iShares MSCI Japan ETF](https://www.ishares.com/us/products/239665/)
+ - iShares MSCI Japan ETF
 - **WisdomTree Japan Hedged [Equity](../e/equity.md) ETF (DXJ):**
-  - [WisdomTree Japan Hedged Equity ETF](https://www.wisdomtree.com/etfs/equity/dxj)
+ - WisdomTree Japan Hedged Equity ETF
 
 ### Sector-Specific Japan ETFs
 
 Sector-specific Japan ETFs focus on particular sectors within the Japanese [economy](../e/economy.md), such as technology, healthcare, or [consumer goods](../c/consumer_goods.md). These [offer](../o/offer.md) more targeted exposure, suitable for investors looking to [capitalize](../c/capitalize.md) on specific trends or industries.
 
 - **Global X MSCI SuperDividend EAFE ETF (EFAS):** (focuses on high [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) within developed markets including Japan)
-  - [Global X MSCI SuperDividend EAFE ETF](https://www.globalxetfs.com/funds/efas/)
+ - Global X MSCI SuperDividend EAFE ETF
 
 ### Currency-Hedged Japan ETFs
 
 [Currency](../c/currency.md)-hedged Japan ETFs aim to mitigate the impact of [currency](../c/currency.md) fluctuations between the Japanese yen and the [investor](../i/investor.md)’s [home](../h/home.md) [currency](../c/currency.md). These are particularly useful for investors who wish to avoid the risks associated with [currency](../c/currency.md) movements.
 
 - **Xtrackers MSCI Japan Hedged [Equity](../e/equity.md) ETF (DBJP):**
-  - [Xtrackers MSCI Japan Hedged Equity ETF](https://etfus.deutscheam.com/US/EN/Product-Details/251/Xtrackers-MSCI-Japan-Hedged-Equity-ETF)
+ - Xtrackers MSCI Japan Hedged Equity ETF
 
 ## Benefits of Japan ETFs
 
@@ -129,31 +129,31 @@ Below are some popular Japan ETFs that investors commonly consider:
 
 ### iShares MSCI Japan ETF (EWJ)
 
-- **Link:** [iShares MSCI Japan ETF](https://www.ishares.com/us/products/239665/)
+- **Link:** iShares MSCI Japan ETF
 - **Objective:** Tracks the MSCI Japan [Index](../i/index_instrument.md), providing broad exposure to Japanese large and mid-sized companies.
 - **[Expense Ratio](../e/expense_ratio.md):** 0.48%
 
 ### WisdomTree Japan Hedged Equity ETF (DXJ)
 
-- **Link:** [WisdomTree Japan Hedged Equity ETF](https://www.wisdomtree.com/etfs/equity/dxj)
+- **Link:** WisdomTree Japan Hedged Equity ETF
 - **Objective:** Provides exposure to [dividend](../d/dividend.md)-paying Japanese companies while hedging against fluctuations between the yen and the U.S. dollar.
 - **[Expense Ratio](../e/expense_ratio.md):** 0.48%
 
 ### Xtrackers MSCI Japan Hedged Equity ETF (DBJP)
 
-- **Link:** [Xtrackers MSCI Japan Hedged Equity ETF](https://etfus.deutscheam.com/US/EN/Product-Details/251/Xtrackers-MSCI-Japan-Hedged-Equity-ETF)
+- **Link:** Xtrackers MSCI Japan Hedged Equity ETF
 - **Objective:** Tracks the MSCI Japan US Dollar Hedged [Index](../i/index_instrument.md), [offering](../o/offering.md) exposure to Japanese equities while mitigating [currency](../c/currency.md) [risk](../r/risk.md).
 - **[Expense Ratio](../e/expense_ratio.md):** 0.45%
 
 ### JP Morgan BetaBuilders Japan ETF (BBJP)
 
-- **Link:** [JP Morgan BetaBuilders Japan ETF](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-betabuilders-japan-etf-bbjp)
+- **Link:** JP Morgan BetaBuilders Japan ETF
 - **Objective:** Aims to track the investment results of the [Morningstar](../m/morningstar.md)® Japan Target [Market Exposure](../m/market_exposure.md) IndexSM.
 - **[Expense Ratio](../e/expense_ratio.md):** 0.19%
 
 ### Franklin FTSE Japan ETF (FLJP)
 
-- **Link:** [Franklin FTSE Japan ETF](https://www.franklintempleton.com/investments/options/exchange-traded-funds/etfs/323/franklin-ftse-japan-etf)
+- **Link:** Franklin FTSE Japan ETF
 - **Objective:** Tracks the FTSE Japan RIC Capped [Index](../i/index_instrument.md), providing broad exposure to Japanese markets with a focus on [liquidity](../l/liquidity.md).
 - **[Expense Ratio](../e/expense_ratio.md):** 0.09%
 

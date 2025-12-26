@@ -11,59 +11,59 @@ The [Bitcoin](../b/bitcoin.md) network was experiencing significant congestion, 
 ## Technical Differences Between Bitcoin and Bitcoin Cash
 
 1. **Block Size:**
-   - [Bitcoin](../b/bitcoin.md): Initially had a 1 MB block size limit, later increased to 2 MB via the SegWit2x proposal.
-   - [Bitcoin](../b/bitcoin.md) Cash: Increased the block size limit to 8 MB initially, then further to 32 MB, allowing a higher number of transactions to be processed per block.
+ - [Bitcoin](../b/bitcoin.md): Initially had a 1 MB block size limit, later increased to 2 MB via the SegWit2x proposal.
+ - [Bitcoin](../b/bitcoin.md) Cash: Increased the block size limit to 8 MB initially, then further to 32 MB, allowing a higher number of transactions to be processed per block.
 
 2. **[Transaction](../t/transaction.md) Speed and Fees:**
-   - By increasing the block size, [Bitcoin](../b/bitcoin.md) Cash can process more transactions in each block, leading to faster [transaction](../t/transaction.md) times and lower fees compared to [Bitcoin](../b/bitcoin.md), especially during periods of heavy network congestion.
+ - By increasing the block size, [Bitcoin](../b/bitcoin.md) Cash can process more transactions in each block, leading to faster [transaction](../t/transaction.md) times and lower fees compared to [Bitcoin](../b/bitcoin.md), especially during periods of heavy network congestion.
 
 3. **[Transaction](../t/transaction.md) Signatures:**
-   - [Bitcoin](../b/bitcoin.md) Cash uses a different signature hashing algorithm (SigHash), which aims to improve replay protection and enhance [security](../s/security.md) against certain types of attacks.
+ - [Bitcoin](../b/bitcoin.md) Cash uses a different signature hashing algorithm (SigHash), which aims to improve replay protection and enhance [security](../s/security.md) against certain types of attacks.
 
 4. **Difficulty Adjustment Algorithm:**
-   - [Bitcoin](../b/bitcoin.md) Cash employs a different difficulty adjustment mechanism known as the Emergency Difficulty Adjustment (EDA), which adjusts [mining](../m/mining.md) difficulty more frequently to ensure blocks are mined at a consistent rate.
+ - [Bitcoin](../b/bitcoin.md) Cash employs a different difficulty adjustment mechanism known as the Emergency Difficulty Adjustment (EDA), which adjusts [mining](../m/mining.md) difficulty more frequently to ensure blocks are mined at a consistent rate.
 
 ## Adoption and Use Cases
 
 Several merchants, platforms, and services have adopted [Bitcoin](../b/bitcoin.md) Cash as a [payment](../p/payment.md) method due to its faster transactions and lower fees. Some notable adopters include:
 
 1. **BitPay:**
-   - A global [Bitcoin](../b/bitcoin.md) and [Bitcoin](../b/bitcoin.md) Cash [payment](../p/payment.md) service provider that allows businesses to accept cryptocurrency payments. [BitPay](https://bitpay.com/)
+ - A global [Bitcoin](../b/bitcoin.md) and [Bitcoin](../b/bitcoin.md) Cash [payment](../p/payment.md) service provider that allows businesses to accept cryptocurrency payments. BitPay
 
 2. **Purse.io:**
-   - A platform that enables users to purchase goods from Amazon using [Bitcoin](../b/bitcoin.md) Cash, often at discounted rates. [Purse.io](https://purse.io/)
+ - A platform that enables users to purchase goods from Amazon using [Bitcoin](../b/bitcoin.md) Cash, often at discounted rates. Purse.io
 
 3. **[Coinbase](../c/coinbase.md):**
-   - A popular cryptocurrency [exchange](../e/exchange.md) that supports the buying, selling, and trading of [Bitcoin](../b/bitcoin.md) Cash. [Coinbase](https://www.coinbase.com/)
+ - A popular cryptocurrency [exchange](../e/exchange.md) that supports the buying, selling, and trading of [Bitcoin](../b/bitcoin.md) Cash. Coinbase
 
 4. **[Bitcoin](../b/bitcoin.md).com:**
-   - A comprehensive source for [Bitcoin](../b/bitcoin.md) Cash news, wallets, [exchange](../e/exchange.md) services, and more. [Bitcoin.com](https://www.bitcoin.com/)
+ - A comprehensive source for [Bitcoin](../b/bitcoin.md) Cash news, wallets, [exchange](../e/exchange.md) services, and more. Bitcoin.com
 
 ## Criticisms and Challenges
 
 Despite its advantages, [Bitcoin](../b/bitcoin.md) Cash has faced several criticisms and challenges:
 
 1. **Centralization Concerns:**
-   - Critics argue that increasing the block size can lead to greater centralization, as larger blocks require more storage and processing power, potentially limiting participation to those with significant resources.
+ - Critics argue that increasing the block size can lead to greater centralization, as larger blocks require more storage and processing power, potentially limiting participation to those with significant resources.
 
 2. **Network Splits:**
-   - [Bitcoin](../b/bitcoin.md) Cash itself has undergone additional splits, most notably the creation of [Bitcoin](../b/bitcoin.md) SV (Satoshi Vision) led by Craig Wright, further fragmenting the community and diluting resources.
+ - [Bitcoin](../b/bitcoin.md) Cash itself has undergone additional splits, most notably the creation of [Bitcoin](../b/bitcoin.md) SV (Satoshi Vision) led by Craig Wright, further fragmenting the community and diluting resources.
 
 3. **Adoption Rate:**
-   - While [Bitcoin](../b/bitcoin.md) Cash aims to be a more efficient version of [Bitcoin](../b/bitcoin.md), its adoption rate and [market](../m/market.md) [valuation](../v/valuation.md) are still significantly lower than that of [Bitcoin](../b/bitcoin.md).
+ - While [Bitcoin](../b/bitcoin.md) Cash aims to be a more efficient version of [Bitcoin](../b/bitcoin.md), its adoption rate and [market](../m/market.md) [valuation](../v/valuation.md) are still significantly lower than that of [Bitcoin](../b/bitcoin.md).
 
 ## Future Prospects
 
 The future of [Bitcoin](../b/bitcoin.md) Cash depends on its ability to sustain growth, improve technology, and [gain](../g/gain.md) wider adoption. Key areas of focus include:
 
 1. **Development Roadmap:**
-   - Continuous improvements to the [Bitcoin](../b/bitcoin.md) Cash protocol, [scalability](../s/scalability.md) solutions, and implementation of new features [will](../w/will.md) be essential for its future success.
+ - Continuous improvements to the [Bitcoin](../b/bitcoin.md) Cash protocol, [scalability](../s/scalability.md) solutions, and implementation of new features [will](../w/will.md) be essential for its future success.
 
 2. **Merchant Adoption:**
-   - Expanding its use as a [payment](../p/payment.md) method by partnering with more merchants, platforms, and services.
+ - Expanding its use as a [payment](../p/payment.md) method by partnering with more merchants, platforms, and services.
 
 3. **Community Support:**
-   - Fostering a strong and united community that supports the development and use of [Bitcoin](../b/bitcoin.md) Cash while addressing centralization concerns and other challenges.
+ - Fostering a strong and united community that supports the development and use of [Bitcoin](../b/bitcoin.md) Cash while addressing centralization concerns and other challenges.
 
 ## Conclusion
 

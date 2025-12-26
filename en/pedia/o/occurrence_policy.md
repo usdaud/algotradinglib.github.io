@@ -16,11 +16,11 @@ An occurrence policy provides coverage for incidents that happen during the poli
 
 ### Long-term Coverage
 
-The primary advantage of an occurrence policy is its long-term coverage. Since the policy covers incidents during the active period regardless of when the claim is made, it provides a safety net years into the future. 
+The primary advantage of an occurrence policy is its long-term coverage. Since the policy covers incidents during the active period regardless of when the claim is made, it provides a safety net years into the future.
 
 ### Legal Protection
 
-In the event of a lawsuit arising from an incident that occurred years ago, an occurrence policy ensures that there is coverage, thereby [offering](../o/offering.md) extended legal protection. 
+In the event of a lawsuit arising from an incident that occurred years ago, an occurrence policy ensures that there is coverage, thereby [offering](../o/offering.md) extended legal protection.
 
 ### Peace of Mind
 
@@ -74,11 +74,11 @@ Consider the nature of your [business](../b/business.md) or profession and evalu
 
 ### Understanding Policy Terms
 
-Scrutinize the terms and conditions of the policy to understand the [scope](../s/scope.md) of coverage and any exclusions that may apply. 
+Scrutinize the terms and conditions of the policy to understand the [scope](../s/scope.md) of coverage and any exclusions that may apply.
 
 ### Comparing Quotes and Coverage
 
-Speak with [multiple](../m/multiple.md) insurers to compare the premiums and coverage levels of occurrence policies versus other types of policies. 
+Speak with [multiple](../m/multiple.md) insurers to compare the premiums and coverage levels of occurrence policies versus other types of policies.
 
 ### Consulting with a Broker or Agent
 
@@ -86,10 +86,10 @@ Work with an [insurance](../i/insurance.md) [broker](../b/broker.md) or agent wh
 
 ## Prominent Providers of Occurrence Policies
 
-- **Chubb**: A leading provider of professional and general [liability](../l/liability.md) coverage, [offering](../o/offering.md) extensive occurrence policy [options](../o/options.md) for various sectors. [Chubb](https://www.chubb.com)
-- **AIG**: American International Group offers customizable occurrence policies across [multiple](../m/multiple.md) lines of [insurance](../i/insurance.md), including healthcare and construction. [AIG](https://www.aig.com)
-- **Hartford**: Known for its [business insurance](../b/business_insurance.md) solutions, Hartford provides occurrence policies that cater to small and medium-sized enterprises. [Hartford](https://www.thehartford.com)
-- **Travelers [Insurance](../i/insurance.md)**: Provides a wide [range](../r/range.md) of occurrence-based coverage [options](../o/options.md) suitable for professional services and construction industries. [Travelers](https://www.travelers.com)
+- **Chubb**: A leading provider of professional and general [liability](../l/liability.md) coverage, [offering](../o/offering.md) extensive occurrence policy [options](../o/options.md) for various sectors. Chubb
+- **AIG**: American International Group offers customizable occurrence policies across [multiple](../m/multiple.md) lines of [insurance](../i/insurance.md), including healthcare and construction. AIG
+- **Hartford**: Known for its [business insurance](../b/business_insurance.md) solutions, Hartford provides occurrence policies that cater to small and medium-sized enterprises. Hartford
+- **Travelers [Insurance](../i/insurance.md)**: Provides a wide [range](../r/range.md) of occurrence-based coverage [options](../o/options.md) suitable for professional services and construction industries. Travelers
 
 ## Case Studies and Real-world Examples
 

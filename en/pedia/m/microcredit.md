@@ -34,16 +34,16 @@ The Grameen [Bank](../b/bank.md)'s model, founded by Dr. Muhammad Yunus, exempli
 ## Microcredit Institutions
 
 ### Non-Governmental Organizations (NGOs)
-NGOs play a significant role in microcredit [provision](../p/provision.md). They operate as intermediaries between donors and borrowers, leveraging funding to extend [credit](../c/credit.md) where traditional banks do not venture. One prominent example is BRAC (Bangladesh Rural Advancement Committee), which has become one of the largest and most effective development organizations globally ([BRAC](https://www.brac.net)).
+NGOs play a significant role in microcredit [provision](../p/provision.md). They operate as intermediaries between donors and borrowers, leveraging funding to extend [credit](../c/credit.md) where traditional banks do not venture. One prominent example is BRAC (Bangladesh Rural Advancement Committee), which has become one of the largest and most effective development organizations globally (BRAC).
 
 ### Microfinance Banks
-Specialized [microfinance](../m/microfinance.md) banks are dedicated to providing affordable and accessible financial services to low-[income](../i/income.md) populations. These banks receive funds through varied channels, including development [financing](../f/financing.md), private investors, and depositors. An example is FINCA, an international [microfinance](../m/microfinance.md) organization providing financial services in developing countries ([FINCA](https://www.finca.org)).
+Specialized [microfinance](../m/microfinance.md) banks are dedicated to providing affordable and accessible financial services to low-[income](../i/income.md) populations. These banks receive funds through varied channels, including development [financing](../f/financing.md), private investors, and depositors. An example is FINCA, an international [microfinance](../m/microfinance.md) organization providing financial services in developing countries (FINCA).
 
 ### Governmental Programs
 Governments have recognized the potential of microcredit to drive inclusive [economic growth](../e/economic_growth.md). Various governmental programs and initiatives aim to bolster microcredit sectors, providing incentives, support, and regulatory frameworks to encourage participation.
 
 ### Digital Microfinance Platforms
-The advent of technology has revolutionized microcredit delivery. Digital platforms utilize mobile technologies, [data analytics](../d/data_analytics.md), and innovative fintech solutions to streamline [loan](../l/loan.md) [disbursement](../d/disbursement.md) and [repayment](../r/repayment.md) processes. Examples include Kiva, which crowdsources microloans from individual lenders globally ([Kiva](https://www.kiva.org)), and Tala, a mobile lending app serving millions in emerging markets ([Tala](https://tala.co)).
+The advent of technology has revolutionized microcredit delivery. Digital platforms utilize mobile technologies, [data analytics](../d/data_analytics.md), and innovative fintech solutions to streamline [loan](../l/loan.md) [disbursement](../d/disbursement.md) and [repayment](../r/repayment.md) processes. Examples include Kiva, which crowdsources microloans from individual lenders globally (Kiva), and Tala, a mobile lending app serving millions in emerging markets (Tala).
 
 ## Social and Economic Impact
 

@@ -12,7 +12,7 @@ The "Bundle of Rights" in property law generally includes the following individu
 4. **Right to Enjoy**: This is the right to enjoy the property in peace and without interference. It includes deriving benefits, such as rental [income](../i/income.md), from the property.
 5. **Right to Dispose**: This is the right to transfer ownership of the property through [sale](../s/sale.md), lease, or [will](../w/will.md). Essentially, it involves the legal ability to alienate the property.
 
-These rights are not always held by a single person or entity. They can be divided among many parties. For example, a [landlord](../l/landlord.md) may [hold](../h/hold.md) the right to dispose and the right to control, while a tenant holds the right to possess and enjoy the property. 
+These rights are not always held by a single person or entity. They can be divided among many parties. For example, a [landlord](../l/landlord.md) may [hold](../h/hold.md) the right to dispose and the right to control, while a tenant holds the right to possess and enjoy the property.
 
 ## Historical Perspective
 

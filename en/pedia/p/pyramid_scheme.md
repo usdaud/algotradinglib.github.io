@@ -7,7 +7,7 @@ A pyramid scheme is a fraudulent [investment strategy](../i/investment_strategy.
 At the core of a pyramid scheme is the allure of earning [money](../m/money.md) quickly by recruiting others into the scheme. Here's a breakdown of how the mechanism typically functions:
 
 1. **The Initial Recruiter**: The scheme starts with an individual or a small group of people who initiate the pyramid. They propose the opportunity to others, often cloaked in the guise of a legitimate [business](../b/business.md) venture or investment program.
-  
+
 2. **Recruitment Process**: Recruits are encouraged to bring in new participants, with promises of high returns from their investments. Each new participant must pay an entry [fee](../f/fee.md) or purchase a starter kit, supposedly necessary to join the scheme.
 
 3. **Hierarchical Structure**: As more people are recruited, the structure expands and branches out like a pyramid. Each new recruit brings in more people under them, who, in turn, are encouraged to recruit even more members.
@@ -47,10 +47,10 @@ Governments and regulatory bodies worldwide have taken significant measures to c
 Numerous high-profile pyramid scheme cases have captured public attention. These cases often involve at least one of the key characteristics detailed above and serve as cautionary tales of the substantial risks associated with these schemes:
 
 - **Bernard Madoff**: Although technically a [Ponzi scheme](../p/ponzi_scheme.md), Bernard Madoff's scheme is often discussed alongside pyramid schemes due to its reliance on constantly recruiting new investors to pay returns to earlier investors. It collapsed in 2008, resulting in billions of dollars in losses.
-  - [Bernard Madoff's Ponzi Scheme](https://www.sec.gov/news/press-release/2008-293)
+ - Bernard Madoff's Ponzi Scheme
 
 - **TelexFree**: This was a massive pyramid scheme disguised as a Voice-over-IP service provider. In 2014, the scheme collapsed, affecting a large number of investors.
-  - [TelexFree Case](https://www.sec.gov/news/press-release/2014-79)
+ - TelexFree Case
 
 ## Distinguishing Pyramid Schemes from Legitimate MLM
 

@@ -50,7 +50,7 @@ Given their hybrid nature, Look-Alike Contracts benefit from the [transparency](
 
 ## Technological Integration
 
-The success and [efficiency](../e/efficiency.md) of Look-Alike Contracts are significantly enhanced by advanced trading technologies and systems. [Algorithmic trading](../a/accountability.md) and [robust](../r/robust.md) financial technologies (fintech) play crucial roles in their operationalization.
+The success and [efficiency](../e/efficiency.md) of Look-Alike Contracts are significantly enhanced by advanced trading technologies and systems. [Algorithmic trading](../a/algorithmic_trading.md) and [robust](../r/robust.md) financial technologies (fintech) play crucial roles in their operationalization.
 
 ### Algorithmic Trading
 
@@ -62,7 +62,7 @@ Fintech advancements such as [blockchain](../b/blockchain_in_trading.md) and [sm
 
 ## Case Study: Evolving Commodity Trading with Look-Alike Contracts
 
-A significant example of the practical application of Look-Alike Contracts comes from the [commodity](../c/commodity.md) trading [firm](../f/firm.md) [Mercuria](https://www.mercuria.com/). Mercuria leverages these contracts to manage their extensive portfolio of physical and financial [commodity](../c/commodity.md) positions, tailoring contract specifics to match trades more closely to their [underlying](../u/underlying.md) physical exposures without forsaking the operational stability provided by standardized [derivatives](../d/derivatives.md).
+A significant example of the practical application of Look-Alike Contracts comes from the [commodity](../c/commodity.md) trading [firm](../f/firm.md) Mercuria. Mercuria leverages these contracts to manage their extensive portfolio of physical and financial [commodity](../c/commodity.md) positions, tailoring contract specifics to match trades more closely to their [underlying](../u/underlying.md) physical exposures without forsaking the operational stability provided by standardized [derivatives](../d/derivatives.md).
 
 ### Benefits Realized
 

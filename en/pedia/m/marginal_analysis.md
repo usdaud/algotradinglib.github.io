@@ -10,7 +10,7 @@ Marginal analysis involves comparing the marginal (or incremental) benefits and 
 
 ### Marginal Cost (MC)
 
-The marginal cost is the additional cost incurred from the production of one more unit of a good or service. It can be calculated as the change in total cost divided by the change in the quantity produced. 
+The marginal cost is the additional cost incurred from the production of one more unit of a good or service. It can be calculated as the change in total cost divided by the change in the quantity produced.
 
 \[
 MC = \frac{\[Delta](../d/delta.md) TC}{\[Delta](../d/delta.md) Q}
@@ -26,7 +26,7 @@ The marginal benefit is the additional benefit received from the consumption or 
 
 ### Marginal Revenue (MR)
 
-Marginal [revenue](../r/revenue.md) represents the additional [income](../i/income.md) received from the [sale](../s/sale.md) of one more unit of a product or service. It's a crucial metric for companies to understand the profitability of increasing production. 
+Marginal [revenue](../r/revenue.md) represents the additional [income](../i/income.md) received from the [sale](../s/sale.md) of one more unit of a product or service. It's a crucial metric for companies to understand the profitability of increasing production.
 
 \[
 MR = \frac{\[Delta](../d/delta.md) TR}{\[Delta](../d/delta.md) Q}
@@ -66,7 +66,7 @@ A classic example of marginal analysis is a [manufacturing](../m/manufacturing.m
 
 ### Financial Services
 
-In the financial services sector, companies like Goldman Sachs ([Goldman Sachs](https://www.goldmansachs.com/)) employ marginal analysis to determine the viability of launching new financial products. By comparing the marginal costs of [marketing](../m/marketing.md) and developing the product to the marginal revenues it would generate, they can decide whether the product should be introduced to the [market](../m/market.md).
+In the financial services sector, companies like Goldman Sachs (Goldman Sachs) employ marginal analysis to determine the viability of launching new financial products. By comparing the marginal costs of [marketing](../m/marketing.md) and developing the product to the marginal revenues it would generate, they can decide whether the product should be introduced to the [market](../m/market.md).
 
 ## Software and Tools for Marginal Analysis
 
@@ -86,4 +86,4 @@ Excel remains a popular tool for performing marginal analysis, especially for sm
 
 ## Conclusion
 
-Marginal analysis is an indispensable tool in both [economics](../e/economics.md) and [finance](../f/finance.md), providing a structured methodology for making incremental decisions. By carefully comparing marginal costs and [marginal benefits](../m/marginal_benefits.md), businesses and financial professionals can make informed decisions that optimize resource allocation, [risk management](../r/risk_management.md), and profitability. Whether applied in [manufacturing](../m/manufacturing.md), financial services, [algorithmic trading](../a/accountability.md), or [investment analysis](../i/investment_analysis.md), the principles of marginal analysis remain central to effective decision-making.
+Marginal analysis is an indispensable tool in both [economics](../e/economics.md) and [finance](../f/finance.md), providing a structured methodology for making incremental decisions. By carefully comparing marginal costs and [marginal benefits](../m/marginal_benefits.md), businesses and financial professionals can make informed decisions that optimize resource allocation, [risk management](../r/risk_management.md), and profitability. Whether applied in [manufacturing](../m/manufacturing.md), financial services, [algorithmic trading](../a/algorithmic_trading.md), or [investment analysis](../i/investment_analysis.md), the principles of marginal analysis remain central to effective decision-making.

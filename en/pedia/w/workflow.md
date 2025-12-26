@@ -33,19 +33,19 @@ The [back office](../b/back_office.md) handles the administrative and support ta
 ### Algorithmic Trading Platforms
 
 [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) are sophisticated software systems that automatically execute trades based on predefined strategies and algorithms. These platforms [handle](../h/handle.md) various aspects of the trading workflow, from [market](../m/market.md) data ingestion to [order](../o/order.md) [execution](../e/execution.md) and monitoring. Examples include:
-- **AlgoTrader**: An institutional-grade [algorithmic trading](../a/accountability.md) platform that supports multi-[asset](../a/asset.md), quantitative, automated and high-frequency [trading strategies](../t/trading_strategies.md). [AlgoTrader](https://www.algotrader.com/)
+- **AlgoTrader**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-[asset](../a/asset.md), quantitative, automated and high-frequency [trading strategies](../t/trading_strategies.md). AlgoTrader
 
 ### Order Management Systems (OMS)
 
 [Order Management Systems](../o/order_management_systems.md) facilitate the entire lifecycle of a [trade](../t/trade.md) from [order](../o/order.md) generation to [execution](../e/execution.md) and settlement. They provide tools for [order](../o/order.md) entry, routing, [execution](../e/execution.md), and tracking. Notable OMS providers include:
-- **Charles River Development**: A comprehensive [investment management](../i/investment_management.md) platform that includes OMS capabilities tailored for institutional investors. [Charles River](https://www.crd.com/)
-- **[Bloomberg](../b/bloomberg.md) AIM**: [Bloomberg](../b/bloomberg.md)'s [Asset](../a/asset.md) and [Investment Manager](../i/investment_manager.md) is a global multi-[asset](../a/asset.md) solution for portfolio and [order management](../o/order_management_in_trading.md). [Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/)
+- **Charles River Development**: A comprehensive [investment management](../i/investment_management.md) platform that includes OMS capabilities tailored for institutional investors. Charles River
+- **[Bloomberg](../b/bloomberg.md) AIM**: [Bloomberg](../b/bloomberg.md)'s [Asset](../a/asset.md) and [Investment Manager](../i/investment_manager.md) is a global multi-[asset](../a/asset.md) solution for portfolio and [order management](../o/order_management_in_trading.md). Bloomberg AIM
 
 ### Risk Management Systems
 
 [Risk management](../r/risk_management.md) is critical for both compliance and strategic decision-making. Systems designed for [risk management](../r/risk_management.md) in trading and [finance](../f/finance.md) include tools for real-time [risk](../r/risk.md) monitoring, [stress testing](../s/stress_testing.md), and [scenario analysis](../s/scenario_analysis.md). Examples include:
-- **RiskMetrics**: A suite of [risk management](../r/risk_management.md) tools covering [market](../m/market.md), [credit](../c/credit.md), and [operational risk](../o/operational_risk.md). [RiskMetrics](https://www.msci.com/riskmetrics)
-- **Numerix**: Provides advanced analytics for pricing, [risk management](../r/risk_management.md), and [valuation](../v/valuation.md) of [derivatives](../d/derivatives.md) and complex structured products. [Numerix](https://www.numerix.com/)
+- **RiskMetrics**: A suite of [risk management](../r/risk_management.md) tools covering [market](../m/market.md), [credit](../c/credit.md), and [operational risk](../o/operational_risk.md). RiskMetrics
+- **Numerix**: Provides advanced analytics for pricing, [risk management](../r/risk_management.md), and [valuation](../v/valuation.md) of [derivatives](../d/derivatives.md) and complex structured products. Numerix
 
 ## Common Challenges
 

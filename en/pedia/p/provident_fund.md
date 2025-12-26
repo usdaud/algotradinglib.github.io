@@ -52,13 +52,13 @@ While Provident Funds are secure, the returns are relatively modest when compare
 ## Examples of Provident Fund Schemes
 
 ### Central Provident Fund (CPF) in Singapore
-Singapore’s CPF is one of the most well-known Provident [Fund](../f/fund.md) schemes globally. It serves [multiple](../m/multiple.md) purposes, including retirement, healthcare, and housing needs. The CPF is a comprehensive system where employees and employers contribute a significant portion of wages into the [fund](../f/fund.md), making it one of the most well-funded [social security](../s/social_security.md) systems in the world. More details can be found on the [CPF official website](https://www.cpf.gov.sg).
+Singapore’s CPF is one of the most well-known Provident [Fund](../f/fund.md) schemes globally. It serves [multiple](../m/multiple.md) purposes, including retirement, healthcare, and housing needs. The CPF is a comprehensive system where employees and employers contribute a significant portion of wages into the [fund](../f/fund.md), making it one of the most well-funded [social security](../s/social_security.md) systems in the world. More
 
 ### Employees' Provident Fund Organisation (EPFO) in India
-India’s EPFO manages the Employee Provident [Fund](../f/fund.md), which is compulsory for employees in organizations with more than 20 workers. This scheme enjoys a significant [tax benefit](../t/tax_benefit.md) where the [interest](../i/interest.md) earned and the final corpus are tax-exempt under specific conditions. Further information is available on the [EPFO official website](https://www.epfindia.gov.in).
+India’s EPFO manages the Employee Provident [Fund](../f/fund.md), which is compulsory for employees in organizations with more than 20 workers. This scheme enjoys a significant [tax benefit](../t/tax_benefit.md) where the [interest](../i/interest.md) earned and the final corpus are tax-exempt under specific conditions.
 
 ### Employees Provident Fund of Malaysia (EPF)
-Malaysia also has one of the most structured Provident [Fund](../f/fund.md) systems in Asia. Employees and employers contribute to the EPF, which is then utilized for retirement savings and various other schemes. Details can be accessed on the [EPF Malaysia official website](https://www.kwsp.gov.my).
+Malaysia also has one of the most structured Provident [Fund](../f/fund.md) systems in Asia. Employees and employers contribute to the EPF, which is then utilized for retirement savings and various other schemes.
 
 ## Conclusion
 A Provident [Fund](../f/fund.md) is a vital component of the [financial planning](../f/financial_planning.md) landscape, [offering](../o/offering.md) a structured and secure means of saving for retirement. With contributions from both employers and employees and substantial tax benefits, Provident Funds serve as a reliable option for long-term financial [security](../s/security.md). However, the limitations on early withdrawals and relatively fixed returns must be considered when planning one's retirement portfolio.

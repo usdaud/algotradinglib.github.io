@@ -36,20 +36,14 @@ In recent history, several high-profile mergers and acquisitions have reshaped i
 ### Large Corporations
 Many of the leading companies globally employ inorganic growth as a core strategy. These include:
 - **Microsoft**: Known for numerous acquisitions, including LinkedIn ($26.2 billion) and GitHub ($7.5 billion).
-  [Microsoft](https://www.microsoft.com)
 - **Google**: Acquired companies like YouTube and Fitbit, facilitating rapid [market](../m/market.md) [expansion](../e/expansion.md).
-  [Google](https://www.google.com)
 - **Apple**: Though less prolific in acquisitions compared to its peers, Apple has made strategic purchases such as Beats for $3 billion.
-  [Apple](https://www.apple.com)
 
 ### Investment Banks and M&A Advisors
 Several financial institutions and advisory firms specialize in facilitating mergers and acquisitions. These include:
 - **Goldman Sachs**: Offers M&A advisory services to large corporations seeking inorganic growth.
-  [Goldman Sachs](https://www.goldmansachs.com)
 - **Morgan Stanley**: Provides comprehensive financial advisory services, including M&A.
-  [Morgan Stanley](https://www.morganstanley.com)
 - **JP Morgan**: Known for its extensive experience in handling large-scale mergers and acquisitions.
-  [JP Morgan](https://www.jpmorgan.com)
 
 ## Strategies for Successful Inorganic Growth
 

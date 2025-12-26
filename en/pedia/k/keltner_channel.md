@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Keltner Channel is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) that is used to determine the [volatility](../v/volatility.md) of an [asset](../a/asset.md) and identify potential buy and sell signals. It is named after its creator, Chester W. Keltner, who introduced the [indicator](../i/indicator.md) in his 1960 book, "How to Make [Money](../m/money.md) in Commodities." The Keltner Channel consists of an upper, middle, and lower band, which are plotted around a central moving average. 
+The Keltner Channel is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) that is used to determine the [volatility](../v/volatility.md) of an [asset](../a/asset.md) and identify potential buy and sell signals. It is named after its creator, Chester W. Keltner, who introduced the [indicator](../i/indicator.md) in his 1960 book, "How to Make [Money](../m/money.md) in Commodities." The Keltner Channel consists of an upper, middle, and lower band, which are plotted around a central moving average.
 
 ## Components of Keltner Channel
 
@@ -24,11 +24,11 @@ The [factor](../f/factor.md) is usually set to 2, but it can be adjusted to eith
 1. **Determine the Central Moving Average**: Calculate the EMA (or SMA) of the closing prices over the chosen period (e.g., 20 days).
 
 2. **Calculate the [Average True Range](../a/average_true_range_(atr).md) (ATR)**: The ATR is calculated over the same period as the moving average. The True [Range](../r/range.md) is the greatest of the following:
-   - Current High minus Current Low
-   - Absolute [value](../v/value.md) of Current High minus Previous Close
-   - Absolute [value](../v/value.md) of Current Low minus Previous Close
+ - Current High minus Current Low
+ - Absolute [value](../v/value.md) of Current High minus Previous Close
+ - Absolute [value](../v/value.md) of Current Low minus Previous Close
 
-   The ATR is the moving average of the True [Range](../r/range.md) values over the chosen period.
+ The ATR is the moving average of the True [Range](../r/range.md) values over the chosen period.
 
 3. **Calculate the Upper and Lower Bands**: Use the formula provided above to set the upper and lower bands by adding and subtracting the ATR multiplied by the chosen [factor](../f/factor.md) from the central moving average.
 
@@ -71,20 +71,20 @@ Traders often look for breakouts from the Keltner Channel as signals for signifi
 
 Traders can integrate the Keltner Channel into various [trading strategies](../t/trading_strategies.md), including:
 
-1. **[Trend](../t/trend.md)-Following Strategy**: 
-   - **Entry**: Buy when the price breaks above the upper band in an [uptrend](../u/uptrend.md). Sell short when the price breaks below the lower band in a [downtrend](../d/downtrend.md).
-   - **Exit**: Use trailing stops or exit when the price moves back within the bands.
+1. **[Trend](../t/trend.md)-Following Strategy**:
+ - **Entry**: Buy when the price breaks above the upper band in an [uptrend](../u/uptrend.md). Sell short when the price breaks below the lower band in a [downtrend](../d/downtrend.md).
+ - **Exit**: Use trailing stops or exit when the price moves back within the bands.
 
 2. **[Mean Reversion](../m/mean_reversion.md) Strategy**:
-   - **Entry**: Buy when the price touches or moves below the lower band in a [neutral](../n/neutral.md) [trend](../t/trend.md). Sell when the price touches or moves above the upper band.
-   - **Exit**: Place [profit](../p/profit.md) targets within the channel or use a moving average cross as an exit signal.
+ - **Entry**: Buy when the price touches or moves below the lower band in a [neutral](../n/neutral.md) [trend](../t/trend.md). Sell when the price touches or moves above the upper band.
+ - **Exit**: Place [profit](../p/profit.md) targets within the channel or use a moving average cross as an exit signal.
 
 3. **Combination with Other Indicators**:
-   - Use [momentum indicators](../m/momentum_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) in conjunction with the Keltner Channel to confirm signals and enhance decision-making.
+ - Use [momentum indicators](../m/momentum_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) in conjunction with the Keltner Channel to confirm signals and enhance decision-making.
 
 ### Example in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the Keltner Channel can be employed to develop [automated trading systems](../a/automated_trading_systems.md). For example, consider an algorithm that buys when the price closes above the upper band and sells when it closes below the lower band. The algorithm can include additional filters, such as [volume](../v/volume.md) thresholds or [trend](../t/trend.md) confirmations from other indicators, to improve performance and reduce [false signals](../f/false_signals_in_trading.md).
+In [algorithmic trading](../a/algorithmic_trading.md), the Keltner Channel can be employed to develop [automated trading systems](../a/automated_trading_systems.md). For example, consider an algorithm that buys when the price closes above the upper band and sells when it closes below the lower band. The algorithm can include additional filters, such as [volume](../v/volume.md) thresholds or [trend](../t/trend.md) confirmations from other indicators, to improve performance and reduce [false signals](../f/false_signals_in_trading.md).
 
 Here's an example of Python code to implement a basic Keltner Channel strategy using the `pandas` and `ta` ([technical analysis](../t/technical_analysis.md)) libraries:
 
@@ -110,8 +110,7 @@ data['Upper_Band'] = data['EMA_20'] + (data['ATR'] * [factor](../f/factor.md))
 data['Lower_Band'] = data['EMA_20'] - (data['ATR'] * [factor](../f/factor.md))
 
 # Generate Trading Signals
-data['Signal'] = np.where(data['Close'] > data['Upper_Band'], 1, 
-                           np.where(data['Close'] < data['Lower_Band'], -1, 0))
+data['Signal'] = np.wheredata['Close'] > data['Upper_Band'], 1,                            np.where(data['Close'] < data['Lower_Band'], -1, 0))
 
 # Implement basic trading strategy
 data['Position'] = data['Signal'].replace(to_replace=0, method='ffill')
@@ -130,4 +129,4 @@ print(cumulative_strategy_returns)
 
 The Keltner Channel is a versatile and powerful tool in the arsenal of a [technical analyst](../t/technical_analyst.md) or [trader](../t/trader.md). It effectively combines [price action](../p/price_action.md) with [volatility](../v/volatility.md) to provide valuable insights into [market](../m/market.md) trends and potential trading opportunities. While it has its limitations, particularly as a [lagging indicator](../l/lagging_indicator.md), its adaptability to various [market](../m/market.md) conditions and straightforward implementation make it a popular choice for many traders.
 
-By understanding and effectively utilizing the Keltner Channel, traders can enhance their decision-making process and develop more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md), whether for discretionary or [algorithmic trading](../a/accountability.md).
+By understanding and effectively utilizing the Keltner Channel, traders can enhance their decision-making process and develop more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md), whether for discretionary or [algorithmic trading](../a/algorithmic_trading.md).

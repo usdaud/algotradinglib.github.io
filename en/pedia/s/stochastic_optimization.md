@@ -65,8 +65,7 @@ Stochastic [optimization](../o/optimization.md) is a vital field with broad appl
 
 For more information on some of the leading companies specializing in stochastic [optimization](../o/optimization.md), you can visit their websites:
 
-- [Gurobi Optimization](https://www.gurobi.com/)
-- [IBM Research](https://research.ibm.com/)
-- [MOSEK](https://www.mosek.com/)
-- [FICO](https://www.fico.com/)
-
+- Gurobi Optimization
+- IBM Research
+- MOSEK
+- FICO

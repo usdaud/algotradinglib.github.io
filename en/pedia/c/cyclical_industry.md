@@ -66,13 +66,13 @@ Opting for cyclical companies with strong financials, such as low [debt](../d/de
 ## Case Studies of Cyclical Companies
 
 ### 1. Ford Motor Company
-Ford Motor Company (https://www.ford.com) is a prime example of a cyclical company in the automotive [industry](../i/industry.md). Its performance closely follows [economic cycles](../e/economic_cycles.md), with strong sales during economic booms and significant declines in recessions. Ford's financial strategies involve adjusting production levels, managing costs, and maintaining [liquidity](../l/liquidity.md) to navigate economic downturns effectively.
+Ford Motor Company ( is a prime example of a cyclical company in the automotive [industry](../i/industry.md). Its performance closely follows [economic cycles](../e/economic_cycles.md), with strong sales during economic booms and significant declines in recessions. Ford's financial strategies involve adjusting production levels, managing costs, and maintaining [liquidity](../l/liquidity.md) to navigate economic downturns effectively.
 
 ### 2. Toll Brothers Inc.
-Toll Brothers Inc. (https://www.tollbrothers.com) is a leading homebuilding company. It experiences high sales during [economic growth](../e/economic_growth.md) when [demand](../d/demand.md) for housing is strong. Conversely, during economic contractions, the [demand](../d/demand.md) for new homes decreases, significantly impacting its [revenue](../r/revenue.md) and [profit margins](../p/profit_margins_in_trading.md).
+Toll Brothers Inc. ( is a leading homebuilding company. It experiences high sales during [economic growth](../e/economic_growth.md) when [demand](../d/demand.md) for housing is strong. Conversely, during economic contractions, the [demand](../d/demand.md) for new homes decreases, significantly impacting its [revenue](../r/revenue.md) and [profit margins](../p/profit_margins_in_trading.md).
 
 ### 3. Carnival Corporation & plc
-Carnival [Corporation](../c/corporation.md) & plc (https://www.carnivalcorp.com) operates in the travel and tourism [industry](../i/industry.md) and is highly sensitive to [economic cycles](../e/economic_cycles.md). During periods of [economic growth](../e/economic_growth.md), more consumers spend on cruises and vacations, boosting the company's revenues. In contrast, during economic downturns like the COVID-19 pandemic, the company faced significant financial challenges due to reduced travel [demand](../d/demand.md).
+Carnival [Corporation](../c/corporation.md) & plc ( operates in the travel and tourism [industry](../i/industry.md) and is highly sensitive to [economic cycles](../e/economic_cycles.md). During periods of [economic growth](../e/economic_growth.md), more consumers spend on cruises and vacations, boosting the company's revenues. In contrast, during economic downturns like the COVID-19 pandemic, the company faced significant financial challenges due to reduced travel [demand](../d/demand.md).
 
 ## Conclusion
 

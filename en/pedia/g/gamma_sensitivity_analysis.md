@@ -13,7 +13,7 @@ where \(C\) is the option price and \(S\) is the [underlying asset](../u/underly
 ### Importance of Gamma in Algorithmic Trading
 
 1. **[Risk Management](../r/risk_management.md):** By analyzing [Gamma](../g/gamma.md), traders can anticipate variations in [Delta](../d/delta.md), which helps in maintaining [delta](../d/delta.md)-[neutral](../n/neutral.md) positions. This is particularly important as high [Gamma](../g/gamma.md) values signify that [Delta](../d/delta.md) can change rapidly, leading to significant portfolio sensitivity to price movements.
-   
+
 2. **Strategic Hedging:** [Gamma](../g/gamma.md) analysis helps in effective [hedging strategies](../h/hedging_strategies.md). Understanding how [Delta](../d/delta.md) changes relative to the [underlying asset](../u/underlying_asset.md) price assists in making informed decisions on [options](../o/options.md) positions to mitigate risks.
 
 3. **[Profit](../p/profit.md) [Optimization](../o/optimization.md):** Accurate [Gamma](../g/gamma.md) analysis enables the identification of non-linear payoffs, [offering](../o/offering.md) insights to [capitalize](../c/capitalize.md) on [volatility](../v/volatility.md) and price swings.
@@ -45,7 +45,7 @@ Advanced [machine learning](../m/machine_learning.md) models, such as [neural ne
 #### Mechanics of Gamma Scalping
 
 1. **Initial Setup:** Establish an [options](../o/options.md) position that is [delta](../d/delta.md)-[neutral](../n/neutral.md).
-   
+
 2. **Monitoring & Adjustment:** Continuously monitor the [underlying asset](../u/underlying_asset.md)'s price. As the price moves and [Delta](../d/delta.md) changes, adjust the position by buying or selling the [underlying asset](../u/underlying_asset.md) to restore [delta](../d/delta.md)-neutrality.
 
 3. **[Profit](../p/profit.md) Realization:** The [profit](../p/profit.md) is realized through the small discrepancies between the cost of adjustments and the [Gamma](../g/gamma.md)-driven changes in [Delta](../d/delta.md). This requires precise [execution algorithms](../e/execution_algorithms.md) to manage [transaction fees](../t/transaction_fees.md), [slippage](../s/slippage.md), and other [trading costs](../t/trading_costs.md) effectively.
@@ -56,11 +56,11 @@ To facilitate real-time [Gamma](../g/gamma.md) [Sensitivity Analysis](../s/sensi
 
 #### Notable Gamma Monitoring Solutions
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial data and analytics platform that provides tools for [Gamma](../g/gamma.md) monitoring and other sensitivity analyses. (Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
-   
-2. **[TradeStation](../t/tradestation.md)**: A [robust](../r/robust.md) [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced [options](../o/options.md) analytics, including [Gamma](../g/gamma.md) calculations and [delta](../d/delta.md)-[neutral](../n/neutral.md) strategies. (Link: [TradeStation](https://www.tradestation.com/))
-   
-3. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides sophisticated [options](../o/options.md) trading tools with real-time [Greeks](../g/greeks.md) calculation, including [Gamma](../g/gamma.md). Tailored for active traders and algorithmic strategies. (Link: [Interactive Brokers](https://www.interactivebrokers.com/)).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial data and analytics platform that provides tools for [Gamma](../g/gamma.md) monitoring and other sensitivity analyses. (Link: Bloomberg Terminal)
+
+2. **[TradeStation](../t/tradestation.md)**: A [robust](../r/robust.md) [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced [options](../o/options.md) analytics, including [Gamma](../g/gamma.md) calculations and [delta](../d/delta.md)-[neutral](../n/neutral.md) strategies. (Link: TradeStation)
+
+3. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides sophisticated [options](../o/options.md) trading tools with real-time [Greeks](../g/greeks.md) calculation, including [Gamma](../g/gamma.md). Tailored for active traders and algorithmic strategies. (Link: Interactive Brokers).
 
 ### Conclusion
 

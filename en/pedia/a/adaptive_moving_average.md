@@ -102,7 +102,7 @@ The AMA is extensively used in [trend](../t/trend.md)-following systems. Traders
 
 ### Automated Trading Systems
 
-Given its adaptive nature, the AMA is highly suitable for [automated trading systems](../a/automated_trading_systems.md). Quantitative traders and [algorithmic trading](../a/algorithmic_trading.md) firms often incorporate it into their [trading algorithms](../t/trading_algorithms.md). Companies like **[AlgoTrader](../a/algotrader.md)** ([algotrader.com](https://www.algotrader.com)) provide platforms that enable the [incorporation](../i/incorporation.md) of the AMA into automated [trading strategies](../t/trading_strategies.md).
+Given its adaptive nature, the AMA is highly suitable for [automated trading systems](../a/automated_trading_systems.md). Quantitative traders and [algorithmic trading](../a/algorithmic_trading.md) firms often incorporate it into their [trading algorithms](../t/trading_algorithms.md). Companies like **[AlgoTrader](../a/algotrader.md)** (algotrader.com) provide platforms that enable the [incorporation](../i/incorporation.md) of the AMA into automated [trading strategies](../t/trading_strategies.md).
 
 ### Portfolio Management
 
@@ -116,4 +116,4 @@ Intraday traders and scalpers benefit from the AMA by using it to identify short
 
 The Adaptive Moving Average (AMA) stands out as a powerful tool in the realm of [technical analysis](../t/technical_analysis.md) due to its ability to adapt to varying [market](../m/market.md) conditions. By incorporating the [Efficiency Ratio](../e/efficiency_ratio.md) and the Smoothing Constant, it provides a dynamic approach to smoothing price data, reducing [noise](../n/noise.md), and responding to price movements more effectively than traditional moving averages. However, its complexity requires a thorough understanding and careful parameter tuning. Despite its limitations, the AMA remains a versatile and valuable tool for traders and portfolio managers aiming to navigate the complexities of [financial markets](../f/financial_market.md).
 
-For more information, you can visit Perry J. Kaufman's official website: [kaufmansignals.com](http://www.kaufmansignals.com).
+For more information, you can visit Perry J.

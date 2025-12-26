@@ -4,12 +4,12 @@ A News [Trader](../t/trader.md) is a [trader](../t/trader.md) who bases their tr
 
 ## Mechanism of News Trading
 
-News trading primarily revolves around capturing the short-term price movements that news can drive. The [underlying](../u/underlying.md) principle is that [financial markets](../f/financial_market.md) can be significantly influenced by news and economic data releases. Traders who employ this strategy generally buy or sell assets based on the perceived impact a particular piece of news [will](../w/will.md) have on the [market](../m/market.md). 
+News trading primarily revolves around capturing the short-term price movements that news can drive. The [underlying](../u/underlying.md) principle is that [financial markets](../f/financial_market.md) can be significantly influenced by news and economic data releases. Traders who employ this strategy generally buy or sell assets based on the perceived impact a particular piece of news [will](../w/will.md) have on the [market](../m/market.md).
 
 ### Step-by-Step Mechanism
 
 1. **News Monitoring**: Traders monitor various news sources for [economic indicators](../e/economic_indicators.md), corporate [earnings](../e/earnings.md) reports, geopolitical events, and other significant news. This can be done manually or through automated news services and analytics platforms.
-  
+
 2. **News Impact Analysis**: Once news is released, traders quickly assess its potential impact. This involves measuring the news' sentiment (positive, negative or [neutral](../n/neutral.md)) and predicting how the broader [market](../m/market.md) or specific assets [will](../w/will.md) react.
 
 3. **[Execution](../e/execution.md) of Trades**: Based on the anticipated impact, trades are placed. This could mean buying or selling assets or taking more complex positions such as [options](../o/options.md) or [futures contracts](../f/futures_contracts.md).
@@ -38,7 +38,7 @@ Events such as natural disasters, pandemics, and other significant occurrences c
 Professional traders often use specialized platforms [offering](../o/offering.md) real-time news feeds and analytics. Examples include [Bloomberg Terminal](../b/bloomberg_terminal.md), [Reuters](../r/reuters.md), and Dow Jones Newswires.
 
 ### Algorithmic Tools
-[Algorithmic trading](../a/accountability.md) systems can be programmed to react to news. These systems analyze news as it breaks using [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and other AI techniques to gauge sentiment and predict [market](../m/market.md) movements swiftly.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can be programmed to react to news. These systems analyze news as it breaks using [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and other AI techniques to gauge sentiment and predict [market](../m/market.md) movements swiftly.
 
 ### Economic Calendars
 Economic calendars list the dates and times of significant economic releases. They are crucial for news traders to prepare for and react to scheduled news.
@@ -94,19 +94,19 @@ Regulations impacting news dissemination, such as those surrounding [insider tra
 Several companies specialize in providing tools and platforms for news trading:
 
 - **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive financial news and analytics.
-  Website: [Bloomberg](https://www.bloomberg.com/)
+ online platform: Bloomberg
 
 - **[Reuters](../r/reuters.md)**: Provides a wide [range](../r/range.md) of news services and financial information products.
-  Website: [Reuters](https://www.reuters.com/)
+ online platform: Reuters
 
 - **Dow Jones**: Known for its financial newswire services.
-  Website: [Dow Jones](https://www.dowjones.com/)
+ online platform: Dow Jones
 
 - **ForexFactory**: Offers an [economic calendar](../e/economic_calendar.md) and forum for forex traders.
-  Website: [ForexFactory](https://www.forexfactory.com/)
+ online platform: ForexFactory
 
 - **[Investing](../i/investing.md).com**: Provides financial news, analysis, and an [economic calendar](../e/economic_calendar.md).
-  Website: [Investing.com](https://www.investing.com/)
+ online platform: online resource
 
 ## Conclusion
 

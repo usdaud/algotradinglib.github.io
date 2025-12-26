@@ -54,27 +54,27 @@ Regulators closely monitor the [notional value](../n/notional_value.md) of [deri
 
 ### Bloomberg
 
-[Bloomberg](../b/bloomberg.md) provides comprehensive analytics and data on notional values across various financial instruments through its terminal. Traders and analysts can access detailed reports and real-time data to make informed decisions. [Visit Bloomberg](https://www.bloomberg.com/)
+[Bloomberg](../b/bloomberg.md) provides comprehensive analytics and data on notional values across various financial instruments through its terminal. Traders and analysts can access detailed reports and real-time data to make informed decisions. Visit Bloomberg
 
 ### Refinitiv
 
-Refinitiv, formerly known as Thomson [Reuters](../r/reuters.md) Financial and [Risk](../r/risk.md), offers extensive tools for analyzing notional values in [derivatives](../d/derivatives.md) trading. The platform provides [market](../m/market.md) data, analytics, and trading solutions that cater to institutional clients. [Visit Refinitiv](https://www.refinitiv.com/)
+Refinitiv, formerly known as Thomson [Reuters](../r/reuters.md) Financial and [Risk](../r/risk.md), offers extensive tools for analyzing notional values in [derivatives](../d/derivatives.md) trading. The platform provides [market](../m/market.md) data, analytics, and trading solutions that cater to institutional clients. Visit Refinitiv
 
 ### CME Group
 
-The CME Group is one of the largest [derivatives](../d/derivatives.md) marketplaces and provides detailed information on notional values for [futures](../f/futures.md) and [options](../o/options.md) traded on its exchanges. CME Group's reports and analytics are essential for understanding [market dynamics](../m/market_dynamics.md) and [risk](../r/risk.md) exposure. [Visit CME Group](https://www.cmegroup.com/)
+The CME Group is one of the largest [derivatives](../d/derivatives.md) marketplaces and provides detailed information on notional values for [futures](../f/futures.md) and [options](../o/options.md) traded on its exchanges. CME Group's reports and analytics are essential for understanding [market dynamics](../m/market_dynamics.md) and [risk](../r/risk.md) exposure. Visit CME Group
 
 ### ICE (Intercontinental Exchange)
 
-ICE offers [market](../m/market.md) data and trading platforms that include [notional value](../n/notional_value.md) analytics for a wide [range](../r/range.md) of [derivatives](../d/derivatives.md) including commodities, [credit](../c/credit.md), and [equity](../e/equity.md) indices. ICE's systems are used by traders and financial institutions globally to manage [risk](../r/risk.md) and execute trades. [Visit ICE](https://www.theice.com/)
+ICE offers [market](../m/market.md) data and trading platforms that include [notional value](../n/notional_value.md) analytics for a wide [range](../r/range.md) of [derivatives](../d/derivatives.md) including commodities, [credit](../c/credit.md), and [equity](../e/equity.md) indices. ICE's systems are used by traders and financial institutions globally to manage [risk](../r/risk.md) and execute trades. Visit ICE
 
 ### FIS Global
 
-FIS Global provides technology solutions for managing [derivatives](../d/derivatives.md), including tools for calculating and analyzing [notional value](../n/notional_value.md). Their systems support end-to-end [derivatives](../d/derivatives.md) lifecycle management, making it easier for institutions to monitor and manage their exposures. [Visit FIS Global](https://www.fisglobal.com/)
+FIS Global provides technology solutions for managing [derivatives](../d/derivatives.md), including tools for calculating and analyzing [notional value](../n/notional_value.md). Their systems support end-to-end [derivatives](../d/derivatives.md) lifecycle management, making it easier for institutions to monitor and manage their exposures. Visit FIS Global
 
 ### RiskVal
 
-RiskVal is a platform that offers analytics for [fixed income](../f/fixed_income.md) and [credit](../c/credit.md) [derivatives](../d/derivatives.md). It provides tools for calculating [notional value](../n/notional_value.md) and assessing [risk](../r/risk.md) and performance, used by traders and [risk](../r/risk.md) managers in major financial institutions. [Visit RiskVal](https://www.riskval.com/)
+RiskVal is a platform that offers analytics for [fixed income](../f/fixed_income.md) and [credit](../c/credit.md) [derivatives](../d/derivatives.md). It provides tools for calculating [notional value](../n/notional_value.md) and assessing [risk](../r/risk.md) and performance, used by traders and [risk](../r/risk.md) managers in major financial institutions. Visit RiskVal
 
 ## Practical Strategies Using Notional Value
 
@@ -98,15 +98,15 @@ Financial institutions often use [notional value](../n/notional_value.md) in [st
 
 ### Basel III
 
-Under [Basel III](../b/basel_iii.md) regulations, banks must [hold](../h/hold.md) sufficient [capital](../c/capital.md) against their notional exposures in [derivatives](../d/derivatives.md) to mitigate [systemic risk](../s/systemic_risk.md). This includes adhering to [capital](../c/capital.md) requirements and [leverage ratios](../l/leverage_ratios.md) calculated based on notional values. [Learn More](https://www.bis.org/)
+Under [Basel III](../b/basel_iii.md) regulations, banks must [hold](../h/hold.md) sufficient [capital](../c/capital.md) against their notional exposures in [derivatives](../d/derivatives.md) to mitigate [systemic risk](../s/systemic_risk.md). This includes adhering to [capital](../c/capital.md) requirements and [leverage ratios](../l/leverage_ratios.md) calculated based on notional values. Learn More
 
 ### Dodd-Frank Act
 
-The [Dodd-Frank Wall Street Reform and Consumer Protection Act](../d/dodd-frank_wall_street_reform_and_consumer_protection_act.md) has introduced several regulations concerning [derivatives](../d/derivatives.md) trading in the United States. This includes requirements for [clearing](../c/clearing.md) and reporting [notional value](../n/notional_value.md) of OTC [derivatives](../d/derivatives.md) to increase [transparency](../t/transparency.md) and reduce [counterparty risk](../c/counterparty_risk.md). [Learn More](https://www.sec.gov/spotlight/dodd-frank.shtml)
+The [Dodd-Frank Wall Street Reform and Consumer Protection Act](../d/dodd-frank_wall_street_reform_and_consumer_protection_act.md) has introduced several regulations concerning [derivatives](../d/derivatives.md) trading in the United States. This includes requirements for [clearing](../c/clearing.md) and reporting [notional value](../n/notional_value.md) of OTC [derivatives](../d/derivatives.md) to increase [transparency](../t/transparency.md) and reduce [counterparty risk](../c/counterparty_risk.md). Learn More
 
 ### EMIR (European Market Infrastructure Regulation)
 
-EMIR mandates reporting and [risk](../r/risk.md) mitigation standards for [derivatives](../d/derivatives.md) in the [European Union](../e/european_union_(eu).md). It requires financial counterparties to report notional values of [derivatives](../d/derivatives.md) contracts to [trade](../t/trade.md) repositories. [Learn More](https://www.esma.europa.eu/regulation/post-trading/otc-derivatives-and-clearing-obligation)
+EMIR mandates reporting and [risk](../r/risk.md) mitigation standards for [derivatives](../d/derivatives.md) in the [European Union](../e/european_union_(eu).md). It requires financial counterparties to report notional values of [derivatives](../d/derivatives.md) contracts to [trade](../t/trade.md) repositories. Learn More
 
 ## Conclusion
 

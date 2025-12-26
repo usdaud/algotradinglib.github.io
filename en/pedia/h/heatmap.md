@@ -1,12 +1,12 @@
 # Heatmap
 
-A heatmap is a [data visualization](../d/data_visualization.md) technique that shows the magnitude of a phenomenon as color in two dimensions. In [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), a heatmap can be a highly valuable tool to interpret and analyze complex datasets efficiently. By translating numerical data into colors, [heatmaps](../h/heatmaps_in_trading.md) help traders and analysts quickly identify patterns, trends, and outliers, making it easier to make informed decisions.
+A heatmap is a [data visualization](../d/data_visualization.md) technique that shows the magnitude of a phenomenon as color in two dimensions. In [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md), a heatmap can be a highly valuable tool to interpret and analyze complex datasets efficiently. By translating numerical data into colors, [heatmaps](../h/heatmaps_in_trading.md) help traders and analysts quickly identify patterns, trends, and outliers, making it easier to make informed decisions.
 
 ## Introduction to Heatmaps in Algorithmic Trading
 
 ### What is a Heatmap?
 
-A heatmap is essentially a graphical representation of data where individual values contained in a matrix are represented as colors. In the context of [algorithmic trading](../a/accountability.md), a heatmap can be used to visualize a variety of metrics such as price movements, trading [volume](../v/volume.md), [volatility](../v/volatility.md), correlations, and [performance metrics](../p/performance_metrics.md).
+A heatmap is essentially a graphical representation of data where individual values contained in a matrix are represented as colors. In the context of [algorithmic trading](../a/algorithmic_trading.md), a heatmap can be used to visualize a variety of metrics such as price movements, trading [volume](../v/volume.md), [volatility](../v/volatility.md), correlations, and [performance metrics](../p/performance_metrics.md).
 
 ### Key Features
 
@@ -102,20 +102,17 @@ fig.show()
 
 ## Case Studies
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/accountability.md) platform that offers a variety of tools for [backtesting](../b/backtesting.md) and live trading. The platform uses [heatmaps](../h/heatmaps_in_trading.md) to help traders visualize backtest results and identify periods of high profitability or significant losses. By using [heatmaps](../h/heatmaps_in_trading.md), traders can pinpoint exactly when and where their algorithms performed the best or worst.
-[QuantConnect](https://www.quantconnect.com/)
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers a variety of tools for [backtesting](../b/backtesting.md) and live trading. The platform uses [heatmaps](../h/heatmaps_in_trading.md) to help traders visualize backtest results and identify periods of high profitability or significant losses. By using [heatmaps](../h/heatmaps_in_trading.md), traders can pinpoint exactly when and where their algorithms performed the best or worst.
 
 ### Two Sigma
 
 Two Sigma, a prestigious quantitative [hedge fund](../h/hedge_fund.md), employs [heatmaps](../h/heatmaps_in_trading.md) for monitoring [trading strategies](../t/trading_strategies.md) and assessing [risk](../r/risk.md). By visualizing correlations, volatilities, and other key metrics, Two Sigma's analysts can make data-driven decisions to optimize [trading algorithms](../t/trading_algorithms.md) and manage [risk](../r/risk.md) effectively.
-[Two Sigma](https://www.twosigma.com/)
 
 ### AlphaSense
 
 AlphaSense, an AI-based [market](../m/market.md) intelligence platform, uses [heatmaps](../h/heatmaps_in_trading.md) to provide clients with insights into [market](../m/market.md) trends and institutional sentiment. [Heatmaps](../h/heatmaps_in_trading.md) on the AlphaSense platform allow users to quickly identify which sectors or companies are receiving the most attention, enabling better [trading strategies](../t/trading_strategies.md).
-[AlphaSense](https://www.alpha-sense.com/)
 
 ## Advantages and Disadvantages
 
@@ -135,6 +132,6 @@ AlphaSense, an AI-based [market](../m/market.md) intelligence platform, uses [he
 
 ## Conclusion
 
-[Heatmaps](../h/heatmaps_in_trading.md) are a [robust](../r/robust.md) and versatile tool that can be used for a myriad of applications in [algorithmic trading](../a/accountability.md), from [market sentiment analysis](../m/market_sentiment_analysis.md) and [volatility](../v/volatility.md) visualization to [performance metrics](../p/performance_metrics.md) and [correlation analysis](../c/correlation_analysis.md). By converting complex data sets into intuitive visualizations, [heatmaps](../h/heatmaps_in_trading.md) enable traders to make faster and more informed decisions.
+[Heatmaps](../h/heatmaps_in_trading.md) are a [robust](../r/robust.md) and versatile tool that can be used for a myriad of applications in [algorithmic trading](../a/algorithmic_trading.md), from [market sentiment analysis](../m/market_sentiment_analysis.md) and [volatility](../v/volatility.md) visualization to [performance metrics](../p/performance_metrics.md) and [correlation analysis](../c/correlation_analysis.md). By converting complex data sets into intuitive visualizations, [heatmaps](../h/heatmaps_in_trading.md) enable traders to make faster and more informed decisions.
 
 As technology continues to advance, the [utility](../u/utility.md) and functionality of [heatmaps](../h/heatmaps_in_trading.md) are likely to improve, making them an indispensable tool in the arsenal of modern algorithmic traders. Whether you are a seasoned quant or a novice [trader](../t/trader.md), understanding how to effectively use [heatmaps](../h/heatmaps_in_trading.md) can provide a significant edge in today’s fast-paced [financial markets](../f/financial_market.md).

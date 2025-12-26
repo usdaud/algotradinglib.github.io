@@ -9,12 +9,12 @@ The Dark Cloud Cover is a bearish [candlestick](../c/candlestick.md) pattern use
 The Dark Cloud Cover pattern is composed of two candlesticks that appear in an existing upward [trend](../t/trend.md). The characteristics of these candlesticks are essential in identifying the pattern:
 
 1. **First [Candlestick](../c/candlestick.md) (Bullish [Candlestick](../c/candlestick.md)):**
-    - Represents a continuation of the existing [uptrend](../u/uptrend.md).
-    - Typically has a large body, showing strong buying [interest](../i/interest.md).
+ - Represents a continuation of the existing [uptrend](../u/uptrend.md).
+ - Typically has a large body, showing strong buying [interest](../i/interest.md).
 
 2. **Second [Candlestick](../c/candlestick.md) (Bearish [Candlestick](../c/candlestick.md)):**
-    - Opens above the high of the first [candlestick](../c/candlestick.md) (showing a gap up).
-    - Closes below the midpoint of the first [candlestick](../c/candlestick.md)'s body, indicating a shift in [momentum](../m/momentum.md) from bullish to bearish.
+ - Opens above the high of the first [candlestick](../c/candlestick.md) (showing a gap up).
+ - Closes below the midpoint of the first [candlestick](../c/candlestick.md)'s body, indicating a shift in [momentum](../m/momentum.md) from bullish to bearish.
 
 ### Confirmation and Volume
 

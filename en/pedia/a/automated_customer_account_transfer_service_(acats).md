@@ -112,15 +112,15 @@ The adoption of [blockchain](../b/blockchain_in_trading.md) technology could rev
 
 ### The Depository Trust & Clearing Corporation (DTCC)
 
-The DTCC operates ACATS and is a crucial player in the financial services [industry](../i/industry.md). For more information, visit [DTCC](https://www.dtcc.com).
+The DTCC operates ACATS and is a crucial player in the financial services [industry](../i/industry.md). For more information, visit DTCC.
 
 ### Brokerage Firms
 
 Major brokerage firms that participate in the ACATS system play a vital role in facilitating [asset](../a/asset.md) transfers. Examples include:
 
-- **[Charles Schwab](../c/charles_schwab.md)**: More information available at [Charles Schwab](https://www.schwab.com).
-- **[Fidelity Investments](../f/fidelity_investments.md)**: More information available at [Fidelity](https://www.fidelity.com).
-- **TD [Ameritrade](../a/ameritrade.md)**: More information available at [TD Ameritrade](https://www.tdameritrade.com).
+- **[Charles Schwab](../c/charles_schwab.md)**: More information available at Charles Schwab.
+- **[Fidelity Investments](../f/fidelity_investments.md)**: More information available at Fidelity.
+- **Charles Schwab** (formerly TD Ameritrade, integrated September 2023): More information available at Charles Schwab.
 
 ### Financial Regulators
 

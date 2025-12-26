@@ -63,8 +63,6 @@ Toyota is an exemplary case of a company that uses backflush costing in its prod
 ### Dell Computers
 Dell utilizes backflush costing in its build-to-[order](../o/order.md) [manufacturing](../m/manufacturing.md) model, where products are manufactured based on [customer](../c/customer.md) orders. This approach helps Dell reduce [inventory](../i/inventory.md) levels and simplify its [cost accounting](../c/cost_accounting.md) process, aligning with its agile production strategy.
 
-[Visit Toyota](https://www.toyota-global.com/)
-[Learn More About Dell](https://www.delltechnologies.com/)
 
 ## Conclusion
 

@@ -79,17 +79,17 @@ Univariate analysis is integral to developing and refining [trading strategies](
 Several tools and libraries facilitate univariate analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Python Libraries:**
-  - [Pandas](https://pandas.pydata.org/): For data manipulation and analysis.
-  - [NumPy](https://numpy.org/): For numerical computations.
-  - [SciPy](https://www.scipy.org/): For statistical functions and tests.
-  - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/): For [data visualization](../d/data_visualization.md).
-  - [Statsmodels](https://www.statsmodels.org/): For statistical modeling and [hypothesis testing](../h/hypothesis_testing.md).
+ - Pandas: For data manipulation and analysis.
+ - NumPy: For numerical computations.
+ - SciPy: For statistical functions and tests.
+ - Matplotlib and Seaborn: For [data visualization](../d/data_visualization.md).
+ - Statsmodels: For statistical modeling and [hypothesis testing](../h/hypothesis_testing.md).
 
 - **R Packages:**
-  - [dplyr](https://dplyr.tidyverse.org/): For data manipulation.
-  - [ggplot2](https://ggplot2.tidyverse.org/): For [data visualization](../d/data_visualization.md).
-  - [TTR](https://cran.r-project.org/web/packages/TTR/index.html): For technical [trading rules](../t/trading_rules.md).
-  - [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf): For [time series analysis](../t/time_series_analysis.md).
+ - dplyr: For data manipulation.
+ - ggplot2: For [data visualization](../d/data_visualization.md).
+ - TTR: For technical [trading rules](../t/trading_rules.md).
+ - forecast: For [time series analysis](../t/time_series_analysis.md).
 
 ## Conclusion
 

@@ -14,12 +14,12 @@ The error term serves as a catch-all for the factors that influence the dependen
 
 Statistically, a [linear regression](../l/linear_regression.md) model can be expressed as:
 
-\[ Y = β_0 + β_1X_1 + β_2X_2 + ... + β_nX_n + ε \]
+\[ Y = β_0 + β_1X_1 + β_2X_2 +... + β_nX_n + ε \]
 
 Here:
 - \(Y\) is the dependent variable.
-- \(X_1, X_2, ..., X_n\) are independent variables.
-- \(β_0, β_1, ..., β_n\) are the coefficients.
+- \(X_1, X_2,..., X_n\) are independent variables.
+- \(β_0, β_1,..., β_n\) are the coefficients.
 - \(ε\) is the error term.
 
 ## Role in Model Accuracy
@@ -81,16 +81,16 @@ Various libraries and frameworks aid in managing and analyzing the error term:
 
 1. **Scikit-learn**: A premier [machine learning](../m/machine_learning.md) library for Python that offers tools for both regression and classification tasks.
 
-2. **[TensorFlow](../t/tensorflow.md)** (https://www.[tensorflow](../t/tensorflow.md).org/): A leading library for [deep learning](../d/deep_learning.md) models, suitable for handling non-linear patterns in trading data that simple [linear models](../l/linear_models_in_trading.md) might miss.
+2. **[TensorFlow](../t/tensorflow.md)** ( A leading library for [deep learning](../d/deep_learning.md) models, suitable for handling non-linear patterns in trading data that simple [linear models](../l/linear_models_in_trading.md) might miss.
 
-3. **PyCaret** (https://pycaret.org/): An [open](../o/open.md)-source, low-code [machine learning](../m/machine_learning.md) library that automates [machine learning](../m/machine_learning.md) workflows.
+3. **PyCaret** ( An [open](../o/open.md)-source, low-code [machine learning](../m/machine_learning.md) library that automates [machine learning](../m/machine_learning.md) workflows.
 
 ### Financial Data Platforms
 
 Data platforms providing accurate, high-frequency trading data are essential for building and refining models:
 
-1. **[Quandl](../q/quandl.md)** (https://www.[quandl](../q/quandl.md).com/): Offers extensive datasets for [market research](../m/market_research.md).
-2. **[Alpaca](../a/alpaca.md)** (https://[alpaca](../a/alpaca.md).markets/): Facilitates [commission](../c/commission.md)-free trading and provides data APIs for [systematic trading](../s/systematic_trading.md) strategies.
+1. **[Quandl](../q/quandl.md)** ( Offers extensive datasets for [market research](../m/market_research.md).
+2. **[Alpaca](../a/alpaca.md)** ( Facilitates [commission](../c/commission.md)-free trading and provides data APIs for [systematic trading](../s/systematic_trading.md) strategies.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Accounts Receivable Aging
 
-Accounts [Receivable](../r/receivable.md) Aging, commonly referred to as A/R Aging, is a critical financial metric used in [accounting](../a/accounting.md) to categorize and analyze the status of receivables that are due to a [business](../b/business.md). This aging report is an essential tool for managing [cash flow](../c/cash_flow.md) and assessing the [creditworthiness](../c/creditworthiness.md) of customers who owe [money](../m/money.md) to the [business](../b/business.md) for goods or services provided on [credit](../c/credit.md). It helps organizations monitor outstanding invoices, prioritize collections, and identify potential bad debts. 
+Accounts [Receivable](../r/receivable.md) Aging, commonly referred to as A/R Aging, is a critical financial metric used in [accounting](../a/accounting.md) to categorize and analyze the status of receivables that are due to a [business](../b/business.md). This aging report is an essential tool for managing [cash flow](../c/cash_flow.md) and assessing the [creditworthiness](../c/creditworthiness.md) of customers who owe [money](../m/money.md) to the [business](../b/business.md) for goods or services provided on [credit](../c/credit.md). It helps organizations monitor outstanding invoices, prioritize collections, and identify potential bad debts.
 
 ## Overview
 
@@ -80,19 +80,19 @@ Here is an example of a simple A/R Aging report format:
 
 | [Customer](../c/customer.md) Name | [Invoice](../i/invoice.md) Date | [Invoice](../i/invoice.md) Amount | Current | 1-30 Days | 31-60 Days | 61-90 Days | Over 90 Days |
 |---------------|--------------|----------------|---------|-----------|------------|------------|--------------|
-| [Customer](../c/customer.md) A    | 01/01/2023   | $1,000         | $0      | $0        | $0         | $0         | $1,000       |
-| [Customer](../c/customer.md) B    | 02/15/2023   | $500           | $500    | $0        | $0         | $0         | $0           |
-| [Customer](../c/customer.md) C    | 12/01/2022   | $2,000         | $0      | $0        | $0         | $2,000     | $0           |
-| Totals        |              | $3,500         | $500    | $0        | $0         | $2,000     | $1,000       |
+| [Customer](../c/customer.md) A | 01/01/2023 | $1,000 | $0 | $0 | $0 | $0 | $1,000 |
+| [Customer](../c/customer.md) B | 02/15/2023 | $500 | $500 | $0 | $0 | $0 | $0 |
+| [Customer](../c/customer.md) C | 12/01/2022 | $2,000 | $0 | $0 | $0 | $2,000 | $0 |
+| Totals | | $3,500 | $500 | $0 | $0 | $2,000 | $1,000 |
 
 ## Using Accounting Software for A/R Aging Reports
 
 Many businesses rely on [accounting](../a/accounting.md) software to generate A/R Aging reports automatically. These software solutions streamline the process, provide real-time insights, and [offer](../o/offer.md) advanced features for managing receivables. Some popular [accounting](../a/accounting.md) software programs that include A/R Aging functionalities are:
 
-- **QuickBooks Online**: [QuickBooks Online](https://quickbooks.intuit.com) offers comprehensive accounts [receivable](../r/receivable.md) management features, including automated aging reports, reminders for overdue invoices, and detailed [customer](../c/customer.md) tracking.
-- **Xero**: [Xero](https://www.xero.com) provides [robust](../r/robust.md) accounts [receivable](../r/receivable.md) management tools, including aging reports, [invoice](../i/invoice.md) templates, [payment](../p/payment.md) reminders, and [customer](../c/customer.md) account tracking.
-- **FreshBooks**: [FreshBooks](https://www.freshbooks.com) offers user-friendly invoicing and accounts [receivable](../r/receivable.md) management features, including aging reports, [expense](../e/expense.md) tracking, and [payment](../p/payment.md) processing.
-- **Zoho Books**: [Zoho Books](https://www.zoho.com/books) includes powerful accounts [receivable](../r/receivable.md) tracking features, automated aging reports, [payment](../p/payment.md) reminders, and [customer](../c/customer.md) statements.
+- **QuickBooks Online**: QuickBooks Online offers comprehensive accounts [receivable](../r/receivable.md) management features, including automated aging reports, reminders for overdue invoices, and detailed [customer](../c/customer.md) tracking.
+- **Xero**: Xero provides [robust](../r/robust.md) accounts [receivable](../r/receivable.md) management tools, including aging reports, [invoice](../i/invoice.md) templates, [payment](../p/payment.md) reminders, and [customer](../c/customer.md) account tracking.
+- **FreshBooks**: FreshBooks offers user-friendly invoicing and accounts [receivable](../r/receivable.md) management features, including aging reports, [expense](../e/expense.md) tracking, and [payment](../p/payment.md) processing.
+- **Zoho Books**: Zoho Books includes powerful accounts [receivable](../r/receivable.md) tracking features, automated aging reports, [payment](../p/payment.md) reminders, and [customer](../c/customer.md) statements.
 
 ## Best Practices for Managing Accounts Receivable Aging
 

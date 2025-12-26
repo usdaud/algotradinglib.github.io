@@ -12,7 +12,7 @@ The AFR is divided into three primary categories:
 
 ## Determining AFR
 
-Each month, the IRS calculates the AFR based on [market](../m/market.md) yields from marketable [obligations](../o/obligation.md) of the United States government. The rates for the current and historical AFRs are published in IRS [Revenue](../r/revenue.md) Rulings, which can be found on the official IRS website.
+Each month, the IRS calculates the AFR based on [market](../m/market.md) yields from marketable [obligations](../o/obligation.md) of the United States government. The rates for the current and historical AFRs are published in IRS [Revenue](../r/revenue.md) Rulings,
 
 ## Uses of AFR
 
@@ -57,7 +57,7 @@ $50,000 \times 1.5\% = $750 \text{ per year of [interest](../i/interest.md)}
 Failure to adhere to AFR can result in reclassification of the [loan](../l/loan.md) terms or [transaction](../t/transaction.md), leading to potential tax penalties and [interest](../i/interest.md). Thus, accurate application of AFR is necessary to ensure tax compliance.
 
 The IRS provides guidelines and updates AFR regularly, which can be accessed at:
-[IRS Applicable Federal Rates (AFR) resource](https://www.irs.gov/pub/irs-drop/rr-20-01.pdf)
+IRS Applicable Federal Rates (AFR) resource
 
 ## Advanced Applications in Financial Modeling
 
@@ -72,12 +72,10 @@ Several financial and tax software solutions include modules or plugins to calcu
 ### TurboTax
 
 Popular tax preparation software that often includes federal rates in its calculations.
-[TurboTax - Tax Software](https://turbotax.intuit.com/)
 
 ### H&R Block
 
 Another well-known tax software which may incorporate AFR for more accurate tax filing.
-[H&R Block - Tax Preparation Services](https://www.hrblock.com/)
 
 ### Bloomberg Terminals
 

@@ -8,10 +8,6 @@ BTC Markets is one of Australia's largest and most trusted cryptocurrency exchan
 
 BTC Markets was established in Melbourne, Australia, in 2013. Its mission from the onset has been to become the leading cryptocurrency [exchange](../e/exchange.md) platform in Australia, enabling users to buy, sell, and [trade](../t/trade.md) digital assets securely and efficiently.
 
-### Website
-
-Visit the BTC Markets official website here: [BTC Markets](https://www.btcmarkets.net/)
-
 ### Regulatory Compliance
 
 BTC Markets follows stringent regulatory standards to ensure the safety of its users. The platform complies with Australian financial regulations, including adhering to Anti-[Money Laundering](../m/money_laundering.md) (AML) and Counter-Terrorism [Financing](../f/financing.md) (CTF) laws. Users are required to complete a Know Your [Customer](../c/customer.md) (KYC) process to verify their identity before trading on the platform.
@@ -68,7 +64,7 @@ For algorithmic traders and developers, BTC Markets provides [robust](../r/robus
 
 BTC Markets invests in educating its users through various channels:
 
-- **Learning Center:** Comprehensive guides, tutorials, and FAQs are available on their website.
+- **Learning Center:** Comprehensive guides, tutorials,
 - **[Customer](../c/customer.md) Support:** Available via email and a support ticket system, and the support team is known for being responsive and helpful.
 
 ### Recent News and Developments
@@ -89,6 +85,6 @@ For institutional investors, BTC Markets offers tailored solutions such as:
 
 ## Conclusion
 
-BTC Markets remains a prominent player in the Australian cryptocurrency [exchange](../e/exchange.md) space due to its commitment to [security](../s/security.md), regulatory compliance, and user-centric services. Whether you are a retail [trader](../t/trader.md), an [institutional investor](../i/institutional_investor.md), or a developer looking to integrate cryptocurrency trading capabilities, BTC Markets offers a [robust](../r/robust.md) and versatile platform to meet your needs. 
+BTC Markets remains a prominent player in the Australian cryptocurrency [exchange](../e/exchange.md) space due to its commitment to [security](../s/security.md), regulatory compliance, and user-centric services. Whether you are a retail [trader](../t/trader.md), an [institutional investor](../i/institutional_investor.md), or a developer looking to integrate cryptocurrency trading capabilities, BTC Markets offers a [robust](../r/robust.md) and versatile platform to meet your needs.
 
-For more detailed information, visit [BTC Markets](https://www.btcmarkets.net/)
+For more detailed information, visit BTC Markets

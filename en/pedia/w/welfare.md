@@ -98,10 +98,10 @@ Understanding the intricacies of welfare systems, their economic and social impa
 
 For further details on specific welfare programs and their impacts, refer to the respective government or organizational websites:
 
-- [Temporary Assistance for Needy Families (TANF)](https://www.acf.hhs.gov/ofa/programs/tanf)
-- [Supplemental Nutrition Assistance Program (SNAP)](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program)
-- [Social Security](https://www.ssa.gov/)
-- [National Health Service (NHS)](https://www.nhs.uk/)
-- [Bolsa Família](http://www.caixa.gov.br/programas-sociais/bolsa-familia/Paginas/default.aspx)
+- Temporary Assistance for Needy Families (TANF)
+- Supplemental Nutrition Assistance Program (SNAP)
+- Social Security
+- National Health Service (NHS)
+- Bolsa Família
 
 Welfare programs remain a cornerstone of social policy, reflecting the ongoing commitment to support and uplift disadvantaged individuals and communities.

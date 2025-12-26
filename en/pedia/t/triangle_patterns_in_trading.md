@@ -91,32 +91,29 @@ While [triangle](../t/triangle.md) patterns are powerful on their own, combining
 Let's walk through an example of trading a symmetrical [triangle](../t/triangle.md) pattern with the help of moving averages.
 
 1. **Identify the [Triangle](../t/triangle.md) Pattern:**
-   - On the price chart, identify at least two highs and two lows converging to form a symmetrical [triangle](../t/triangle.md).
+ - On the price chart, identify at least two highs and two lows converging to form a symmetrical [triangle](../t/triangle.md).
 
 2. **Confirm with Moving Averages:**
-   - Add a 50-period and a 200-period moving average to the chart.
-   - Ensure that the moving averages are aligned with the prevailing [trend](../t/trend.md). For instance, if the [50-period moving average](../1/50-period_moving_average.md) is above the 200-period moving average, the [trend](../t/trend.md) is bullish.
+ - Add a 50-period and a 200-period moving average to the chart.
+ - Ensure that the moving averages are aligned with the prevailing [trend](../t/trend.md). For instance, if the [50-period moving average](../1/50-period_moving_average.md) is above the 200-period moving average, the [trend](../t/trend.md) is bullish.
 
 3. **Monitor [Volume](../v/volume.md):**
-   - Observe the [volume](../v/volume.md) as the [triangle](../t/triangle.md) pattern forms. Ideally, it should decrease, indicating [consolidation](../c/consolidation.md).
+ - Observe the [volume](../v/volume.md) as the [triangle](../t/triangle.md) pattern forms. Ideally, it should decrease, indicating [consolidation](../c/consolidation.md).
 
 4. **Entering the [Trade](../t/trade.md):**
-   - Wait for a [breakout](../b/breakout.md) from the symmetrical [triangle](../t/triangle.md). If the price breaks above the upper [trendline](../t/trendline.md), it confirms a bullish [breakout](../b/breakout.md).
-   - Place a buy [order](../o/order.md) just above the [breakout](../b/breakout.md) point.
+ - Wait for a [breakout](../b/breakout.md) from the symmetrical [triangle](../t/triangle.md). If the price breaks above the upper [trendline](../t/trendline.md), it confirms a bullish [breakout](../b/breakout.md).
+ - Place a buy [order](../o/order.md) just above the [breakout](../b/breakout.md) point.
 
 5. **Setting Stop-Loss and Target:**
-   - Place a [stop-loss order](../s/stop-loss_order.md) just below the lower [trendline](../t/trendline.md) to protect against false breakouts.
-   - Measure the height of the [triangle](../t/triangle.md) at its widest point and project it from the [breakout](../b/breakout.md) point to set a target price.
+ - Place a [stop-loss order](../s/stop-loss_order.md) just below the lower [trendline](../t/trendline.md) to protect against false breakouts.
+ - Measure the height of the [triangle](../t/triangle.md) at its widest point and project it from the [breakout](../b/breakout.md) point to set a target price.
 
 By combining the symmetrical [triangle](../t/triangle.md) pattern with moving averages, traders can [gain](../g/gain.md) more confidence in their [trade](../t/trade.md) decisions and improve the likelihood of success.
 
 ### Conclusion
 
-[Triangle](../t/triangle.md) patterns are valuable tools in the arsenal of technical traders. Whether symmetrical, ascending, or descending, these patterns provide insights into potential price movements that can help traders make informed decisions. By understanding how to identify and [trade](../t/trade.md) [triangle](../t/triangle.md) patterns while considering [volume](../v/volume.md), false breakouts, and additional [technical indicators](../t/technical_indicators.md), traders can enhance their proficiency in [technical analysis](../t/technical_analysis.md) and increase their chances of trading success. 
+[Triangle](../t/triangle.md) patterns are valuable tools in the arsenal of technical traders. Whether symmetrical, ascending, or descending, these patterns provide insights into potential price movements that can help traders make informed decisions. By understanding how to identify and [trade](../t/trade.md) [triangle](../t/triangle.md) patterns while considering [volume](../v/volume.md), false breakouts, and additional [technical indicators](../t/technical_indicators.md), traders can enhance their proficiency in [technical analysis](../t/technical_analysis.md) and increase their chances of trading success.
 
 For more practical insights and advanced educational resources, traders can refer to various professional platforms like:
-- [TradingView](../t/tradingview.md): [https://www.tradingview.com](https://www.tradingview.com)
-- Investopedia: [https://www.investopedia.com](https://www.investopedia.com)
-- NetPicks: [https://www.netpicks.com](https://www.netpicks.com)
-
+- [TradingView](../t/tradingview.md)- Investopedia- NetPicks
 Understanding and mastering [triangle](../t/triangle.md) patterns require practice and continuous learning, but the effort can significantly improve trading outcomes.

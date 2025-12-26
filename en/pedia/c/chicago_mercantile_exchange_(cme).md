@@ -6,7 +6,6 @@ The Chicago Mercantile [Exchange](../e/exchange.md) (CME) is one of the largest 
 
 CME Group, the [parent company](../p/parent_company.md) of the Chicago Mercantile [Exchange](../e/exchange.md), also includes the Chicago Board of [Trade](../t/trade.md) (CBOT), the New York Mercantile [Exchange](../e/exchange.md) (NYMEX), and the [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) (COMEX). This unification allows CME Group to [offer](../o/offer.md) a comprehensive suite of products including agricultural commodities, energy, [interest](../i/interest.md) rates, equities, [foreign exchange](../f/foreign_exchange.md), and metals. CME Group’s mission is to provide a transparent, efficient, and [liquid](../l/liquid.md) marketplace for [derivatives](../d/derivatives.md) trading.
 
-Website: [CME Group](https://www.cmegroup.com)
 
 ## History
 
@@ -103,4 +102,3 @@ The integration of [blockchain](../b/blockchain_in_trading.md) technology and th
 
 The Chicago Mercantile [Exchange](../e/exchange.md) (CME) is a cornerstone of the global [financial system](../f/financial_system.md), [offering](../o/offering.md) a diverse [range](../r/range.md) of [derivative](../d/derivative.md) products that cater to various [market](../m/market.md) needs. From its origins as a [commodity](../c/commodity.md) [trading platform](../t/trading_platform.md) to its current status as a leader in financial innovation, the CME has continually evolved to meet the demands of a dynamic [market](../m/market.md) landscape. As technology and global markets continue to advance, the CME is poised to remain a key player in the world of [finance](../f/finance.md), facilitating efficient, transparent, and [liquid](../l/liquid.md) trading environments.
 
-For more information, visit the CME Group website: [CME Group](https://www.cmegroup.com)

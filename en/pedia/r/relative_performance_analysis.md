@@ -64,9 +64,9 @@ While RPA is a powerful tool, it has limitations and challenges:
 
 Several companies and platforms specialize in providing tools and services for Relative Performance Analysis:
 
-- **[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/asset-and-investment-managers/)**: [Bloomberg](../b/bloomberg.md) offers comprehensive financial data and analytics tools, including advanced performance measurement capabilities.
-- **[FactSet](https://www.factset.com/solutions/portfolio-management/performance-reporting-attribution)**: [FactSet](../f/factset.md) provides [robust](../r/robust.md) performance analysis, reporting, and attribution services tailored for portfolio managers and analysts.
-- **[Morningstar Direct](https://www.morningstar.com/products/direct)**: This platform offers extensive [investment analysis](../i/investment_analysis.md), including relative [performance metrics](../p/performance_metrics.md) and [fund](../f/fund.md) comparison tools.
+- **Bloomberg Terminal**: [Bloomberg](../b/bloomberg.md) offers comprehensive financial data and analytics tools, including advanced performance measurement capabilities.
+- **FactSet**: [FactSet](../f/factset.md) provides [robust](../r/robust.md) performance analysis, reporting, and attribution services tailored for portfolio managers and analysts.
+- **Morningstar Direct**: This platform offers extensive [investment analysis](../i/investment_analysis.md), including relative [performance metrics](../p/performance_metrics.md) and [fund](../f/fund.md) comparison tools.
 
 ## Conclusion
 

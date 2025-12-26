@@ -37,23 +37,23 @@ Quantitative analysts or "quants" develop [mathematical models](../m/mathematica
 
 ### **Virtu Financial**
 Virtu Financial is a leading provider of financial services and products, deploying state-of-the-art technology to deliver [liquidity](../l/liquidity.md). Their efficient trading [infrastructure](../i/infrastructure.md) allows seamless [execution](../e/execution.md) of orders worldwide.
-[https://www.virtu.com/](https://www.virtu.com/)
+
 
 ### **Jane Street**
 Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) where traders utilize models and technology for efficient trading operations. Their systematic approach ensures high performance in various [market](../m/market.md) conditions.
-[https://www.janestreet.com/](https://www.janestreet.com/)
+
 
 ### **Tower Research Capital**
 Tower Research [Capital](../c/capital.md) specializes in [quantitative trading](../q/quantitative_trading.md), relying on innovative engineering and efficient [trading algorithms](../t/trading_algorithms.md) to remain competitive in global markets.
-[https://www.tower-research.com/](https://www.tower-research.com/)
+
 
 ### **Two Sigma**
 Two Sigma integrates data analysis, [mathematical models](../m/mathematical_models_in_trading.md), and technology to generate [trading strategies](../t/trading_strategies.md) with optimal performance and efficiency.
-[https://www.twosigma.com/](https://www.twosigma.com/)
+
 
 ### **Citadel Securities**
 Citadel Securities focuses on the efficiency of [trade](../t/trade.md) [execution](../e/execution.md), leveraging powerful algorithms and [robust](../r/robust.md) technology [infrastructure](../i/infrastructure.md) to optimize [trading strategies](../t/trading_strategies.md).
-[https://www.citadelsecurities.com/](https://www.citadelsecurities.com/)
+
 
 ## Conclusion
 

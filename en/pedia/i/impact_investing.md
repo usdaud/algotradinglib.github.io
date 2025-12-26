@@ -59,11 +59,7 @@ Effective measurement and reporting are crucial to the credibility and success o
 
 Many organizations and funds play a significant role in the impact [investing](../i/investing.md) landscape. Some notable examples include:
 
-1. **The Rockefeller Foundation**: A pioneer in impact [investing](../i/investing.md), providing seed funding and thought [leadership](../l/leadership.md) in the space. [https://www.rockefellerfoundation.org/](https://www.rockefellerfoundation.org/)
-2. **Acumen**: A global venture [fund](../f/fund.md) that uses philanthropic [capital](../c/capital.md) to invest in scalable businesses addressing [poverty](../p/poverty.md). [https://acumen.org/](https://acumen.org/)
-3. **TIAA-CREF Social Choice [Bond Fund](../b/bond_fund.md)**: A [mutual fund](../m/mutual_fund.md) that targets investments in high-quality bonds with positive social and environmental impacts. [https://www.tiaa.org/public/investment-performance/mutual-funds/social-choice](https://www.tiaa.org/public/investment-performance/mutual-funds/social-choice)
-4. **Generation [Investment Management](../i/investment_management.md)**: A [firm](../f/firm.md) that integrates sustainability research into founding investment strategies, co-founded by Al Gore. [https://www.generationim.com/](https://www.generationim.com/)
-
+1. **The Rockefeller Foundation**: A pioneer in impact [investing](../i/investing.md), providing seed funding and thought [leadership](../l/leadership.md) in the space. 2. **Acumen**: A global venture [fund](../f/fund.md) that uses philanthropic [capital](../c/capital.md) to invest in scalable businesses addressing [poverty](../p/poverty.md). 3. **TIAA-CREF Social Choice [Bond Fund](../b/bond_fund.md)**: A [mutual fund](../m/mutual_fund.md) that targets investments in high-quality bonds with positive social and environmental impacts. 4. **Generation [Investment Management](../i/investment_management.md)**: A [firm](../f/firm.md) that integrates sustainability research into founding investment strategies, co-founded by Al Gore.
 ## Challenges and Criticisms
 
 Despite the rapid growth of impact [investing](../i/investing.md), several challenges and criticisms persist:

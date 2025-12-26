@@ -64,8 +64,8 @@ Negative [arbitrage](../a/arbitrage.md) remains an important consideration for f
 
 For further readings and information, exploring the following links:
 
-- [MSRB - Municipal Securities Rulemaking Board](http://www.msrb.org)
-- [TreasuryDirect – U.S. Department of Treasury](https://www.treasurydirect.gov)
-- [SIFMA – Securities Industry and Financial Markets Association](https://www.sifma.org)
+- MSRB - Municipal Securities Rulemaking Board
+- TreasuryDirect – U.S. Department of Treasury
+- SIFMA – Securities Industry and Financial Markets Association
 
 Understanding the intricacies of negative [arbitrage](../a/arbitrage.md) helps in making informed decisions that can prevent losses and align financial practices with long-term objectives.

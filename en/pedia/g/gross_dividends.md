@@ -1,6 +1,6 @@
 # Gross Dividends
 
-Gross dividends refer to the total amount of [dividend](../d/dividend.md) payments made by a [corporation](../c/corporation.md) to its shareholders before any deductions, such as [taxes](../t/taxes.md) or other fees. Dividends are generally distributed from the company's [earnings](../e/earnings.md) and can be issued in the form of cash payments, [shares](../s/shares.md) of stock, or other property. 
+Gross dividends refer to the total amount of [dividend](../d/dividend.md) payments made by a [corporation](../c/corporation.md) to its shareholders before any deductions, such as [taxes](../t/taxes.md) or other fees. Dividends are generally distributed from the company's [earnings](../e/earnings.md) and can be issued in the form of cash payments, [shares](../s/shares.md) of stock, or other property.
 
 ## Understanding Dividends
 
@@ -33,16 +33,16 @@ Companies adopt different [dividend](../d/dividend.md) policies based on their s
 ## Dividend Yield and Payout Ratio
 
 - **[Dividend Yield](../d/dividend_yield.md)**: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price. It is calculated as:
-  
-  \[
-  \text{[Dividend Yield](../d/dividend_yield.md)} = \frac{\text{Annual Dividends per Share}}{\text{Price per Share}}
-  \]
+
+ \[
+ \text{[Dividend Yield](../d/dividend_yield.md)} = \frac{\text{Annual Dividends per Share}}{\text{Price per Share}}
+ \]
 
 - **[Dividend Payout Ratio](../d/dividend_payout_ratio.md)**: This ratio measures the proportion of [earnings](../e/earnings.md) distributed as dividends to shareholders, calculated as:
 
-  \[
-  \text{[Dividend Payout Ratio](../d/dividend_payout_ratio.md)} = \frac{\text{Dividends per Share}}{\text{[Earnings](../e/earnings.md) per Share}}
-  \]
+ \[
+ \text{[Dividend Payout Ratio](../d/dividend_payout_ratio.md)} = \frac{\text{Dividends per Share}}{\text{[Earnings](../e/earnings.md) per Share}}
+ \]
 
 ## Significance for Investors
 
@@ -50,7 +50,7 @@ Gross dividends provide investors with insights into the earning potential and [
 
 ## Example: AT&T Inc.
 
-AT&T Inc. (https://www.att.com) is a prominent example of a company that has a history of paying regular and substantial dividends to its shareholders. As an established player in the telecommunications [industry](../i/industry.md), it provides insights into how large, stable companies approach gross [dividend](../d/dividend.md) payments to reward their investors.
+AT&T Inc. ( is a prominent example of a company that has a history of paying regular and substantial dividends to its shareholders. As an established player in the telecommunications [industry](../i/industry.md), it provides insights into how large, stable companies approach gross [dividend](../d/dividend.md) payments to reward their investors.
 
 ## Conclusion
 

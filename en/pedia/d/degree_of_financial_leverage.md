@@ -85,7 +85,6 @@ DFL = EBIT / (EBIT - [Interest Expense](../i/interest_expense.md)) = 2.53 billio
 
 A DFL of 1.42 indicates that Tesla’s EPS is moderately sensitive to changes in EBIT. This level of financial [leverage](../l/leverage.md) suggests that Tesla has a balanced approach to using [debt](../d/debt.md) in its [capital structure](../c/capital_structure.md). Investors can interpret this as a moderate [risk](../r/risk.md) level, accepting that Tesla’s EPS could oscillate due to fluctuations in its [operating income](../o/operating_income.md).
 
-For further details, visit [Tesla’s Investor Relations](https://ir.tesla.com).
 
 ## Impact of Capital Structure Decisions
 
@@ -123,4 +122,4 @@ DFL focuses only on EBIT and does not account for [non-operating income](../n/no
 
 The Degree of Financial [Leverage](../l/leverage.md) (DFL) is a critical metric for assessing the impact of [capital structure](../c/capital_structure.md) decisions on a company’s [financial performance](../f/financial_performance.md). By understanding and analyzing DFL, investors and financial managers can make informed decisions about the use of [debt](../d/debt.md), thereby balancing [risk](../r/risk.md) and [return](../r/return.md) in pursuit of sustained profitability. Whether considering a company like Tesla, or any other enterprise, the careful application of DFL insights can significantly influence financial success.
 
-For more detailed insights and examples, you can explore [Tesla’s annual reports and financial statements](https://ir.tesla.com).
+For more detailed insights and examples, you can explore Tesla’s annual reports and financial statements.

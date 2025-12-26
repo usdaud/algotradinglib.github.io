@@ -4,7 +4,7 @@ Organized labor, also known as labor unions or [trade](../t/trade.md) unions, re
 
 ## History of Organized Labor
 
-The concept of organized labor dates back to the [industrial revolution](../i/industrial_revolution.md), a period spanning the late 18th and early 19th centuries. As industries grew, so did the need for skilled and [unskilled labor](../u/unskilled_labor.md). However, the working conditions were often poor, and wages were generally low. Workers began to organize themselves into groups to advocate for better conditions and pay. 
+The concept of organized labor dates back to the [industrial revolution](../i/industrial_revolution.md), a period spanning the late 18th and early 19th centuries. As industries grew, so did the need for skilled and [unskilled labor](../u/unskilled_labor.md). However, the working conditions were often poor, and wages were generally low. Workers began to organize themselves into groups to advocate for better conditions and pay.
 
 ### Early Labor Movements
 
@@ -92,19 +92,19 @@ Despite their contributions, labor unions face several challenges, including:
 
 The United Auto Workers (UAW) is a prominent [labor union](../l/labor_union.md) representing workers in the United States and Canada, primarily in the automobile [industry](../i/industry.md) but also in other sectors such as higher education and healthcare. The UAW is known for its historic strikes and successful negotiations for better wages, benefits, and working conditions.
 
-Website: [UAW](https://uaw.org)
+online platform: UAW
 
 ### International Longshore and Warehouse Union (ILWU)
 
 The International Longshore and Warehouse Union (ILWU) represents dock workers on the West Coast of the United States and Canada. The ILWU has a reputation for militant activism and has negotiated some of the most favorable labor contracts in the [industry](../i/industry.md).
 
-Website: [ILWU](https://www.ilwu.org)
+online platform: ILWU
 
 ### Service Employees International Union (SEIU)
 
 The Service Employees International Union (SEIU) is one of the largest labor unions in the United States, representing nearly 2 million workers in healthcare, public services, and property services. The SEIU is known for its focus on organizing low-wage workers and advocating for healthcare reform.
 
-Website: [SEIU](http://www.seiu.org)
+online platform: SEIU
 
 ## Conclusion
 

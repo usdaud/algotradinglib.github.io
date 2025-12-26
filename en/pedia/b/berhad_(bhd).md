@@ -4,7 +4,7 @@ Berhad is a suffix used in Malaysia to denote a publicly limited company and sta
 
 ## Understanding Berhad Companies
 
-A "Berhad" or BHD company is a type of [corporation](../c/corporation.md) in Malaysia where the shareholders' [liability](../l/liability.md) is limited to the amount of their investment. The formation and operational structure of Berhad companies are governed by the Companies Act 2016, which stipulates various requirements pertaining to [capital](../c/capital.md), governance, and [disclosure](../d/disclosure.md). 
+A "Berhad" or BHD company is a type of [corporation](../c/corporation.md) in Malaysia where the shareholders' [liability](../l/liability.md) is limited to the amount of their investment. The formation and operational structure of Berhad companies are governed by the Companies Act 2016, which stipulates various requirements pertaining to [capital](../c/capital.md), governance, and [disclosure](../d/disclosure.md).
 
 Key characteristics of Berhad entities include:
 
@@ -14,7 +14,7 @@ Key characteristics of Berhad entities include:
 
 3. **Governance**: Berhad companies are required to appoint a board of directors and comply with rigorous statutory [obligations](../o/obligation.md). They must also [hold](../h/hold.md) annual general meetings (AGMs) and produce audited [financial statements](../f/financial_statements.md).
 
-4. **Public [Disclosure](../d/disclosure.md)**: Full [disclosure](../d/disclosure.md) of financial information is mandatory, enhancing [transparency](../t/transparency.md) and [investor](../i/investor.md) confidence. 
+4. **Public [Disclosure](../d/disclosure.md)**: Full [disclosure](../d/disclosure.md) of financial information is mandatory, enhancing [transparency](../t/transparency.md) and [investor](../i/investor.md) confidence.
 
 ## Formation of a Berhad Company
 
@@ -33,22 +33,22 @@ To establish a Berhad company in Malaysia, the following steps are typically fol
 Berhad companies in Malaysia are primarily overseen by the following authorities:
 
 - **Companies [Commission](../c/commission.md) of Malaysia (SSM)**: Responsible for the [incorporation](../i/incorporation.md) process, companies' registration, and ensuring compliance with statutory [obligations](../o/obligation.md).
-  
+
 - **Securities [Commission](../c/commission.md) Malaysia (SC)**: Regulates securities and future markets, fostering fair and transparent [financial markets](../f/financial_market.md).
-  
+
 - **Bursa Malaysia**: The country's [principal](../p/principal.md) stock [exchange](../e/exchange.md), where publicly [listed](../l/listed.md) Berhad companies [trade](../t/trade.md) their [shares](../s/shares.md).
 
 ## Examples of Notable Berhad Companies
 
-1. **Petroliam Nasional Berhad (Petronas)**: Malaysia's state-owned oil and gas company, one of the largest corporations in the world. [Petronas](https://www.petronas.com/)
+1. **Petroliam Nasional Berhad (Petronas)**: Malaysia's state-owned oil and gas company, one of the largest corporations in the world. Petronas
 
-2. **Tenaga Nasional Berhad (TNB)**: The largest electricity [utility](../u/utility.md) company in Malaysia, responsible for generating and distributing electricity across the country. [TNB](https://www.tnb.com.my/)
+2. **Tenaga Nasional Berhad (TNB)**: The largest electricity [utility](../u/utility.md) company in Malaysia, responsible for generating and distributing electricity across the country. TNB
 
-3. **Malayan Banking Berhad (Maybank)**: One of the largest banks in Southeast Asia, providing a wide [range](../r/range.md) of financial services and products. [Maybank](https://www.maybank2u.com.my/)
+3. **Malayan Banking Berhad (Maybank)**: One of the largest banks in Southeast Asia, providing a wide [range](../r/range.md) of financial services and products. Maybank
 
-4. **Axiata Group Berhad**: A major telecommunications company operating across Asia, providing mobile and digital services. [Axiata](https://www.axiata.com/)
+4. **Axiata Group Berhad**: A major telecommunications company operating across Asia, providing mobile and digital services. Axiata
 
-5. **Sime Darby Berhad**: A diversified multinational involved in sectors such as plantations, industrial equipment, [logistics](../l/logistics.md), and healthcare. [Sime Darby](http://www.simedarby.com/)
+5. **Sime Darby Berhad**: A diversified multinational involved in sectors such as plantations, industrial equipment, [logistics](../l/logistics.md), and healthcare. Sime Darby
 
 ## Financial Reporting and Compliance
 
@@ -63,7 +63,7 @@ Berhad companies are obligated to adhere to stringent reporting standards to ens
 Good [corporate governance](../c/corporate_governance.md) is fundamental to the integrity and [efficiency](../e/efficiency.md) of Berhad companies. The Malaysian Code on [Corporate Governance](../c/corporate_governance.md) (MCCG) provides guidelines and [best practices](../b/best_practices.md), urging companies to act in the interests of shareholders and other stakeholders. Aspects covered include:
 
 - **Board Structure and Effectiveness**: It emphasizes the importance of a balanced board with a mix of independence, diversity, and expertise.
-  
+
 - **[Risk Management](../r/risk_management.md) and Internal Control**: Companies should establish [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md) to identify, assess, and mitigate potential risks.
 
 - **[Shareholder](../s/shareholder.md) Rights and Engagement**: Ensuring equitable treatment of all shareholders and encouraging active participation in company meetings.
@@ -91,7 +91,7 @@ For a Berhad company to be [listed](../l/listed.md) on Bursa Malaysia, it must s
 ### Challenges
 
 1. **Regulatory Compliance**: Meeting stringent regulatory requirements can be challenging and resource-intensive, particularly for smaller companies.
-  
+
 2. **[Market](../m/market.md) [Volatility](../v/volatility.md)**: Berhad companies are exposed to [market](../m/market.md) risks and economic fluctuations, which can impact share prices and [investor](../i/investor.md) confidence.
 
 3. **[Transparency](../t/transparency.md) Issues**: Failure to maintain high [transparency](../t/transparency.md) levels and integrity can result in reputational damage and loss of [investor](../i/investor.md) [trust](../t/trust.md).

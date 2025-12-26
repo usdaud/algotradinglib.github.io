@@ -17,7 +17,7 @@ To objectively measure social impact, organizations employ various metrics and t
 
 ### Case Study: Patagonia
 
-Patagonia, a leading outdoor apparel company, exemplifies the social dimension of the TBL. They have [robust](../r/robust.md) programs aimed at ensuring better working conditions and equitable pay for their workers. They actively promote fair [trade](../t/trade.md) products and engage in community-driven environmental projects. For more information, visit [Patagonia’s website](https://www.patagonia.com/).
+Patagonia, a leading outdoor apparel company, exemplifies the social dimension of the TBL. They have [robust](../r/robust.md) programs aimed at ensuring better working conditions and equitable pay for their workers. They actively promote fair [trade](../t/trade.md) products and engage in community-driven environmental projects.
 
 ## Planet (Environmental Stewardship)
 
@@ -34,7 +34,7 @@ The environmental impact is often quantified through various standards and metri
 
 ### Case Study: Tesla
 
-Tesla is a well-known advocate for environmental sustainability. Their mission to accelerate the transition to sustainable energy involves producing electric vehicles, solar energy products, and battery storage solutions. Tesla’s initiatives significantly reduce carbon emissions and pave the way for a more sustainable future. For further details, visit [Tesla’s website](https://www.tesla.com/).
+Tesla is a well-known advocate for environmental sustainability. Their mission to accelerate the transition to sustainable energy involves producing electric vehicles, solar energy products, and battery storage solutions. Tesla’s initiatives significantly reduce carbon emissions and pave the way for a more sustainable future.
 
 ## Profit (Economic Viability)
 
@@ -51,7 +51,7 @@ Traditional financial metrics are used to gauge economic performance, including:
 
 ### Case Study: Unilever
 
-Unilever integrates the TBL framework into its [business](../b/business.md) strategy, balancing [financial performance](../f/financial_performance.md) with environmental stewardship and [social responsibility](../s/social_responsibility.md). Despite challenges, Unilever has managed to sustain profitability while implementing initiatives like reducing greenhouse gas emissions and promoting fair [trade](../t/trade.md). For more information, visit [Unilever’s website](https://www.unilever.com/).
+Unilever integrates the TBL framework into its [business](../b/business.md) strategy, balancing [financial performance](../f/financial_performance.md) with environmental stewardship and [social responsibility](../s/social_responsibility.md). Despite challenges, Unilever has managed to sustain profitability while implementing initiatives like reducing greenhouse gas emissions and promoting fair [trade](../t/trade.md).
 
 ## Integration into Business Practices
 
@@ -72,7 +72,7 @@ Various standards and certifications help businesses validate their commitment t
 
 ### Case Study: IKEA
 
-IKEA has effectively integrated the TBL framework into its [business](../b/business.md) operations. The company focuses on sustainable sourcing for its materials, reducing energy consumption, and engaging in various [social responsibility](../s/social_responsibility.md) initiatives. For detailed information, visit [IKEA’s sustainability page](https://www.ikea.com/ms/en_US/this-is-ikea/people-and-planet/).
+IKEA has effectively integrated the TBL framework into its [business](../b/business.md) operations. The company focuses on sustainable sourcing for its materials, reducing energy consumption, and engaging in various [social responsibility](../s/social_responsibility.md) initiatives. For detailed information,
 
 ## Challenges and Criticisms
 

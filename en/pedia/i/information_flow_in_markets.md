@@ -8,19 +8,19 @@ In [financial markets](../f/financial_market.md), information flow refers to the
 
 ### News Agencies
 
-Financial news agencies like [Bloomberg](../b/bloomberg.md) [bloomberg.com](https://www.bloomberg.com) and [Reuters](../r/reuters.md) [reuters.com](https://www.reuters.com) are primary sources of real-time [market](../m/market.md) information. They provide a constant flow of updates related to [economic indicators](../e/economic_indicators.md), corporate [earnings](../e/earnings.md), policy changes, and [geopolitical events](../g/geopolitical_events.md). [Robust](../r/robust.md) news algorithms and API services from these agencies can be integrated into [trading systems](../t/trading_systems.md) for real-time data feeds.
+Financial news agencies like [Bloomberg](../b/bloomberg.md) bloomberg.com and [Reuters](../r/reuters.md) reuters.com are primary sources of real-time [market](../m/market.md) information. They provide a constant flow of updates related to [economic indicators](../e/economic_indicators.md), corporate [earnings](../e/earnings.md), policy changes, and [geopolitical events](../g/geopolitical_events.md). [Robust](../r/robust.md) news algorithms and API services from these agencies can be integrated into [trading systems](../t/trading_systems.md) for real-time data feeds.
 
 ### Economic Reports
 
-Economic reports, published by government agencies and central banks, provide valuable insights into the economic landscape. Reports such as the U.S. [Non-Farm Payroll](../n/non-farm_payroll.md), GDP, [inflation](../i/inflation.md) rates, and consumer confidence indices influence [market sentiment](../m/market_sentiment.md) and price movements. Websites such as the Federal Reserve [federalreserve.gov](https://www.federalreserve.gov) and Bureau of Economic Analysis [bea.gov](https://www.bea.gov) release data crucial for [market](../m/market.md) analysis.
+Economic reports, published by government agencies and central banks, provide valuable insights into the economic landscape. Reports such as the U.S. [Non-Farm Payroll](../n/non-farm_payroll.md), GDP, [inflation](../i/inflation.md) rates, and consumer confidence indices influence [market sentiment](../m/market_sentiment.md) and price movements. Websites such as the Federal Reserve federalreserve.gov and Bureau of Economic Analysis bea.gov release data crucial for [market](../m/market.md) analysis.
 
 ### Corporate Disclosures
 
-Publicly traded companies are mandated to disclose [financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) reports, and other material information to regulatory bodies like the SEC (U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)). Access to these disclosures, which can be found on the SEC's EDGAR database [sec.gov](https://www.sec.gov/edgar/searchedgar/companysearch.html), enables investors to make informed decisions based on company performance and strategic direction.
+Publicly traded companies are mandated to disclose [financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) reports, and other material information to regulatory bodies like the SEC (U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)). Access to these disclosures, which can be found on the SEC's EDGAR database sec.gov, enables investors to make informed decisions based on company performance and strategic direction.
 
 ### Social Media
 
-[Social media](../s/social_media.md) platforms like Twitter and LinkedIn have emerged as significant sources of [market](../m/market.md)-moving information. Influential figures, such as CEOs and financial analysts, often communicate through tweets or posts, which can sway [market sentiment](../m/market_sentiment.md). Tools that harness [social media](../s/social_media.md) data, like Dataminr [dataminr.com](https://www.dataminr.com), provide traders with early warning signals of relevant events.
+[Social media](../s/social_media.md) platforms like Twitter and LinkedIn have emerged as significant sources of [market](../m/market.md)-moving information. Influential figures, such as CEOs and financial analysts, often communicate through tweets or posts, which can sway [market sentiment](../m/market_sentiment.md). Tools that harness [social media](../s/social_media.md) data, like Dataminr dataminr.com, provide traders with early warning signals of relevant events.
 
 ## Impact on Market Efficiency
 
@@ -32,7 +32,7 @@ Information asymmetry occurs when some [market](../m/market.md) participants hav
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading firms utilize advanced algorithms and high-speed networks to [capitalize](../c/capitalize.md) on micro-second differences in information dissemination. Firms like Citadel Securities [citadelsecurities.com](https://www.citadelsecurities.com) exemplify the deployment of cutting-edge technology to process and act on vast amounts of data in real time, significantly impacting [market](../m/market.md) [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md).
+High-frequency trading firms utilize advanced algorithms and high-speed networks to [capitalize](../c/capitalize.md) on micro-second differences in information dissemination. Firms like Citadel Securities citadelsecurities.com exemplify the deployment of cutting-edge technology to process and act on vast amounts of data in real time, significantly impacting [market](../m/market.md) [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md).
 
 ## Algorithms and Information Flow
 
@@ -46,7 +46,7 @@ Event-driven strategies involve trading on significant events such as mergers, a
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the emotional tone behind texts, particularly in financial news and [social media](../s/social_media.md). Tools like [RavenPack](../r/ravenpack.md) [ravenpack.com](https://www.ravenpack.com) and StockTwits [stocktwits.com](https://stocktwits.com) provide platforms for [sentiment analysis](../s/sentiment_analysis.md), helping traders to interpret the collective mood and its potential impact on [asset](../a/asset.md) prices.
+[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the emotional tone behind texts, particularly in financial news and [social media](../s/social_media.md). Tools like [RavenPack](../r/ravenpack.md) ravenpack.com and StockTwits stocktwits.com provide platforms for [sentiment analysis](../s/sentiment_analysis.md), helping traders to interpret the collective mood and its potential impact on [asset](../a/asset.md) prices.
 
 ## Challenges and Considerations
 

@@ -50,11 +50,11 @@ The implementation of OATS requires [robust](../r/robust.md) technological [infr
 
 ## Impact on Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), which involves using computer algorithms to execute trades at high speed and [volume](../v/volume.md), is significantly impacted by OATS requirements:
+[Algorithmic trading](../a/algorithmic_trading.md), which involves using computer algorithms to execute trades at high speed and [volume](../v/volume.md), is significantly impacted by OATS requirements:
 
 - **Speed and [Efficiency](../e/efficiency.md)**: As algorithms process orders in milliseconds, maintaining accurate time stamps for OATS can be challenging.
 - **Regulatory Compliance**: Algorithms must be designed to comply with OATS rules, including capturing detailed audit trails for each [trade](../t/trade.md).
-- **Performance [Optimization](../o/optimization.md)**: Ensuring that OATS reporting does not hinder [algorithmic trading](../a/accountability.md) performance is a critical aspect.
+- **Performance [Optimization](../o/optimization.md)**: Ensuring that OATS reporting does not hinder [algorithmic trading](../a/algorithmic_trading.md) performance is a critical aspect.
 
 ## Challenges and Limitations
 
@@ -75,6 +75,4 @@ As markets evolve and technology advances, OATS may undergo changes to address n
 
 ## Conclusion
 
-The [Order](../o/order.md) Audit Trail System (OATS) is a vital component of the U.S. financial regulatory landscape, ensuring the [transparency](../t/transparency.md) and integrity of [equity trading](../e/equity_trading.md). By mandating detailed [order](../o/order.md) reporting, OATS helps prevent [market manipulation](../m/market_manipulation.md) and [fraud](../f/fraud.md) while fostering [investor](../i/investor.md) confidence. Although it presents challenges, particularly for high-frequency and [algorithmic trading](../a/accountability.md), OATS drives the adoption of [robust](../r/robust.md) technological solutions and promotes a fairer, more transparent [market](../m/market.md) environment.
-
-For more information on FINRA and OATS, you can visit the FINRA website at [www.finra.org/oats](https://www.finra.org/oats).
+The [Order](../o/order.md) Audit Trail System (OATS) is a vital component of the U.S. financial regulatory landscape, ensuring the [transparency](../t/transparency.md) and integrity of [equity trading](../e/equity_trading.md). By mandating detailed [order](../o/order.md) reporting, OATS helps prevent [market manipulation](../m/market_manipulation.md) and [fraud](../f/fraud.md) while fostering [investor](../i/investor.md) confidence. Although it presents challenges, particularly for high-frequency and [algorithmic trading](../a/algorithmic_trading.md), OATS drives the adoption of [robust](../r/robust.md) technological solutions and promotes a fairer, more transparent [market](../m/market.md) environment.

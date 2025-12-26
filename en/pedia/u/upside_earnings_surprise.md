@@ -49,13 +49,13 @@ Positive [earnings surprises](../e/earnings_surprises.md) may provide companies 
 ## Real-World Examples
 
 ### Apple Inc.
-Apple Inc. (AAPL) frequently releases [earnings](../e/earnings.md) results that surpass [market](../m/market.md) expectations. Its ability to innovate, coupled with strong [revenue](../r/revenue.md) growth from iPhone sales, services, and wearables, often results in [upside](../u/upside.md) [earnings surprises](../e/earnings_surprises.md). For more detail, you can visit Apple's [Investor Relations page](https://investor.apple.com).
+Apple Inc. (AAPL) frequently releases [earnings](../e/earnings.md) results that surpass [market](../m/market.md) expectations. Its ability to innovate, coupled with strong [revenue](../r/revenue.md) growth from iPhone sales, services, and wearables, often results in [upside](../u/upside.md) [earnings surprises](../e/earnings_surprises.md). For more detail, you can
 
 ### Amazon.com, Inc.
-Amazon.com, Inc. (AMZN) is known for its significant [revenue](../r/revenue.md) growth, driven by its e-[commerce](../c/commerce.md) dominance and expanding cloud services (AWS). Continual operational improvements and [market](../m/market.md) [expansion](../e/expansion.md) have led to several [upside](../u/upside.md) [earnings surprises](../e/earnings_surprises.md) in its reporting history. More information can be found on Amazon’s [Investor Relations page](https://www.amazon.com/ir).
+online resource, Inc. (AMZN) is known for its significant [revenue](../r/revenue.md) growth, driven by its e-[commerce](../c/commerce.md) dominance and expanding cloud services (AWS). Continual operational improvements and [market](../m/market.md) [expansion](../e/expansion.md) have led to several [upside](../u/upside.md) [earnings surprises](../e/earnings_surprises.md) in its reporting history.
 
 ### Nvidia Corporation
-Nvidia [Corporation](../c/corporation.md) (NVDA) frequently exceeds [earnings](../e/earnings.md) expectations due to its [leadership](../l/leadership.md) in the GPU [market](../m/market.md), catering to gaming, data centers, and AI technology. For more details, visit Nvidia’s [Investor Relations page](https://investor.nvidia.com).
+Nvidia [Corporation](../c/corporation.md) (NVDA) frequently exceeds [earnings](../e/earnings.md) expectations due to its [leadership](../l/leadership.md) in the GPU [market](../m/market.md), catering to gaming, data centers, and AI technology.
 
 ## Conclusion
 

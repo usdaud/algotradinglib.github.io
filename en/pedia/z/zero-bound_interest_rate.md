@@ -37,13 +37,13 @@ When traditional policy measures [fail](../f/fail.md), central banks resort to a
 
 QE involves the central [bank](../b/bank.md) purchasing long-term securities, such as government and corporate bonds, to inject [liquidity](../l/liquidity.md) into the [financial system](../f/financial_system.md). This increases the [money supply](../m/money_supply.md), lowers [interest](../i/interest.md) rates on these bonds, and encourages lending and investment.
 
-- **Example**: The Fed's QE programs post-2008 crisis, where it purchased assets worth trillions of dollars to support the [economy](../e/economy.md). [More details](https://www.federalreserve.gov).
+- **Example**: The Fed's QE programs post-2008 crisis, where it purchased assets worth trillions of dollars to support the [economy](../e/economy.md). More details.
 
 ### Forward Guidance
 
 Forward [guidance](../g/guidance.md) is a communicative strategy whereby a central [bank](../b/bank.md) conveys its future policy intentions to influence [market](../m/market.md) expectations and behaviors. By committing to keeping [interest](../i/interest.md) rates low for an extended period, central banks aim to influence long-term [interest](../i/interest.md) rates and economic decisions.
 
-- **Example**: European Central [Bank](../b/bank.md)'s post-crisis language pledging to keep [interest](../i/interest.md) rates low for a prolonged time. [ECB Policies](https://www.ecb.europa.eu).
+- **Example**: European Central [Bank](../b/bank.md)'s post-crisis language pledging to keep [interest](../i/interest.md) rates low for a prolonged time. ECB Policies.
 
 ### Negative Interest Rates
 
@@ -51,7 +51,7 @@ Some central banks have adopted policies where [nominal](../n/nominal.md) [inter
 
 - **Successes and Limitations**: While this policy helped address deflationary pressures, it also faced criticism for distorting [financial markets](../f/financial_market.md) and squeezing [bank](../b/bank.md) profits.
 
-- **Example**: The ECB and the [Bank](../b/bank.md) of Japan implemented [negative interest rate](../n/negative_interest_rate.md) policies in the mid-2010s. [Bank of Japan](https://www.boj.or.jp).
+- **Example**: The ECB and the [Bank](../b/bank.md) of Japan implemented [negative interest rate](../n/negative_interest_rate.md) policies in the mid-2010s. Bank of Japan.
 
 ### Other Unconventional Tools
 

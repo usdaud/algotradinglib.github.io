@@ -40,25 +40,25 @@ Several companies dominate the fast fashion landscape. These include:
 
 Owned by the Spanish [firm](../f/firm.md) Inditex, Zara is one of the most influential fast fashion retailers globally. Their success lies in a sophisticated [logistics](../l/logistics.md) and [supply chain](../s/supply_chain.md) system that can introduce new collections to stores twice a week. This responsiveness to current fashion trends has made Zara a favorite among consumers.
 
-Website: [Zara](https://www.zara.com)
+online platform: Zara
 
 ### H&M
 
 H&M, a Swedish multinational retail-clothing company, is another leader in fast fashion. Known for its extensive [range](../r/range.md) of apparel, H&M commits to sustainability initiatives alongside its fast fashion model. However, the balance between rapid production and ecological responsibility remains challenging.
 
-Website: [H&M](https://www.hm.com)
+online platform: H&M
 
 ### Forever 21
 
 An American fast fashion retailer, Forever 21 targets a younger demographic with its affordable, trendy clothing. Although the company filed for [bankruptcy](../b/bankruptcy.md) in 2019, it has attempted a comeback by [restructuring](../r/restructuring.md) its [business](../b/business.md) operations and focusing on e-[commerce](../c/commerce.md).
 
-Website: [Forever 21](https://www.forever21.com)
+online platform: Forever 21
 
 ### Uniqlo
 
 While often considered more of a "fast casual" fashion brand due to its focus on quality and simplicity, Uniqlo also incorporates certain fast fashion principles such as quick [turnover](../t/turnover.md) of merchandise and [trend](../t/trend.md) adaptation. The Japanese brand has a strong global presence and focuses on functional, everyday clothing.
 
-Website: [Uniqlo](https://www.uniqlo.com)
+online platform: Uniqlo
 
 ## Environmental and Social Impacts
 

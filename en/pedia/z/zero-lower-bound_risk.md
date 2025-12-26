@@ -1,12 +1,12 @@
 # Zero-Lower-Bound Risk
 
-The [Zero Lower Bound](../z/zero_lower_bound.md) (ZLB) [risk](../r/risk.md) is a crucial concept in both [macroeconomics](../m/macroeconomics.md) and [financial markets](../f/financial_market.md), including [algorithmic trading](../a/algorithmic_trading.md). Essentially, the ZLB refers to the situation where [nominal](../n/nominal.md) [interest](../i/interest.md) rates are at or near zero, limiting the central [bank](../b/bank.md)'s ability to stimulate [economic growth](../e/economic_growth.md) through conventional [monetary policy](../m/monetary_policy.md) measures. This [risk](../r/risk.md) has become increasingly relevant in the post-2008 [financial crisis](../f/financial_crisis.md) era and during the COVID-19 pandemic when central banks worldwide have slashed [interest](../i/interest.md) rates to historically low levels. 
+The [Zero Lower Bound](../z/zero_lower_bound.md) (ZLB) [risk](../r/risk.md) is a crucial concept in both [macroeconomics](../m/macroeconomics.md) and [financial markets](../f/financial_market.md), including [algorithmic trading](../a/algorithmic_trading.md). Essentially, the ZLB refers to the situation where [nominal](../n/nominal.md) [interest](../i/interest.md) rates are at or near zero, limiting the central [bank](../b/bank.md)'s ability to stimulate [economic growth](../e/economic_growth.md) through conventional [monetary policy](../m/monetary_policy.md) measures. This [risk](../r/risk.md) has become increasingly relevant in the post-2008 [financial crisis](../f/financial_crisis.md) era and during the COVID-19 pandemic when central banks worldwide have slashed [interest](../i/interest.md) rates to historically low levels.
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), the ZLB presents unique challenges and opportunities. [Algorithmic trading](../a/algorithmic_trading.md) relies on computer algorithms to execute trades at speeds and frequencies impossible for human traders. These algorithms often use [quantitative models](../q/quantitative_models.md) that incorporate various [economic indicators](../e/economic_indicators.md), one of which is [interest](../i/interest.md) rates. When rates are at the [zero lower bound](../z/zero_lower_bound.md), the behavior of [financial markets](../f/financial_market.md) can change in ways that may not be accounted for in traditional models.
 
 ## Economic Background
 
-To understand the concept of ZLB [risk](../r/risk.md) in [algorithmic trading](../a/algorithmic_trading.md), it's essential to first grasp its economic underpinnings. Traditional [monetary policy](../m/monetary_policy.md) primarily involves adjusting the short-term [interest](../i/interest.md) rates to influence economic activity. When a central [bank](../b/bank.md) lowers [interest](../i/interest.md) rates, it usually aims to reduce the cost of borrowing, thereby encouraging investments and consumption. Conversely, higher [interest](../i/interest.md) rates are used to cool an overheating [economy](../e/economy.md) or control [inflation](../i/inflation.md). 
+To understand the concept of ZLB [risk](../r/risk.md) in [algorithmic trading](../a/algorithmic_trading.md), it's essential to first grasp its economic underpinnings. Traditional [monetary policy](../m/monetary_policy.md) primarily involves adjusting the short-term [interest](../i/interest.md) rates to influence economic activity. When a central [bank](../b/bank.md) lowers [interest](../i/interest.md) rates, it usually aims to reduce the cost of borrowing, thereby encouraging investments and consumption. Conversely, higher [interest](../i/interest.md) rates are used to cool an overheating [economy](../e/economy.md) or control [inflation](../i/inflation.md).
 
 However, when [interest](../i/interest.md) rates are at or near zero, the central [bank](../b/bank.md) loses its conventional policy tool, leading to what economists refer to as a "[liquidity trap](../l/liquidity_trap.md)." In a [liquidity trap](../l/liquidity_trap.md), people prefer holding onto cash rather than [investing](../i/investing.md) in low-yielding bonds or other financial instruments. This situation can severely hamper [economic growth](../e/economic_growth.md) and make it challenging to escape from recessionary conditions.
 
@@ -70,8 +70,8 @@ The [Zero Lower Bound](../z/zero_lower_bound.md) presents unique challenges and 
 
 ## Resources for Further Reading
 
-1. [Federal Reserve Board](https://www.federalreserve.gov/)
-2. [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-3. [Bank of Japan](https://www.boj.or.jp/en/)
-4. [International Monetary Fund](https://www.imf.org/en/Home)
-5. [Algorithmic Trading: Winning Strategies and Their Rationale](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118343506)
+1. Federal Reserve Board
+2. European Central Bank
+3. Bank of Japan
+4. International Monetary Fund
+5. Algorithmic Trading: Winning Strategies and Their Rationale

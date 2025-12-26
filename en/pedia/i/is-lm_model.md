@@ -83,7 +83,7 @@ The IS-LM model is widely used in economic analysis, education, and policy-makin
 
 ## Advanced Extensions
 
-To address its limitations, economists have developed several extensions of the IS-LM model. 
+To address its limitations, economists have developed several extensions of the IS-LM model.
 
 ### IS-LM-BP Model
 

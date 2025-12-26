@@ -36,11 +36,11 @@ There are several key sources from which real-time [market](../m/market.md) data
 
 1. **Exchanges**: Primary sources include major stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE), [NASDAQ](../n/nasdaq.md), and international exchanges such as the London Stock [Exchange](../e/exchange.md) (LSE) and Tokyo Stock [Exchange](../e/exchange.md) (TSE).
 
-2. **Data Vendors**: Companies such as [Bloomberg](../b/bloomberg.md) ([www.bloomberg.com](https://www.bloomberg.com)), Thomson [Reuters](../r/reuters.md) ([www.thomsonreuters.com](https://www.thomsonreuters.com)), and Refinitiv ([www.refinitiv.com](https://www.refinitiv.com)) provide subscription-based access to real-time data.
+2. **Data Vendors**: Companies such as [Bloomberg](../b/bloomberg.md) ( Thomson [Reuters](../r/reuters.md) ( and Refinitiv ( provide subscription-based access to real-time data.
 
-3. **Brokerages**: Many brokerage firms [offer](../o/offer.md) real-time [market](../m/market.md) data to their clients as part of their trading platforms. Firms like [Charles Schwab](../c/charles_schwab.md) ([www.schwab.com](https://www.schwab.com)) and TD [Ameritrade](../a/ameritrade.md) ([www.tdameritrade.com](https://www.tdameritrade.com)) are notable examples.
+3. **Brokerages**: Many brokerage firms [offer](../o/offer.md) real-time [market](../m/market.md) data to their clients as part of their trading platforms. Firms like [Charles Schwab](../c/charles_schwab.md) ( and TD [Ameritrade](../a/ameritrade.md) ( are notable examples.
 
-4. **APIs and Data Feeds**: Financial data providers such as [Alpha](../a/alpha.md) Vantage ([www.alphavantage.co](https://www.alphavantage.co)), [IEX Cloud](../i/iex_cloud.md) ([iexcloud.io](https://iexcloud.io)), and [Quandl](../q/quandl.md) ([www.quandl.com](https://www.quandl.com)) [offer](../o/offer.md) APIs for real-time [market](../m/market.md) data feeds.
+4. **APIs and Data Feeds**: Financial data providers such as [Alpha](../a/alpha.md) Vantage ( [IEX Cloud](../i/iex_cloud.md) (iexcloud.io), and [Quandl](../q/quandl.md) ( [offer](../o/offer.md) APIs for real-time [market](../m/market.md) data feeds.
 
 ## Technologies Used in Real-Time Market Data
 

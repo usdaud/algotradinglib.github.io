@@ -47,7 +47,7 @@ Finite difference methods are extensively used for pricing [options](../o/option
 
 Several companies and institutions employ finite difference methods in their [algorithmic trading](../a/algorithmic_trading.md) systems:
 
-- **Numerix**: Numerix provides advanced analytics for the pricing and [risk management](../r/risk_management.md) of financial [derivatives](../d/derivatives.md). Their solutions often [leverage](../l/leverage.md) finite difference methods to model complex financial instruments. More information can be found on their [website](https://www.numerix.com/).
-- **QUANTIX**: QUANTIX offers quant analytics and trading solutions that incorporate FDM for pricing and [risk](../r/risk.md) assessment. Visit their [page](https://www.quantix.com/) for details on their implementations.
+- **Numerix**: Numerix provides advanced analytics for the pricing and [risk management](../r/risk_management.md) of financial [derivatives](../d/derivatives.md). Their solutions often [leverage](../l/leverage.md) finite difference methods to model complex financial instruments.
+- **QUANTIX**: QUANTIX offers quant analytics and trading solutions that incorporate FDM for pricing and [risk](../r/risk.md) assessment.
 
 In conclusion, finite difference methods play a vital role in [algorithmic trading](../a/algorithmic_trading.md) by enabling the numerical solution of complex PDEs that describe financial systems. Through discretization and approximation, these methods provide traders with powerful tools for pricing [derivatives](../d/derivatives.md), managing [risk](../r/risk.md), and optimizing portfolios.

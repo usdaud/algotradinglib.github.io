@@ -12,7 +12,7 @@ In 1887, Lenin's brother, Alexander Ulyanov, was executed for his involvement in
 
 Lenin's revolutionary activities began in earnest in the 1890s. He moved to St. Petersburg, where he became involved with Marxist groups and began writing for revolutionary publications. In 1895, Lenin and his future wife, Nadezhda Krupskaya, were arrested for their involvement in revolutionary activities. They spent over a year in prison before being exiled to Siberia.
 
-During his exile, Lenin continued to write and develop his theoretical ideas. He corresponded with other revolutionaries and began work on his seminal book, "The Development of [Capitalism](../c/capitalism.md) in Russia," which argued that Russia was developing a capitalist [economy](../e/economy.md). After his exile, Lenin moved to Western Europe, where he continued his revolutionary work, editing newspapers, writing books and pamphlets, and organizing with other Russian Marxists. 
+During his exile, Lenin continued to write and develop his theoretical ideas. He corresponded with other revolutionaries and began work on his seminal book, "The Development of [Capitalism](../c/capitalism.md) in Russia," which argued that Russia was developing a capitalist [economy](../e/economy.md). After his exile, Lenin moved to Western Europe, where he continued his revolutionary work, editing newspapers, writing books and pamphlets, and organizing with other Russian Marxists.
 
 ## The Russian Revolution of 1905
 

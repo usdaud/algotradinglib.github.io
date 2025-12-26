@@ -26,14 +26,14 @@ The calculation of [Loan](../l/loan.md) Loss [Provision](../p/provision.md) invo
 
 Let's consider a simple example with two segments of a [loan](../l/loan.md) portfolio:
 
-- Segment A: 
-  - [Loan](../l/loan.md) Amount: $1,000,000
-  - Probability of [Default](../d/default.md) (PD): 2%
-  - Loss Given [Default](../d/default.md) (LGD): 60%
+- Segment A:
+ - [Loan](../l/loan.md) Amount: $1,000,000
+ - Probability of [Default](../d/default.md) (PD): 2%
+ - Loss Given [Default](../d/default.md) (LGD): 60%
 - Segment B:
-  - [Loan](../l/loan.md) Amount: $500,000
-  - Probability of [Default](../d/default.md) (PD): 3%
-  - Loss Given [Default](../d/default.md) (LGD): 70%
+ - [Loan](../l/loan.md) Amount: $500,000
+ - Probability of [Default](../d/default.md) (PD): 3%
+ - Loss Given [Default](../d/default.md) (LGD): 70%
 
 **Expected Loss for Segment A**:
 Expected Loss = [Loan](../l/loan.md) Amount * PD * LGD

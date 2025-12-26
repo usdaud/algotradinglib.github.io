@@ -96,7 +96,7 @@ Numerous prominent examples showcase the effectiveness of strategic alliances ac
 
 ### Apple and IBM
 
-In 2014, Apple and IBM formed a strategic alliance to combine Apple's user-friendly hardware capabilities with IBM's enterprise-grade software and [data analytics](../d/data_analytics.md) expertise. The partnership aimed to create innovative [business](../b/business.md) solutions for various industries and improve corporate clientele services. More details can be found on their [official page](https://www.ibm.com/ibm/apple/).
+In 2014, Apple and IBM formed a strategic alliance to combine Apple's user-friendly hardware capabilities with IBM's enterprise-grade software and [data analytics](../d/data_analytics.md) expertise. The partnership aimed to create innovative [business](../b/business.md) solutions for various industries and improve corporate clientele services.
 
 ### Starbucks and Barnes & Noble
 

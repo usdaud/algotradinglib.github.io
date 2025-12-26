@@ -48,7 +48,7 @@ Being aware of the Weekend Effect is also crucial for effective [risk management
 
 ### Algorithmic Trading
 
-For those engaged in [algorithmic trading](../a/accountability.md), incorporating the Weekend Effect can improve model accuracy. [Predictive models](../p/predictive_models_in_trading.md) and algorithms can be tweaked to account for the [anomaly](../a/anomaly.md), potentially enhancing returns.
+For those engaged in [algorithmic trading](../a/algorithmic_trading.md), incorporating the Weekend Effect can improve model accuracy. [Predictive models](../p/predictive_models_in_trading.md) and algorithms can be tweaked to account for the [anomaly](../a/anomaly.md), potentially enhancing returns.
 
 ### Behavioral Finance
 
@@ -58,4 +58,4 @@ The Weekend Effect offers valuable insights for the field of [behavioral finance
 
 The Weekend Effect remains one of the more intriguing anomalies in [financial markets](../f/financial_market.md). While its magnitude may have diminished in some markets over time, it still provides a compelling case for the role of psychology, [market microstructure](../m/market_microstructure.md), and institutional behavior in shaping stock prices. Traders, investors, and academics continue to study this phenomenon, seeking to understand its [underlying](../u/underlying.md) causes and exploiting its potential benefits.
 
-For further reading and research, you can explore resources like the [New York Stock Exchange](https://www.nyse.com/) or academic journals available through university libraries.
+For further reading and research, you can explore resources like the New York Stock Exchange or academic journals available through university libraries.

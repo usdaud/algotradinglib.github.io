@@ -13,9 +13,9 @@ When the recipient (usually the child) enrolls in a post-secondary educational i
 There are three main types of RESPs:
 
 1. **Family Plan**: Allows one or more beneficiaries who are related to the contributor by blood or adoption. This plan is beneficial for families with [multiple](../m/multiple.md) children.
-   
+
 2. **Individual Plan**: Designed for a single [beneficiary](../b/beneficiary.md). This type of plan is ideal if you’re saving for one child only.
-   
+
 3. **Group Plan**: Typically offered by financial institutions or scholarship plan dealers. Contributions from various subscribers are pooled together and invested collectively. The amount a [beneficiary](../b/beneficiary.md) receives depends on how much is collected in the pool and the number of beneficiaries in the same age group enrolled in the plan.
 
 ## Contributions to an RESP
@@ -35,7 +35,7 @@ One of the most significant advantages of an RESP is the availability of governm
 The CESG is a [grant](../g/grant.md) from the federal government to encourage saving for post-secondary education. There are two types of CESG:
 
 1. **Basic CESG**: Provides 20% on the first $2,500 contributed each year, up to a maximum of $500 per year. The lifetime limit for the Basic CESG is $7,200 per [beneficiary](../b/beneficiary.md).
-   
+
 2. **Additional CESG**: Available to low and middle-[income](../i/income.md) families, this [grant](../g/grant.md) provides an extra 10% or 20% on the first $500 contributed each year.
 
 ### Canada Learning Bond (CLB)
@@ -81,9 +81,9 @@ RESPs can be opened through various financial institutions, such as banks, [cred
 
 For more information on specific RESP providers, you can visit their official websites, such as:
 
-- [Bank of Montreal (BMO)](https://www.bmo.com)
-- [RBC Royal Bank](https://www.rbcroyalbank.com)
-- [Scotiabank](https://www.scotiabank.com)
+- Bank of Montreal (BMO)
+- RBC Royal Bank
+- Scotiabank
 
 ---
 

@@ -15,23 +15,23 @@ where RS ([Relative Strength](../r/relative_strength.md)) is the average of 'n' 
 For a 30-Day RSI, the calculation includes the past 30 days of trading data. Here’s a step-by-step guide to calculating the 30-Day RSI:
 
 1. **Determine the Gains and Losses**:
-   - Calculate the closing price changes from one day to the next.
-   - If the closing price is higher than the previous day, the difference is considered a [gain](../g/gain.md).
-   - If the closing price is lower than the previous day, the difference is considered a loss.
+ - Calculate the closing price changes from one day to the next.
+ - If the closing price is higher than the previous day, the difference is considered a [gain](../g/gain.md).
+ - If the closing price is lower than the previous day, the difference is considered a loss.
 
 2. **Calculate the Average Gains and Losses**:
-   - Sum the gains over the past 30 days and divide by 30.
-   - Sum the losses over the past 30 days and divide by 30.
+ - Sum the gains over the past 30 days and divide by 30.
+ - Sum the losses over the past 30 days and divide by 30.
 
 3. **Calculate the [Relative Strength](../r/relative_strength.md) (RS)**:
-   - Divide the 30-day average [gain](../g/gain.md) by the 30-day average loss.
+ - Divide the 30-day average [gain](../g/gain.md) by the 30-day average loss.
 
 4. **Calculate the RSI**:
-   - Use the formula above to compute the RSI [value](../v/value.md).
+ - Use the formula above to compute the RSI [value](../v/value.md).
 
 ## Interpretation of 30-Day RSI
 
-The 30-Day RSI, being a longer-term [indicator](../i/indicator.md) compared to the more commonly used 14-Day RSI, is less sensitive to short-term price movements but provides a smoothed understanding of the [asset](../a/asset.md)'s [price momentum](../p/price_momentum.md). 
+The 30-Day RSI, being a longer-term [indicator](../i/indicator.md) compared to the more commonly used 14-Day RSI, is less sensitive to short-term price movements but provides a smoothed understanding of the [asset](../a/asset.md)'s [price momentum](../p/price_momentum.md).
 
 ### Overbought and Oversold Conditions
 
@@ -44,7 +44,7 @@ Divergences between the RSI and the price movement of the [asset](../a/asset.md)
 - **[Bullish Divergence](../b/bullish_divergence.md)**: Occurs when the price makes a new low but the RSI makes a higher low. This might indicate weakening downward [momentum](../m/momentum.md) and a potential upcoming upward [reversal](../r/reversal.md).
 - **[Bearish Divergence](../b/bearish_divergence.md)**: Occurs when the price makes a new high but the RSI makes a lower high. This might indicate weakening upward [momentum](../m/momentum.md) and a potential upcoming downward [reversal](../r/reversal.md).
 
-### Trend Identification 
+### Trend Identification
 
 The RSI can also be useful in identifying the overall [trend](../t/trend.md) of the [asset](../a/asset.md):
 - An RSI that consistently stays above 50 in a 30-day period might indicate a strong bullish [trend](../t/trend.md).
@@ -89,4 +89,4 @@ While the 30-Day RSI is a powerful tool, it is not without limitations:
 
 The 30-Day RSI is a valuable tool for long-term traders looking to filter out short-term [noise](../n/noise.md) and focus on broader [price momentum](../p/price_momentum.md) trends. By understanding the calculations, interpretations, and various [trading strategies](../t/trading_strategies.md) involving the RSI, traders can better utilize this [indicator](../i/indicator.md) in their trading arsenal. However, it’s crucial to remember that no single [indicator](../i/indicator.md) should be relied upon solely, and the RSI is most effective when used in conjunction with other [technical analysis](../t/technical_analysis.md) tools and considerations.
 
-For more in-depth resources and tools on RSI and other indicators, you can visit stock trading platforms like [MetaStock](https://www.metastock.com) or use trading software like [TradingView](https://www.tradingview.com), which [offer](../o/offer.md) advanced charting [options](../o/options.md) and customizable RSI indicators.
+For more in-depth resources and tools on RSI and other indicators, you can visit stock trading platforms like MetaStock or use trading software like TradingView, which [offer](../o/offer.md) advanced charting [options](../o/options.md) and customizable RSI indicators.

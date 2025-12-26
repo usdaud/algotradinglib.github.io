@@ -36,11 +36,11 @@ Several well-publicized [proxy](../p/proxy.md) fights have shaped the landscape 
 
 ### Trian Fund Management vs. Procter & Gamble (2017)
 
-In one of the largest and costliest [proxy](../p/proxy.md) fights in history, Trian [Fund](../f/fund.md) Management, led by [activist investor](../a/activist_investor.md) [Nelson Peltz](../n/nelson_peltz.md), sought a seat on Procter & Gamble's (P&G) board. Trian criticized P&G's sluggish growth and aimed to instigate strategic and operational changes. After a prolonged and contentious battle, Peltz narrowly won a board seat, demonstrating the power and influence of activist investors. Trian [Fund](../f/fund.md) Management website: [Trian Partners](https://www.trianpartners.com/).
+In one of the largest and costliest [proxy](../p/proxy.md) fights in history, Trian [Fund](../f/fund.md) Management, led by [activist investor](../a/activist_investor.md) [Nelson Peltz](../n/nelson_peltz.md), sought a seat on Procter & Gamble's (P&G) board. Trian criticized P&G's sluggish growth and aimed to instigate strategic and operational changes. After a prolonged and contentious battle, Peltz narrowly won a board seat, demonstrating the power and influence of activist investors.
 
 ### Carl Icahn vs. Apple (2013-2014)
 
-Billionaire [investor](../i/investor.md) Carl Icahn initiated a [proxy](../p/proxy.md) fight with Apple Inc. to push for a significantly larger share [buyback](../b/buyback.md) program. Icahn argued that returning more cash to shareholders would enhance [value](../v/value.md). While the [proxy](../p/proxy.md) fight did not succeed in its formal terms, it exerted pressure on Apple to increase its share [buyback](../b/buyback.md) and [dividend](../d/dividend.md) programs substantially. Carl Icahn's personal page: [Carl Icahn Website](https://carlicahn.com/).
+Billionaire [investor](../i/investor.md) Carl Icahn initiated a [proxy](../p/proxy.md) fight with Apple Inc. to push for a significantly larger share [buyback](../b/buyback.md) program. Icahn argued that returning more cash to shareholders would enhance [value](../v/value.md). While the [proxy](../p/proxy.md) fight did not succeed in its formal terms, it exerted pressure on Apple to increase its share [buyback](../b/buyback.md) and [dividend](../d/dividend.md) programs substantially. Carl Icahn's personal page:
 
 ### Elliott Management vs. AT&T (2019-2020)
 

@@ -1,6 +1,6 @@
 # Spreads
 
-In the realm of [finance](../f/finance.md) and trading, the term "spread" is a fundamental concept with a variety of applications depending on the context. At its core, the spread refers to the difference between two related prices, rates, or yields. This article delves into the different facets of spreads, exploring their significance, calculation, and implications in various markets such as forex, [options](../o/options.md), bonds, and [futures](../f/futures.md). We [will](../w/will.md) also touch on the importance of spreads in [algorithmic trading](../a/accountability.md) and financial technology (fintech) solutions.
+In the realm of [finance](../f/finance.md) and trading, the term "spread" is a fundamental concept with a variety of applications depending on the context. At its core, the spread refers to the difference between two related prices, rates, or yields. This article delves into the different facets of spreads, exploring their significance, calculation, and implications in various markets such as forex, [options](../o/options.md), bonds, and [futures](../f/futures.md). We [will](../w/will.md) also touch on the importance of spreads in [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech) solutions.
 
 ## Types of Spreads
 
@@ -44,8 +44,8 @@ A calendar spread is a [trading strategy](../t/trading_strategy.md) that involve
 
 #### Types
 - **[Vertical Spread](../v/vertical_spread.md)**: Involves buying and selling two [options](../o/options.md) of the same type (calls or puts) with the same [expiration date](../e/expiration_date.md) but different strike prices.
-  - **[Bull Call Spread](../b/bull_call_spread.md)**: Buying a call at a lower [strike price](../s/strike_price.md) and selling a call at a higher [strike price](../s/strike_price.md).
-  - **[Bear Put Spread](../b/bear_put_spread.md)**: Buying a put at a higher [strike price](../s/strike_price.md) and selling a put at a lower [strike price](../s/strike_price.md).
+ - **[Bull Call Spread](../b/bull_call_spread.md)**: Buying a call at a lower [strike price](../s/strike_price.md) and selling a call at a higher [strike price](../s/strike_price.md).
+ - **[Bear Put Spread](../b/bear_put_spread.md)**: Buying a put at a higher [strike price](../s/strike_price.md) and selling a put at a lower [strike price](../s/strike_price.md).
 - **[Butterfly Spread](../b/butterfly_spread.md)**: Combines two vertical spreads, usually involving buying one option, selling two [options](../o/options.md) at a middle [strike price](../s/strike_price.md), and buying another option.
 
 #### Importance
@@ -84,7 +84,7 @@ Pair trading involves taking long and short positions in correlated assets to ex
 
 ## Spreads in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, relies heavily on quantifiable data and models to execute trades. Spreads play a crucial role in the models and strategies applied in algotrading.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, relies heavily on quantifiable data and models to execute trades. Spreads play a crucial role in the models and strategies applied in algotrading.
 
 ### Arbitrage Opportunities
 
@@ -116,6 +116,6 @@ Fintech platforms [offer](../o/offer.md) real-time data on spreads, helping trad
 
 ## Conclusion
 
-Understanding spreads is indispensable for navigating the [financial markets](../f/financial_market.md) effectively. Whether it's the [bid-ask spread](../b/bid-ask_spread.md) impacting [transaction costs](../t/transaction_costs.md), [yield](../y/yield.md) spreads signaling [economic conditions](../e/economic_conditions.md), or [option spreads](../o/option_spreads.md) facilitating sophisticated [trading strategies](../t/trading_strategies.md), spreads have a fundamental role in guiding investment decisions. With the advent of [algorithmic trading](../a/accountability.md) and financial technology, the analysis and utilization of spreads have become increasingly sophisticated, enabling more precise and efficient [market](../m/market.md) participation.
+Understanding spreads is indispensable for navigating the [financial markets](../f/financial_market.md) effectively. Whether it's the [bid-ask spread](../b/bid-ask_spread.md) impacting [transaction costs](../t/transaction_costs.md), [yield](../y/yield.md) spreads signaling [economic conditions](../e/economic_conditions.md), or [option spreads](../o/option_spreads.md) facilitating sophisticated [trading strategies](../t/trading_strategies.md), spreads have a fundamental role in guiding investment decisions. With the advent of [algorithmic trading](../a/algorithmic_trading.md) and financial technology, the analysis and utilization of spreads have become increasingly sophisticated, enabling more precise and efficient [market](../m/market.md) participation.
 
-For more information on specific companies [offering](../o/offering.md) fintech solutions that focus on trading spreads, consider exploring the services of financial technology firms such as [Tradestation](https://www.tradestation.com/), [Interactive Brokers](https://www.interactivebrokers.com/), and [Revolut](https://www.revolut.com/).
+For more information on specific companies [offering](../o/offering.md) fintech solutions that focus on trading spreads, consider exploring the services of financial technology firms such as Tradestation, Interactive Brokers, and Revolut.

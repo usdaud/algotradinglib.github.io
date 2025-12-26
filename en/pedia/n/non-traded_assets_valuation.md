@@ -64,4 +64,4 @@ Experts in the field generally recommend:
 ### Conclusion
 Valuing non-traded assets is a sophisticated process that requires a blend of financial theory, [market](../m/market.md) knowledge, and analytical skills. By employing a mix of methods and leveraging technological advances, investors and financial professionals can achieve more accurate and reliable valuations, ultimately leading to better investment and management decisions.
 
-For more information on [valuation](../v/valuation.md) services and [best practices](../b/best_practices.md), companies like Duff & Phelps (now part of Kroll) [offer](../o/offer.md) extensive resources and expert insights. Visit their site [here](https://www.kroll.com/en/services/valuation) for further details.
+For more information on [valuation](../v/valuation.md) services and [best practices](../b/best_practices.md), companies like Duff & Phelps (now part of Kroll) [offer](../o/offer.md) extensive resources and expert insights.

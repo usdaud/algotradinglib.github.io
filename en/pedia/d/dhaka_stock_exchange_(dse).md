@@ -92,7 +92,7 @@ Despite its success, the DSE faces several challenges such as [market](../m/mark
 
 ## Contact Information
 
-For more information, visit the official website of the Dhaka Stock [Exchange](../e/exchange.md): [Dhaka Stock Exchange](https://www.dsebd.org)
+./e/exchange.md): Dhaka Stock Exchange
 
 ## Conclusion
 

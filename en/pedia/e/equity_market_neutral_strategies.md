@@ -33,23 +33,18 @@ EMN strategies often aim to maintain sector neutrality by ensuring that the port
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management is a well-known investment [firm](../f/firm.md) that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [Equity](../e/equity.md) [Market Neutral strategies](../m/market_neutral_strategies.md). They use a combination of fundamental and statistical models to identify investment opportunities.
-[Visit AQR Capital Management](https://www.aqr.com/)
 
 ### Renaissance Technologies
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) [firm](../f/firm.md) famous for its quantitative approach to [investing](../i/investing.md). Their Medallion [Fund](../f/fund.md), in particular, has achieved remarkable returns using [market](../m/market.md)-[neutral](../n/neutral.md) and other complex strategies.
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Bridgewater Associates
 Bridgewater Associates is one of the largest [hedge fund](../h/hedge_fund.md) firms in the world, known for its [risk parity](../r/risk_parity.md) and diversified [alpha](../a/alpha.md) strategies. They employ various [hedge fund strategies](../h/hedge_fund_strategies.md), including [Equity](../e/equity.md) [Market Neutral](../m/market_neutral.md).
-[Visit Bridgewater Associates](https://www.bridgewater.com/)
 
 ### Two Sigma
 Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and advanced algorithms to implement [market](../m/market.md)-[neutral](../n/neutral.md) and other [trading strategies](../t/trading_strategies.md).
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ### Citadel
 Citadel is a global financial institution with a strong presence in [hedge fund](../h/hedge_fund.md) management, including [Equity](../e/equity.md) [Market Neutral strategies](../m/market_neutral_strategies.md). They use sophisticated models and high-frequency trading techniques to achieve [market](../m/market.md)-[neutral](../n/neutral.md) outcomes.
-[Visit Citadel](https://www.citadel.com/)
 
 ## Conclusion
 

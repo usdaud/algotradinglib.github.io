@@ -76,14 +76,14 @@ The [wash](../w/wash.md)-[sale](../s/sale.md) rule has several practical implica
 
 ### Impact on Algorithmic Trading and Fintech
 
-The [wash](../w/wash.md)-[sale](../s/sale.md) rule also has implications for [algorithmic trading](../a/accountability.md) and financial technology (fintech) platforms, particularly those [offering](../o/offering.md) automated investment services or tax [optimization](../o/optimization.md) features. Here are a few impacts:
+The [wash](../w/wash.md)-[sale](../s/sale.md) rule also has implications for [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech) platforms, particularly those [offering](../o/offering.md) automated investment services or tax [optimization](../o/optimization.md) features. Here are a few impacts:
 
 1. **Algorithm Adjustments**: [Trading algorithms](../t/trading_algorithms.md) must incorporate logic to identify and avoid [wash](../w/wash.md) sales, ensuring compliance with IRS regulations.
 2. **User Notifications**: Fintech platforms should provide users with real-time alerts if a proposed [trade](../t/trade.md) might trigger a [wash sale](../w/wash_sale.md), helping them make informed decisions.
 3. **Tax-Loss Harvesting**: Automated tax-loss harvesting features must account for the [wash](../w/wash.md)-[sale](../s/sale.md) rule to ensure that realized losses are eligible for tax deductions.
 4. **Reporting and [Transparency](../t/transparency.md)**: Platforms need to [offer](../o/offer.md) detailed reporting and [transparency](../t/transparency.md) on trades and adjustments related to [wash](../w/wash.md) sales, aiding users in accurate tax reporting.
 
-For example, robo-advisors like Betterment (https://www.betterment.com/) and Wealthfront (https://www.wealthfront.com/) [offer](../o/offer.md) tax-loss harvesting services that are designed to comply with [wash](../w/wash.md)-[sale](../s/sale.md) rules, providing users with optimized tax benefits while maintaining adherence to IRS regulations.
+For example, robo-advisors like Betterment ( and Wealthfront ( [offer](../o/offer.md) tax-loss harvesting services that are designed to comply with [wash](../w/wash.md)-[sale](../s/sale.md) rules, providing users with optimized tax benefits while maintaining adherence to IRS regulations.
 
 ## Conclusion
 

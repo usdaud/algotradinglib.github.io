@@ -72,7 +72,7 @@ In academia, while women often represent a significant portion of faculty member
 Mentorship and sponsorship programs can provide the support and advocacy needed for women and minorities to navigate their career paths successfully. Mentors [offer](../o/offer.md) [guidance](../g/guidance.md) and advice, while sponsors use their influence to advocate for mentees' promotion and advancement.
 
 #### Diversity and Inclusion Policies
-Implementing [robust](../r/robust.md) diversity and inclusion policies can help in creating an equitable environment. This includes setting diversity targets, unbiased recruitment processes, and regular bias training. Companies like Deloitte [Deloitte](https://www2.deloitte.com/global/en.html) have established comprehensive diversity initiatives to tackle these issues.
+Implementing [robust](../r/robust.md) diversity and inclusion policies can help in creating an equitable environment. This includes setting diversity targets, unbiased recruitment processes, and regular bias training. Companies like Deloitte Deloitte have established comprehensive diversity initiatives to tackle these issues.
 
 ### Individual Level
 

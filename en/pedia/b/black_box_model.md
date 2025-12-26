@@ -75,15 +75,15 @@ The use of black box models can attract regulatory scrutiny, especially if they 
 
 ### Hedge Funds
 
-Many [hedge](../h/hedge.md) funds utilize black box models for their trading activities. For example, Renaissance Technologies, a renowned [hedge fund](../h/hedge_fund.md) (https://www.rentec.com/), is known for its Medallion [Fund](../f/fund.md), which is driven by sophisticated, proprietary black box algorithms.
+Many [hedge](../h/hedge.md) funds utilize black box models for their trading activities. For example, Renaissance Technologies, a renowned [hedge fund](../h/hedge_fund.md) ( is known for its Medallion [Fund](../f/fund.md), which is driven by sophisticated, proprietary black box algorithms.
 
 ### Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street (https://www.janestreet.com/) and Citadel Securities use black box models to engage in high-frequency trading and [market](../m/market.md) making.
+[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street ( and Citadel Securities use black box models to engage in high-frequency trading and [market](../m/market.md) making.
 
 ### Quantitative Trading Firms
 
-[Quantitative trading](../q/quantitative_trading.md) firms like D.E. Shaw Group (https://www.deshaw.com/) employ black box models to analyze [market](../m/market.md) patterns and generate [trading strategies](../t/trading_strategies.md).
+[Quantitative trading](../q/quantitative_trading.md) firms like D.E. Shaw Group ( employ black box models to analyze [market](../m/market.md) patterns and generate [trading strategies](../t/trading_strategies.md).
 
 ## Ethical Considerations
 

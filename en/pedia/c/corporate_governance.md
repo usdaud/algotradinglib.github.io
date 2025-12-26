@@ -140,7 +140,7 @@ Tesla is an example of a high-profile company that has faced scrutiny regarding 
 
 Tesla has made strides to improve its corporate governance by adding more independent directors and setting up better [risk management](../r/risk_management.md) protocols.
 
-For more information, you can visit Tesla's official webpage on corporate governance: [Tesla Corporate Governance](https://ir.tesla.com/corporate-governance)
+For more information, you can visit Tesla's official webpage on corporate governance: Tesla Corporate Governance
 
 # Conclusion
 

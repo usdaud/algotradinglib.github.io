@@ -42,7 +42,7 @@ Preventive measures can mitigate 51% attacks, though complete eradication remain
 ## Case Study: GHash.io and Bitcoin
 GHash.io was one of the largest [Bitcoin mining](../b/bitcoin_mining.md) pools in history. During July 2014, GHash.io briefly controlled over 51% of the [Bitcoin](../b/bitcoin.md) network's [hash](../h/hash.md) rate, sparking 51% attack fears. In response, the community urged decentralization efforts and miners left the pool to distribute the [hash](../h/hash.md) rate more evenly, reducing GHash.io's dominance.
 
-Learn more about [GHash.io's impact](https://www.cl.cam.ac.uk/~sjm217/papers/oakland14-ghash.pdf).
+Learn more about GHash.io's impact.
 
 ## Conclusion
 The 51% attack represents a significant [security](../s/security.md) [risk](../r/risk.md) in [blockchain](../b/blockchain_in_trading.md) technology. While complete elimination of this threat is difficult, a combination of strategic measures and community vigilance can mitigate the [risk](../r/risk.md) and protect the network's integrity. As the [blockchain](../b/blockchain_in_trading.md) ecosystem evolves, continuous assessment and adaptation of [security](../s/security.md) practices [will](../w/will.md) remain crucial to maintaining decentralized [trust](../t/trust.md).

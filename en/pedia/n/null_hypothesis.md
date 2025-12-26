@@ -15,13 +15,13 @@ Statistical tests are designed to assess the strength of evidence against the nu
 [Hypothesis testing](../h/hypothesis_testing.md) is employed to test assumptions, make inferences, and draw conclusions about populations based on sample data. Here’s how the process typically unfolds:
 
 1. **Formulation of Hypotheses**: Establish both the null hypothesis (\( H_0 \)) and the alternative hypothesis (\( H_1 \)).
-   
+
 2. **Selection of Significance Level (\( \[alpha](../a/alpha.md) \))**: Determine the probability threshold (common values are 0.05, 0.01) for rejecting the null hypothesis.
-   
+
 3. **Calculation of Test Statistic**: Compute a [value](../v/value.md) from the sample data that follows a known [distribution](../d/distribution.md) under \( H_0 \).
-   
+
 4. **P-[value](../v/value.md) Computation**: Determine the probability of observing a test statistic at least as extreme as the one computed, assuming \( H_0 \) is true.
-   
+
 5. **Decision Making**: Compare the p-[value](../v/value.md) with the significance level. If the p-[value](../v/value.md) is less than \( \[alpha](../a/alpha.md) \), reject \( H_0 \); otherwise, [fail](../f/fail.md) to reject \( H_0 \).
 
 ### Types of Hypothesis Tests in Trading
@@ -37,11 +37,11 @@ Each of these tests involves setting up a null hypothesis that there is no effec
 
 ## Application in Trading and Financial Markets
 
-The application of the null hypothesis in trading and [financial markets](../f/financial_market.md) spans several areas, including [algorithmic trading](../a/accountability.md), [portfolio management](../p/par.md), [risk management](../r/risk_management.md), and [market research](../m/market_research.md).
+The application of the null hypothesis in trading and [financial markets](../f/financial_market.md) spans several areas, including [algorithmic trading](../a/algorithmic_trading.md), [portfolio management](../p/par.md), [risk management](../r/risk_management.md), and [market research](../m/market_research.md).
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), null [hypothesis testing](../h/hypothesis_testing.md) can validate the effectiveness of [trading strategies](../t/trading_strategies.md). Traders may hypothesize that a particular strategy generates returns greater than zero. The null hypothesis in this scenario (e.g., \( H_0 \): The strategy does not generate positive returns) is tested against the alternative (e.g., \( H_1 \): The strategy generates positive returns).
+In [algorithmic trading](../a/algorithmic_trading.md), null [hypothesis testing](../h/hypothesis_testing.md) can validate the effectiveness of [trading strategies](../t/trading_strategies.md). Traders may hypothesize that a particular strategy generates returns greater than zero. The null hypothesis in this scenario (e.g., \( H_0 \): The strategy does not generate positive returns) is tested against the alternative (e.g., \( H_1 \): The strategy generates positive returns).
 
 ### Portfolio Management
 
@@ -85,4 +85,4 @@ Several challenges and considerations come with [hypothesis testing](../h/hypoth
 
 ## Conclusion
 
-The null hypothesis serves as a cornerstone in [hypothesis testing](../h/hypothesis_testing.md), providing a structured framework for making data-driven decisions in trading and [finance](../f/finance.md). From assessing the viability of [trading strategies](../t/trading_strategies.md) to analyzing [portfolio performance](../p/portfolio_performance.md) and [risk management](../r/risk_management.md) models, [hypothesis testing](../h/hypothesis_testing.md) and the role of the null hypothesis are integral to rigorous [financial analysis](../f/financial_analysis.md). While challenges in data quality, [multiple](../m/multiple.md) testing, and assumption violations exist, thoughtful application and interpretation of hypothesis tests can [yield](../y/yield.md) valuable insights into [market](../m/market.md) behavior and financial efficacy. For more information about statistical testing in [finance](../f/finance.md), applications in [algorithmic trading](../a/accountability.md), and related topics, you can explore resources from companies like [QuantConnect](https://www.quantconnect.com/) and [Kensho](https://www.kensho.com/).
+The null hypothesis serves as a cornerstone in [hypothesis testing](../h/hypothesis_testing.md), providing a structured framework for making data-driven decisions in trading and [finance](../f/finance.md). From assessing the viability of [trading strategies](../t/trading_strategies.md) to analyzing [portfolio performance](../p/portfolio_performance.md) and [risk management](../r/risk_management.md) models, [hypothesis testing](../h/hypothesis_testing.md) and the role of the null hypothesis are integral to rigorous [financial analysis](../f/financial_analysis.md). While challenges in data quality, [multiple](../m/multiple.md) testing, and assumption violations exist, thoughtful application and interpretation of hypothesis tests can [yield](../y/yield.md) valuable insights into [market](../m/market.md) behavior and financial efficacy. For more information about statistical testing in [finance](../f/finance.md), applications in [algorithmic trading](../a/algorithmic_trading.md), and related topics, you can explore resources from companies like QuantConnect and Kensho.

@@ -79,14 +79,14 @@ The very nature of [open](../o/open.md) markets, driven by [supply](../s/supply.
 
 ### Technology and Security
 
-The rise of [algorithmic trading](../a/accountability.md) and other technological advancements has transformed [open](../o/open.md) markets. However, these innovations also bring challenges related to cybersecurity, data integrity, and the potential for technological failures that can disrupt trading activities.
+The rise of [algorithmic trading](../a/algorithmic_trading.md) and other technological advancements has transformed [open](../o/open.md) markets. However, these innovations also bring challenges related to cybersecurity, data integrity, and the potential for technological failures that can disrupt trading activities.
 
 ## Open Market Operations
 
 A specific aspect of [open](../o/open.md) markets is [Open Market Operations](../o/open_market_operations.md) (OMOs). These are conducted by central banks to regulate the [money supply](../m/money_supply.md) and [interest](../i/interest.md) rates in the [economy](../e/economy.md). By buying or selling government securities in the [open](../o/open.md) [market](../m/market.md), central banks can influence [liquidity](../l/liquidity.md) and borrowing costs in the [financial system](../f/financial_system.md).
 
 **Example:**
-- The Federal Reserve (Fed) in the United States frequently engages in OMOs to implement [monetary policy](../m/monetary_policy.md). More information about the Fed's operations can be found on their official website: [Federal Reserve Open Market Operations](https://www.federalreserve.gov/monetarypolicy/openmarket.htm).
+- The Federal Reserve (Fed) in the United States frequently engages in OMOs to implement [monetary policy](../m/monetary_policy.md).
 
 ## Future of Open Markets
 

@@ -56,22 +56,22 @@ Several advanced tools and platforms assist in the effective management of carve
 
 These systems provide [robust](../r/robust.md) support for creating and managing carve-outs, [offering](../o/offering.md) features like real-time tracking, performance analysis, and [risk management](../r/risk_management.md) tools. Examples include:
 
-1. [Bloomberg AIM](https://www.bloomberg.com/professional/product/asset-and-investment-manager/)
-2. [Charles River IMS](https://www.crd.com/)
+1. Bloomberg AIM
+2. Charles River IMS
 
 ### Algorithmic Trading Platforms
 
 To effectively deploy [trading algorithms](../t/trading_algorithms.md) on carve-outs, institutions [leverage](../l/leverage.md) sophisticated [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). These platforms facilitate the development, testing, and deployment of customized algorithms. Popular [options](../o/options.md) are:
 
-1. [QuantConnect](https://www.quantconnect.com/)
-2. [AlgoTrader](https://www.algotrader.com/)
+1. QuantConnect
+2. AlgoTrader
 
 ### Risk Management Tools
 
 [Risk management](../r/risk_management.md) tools are essential for monitoring the performance and [volatility](../v/volatility.md) of carve-outs. They help in maintaining the desired [risk](../r/risk.md) profile and ensuring the carve-out performs as expected. Tools in this category include:
 
-1. [RiskMetrics by MSCI](https://www.msci.com/)
-2. [Axioma Risk](https://www.qontigo.com/analytics-solutions/axioma-risk/)
+1. RiskMetrics by MSCI
+2. Axioma Risk
 
 ## Case Studies
 

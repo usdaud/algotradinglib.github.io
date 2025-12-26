@@ -31,16 +31,16 @@
 
 ## Example Scenarios
 1. **[Manufacturing](../m/manufacturing.md) Company**:
-   - **Operations**: Producing goods in a factory, ensuring [quality control](../q/quality_control.md), and managing [inventory](../i/inventory.md).
-   - **Sales and [Marketing](../m/marketing.md)**: Launching a new product through advertising campaigns and promotional events.
-   - **[Finance](../f/finance.md)**: Budgeting for the next fiscal year and securing a [loan](../l/loan.md) for [expansion](../e/expansion.md).
-   - **Human Resources**: Recruiting skilled workers and providing training programs.
+ - **Operations**: Producing goods in a factory, ensuring [quality control](../q/quality_control.md), and managing [inventory](../i/inventory.md).
+ - **Sales and [Marketing](../m/marketing.md)**: Launching a new product through advertising campaigns and promotional events.
+ - **[Finance](../f/finance.md)**: Budgeting for the next fiscal year and securing a [loan](../l/loan.md) for [expansion](../e/expansion.md).
+ - **Human Resources**: Recruiting skilled workers and providing training programs.
 
 2. **Service [Business](../b/business.md)**:
-   - **Operations**: Delivering professional services such as consulting or legal advice.
-   - **[Customer Service](../c/customer_service.md)**: Handling [customer](../c/customer.md) inquiries and providing after-sales support.
-   - **[Finance](../f/finance.md)**: Invoicing clients and managing accounts [receivable](../r/receivable.md).
-   - **[Marketing](../m/marketing.md)**: Developing a content [marketing strategy](../m/marketing_strategy.md) to attract new clients.
+ - **Operations**: Delivering professional services such as consulting or legal advice.
+ - **[Customer Service](../c/customer_service.md)**: Handling [customer](../c/customer.md) inquiries and providing after-sales support.
+ - **[Finance](../f/finance.md)**: Invoicing clients and managing accounts [receivable](../r/receivable.md).
+ - **[Marketing](../m/marketing.md)**: Developing a content [marketing strategy](../m/marketing_strategy.md) to attract new clients.
 
 ## Challenges
 1. **Resource Allocation**: Ensuring resources are allocated efficiently to different activities to maximize [productivity](../p/productivity.md) and profitability.
@@ -50,4 +50,3 @@
 
 ## Conclusion
 [Business](../b/business.md) activities encompass the essential functions and processes that enable a company to operate, generate [revenue](../r/revenue.md), and provide [value](../v/value.md) to customers. By effectively managing operations, [marketing](../m/marketing.md), [finance](../f/finance.md), human resources, and [customer service](../c/customer_service.md), businesses can achieve their objectives and maintain a competitive edge in the [market](../m/market.md). Understanding and optimizing these activities is crucial for the long-term success and sustainability of any [business](../b/business.md).
-

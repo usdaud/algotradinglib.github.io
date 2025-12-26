@@ -66,7 +66,7 @@ Similar to the Vasicek model, the CIR model describes [interest rate](../i/inter
 
 ## Yield Curve in Algorithmic Trading
 
-[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often incorporate [yield curve analysis](../y/yield_curve_analysis.md) for [fixed income](../f/fixed_income.md) and [derivative](../d/derivative.md) markets. By leveraging real-time data and advanced modeling techniques, algorithms identify trading opportunities, [hedge](../h/hedge.md) risks, and optimize [portfolio performance](../p/portfolio_performance.md). 
+[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often incorporate [yield curve analysis](../y/yield_curve_analysis.md) for [fixed income](../f/fixed_income.md) and [derivative](../d/derivative.md) markets. By leveraging real-time data and advanced modeling techniques, algorithms identify trading opportunities, [hedge](../h/hedge.md) risks, and optimize [portfolio performance](../p/portfolio_performance.md).
 
 ### 1. Carry and Roll-Down Strategies
 These strategies exploit [yield](../y/yield.md) differentials and price movements along the curve. Traders buy bonds with higher yields and [hold](../h/hold.md) them until price appreciation near [maturity](../m/maturity.md).

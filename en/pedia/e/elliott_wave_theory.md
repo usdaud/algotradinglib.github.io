@@ -58,7 +58,7 @@ A key element of Elliott [Wave Theory](../w/wave_theory.md) is the use of Fibona
 
 ## Practical Applications
 
-Traders and analysts use the Elliott [Wave Theory](../w/wave_theory.md) to forecast future [market](../m/market.md) movements by identifying and labeling the waves within price charts. Software programs like [Elliott Wave International's](https://www.elliottwave.com) proprietary Auto-Wave software help automate this process.
+Traders and analysts use the Elliott [Wave Theory](../w/wave_theory.md) to forecast future [market](../m/market.md) movements by identifying and labeling the waves within price charts. Software programs like Elliott Wave International's proprietary Auto-Wave software help automate this process.
 
 ### Identifying Wave Patterns
 
@@ -80,4 +80,4 @@ Despite its widespread use, Elliott [Wave Theory](../w/wave_theory.md) has its c
 
 The Elliott [Wave Theory](../w/wave_theory.md) remains a popular tool among traders and analysts for [forecasting](../f/forecasting.md) [market](../m/market.md) trends. Its reliance on [wave patterns](../w/wave_patterns_in_trading.md) and Fibonacci ratios offers a structured method to predict price movements and [investor](../i/investor.md) behaviors. Despite its criticisms and challenges, when combined with other [technical analysis](../t/technical_analysis.md) tools, Elliott [Wave Theory](../w/wave_theory.md) can be a powerful component of a [trader](../t/trader.md)'s toolkit.
 
-For further exploration of Elliott [Wave Theory](../w/wave_theory.md), traders might consider educational resources and tools from [Elliott Wave International](https://www.elliottwave.com), a leading authority on the subject.
+For further exploration of Elliott [Wave Theory](../w/wave_theory.md), traders might consider educational resources and tools from Elliott Wave International, a leading authority on the subject.

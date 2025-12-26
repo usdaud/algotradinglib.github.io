@@ -8,7 +8,7 @@ Gate.io boasts a large portfolio of supported assets, including popular ones lik
 
 ### Key Features
 
-1. **Wide [Range](../r/range.md) of Cryptocurrencies**: Gate.io supports over 300 different cryptocurrencies, giving traders a variety of [options](../o/options.md).
+1. **Wide [Range](../r/range.md) of Cryptocurrencies**: Gate.io supports over 1,400 different cryptocurrencies and 2,500+ trading pairs, giving traders one of the largest selections of digital assets available.
 2. **High [Security](../s/security.md)**: The platform implements [robust](../r/robust.md) [security](../s/security.md) measures such as two-[factor](../f/factor.md) authentication (2FA), cold storage for assets, and a comprehensive [security](../s/security.md) system to safeguard user funds.
 3. **Advanced Trading Tools**: Users can take advantage of various trading tools including API trading, [automated trading bots](../a/automated_trading_bots.md), and detailed [market](../m/market.md) analysis.
 4. **User Interface**: The platform provides a user-friendly interface that is accessible for both novice and experienced traders.
@@ -60,4 +60,4 @@ Compliance with regulations is crucial for any financial institution. Gate.io is
 
 Gate.io is a comprehensive cryptocurrency [exchange](../e/exchange.md) [offering](../o/offering.md) a multitude of trading [options](../o/options.md) and features. Its commitment to [security](../s/security.md), regulatory compliance, and user education make it a trustworthy and reliable platform for both novice and experienced traders. Whether you are interested in spot trading, [margin trading](../m/margin_trading.md), [futures](../f/futures.md) trading, or earning [passive income](../p/passive_income.md) through lending and staking, Gate.io has something to [offer](../o/offer.md).
 
-For more detailed information, you can visit the official website [here](https://www.gate.io/).
+For more detailed information,

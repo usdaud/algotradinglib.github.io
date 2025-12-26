@@ -73,4 +73,4 @@ In recent years, alternatives such as public sector [capital](../c/capital.md) b
 ## Conclusion
 The Private [Finance](../f/finance.md) Initiative represents a significant evolution in public sector [procurement](../p/procurement.md), leveraging [private sector](../p/private_sector.md) capabilities to deliver public [infrastructure](../i/infrastructure.md). While [offering](../o/offering.md) potential benefits in [efficiency](../e/efficiency.md) and [risk management](../r/risk_management.md), it also presents challenges in complexity and long-term financial impact. Understanding PFI’s mechanisms, advantages, and criticisms is essential for policymakers and stakeholders seeking to address [infrastructure](../i/infrastructure.md) needs sustainably and effectively.
 
-For more information, you can visit various organizations involved in PFI projects or consultancy [here](https://www.government-online.net/tag/private-finance-initiative/).
+For more information, you can visit various organizations involved in PFI projects or consultancy here.

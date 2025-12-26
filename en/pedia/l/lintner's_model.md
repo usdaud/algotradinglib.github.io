@@ -13,7 +13,7 @@ Lintner's Model proposes that companies follow a partial-adjustment framework wh
 ### Key Propositions
 
 1. **Target [Dividend](../d/dividend.md) Ratio**: Firms have a long-term target [payout ratio](../p/payout_ratio.md). This target ratio represents the proportion of [earnings](../e/earnings.md) that the [firm](../f/firm.md) aims to distribute to shareholders over the long term.
-  
+
 2. **[Dividend](../d/dividend.md) Smoothing**: Firms prefer to smooth dividends over time rather than make abrupt changes. This means companies avoid making substantial changes to [dividend](../d/dividend.md) payments in response to short-term [earnings](../e/earnings.md) fluctuations.
 
 3. **Adjustment Process**: When there is a change in [earnings](../e/earnings.md), firms only partially adjust dividends towards the target [payout](../p/payout.md). Firms use a smoothing coefficient or a lagged model to decide the pace of adjustment.
@@ -52,8 +52,8 @@ Where:
 Lintner's Model has extensive implications for corporate financial management and [investor](../i/investor.md) behavior:
 
 1. **[Investor](../i/investor.md) Expectation**: Investors can use Lintner’s model to anticipate future [dividend](../d/dividend.md) behavior based on observed [firm](../f/firm.md) [earnings](../e/earnings.md) and past [payout](../p/payout.md) patterns, contributing to investment decisions.
-   
-2. **Corporate Strategy**: The model suggests that firms should maintain predictable and stable [dividend](../d/dividend.md) policies to avoid creating [investor](../i/investor.md) anxiety. 
+
+2. **Corporate Strategy**: The model suggests that firms should maintain predictable and stable [dividend](../d/dividend.md) policies to avoid creating [investor](../i/investor.md) anxiety.
 
 3. **[Market](../m/market.md) Signaling**: Changes in dividends are significant [market](../m/market.md) signals. Given firms' reluctance to cut dividends, increases are seen as signals of confident future [earnings](../e/earnings.md), while decreases are interpreted more negatively.
 
@@ -82,7 +82,7 @@ Despite its influence, Lintner's Model is not without its critics. Some criticis
 Over the decades, Lintner's Model has been integrated into broader frameworks and complemented by other models to reflect a more comprehensive picture:
 
 1. **Fama-Babiak Model**: This builds on Lintner’s original work, incorporating more sophisticated statistical techniques to analyze [dividend](../d/dividend.md) behavior over time.
-   
+
 2. **Clientele Effect**: The theory suggests that firms might cater to the preferences of their investors who have varying tax treatments of dividends and [capital](../c/capital.md) gains. Companies thus may adjust their [payout](../p/payout.md) policies to attract and retain particular types of investors.
 
 3. **Signaling Models**: These models propose that [dividend](../d/dividend.md) changes serve as signals to the [market](../m/market.md) about management’s views on future [earnings](../e/earnings.md) prospects, extending the concept of [market](../m/market.md) signaling inherent in Lintner’s framework.

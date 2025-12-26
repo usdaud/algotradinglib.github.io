@@ -70,22 +70,17 @@ Setting up a voluntary [lien](../l/lien.md) involves legal documentation and pot
 
 ### Rocket Mortgage
 
-Rocket [Mortgage](../m/mortgage.md) is a leading provider of [mortgage](../m/mortgage.md) services in the United States. They [offer](../o/offer.md) a [range](../r/range.md) of [mortgage](../m/mortgage.md) products, including loans secured by [real estate](../r/real_estate.md). Their website provides extensive resources for understanding [mortgage](../m/mortgage.md) liens and the process of obtaining a [mortgage](../m/mortgage.md).
-
-Website: [Rocket Mortgage](https://www.rocketmortgage.com/)
+Rocket [Mortgage](../m/mortgage.md) is a leading provider of [mortgage](../m/mortgage.md) services in the United States. They [offer](../o/offer.md) a [range](../r/range.md) of [mortgage](../m/mortgage.md) products, including loans secured by [real estate](../r/real_estate.md). their online platform provides extensive resources for understanding [mortgage](../m/mortgage.md) liens and the process of obtaining a [mortgage](../m/mortgage.md).
 
 ### Lexus Financial Services
 
 Lexus Financial Services specializes in vehicle [financing](../f/financing.md), allowing customers to purchase or lease Lexus vehicles with loans secured by the vehicle itself. They [offer](../o/offer.md) detailed information on [finance](../f/finance.md) [options](../o/options.md) and the implications of vehicle liens.
 
-Website: [Lexus Financial Services](https://www.lexusfinancial.com/)
 
 ### Chase Bank
 
 Chase [Bank](../b/bank.md) offers various [home](../h/home.md) lending solutions, including mortgages and HELOCs. Their platform offers tools and guides to help potential borrowers understand the requirements and implications of securing loans with liens on their properties.
 
-Website: [Chase Home Lending](https://www.chase.com/personal/mortgage)
 
 ## Conclusion
-
 Voluntary liens are a crucial element of the financial landscape, enabling borrowers to access needed funds while providing lenders with [security](../s/security.md) against [default](../d/default.md). Understanding the intricacies of various voluntary [lien](../l/lien.md) types, the legal implications, and the pros and cons is vital for making informed financial decisions. By leveraging these tools wisely, both borrowers and lenders can achieve their respective financial goals while managing associated risks.

@@ -32,7 +32,7 @@ For example, if a company has 10 million [shares](../s/shares.md) outstanding an
 
 ### Large-Cap Stocks
 
-[Large-cap stocks](../l/large_cap_stocks.md) are companies with a [market](../m/market.md) [capitalization](../c/capitalization.md) of $10 billion or more. They are typically well-established firms with a stable [financial performance](../f/financial_performance.md). Examples include companies like Apple Inc., Microsoft, and Amazon. 
+[Large-cap stocks](../l/large_cap_stocks.md) are companies with a [market](../m/market.md) [capitalization](../c/capitalization.md) of $10 billion or more. They are typically well-established firms with a stable [financial performance](../f/financial_performance.md). Examples include companies like Apple Inc., Microsoft, and Amazon.
 
 **Characteristics:**
 - High [market](../m/market.md) [visibility](../v/visibility.md)
@@ -107,6 +107,4 @@ Another advanced metric is free-[float](../f/float.md) [market](../m/market.md) 
 
 For more detailed information, you can visit the following resources:
 
-- [Apple Inc.](https://www.apple.com/investor/)
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
-- [Amazon Investor Relations](https://www.amazon.com/ir)
+- Apple Inc.

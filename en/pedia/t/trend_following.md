@@ -69,16 +69,16 @@ Various [technical indicators](../t/technical_indicators.md) are used in [trend]
 Many successful [hedge](../h/hedge.md) funds and traders have utilized [trend](../t/trend.md)-following strategies to achieve impressive returns. Some of the most notable names in the [industry](../i/industry.md) include:
 
 ### Winton Group
-Founded by David Harding in 1997, Winton Group is a major [hedge fund](../h/hedge_fund.md) that employs quantitative and [trend](../t/trend.md)-following strategies. The [firm](../f/firm.md)'s approach involves using mathematical and statistical models to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) trends. More information can be found on their [official website](https://www.winton.com).
+Founded by David Harding in 1997, Winton Group is a major [hedge fund](../h/hedge_fund.md) that employs quantitative and [trend](../t/trend.md)-following strategies. The [firm](../f/firm.md)'s approach involves using mathematical and statistical models to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) trends.
 
 ### Man AHL
-Man AHL is a leading quantitative investment [firm](../f/firm.md) that specializes in [systematic trading](../s/systematic_trading.md) strategies, including [trend](../t/trend.md) following. Part of Man Group, one of the world's largest independent [alternative investment](../a/alternative_investment.md) managers, Man AHL has a long track record of success in [trend](../t/trend.md)-following strategies. Visit their [official website](https://www.man.com/ahl) for more information.
+Man AHL is a leading quantitative investment [firm](../f/firm.md) that specializes in [systematic trading](../s/systematic_trading.md) strategies, including [trend](../t/trend.md) following. Part of Man Group, one of the world's largest independent [alternative investment](../a/alternative_investment.md) managers, Man AHL has a long track record of success in [trend](../t/trend.md)-following strategies.
 
 ### Dunn Capital Management
-Founded by William Dunn in 1974, Dunn [Capital](../c/capital.md) Management is a pioneer in the field of [trend](../t/trend.md) following. The [firm](../f/firm.md)'s WMA program, a [trend](../t/trend.md)-following strategy, has consistently delivered strong returns over decades. More details are available on their [official website](https://www.dunncapital.com).
+Founded by William Dunn in 1974, Dunn [Capital](../c/capital.md) Management is a pioneer in the field of [trend](../t/trend.md) following. The [firm](../f/firm.md)'s WMA program, a [trend](../t/trend.md)-following strategy, has consistently delivered strong returns over decades. More
 
 ### Salem Abraham
-Salem Abraham is a well-known [trend](../t/trend.md)-following [trader](../t/trader.md) and the founder of Abraham Trading Company. His [firm](../f/firm.md) has achieved significant success by combining [trend](../t/trend.md)-following strategies with rigorous [risk management](../r/risk_management.md). Visit his [official website](https://www.abrahamtrading.com) for more information.
+Salem Abraham is a well-known [trend](../t/trend.md)-following [trader](../t/trader.md) and the founder of Abraham Trading Company. His [firm](../f/firm.md) has achieved significant success by combining [trend](../t/trend.md)-following strategies with rigorous [risk management](../r/risk_management.md).
 
 ## Conclusion
 

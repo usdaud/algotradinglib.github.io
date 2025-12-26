@@ -15,19 +15,19 @@ Historically, the term '[usury](../u/usury.md)' simply meant charging any [inter
 In the United States, [usury laws](../u/usury_laws.md) are governed at both the federal and state levels, leading to significant [variability](../v/variability.md) in the regulations:
 
 1. **Federal Laws**: The Federal Reserve's [Regulation Z](../r/regulation_z_(truth_in_lending).md) and the Truth in Lending Act (TILA) are pivotal in protecting consumers. These regulations mandate clear [disclosure](../d/disclosure.md) of [loan](../l/loan.md) terms and prohibit certain deceptive practices.
-  
+
 2. **State Laws**: Each state has its own [usury laws](../u/usury_laws.md), setting maximum [interest](../i/interest.md) rates for different types of loans. For example, payday loans might have different caps compared to mortgages or [credit card](../c/credit_card.md) rates.
 
 ### Europe
 
 In Europe, [usury](../u/usury.md) regulations vary by country, with the [European Union](../e/european_union_(eu).md) providing overarching guidelines. For example:
- 
+
 - **United Kingdom**: The Financial Conduct Authority (FCA) regulates [interest](../i/interest.md) rates on various financial products.
 - **Germany**: The Civil Code (BGB) sets strict limits on the maximum permissible [interest](../i/interest.md) rates.
 
 ### Asia
 
-Certain countries in Asia, like Singapore and India, also enforce [usury laws](../u/usury_laws.md). 
+Certain countries in Asia, like Singapore and India, also enforce [usury laws](../u/usury_laws.md).
 
 - **Singapore**: The Moneylenders Act regulates [interest](../i/interest.md) rates for licensed moneylenders.
 - **India**: State legislation governs [usury](../u/usury.md), with different states imposing various limits on [interest](../i/interest.md) rates.
@@ -37,12 +37,12 @@ Certain countries in Asia, like Singapore and India, also enforce [usury laws](.
 [Usury laws](../u/usury_laws.md) can have profound impacts on both lenders and borrowers:
 
 1. **Positive Aspects**:
-    - **Consumer Protection**: By capping [interest](../i/interest.md) rates, [usury laws](../u/usury_laws.md) help protect consumers from predatory lending practices.
-    - **[Market](../m/market.md) Stability**: These laws can prevent economic [bubbles](../b/bubble.md) driven by overly aggressive lending practices.
+ - **Consumer Protection**: By capping [interest](../i/interest.md) rates, [usury laws](../u/usury_laws.md) help protect consumers from predatory lending practices.
+ - **[Market](../m/market.md) Stability**: These laws can prevent economic [bubbles](../b/bubble.md) driven by overly aggressive lending practices.
 
 2. **Negative Aspects**:
-    - **[Credit](../c/credit.md) Availability**: Strict [usury laws](../u/usury_laws.md) might reduce the availability of [credit](../c/credit.md), especially for high-[risk](../r/risk.md) borrowers.
-    - **[Loan](../l/loan.md) Sharking**: Excessively restrictive laws can drive borrowers to illegal lending channels where [interest](../i/interest.md) rates are unregulated and often exorbitantly high.
+ - **[Credit](../c/credit.md) Availability**: Strict [usury laws](../u/usury_laws.md) might reduce the availability of [credit](../c/credit.md), especially for high-[risk](../r/risk.md) borrowers.
+ - **[Loan](../l/loan.md) Sharking**: Excessively restrictive laws can drive borrowers to illegal lending channels where [interest](../i/interest.md) rates are unregulated and often exorbitantly high.
 
 ## Contemporary Usage and Controversy
 
@@ -70,7 +70,7 @@ Understanding [interest rate](../i/interest_rate.md) calculations is crucial for
 
 ### Algorithmic Trading
 
-For those involved in [algorithmic trading](../a/accountability.md), understanding the regulatory environment, including [usury laws](../u/usury_laws.md), is vital. [Interest rate](../i/interest_rate.md) caps can affect [market dynamics](../m/market_dynamics.md) and the profitability of various [trading strategies](../t/trading_strategies.md). Algorithmic traders often use complex models incorporating [interest rate](../i/interest_rate.md) limits to forecast [market](../m/market.md) movements and adjust their strategies accordingly.
+For those involved in [algorithmic trading](../a/algorithmic_trading.md), understanding the regulatory environment, including [usury laws](../u/usury_laws.md), is vital. [Interest rate](../i/interest_rate.md) caps can affect [market dynamics](../m/market_dynamics.md) and the profitability of various [trading strategies](../t/trading_strategies.md). Algorithmic traders often use complex models incorporating [interest rate](../i/interest_rate.md) limits to forecast [market](../m/market.md) movements and adjust their strategies accordingly.
 
 ## Fintech Innovations and Usury Rates
 

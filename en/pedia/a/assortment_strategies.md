@@ -10,15 +10,15 @@ A broad assortment strategy involves [offering](../o/offering.md) a [wide variet
 
 **Examples:**
 - **Walmart:** Known for its extensive product [range](../r/range.md), Walmart offers everything from groceries to electronics.
-  - [Walmart](https://www.walmart.com)
-  
+ - Walmart
+
 ### Deep Assortment Strategy
 
 A deep assortment strategy focuses on [offering](../o/offering.md) a wide [range](../r/range.md) of products within a specific category. This allows retailers to specialize in particular niches, [offering](../o/offering.md) expert knowledge and a large variety of [options](../o/options.md) within those niches. Specialty stores and category killers often adopt this strategy. The main benefit is that it positions the retailer as an expert in that particular field, which can foster [customer](../c/customer.md) loyalty and higher margins.
 
 **Examples:**
 - **AutoZone:** Specializes in automotive parts and accessories, [offering](../o/offering.md) a deep assortment in this category.
-  - [AutoZone](https://www.autozone.com)
+ - AutoZone
 
 ### Narrow Assortment Strategy
 
@@ -26,7 +26,7 @@ A narrow assortment strategy involves [offering](../o/offering.md) a limited [ra
 
 **Examples:**
 - **Tesla:** Focuses on a narrow [range](../r/range.md) of high-end electric vehicles.
-  - [Tesla](https://www.tesla.com)
+ - Tesla
 
 ## Factors Influencing Assortment Strategy
 

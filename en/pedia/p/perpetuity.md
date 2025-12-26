@@ -65,8 +65,8 @@ Understanding perpetuity is crucial in several areas of [finance](../f/finance.m
 Perpetuities, with their unique feature of infinite payments, provide an intriguing and useful construct within financial theory and practice. Their [valuation](../v/valuation.md), though seemingly straightforward, requires careful consideration of [discount](../d/discount.md) rates and potential [growth rates](../g/growth_rates_in_trading.md) in payments. While perpetuities [offer](../o/offer.md) advantages such as predictability and stability, they also come with risks, notably from [interest rate](../i/interest_rate.md) changes and [inflation](../i/inflation.md). Whether used in the context of preferred [stocks](../s/stock.md), [perpetual bonds](../p/perpetual_bonds.md), [real estate](../r/real_estate.md), or endowments, the concept of perpetuity remains a cornerstone of [financial analysis](../f/financial_analysis.md) and [valuation](../v/valuation.md).
 
 For more details and real-world applications, interested readers can refer to financial institutions and resources that [offer](../o/offer.md) tools for understanding and valuing perpetuities. Examples include:
-- [Investopedia](https://www.investopedia.com)
-- [Coursera - Financial Markets Course](https://www.coursera.org/learn/financial-markets)
-- [Khan Academy - Finance & Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
+- Investopedia
+- Coursera - Financial Markets Course
+- Khan Academy - Finance & Capital Markets
 
 Understanding perpetuity thoroughly can aid investors, traders, and financial professionals in making informed decisions and leveraging the infinite nature of perpetuities for planning and [valuation](../v/valuation.md) purposes.

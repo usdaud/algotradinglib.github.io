@@ -13,13 +13,13 @@ The basic formula for understanding dilution is:
 **Diluted [Earnings](../e/earnings.md) Per Share (DEPS) = (Net [Income](../i/income.md) - Dividends on [Preferred Stock](../p/preferred_stock.md)) / ([Weighted Average](../w/weighted_average.md) [Shares](../s/shares.md) Outstanding + Dilutive Potential [Shares](../s/shares.md))**
 
 #### Example:
-Consider a company with a net [income](../i/income.md) of $1 million and 1 million [shares](../s/shares.md) outstanding. The EPS is: 
+Consider a company with a net [income](../i/income.md) of $1 million and 1 million [shares](../s/shares.md) outstanding. The EPS is:
 
-    EPS = $1 million / 1 million [shares](../s/shares.md) = $1 per share
+ EPS = $1 million / 1 million [shares](../s/shares.md) = $1 per share
 
 If the company issues an additional 200,000 [shares](../s/shares.md), the new EPS would be:
 
-    New EPS = $1 million / 1.2 million [shares](../s/shares.md) = $0.83 per share
+ New EPS = $1 million / 1.2 million [shares](../s/shares.md) = $0.83 per share
 
 Thus, shareholders experience dilution as their [earnings](../e/earnings.md) decrease from $1 to $0.83 per share.
 
@@ -39,13 +39,13 @@ There are several primary causes of dilution:
 
 The primary effect of dilution is the reduction in the [value](../v/value.md) of existing [shares](../s/shares.md):
 
-### **Earnings Impact**: 
+### **Earnings Impact**:
 Dilution reduces EPS, which can negatively affect stock prices as investors view the company as less profitable on a per-share [basis](../b/basis.md).
 
 ### **Voting Power**:
 Existing shareholders' voting power is diluted as their ownership percentage decreases with the issuance of more [shares](../s/shares.md). This can influence [corporate governance](../c/corporate_governance.md) and major company decisions.
 
-### **Market Perception**: 
+### **Market Perception**:
 Dilution signals to the [market](../m/market.md) that the company needs additional cash. While sometimes it may be viewed positively if the [capital](../c/capital.md) is intended for growth, it can also indicate financial instability, leading to a drop in stock prices.
 
 ## Preventing and Mitigating Dilution
@@ -77,9 +77,8 @@ By analyzing past instances of dilution and their impacts on stock prices, algor
 
 ## Case Study: AT&T's Dilution Event
 
-To illustrate, let's consider a real-life scenario involving AT&T, which announced in 2020 that it would [issue](../i/issue.md) 1 billion in common [shares](../s/shares.md) to raise [capital](../c/capital.md). As reported by their [investor relations](../i/investor_relations.md) page:
+To illustrate, let's consider a real-life scenario involving AT&T, which announced in 2020 that it would [issue](../i/issue.md) 1 billion in common [shares](../s/shares.md) to raise [capital](../c/capital.md). As reported by their [company filings](../i/investor_relations.md) page:
 
-[AT&T Investor Relations](https://investors.att.com/)
 
 The announcement led to a decrease in stock prices as [market](../m/market.md) participants anticipated the dilutive effect on [earnings](../e/earnings.md) and ownership percentages. Companies in the algorithms can process such news and adjust their [trading strategies](../t/trading_strategies.md) in real-time to mitigate potential losses or [capitalize](../c/capitalize.md) on the [market](../m/market.md) movements.
 

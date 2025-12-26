@@ -4,16 +4,16 @@ In the realm of trading, job report [trading strategies](../t/trading_strategies
 
 ### Importance of Job Reports
 
-Economic job reports provide crucial insights into the health of a country's [economy](../e/economy.md). By reflecting the number of jobs added or lost, the [unemployment rate](../u/unemployment_rate.md), and other [labor market](../l/labor_market.md) conditions, these reports can influence policy decisions by central banks and ignite wide-ranging [market](../m/market.md) reactions. 
+Economic job reports provide crucial insights into the health of a country's [economy](../e/economy.md). By reflecting the number of jobs added or lost, the [unemployment rate](../u/unemployment_rate.md), and other [labor market](../l/labor_market.md) conditions, these reports can influence policy decisions by central banks and ignite wide-ranging [market](../m/market.md) reactions.
 
 1. **Non-Farm Payrolls (NFP):**
-   One of the most influential job reports globally is the US Non-Farm Payrolls report, released on the first Friday of every month by the Bureau of Labor [Statistics](../s/statistics.md) (BLS). It includes data on the total number of paid US workers, excluding farm employees, private [household employees](../h/household_employee.md), and non-[profit](../p/profit.md) organization employees.
+ One of the most influential job reports globally is the US Non-Farm Payrolls report, released on the first Friday of every month by the Bureau of Labor [Statistics](../s/statistics.md) (BLS). It includes data on the total number of paid US workers, excluding farm employees, private [household employees](../h/household_employee.md), and non-[profit](../p/profit.md) organization employees.
 
 2. **[Unemployment Rate](../u/unemployment_rate.md):**
-   Released alongside the NFP, the [unemployment rate](../u/unemployment_rate.md) measures the percentage of the total workforce that is unemployed and actively seeking employment during the previous month.
+ Released alongside the NFP, the [unemployment rate](../u/unemployment_rate.md) measures the percentage of the total workforce that is unemployed and actively seeking employment during the previous month.
 
 3. **Average Hourly [Earnings](../e/earnings.md):**
-   Also part of the NFP report, this data provides insights into wage growth and inflationary pressures, which can affect consumer spending and overall economic health.
+ Also part of the NFP report, this data provides insights into wage growth and inflationary pressures, which can affect consumer spending and overall economic health.
 
 ### Key Strategies for Trading Job Reports
 
@@ -61,16 +61,16 @@ Several platforms and tools can assist traders in effectively deploying job repo
 Job report [trading strategies](../t/trading_strategies.md) inherently involve high [volatility](../v/volatility.md) and [risk](../r/risk.md). Effective [risk management](../r/risk_management.md) techniques are essential to protect [capital](../c/capital.md) and ensure long-term success.
 
 1. **[Stop-Loss Orders](../s/stop-loss_orders.md):**
-   Setting [stop-loss orders](../s/stop-loss_orders.md) can limit losses in case the [market](../m/market.md) moves against your position.
-   
+ Setting [stop-loss orders](../s/stop-loss_orders.md) can limit losses in case the [market](../m/market.md) moves against your position.
+
 2. **[Position Sizing](../p/position_sizing.md):**
-   Properly sizing your positions helps manage [risk](../r/risk.md). Smaller positions reduce the financial impact of adverse moves.
+ Properly sizing your positions helps manage [risk](../r/risk.md). Smaller positions reduce the financial impact of adverse moves.
 
 3. **Hedging:**
-   Using [hedging strategies](../h/hedging_strategies.md) such as contracts for difference (CFDs) or [options](../o/options.md) can mitigate potential losses from unexpected job report outcomes.
+ Using [hedging strategies](../h/hedging_strategies.md) such as contracts for difference (CFDs) or [options](../o/options.md) can mitigate potential losses from unexpected job report outcomes.
 
 4. **[Diversification](../d/diversification.md):**
-   Avoid putting all your [capital](../c/capital.md) into a single [trade](../t/trade.md). Spread [risk](../r/risk.md) across [multiple](../m/multiple.md) trades and instruments.
+ Avoid putting all your [capital](../c/capital.md) into a single [trade](../t/trade.md). Spread [risk](../r/risk.md) across [multiple](../m/multiple.md) trades and instruments.
 
 ### Psychological Factors
 
@@ -83,10 +83,10 @@ Trading around job reports can be stressful due to the potential for rapid and s
 ### Real-World Examples of Algorithmic Job Report Trading
 
 **Goldman Sachs:**
-Goldman Sachs employs sophisticated algorithms to [trade](../t/trade.md) based on economic data releases, including job reports. These algorithms can instantly parse through report data and execute trades at lightning speed. More on their [trading strategies](../t/trading_strategies.md) can be found on their [official website](https://www.goldmansachs.com).
+Goldman Sachs employs sophisticated algorithms to [trade](../t/trade.md) based on economic data releases, including job reports. These algorithms can instantly parse through report data and execute trades at lightning speed. More on their [trading strategies](../t/trading_strategies.md)
 
 **Citadel:**
-One of the largest [hedge](../h/hedge.md) funds in the world, Citadel uses advanced algorithms that react to [market](../m/market.md)-moving news, including job reports. Their algorithms are designed to capture [alpha](../a/alpha.md) in highly volatile environments. Additional details on their approach to trading can be found on their [official site](https://www.citadel.com).
+One of the largest [hedge](../h/hedge.md) funds in the world, Citadel uses advanced algorithms that react to [market](../m/market.md)-moving news, including job reports. Their algorithms are designed to capture [alpha](../a/alpha.md) in highly volatile environments. Additional details on their approach to trading can be found on their public materials.
 
 ### Conclusion
 

@@ -38,7 +38,7 @@ There are generally two main types of [security](../s/security.md) analysis: [Fu
 
 ### Real-World Applications and Case Studies
 
-Several companies specialize in developing and providing tools for [security](../s/security.md) analysis and [algorithmic trading](../a/algorithmic_trading.md). One notable example is **[Bloomberg](../b/bloomberg.md)** [Bloomberg Official Site](https://www.bloomberg.com/), which offers comprehensive [financial analysis](../f/financial_analysis.md) platforms that integrate fundamental and [technical analysis](../t/technical_analysis.md) tools. Other firms like **[QuantConnect](../q/quantconnect.md)** [QuantConnect Official Site](https://www.quantconnect.com/) provide platforms for [algorithmic trading](../a/algorithmic_trading.md) research, [backtesting](../b/backtesting.md), and [execution](../e/execution.md).
+Several companies specialize in developing and providing tools for [security](../s/security.md) analysis and [algorithmic trading](../a/algorithmic_trading.md). One notable example is **[Bloomberg](../b/bloomberg.md)** Bloomberg public materials, which offers comprehensive [financial analysis](../f/financial_analysis.md) platforms that integrate fundamental and [technical analysis](../t/technical_analysis.md) tools. Other firms like **[QuantConnect](../q/quantconnect.md)** QuantConnect public materials provide platforms for [algorithmic trading](../a/algorithmic_trading.md) research, [backtesting](../b/backtesting.md), and [execution](../e/execution.md).
 
 #### Example Case Study: Renaissance Technologies
 

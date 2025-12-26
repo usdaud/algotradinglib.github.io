@@ -82,7 +82,7 @@ Today's [asset management](../a/asset_management.md) software helps businesses t
 
 ### 2. IoT (Internet of Things)
 
-IoT devices enable businesses to monitor their physical assets in real-time. Sensors can provide data on machinery performance, which can be used to prevent breakdowns and optimize usage. 
+IoT devices enable businesses to monitor their physical assets in real-time. Sensors can provide data on machinery performance, which can be used to prevent breakdowns and optimize usage.
 
 ### 3. RFID (Radio-Frequency Identification)
 
@@ -96,11 +96,11 @@ Using [machine learning algorithms](../m/machine_learning_algorithms_in_trading.
 
 ### 1. General Electric (GE)
 
-General Electric (GE) has long been a leader in managing physical [capital](../c/capital.md). The company uses advanced analytics and IoT technologies to monitor their vast array of machinery and equipment. GE's Predix platform helps businesses in various industries optimize their physical assets through real-time monitoring and [predictive analytics](../p/predictive_analytics.md). For more information, visit [General Electric](https://www.ge.com).
+General Electric (GE) has long been a leader in managing physical [capital](../c/capital.md). The company uses advanced analytics and IoT technologies to monitor their vast array of machinery and equipment. GE's Predix platform helps businesses in various industries optimize their physical assets through real-time monitoring and [predictive analytics](../p/predictive_analytics.md). For more information, visit General Electric.
 
 ### 2. Caterpillar Inc.
 
-Caterpillar Inc., a global manufacturer of construction and [mining](../m/mining.md) equipment, uses a combination of IoT and [asset management](../a/asset_management.md) software to enhance the reliability and [efficiency](../e/efficiency.md) of their machinery. The company's Cat Connect technology provides insights into machine health, helping customers to maximize uptime and reduce operating costs. Learn more at [Caterpillar](https://www.caterpillar.com).
+Caterpillar Inc., a global manufacturer of construction and [mining](../m/mining.md) equipment, uses a combination of IoT and [asset management](../a/asset_management.md) software to enhance the reliability and [efficiency](../e/efficiency.md) of their machinery. The company's Cat Connect technology provides insights into machine health, helping customers to maximize uptime and reduce operating costs. Learn more at Caterpillar.
 
 ## Conclusion
 

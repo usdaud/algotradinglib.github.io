@@ -4,23 +4,23 @@
 
 ### Key Features
 
-1. **Adjustable Reasoning Levels:**  
-   o3-mini offers configurable reasoning effort (low, medium, high) so that users can balance speed and depth of analysis based on their needs.
+1. **Adjustable Reasoning Levels:**
+ o3-mini offers configurable reasoning effort (low, medium, high) so that users can balance speed and depth of analysis based on their needs.
 
-2. **Compact Architecture:**  
-   With fewer parameters than the full o3, it provides rapid responses while maintaining strong performance on STEM and logical tasks.
+2. **Compact Architecture:**
+ With fewer parameters than the full o3, it provides rapid responses while maintaining strong performance on STEM and logical tasks.
 
-3. **Additional Integrations:**  
-   Features streaming output and support for up-to-date web search, making it versatile for interactive applications.
+3. **Additional Integrations:**
+ Features streaming output and support for up-to-date web search, making it versatile for interactive applications.
 
 ### Applications
 
-- **Chatbots & Virtual Assistants:**  
-  Ideal for responsive, real-time interactions in consumer and enterprise settings.
-- **Developer Tools:**  
-  Provides an efficient API for building AI-powered applications without incurring high computational costs.
-- **Educational Platforms:**  
-  Supports interactive learning tools by [offering](../o/offering.md) quick and accurate responses.
+- **Chatbots & Virtual Assistants:**
+ Ideal for responsive, real-time interactions in consumer and enterprise settings.
+- **Developer Tools:**
+ Provides an efficient API for building AI-powered applications without incurring high computational costs.
+- **Educational Platforms:**
+ Supports interactive learning tools by [offering](../o/offering.md) quick and accurate responses.
 
 ### Advantages
 

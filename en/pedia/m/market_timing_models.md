@@ -85,15 +85,15 @@ Diversifying investments across various [asset](../a/asset.md) classes and marke
 
 ### Renaissance Technologies
 
-Renaissance Technologies is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies and use of [mathematical models](../m/mathematical_models_in_trading.md) to drive [market timing](../m/market_timing.md). [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies and use of [mathematical models](../m/mathematical_models_in_trading.md) to drive [market timing](../m/market_timing.md). Renaissance Technologies
 
 ### Two Sigma
 
-Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to build sophisticated [trading algorithms](../t/trading_algorithms.md) that rely on [market timing](../m/market_timing.md) models. [Two Sigma](https://www.twosigma.com)
+Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to build sophisticated [trading algorithms](../t/trading_algorithms.md) that rely on [market timing](../m/market_timing.md) models. Two Sigma
 
 ### Citadel Securities
 
-Citadel Securities employs extensive data analysis and [market timing](../m/market_timing.md) techniques to execute trades with high precision. [Citadel Securities](https://www.citadelsecurities.com)
+Citadel Securities employs extensive data analysis and [market timing](../m/market_timing.md) techniques to execute trades with high precision. Citadel Securities
 
 ## Conclusion
 

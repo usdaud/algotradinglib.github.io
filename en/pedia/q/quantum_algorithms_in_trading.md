@@ -49,19 +49,19 @@ Quantum [Natural Language Processing](../n/natural_language_processing_(nlp)_in_
 Several companies are at the forefront of integrating [quantum computing](../q/quantum_computing_in_trading.md) into financial trading:
 
 ### IBM
-IBM has been pioneering [quantum computing](../q/quantum_computing_in_trading.md) research and offers the IBM Quantum Experience, a cloud-based platform for experimenting with quantum algorithms. More information about their work can be found at [IBM Q](https://www.ibm.com/quantum-computing/).
+IBM has been pioneering [quantum computing](../q/quantum_computing_in_trading.md) research and offers the IBM Quantum Experience, a cloud-based platform for experimenting with quantum algorithms. More information about their work can be found at IBM Q.
 
 ### D-Wave Systems
-D-Wave specializes in quantum annealers, a type of quantum computer that excels in solving [optimization](../o/optimization.md) problems. They focus on practical applications of [quantum computing](../q/quantum_computing_in_trading.md) and have partnerships with financial institutions exploring quantum trading applications. Visit [D-Wave](https://www.dwavesys.com/) for more information.
+D-Wave specializes in quantum annealers, a type of quantum computer that excels in solving [optimization](../o/optimization.md) problems. They focus on practical applications of [quantum computing](../q/quantum_computing_in_trading.md) and have partnerships with financial institutions exploring quantum trading applications. Visit D-Wave for more information.
 
 ### Rigetti Computing
-Rigetti Computing provides full-stack [quantum computing](../q/quantum_computing_in_trading.md) services, [offering](../o/offering.md) both hardware and software solutions. They work on developing quantum algorithms for various industries, including [finance](../f/finance.md). More details can be found on [Rigetti's website](https://www.rigetti.com/).
+Rigetti Computing provides full-stack [quantum computing](../q/quantum_computing_in_trading.md) services, [offering](../o/offering.md) both hardware and software solutions. They work on developing quantum algorithms for various industries, including [finance](../f/finance.md). More
 
 ### Google AI Quantum
-Google's [quantum computing](../q/quantum_computing_in_trading.md) efforts include developing quantum algorithms that can be applied in different domains, including financial trading. Google claimed quantum supremacy in 2019 with their Sycamore processor, marking a significant milestone in [quantum computing](../q/quantum_computing_in_trading.md). For more information, explore [Google AI Quantum](https://ai.google/research/teams/applied-science/quantum).
+Google's [quantum computing](../q/quantum_computing_in_trading.md) efforts include developing quantum algorithms that can be applied in different domains, including financial trading. Google claimed quantum supremacy in 2019 with their Sycamore processor, marking a significant milestone in [quantum computing](../q/quantum_computing_in_trading.md). For more information, explore Google AI Quantum.
 
 ### Xanadu
-Xanadu is focused on developing photonic quantum computers, which can be particularly useful for financial applications due to their speed and [efficiency](../e/efficiency.md). Xanadu’s platform also includes PennyLane, an [open](../o/open.md)-source software for [quantum machine learning](../q/quantum_machine_learning.md). Learn more about their efforts at [Xanadu](https://www.xanadu.ai/).
+Xanadu is focused on developing photonic quantum computers, which can be particularly useful for financial applications due to their speed and [efficiency](../e/efficiency.md). Xanadu’s platform also includes PennyLane, an [open](../o/open.md)-source software for [quantum machine learning](../q/quantum_machine_learning.md). Learn more about their efforts at Xanadu.
 
 ## Challenges and Future Prospects
 While the promise of [quantum computing in trading](../q/quantum_computing_in_trading.md) is immense, several challenges need addressing:

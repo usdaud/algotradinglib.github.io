@@ -106,19 +106,19 @@ Controlling [leverage](../l/leverage.md) is crucial in algo trading, as using bo
 
 High-Frequency Trading is a form of [algorithmic trading](../a/algorithmic_trading.md) that executes a large number of orders at extremely high speeds. HFT algorithms must manage [risk](../r/risk.md) meticulously due to the high stakes and rapid [execution](../e/execution.md) involved.
 
-More information can be found on [Virtu Financial's website](https://www.virtu.com/) and [Citadel Securities' website](https://www.citadelsecurities.com/).
+
 
 ### Quantitative Funds
 
 Quantitative funds use complex [mathematical models](../m/mathematical_models_in_trading.md) to inform trading decisions. These funds rely heavily on [risk](../r/risk.md) and [return](../r/return.md) analysis to optimize their [trading algorithms](../t/trading_algorithms.md).
 
-You can explore more about [quantitative strategies](../q/quantitative_strategies_in_trading.md) on [Two Sigma's website](https://www.twosigma.com/) and [Renaissance Technologies' website](https://www.rentec.com/).
+You can explore more about [quantitative strategies](../q/quantitative_strategies_in_trading.md) on Two Sigma's online platform and Renaissance Technologies' online platform.
 
 ### Robo-Advisors
 
 Robo-advisors use algorithms to build and manage investment portfolios for individual investors. They provide [risk](../r/risk.md) and [return](../r/return.md) analysis tailored to the [investor](../i/investor.md)’s [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
 
-Popular robo-advisors include [Betterment](https://www.betterment.com/) and [Wealthfront](https://www.wealthfront.com/).
+Popular robo-advisors include Betterment and Wealthfront.
 
 ## Conclusion
 

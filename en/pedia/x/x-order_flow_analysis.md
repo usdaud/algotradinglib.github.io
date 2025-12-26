@@ -7,7 +7,7 @@
 ### Components of Order Flow
 
 ##### Market Orders
-[Market](../m/market.md) orders are instructions to buy or sell an [asset](../a/asset.md) immediately at the current [market price](../m/market_price.md). These orders are executed promptly, often causing a shift in the balance between [supply](../s/supply.md) and [demand](../d/demand.md), which can lead to price movements. 
+[Market](../m/market.md) orders are instructions to buy or sell an [asset](../a/asset.md) immediately at the current [market price](../m/market_price.md). These orders are executed promptly, often causing a shift in the balance between [supply](../s/supply.md) and [demand](../d/demand.md), which can lead to price movements.
 
 ##### Limit Orders
 Limit orders are instructions to buy or sell an [asset](../a/asset.md) at a specific price or better. These orders are placed in the [order book](../o/order_book.md) and remain there until they are either fulfilled at the desired price or cancelled by the [trader](../t/trader.md). They add [liquidity](../l/liquidity.md) to the [market](../m/market.md).
@@ -34,13 +34,13 @@ Cumulative [Delta](../d/delta.md) is the difference between the [volume](../v/vo
 Several specialized tools and [software platforms](../s/software_platforms_for_trading.md) assist traders in conducting [order flow analysis](../o/order_flow_analysis.md), providing visualizations and detailed metrics to understand [market dynamics](../m/market_dynamics.md). Some of these include:
 
 ##### Jigsaw Trading
-[Jigsaw Trading](https://www.jigsawtrading.com/) offers a comprehensive suite of tools focused on [order flow analysis](../o/order_flow_analysis.md). Their platform provides intuitive displays of [market depth](../m/market_depth.md), [trade](../t/trade.md) [volume](../v/volume.md), and [order](../o/order.md) flow to help traders make informed decisions.
+Jigsaw Trading offers a comprehensive suite of tools focused on [order flow analysis](../o/order_flow_analysis.md). Their platform provides intuitive displays of [market depth](../m/market_depth.md), [trade](../t/trade.md) [volume](../v/volume.md), and [order](../o/order.md) flow to help traders make informed decisions.
 
 ##### Bookmap
-[Bookmap](https://www.bookmap.com/) is a powerful [order](../o/order.md) flow visualization platform that helps traders see the [market](../m/market.md) [liquidity](../l/liquidity.md) and identify significant buying and selling activities. The software provides detailed [heatmaps](../h/heatmaps_in_trading.md) and [volume](../v/volume.md) dots, representing the [bid and ask](../b/bid_and_ask.md) prices over time.
+Bookmap is a powerful [order](../o/order.md) flow visualization platform that helps traders see the [market](../m/market.md) [liquidity](../l/liquidity.md) and identify significant buying and selling activities. The software provides detailed [heatmaps](../h/heatmaps_in_trading.md) and [volume](../v/volume.md) dots, representing the [bid and ask](../b/bid_and_ask.md) prices over time.
 
 ##### Sierra Chart
-[Sierra Chart](https://www.sierrachart.com/) is a professional [trading platform](../t/trading_platform.md) that supports [order flow analysis](../o/order_flow_analysis.md) with various charting tools and integrations for different data feeds. It offers customizable charts and real-time data to support detailed [market](../m/market.md) analysis.
+Sierra Chart is a professional [trading platform](../t/trading_platform.md) that supports [order flow analysis](../o/order_flow_analysis.md) with various charting tools and integrations for different data feeds. It offers customizable charts and real-time data to support detailed [market](../m/market.md) analysis.
 
 ### Strategies Using Order Flow Analysis
 
@@ -61,7 +61,7 @@ Swing traders [hold](../h/hold.md) positions for several days or weeks, aiming t
 - **Real-Time Insights**: [Order flow analysis](../o/order_flow_analysis.md) provides real-time data on [market](../m/market.md) transactions, allowing traders to react quickly to [market](../m/market.md) changes.
 - **[Market Sentiment](../m/market_sentiment.md)**: Understanding the flow of orders helps traders gauge [market sentiment](../m/market_sentiment.md) and potential price movements.
 - **Precision**: It allows for precise entry and exit points, enhancing the accuracy of trades.
-  
+
 ##### Challenges
 - **Complexity**: Interpreting [order](../o/order.md) flow data requires a deep understanding of [market](../m/market.md) mechanics and trading experience.
 - **Data Overload**: The [volume](../v/volume.md) of data can be overwhelming, making it challenging to identify relevant signals.
@@ -70,4 +70,3 @@ Swing traders [hold](../h/hold.md) positions for several days or weeks, aiming t
 ### Conclusion
 
 [Order Flow Analysis](../o/order_flow_analysis.md) is a nuanced and sophisticated method of [market](../m/market.md) analysis that offers traders a deeper understanding of [market dynamics](../m/market_dynamics.md). By focusing on the flow and [volume](../v/volume.md) of orders, traders can make more informed and timely trading decisions. However, mastering this approach requires [robust](../r/robust.md) tools, a thorough understanding of [market](../m/market.md) mechanics, and continuous practice.
-

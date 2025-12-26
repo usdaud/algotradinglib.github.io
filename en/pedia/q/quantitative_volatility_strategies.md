@@ -84,17 +84,16 @@ The VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)) is 
 
 There are numerous platforms and tools available for implementing [volatility](../v/volatility.md) strategies:
 
-1. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
-2. **[Quantlib](../q/quantlib.md):** A free/[open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) (https://www.[quantlib](../q/quantlib.md).org/).
+1. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md) (
+2. **[Quantlib](../q/quantlib.md):** A free/[open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) (
 
 ### Institutional Use Cases
 
 Many [hedge](../h/hedge.md) funds and trading firms specialize in [volatility](../v/volatility.md) trading. Notable firms include:
 
-1. **Goldman Sachs:** A major player in [derivatives](../d/derivatives.md) trading (https://www.goldmansachs.com/).
-2. **Two Sigma:** Uses sophisticated algorithms to [trade](../t/trade.md) and manage portfolios (https://www.twosigma.com/).
+1. **Goldman Sachs:** A major player in [derivatives](../d/derivatives.md) trading (
+2. **Two Sigma:** Uses sophisticated algorithms to [trade](../t/trade.md) and manage portfolios (
 
 ## Conclusion
 
 Quantitative [volatility](../v/volatility.md) strategies [offer](../o/offer.md) a [robust](../r/robust.md) framework for trading and [risk management](../r/risk_management.md), harnessing the power of [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques. As markets evolve, these strategies continue to adapt, incorporating advancements in technology and [data analytics](../d/data_analytics.md) to maintain their edge.
-

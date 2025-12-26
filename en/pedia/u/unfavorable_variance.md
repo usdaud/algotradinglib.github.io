@@ -78,7 +78,7 @@ Unfavorable Labor Variance = Actual Labor Cost - Budgeted Labor Cost
 
 Here, the unfavorable labor variance is $5,000, indicating that the company needs to examine labor management and [cost control](../c/cost_control.md) measures to avoid such overspending in the future.
 
-## Management Actions 
+## Management Actions
 
 Upon identifying unfavorable variances, management must take specific actions to address the root causes and mitigate future occurrences. Some actionable steps include:
 

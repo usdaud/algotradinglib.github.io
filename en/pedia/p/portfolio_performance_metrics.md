@@ -193,4 +193,4 @@ Portfolio [performance metrics](../p/performance_metrics.md) provide vital insig
 
 ---
 
-For more information on these metrics and how to apply them in your [portfolio management](../p/portfolio_management.md) strategies, visit [Morningstar](https://www.morningstar.com/) or [MSCI](https://www.msci.com/).
+For more information on these metrics and how to apply them in your [portfolio management](../p/portfolio_management.md) strategies, visit Morningstar or MSCI.

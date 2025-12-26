@@ -2,6 +2,8 @@
 
 A time [deposit](../d/deposit.md), also known as a fixed [deposit](../d/deposit.md) or [term deposit](../t/term_deposit.md), is a [financial instrument](../f/financial_instrument.md) provided by banks and financial institutions that involves depositing a sum of [money](../m/money.md) for a fixed period, in [return](../r/return.md) for a higher [interest rate](../i/interest_rate.md) compared to regular savings accounts. The depositor agrees to keep the funds in the account for the specified term, and in [exchange](../e/exchange.md), the [bank](../b/bank.md) pays [interest](../i/interest.md) at a predetermined rate, which is usually higher than the rate offered for traditional savings accounts.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Features
 
 ### Fixed Term
@@ -86,7 +88,7 @@ While fixed returns provide [security](../s/security.md) and predictability, the
 
 ### Choosing a Financial Institution
 
-The first step in opening a time [deposit](../d/deposit.md) is selecting a [bank](../b/bank.md) or financial institution. It’s important to compare [interest](../i/interest.md) rates, terms, and conditions across different institutions to find the most favorable option. 
+The first step in opening a time [deposit](../d/deposit.md) is selecting a [bank](../b/bank.md) or financial institution. It’s important to compare [interest](../i/interest.md) rates, terms, and conditions across different institutions to find the most favorable option.
 
 ### Determining the Amount and Term
 
@@ -106,8 +108,7 @@ After the funds have been deposited, the institution [will](../w/will.md) provid
 
 ## Example of Time Deposit
 
-For instance, let's consider a [customer](../c/customer.md) opening a time [deposit](../d/deposit.md) at a [bank](../b/bank.md) such as HSBC [HSBC Personal Banking](https://www.hsbc.com). The [deposit](../d/deposit.md) amount is $10,000 with a term of 1 year and an annual [interest rate](../i/interest_rate.md) of 2.5%. At the end of the term, the depositor would receive their initial $10,000 plus $250 in [interest](../i/interest.md), assuming the [interest](../i/interest.md) is not compounded. The exact [interest](../i/interest.md) earned can be calculated using the formula:
-
+For instance, let's consider a [customer](../c/customer.md) opening a time [deposit](../d/deposit.md) at a [bank](../b/bank.md) such as HSBC HSBC Personal Banking. The [deposit](../d/deposit.md) amount is $10,000 with a term of 1 year and an annual [interest rate](../i/interest_rate.md) of 2.5%. At the end of the term, the depositor would receive their initial $10,000 plus $250 in [interest](../i/interest.md), assuming the [interest](../i/interest.md) is not compounded. The exact [interest](../i/interest.md) earned can be calculated using the formula
 \[ \text{Interest Earned} = \text{[Principal](../p/principal.md)} \times \text{Rate} \times \text{Time} \]
 
 In this case:

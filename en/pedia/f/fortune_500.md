@@ -25,10 +25,10 @@ The Fortune 500 list serves [multiple](../m/multiple.md) roles in the [business]
 
 The Fortune 500 list has featured some of the most influential and high-profile companies in the world. These companies often lead their respective industries in terms of [revenue](../r/revenue.md), innovation, and [market](../m/market.md) impact. Some remarkable ones over the years have included:
 
-- **Walmart:** Consistently at the top of the Fortune 500 list for several years, Walmart is a multinational retailer known for its massive [revenue](../r/revenue.md) and wide-ranging influence in the retail sector. [Walmart](https://corporate.walmart.com/)
-- **ExxonMobil:** A leading oil and gas company, ExxMobil often ranks highly due to its extensive global operations and significant influence in the [energy sector](../e/energy_sector.md). [ExxonMobil](https://corporate.exxonmobil.com/)
-- **Apple:** Known for its innovation in technology and electronics, Apple Inc. has been a mainstay near the top of the Fortune 500 list due to its substantial [revenue](../r/revenue.md) from products like the iPhone. [Apple](https://www.apple.com/)
-- **[Berkshire Hathaway](../b/berkshire_hathaway.md):** The [holding company](../h/holding_company.md) led by Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) has a diverse [range](../r/range.md) of subsidiaries and significant [revenue](../r/revenue.md), often placing it high on the list. [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+- **Walmart:** Consistently at the top of the Fortune 500 list for several years, Walmart is a multinational retailer known for its massive [revenue](../r/revenue.md) and wide-ranging influence in the retail sector. Walmart
+- **ExxonMobil:** A leading oil and gas company, ExxMobil often ranks highly due to its extensive global operations and significant influence in the [energy sector](../e/energy_sector.md). ExxonMobil
+- **Apple:** Known for its innovation in technology and electronics, Apple Inc. has been a mainstay near the top of the Fortune 500 list due to its substantial [revenue](../r/revenue.md) from products like the iPhone. Apple
+- **[Berkshire Hathaway](../b/berkshire_hathaway.md):** The [holding company](../h/holding_company.md) led by Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) has a diverse [range](../r/range.md) of subsidiaries and significant [revenue](../r/revenue.md), often placing it high on the list. Berkshire Hathaway
 
 ## Sectoral Representation
 

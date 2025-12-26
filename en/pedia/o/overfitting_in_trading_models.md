@@ -40,5 +40,5 @@ Avoiding [overfitting](../o/overfitting.md) requires a thoughtful approach durin
 
 For further reading and tools to help with algo-trading and combating [overfitting](../o/overfitting.md), you can visit:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpha Vantage](https://www.alphavantage.co/)
+- QuantConnect
+- Alpha Vantage

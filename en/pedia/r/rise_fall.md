@@ -45,7 +45,3 @@ The Enron scandal shook public confidence in [corporate governance](../c/corpora
 ## Conclusion
 Enron serves as a seminal example of corporate [fraud](../f/fraud.md) and misgovernance. Its journey from a successful energy giant to a symbol of corporate malfeasance provides valuable lessons in ethics, [corporate governance](../c/corporate_governance.md), and regulatory oversight. The scandal prompted significant changes in [accounting](../a/accounting.md) regulations and [corporate governance](../c/corporate_governance.md), aiming to prevent such occurrences in the future.
 
-For more detailed information:
-- [Enron Official Website](http://www.enron.com/) (now redirects to a different entity but contains archival materials)
-- [Sarbanes-Oxley Act Summary](https://www.sec.gov/answers/sarbanesoxley.htm)
-

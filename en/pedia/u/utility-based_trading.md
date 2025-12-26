@@ -25,7 +25,7 @@ In [economics](../e/economics.md), a **[utility](../u/utility.md) function** rep
 Different forms of [utility functions](../u/utility_functions_in_trading.md) can be employed depending on the type of [risk](../r/risk.md) aversion:
 
 - **Linear [Utility](../u/utility.md) Function**: Represents [risk](../r/risk.md)-[neutral](../n/neutral.md) behavior, where the [trader](../t/trader.md) is indifferent to [risk](../r/risk.md).
-  
+
 - **Quadratic [Utility](../u/utility.md) Function**: A simple yet often inadequate representation due to lack of realism in higher moments.
 
 - **Exponential [Utility](../u/utility.md) Function**: Represents constant relative [risk](../r/risk.md) aversion (CRRA) and is widely used for its theoretical tractability.
@@ -53,7 +53,7 @@ At the core of [utility](../u/utility.md)-based trading is advanced mathematics.
 ### Advantages
 
 1. **Personalized Strategy**: Takes into account individual [risk](../r/risk.md) preferences, leading to customized investment strategies.
-   
+
 2. **[Risk Management](../r/risk_management.md)**: Balances [risk](../r/risk.md) with reward, potentially leading to more stable returns.
 
 3. **Objective Decision-Making**: Provides a clear framework for making trading decisions, reducing emotional bias.
@@ -61,7 +61,7 @@ At the core of [utility](../u/utility.md)-based trading is advanced mathematics.
 ### Challenges
 
 1. **Complexity**: Developing and implementing [utility](../u/utility.md)-based models is mathematically and computationally demanding.
-   
+
 2. **Data Dependency**: Requires accurate and timely [market](../m/market.md) data for effective implementation.
 
 3. **Parameter Estimation**: Determining the correct parameters for the [utility](../u/utility.md) function can be challenging and may require frequent adjustments.
@@ -70,11 +70,11 @@ At the core of [utility](../u/utility.md)-based trading is advanced mathematics.
 
 [Utility](../u/utility.md)-based trading has been adopted by various financial institutions and [hedge](../h/hedge.md) funds due to its [robust](../r/robust.md) approach to [risk management](../r/risk_management.md) and personalized strategy building.
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) is a prominent platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md), including support for [utility](../u/utility.md)-based strategies.
-  
-- **Quantitative Brokers**: [Quantitative Brokers](https://www.quantitativebrokers.com) integrates scientific trading principles, including [utility](../u/utility.md)-based models, to drive [execution algorithms](../e/execution_algorithms.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect is a prominent platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md), including support for [utility](../u/utility.md)-based strategies.
 
-- **Numerai**: [Numerai](https://numer.ai) leverages [machine learning](../m/machine_learning.md) models to predict [asset](../a/asset.md) prices, some of which incorporate [utility](../u/utility.md)-based [optimization](../o/optimization.md) to enhance [trading strategies](../t/trading_strategies.md).
+- **Quantitative Brokers**: Quantitative Brokers integrates scientific trading principles, including [utility](../u/utility.md)-based models, to drive [execution algorithms](../e/execution_algorithms.md).
+
+- **Numerai**: Numerai leverages [machine learning](../m/machine_learning.md) models to predict [asset](../a/asset.md) prices, some of which incorporate [utility](../u/utility.md)-based [optimization](../o/optimization.md) to enhance [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

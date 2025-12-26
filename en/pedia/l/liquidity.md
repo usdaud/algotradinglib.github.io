@@ -72,7 +72,7 @@ Diversifying investments across [asset](../a/asset.md) classes, sectors, and geo
 [Derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md) can provide liquidity by allowing participants to [hedge](../h/hedge.md) positions or speculate on price movements without owning the [underlying asset](../u/underlying_asset.md).
 
 ### Automated Market Making (AMM)
-In the realm of [algorithmic trading](../a/accountability.md) and fintech, [Automated Market Making](../a/automated_market_making.md) (AMM) systems provide liquidity without the need for a central [order book](../o/order_book.md). Examples include decentralized exchanges like Uniswap, which use algorithms to [quote](../q/quote.md) prices and facilitate trades.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and fintech, [Automated Market Making](../a/automated_market_making.md) (AMM) systems provide liquidity without the need for a central [order book](../o/order_book.md). Examples include decentralized exchanges like Uniswap, which use algorithms to [quote](../q/quote.md) prices and facilitate trades.
 
 ## Real-World Examples
 
@@ -86,7 +86,7 @@ The [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md) (Forex
 Cryptocurrency exchanges like [Binance](../b/binance.md) and [Coinbase](../c/coinbase.md) demonstrate varied liquidity levels depending on the specific digital [asset](../a/asset.md) being traded. Major cryptocurrencies like [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) generally exhibit higher liquidity compared to lesser-known altcoins.
 
 For more information on these exchanges, you can visit:
-- [Binance](https://www.binance.com/)
-- [Coinbase](https://www.coinbase.com/)
+- Binance
+- Coinbase
 
 In summary, liquidity is an essential aspect of [financial markets](../f/financial_market.md), affecting everything from individual assets to the broader [market dynamics](../m/market_dynamics.md). Understanding the factors influencing liquidity, the various types of liquidity, and the tools to measure and manage it is crucial for investors, traders, and financial institutions alike.

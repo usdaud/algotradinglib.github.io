@@ -22,9 +22,9 @@ Clearing houses, also known as central counterparties (CCPs), are organizations 
 
 ### Major Clearing Houses
 
-1. **The [Depository](../d/depository.md) [Trust](../t/trust.md) & Clearing [Corporation](../c/corporation.md) (DTCC)**: Operating in the United States, the DTCC provides [clearing and settlement](../c/clearing_and_settlement.md) services for a wide [range](../r/range.md) of financial instruments, including equities and [fixed income](../f/fixed_income.md) products. [DTCC](http://www.dtcc.com/)
-2. **LCH.Clearnet**: Based in Europe, LCH.Clearnet offers clearing services for both financial and [commodity](../c/commodity.md) markets. They clear a wide [range](../r/range.md) of [asset](../a/asset.md) classes, including [interest rate swaps](../i/interest_rate_swaps.md) and [credit default swaps](../c/credit_default_swaps.md). [LCH](https://www.lch.com/)
-3. **CME Clearing**: A division of the Chicago Mercantile [Exchange](../e/exchange.md) (CME), it provides [clearing and settlement](../c/clearing_and_settlement.md) services for [futures](../f/futures.md) and [options on futures](../o/options_on_futures.md). [CME Group](https://www.cmegroup.com/clearing.html)
+1. **The [Depository](../d/depository.md) [Trust](../t/trust.md) & Clearing [Corporation](../c/corporation.md) (DTCC)**: Operating in the United States, the DTCC provides [clearing and settlement](../c/clearing_and_settlement.md) services for a wide [range](../r/range.md) of financial instruments, including equities and [fixed income](../f/fixed_income.md) products. DTCC
+2. **LCH.Clearnet**: Based in Europe, LCH.Clearnet offers clearing services for both financial and [commodity](../c/commodity.md) markets. They clear a wide [range](../r/range.md) of [asset](../a/asset.md) classes, including [interest rate swaps](../i/interest_rate_swaps.md) and [credit default swaps](../c/credit_default_swaps.md). LCH
+3. **CME Clearing**: A division of the Chicago Mercantile [Exchange](../e/exchange.md) (CME), it provides [clearing and settlement](../c/clearing_and_settlement.md) services for [futures](../f/futures.md) and [options on futures](../o/options_on_futures.md). CME Group
 
 ## The Clearing Process
 

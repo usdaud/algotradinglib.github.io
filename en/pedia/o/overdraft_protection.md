@@ -7,9 +7,9 @@
 When a [customer](../c/customer.md) enrolls in [overdraft](../o/overdraft.md) protection, the [bank](../b/bank.md) links their [checking account](../c/checking_account.md) to another account, typically a [savings account](../s/savings_account.md), [credit card](../c/credit_card.md), or line of [credit](../c/credit.md). If the [checking account](../c/checking_account.md) does not have enough funds to cover a [transaction](../t/transaction.md), [money](../m/money.md) is automatically transferred from the linked account to cover the [shortfall](../s/shortfall.md). The [customer](../c/customer.md) may be charged a [fee](../f/fee.md) for this service, but it is generally lower than an [overdraft](../o/overdraft.md) [fee](../f/fee.md).
 
 1. **Linked Accounts**
-    - **[Savings Account](../s/savings_account.md):** Funds are transferred from the [customer](../c/customer.md)’s [savings account](../s/savings_account.md) to their [checking account](../c/checking_account.md) to cover the [transaction](../t/transaction.md).
-    - **[Credit Card](../c/credit_card.md):** The [bank](../b/bank.md) advances the [shortfall](../s/shortfall.md) amount from the [customer](../c/customer.md)’s [credit card](../c/credit_card.md).
-    - **Line of [Credit](../c/credit.md):** The [deficit](../d/deficit.md) is covered by a pre-approved line of [credit](../c/credit.md), and the [customer](../c/customer.md) [will](../w/will.md) need to repay this amount along with any [interest](../i/interest.md).
+ - **[Savings Account](../s/savings_account.md):** Funds are transferred from the [customer](../c/customer.md)’s [savings account](../s/savings_account.md) to their [checking account](../c/checking_account.md) to cover the [transaction](../t/transaction.md).
+ - **[Credit Card](../c/credit_card.md):** The [bank](../b/bank.md) advances the [shortfall](../s/shortfall.md) amount from the [customer](../c/customer.md)’s [credit card](../c/credit_card.md).
+ - **Line of [Credit](../c/credit.md):** The [deficit](../d/deficit.md) is covered by a pre-approved line of [credit](../c/credit.md), and the [customer](../c/customer.md) [will](../w/will.md) need to repay this amount along with any [interest](../i/interest.md).
 
 ## Advantages of Overdraft Protection
 
@@ -50,7 +50,7 @@ Customers can employ several strategies to avoid [overdraft](../o/overdraft.md) 
 
 [Bank](../b/bank.md) of America provides [overdraft](../o/overdraft.md) protection to its account holders by linking their [checking account](../c/checking_account.md) to a [savings account](../s/savings_account.md), [credit card](../c/credit_card.md), or line of [credit](../c/credit.md). The service ensures that the necessary funds are transferred to cover any [shortfall](../s/shortfall.md) in the [checking account](../c/checking_account.md), preventing [transaction](../t/transaction.md) declines.
 
-Their fees and terms for [overdraft](../o/overdraft.md) protection can be found on the [Bank of America Overdraft Protection](https://www.bankofamerica.com/deposits/manage/faq-overdraft-services.go) page.
+Their fees and terms for [overdraft](../o/overdraft.md) protection can be found on the Bank of America Overdraft Protection page.
 
 ## Impact on Credit Scores
 

@@ -1,8 +1,8 @@
 # Group of 3 (G-3)
 
-The Group of 3, commonly abbreviated as G-3, refers to a trio of countries or organizations formed to collaborate on various economic, political, and strategic issues. In different contexts, the G-3 can refer to different groups. In the realm of international relations, it may refer to a group comprising Guatemala, El Salvador, and Honduras, or historically the trio of Colombia, Mexico, and Venezuela. However, in the context of [algorithmic trading](../a/accountability.md) (or 'algotrading'), the term G-3 is less specific to a predefined set of countries and more generally refers to three key components or stakeholders influencing the field.
+The Group of 3, commonly abbreviated as G-3, refers to a trio of countries or organizations formed to collaborate on various economic, political, and strategic issues. In different contexts, the G-3 can refer to different groups. In the realm of international relations, it may refer to a group comprising Guatemala, El Salvador, and Honduras, or historically the trio of Colombia, Mexico, and Venezuela. However, in the context of [algorithmic trading](../a/algorithmic_trading.md) (or 'algotrading'), the term G-3 is less specific to a predefined set of countries and more generally refers to three key components or stakeholders influencing the field.
 
-In the context of [algorithmic trading](../a/accountability.md), we can broadly classify the G-3 into the following components:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), we can broadly classify the G-3 into the following components:
 
 1. **Quantitative Analysts (Quants)**
 2. **Trading Platforms and Technology Providers**
@@ -14,7 +14,7 @@ Quantitative Analysts, commonly known as Quants, are professionals who apply mat
 
 ### Role of Quants
 
-Quants play a pivotal role in [algorithmic trading](../a/accountability.md). They are responsible for developing and implementing complex [trading algorithms](../t/trading_algorithms.md) based on [quantitative models](../q/quantitative_models.md). These models attempt to predict [market](../m/market.md) movements and generate [trading signals](../t/trading_signals.md), which are then executed automatically by the trading system.
+Quants play a pivotal role in [algorithmic trading](../a/algorithmic_trading.md). They are responsible for developing and implementing complex [trading algorithms](../t/trading_algorithms.md) based on [quantitative models](../q/quantitative_models.md). These models attempt to predict [market](../m/market.md) movements and generate [trading signals](../t/trading_signals.md), which are then executed automatically by the trading system.
 
 ### Key Responsibilities
 
@@ -25,9 +25,9 @@ Quants play a pivotal role in [algorithmic trading](../a/accountability.md). The
 
 ### Notable Organizations Employing Quants
 
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
-- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com/)
-- **Citadel**: [Citadel](https://www.citadel.com/)
+- **Two Sigma**: Two Sigma
+- **Renaissance Technologies**: Renaissance Technologies
+- **Citadel**: Citadel
 
 ## Trading Platforms and Technology Providers
 
@@ -40,9 +40,9 @@ Trading platforms and technology providers are essential for the [execution](../
 
 ### Popular Trading Platforms
 
-- **MetaTrader**: [MetaTrader](https://www.metatrader5.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **MetaTrader**: MetaTrader
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Bloomberg Terminal
 
 ### Key Features of Trading Platforms
 
@@ -57,17 +57,17 @@ Regulatory bodies ensure that trading activities comply with laws and regulation
 
 ### Major Regulatory Bodies
 
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: [SEC](https://www.sec.gov/)
-- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: [CFTC](https://www.cftc.gov/)
-- **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: [FINRA](https://www.finra.org/)
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: SEC
+- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: CFTC
+- **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: FINRA
 
 ### Role of Regulatory Bodies in Algotrading
 
-Regulatory bodies play a crucial role in monitoring [algorithmic trading](../a/accountability.md) activities. Their functions include:
+Regulatory bodies play a crucial role in monitoring [algorithmic trading](../a/algorithmic_trading.md) activities. Their functions include:
 
 - **Surveillance and Monitoring**: Keeping an eye on trading patterns to detect fraudulent or manipulative activities.
 - **Compliance Enforcement**: Ensuring that trading practices adhere to legal standards and ethical guidelines.
-- **[Market](../m/market.md) Stability**: Implementing measures to prevent [market](../m/market.md) disruptions due to [algorithmic trading](../a/accountability.md), such as circuit breakers.
+- **[Market](../m/market.md) Stability**: Implementing measures to prevent [market](../m/market.md) disruptions due to [algorithmic trading](../a/algorithmic_trading.md), such as circuit breakers.
 - **[Transparency](../t/transparency.md)**: Mandating disclosures that provide [transparency](../t/transparency.md) about [trading strategies](../t/trading_strategies.md) and operations.
 
 ### Regulatory Challenges
@@ -78,6 +78,6 @@ Regulatory bodies play a crucial role in monitoring [algorithmic trading](../a/a
 
 ## Conclusion
 
-The concept of the Group of 3 (G-3) in [algorithmic trading](../a/accountability.md) broadly encompasses the roles of Quantitative Analysts, Trading Platforms and Technology Providers, and Regulatory Bodies. These three key components form the cornerstone of the algotrading ecosystem.
+The concept of the Group of 3 (G-3) in [algorithmic trading](../a/algorithmic_trading.md) broadly encompasses the roles of Quantitative Analysts, Trading Platforms and Technology Providers, and Regulatory Bodies. These three key components form the cornerstone of the algotrading ecosystem.
 
-Quants develop sophisticated models that drive algorithmic strategies, while trading platforms and technology providers [offer](../o/offer.md) the necessary [infrastructure](../i/infrastructure.md) for seamless [execution](../e/execution.md). Regulatory bodies, on the other hand, ensure the [market](../m/market.md) operates with integrity and [transparency](../t/transparency.md). Together, they form a [robust](../r/robust.md) framework facilitating the growth and sustainability of [algorithmic trading](../a/accountability.md).
+Quants develop sophisticated models that drive algorithmic strategies, while trading platforms and technology providers [offer](../o/offer.md) the necessary [infrastructure](../i/infrastructure.md) for seamless [execution](../e/execution.md). Regulatory bodies, on the other hand, ensure the [market](../m/market.md) operates with integrity and [transparency](../t/transparency.md). Together, they form a [robust](../r/robust.md) framework facilitating the growth and sustainability of [algorithmic trading](../a/algorithmic_trading.md).

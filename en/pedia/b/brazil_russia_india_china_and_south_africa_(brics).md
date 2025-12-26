@@ -32,7 +32,7 @@ BRICS nations cooperate across various sectors, including economic policies, hum
 
 ### New Development Bank (NDB)
 
-The New Development [Bank](../b/bank.md), formerly known as the BRICS Development [Bank](../b/bank.md), was established in 2014 for development projects. With its headquarters in Shanghai, China, the NDB aims to support public or private projects through loans, guarantees, [equity](../e/equity.md) participation, and other financial instruments. More about the NDB can be found on their official website: [NDB official site](https://www.ndb.int/).
+The New Development [Bank](../b/bank.md), formerly known as the BRICS Development [Bank](../b/bank.md), was established in 2014 for development projects. With its headquarters in Shanghai, China, the NDB aims to support public or private projects through loans, guarantees, [equity](../e/equity.md) participation, and other financial instruments.
 
 ### Contingent Reserve Arrangement (CRA)
 
@@ -42,7 +42,7 @@ The CRA is a framework among BRICS nations aimed at providing protection against
 
 BRICS countries significantly contribute to the world's gross domestic product (GDP). As of recent data, these countries collectively make up more than 20% of the global [economy](../e/economy.md). Here is a brief overview of their economic performance:
 
-- **Brazil**: Currently ranks as the 12th largest [economy](../e/economy.md) in the world with a GDP of approximately $1.4 trillion. 
+- **Brazil**: Currently ranks as the 12th largest [economy](../e/economy.md) in the world with a GDP of approximately $1.4 trillion.
 - **Russia**: Holds the 11th position globally with a GDP nearing $1.5 trillion.
 - **India**: The fifth-largest [economy](../e/economy.md) with a GDP of about $2.8 trillion.
 - **China**: Second largest worldwide with an immense GDP of around $14 trillion.

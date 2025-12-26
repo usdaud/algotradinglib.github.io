@@ -1,6 +1,6 @@
 # Replacement Rate
 
-The replacement rate is a crucial metric in [economics](../e/economics.md) and [finance](../f/finance.md), often used to gauge the adequacy of retirement [income](../i/income.md) systems or the potential [revenue](../r/revenue.md) generation of assets. Understanding the replacement rate is essential for policymakers, financial planners, and investors alike. This detailed analysis explores the concept of replacement rate, its applications, different types of replacement rates, factors influencing it, and its significance in various financial contexts. 
+The replacement rate is a crucial metric in [economics](../e/economics.md) and [finance](../f/finance.md), often used to gauge the adequacy of retirement [income](../i/income.md) systems or the potential [revenue](../r/revenue.md) generation of assets. Understanding the replacement rate is essential for policymakers, financial planners, and investors alike. This detailed analysis explores the concept of replacement rate, its applications, different types of replacement rates, factors influencing it, and its significance in various financial contexts.
 
 ## Understanding Replacement Rate
 
@@ -99,6 +99,6 @@ Despite its importance, the replacement rate metric has certain challenges and c
 
 The replacement rate is a foundational concept in [retirement planning](../r/retirement_planning.md) and financial advisory. By understanding the nuances and calculations of replacement rates, individuals and financial advisors can make informed decisions about savings, investments, and [retirement planning](../r/retirement_planning.md). Policymakers can also use replacement rates to design better [social security](../s/social_security.md) and pension systems. As the economic landscape evolves, the replacement rate [will](../w/will.md) continue to be a critical metric in ensuring financial [security](../s/security.md) and stability for retirees worldwide.
 
-For more detailed information on pension plans and [retirement planning](../r/retirement_planning.md), you can refer to companies like Vanguard at [Vanguard Retirement](https://investor.vanguard.com/retirement).
+For more detailed information on pension plans and [retirement planning](../r/retirement_planning.md), you can refer to companies like Vanguard at Vanguard Retirement.
 
 Understanding and managing replacement rates effectively can lead to more secure and prosperous retirement outcomes, ensuring that individuals can enjoy their post-working years with financial peace of mind.

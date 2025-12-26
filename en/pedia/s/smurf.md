@@ -46,7 +46,7 @@ Regulatory bodies across the globe have strict mandates to monitor and identify 
 1. **HSBC and [Money Laundering](../m/money_laundering.md) Scandal**: HSBC was implicated in a [money laundering](../m/money_laundering.md) scandal in 2012 where they were found to have knowingly allowed over $670 billion in [wire transfers](../w/wire_transfers.md) and more than $9.4 billion in purchases of U.S. [currency](../c/currency.md) involving [money laundering](../m/money_laundering.md) activities. Despite their [internal controls](../i/internal_controls.md), smurfing practices were able to circumvent their monitoring systems.
 2. **Liberty Reserve**: An extensive example of smurfing was observed in the Liberty Reserve case, where the [digital currency](../d/digital_currency.md) operator was shut down in 2013. Liberty Reserve was accused of laundering $6 billion through structuring transactions to stay below the radar of financial authorities.
 
-For more detailed information and tools for detecting smurfing, visit platforms dealing with financial compliance and AML solutions, like [Refinitiv](https://www.refinitiv.com/en/financial-risk/anti-money-laundering) or [FinCEN](https://www.fincen.gov).
+For more detailed information and tools for detecting smurfing, visit platforms dealing with financial compliance and AML solutions, like Refinitiv or FinCEN.
 
 ---
 

@@ -28,17 +28,17 @@ The net cost (or [debit](../d/debit.md)) for this vertical put spread would be (
 
 ### Potential Outcomes
 
-1. **Stock XYZ Falls Below $90**: 
-   - The [investor](../i/investor.md)'s [profit](../p/profit.md) [will](../w/will.md) be the difference between the strike prices minus the [net premium](../n/net_premium.md) paid.
-   - Maximum [profit](../p/profit.md) = ($100 - $90) - $3 = $7 per share.
+1. **Stock XYZ Falls Below $90**:
+ - The [investor](../i/investor.md)'s [profit](../p/profit.md) [will](../w/will.md) be the difference between the strike prices minus the [net premium](../n/net_premium.md) paid.
+ - Maximum [profit](../p/profit.md) = ($100 - $90) - $3 = $7 per share.
 
-2. **Stock XYZ Ends Between $90 and $100**: 
-   - The [long put](../l/long_put.md) expires with [intrinsic value](../i/intrinsic_value.md), and the [short put](../s/short_put.md) expires worthless.
-   - The [investor](../i/investor.md)'s loss is mitigated partially by the [value](../v/value.md) of the long [put option](../p/put.md).
+2. **Stock XYZ Ends Between $90 and $100**:
+ - The [long put](../l/long_put.md) expires with [intrinsic value](../i/intrinsic_value.md), and the [short put](../s/short_put.md) expires worthless.
+ - The [investor](../i/investor.md)'s loss is mitigated partially by the [value](../v/value.md) of the long [put option](../p/put.md).
 
 3. **Stock XYZ Ends Above $100**:
-   - Both [put options](../p/put_options.md) expire worthless, and the [investor](../i/investor.md)'s maximum loss is the [net premium](../n/net_premium.md) paid.
-   - Maximum loss = $3.
+ - Both [put options](../p/put_options.md) expire worthless, and the [investor](../i/investor.md)'s maximum loss is the [net premium](../n/net_premium.md) paid.
+ - Maximum loss = $3.
 
 ## Strategy Profile
 ### Risk Profile
@@ -82,13 +82,13 @@ A more complex strategy that combines a vertical put spread with a vertical call
 
 ## Popular Platforms for Trading Vertical Put Spreads
 ### Interactive Brokers
-[Interactive Brokers](https://www.interactivebrokers.com) offers a comprehensive [options](../o/options.md) [trading platform](../t/trading_platform.md) with tools for creating and managing vertical put [spreads](../s/spreads.md).
+Interactive Brokers offers a comprehensive [options](../o/options.md) [trading platform](../t/trading_platform.md) with tools for creating and managing vertical put [spreads](../s/spreads.md).
 
 ### thinkorswim by TD Ameritrade
-[thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html) is known for its [robust](../r/robust.md) [options](../o/options.md) trading capabilities, including advanced charting and analytics.
+thinkorswim is known for its [robust](../r/robust.md) [options](../o/options.md) trading capabilities, including advanced charting and analytics.
 
 ### E*TRADE
-[E*TRADE](https://us.etrade.com/platforms/power-etrade) provides a user-friendly interface for trading vertical put [spreads](../s/spreads.md) along with educational resources for traders of all levels.
+E*TRADE provides a user-friendly interface for trading vertical put [spreads](../s/spreads.md) along with educational resources for traders of all levels.
 
 ## Conclusion
 Vertical Put [Spreads](../s/spreads.md) [offer](../o/offer.md) traders a versatile tool for speculating on bearish [market](../m/market.md) moves while managing [risk](../r/risk.md). By simultaneously buying and selling [put options](../p/put_options.md) at different strike prices, traders can define their potential gains and losses, providing a structured approach to trading in volatile markets. Understanding the mechanics, potential outcomes, and strategic applications of vertical put [spreads](../s/spreads.md) is essential for any [trader](../t/trader.md) aiming to utilize this strategy effectively.

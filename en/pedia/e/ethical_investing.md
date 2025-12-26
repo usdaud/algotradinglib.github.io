@@ -36,9 +36,9 @@ ESG criteria are a set of standards for a company’s operations that ethically-
 
 Ethical investment funds, also known as socially responsible funds, are mutual funds or [exchange](../e/exchange.md)-traded funds (ETFs) that incorporate ESG criteria into their investment process. These funds allow investors to diversify their portfolios while maintaining a commitment to [ethical standards](../e/ethical_standards_in_trading.md). Examples include:
 
-- **Pax World Funds**: [Pax World](https://paxworld.com/)
-- **Calvert Research and Management**: [Calvert](https://www.calvert.com/)
-- **Domini Impact Investments**: [Domini](https://www.domini.com/)
+- **Pax World Funds**: Pax World
+- **Calvert Research and Management**: Calvert
+- **Domini Impact Investments**: Domini
 
 ### Regulatory and Reporting Standards
 
@@ -56,7 +56,7 @@ There are several frameworks and standards that guide and support ethical [inves
 
 ### Aligning Investments with Personal Values
 
-Ethical [investing](../i/investing.md) allows individuals to put their [money](../m/money.md) where their values are, making a tangible impact on the causes they care about. 
+Ethical [investing](../i/investing.md) allows individuals to put their [money](../m/money.md) where their values are, making a tangible impact on the causes they care about.
 
 ### Long-term Risk Management
 

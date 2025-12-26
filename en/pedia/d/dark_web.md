@@ -7,7 +7,7 @@ The term 'Dark Web' refers to a part of the internet that is not indexed by trad
 The Dark Web is most commonly accessed through the Tor (The Onion Router) network. Tor is a software that enables anonymous communication online. Users install the Tor browser, which routes their internet traffic through a worldwide volunteer network consisting of thousands of relays. This obfuscates their location and usage from surveillance and traffic analysis.
 
 * **How Tor Works:** The Tor network encrypts data [multiple](../m/multiple.md) times and sends it through a circuit of randomly selected Tor relays (nodes). Each relay decrypts a single layer to uncover the next relay in the circuit, eventually reaching the intended site. This multilayer encryption led to the term "onion routing."
-* **Accessing the Dark Web:** Users typically access Tor sites with ".onion" domain names. These addresses are not available on standard browsers and must be accessed via the Tor browser, which can be downloaded from the [Tor Project](https://www.torproject.org/).
+* **Accessing the Dark Web:** Users typically access Tor sites with ".onion" domain names. These addresses are not available on standard browsers and must be accessed via the Tor browser, which can be downloaded from the Tor Project.
 * **Onion Services:** The servers hosting Dark Web content are also configured to use the same multilayer encryption for anonymous hosting. Websites like Facebook [offer](../o/offer.md) onion versions; for instance, Facebook’s onion service can be accessed at facebookcorewwwi.onion through the Tor network.
 
 ## Silk Road and Dark Markets
@@ -36,13 +36,12 @@ The anonymity and encryption offered by the Dark Web facilitate numerous illegal
 Despite the anonymity, various law enforcement agencies work to patrol and mitigate illegal activities on the Dark Web. Surveillance and investigation techniques have evolved to address the unique challenges posed by this hidden part of the internet.
 
 * **Operation Onymous:** A notable example, this multinational law enforcement operation led to the seizure of several Dark Web marketplaces and the arrest of their administrators.
-* **Cybersecurity Firms:** Companies like [Chainalysis](https://www.chainalysis.com/) and [Elliptic](https://www.elliptic.co/) specialize in [blockchain](../b/blockchain_in_trading.md) analysis to trace cryptocurrency transactions linked to illegal activity. 
-
+* **Cybersecurity Firms:** Companies like Chainalysis and Elliptic specialize in [blockchain](../b/blockchain_in_trading.md) analysis to trace cryptocurrency transactions linked to illegal activity.
 ## Ethical Hacking and Dark Web Monitoring
 
 Organizations and cybersecurity professionals also actively monitor the Dark Web for various reasons, including:
 
-* **Corporate [Security](../s/security.md):** Companies like [Terbium Labs](https://www.terbiumlabs.com/) provide services to monitor the Dark Web for data breaches, intellectual property theft, and other illicit activities impacting businesses.
+* **Corporate [Security](../s/security.md):** Companies like Terbium Labs provide services to monitor the Dark Web for data breaches, intellectual property theft, and other illicit activities impacting businesses.
 
 ## Dark Web Myths and Realities
 

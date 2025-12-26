@@ -63,7 +63,7 @@ Robert Shiller’s book "[Irrational Exuberance](../i/irrational_exuberance.md)"
 
 Academic studies have extensively explored herd behavior. For example, the work by Banerjee (1992) on "A Simple Model of Herd Behavior" provides a theoretical framework to understand why individuals follow the crowd despite having private information.
 
-https://www.nobelprize.org/prizes/economic-sciences/2013/shiller/biographical/
+
 
 ## Conclusion
 

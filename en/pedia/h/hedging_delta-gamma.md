@@ -18,7 +18,7 @@ In the absence of hedging, an [options](../o/options.md) portfolio is exposed to
 
 1. **Calculate [Delta](../d/delta.md) and [Gamma](../g/gamma.md)**: For each option in the portfolio, calculate the current [Delta](../d/delta.md) and [Gamma](../g/gamma.md). This requires up-to-date pricing models like the [Black-Scholes model](../b/black-scholes_model.md) or binomial trees.
 
-2. **Determine the Portfolio [Greeks](../g/greeks.md)**: Aggregate the individual Deltas and Gammas to determine the net [Greeks](../g/greeks.md) for the entire portfolio. 
+2. **Determine the Portfolio [Greeks](../g/greeks.md)**: Aggregate the individual Deltas and Gammas to determine the net [Greeks](../g/greeks.md) for the entire portfolio.
 
 3. **[Delta Neutral](../d/delta_neutral.md) Portfolio**: Adjust the position in the [underlying asset](../u/underlying_asset.md) to make the overall [Delta](../d/delta.md) of the portfolio zero. This typically involves buying or selling [shares](../s/shares.md) of the stock.
 
@@ -41,11 +41,11 @@ Example:
 
 Financial institutions, [hedge](../h/hedge.md) funds, and sophisticated traders use advanced [software platforms](../s/software_platforms_for_trading.md) and real-time data feeds to manage their [Delta](../d/delta.md)-[Gamma](../g/gamma.md) hedges. Some of the prominent tools and companies are:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal ([bloomberg.com/professional](https://www.bloomberg.com/professional/))**: Provides real-time [options](../o/options.md) pricing data, and [Greeks](../g/greeks.md) calculations, and supports complex [hedging strategies](../h/hedging_strategies.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal (bloomberg.com/professional)**: Provides real-time [options](../o/options.md) pricing data, and [Greeks](../g/greeks.md) calculations, and supports complex [hedging strategies](../h/hedging_strategies.md).
 
-- **Eikon by Refinitiv ([refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software))**: Another leading platform [offering](../o/offering.md) comprehensive analytics, pricing models, and [risk management](../r/risk_management.md) tools.
+- **Eikon by Refinitiv (refinitiv.com/en/products/eikon-trading-software)**: Another leading platform [offering](../o/offering.md) comprehensive analytics, pricing models, and [risk management](../r/risk_management.md) tools.
 
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like **Jane Street [Capital](../c/capital.md) ([janestreet.com](https://www.janestreet.com/))** and **DRW ([drw.com](https://drw.com/))** employ sophisticated algorithms for continuous [Delta](../d/delta.md)-[Gamma hedging](../g/gamma_hedging.md) as part of their [trading strategies](../t/trading_strategies.md).
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like **Jane Street [Capital](../c/capital.md) (janestreet.com)** and **DRW (drw.com)** employ sophisticated algorithms for continuous [Delta](../d/delta.md)-[Gamma hedging](../g/gamma_hedging.md) as part of their [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

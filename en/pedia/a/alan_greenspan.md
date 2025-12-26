@@ -5,20 +5,20 @@ Alan Greenspan, born March 6, 1926, in New York City, is a distinguished America
 ## Early Life and Education
 Alan Greenspan was born to a Hungarian-Jewish family. He showed an early talent for mathematics and music. Greenspan attended George Washington High School and later enrolled at the prestigious Juilliard School, focusing on clarinet and saxophone. However, his passion for [economics](../e/economics.md) overtook his musical ambitions, and he later attended New York University (NYU), earning a Bachelor of Science in [Economics](../e/economics.md) [summa cum laude](../s/summa_cum_laude.md) in 1948 and a Master of Arts in [Economics](../e/economics.md) in 1950. He also pursued advanced economic studies at Columbia University under the direction of famed [economist](../e/economist.md) Arthur Burns but did not complete his Ph.D. at the time.
 
-## Professional Career 
+## Professional Career
 
 ### Private Sector
 Before his long tenure at the Federal Reserve, Greenspan co-founded the economic consulting [firm](../f/firm.md) Townsend-Greenspan & Co., Inc., in 1954, an economic consultancy with which he remained until his appointment to the Federal Reserve in 1987.
 
 ### Chairman of the Federal Reserve
-Alan Greenspan was appointed Chairman of the Federal Reserve by President Ronald Reagan in August 1987, taking over from Paul Volcker. His term included [multiple](../m/multiple.md) reappointments by subsequent Presidents George H.W. Bush, Bill Clinton, and George W. Bush. 
+Alan Greenspan was appointed Chairman of the Federal Reserve by President Ronald Reagan in August 1987, taking over from Paul Volcker. His term included [multiple](../m/multiple.md) reappointments by subsequent Presidents George H.W. Bush, Bill Clinton, and George W. Bush.
 
 Greenspan's tenure is often remembered in several key phases:
 
 #### Black Monday (1987 Stock Market Crash)
 Just two months after his appointment, Greenspan faced the [stock market crash](../s/stock_market_crash.md) of October 19, 1987, known as [Black Monday](../b/black_monday.md). In response, Greenspan acted swiftly to ensure [liquidity](../l/liquidity.md) and calm the markets, helping to mitigate the broader economic impact. His actions during this period earned him praise for his crisis management skills.
 
-#### The 1990s Economic Expansion  
+#### The 1990s Economic Expansion
 During the 1990s, the U.S. experienced the longest peacetime economic [expansion](../e/expansion.md) in its history. Greenspan's policies during this period, characterized by relatively low [inflation](../i/inflation.md) and high growth, garnered substantial acclaim. He supported technological innovation and [productivity](../p/productivity.md) improvements, maintaining a low and stable [interest rate](../i/interest_rate.md) environment that contributed to the economic boom.
 
 #### The Dot-com Bubble
@@ -53,8 +53,8 @@ Greenspan has authored several books and many articles that continue to shape ec
 - **[Capitalism](../c/capitalism.md) in America: A History** (2018): Co-authored with Adrian Wooldridge, this book explores the evolution and impact of American [capitalism](../c/capitalism.md) from a historical perspective.
 
 ## External Links
-- [Alan Greenspan Official Website](http://www.alandgreenspan.com/)
-- [Greenspan Associates LLC](http://www.greenspanassociates.com/)
+-
+- Greenspan Associates LLC
 
 ## Conclusion
 

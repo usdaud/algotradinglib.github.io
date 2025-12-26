@@ -67,9 +67,9 @@ Changes in the [market](../m/market.md) conditions can impact forward contracts 
 
 The regulatory landscape for forward contracts, particularly in algo-trading, varies by jurisdiction. Noteworthy regulatory bodies include:
 
-- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: Regulates commodities and [derivatives](../d/derivatives.md) markets in the USA. [CFTC](https://www.cftc.gov)
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Oversees the securities markets in the USA. [SEC](https://www.sec.gov)
-- **Financial Conduct Authority (FCA)**: Regulates [financial markets](../f/financial_market.md) in the UK. [FCA](https://www.fca.org.uk)
+- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: Regulates commodities and [derivatives](../d/derivatives.md) markets in the USA. CFTC
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Oversees the securities markets in the USA. SEC
+- **Financial Conduct Authority (FCA)**: Regulates [financial markets](../f/financial_market.md) in the UK. FCA
 
 These organizations impose requirements such as reporting standards, anti-[fraud](../f/fraud.md) provisions, and minimum [capital](../c/capital.md) requirements to ensure [market](../m/market.md) integrity.
 

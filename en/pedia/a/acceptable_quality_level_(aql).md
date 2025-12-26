@@ -61,7 +61,7 @@ AQL is employed across various industries, such as:
 
 ## Case Study: Electronics Manufacturing
 
-In the electronics [manufacturing](../m/manufacturing.md) [industry](../i/industry.md), companies like [Flex](https://flex.com/) utilize AQL to maintain the quality of components such as semiconductors, circuit boards, and finished electronic goods. By applying AQL at different stages of production, these companies can ensure that defective parts do not reach customers, thereby maintaining brand reputation and [customer](../c/customer.md) satisfaction.
+In the electronics [manufacturing](../m/manufacturing.md) [industry](../i/industry.md), companies like Flex utilize AQL to maintain the quality of components such as semiconductors, circuit boards, and finished electronic goods. By applying AQL at different stages of production, these companies can ensure that defective parts do not reach customers, thereby maintaining brand reputation and [customer](../c/customer.md) satisfaction.
 
 ## Technological Integration
 

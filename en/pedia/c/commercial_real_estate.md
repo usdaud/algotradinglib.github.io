@@ -89,25 +89,22 @@ Technology is transforming commercial [real estate](../r/real_estate.md) in vari
 
 CBRE Group, Inc. is a global leader in commercial [real estate](../r/real_estate.md) services and investment. The company offers a wide [range](../r/range.md) of services, including [property management](../p/property_management.md), leasing, and [investment management](../i/investment_management.md).
 
-[CBRE Group, Inc. Website](https://www.cbre.com/)
+CBRE Group,
 
 ### JLL (Jones Lang LaSalle Incorporated)
 
 JLL is a professional services [firm](../f/firm.md) specializing in [real estate](../r/real_estate.md) and [investment management](../i/investment_management.md). The company provides services for various property types, including office, retail, industrial, and residential.
 
-[JLL Website](https://www.us.jll.com/)
 
 ### Cushman & Wakefield
 
 Cushman & Wakefield is a global [real estate](../r/real_estate.md) services [firm](../f/firm.md) that delivers [value](../v/value.md) for [real estate](../r/real_estate.md) occupiers and owners. Their services include agency leasing, [asset management](../a/asset_management.md), and [valuation](../v/valuation.md).
 
-[Cushman & Wakefield Website](https://www.cushmanwakefield.com/)
 
 ### Colliers International
 
 Colliers International is a leader in global [real estate](../r/real_estate.md) services, providing a [range](../r/range.md) of services including brokerage, [property management](../p/property_management.md), and investment advice.
 
-[Colliers International Website](https://www.colliers.com/)
 
 ## Conclusion
 

@@ -116,4 +116,4 @@ Ensuring the smooth implementation of policies to deepen [economic integration](
 
 The Organisation of Eastern Caribbean States plays a transformative role in bolstering unity and promoting socio-[economic growth](../e/economic_growth.md) in the region. Through continuous cooperation, collective action, and strategic initiatives, the OECS remains committed to uplift the [quality of life](../q/quality_of_life.md), ensure sustainable development, and foster an integrated and resilient Eastern Caribbean.
 
-For more information, one can visit the official website: [oecs.org](https://www.oecs.org).
+org.

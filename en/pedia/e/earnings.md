@@ -29,7 +29,7 @@ Earnings provide key quantitative metrics that can be fed into algorithms for co
 ## Methods of Using Earnings in Algorithmic Trading
 
 ### 1. **Earnings Surprise Models**
-Algorithms can be designed to [capitalize](../c/capitalize.md) on [earnings surprises](../e/earnings_surprises.md). These models analyze expected earnings versus actual reported earnings to predict [market](../m/market.md) reaction. 
+Algorithms can be designed to [capitalize](../c/capitalize.md) on [earnings surprises](../e/earnings_surprises.md). These models analyze expected earnings versus actual reported earnings to predict [market](../m/market.md) reaction.
 
 ### 2. **Trend Analysis**
 By analyzing historical earnings trends, algorithms can identify consistent growth patterns, which may indicate stable [long-term investments](../l/long-term_investments.md).
@@ -49,7 +49,7 @@ EPS is calculated as net [income](../i/income.md) divided by the outstanding num
 The P/E ratio compares a company’s stock price to its earnings per share. It helps assess whether a stock is [overvalued](../o/overvalued.md) or [undervalued](../u/undervalued.md).
 
 ### 3. **Earnings Yield**
-[Earnings yield](../e/earnings_yield.md) is the inverse of the P/E ratio, representing earnings per share as a percentage of the stock price. 
+[Earnings yield](../e/earnings_yield.md) is the inverse of the P/E ratio, representing earnings per share as a percentage of the stock price.
 
 ### 4. **Earnings Growth Rate**
 This metric evaluates the rate at which a company's earnings have been growing over a period. It is crucial for assessing future growth potential.
@@ -60,13 +60,13 @@ These margins indicate the percentage of [revenue](../r/revenue.md) that transla
 ## Case Studies: Companies Using Earnings in Algorithmic Trading
 
 ### 1. **Two Sigma**
-Two Sigma, a notable quantitative [hedge fund](../h/hedge_fund.md), leverages vast datasets, including earnings data, to execute high-frequency [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) integrates earnings analysis into its [machine learning](../m/machine_learning.md) models to predict stock price movements. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a notable quantitative [hedge fund](../h/hedge_fund.md), leverages vast datasets, including earnings data, to execute high-frequency [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) integrates earnings analysis into its [machine learning](../m/machine_learning.md) models to predict stock price movements. Two Sigma
 
 ### 2. **Renaissance Technologies**
-Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex algorithms that incorporate various earnings metrics to achieve unparalleled returns. By analyzing patterns in earnings reports, they identify profitable trading opportunities. [Renaissance Technologies](https://www.rentec.com/)
+Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex algorithms that incorporate various earnings metrics to achieve unparalleled returns. By analyzing patterns in earnings reports, they identify profitable trading opportunities. Renaissance Technologies
 
 ### 3. **Citadel LLC**
-Citadel employs a combination of fundamental and [quantitative research](../q/quantitative_research.md) in its [trading strategies](../t/trading_strategies.md). Earnings data play a vital role in their high-frequency trading and [market](../m/market.md)-making operations. [Citadel](https://www.citadel.com/)
+Citadel employs a combination of fundamental and [quantitative research](../q/quantitative_research.md) in its [trading strategies](../t/trading_strategies.md). Earnings data play a vital role in their high-frequency trading and [market](../m/market.md)-making operations. Citadel
 
 ## Tools and Software for Earnings Analysis
 
@@ -77,10 +77,10 @@ A [premium](../p/premium.md) tool, [Bloomberg Terminal](../b/bloomberg_terminal.
 Eikon provides access to earnings reports, [financial statements](../f/financial_statements.md), and analyst estimates. It supports algorithmic analysis with [robust](../r/robust.md) data feeds and analytical capabilities.
 
 ### 3. **QuantConnect**
-An [open](../o/open.md)-source platform, [QuantConnect](../q/quantconnect.md) provides access to financial data, including earnings, facilitating the development and [backtesting](../b/backtesting.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+An [open](../o/open.md)-source platform, [QuantConnect](../q/quantconnect.md) provides access to financial data, including earnings, facilitating the development and [backtesting](../b/backtesting.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). QuantConnect
 
 ### 4. **Alpha Vantage**
-[Alpha](../a/alpha.md) Vantage offers free APIs for real-time and historical financial data, including earnings, enabling developers to integrate this data into their [trading algorithms](../t/trading_algorithms.md). [Alpha Vantage](https://www.alphavantage.co/)
+[Alpha](../a/alpha.md) Vantage offers free APIs for real-time and historical financial data, including earnings, enabling developers to integrate this data into their [trading algorithms](../t/trading_algorithms.md). Alpha Vantage
 
 ## Challenges in Using Earnings Data
 

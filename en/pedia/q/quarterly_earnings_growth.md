@@ -48,16 +48,16 @@ Algorithms can parse language in [earnings](../e/earnings.md) reports and analys
 ## Real-World Applications and Case Studies
 
 ### 1. Renaissance Technologies
-Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [Fund](../f/fund.md), which employs sophisticated algorithms to analyze a plethora of financial metrics, including quarterly [earnings](../e/earnings.md) growth, to execute high-frequency [trading strategies](../t/trading_strategies.md). [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [Fund](../f/fund.md), which employs sophisticated algorithms to analyze a plethora of financial metrics, including quarterly [earnings](../e/earnings.md) growth, to execute high-frequency [trading strategies](../t/trading_strategies.md). Renaissance Technologies
 
 ### 2. Two Sigma Investments
-Two Sigma utilizes AI and [machine learning](../m/machine_learning.md) extensively in its [trading models](../t/trading_models.md). By crunching vast amounts of quarterly [earnings](../e/earnings.md) data, Two Sigma's algorithms can identify patterns and correlations that inform its investment decisions. [Two Sigma](https://www.twosigma.com/)
+Two Sigma utilizes AI and [machine learning](../m/machine_learning.md) extensively in its [trading models](../t/trading_models.md). By crunching vast amounts of quarterly [earnings](../e/earnings.md) data, Two Sigma's algorithms can identify patterns and correlations that inform its investment decisions. Two Sigma
 
 ### 3. Citadel
-Citadel's trading arm employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) that incorporate [fundamental analysis](../f/fundamental_analysis.md), including quarterly [earnings](../e/earnings.md) growth, to optimize its trading portfolio. Citadel's advanced analytics platforms dissect [earnings](../e/earnings.md) data to refine its [predictive models](../p/predictive_models_in_trading.md). [Citadel](https://www.citadel.com/)
+Citadel's trading arm employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) that incorporate [fundamental analysis](../f/fundamental_analysis.md), including quarterly [earnings](../e/earnings.md) growth, to optimize its trading portfolio. Citadel's advanced analytics platforms dissect [earnings](../e/earnings.md) data to refine its [predictive models](../p/predictive_models_in_trading.md). Citadel
 
 ### 4. D.E. Shaw Group
-The D.E. Shaw Group leverages [computational finance](../c/computational_finance.md) techniques to analyze [quarterly earnings reports](../q/quarterly_earnings_reports.md), identifying anomalies and trends that feed into its complex [trading algorithms](../t/trading_algorithms.md). [D. E. Shaw & Co.](https://www.deshaw.com/)
+The D.E. Shaw Group leverages [computational finance](../c/computational_finance.md) techniques to analyze [quarterly earnings reports](../q/quarterly_earnings_reports.md), identifying anomalies and trends that feed into its complex [trading algorithms](../t/trading_algorithms.md). D. E. Shaw & Co.
 
 ## Challenges and Limitations
 

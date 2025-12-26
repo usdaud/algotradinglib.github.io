@@ -76,7 +76,7 @@ The procedure for joining the WTO involves several steps:
 2. **Working Party Formation:** A working party, composed of interested WTO members, is created to examine the application.
 3. **Bilateral Negotiations:** The applicant country engages in [bilateral trade](../b/bilateral_trade.md) negotiations with any WTO member that expresses an [interest](../i/interest.md) in the accession process.
 4. **Protocol of Accession:** Once the negotiations are successfully completed, a Protocol of Accession is drafted and must be ratified by the applicant.
-5. **Membership Approval:** The General Council or Ministerial Conference approves the membership. 
+5. **Membership Approval:** The General Council or Ministerial Conference approves the membership.
 
 ## Trade Dispute Resolution
 
@@ -102,4 +102,4 @@ The WTO continues to play a pivotal role in global [trade](../t/trade.md). Howev
 
 The WTO remains a cornerstone of the global trading system, facilitating international [trade](../t/trade.md) through established rules and agreements. Despite facing numerous challenges, its role in maintaining [trade](../t/trade.md) [order](../o/order.md) and promoting economic stability worldwide cannot be underestimated. Continuous efforts to update its mechanisms and address modern [trade](../t/trade.md) issues [will](../w/will.md) be vital for the WTO's relevance and effectiveness in the future.
 
-For more detailed information about the WTO, you can visit their official website: [WTO Official Website](https://www.wto.org).
+For more detailed information about the WTO,

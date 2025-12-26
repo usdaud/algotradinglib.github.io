@@ -1,6 +1,6 @@
 # Holding Period Return (Yield)
 
-The [Holding Period Return](../h/holding_period_return.md) (HPR), or [yield](../y/yield.md), is a critical concept in [finance](../f/finance.md) and investment, and it is especially relevant in the context of [algorithmic trading](../a/accountability.md). HPR measures the [total return](../t/total_return.md) that an investment generates over the entire period it is held. This [return](../r/return.md) includes [capital](../c/capital.md) gains or losses as well as any [income](../i/income.md) like dividends or [interest](../i/interest.md) that the investment generates.
+The [Holding Period Return](../h/holding_period_return.md) (HPR), or [yield](../y/yield.md), is a critical concept in [finance](../f/finance.md) and investment, and it is especially relevant in the context of [algorithmic trading](../a/algorithmic_trading.md). HPR measures the [total return](../t/total_return.md) that an investment generates over the entire period it is held. This [return](../r/return.md) includes [capital](../c/capital.md) gains or losses as well as any [income](../i/income.md) like dividends or [interest](../i/interest.md) that the investment generates.
 
 ## Definition and Calculation
 
@@ -32,7 +32,7 @@ Suppose an [investor](../i/investor.md) purchases a stock at $100, holds it for 
 
 ### Performance Measurement
 
-In [algorithmic trading](../a/accountability.md), HPR is used to measure the performance of specific [trading algorithms](../t/trading_algorithms.md) or strategies. Since algorithms are designed to execute trades based on pre-defined criteria, HPR provides a straightforward way to gauge their success by assessing the returns generated over a particular period.
+In [algorithmic trading](../a/algorithmic_trading.md), HPR is used to measure the performance of specific [trading algorithms](../t/trading_algorithms.md) or strategies. Since algorithms are designed to execute trades based on pre-defined criteria, HPR provides a straightforward way to gauge their success by assessing the returns generated over a particular period.
 
 ### Strategy Optimization
 
@@ -66,7 +66,7 @@ Gross HPR includes overall returns without deducting any costs such as [transact
 
 ### Selecting Algorithms
 
-Traders use HPR to assess which algorithms to deploy in live trading. [Backtesting](../b/backtesting.md) [multiple](../m/multiple.md) algorithms and comparing their HPRs helps traders select the most promising strategies. 
+Traders use HPR to assess which algorithms to deploy in live trading. [Backtesting](../b/backtesting.md) [multiple](../m/multiple.md) algorithms and comparing their HPRs helps traders select the most promising strategies.
 
 ### Identifying Holding Period
 
@@ -92,22 +92,22 @@ In this case, Strategy A shows a higher annualized [return](../r/return.md), sug
 
 ### MATLAB
 
-MATLAB is widely used in [algorithmic trading](../a/accountability.md) for [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md). The Financial Toolbox in MATLAB provides functions to calculate HPR, evaluate [performance metrics](../p/performance_metrics.md), and simulate various [trading strategies](../t/trading_strategies.md).
+MATLAB is widely used in [algorithmic trading](../a/algorithmic_trading.md) for [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md). The Financial Toolbox in MATLAB provides functions to calculate HPR, evaluate [performance metrics](../p/performance_metrics.md), and simulate various [trading strategies](../t/trading_strategies.md).
 
-More information: [MATLAB Financial Toolbox](https://www.mathworks.com/products/financial.html)
+More information: MATLAB Financial Toolbox
 
 ### Python (Pandas, NumPy)
 
 Python, with libraries like Pandas and NumPy, is prevalent among algorithmic traders. These libraries [offer](../o/offer.md) [robust](../r/robust.md) functions to compute HPR, assess [risk](../r/risk.md), and visualize performance.
 
-More information: [Pandas Documentation](https://pandas.pydata.org/docs/)
+More information: Pandas Documentation
 
 ### Trading Platforms
 
 Many trading platforms, such as MetaTrader and [NinjaTrader](../n/ninjatrader.md), come equipped with built-in functions to calculate HPR and other [performance metrics](../p/performance_metrics.md). These platforms also [offer](../o/offer.md) [backtesting](../b/backtesting.md) capabilities to assess and refine algotrading strategies.
 
-More information: [MetaTrader](https://www.metatrader4.com/) and [NinjaTrader](https://ninjatrader.com/)
+More information: MetaTrader and NinjaTrader
 
 ## Conclusion
 
-[Holding Period Return](../h/holding_period_return.md) (HPR) is a crucial metric in the realm of [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). By providing a clear measure of an investment's performance over a specified period, HPR helps traders assess, compare, and optimize different [trading strategies](../t/trading_strategies.md). Whether for performance measurement, [risk management](../r/risk_management.md), or portfolio balancing, understanding and applying HPR can significantly enhance an algorithmic [trader](../t/trader.md)’s toolkit.
+[Holding Period Return](../h/holding_period_return.md) (HPR) is a crucial metric in the realm of [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md). By providing a clear measure of an investment's performance over a specified period, HPR helps traders assess, compare, and optimize different [trading strategies](../t/trading_strategies.md). Whether for performance measurement, [risk management](../r/risk_management.md), or portfolio balancing, understanding and applying HPR can significantly enhance an algorithmic [trader](../t/trader.md)’s toolkit.

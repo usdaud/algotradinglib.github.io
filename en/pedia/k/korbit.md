@@ -2,7 +2,7 @@
 
 Korbit is a prominent cryptocurrency [exchange](../e/exchange.md) based in South Korea. Established in 2013, it is renowned for being one of the earliest [Bitcoin](../b/bitcoin.md) exchanges in the country. Korbit plays a pivotal role in the South Korean digital [asset](../a/asset.md) ecosystem by facilitating the [trade](../t/trade.md) of a variety of cryptocurrencies, including [Bitcoin](../b/bitcoin.md), [Ethereum](../e/ethereum_.md), [Ripple](../r/ripple.md), and many others.
 
-Korbit's foundational mission is to revolutionize the way financial transactions are conducted by leveraging [blockchain](../b/blockchain_in_trading.md) technology. Its platform is designed to bridge the gap between traditional financial systems and the burgeoning world of cryptocurrencies, making digital assets more accessible to the average consumer and institutional investors alike. 
+Korbit's foundational mission is to revolutionize the way financial transactions are conducted by leveraging [blockchain](../b/blockchain_in_trading.md) technology. Its platform is designed to bridge the gap between traditional financial systems and the burgeoning world of cryptocurrencies, making digital assets more accessible to the average consumer and institutional investors alike.
 
 ## Company Background
 
@@ -50,7 +50,7 @@ To address the growing [demand](../d/demand.md) from institutional investors, Ko
 
 - **[Over-the-counter (OTC) trading](../o/over-the-counter_(otc)_trading.md)**: Facilitates large-[volume](../v/volume.md) trades with personalized service and more favorable rates.
 - **Custodial services**: Secure storage solutions for institutional investors with large [asset](../a/asset.md) [holdings](../h/holdings.md).
-- **API access**: Advanced trading API for programmatic access to the [trading platform](../t/trading_platform.md), suitable for [algorithmic trading](../a/accountability.md) and high-frequency [trading strategies](../t/trading_strategies.md).
+- **API access**: Advanced trading API for programmatic access to the [trading platform](../t/trading_platform.md), suitable for [algorithmic trading](../a/algorithmic_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md).
 
 ## Technological Infrastructure
 
@@ -88,6 +88,6 @@ Korbit is poised for continued growth, focusing on several strategic initiatives
 
 ## Conclusion
 
-Korbit has established itself as a formidable player in the South Korean cryptocurrency [market](../m/market.md) through a combination of innovative technology, comprehensive services, and stringent regulatory compliance. As the digital [asset](../a/asset.md) landscape continues to evolve, Korbit is well-positioned to maintain its [leadership](../l/leadership.md) role while exploring new growth opportunities. For more information, visit [Korbit's official website](https://www.korbit.co.kr/).
+Korbit has established itself as a formidable player in the South Korean cryptocurrency [market](../m/market.md) through a combination of innovative technology, comprehensive services, and stringent regulatory compliance. As the digital [asset](../a/asset.md) landscape continues to evolve, Korbit is well-positioned to maintain its [leadership](../l/leadership.md) role while exploring new growth opportunities.
 
 In conclusion, Korbit stands as a testament to the potential and progress of the cryptocurrency [industry](../i/industry.md) in South Korea. Its comprehensive [range](../r/range.md) of offerings and commitment to regulatory compliance make it a crucial player in this dynamic and rapidly evolving [market](../m/market.md).

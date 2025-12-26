@@ -92,9 +92,9 @@ In addition to limitations, S Corporations have potential disadvantages:
 
 **Widgets Inc.**
 
-Widgets Inc. is a successful example of an S [Corporation](../c/corporation.md). Established by two entrepreneurs, the company elected S [Corporation](../c/corporation.md) status to benefit from the pass-through [taxation](../t/taxation.md) while maintaining [limited liability](../l/limited_liability.md) protection for its owners. Over the years, Widgets Inc. has utilized its tax savings to reinvest in the [business](../b/business.md), contributing to its sustained growth. 
+Widgets Inc. is a successful example of an S [Corporation](../c/corporation.md). Established by two entrepreneurs, the company elected S [Corporation](../c/corporation.md) status to benefit from the pass-through [taxation](../t/taxation.md) while maintaining [limited liability](../l/limited_liability.md) protection for its owners. Over the years, Widgets Inc. has utilized its tax savings to reinvest in the [business](../b/business.md), contributing to its sustained growth.
 
-For more details visit Widgets Inc. official profile: [Widgets Inc.](https://www.widgetsinc.com).
+For more details visit Widgets Inc. official profile: Widgets Inc..
 
 ## Conclusion
 

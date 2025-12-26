@@ -70,13 +70,13 @@ The final step is to implement the identified improvements and continuously moni
 
 IBM has been a pioneer in applying VNA to enhance its [business](../b/business.md) operations. By mapping out its comprehensive network of suppliers, partners, and customers, IBM has been able to innovate and optimize its [value](../v/value.md) creation process, leading to enhanced competitiveness and [market](../m/market.md) positioning.
 
-*Learn more about IBM's initiatives here: [IBM Value Network](https://www.ibm.com)*
+*Learn more about IBM's initiatives here: IBM Value Network*
 
 ### Healthcare Networks
 
 Various healthcare providers have used VNA to improve patient care and [operational efficiency](../o/operational_efficiency_in_trading.md). For example, mapping out the interactions between different departments and healthcare professionals helps in streamlining processes, reducing wait times, and improving patient outcomes.
 
-*For an example, see the Mayo Clinic's initiatives: [Mayo Clinic](https://www.mayoclinic.org)*
+*For an example, see the Mayo Clinic's initiatives: Mayo Clinic*
 
 ## Tools and Software for Value Network Analysis
 
@@ -84,13 +84,13 @@ Various healthcare providers have used VNA to improve patient care and [operatio
 
 Kumu is a powerful tool for mapping and analyzing [value](../v/value.md) networks. It offers a user-friendly interface and various functionalities for visualizing complex networks, making it easier to identify patterns and insights.
 
-*Explore Kumu here: [Kumu](https://www.kumu.io)*
+*Explore Kumu here: Kumu*
 
 ### VNA Tools by Verna Allee
 
 Verna Allee, the developer of VNA, offers specialized tools and resources for conducting thorough [value](../v/value.md) [network analysis](../n/network_analysis_in_trading.md). These tools are designed to facilitate the entire process from mapping to analysis and [optimization](../o/optimization.md).
 
-*Learn more about Verna Allee's tools here: [ValueNetworks.com](https://www.valuenetworks.com)*
+*Learn more about Verna Allee's tools here: ValueNetworks.com*
 
 ## Conclusion
 

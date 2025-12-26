@@ -58,21 +58,21 @@ MetaTrader platforms allow for easy implementation of MAs. Users can attach a mo
 
 ### Algorithmic Trading Services
 Several services and platforms [offer](../o/offer.md) tools and API access for implementing moving average-based strategies:
-- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
-- **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com/)
-- **[Alpaca](../a/alpaca.md)**: [alpaca.markets](https://alpaca.markets/)
+- **[QuantConnect](../q/quantconnect.md)**: quantconnect.com
+- **[AlgoTrader](../a/algotrader.md)**: algotrader.com
+- **[Alpaca](../a/alpaca.md)**: alpaca.markets
 
 ## Real-World Examples and Companies
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) offers a cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform where developers can implement and test strategies utilizing moving averages. They [offer](../o/offer.md) extensive documentation and support [multiple](../m/multiple.md) programming languages such as C# and Python.
+### StockSharp
+[StockSharp](../s/stocksharp.md) offers a [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform where developers can implement and test strategies utilizing moving averages. They [offer](../o/offer.md) extensive documentation and support C#.
 
 ### MathWorks (MATLAB)
 MathWorks provides a comprehensive set of tools for algorithm development and [backtesting](../b/backtesting.md). MATLAB's financial toolbox includes functions for calculating various types of moving averages and building complex [trading algorithms](../t/trading_algorithms.md).
-[mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)
+mathworks.com/products/matlab.html
 
 ### Alpaca
 [Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API, which allows algorithmic traders to implement and execute strategies, including those based on moving averages.
-[alpaca.markets](https://alpaca.markets/)
+alpaca.markets
 
 ## Limitations and Considerations
 ### Lag
@@ -85,4 +85,4 @@ In volatile markets, short-term moving averages may produce [false signals](../f
 Finding the correct period for a moving average is essential and may require [backtesting](../b/backtesting.md) to ensure it performs well under various [market](../m/market.md) conditions. Traders often use [optimization](../o/optimization.md) techniques to find the most suitable parameters for their strategies.
 
 ## Conclusion
-The 9-period moving average is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its responsiveness to recent price changes makes it invaluable for [short-term trading](../s/short-term_trading.md) strategies. Understanding its calculation, application, and limitations can significantly enhance trading outcomes. Whether used in isolation or combined with other indicators, the 9-period moving average remains a staple in analyzing [financial markets](../f/financial_market.md).
+The 9-period moving average is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its responsiveness to recent price changes makes it invaluable for [short-term trading](../s/short-term_trading.md) strategies. Understanding its calculation, application, and limitations can significantly enhance trading outcomes. Whether used in isolation or combined with other indicators, the 9-period moving average remains a staple in analyzing [financial markets](../f/financial_market.md).

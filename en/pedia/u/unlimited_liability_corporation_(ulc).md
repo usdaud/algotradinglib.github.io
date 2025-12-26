@@ -20,7 +20,7 @@ Understanding ULCs is crucial for participants in [financial markets](../f/finan
 
 2. **Simplified Reporting Requirements**: Depending on the jurisdiction, ULCs might have simplified reporting requirements compared to other corporate structures. This can reduce the operational burden related to regulatory compliance.
 
-3. **Attractive to Certain Investors**: Some forms of investors who are willing to take on more [risk](../r/risk.md) might find ULCs attractive due to their potential tax benefits and management flexibility. 
+3. **Attractive to Certain Investors**: Some forms of investors who are willing to take on more [risk](../r/risk.md) might find ULCs attractive due to their potential tax benefits and management flexibility.
 
 ## Disadvantages of ULCs
 

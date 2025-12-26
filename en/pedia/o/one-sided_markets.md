@@ -42,10 +42,10 @@ Proper [risk management](../r/risk_management.md) becomes paramount in one-sided
 ## Real-World Examples and Case Studies
 
 ### Flash Crash of 2010
-The Flash Crash of May 6, 2010, is a prominent example where one-sided trading dynamics wreaked havoc in the [financial markets](../f/financial_market.md). During this event, the U.S. stock markets experienced a sudden, dramatic drop and recovery within minutes. The imbalance was aggravated by [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) that exacerbated [sell-side](../s/sell-side.md) pressure [source](https://www.sec.gov/news/studies/2010/marketevents-report.pdf).
+The Flash Crash of May 6, 2010, is a prominent example where one-sided trading dynamics wreaked havoc in the [financial markets](../f/financial_market.md). During this event, the U.S. stock markets experienced a sudden, dramatic drop and recovery within minutes. The imbalance was aggravated by [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) that exacerbated [sell-side](../s/sell-side.md) pressure source.
 
 ### Swiss Franc Turbulence of 2015
-On January 15, 2015, the Swiss [National Bank](../n/national_bank.md)'s unexpected decision to unpeg the Swiss Franc from the [Euro](../e/euro.md) led to extreme one-sided [market](../m/market.md) conditions. The swift removal of the 1.20 EUR/CHF floor caused the Swiss Franc to appreciate dramatically, resulting in intense buying pressure and significant [market](../m/market.md) instability [source](https://www.nyfed.org/newsevents/news/markets/2015/an150304.html).
+On January 15, 2015, the Swiss [National Bank](../n/national_bank.md)'s unexpected decision to unpeg the Swiss Franc from the [Euro](../e/euro.md) led to extreme one-sided [market](../m/market.md) conditions. The swift removal of the 1.20 EUR/CHF floor caused the Swiss Franc to appreciate dramatically, resulting in intense buying pressure and significant [market](../m/market.md) instability source.
 
 ## Strategies to Exploit One-Sided Markets
 
@@ -84,4 +84,4 @@ Ongoing research in [market microstructure](../m/market_microstructure.md) aims 
 
 One-sided markets present distinct challenges and opportunities within the context of [algorithmic trading](../a/algorithmic_trading.md). Understanding the characteristics, causes, and implications of one-sided markets is crucial for developing effective [trading strategies](../t/trading_strategies.md). By leveraging advanced technologies and adapting to evolving [market](../m/market.md) conditions, algorithmic traders can navigate and potentially [capitalize](../c/capitalize.md) on the unique dynamics of one-sided markets.
 
-For further insights and advanced [algorithmic trading](../a/algorithmic_trading.md) solutions, companies such as [Virtu Financial](https://www.virtu.com/) and [Citadel Securities](https://www.citadelsecurities.com/) [offer](../o/offer.md) [industry](../i/industry.md)-leading expertise and technologies in navigating complex [market](../m/market.md) conditions.
+For further insights and advanced [algorithmic trading](../a/algorithmic_trading.md) solutions, companies such as Virtu Financial and Citadel Securities [offer](../o/offer.md) [industry](../i/industry.md)-leading expertise and technologies in navigating complex [market](../m/market.md) conditions.

@@ -7,23 +7,23 @@
 ### Components of Risk Arbitrage
 
 1. **Target Company Analysis**:
-   - **[Market Capitalization](../m/market_capitalization.md)**: Estimating the [market value](../m/market_value.md) based on share price and outstanding [shares](../s/shares.md).
-   - **[Financial Health](../f/financial_health.md)**: Reviewing [financial statements](../f/financial_statements.md), [debt](../d/debt.md) levels, [cash flow](../c/cash_flow.md), and profitability to assess the likelihood of a successful [merger](../m/merger.md).
-   - **[Industry](../i/industry.md) Position**: Competition, [market share](../m/market_share.md), and growth potential within its [industry](../i/industry.md) sector.
+ - **[Market Capitalization](../m/market_capitalization.md)**: Estimating the [market value](../m/market_value.md) based on share price and outstanding [shares](../s/shares.md).
+ - **[Financial Health](../f/financial_health.md)**: Reviewing [financial statements](../f/financial_statements.md), [debt](../d/debt.md) levels, [cash flow](../c/cash_flow.md), and profitability to assess the likelihood of a successful [merger](../m/merger.md).
+ - **[Industry](../i/industry.md) Position**: Competition, [market share](../m/market_share.md), and growth potential within its [industry](../i/industry.md) sector.
 
 2. **Acquirer Company Analysis**:
-   - **[Valuation](../v/valuation.md) Metrics**: Price-to-[Earnings](../e/earnings.md) (P/E) ratios, Enterprise [Value](../v/value.md)/EBITDA, and other [valuation](../v/valuation.md) benchmarks.
-   - **Strategic Fit**: How well the target company complements the acquirer's portfolio.
-   - **Financial Capacity**: The acquirer's ability to [finance](../f/finance.md) the [merger](../m/merger.md) through cash reserves, [debt](../d/debt.md), or issuing new [equity](../e/equity.md).
+ - **[Valuation](../v/valuation.md) Metrics**: Price-to-[Earnings](../e/earnings.md) (P/E) ratios, Enterprise [Value](../v/value.md)/EBITDA, and other [valuation](../v/valuation.md) benchmarks.
+ - **Strategic Fit**: How well the target company complements the acquirer's portfolio.
+ - **Financial Capacity**: The acquirer's ability to [finance](../f/finance.md) the [merger](../m/merger.md) through cash reserves, [debt](../d/debt.md), or issuing new [equity](../e/equity.md).
 
 3. **Deal Metrics**:
-   - **[Offer](../o/offer.md) Price**: Proposed [acquisition](../a/acquisition.md) price per share of the target company.
-   - **Contingencies and Conditions**: Review of deal conditions such as regulatory approval, [shareholder](../s/shareholder.md) votes, and [financing](../f/financing.md) contingencies.
-   - **Timeline**: Estimated [duration](../d/duration.md) for deal closure.
+ - **[Offer](../o/offer.md) Price**: Proposed [acquisition](../a/acquisition.md) price per share of the target company.
+ - **Contingencies and Conditions**: Review of deal conditions such as regulatory approval, [shareholder](../s/shareholder.md) votes, and [financing](../f/financing.md) contingencies.
+ - **Timeline**: Estimated [duration](../d/duration.md) for deal closure.
 
 4. **[Market](../m/market.md) Conditions**:
-   - **[Volatility](../v/volatility.md)**: [Market](../m/market.md)-wide [volatility](../v/volatility.md) which can affect stock prices.
-   - **[Liquidity](../l/liquidity.md)**: The ease with which an [investor](../i/investor.md) can enter and exit positions in the relevant [stocks](../s/stock.md).
+ - **[Volatility](../v/volatility.md)**: [Market](../m/market.md)-wide [volatility](../v/volatility.md) which can affect stock prices.
+ - **[Liquidity](../l/liquidity.md)**: The ease with which an [investor](../i/investor.md) can enter and exit positions in the relevant [stocks](../s/stock.md).
 
 ### Types of Risk Arbitrage
 
@@ -39,25 +39,25 @@ In a stock-for-stock [merger](../m/merger.md), the acquiring company offers its 
 
 #### Probabilistic Models
 
-One of the conventional approaches is to use probabilistic models that consider various outcomes and their associated probabilities. 
+One of the conventional approaches is to use probabilistic models that consider various outcomes and their associated probabilities.
 
 - **[Expected Value](../e/expected_value.md) (EV)**: Calculating the [expected value](../e/expected_value.md) of the [merger](../m/merger.md) [arbitrage](../a/arbitrage.md) [trade](../t/trade.md) by multiplying the potential [profit](../p/profit.md) or loss by the respective probability.
-  
-  \[
-  EV = P(success) \times ([Offer](../o/offer.md) Price - Current Price) - P(failure) \times (Current Price - Failure Price)
-  \]
+
+ \[
+ EV = P(success) \times ([Offer](../o/offer.md) Price - Current Price) - P(failure) \times (Current Price - Failure Price)
+ \]
 
 - **Bayesian Models**: Using [Bayesian inference](../b/bayesian_inference.md) to update the probabilities of deal success or failure as new information becomes available.
 
 #### Statistical Arbitrage Models
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Employing statistical techniques like cointegration and [mean reversion](../m/mean_reversion.md) on historical price series of the target and acquirer [stocks](../s/stock.md). The idea is to identify mispricings that revert to the mean over time.
-  
+
 - **[Machine Learning](../m/machine_learning.md) Models**: Leveraging [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md) using vast datasets. Features such as deal type, [market](../m/market.md) conditions, and historical deal outcomes can be input into algorithms to predict the likelihood of [merger](../m/merger.md) completion.
 
 #### Event-Driven Models
 
-Event-driven models focus on capturing the impact of corporate events such as regulatory announcements, [earnings](../e/earnings.md) reports, or macroeconomic data releases on the [merger](../m/merger.md) outcome. 
+Event-driven models focus on capturing the impact of corporate events such as regulatory announcements, [earnings](../e/earnings.md) reports, or macroeconomic data releases on the [merger](../m/merger.md) outcome.
 
 - **[Event Study](../e/event_study.md) Analysis**: Quantifying the impact of a specific event on the stock prices of the companies involved by comparing the actual stock returns to predicted returns based on historical performance.
 
@@ -65,23 +65,23 @@ Event-driven models focus on capturing the impact of corporate events such as re
 
 Many [hedge](../h/hedge.md) funds and specialized investment firms engage in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md). Notable firms include:
 
-- **[Citadel](https://www.citadel.com/)**
-  Citadel is one of the world's leading [alternative investment](../a/alternative_investment.md) management firms, with significant expertise in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) among other strategies. The [firm](../f/firm.md) employs quantitative and qualitative techniques to identify profitable [arbitrage](../a/arbitrage.md) opportunities.
+- **Citadel**
+ Citadel is one of the world's leading [alternative investment](../a/alternative_investment.md) management firms, with significant expertise in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) among other strategies. The [firm](../f/firm.md) employs quantitative and qualitative techniques to identify profitable [arbitrage](../a/arbitrage.md) opportunities.
 
-- **[DE Shaw](https://www.deshaw.com/)**
-  DE Shaw is another prominent name in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), known for its use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md).
+- **DE Shaw**
+ DE Shaw is another prominent name in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), known for its use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md).
 
-- **[Renaissance Technologies](https://www.rentec.com/)**
-  Renaissance Technologies is famously known for its Medallion [Fund](../f/fund.md), which employs a myriad of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [risk](../r/risk.md) [arbitrage](../a/arbitrage.md), to generate extraordinary returns.
+- **Renaissance Technologies**
+ Renaissance Technologies is famously known for its Medallion [Fund](../f/fund.md), which employs a myriad of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [risk](../r/risk.md) [arbitrage](../a/arbitrage.md), to generate extraordinary returns.
 
 ### Risk Management in Risk Arbitrage
 
 [Risk management](../r/risk_management.md) is pivotal in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) given the inherent uncertainties. Common practices include:
 
 - **[Diversification](../d/diversification.md)**: Spreading investments across [multiple](../m/multiple.md) [merger](../m/merger.md) deals to reduce exposure to any single event.
-  
+
 - **Use of [Derivatives](../d/derivatives.md)**: Employing [options](../o/options.md) and other [derivatives](../d/derivatives.md) to [hedge](../h/hedge.md) [downside risk](../d/downside_risk.md).
-  
+
 - **[Stop-loss Orders](../s/stop-loss_orders.md)**: Setting [stop-loss orders](../s/stop-loss_orders.md) to automatically exit positions if the [market](../m/market.md) moves against the [trade](../t/trade.md) beyond a predetermined threshold.
 
 - **[Scenario Analysis](../s/scenario_analysis.md)**: Performing [scenario analysis](../s/scenario_analysis.md) to understand potential outcomes under various [market](../m/market.md) conditions and deal circumstances.

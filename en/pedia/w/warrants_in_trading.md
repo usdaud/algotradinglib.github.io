@@ -54,7 +54,7 @@ Compared to [options](../o/options.md), warrants usually have longer [maturity](
 
 ### Flexibility
 
-Warrants provide flexibility in [trading strategies](../t/trading_strategies.md). They can be used to [gain](../g/gain.md) exposure to the [underlying asset](../u/underlying_asset.md), [hedge](../h/hedge.md) existing positions, or speculate on [market](../m/market.md) movements. 
+Warrants provide flexibility in [trading strategies](../t/trading_strategies.md). They can be used to [gain](../g/gain.md) exposure to the [underlying asset](../u/underlying_asset.md), [hedge](../h/hedge.md) existing positions, or speculate on [market](../m/market.md) movements.
 
 ## Disadvantages of Trading Warrants
 
@@ -94,7 +94,7 @@ The [liquidity](../l/liquidity.md) of the [warrant](../w/warrant.md) and the [un
 
 ## Case Study: Tesla Warrants
 
-Tesla, Inc. (https://www.tesla.com), a highly recognized electric vehicle manufacturer, issued convertible warrants in conjunction with various [capital](../c/capital.md)-raising activities. These warrants have attracted significant attention due to Tesla's volatile stock price and growth potential.
+Tesla, Inc. ( a highly recognized electric vehicle manufacturer, issued convertible warrants in conjunction with various [capital](../c/capital.md)-raising activities. These warrants have attracted significant attention due to Tesla's volatile stock price and growth potential.
 
 ### Key Features
 

@@ -57,16 +57,12 @@ The final step is executing the algorithm-based trades in the live [market](../m
 
 Various companies specialize in providing platforms and tools tailored to X-Price Analysis. Some prominent names include:
 
-- **[QuantConnect](../q/quantconnect.md)**
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**
 - **[Alpaca](../a/alpaca.md)**
-  [Alpaca](https://alpaca.markets/)
 - **[TradeStation](../t/tradestation.md)**
-  [TradeStation](https://www.tradestation.com/)
 - **Quantopian** ([Note](../n/note.md): Quantopian shut down in 2020, but it played a significant role in the past)
 - **MetaTrader**
-  [MetaTrader](https://www.metatrader4.com/)
-  
+
 These companies [offer](../o/offer.md) a [range](../r/range.md) of services from data feeds to full-scale algorithm deployment environments, making them integral to the practice of X-Price Analysis.
 
 ## Advanced Techniques in X-Price Analysis
@@ -123,6 +119,6 @@ Despite automation, human oversight remains essential to monitor the performance
 
 ## Conclusion
 
-X-Price Analysis stands at the intersection of advanced statistical methods, cutting-edge technology, and financial acumen. It embodies the future of trading by leveraging algorithms to precisely predict and act on critical price levels. As technology evolves and markets grow increasingly complex, X-Price Analysis [will](../w/will.md) continue to adapt, [offering](../o/offering.md) new strategies and opportunities for traders around the world. 
+X-Price Analysis stands at the intersection of advanced statistical methods, cutting-edge technology, and financial acumen. It embodies the future of trading by leveraging algorithms to precisely predict and act on critical price levels. As technology evolves and markets grow increasingly complex, X-Price Analysis [will](../w/will.md) continue to adapt, [offering](../o/offering.md) new strategies and opportunities for traders around the world.
 
 By understanding its underpinnings, applications, and challenges, traders can better navigate this sophisticated landscape and harness its advantages for improved trading outcomes.

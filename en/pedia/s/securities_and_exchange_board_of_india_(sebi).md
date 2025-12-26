@@ -11,9 +11,9 @@ SEBI was first established as a non-statutory body in 1988 through an administra
 The objectives of SEBI are largely centered around three main principles:
 
 1. **[Investor](../i/investor.md) Protection**: Ensure that investors are safeguarded from unfair practices and scams.
-   
+
 2. **Efficient Markets**: Promote orderly and efficient functioning of the securities [market](../m/market.md).
-   
+
 3. **[Market](../m/market.md) Development**: Implement policies that contribute to the growth and innovation in the securities [market](../m/market.md).
 
 ## Functions and Powers of SEBI
@@ -25,7 +25,7 @@ SEBI's role encompasses a wide array of functions and powers to regulate differe
 - **Registration**: SEBI registers and regulates various entities, including stock brokers, sub-brokers, merchant bankers, and mutual funds.
 - **Compliance**: It ensures compliance with statutory requirements through rigorous monitoring and inspections.
 - **Surveillance**: SEBI conducts surveillance to detect and prevent [market](../m/market.md) malpractices like [insider trading](../i/insider.md) and [market manipulation](../m/market_manipulation.md).
-  
+
 ### 2. Development Functions
 
 - **Education**: Conducts [investor](../i/investor.md) education programs to improve awareness and understanding of the securities [market](../m/market.md).
@@ -70,7 +70,7 @@ These regulations govern the registration and operation of [alternative investme
 
 ## Modern Innovations and Initiatives
 
-SEBI has continuously been at the forefront of innovation and technology adoption to make the Indian securities [market](../m/market.md) more efficient and secure. 
+SEBI has continuously been at the forefront of innovation and technology adoption to make the Indian securities [market](../m/market.md) more efficient and secure.
 
 ### 1. T+1 Settlement Cycle
 
@@ -112,7 +112,6 @@ Implementing policies and guidelines uniformly across diverse [market](../m/mark
 
 SEBI has played a crucial role in [restructuring](../r/restructuring.md) and modernizing India's securities markets. By laying down extensive regulations and taking proactive steps towards [market](../m/market.md) development and [investor](../i/investor.md) protection, it has significantly contributed to improving the integrity and [efficiency](../e/efficiency.md) of the [market](../m/market.md). However, the ever-evolving nature of [financial markets](../f/financial_market.md) necessitates continuous innovation and stringent oversight. SEBI's embrace of technology and commitment to [robust](../r/robust.md) regulatory practices position it well to address future challenges and [capitalize](../c/capitalize.md) on new opportunities.
 
-For more detailed information about SEBI's functions, regulations, and initiatives, you can visit their official [website](https://www.sebi.gov.in/).
+For more detailed information about SEBI's functions, regulations, and initiatives,
 
 ---
-

@@ -39,23 +39,23 @@ Companies must also periodically reassess the estimated future cash flows and [d
 [Accounting](../a/accounting.md) for AROs involves both initial recognition and subsequent adjustments, which can be summarized as follows:
 
 1. **Initial Recognition:**
-   - [Debit](../d/debit.md): [Asset](../a/asset.md) Retirement Cost (capitalized as part of the long-lived [asset](../a/asset.md))
-   - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Obligation ([liability](../l/liability.md))
+ - [Debit](../d/debit.md): [Asset](../a/asset.md) Retirement Cost (capitalized as part of the long-lived [asset](../a/asset.md))
+ - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Obligation ([liability](../l/liability.md))
 
 2. **[Accretion](../a/accretion.md) [Expense](../e/expense.md):**
-   - [Debit](../d/debit.md): [Accretion](../a/accretion.md) [Expense](../e/expense.md) (recognized in the [income statement](../i/income_statement.md))
-   - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Obligation
+ - [Debit](../d/debit.md): [Accretion](../a/accretion.md) [Expense](../e/expense.md) (recognized in the [income statement](../i/income_statement.md))
+ - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Obligation
 
 3. **Adjustments for Revisions:**
-   - If the ARO [liability](../l/liability.md) increases due to revised [cash flow](../c/cash_flow.md) estimates:
-     - [Debit](../d/debit.md): [Asset](../a/asset.md) Retirement Cost
-     - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Obligation
-   - If the ARO [liability](../l/liability.md) decreases:
-     - [Debit](../d/debit.md): [Asset](../a/asset.md) Retirement Obligation
-     - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Cost (or [accumulated depreciation](../a/accumulated_depreciation.md) if the [asset](../a/asset.md) is already depreciated)
+ - If the ARO [liability](../l/liability.md) increases due to revised [cash flow](../c/cash_flow.md) estimates:
+ - [Debit](../d/debit.md): [Asset](../a/asset.md) Retirement Cost
+ - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Obligation
+ - If the ARO [liability](../l/liability.md) decreases:
+ - [Debit](../d/debit.md): [Asset](../a/asset.md) Retirement Obligation
+ - [Credit](../c/credit.md): [Asset](../a/asset.md) Retirement Cost (or [accumulated depreciation](../a/accumulated_depreciation.md) if the [asset](../a/asset.md) is already depreciated)
 
 4. **Retirement of the [Asset](../a/asset.md):**
-   - When the [asset](../a/asset.md) is retired, the actual cost of decommissioning is compared to the ARO [liability](../l/liability.md). Any differences are recognized as a [gain](../g/gain.md) or loss in the [income statement](../i/income_statement.md).
+ - When the [asset](../a/asset.md) is retired, the actual cost of decommissioning is compared to the ARO [liability](../l/liability.md). Any differences are recognized as a [gain](../g/gain.md) or loss in the [income statement](../i/income_statement.md).
 
 ## Disclosure Requirements
 
@@ -74,25 +74,25 @@ ARO considerations span [multiple](../m/multiple.md) industries. Here are a few 
 
 In the oil and gas sector, companies often face significant AROs related to decommissioning [offshore](../o/offshore.md) drilling platforms, plugging and abandoning wells, and restoring land or seabed conditions. Regulatory bodies, such as the U.S. Bureau of Safety and Environmental Enforcement (BSEE), impose stringent requirements on decommissioning activities to ensure environmental protection.
 
-**Shell Oil Company** (https://www.shell.com/) is an example where AROs play a critical role. Shell, as an oil major, must account for substantial AROs related to its global operations, including [offshore](../o/offshore.md) platforms and onshore facilities.
+**Shell Oil Company** ( is an example where AROs play a critical role. Shell, as an oil major, must account for substantial AROs related to its global operations, including [offshore](../o/offshore.md) platforms and onshore facilities.
 
 ### Mining Industry
 
 [Mining](../m/mining.md) companies are obligated to rehabilitate [mining](../m/mining.md) sites post-closure, which includes activities like removing [infrastructure](../i/infrastructure.md), dealing with waste materials, and restoring vegetation. These [obligations](../o/obligation.md) can be both costly and complex due to environmental and regulatory conditions.
 
-**Rio Tinto** (https://www.riotinto.com/) is a leading [mining](../m/mining.md) company that regularly includes detailed disclosures on its AROs, reflecting the environmental rehabilitation and closure costs associated with its global [mining](../m/mining.md) operations.
+**Rio Tinto** ( is a leading [mining](../m/mining.md) company that regularly includes detailed disclosures on its AROs, reflecting the environmental rehabilitation and closure costs associated with its global [mining](../m/mining.md) operations.
 
 ### Utilities
 
 Electric utilities, particularly those using nuclear power or fossil fuels, have substantial AROs. Decommissioning power plants, particularly nuclear facilities, involves extensive procedures to [handle](../h/handle.md) hazardous materials and ensure site safety.
 
-**Duke Energy** (https://www.duke-energy.com/) provides an example of a [utility](../u/utility.md) company with significant AROs. Duke Energy must plan for and account for the future decommissioning costs of its power generation assets across various states.
+**Duke Energy** ( provides an example of a [utility](../u/utility.md) company with significant AROs. Duke Energy must plan for and account for the future decommissioning costs of its power generation assets across various states.
 
 ### Manufacturing
 
 [Manufacturing](../m/manufacturing.md) companies may have AROs related to the dismantling of production facilities, removal of hazardous materials, and site remediation. The extent and nature of these [obligations](../o/obligation.md) vary depending on the location and type of [manufacturing](../m/manufacturing.md) activities.
 
-**General Motors** (https://www.gm.com/) faces AROs associated with its extensive [manufacturing](../m/manufacturing.md) [infrastructure](../i/infrastructure.md), particularly in relation to its efforts to transition towards more sustainable operations.
+**General Motors** ( faces AROs associated with its extensive [manufacturing](../m/manufacturing.md) [infrastructure](../i/infrastructure.md), particularly in relation to its efforts to transition towards more sustainable operations.
 
 ## Challenges and Considerations
 

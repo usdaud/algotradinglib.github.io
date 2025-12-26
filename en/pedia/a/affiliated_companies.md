@@ -14,7 +14,7 @@ This is the most direct form of affiliation, where the [parent company](../p/par
 
 **Example:**
 - **Alphabet Inc.** (Parent)
-  - **Google LLC** (Subsidiary)
+ - **Google LLC** (Subsidiary)
 
 ### Joint Ventures
 
@@ -22,7 +22,7 @@ Affiliated companies can also be formed through [joint](../j/joint.md) ventures,
 
 **Example:**
 - **Sony [Corporation](../c/corporation.md)** and **Ericsson**
-  - **Sony Ericsson Mobile Communications AB**
+ - **Sony Ericsson Mobile Communications AB**
 
 ### Strategic Alliances
 
@@ -30,7 +30,7 @@ These affiliations are established without ownership stakes but through agreemen
 
 **Example:**
 - **Starbucks** and **PepsiCo**
-  - **North American Coffee Partnership**
+ - **North American Coffee Partnership**
 
 ## Benefits of Affiliated Companies
 
@@ -64,7 +64,6 @@ Alphabet Inc. is a classic example of a [corporation](../c/corporation.md) with 
 - **Verily**: Specializes in life sciences and healthcare.
 - **Waymo**: Develops autonomous vehicle technology.
 
-Official website: [Alphabet Inc.](https://abc.xyz/)
 
 ### Berkshire Hathaway and Its Portfolio
 
@@ -74,7 +73,6 @@ Official website: [Alphabet Inc.](https://abc.xyz/)
 - **BNSF Railway**: Railroad service.
 - **See’s Candies**: Confectionery.
 
-Official website: [Berkshire Hathaway Inc.](https://www.berkshirehathaway.com/)
 
 ### Procter & Gamble (P&G) and Its Brands
 
@@ -84,7 +82,6 @@ Procter & Gamble maintains a broad portfolio of affiliated brands, each dominati
 - **Pampers**: Baby care products.
 - **Gillette**: Shaving and grooming.
 
-Official website: [Procter & Gamble](https://us.pg.com/)
 
 ### Volkswagen Group and Its Subsidiaries
 
@@ -94,7 +91,6 @@ Volkswagen Group is another example of a [corporation](../c/corporation.md) with
 - **Porsche**
 - **Bentley**
 
-Official website: [Volkswagen Group](https://www.volkswagenag.com/)
 
 ## Legal and Financial Implications
 

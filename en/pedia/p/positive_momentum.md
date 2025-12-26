@@ -11,20 +11,20 @@ The measurement of positive [momentum](../m/momentum.md) often involves a look-b
 Several [technical indicators](../t/technical_indicators.md) are used to measure [momentum](../m/momentum.md) in trading, including:
 
 1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
-   - RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI [value](../v/value.md) above 70 is typically considered [overbought](../o/overbought.md), while below 30 is considered [oversold](../o/oversold.md).
-   - More on RSI: [Investopedia on RSI](https://www.investopedia.com/terms/r/rsi.asp).
+ - RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI [value](../v/value.md) above 70 is typically considered [overbought](../o/overbought.md), while below 30 is considered [oversold](../o/oversold.md).
+ - More on RSI: Investopedia on RSI.
 
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):**
-   - MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price. It can signal potential buy or sell opportunities based on the crossover of the moving averages.
-   - More on MACD: [Investopedia on MACD](https://www.investopedia.com/terms/m/macd.asp).
+ - MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price. It can signal potential buy or sell opportunities based on the crossover of the moving averages.
+ - More on MACD: Investopedia on MACD.
 
 3. **Rate of Change (ROC):**
-   - ROC measures the [percentage change](../p/percentage_change.md) between the current price and the price n periods ago. High positive values of ROC indicate strong positive [momentum](../m/momentum.md).
-   - More on ROC: [Investopedia on ROC](https://www.investopedia.com/terms/r/rateofchange.asp).
+ - ROC measures the [percentage change](../p/percentage_change.md) between the current price and the price n periods ago. High positive values of ROC indicate strong positive [momentum](../m/momentum.md).
+ - More on ROC: Investopedia on ROC.
 
 4. **[Stochastic Oscillator](../s/stochastic_oscillator.md):**
-   - This [indicator](../i/indicator.md) compares a particular closing price of a [security](../s/security.md) to a [range](../r/range.md) of its prices over a certain period. It is useful to identify potential reversals in the [market](../m/market.md).
-   - More on [Stochastic Oscillator](../s/stochastic_oscillator.md): [Investopedia on Stochastic Oscillator](https://www.investopedia.com/terms/s/stochasticoscillator.asp).
+ - This [indicator](../i/indicator.md) compares a particular closing price of a [security](../s/security.md) to a [range](../r/range.md) of its prices over a certain period. It is useful to identify potential reversals in the [market](../m/market.md).
+ - More on [Stochastic Oscillator](../s/stochastic_oscillator.md): Investopedia on Stochastic Oscillator.
 
 ### Theories Behind Positive Momentum
 
@@ -60,30 +60,30 @@ Cross-sectional [momentum](../m/momentum.md) involves ranking assets relative to
 
 Accurate data collection is foundational to any [algorithmic trading](../a/algorithmic_trading.md) strategy. Historical price data, [volume](../v/volume.md), and other relevant metrics need to be fetched from reliable data sources. Providers like [Yahoo Finance](../y/yahoo_finance.md), [Quandl](../q/quandl.md), and [Bloomberg](../b/bloomberg.md) [offer](../o/offer.md) such data.
 
-- [Quandl](../q/quandl.md) API: [Visit Quandl](https://www.quandl.com/tools/api)
+- [Quandl](../q/quandl.md) API: Visit Quandl
 
 #### Algorithm Design
 
 Designing a positive [momentum](../m/momentum.md) algorithm involves various steps:
 
 1. **Initial Setup:**
-   - [Import](../i/import.md) necessary libraries (e.g., Pandas for data manipulation, NumPy for numerical computations).
-   - Connect to data sources and fetch historical price data.
+ - [Import](../i/import.md) necessary libraries (e.g., Pandas for data manipulation, NumPy for numerical computations).
+ - Connect to data sources and fetch historical price data.
 
 2. **Calculate [Momentum](../m/momentum.md):**
-   - Compute [momentum indicators](../m/momentum_indicators.md) such as RSI, MACD, ROC, etc.
-   - Normalize and store these values for comparison.
+ - Compute [momentum indicators](../m/momentum_indicators.md) such as RSI, MACD, ROC, etc.
+ - Normalize and store these values for comparison.
 
 3. **[Backtesting](../b/backtesting.md):**
-   - Apply historical data to the designed algorithm to see how well it would have performed. 
-   - Tools like [Backtrader](../b/backtrader.md) and [QuantConnect](../q/quantconnect.md) can be very effective.
+ - Apply historical data to the designed algorithm to see how well it would have performed.
+ - Tools like [Backtrader](../b/backtrader.md) and [StockSharp](../s/stocksharp.md) can be very effective.
 
 4. **[Optimization](../o/optimization.md):**
-   - Adjust parameters to optimize returns while minimizing risks.
+ - Adjust parameters to optimize returns while minimizing risks.
 
 5. **Implementation:**
-   - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., [Alpaca](../a/alpaca.md), [Interactive Brokers](../i/interactive_brokers.md)).
-   - Regularly rebalance the portfolio based on the [momentum](../m/momentum.md) signals.
+ - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., [Alpaca](../a/alpaca.md), [Interactive Brokers](../i/interactive_brokers.md)).
+ - Regularly rebalance the portfolio based on the [momentum](../m/momentum.md) signals.
 
 #### Risk Management
 
@@ -99,13 +99,13 @@ Effective [risk management](../r/risk_management.md) is critical. Techniques inc
 
 Renaissance Technologies is one of the leading [hedge](../h/hedge.md) funds that reportedly [leverage](../l/leverage.md) [momentum](../m/momentum.md) strategies among other quantitative methods. Their Medallion [Fund](../f/fund.md) has posted exceptional returns over the years.
 
-- Renaissance Technologies: [Visit Renaissance Technologies](http://www.rentec.com)
+- Renaissance Technologies: Visit Renaissance Technologies
 
 #### Retail Traders Using Momentum Strategies
 
 Platforms like Quantopian (now [QuantConnect](../q/quantconnect.md)) [offer](../o/offer.md) environments where individual traders can develop and test their own [momentum](../m/momentum.md)-based strategies.
 
-- [QuantConnect](../q/quantconnect.md): [Visit QuantConnect](https://www.quantconnect.com)
+- [QuantConnect](../q/quantconnect.md): Visit QuantConnect
 
 ### Challenges and Considerations
 

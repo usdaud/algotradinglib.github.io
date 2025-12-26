@@ -5,7 +5,7 @@ Economic justice is a concept that examines the [distribution](../d/distribution
 ## Key Principles of Economic Justice
 
 1. **[Equity](../e/equity.md)**: [Equity](../e/equity.md) refers to fairness in treatment, access, and opportunity. It takes into account the different starting points and barriers faced by individuals and aims to provide resources or opportunities that enable full participation in society.
-   
+
 2. **Equality**: Equality involves ensuring that everyone receives the same resources or opportunities. While [equity](../e/equity.md) focuses on leveling the playing field by addressing disparities, equality is concerned with providing uniform standards for all individuals.
 
 3. **Fair [Distribution](../d/distribution.md) of [Wealth](../w/wealth.md) and Resources**: This principle emphasizes the importance of distributing [wealth](../w/wealth.md) and resources in a manner that ensures everyone has enough to sustain their well-being. It opposes extreme concentration of [wealth](../w/wealth.md) in the hands of a few and promotes policies that spread economic benefits more broadly.
@@ -54,20 +54,14 @@ Social [welfare](../w/welfare.md) programs [offer](../o/offer.md) support to ind
 ### 1. **Economic Policy Institute (EPI)**
 The Economic Policy Institute is a think tank focused on economic policies that benefit low- and middle-[income](../i/income.md) workers. The EPI conducts research and advocates for policies that promote economic justice.
 
-Website: [https://www.epi.org](https://www.epi.org)
-
 ### 2. **Thomas Piketty**
 Thomas Piketty is a French [economist](../e/economist.md) known for his work on [income inequality](../i/income_inequality.md). His book "[Capital](../c/capital.md) in the Twenty-First Century" explores the dynamics of [wealth](../w/wealth.md) [distribution](../d/distribution.md) and offers policy recommendations for reducing inequality.
 
 ### 3. **International Labour Organization (ILO)**
 The ILO is a United Nations agency that sets international labor standards and promotes [social justice](../s/social_justice.md) and internationally recognized human and labor rights.
 
-Website: [https://www.ilo.org](https://www.ilo.org)
-
 ### 4. **Joseph Stiglitz**
 [Joseph Stiglitz](../j/joseph_stiglitz.md) is an American [economist](../e/economist.md) and Nobel laureate who has extensively written on inequality, [globalization](../g/globalization.md), and public policy. He advocates for economic reforms that address systemic inequalities and promote fairness.
-
-Website: [https://www8.gsb.columbia.edu/faculty/jstiglitz](https://www8.gsb.columbia.edu/faculty/jstiglitz)
 
 ## Challenges to Economic Justice
 

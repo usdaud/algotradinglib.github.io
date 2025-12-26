@@ -32,10 +32,9 @@ The **C-Suite**, also known as the **Executive Suite** or **C-Level**, refers to
 
 ## Example Scenarios
 1. **Corporate [Restructuring](../r/restructuring.md)**: The CEO and COO work together to restructure the organization to improve [efficiency](../e/efficiency.md) and reduce costs.
-2. **Financial Strategy**: The CFO develops a financial strategy to secure funding for a new [product line](../p/product_line.md) and manages [investor relations](../i/investor_relations.md).
+2. **Financial Strategy**: The CFO develops a financial strategy to secure funding for a new [product line](../p/product_line.md) and manages investor communications.
 3. **Technological Innovation**: The CTO leads the development of a new technology platform to enhance the company’s product offerings.
 4. **[Marketing](../m/marketing.md) Campaign**: The CMO launches a comprehensive [marketing](../m/marketing.md) campaign to rebrand the company and expand its [market share](../m/market_share.md).
 
 ## Conclusion
 The C-Suite is the highest level of executive management within an organization, consisting of senior executives who are responsible for the overall strategic direction, [leadership](../l/leadership.md), and governance of the company. Understanding the roles and responsibilities of C-Suite executives is crucial for appreciating how strategic decisions are made and how companies are managed and led.
-

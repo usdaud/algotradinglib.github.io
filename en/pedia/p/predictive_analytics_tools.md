@@ -35,7 +35,7 @@ SAS (Statistical Analysis System) is an integrated software suite for advanced a
 - **SAS Visual Analytics**: An interactive [business](../b/business.md) intelligence solution that helps visualize data, discover patterns, and create insightful reports.
 - **SAS [Econometrics](../e/econometrics_in_trading.md)**: Tools for analyzing financial data and constructing econometric models.
 
-For more information about SAS, visit their [official website](https://www.sas.com).
+
 
 ## 3. RapidMiner
 
@@ -47,7 +47,7 @@ RapidMiner is a [data science](../d/data_science_in_trading.md) platform designe
 - **In-depth [Data Analytics](../d/data_analytics.md)**: Provides tools for preprocessing data, statistical analysis, and text [mining](../m/mining.md).
 - **Support for R and Python**: Users can incorporate R and Python scripts within workflows.
 
-For more information about RapidMiner, visit their [official website](https://rapidminer.com).
+
 
 ## 4. IBM SPSS Modeler
 
@@ -59,7 +59,7 @@ IBM SPSS Modeler is a comprehensive [data mining](../d/data_mining.md) and [pred
 - **Integration Capabilities**: Easily integrates with [big data](../b/big_data_in_trading.md) platforms like Hadoop and Spark.
 - **Advanced Data Handling**: Capable of handling large datasets with various data types.
 
-For more information about IBM SPSS Modeler, visit their [official website](https://www.ibm.com/products/spss-modeler).
+
 
 ## 5. KNIME
 
@@ -71,7 +71,7 @@ KNIME (Konstanz Information Miner) is an [open](../o/open.md)-source platform fo
 - **Integration with [Machine Learning](../m/machine_learning.md) Libraries**: Supports integration with libraries like [TensorFlow](../t/tensorflow.md), [Keras](../k/keras.md), and H2O.
 - **Community Extensions**: A large repository of community-contributed nodes and plugins.
 
-For more information about KNIME, visit their [official website](https://www.knime.com).
+
 
 ## 6. TIBCO Data Science
 
@@ -83,7 +83,7 @@ TIBCO [Data Science](../d/data_science_in_trading.md) is a [robust](../r/robust.
 - **[Scalability](../s/scalability.md)**: Capable of handling large-scale [data analytics](../d/data_analytics.md) and real-time data processing.
 - **Deployment Flexibility**: Provides [options](../o/options.md) for deploying models in various environments, including on-premises, cloud, and hybrid setups.
 
-For more information about TIBCO [Data Science](../d/data_science_in_trading.md), visit their [official website](https://www.tibco.com/products/tibco-data-science).
+For more information about TIBCO [Data Science](../d/data_science_in_trading.md),
 
 ## 7. Alteryx
 
@@ -95,7 +95,7 @@ Alteryx is a self-service [data analytics](../d/data_analytics.md) tool that sim
 - **Predictive Toolset**: Includes a suite of predictive tools for building and validating statistical models.
 - **Integration with Other Tools**: Seamlessly integrates with tools like Tableau and Qlik for advanced [data visualization](../d/data_visualization.md).
 
-For more information about Alteryx, visit their [official website](https://www.alteryx.com).
+
 
 ## 8. DataRobot
 
@@ -107,7 +107,7 @@ DataRobot is a leading enterprise AI platform that automates the end-to-end proc
 - **Deployment and Monitoring**: Simplifies the process of deploying models into production environments and monitoring them for performance.
 - **[Scalability](../s/scalability.md)**: Designed to [handle](../h/handle.md) the requirements of large enterprises with scalable performance.
 
-For more information about DataRobot, visit their [official website](https://www.datarobot.com).
+
 
 ## Conclusion
 

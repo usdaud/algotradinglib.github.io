@@ -12,10 +12,10 @@ After the initial fixed-rate period, the ARM enters the adjustment period. Durin
 
 ### Index and Margin
 The new [interest rate](../i/interest_rate.md) during the adjustment period is determined by adding a [margin](../m/margin.md) to an [index](../i/index_instrument.md) rate. Common indices used for ARMs include:
-- **LIBOR (London Interbank Offered Rate)**
+- **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)** - The primary replacement for LIBOR since June 2023
 - **COFI (Cost of Funds [Index](../i/index_instrument.md))**
 - **CMT (Constant [Maturity](../m/maturity.md) Treasury)**
-- **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**
+- **LIBOR (London Interbank Offered Rate)** - Discontinued June 30, 2023; legacy loans only
 
 The [margin](../m/margin.md) is a percentage added to the [index](../i/index_instrument.md) rate, which remains fixed for the life of the [loan](../l/loan.md).
 

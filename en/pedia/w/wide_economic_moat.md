@@ -108,6 +108,6 @@ A wide [economic moat](../e/economic_moat.md) is a critical concept in the realm
 
 For more detailed information about companies with wide economic moats, you can visit their official corporate websites:
 
-- **Microsoft**: [microsoft.com](https://www.microsoft.com)
-- **Alphabet (Google)**: [abc.xyz](https://abc.xyz)
-- **Amazon**: [amazon.com](https://www.amazon.com)
+- **Microsoft**: microsoft.com
+- **Alphabet (Google)**: abc.xyz
+- **Amazon**: amazon.com

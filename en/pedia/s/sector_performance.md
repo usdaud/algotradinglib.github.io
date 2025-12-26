@@ -1,6 +1,6 @@
 # Sector Performance
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), sector performance analysis is a crucial aspect of developing successful [trading strategies](../t/trading_strategies.md). Sector performance refers to the relative performance of different [industry](../i/industry.md) sectors within the [financial markets](../f/financial_market.md), typically measured over specific periods. Traders and analysts use sector performance data to identify trends, compare different sectors, and make informed decisions about which sectors to invest in or avoid. This detailed analysis helps in designing algorithms that can systematically exploit inefficiencies and opportunities in the markets. 
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), sector performance analysis is a crucial aspect of developing successful [trading strategies](../t/trading_strategies.md). Sector performance refers to the relative performance of different [industry](../i/industry.md) sectors within the [financial markets](../f/financial_market.md), typically measured over specific periods. Traders and analysts use sector performance data to identify trends, compare different sectors, and make informed decisions about which sectors to invest in or avoid. This detailed analysis helps in designing algorithms that can systematically exploit inefficiencies and opportunities in the markets.
 
 ## Importance of Monitoring Sector Performance
 
@@ -23,7 +23,7 @@ Several metrics are instrumental in analyzing sector performance:
 
 ## Sector Rotation Strategies
 
-[Sector rotation](../s/sector_rotation.md) is a popular [investment strategy](../i/investment_strategy.md) where [capital](../c/capital.md) is moved from one sector to another based on performance expectations. [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate [sector rotation](../s/sector_rotation.md) to enhance returns. 
+[Sector rotation](../s/sector_rotation.md) is a popular [investment strategy](../i/investment_strategy.md) where [capital](../c/capital.md) is moved from one sector to another based on performance expectations. [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate [sector rotation](../s/sector_rotation.md) to enhance returns.
 
 ### Types of Sector Rotation Strategies
 
@@ -33,7 +33,7 @@ Several metrics are instrumental in analyzing sector performance:
 
 ## Case Study: Algorithmic Trading Firms and Sector Performance
 
-Several [algorithmic trading](../a/algorithmic_trading.md) firms specialize in sector performance analysis. For instance, Renaissance Technologies (https://www.rentec.com/), a renowned quantitative investment [firm](../f/firm.md), employs complex [mathematical models](../m/mathematical_models_in_trading.md) to analyze sector performance and execute trades across various [industry](../i/industry.md) sectors.
+Several [algorithmic trading](../a/algorithmic_trading.md) firms specialize in sector performance analysis. For instance, Renaissance Technologies ( a renowned quantitative investment [firm](../f/firm.md), employs complex [mathematical models](../m/mathematical_models_in_trading.md) to analyze sector performance and execute trades across various [industry](../i/industry.md) sectors.
 
 ### Example Algorithm: Sector Momentum Strategy
 
@@ -52,7 +52,7 @@ Several tools and platforms assist traders in analyzing sector performance:
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides real-time data, analytics, and news on sector performance.
 - **[Reuters](../r/reuters.md) Eikon**: Offers comprehensive [financial analysis](../f/financial_analysis.md), including sector-specific reports and trends.
 - **[Morningstar](../m/morningstar.md) Direct**: Known for its in-depth [sector analysis](../s/sector_analysis.md) and research.
-- **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading of algorithmic strategies with a focus on sector performance.
+- **[StockSharp](../s/stocksharp.md)**: A [quantitative trading](../q/quantitative_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading of algorithmic strategies with a focus on sector performance.
 
 ## Challenges in Sector Performance Analysis
 

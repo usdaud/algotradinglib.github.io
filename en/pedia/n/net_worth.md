@@ -90,14 +90,14 @@ National net worth aggregates the net worth of all citizens and businesses withi
 Various tools and software can assist in calculating and tracking net worth. Examples include:
 
 ### Personal Finance Software
-- **Mint:** An online service that aggregates financial accounts to track spending and net worth ([Mint](https://www.mint.com)).
-- **Quicken:** Offers detailed tracking of assets, liabilities, and net worth ([Quicken](https://www.quicken.com)).
+- **Mint:** An online service that aggregates financial accounts to track spending and net worth (Mint).
+- **Quicken:** Offers detailed tracking of assets, liabilities, and net worth (Quicken).
 
 ### Financial Advising Firms
-- **Personal [Capital](../c/capital.md):** Provides comprehensive [wealth management](../w/wealth_management.md) tools and [financial planning](../f/financial_planning.md) services ([Personal Capital](https://www.personalcapital.com)).
+- **Personal [Capital](../c/capital.md):** Provides comprehensive [wealth management](../w/wealth_management.md) tools and [financial planning](../f/financial_planning.md) services (Personal Capital).
 
 ### Automated Investment Platforms
-- **Betterment:** An online investment platform that can project future net worth based on saving and [investing](../i/investing.md) ([Betterment](https://www.betterment.com)).
+- **Betterment:** An online investment platform that can project future net worth based on saving and [investing](../i/investing.md) (Betterment).
 
 ## Strategies to Improve Net Worth
 

@@ -28,7 +28,7 @@ Price-[weighted](../w/weighted.md) indexes allocate more weight to [stocks](../s
 - Can be unduly influenced by stock splits and other corporate actions that affect price rather than real [economic value](../e/economic_value.md).
 
 ### Equal-Weighted Indexes
-In an equal-[weighted](../w/weighted.md) [index](../i/index_instrument.md), all constituents are allocated the same weight regardless of their [market capitalization](../m/market_capitalization.md) or stock price. 
+In an equal-[weighted](../w/weighted.md) [index](../i/index_instrument.md), all constituents are allocated the same weight regardless of their [market capitalization](../m/market_capitalization.md) or stock price.
 
 #### Advantages
 - Reduces the [risk](../r/risk.md) of overexposure to any single entity.
@@ -71,16 +71,16 @@ With advances in [machine learning](../m/machine_learning.md), algorithms can no
 ## prominent companies offering such funds and strategies
 
 ### Vanguard Group
-Vanguard is one of the largest providers of [index](../i/index_instrument.md) funds and ETFs. The company offers a [range](../r/range.md) of [market](../m/market.md) cap-[weighted](../w/weighted.md) [index](../i/index_instrument.md) funds encompassing various sectors and geographies. For more information, visit their official website: [Vanguard](https://www.vanguard.com).
+Vanguard is one of the largest providers of [index](../i/index_instrument.md) funds and ETFs. The company offers a [range](../r/range.md) of [market](../m/market.md) cap-[weighted](../w/weighted.md) [index](../i/index_instrument.md) funds encompassing various sectors and geographies.
 
 ### BlackRock
-BlackRock’s [iShares](../i/ishares.md) is another significant player in the [index fund](../i/index_fund.md) space. They [offer](../o/offer.md) an extensive [range](../r/range.md) of ETFs, many of which use [market](../m/market.md) cap-[weighted](../w/weighted.md) strategies. Additional details can be found here: [BlackRock iShares](https://www.ishares.com).
+BlackRock’s [iShares](../i/ishares.md) is another significant player in the [index fund](../i/index_fund.md) space. They [offer](../o/offer.md) an extensive [range](../r/range.md) of ETFs, many of which use [market](../m/market.md) cap-[weighted](../w/weighted.md) strategies. Additional details can be found here: BlackRock iShares.
 
 ### WisdomTree
-WisdomTree offers ETF products that include fundamentally-[weighted](../w/weighted.md) indexes. These products aim to harness the advantages of fundamental metrics over traditional [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) or price-[weighted](../w/weighted.md) indexes. Visit here for more information: [WisdomTree](https://www.wisdomtree.com).
+WisdomTree offers ETF products that include fundamentally-[weighted](../w/weighted.md) indexes. These products aim to harness the advantages of fundamental metrics over traditional [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) or price-[weighted](../w/weighted.md) indexes. Visit here for more information: WisdomTree.
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) provides a variety of [index](../i/index_instrument.md) funds, including equally-[weighted](../w/weighted.md) and [market](../m/market.md) cap-[weighted](../w/weighted.md) indexes. The [firm](../f/firm.md) is well-recognized for its low-cost offerings. [Check](../c/check.md) out their [index](../i/index_instrument.md) funds here: [Charles Schwab](https://www.schwab.com).
+[Charles Schwab](../c/charles_schwab.md) provides a variety of [index](../i/index_instrument.md) funds, including equally-[weighted](../w/weighted.md) and [market](../m/market.md) cap-[weighted](../w/weighted.md) indexes. The [firm](../f/firm.md) is well-recognized for its low-cost offerings. [Check](../c/check.md) out their [index](../i/index_instrument.md) funds here: Charles Schwab.
 
 ## Conclusion
 

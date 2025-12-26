@@ -22,7 +22,7 @@ The formula for calculating the quick ratio is:
 
 ### Assessing Liquidity
 
-The primary significance of the Quick Ratio is its ability to measure a company's [liquidity](../l/liquidity.md). By focusing on the most [liquid](../l/liquid.md) assets, investors and analysts can assess whether a company can cover its short-term liabilities without relying on the [sale](../s/sale.md) of [inventory](../i/inventory.md). 
+The primary significance of the Quick Ratio is its ability to measure a company's [liquidity](../l/liquidity.md). By focusing on the most [liquid](../l/liquid.md) assets, investors and analysts can assess whether a company can cover its short-term liabilities without relying on the [sale](../s/sale.md) of [inventory](../i/inventory.md).
 
 ### Creditworthiness
 
@@ -91,4 +91,4 @@ Converting non-core assets or excess [inventory](../i/inventory.md) into cash or
 
 The quick ratio is an invaluable metric for assessing a company's short-term [financial health](../f/financial_health.md), particularly its ability to meet immediate liabilities using the most [liquid](../l/liquid.md) assets. While providing crucial insights, it should be used in conjunction with other [financial ratios](../f/financial_ratios.md) and qualitative assessments for a comprehensive understanding of a company's financial position. By maintaining a healthy quick ratio, companies can ensure better [liquidity](../l/liquidity.md) management, increased [investor](../i/investor.md) confidence, and improved [creditworthiness](../c/creditworthiness.md).
 
-To read more about company finances and get detailed financial reports, you may visit the [Microsoft Investor Relations Page](https://www.microsoft.com/en-us/Investor/).
+To read more about company finances and get detailed financial reports, you may

@@ -58,7 +58,7 @@ In real-world scenarios, the sudden loss of a spouse can usher in significant fi
 
 ## IRS Resources and Support
 
-The IRS provides various resources for individuals navigating the complexities of filing as a Qualifying Widow/Widower. Information is accessible on the official [IRS website](https://www.irs.gov) or through direct IRS assistance.
+The IRS provides various resources for individuals navigating the complexities of filing as a Qualifying Widow/Widower. Information is accessible on the official IRS online platform or through direct IRS assistance.
 
 ## Conclusion
 

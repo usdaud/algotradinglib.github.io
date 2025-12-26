@@ -9,11 +9,11 @@ When a central [bank](../b/bank.md), such as the Federal Reserve (Fed) in the Un
 ### Transmission Mechanism
 
 1. **[Interest Rate](../i/interest_rate.md) Channel**: Lower overnight rates reduce the cost of borrowing for banks, which in turn lower the [interest](../i/interest.md) rates on loans and mortgages for individuals and businesses. This makes it cheaper to [finance](../f/finance.md) investments and large purchases, spurring economic activity.
-  
+
 2. **[Wealth Effect](../w/wealth_effect.md)**: Lower [interest](../i/interest.md) rates tend to boost [asset](../a/asset.md) prices ([stocks](../s/stock.md), bonds, [real estate](../r/real_estate.md)), increasing household [wealth](../w/wealth.md) and potentially leading to higher consumer spending.
-  
+
 3. **[Exchange Rate](../e/exchange_rate.md) [Depreciation](../d/depreciation.md)**: Reducing the [interest rate](../i/interest_rate.md) can lead to [currency](../c/currency.md) [depreciation](../d/depreciation.md), making exports cheaper and more competitive abroad, thereby boosting the [export](../e/export.md) sector.
-  
+
 4. **Expectations Management**: By committing to ZPR, central banks can shape public and [market](../m/market.md) expectations about the future path of [interest](../i/interest.md) rates, which can influence current economic behavior.
 
 ### Tools and Strategies
@@ -23,15 +23,15 @@ Central banks use several tools to implement and sustain a ZPR:
 - **[Open Market Operations](../o/open_market_operations.md)**: Buying and selling government securities to influence the [supply](../s/supply.md) of [money](../m/money.md) and thus the [interest rate](../i/interest_rate.md).
 - **Forward [Guidance](../g/guidance.md)**: Communicating future policy intentions to manage [market](../m/market.md) expectations and influence economic decisions.
 - **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: Purchasing longer-term securities to lower long-term [interest](../i/interest.md) rates and support [financial markets](../f/financial_market.md).
-  
-## Historical Instances of Zero Policy Rate 
+
+## Historical Instances of Zero Policy Rate
 
 ### Japan: The Pioneering ZIRP Case
 
 Japan was the first major [economy](../e/economy.md) to adopt ZIRP in the 1990s after a prolonged economic slump following the burst of its [asset](../a/asset.md) price bubble. The [Bank](../b/bank.md) of Japan (BoJ) initiated ZIRP in 1999, setting the stage for extensive use of unconventional [monetary policy](../m/monetary_policy.md) tools.
 
 **Challenges Faced**:
-- **[Deflation](../d/deflation.md)**: Despite ZIRP, Japan struggled with deflationary pressures for years. 
+- **[Deflation](../d/deflation.md)**: Despite ZIRP, Japan struggled with deflationary pressures for years.
 - **Banking Sector Weakness**: Weak banks failed to effectively transmit low rates to broader [economic growth](../e/economic_growth.md).
 - **Limited [Fiscal Policy](../f/fiscal_policy.md) Coordination**: A lack of aggressive fiscal stimulus limited ZIRP's effectiveness.
 

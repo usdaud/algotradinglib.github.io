@@ -1,13 +1,13 @@
 # Hedging Currency Risk
 
-[Currency](../c/currency.md) [risk](../r/risk.md), also known as [exchange rate](../e/exchange_rate.md) [risk](../r/risk.md), arises from the change in price of one [currency](../c/currency.md) against another. Whenever investors or companies have assets or [business](../b/business.md) operations across national borders, they face [currency](../c/currency.md) [risk](../r/risk.md) if their positions are not hedged. The need to [hedge](../h/hedge.md) [currency](../c/currency.md) risks has become paramount in today's increasingly globalized world. This comprehensive article aims to explore the mechanisms available for hedging [currency](../c/currency.md) [risk](../r/risk.md), their application in practice, the merits and drawbacks, along with relevant case studies and real-world examples. 
+[Currency](../c/currency.md) [risk](../r/risk.md), also known as [exchange rate](../e/exchange_rate.md) [risk](../r/risk.md), arises from the change in price of one [currency](../c/currency.md) against another. Whenever investors or companies have assets or [business](../b/business.md) operations across national borders, they face [currency](../c/currency.md) [risk](../r/risk.md) if their positions are not hedged. The need to [hedge](../h/hedge.md) [currency](../c/currency.md) risks has become paramount in today's increasingly globalized world. This comprehensive article aims to explore the mechanisms available for hedging [currency](../c/currency.md) [risk](../r/risk.md), their application in practice, the merits and drawbacks, along with relevant case studies and real-world examples.
 
 ## Understanding Currency Risk
 
 [Currency](../c/currency.md) [risk](../r/risk.md) affects all kinds of [market](../m/market.md) participants:
 
 1. **Multinational Corporations**: Operating in [multiple](../m/multiple.md) countries exposes corporations to different [exchange](../e/exchange.md) rates, potentially decreasing the profitability of foreign operations or transactions.
-  
+
 2. **Investors**: Holding foreign assets means the [value](../v/value.md) of investments may be affected by fluctuations in [exchange](../e/exchange.md) rates.
 
 3. **Importers and Exporters**: Variations in [currency](../c/currency.md) rates can affect the pricing of goods and services sold internationally, thereby impacting an importer’s or exporter’s [profit margins](../p/profit_margins_in_trading.md).
@@ -18,7 +18,7 @@
 
 A [forward contract](../f/forward_contract.md) is a customized contract between two parties to buy or sell an [asset](../a/asset.md) at a specified future date for a price that is agreed upon today. [Forward contracts](../f/forward_contracts.md) can be used to [hedge](../h/hedge.md) against [currency](../c/currency.md) fluctuations by locking in an [exchange rate](../e/exchange_rate.md) today for a [transaction](../t/transaction.md) that [will](../w/will.md) occur at a future date.
 
-#### Case Example: 
+#### Case Example:
 
 If a U.S. company expects to receive 1 million euros in six months, they might enter a [forward contract](../f/forward_contract.md) to sell euros and buy dollars at today's [exchange rate](../e/exchange_rate.md). This protects them against the possibility that the [euro](../e/euro.md) might depreciate against the dollar over the next six months.
 
@@ -123,15 +123,15 @@ Apple Inc. is a classic example of a company actively involved in managing [curr
 
 ### Case Study: Microsoft Corporation
 
-Microsoft [Corporation](../c/corporation.md) employs natural hedging and [netting](../n/netting.md) strategies along with financial instruments like [options](../o/options.md) and forwards. The [firm](../f/firm.md)’s significant [revenue](../r/revenue.md) from international markets necessitates effective [currency](../c/currency.md) [risk management](../r/risk_management.md) to protect [earnings](../e/earnings.md). Through multilateral [netting](../n/netting.md), Microsoft consolidates its global [currency](../c/currency.md) positions, reducing its [economic exposure](../e/economic_exposure.md) and [transaction costs](../t/transaction_costs.md). 
+Microsoft [Corporation](../c/corporation.md) employs natural hedging and [netting](../n/netting.md) strategies along with financial instruments like [options](../o/options.md) and forwards. The [firm](../f/firm.md)’s significant [revenue](../r/revenue.md) from international markets necessitates effective [currency](../c/currency.md) [risk management](../r/risk_management.md) to protect [earnings](../e/earnings.md). Through multilateral [netting](../n/netting.md), Microsoft consolidates its global [currency](../c/currency.md) positions, reducing its [economic exposure](../e/economic_exposure.md) and [transaction costs](../t/transaction_costs.md).
 
 ### Implementation by Financial Institutions
 
 Financial institutions like JPMorgan Chase, Goldman Sachs, and Citibank provide extensive [currency](../c/currency.md) [risk management](../r/risk_management.md) services, including hedging solutions for various clients. These services often encompass all the strategies discussed above, tailored to the specific needs of each client.
 
-- [JPMorgan Chase](https://www.jpmorgan.com)
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [Citibank](https://www.citi.com)
+- JPMorgan Chase
+- Goldman Sachs
+- Citibank
 
 ## Conclusion
 

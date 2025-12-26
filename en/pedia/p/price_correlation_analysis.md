@@ -63,7 +63,7 @@ Given enough data, it is possible to find correlations between unrelated variabl
 
 Correlations between [asset](../a/asset.md) prices can change due to shifts in [market](../m/market.md) conditions, economic events, or changes in [market sentiment](../m/market_sentiment.md). Continuous monitoring and dynamic adjustment of strategies are necessary to maintain effectiveness.
 
-### Overfitting 
+### Overfitting
 
 In [algorithmic trading](../a/algorithmic_trading.md), [overfitting](../o/overfitting.md) occurs when a model is too closely fitted to historical data, capturing [noise](../n/noise.md) rather than true [underlying](../u/underlying.md) patterns. This can lead to poor performance in [out-of-sample testing](../o/out-of-sample_testing.md) and live trading.
 
@@ -89,4 +89,4 @@ Regime-switching models, like [Hidden Markov Models](../h/hidden_markov_models.m
 
 Price [correlation analysis](../c/correlation_analysis.md) is a powerful tool in the arsenal of quantitative analysts and algorithmic traders. It facilitates better decision-making in [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and strategy formulation. However, it comes with challenges that require careful consideration and sophisticated techniques to address. By leveraging advanced methods and keeping abreast of [market dynamics](../m/market_dynamics.md), traders can effectively harness correlations to enhance their [trading strategies](../t/trading_strategies.md).
 
-For further reading or inquiries on their offerings in [algorithmic trading](../a/algorithmic_trading.md) solutions, you can visit companies like [QuantConnect](https://www.quantconnect.com/) or [QuantInsti](https://www.quantinsti.com/).
+For further reading or inquiries on their offerings in [algorithmic trading](../a/algorithmic_trading.md) solutions, you can visit companies like QuantConnect or QuantInsti.

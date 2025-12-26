@@ -4,11 +4,11 @@ Tenants by Entirety (TBE) is a form of property ownership that is available only
 
 ## Legal Foundation and Characteristics
 
-### Joint Ownership 
+### Joint Ownership
 
 At the core of Tenants by Entirety is [joint](../j/joint.md) ownership. Both spouses are considered to own 100% of the property, rather than each spouse owning a 50% [interest](../i/interest.md). This concept differs from other forms of [joint](../j/joint.md) ownership, such as [Joint Tenancy](../j/joint_tenancy.md) or Tenancy in Common, where each party has a divisible share in the property. Under TBE, neither spouse can unilaterally sever the ownership or sell their [interest](../i/interest.md) without the consent of the other.
 
-### Unity of Ownership 
+### Unity of Ownership
 
 There are five essential unities in TBE: possession, [interest](../i/interest.md), time, title, and marriage. These unities mean that both spouses must:
 - Possess the property jointly,
@@ -59,7 +59,7 @@ For high-net-worth individuals and families, TBE offers a significant layer of p
 
 Given the avoidance of [probate](../p/probate.md), TBE is also a tool used in [estate](../e/estate.md) preservation strategies. Financial planners can utilize TBE to ensure that properties are passed seamlessly to the surviving spouse, preserving the [estate](../e/estate.md)’s [value](../v/value.md) and minimizing legal hurdles.
 
-### Legal and Tax Considerations 
+### Legal and Tax Considerations
 
 Modern [financial planning](../f/financial_planning.md) has to account for various legal and tax implications. TBE can provide opportunities for tax savings, but it is essential to stay updated on the laws in the relevant state jurisdiction. Financial advisors might work closely with tax professionals and attorneys to maximize the benefits of TBE.
 

@@ -6,7 +6,7 @@ Residual [income](../i/income.md) is a concept in [finance](../f/finance.md) and
 
 ### Corporate Finance
 
-In the realm of [corporate finance](../c/corporate_finance.md), residual [income](../i/income.md) is used as a performance metric. It is calculated by subtracting the [cost of capital](../c/cost_of_capital.md) from the company’s net [operating profit](../o/operating_profit.md) after [taxes](../t/taxes.md) (NOPAT). This measure is often used to evaluate the profitability of individual projects or [business](../b/business.md) units. 
+In the realm of [corporate finance](../c/corporate_finance.md), residual [income](../i/income.md) is used as a performance metric. It is calculated by subtracting the [cost of capital](../c/cost_of_capital.md) from the company’s net [operating profit](../o/operating_profit.md) after [taxes](../t/taxes.md) (NOPAT). This measure is often used to evaluate the profitability of individual projects or [business](../b/business.md) units.
 
 The formula for residual [income](../i/income.md) in [corporate finance](../c/corporate_finance.md):
 \[ \text{Residual Income} = \text{NOPAT} - (\text{[Capital Employed](../c/capital_employed.md)} \times \text{[Cost of Capital](../c/cost_of_capital.md)}) \]
@@ -57,11 +57,11 @@ For individuals seeking financial independence, building [multiple](../m/multipl
 
 ### General Electric (GE)
 
-General Electric (GE) has used residual [income](../i/income.md) as part of its internal [performance metrics](../p/performance_metrics.md). By comparing the residual [income](../i/income.md) of different [business](../b/business.md) units, GE was able to better allocate resources and strategic efforts toward the most profitable divisions. For more information, you can visit their website [here](https://www.ge.com).
+General Electric (GE) has used residual [income](../i/income.md) as part of its internal [performance metrics](../p/performance_metrics.md). By comparing the residual [income](../i/income.md) of different [business](../b/business.md) units, GE was able to better allocate resources and strategic efforts toward the most profitable divisions.
 
 ### Microsoft
 
-Microsoft utilizes residual [income](../i/income.md) models to evaluate the profitability of its product divisions. Doing so has enabled more efficient resource allocation, especially in their highly profitable segments like cloud services and software. More details can be found on their [official site](https://www.microsoft.com).
+Microsoft utilizes residual [income](../i/income.md) models to evaluate the profitability of its product divisions. Doing so has enabled more efficient resource allocation, especially in their highly profitable segments like cloud services and software.
 
 ## Conclusion
 

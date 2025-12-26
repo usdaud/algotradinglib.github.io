@@ -103,9 +103,9 @@ Investors, analysts, and financial institutions rely on BOE/D metrics for:
 
 Several oil and gas companies regularly report their BOE/D metrics in their financial reports. Here are examples of how companies present this data:
 
-- **ExxonMobil**: A major integrated oil and gas company, ExxonMobil reports its production volumes in BOE/D across different regions and resource types. [ExxonMobil](https://corporate.exxonmobil.com/)
-- **Chevron**: Another leading E&P company, Chevron provides detailed BOE/D metrics in its annual reports and [investor](../i/investor.md) presentations. [Chevron](https://www.chevron.com/)
-- **BP**: BP offers insight into its BOE/D production through its sustainability and financial reports, helping analysts gauge the company's [operational efficiency](../o/operational_efficiency_in_trading.md). [BP](https://www.bp.com/)
+- **ExxonMobil**: A major integrated oil and gas company, ExxonMobil reports its production volumes in BOE/D across different regions and resource types. ExxonMobil
+- **Chevron**: Another leading E&P company, Chevron provides detailed BOE/D metrics in its annual reports and [investor](../i/investor.md) presentations. Chevron
+- **BP**: BP offers insight into its BOE/D production through its sustainability and financial reports, helping analysts gauge the company's [operational efficiency](../o/operational_efficiency_in_trading.md). BP
 
 These reports often break down the BOE/D figures by geographical region, resource type, and production segment, providing a comprehensive view of the company's performance.
 

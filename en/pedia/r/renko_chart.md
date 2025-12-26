@@ -5,7 +5,7 @@ Renko charts are a type of financial chart developed by the Japanese that are us
 ## Key Features
 
 1. **Price Movement Focused**: Renko charts are constructed based on price movements rather than time intervals. Each brick is drawn when the price surpasses a predetermined amount, irrespective of the elapsed time.
-   
+
 2. **Simplified [Noise](../n/noise.md)**: By not featuring minor price fluctuations, Renko charts [offer](../o/offer.md) a simpler view of the [market](../m/market.md), making it easy to identify significant trends.
 
 3. **No Time Axis**: Unlike traditional charts, the horizontal axis on a Renko chart does not represent a consistent time interval. This means that a single Renko brick can represent a variable amount of time, depending on how quickly the price moves.
@@ -31,17 +31,17 @@ The size of the bricks can be determined in different ways:
 ## Benefits of Renko Charts
 
 1. **[Trend](../t/trend.md) Identification**: Easier to identify the overall [trend](../t/trend.md), as Renko charts filter out small fluctuations and emphasize significant price changes.
-   
+
 2. **Reduced [Noise](../n/noise.md)**: By focusing on significant price changes, Renko charts remove much of the [noise](../n/noise.md) that can be found in other types of charts.
 
 3. **Clearer Signals**: Simplified signals for [trend](../t/trend.md) reversals, making it easier to implement [trading strategies](../t/trading_strategies.md).
- 
+
 4. **[Support and Resistance](../s/support_and_resistance.md) Levels**: Potentially more straightforward identification of [support and resistance](../s/support_and_resistance.md) levels.
 
 ## Drawbacks of Renko Charts
 
 1. **[Lagging Indicator](../l/lagging_indicator.md)**: Due to their construction nature, Renko charts can lag in quickly changing markets.
-   
+
 2. **No [Volume](../v/volume.md)**: Renko charts do not display [volume](../v/volume.md) data, which can be an important aspect of trading analysis.
 
 3. **Customization**: The choice of brick size significantly impacts the chart’s [utility](../u/utility.md). Too small, and it becomes noisy; too large, and it may miss important details.
@@ -54,7 +54,7 @@ The size of the bricks can be determined in different ways:
 
 ### Bar Charts
 
-Bar charts are similar to [candlestick](../c/candlestick.md) charts but represent the opening, high, low, and closing prices for a time period with vertical bars. 
+Bar charts are similar to [candlestick](../c/candlestick.md) charts but represent the opening, high, low, and closing prices for a time period with vertical bars.
 
 In comparison:
 
@@ -63,7 +63,7 @@ In comparison:
 
 ## Applications in Algorithmic Trading
 
-Renko charts are particularly useful in [algorithmic trading](../a/accountability.md), where precision and clarity in the identification of trends are paramount. Algorithms can be designed to trigger trades based on Renko signals, making them ideal for [automated trading systems](../a/automated_trading_systems.md).
+Renko charts are particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where precision and clarity in the identification of trends are paramount. Algorithms can be designed to trigger trades based on Renko signals, making them ideal for [automated trading systems](../a/automated_trading_systems.md).
 
 ### Strategy Design
 
@@ -80,9 +80,9 @@ Renko charts are particularly useful in [algorithmic trading](../a/accountabilit
 
 Several trading platforms and software [offer](../o/offer.md) built-in support for Renko charts, facilitating traders and developers in integrating these charts into their [trading strategies](../t/trading_strategies.md).
 
-- **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com) provides Renko charting tools along with script-based [backtesting](../b/backtesting.md) capabilities.
+- **[TradingView](../t/tradingview.md)**: TradingView provides Renko charting tools along with script-based [backtesting](../b/backtesting.md) capabilities.
 - **MetaTrader 4/5**: Renko charts can be added to MetaTrader platforms via custom indicators.
-- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com) incorporates Renko charting [options](../o/options.md) and advanced [trading strategy](../t/trading_strategy.md) development capabilities.
+- **[NinjaTrader](../n/ninjatrader.md)**: NinjaTrader incorporates Renko charting [options](../o/options.md) and advanced [trading strategy](../t/trading_strategy.md) development capabilities.
 - **Thinkorswim**: The Thinkorswim platform from TD [Ameritrade](../a/ameritrade.md) also supports Renko charting.
 
 ## Conclusion

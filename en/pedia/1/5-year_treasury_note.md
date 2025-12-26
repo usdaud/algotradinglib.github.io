@@ -41,8 +41,7 @@ The [return](../r/return.md) on a 5-Year T-[Note](../n/note.md) can be eroded by
 - **COVID-19 Pandemic**: Yields dropped to near historic lows as the Federal Reserve cut [interest](../i/interest.md) rates and implemented [quantitative easing](../q/quantitative_easing.md) measures.
 
 ## Current Data and Trends
-For the most up-to-date data on 5-Year Treasury [Note](../n/note.md) yields and auction results, investors can refer to the [U.S. Department of the Treasury](https://www.treasurydirect.gov) website.
+For the most up-to-date data on 5-Year Treasury [Note](../n/note.md) yields and auction results,
 
 ## Conclusion
 The 5-Year Treasury [Note](../n/note.md) is a fundamental component of the U.S. [financial system](../f/financial_system.md), serving as a safe investment option and an important [benchmark](../b/benchmark.md) for other [interest](../i/interest.md) rates. Its [yield](../y/yield.md) reflects [economic conditions](../e/economic_conditions.md) and [investor](../i/investor.md) expectations, making it a critical [indicator](../i/indicator.md) for policymakers and [market](../m/market.md) participants alike.
-

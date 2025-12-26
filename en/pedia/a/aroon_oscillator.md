@@ -22,11 +22,11 @@ To understand how the Aroon [Oscillator](../o/oscillator.md) works, it's vital t
 ### Aroon Up and Aroon Down
 
 - **Aroon Up Calculation**:
-  \[ \text{Aroon Up} = \left( \frac{n - \text{periods since highest high}}{n} \right) \times 100 \]
-  where \( n \) is the number of periods.
+ \[ \text{Aroon Up} = \left( \frac{n - \text{periods since highest high}}{n} \right) \times 100 \]
+ where \( n \) is the number of periods.
 
 - **Aroon Down Calculation**:
-  \[ \text{Aroon Down} = \left( \frac{n - \text{periods since lowest low}}{n} \right) \times 100 \]
+ \[ \text{Aroon Down} = \left( \frac{n - \text{periods since lowest low}}{n} \right) \times 100 \]
 
 ### Aroon Oscillator Calculation
 
@@ -49,9 +49,9 @@ The Aroon [Oscillator](../o/oscillator.md) helps traders to determine the streng
 ### Key Signals
 
 1. **Crossing Above Zero**:
-   - When the Aroon [Oscillator](../o/oscillator.md) crosses above zero from below, it indicates that the [uptrend](../u/uptrend.md) is strengthening.
+ - When the Aroon [Oscillator](../o/oscillator.md) crosses above zero from below, it indicates that the [uptrend](../u/uptrend.md) is strengthening.
 2. **Crossing Below Zero**:
-   - Conversely, when it crosses below zero from above, it suggests that the [downtrend](../d/downtrend.md) is gaining strength.
+ - Conversely, when it crosses below zero from above, it suggests that the [downtrend](../d/downtrend.md) is gaining strength.
 
 ### Bullish Signals
 
@@ -106,4 +106,4 @@ While powerful, the Aroon [Oscillator](../o/oscillator.md) is not without its li
 
 The Aroon [Oscillator](../o/oscillator.md) is a versatile and influential tool in the arsenal of traders and analysts. It provides valuable insights into [trend](../t/trend.md) strength and direction by leveraging the symmetric properties of the Aroon Up and Aroon Down indicators. Correctly interpreted, it can significantly enhance the decision-making process, although it is often best used in combination with other indicators to mitigate its limitations and maximize its efficacy.
 
-For more advanced applications and integrations in trading platforms, specialist software providers and financial research firms [offer](../o/offer.md) detailed packages and trading tools, such as [MetaTrader](https://www.metatrader4.com/).
+For more advanced applications and integrations in trading platforms, specialist software providers and financial research firms [offer](../o/offer.md) detailed packages and trading tools, such as MetaTrader.

@@ -76,8 +76,8 @@ Different industries have varying norms for ROAE due to differences in [business
 ## Additional Resources
 
 For more information or practical tools related to [financial analysis](../f/financial_analysis.md) and metrics such as ROAE, you might consider visiting the following resources:
-- [MSCI](https://www.msci.com) – Offers a wide [range](../r/range.md) of tools for [financial analysis](../f/financial_analysis.md), including [equity](../e/equity.md) [performance metrics](../p/performance_metrics.md).
-- [Morningstar](https://www.morningstar.com) – Provides comprehensive financial data and analysis for various companies.
-- [S&P Global](https://www.spglobal.com) – Delivers detailed financial analytics and insights.
+- MSCI – Offers a wide [range](../r/range.md) of tools for [financial analysis](../f/financial_analysis.md), including [equity](../e/equity.md) [performance metrics](../p/performance_metrics.md).
+- Morningstar – Provides comprehensive financial data and analysis for various companies.
+- S&P Global – Delivers detailed financial analytics and insights.
 
 By integrating ROAE with a broader analysis framework, investors and analysts can unlock a fuller understanding of a company's [financial health](../f/financial_health.md) and growth potential.

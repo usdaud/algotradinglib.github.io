@@ -4,13 +4,13 @@ The Average Daily Balance (ADB) method is a commonly used calculation in the [fi
 
 ### Key Components of the Average Daily Balance Method
 
-**1. Understanding the [Billing Cycle](../b/billing_cycle.md):**  
+**1. Understanding the [Billing Cycle](../b/billing_cycle.md):**
 The [billing cycle](../b/billing_cycle.md) is the period over which the average daily balance is calculated, often set by the [lender](../l/lender.md) or financial institution. Typically, billing cycles are monthly, but they can vary in length depending on the agreement between the [lender](../l/lender.md) and the borrower.
 
-**2. Daily Account Balances:**  
+**2. Daily Account Balances:**
 To calculate the average daily balance, one must first determine the balance of the account at the end of each day within the [billing cycle](../b/billing_cycle.md). This involves recording the closing balance each day, including any transactions such as purchases, payments, cash advances, or fees that affect the [account balance](../a/account_balance.md).
 
-**3. Calculating the Average Daily Balance:**  
+**3. Calculating the Average Daily Balance:**
 The average daily balance is calculated by summing the daily balances recorded during the [billing cycle](../b/billing_cycle.md) and dividing this sum by the number of days in the [billing cycle](../b/billing_cycle.md). The formula is expressed as:
 
 \[ \text{ADB} = \frac{\sum_{i=1}^{n} \text{Daily Balance}_i}{n} \]

@@ -37,16 +37,16 @@ This method starts with an outcome, which could be a significant loss or breach 
 Several tools and [software platforms](../s/software_platforms_for_trading.md) are available to facilitate [stress testing](../s/stress_testing_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md). These [range](../r/range.md) from specialized [risk management](../r/risk_management.md) solutions to comprehensive trading platforms with integrated [stress testing](../s/stress_testing_in_trading.md) functionalities. Here are some notable examples:
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) financial instruments and assets. It provides built-in [stress testing](../s/stress_testing_in_trading.md) tools, allowing developers to simulate their algorithms under adverse [market](../m/market.md) conditions using historical and hypothetical scenarios.
+QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) financial instruments and assets. It provides built-in [stress testing](../s/stress_testing_in_trading.md) tools, allowing developers to simulate their algorithms under adverse [market](../m/market.md) conditions using historical and hypothetical scenarios.
 
 ### MATLAB
 MATLAB is a high-level language and interactive environment used by many quantitative analysts for a variety of tasks, including [stress testing](../s/stress_testing_in_trading.md). It offers extensive libraries and toolboxes for [financial analysis](../f/financial_analysis.md), enabling users to design custom [stress testing](../s/stress_testing_in_trading.md) modules according to their specific needs.
 
 ### Risk Scenario Manager by MathWorks
-[Risk Scenario Manager](https://www.mathworks.com/products/finrisk.html) is a dedicated tool by MathWorks integrated within MATLAB, designed specifically for [stress testing](../s/stress_testing_in_trading.md) and [risk management](../r/risk_management.md) in financial portfolios.
+Risk Scenario Manager is a dedicated tool by MathWorks integrated within MATLAB, designed specifically for [stress testing](../s/stress_testing_in_trading.md) and [risk management](../r/risk_management.md) in financial portfolios.
 
 ### Backtrader
-[Backtrader](https://www.backtrader.com/) is an [open](../o/open.md)-source Python framework for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports customization for [stress testing](../s/stress_testing_in_trading.md), allowing traders to simulate various adverse scenarios and evaluate the performance of their [trading algorithms](../t/trading_algorithms.md).
+Backtrader is an [open](../o/open.md)-source Python framework for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports customization for [stress testing](../s/stress_testing_in_trading.md), allowing traders to simulate various adverse scenarios and evaluate the performance of their [trading algorithms](../t/trading_algorithms.md).
 
 ## Designing Stress Test Scenarios
 

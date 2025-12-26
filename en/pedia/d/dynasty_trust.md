@@ -1,12 +1,12 @@
 # Dynasty Trust
 
-A Dynasty [Trust](../t/trust.md) is a type of legal arrangement used primarily to preserve and transfer [wealth](../w/wealth.md) from generation to generation while minimizing [estate](../e/estate.md) and transfer [taxes](../t/taxes.md). It is a long-term [trust](../t/trust.md) designed to benefit [multiple](../m/multiple.md) generations of beneficiaries, typically grandchildren and great-grandchildren, while potentially avoiding the imposition of [estate](../e/estate.md) or gift [taxes](../t/taxes.md) at each generational level. Dynasty Trusts are important tools in [estate planning](../e/estate_planning.md), especially for high-net-worth individuals who seek to maintain family [wealth](../w/wealth.md) across [multiple](../m/multiple.md) generations. 
+A Dynasty [Trust](../t/trust.md) is a type of legal arrangement used primarily to preserve and transfer [wealth](../w/wealth.md) from generation to generation while minimizing [estate](../e/estate.md) and transfer [taxes](../t/taxes.md). It is a long-term [trust](../t/trust.md) designed to benefit [multiple](../m/multiple.md) generations of beneficiaries, typically grandchildren and great-grandchildren, while potentially avoiding the imposition of [estate](../e/estate.md) or gift [taxes](../t/taxes.md) at each generational level. Dynasty Trusts are important tools in [estate planning](../e/estate_planning.md), especially for high-net-worth individuals who seek to maintain family [wealth](../w/wealth.md) across [multiple](../m/multiple.md) generations.
 
 ## Structure and Formation
 
 ### Trust Establishment
 
-A Dynasty [Trust](../t/trust.md) is established by a [grantor](../g/grantor.md) (the person creating the [trust](../t/trust.md)), who transfers assets into the [trust](../t/trust.md). These assets are then managed by a [trustee](../t/trustee.md) according to the terms outlined in the [trust](../t/trust.md) agreement. The [trustee](../t/trustee.md) is responsible for managing and distributing the [trust](../t/trust.md)’s assets in accordance with the [grantor](../g/grantor.md)’s wishes and for the benefit of the [trust](../t/trust.md)'s designated beneficiaries. 
+A Dynasty [Trust](../t/trust.md) is established by a [grantor](../g/grantor.md) (the person creating the [trust](../t/trust.md)), who transfers assets into the [trust](../t/trust.md). These assets are then managed by a [trustee](../t/trustee.md) according to the terms outlined in the [trust](../t/trust.md) agreement. The [trustee](../t/trustee.md) is responsible for managing and distributing the [trust](../t/trust.md)’s assets in accordance with the [grantor](../g/grantor.md)’s wishes and for the benefit of the [trust](../t/trust.md)'s designated beneficiaries.
 
 ### Duration of the Trust
 
@@ -38,7 +38,7 @@ A significant benefit of a Dynasty [Trust](../t/trust.md) is its ability to prot
 
 ### Trust Provisions
 
-The terms of a Dynasty [Trust](../t/trust.md) can be customized to reflect the [grantor](../g/grantor.md)'s wishes and family circumstances. The [grantor](../g/grantor.md) can outline specific provisions regarding how and when the [trust](../t/trust.md)'s assets should be distributed to beneficiaries, set conditions for distributions, and provide guidelines for the [trustee](../t/trustee.md)'s management of the [trust](../t/trust.md) assets. 
+The terms of a Dynasty [Trust](../t/trust.md) can be customized to reflect the [grantor](../g/grantor.md)'s wishes and family circumstances. The [grantor](../g/grantor.md) can outline specific provisions regarding how and when the [trust](../t/trust.md)'s assets should be distributed to beneficiaries, set conditions for distributions, and provide guidelines for the [trustee](../t/trustee.md)'s management of the [trust](../t/trust.md) assets.
 
 ### Discretionary Trusts
 

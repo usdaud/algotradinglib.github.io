@@ -23,13 +23,13 @@ Social enterprises frequently reinvest their profits into the [business](../b/bu
 ## Examples of Social Enterprises
 
 ### 1. **Greyston Bakery**
-Greyston Bakery is a social enterprise based in New York that employs an [open](../o/open.md) hiring policy, focusing on providing job opportunities to individuals who face barriers to employment. The bakery's profits support the Greyston Foundation, which offers various community development programs. Website: [Greyston Bakery](https://greyston.org/)
+Greyston Bakery is a social enterprise based in New York that employs an [open](../o/open.md) hiring policy, focusing on providing job opportunities to individuals who face barriers to employment. The bakery's profits support the Greyston Foundation, which offers various community development programs. online platform: Greyston Bakery
 
 ### 2. **TOMS Shoes**
-TOMS Shoes operates on a one-for-one model, where for each pair of shoes purchased, another pair is donated to a child in need. The company has expanded its model to include eyewear and other products, maintaining a strong commitment to social impact. Website: [TOMS](https://www.toms.com/)
+TOMS Shoes operates on a one-for-one model, where for each pair of shoes purchased, another pair is donated to a child in need. The company has expanded its model to include eyewear and other products, maintaining a strong commitment to social impact. online platform: TOMS
 
 ### 3. **TerraCycle**
-TerraCycle is a company dedicated to eliminating the idea of waste. It partners with businesses, municipalities, and consumers to collect and recycle products and packaging that typically go to landfills. TerraCycle's various recycling programs are funded by the [sale](../s/sale.md) of the recycled materials. Website: [TerraCycle](https://www.terracycle.com/)
+TerraCycle is a company dedicated to eliminating the idea of waste. It partners with businesses, municipalities, and consumers to collect and recycle products and packaging that typically go to landfills. TerraCycle's various recycling programs are funded by the [sale](../s/sale.md) of the recycled materials. online platform: TerraCycle
 
 ## The Role of Technology in Social Enterprises
 

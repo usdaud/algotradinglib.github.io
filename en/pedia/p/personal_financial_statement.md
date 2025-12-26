@@ -103,22 +103,22 @@ Today, numerous software applications and online tools assist in creating and ma
 ### 1. Quicken
 Quicken offers [robust](../r/robust.md) features for tracking [income](../i/income.md), expenses, assets, and liabilities. It allows for comprehensive financial statement preparation and budgeting.
 
-**Website:** [Quicken](https://www.quicken.com/)
+**online platform:** Quicken
 
 ### 2. Mint
 Mint is a free, user-friendly online platform for managing personal finances. It tracks various financial accounts, helps in budgeting, and provides an overview of the financial situation.
 
-**Website:** [Mint](https://www.mint.com/)
+**online platform:** Mint
 
 ### 3. Personal Capital
 Personal [Capital](../c/capital.md) provides tools for [investment management](../i/investment_management.md) alongside [personal finance](../p/personal_finance_in_trading.md) tracking. It offers detailed insights into [net worth](../n/net_worth.md), investment portfolios, and spending.
 
-**Website:** [Personal Capital](https://www.personalcapital.com/)
+**online platform:** Personal Capital
 
 ### 4. YNAB (You Need A Budget)
 YNAB focuses on budgeting and helps in creating a PFS by tracking all [income](../i/income.md), expenses, and liabilities. It aims to foster better financial habits.
 
-**Website:** [YNAB](https://www.youneedabudget.com/)
+**online platform:** YNAB
 
 ### 5. Excel and Google Sheets
 For those preferring manual tracking, Excel and Google Sheets [offer](../o/offer.md) customizable templates for creating Personal [Financial Statements](../f/financial_statements.md). They provide flexibility and control over the financial data.

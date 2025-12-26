@@ -14,7 +14,7 @@ The term "triple witching" comes from the old belief in witches' power becoming 
 
 ### Increased Volatility
 
-As traders and investors adjust their positions to account for expiring contracts, trading volumes spike, leading to increased [market](../m/market.md) [volatility](../v/volatility.md). This heightened activity is primarily driven by arbitrageurs and hedgers who need to roll over their positions or [exercise](../e/exercise.md) their expiring [options](../o/options.md). 
+As traders and investors adjust their positions to account for expiring contracts, trading volumes spike, leading to increased [market](../m/market.md) [volatility](../v/volatility.md). This heightened activity is primarily driven by arbitrageurs and hedgers who need to roll over their positions or [exercise](../e/exercise.md) their expiring [options](../o/options.md).
 
 ### Market Imbalance
 
@@ -32,11 +32,11 @@ Due to the increased trading [volume](../v/volume.md) and [volatility](../v/vola
 
 ### Risk Management
 
-Given the heightened [volatility](../v/volatility.md), traders often implement tighter stop losses and [position sizing](../p/position_sizing.md) rules to manage [risk](../r/risk.md) more effectively during triple witching periods. 
+Given the heightened [volatility](../v/volatility.md), traders often implement tighter stop losses and [position sizing](../p/position_sizing.md) rules to manage [risk](../r/risk.md) more effectively during triple witching periods.
 
 ### Arbitrage Opportunities
 
-Some traders seek to exploit the price distortions caused by triple witching. These arbitrageurs [will](../w/will.md) simultaneously buy and sell different contracts, aiming to [profit](../p/profit.md) from price discrepancies. 
+Some traders seek to exploit the price distortions caused by triple witching. These arbitrageurs [will](../w/will.md) simultaneously buy and sell different contracts, aiming to [profit](../p/profit.md) from price discrepancies.
 
 ### Hedging
 
@@ -55,5 +55,3 @@ The September 2008 triple witching period occurred shortly after [Lehman Brother
 ## Conclusion
 
 Triple witching is a critical event in [financial markets](../f/financial_market.md), characterized by the simultaneous expiration of [multiple](../m/multiple.md) [derivatives](../d/derivatives.md). While it can create challenges due to increased [volatility](../v/volatility.md) and potential price swings, it also offers opportunities for savvy traders who can navigate the complex landscape. Proper [risk management](../r/risk_management.md) and strategic adjustments are essential to [capitalize](../c/capitalize.md) on these opportunities while protecting against potential downsides.
-
-For more information on this topic, you can visit [Investopedia's Triple Witching](https://www.investopedia.com/terms/t/triplewitchinghour.asp) page, which provides a comprehensive overview of the concept and its implications.

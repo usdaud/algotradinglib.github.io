@@ -102,49 +102,42 @@ Family offices must navigate and comply with various regulations, which can vary
 
 Walton Enterprises LLC manages the [wealth](../w/wealth.md) of the Walton family, the founders of Walmart. Known for its significant investments in various sectors, including retail, [real estate](../r/real_estate.md), and technology.
 
-[Walton Enterprises LLC](https://www.waltonenterprises.com/)
 
 ### Cascade Investment LLC
 
 Founded by Bill Gates, Cascade Investment LLC manages his personal [wealth](../w/wealth.md), [investing](../i/investing.md) in diverse sectors such as [real estate](../r/real_estate.md), energy, and hospitality.
 
-[Cascade Investment LLC](https://www.cascadeinvestment.com/)
 
 ### Soros Fund Management
 
 Founded by [George Soros](../g/george_soros.md), Soros [Fund](../f/fund.md) Management LLC is a prominent family office known for its significant impact on global [finance](../f/finance.md) through strategic investments.
 
-[Soros Fund Management](https://www.soros.com/)
 
 ### Koch Industries Family Office
 
 Managing the [wealth](../w/wealth.md) of the Koch family, Koch Industries is involved in a wide [range](../r/range.md) of industries, including [manufacturing](../m/manufacturing.md), energy, and [finance](../f/finance.md).
 
-[Koch Industries](https://www.kochind.com/)
 
 ### Bezos Expeditions
 
 Jeff Bezos’ family office, Amazon founder’s investment arm, known for its investments in various startups, space exploration, and media.
 
-[Bezos Expeditions](https://www.bezosexpeditions.com/)
 
 ### Dell Technologies Family Office
 
 Michael Dell’s family office manages [wealth](../w/wealth.md) through investments in technology, [real estate](../r/real_estate.md), and [philanthropy](../p/philanthropy.md).
 
-[Dell Technologies Inc.](https://www.delltechnologies.com/)
+Dell Technologies Inc.
 
 ### The Cargill-MacMillan Family Office
 
 Founded by the heirs of Cargill, the global agricultural company, it manages investments in agriculture, food production, and philanthropic activities.
 
-[Cargill](https://www.cargill.com/)
 
 ### Capital Group Private Client Services
 
 Serving [multiple](../m/multiple.md) high-net-worth families, it provides comprehensive [investment management](../i/investment_management.md) and [financial planning](../f/financial_planning.md) services.
 
-[Capital Group](https://www.capitalgroup.com/pcs)
 
 ## Conclusion
 

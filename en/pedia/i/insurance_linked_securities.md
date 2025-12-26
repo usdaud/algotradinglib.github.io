@@ -5,14 +5,14 @@
 ## Types of ILS
 
 ### Catastrophe Bonds (Cat Bonds)
-Catastrophe Bonds are the most well-known form of [insurance](../i/insurance.md)-linked securities. They allow insurers to transfer risks related to natural disasters (e.g., earthquakes, hurricanes) to the [capital markets](../c/capital_markets.md). 
+Catastrophe Bonds are the most well-known form of [insurance](../i/insurance.md)-linked securities. They allow insurers to transfer risks related to natural disasters (e.g., earthquakes, hurricanes) to the [capital markets](../c/capital_markets.md).
 
 #### Structure
 A typical Cat [Bond](../b/bond.md) [transaction](../t/transaction.md) involves:
 - **Sponsor**: Usually an [insurance](../i/insurance.md) company seeking to [hedge](../h/hedge.md) its risks.
 - **Special Purpose Vehicle (SPV)**: An independent entity created to [issue](../i/issue.md) the bonds.
 - **Investors**: Provide [capital](../c/capital.md) to the SPV in [return](../r/return.md) for the [bond](../b/bond.md) issuance.
-- **Trigger Event**: Specific criteria must be met for the [bond](../b/bond.md) [principal](../p/principal.md) to be used. These triggers could be indemnity-based, parametric, or modeled-loss-based. 
+- **Trigger Event**: Specific criteria must be met for the [bond](../b/bond.md) [principal](../p/principal.md) to be used. These triggers could be indemnity-based, parametric, or modeled-loss-based.
 
 ### Industry Loss Warranties (ILW)
 ILWs are contracts that [payout](../p/payout.md) when [industry](../i/industry.md)-wide losses from a specified event exceed a predetermined amount. They are unique because the [payout](../p/payout.md) is based on overall [industry](../i/industry.md) losses rather than the losses of the individual buyer or seller.
@@ -65,20 +65,20 @@ They assess the [risk](../r/risk.md) and [creditworthiness](../c/creditworthines
 ## Key Players
 
 ### Swiss Re
-Swiss Re is one of the leading reinsurers globally and has a significant presence in the ILS [market](../m/market.md). They [offer](../o/offer.md) various products and structures to help insurers manage [risk](../r/risk.md). 
-Website: [Swiss Re](https://www.swissre.com/)
+Swiss Re is one of the leading reinsurers globally and has a significant presence in the ILS [market](../m/market.md). They [offer](../o/offer.md) various products and structures to help insurers manage [risk](../r/risk.md).
+online platform: Swiss Re
 
 ### Munich Re
 Munich Re is another major reinsurer that is active in the ILS space. They provide innovative [risk](../r/risk.md) transfer solutions across [multiple](../m/multiple.md) lines of [business](../b/business.md).
-Website: [Munich Re](https://www.munichre.com/)
+online platform: Munich Re
 
 ### Willis Towers Watson
 Willis Towers Watson is a global advisory, broking, and solutions company that frequently facilitates ILS transactions.
-Website: [Willis Towers Watson](https://www.wtwco.com/)
+online platform: Willis Towers Watson
 
 ### Aon Securities
 Aon Securities provides [investment banking](../i/investment_banking.md) and advisory services for ILS transactions and has been a significant player in this [market](../m/market.md).
-Website: [Aon Securities](https://www.aon.com/aon-securities/)
+online platform: Aon Securities
 
 ## Conclusion
 

@@ -4,7 +4,7 @@ Operating cost, also sometimes known as [operating expense](../o/operating_expen
 
 ## Components of Operating Costs
 
-Operating costs can be broadly categorized into two main types: Fixed Costs and Variable Costs. 
+Operating costs can be broadly categorized into two main types: Fixed Costs and Variable Costs.
 
 ### Fixed Costs
 These are expenses that remain constant regardless of the [business](../b/business.md)'s level of production or sales. Fixed costs include:
@@ -30,7 +30,7 @@ Understanding and managing operating costs are imperative for [multiple](../m/mu
 - **Profitability Analysis:** Accurate calculation of operating costs allows companies to determine their net [operating income](../o/operating_income.md).
 - **Price Setting:** Helps businesses in setting the price of their products or services to cover costs and achieve margins.
 - **[Operational Efficiency](../o/operational_efficiency_in_trading.md):** Identifying areas where costs can be reduced without affecting quality or production.
-- **[Investor Relations](../i/investor_relations.md):** Investors often look at operating costs to gauge a company's [efficiency](../e/efficiency.md) and profitability.
+- **[company filings](../i/investor_relations.md):** Investors often look at operating costs to gauge a company's [efficiency](../e/efficiency.md) and profitability.
 
 ## Calculation of Operating Costs
 
@@ -82,16 +82,16 @@ Operating costs can vary significantly across different industries due to the na
 Operating costs play a critical role in several key [financial ratios](../f/financial_ratios.md):
 
 - **[Operating Margin](../o/operating_margin.md):** \[ \text{Operating Margin} = \frac{\text{[Operating Income](../o/operating_income.md)}}{\text{[Revenue](../r/revenue.md)}} \]
-  
-  It measures the proportion of a company's [revenue](../r/revenue.md) remaining after paying for operating costs.
+
+ It measures the proportion of a company's [revenue](../r/revenue.md) remaining after paying for operating costs.
 
 - **[Overhead Ratio](../o/overhead_ratio.md):** \[ \text{[Overhead Ratio](../o/overhead_ratio.md)} = \frac{\text{Operating Expenses}}{\text{[Revenue](../r/revenue.md)}} \]
-  
-  This ratio helps in evaluating the [efficiency](../e/efficiency.md) of a company's [expense](../e/expense.md) management.
+
+ This ratio helps in evaluating the [efficiency](../e/efficiency.md) of a company's [expense](../e/expense.md) management.
 
 - **Cost Per Unit:** \[ \text{Cost Per Unit} = \frac{\text{Total Operating Costs}}{\text{Total Units Produced}} \]
-  
-  Useful for pricing strategy and profitability analysis.
+
+ Useful for pricing strategy and profitability analysis.
 
 ## Case Study: Amazon
 
@@ -101,7 +101,7 @@ Amazon's comprehensive management of operating costs is a key component of its f
 - **[Economies of Scale](../e/economies_of_scale.md):** Massive scale of operations leads to lower per-unit costs.
 - **Technology Integration:** Heavy investment in technology which boosts [operational efficiency](../o/operational_efficiency_in_trading.md).
 
-To know more about Amazon's financial strategies, visit [Amazon Investor Relations](https://www.amazon.com/ir).
+To know more about Amazon's financial strategies, visit Amazon company filings.
 
 ## Conclusion
 

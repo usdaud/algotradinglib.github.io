@@ -43,8 +43,8 @@ Effective VQT relies heavily on advanced trading platforms and algorithms. Here 
 
 These systems automatically place buy and sell orders based on pre-defined criteria:
 
-- **[Alpha](../a/alpha.md) Trading Labs:** [Alpha Trading Labs](https://www.alphatradinglabs.com)
-- **Quest Partners:** [Quest Partners](https://questpartnersllc.com)
+- **[Alpha](../a/alpha.md) Trading Labs:** Alpha Trading Labs
+- **Quest Partners:** Quest Partners
 
 ### Analytical Software
 
@@ -58,8 +58,8 @@ Used to analyze [market](../m/market.md) conditions and predict [volatility](../
 
 HFT systems are specialized for rapid [trade](../t/trade.md) [execution](../e/execution.md):
 
-- **Virtu Financial:** [Virtu Financial](https://www.virtu.com)
-- **Flow Traders:** [Flow Traders](https://www.flowtraders.com)
+- **Virtu Financial:** Virtu Financial
+- **Flow Traders:** Flow Traders
 
 ## Challenges and Risks
 

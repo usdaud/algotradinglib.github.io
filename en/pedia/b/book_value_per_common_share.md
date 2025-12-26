@@ -60,10 +60,10 @@ Therefore, the BVPS of Company ABC is $3.00.
 
 ## Case Studies
 ### Berkshire Hathaway
-[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, often emphasizes the importance of [book value](../b/book_value.md) per share. By focusing on companies with strong BVPS growth, [Berkshire Hathaway](../b/berkshire_hathaway.md) has achieved impressive long-term returns. More information about their investment philosophy related to BVPS can be found on their [official website](https://www.berkshirehathaway.com/).
+[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, often emphasizes the importance of [book value](../b/book_value.md) per share. By focusing on companies with strong BVPS growth, [Berkshire Hathaway](../b/berkshire_hathaway.md) has achieved impressive long-term returns.
 
 ### Apple Inc.
-Apple Inc.’s BVPS can be significantly influenced by its massive share [buyback](../b/buyback.md) programs. By reducing the number of outstanding [shares](../s/shares.md), Apple has effectively increased its BVPS over time, providing more [value](../v/value.md) to the remaining shareholders. Details and financial information can be found on their [investor relations page](https://investor.apple.com/).
+Apple Inc.’s BVPS can be significantly influenced by its massive share [buyback](../b/buyback.md) programs. By reducing the number of outstanding [shares](../s/shares.md), Apple has effectively increased its BVPS over time, providing more [value](../v/value.md) to the remaining shareholders.
 
 ## Advantages and Limitations of BVPS
 ### Advantages

@@ -27,7 +27,7 @@ In the healthcare sector, several key elements impact the trading landscape:
 
 # How Algorithmic Trading Works in the Healthcare Sector
 
-[Algorithmic trading](../a/accountability.md) involves developing rules and instructions executed by computer programs to [trade](../t/trade.md) [stocks](../s/stock.md) or other assets. Here's how algo trading can be applied specifically within the healthcare sector:
+[Algorithmic trading](../a/algorithmic_trading.md) involves developing rules and instructions executed by computer programs to [trade](../t/trade.md) [stocks](../s/stock.md) or other assets. Here's how algo trading can be applied specifically within the healthcare sector:
 
 ### Data Collection and Analysis
 
@@ -61,5 +61,4 @@ To illustrate the effectiveness of algo trading within the healthcare sector, co
 
 # Conclusion
 
-[Algorithmic trading](../a/accountability.md) in the healthcare sector offers substantial benefits and opportunities. The ability to [leverage](../l/leverage.md) technology to make informed investment decisions can lead to improved [trading performance](../t/trading_performance.md) and [risk management](../r/risk_management.md). However, existing risks must be managed effectively to maximize the potential offered by the healthcare space.
-
+[Algorithmic trading](../a/algorithmic_trading.md) in the healthcare sector offers substantial benefits and opportunities. The ability to [leverage](../l/leverage.md) technology to make informed investment decisions can lead to improved [trading performance](../t/trading_performance.md) and [risk management](../r/risk_management.md). However, existing risks must be managed effectively to maximize the potential offered by the healthcare space.

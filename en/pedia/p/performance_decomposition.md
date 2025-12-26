@@ -62,7 +62,7 @@ Programming languages like Python and R have numerous libraries and packages des
 
 ### 2. QuantConnect
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md), research, and live trading. It includes features for performance analysis and decomposition, enabling traders to dissect the performance of their strategies.
+[QuantConnect](../q/quantconnect.md) ( is a [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md), research, and live trading. It includes features for performance analysis and decomposition, enabling traders to dissect the performance of their strategies.
 
 ### 3. Quantopian
 
@@ -70,7 +70,7 @@ Although no longer operational, Quantopian was a popular platform for [algorithm
 
 ### 4. Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/) is a comprehensive tool widely used in the [finance](../f/finance.md) [industry](../i/industry.md), [offering](../o/offering.md) advanced functionalities for performance analysis and decomposition. It provides access to real-time data, news, and analytics, crucial for thorough performance assessment.
+The [Bloomberg](../b/bloomberg.md) Terminal ( is a comprehensive tool widely used in the [finance](../f/finance.md) [industry](../i/industry.md), [offering](../o/offering.md) advanced functionalities for performance analysis and decomposition. It provides access to real-time data, news, and analytics, crucial for thorough performance assessment.
 
 ### 5. Portfolio Management Software
 
@@ -80,7 +80,7 @@ Software such as [Morningstar](../m/morningstar.md) Direct, [FactSet](../f/facts
 
 ### 1. High-Frequency Trading Firms
 
-High-frequency trading (HFT) firms rely heavily on performance decomposition to monitor and optimize their strategies. By dissecting each component, from [alpha generation](../a/alpha_generation.md) to [transaction costs](../t/transaction_costs.md), they continually refine their algorithms for better performance. Firms like Virtu Financial (https://www.virtu.com/) use sophisticated analytics to maintain a competitive edge.
+High-frequency trading (HFT) firms rely heavily on performance decomposition to monitor and optimize their strategies. By dissecting each component, from [alpha generation](../a/alpha_generation.md) to [transaction costs](../t/transaction_costs.md), they continually refine their algorithms for better performance. Firms like Virtu Financial ( use sophisticated analytics to maintain a competitive edge.
 
 ### 2. Hedge Funds
 

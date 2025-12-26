@@ -8,7 +8,7 @@ Fibonacci numbers and lines are mathematical tools used extensively in various f
 
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1. The sequence is represented as:
 
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,...
 
 Mathematically, it is expressed as:
 \[ F(n) = F(n-1) + F(n-2) \]
@@ -95,16 +95,13 @@ trading_strategy(current_market_price, high_price, low_price)
 Several companies and trading platforms [offer](../o/offer.md) tools and API access for incorporating Fibonacci analysis into [trading algorithms](../t/trading_algorithms.md). Examples include:
 
 - **MetaTrader 4/5** by MetaQuotes:
-  MetaTrader platforms [offer](../o/offer.md) built-in tools for applying [Fibonacci retracement](../f/fibonacci_retracement.md) and extension levels to charts. This can be used directly or incorporated into Expert Advisors (EAs) for [algorithmic trading](../a/accountability.md).
-  [MetaTrader](https://www.metatrader4.com/)
+ MetaTrader platforms [offer](../o/offer.md) built-in tools for applying [Fibonacci retracement](../f/fibonacci_retracement.md) and extension levels to charts. This can be used directly or incorporated into Expert Advisors (EAs) for [algorithmic trading](../a/accountability.md).
 
 - **[TradingView](../t/tradingview.md)**:
-  [TradingView](../t/tradingview.md) provides in-depth charting tools and scripting languages such as Pine Script, which allows traders to implement and backtest their strategies using Fibonacci levels.
-  [TradingView](https://www.tradingview.com/)
+ [TradingView](../t/tradingview.md) provides in-depth charting tools and scripting languages such as Pine Script, which allows traders to implement and backtest their strategies using Fibonacci levels.
 
-- **[QuantConnect](../q/quantconnect.md)**:
-  [QuantConnect](../q/quantconnect.md) provides [algorithmic trading infrastructure](../a/algorithmic_trading_infrastructure.md) and supports the development of strategies using languages like Python and C#. It offers the ability to implement custom Fibonacci-based indicators.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**:
+ [StockSharp](../s/stocksharp.md) provides [algorithmic trading infrastructure](../a/algorithmic_trading_infrastructure.md) and supports the development of strategies using C#. It offers the ability to implement custom Fibonacci-based indicators.
 
 ## Conclusion
 

@@ -12,7 +12,7 @@ A [valuation](../v/valuation.md) reserve is a non-[cash accounting](../c/cash_ac
 
 ### Allowance for Doubtful Accounts
 
-The [Allowance for Doubtful Accounts](../a/allowance_for_doubtful_accounts.md) is one of the most common [valuation](../v/valuation.md) reserves used to mitigate the [risk](../r/risk.md) of uncollectible receivables. When a company makes [credit](../c/credit.md) sales, not all customers are likely to pay their debts due to various reasons like financial instability or [bankruptcy](../b/bankruptcy.md). 
+The [Allowance for Doubtful Accounts](../a/allowance_for_doubtful_accounts.md) is one of the most common [valuation](../v/valuation.md) reserves used to mitigate the [risk](../r/risk.md) of uncollectible receivables. When a company makes [credit](../c/credit.md) sales, not all customers are likely to pay their debts due to various reasons like financial instability or [bankruptcy](../b/bankruptcy.md).
 
 Companies estimate the possible bad debts and create an [allowance for doubtful accounts](../a/allowance_for_doubtful_accounts.md), which adjusts the [value](../v/value.md) of accounts [receivable](../r/receivable.md) on the [balance sheet](../b/balance_sheet.md). The entry typically involves a [debit](../d/debit.md) to [bad debt expense](../b/bad_debt_expense.md) and a [credit](../c/credit.md) to the [allowance for doubtful accounts](../a/allowance_for_doubtful_accounts.md).
 
@@ -114,14 +114,11 @@ Transparent reporting and [disclosure](../d/disclosure.md) of [valuation](../v/v
 
 American International Group (AIG) is a well-known example where [valuation](../v/valuation.md) reserves played a significant role in its financial reporting. Following the 2008 [financial crisis](../f/financial_crisis.md), AIG had to significantly adjust its [asset](../a/asset.md) valuations, impacting its [balance sheet](../b/balance_sheet.md) and [income statement](../i/income_statement.md). The [valuation](../v/valuation.md) reserves created helped provide a more accurate picture of its [financial health](../f/financial_health.md) during the crisis.
 
-[Learn More about AIG](https://www.aig.com)
 
 ### Inventory Valuation at Tech Companies
 
 Tech companies, due to rapid innovation, often face significant [risk](../r/risk.md) of [inventory](../i/inventory.md) obsolescence. Firms like Apple and Microsoft create substantial [inventory](../i/inventory.md) [valuation](../v/valuation.md) reserves to account for potential obsolescence, ensuring their [financial statements](../f/financial_statements.md) reflect the true [value](../v/value.md) of their inventories.
 
-[Learn More about Apple](https://www.apple.com)
-[Learn More about Microsoft](https://www.microsoft.com)
 
 ## Conclusion
 

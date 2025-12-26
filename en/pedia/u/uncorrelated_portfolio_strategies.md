@@ -78,19 +78,19 @@ Continuous monitoring and evaluation are essential to ensure that the portfolio 
 
 Renaissance Technologies, founded by Jim Simons, is a prime example of a [hedge fund](../h/hedge_fund.md) that has successfully employed uncorrelated portfolio strategies. The [firm](../f/firm.md)'s flagship Medallion [fund](../f/fund.md) utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit [market](../m/market.md) inefficiencies across a broad [range](../r/range.md) of [asset](../a/asset.md) classes and [trading strategies](../t/trading_strategies.md). This [fund](../f/fund.md) has achieved extraordinary returns while maintaining a low [correlation](../c/correlation.md) with the broader [market](../m/market.md).
 
-For more information, visit [Renaissance Technologies](https://www.rentec.com)
+For more information, visit Renaissance Technologies
 
 ### Bridgewater Associates
 
 Founded by Ray Dalio, Bridgewater Associates is one of the world’s largest [hedge](../h/hedge.md) funds. The [firm](../f/firm.md)'s All Weather portfolio strategy is designed to perform well across different economic environments by diversifying across [asset](../a/asset.md) classes that respond differently to various [economic conditions](../e/economic_conditions.md).
 
-For more information, visit [Bridgewater Associates](https://www.bridgewater.com)
+For more information, visit Bridgewater Associates
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management, co-founded by Cliff Asness, employs a [range](../r/range.md) of [quantitative strategies](../q/quantitative_strategies_in_trading.md) that include [asset class](../a/asset_class.md) [diversification](../d/diversification.md), [factor investing](../f/factor_investing.md), and alternative [risk](../r/risk.md) premia. The [firm](../f/firm.md)’s approach is systematic, relying heavily on data analysis to maintain low correlations among its various strategies.
 
-For more information, visit [AQR Capital Management](https://www.aqr.com)
+For more information, visit AQR Capital Management
 
 ## Conclusion
 

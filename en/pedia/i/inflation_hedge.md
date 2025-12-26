@@ -7,7 +7,7 @@ In [finance](../f/finance.md), an [inflation](../i/inflation.md) [hedge](../h/he
 ### 1. **Real Assets**
 
 #### Real Estate
-[Real estate](../r/real_estate.md) is one of the most common investments used as an [inflation](../i/inflation.md) [hedge](../h/hedge.md). [Real estate](../r/real_estate.md) often appreciates in [value](../v/value.md) over time, and rental [income](../i/income.md) can increase with [inflation](../i/inflation.md), keeping pace with rising costs. 
+[Real estate](../r/real_estate.md) is one of the most common investments used as an [inflation](../i/inflation.md) [hedge](../h/hedge.md). [Real estate](../r/real_estate.md) often appreciates in [value](../v/value.md) over time, and rental [income](../i/income.md) can increase with [inflation](../i/inflation.md), keeping pace with rising costs.
 
 #### Precious Metals
 Precious metals such as gold and silver have historically been considered strong [inflation](../i/inflation.md) hedges. Gold, in particular, is seen as a [safe haven](../s/safe_haven.md) during economic [uncertainty](../u/uncertainty_in_trading.md) and inflationary periods.
@@ -36,7 +36,7 @@ Although cryptocurrencies are more volatile and relatively new, some investors c
 ### Advantages
 
 - **Preservation of [Purchasing Power](../p/purchasing_power.md)**: By [investing](../i/investing.md) in assets that appreciate with [inflation](../i/inflation.md), investors can maintain the [purchasing power](../p/purchasing_power.md) of their [money](../m/money.md).
-  
+
 - **[Diversification](../d/diversification.md)**: [Inflation hedging](../i/inflation_hedging.md) assets can provide [portfolio diversification](../p/portfolio_diversification.md), which can reduce [risk](../r/risk.md).
 
 - **[Income](../i/income.md) Generation**: Some [inflation](../i/inflation.md) hedges like rental properties or [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) can generate [income](../i/income.md) that keeps pace with or exceeds [inflation](../i/inflation.md).
@@ -76,9 +76,9 @@ An [investor](../i/investor.md)'s [risk tolerance](../r/risk_tolerance.md) [will
 
 ## Institutional and Retail Examples
 
-**BlackRock**: BlackRock offers various mutual funds and ETFs focused on [inflation](../i/inflation.md) protection, including the BlackRock [Inflation](../i/inflation.md) Protected [Bond Fund](../b/bond_fund.md). More information is available at [BlackRock's website](https://www.blackrock.com).
+**BlackRock**: BlackRock offers various mutual funds and ETFs focused on [inflation](../i/inflation.md) protection, including the BlackRock [Inflation](../i/inflation.md) Protected [Bond Fund](../b/bond_fund.md).
 
-**Vanguard**: Vanguard similarly provides TIPS funds and other investment products aimed at hedging [inflation](../i/inflation.md) risks. Details can be found at [Vanguard's website](https://investor.vanguard.com).
+**Vanguard**: Vanguard similarly provides TIPS funds and other investment products aimed at hedging [inflation](../i/inflation.md) risks.
 
 ## Conclusion
 

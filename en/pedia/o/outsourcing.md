@@ -64,15 +64,15 @@ Outsourcing is the [business](../b/business.md) practice of contracting out cert
 
 ## Notable Outsourcing Companies
 
-1. **Accenture:** A global professional services company [offering](../o/offering.md) a wide [range](../r/range.md) of outsourcing solutions in IT, [business](../b/business.md) processes, and consulting. [Accenture](https://www.accenture.com)
+1. **Accenture:** A global professional services company [offering](../o/offering.md) a wide [range](../r/range.md) of outsourcing solutions in IT, [business](../b/business.md) processes, and consulting. Accenture
 
-2. **Tata Consultancy Services (TCS):** A leading IT services and [business](../b/business.md) solutions provider with extensive experience in outsourcing and consulting. [TCS](https://www.tcs.com)
+2. **Tata Consultancy Services (TCS):** A leading IT services and [business](../b/business.md) solutions provider with extensive experience in outsourcing and consulting. TCS
 
-3. **Cognizant:** A global professional services company that offers IT, [business](../b/business.md) process, and digital solutions to clients across various industries. [Cognizant](https://www.cognizant.com)
+3. **Cognizant:** A global professional services company that offers IT, [business](../b/business.md) process, and digital solutions to clients across various industries. Cognizant
 
-4. **Infosys:** A [multinational corporation](../m/multinational_corporation.md) that provides IT services, [business](../b/business.md) consulting, and outsourcing solutions. [Infosys](https://www.infosys.com)
+4. **Infosys:** A [multinational corporation](../m/multinational_corporation.md) that provides IT services, [business](../b/business.md) consulting, and outsourcing solutions. Infosys
 
-5. **Wipro:** An Indian [multinational corporation](../m/multinational_corporation.md) providing IT, consulting, and [business process outsourcing](../b/business_process_outsourcing.md) services. [Wipro](https://www.wipro.com)
+5. **Wipro:** An Indian [multinational corporation](../m/multinational_corporation.md) providing IT, consulting, and [business process outsourcing](../b/business_process_outsourcing.md) services. Wipro
 
 ## Future Trends in Outsourcing
 

@@ -18,20 +18,20 @@ The dynamic nature of the markets calls for traders to have a clear picture of t
 
 Some major data sources for [order book](../o/order_book.md) information include:
 - **[Exchange](../e/exchange.md)-provided APIs**: Many exchanges provide [real-time market data](../r/real-time_market_data.md) via APIs, such as the [NASDAQ](../n/nasdaq.md) TotalView ITCH, NYSE's OpenBook, and more.
-- **[Market](../m/market.md) Data Vendors**: Companies like **Refinitiv** (formerly Thomson [Reuters](../r/reuters.md)) [Refinitiv](https://www.refinitiv.com/) and **[Bloomberg](../b/bloomberg.md)** provide extensive [market](../m/market.md) data, including [order book](../o/order_book.md) data.
-- **Cryptocurrency Exchanges**: Platforms like **[Binance](../b/binance.md)** [Binance](https://www.binance.com/) and **[Coinbase](../c/coinbase.md)** [Coinbase](https://www.coinbase.com/) also [offer](../o/offer.md) real-time and historical [order book](../o/order_book.md) data.
+- **[Market](../m/market.md) Data Vendors**: Companies like **Refinitiv** (formerly Thomson [Reuters](../r/reuters.md)) Refinitiv and **[Bloomberg](../b/bloomberg.md)** provide extensive [market](../m/market.md) data, including [order book](../o/order_book.md) data.
+- **Cryptocurrency Exchanges**: Platforms like **[Binance](../b/binance.md)** Binance and **[Coinbase](../c/coinbase.md)** Coinbase also [offer](../o/offer.md) real-time and historical [order book](../o/order_book.md) data.
 
 ### Steps in Order Book Reconstruction
 
 1. **Collect Raw Data**: Gather time-stamped [order](../o/order.md) messages, including new [order](../o/order.md) entries, updates, cancellations, and trades.
-   
+
 2. **Initialize [Order Book](../o/order_book.md) State**: Start with an empty [order book](../o/order_book.md) and apply the historical messages sequentially.
 
 3. **[Handle](../h/handle.md) [Order](../o/order.md) Events**:
-    - **New Orders**: Add to the [order book](../o/order_book.md) at the specified [price level](../p/price_level.md).
-    - **[Order](../o/order.md) Updates**: Modify the [order](../o/order.md) details (such as size) at the given [price level](../p/price_level.md).
-    - **[Order](../o/order.md) Cancellations**: Remove the [order](../o/order.md) from the [order book](../o/order_book.md) at the specified [price level](../p/price_level.md).
-    - **Trades**: Adjust the [order](../o/order.md) sizes based on executed trades.
+ - **New Orders**: Add to the [order book](../o/order_book.md) at the specified [price level](../p/price_level.md).
+ - **[Order](../o/order.md) Updates**: Modify the [order](../o/order.md) details (such as size) at the given [price level](../p/price_level.md).
+ - **[Order](../o/order.md) Cancellations**: Remove the [order](../o/order.md) from the [order book](../o/order_book.md) at the specified [price level](../p/price_level.md).
+ - **Trades**: Adjust the [order](../o/order.md) sizes based on executed trades.
 
 4. **Validate Integrity**: Ensure the reconstructed [order book](../o/order_book.md) matches known final states or partial snapshots provided by the [exchange](../e/exchange.md).
 
@@ -54,7 +54,7 @@ Some major data sources for [order book](../o/order_book.md) information include
 ### Tools and Technologies for Order Book Reconstruction
 
 Several libraries and tools facilitate [order book](../o/order_book.md) reconstruction. These include:
-- **LOBSTER ([Limit Order Book](../l/limit_order_book.md) System)**: A well-known academic tool for [order book](../o/order_book.md) reconstruction primarily used on [NASDAQ](../n/nasdaq.md) data [LOBSTER](https://lobsterdata.com/).
+- **LOBSTER ([Limit Order Book](../l/limit_order_book.md) System)**: A well-known academic tool for [order book](../o/order_book.md) reconstruction primarily used on [NASDAQ](../n/nasdaq.md) data LOBSTER.
 - **Python Libraries**: Libraries such as `pandas` and `numpy` can be used to process and manage the large datasets typically involved in [order book](../o/order_book.md) reconstruction.
 - **Custom Solutions**: Many high-frequency trading firms develop their [in-house](../i/in-house.md) solutions to manage the specific requirements of their [trading strategies](../t/trading_strategies.md).
 

@@ -78,19 +78,19 @@ The trading landscape is always evolving, with new venues, instruments, and regu
 
 ### 1. Virtu Financial
 
-Virtu Financial is a global leader in [market](../m/market.md) making and financial technology, renowned for its advanced [execution](../e/execution.md) services which include sophisticated X-[Order Routing](../o/order_routing.md) capabilities. Their systems [leverage](../l/leverage.md) advanced algorithms to enhance [liquidity](../l/liquidity.md) access and [execution](../e/execution.md) quality. More information can be found on their official website: [Virtu Financial](https://www.virtu.com/).
+Virtu Financial is a global leader in [market](../m/market.md) making and financial technology, renowned for its advanced [execution](../e/execution.md) services which include sophisticated X-[Order Routing](../o/order_routing.md) capabilities. Their systems [leverage](../l/leverage.md) advanced algorithms to enhance [liquidity](../l/liquidity.md) access and [execution](../e/execution.md) quality.
 
 ### 2. Citadel Securities
 
-Citadel Securities is a major player in the [algorithmic trading](../a/algorithmic_trading.md) space, providing comprehensive trading solutions with a strong focus on [execution](../e/execution.md) [efficiency](../e/efficiency.md). Their X-[Order Routing](../o/order_routing.md) systems are among the most advanced in the [industry](../i/industry.md), utilizing state-of-the-art technology to optimize trading outcomes. Details are available on their website: [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel Securities is a major player in the [algorithmic trading](../a/algorithmic_trading.md) space, providing comprehensive trading solutions with a strong focus on [execution](../e/execution.md) [efficiency](../e/efficiency.md). Their X-[Order Routing](../o/order_routing.md) systems are among the most advanced in the [industry](../i/industry.md), utilizing state-of-the-art technology to optimize trading outcomes.
 
 ### 3. Jane Street
 
-Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs cutting-edge technology and sophisticated algorithms for its [trading strategies](../t/trading_strategies.md). Their X-[Order Routing](../o/order_routing.md) systems are integral to their [market](../m/market.md)-making and [arbitrage](../a/arbitrage.md) activities, ensuring optimal [trade](../t/trade.md) executions. Learn more at: [Jane Street](https://www.janestreet.com/).
+Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs cutting-edge technology and sophisticated algorithms for its [trading strategies](../t/trading_strategies.md). Their X-[Order Routing](../o/order_routing.md) systems are integral to their [market](../m/market.md)-making and [arbitrage](../a/arbitrage.md) activities, ensuring optimal [trade](../t/trade.md) executions. Learn more at: Jane Street.
 
 ### 4. IMC Trading
 
-IMC Trading is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that utilizes advanced algorithmic strategies, including X-[Order Routing](../o/order_routing.md), to enhance trading [efficiency](../e/efficiency.md). Their systems are developed to minimize latency and maximize [execution](../e/execution.md) quality in various [market](../m/market.md) conditions. More information can be found at: [IMC Trading](https://www.imc.com/).
+IMC Trading is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that utilizes advanced algorithmic strategies, including X-[Order Routing](../o/order_routing.md), to enhance trading [efficiency](../e/efficiency.md). Their systems are developed to minimize latency and maximize [execution](../e/execution.md) quality in various [market](../m/market.md) conditions. More information can be found at: IMC Trading.
 
 ## Conclusion
 

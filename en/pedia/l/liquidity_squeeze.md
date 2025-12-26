@@ -82,9 +82,9 @@ Constant real-time monitoring of [market](../m/market.md) conditions, including 
 
 For further reading and up-to-date insights into managing [liquidity](../l/liquidity.md) in [algorithmic trading](../a/algorithmic_trading.md), you may refer to:
 
-- [AlgoTrader](https://www.algotrader.com)
-- [Kx](https://kx.com)
-- [QuantConnect](https://www.quantconnect.com)
-- [Numerai](https://numer.ai)
+- AlgoTrader
+- Kx
+- QuantConnect
+- Numerai
 
 By integrating [best practices](../b/best_practices.md) and leveraging advanced tools and strategies, traders can remain resilient in the face of [liquidity](../l/liquidity.md) challenges, aiming for sustained success in the ever-evolving [financial markets](../f/financial_market.md).

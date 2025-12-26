@@ -45,7 +45,7 @@ To prevent overtrading, traders can adopt several practices and strategies:
 
 ## Overtrading in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), overtrading can also be an [issue](../i/issue.md). [Algorithmic trading](../a/accountability.md), or "algo-trading," involves the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). While algorithms theoretically [trade](../t/trade.md) based on logic and pre-set conditions, they can still be prone to overtrading if not properly designed. Factors include:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), overtrading can also be an [issue](../i/issue.md). [Algorithmic trading](../a/algorithmic_trading.md), or "algo-trading," involves the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). While algorithms theoretically [trade](../t/trade.md) based on logic and pre-set conditions, they can still be prone to overtrading if not properly designed. Factors include:
 
 - **[Algorithm design](../a/algorithm_design.md) flaws:** If the algorithm’s parameters are set too loosely or its strategy is too aggressive, it may execute trades excessively.
 - **[Market](../m/market.md) conditions:** Certain volatile [market](../m/market.md) conditions can trigger an algorithm to [trade](../t/trade.md) more frequently than intended.

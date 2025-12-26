@@ -13,7 +13,7 @@ The primary mission of the Group of Thirty is centered around:
 - Promoting deeper understanding of international financial and economic issues.
 - Exploring the ramifications of decisions made in the public and private sectors on global economies.
 - Facilitating discussions that enable cross-sectoral understanding and cooperation among stakeholders in [finance](../f/finance.md) and [economics](../e/economics.md).
-  
+
 ### Membership
 
 Members of the G-30 are carefully selected for their experience, expertise, and influence in [economics](../e/economics.md) and [finance](../f/finance.md). The group includes a mix of former and current central [bank](../b/bank.md) governors, prominent academics, and executives from leading financial institutions. Membership is by invitation only and is considered highly prestigious.
@@ -76,4 +76,3 @@ The governance structure of the G-30 includes a Chairman and a [Board of Trustee
 
 The Group of Thirty plays a critical role in shaping discussions and policies around global economic and financial issues. Through their well-regarded publications, high-level seminars, and focused working groups, they contribute to the global discourse on financial stability, regulation, and economic policy. Despite criticisms related to [transparency](../t/transparency.md) and potential conflicts of [interest](../i/interest.md), the G-30 remains a highly influential body in the world of [finance](../f/finance.md) and [economics](../e/economics.md).
 
-For more information, you can visit their [official website](http://group30.org/).

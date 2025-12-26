@@ -10,8 +10,8 @@ The Trailing P/E ratio is calculated using the following formula:
 
 Here's a step-by-step breakdown of the calculation:
 
-1. **Determine the [Market Price](../m/market_price.md) per Share**: This can be found on any financial news website, [stock market](../s/stock_market.md) app, or directly from the stock [exchange](../e/exchange.md) where the company is [listed](../l/listed.md).
-  
+1. **Determine the [Market Price](../m/market_price.md) per Share**../s/stock_market.md) app, or directly from the stock [exchange](../e/exchange.md) where the company is [listed](../l/listed.md).
+
 2. **Ascertain the [Earnings](../e/earnings.md) per Share (EPS)**: The EPS can be obtained from the company’s [financial statements](../f/financial_statements.md), particularly from the [income statement](../i/income_statement.md) presented in the annual or quarterly reports. For the trailing P/E, only the [earnings](../e/earnings.md) from the past twelve months are considered.
 
 If Company XYZ has a stock price of $50 and its EPS over the last 12 months is $5, the Trailing P/E ratio would be:
@@ -76,8 +76,8 @@ For long-term investors, the Trailing P/E provides a historical performance baro
 Several online platforms and financial tools provide Trailing P/E ratios for companies. Some notable ones include:
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive tool used by financial professionals globally. It offers in-depth P/E analysis and other financial metrics for public companies.
-- **[Yahoo Finance](../y/yahoo_finance.md)**: A user-friendly platform providing essential financial data, including Trailing P/E ratios, for a broad array of [stocks](../s/stock.md). [Yahoo Finance](https://finance.yahoo.com/)
-- **[Morningstar](../m/morningstar.md)**: Offers [robust](../r/robust.md) financial data, including P/E ratios, analyst reports, and investment tools to evaluate [stocks](../s/stock.md). [Morningstar](https://www.morningstar.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: A user-friendly platform providing essential financial data, including Trailing P/E ratios, for a broad array of [stocks](../s/stock.md). Yahoo Finance
+- **[Morningstar](../m/morningstar.md)**: Offers [robust](../r/robust.md) financial data, including P/E ratios, analyst reports, and investment tools to evaluate [stocks](../s/stock.md). Morningstar
 
 ## Conclusion
 

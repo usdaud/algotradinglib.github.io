@@ -67,19 +67,19 @@ Evaluating the performance of [Unit Trusts](../u/unit_trusts.md) involves assess
 Several tools and software programs assist in Unit [Trust](../t/trust.md) analysis. They provide comprehensive data, analytics, and performance tracking:
 
 **1. [Morningstar](../m/morningstar.md)**: Offers extensive research and analysis tools, including star ratings, [performance metrics](../p/performance_metrics.md), and [risk](../r/risk.md) assessments.
-   - [Morningstar](https://www.morningstar.com/)
+ - Morningstar
 
 **2. [Bloomberg](../b/bloomberg.md)**: Provides advanced financial analytics, [data visualization](../d/data_visualization.md), and [market](../m/market.md) insights.
-   - [Bloomberg](https://www.bloomberg.com/)
+ - Bloomberg
 
 **3. Lipper**: A Thomson [Reuters](../r/reuters.md) company providing [mutual fund](../m/mutual_fund.md) analysis, rankings, and intelligence.
-   - [Lipper](https://www.refinitiv.com/en/lipper)
+ - Lipper
 
 **4. [FactSet](../f/factset.md)**: Offers integrated data and analytics to collect, manage, and analyze financial information.
-   - [FactSet](https://www.factset.com/)
+ - FactSet
 
 **5. Portfolio Visualizer**: An online tool to backtest portfolios, analyze [asset](../a/asset.md) correlations, and assess [performance metrics](../p/performance_metrics.md).
-   - [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
+ - Portfolio Visualizer
 
 ## Advantages and Disadvantages
 
@@ -124,19 +124,19 @@ Several tools and software programs assist in Unit [Trust](../t/trust.md) analys
 ### Notable Regulatory Bodies
 
 **1. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)** - USA
-   - [SEC](https://www.sec.gov/)
+ - SEC
 
 **2. Financial Conduct Authority (FCA)** - UK
-   - [FCA](https://www.fca.org.uk/)
+ - FCA
 
 **3. Monetary Authority of Singapore (MAS)** - Singapore
-   - [MAS](https://www.mas.gov.sg/)
+ - MAS
 
 **4. Australian Securities and Investments [Commission](../c/commission.md) (ASIC)** - Australia
-   - [ASIC](https://asic.gov.au/)
+ - ASIC
 
 **5. Securities and [Futures](../f/futures.md) [Commission](../c/commission.md) (SFC)** - Hong Kong
-   - [SFC](https://www.sfc.hk/)
+ - SFC
 
 ## Conclusion
 

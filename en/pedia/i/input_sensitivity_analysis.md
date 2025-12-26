@@ -129,17 +129,17 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) c
 
 ### Python Libraries
 
-- **SALib**: The [Sensitivity Analysis](../s/sensitivity_analysis.md) Library (SALib) is widely used in Python for both local and global [sensitivity analysis](../s/sensitivity_analysis.md) [SALib](https://github.com/SALib/SALib).
-- **SciPy**: Includes functions for performing [sensitivity analysis](../s/sensitivity_analysis.md) as part of its [optimization](../o/optimization.md) module [SciPy](https://www.scipy.org/).
+- **SALib**: The [Sensitivity Analysis](../s/sensitivity_analysis.md) Library (SALib) is widely used in Python for both local and global [sensitivity analysis](../s/sensitivity_analysis.md) SALib.
+- **SciPy**: Includes functions for performing [sensitivity analysis](../s/sensitivity_analysis.md) as part of its [optimization](../o/optimization.md) module SciPy.
 
 ### R Packages
 
-- **sensitivity**: A package in R specifically designed for [sensitivity analysis](../s/sensitivity_analysis.md) of model outputs [sensitivity](https://cran.r-project.org/web/packages/sensitivity/index.html).
+- **sensitivity**: A package in R specifically designed for [sensitivity analysis](../s/sensitivity_analysis.md) of model outputs sensitivity.
 
 ### Commercial Tools
 
-- **MATLAB**: Provides comprehensive tools for [sensitivity analysis](../s/sensitivity_analysis.md), including Simulink for model-based analysis [MATLAB](https://www.mathworks.com/products/matlab.html).
-- **PortfolioEffect**: A commercial platform [offering](../o/offering.md) advanced analytics for [trading strategies](../t/trading_strategies.md), including [sensitivity analysis](../s/sensitivity_analysis.md) [PortfolioEffect](https://www.portfolioeffect.com/).
+- **MATLAB**: Provides comprehensive tools for [sensitivity analysis](../s/sensitivity_analysis.md), including Simulink for model-based analysis MATLAB.
+- **PortfolioEffect**: A commercial platform [offering](../o/offering.md) advanced analytics for [trading strategies](../t/trading_strategies.md), including [sensitivity analysis](../s/sensitivity_analysis.md) PortfolioEffect.
 
 ## Challenges in Input Sensitivity Analysis
 

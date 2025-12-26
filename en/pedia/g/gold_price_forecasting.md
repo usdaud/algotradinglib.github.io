@@ -28,41 +28,41 @@ Gold prices are influenced by a multitude of factors including:
 ### Components of Algorithmic Trading Systems in Gold
 
 1. **Data [Acquisition](../a/acquisition.md) and Preprocessing**:
-   - **Data Sources**: Include historical prices, trading volumes, [market](../m/market.md) news, [economic indicators](../e/economic_indicators.md), and [technical indicators](../t/technical_indicators.md).
-   - **Normalization**: Ensures data consistency.
-   - **Feature Engineering**: Creating input features that represent [market](../m/market.md) conditions effectively.
+ - **Data Sources**: Include historical prices, trading volumes, [market](../m/market.md) news, [economic indicators](../e/economic_indicators.md), and [technical indicators](../t/technical_indicators.md).
+ - **Normalization**: Ensures data consistency.
+ - **Feature Engineering**: Creating input features that represent [market](../m/market.md) conditions effectively.
 
 2. **Model Selection and Training**:
-   - **[Machine Learning](../m/machine_learning.md) Models**: Regression models (e.g., [Linear Regression](../l/linear_regression.md), [Support Vector Regression](../s/support_vector_regression.md)), [Time Series](../t/time_series.md) Models (e.g., ARIMA, GARCH), [Deep Learning](../d/deep_learning.md) Models (e.g., LSTM).
-   - **Training**: Models are trained using historical data to learn gold price movement patterns.
-   - **Validation**: Models are validated using separate datasets to ensure their robustness and predictive ability.
+ - **[Machine Learning](../m/machine_learning.md) Models**: Regression models (e.g., [Linear Regression](../l/linear_regression.md), [Support Vector Regression](../s/support_vector_regression.md)), [Time Series](../t/time_series.md) Models (e.g., ARIMA, GARCH), [Deep Learning](../d/deep_learning.md) Models (e.g., LSTM).
+ - **Training**: Models are trained using historical data to learn gold price movement patterns.
+ - **Validation**: Models are validated using separate datasets to ensure their robustness and predictive ability.
 
 3. **[Trading Strategy](../t/trading_strategy.md)**:
-   - **[Mean Reversion](../m/mean_reversion.md)**: Assumes that prices [will](../w/will.md) revert back to the mean. Identifies [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
-   - **[Momentum Trading](../m/momentum_trading.md)**: Based on [trend following](../t/trend_following.md) strategies which identify and ride price trends.
-   - **[Arbitrage](../a/arbitrage.md) Strategy**: Exploiting price inefficiencies between different markets.
+ - **[Mean Reversion](../m/mean_reversion.md)**: Assumes that prices [will](../w/will.md) revert back to the mean. Identifies [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+ - **[Momentum Trading](../m/momentum_trading.md)**: Based on [trend following](../t/trend_following.md) strategies which identify and ride price trends.
+ - **[Arbitrage](../a/arbitrage.md) Strategy**: Exploiting price inefficiencies between different markets.
 
 4. **[Execution](../e/execution.md)**:
-   - **[Order](../o/order.md) Placement**: Placing orders efficiently to minimize [market](../m/market.md) impact and [transaction costs](../t/transaction_costs.md).
-   - **[Risk Management](../r/risk_management.md)**: Using [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and other [risk management](../r/risk_management.md) techniques to manage trading risks.
+ - **[Order](../o/order.md) Placement**: Placing orders efficiently to minimize [market](../m/market.md) impact and [transaction costs](../t/transaction_costs.md).
+ - **[Risk Management](../r/risk_management.md)**: Using [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and other [risk management](../r/risk_management.md) techniques to manage trading risks.
 
 5. **[Backtesting](../b/backtesting.md) and [Optimization](../o/optimization.md)**:
-   - **[Historical Simulation](../h/historical_simulation.md)**: Testing the algorithms on historical data to gauge their performance.
-   - **Parameter [Optimization](../o/optimization.md)**: Fine-tuning the parameters to achieve optimal [trading performance](../t/trading_performance.md).
+ - **[Historical Simulation](../h/historical_simulation.md)**: Testing the algorithms on historical data to gauge their performance.
+ - **Parameter [Optimization](../o/optimization.md)**: Fine-tuning the parameters to achieve optimal [trading performance](../t/trading_performance.md).
 
 ## Case Study: Algorithmic Trading Firms Specializing in Commodities
 
 ### AQR Capital Management
 
-[AQR Capital Management](https://www.aqr.com) is known for employing quantitative analysts to develop complex, systems-based trading methods. They utilize [machine learning](../m/machine_learning.md) and massive datasets to [capitalize](../c/capitalize.md) on small inefficiencies present in the [market](../m/market.md).
+AQR Capital Management is known for employing quantitative analysts to develop complex, systems-based trading methods. They utilize [machine learning](../m/machine_learning.md) and massive datasets to [capitalize](../c/capitalize.md) on small inefficiencies present in the [market](../m/market.md).
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com) is another prime example known for its Medallion [Fund](../f/fund.md), which has achieved unprecedented returns. They use sophisticated algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) to [trade](../t/trade.md) in various assets including gold.
+Renaissance Technologies is another prime example known for its Medallion [Fund](../f/fund.md), which has achieved unprecedented returns. They use sophisticated algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) to [trade](../t/trade.md) in various assets including gold.
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com) utilizes data-driven approaches and sophisticated algorithms to manage investments. They employ a large team of scientists and engineers specializing in long-term [predictive analytics](../p/predictive_analytics.md), which includes gold [forecasting](../f/forecasting.md).
+Two Sigma Investments utilizes data-driven approaches and sophisticated algorithms to manage investments. They employ a large team of scientists and engineers specializing in long-term [predictive analytics](../p/predictive_analytics.md), which includes gold [forecasting](../f/forecasting.md).
 
 ## Algorithms and Techniques Used in Gold Price Forecasting
 

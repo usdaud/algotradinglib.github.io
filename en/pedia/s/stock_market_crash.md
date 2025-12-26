@@ -28,7 +28,7 @@ A notable historical example is the [Wall Street](../w/wall_street.md) Crash of 
 
 1. **[Leverage](../l/leverage.md)**: Using borrowed [money](../m/money.md) to purchase [stocks](../s/stock.md) can amplify gains but also losses. When the [market](../m/market.md) turns, leveraged investors may be forced to sell off [holdings](../h/holdings.md) rapidly, worsening the crash.
 
-2. **[Algorithmic Trading](../a/accountability.md)**: [Automated trading systems](../a/automated_trading_systems.md) can exacerbate downward trends by triggering massive sell orders when certain conditions are met, thus accelerating a [market](../m/market.md) decline.
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: [Automated trading systems](../a/automated_trading_systems.md) can exacerbate downward trends by triggering massive sell orders when certain conditions are met, thus accelerating a [market](../m/market.md) decline.
 
 3. **Lack of [Liquidity](../l/liquidity.md)**: If there's not enough trading [volume](../v/volume.md) to support prices, it can lead to a sharp drop in stock prices.
 

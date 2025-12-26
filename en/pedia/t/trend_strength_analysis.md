@@ -42,7 +42,7 @@ Several platforms [offer](../o/offer.md) sophisticated tools for [trend](../t/tr
 
 - **[TradingView](../t/tradingview.md) ([tradingview](../t/tradingview.md).com):** Provides comprehensive charting tools and custom indicators for analyzing [trend](../t/trend.md) strength.
 - **MetaTrader 4 and 5 ([metatrader4](../m/metatrader4.md).com):** Popular among forex traders for its [technical analysis](../t/technical_analysis.md) capabilities.
-- **[QuantConnect](../q/quantconnect.md) ([quantconnect](../q/quantconnect.md).com):** Offers [algorithmic trading](../a/algorithmic_trading.md) tools with access to historical data and customizable indicators.
+- **[StockSharp](../s/stocksharp.md):** Offers [algorithmic trading](../a/algorithmic_trading.md) tools with access to historical data and customizable indicators.
 
 **4. Algorithmic Implementation:**
 

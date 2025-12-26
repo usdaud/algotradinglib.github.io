@@ -14,7 +14,7 @@ Where:
 ### Formula Breakdown
 
 - **Total [Debt](../d/debt.md):** This refers to the combined amount of [short-term debt](../s/short-term_debt.md) (such as overdrafts, notes payable, and current portions of [long-term debt](../l/long-term_debt.md)) and [long-term debt](../l/long-term_debt.md) (including bonds payable, long-term loans, and similar [obligations](../o/obligation.md)).
-  
+
 - **Total Shareholders' [Equity](../e/equity.md):** This consists of [common stock](../c/common_stock.md), [preferred stock](../p/preferred_stock.md), [retained earnings](../r/retained_earnings.md), and [additional paid-in capital](../a/additional_paid-in_capital.md).
 
 By breaking down this formula, the [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio provides insight into what proportion of the company’s [capital](../c/capital.md) is financed through [debt](../d/debt.md) and obligational liabilities versus [equity](../e/equity.md) and [retained earnings](../r/retained_earnings.md).
@@ -22,7 +22,7 @@ By breaking down this formula, the [Debt](../d/debt.md)-to-[Capital](../c/capita
 ## Importance
 
 ### Financial Health Indicator
-The [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio is a critical [indicator](../i/indicator.md) of the [financial health](../f/financial_health.md) and [risk](../r/risk.md) profile of a company. A high ratio indicates that a company is heavily financed through [debt](../d/debt.md), potentially posing higher [financial risk](../f/financial_risk.md). Conversely, a lower ratio suggests that a company relies more on [equity](../e/equity.md) to [finance](../f/finance.md) its operations, generally perceived as a less risky structure. 
+The [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio is a critical [indicator](../i/indicator.md) of the [financial health](../f/financial_health.md) and [risk](../r/risk.md) profile of a company. A high ratio indicates that a company is heavily financed through [debt](../d/debt.md), potentially posing higher [financial risk](../f/financial_risk.md). Conversely, a lower ratio suggests that a company relies more on [equity](../e/equity.md) to [finance](../f/finance.md) its operations, generally perceived as a less risky structure.
 
 ### Creditworthiness Assessment
 Lenders and investors use this ratio to assess the [creditworthiness](../c/creditworthiness.md) of a company. Companies with high [debt](../d/debt.md) levels might face higher [interest](../i/interest.md) costs and [risk premium](../r/risk_premium.md) requirements from lenders, reflecting perceived [repayment](../r/repayment.md) risks.
@@ -91,7 +91,7 @@ It is crucial to compare a company's [Debt](../d/debt.md)-to-[Capital](../c/capi
 ## Practical Applications
 
 ### Corporate Strategy
-Companies use the [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio to shape their corporate [financing](../f/financing.md) strategies. Optimal financial structuring can balance growth pursuits with manageable [risk](../r/risk.md) levels. 
+Companies use the [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio to shape their corporate [financing](../f/financing.md) strategies. Optimal financial structuring can balance growth pursuits with manageable [risk](../r/risk.md) levels.
 
 ### Mergers and Acquisitions (M&A)
 For M&A activities, the [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio plays an integral role in assess the target company's [financial health](../f/financial_health.md) and alignment with the acquirer's strategic objectives.
@@ -102,5 +102,4 @@ Financial institutions and businesses in regulated sectors might need to adhere 
 ## Conclusion
 The [Debt](../d/debt.md)-to-[Capital](../c/capital.md) Ratio stands as a cornerstone in [financial analysis](../f/financial_analysis.md), impacting decision-making for various stakeholders. Accurate calculation and comprehension of this ratio enable a nuanced understanding of a company's financial architecture, highlighting its [debt](../d/debt.md) [obligations](../o/obligation.md) relative to its overall [capital](../c/capital.md) base. Through prudent application, businesses and investors alike can navigate the financial landscape with informed insights into [leverage](../l/leverage.md), [risk](../r/risk.md), and growth potential.
 
-For more specific and tailored applications, companies often refer to detailed [industry](../i/industry.md) reports and [financial statements](../f/financial_statements.md), leveraging services such as [Bloomberg](../b/bloomberg.md), Moody's, and proprietary financial software for in-depth analysis ([Example: Moody's Investors Service](https://www.moodys.com/)), ensuring precision and context in financial decision-making.
-
+For more specific and tailored applications, companies often refer to detailed [industry](../i/industry.md) reports and [financial statements](../f/financial_statements.md), leveraging services such as [Bloomberg](../b/bloomberg.md), Moody's, and proprietary financial software for in-depth analysis (Example: Moody's Investors Service), ensuring precision and context in financial decision-making.

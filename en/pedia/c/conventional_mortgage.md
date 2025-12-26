@@ -37,7 +37,7 @@ Non-conforming loans do not meet the guidelines set by Fannie Mae and [Freddie M
 ## Advantages of Conventional Mortgages
 
 1. **Flexibility in Terms:** Conventional [mortgage](../m/mortgage.md) borrowers have a wide array of term lengths and structure [options](../o/options.md). This flexibility can accommodate various financial situations and preferences.
-  
+
 2. **No Private [Mortgage Insurance](../m/mortgage_insurance.md) (PMI) with 20% Down:** Unlike FHA loans, which always require [mortgage insurance](../m/mortgage_insurance.md) premiums for the life of the [loan](../l/loan.md), conventional loans do not require PMI if the [down payment](../d/down_payment.md) is 20% or more.
 
 3. **Potential for Lower Costs:** With [good credit](../g/good_credit.md) and a substantial [down payment](../d/down_payment.md), borrowers might secure lower [interest](../i/interest.md) rates and monthly payments compared to government-backed loans.

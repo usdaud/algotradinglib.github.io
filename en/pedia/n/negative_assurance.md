@@ -51,12 +51,12 @@ Negative [assurance](../a/assurance.md) is primarily used in the following conte
 
 Several reputable firms are known for [offering](../o/offering.md) negative [assurance services](../a/assurance_services.md). Among them are the Big Four [accounting](../a/accounting.md) firms:
 
-- **Deloitte**: [About Deloitte](https://www2.deloitte.com/global/en.html)
-- **PwC (PricewaterhouseCoopers)**: [About PwC](https://www.pwc.com)
-- **EY (Ernst & Young)**: [About EY](https://www.ey.com)
-- **KPMG**: [About KPMG](https://home.kpmg/xx/en/home.html)
+- **Deloitte**: About Deloitte
+- **PwC (PricewaterhouseCoopers)**: About PwC
+- **EY (Ernst & Young)**: About EY
+- **KPMG**: About KPMG
 
-These firms have [robust](../r/robust.md) practices in place for conducting the necessary reviews and providing the limited assurances required by various stakeholders. 
+These firms have [robust](../r/robust.md) practices in place for conducting the necessary reviews and providing the limited assurances required by various stakeholders.
 
 ## Conclusion
 

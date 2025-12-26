@@ -53,8 +53,8 @@ ISM reports contribute to [market sentiment analysis](../m/market_sentiment_anal
 1. **[Manufacturing](../m/manufacturing.md) Report On [Business](../b/business.md)®:** Provides insights into the [manufacturing](../m/manufacturing.md) sector’s performance.
 2. **Non-[Manufacturing](../m/manufacturing.md) Report On [Business](../b/business.md)®:** Offers a detailed view of the [service sector](../s/service_sector.md).
 
-Both reports are released on a monthly [basis](../b/basis.md) and are eagerly anticipated by [market](../m/market.md) participants. For more in-depth exploration, the ISM website provides access to these reports and additional resources:
-- [ISM Reports](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business)
+Both reports are released on a monthly [basis](../b/basis.md) and are eagerly anticipated by [market](../m/market.md) participants. For more in-depth exploration, the ISM online platform provides access to these reports and additional resources:
+- ISM Reports
 
 ## Global Impact
 
@@ -88,4 +88,4 @@ As [supply](../s/supply.md) chains become more global, ISM is expanding its reac
 
 The Institute for [Supply](../s/supply.md) Management plays a pivotal role in the fields of [supply](../s/supply.md) management and [economic forecasting](../e/economic_forecasting.md). Its indices are indispensable tools for both traditional and algorithmic traders, influencing everything from [market sentiment](../m/market_sentiment.md) to high-frequency [trading strategies](../t/trading_strategies.md). As ISM continues to evolve, it remains at the forefront of innovation, education, and global [supply chain](../s/supply_chain.md) [best practices](../b/best_practices.md).
 
-For more information, visit [Institute for Supply Management](https://www.ismworld.org).
+For more information, visit Institute for Supply Management.

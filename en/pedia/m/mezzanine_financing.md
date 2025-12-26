@@ -70,15 +70,15 @@ In instances where companies need to restructure their balance sheets or [refina
 
 ### Bridgewater Associates
 
-[Bridgewater Associates](https://www.bridgewater.com/) is a leading example wherein mezzanine [financing](../f/financing.md) played a pivotal role in its [expansion](../e/expansion.md) strategy. The [firm](../f/firm.md) utilized mezzanine loans to [fund](../f/fund.md) significant [leverage](../l/leverage.md) buyouts, enabling them to stretch their capabilities beyond what standard [bank](../b/bank.md) loans would allow, while affording them substantial [return](../r/return.md) for their stakeholders.
+Bridgewater Associates is a leading example wherein mezzanine [financing](../f/financing.md) played a pivotal role in its [expansion](../e/expansion.md) strategy. The [firm](../f/firm.md) utilized mezzanine loans to [fund](../f/fund.md) significant [leverage](../l/leverage.md) buyouts, enabling them to stretch their capabilities beyond what standard [bank](../b/bank.md) loans would allow, while affording them substantial [return](../r/return.md) for their stakeholders.
 
 ### BlackRock
 
-[BlackRock](https://www.blackrock.com/), a notable [asset](../a/asset.md) manager, extensively uses mezzanine [financing](../f/financing.md) as part of their [capital structure](../c/capital_structure.md) across various investment portfolios. This versatile [financing](../f/financing.md) allows BlackRock to diversify its investment strategies and enhance portfolio [yield](../y/yield.md).
+BlackRock, a notable [asset](../a/asset.md) manager, extensively uses mezzanine [financing](../f/financing.md) as part of their [capital structure](../c/capital_structure.md) across various investment portfolios. This versatile [financing](../f/financing.md) allows BlackRock to diversify its investment strategies and enhance portfolio [yield](../y/yield.md).
 
 ### The Riverside Company
 
-[Riverside Company](https://www.riversidecompany.com/) is significantly involved in [private equity](../p/private_equity.md) buyouts and growth [capital](../c/capital.md). They frequently deploy mezzanine [financing](../f/financing.md) to secure acquisitions of middle-[market](../m/market.md) firms, maintaining an optimal blend of [risk](../r/risk.md) and [return](../r/return.md) by leveraging this hybrid [financing](../f/financing.md) [mode](../m/mode.md).
+Riverside Company is significantly involved in [private equity](../p/private_equity.md) buyouts and growth [capital](../c/capital.md). They frequently deploy mezzanine [financing](../f/financing.md) to secure acquisitions of middle-[market](../m/market.md) firms, maintaining an optimal blend of [risk](../r/risk.md) and [return](../r/return.md) by leveraging this hybrid [financing](../f/financing.md) [mode](../m/mode.md).
 
 ## Regulatory and Market Considerations
 

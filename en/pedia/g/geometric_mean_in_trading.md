@@ -1,6 +1,5 @@
 # Geometric Mean
 
-Geometric Mean Overview
 ------------------------
 The geometric mean is a statistical measure that is used to determine the central tendency or average of a set of numbers in a way that is particularly effective for data that is multiplicative or exponential in nature. Unlike the [arithmetic mean](../a/arithmetic_mean.md), which is simply the sum of the numbers divided by the count, the geometric mean takes into account the [compounding](../c/compounding.md) effect of values over time. This makes it highly relevant for trading, where returns are often compounded over [multiple](../m/multiple.md) periods.
 
@@ -12,7 +11,6 @@ GM = \left( \prod_{i=1}^{n} x_i \right)^{\frac{1}{n}}
 
 Where \(\prod\) denotes the product of the numbers.
 
-Geometric Mean Formula in Trading
 ---------------------------------
 In trading, the geometric mean is frequently used to calculate the [average return](../a/average_return.md) of an investment over time. If the returns over \(n\) periods are \(R_1, R_2, \ldots, R_n\), the geometric mean [return](../r/return.md) \(G\) is given by:
 
@@ -22,7 +20,6 @@ G = \left( \prod_{i=1}^{n} (1 + R_i) \right)^{\frac{1}{n}} - 1
 
 Here, each \(R_i\) represents the [return](../r/return.md) in each period \(i\). The subtraction of 1 adjusts the mean back from the growth [factor](../f/factor.md) (1 + [return](../r/return.md)) to just the [return](../r/return.md) itself.
 
-Importance of Geometric Mean in Trading
 ---------------------------------------
 The geometric mean is pivotal in trading for several reasons:
 
@@ -48,7 +45,7 @@ Comparison with [Arithmetic Mean](../a/arithmetic_mean.md)
 -------------------------------
 To highlight the differences, consider the same series of returns (10%, -5%, and 15%).
 
-- **[Arithmetic Mean](../a/arithmetic_mean.md)**: 
+- **[Arithmetic Mean](../a/arithmetic_mean.md)**:
 \[
 A = \frac{10\% + (-5\%) + 15\%}{3} = 6.67\%
 \]
@@ -95,6 +92,5 @@ Advantages of Geometric Mean in [Algorithmic Trading](../a/algorithmic_trading.m
 2. **Stability**: Offers a stable viewpoint for evaluating the effectiveness of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 3. **[Comparative Analysis](../c/comparative_analysis.md)**: Useful for comparing different [trading algorithms](../t/trading_algorithms.md) to identify the most consistent performers.
 
-Conclusion
 ----------
 In summary, the geometric mean is an essential tool in the field of trading. Its ability to consider the [compounding](../c/compounding.md) effect of returns over time makes it a more accurate and reliable measure for evaluating investment performance. Whether it is used in [portfolio management](../p/portfolio_management.md), [risk](../r/risk.md) assessment, or [algorithmic trading](../a/algorithmic_trading.md), the geometric mean provides crucial insights that help traders make informed decisions and optimize their [trading strategies](../t/trading_strategies.md).

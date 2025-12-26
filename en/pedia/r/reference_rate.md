@@ -2,6 +2,8 @@
 
 In the realm of [finance](../f/finance.md), a reference rate plays a pivotal role as an essential [benchmark](../b/benchmark.md) for various financial instruments, products, and contracts. This rate serves as a standard for [interest](../i/interest.md) rates in [financial markets](../f/financial_market.md), providing [transparency](../t/transparency.md), consistency, and predictability across different types of financial transactions. It is determined by authoritative institutions and reflects the cost of borrowing [money](../m/money.md) in the [market](../m/market.md). Given its significance, the reference rate is ubiquitous in lending, borrowing, [derivatives](../d/derivatives.md), and other financial arrangements.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Characteristics of Reference Rates
 
 ### Transparency
@@ -80,7 +82,7 @@ The reference rate is a cornerstone of the modern [financial system](../f/financ
 
 For more information, you can visit the official websites of the institutions managing these rates:
 
-- [Federal Reserve Bank of New York](https://www.newyorkfed.org) for SOFR-related information.
-- [European Central Bank](https://www.ecb.europa.eu) for details on €STR.
+- Federal Reserve Bank of New York for SOFR-related information.
+- European Central Bank for details on €STR.
 
 Understanding and adapting to these reference rates is essential for financial professionals, ensuring that they can effectively manage [risk](../r/risk.md), price financial instruments accurately, and comply with regulatory standards.

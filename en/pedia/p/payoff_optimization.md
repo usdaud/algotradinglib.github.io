@@ -50,10 +50,10 @@ Regular performance evaluation is essential to assess the effectiveness of a [tr
 ## Tools and Platforms
 
 ### 1. QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), strategy development, and live trading. It supports various financial instruments and integrates with [multiple](../m/multiple.md) data providers.
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), strategy development, and live trading. It supports various financial instruments and integrates with [multiple](../m/multiple.md) data providers.
 
 ### 2. MetaTrader
-[MetaTrader](https://www.metatrader5.com/en) is a widely-used [trading platform](../t/trading_platform.md) that offers powerful tools for [backtesting](../b/backtesting.md), [market](../m/market.md) analysis, and automated trading. It supports both MetaTrader 4 (MT4) and MetaTrader 5 (MT5) platforms.
+MetaTrader is a widely-used [trading platform](../t/trading_platform.md) that offers powerful tools for [backtesting](../b/backtesting.md), [market](../m/market.md) analysis, and automated trading. It supports both MetaTrader 4 (MT4) and MetaTrader 5 (MT5) platforms.
 
 ### 3. MATLAB
 MATLAB is a high-level language and interactive environment used by traders and analysts for algorithm development, data analysis, and numerical computation. It is particularly useful for developing custom [trading strategies](../t/trading_strategies.md) and conducting complex analyses.
@@ -70,7 +70,7 @@ High-frequency trading leverages advanced algorithms and high-speed data feeds t
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md), like Renaissance Technologies and Two Sigma, use sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to optimize payoffs. These funds employ teams of PhDs in mathematics, physics, and computer science to develop [proprietary trading](../p/proprietary_trading.md) strategies.
 
 ### C. Retail Algorithmic Trading
-Retail investors are increasingly using [algorithmic trading](../a/algorithmic_trading.md) platforms to optimize payoffs. Platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader provide retail traders with access to tools and technologies previously available only to institutional investors.
+Retail investors are increasingly using [algorithmic trading](../a/algorithmic_trading.md) platforms to optimize payoffs. Platforms like [StockSharp](../s/stocksharp.md) and MetaTrader provide retail traders with access to tools and technologies previously available only to institutional investors.
 
 ## Future Directions
 

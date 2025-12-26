@@ -4,7 +4,7 @@
 Coinbase is a leading cryptocurrency [exchange](../e/exchange.md) and platform that provides a secure and user-friendly way to buy, sell, and manage digital currencies. Founded in 2012 by Brian Armstrong and Fred Ehrsam, Coinbase has grown to become one of the largest and most trusted cryptocurrency exchanges globally, serving millions of users. The platform offers a comprehensive suite of products for retail investors, professional traders, and institutions.
 
 ## Key Features
-1. **Wide [Range](../r/range.md) of Cryptocurrencies**: Coinbase supports trading for a wide array of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Litecoin (LTC), and many altcoins. 
+1. **Wide [Range](../r/range.md) of Cryptocurrencies**: Coinbase supports trading for a wide array of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Litecoin (LTC), and many altcoins.
 
 2. **User-Friendly Interface**: The platform is designed to be intuitive and easy to use, making it accessible to both beginners and experienced traders.
 
@@ -66,5 +66,3 @@ Coinbase employs [robust](../r/robust.md) [security](../s/security.md) protocols
 - **[Insurance](../i/insurance.md) Coverage**: Coinbase carries [insurance](../i/insurance.md) coverage for digital assets held in its online storage.
 - **Biometric Logins**: Utilizing fingerprint and facial recognition for mobile app access.
 
-## Website
-For more information about Coinbase and their services, visit the official website: [Coinbase](https://www.coinbase.com/)

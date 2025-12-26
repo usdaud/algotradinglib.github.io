@@ -19,7 +19,7 @@ Gann Theory is rooted in several core principles, which serve as the foundation 
 [Gann Angles](../g/gann_angles.md) are one of the most crucial aspects of Gann Theory. They are used to predict [support and resistance](../s/support_and_resistance.md) levels and identify the strength and direction of a [trend](../t/trend.md). The most commonly used [Gann Angles](../g/gann_angles.md) are the 1x1, 1x2, and 2x1 angles.
 
 - **1x1 Angle**: Represents one unit of price per one unit of time (e.g., one point per one day). It is considered a 45° angle on Gann Charts and is viewed as a strong [indicator](../i/indicator.md).
-  
+
 - **1x2 and 2x1 Angles**: These angles represent different ratios of price and time units and are used to identify more granular [support and resistance](../s/support_and_resistance.md) levels. A 1x2 angle, for example, might indicate one unit of price per two units of time.
 
 ### How to Use Gann Angles
@@ -85,6 +85,6 @@ Gann Theory remains one of the most unique and elaborate methodologies in [techn
 
 To explore more about platforms and tools that incorporate Gann Theory, you can visit:
 
-- [NinjaTrader](https://ninjatrader.com/)
-- [TradingView](https://www.tradingview.com/)
-- [Optuma](https://www.optuma.com/)
+- NinjaTrader
+- TradingView
+- Optuma

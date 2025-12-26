@@ -43,5 +43,3 @@ Tradier is regulated by several top-tier financial authorities, ensuring a secur
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md))
 - Securities [Investor](../i/investor.md) Protection [Corporation](../c/corporation.md) (SIPC)
 
-## Website
-For more information and to start trading, visit the official Tradier website: [Tradier](https://www.tradier.com)

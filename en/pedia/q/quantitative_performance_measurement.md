@@ -10,34 +10,34 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 
 #### 2. Sharpe Ratio
 - The **[Sharpe Ratio](../s/sharpe_ratio.md)** measures the [risk-adjusted return](../r/risk-adjusted_return.md) of a portfolio. It is defined by the following formula:
-  \[
-  \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{R_p - R_f}{\sigma_p}
-  \]
-  where \( R_p \) is the [return](../r/return.md) of the portfolio, \( R_f \) is the [risk](../r/risk.md)-free rate, and \( \sigma_p \) is the [standard deviation](../s/standard_deviation.md) of the [excess return](../e/excess_return.md).
+ \[
+ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{R_p - R_f}{\sigma_p}
+ \]
+ where \( R_p \) is the [return](../r/return.md) of the portfolio, \( R_f \) is the [risk](../r/risk.md)-free rate, and \( \sigma_p \) is the [standard deviation](../s/standard_deviation.md) of the [excess return](../e/excess_return.md).
 
 #### 3. Sortino Ratio
 - The **[Sortino Ratio](../s/sortino_ratio.md)** is a modification of the [Sharpe Ratio](../s/sharpe_ratio.md) that accounts only for [downside risk](../d/downside_risk.md). It focuses on negative deviations from the mean [return](../r/return.md):
-  \[
-  \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - R_f}{\sigma_D}
-  \]
-  where \( \sigma_D \) is the [standard deviation](../s/standard_deviation.md) of the [downside deviation](../d/downside_deviation.md).
+ \[
+ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - R_f}{\sigma_D}
+ \]
+ where \( \sigma_D \) is the [standard deviation](../s/standard_deviation.md) of the [downside deviation](../d/downside_deviation.md).
 
 #### 4. Maximum Drawdown
 - **Maximum [Drawdown](../d/drawdown.md)** (MDD) is the largest peak-to-[trough](../t/trough.md) decline in the [value](../v/value.md) of a portfolio. It indicates the [risk](../r/risk.md) of a portfolio's [value](../v/value.md) dropping due to a losing streak.
 
 #### 5. Calmar Ratio
 - The **Calmar Ratio** measures [return](../r/return.md) relative to the maximum [drawdown](../d/drawdown.md). It is calculated as:
-  \[
-  \text{Calmar Ratio} = \frac{\text{CAGR}}{\text{MDD}}
-  \]
-  where CAGR is the Compound Annual Growth Rate, and MDD is the Maximum [Drawdown](../d/drawdown.md).
+ \[
+ \text{Calmar Ratio} = \frac{\text{CAGR}}{\text{MDD}}
+ \]
+ where CAGR is the Compound Annual Growth Rate, and MDD is the Maximum [Drawdown](../d/drawdown.md).
 
 #### 6. Information Ratio
 - The **[Information Ratio](../i/information_ratio.md)** measures the [excess return](../e/excess_return.md) of a portfolio relative to a [benchmark](../b/benchmark.md), adjusted for the [volatility](../v/volatility.md) of those returns. It is calculated as:
-  \[
-  \text{[Information Ratio](../i/information_ratio.md)} = \frac{R_p - R_b}{\sigma_{p-b}}
-  \]
-  where \( R_p \) is the [return](../r/return.md) of the portfolio, \( R_b \) is the [return](../r/return.md) of the [benchmark](../b/benchmark.md), and \( \sigma_{p-b} \) is the [standard deviation](../s/standard_deviation.md) of the [excess return](../e/excess_return.md).
+ \[
+ \text{[Information Ratio](../i/information_ratio.md)} = \frac{R_p - R_b}{\sigma_{p-b}}
+ \]
+ where \( R_p \) is the [return](../r/return.md) of the portfolio, \( R_b \) is the [return](../r/return.md) of the [benchmark](../b/benchmark.md), and \( \sigma_{p-b} \) is the [standard deviation](../s/standard_deviation.md) of the [excess return](../e/excess_return.md).
 
 ### Methodologies
 
@@ -52,9 +52,9 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 
 ### Tools and Platforms
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest, optimize, and execute [trading strategies](../t/trading_strategies.md) across various [asset](../a/asset.md) classes.
+1. **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest, optimize, and execute [trading strategies](../t/trading_strategies.md) across various [asset](../a/asset.md) classes.
 2. **[Quantlib](../q/quantlib.md)**: [Quantlib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md). It includes tools for pricing financial instruments, managing [risk](../r/risk.md), and performing various [quantitative finance](../q/quantitative_finance.md) calculations.
-3. **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com) offers a professional [trading platform](../t/trading_platform.md) for [backtesting](../b/backtesting.md) and automated trading, equipped with [robust](../r/robust.md) tools for analysis and algorithm development.
+3. **[TradeStation](../t/tradestation.md)**: TradeStation offers a professional [trading platform](../t/trading_platform.md) for [backtesting](../b/backtesting.md) and automated trading, equipped with [robust](../r/robust.md) tools for analysis and algorithm development.
 
 ### Best Practices
 
@@ -73,12 +73,11 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 ### Case Studies
 
 #### 1. Renaissance Technologies
-Renaissance Technologies is a renowned quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md). Their success is attributed to sophisticated [quantitative models](../q/quantitative_models.md) and a strong focus on quantitative performance measurement. [Website](https://www.rentec.com)
+Renaissance Technologies is a renowned quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md). Their success is attributed to sophisticated [quantitative models](../q/quantitative_models.md)
 
 #### 2. Two Sigma
-Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [quantitative analysis](../q/quantitative_analysis.md) to uncover investment opportunities. Their rigorous approach to performance measurement ensures optimal strategy effectiveness. [Website](https://www.twosigma.com)
+Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [quantitative analysis](../q/quantitative_analysis.md) to uncover investment opportunities. Their rigorous approach to performance
 
 ### Conclusion
 
 Quantitative Performance Measurement is crucial for the success of [trading strategies](../t/trading_strategies.md) and financial models. By employing [robust](../r/robust.md) metrics, methodologies, and tools, traders and analysts can [gain](../g/gain.md) deep insights into strategy performance, manage risks effectively, and continuously improve their investment approaches.
-

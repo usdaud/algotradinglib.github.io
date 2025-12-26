@@ -78,8 +78,7 @@ The use of algorithms for [window dressing](../w/window_dressing.md) raises seri
 
 #### 3. Case Studies in Algorithmic Trading
 
-**Company Name: Renaissance Technologies**  
-[Website](https://www.rentec.com/)
+**Company Name: Renaissance Technologies**
 
 Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company, is known for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) to drive trading decisions. While there is no public evidence to suggest Renaissance engages in [window dressing](../w/window_dressing.md), the [firm](../f/firm.md)'s technological sophistication makes it a potential candidate for employing such strategies.
 
@@ -89,8 +88,7 @@ Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company,
 
 Many financial institutions employ [transaction](../t/transaction.md) surveillance systems to monitor trading activities. These systems flag [unusual trading patterns](../u/unusual_trading_patterns.md) and generate reports for further investigation.
 
-**Company Name: NICE Actimize**  
-[Website](https://www.niceactimize.com/)
+**Company Name: NICE Actimize**
 
 NICE Actimize provides comprehensive solutions for detecting financial crimes, including [window dressing](../w/window_dressing.md). Their software uses [machine learning](../m/machine_learning.md) to identify and flag suspicious activities, ensuring compliance and mitigating risks.
 
@@ -98,8 +96,7 @@ NICE Actimize provides comprehensive solutions for detecting financial crimes, i
 
 [Risk management](../r/risk_management.md) software helps firms assess the risks associated with various trading activities. These tools can be used to detect [window dressing](../w/window_dressing.md) by highlighting trades that significantly diverge from regular patterns.
 
-**Company Name: SAS**  
-[Website](https://www.sas.com/)
+**Company Name: SAS**
 
 SAS offers [robust](../r/robust.md) [risk management](../r/risk_management.md) solutions that [leverage](../l/leverage.md) analytics to provide insights into trading risks. This software can potentially identify [window dressing](../w/window_dressing.md) activities by analyzing deviations in trading behaviors.
 

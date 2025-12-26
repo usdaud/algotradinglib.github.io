@@ -43,19 +43,19 @@ Fintech companies often operate on subscription models, where users pay a recurr
 
 ### LendingClub
 
-LendingClub (https://www.lendingclub.com/) is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that utilizes upfront pricing. Borrowers receive personalized [loan](../l/loan.md) offers that clearly outline the total cost of the [loan](../l/loan.md), including [interest](../i/interest.md) rates and any applicable fees. This allows borrowers to make informed decisions and compare lending [options](../o/options.md) easily.
+LendingClub ( is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that utilizes upfront pricing. Borrowers receive personalized [loan](../l/loan.md) offers that clearly outline the total cost of the [loan](../l/loan.md), including [interest](../i/interest.md) rates and any applicable fees. This allows borrowers to make informed decisions and compare lending [options](../o/options.md) easily.
 
 ### Robinhood
 
-[Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) is a [trading platform](../t/trading_platform.md) known for its [commission](../c/commission.md)-free trading model. However, the company is transparent about how it earns [revenue](../r/revenue.md) through means such as [interest](../i/interest.md) on uninvested cash, [premium](../p/premium.md) subscriptions, and [payment](../p/payment.md) for [order](../o/order.md) flow. This upfront [disclosure](../d/disclosure.md) helps users understand the true cost and [value](../v/value.md) of their trades.
+[Robinhood](../r/robinhood.md) ( is a [trading platform](../t/trading_platform.md) known for its [commission](../c/commission.md)-free trading model. However, the company is transparent about how it earns [revenue](../r/revenue.md) through means such as [interest](../i/interest.md) on uninvested cash, [premium](../p/premium.md) subscriptions, and [payment](../p/payment.md) for [order](../o/order.md) flow. This upfront [disclosure](../d/disclosure.md) helps users understand the true cost and [value](../v/value.md) of their trades.
 
 ### Betterment
 
-Betterment (https://www.betterment.com/) is an investment platform that charges a straightforward [management fee](../m/management_fee.md) based on the amount of [money](../m/money.md) invested. The [fee](../f/fee.md) structure is clearly communicated to users upfront, ensuring they understand what they [will](../w/will.md) be charged over time.
+Betterment ( is an investment platform that charges a straightforward [management fee](../m/management_fee.md) based on the amount of [money](../m/money.md) invested. The [fee](../f/fee.md) structure is clearly communicated to users upfront, ensuring they understand what they [will](../w/will.md) be charged over time.
 
 ### TransferWise (now Wise)
 
-Wise (https://wise.com/), previously known as TransferWise, is a [money](../m/money.md) transfer service that has built its reputation on transparent, low-cost pricing. Customers see the exact fees and [exchange](../e/exchange.md) rates upfront before they send [money](../m/money.md), eliminating surprises and building [trust](../t/trust.md).
+Wise ( previously known as TransferWise, is a [money](../m/money.md) transfer service that has built its reputation on transparent, low-cost pricing. Customers see the exact fees and [exchange](../e/exchange.md) rates upfront before they send [money](../m/money.md), eliminating surprises and building [trust](../t/trust.md).
 
 ## Benefits of Upfront Pricing for Companies
 

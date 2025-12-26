@@ -26,7 +26,7 @@ Unclaimed [bank](../b/bank.md) accounts, [stocks](../s/stock.md), dividends, and
 The process of escheatment typically involves several steps:
 
 1. **Identification of Abandoned Property**: Entities holding potentially abandoned property must make efforts to identify and contact the rightful owners or heirs.
-   
+
 2. **Dormancy Period**: The property must remain unclaimed for a statutory period, known as the dormancy period, which varies by jurisdiction and type of property.
 
 3. **Reporting**: Holders of the property must report unclaimed assets to the relevant state authority, usually the state treasury or unclaimed property division.
@@ -43,30 +43,30 @@ The process of escheatment typically involves several steps:
 
 In the U.S., escheat laws vary significantly from state to state. Each state has a unique unclaimed property program, often overseen by the State Treasurer or a similar entity. For instance, California's Unclaimed Property Law requires financial institutions, businesses, and other entities to report unclaimed property to the State Controller's Office.
 
-- **[California's Unclaimed Property Program](https://sco.ca.gov/upd.html)**
+- **California's Unclaimed Property Program**
 
-Massachusetts escheat laws have a similar framework but with different dormancy periods and reporting requirements. 
+Massachusetts escheat laws have a similar framework but with different dormancy periods and reporting requirements.
 
-- **[Massachusetts Abandoned Property Division](https://www.mass.gov/abandoned-property-division)**
+- **Massachusetts Abandoned Property Division**
 
 ### United Kingdom
 
-In the UK, the process is governed primarily by the Bona Vacantia division of the government's legal department. This division manages unclaimed estates for individuals who die [intestate](../i/intestate.md) and without known heirs. 
+In the UK, the process is governed primarily by the Bona Vacantia division of the government's legal department. This division manages unclaimed estates for individuals who die [intestate](../i/intestate.md) and without known heirs.
 
-- **[UK Government Legal Department - Bona Vacantia](https://www.gov.uk/government/organisations/bona-vacantia)**
+- **UK Government Legal Department - Bona Vacantia**
 
 ### Canada
 
 Canadian provinces have oversight for escheatment. In Ontario, for example, unclaimed property is managed by the Office of the Public Guardian and [Trustee](../t/trustee.md).
 
-- **[Ontario Public Guardian and Trustee](https://www.attorneygeneral.jus.gov.on.ca/english/family/pgt/)**
+- **Ontario Public Guardian and Trustee**
 
 ## Implications of Escheat
 
 Escheat laws serve [multiple](../m/multiple.md) purposes:
 
 1. **Preventing Property Neglect**: They ensure that property doesn't remain in a neglected or unusable state.
-   
+
 2. **State [Revenue](../r/revenue.md)**: Escheated property can represent a significant source of [revenue](../r/revenue.md) for states, which can be used for public services.
 
 3. **Consumer Protection**: These laws encourage financial institutions and other entities to make efforts to locate property owners, thus protecting individuals' rights to their assets.

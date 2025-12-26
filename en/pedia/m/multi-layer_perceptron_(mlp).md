@@ -47,9 +47,9 @@ MLPs have a wide [range](../r/range.md) of applications in [algorithmic trading]
 
 Several companies and platforms incorporate MLPs into their [trading strategies](../t/trading_strategies.md) and algorithms. Examples include:
 
-- **Kensho Technologies:** A financial analytics and AI company that leverages [neural networks](../n/neural_networks_in_trading.md) for predictive analysis. [Website](https://www.kensho.com)
-- **Two Sigma:** A leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and MLPs for [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com)
-- **Numerai:** A [hedge fund](../h/hedge_fund.md) that crowdsources [trading models](../t/trading_models.md), many of which use MLPs for predictions. [Website](https://numer.ai)
+- **Kensho Technologies:** A financial analytics and AI company that leverages [neural networks](../n/neural_networks_in_trading.md)
+- **Two Sigma:** A leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and MLPs for [trading strategies](../t/trading_strategies.md). online platform
+- **Numerai:** A [hedge fund](../h/hedge_fund.md) that crowdsources [trading models](../t/trading_models.md),
 
 ### Advantages of MLP
 

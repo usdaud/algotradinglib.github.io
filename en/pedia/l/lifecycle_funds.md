@@ -29,13 +29,12 @@ The primary objective of lifecycle funds is to align the [asset allocation](../a
 
 ### Popular Providers
 
-1. **Vanguard**: Vanguard offers a suite of target-date retirement funds, which automatically adjust their [asset](../a/asset.md) mix to become more conservative as the target date approaches. [Vanguard Target Retirement Funds](https://investor.vanguard.com/mutual-funds/target-retirement/#/)
+1. **Vanguard**: Vanguard offers a suite of target-date retirement funds, which automatically adjust their [asset](../a/asset.md) mix to become more conservative as the target date approaches. Vanguard Target Retirement Funds
 
-2. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers target-date funds under the Freedom [Fund](../f/fund.md) brand. These funds are designed to provide diversified portfolios that gradually become more conservative. [Fidelity Freedom Funds](https://fundresearch.fidelity.com/mutual-funds/category-performance.do?cat=TARGET)
+2. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers target-date funds under the Freedom [Fund](../f/fund.md) brand. These funds are designed to provide diversified portfolios that gradually become more conservative. Fidelity Freedom Funds
 
-3. **T. Rowe Price**: Another prominent provider, T. Rowe Price, offers target-date retirement funds designed to reduce the [risk](../r/risk.md) as the retirement date approaches. [T. Rowe Price Retirement Funds](https://www.troweprice.com/personal-investing/tools/target-date-investments.html)
+3. **T. Rowe Price**: Another prominent provider, T. Rowe Price, offers target-date retirement funds designed to reduce the [risk](../r/risk.md) as the retirement date approaches. T. Rowe Price Retirement Funds
 
 ### Conclusion
 
 Lifecycle funds represent a popular and growing segment of the investment [market](../m/market.md), particularly for [retirement planning](../r/retirement_planning.md). They provide a simplified, automated approach to [asset allocation](../a/asset_allocation.md), which can make [investing](../i/investing.md) less intimidating for individual investors. While they come with certain limitations and costs, their overall convenience and structured approach to [risk management](../r/risk_management.md) make them an attractive option for many.
-

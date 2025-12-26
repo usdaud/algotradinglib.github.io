@@ -35,7 +35,7 @@ Initial [jobless claims](../j/jobless_claims.md) are weekly [statistics](../s/st
 
 ## Application in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (or algo-trading) utilizes computer algorithms to place trades according to predefined criteria. [Leading indicators](../l/leading_indicators.md) play a key role in these algorithms, providing critical input variables that help determine [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) (or algo-trading) utilizes computer algorithms to place trades according to predefined criteria. [Leading indicators](../l/leading_indicators.md) play a key role in these algorithms, providing critical input variables that help determine [trading strategies](../t/trading_strategies.md).
 
 ### Incorporation of Leading Indicators
 
@@ -71,22 +71,22 @@ Several resources and tools can help traders and analysts [leverage](../l/levera
 
 ### Services
 
-1. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive financial data, including a [range](../r/range.md) of leading [economic indicators](../e/economic_indicators.md). More information can be found [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+1. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive financial data, including a [range](../r/range.md) of leading [economic indicators](../e/economic_indicators.md). More information can be found here.
 
-2. **Thomson [Reuters](../r/reuters.md) Eikon**: Offers [real-time market data](../r/real-time_market_data.md) and analytics, including access to [leading indicators](../l/leading_indicators.md). Learn more [here](https://www.refinitiv.com/en/products/eikon-trading-software).
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Offers [real-time market data](../r/real-time_market_data.md) and analytics, including access to [leading indicators](../l/leading_indicators.md). Learn more here.
 
 ### Open-Source Libraries
 
-1. **Pandas**: An [open](../o/open.md)-source data analysis and manipulation tool for Python. It can be used to manage and analyze economic data, including [leading indicators](../l/leading_indicators.md). Learn more [here](https://pandas.pydata.org/).
+1. **Pandas**: An [open](../o/open.md)-source data analysis and manipulation tool for Python. It can be used to manage and analyze economic data, including [leading indicators](../l/leading_indicators.md). Learn more here.
 
-2. **TA-Lib**: A [technical analysis](../t/technical_analysis.md) library for Python that includes functions to compute a variety of [leading indicators](../l/leading_indicators.md). More information can be found [here](https://mrjbq7.github.io/ta-lib/).
+2. **TA-Lib**: A [technical analysis](../t/technical_analysis.md) library for Python that includes functions to compute a variety of [leading indicators](../l/leading_indicators.md). More information can be found here.
 
 ### Platforms
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/accountability.md) platform that supports leading [indicator](../i/indicator.md) integration and [backtesting](../b/backtesting.md). More information is available [here](https://www.quantconnect.com/).
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports leading [indicator](../i/indicator.md) integration and [backtesting](../b/backtesting.md). More information is available here.
 
-2. **[Algorithmic Trading](../a/accountability.md) Group (ATG)**: Provides tools and resources for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those integrating [leading indicators](../l/leading_indicators.md). Explore more [here](https://atg.apexfintechsolutions.com/).
+2. **[Algorithmic Trading](../a/algorithmic_trading.md) Group (ATG)**: Provides tools and resources for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those integrating [leading indicators](../l/leading_indicators.md). Explore more here.
 
 ## Conclusion
 
-[Leading indicators](../l/leading_indicators.md) are indispensable tools for financial analysts, policymakers, and investors. They [offer](../o/offer.md) valuable foresight into future [economic conditions](../e/economic_conditions.md), enabling more informed decision-making. Despite the challenges associated with data quality and [false signals](../f/false_signals_in_trading.md), the integration of [leading indicators](../l/leading_indicators.md) into [algorithmic trading](../a/accountability.md) systems can significantly enhance [trading performance](../t/trading_performance.md). As technology and modeling techniques continue to evolve, the accuracy and reliability of these indicators are likely to improve, making them even more valuable in the ever-changing world of [finance](../f/finance.md).
+[Leading indicators](../l/leading_indicators.md) are indispensable tools for financial analysts, policymakers, and investors. They [offer](../o/offer.md) valuable foresight into future [economic conditions](../e/economic_conditions.md), enabling more informed decision-making. Despite the challenges associated with data quality and [false signals](../f/false_signals_in_trading.md), the integration of [leading indicators](../l/leading_indicators.md) into [algorithmic trading](../a/algorithmic_trading.md) systems can significantly enhance [trading performance](../t/trading_performance.md). As technology and modeling techniques continue to evolve, the accuracy and reliability of these indicators are likely to improve, making them even more valuable in the ever-changing world of [finance](../f/finance.md).

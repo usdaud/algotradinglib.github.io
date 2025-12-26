@@ -1,6 +1,6 @@
 # Modified Duration
 
-Modified [duration](../d/duration.md) is a financial measure used to assess the sensitivity of a [bond](../b/bond.md)'s price to changes in [interest](../i/interest.md) rates. It is an essential concept in fixed-[income](../i/income.md) [investing](../i/investing.md) and is of particular [interest](../i/interest.md) to portfolio managers, [risk](../r/risk.md) analysts, and traders who seek to manage [interest rate](../i/interest_rate.md) risks effectively. Modified [duration](../d/duration.md) builds on the concept of [Macaulay duration](../m/macaulay_duration.md), which measures the [weighted average](../w/weighted_average.md) time until a [bond](../b/bond.md)'s cash flows are received, to provide a more actionable metric for predicting price [volatility](../v/volatility.md). 
+Modified [duration](../d/duration.md) is a financial measure used to assess the sensitivity of a [bond](../b/bond.md)'s price to changes in [interest](../i/interest.md) rates. It is an essential concept in fixed-[income](../i/income.md) [investing](../i/investing.md) and is of particular [interest](../i/interest.md) to portfolio managers, [risk](../r/risk.md) analysts, and traders who seek to manage [interest rate](../i/interest_rate.md) risks effectively. Modified [duration](../d/duration.md) builds on the concept of [Macaulay duration](../m/macaulay_duration.md), which measures the [weighted average](../w/weighted_average.md) time until a [bond](../b/bond.md)'s cash flows are received, to provide a more actionable metric for predicting price [volatility](../v/volatility.md).
 
 ## Understanding Duration
 
@@ -70,7 +70,7 @@ Hence, a 1% increase in [interest](../i/interest.md) rates would result in appro
 
 ### Python Code Example
 
-In the context of [algorithmic trading](../a/accountability.md) or [financial analysis](../f/financial_analysis.md), implementing modified [duration](../d/duration.md) in Python can be insightful. Below is a code snippet for calculating modified [duration](../d/duration.md):
+In the context of [algorithmic trading](../a/algorithmic_trading.md) or [financial analysis](../f/financial_analysis.md), implementing modified [duration](../d/duration.md) in Python can be insightful. Below is a code snippet for calculating modified [duration](../d/duration.md):
 
 ```python
 # Required libraries
@@ -105,4 +105,4 @@ This script calculates both Macaulay and modified durations using numpy for arra
 
 ## Conclusion
 
-Modified [duration](../d/duration.md) is a vital tool for understanding the [price sensitivity](../p/price_sensitivity.md) of bonds to [interest rate](../i/interest_rate.md) changes. Its practical applications in [portfolio management](../p/par.md), [bond](../b/bond.md) pricing, and [risk](../r/risk.md) assessment make it indispensable for financial professionals. Whether used in traditional [portfolio management](../p/par.md) or advanced [algorithmic trading](../a/accountability.md), modified [duration](../d/duration.md) remains a cornerstone in the [financial analysis](../f/financial_analysis.md) of fixed-[income](../i/income.md) instruments.
+Modified [duration](../d/duration.md) is a vital tool for understanding the [price sensitivity](../p/price_sensitivity.md) of bonds to [interest rate](../i/interest_rate.md) changes. Its practical applications in [portfolio management](../p/par.md), [bond](../b/bond.md) pricing, and [risk](../r/risk.md) assessment make it indispensable for financial professionals. Whether used in traditional [portfolio management](../p/par.md) or advanced [algorithmic trading](../a/algorithmic_trading.md), modified [duration](../d/duration.md) remains a cornerstone in the [financial analysis](../f/financial_analysis.md) of fixed-[income](../i/income.md) instruments.

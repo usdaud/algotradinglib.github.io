@@ -14,25 +14,25 @@ There are two primary types of [market](../m/market.md) [correlation](../c/corre
 [Correlation](../c/correlation.md) is commonly measured using statistical methods. The two most widely used statistical measures are:
 
 1. **Pearson [Correlation Coefficient](../c/correlation_coefficient.md) (ρ)**: This metric ranges from -1 to 1. A [value](../v/value.md) of 1 implies a perfect [positive correlation](../p/positive_correlation.md), -1 implies a perfect [negative correlation](../n/negative_correlation.md), and 0 implies no [correlation](../c/correlation.md).
-  
-   \[
-   \[rho](../r/rho.md) = \frac{ \text{Cov}(A, B) }{ \sigma_A \sigma_B }
-   \]
-  
-   where:
-   - \(\text{Cov}(A, B)\) is the [covariance](../c/covariance.md) between assets A and B.
-   - \(\sigma_A\) and \(\sigma_B\) are the standard deviations of assets A and B, respectively.
-   
+
+ \[
+ \[rho](../r/rho.md) = \frac{ \text{Cov}(A, B) }{ \sigma_A \sigma_B }
+ \]
+
+ where:
+ - \(\text{Cov}(A, B)\) is the [covariance](../c/covariance.md) between assets A and B.
+ - \(\sigma_A\) and \(\sigma_B\) are the standard deviations of assets A and B, respectively.
+
 2. **Spearman Rank [Correlation](../c/correlation.md)**: This non-parametric measure assesses how well the relationship between two assets can be described using a monotonic function. It is useful when the data does not necessarily follow a [linear relationship](../l/linear_relationship.md).
-  
-   \[
-   \[rho](../r/rho.md) = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}
-   \]
-   
-   where:
-   - \(d_i\) is the difference in ranks between the i-th pair of variables.
-   - \(n\) is the number of observations.
-  
+
+ \[
+ \[rho](../r/rho.md) = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}
+ \]
+
+ where:
+ - \(d_i\) is the difference in ranks between the i-th pair of variables.
+ - \(n\) is the number of observations.
+
 ## Practical Examples of Market Correlation
 
 ### Equities
@@ -57,9 +57,9 @@ Modern Portfolio Theory (MPT), introduced by [Harry Markowitz](../h/harry_markow
 
 Several [software platforms](../s/software_platforms_for_trading.md) provide tools for analyzing and visualizing [market](../m/market.md) [correlation](../c/correlation.md):
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive analytics and visualization tools for examining [asset](../a/asset.md) correlations, accessible via [Bloomberg](https://www.bloomberg.com).
-2. **[Reuters](../r/reuters.md) Eikon**: Another platform providing in-depth [market](../m/market.md) analytics, available at [Reuters](https://www.refinitiv.com/en/products/eikon-trading-software).
-3. **[Yahoo Finance](../y/yahoo_finance.md)**: Offers basic [correlation](../c/correlation.md) tools suitable for retail investors, available at [Yahoo Finance](https://finance.yahoo.com).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive analytics and visualization tools for examining [asset](../a/asset.md) correlations, accessible via Bloomberg.
+2. **[Reuters](../r/reuters.md) Eikon**: Another platform providing in-depth [market](../m/market.md) analytics, available at Reuters.
+3. **[Yahoo Finance](../y/yahoo_finance.md)**: Offers basic [correlation](../c/correlation.md) tools suitable for retail investors, available at Yahoo Finance.
 4. **Python Libraries**: For algo-traders, libraries like pandas, NumPy, and statsmodels can be used to compute and visualize correlations programmatically.
 
 ## Real-World Issues and Challenges

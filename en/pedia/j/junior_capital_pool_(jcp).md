@@ -36,7 +36,7 @@ By [investing](../i/investing.md) in a portfolio of early-stage companies, JCPs 
 JCPs play a crucial role in fostering innovation and [economic growth](../e/economic_growth.md). By supporting early-stage companies, these pools contribute to job creation, technological advancement, and overall economic development.
 
 ## Regulatory Environment
-The operation of Junior [Capital](../c/capital.md) Pools is subject to various regulatory frameworks, which differ by country. 
+The operation of Junior [Capital](../c/capital.md) Pools is subject to various regulatory frameworks, which differ by country.
 
 ### Canada
 In Canada, the concept of the Junior [Capital](../c/capital.md) Pool is well-established, particularly on the TSX Venture [Exchange](../e/exchange.md). The program was initially launched by the Alberta Stock [Exchange](../e/exchange.md) in the 1980s and has since become a model for other markets. The regulatory framework is designed to protect investors while providing a streamlined process for companies to access [capital](../c/capital.md).
@@ -47,10 +47,10 @@ While the specific term "Junior [Capital](../c/capital.md) Pool" is less commonl
 ## Examples of Junior Capital Pools
 
 ### Geologic Resource Partners LLC
-Geologic Resource Partners LLC is an example of a [firm](../f/firm.md) that operates similarly to a Junior [Capital](../c/capital.md) Pool. They specialize in providing [capital](../c/capital.md) to small and [mid-cap](../m/mid-cap.md) companies within the resource sector. More information can be found on their [website](https://www.geologiclp.com/).
+Geologic Resource Partners LLC is an example of a [firm](../f/firm.md) that operates similarly to a Junior [Capital](../c/capital.md) Pool. They specialize in providing [capital](../c/capital.md) to small and [mid-cap](../m/mid-cap.md) companies within the resource sector.
 
 ### Brandenburg Energy Corp.
-Brandenburg Energy Corp. is another entity that has utilized the concept of a Junior [Capital](../c/capital.md) Pool. They focus on [energy sector](../e/energy_sector.md) investments, providing [capital](../c/capital.md) to early-stage companies with high growth potential. Their operations and investment focus can be explored further on their [website](https://www.brandenburgcorp.com/).
+Brandenburg Energy Corp. is another entity that has utilized the concept of a Junior [Capital](../c/capital.md) Pool. They focus on [energy sector](../e/energy_sector.md) investments, providing [capital](../c/capital.md) to early-stage companies with high growth potential. Their operations
 
 ## Conclusion
 Junior [Capital](../c/capital.md) Pools represent a vital mechanism for fueling the growth of early-stage companies. They provide essential [capital](../c/capital.md) and strategic support, driving innovation and economic progress. For investors, JCPs [offer](../o/offer.md) an opportunity to diversify their portfolios and potentially reap significant returns. As regulatory frameworks evolve and markets develop, the role of Junior [Capital](../c/capital.md) Pools is likely to continue expanding, making them an integral part of the global financial ecosystem.

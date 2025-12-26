@@ -94,4 +94,4 @@ summary(model)
 ## Conclusion
 [Weighted](../w/weighted.md) Regression stands as a cornerstone technique in [algorithmic trading](../a/algorithmic_trading.md), addressing the peculiarities and complexities of financial data where variance and reliability differ across observations. By integrating [weighted](../w/weighted.md) regression into algorithmic strategies and [machine learning](../m/machine_learning.md) models, financial analysts and traders can considerably enhance model robustness, predictive accuracy, and ultimately, [trading performance](../t/trading_performance.md). Leveraging tools such as Python's `statsmodels` and R's `stats` package, provides the computational power needed to implement these sophisticated techniques effectively.
 
-For further details, you can explore [Statmodels](https://www.statsmodels.org/stable/index.html) for Python functionalities or the [R Documentation for Stats](https://www.rdocumentation.org/packages/stats/versions/3.6.2) for R insights.
+For further details, you can explore Statmodels for Python functionalities or the R Documentation for Stats for R insights.

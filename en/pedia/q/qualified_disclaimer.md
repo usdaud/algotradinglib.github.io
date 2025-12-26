@@ -1,6 +1,6 @@
 # Qualified Disclaimer
 
-A qualified disclaimer is a term predominantly used in the context of [estate planning](../e/estate_planning.md) and tax law. It is a legally binding refusal to accept an inheritance or gift, enabling the property or [interest](../i/interest.md) to pass to another recipient without being considered a completed transfer for tax purposes. This allows the property to bypass the disclaimant (person who disclaims) and potentially avoid [estate](../e/estate.md) and gift [taxes](../t/taxes.md). To be considered a qualified disclaimer, it must comply with specific requirements set forth by the Internal [Revenue](../r/revenue.md) Code (IRC) under Section 2518. 
+A qualified disclaimer is a term predominantly used in the context of [estate planning](../e/estate_planning.md) and tax law. It is a legally binding refusal to accept an inheritance or gift, enabling the property or [interest](../i/interest.md) to pass to another recipient without being considered a completed transfer for tax purposes. This allows the property to bypass the disclaimant (person who disclaims) and potentially avoid [estate](../e/estate.md) and gift [taxes](../t/taxes.md). To be considered a qualified disclaimer, it must comply with specific requirements set forth by the Internal [Revenue](../r/revenue.md) Code (IRC) under Section 2518.
 
 ## Definition and Purpose
 
@@ -96,6 +96,6 @@ Given the complexity involved, individuals contemplating a qualified disclaimer 
 
 ### Further Resources
 
-For more detailed inquiries related to qualified disclaimers and [estate planning](../e/estate_planning.md), consulting established law firms specializing in [estate planning](../e/estate_planning.md) can be highly beneficial. Examples include [Prestige Estate Planning](https://www.prestigeestateplanning.com) and [Morgan & Morgan Trusts](https://www.forthepeople.com/estates-wills-probate/trusts/).
+For more detailed inquiries related to qualified disclaimers and [estate planning](../e/estate_planning.md), consulting established law firms specializing in [estate planning](../e/estate_planning.md) can be highly beneficial. Examples include Prestige Estate Planning and Morgan & Morgan Trusts.
 
 Understanding and utilizing a qualified disclaimer can be a powerful tool in the realm of [estate planning](../e/estate_planning.md), [offering](../o/offering.md) a route to both tax [efficiency](../e/efficiency.md) and strategic [wealth](../w/wealth.md) [distribution](../d/distribution.md). As with any legal instrument, however, it necessitates thorough comprehension and careful [execution](../e/execution.md) to achieve the intended benefits.

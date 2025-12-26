@@ -25,7 +25,7 @@ Where:
 In [algorithmic trading](../a/algorithmic_trading.md), DCF can be implemented to automate investment decisions. Algorithms can continuously update [cash flow](../c/cash_flow.md) projections and [discount](../d/discount.md) rates based on real-time data, ensuring the [valuation](../v/valuation.md) reflects current [market](../m/market.md) conditions. Traders can use this to build strategies that identify [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) [stocks](../s/stock.md).
 
 ### Example
-- [QuantConnect](../q/quantconnect.md) offers DCF modeling as part of their [algorithmic trading](../a/algorithmic_trading.md) platform, providing tools to automate these valuations. More information can be found at [QuantConnect](https://www.quantconnect.com/).
+- [QuantConnect](../q/quantconnect.md) offers DCF modeling as part of their [algorithmic trading](../a/algorithmic_trading.md) platform, providing tools to automate these valuations. More information can be found at QuantConnect.
 
 ## Comparable Company Analysis (CCA)
 
@@ -41,7 +41,7 @@ CCA values an [asset](../a/asset.md) by comparing it to similar entities based o
 Automation of CCA involves collecting real-time data on comparable companies and their multiples. Algorithms can identify discrepancies between the [valuation](../v/valuation.md) of the target [asset](../a/asset.md) and its peers, providing [trading signals](../t/trading_signals.md) for investment decisions.
 
 ### Example
-- [Alpha](../a/alpha.md) Vantage offers APIs that facilitate the [execution](../e/execution.md) of CCA by providing up-to-date [market](../m/market.md) data and financial metrics. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
+- [Alpha](../a/alpha.md) Vantage offers APIs that facilitate the [execution](../e/execution.md) of CCA by providing up-to-date [market](../m/market.md) data and financial metrics. More information can be found at Alpha Vantage.
 
 ## Residual Income Model (RIM)
 
@@ -66,7 +66,7 @@ Where:
 Algorithms can continuously update book values, net [income](../i/income.md), and [cost of equity](../c/cost_of_equity.md) based on [financial statements](../f/financial_statements.md) and [market](../m/market.md) data. This dynamic updating process ensures the valuations remain timely and accurate.
 
 ### Example
-- [FactSet](../f/factset.md) provides extensive financial data and tools, facilitating the implementation of RIM in [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at [FactSet](https://www.factset.com/).
+- [FactSet](../f/factset.md) provides extensive financial data and tools, facilitating the implementation of RIM in [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at FactSet.
 
 ## Dividend Discount Model (DDM)
 
@@ -90,7 +90,7 @@ Where:
 Algorithms can automate the projection of future dividends and adjust for changes in [growth rates](../g/growth_rates_in_trading.md) and required returns, providing an efficient way to [value](../v/value.md) [dividend](../d/dividend.md)-paying [stocks](../s/stock.md).
 
 ### Example
-- [Bloomberg](../b/bloomberg.md) Terminal provides [robust](../r/robust.md) tools for [dividend](../d/dividend.md) [discount](../d/discount.md) modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+- [Bloomberg](../b/bloomberg.md) Terminal provides [robust](../r/robust.md) tools for [dividend](../d/dividend.md) [discount](../d/discount.md) modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at Bloomberg Terminal.
 
 ## Earnings Power Value (EPV) Model
 
@@ -112,7 +112,7 @@ Where:
 In [algorithmic trading](../a/algorithmic_trading.md), EPV can be used to quickly assess whether a stock is trading at, above, or below its [intrinsic value](../i/intrinsic_value.md) based on current [earnings](../e/earnings.md). Real-time [data integration](../d/data_integration.md) ensures that the [valuation](../v/valuation.md) is current and reflective of any significant [market](../m/market.md) changes.
 
 ### Example
-- [Tradestation](../t/tradestation.md) offers platforms that support EPV calculations through real-time data and analysis tools. More information can be found at [Tradestation](https://www.tradestation.com/).
+- [Tradestation](../t/tradestation.md) offers platforms that support EPV calculations through real-time data and analysis tools. More information can be found at Tradestation.
 
 ## Conclusion
 

@@ -38,8 +38,8 @@ Once a quantitative [equity](../e/equity.md) strategy has been developed, tested
 ### Hedge Funds
 Many [hedge](../h/hedge.md) funds specialize in quantitative [equity](../e/equity.md) strategies, leveraging their expertise in [data analytics](../d/data_analytics.md) and [financial modeling](../f/financial_modeling.md). Notable [hedge](../h/hedge.md) funds include:
 
-- **Two Sigma**: A technology-driven investment [firm](../f/firm.md) that uses advanced [machine learning](../m/machine_learning.md) techniques and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
-- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which has achieved unparalleled success using [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Renaissance Technologies](https://www.rentec.com/)
+- **Two Sigma**: A technology-driven investment [firm](../f/firm.md) that uses advanced [machine learning](../m/machine_learning.md) techniques and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Two Sigma
+- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which has achieved unparalleled success using [quantitative strategies](../q/quantitative_strategies_in_trading.md). Renaissance Technologies
 
 ### Investment Banks
 [Investment banks](../i/investment_bank_(ib).md) also employ quantitative [equity](../e/equity.md) strategies for [proprietary trading](../p/proprietary_trading.md) and to [offer](../o/offer.md) bespoke investment products to their clients. Firms like Goldman Sachs and Morgan Stanley have dedicated [quantitative research](../q/quantitative_research.md) teams that develop and implement these strategies.

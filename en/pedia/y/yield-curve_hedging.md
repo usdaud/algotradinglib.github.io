@@ -62,10 +62,10 @@ Some of the key benefits of [yield](../y/yield.md)-curve hedging include:
 ### Firms Specializing in Yield-Curve Hedging
 
 #### BlackRock
-BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) a [range](../r/range.md) of [yield](../y/yield.md)-curve hedging solutions to institutional clients. More information can be found on their website: [BlackRock](https://www.blackrock.com/).
+BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) a [range](../r/range.md) of [yield](../y/yield.md)-curve hedging solutions to institutional clients. BlackRock.
 
 #### PIMCO
-PIMCO is a leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [fixed income](../f/fixed_income.md). They provide sophisticated [yield](../y/yield.md)-curve [hedging strategies](../h/hedging_strategies.md) designed for various [market](../m/market.md) conditions. More details are available on their website: [PIMCO](https://www.pimco.com/).
+PIMCO is a leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [fixed income](../f/fixed_income.md). They provide sophisticated [yield](../y/yield.md)-curve [hedging strategies](../h/hedging_strategies.md) designed for various [market](../m/market.md) conditions. More
 
 ### Conclusion
 

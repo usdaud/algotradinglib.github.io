@@ -39,6 +39,6 @@ Kenneth Arrow held several prestigious academic positions throughout his career.
 
 Kenneth Arrow's work has had an enduring impact across [multiple](../m/multiple.md) domains within [economics](../e/economics.md), influencing research, policy, and teaching methodologies worldwide. His pioneering efforts opened new avenues for economic inquiry, contributing to a better understanding of several complex and foundational issues. Whether it is the philosophical dimensions of collective decision-making, the practical considerations of [market](../m/market.md) [equilibrium](../e/equilibrium.md), or the intricate dynamics of information asymmetry, Arrow’s contributions remain integral to the field of [economics](../e/economics.md).
 
-For more detailed information about Kenneth Arrow’s life and work, please refer to resources available at [Stanford University](https://plato.stanford.edu/entries/arrow/).
+For more detailed information about Kenneth Arrow’s life and work, please refer to resources available at Stanford University.
 
 Arrow passed away on February 21, 2017, but his intellectual legacy continues to shape the course of economic thought and policy today. His work serves as a cornerstone for contemporary economic research, underlining the importance of rigorous, analytical approaches to understanding and solving some of the most fundamental economic problems.

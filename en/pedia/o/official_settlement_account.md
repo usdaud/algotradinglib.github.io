@@ -19,14 +19,14 @@ An Official Settlement Account is a formal record held by a central [bank](../b/
 
 ### Foreign Exchange Reserves
 
-[Foreign exchange reserves](../f/foreign_exchange_reserves.md) are assets held by a central [bank](../b/bank.md) in foreign currencies. These assets include banknotes, deposits, bonds, treasury bills, and other government securities. 
+[Foreign exchange reserves](../f/foreign_exchange_reserves.md) are assets held by a central [bank](../b/bank.md) in foreign currencies. These assets include banknotes, deposits, bonds, treasury bills, and other government securities.
 
 #### Purpose
 
 - **Facilitating International [Trade](../t/trade.md)**: Ensures that the country can pay for international trades.
 - **[Monetary Policy](../m/monetary_policy.md)**: Helps the central [bank](../b/bank.md) in implementing its [monetary policy](../m/monetary_policy.md).
 - **[Exchange Rate](../e/exchange_rate.md) Management**: Used to influence the [exchange rate](../e/exchange_rate.md) [value](../v/value.md) of the domestic [currency](../c/currency.md).
-  
+
 ### Gold Reserves
 
 Gold reserves consist of gold bullion held by a nation's central [bank](../b/bank.md). Although its importance has declined with the move to fiat currencies, gold still represents a significant portion of international reserves.
@@ -35,7 +35,7 @@ Gold reserves consist of gold bullion held by a nation's central [bank](../b/ban
 
 - **[Store of Value](../s/store_of_value.md)**: Considered a reliable store of [wealth](../w/wealth.md).
 - **[Economic Indicator](../e/economic_indicator.md)**: Signals the economic health and [creditworthiness](../c/creditworthiness.md) of a country.
-  
+
 ### Special Drawing Rights (SDRs)
 
 SDRs are international financial assets created by the IMF to supplement member countries' official reserves. They can be exchanged between nations for freely usable currencies.
@@ -74,7 +74,7 @@ Central banks use OSAs as part of their strategies to implement [monetary policy
 
 ### Crisis Management
 
-In times of financial or economic crisis, having substantial reserves in an OSA provides crucial [liquidity](../l/liquidity.md) and stabilizing power to weather the storm. 
+In times of financial or economic crisis, having substantial reserves in an OSA provides crucial [liquidity](../l/liquidity.md) and stabilizing power to weather the storm.
 
 ## Account Management
 
@@ -91,8 +91,8 @@ Countries must adhere to international standards and guidelines, such as those e
 Countries frequently report their reserve [holdings](../h/holdings.md) and OSA activities to international organizations like the IMF. These reports are critical for global economic assessments and policy recommendations.
 
 #### Example: IMF Report Template
-  
-  [IMF Data Standards Initiatives](https://www.imf.org/en/Data): The IMF provides various templates and standards for reporting reserve data, ensuring consistency and [transparency](../t/transparency.md) across member countries.
+
+ IMF Data Standards Initiatives: The IMF provides various templates and standards for reporting reserve data, ensuring consistency and [transparency](../t/transparency.md) across member countries.
 
 ## Benefits and Challenges
 
@@ -113,6 +113,3 @@ Countries frequently report their reserve [holdings](../h/holdings.md) and OSA a
 The Official Settlement Account is an essential tool for central banks and financial institutions, playing a fundamental role in maintaining a country's economic stability, supporting [monetary policy](../m/monetary_policy.md), and managing international [obligations](../o/obligation.md) and transactions. By understanding its complexities, components, and functions, one gains insight into the broader mechanisms that underpin the global [financial system](../f/financial_system.md). As [globalization](../g/globalization.md) continues to evolve, the importance and sophistication of these accounts are likely to grow, highlighting their indispensable role in modern [finance](../f/finance.md).
 
 For further detailed information about Official Settlement Accounts, you can refer to the specific documents and guidelines provided by the International Monetary [Fund](../f/fund.md) (IMF) and the [Bank](../b/bank.md) for International Settlements (BIS).
-
-  - [IMF Official Site](https://www.imf.org/)
-  - [BIS Official Site](https://www.bis.org/)

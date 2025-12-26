@@ -46,7 +46,7 @@ Empirical studies have consistently found evidence of these anomalies in various
 ### 4.1 Empirical Studies
 - **Study by Jackwerth and Rubinstein (1996)**: Demonstrated the inadequacy of the [Black-Scholes model](../b/black-scholes_model.md) in capturing the observed [market](../m/market.md) prices, particularly the [volatility smile](../v/volatility_smile.md).
 - **Bakshi, Cao, and Chen (1997)**: Emphasized the inaccuracy in theoretical models in predicting the behavior of implied volatilities.
-  
+
 ### 4.2 Market Examples
 - **U.S. [Equity](../e/equity.md) Markets**: The [volatility smile](../v/volatility_smile.md) is often prominent in [equity options](../e/equity_options.md), with higher implied volatilities for out-of-the-[money](../m/money.md) puts and calls.
 - **[Foreign Exchange](../f/foreign_exchange.md) Markets**: [Exchange rate](../e/exchange_rate.md) [options](../o/options.md) also exhibit [volatility](../v/volatility.md) smiles and skews due to differing economic uncertainties and [interest rate](../i/interest_rate.md) differentials.
@@ -95,7 +95,7 @@ The field continues to evolve with advancements in [financial engineering](../f/
 Modern approaches [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) and AI algorithms to identify patterns and pricing anomalies by processing vast amounts of [market](../m/market.md) data. [Deep learning](../d/deep_learning.md) models can detect complex, non-linear relationships that classical models might miss.
 
 ### 8.2 High-Frequency Trading (HFT)
-High-frequency trading firms [capitalize](../c/capitalize.md) on very short-term pricing discrepancies, including [options](../o/options.md) mispricings. Firms like Citadel Securities (https://www.citadelsecurities.com) utilize cutting-edge technology and algorithms to execute large volumes of trades rapidly.
+High-frequency trading firms [capitalize](../c/capitalize.md) on very short-term pricing discrepancies, including [options](../o/options.md) mispricings. Firms like Citadel Securities ( utilize cutting-edge technology and algorithms to execute large volumes of trades rapidly.
 
 ### 8.3 Stochastic Models
 More advanced stochastic models, such as the [Heston model](../h/heston_model.md), incorporate features like stochastic [volatility](../v/volatility.md) and jumps to provide more accurate pricing and [risk management](../r/risk_management.md) tools.
@@ -107,4 +107,3 @@ Improved [risk management](../r/risk_management.md) frameworks are crucial for t
 [Options](../o/options.md) pricing anomalies continue to challenge the assumptions of classical models and provide opportunities for skilled traders to generate superior returns. However, successfully exploiting these anomalies requires a deep understanding of the [underlying](../u/underlying.md) causes, [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, and the use of advanced [trading strategies](../t/trading_strategies.md) and technologies.
 
 As [financial markets](../f/financial_market.md) evolve and new data-driven methods emerge, the ability to recognize and [capitalize](../c/capitalize.md) on pricing anomalies [will](../w/will.md) remain an essential skill for traders and financial engineers.
-

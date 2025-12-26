@@ -49,20 +49,20 @@ First, calculate the mean (\( \mu \)):
 Next, calculate the [standard deviation](../s/standard_deviation.md) (\( \sigma \)):
 
 - Calculate the squared deviations from the mean:
-  - (3 - 2.2)^2 = 0.64
-  - (5 - 2.2)^2 = 7.84
-  - (-2 - 2.2)^2 = 17.64
-  - (4 - 2.2)^2 = 3.24
-  - (1 - 2.2)^2 = 1.44
+ - (3 - 2.2)^2 = 0.64
+ - (5 - 2.2)^2 = 7.84
+ - (-2 - 2.2)^2 = 17.64
+ - (4 - 2.2)^2 = 3.24
+ - (1 - 2.2)^2 = 1.44
 
 - Sum the squared deviations:
-  \[ 0.64 + 7.84 + 17.64 + 3.24 + 1.44 = 30.8 \]
+ \[ 0.64 + 7.84 + 17.64 + 3.24 + 1.44 = 30.8 \]
 
 - Divide by the number of data points minus one:
-  \[ \frac{30.8}{4} = 7.7 \]
+ \[ \frac{30.8}{4} = 7.7 \]
 
 - Take the square root to get the [standard deviation](../s/standard_deviation.md):
-  \[ \sigma = \sqrt{7.7} \approx 2.78\% \]
+ \[ \sigma = \sqrt{7.7} \approx 2.78\% \]
 
 Finally, calculate the CV:
 
@@ -102,14 +102,14 @@ In some cases, other measures of [dispersion](../d/dispersion.md), such as the [
 
 ### Virtu Financial
 
-Virtu Financial is a high-frequency trading [firm](../f/firm.md) that makes extensive use of quantitative measures like the Coefficient of Variation to manage [risk](../r/risk.md) and optimize [trading algorithms](../t/trading_algorithms.md). Their advanced analytics platforms often incorporate CV to assess the performance stability of their [trading strategies](../t/trading_strategies.md). [Virtu Financial](https://www.virtu.com)
+Virtu Financial is a high-frequency trading [firm](../f/firm.md) that makes extensive use of quantitative measures like the Coefficient of Variation to manage [risk](../r/risk.md) and optimize [trading algorithms](../t/trading_algorithms.md). Their advanced analytics platforms often incorporate CV to assess the performance stability of their [trading strategies](../t/trading_strategies.md). Virtu Financial
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is another [firm](../f/firm.md) that uses statistical analysis and [quantitative models](../q/quantitative_models.md) in its [trading strategies](../t/trading_strategies.md). They rely on metrics such as CV to maintain [robust](../r/robust.md) [risk management](../r/risk_management.md) and performance evaluation frameworks. [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, founded by Jim Simons, is another [firm](../f/firm.md) that uses statistical analysis and [quantitative models](../q/quantitative_models.md) in its [trading strategies](../t/trading_strategies.md). They rely on metrics such as CV to maintain [robust](../r/robust.md) [risk management](../r/risk_management.md) and performance evaluation frameworks. Renaissance Technologies
 
 ### Citadel
 
-Citadel employs sophisticated [quantitative models](../q/quantitative_models.md) and algorithms for trading across various [asset](../a/asset.md) classes. The [firm](../f/firm.md) uses CV among other statistical measures to fine-tune its [risk](../r/risk.md) assessment and [portfolio management](../p/par.md) practices. [Citadel](https://www.citadel.com)
+Citadel employs sophisticated [quantitative models](../q/quantitative_models.md) and algorithms for trading across various [asset](../a/asset.md) classes. The [firm](../f/firm.md) uses CV among other statistical measures to fine-tune its [risk](../r/risk.md) assessment and [portfolio management](../p/par.md) practices. Citadel
 
 In conclusion, the Coefficient of Variation is a versatile statistical tool used extensively in [algorithmic trading](../a/accountability.md) to measure relative [risk](../r/risk.md), compare performance, and optimize portfolios. Its ability to standardize the measure of [dispersion](../d/dispersion.md) makes it particularly valuable for comparing datasets with different units or means. Despite some limitations, the CV remains a critical component in the toolkit of modern quants and traders.

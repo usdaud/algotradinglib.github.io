@@ -47,8 +47,8 @@ The application of the NAE method involves the following steps:
 
 ## Conclusion
 
-The Nonaccrual Experience Method is crucial for ensuring that financial institutions maintain accurate and compliant financial records, particularly concerning loans that have deteriorated in quality. By systematically identifying nonaccrual loans, reversing [interest](../i/interest.md) [income](../i/income.md), setting up loss provisions, and continuously monitoring these accounts, institutions can provide a realistic view of their [financial health](../f/financial_health.md) and manage [risk](../r/risk.md) effectively. Despite its challenges, the NAE method plays a vital role in the realm of banking and [finance](../f/finance.md), aiding both [risk management](../r/risk_management.md) and regulatory compliance. 
+The Nonaccrual Experience Method is crucial for ensuring that financial institutions maintain accurate and compliant financial records, particularly concerning loans that have deteriorated in quality. By systematically identifying nonaccrual loans, reversing [interest](../i/interest.md) [income](../i/income.md), setting up loss provisions, and continuously monitoring these accounts, institutions can provide a realistic view of their [financial health](../f/financial_health.md) and manage [risk](../r/risk.md) effectively. Despite its challenges, the NAE method plays a vital role in the realm of banking and [finance](../f/finance.md), aiding both [risk management](../r/risk_management.md) and regulatory compliance.
 
 For more detailed information on the topic and examples of institutions employing this method, visit the following resources:
-- [Federal Deposit Insurance Corporation (FDIC)](https://www.fdic.gov/)
-- [Office of the Comptroller of the Currency (OCC)](https://www.occ.treas.gov/)
+- Federal Deposit Insurance Corporation (FDIC)
+- Office of the Comptroller of the Currency (OCC)

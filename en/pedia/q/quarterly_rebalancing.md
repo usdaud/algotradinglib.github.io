@@ -21,9 +21,9 @@ Quarterly [rebalancing](../r/rebalancing.md) involves several steps, which inclu
 
 Algorithmic traders often use sophisticated software and platforms for [rebalancing](../r/rebalancing.md). Some of the notable platforms include:
 
-- **[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/)**: Provides a [robust](../r/robust.md) system for automated trading and [rebalancing](../r/rebalancing.md), including real-time analytics and [backtesting](../b/backtesting.md) tools.
-- **MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/)**: Widely used for forex and stock trading with custom algorithmic capabilities.
-- **[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) and [rebalancing](../r/rebalancing.md) functions.
+- **[AlgoTrader](../a/algotrader.md) ( Provides a [robust](../r/robust.md) system for automated trading and [rebalancing](../r/rebalancing.md), including real-time analytics and [backtesting](../b/backtesting.md) tools.
+- **MetaTrader Widely used for forex and stock trading with custom algorithmic capabilities.
+- **[QuantConnect](../q/quantconnect.md) ( Offers a [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) and [rebalancing](../r/rebalancing.md) functions.
 
 ### Strategies Incorporating Quarterly Rebalancing
 
@@ -56,10 +56,10 @@ Executing large orders to rebalance a portfolio can sometimes impact the [market
 ### Case Studies
 
 #### Vanguard's Approach
-Vanguard, a leading [asset management](../a/asset_management.md) [firm](../f/firm.md), emphasizes the importance of regular [rebalancing](../r/rebalancing.md) in maintaining the integrity of its [fund](../f/fund.md) allocations. They use a systematic approach to rebalance their portfolios quarterly, ensuring that each [fund](../f/fund.md) remains within its specified [risk](../r/risk.md) parameters. (https://[investor](../i/investor.md).vanguard.com/corporate-portal/)
+Vanguard, a leading [asset management](../a/asset_management.md) [firm](../f/firm.md), emphasizes the importance of regular [rebalancing](../r/rebalancing.md) in maintaining the integrity of its [fund](../f/fund.md) allocations. They use a systematic approach to rebalance their portfolios quarterly, ensuring that each [fund](../f/fund.md) remains within its specified [risk](../r/risk.md) parameters. (
 
 #### Robo-Advisors
-Robo-advisors like Betterment and Wealthfront automate the [rebalancing](../r/rebalancing.md) process for retail investors, often employing quarterly schedules. These platforms use algorithms to ensure each client's portfolio remains aligned with their [risk tolerance](../r/risk_tolerance.md) and investment goals. (https://www.betterment.com/)
+Robo-advisors like Betterment and Wealthfront automate the [rebalancing](../r/rebalancing.md) process for retail investors, often employing quarterly schedules. These platforms use algorithms to ensure each client's portfolio remains aligned with their [risk tolerance](../r/risk_tolerance.md) and investment goals. (
 
 ### Future Trends
 

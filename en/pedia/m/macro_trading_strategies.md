@@ -16,7 +16,7 @@ Macro [trading strategies](../t/trading_strategies.md) are investment approaches
 
 ### Political and Geopolitical Analysis
 
-Political changes, conflict, and policy decisions can have profound impacts on [financial markets](../f/financial_market.md). Macro traders monitor elections, regulatory changes, legislation, monetary and fiscal policies, and international relations to gauge their potential impact on markets. 
+Political changes, conflict, and policy decisions can have profound impacts on [financial markets](../f/financial_market.md). Macro traders monitor elections, regulatory changes, legislation, monetary and fiscal policies, and international relations to gauge their potential impact on markets.
 
 ### Global Events
 
@@ -64,23 +64,23 @@ Event-driven macro strategies revolve around specific events such as mergers and
 
 Several prominent [hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers specialize in macro trading. These firms often employ a combination of discretionary and systematic approaches to identify and [capitalize](../c/capitalize.md) on macroeconomic trends.
 
-- **Bridgewater Associates ([website](https://www.bridgewater.com)):** One of the world's largest [hedge](../h/hedge.md) funds, known for its "Pure [Alpha](../a/alpha.md)" and "All Weather" strategies that incorporate macroeconomic principles.
-- **Brevan Howard ([website](https://www.brevanhoward.com)):** A [global macro hedge fund](../g/global_macro_hedge_fund.md) known for its focus on [interest](../i/interest.md) rates, currencies, and other macro markets.
+- **Bridgewater Associates:** One of the world's largest [hedge](../h/hedge.md) funds, known for its "Pure [Alpha](../a/alpha.md)" and "All Weather" strategies that incorporate macroeconomic principles.
+- **Brevan Howard:** A [global macro hedge fund](../g/global_macro_hedge_fund.md) known for its focus on [interest](../i/interest.md) rates, currencies, and other macro markets.
 - **Soros [Fund](../f/fund.md) Management:** Founded by [George Soros](../g/george_soros.md), this [fund](../f/fund.md) is famous for its [global macro](../g/global_macro.md) trades, including the 1992 bet against the British pound.
 
 ### Proprietary Trading Firms
 
 [Proprietary trading](../p/proprietary_trading.md) firms use their own [capital](../c/capital.md) to [trade](../t/trade.md) and often employ advanced algorithms and high-frequency [trading systems](../t/trading_systems.md) for macro strategies.
 
-- **Jane Street ([website](https://www.janestreet.com)):** A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that engages in a wide [range](../r/range.md) of strategies, including macro-based trading.
-- **DRW ([website](https://drw.com)):** Involved in a variety of markets, DRW incorporates macroeconomic views in its [trading strategies](../t/trading_strategies.md).
+- **Jane Street:** A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that engages in a wide [range](../r/range.md) of strategies, including macro-based trading.
+- **DRW:** Involved in a variety of markets, DRW incorporates macroeconomic views in its [trading strategies](../t/trading_strategies.md).
 
 ### Investment Banks
 
 [Investment banks](../i/investment_bank_(ib).md) play a significant role in macro trading through their trading desks and research departments that provide valuable insights into economic and geopolitical trends.
 
-- **Goldman Sachs ([website](https://www.goldmansachs.com)):** Invests heavily in macro research and offers various macro [trading strategies](../t/trading_strategies.md) to its clients.
-- **Morgan Stanley ([website](https://www.morganstanley.com)):** Another major player in the macro trading space, [offering](../o/offering.md) insights and [execution](../e/execution.md) capabilities.
+- **Goldman Sachs:** Invests heavily in macro research and offers various macro [trading strategies](../t/trading_strategies.md) to its clients.
+- **Morgan Stanley:** Another major player in the macro trading space, [offering](../o/offering.md) insights and [execution](../e/execution.md) capabilities.
 
 ## Tools and Techniques for Macro Trading
 

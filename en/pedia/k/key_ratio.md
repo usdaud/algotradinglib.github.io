@@ -1,6 +1,6 @@
 # Key Ratio
 
-In the financial world, various key ratios are used to evaluate and compare the [financial health](../f/financial_health.md), [operational efficiency](../o/operational_efficiency_in_trading.md), and profitability of a company. Understanding these ratios is crucial for investors, analysts, and portfolio managers, especially in the realm of [algorithmic trading](../a/accountability.md) (or algo-trading), where decisions are often made based on quantitative data analysis. Key [financial ratios](../f/financial_ratios.md) can be categorized into several groups, such as [liquidity ratios](../l/liquidity_ratios.md), [profitability ratios](../p/profitability_ratios.md), [leverage ratios](../l/leverage_ratios.md), [efficiency](../e/efficiency.md) ratios, and [market value](../m/market_value.md) ratios. This document delves into the detailed meanings, calculations, and implications of essential key ratios relevant to algo-trading.
+In the financial world, various key ratios are used to evaluate and compare the [financial health](../f/financial_health.md), [operational efficiency](../o/operational_efficiency_in_trading.md), and profitability of a company. Understanding these ratios is crucial for investors, analysts, and portfolio managers, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading), where decisions are often made based on quantitative data analysis. Key [financial ratios](../f/financial_ratios.md) can be categorized into several groups, such as [liquidity ratios](../l/liquidity_ratios.md), [profitability ratios](../p/profitability_ratios.md), [leverage ratios](../l/leverage_ratios.md), [efficiency](../e/efficiency.md) ratios, and [market value](../m/market_value.md) ratios. This document delves into the detailed meanings, calculations, and implications of essential key ratios relevant to algo-trading.
 
 ## Liquidity Ratios
 
@@ -8,7 +8,7 @@ In the financial world, various key ratios are used to evaluate and compare the 
 
 ### 1. Current Ratio
 
-The [Current Ratio](../c/current_ratio.md), also known as the working [capital](../c/capital.md) ratio, measures a company's ability to pay short-term liabilities with its short-term assets. 
+The [Current Ratio](../c/current_ratio.md), also known as the working [capital](../c/capital.md) ratio, measures a company's ability to pay short-term liabilities with its short-term assets.
 
 #### Formula:
 \[ \text{Current Ratio} = \frac{\text{Current Assets}}{\text{[Current Liabilities](../c/current_liabilities.md)}} \]
@@ -123,7 +123,7 @@ The [Inventory Turnover](../i/inventory_turnover.md) Ratio measures how many tim
 
 ### 1. Price-to-Earnings (P/E) Ratio
 
-The Price-to-[Earnings](../e/earnings.md) (P/E) Ratio measures the [market price](../m/market_price.md) of a stock relative to its [earnings](../e/earnings.md) per share (EPS). 
+The Price-to-[Earnings](../e/earnings.md) (P/E) Ratio measures the [market price](../m/market_price.md) of a stock relative to its [earnings](../e/earnings.md) per share (EPS).
 
 #### Formula:
 \[ \text{P/E Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Earnings](../e/earnings.md) per Share}} \]

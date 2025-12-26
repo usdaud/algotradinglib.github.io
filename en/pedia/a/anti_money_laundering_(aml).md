@@ -49,19 +49,19 @@ Technological advancements play a significant role in enhancing AML strategies. 
 AI and [Machine Learning](../m/machine_learning.md) (ML) algorithms analyze large datasets to identify patterns indicative of [money laundering](../m/money_laundering.md). These technologies enable real-time [anomaly detection](../a/anomaly_detection.md) and improve the accuracy of monitoring systems. They can also reduce false positives, allowing compliance teams to focus on genuinely suspicious activities.
 
 Companies utilizing AI in AML:
-- **Palantir Technologies**: [Palantir](https://www.palantir.com)
+- **Palantir Technologies**: Palantir
 
 #### Blockchain and Distributed Ledger Technology (DLT)
 [Blockchain](../b/blockchain_in_trading.md) technology offers transparent and immutable record-keeping, which is beneficial in AML compliance. Transactions recorded on a [blockchain](../b/blockchain_in_trading.md) are accessible and verifiable, reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md) and helping trace illicit funds.
 
 Companies utilizing [Blockchain](../b/blockchain_in_trading.md) in AML:
-- **Chainalysis**: [Chainalysis](https://www.chainalysis.com)
+- **Chainalysis**: Chainalysis
 
 #### Big Data Analytics
 [Big Data Analytics](../b/big_data_analytics_in_trading.md) processes vast amounts of transactional data to identify trends and anomalies. It uses algorithms to sift through data from various sources, providing insights that traditional methods might miss.
 
 Companies utilizing [Big Data](../b/big_data_in_trading.md) in AML:
-- **SAS**: [SAS AML](https://www.sas.com/en_us/software/anti-money-laundering.html)
+- **SAS**: SAS AML
 
 ### Challenges in AML
 
@@ -97,6 +97,6 @@ Future AML regulations may require enhanced reporting and greater [transparency]
 Anti [Money Laundering](../m/money_laundering.md) (AML) is a critical component in the global fight against financial crime. Effective AML programs require comprehensive strategies encompassing [customer](../c/customer.md) [due diligence](../d/due_diligence.md), [transaction](../t/transaction.md) monitoring, record-keeping, and reporting. As financial crime becomes more sophisticated, the application of advanced technologies like AI, ML, [Blockchain](../b/blockchain_in_trading.md), and [Big Data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) be essential in enhancing AML efforts. Institutions must navigate regulatory complexities, balance privacy concerns, and stay ahead of evolving threats to maintain [robust](../r/robust.md) AML compliance. Looking forward, increased collaboration and a focus on emerging areas like virtual currencies [will](../w/will.md) shape the future of AML.
 
 For further reading and understanding of AML regulations and applications:
-- Financial Action Task Force (FATF): [FATF](https://www.fatf-gafi.org)
-- Chainalysis: [Chainalysis](https://www.chainalysis.com)
-- SAS AML Solutions: [SAS AML](https://www.sas.com/en_us/software/anti-money-laundering.html)
+- Financial Action Task Force (FATF): FATF
+- Chainalysis: Chainalysis
+- SAS AML Solutions: SAS AML

@@ -2,6 +2,8 @@
 
 Payoff structures form the bedrock of financial [derivatives](../d/derivatives.md) and greatly influence [algorithmic trading](../a/algorithmic_trading.md) strategies. They define the financial outcomes of [derivative](../d/derivative.md) instruments under various [underlying asset](../u/underlying_asset.md) scenarios, thus enabling traders to understand potential gains and losses. A clear understanding of payoff structures is crucial for anyone involved in [financial markets](../f/financial_market.md), particularly for those engaging in sophisticated trading techniques like [algorithmic trading](../a/algorithmic_trading.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## What Are Payoff Structures?
 
 Payoff structures refer to the relationship between the price of a [derivative](../d/derivative.md) and the price of its [underlying asset](../u/underlying_asset.md) at [maturity](../m/maturity.md). The payoff is the amount received by the holder of a [derivative](../d/derivative.md) at expiration. It's important to [note](../n/note.md) that the payoff structure can be linear or non-linear, depending on the type of [asset](../a/asset.md) and the nature of the [derivative](../d/derivative.md) contract.
@@ -9,12 +11,12 @@ Payoff structures refer to the relationship between the price of a [derivative](
 ### Types of Payoff Structures
 
 1. **Linear Payoffs**: These are straightforward relationships where changes in the [underlying asset](../u/underlying_asset.md)'s price result in proportional changes in the [derivative](../d/derivative.md)'s price. Examples include:
-   - **[Futures](../f/futures.md) and Forwards**: These contracts obligate the holder to buy or sell an [asset](../a/asset.md) at a specified price on a future date.
-   - **Swaps**: Financial contracts where two parties [exchange](../e/exchange.md) cash flows or other financial instruments over specific periods.
-   
-2. **Non-Linear Payoffs**: These have more complex relationships and often include [options](../o/options.md) and other [derivative](../d/derivative.md) instruments where payoffs depend on specific conditions. Examples include: 
-   - **[Options](../o/options.md)**: These give the holder the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a set price before or at expiration.
-   - **Exotic [Derivatives](../d/derivatives.md)**: Instruments like barrier [options](../o/options.md), Asian [options](../o/options.md), and digital [options](../o/options.md) that have payoffs dependent on more complicated conditions.
+ - **[Futures](../f/futures.md) and Forwards**: These contracts obligate the holder to buy or sell an [asset](../a/asset.md) at a specified price on a future date.
+ - **Swaps**: Financial contracts where two parties [exchange](../e/exchange.md) cash flows or other financial instruments over specific periods.
+
+2. **Non-Linear Payoffs**: These have more complex relationships and often include [options](../o/options.md) and other [derivative](../d/derivative.md) instruments where payoffs depend on specific conditions. Examples include:
+ - **[Options](../o/options.md)**: These give the holder the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a set price before or at expiration.
+ - **Exotic [Derivatives](../d/derivatives.md)**: Instruments like barrier [options](../o/options.md), Asian [options](../o/options.md), and digital [options](../o/options.md) that have payoffs dependent on more complicated conditions.
 
 ## Linear Payoff Structures
 
@@ -125,10 +127,10 @@ Payoff structures enable traders to construct diversified portfolios that maximi
 
 To better understand and engage with [derivatives](../d/derivatives.md) markets, one can rely on financial institutions and service providers specializing in these instruments. Some leading companies include:
 
-- **CME Group [CME Group](https://www.cmegroup.com)**: A global markets company [offering](../o/offering.md) a [range](../r/range.md) of [derivative](../d/derivative.md) products including [futures](../f/futures.md) and [options](../o/options.md).
-- **Intercontinental [Exchange](../e/exchange.md) (ICE) [ICE](https://www.theice.com)**: Provides trading platforms and services for [commodity](../c/commodity.md) and financial [derivatives](../d/derivatives.md).
-- **Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com)**: An investment [bank](../b/bank.md) known for its expertise in [derivatives](../d/derivatives.md) trading and structured products.
-  
+- **CME Group CME Group**: A global markets company [offering](../o/offering.md) a [range](../r/range.md) of [derivative](../d/derivative.md) products including [futures](../f/futures.md) and [options](../o/options.md).
+- **Intercontinental [Exchange](../e/exchange.md) (ICE) ICE**: Provides trading platforms and services for [commodity](../c/commodity.md) and financial [derivatives](../d/derivatives.md).
+- **Goldman Sachs Goldman Sachs**: An investment [bank](../b/bank.md) known for its expertise in [derivatives](../d/derivatives.md) trading and structured products.
+
 Each of these institutions provides various tools, platforms, and services that are essential for sophisticated trading and [risk management](../r/risk_management.md) strategies in [derivatives](../d/derivatives.md) markets.
 
 ## Conclusion

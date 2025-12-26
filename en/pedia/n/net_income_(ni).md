@@ -36,8 +36,8 @@ Net [Income](../i/income.md) provides insight into a company's ability to genera
 ### Common Uses of Net Income
 
 - **[Earnings](../e/earnings.md) Per Share (EPS)**: Net [Income](../i/income.md) is used to calculate EPS, a crucial metric for investors to gauge profitability on a per-share [basis](../b/basis.md).
-  
-  \[ \text{EPS} = \frac{\text{Net [Income](../i/income.md)} - \text{Preferred Dividends}}{\text{Outstanding [Shares](../s/shares.md)}} \]
+
+ \[ \text{EPS} = \frac{\text{Net [Income](../i/income.md)} - \text{Preferred Dividends}}{\text{Outstanding [Shares](../s/shares.md)}} \]
 
 - **Performance Analysis**: Stakeholders compare NI across different periods to evaluate trends in profitability and operational success.
 - **[Valuation](../v/valuation.md) Multiples**: NI feeds into various [financial ratios](../f/financial_ratios.md) and [valuation](../v/valuation.md) multiples, such as the Price-to-[Earnings](../e/earnings.md) (P/E) ratio, which helps investors in making informed decisions.
@@ -57,16 +57,16 @@ Several factors can influence a company's NI, including:
 Net [Income](../i/income.md) is often compared with other profitability metrics to provide a comprehensive [financial analysis](../f/financial_analysis.md):
 
 - **[Gross Profit](../g/gross_profit.md)**: This is the difference between total [revenue](../r/revenue.md) and COGS. It focuses on core profitability without considering operating and non-operating expenses.
-  
-  \[ \text{[Gross Profit](../g/gross_profit.md)} = \text{Total [Revenue](../r/revenue.md)} - \text{COGS} \]
+
+ \[ \text{[Gross Profit](../g/gross_profit.md)} = \text{Total [Revenue](../r/revenue.md)} - \text{COGS} \]
 
 - **[Operating Income](../o/operating_income.md)**: Also known as [operating profit](../o/operating_profit.md) or EBIT ([Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md)), this metric excludes [interest](../i/interest.md) and tax expenses from net [income](../i/income.md) to focus on [operational efficiency](../o/operational_efficiency_in_trading.md).
-  
-  \[ \text{[Operating Income](../o/operating_income.md)} = \text{[Gross Profit](../g/gross_profit.md)} - \text{Operating Expenses} \]
+
+ \[ \text{[Operating Income](../o/operating_income.md)} = \text{[Gross Profit](../g/gross_profit.md)} - \text{Operating Expenses} \]
 
 - **EBITDA**: [Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization, emphasizes operational profitability by excluding non-cash expenses like [depreciation](../d/depreciation.md) and amortization.
-  
-  \[ \text{EBITDA} = \text{[Operating Income](../o/operating_income.md)} + \text{[Depreciation](../d/depreciation.md)} + \text{Amortization} \]
+
+ \[ \text{EBITDA} = \text{[Operating Income](../o/operating_income.md)} + \text{[Depreciation](../d/depreciation.md)} + \text{Amortization} \]
 
 ## Real-World Application and Examples
 
@@ -74,7 +74,7 @@ Several companies and financial institutions report their NI quarterly and annua
 
 ### Example: Apple Inc.
 
-Apple Inc.'s [financial statements](../f/financial_statements.md), particularly its [income statement](../i/income_statement.md), illustrate the calculation and importance of NI. You can access Apple's financial reports [here](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc.'s [financial statements](../f/financial_statements.md), particularly its [income statement](../i/income_statement.md), illustrate the calculation and importance of NI. You can access Apple's financial reports here.
 
 For instance, in a recent fiscal quarter, Apple reported:
 
@@ -86,17 +86,17 @@ For instance, in a recent fiscal quarter, Apple reported:
 
 Using these figures:
 
-1. **[Gross Profit](../g/gross_profit.md)**: 
-   
-   \[ \text{[Gross Profit](../g/gross_profit.md)} = \text{Total [Revenue](../r/revenue.md)} - \text{COGS} = 100 - 60 = 40 \text{ billion} \]
+1. **[Gross Profit](../g/gross_profit.md)**:
 
-2. **[Operating Income](../o/operating_income.md) (EBIT)**: 
-   
-   \[ \text{[Operating Income](../o/operating_income.md)} = \text{[Gross Profit](../g/gross_profit.md)} - \text{Operating Expenses} = 40 - 20 = 20 \text{ billion} \]
+ \[ \text{[Gross Profit](../g/gross_profit.md)} = \text{Total [Revenue](../r/revenue.md)} - \text{COGS} = 100 - 60 = 40 \text{ billion} \]
 
-3. **Net [Income](../i/income.md)**: 
-   
-   \[ \text{Net Income} = \text{Operating Income} - \text{[Interest Expense](../i/interest_expense.md)} - \text{[Taxes](../t/taxes.md)} = 20 - 1 - 5 = 14 \text{ billion} \]
+2. **[Operating Income](../o/operating_income.md) (EBIT)**:
+
+ \[ \text{[Operating Income](../o/operating_income.md)} = \text{[Gross Profit](../g/gross_profit.md)} - \text{Operating Expenses} = 40 - 20 = 20 \text{ billion} \]
+
+3. **Net [Income](../i/income.md)**:
+
+ \[ \text{Net Income} = \text{Operating Income} - \text{[Interest Expense](../i/interest_expense.md)} - \text{[Taxes](../t/taxes.md)} = 20 - 1 - 5 = 14 \text{ billion} \]
 
 Given these results, Apple demonstrates strong profitability and efficient cost management, crucial indicators for investors and analysts.
 

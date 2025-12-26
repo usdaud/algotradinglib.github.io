@@ -27,9 +27,9 @@ Underwriters often assist in structuring deals, ensuring that the terms and cond
 
 ### 1. Securities Underwriting
 Securities [underwriting](../u/underwriting.md) is a process undertaken primarily by [investment banks](../i/investment_bank_(ib).md) to facilitate the issuance of [stocks](../s/stock.md) or bonds. The [underwriting](../u/underwriting.md) group here ensures that the new securities are appropriately priced and absorbed by the [market](../m/market.md). The main types of securities [underwriting](../u/underwriting.md) include:
-   - **[Firm](../f/firm.md) Commitment [Underwriting](../u/underwriting.md)**: The [underwriter](../u/underwriter.md) buys the entire [issue](../i/issue.md) and resells it to the public.
-   - **Best Efforts [Underwriting](../u/underwriting.md)**: The [underwriter](../u/underwriter.md) sells securities on behalf of the [issuer](../i/issuer.md) and doesn't guarantee the entire amount.
-   - **All-or-None [Underwriting](../u/underwriting.md)**: If the entire [issue](../i/issue.md) is not sold, the deal is canceled.
+ - **[Firm](../f/firm.md) Commitment [Underwriting](../u/underwriting.md)**: The [underwriter](../u/underwriter.md) buys the entire [issue](../i/issue.md) and resells it to the public.
+ - **Best Efforts [Underwriting](../u/underwriting.md)**: The [underwriter](../u/underwriter.md) sells securities on behalf of the [issuer](../i/issuer.md) and doesn't guarantee the entire amount.
+ - **All-or-None [Underwriting](../u/underwriting.md)**: If the entire [issue](../i/issue.md) is not sold, the deal is canceled.
 
 ### 2. Loan Underwriting
 [Loan](../l/loan.md) [underwriting](../u/underwriting.md) involves assessing the [risk](../r/risk.md) associated with lending [money](../m/money.md) to an individual or [business](../b/business.md). This type of [underwriting](../u/underwriting.md) is common in [mortgage](../m/mortgage.md) lending, personal loans, and [business](../b/business.md) loans. Key elements evaluated include the borrower's [credit](../c/credit.md) history, [income](../i/income.md), assets, and the [value](../v/value.md) of any [collateral](../c/collateral.md).
@@ -51,10 +51,10 @@ The [underwriting](../u/underwriting.md) process generally follows several key s
 
 Major financial institutions play a central role in [underwriting](../u/underwriting.md) activities. Some of the prominent players in the sector include:
 
-- Goldman Sachs ([Goldman Sachs](https://www.goldmansachs.com/)): A leading investment [bank](../b/bank.md), known for its formidable [underwriting](../u/underwriting.md) expertise in securities.
-- JPMorgan Chase ([JPMorgan Chase](https://www.jpmorganchase.com/)): Renowned for its comprehensive [underwriting](../u/underwriting.md) services across [multiple](../m/multiple.md) financial sectors.
-- Allianz ([Allianz](https://www.allianz.com/)): A global leader in [insurance](../i/insurance.md) [underwriting](../u/underwriting.md).
-- Citigroup ([Citibank](https://www.citigroup.com/)): Notable for its extensive [underwriting](../u/underwriting.md) capabilities in both securities and loans.
+- Goldman Sachs (Goldman Sachs): A leading investment [bank](../b/bank.md), known for its formidable [underwriting](../u/underwriting.md) expertise in securities.
+- JPMorgan Chase (JPMorgan Chase): Renowned for its comprehensive [underwriting](../u/underwriting.md) services across [multiple](../m/multiple.md) financial sectors.
+- Allianz (Allianz): A global leader in [insurance](../i/insurance.md) [underwriting](../u/underwriting.md).
+- Citigroup (Citibank): Notable for its extensive [underwriting](../u/underwriting.md) capabilities in both securities and loans.
 
 ## Technological Integration in Underwriting
 

@@ -10,10 +10,10 @@ The Five-Year Rule applies to Roth IRAs in two key contexts: contributions and c
 #### Contributions
 - **Initial Contribution Rule**: To qualify for [tax-free](../t/tax_free.md) [earnings](../e/earnings.md) on distributions, the [Roth IRA](../r/roth_ira.md) must be [open](../o/open.md) for at least five years from the tax year of the first contribution. This period begins on January 1 of the year for which the first contribution was made.
 - **Qualified Distributions**: To be considered a [qualified distribution](../q/qualified_distribution.md) (and thus [tax-free](../t/tax_free.md)), the [withdrawal](../w/withdrawal.md) must occur after a five-year period and the account holder must meet one of the following conditions:
-  - Be at least 59½ years old
-  - Be disabled
-  - Be using the funds for a first-time [home](../h/home.md) purchase (up to a $10,000 lifetime limit)
-  - Be deceased (beneficiaries can withdraw without penalty)
+ - Be at least 59½ years old
+ - Be disabled
+ - Be using the funds for a first-time [home](../h/home.md) purchase (up to a $10,000 lifetime limit)
+ - Be deceased (beneficiaries can withdraw without penalty)
 
 #### Conversions
 - **Conversion Rule**: If funds are converted from a [traditional IRA](../t/traditional_ira.md) to a [Roth IRA](../r/roth_ira.md), each conversion has its own five-year period. Withdrawals of converted amounts within five years of the conversion may be subject to a 10% early [withdrawal penalty](../w/withdrawal_penalty.md) unless an exception applies.

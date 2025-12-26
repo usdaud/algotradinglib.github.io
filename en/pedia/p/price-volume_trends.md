@@ -90,12 +90,11 @@ print(df[['Date', 'Close', '[Volume](../v/volume.md)', 'PVT']])
 Many institutional investors deploy Price-[Volume](../v/volume.md) [Trend analysis](../t/trend_analysis.md) within their broader algorithmic frameworks to manage vast portfolios efficiently. Firms like Renaissance Technologies and Two Sigma Investments often incorporate advanced [technical indicators](../t/technical_indicators.md) like PVT into their [proprietary trading](../p/proprietary_trading.md) models.
 
 ### Retail Trading Platforms
-Retail trading platforms such as [MetaTrader](https://www.metatrader4.com/) and [NinjaTrader](https://ninjatrader.com/) [offer](../o/offer.md) built-in support for PVT, allowing individual traders to [leverage](../l/leverage.md) this [indicator](../i/indicator.md) without needing to code from scratch.
+Retail trading platforms such as MetaTrader and NinjaTrader [offer](../o/offer.md) built-in support for PVT, allowing individual traders to [leverage](../l/leverage.md) this [indicator](../i/indicator.md) without needing to code from scratch.
 
 ### Quantitative Funds
-Quantitative funds, including firms like [AQR Capital Management](https://www.aqr.com/), often use intricate combinations of [technical indicators](../t/technical_indicators.md), including PVT, to drive automated [trading strategies](../t/trading_strategies.md) aimed at capitalizing on short-term [market](../m/market.md) inefficiencies.
+Quantitative funds, including firms like AQR Capital Management, often use intricate combinations of [technical indicators](../t/technical_indicators.md), including PVT, to drive automated [trading strategies](../t/trading_strategies.md) aimed at capitalizing on short-term [market](../m/market.md) inefficiencies.
 
 ## Conclusion
 
 Price-[Volume](../v/volume.md) [Trend](../t/trend.md) (PVT) is a sophisticated [technical analysis](../t/technical_analysis.md) tool that provides valuable insights into [market](../m/market.md) trends by incorporating both price changes and [volume](../v/volume.md). Its ability to scale [volume](../v/volume.md) with price percentage changes makes it a more nuanced [indicator](../i/indicator.md) compared to simpler [volume](../v/volume.md)-based metrics. Though it carries certain complexities and limitations, its integration into [algorithmic trading](../a/algorithmic_trading.md) systems allows for refined and automated decision-making processes. Leveraging PVT within [trading algorithms](../t/trading_algorithms.md) can [offer](../o/offer.md) traders a competitive edge in various [market](../m/market.md) conditions by providing early signals of [trend](../t/trend.md) confirmations or potential reversals.
-

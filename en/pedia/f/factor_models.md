@@ -10,7 +10,7 @@
 
 A [factor](../f/factor.md) model can typically be expressed in the following form:
 
-\[ R_i = \[alpha](../a/alpha.md) + \beta_1 F_1 + \beta_2 F_2 + ... + \beta_n F_n + \epsilon_i \]
+\[ R_i = \[alpha](../a/alpha.md) + \beta_1 F_1 + \beta_2 F_2 +... + \beta_n F_n + \epsilon_i \]
 
 Here,
 
@@ -89,15 +89,15 @@ Algorithmic strategies, once vetted and optimized, can be implemented on trading
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management (https://www.aqr.com) is one of the prominent users of [factor](../f/factor.md) models in [asset management](../a/asset_management.md). They employ sophisticated [quantitative models](../q/quantitative_models.md), including [multi-factor models](../m/multi-factor_models.md), to generate returns across various [asset](../a/asset.md) classes.
+AQR [Capital](../c/capital.md) Management ( is one of the prominent users of [factor](../f/factor.md) models in [asset management](../a/asset_management.md). They employ sophisticated [quantitative models](../q/quantitative_models.md), including [multi-factor models](../m/multi-factor_models.md), to generate returns across various [asset](../a/asset.md) classes.
 
 ### MSCI Barra
 
-MSCI Barra (https://www.msci.com) provides tools and analytics for building [factor](../f/factor.md) models, including the Barra [Risk](../r/risk.md) Model, which is commonly used in [risk management](../r/risk_management.md) and portfolio construction.
+MSCI Barra ( provides tools and analytics for building [factor](../f/factor.md) models, including the Barra [Risk](../r/risk.md) Model, which is commonly used in [risk management](../r/risk_management.md) and portfolio construction.
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal) offers a wide array of tools for [factor analysis](../f/factor_analysis.md) and customizable [factor](../f/factor.md) models, aiding traders and [asset](../a/asset.md) managers in implementing their strategies.
+The [Bloomberg](../b/bloomberg.md) Terminal ( offers a wide array of tools for [factor analysis](../f/factor_analysis.md) and customizable [factor](../f/factor.md) models, aiding traders and [asset](../a/asset.md) managers in implementing their strategies.
 
 ## Advanced Topics
 

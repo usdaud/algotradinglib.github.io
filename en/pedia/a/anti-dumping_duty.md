@@ -43,16 +43,16 @@ The World [Trade](../t/trade.md) Organization (WTO) provides a legal framework f
 - **Standard of Evidence**: Sets evidentiary standards for investigations and injury determination.
 - **Transparent Procedures**: Mandates that investigations and measures be transparent and subject to judicial review.
 
-For more information, visit the [WTO website](https://www.wto.org/).
+
 
 ### National Trade Authorities
 
 Individual countries often have their own [trade](../t/trade.md) authorities or departments responsible for investigating and imposing anti-[dumping](../d/dumping.md) duties. Examples include:
 
 - **United States International [Trade](../t/trade.md) [Commission](../c/commission.md) (USITC)**: Handles investigations into [dumping](../d/dumping.md) in the U.S.
-  - [USITC Website](https://www.usitc.gov)
+ -
 - **European [Commission](../c/commission.md) Directorate-General for [Trade](../t/trade.md)**: Manages anti-[dumping](../d/dumping.md) cases for the EU.
-  - [European Commission Trade Website](https://ec.europa.eu/trade/)
+ -
 
 ## Case Studies
 

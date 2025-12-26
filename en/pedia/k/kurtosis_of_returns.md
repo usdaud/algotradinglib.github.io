@@ -5,9 +5,9 @@ In the realm of [financial markets](../f/financial_market.md) and trading, under
 ### Definition and Types
 
 [Kurtosis](../k/kurtosis.md) is a statistical measure that describes the shape of a [distribution](../d/distribution.md)'s tails in terms of their heaviness and sharpness compared to a [normal distribution](../n/normal_distribution_in_trading.md). There are three types of [kurtosis](../k/kurtosis.md):
- 
+
 1. **Mesokurtic**: A [distribution](../d/distribution.md) with [kurtosis](../k/kurtosis.md) similar to that of a [normal distribution](../n/normal_distribution_in_trading.md). It has a [kurtosis](../k/kurtosis.md) [value](../v/value.md) close to zero.
-2. **Leptokurtic**: A [distribution](../d/distribution.md) with heavy tails, indicating a higher probability of extreme outcomes. It has a positive [kurtosis](../k/kurtosis.md) [value](../v/value.md). 
+2. **Leptokurtic**: A [distribution](../d/distribution.md) with heavy tails, indicating a higher probability of extreme outcomes. It has a positive [kurtosis](../k/kurtosis.md) [value](../v/value.md).
 3. **[Platykurtic](../p/platykurtic.md)**: A [distribution](../d/distribution.md) with light tails, suggesting fewer extreme outcomes compared to a [normal distribution](../n/normal_distribution_in_trading.md). It has a negative [kurtosis](../k/kurtosis.md) [value](../v/value.md).
 
 ### Formula and Calculation
@@ -41,7 +41,7 @@ Empirical studies consistently show that financial returns, especially in turbul
 An essential study by Robert F. Engle and Simone Manganelli, titled "CAViaR: Conditional Autoregressive [Value](../v/value.md) at [Risk](../r/risk.md) by Regression Quantiles," explores non-normal distributions in returns and the implications for [risk management](../r/risk_management.md). Their findings highlight the persistent high [kurtosis](../k/kurtosis.md) in [asset](../a/asset.md) returns, which traditional [risk measures](../r/risk_measures.md) often underestimate.
 
 ### Practical Application in Hedge Funds
-[Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms frequently use [kurtosis](../k/kurtosis.md) as part of their [trading algorithms](../t/trading_algorithms.md). For example, **Two Sigma**, a notable [hedge fund](../h/hedge_fund.md) management company (https://www.twosigma.com/), incorporates a wide array of statistical measures, including [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md), to evaluate [market](../m/market.md) conditions and refine their [trading strategies](../t/trading_strategies.md).
+[Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms frequently use [kurtosis](../k/kurtosis.md) as part of their [trading algorithms](../t/trading_algorithms.md). For example, **Two Sigma**, a notable [hedge fund](../h/hedge_fund.md) management company ( incorporates a wide array of statistical measures, including [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md), to evaluate [market](../m/market.md) conditions and refine their [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

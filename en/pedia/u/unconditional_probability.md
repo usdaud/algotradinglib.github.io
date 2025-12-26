@@ -19,10 +19,10 @@ For example, in a fair six-sided die, the probability of rolling a 3 is:
 1. **Non-negativity**: The [value](../v/value.md) of any probability is always non-negative, i.e., \( P(A) \geq 0 \).
 
 2. **Normalization**: The total probability of all possible outcomes in the sample space is equal to 1. For a sample space S:
-   \[ P(S) = 1 \]
+ \[ P(S) = 1 \]
 
 3. **Additivity**: If two events A and B are mutually exclusive (i.e., they cannot happen simultaneously), then the probability of either A or B occurring is the sum of their individual probabilities:
-   \[ P(A \cup B) = P(A) + P(B) \]
+ \[ P(A \cup B) = P(A) + P(B) \]
 
 ## Examples in Finance and Trading
 
@@ -38,7 +38,7 @@ An [investor](../i/investor.md) is considering [investing](../i/investing.md) in
 \[ P(D) = 0.1 \]
 
 This probability helps in determining the [risk](../r/risk.md) associated with [investing](../i/investing.md) in the [bond](../b/bond.md).
- 
+
 ## Calculation Methods: Theoretical and Empirical
 
 ### Theoretical Approach
@@ -51,7 +51,7 @@ Empirical probability is calculated by conducting experiments or observing histo
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), unconditional probabilities are often used to develop [trading algorithms](../t/trading_algorithms.md) that predict [market](../m/market.md) movements. Here are a few applications:
+In [algorithmic trading](../a/algorithmic_trading.md), unconditional probabilities are often used to develop [trading algorithms](../t/trading_algorithms.md) that predict [market](../m/market.md) movements. Here are a few applications:
 
 ### Risk Assessment
 By calculating the unconditional probability of various [risk factors](../r/risk_factors_in_trading.md), algorithmic traders can set up strategies that minimize potential losses. For example, if the probability of a stock price dropping by more than 5% in a day is 0.05, the algorithm may trigger a sell [order](../o/order.md) if the stock price begins to decline sharply.
@@ -71,4 +71,4 @@ For example, the unconditional probability of an [investor](../i/investor.md) ma
 ### Example
 Let A be the event that a [trader](../t/trader.md) makes a [profit](../p/profit.md), and B be the event that the [market](../m/market.md) has shown a positive [trend](../t/trend.md) for five days. The [conditional probability](../c/conditional_probability.md) \( P(A|B) \) is typically different from the unconditional probability \( P(A) \).
 
-In conclusion, understanding unconditional probability is fundamental for anyone involved in [finance](../f/finance.md) and trading. It allows for the estimation of various outcomes, which aids in making informed and strategic decisions. Whether you're an individual [investor](../i/investor.md) or an [algorithmic trading](../a/accountability.md) developer, grasping the basics of this concept can significantly enhance your [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) approaches.
+In conclusion, understanding unconditional probability is fundamental for anyone involved in [finance](../f/finance.md) and trading. It allows for the estimation of various outcomes, which aids in making informed and strategic decisions. Whether you're an individual [investor](../i/investor.md) or an [algorithmic trading](../a/algorithmic_trading.md) developer, grasping the basics of this concept can significantly enhance your [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) approaches.

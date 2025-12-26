@@ -9,29 +9,29 @@ Under CIP, the seller is responsible for delivering the goods to a carrier or an
 ### Key Responsibilities Under CIP
 
 1. **Seller's Responsibilities:**
-   - **Delivery:** The seller must deliver the goods by placing them at the disposal of the carrier they have contracted, on the date or within the period mutually agreed upon.
-   - **[Insurance](../i/insurance.md):** The seller is obliged to take out [insurance](../i/insurance.md) coverage at their [expense](../e/expense.md), with minimum coverage. However, if additional coverage is needed, the buyer [will](../w/will.md) have to arrange for it.
-   - **Costs:** The seller bears all costs until the goods are delivered to the carrier. This includes [export](../e/export.md) clearance and any loading costs.
-   - **[Risk](../r/risk.md) Transfer:** The [risk](../r/risk.md) transfers from the seller to the buyer once the goods have been delivered to the first carrier. From this point on, the buyer assumes any [risk](../r/risk.md) for loss or damage to the goods.
-   - **Documentation:** The seller must provide the buyer with the transport document necessary for the latter to obtain the goods from the carrier.
+ - **Delivery:** The seller must deliver the goods by placing them at the disposal of the carrier they have contracted, on the date or within the period mutually agreed upon.
+ - **[Insurance](../i/insurance.md):** The seller is obliged to take out [insurance](../i/insurance.md) coverage at their [expense](../e/expense.md), with minimum coverage. However, if additional coverage is needed, the buyer [will](../w/will.md) have to arrange for it.
+ - **Costs:** The seller bears all costs until the goods are delivered to the carrier. This includes [export](../e/export.md) clearance and any loading costs.
+ - **[Risk](../r/risk.md) Transfer:** The [risk](../r/risk.md) transfers from the seller to the buyer once the goods have been delivered to the first carrier. From this point on, the buyer assumes any [risk](../r/risk.md) for loss or damage to the goods.
+ - **Documentation:** The seller must provide the buyer with the transport document necessary for the latter to obtain the goods from the carrier.
 
 2. **Buyer's Responsibilities:**
-   - **[Import](../i/import.md) Clearance:** The buyer is responsible for handling all [import](../i/import.md) formalities and [clearing](../c/clearing.md) the goods through customs in the destination country.
-   - **Costs:** Upon the goods' arrival at the destination, the buyer assumes all costs, including unloading, [import](../i/import.md) duties, [taxes](../t/taxes.md), and transport to the final destination.
-   - **[Risk](../r/risk.md):** As mentioned earlier, the [risk](../r/risk.md) transfers to the buyer once the goods are delivered to the carrier.
+ - **[Import](../i/import.md) Clearance:** The buyer is responsible for handling all [import](../i/import.md) formalities and [clearing](../c/clearing.md) the goods through customs in the destination country.
+ - **Costs:** Upon the goods' arrival at the destination, the buyer assumes all costs, including unloading, [import](../i/import.md) duties, [taxes](../t/taxes.md), and transport to the final destination.
+ - **[Risk](../r/risk.md):** As mentioned earlier, the [risk](../r/risk.md) transfers to the buyer once the goods are delivered to the carrier.
 
 ## Example of CIP
 
 Assume that a seller in Germany is exporting machinery to a buyer in Brazil. They agree to use the CIP term, with the port of Santos in Brazil being the named place of destination. Here's how the [transaction](../t/transaction.md) might unfold:
 
 1. **Contract Agreement:** Both parties agree upon the CIP Incoterm and the port of Santos as the destination.
-2. **Seller's Actions:** 
-   - The seller arranges and pays for the transportation of the machinery from their factory in Germany to the port of Santos.
-   - The seller also procures an [insurance](../i/insurance.md) policy to cover the [risk](../r/risk.md) during the international transportation. The coverage needs to be a minimum level [insurance](../i/insurance.md) unless otherwise agreed.
-   - After shipping, the seller hands over the necessary documentations such as the [bill of lading](../b/bill_of_lading.md) to the buyer.
-3. **Buyer's Actions:** 
-   - The buyer, after receiving the transport documents, arranges for the [import](../i/import.md) clearance in Brazil and pays any associated tariffs or [taxes](../t/taxes.md).
-   - The buyer further organizes local transport to the final destination within Brazil, bearing the costs and risks of this segment.
+2. **Seller's Actions:**
+ - The seller arranges and pays for the transportation of the machinery from their factory in Germany to the port of Santos.
+ - The seller also procures an [insurance](../i/insurance.md) policy to cover the [risk](../r/risk.md) during the international transportation. The coverage needs to be a minimum level [insurance](../i/insurance.md) unless otherwise agreed.
+ - After shipping, the seller hands over the necessary documentations such as the [bill of lading](../b/bill_of_lading.md) to the buyer.
+3. **Buyer's Actions:**
+ - The buyer, after receiving the transport documents, arranges for the [import](../i/import.md) clearance in Brazil and pays any associated tariffs or [taxes](../t/taxes.md).
+ - The buyer further organizes local transport to the final destination within Brazil, bearing the costs and risks of this segment.
 
 ## Practical Considerations with CIP
 
@@ -41,4 +41,4 @@ Assume that a seller in Germany is exporting machinery to a buyer in Brazil. The
 
 ## Conclusion
 
-The CIP Incoterm offers a clear framework for international [trade](../t/trade.md) transactions, specifying the allocation of costs and risks between the buyer and seller. It is especially useful in scenarios where the buyer needs [assurance](../a/assurance.md) that the seller has covered the transportation and minimum [insurance](../i/insurance.md) costs up to a specific point. Proper understanding and implementation of CIP help avoid disputes and ensure a smooth [transaction](../t/transaction.md) flow. For further information and guidelines on [Incoterms](../i/incoterms.md) and their applications, you may refer to the official **International Chamber of [Commerce](../c/commerce.md) (ICC)** website at [ICC](https://iccwbo.org).
+The CIP Incoterm offers a clear framework for international [trade](../t/trade.md) transactions, specifying the allocation of costs and risks between the buyer and seller. It is especially useful in scenarios where the buyer needs [assurance](../a/assurance.md) that the seller has covered the transportation and minimum [insurance](../i/insurance.md) costs up to a specific point. Proper understanding and implementation of CIP help avoid disputes and ensure a smooth [transaction](../t/transaction.md) flow.

@@ -30,15 +30,15 @@ Where Tangible [Book Value](../b/book_value.md) per Share (TBVPS) is:
 
 ### Banking Sector
 
-In the banking [industry](../i/industry.md), PTBV is a commonly used metric because banks' assets are predominantly tangible, such as cash, investments, and [real estate](../r/real_estate.md). An example is JPMorgan Chase & Co. (https://www.jpmorganchase.com/), where evaluating the PTBV ratio helps investors understand the [bank](../b/bank.md)'s [valuation](../v/valuation.md) in terms of its physical assets.
+In the banking [industry](../i/industry.md), PTBV is a commonly used metric because banks' assets are predominantly tangible, such as cash, investments, and [real estate](../r/real_estate.md). An example is JPMorgan Chase & Co. ( where evaluating the PTBV ratio helps investors understand the [bank](../b/bank.md)'s [valuation](../v/valuation.md) in terms of its physical assets.
 
 ### Real Estate
 
-For [real estate](../r/real_estate.md) companies like Prologis, Inc. (https://www.prologis.com/), PTBV provides an insight into the [market](../m/market.md)’s [valuation](../v/valuation.md) of the company against its tangible [real estate](../r/real_estate.md) assets. Given that [real estate](../r/real_estate.md) properties [hold](../h/hold.md) physical [value](../v/value.md), PTBV serves as a key metric in evaluating the company's [market](../m/market.md) [valuation](../v/valuation.md).
+For [real estate](../r/real_estate.md) companies like Prologis, Inc. ( PTBV provides an insight into the [market](../m/market.md)’s [valuation](../v/valuation.md) of the company against its tangible [real estate](../r/real_estate.md) assets. Given that [real estate](../r/real_estate.md) properties [hold](../h/hold.md) physical [value](../v/value.md), PTBV serves as a key metric in evaluating the company's [market](../m/market.md) [valuation](../v/valuation.md).
 
-### Insurance 
+### Insurance
 
-[Insurance](../i/insurance.md) companies such as The Travelers Companies, Inc. (https://www.travelers.com/) rely on PTBV for evaluating their [market price](../m/market_price.md) against [tangible assets](../t/tangible_asset.md) like cash reserves and actual properties rather than intangible dimensions like [customer](../c/customer.md) [goodwill](../g/goodwill.md).
+[Insurance](../i/insurance.md) companies such as The Travelers Companies, Inc. ( rely on PTBV for evaluating their [market price](../m/market_price.md) against [tangible assets](../t/tangible_asset.md) like cash reserves and actual properties rather than intangible dimensions like [customer](../c/customer.md) [goodwill](../g/goodwill.md).
 
 ## PTBV vs. P/B Ratio
 
@@ -47,7 +47,7 @@ While both PTBV and P/B are [valuation](../v/valuation.md) metrics, PTBV is more
 ## Limitations of PTBV
 
 1. **Not Suitable for All Industries:** PTBV is less effective for industries heavily reliant on intangible assets, such as technology or healthcare, where intellectual properties and patents form critical [business](../b/business.md) components.
- 
+
 2. **[Market Sentiment](../m/market_sentiment.md):** [Market price](../m/market_price.md) can be influenced by [investor](../i/investor.md) sentiment, [speculation](../s/speculation.md), and external factors, which can distort the true [valuation](../v/valuation.md) indicated by PTBV.
 
 3. **[Asset Valuation](../a/asset_valuation.md) Issues:** Determining the tangible [book value](../b/book_value.md) can sometimes be complicated due to [asset](../a/asset.md) [depreciation](../d/depreciation.md), obsolescence, and varying [accounting](../a/accounting.md) practices.

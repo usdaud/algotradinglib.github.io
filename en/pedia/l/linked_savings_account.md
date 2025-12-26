@@ -86,6 +86,6 @@ This depends on the policies of your financial institution. Some banks do allow 
 
 Look for banks that [offer](../o/offer.md) competitive [interest](../i/interest.md) rates, low or waived fees, [robust](../r/robust.md) [online banking](../o/online_banking.md) features, good [customer service](../c/customer_service.md), and enhanced [security](../s/security.md) measures.
 
-For detailed offerings and specific products related to this service, you can visit financial institutions' official websites, such as [Chase Bank](https://www.chase.com/), [Bank of America](https://www.bankofamerica.com/), or [Wells Fargo](https://www.wellsfargo.com/).
+For detailed offerings and specific products related to this service, you can visit financial institutions' official websites, such as Chase Bank, Bank of America, or Wells Fargo.
 
 In conclusion, a linked [savings account](../s/savings_account.md) offers numerous benefits for anyone looking to streamline their financial management and improve their savings strategy. Whether you're aiming to avoid [overdraft](../o/overdraft.md) fees or simplify your financial tracking, these accounts provide a versatile and practical solution.

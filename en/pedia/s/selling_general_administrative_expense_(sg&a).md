@@ -1,6 +1,6 @@
 # Selling, General, & Administrative Expense (SG&A)
 
-In the realm of [finance](../f/finance.md) and [accounting](../a/accounting.md), Selling, General, and [Administrative Expenses](../a/administrative_expenses.md) (SG&A) represent a significant portion of operational costs for most companies. SG&A is a broad category of expenditures that a company incurs to operate its [business](../b/business.md) and deliver products or services. This detailed analysis explores the multifaceted components of SG&A, their implications for corporate [financial health](../f/financial_health.md), and their role in contemporary financial practices, including [algorithmic trading](../a/accountability.md) and financial technology (fintech).
+In the realm of [finance](../f/finance.md) and [accounting](../a/accounting.md), Selling, General, and [Administrative Expenses](../a/administrative_expenses.md) (SG&A) represent a significant portion of operational costs for most companies. SG&A is a broad category of expenditures that a company incurs to operate its [business](../b/business.md) and deliver products or services. This detailed analysis explores the multifaceted components of SG&A, their implications for corporate [financial health](../f/financial_health.md), and their role in contemporary financial practices, including [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ## Definition of SG&A
 
@@ -36,7 +36,7 @@ These are costs tied to the overall administration of the [business](../b/busine
 
 SG&A plays a critical role in a company's [income statement](../i/income_statement.md) as it impacts [operating profit](../o/operating_profit.md). [Operating profit](../o/operating_profit.md) is calculated as:
 
-    [Operating Profit](../o/operating_profit.md) = [Gross Profit](../g/gross_profit.md) - SG&A - Research and Development Expenses
+ [Operating Profit](../o/operating_profit.md) = [Gross Profit](../g/gross_profit.md) - SG&A - Research and Development Expenses
 
 [Gross profit](../g/gross_profit.md) represents the difference between [revenue](../r/revenue.md) and cost of goods sold (COGS), and SG&A deductions help in calculating the company's profitability from core [business](../b/business.md) operations. Monitoring SG&A over time provides insights into company [efficiency](../e/efficiency.md), cost management, and profitability trends.
 
@@ -44,7 +44,7 @@ SG&A plays a critical role in a company's [income statement](../i/income_stateme
 
 The SG&A ratio, expressed as a percentage of total [revenue](../r/revenue.md), is a key metric for analysts assessing a company's [efficiency](../e/efficiency.md). The formula to calculate the SG&A ratio is:
 
-    SG&A Ratio = (SG&A Expenses / Total [Revenue](../r/revenue.md)) x 100
+ SG&A Ratio = (SG&A Expenses / Total [Revenue](../r/revenue.md)) x 100
 
 A lower SG&A ratio indicates efficient management of operational costs relative to [revenue](../r/revenue.md), while a high ratio suggests potential inefficiencies or overly aggressive spending on administrative or sales functions.
 
@@ -52,7 +52,7 @@ A lower SG&A ratio indicates efficient management of operational costs relative 
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), which uses computer algorithms to execute trades at high speed, can be influenced by a company's SG&A expenses. Algorithms designed to analyze company financials may consider SG&A ratios and trends to make trading decisions. For example:
+[Algorithmic trading](../a/algorithmic_trading.md), which uses computer algorithms to execute trades at high speed, can be influenced by a company's SG&A expenses. Algorithms designed to analyze company financials may consider SG&A ratios and trends to make trading decisions. For example:
 
 - **[Efficiency](../e/efficiency.md) Signal**: Algorithms may interpret low SG&A ratios as a sign of efficient operations, potentially prompting buy signals.
 - **Cost Management Trends**: Historical data on SG&A costs can reveal trends in cost management, influencing long-term investment strategies.
@@ -63,8 +63,8 @@ Automated trading platforms may integrate SG&A analysis through [natural languag
 
 Fintech solutions often include advanced tools for [expense](../e/expense.md) management and [financial forecasting](../f/financial_forecasting.md), helping companies optimize SG&A spending. Key fintech applications related to SG&A include:
 
-- **[Expense](../e/expense.md) Tracking Software**: Solutions like Expensify (https://www.expensify.com) and Concur (https://www.concur.com) [offer](../o/offer.md) automated [expense](../e/expense.md) tracking and reporting, streamlining administrative overhead.
-- **Financial Analytics Tools**: Platforms such as Adaptive Insights (https://www.workday.com/en-us/applications/adaptive-insights.html) provide comprehensive financial analytics, helping companies analyze SG&A trends and make data-driven decisions.
+- **[Expense](../e/expense.md) Tracking Software**: Solutions like Expensify ( and Concur ( [offer](../o/offer.md) automated [expense](../e/expense.md) tracking and reporting, streamlining administrative overhead.
+- **Financial Analytics Tools**: Platforms such as Adaptive Insights provide comprehensive financial analytics, helping companies analyze SG&A trends and make data-driven decisions.
 - **AI and [Machine Learning](../m/machine_learning.md)**: [Predictive analytics](../p/predictive_analytics.md) driven by AI and [machine learning](../m/machine_learning.md) can forecast future SG&A expenses based on historical data and [market](../m/market.md) trends, aiding in strategic planning.
 
 ## Practical Examples and Case Studies
@@ -88,4 +88,4 @@ A real-world example could involve a retail company implementing a cost reductio
 
 ## Conclusion
 
-Selling, General, and [Administrative Expenses](../a/administrative_expenses.md) are vital components of a company's financial framework, reflecting the costs associated with running a [business](../b/business.md) beyond production. Understanding SG&A helps stakeholders evaluate [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. In the age of [algorithmic trading](../a/accountability.md) and fintech, innovations in financial tools further enhance the ability to monitor, analyze, and optimize SG&A expenses, aiding in strategic decision-making and promoting sustainable [business](../b/business.md) growth.
+Selling, General, and [Administrative Expenses](../a/administrative_expenses.md) are vital components of a company's financial framework, reflecting the costs associated with running a [business](../b/business.md) beyond production. Understanding SG&A helps stakeholders evaluate [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. In the age of [algorithmic trading](../a/algorithmic_trading.md) and fintech, innovations in financial tools further enhance the ability to monitor, analyze, and optimize SG&A expenses, aiding in strategic decision-making and promoting sustainable [business](../b/business.md) growth.

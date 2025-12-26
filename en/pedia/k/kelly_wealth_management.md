@@ -90,4 +90,4 @@ Kelly [Wealth Management](../w/wealth_management.md) recognizes the importance o
 
 Kelly [Wealth Management](../w/wealth_management.md) is a pioneering [firm](../f/firm.md) in the field of algo trading and investment advisory, leveraging advanced technologies and expert financial management to deliver exceptional results for clients. The [firm](../f/firm.md)'s commitment to innovation, rigorous [risk management](../r/risk_management.md), personalized advisory services, and ethical conduct ensures that it remains a trusted partner for investors seeking to navigate the complexities of the [financial markets](../f/financial_market.md).
 
-For more information, visit the Kelly [Wealth Management](../w/wealth_management.md) website: [Kelly Wealth Management](https://kellywealthmanagement.com)
+For more information, visit the Kelly [Wealth Management](../w/wealth_management.md) online platform: Kelly Wealth Management

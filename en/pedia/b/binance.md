@@ -4,7 +4,7 @@
 Binance is one of the largest and most popular cryptocurrency exchanges in the world, [offering](../o/offering.md) a wide [range](../r/range.md) of services including trading, [investing](../i/investing.md), staking, lending, and more. Founded in 2017 by Changpeng Zhao (CZ), Binance has grown rapidly to become a global leader in the cryptocurrency [industry](../i/industry.md), providing a comprehensive platform for both retail and institutional investors.
 
 ## Key Features
-1. **Wide [Range](../r/range.md) of Cryptocurrencies**: Binance supports trading for hundreds of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Binance Coin (BNB), and many altcoins. 
+1. **Wide [Range](../r/range.md) of Cryptocurrencies**: Binance supports trading for hundreds of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Binance Coin (BNB), and many altcoins.
 
 2. **Advanced Trading Platforms**: Binance offers [multiple](../m/multiple.md) trading platforms, including a web-based platform, desktop applications, and mobile apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various [order types](../o/order_types_in_trading.md).
 
@@ -58,5 +58,3 @@ Binance employs [robust](../r/robust.md) [security](../s/security.md) protocols,
 - **Cold Storage**: Storing the majority of user funds offline to protect against hacking.
 - **Secure [Asset](../a/asset.md) [Fund](../f/fund.md) for Users (SAFU)**: An emergency [insurance](../i/insurance.md) [fund](../f/fund.md) to protect user assets.
 
-## Website
-For more information about Binance and their services, visit the official website: [Binance](https://www.binance.com/)

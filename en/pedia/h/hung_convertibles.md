@@ -4,13 +4,13 @@ Hung convertibles, a term widely recognized within the [finance](../f/finance.md
 
 ## Basics of Convertible Securities
 
-Convertible securities are a hybrid [financial instrument](../f/financial_instrument.md) that combines elements of both [debt](../d/debt.md) and [equity](../e/equity.md). Common forms include convertible bonds and convertible preferred [shares](../s/shares.md). These securities provide investors with the option, but not the obligation, to convert the [security](../s/security.md) into a predetermined number of [shares](../s/shares.md) of the issuing company’s [common stock](../c/common_stock.md). 
+Convertible securities are a hybrid [financial instrument](../f/financial_instrument.md) that combines elements of both [debt](../d/debt.md) and [equity](../e/equity.md). Common forms include convertible bonds and convertible preferred [shares](../s/shares.md). These securities provide investors with the option, but not the obligation, to convert the [security](../s/security.md) into a predetermined number of [shares](../s/shares.md) of the issuing company’s [common stock](../c/common_stock.md).
 
 Convertible bonds, for instance, usually [offer](../o/offer.md) lower [interest](../i/interest.md) rates compared to regular bonds due to the conversion feature, which provides the potential for investors to benefit from an increase in the stock price of the issuing company. The appeal lies in the combination of fixed-[income](../i/income.md) characteristics along with the potential for [equity](../e/equity.md)-like returns if the company's stock performs well.
 
 ## Process of Issuing Convertible Securities
 
-When a company decides to [issue](../i/issue.md) convertible securities, it typically hires an [underwriting](../u/underwriting.md) [firm](../f/firm.md) or a [syndicate](../s/syndicate.md) of firms to manage the [offering](../o/offering.md). The underwriters are tasked with pricing the [security](../s/security.md), [marketing](../m/marketing.md) it to potential investors, and ultimately selling the securities. 
+When a company decides to [issue](../i/issue.md) convertible securities, it typically hires an [underwriting](../u/underwriting.md) [firm](../f/firm.md) or a [syndicate](../s/syndicate.md) of firms to manage the [offering](../o/offering.md). The underwriters are tasked with pricing the [security](../s/security.md), [marketing](../m/marketing.md) it to potential investors, and ultimately selling the securities.
 
 ### Underwriting and Potential Risks
 
@@ -77,6 +77,6 @@ Issuing companies must maintain transparent communication with investors and the
 
 Hung convertibles spotlight the inherent risks and complexities in the issuance of convertible securities. Understanding the dynamics of [investor](../i/investor.md) sentiment, [market](../m/market.md) conditions, company-specific factors, and [security](../s/security.md) terms is crucial for underwriters and issuing companies alike. Managing these factors effectively can facilitate successful convertible offerings and mitigate the [risk](../r/risk.md) of unsold securities burdening underwriters.
 
-For further information on [underwriting](../u/underwriting.md) practices and convertible securities, you can visit [Goldman Sachs](https://www.goldmansachs.com).
+For further information on [underwriting](../u/underwriting.md) practices and convertible securities, you can visit Goldman Sachs.
 
-The concept of hung convertibles remains a critical consideration for financial decision-makers, influencing strategies in [capital](../c/capital.md) raising, [risk management](../r/risk_management.md), and [investor relations](../i/investor_relations.md). With the evolving financial landscapes and [market dynamics](../m/market_dynamics.md), ongoing analysis and adaptation are essential for navigating the challenges associated with these hybrid instruments.
+The concept of hung convertibles remains a critical consideration for financial decision-makers, influencing strategies in [capital](../c/capital.md) raising, [risk management](../r/risk_management.md), and [company filings](../i/investor_relations.md). With the evolving financial landscapes and [market dynamics](../m/market_dynamics.md), ongoing analysis and adaptation are essential for navigating the challenges associated with these hybrid instruments.

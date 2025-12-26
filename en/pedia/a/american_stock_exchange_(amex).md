@@ -26,4 +26,3 @@ In 2008, the American Stock [Exchange](../e/exchange.md) was acquired by NYSE [E
 
 Today, the American Stock [Exchange](../e/exchange.md) is known as NYSE American. It continues to serve as a platform for trading equities, [options](../o/options.md), and ETFs, maintaining its historical focus on smaller-cap companies and innovative securities. NYSE American has retained its reputation for flexibility and innovation, and it continues to support a diverse [range](../r/range.md) of financial products.
 
-For more information, you can visit the [NYSE American website](https://www.nyse.com/markets/nyse-american).

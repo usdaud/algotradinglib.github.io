@@ -35,7 +35,7 @@ Active [return](../r/return.md) can be decomposed into two components:
 ### Significance
 
 - **Performance Measurement**: Active [return](../r/return.md) is crucial for evaluating the effectiveness of [active management](../a/active_management.md). It shows whether the active decisions made by the [portfolio manager](../p/portfolio_manager.md) have added [value](../v/value.md) relative to a passive [investment strategy](../i/investment_strategy.md).
-  
+
 - **Reward and Incentive Structures**: [Fund](../f/fund.md) managers and [hedge](../h/hedge.md) funds often structure their fees and incentives based on active [return](../r/return.md). Performance-based bonuses and management fees can be linked to how well they [outperform](../o/outperform.md) the [market](../m/market.md).
 
 - **[Risk](../r/risk.md) Assessment**: The pursuit of active [return](../r/return.md) can involve taking on additional [risk](../r/risk.md). Analyzing active [return](../r/return.md) alongside [risk metrics](../r/risk_metrics.md) like [standard deviation](../s/standard_deviation.md), [beta](../b/beta.md), and [alpha](../a/alpha.md) helps in understanding whether higher returns are achieved through higher [risk](../r/risk.md).
@@ -60,15 +60,15 @@ Active [return](../r/return.md) can be decomposed into two components:
 
 Several firms and companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and focus on generating active [return](../r/return.md) through their advanced [trading systems](../t/trading_systems.md).
 
-1. **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to manage [asset](../a/asset.md) portfolios. [Two Sigma](https://www.twosigma.com)
+1. **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to manage [asset](../a/asset.md) portfolios. Two Sigma
 
-2. **Citadel Securities**: A leading [market maker](../m/market_maker.md) and [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages sophisticated algorithms to provide [liquidity](../l/liquidity.md) in the [financial markets](../f/financial_market.md). [Citadel Securities](https://www.citadelsecurities.com)
+2. **Citadel Securities**: A leading [market maker](../m/market_maker.md) and [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages sophisticated algorithms to provide [liquidity](../l/liquidity.md) in the [financial markets](../f/financial_market.md). Citadel Securities
 
-3. **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider, Jane Street uses algorithmic strategies to optimize [trade](../t/trade.md) [execution](../e/execution.md) and generate active returns. [Jane Street](https://www.janestreet.com)
+3. **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider, Jane Street uses algorithmic strategies to optimize [trade](../t/trade.md) [execution](../e/execution.md) and generate active returns. Jane Street
 
-4. **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. [Renaissance Technologies](https://www.rentec.com)
+4. **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Renaissance Technologies
 
-5. **DE Shaw & Co**: A global investment [firm](../f/firm.md) that combines quantitative and qualitative strategies, DE Shaw & Co utilizes [algorithmic trading](../a/algorithmic_trading.md) to enhance [portfolio performance](../p/portfolio_performance.md). [DE Shaw & Co](https://www.deshaw.com)
+5. **DE Shaw & Co**: A global investment [firm](../f/firm.md) that combines quantitative and qualitative strategies, DE Shaw & Co utilizes [algorithmic trading](../a/algorithmic_trading.md) to enhance [portfolio performance](../p/portfolio_performance.md). DE Shaw & Co
 
 ### Challenges
 
@@ -84,4 +84,4 @@ Generating positive active returns consistently is challenging due to several fa
 
 ### Conclusion
 
-Active [return](../r/return.md) is a fundamental concept in [investment management](../i/investment_management.md) that measures the [value added](../v/value_added.md) by [active management](../a/active_management.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), active [return](../r/return.md) quantifies the success of [proprietary trading](../p/proprietary_trading.md) strategies and their ability to [outperform](../o/outperform.md) benchmarks. While challenging, successful [algorithmic trading](../a/algorithmic_trading.md) firms [leverage](../l/leverage.md) sophisticated models, technology, and [risk management](../r/risk_management.md) practices to achieve and sustain positive active returns.
+Active [return](../r/return.md) is a fundamental concept in [investment management](../i/investment_management.md) that measures the [value added](../v/value_added.md) by [active management](../a/active_management.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), active [return](../r/return.md) quantifies the success of [proprietary trading](../p/proprietary_trading.md) strategies and their ability to [outperform](../o/outperform.md) benchmarks. While challenging, successful [algorithmic trading](../a/algorithmic_trading.md) firms [leverage](../l/leverage.md) sophisticated models, technology, and [risk management](../r/risk_management.md) practices to achieve and sustain positive active returns.

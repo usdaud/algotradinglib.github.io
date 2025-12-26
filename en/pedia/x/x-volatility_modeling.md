@@ -1,8 +1,8 @@
 # X-Volatility Modeling
 
-## Introduction to Volatility 
+## Introduction to Volatility
 
-[Volatility](../v/volatility.md) refers to the degree of variation of a [financial instrument](../f/financial_instrument.md)'s trading price over time. In the context of [financial markets](../f/financial_market.md), it is often measured by the [standard deviation](../s/standard_deviation.md) of [logarithmic returns](../l/logarithmic_returns.md). High [volatility](../v/volatility.md) indicates that an [asset](../a/asset.md)'s price can change dramatically over a short time period in either direction. On the other hand, low [volatility](../v/volatility.md) suggests that an [asset](../a/asset.md)'s price remains relatively stable. 
+[Volatility](../v/volatility.md) refers to the degree of variation of a [financial instrument](../f/financial_instrument.md)'s trading price over time. In the context of [financial markets](../f/financial_market.md), it is often measured by the [standard deviation](../s/standard_deviation.md) of [logarithmic returns](../l/logarithmic_returns.md). High [volatility](../v/volatility.md) indicates that an [asset](../a/asset.md)'s price can change dramatically over a short time period in either direction. On the other hand, low [volatility](../v/volatility.md) suggests that an [asset](../a/asset.md)'s price remains relatively stable.
 
 ## Concept of X-Volatility Modeling
 
@@ -31,7 +31,7 @@ Unlike [GARCH models](../g/garch_models.md) that are deterministic, [stochastic 
 
 With advancements in [machine learning](../m/machine_learning.md), several algorithms like [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are increasingly being employed for [volatility](../v/volatility.md) modeling. These techniques can capture nonlinear relationships better than traditional statistical models.
 
-Example: [Acme Trading Systems](https://acmetrading.com)
+Example: Acme Trading Systems
 
 ### Implied Volatility
 
@@ -55,19 +55,19 @@ With the advent of high-frequency trading, models that can operate on millisecon
 
 Several [hedge](../h/hedge.md) funds employ advanced [volatility](../v/volatility.md) modeling techniques for their [trading strategies](../t/trading_strategies.md). Funds like Renaissance Technologies have leveraged sophisticated models for extraordinary returns.
 
-Example: [Renaissance Technologies](https://www.rentec.com)
+Example: Renaissance Technologies
 
 ### Brokerage Firm Incorporations
 
 Brokerage firms use X-[Volatility models](../v/volatility_models.md) to [offer](../o/offer.md) better trading facilities to their clients, from improved [risk management](../r/risk_management.md) dashboards to better [trade](../t/trade.md) [execution algorithms](../e/execution_algorithms.md).
 
-Example: [Interactive Brokers](https://www.interactivebrokers.com)
+Example: Interactive Brokers
 
 ### Academic Research
 
 Numerous academic institutions are pioneering new methodologies and approaches in [volatility](../v/volatility.md) modeling. These research outcomes often find their way into commercial applications.
 
-Example: [MIT Financial Engineering](https://mitsloan.mit.edu/financial-engineering)
+Example: MIT Financial Engineering
 
 ## Tools and Software
 
@@ -77,7 +77,7 @@ Several tools are now available for implementing advanced [volatility models](..
 - **[QuantLib](../q/quantlib.md):** An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), which includes modules for [volatility](../v/volatility.md) modeling.
 - **Proprietary Software:** Platforms like Matlab and SAS also [offer](../o/offer.md) sophisticated modules for [volatility analysis](../v/volatility_analysis.md).
 
-Example: [QuantLib](https://www.quantlib.org)
+Example: QuantLib
 
 ## Challenges and Limitations
 

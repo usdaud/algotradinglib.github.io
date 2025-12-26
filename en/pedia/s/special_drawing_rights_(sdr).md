@@ -77,7 +77,6 @@ With advancements in financial technology, there's potential for integrating the
 
 ## Conclusion
 
-SDRs play a crucial role in the international financial architecture, providing a stable, supplementary reserve [asset](../a/asset.md) to IMF member countries. Their unique structure and [valuation](../v/valuation.md) mechanism [offer](../o/offer.md) much-needed [liquidity](../l/liquidity.md) and stability, particularly during times of economic crisis. While there are certain limitations and challenges associated with their use, ongoing discussions and potential reforms may enhance their functionality and influence in the global [economy](../e/economy.md). The adaptability and resilience of the SDR system demonstrate its significance in fostering international monetary cooperation and stability. 
+SDRs play a crucial role in the international financial architecture, providing a stable, supplementary reserve [asset](../a/asset.md) to IMF member countries. Their unique structure and [valuation](../v/valuation.md) mechanism [offer](../o/offer.md) much-needed [liquidity](../l/liquidity.md) and stability, particularly during times of economic crisis. While there are certain limitations and challenges associated with their use, ongoing discussions and potential reforms may enhance their functionality and influence in the global [economy](../e/economy.md). The adaptability and resilience of the SDR system demonstrate its significance in fostering international monetary cooperation and stability.
 
-To learn more about the Special Drawing Rights (SDR) and stay updated with the latest allocations and usage, you can visit the official IMF page on SDRs [here](https://www.imf.org/en/Topics/special-drawing-right).
-
+To learn more about the Special Drawing Rights (SDR) and stay updated with the latest allocations and usage, you can

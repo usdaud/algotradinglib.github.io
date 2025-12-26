@@ -79,21 +79,18 @@ Different share classes can also affect the [liquidity](../l/liquidity.md) of [s
 
 Google’s [parent company](../p/parent_company.md), Alphabet Inc., has two primary classes of [common stock](../c/common_stock.md): Class A (GOOGL) and Class C (GOOG). Class A [shares](../s/shares.md) come with voting rights, while Class C [shares](../s/shares.md) do not. This structure allows the founders and other major stakeholders to maintain control over the company’s decisions while raising [capital](../c/capital.md) through the [sale](../s/sale.md) of non-[voting shares](../v/voting_shares.md).
 
-- [Alphabet Investor Relations](https://abc.xyz/investor/)
 
 ### Berkshire Hathaway (BRK.A & BRK.B)
 
 Warren Buffett's [Berkshire Hathaway](../b/berkshire_hathaway.md) offers two classes of [shares](../s/shares.md): Class A (BRK.A) and Class B (BRK.B). Class A [shares](../s/shares.md) carry more voting rights and [trade](../t/trade.md) at a higher price, whereas Class B [shares](../s/shares.md) are more affordable but with fewer voting rights. This structure enables small investors to participate in [Berkshire Hathaway](../b/berkshire_hathaway.md)'s growth without the high costs associated with Class A [shares](../s/shares.md).
 
-- [Berkshire Hathaway Home](https://www.berkshirehathaway.com/)
+- Berkshire Hathaway Home
 
 ### Facebook (FB)
 
 Facebook, now Meta Platforms, has a dual-class structure with Class A and Class B [shares](../s/shares.md). Class A [shares](../s/shares.md) are publicly traded and come with one vote per share. Class B [shares](../s/shares.md) are held by the company’s founders and insiders, [offering](../o/offering.md) ten votes per share. This setup allows the founders to retain substantial control over the company’s direction despite holding a minority of the total [shares](../s/shares.md).
 
-- [Meta Investor Relations](https://investor.fb.com/investor-relations/default.aspx)
 
 ## Conclusion
 
 Understanding the nuances of share classes is essential for making informed investment decisions. Each share class comes with its own set of rights, risks, and rewards, affecting an [investor](../i/investor.md)’s level of control, [income](../i/income.md), and [risk](../r/risk.md) exposure. Recognizing these differences helps investors tailor their portfolios to meet their specific financial goals, [risk tolerance](../r/risk_tolerance.md), and [investment strategy](../i/investment_strategy.md). Whether you’re a [retail investor](../r/retail_investor.md), institutional [trader](../t/trader.md), or financial analyst, a deep understanding of share classes can significantly enhance your decision-making process in the [financial markets](../f/financial_market.md).
-

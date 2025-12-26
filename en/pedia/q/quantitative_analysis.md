@@ -44,25 +44,19 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can proces
 
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. They employ sophisticated algorithms and computer models to [trade](../t/trade.md) in various markets.
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
-
 ### DE Shaw
 
 DE Shaw is another significant player in the field of quantitative analysis, employing an interdisciplinary approach to [financial markets](../f/financial_market.md) that includes computer scientists, mathematicians, and [finance](../f/finance.md) experts.
 
-Website: [DE Shaw](https://www.deshaw.com/)
 
 ### Two Sigma
 
 Two Sigma leverages [machine learning](../m/machine_learning.md) and distributed computing to perform [quantitative research](../q/quantitative_research.md) and deploy [systematic trading](../s/systematic_trading.md) strategies.
 
-Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Citadel
-
 Citadel employs a combination of fundamental and quantitative analysis to manage its [trading strategies](../t/trading_strategies.md), using [data science](../d/data_science_in_trading.md) and engineering extensively in its approach.
 
-Website: [Citadel](https://www.citadelsecurities.com/)
 
 ## Applications of Quantitative Analysis
 

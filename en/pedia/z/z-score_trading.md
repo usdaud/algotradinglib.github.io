@@ -2,7 +2,7 @@
 
 ## Introduction to Z-Score Trading
 
-[Z-Score](../z/z-score.md) trading is a technique often used in [quantitative finance](../q/quantitative_finance.md), particularly in the domain of statistical [arbitrage](../a/arbitrage.md), that leverages the statistical property of standard scores ([Z-scores](../z/z-scores_in_trading.md)) to identify trading opportunities. The [Z-score](../z/z-score.md) is a measure that describes a [value](../v/value.md)'s relationship to the mean of a group of values. When applied to trading, it can highlight when a [security](../s/security.md)'s price is deviating significantly from its historical average, indicating potential [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. 
+[Z-Score](../z/z-score.md) trading is a technique often used in [quantitative finance](../q/quantitative_finance.md), particularly in the domain of statistical [arbitrage](../a/arbitrage.md), that leverages the statistical property of standard scores ([Z-scores](../z/z-scores_in_trading.md)) to identify trading opportunities. The [Z-score](../z/z-score.md) is a measure that describes a [value](../v/value.md)'s relationship to the mean of a group of values. When applied to trading, it can highlight when a [security](../s/security.md)'s price is deviating significantly from its historical average, indicating potential [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ## Understanding Z-Score
 
@@ -10,7 +10,7 @@ A [Z-score](../z/z-score.md) tells you how many standard deviations an element i
 
 \[ Z = \frac{(X - \mu)}{\sigma} \]
 
-Where: 
+Where:
 - \(X\) is the [value](../v/value.md),
 - \(\mu\) is the mean of the data set,
 - \(\sigma\) is the [standard deviation](../s/standard_deviation.md) of the data set.
@@ -68,22 +68,22 @@ z_scores = calculate_z_score(prices, lookback_period)
 ### Trading Algorithms
 
 [Automated trading systems](../a/automated_trading_systems.md) often implement [Z-score](../z/z-score.md) [trading strategies](../t/trading_strategies.md). These algorithms regularly calculate [Z-scores](../z/z-scores_in_trading.md) for selected securities and execute trades based on predefined thresholds. Some popular platforms for [algorithmic trading](../a/algorithmic_trading.md) include:
-  
+
 - **MetaTrader 5**: Suitable for forex, stock [exchange](../e/exchange.md) markets.
-  - [MetaTrader 5](https://www.metatrader5.com/)
+ - MetaTrader 5
 - **[QuantConnect](../q/quantconnect.md)**: Supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and integrates with brokerages.
-  - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers comprehensive trading APIs.
-  - [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
+ - Interactive Brokers API
 
 ### Backtesting and Optimization
 
 Before deploying any [Z-score](../z/z-score.md) [trading strategy](../t/trading_strategy.md), it is crucial to backtest it using historical data to evaluate its performance. [Backtesting](../b/backtesting.md) helps traders understand how their strategy would have performed in the past, allowing for [optimization](../o/optimization.md) and refinement. Tools for [backtesting](../b/backtesting.md) include:
 
 - **[Backtrader](../b/backtrader.md)**: A powerful Python library for [backtesting](../b/backtesting.md).
-  - [Backtrader](https://www.backtrader.com/)
+ - Backtrader
 - **[Quantlib](../q/quantlib.md)**: A library for financial computing.
-  - [QuantLib](https://www.quantlib.org/)
+ - QuantLib
 
 ## Risk Management
 
@@ -104,7 +104,7 @@ One of the world’s largest [hedge](../h/hedge.md) funds, Bridgewater Associate
 
 AQR [Capital](../c/capital.md) Management is another major player in the [quantitative finance](../q/quantitative_finance.md) space and uses [Z-score](../z/z-score.md) methodologies within their various [quantitative strategies](../q/quantitative_strategies_in_trading.md). AQR emphasizes rigorous data analysis and computer-driven [trading models](../t/trading_models.md).
 
-- [AQR Capital Management](https://www.aqr.com/)
+- AQR Capital Management
 
 ## Conclusion
 

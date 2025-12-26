@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Online [learning algorithms](../l/learning_algorithms_in_trading.md) are a key component in the field of [algorithmic trading](../a/algorithmic_trading.md), representing a class of machine [learning algorithms](../l/learning_algorithms_in_trading.md) that are especially well-suited to scenarios where data arrives in a sequential manner. Unlike batch [learning algorithms](../l/learning_algorithms_in_trading.md), which train on a fixed dataset, online [learning algorithms](../l/learning_algorithms_in_trading.md) update the model incrementally as new data arrives. This makes them particularly useful in environments where data is continuously generated, such as stock markets. Online [learning algorithms](../l/learning_algorithms_in_trading.md) can provide more timely predictions and adapt to changing [market](../m/market.md) conditions, which can be crucial for maintaining profitability in [algorithmic trading](../a/algorithmic_trading.md). 
+Online [learning algorithms](../l/learning_algorithms_in_trading.md) are a key component in the field of [algorithmic trading](../a/algorithmic_trading.md), representing a class of machine [learning algorithms](../l/learning_algorithms_in_trading.md) that are especially well-suited to scenarios where data arrives in a sequential manner. Unlike batch [learning algorithms](../l/learning_algorithms_in_trading.md), which train on a fixed dataset, online [learning algorithms](../l/learning_algorithms_in_trading.md) update the model incrementally as new data arrives. This makes them particularly useful in environments where data is continuously generated, such as stock markets. Online [learning algorithms](../l/learning_algorithms_in_trading.md) can provide more timely predictions and adapt to changing [market](../m/market.md) conditions, which can be crucial for maintaining profitability in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Types of Online Learning Algorithms
 
@@ -37,7 +37,7 @@ These algorithms are particularly favored for their ability to [handle](../h/han
 Online [learning algorithms](../l/learning_algorithms_in_trading.md) are highly effective for predicting short-term stock price movements given their ability to learn and adapt in real-time. With continuously incoming data, traditional batch learning methods may become outdated quickly.
 
 **Case Study:**
-- **Company**: [Kensho](https://www.kensho.com)
+- **Company**: Kensho
 - **Application**: Kensho uses [machine learning](../m/machine_learning.md) techniques, including online [learning algorithms](../l/learning_algorithms_in_trading.md), to analyze and predict [stock market](../s/stock_market.md) movements.
 
 #### Portfolio Management
@@ -45,7 +45,7 @@ Online [learning algorithms](../l/learning_algorithms_in_trading.md) are highly 
 [Portfolio management](../p/portfolio_management.md) is another area where online [learning algorithms](../l/learning_algorithms_in_trading.md) excel. The algorithms continuously assess the performance of various assets, enabling dynamic reallocation of resources for optimized returns.
 
 **Case Study:**
-- **Company**: [Two Sigma](https://www.twosigma.com)
+- **Company**: Two Sigma
 - **Application**: This [hedge fund](../h/hedge_fund.md) leverages online [learning algorithms](../l/learning_algorithms_in_trading.md) for real-time [portfolio optimization](../p/portfolio_optimization.md) and [asset management](../a/asset_management.md).
 
 #### High-Frequency Trading (HFT)
@@ -53,7 +53,7 @@ Online [learning algorithms](../l/learning_algorithms_in_trading.md) are highly 
 In the high-frequency trading landscape, milliseconds can represent significant financial gains or losses. Online [learning algorithms](../l/learning_algorithms_in_trading.md) can be integrated into HFT systems to make real-time decisions.
 
 **Case Study:**
-- **Company**: [Virtu Financial](https://www.virtu.com)
+- **Company**: Virtu Financial
 - **Application**: Uses sophisticated online learning models to make split-second trading decisions.
 
 ### Challenges and Solutions
@@ -79,7 +79,7 @@ Concept drift refers to the change in the statistical properties of the target v
 [Reinforcement learning](../r/reinforcement_learning.md) (RL) represents a compelling future direction for online learning in trading. Combining online [learning algorithms](../l/learning_algorithms_in_trading.md) with RL can [offer](../o/offer.md) ways to develop trading agents that not only learn from the data but also improve their strategy based on direct feedback from trading actions.
 
 **Key Player**:
-- **Company**: [Sentient Technologies](https://www.sentient.ai)
+- **Company**: Sentient Technologies
 - **Application**: Uses a blend of online learning and [reinforcement learning](../r/reinforcement_learning.md) to develop advanced [trading algorithms](../t/trading_algorithms.md).
 
 #### AI Regulation and Ethics

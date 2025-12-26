@@ -14,7 +14,7 @@ MBS emerged in the 1970s as a way for banks to move mortgages off their balance 
 
 ### The 2008 Financial Crisis
 
-The 2008 [financial crisis](../f/financial_crisis.md) highlighted the risks associated with MBS—particularly those tied to subprime mortgages, which were loans given to borrowers with poor [credit](../c/credit.md) histories. When homeowners began to [default](../d/default.md) on these subprime loans, the [value](../v/value.md) of MBS containing those loans plummeted, leading to massive losses for financial institutions and investors. The fallout resulted in rigorous regulatory changes aimed at increasing the [transparency](../t/transparency.md) and stability of the MBS [market](../m/market.md). 
+The 2008 [financial crisis](../f/financial_crisis.md) highlighted the risks associated with MBS—particularly those tied to subprime mortgages, which were loans given to borrowers with poor [credit](../c/credit.md) histories. When homeowners began to [default](../d/default.md) on these subprime loans, the [value](../v/value.md) of MBS containing those loans plummeted, leading to massive losses for financial institutions and investors. The fallout resulted in rigorous regulatory changes aimed at increasing the [transparency](../t/transparency.md) and stability of the MBS [market](../m/market.md).
 
 ## Types of MBS
 
@@ -55,13 +55,13 @@ Post-2008, the regulation surrounding MBS became significantly more stringent. T
 ### Government-Sponsored Enterprises (GSEs)
 
 - **Fannie Mae**: Fannie Mae works to ensure that [mortgage](../m/mortgage.md) loans are available to low- and moderate-[income](../i/income.md) homebuyers by buying loans from lenders.
-  Website: [Fannie Mae](https://www.fanniemae.com/)
+ online platform: Fannie Mae
 
 - **[Freddie Mac](../f/freddie_mac.md)**: Similar to Fannie Mae, [Freddie Mac](../f/freddie_mac.md) purchases loans from lenders to provide [liquidity](../l/liquidity.md), stability, and affordability to the housing [market](../m/market.md).
-  Website: [Freddie Mac](https://www.freddiemac.com/)
+ online platform: Freddie Mac
 
 - **Ginnie Mae**: Ginnie Mae primarily focuses on providing [liquidity](../l/liquidity.md) and backing for federally insured loans such as those backed by the Federal Housing Administration (FHA).
-  Website: [Ginnie Mae](https://www.ginniemae.gov/)
+ online platform: Ginnie Mae
 
 ## Investment Strategies
 
@@ -79,7 +79,7 @@ Investors may use hedging techniques to mitigate risks associated with their MBS
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) in the MBS [market](../m/market.md) uses statistical models to identify trading opportunities. These algorithms can help investors execute trades quickly and efficiently, often capitalizing on small price discrepancies that may exist due to [market](../m/market.md) inefficiencies.
+[Algorithmic trading](../a/algorithmic_trading.md) in the MBS [market](../m/market.md) uses statistical models to identify trading opportunities. These algorithms can help investors execute trades quickly and efficiently, often capitalizing on small price discrepancies that may exist due to [market](../m/market.md) inefficiencies.
 
 ## Conclusion
 

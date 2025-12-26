@@ -120,12 +120,12 @@ Several financial calculators and [software platforms](../s/software_platforms_f
 While continuous [compounding](../c/compounding.md) offers theoretical benefits, practical aspects must be considered. Financial institutions often [compound interest](../c/compound_interest_in_trading.md) at the highest feasible frequency, such as daily, rather than continuously. Professional traders and financial analysts often use continuous [compounding](../c/compounding.md) for modeling and theoretical calculations but adjust their expectations and strategies in real-world applications.
 
 Several financial institutions and corporations use models based on continuous [compounding](../c/compounding.md) for their sophisticated financial arrangements. To explore the use of continuous [compounding](../c/compounding.md) in practice, consider visiting the following resources:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
-- [BlackRock](https://www.blackrock.com/)
+- Goldman Sachs
+- J.P. Morgan
+- BlackRock
 
 These companies rely on advanced [financial modeling](../f/financial_modeling.md), including continuous [compounding](../c/compounding.md), to develop investment strategies, manage risks, and optimize their financial products and services.
 
-## Conclusion 
+## Conclusion
 
 Continuous [compounding](../c/compounding.md) is a crucial concept in financial mathematics, providing a more precise and effective method for calculating [interest](../i/interest.md). Despite its complexities and theoretical nature, it serves as a foundation for various financial models and applications, reinforcing its significance in modern [finance](../f/finance.md). Understanding and leveraging continuous [compounding](../c/compounding.md) can [offer](../o/offer.md) significant advantages in making informed investment decisions and developing [robust](../r/robust.md) financial strategies.

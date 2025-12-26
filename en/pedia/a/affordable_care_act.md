@@ -1,6 +1,6 @@
 # Affordable Care Act
 
-The Affordable Care Act (ACA), also known as Obamacare, is a comprehensive health care reform law enacted in March 2010. The law has three primary goals: 
+The Affordable Care Act (ACA), also known as Obamacare, is a comprehensive health care reform law enacted in March 2010. The law has three primary goals:
 
 1. **Make affordable [health insurance](../h/health_insurance.md) available to more people** by providing subsidies ([premium](../p/premium.md) tax credits) to individuals and families with incomes between 100% and 400% of the federal [poverty](../p/poverty.md) level (FPL).
 2. **Expand the [Medicaid](../m/medicaid.md) program** to cover all adults with [income](../i/income.md) below 138% of the FPL. Not all states have expanded their [Medicaid](../m/medicaid.md) programs.
@@ -30,16 +30,16 @@ One of the hallmark features of the ACA is the prohibition against denying cover
 
 ### Essential Health Benefits
 The ACA requires that all [health insurance](../h/health_insurance.md) plans offered in the individual and small group markets cover a set of essential health benefits, including but not limited to:
-  - Ambulatory patient services
-  - Emergency services
-  - Hospitalization
-  - Maternity and newborn care
-  - Mental health and substance use disorder services
-  - Prescription drugs
-  - Rehabilitative and habilitative services and devices
-  - Laboratory services
-  - Preventive and wellness services and chronic disease management
-  - Pediatric services, including oral and vision care
+ - Ambulatory patient services
+ - Emergency services
+ - Hospitalization
+ - Maternity and newborn care
+ - Mental health and substance use disorder services
+ - Prescription drugs
+ - Rehabilitative and habilitative services and devices
+ - Laboratory services
+ - Preventive and wellness services and chronic disease management
+ - Pediatric services, including oral and vision care
 
 ### Preventive Care
 The ACA mandates that most [insurance](../i/insurance.md) plans provide preventive care services without charging a copayment, coinsurance, or deductible. This includes services like vaccinations, screenings, and preventive medications.
@@ -63,4 +63,4 @@ Under the Trump administration, there were several efforts to repeal and replace
 ## Future Considerations
 The ACA remains a crucial part of the American health care landscape. As health care costs continue to rise and disparities in access to health services persist, the ACA's provisions and ongoing reforms [will](../w/will.md) play a significant role in shaping the future of health care in the United States.
 
-For more detailed information and updates about the ACA, you can visit the official [HealthCare.gov](https://www.healthcare.gov/) or the [Centers for Medicare & Medicaid Services (CMS)](https://www.cms.gov/).
+For more detailed information and updates about the ACA, you can visit the official HealthCare.gov or the Centers for Medicare & Medicaid Services (CMS).

@@ -21,7 +21,7 @@ The [Morningstar](../m/morningstar.md) [Risk](../r/risk.md) [Rating](../r/rating
 
 ### Morningstar Risk Evaluation Criteria
 
-For funds to be rated by [Morningstar](../m/morningstar.md), they need to meet specific criteria, including longevity, total assets under management, and consistency in investment style. 
+For funds to be rated by [Morningstar](../m/morningstar.md), they need to meet specific criteria, including longevity, total assets under management, and consistency in investment style.
 
 ### Meaning of Different Risk Ratings
 
@@ -89,4 +89,4 @@ While the [Morningstar](../m/morningstar.md) [Risk](../r/risk.md) [Rating](../r/
 
 ## Conclusion
 
-The [Morningstar](../m/morningstar.md) [Risk](../r/risk.md) [Rating](../r/rating.md) is an essential metric for anyone involved in [finance](../f/finance.md) and [investing](../i/investing.md). It helps in understanding the potential risks, comparing various funds, and making informed decisions to align investments with individual or institutional [risk tolerance](../r/risk_tolerance.md) and financial goals. The [rating](../r/rating.md) thus serves as a cornerstone for crafting [robust](../r/robust.md), diversified, and [risk](../r/risk.md)-adjusted investment portfolios. For more details on the [Morningstar](../m/morningstar.md) [Risk](../r/risk.md) [Rating](../r/rating.md), visit [Morningstar's official website](https://www.morningstar.com/).
+The [Morningstar](../m/morningstar.md) [Risk](../r/risk.md) [Rating](../r/rating.md) is an essential metric for anyone involved in [finance](../f/finance.md) and [investing](../i/investing.md). It helps in understanding the potential risks, comparing various funds, and making informed decisions to align investments with individual or institutional [risk tolerance](../r/risk_tolerance.md) and financial goals. The [rating](../r/rating.md) thus serves as a cornerstone for crafting [robust](../r/robust.md), diversified, and [risk](../r/risk.md)-adjusted investment portfolios. For more details on the [Morningstar](../m/morningstar.md) [Risk](../r/risk.md) [Rating](../r/rating.md),

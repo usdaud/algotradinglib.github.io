@@ -4,7 +4,7 @@ The [last trading day](../l/last_trading_day.md) of the month, quarter, or year 
 
 ## Market Behavior on the Last Trading Day
 
-### Window Dressing 
+### Window Dressing
 
 *[Window dressing](../w/window_dressing.md)* refers to the strategy employed by [fund](../f/fund.md) managers to improve the appearance of a [fund](../f/fund.md)'s performance before presenting it to investors. Managers buy high-performing [stocks](../s/stock.md) and sell poorly performing ones to make the portfolio look more attractive at the end of a reporting period. This buying pressure can lead to abnormal price movements and increased [volatility](../v/volatility.md).
 

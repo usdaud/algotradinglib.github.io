@@ -4,7 +4,7 @@
 
 ## Historical Context
 
-[Open](../o/open.md) outcry has its roots in the 19th century when centralized exchanges began to form. Trading floors were bustling centers where brokers represented their clients in competitive, physical environments. Among the earliest adopters of this system were stock and [commodity](../c/commodity.md) exchanges in the United States and Europe, including the Chicago Board of [Trade](../t/trade.md) (CBOT) [CBOT](https://www.cmegroup.com/), the New York Stock [Exchange](../e/exchange.md) (NYSE) [NYSE](https://www.nyse.com/), and the London Metal [Exchange](../e/exchange.md) (LME) [LME](https://www.lme.com/).
+[Open](../o/open.md) outcry has its roots in the 19th century when centralized exchanges began to form. Trading floors were bustling centers where brokers represented their clients in competitive, physical environments. Among the earliest adopters of this system were stock and [commodity](../c/commodity.md) exchanges in the United States and Europe, including the Chicago Board of [Trade](../t/trade.md) (CBOT) CBOT, the New York Stock [Exchange](../e/exchange.md) (NYSE) NYSE, and the London Metal [Exchange](../e/exchange.md) (LME) LME.
 
 ## Mechanism and Techniques
 
@@ -43,18 +43,18 @@ The advent of electronic trading platforms has largely overshadowed the [open](.
 
 ### Hybrid Models
 
-Some exchanges have adopted hybrid models that combine electronic systems with the traditional [open](../o/open.md) outcry to [leverage](../l/leverage.md) the benefits of both methods. For example, the Intercontinental [Exchange](../e/exchange.md) (ICE) [ICE](https://www.theice.com/) operates electronic platforms while still maintaining some [open](../o/open.md) outcry pits for certain commodities.
+Some exchanges have adopted hybrid models that combine electronic systems with the traditional [open](../o/open.md) outcry to [leverage](../l/leverage.md) the benefits of both methods. For example, the Intercontinental [Exchange](../e/exchange.md) (ICE) ICE operates electronic platforms while still maintaining some [open](../o/open.md) outcry pits for certain commodities.
 
 ## Remaining Strongholds
 
 Despite a broad shift toward electronic trading, [open](../o/open.md) outcry continues to be a significant practice in certain markets and exchanges:
 
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: Maintains pits for trading [options on futures](../o/options_on_futures.md) [CME](https://www.cmegroup.com/).
-- **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: Trades energy products and metals [NYMEX](https://www.cmegroup.com/).
+- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: Maintains pits for trading [options on futures](../o/options_on_futures.md) CME.
+- **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: Trades energy products and metals NYMEX.
 
 ## Case Study: London Metal Exchange
 
-The London Metal [Exchange](../e/exchange.md) (LME) remains one of the most notable strongholds of [open](../o/open.md) outcry, utilizing a method known as "the Ring." Traders gather in a circular booth and engage in designated "ring sessions" where specific metals are traded at set times. The LME's commitment to this traditional trading method underscores the [value](../v/value.md) some markets place on the human elements of trading [LME](https://www.lme.com/).
+The London Metal [Exchange](../e/exchange.md) (LME) remains one of the most notable strongholds of [open](../o/open.md) outcry, utilizing a method known as "the Ring." Traders gather in a circular booth and engage in designated "ring sessions" where specific metals are traded at set times. The LME's commitment to this traditional trading method underscores the [value](../v/value.md) some markets place on the human elements of trading LME.
 
 ## The Future of Open Outcry
 

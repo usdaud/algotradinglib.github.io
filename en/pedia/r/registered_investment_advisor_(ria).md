@@ -80,19 +80,19 @@ As competition intensifies, [fee](../f/fee.md) compression has become a signific
 ## Leading RIA Firms
 
 ### Vanguard Personal Advisor Services
-Vanguard Personal Advisor Services combines the benefits of robo-advisors with the personalized touch of human advisors. Clients receive customized financial plans and ongoing advice from a team of financial advisors. More information can be found on their [website](https://investor.vanguard.com/advice/personal-advisor).
+Vanguard Personal Advisor Services combines the benefits of robo-advisors with the personalized touch of human advisors. Clients receive customized financial plans and ongoing advice from a team of financial advisors.
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) offers comprehensive RIA services, including [investment management](../i/investment_management.md), [financial planning](../f/financial_planning.md), and [retirement planning](../r/retirement_planning.md). Their platform provides access to a wide [range](../r/range.md) of investment products and tools. More information can be found on their [website](https://www.schwab.com).
+[Charles Schwab](../c/charles_schwab.md) offers comprehensive RIA services, including [investment management](../i/investment_management.md), [financial planning](../f/financial_planning.md), and [retirement planning](../r/retirement_planning.md). Their platform provides access to a wide [range](../r/range.md) of investment products and tools.
 
 ### Fidelity Investments
-[Fidelity Investments](../f/fidelity_investments.md) provides RIA services, including personalized [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), and [financial planning](../f/financial_planning.md). Fidelity’s platform offers a [range](../r/range.md) of investment [options](../o/options.md) and advanced technology solutions. More information can be found on their [website](https://www.fidelity.com).
+[Fidelity Investments](../f/fidelity_investments.md) provides RIA services, including personalized [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), and [financial planning](../f/financial_planning.md). Fidelity’s platform offers a [range](../r/range.md) of investment [options](../o/options.md) and advanced technology solutions.
 
 ### Betterment for Advisors
-Betterment for Advisors is a digital [wealth management](../w/wealth_management.md) platform that enables RIAs to provide automated [investment management](../i/investment_management.md) services to their clients. The platform leverages algorithms to optimize portfolios and streamline administrative tasks. More information can be found on their [website](https://www.betterment.com/for-advisors).
+Betterment for Advisors is a digital [wealth management](../w/wealth_management.md) platform that enables RIAs to provide automated [investment management](../i/investment_management.md) services to their clients. The platform leverages algorithms to optimize portfolios and streamline administrative tasks.
 
 ## Conclusion
 
-Registered Investment Advisors play a crucial role in helping individuals and organizations achieve their financial goals. By adhering to a fiduciary standard, RIAs provide objective, client-focused advice that prioritizes the best interests of the client. Despite the challenges they face, RIAs continue to adapt and innovate, leveraging technology, [data analytics](../d/data_analytics.md), and a deep understanding of [financial markets](../f/financial_market.md) to deliver exceptional service and results for their clients. 
+Registered Investment Advisors play a crucial role in helping individuals and organizations achieve their financial goals. By adhering to a fiduciary standard, RIAs provide objective, client-focused advice that prioritizes the best interests of the client. Despite the challenges they face, RIAs continue to adapt and innovate, leveraging technology, [data analytics](../d/data_analytics.md), and a deep understanding of [financial markets](../f/financial_market.md) to deliver exceptional service and results for their clients.
 
 RIAs' commitment to education, [transparency](../t/transparency.md), and personalized service makes them a trusted partner in the [financial planning](../f/financial_planning.md) and investment process. As the financial [industry](../i/industry.md) continues to evolve, RIAs [will](../w/will.md) remain at the forefront, guiding their clients through an increasingly complex financial landscape with expertise, integrity, and dedication.

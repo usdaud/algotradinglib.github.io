@@ -44,7 +44,7 @@ The 2008 [financial crisis](../f/financial_crisis.md) highlighted the dichotomy 
 Technological advancements, particularly in financial technology (FinTech), are bridging the gap between [Wall Street](../w/wall_street.md) and Main Street. FinTech solutions are making financial services more accessible to small businesses and consumers. For instance, [mobile banking](../m/mobile_banking.md), [peer-to-peer lending](../p/peer-to-peer_lending.md) platforms, and digital [payment](../p/payment.md) systems are empowering Main Street by [offering](../o/offering.md) convenient and cost-effective financial solutions.
 
 #### Example: Square
-[Square](https://squareup.com/), a FinTech company, provides small businesses with tools like point of [sale](../s/sale.md) (POS) systems, online [payment](../p/payment.md) processing, and [business](../b/business.md) analytics. These technologies enable Main Street merchants to compete more effectively in the modern [economy](../e/economy.md).
+Square, a FinTech company, provides small businesses with tools like point of [sale](../s/sale.md) (POS) systems, online [payment](../p/payment.md) processing, and [business](../b/business.md) analytics. These technologies enable Main Street merchants to compete more effectively in the modern [economy](../e/economy.md).
 
 ### E-commerce
 The rise of e-[commerce](../c/commerce.md) has also transformed Main Street. Small businesses can reach a global audience through online platforms, mitigating some of the disadvantages posed by their limited physical presence. This shift has been accelerated by the COVID-19 pandemic, which forced many businesses to adopt digital strategies.

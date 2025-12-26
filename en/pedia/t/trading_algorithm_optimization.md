@@ -61,19 +61,19 @@ Prior to full-scale deployment, the optimized trading algorithm should be tested
 
 ### MetaTrader
 
-[MetaTrader](https://www.metatrader5.com/) is a popular [trading platform](../t/trading_platform.md) that offers extensive [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) capabilities, including support for [grid search](../g/grid_search_in_trading.md) and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
+MetaTrader is a popular [trading platform](../t/trading_platform.md) that offers extensive [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) capabilities, including support for [grid search](../g/grid_search_in_trading.md) and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers powerful [optimization](../o/optimization.md) tools and supports [multiple](../m/multiple.md) programming languages like C#, F#, and Python.
+QuantConnect is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers powerful [optimization](../o/optimization.md) tools and supports [multiple](../m/multiple.md) programming languages like C#, F#, and Python.
 
 ### TradeStation
 
-[TradeStation](https://www.tradestation.com/) provides [robust](../r/robust.md) [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) functionalities, along with a comprehensive set of built-in indicators and strategies.
+TradeStation provides [robust](../r/robust.md) [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) functionalities, along with a comprehensive set of built-in indicators and strategies.
 
 ### NinjaTrader
 
-[NinjaTrader](https://ninjatrader.com/) is known for its advanced charting capabilities and offers various [optimization](../o/optimization.md) techniques, including [genetic algorithms](../g/genetic_algorithms_in_trading.md) and walk-forward analysis.
+NinjaTrader is known for its advanced charting capabilities and offers various [optimization](../o/optimization.md) techniques, including [genetic algorithms](../g/genetic_algorithms_in_trading.md) and walk-forward analysis.
 
 ## Challenges in Optimization
 
@@ -115,15 +115,15 @@ Maintaining thorough documentation and version control for the algorithm and its
 
 ### SetAlgo
 
-[SetAlgo](https://www.setalgo.com/) offers a [range](../r/range.md) of tools and services for [algorithmic trading](../a/algorithmic_trading.md), including [optimization](../o/optimization.md) and [backtesting](../b/backtesting.md) capabilities.
+SetAlgo offers a [range](../r/range.md) of tools and services for [algorithmic trading](../a/algorithmic_trading.md), including [optimization](../o/optimization.md) and [backtesting](../b/backtesting.md) capabilities.
 
 ### Quantitative Brokers
 
-[Quantitative Brokers](https://www.quantitativebrokers.com/) specializes in providing sophisticated algorithms for executing and optimizing trades, focusing on minimizing [market](../m/market.md) impact and enhancing performance.
+Quantitative Brokers specializes in providing sophisticated algorithms for executing and optimizing trades, focusing on minimizing [market](../m/market.md) impact and enhancing performance.
 
 ### Trading Technologies
 
-[Trading Technologies](https://www.tradingtechnologies.com/) offers advanced trading platforms with comprehensive [optimization](../o/optimization.md) tools and services for institutional and retail traders.
+Trading Technologies offers advanced trading platforms with comprehensive [optimization](../o/optimization.md) tools and services for institutional and retail traders.
 
 
 ## Conclusion

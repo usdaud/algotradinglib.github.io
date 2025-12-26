@@ -4,13 +4,13 @@
 
 # Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms, often referred to as prop trading firms, [trade](../t/trade.md) [stocks](../s/stock.md), bonds, currencies, [derivatives](../d/derivatives.md), and other financial instruments using their own [capital](../c/capital.md). They [leverage](../l/leverage.md) algorithmic strategies to identify profitable trading opportunities and execute trades at lightning speed. 
+[Proprietary trading](../p/proprietary_trading.md) firms, often referred to as prop trading firms, [trade](../t/trade.md) [stocks](../s/stock.md), bonds, currencies, [derivatives](../d/derivatives.md), and other financial instruments using their own [capital](../c/capital.md). They [leverage](../l/leverage.md) algorithmic strategies to identify profitable trading opportunities and execute trades at lightning speed.
 
 Some examples of [proprietary trading](../p/proprietary_trading.md) firms include:
 
-- **Jane Street**: A well-known [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in [equity](../e/equity.md) and [bond](../b/bond.md) trading. More information can be found on their [website](https://www.janestreet.com).
+- **Jane Street**: A well-known [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in [equity](../e/equity.md) and [bond](../b/bond.md) trading.
 
-- **Virtu Financial**: Virtu is a global leader in [market](../m/market.md) making and [liquidity](../l/liquidity.md) provisions. Detailed information on their trading approach can be obtained from their [site](https://www.virtu.com).
+- **Virtu Financial**: Virtu is a global leader in [market](../m/market.md) making and [liquidity](../l/liquidity.md) provisions. Detailed information on their trading approach can be obtained from their site.
 
 **Key Characteristics:**
 - Utilize high-frequency trading (HFT) strategies.
@@ -23,9 +23,9 @@ Some examples of [proprietary trading](../p/proprietary_trading.md) firms includ
 
 [Hedge](../h/hedge.md) funds are pooled investment funds that utilize various strategies to earn returns for their investors. Many [hedge](../h/hedge.md) funds [leverage](../l/leverage.md) algorithms to implement strategies that include statistical [arbitrage](../a/arbitrage.md), [trend following](../t/trend_following.md), and [market](../m/market.md) making.
 
-- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that applies [machine learning](../m/machine_learning.md) and distributed computing to the world of [finance](../f/finance.md). Visit their [site](https://www.twosigma.com) for more details.
+- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that applies [machine learning](../m/machine_learning.md) and distributed computing to the world of [finance](../f/finance.md).
 
-- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to identify profitable investments. More information can be found on their [website](https://www.rentec.com).
+- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to identify profitable investments.
 
 **Key Characteristics:**
 - Diverse array of [trading strategies](../t/trading_strategies.md).
@@ -38,9 +38,9 @@ Some examples of [proprietary trading](../p/proprietary_trading.md) firms includ
 
 [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) to [financial markets](../f/financial_market.md) by being ready to buy and sell securities at any time. They often use algorithms to continually update [bid and ask](../b/bid_and_ask.md) prices based on [market](../m/market.md) conditions.
 
-- **Citadel Securities**: A major [market maker](../m/market_maker.md) that trades across a variety of [asset](../a/asset.md) classes. Additional information is available on their [site](https://www.citadelsecurities.com).
+- **Citadel Securities**: A major [market maker](../m/market_maker.md) that trades across a variety of [asset](../a/asset.md) classes.
 
-- **Flow Traders**: Focuses on adding [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md), particularly in the ETF space. More information can be found on their [website](https://www.flowtraders.com).
+- **Flow Traders**: Focuses on adding [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md), particularly in the ETF space.
 
 **Key Characteristics:**
 - Provide [liquidity](../l/liquidity.md) to the markets.
@@ -53,9 +53,9 @@ Some examples of [proprietary trading](../p/proprietary_trading.md) firms includ
 
 Retail traders are individual investors who [trade](../t/trade.md) on their own accounts. With advancements in technology, even retail traders now have access to [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) through platforms like MetaTrader or [Interactive Brokers](../i/interactive_brokers.md).
 
-- **MetaTrader**: A widely-used platform among retail traders for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). More details can be found on their [site](https://www.metatrader4.com).
+- **MetaTrader**: A widely-used platform among retail traders for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers an electronic [trading platform](../t/trading_platform.md) for traders to buy and sell a variety of securities. Their platform details are available on their [website](https://www.interactivebrokers.com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers an electronic [trading platform](../t/trading_platform.md) for traders to buy and sell a variety of securities.
 
 **Key Characteristics:**
 - Lower [capital](../c/capital.md) requirement.
@@ -68,9 +68,9 @@ Retail traders are individual investors who [trade](../t/trade.md) on their own 
 
 Brokers act as intermediaries between investors and markets. They execute buy and sell orders for clients while charging a [commission](../c/commission.md) or [fee](../f/fee.md). [Algorithmic trading](../a/accountability.md) is used to manage [order](../o/order.md) flow and optimize [execution](../e/execution.md).
 
-- **[Charles Schwab](../c/charles_schwab.md)**: A brokerage [firm](../f/firm.md) that provides a [range](../r/range.md) of financial services including [algorithmic trading](../a/accountability.md) tools. More information can be found on their [site](https://www.schwab.com).
+- **[Charles Schwab](../c/charles_schwab.md)**: A brokerage [firm](../f/firm.md) that provides a [range](../r/range.md) of financial services including [algorithmic trading](../a/accountability.md) tools.
 
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a [trading platform](../t/trading_platform.md) with advanced algo-trading capabilities. Their offerings are detailed on their [website](https://www.fidelity.com).
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a [trading platform](../t/trading_platform.md) with advanced algo-trading
 
 **Key Characteristics:**
 - Execute trades on behalf of clients.
@@ -83,9 +83,9 @@ Brokers act as intermediaries between investors and markets. They execute buy an
 
 [Investment banks](../i/investment_bank_(ib).md) participate in [algorithmic trading](../a/accountability.md) not only to manage their own [capital](../c/capital.md) but also to provide trading services to their clients. They support a wide array of trading activities including [market](../m/market.md) making and [proprietary trading](../p/proprietary_trading.md).
 
-- **Goldman Sachs**: Engages heavily in [proprietary trading](../p/proprietary_trading.md) and offers sophisticated trading platforms to clients. More information can be found on their [site](https://www.goldmansachs.com).
+- **Goldman Sachs**: Engages heavily in [proprietary trading](../p/proprietary_trading.md) and offers sophisticated trading platforms to clients.
 
-- **Morgan Stanley**: Offers comprehensive trading solutions including [algorithmic trading](../a/accountability.md) services. Details are available on their [website](https://www.morganstanley.com).
+- **Morgan Stanley**: Offers comprehensive trading solutions including [algorithmic trading](../a/accountability.md) services.
 
 **Key Characteristics:**
 - Large [capital](../c/capital.md) base.
@@ -98,9 +98,9 @@ Brokers act as intermediaries between investors and markets. They execute buy an
 
 [Quantitative research](../q/quantitative_research.md) firms develop the models and algorithms that drive trading decisions. They often work closely with [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and [investment banks](../i/investment_bank_(ib).md) to create complex [trading strategies](../t/trading_strategies.md).
 
-- **WorldQuant**: A quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that develops models to support [trading strategies](../t/trading_strategies.md). More details can be found on their [site](https://www.worldquant.com).
+- **WorldQuant**: A quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that develops models to support [trading strategies](../t/trading_strategies.md).
 
-- **DE Shaw Group**: Specializes in [quantitative trading](../q/quantitative_trading.md) and investment strategies. More information is available on their [website](https://www.deshaw.com).
+- **DE Shaw Group**: Specializes in [quantitative trading](../q/quantitative_trading.md) and investment strategies.
 
 **Key Characteristics:**
 - Focus on research and development of [trading models](../t/trading_models.md).
@@ -113,9 +113,9 @@ Brokers act as intermediaries between investors and markets. They execute buy an
 
 This category includes companies that [offer](../o/offer.md) the technological [infrastructure](../i/infrastructure.md) required for [algorithmic trading](../a/accountability.md). These firms provide everything from [software platforms](../s/software_platforms_for_trading.md) to high-speed data feeds and co-location services.
 
-- **[Nasdaq](../n/nasdaq.md) [Market](../m/market.md) Technology**: Provides technology solutions that support trading and [financial markets](../f/financial_market.md). More details can be found on their [site](https://www.nasdaq.com).
+- **[Nasdaq](../n/nasdaq.md) [Market](../m/market.md) Technology**: Provides technology solutions that support trading and [financial markets](../f/financial_market.md).
 
-- **Thomson [Reuters](../r/reuters.md)**: Offers data feeds and financial information crucial for algo-trading. More information is available on their [website](https://www.thomsonreuters.com).
+- **Thomson [Reuters](../r/reuters.md)**: Offers data feeds and financial information crucial for algo-trading.
 
 **Key Characteristics:**
 - [Supply](../s/supply.md) trading [software platforms](../s/software_platforms_for_trading.md).
@@ -128,9 +128,9 @@ This category includes companies that [offer](../o/offer.md) the technological [
 
 [Algorithmic trading](../a/accountability.md) is subject to strict regulatory oversight to ensure fair and transparent markets. Regulatory bodies oversee trading activities to prevent [market manipulation](../m/market_manipulation.md) and [systemic risk](../s/systemic_risk.md).
 
-- **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))**: Regulates securities markets in the United States. More information can be found on their [site](https://www.sec.gov).
+- **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))**: Regulates securities markets in the United States.
 
-- **FINRA (Financial [Industry](../i/industry.md) Regulatory Authority)**: An independent organization that regulates brokerage firms and [exchange](../e/exchange.md) markets in the U.S. Additional details are available on their [website](https://www.finra.org).
+- **FINRA (Financial [Industry](../i/industry.md) Regulatory Authority)**: An independent organization that regulates brokerage firms and [exchange](../e/exchange.md) markets in the U.S.
 
 **Key Characteristics:**
 - Implementing rules for [market](../m/market.md) conduct.

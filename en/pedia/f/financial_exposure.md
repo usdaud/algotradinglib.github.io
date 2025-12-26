@@ -205,17 +205,12 @@ Real-time monitoring systems track [market](../m/market.md) conditions and tradi
 Several companies and organizations provide tools, services, and resources for managing financial exposure. Notable entities include:
 
 - **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive [market](../m/market.md) data, analytics, and [risk management](../r/risk_management.md) solutions.
-  [Bloomberg](https://www.bloomberg.com)
 - **Thomson [Reuters](../r/reuters.md)**: Provides financial data, analytics, and [risk management](../r/risk_management.md) tools.
-  [Thomson Reuters](https://www.thomsonreuters.com)
 - **Moody's**: A leading [credit rating](../c/credit_rating.md) agency [offering](../o/offering.md) [credit risk](../c/credit_risk.md) assessment and analytics.
-  [Moody's](https://www.moodys.com)
+ Moody's
 - **S&P Global**: Provides [credit](../c/credit.md) ratings, analytics, and [risk management](../r/risk_management.md) solutions.
-  [S&P Global](https://www.spglobal.com)
 - **[Fitch Ratings](../f/fitch_ratings.md)**: Offers [credit](../c/credit.md) ratings and research services.
-  [Fitch Ratings](https://www.fitchratings.com)
 - **MSCI**: Provides [risk management](../r/risk_management.md) and portfolio analytics solutions.
-  [MSCI](https://www.msci.com)
 
 ## Conclusion
 

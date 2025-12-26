@@ -6,37 +6,37 @@ Quantitative research is a pivotal aspect of the financial domain, significantly
 
 ### Data Collection and Cleaning
 
-Effective quantitative research starts with [robust](../r/robust.md) data collection and [data cleaning](../d/data_cleaning.md) processes. This involves gathering large datasets from various sources including historical price data, trading volumes, [market](../m/market.md) news, [economic indicators](../e/economic_indicators.md), and more. 
+Effective quantitative research starts with [robust](../r/robust.md) data collection and [data cleaning](../d/data_cleaning.md) processes. This involves gathering large datasets from various sources including historical price data, trading volumes, [market](../m/market.md) news, [economic indicators](../e/economic_indicators.md), and more.
 - **Data Sources**: Some noteworthy data providers include:
-  - [Bloomberg](https://www.bloomberg.com/)
-  - [Thomson Reuters](https://www.thomsonreuters.com/)
+ - Bloomberg
+ - Thomson Reuters
 
 [Data cleaning](../d/data_cleaning.md) ensures the datasets are free from errors and inconsistencies, making them suitable for accurate analysis. Common techniques for [data cleaning](../d/data_cleaning.md) include:
 - **Removing duplicates**
 - **Handling missing values**
 - **Correcting inconsistencies**
 
-### Statistical Analysis 
+### Statistical Analysis
 
 Quantitative research employs advanced statistical methods to uncover patterns and correlations within financial data.
 - **[Descriptive Statistics](../d/descriptive_statistics.md)**: Mean, [median](../m/median.md), variance, and [standard deviation](../s/standard_deviation.md) help in summarizing the general characteristics of the data.
 - **Inferential [Statistics](../s/statistics.md)**: Techniques like [regression analysis](../r/regression_analysis.md), [hypothesis testing](../h/hypothesis_testing.md), and ANOVA are utilized to make predictions and infer relationships.
 
-### Mathematical Modeling 
+### Mathematical Modeling
 
 [Mathematical models](../m/mathematical_models_in_trading.md) are the cornerstone of quantitative research. They [leverage](../l/leverage.md) historical data to predict future [market](../m/market.md) behaviors and form the backbone of many [trading strategies](../t/trading_strategies.md). Common types of models include:
 - **[Time Series](../t/time_series.md) Models**: ARIMA, [GARCH models](../g/garch_models.md) are often used to forecast stock prices.
 - **[Factor Models](../f/factor_models.md)**: CAPM and multi-[factor models](../f/factor_models.md) help in understanding [risk](../r/risk.md) and [return](../r/return.md).
 - **[Machine Learning](../m/machine_learning.md) Models**: Algorithms like Random Forest, Gradient Boosting, and [Neural Networks](../n/neural_networks_in_trading.md) provide sophisticated [predictive analytics](../p/predictive_analytics.md).
 
-### Programming and Algorithm Development 
+### Programming and Algorithm Development
 
 Effective quantitative research often requires programming skills for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). Languages frequently used include:
 - **Python**: Popular libraries include Pandas, NumPy, and Scikit-learn.
 - **R**: Known for its statistical analysis capabilities using packages like dplyr and ggplot2.
 - **Matlab**: Used for numerical computing and rapid prototyping.
 
-### Backtesting 
+### Backtesting
 
 [Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) on historical data to assess its viability. Key metrics evaluated during [backtesting](../b/backtesting.md):
 - **[Return](../r/return.md) on Investment (ROI)**
@@ -44,7 +44,7 @@ Effective quantitative research often requires programming skills for developing
 - **Max [Drawdown](../d/drawdown.md)**
 - **[Alpha](../a/alpha.md) and [Beta](../b/beta.md)**
 
-### Risk Management 
+### Risk Management
 
 Quantitative research aims to optimize returns while managing risks. Strategies include:
 - **[Diversification](../d/diversification.md)**: Spreading investments to mitigate risks.
@@ -66,8 +66,8 @@ Quantitative research also delves into high-frequency trading (HFT) and [market 
 - **[Slippage](../s/slippage.md) and Impact Costs**
 
 Companies specializing in HFT include:
-- [Jane Street](https://www.janestreet.com/)
-- [Virtu Financial](https://www.virtu.com/)
+- Jane Street
+- Virtu Financial
 
 ## Practical Implementations
 
@@ -82,14 +82,14 @@ Quantitative research feeds into the development of various [algorithmic trading
 ### Quantitative Hedge Funds
 
 [Hedge](../h/hedge.md) funds employing [quantitative strategies](../q/quantitative_strategies_in_trading.md) [leverage](../l/leverage.md) these research techniques to manage large volumes of [capital](../c/capital.md) efficiently. Notable [quantitative hedge funds](../q/quantitative_hedge_funds.md) include:
-- [Renaissance Technologies](https://www.rentec.com/)
-- [DE Shaw](https://www.deshaw.com/)
+- Renaissance Technologies
+- DE Shaw
 
 ### Quantitative Research Platforms and Tools
 
 Several platforms and tools support the rigorous demands of quantitative research:
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing data and [backtesting](../b/backtesting.md) tools ([link](https://www.quantconnect.com/)).
-- **[Quantlib](../q/quantlib.md)**: [Open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) ([link](https://www.quantlib.org/)).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing data and [backtesting](../b/backtesting.md) tools (link).
+- **[Quantlib](../q/quantlib.md)**: [Open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) (link).
 
 ### Machine Learning in Quantitative Research
 

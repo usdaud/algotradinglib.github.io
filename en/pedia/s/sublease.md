@@ -51,7 +51,7 @@ In the corporate world, subleasing is a strategic tool for companies to manage t
 
 #### Case Example: WeWork
 
-WeWork, a well-known flexible workspace provider, often engages in subleasing arrangements. They lease large office spaces and then sublease individual offices or co-working spaces to businesses and freelancers. This model allows WeWork to [offer](../o/offer.md) flexible lease terms to its clients while managing large [real estate](../r/real_estate.md) assets under longer-term leases. [WeWork](https://www.wework.com).
+WeWork, a well-known flexible workspace provider, often engages in subleasing arrangements. They lease large office spaces and then sublease individual offices or co-working spaces to businesses and freelancers. This model allows WeWork to [offer](../o/offer.md) flexible lease terms to its clients while managing large [real estate](../r/real_estate.md) assets under longer-term leases. WeWork.
 
 ### Retail and Industrial Subleasing
 

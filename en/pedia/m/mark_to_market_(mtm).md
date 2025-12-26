@@ -66,7 +66,7 @@ MTM is a crucial tool in [risk management](../r/risk_management.md), enabling fi
 
 At JPMorgan Chase, one of the largest banks in the world, MTM is rigorously applied across various financial instruments to ensure accurate reporting and [risk management](../r/risk_management.md). The [bank](../b/bank.md) uses sophisticated models to [value](../v/value.md) [derivatives](../d/derivatives.md), trading portfolios, and other financial assets on a mark-to-[market](../m/market.md) [basis](../b/basis.md).
 
-For more information, visit [JPMorgan Chase](https://www.jpmorganchase.com/).
+For more information, visit JPMorgan Chase.
 
 ---
 

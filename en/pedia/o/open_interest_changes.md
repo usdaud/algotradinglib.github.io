@@ -66,38 +66,38 @@ While [open interest](../o/open_interest.md) data can provide valuable insights,
 
 CME Group is one of the largest [derivatives](../d/derivatives.md) marketplaces in the world, [offering](../o/offering.md) a wide [range](../r/range.md) of [futures](../f/futures.md) and [options](../o/options.md) contracts. They provide detailed [open interest](../o/open_interest.md) data across various [asset](../a/asset.md) classes.
 
-Link: [CME Group](https://www.cmegroup.com)
+Link: CME Group
 
 ### 2. Intercontinental Exchange (ICE)
 
 ICE operates global exchanges and [clearing](../c/clearing.md) houses, providing trading and [risk management](../r/risk_management.md) services. They [offer](../o/offer.md) [open interest](../o/open_interest.md) data for a variety of [derivative](../d/derivative.md) products.
 
-Link: [ICE](https://www.theice.com)
+Link: ICE
 
 ### 3. Chicago Board Options Exchange (CBOE)
 
 CBOE is a leading [options](../o/options.md) [exchange](../e/exchange.md) that provides comprehensive [open interest](../o/open_interest.md) data on a wide [range](../r/range.md) of [options](../o/options.md) contracts, including equities, indexes, and ETFs.
 
-Link: [CBOE](https://www.cboe.com)
+Link: CBOE
 
 ### 4. NASDAQ
 
 [NASDAQ](../n/nasdaq.md) offers a variety of trading products, including [options](../o/options.md) and [futures](../f/futures.md), with detailed [open interest](../o/open_interest.md) data available for analysis.
 
-Link: [NASDAQ](https://www.nasdaq.com)
+Link: NASDAQ
 
 ### 5. Trading Platforms and Software Providers
 
 Several trading platforms and software providers [offer](../o/offer.md) advanced tools and features for analyzing [open interest](../o/open_interest.md) data. Some notable names include:
 
 - **[Bloomberg](../b/bloomberg.md)**: Provides extensive [market](../m/market.md) data, including [open interest](../o/open_interest.md), along with powerful analytical tools.
-  Link: [Bloomberg](https://www.bloomberg.com)
+ Link: Bloomberg
 
 - **Thomson [Reuters](../r/reuters.md)**: Offers comprehensive [market](../m/market.md) data and analytics, including [open interest](../o/open_interest.md) information.
-  Link: [Thomson Reuters](https://www.thomsonreuters.com)
+ Link: Thomson Reuters
 
 - **MetaTrader**: A popular [trading platform](../t/trading_platform.md) that supports [open interest analysis](../o/open_interest_analysis.md) through custom indicators and expert advisors.
-  Link: [MetaTrader](https://www.metatrader4.com)
+ Link: MetaTrader
 
 By leveraging the resources and tools provided by these companies, traders can effectively incorporate [open interest](../o/open_interest.md) data into their [algorithmic trading](../a/algorithmic_trading.md) strategies to enhance their [market](../m/market.md) analysis and [trading performance](../t/trading_performance.md).
 

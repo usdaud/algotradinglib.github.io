@@ -114,8 +114,8 @@ wma = weighted_moving_average(data, 10)
 
 Many trading platforms support X-Moving Average techniques. Examples include:
 
-- **MetaTrader 5:** Supports advanced moving averages like EMA, WMA, etc. [MetaTrader 5](https://www.metatrader5.com/)
-- **[TradingView](../t/tradingview.md):** Offers scripts for custom moving average implementations. [TradingView](https://www.tradingview.com/)
+- **MetaTrader 5:** Supports advanced moving averages like EMA, WMA, etc. MetaTrader 5
+- **[TradingView](../t/tradingview.md):** Offers scripts for custom moving average implementations. TradingView
 
 ## 3. Advantages and Disadvantages
 

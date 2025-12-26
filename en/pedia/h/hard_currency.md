@@ -28,23 +28,23 @@ Some of the most commonly recognized hard currencies include:
 
 ### US Dollar (USD)
 
-The USD is perhaps the most widespread hard [currency](../c/currency.md). It serves as the world's primary [reserve currency](../r/reserve_currency.md), meaning that it is held in significant quantities by governments and institutions as part of their [foreign exchange reserves](../f/foreign_exchange_reserves.md). According to the International Monetary [Fund](../f/fund.md) (IMF), approximately 60% of global [foreign exchange reserves](../f/foreign_exchange_reserves.md) are denominated in USD. For more detailed information on USD and its role in global economies, you may refer to the official U.S. Department of Treasury website: [U.S. Department of Treasury](https://home.treasury.gov/).
+The USD is perhaps the most widespread hard [currency](../c/currency.md). It serves as the world's primary [reserve currency](../r/reserve_currency.md), meaning that it is held in significant quantities by governments and institutions as part of their [foreign exchange reserves](../f/foreign_exchange_reserves.md). According to the International Monetary [Fund](../f/fund.md) (IMF), approximately 60% of global [foreign exchange reserves](../f/foreign_exchange_reserves.md) are denominated in USD. For more detailed information on USD and its role in global economies, you may refer to the official U.S. Department of Treasury online platform: U.S. Department of Treasury.
 
 ### Euro (EUR)
 
-The [Euro](../e/euro.md) is another prominent hard [currency](../c/currency.md), used by 19 of the 27 [European Union](../e/european_union_(eu).md) (EU) member countries. It is the second most widely held [reserve currency](../r/reserve_currency.md) in the world. The [Euro](../e/euro.md)'s strength is largely attributable to the collective economic power of the [Eurozone](../e/eurozone.md) member states. For further details on the [Euro](../e/euro.md), the European Central [Bank](../b/bank.md) provides comprehensive resources: [European Central Bank](https://www.ecb.europa.eu/).
+The [Euro](../e/euro.md) is another prominent hard [currency](../c/currency.md), used by 19 of the 27 [European Union](../e/european_union_(eu).md) (EU) member countries. It is the second most widely held [reserve currency](../r/reserve_currency.md) in the world. The [Euro](../e/euro.md)'s strength is largely attributable to the collective economic power of the [Eurozone](../e/eurozone.md) member states. For further details on the [Euro](../e/euro.md), the European Central [Bank](../b/bank.md) provides comprehensive resources: European Central Bank.
 
 ### British Pound Sterling (GBP)
 
-The British Pound Sterling has been considered a hard [currency](../c/currency.md) for centuries. The UK’s strong economic and political institutions have played a significant role in maintaining the [currency](../c/currency.md)'s stability over time. The official website for more in-depth information is [Bank of England](https://www.bankofengland.co.uk/).
+The British Pound Sterling has been considered a hard [currency](../c/currency.md) for centuries. The UK’s strong economic and political institutions have played a significant role in maintaining the [currency](../c/currency.md)'s stability over time. The public materials for more in-depth information is Bank of England.
 
 ### Swiss Franc (CHF)
 
-The Swiss Franc is known for being a stable [currency](../c/currency.md), partly due to Switzerland's strong [economy](../e/economy.md) and [neutral](../n/neutral.md) political stance. It is frequently used as a "safe-haven" [currency](../c/currency.md) during times of geopolitical instability or financial [market](../m/market.md) turbulence. You can find more information on the Swiss [National Bank](../n/national_bank.md)’s website: [Swiss National Bank](https://www.snb.ch/en/).
+The Swiss Franc is known for being a stable [currency](../c/currency.md), partly due to Switzerland's strong [economy](../e/economy.md) and [neutral](../n/neutral.md) political stance. It is frequently used as a "safe-haven" [currency](../c/currency.md) during times of geopolitical instability or financial [market](../m/market.md) turbulence. You can find more information on the Swiss [National Bank](../n/national_bank.md)’s online platform: Swiss National Bank.
 
 ### Japanese Yen (JPY)
 
-The Japanese Yen is one of the most traded currencies in the world, largely due to Japan's significant role in the global [economy](../e/economy.md). The country's low [inflation](../i/inflation.md) and sound fiscal policies ensure that the Yen remains a reliable [store of value](../s/store_of_value.md). For detailed information, visit the [Bank](../b/bank.md) of Japan website: [Bank of Japan](https://www.boj.or.jp/en/).
+The Japanese Yen is one of the most traded currencies in the world, largely due to Japan's significant role in the global [economy](../e/economy.md). The country's low [inflation](../i/inflation.md) and sound fiscal policies ensure that the Yen remains a reliable [store of value](../s/store_of_value.md). For detailed information, visit the [Bank](../b/bank.md) of Japan online platform: Bank of Japan.
 
 ## Importance of Hard Currencies in Global Trade
 

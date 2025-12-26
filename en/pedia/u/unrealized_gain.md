@@ -89,16 +89,16 @@ An [early adopter](../e/early_adopter.md) buys [Bitcoin](../b/bitcoin.md) at $1,
 
 ## Technologies and Tools for Managing Unrealized Gains
 
-In the era of fintech and [algorithmic trading](../a/accountability.md), various tools and software can help manage and monitor [unrealized gains](../u/unrealized_gains.md):
+In the era of fintech and [algorithmic trading](../a/algorithmic_trading.md), various tools and software can help manage and monitor [unrealized gains](../u/unrealized_gains.md):
 
 - **[Portfolio Management](../p/par.md) Software**: Tools like [Bloomberg Terminal](../b/bloomberg_terminal.md) or [Reuters](../r/reuters.md) Eikon provide real-time tracking of [asset](../a/asset.md) values.
 - **Tax [Optimization](../o/optimization.md) Software**: Programs such as TurboTax and H&R Block [offer](../o/offer.md) features for managing and planning around [unrealized gains](../u/unrealized_gains.md).
-- **[Algorithmic Trading](../a/accountability.md) Bots**: Use advanced algorithms to make buying and selling decisions based on [market](../m/market.md) conditions, optimizing the realization of gains.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Bots**: Use advanced algorithms to make buying and selling decisions based on [market](../m/market.md) conditions, optimizing the realization of gains.
 - **Investment Apps**: Applications like [Robinhood](../r/robinhood.md) and [E*TRADE](../e/e_trade.md) provide user-friendly interfaces to track investments and manage [unrealized gains](../u/unrealized_gains.md).
 
 ### Example: Wealthfront
 
-[Wealthfront](https://www.wealthfront.com/) offers automated [investing](../i/investing.md) solutions that include tax-loss harvesting and other strategies to optimize tax liabilities, including those related to [unrealized gains](../u/unrealized_gains.md).
+Wealthfront offers automated [investing](../i/investing.md) solutions that include tax-loss harvesting and other strategies to optimize tax liabilities, including those related to [unrealized gains](../u/unrealized_gains.md).
 
 ## Conclusion
 

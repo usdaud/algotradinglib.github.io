@@ -78,12 +78,12 @@ Ensemble methods combine the predictions of [multiple](../m/multiple.md) models 
 
 Several companies and platforms [offer](../o/offer.md) tools and services to help traders with curve fitting and [algorithmic trading](../a/algorithmic_trading.md). For instance:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md).
 - **Quantopian**: Although now closed, Quantopian was another popular platform that offered similar services.
-- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides tools for [quantitative trading](../q/quantitative_trading.md) and allows traders to use [machine learning](../m/machine_learning.md) techniques to develop and backtest strategies.
+- **[AlgoTrader](../a/algotrader.md)**: AlgoTrader provides tools for [quantitative trading](../q/quantitative_trading.md) and allows traders to use [machine learning](../m/machine_learning.md) techniques to develop and backtest strategies.
 
 ## Conclusion
 
 Curve fitting is a crucial tool in the arsenal of algorithmic traders. When used correctly, it can significantly enhance the performance of [trading strategies](../t/trading_strategies.md). However, traders must be aware of the risks involved and follow [best practices](../b/best_practices.md) to avoid common pitfalls like [overfitting](../o/overfitting.md). By using techniques such as cross-validation, [out-of-sample testing](../o/out-of-sample_testing.md), and regularization, traders can create more [robust](../r/robust.md) and reliable [trading strategies](../t/trading_strategies.md).
 
-The balance between fitting a model to historical data and ensuring it generalizes well to future data is delicate but achievable. With appropriate caution and methodologies, curve fitting can be a powerful ally in the quest for successful [algorithmic trading](../a/algorithmic_trading.md).
+The balance between fitting a model to historical data and ensuring it generalizes well to future data is delicate but achievable. With appropriate caution and methodologies, curve fitting can be a powerful ally in the quest for successful [algorithmic trading](../a/algorithmic_trading.md).

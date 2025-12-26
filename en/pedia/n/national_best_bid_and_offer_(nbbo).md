@@ -29,14 +29,14 @@ The NBBO is mandated under the Regulation National [Market](../m/market.md) Syst
 ## Financial Technology and NBBO
 Financial technology (FinTech) firms often develop platforms that integrate the NBBO to [offer](../o/offer.md) innovative trading solutions. These platforms utilize [real-time market data](../r/real-time_market_data.md) to provide users with the best trading prices. Some of the notable FinTech companies focusing on NBBO integration include:
 
-- [Robinhood](https://robinhood.com/)
-- [E*TRADE](https://us.etrade.com/home)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- Robinhood
+- E*TRADE
+- Interactive Brokers
 
 These platforms [offer](../o/offer.md) user-friendly interfaces and advanced analytics tools, ensuring that investors can take full advantage of the NBBO.
 
 ## Algorithmic Trading Strategies Leveraging NBBO
-[Algorithmic trading](../a/accountability.md) systems rely heavily on the NBBO for developing various [trading strategies](../t/trading_strategies.md). Here are a few strategies that utilize the NBBO:
+[Algorithmic trading](../a/algorithmic_trading.md) systems rely heavily on the NBBO for developing various [trading strategies](../t/trading_strategies.md). Here are a few strategies that utilize the NBBO:
 
 1. **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between two or more markets.
 2. **[Scalping](../s/scalping.md)**: Making numerous trades to capture small price changes.

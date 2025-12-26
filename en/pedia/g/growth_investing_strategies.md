@@ -83,17 +83,15 @@ Continual monitoring and [rebalancing](../r/rebalancing.md) are crucial. Key ste
 
 Keeping abreast of [market](../m/market.md) news and trends is crucial. Resources include:
 
-- **[Bloomberg](../b/bloomberg.md)** [www.bloomberg.com](https://www.bloomberg.com)
-- **[Yahoo Finance](../y/yahoo_finance.md)** [finance.yahoo.com](https://finance.yahoo.com)
-- **[Reuters](../r/reuters.md)** [www.reuters.com](https://www.reuters.com)
-
+- **[Bloomberg](../b/bloomberg.md)** - **[Yahoo Finance](../y/yahoo_finance.md)** finance.yahoo.com
+- **[Reuters](../r/reuters.md)**
 ### Analytical Tools
 
 Various tools and platforms can help in analyzing and managing growth investments:
 
-- **[Morningstar](../m/morningstar.md)** [www.morningstar.com](https://www.morningstar.com) - Provides detailed analysis and reports.
-- **Seeking [Alpha](../a/alpha.md)** [www.seekingalpha.com](https://www.seekingalpha.com) - Offers [stock analysis](../s/stock_analysis.md) and [market](../m/market.md) insights.
-- **[FactSet](../f/factset.md)** [www.factset.com](https://www.factset.com) - Delivers comprehensive data and analytics.
+- **[Morningstar](../m/morningstar.md)** - Provides detailed analysis and reports.
+- **Seeking [Alpha](../a/alpha.md)** - Offers [stock analysis](../s/stock_analysis.md) and [market](../m/market.md) insights.
+- **[FactSet](../f/factset.md)** - Delivers comprehensive data and analytics.
 
 ## Notable Growth Investors and Their Strategies
 

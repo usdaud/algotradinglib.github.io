@@ -47,9 +47,9 @@ The distressed securities [market](../m/market.md) is influenced by various macr
 ### Major Players and Examples
 Many [hedge](../h/hedge.md) funds, [private equity](../p/private_equity.md) firms, and specialized investment funds participate in the distressed securities [market](../m/market.md). Some prominent names in this space include:
 
-- **Oaktree [Capital](../c/capital.md) Management:** A global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its focus on distressed [debt](../d/debt.md). [Oaktree Capital Management](https://www.oaktreecapital.com/)
-- **Apollo Global Management:** An [alternative investment](../a/alternative_investment.md) manager with expertise in distressed [debt](../d/debt.md) and [equity](../e/equity.md). [Apollo Global Management](https://www.apollo.com/)
-- **Elliott Management [Corporation](../c/corporation.md):** A [hedge fund](../h/hedge_fund.md) that often engages in activist [investing](../i/investing.md) and distressed securities. [Elliott Management Corporation](https://www.elliottmgmt.com/)
+- **Oaktree [Capital](../c/capital.md) Management:** A global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its focus on distressed [debt](../d/debt.md). Oaktree Capital Management
+- **Apollo Global Management:** An [alternative investment](../a/alternative_investment.md) manager with expertise in distressed [debt](../d/debt.md) and [equity](../e/equity.md). Apollo Global Management
+- **Elliott Management [Corporation](../c/corporation.md):** A [hedge fund](../h/hedge_fund.md) that often engages in activist [investing](../i/investing.md) and distressed securities. Elliott Management Corporation
 
 ### Case Studies and Historical Examples
 Some notable case studies and historical examples of distressed securities [investing](../i/investing.md) include:

@@ -43,9 +43,9 @@ The petroleum [industry](../i/industry.md) is a major contributor to the global 
 
 One of the most straightforward ways to invest in petroleum is by purchasing [shares](../s/shares.md) of oil companies. These companies can be involved in various segments of the [industry](../i/industry.md), including exploration, production, refining, and [distribution](../d/distribution.md). Here are some major players in the oil sector:
 
-1. **ExxonMobil (NYSE: XOM):** One of the largest publicly traded oil companies in the world, with operations spanning [upstream](../u/upstream.md), [downstream](../d/downstream.md), and chemical segments. [ExxonMobil](https://corporate.exxonmobil.com/)
-2. **Chevron (NYSE: CVX):** Another leading integrated energy company involved in virtually every aspect of the oil and natural gas [industry](../i/industry.md). [Chevron](https://www.chevron.com/)
-3. **BP (NYSE: BP):** A global energy company with a diverse portfolio, including significant renewable energy investments. [BP](https://www.bp.com/)
+1. **ExxonMobil (NYSE: XOM):** One of the largest publicly traded oil companies in the world, with operations spanning [upstream](../u/upstream.md), [downstream](../d/downstream.md), and chemical segments. ExxonMobil
+2. **Chevron (NYSE: CVX):** Another leading integrated energy company involved in virtually every aspect of the oil and natural gas [industry](../i/industry.md). Chevron
+3. **BP (NYSE: BP):** A global energy company with a diverse portfolio, including significant renewable energy investments. BP
 
 ### Exchange-Traded Funds (ETFs)
 

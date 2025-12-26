@@ -14,11 +14,11 @@ In a Bear Put Spread, you choose two different strike prices. The [put option](.
 Both [put options](../p/put_options.md) must have the same [expiration date](../e/expiration_date.md) to form a proper spread.
 
 ### Cost and Premium Collection
-The net cost of setting up a Bear Put Spread is the difference between the [premium](../p/premium.md) paid for the bought [put option](../p/put.md) and the [premium](../p/premium.md) received from the sold [put option](../p/put.md). 
+The net cost of setting up a Bear Put Spread is the difference between the [premium](../p/premium.md) paid for the bought [put option](../p/put.md) and the [premium](../p/premium.md) received from the sold [put option](../p/put.md).
 
 ## Example
 
-Let's illustrate with a simple example. Suppose the [underlying asset](../u/underlying_asset.md) is trading at $100. 
+Let's illustrate with a simple example. Suppose the [underlying asset](../u/underlying_asset.md) is trading at $100.
 
 1. You buy a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $105, which costs $5.
 2. You sell a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $95, which earns you a [premium](../p/premium.md) of $2.
@@ -92,4 +92,4 @@ Have predefined exit strategies, whether based on [underlying asset](../u/underl
 
 A Bear Put Spread is a relatively conservative [options](../o/options.md) [trading strategy](../t/trading_strategy.md) that investors use to [capitalize](../c/capitalize.md) on a moderately bearish outlook on the [underlying asset](../u/underlying_asset.md). It is ideal for traders who aim to limit [risk](../r/risk.md) but still want to take advantage of a potential decline in an [asset](../a/asset.md)’s price. The strategy requires detailed planning and a good understanding of [options](../o/options.md) dynamics, but it offers a balanced mix of [risk](../r/risk.md) and reward.
 
-For more information and detailed examples, you can visit [Interactive Brokers LLC](https://www.interactivebrokers.com/en/index.php?f=13244), which offers comprehensive tutorials and real-time [trading strategies](../t/trading_strategies.md) related to Bear Put [Spreads](../s/spreads.md) and other [options trading strategies](../o/options_trading_strategies.md).
+For more information and detailed examples, you can visit Interactive Brokers LLC, which offers comprehensive tutorials and real-time [trading strategies](../t/trading_strategies.md) related to Bear Put [Spreads](../s/spreads.md) and other [options trading strategies](../o/options_trading_strategies.md).

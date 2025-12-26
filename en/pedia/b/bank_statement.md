@@ -53,7 +53,7 @@ Banks [offer](../o/offer.md) both digital and paper statements, each with its ad
 - **Accessibility**: Available online via internet banking portals and mobile apps.
 - **Environmental Impact**: Eliminates paper waste.
 - **Storage**: Easily stored and organized digitally.
-  
+
 ### Paper Statements
 - **Tangible Records**: Some people prefer physical copies for record-keeping.
 - **Accessibility**: No need for internet access to view historical statements.

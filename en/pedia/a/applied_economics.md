@@ -47,7 +47,7 @@ Governments across the world employ applied economists to craft and evaluate pol
 Organizations like the [World Bank](../w/world_bank.md), International Monetary [Fund](../f/fund.md) (IMF), and United Nations (UN) use applied [economics](../e/economics.md) to address global issues. These entities develop programs to promote economic development, reduce [poverty](../p/poverty.md), and stabilize economies. Applied [economics](../e/economics.md) plays a pivotal role in shaping international aid and [trade](../t/trade.md) policies.
 
 ### Private Sector
-In the [private sector](../p/private_sector.md), firms use applied [economics](../e/economics.md) for strategic planning, [market](../m/market.md) analysis, and [risk management](../r/risk_management.md). For instance, companies may employ economists to forecast [demand](../d/demand.md), optimize pricing strategies, and evaluate the economic impact of regulatory changes on their operations. Firms like McKinsey & Company https://www.mckinsey.com/ and Boston Consulting Group https://www.bcg.com/ frequently [offer](../o/offer.md) economic consulting services to businesses.
+In the [private sector](../p/private_sector.md), firms use applied [economics](../e/economics.md) for strategic planning, [market](../m/market.md) analysis, and [risk management](../r/risk_management.md). For instance, companies may employ economists to forecast [demand](../d/demand.md), optimize pricing strategies, and evaluate the economic impact of regulatory changes on their operations. Firms like McKinsey & Company and Boston Consulting Group frequently [offer](../o/offer.md) economic consulting services to businesses.
 
 ## Challenges in Applied Economics
 

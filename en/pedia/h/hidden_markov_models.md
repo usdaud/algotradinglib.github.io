@@ -13,11 +13,11 @@ The states in an HMM represent different regimes or [underlying](../u/underlying
 Observations are the visible outputs dependent on the hidden states. These could be [asset](../a/asset.md) prices, trading volumes, or other financial indicators.
 
 ### Transition Probabilities
-These probabilities govern the likelihood of transitioning from one state to another. Mathematically, if the states are denoted as \( S = \{s_1, s_2, ..., s_N\} \), the transition probability matrix \( A \) is given by:
+These probabilities govern the likelihood of transitioning from one state to another. Mathematically, if the states are denoted as \( S = \{s_1, s_2,..., s_N\} \), the transition probability matrix \( A \) is given by:
 \[ A = \{a_{ij}\} \quad \text{where} \quad a_{ij} = P(Q_{t+1} = s_j | Q_t = s_i) \]
 
 ### Emission Probabilities
-Emission probabilities are the probabilities of an observation being generated from a particular state. If \( V = \{v_1, v_2, ..., v_M\} \) are possible observations, the emission probability matrix \( B \) is given by:
+Emission probabilities are the probabilities of an observation being generated from a particular state. If \( V = \{v_1, v_2,..., v_M\} \) are possible observations, the emission probability matrix \( B \) is given by:
 \[ B = \{b_j(k)\} \quad \text{where} \quad b_j(k) = P(O_t = v_k | Q_t = s_j) \]
 
 ### Initial State Probabilities
@@ -62,15 +62,15 @@ The trained and validated HMM can then be integrated into a trading system. This
 ### Continuous Monitoring and Recalibration
 Markets are dynamic, and the model’s parameters may need adjustment over time. Continuous monitoring and periodic recalibration ensure the model remains effective under changing [market](../m/market.md) conditions.
 
-## Companies Utilizing HMMs 
+## Companies Utilizing HMMs
 
 Several companies in the financial technology space [leverage](../l/leverage.md) HMMs for [predictive modeling](../p/predictive_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) utilizing sophisticated mathematical techniques and models, including HMMs, for trading and [risk management](../r/risk_management.md). [Jane Street](https://www.janestreet.com/)
-   
-2. **Two Sigma**: A company that applies HMMs and other [machine learning](../m/machine_learning.md) models to make data-driven investment decisions. [Two Sigma](https://www.twosigma.com/)
+1. **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) utilizing sophisticated mathematical techniques and models, including HMMs, for trading and [risk management](../r/risk_management.md). Jane Street
 
-3. **Hudson River Trading**: This [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) employs HMMs among other statistical models to develop and refine its [trading strategies](../t/trading_strategies.md). [Hudson River Trading](https://www.hudsonrivertrading.com/)
+2. **Two Sigma**: A company that applies HMMs and other [machine learning](../m/machine_learning.md) models to make data-driven investment decisions. Two Sigma
+
+3. **Hudson River Trading**: This [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) employs HMMs among other statistical models to develop and refine its [trading strategies](../t/trading_strategies.md). Hudson River Trading
 
 ## Conclusion
 

@@ -66,12 +66,11 @@ High-frequency trading (HFT) is integral to the Twist Strategy due to its relian
 ## Leading Companies and Platforms
 Several companies and platforms specialize in providing the technological [infrastructure](../i/infrastructure.md) and tools necessary for implementing the Twist Strategy. Notable among them are:
 
-- **[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/)**: A cloud-based platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) solutions, data analysis, and strategy development.
-- **Quantopian (https://www.quantopian.com/)**: An [open](../o/open.md) platform that provides data, research tools, and assembly of algorithms for [backtesting](../b/backtesting.md) and live trading.
-- **[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software provider that offers end-to-end solutions for developing and executing [trading strategies](../t/trading_strategies.md).
-- **Numerai (https://numer.ai/)**: An AI-based [hedge fund](../h/hedge_fund.md) that crowdsources [machine learning](../m/machine_learning.md) models for trading predictions.
-- **[TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/)**: A [broker-dealer](../b/broker-dealer.md) and [futures](../f/futures.md) [commission](../c/commission.md) merchant that provides electronic [order](../o/order.md) [execution](../e/execution.md) and [market](../m/market.md) data services.
+- **[QuantConnect](../q/quantconnect.md) ( A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) solutions, data analysis, and strategy development.
+- **Quantopian ( An [open](../o/open.md) platform that provides data, research tools, and assembly of algorithms for [backtesting](../b/backtesting.md) and live trading.
+- **[AlgoTrader](../a/algotrader.md) ( A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software provider that offers end-to-end solutions for developing and executing [trading strategies](../t/trading_strategies.md).
+- **Numerai ( An AI-based [hedge fund](../h/hedge_fund.md) that crowdsources [machine learning](../m/machine_learning.md) models for trading predictions.
+- **[TradeStation](../t/tradestation.md) ( A [broker-dealer](../b/broker-dealer.md) and [futures](../f/futures.md) [commission](../c/commission.md) merchant that provides electronic [order](../o/order.md) [execution](../e/execution.md) and [market](../m/market.md) data services.
 
 ## Conclusion
 The Twist Strategy is a sophisticated, multifaceted approach to [algorithmic trading](../a/algorithmic_trading.md) that aims to exploit [market](../m/market.md) inefficiencies through the integration of statistical models, [machine learning](../m/machine_learning.md), [market microstructure](../m/market_microstructure.md) insights, [sentiment analysis](../s/sentiment_analysis.md), and advanced [risk management](../r/risk_management.md). By leveraging cutting-edge technology and innovative trading techniques, traders can maximize their potential for profitability while managing risks effectively.
-

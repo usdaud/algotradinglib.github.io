@@ -71,11 +71,11 @@ The 2008 [financial crisis](../f/financial_crisis.md) highlighted the importance
 
 ### Algorithmic Trading
 
-Modern [finance](../f/finance.md) increasingly relies on [algorithmic trading](../a/accountability.md) and [data analytics](../d/data_analytics.md) to determine haircuts. Advanced models use real-time data and [machine learning](../m/machine_learning.md) to assess [asset](../a/asset.md) [risk profiles](../r/risk_profiles.md) and [market](../m/market.md) conditions, providing dynamic haircut calculations.
+Modern [finance](../f/finance.md) increasingly relies on [algorithmic trading](../a/algorithmic_trading.md) and [data analytics](../d/data_analytics.md) to determine haircuts. Advanced models use real-time data and [machine learning](../m/machine_learning.md) to assess [asset](../a/asset.md) [risk profiles](../r/risk_profiles.md) and [market](../m/market.md) conditions, providing dynamic haircut calculations.
 
 ### Risk Management Systems
 
-Sophisticated [risk management systems](../r/risk_management_systems.md), such as those offered by companies like BlackRock (https://www.blackrock.com) and MSCI (https://www.msci.com), incorporate haircut analytics into their broader portfolio and [risk management](../r/risk_management.md) solutions. These systems help institutions monitor [asset](../a/asset.md) values, [market](../m/market.md) conditions, and potential risks, enabling more precise haircut determinations.
+Sophisticated [risk management systems](../r/risk_management_systems.md), such as those offered by companies like BlackRock ( and MSCI ( incorporate haircut analytics into their broader portfolio and [risk management](../r/risk_management.md) solutions. These systems help institutions monitor [asset](../a/asset.md) values, [market](../m/market.md) conditions, and potential risks, enabling more precise haircut determinations.
 
 By integrating real-time data and [predictive analytics](../p/predictive_analytics.md), these platforms enhance the accuracy and responsiveness of haircut calculations, providing a more [robust](../r/robust.md) defense against [market](../m/market.md) fluctuations and financial instability.
 

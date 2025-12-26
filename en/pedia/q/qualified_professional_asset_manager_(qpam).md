@@ -13,8 +13,8 @@ To address this [issue](../i/issue.md), the U.S. Department of Labor (DOL) issue
 To qualify as a QPAM, [asset](../a/asset.md) managers must meet specific criteria set forth by the DOL. These criteria include:
 
 1. **Size and Experience Requirements**: The [asset](../a/asset.md) manager must have significant assets under management and a [robust](../r/robust.md) track record. Specifically, to qualify, an [asset](../a/asset.md) manager must:
-   - Manage at least $85 million in assets.
-   - Maintain at least $1 million in shareholders' or partners' [equity](../e/equity.md).
+ - Manage at least $85 million in assets.
+ - Maintain at least $1 million in shareholders' or partners' [equity](../e/equity.md).
 2. **Independence**: The QPAM must be independent of the plan sponsor to avoid conflicts of [interest](../i/interest.md).
 3. **Registration**: The entity must be registered under applicable securities laws, such as being a registered [investment advisor](../i/investment_advisor.md) under the [Investment Advisers Act of 1940](../i/investment_advisers_act_of_1940.md).
 4. **Professionalism and Expertise**: The entity must have substantial experience and expertise in [asset management](../a/asset_management.md) to ensure they can act in the best interests of the plans they manage.
@@ -60,9 +60,9 @@ The landscape of regulations governing QPAMs is subject to change, with the DOL 
 
 Several notable [asset management](../a/asset_management.md) firms have obtained QPAM designation, showcasing their ability to manage ERISA assets effectively. Examples include:
 
-1. **BlackRock**: BlackRock is one of the world’s largest [asset](../a/asset.md) managers and serves as a QPAM for numerous ERISA-regulated retirement plans. More information can be found on their website: [BlackRock](https://www.blackrock.com)
-2. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers a wide [range](../r/range.md) of [investment management](../i/investment_management.md) services and has QPAM status to manage ERISA assets for corporate clients. Further details are available on their website: [Fidelity](https://www.fidelity.com)
-3. **T. Rowe Price**: T. Rowe Price provides investment solutions across various [asset](../a/asset.md) classes and serves as a QPAM for institutional clients, including retirement plans. More information can be accessed via their website: [T. Rowe Price](https://www.troweprice.com)
+1. **BlackRock**: BlackRock is one of the world’s largest [asset](../a/asset.md) managers and serves as a QPAM for numerous ERISA-regulated retirement plans. BlackRock
+2. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers a wide [range](../r/range.md) of [investment management](../i/investment_management.md) services and has QPAM status to manage ERISA assets for corporate clients.
+3. **T. Rowe Price**: T. Rowe Price provides investment solutions across various [asset](../a/asset.md) classes and serves as a QPAM for institutional clients, including retirement plans. Rowe Price
 
 ## Conclusion
 

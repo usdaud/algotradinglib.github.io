@@ -103,4 +103,3 @@ print(fit.summary())
 ### Conclusion
 
 GARCH models have become a fundamental tool in the analysis of [financial time series](../f/financial_time_series.md), providing valuable insights into the dynamics of [volatility](../v/volatility.md). Their flexibility and ability to capture [volatility clustering](../v/volatility_clustering.md) make them indispensable in various applications, from [risk management](../r/risk_management.md) to [algorithmic trading](../a/algorithmic_trading.md). As [financial markets](../f/financial_market.md) continue to evolve, GARCH models [will](../w/will.md) remain a critical component of econometric analysis, helping practitioners navigate the complexities of financial [volatility](../v/volatility.md).
-

@@ -82,16 +82,16 @@ Advancements in technology and [data analytics](../d/data_analytics.md) have rev
 ## Leading Firms and Resources
 
 ### BlackRock
-BlackRock [website](https://www.blackrock.com) is one of the world's leading [investment management](../i/investment_management.md) firms, focusing heavily on [risk management](../r/risk_management.md) through its Aladdin platform, which provides [portfolio management](../p/portfolio_management.md), trading, and [risk analysis](../r/risk_analysis.md) tools.
+BlackRock online platform is one of the world's leading [investment management](../i/investment_management.md) firms, focusing heavily on [risk management](../r/risk_management.md) through its Aladdin platform, which provides [portfolio management](../p/portfolio_management.md), trading, and [risk analysis](../r/risk_analysis.md) tools.
 
 ### MSCI
-MSCI [website](https://www.msci.com) offers tools and services for managing [risk](../r/risk.md) and performance in investment portfolios. MSCI’s [risk management](../r/risk_management.md) solutions include [factor models](../f/factor_models.md), [stress testing](../s/stress_testing_in_trading.md), and ESG analytics.
+MSCI online platform offers tools and services for managing [risk](../r/risk.md) and performance in investment portfolios. MSCI’s [risk management](../r/risk_management.md) solutions include [factor models](../f/factor_models.md), [stress testing](../s/stress_testing_in_trading.md), and ESG analytics.
 
 ### Risk Management Association (RMA)
-RMA [website](https://www.rmahq.org) is a not-for-[profit](../p/profit.md), member-driven professional association that offers research, education, and [industry](../i/industry.md) [best practices](../b/best_practices.md) for [risk management](../r/risk_management.md) in financial institutions.
+RMA online platform is a not-for-[profit](../p/profit.md), member-driven professional association that offers research, education, and [industry](../i/industry.md) [best practices](../b/best_practices.md) for [risk management](../r/risk_management.md) in financial institutions.
 
 ### Global Association of Risk Professionals (GARP)
-GARP [website](https://www.garp.org) provides education and certification for [risk](../r/risk.md) professionals, [offering](../o/offering.md) programs such as the [Financial Risk](../f/financial_risk.md) Manager (FRM) certification, which focuses on current [risk management](../r/risk_management.md) practices and strategies.
+GARP online platform provides education and certification for [risk](../r/risk.md) professionals, [offering](../o/offering.md) programs such as the [Financial Risk](../f/financial_risk.md) Manager (FRM) certification, which focuses on current [risk management](../r/risk_management.md) practices and strategies.
 
 ## Conclusion
 Investment [Risk Management](../r/risk_management.md) is an essential discipline within [finance](../f/finance.md), aiming to protect investments from potential losses while optimizing returns. Through a combination of [risk](../r/risk.md) types assessment, diverse strategies, advanced tools, and continuous education, investors and firms can navigate the complexities of [financial markets](../f/financial_market.md) and achieve their investment goals. As the financial landscape evolves, embracing technological innovations and regulatory developments [will](../w/will.md) be crucial for effective [risk management](../r/risk_management.md).

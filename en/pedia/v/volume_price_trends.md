@@ -38,18 +38,18 @@ Where:
 Several trading platforms and tools support VPT integration:
 - **MetaTrader**: Popular for retail traders, it supports custom indicators, including VPT, through its programming languages, MQL4 and MQL5.
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and automated trading capabilities with support for custom indicators, including VPT.
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) engine that supports development in Python and C#, enabling sophisticated VPT strategies. [QuantConnect](https://www.quantconnect.com/)
-- **[TradeStation](../t/tradestation.md)**: Provides [robust](../r/robust.md) tools for developing, [backtesting](../b/backtesting.md), and deploying VPT-based [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) engine that supports development in Python and C#, enabling sophisticated VPT strategies. QuantConnect
+- **[TradeStation](../t/tradestation.md)**: Provides [robust](../r/robust.md) tools for developing, [backtesting](../b/backtesting.md), and deploying VPT-based [trading strategies](../t/trading_strategies.md). TradeStation
 
 ## Real-World Examples and Case Studies
 
 ### Hedge Funds and Proprietary Trading Firms
 Several [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms specialize in [algorithmic trading](../a/algorithmic_trading.md) and use VPT as part of their strategy portfolio:
 - **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance uses advanced [mathematical models](../m/mathematical_models_in_trading.md), potentially including [volume](../v/volume.md) and price [trend analysis](../t/trend_analysis.md), to achieve high returns.
-- **Two Sigma**: Another quantitative [hedge fund](../h/hedge_fund.md) that employs a variety of data-driven strategies, likely incorporating [volume](../v/volume.md)-based indicators like the VPT. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Another quantitative [hedge fund](../h/hedge_fund.md) that employs a variety of data-driven strategies, likely incorporating [volume](../v/volume.md)-based indicators like the VPT. Two Sigma
 
 ### Retail Traders
-Retail traders also take advantage of VPT through methodology shared on trading blogs and forums. [Automated trading bots](../a/automated_trading_bots.md), programmed using platforms like MetaTrader and [QuantConnect](../q/quantconnect.md), allow individual traders to exploit VPT without needing extensive financial or programming knowledge.
+Retail traders also take advantage of VPT through methodology shared on trading blogs and forums. [Automated trading bots](../a/automated_trading_bots.md), programmed using platforms like MetaTrader and [StockSharp](../s/stocksharp.md), allow individual traders to exploit VPT without needing extensive financial or programming knowledge.
 
 ## Advantages and Limitations of VPT
 

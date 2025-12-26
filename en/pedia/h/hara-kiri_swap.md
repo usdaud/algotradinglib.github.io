@@ -1,6 +1,6 @@
 # Hara-Kiri Swap
 
-Hara-Kiri [Swap](../s/swap.md) is a lesser-known term in [algorithmic trading](../a/accountability.md) that refers to a highly risky and volatile type of [swap](../s/swap.md) [transaction](../t/transaction.md). In the world of [financial engineering](../f/financial_engineering.md) and [quantitative trading](../q/quantitative_trading.md), Hara-Kiri Swaps can be considered as financial instruments that traders use to [hedge](../h/hedge.md) against extreme [market](../m/market.md) movements or to make speculative bets. The term "Hara-Kiri" refers to the Japanese ritual suicide by disembowelment, symbolizing the extreme nature of the risks involved. This [swap](../s/swap.md) typically loans at a very high [cost of capital](../c/cost_of_capital.md), often leading to significant potential losses.
+Hara-Kiri [Swap](../s/swap.md) is a lesser-known term in [algorithmic trading](../a/algorithmic_trading.md) that refers to a highly risky and volatile type of [swap](../s/swap.md) [transaction](../t/transaction.md). In the world of [financial engineering](../f/financial_engineering.md) and [quantitative trading](../q/quantitative_trading.md), Hara-Kiri Swaps can be considered as financial instruments that traders use to [hedge](../h/hedge.md) against extreme [market](../m/market.md) movements or to make speculative bets. The term "Hara-Kiri" refers to the Japanese ritual suicide by disembowelment, symbolizing the extreme nature of the risks involved. This [swap](../s/swap.md) typically loans at a very high [cost of capital](../c/cost_of_capital.md), often leading to significant potential losses.
 
 ## Key Characteristics
 
@@ -65,7 +65,7 @@ Trading in Hara-Kiri Swaps is subject to a legal framework that varies by jurisd
 
 - **Dodd-Frank Act (USA)**: Imposes stringent requirements on [swap](../s/swap.md) transactions, including mandatory [clearing](../c/clearing.md) for certain types of swaps.
 - **[MiFID II](../m/mifid_ii.md) (Europe)**: Requires documentation and reporting of over-the-counter (OTC) [derivatives](../d/derivatives.md), including Hara-Kiri Swaps.
-  
+
 ## Market Participants
 
 ### Hedge Funds
@@ -74,7 +74,7 @@ Trading in Hara-Kiri Swaps is subject to a legal framework that varies by jurisd
 
 ### Banks and Financial Institutions
 
-[Investment banks](../i/investment_bank_(ib).md) and other financial institutions often act as [market](../m/market.md) makers for Hara-Kiri Swaps. They facilitate the creation and trading of these swaps, earning fees and [spreads](../s/spreads.md) in the process. Notable institutions like Goldman Sachs (https://www.goldmansachs.com/) and JPMorgan Chase (https://www.jpmorganchase.com/) have dedicated trading desks that [handle](../h/handle.md) exotic [derivatives](../d/derivatives.md), including Hara-Kiri Swaps.
+[Investment banks](../i/investment_bank_(ib).md) and other financial institutions often act as [market](../m/market.md) makers for Hara-Kiri Swaps. They facilitate the creation and trading of these swaps, earning fees and [spreads](../s/spreads.md) in the process. Notable institutions like Goldman Sachs ( and JPMorgan Chase ( have dedicated trading desks that [handle](../h/handle.md) exotic [derivatives](../d/derivatives.md), including Hara-Kiri Swaps.
 
 ### Corporations
 

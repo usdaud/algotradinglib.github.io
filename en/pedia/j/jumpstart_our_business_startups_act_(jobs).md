@@ -1,4 +1,4 @@
-# Jumpstart Our Business Startups Act (JOBS) 
+# Jumpstart Our Business Startups Act (JOBS)
 
 The Jumpstart Our [Business](../b/business.md) Startups Act (JOBS Act) is a piece of U.S. legislation that was signed into law by President Barack Obama on April 5, 2012. The primary aim of the act is to encourage funding for small businesses by easing various securities regulations. The JOBS Act was meant to facilitate the growth of startups and small businesses by improving their access to [capital markets](../c/capital_markets.md). To understand its full implications, let’s delve into the core concepts, sections, and consequences of this significant legislative measure.
 
@@ -65,7 +65,6 @@ Several companies have successfully utilized the provisions of the JOBS Act to r
 1. **Elio Motors**: This [startup](../s/startup.md) raised nearly $17 million through [Regulation A](../r/regulation_a.md)+ to develop its three-wheeled car.
 2. **Goldbely**: The online food marketplace raised funds through [equity](../e/equity.md) [crowdfunding](../c/crowdfunding.md), showcasing how startups can [leverage](../l/leverage.md) new [capital](../c/capital.md)-raising avenues.
 
-For more information on companies that have navigated new regulations under the JOBS Act, you can visit the SEC’s official page on the subject: [SEC JOBS Act Information](https://www.sec.gov/page/jobs-act).
 
 ### Criticism and Concerns
 

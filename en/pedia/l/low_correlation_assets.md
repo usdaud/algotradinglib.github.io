@@ -67,11 +67,11 @@ Algorithmic traders can implement low [correlation](../c/correlation.md) [asset]
 
 Several financial firms and investment companies specialize in developing and managing portfolios with low [correlation](../c/correlation.md) assets. Some notable examples include:
 
-- **Bridgewater Associates**: A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its [risk parity](../r/risk_parity.md) and diversified [alpha](../a/alpha.md) strategies. [Bridgewater Associates](https://www.bridgewater.com/)
-  
-- **BlackRock**: One of the world's largest [asset](../a/asset.md) managers, [offering](../o/offering.md) a [range](../r/range.md) of diversified investment products, including those focused on alternative and low [correlation](../c/correlation.md) assets. [BlackRock](https://www.blackrock.com/)
-  
-- **AQR [Capital](../c/capital.md) Management**: This [firm](../f/firm.md) focuses on [quantitative investment strategies](../q/quantitative_investment_strategies.md), including those that exploit the benefits of low [correlation](../c/correlation.md) assets. [AQR Capital Management](https://www.aqr.com/)
+- **Bridgewater Associates**: A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its [risk parity](../r/risk_parity.md) and diversified [alpha](../a/alpha.md) strategies. Bridgewater Associates
+
+- **BlackRock**: One of the world's largest [asset](../a/asset.md) managers, [offering](../o/offering.md) a [range](../r/range.md) of diversified investment products, including those focused on alternative and low [correlation](../c/correlation.md) assets. BlackRock
+
+- **AQR [Capital](../c/capital.md) Management**: This [firm](../f/firm.md) focuses on [quantitative investment strategies](../q/quantitative_investment_strategies.md), including those that exploit the benefits of low [correlation](../c/correlation.md) assets. AQR Capital Management
 
 ### Challenges and Considerations
 
@@ -90,4 +90,3 @@ While low [correlation](../c/correlation.md) assets [offer](../o/offer.md) signi
 ### Conclusion
 
 Low [correlation](../c/correlation.md) assets are a cornerstone of effective [portfolio management](../p/portfolio_management.md) and [risk](../r/risk.md) [diversification](../d/diversification.md) in [algorithmic trading](../a/algorithmic_trading.md). By incorporating these assets, traders can create resilient portfolios that enhance returns while reducing overall [risk](../r/risk.md). Understanding the nature of [correlation](../c/correlation.md), leveraging statistical tools, and being mindful of the challenges involved are crucial for successfully integrating low [correlation](../c/correlation.md) assets into algotrading strategies.
-

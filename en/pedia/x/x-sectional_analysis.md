@@ -64,15 +64,12 @@ Regulatory constraints and [transaction costs](../t/transaction_costs.md), inclu
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management is renowned for its [quantitative strategies](../q/quantitative_strategies_in_trading.md) that heavily rely on cross-sectional analysis. The [firm](../f/firm.md)'s multi-[factor models](../f/factor_models.md) incorporate various cross-sectional metrics to identify investment opportunities across different [asset](../a/asset.md) classes. AQR’s research papers and investment products provide substantial insights into the practical application of these models.
-[Visit AQR Capital Management](https://www.aqr.com)
 
 ### Renaissance Technologies
 Renaissance Technologies, particularly its Medallion [Fund](../f/fund.md), is another excellent example of a [firm](../f/firm.md) excelling in [algorithmic trading](../a/algorithmic_trading.md) through cross-sectional analysis. By leveraging high-frequency data and sophisticated statistical methods, Renaissance has consistently delivered exceptional returns. Their success underscores the power of cross-sectional analysis in uncovering [short-term trading](../s/short-term_trading.md) opportunities.
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### BlackRock
 BlackRock's Aladdin platform utilizes advanced cross-sectional analysis to manage risks and construct portfolios. This comprehensive system integrates various data sources, applying [quantitative models](../q/quantitative_models.md) to analyze and predict the behavior of [stocks](../s/stock.md), bonds, and other securities. Aladdin’s capabilities highlight the significance of cross-sectional analysis in institutional [investment management](../i/investment_management.md).
-[Visit BlackRock](https://www.blackrock.com/aladdin)
 
 ## Future Trends
 

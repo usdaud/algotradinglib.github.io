@@ -13,16 +13,16 @@ A UTXO is a chunk of [digital currency](../d/digital_currency.md) that a user ca
 When a cryptocurrency [transaction](../t/transaction.md) occurs, the following steps generally take place:
 
 1. **Input Selection:**
-   To make a [transaction](../t/transaction.md), a user selects one or more UTXOs as inputs. These UTXOs collectively should be equal to or greater than the [transaction](../t/transaction.md) amount.
+ To make a [transaction](../t/transaction.md), a user selects one or more UTXOs as inputs. These UTXOs collectively should be equal to or greater than the [transaction](../t/transaction.md) amount.
 
 2. **[Transaction](../t/transaction.md) Composition:**
-   The [transaction](../t/transaction.md) includes these inputs and specifies one or more outputs, which are the destination addresses where the cryptocurrency [will](../w/will.md) be sent. Any difference between the input UTXOs and the output amounts is usually sent back to the sender as a new UTXO.
+ The [transaction](../t/transaction.md) includes these inputs and specifies one or more outputs, which are the destination addresses where the cryptocurrency [will](../w/will.md) be sent. Any difference between the input UTXOs and the output amounts is usually sent back to the sender as a new UTXO.
 
 3. **[Transaction Execution](../t/transaction_execution.md):**
-   The [transaction](../t/transaction.md) is broadcast to the [blockchain](../b/blockchain_in_trading.md) network, where miners or validators verify the [transaction](../t/transaction.md)'s validity. Once validated, the output UTXOs become spendable by the respective recipients.
+ The [transaction](../t/transaction.md) is broadcast to the [blockchain](../b/blockchain_in_trading.md) network, where miners or validators verify the [transaction](../t/transaction.md)'s validity. Once validated, the output UTXOs become spendable by the respective recipients.
 
 4. **UTXO Update:**
-   The original input UTXOs are marked as spent and are no longer valid. The new UTXOs, created as part of the [transaction](../t/transaction.md), are added to the [blockchain](../b/blockchain_in_trading.md), becoming available for future transactions.
+ The original input UTXOs are marked as spent and are no longer valid. The new UTXOs, created as part of the [transaction](../t/transaction.md), are added to the [blockchain](../b/blockchain_in_trading.md), becoming available for future transactions.
 
 ### Example of UTXO
 
@@ -69,7 +69,7 @@ While [Bitcoin](../b/bitcoin.md) is the most well-known UTXO-based cryptocurrenc
 
 ### Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), understanding UTXO is relevant for developing [trading strategies](../t/trading_strategies.md) that interact with [blockchain](../b/blockchain_in_trading.md) networks. Traders who employ algorithms to execute trades on cryptocurrency exchanges need to account for [transaction costs](../t/transaction_costs.md), speed, and privacy, all of which are influenced by the UTXO model.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding UTXO is relevant for developing [trading strategies](../t/trading_strategies.md) that interact with [blockchain](../b/blockchain_in_trading.md) networks. Traders who employ algorithms to execute trades on cryptocurrency exchanges need to account for [transaction costs](../t/transaction_costs.md), speed, and privacy, all of which are influenced by the UTXO model.
 
 ### Blockchain Analytics
 

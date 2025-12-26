@@ -54,15 +54,15 @@ Quantitative trading has far-reaching applications and has significantly impacte
 
 Several firms are at the forefront of quantitative trading, employing sophisticated models and technologies:
 
-1. **Renaissance Technologies**: Founded by Jim Simons, Renaissance Technologies is one of the most successful quant trading firms, known for its Medallion [Fund](../f/fund.md). The [firm](../f/firm.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in financial instruments. [Renaissance Technologies](https://www.rentec.com/)
+1. **Renaissance Technologies**: Founded by Jim Simons, Renaissance Technologies is one of the most successful quant trading firms, known for its Medallion [Fund](../f/fund.md). The [firm](../f/firm.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in financial instruments. Renaissance Technologies
 
-2. **Two Sigma**: This [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop quantitative [trading strategies](../t/trading_strategies.md). Two Sigma manages billions of dollars in assets and is known for its data-driven approach to trading. [Two Sigma](https://www.twosigma.com/)
+2. **Two Sigma**: This [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop quantitative [trading strategies](../t/trading_strategies.md). Two Sigma manages billions of dollars in assets and is known for its data-driven approach to trading. Two Sigma
 
-3. **Citadel LLC**: Founded by Ken Griffin, Citadel is a global financial institution with a [robust](../r/robust.md) quantitative trading arm. The [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) across various [asset](../a/asset.md) classes. [Citadel](https://www.citadel.com/)
+3. **Citadel LLC**: Founded by Ken Griffin, Citadel is a global financial institution with a [robust](../r/robust.md) quantitative trading arm. The [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) across various [asset](../a/asset.md) classes. Citadel
 
-4. **DE Shaw & Co.**: Known for its innovation in [quantitative strategies](../q/quantitative_strategies_in_trading.md), DE Shaw uses proprietary models to identify investment opportunities across global markets. The [firm](../f/firm.md) manages assets across [multiple](../m/multiple.md) strategies and [asset](../a/asset.md) classes. [DE Shaw & Co.](https://www.deshaw.com/)
+4. **DE Shaw & Co.**: Known for its innovation in [quantitative strategies](../q/quantitative_strategies_in_trading.md), DE Shaw uses proprietary models to identify investment opportunities across global markets. The [firm](../f/firm.md) manages assets across [multiple](../m/multiple.md) strategies and [asset](../a/asset.md) classes. DE Shaw & Co.
 
-5. **[Jump Trading](../j/jump_trading.md)**: Specializing in high-frequency trading, [Jump Trading](../j/jump_trading.md) uses advanced algorithms and low-latency systems to execute trades. The [firm](../f/firm.md) is known for its focus on technology and innovation. [Jump Trading](https://www.jumptrading.com/)
+5. **[Jump Trading](../j/jump_trading.md)**: Specializing in high-frequency trading, [Jump Trading](../j/jump_trading.md) uses advanced algorithms and low-latency systems to execute trades. The [firm](../f/firm.md) is known for its focus on technology and innovation. Jump Trading
 
 ### The Future of Quantitative Trading
 

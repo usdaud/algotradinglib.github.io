@@ -31,7 +31,7 @@ Weekly [options](../o/options.md) are short-term [options](../o/options.md) cont
 ## Popular Weekly Options Strategies
 
 ### 1. **Selling Weekly Puts**
-   
+
 - **Objective**: Benefit from [time decay](../t/time_decay.md) and price stability.
 - **Mechanism**: Sell out-of-the-[money](../m/money.md) (OTM) [put options](../p/put_options.md) on [stocks](../s/stock.md) you believe [will](../w/will.md) maintain or increase in [value](../v/value.md) by the end of the week.
 - **[Risk](../r/risk.md)**: If the stock price falls below the [strike price](../s/strike_price.md), you'll need to purchase the stock at the [strike price](../s/strike_price.md).
@@ -82,7 +82,7 @@ Successful [algorithmic trading](../a/algorithmic_trading.md) of weekly [options
 ### Real-World Applications
 
 1. **Institutional Trading Desks**: Many [hedge](../h/hedge.md) funds and financial institutions have incorporated weekly [options](../o/options.md) algorithms for speculative trading and hedging.
-2. **Automated Platforms**: Retail investors can also access automated trading platforms that [offer](../o/offer.md) weekly [options](../o/options.md) strategies, such as [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) [Thinkorswim](https://www.thinkorswim.com/).
+2. **Automated Platforms**: Retail investors can also access automated trading platforms that [offer](../o/offer.md) weekly [options](../o/options.md) strategies, such as [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) Thinkorswim.
 
 ## Conclusion
 

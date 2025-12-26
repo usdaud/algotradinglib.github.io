@@ -142,4 +142,4 @@ Payouts are a critical aspect of investment returns, providing [income](../i/inc
 
 For more information on payout strategies and tools, financial news platforms, and investment firms [offer](../o/offer.md) a [wealth](../w/wealth.md) of resources. Explore topics such as [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), fixed-[income](../i/income.md) investments, and advanced analysis techniques to further enhance your investment knowledge and decision-making.
 
-Visit well-known financial service providers like [J.P. Morgan](https://www.jpmorgan.com), [Goldman Sachs](https://www.goldmansachs.com), and educational resources like [Investopedia](https://www.investopedia.com) for additional insights and data.
+Visit well-known financial service providers like J.P. Morgan, Goldman Sachs, and educational resources like Investopedia for additional insights and data.

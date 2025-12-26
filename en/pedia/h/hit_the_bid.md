@@ -33,8 +33,8 @@ Day traders and scalpers frequently employ the strategy of hitting the [bid](../
 High-frequency trading firms [leverage](../l/leverage.md) advanced algorithms and high-speed data networks to execute large volumes of trades within microseconds. In the realm of HFT, hitting the [bid](../b/bid.md) can be part of sophisticated strategies designed to exploit minute price discrepancies and generate profits from fleeting pricing inefficiencies.
 
 Given the importance of speed in HFT, hitting the [bid](../b/bid.md) provides a mechanism to ensure rapid [trade](../t/trade.md) executions and maintain [competitive advantage](../c/competitive_advantage.md). Companies such as Citadel Securities and Virtu Financial are prominent players in the HFT space. More information about these companies can be found on their respective websites:
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Virtu Financial](https://www.virtu.com/)
+- Citadel Securities
+- Virtu Financial
 
 ### Managing Market Impact
 

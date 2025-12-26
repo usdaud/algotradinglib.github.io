@@ -17,54 +17,53 @@ In the context of [finance](../f/finance.md), tail risks can result from various
 ### Options and Derivatives
 
 1. **Out-of-the-[Money](../m/money.md) [Put Options](../p/put_options.md)**
-   - **Function:** These [options](../o/options.md) [offer](../o/offer.md) protection against significant declines in [asset](../a/asset.md) prices by providing the right to sell the [underlying asset](../u/underlying_asset.md) at a predetermined price.
-   - **Usage:** Investors can buy [put options](../p/put_options.md) that are significantly below the current [market price](../m/market_price.md) to [hedge](../h/hedge.md) against severe [market](../m/market.md) downturns.
+ - **Function:** These [options](../o/options.md) [offer](../o/offer.md) protection against significant declines in [asset](../a/asset.md) prices by providing the right to sell the [underlying asset](../u/underlying_asset.md) at a predetermined price.
+ - **Usage:** Investors can buy [put options](../p/put_options.md) that are significantly below the current [market price](../m/market_price.md) to [hedge](../h/hedge.md) against severe [market](../m/market.md) downturns.
 
 2. **Variance Swaps**
-   - **Function:** These are contracts that allow investors to [trade](../t/trade.md) future [realized volatility](../r/realized_volatility.md) against current implied [volatility](../v/volatility.md).
-   - **Usage:** By entering into [variance swap](../v/variance_swap.md) agreements, investors can [hedge](../h/hedge.md) against spikes in [market](../m/market.md) [volatility](../v/volatility.md), which often accompany [tail risk](../t/tail_risk.md) events.
+ - **Function:** These are contracts that allow investors to [trade](../t/trade.md) future [realized volatility](../r/realized_volatility.md) against current implied [volatility](../v/volatility.md).
+ - **Usage:** By entering into [variance swap](../v/variance_swap.md) agreements, investors can [hedge](../h/hedge.md) against spikes in [market](../m/market.md) [volatility](../v/volatility.md), which often accompany [tail risk](../t/tail_risk.md) events.
 
 3. **[Tail Risk](../t/tail_risk.md) Funds**
-   - **Example:** Universa Investments (https://universa.net/)
-   - **Function:** Specialized mutual or [hedge](../h/hedge.md) funds focus on [derivatives](../d/derivatives.md) and instruments specifically designed to protect against extreme [market](../m/market.md) events.
-   - **Usage:** Investors can allocate part of their portfolio to these funds for systematic [tail risk](../t/tail_risk.md) hedging.
+ - **Example:** Universa Investments - **Function:** Specialized mutual or [hedge](../h/hedge.md) funds focus on [derivatives](../d/derivatives.md) and instruments specifically designed to protect against extreme [market](../m/market.md) events.
+ - **Usage:** Investors can allocate part of their portfolio to these funds for systematic [tail risk](../t/tail_risk.md) hedging.
 
 ### Alternative Assets and Diversification
 
 1. **Gold and Precious Metals**
-   - **Function:** Historically, gold and other precious metals have been seen as safe-haven assets that retain or appreciate in [value](../v/value.md) during [market](../m/market.md) turmoil.
-   - **Usage:** Adding gold to a portfolio can provide a [hedge](../h/hedge.md) against severe economic downturns and inflationary tail risks.
+ - **Function:** Historically, gold and other precious metals have been seen as safe-haven assets that retain or appreciate in [value](../v/value.md) during [market](../m/market.md) turmoil.
+ - **Usage:** Adding gold to a portfolio can provide a [hedge](../h/hedge.md) against severe economic downturns and inflationary tail risks.
 
 2. **Cryptocurrencies**
-   - **Function:** Assets like [Bitcoin](../b/bitcoin.md) have shown properties of a [store of value](../s/store_of_value.md) and a [hedge](../h/hedge.md) against [currency](../c/currency.md) debasement.
-   - **Usage:** Some investors diversify into cryptocurrencies to guard against extreme scenarios affecting fiat currencies or traditional assets.
+ - **Function:** Assets like [Bitcoin](../b/bitcoin.md) have shown properties of a [store of value](../s/store_of_value.md) and a [hedge](../h/hedge.md) against [currency](../c/currency.md) debasement.
+ - **Usage:** Some investors diversify into cryptocurrencies to guard against extreme scenarios affecting fiat currencies or traditional assets.
 
 3. **Long-[Volatility](../v/volatility.md) Strategies**
-   - **Function:** These strategies involve holding positions that benefit from increased [market](../m/market.md) [volatility](../v/volatility.md).
-   - **Usage:** By going long on [volatility](../v/volatility.md) indices like the VIX or using instruments designed to [profit](../p/profit.md) from rising [volatility](../v/volatility.md), investors can counterbalance losses from traditional [asset](../a/asset.md) classes during tail events.
+ - **Function:** These strategies involve holding positions that benefit from increased [market](../m/market.md) [volatility](../v/volatility.md).
+ - **Usage:** By going long on [volatility](../v/volatility.md) indices like the VIX or using instruments designed to [profit](../p/profit.md) from rising [volatility](../v/volatility.md), investors can counterbalance losses from traditional [asset](../a/asset.md) classes during tail events.
 
 ## Implementing Tail Risk Hedging in Algorithmic Trading
 
 ### Algorithmic Tail Risk Models
 
 1. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**
-   - **Function:** Advanced [machine learning](../m/machine_learning.md) models can identify patterns and predict potential tail events by analyzing historical data and [market](../m/market.md) signals.
-   - **Usage:** Algorithms can dynamically adjust portfolio positions based on real-time data and [predictive analytics](../p/predictive_analytics.md) to [hedge](../h/hedge.md) against anticipated tail risks.
+ - **Function:** Advanced [machine learning](../m/machine_learning.md) models can identify patterns and predict potential tail events by analyzing historical data and [market](../m/market.md) signals.
+ - **Usage:** Algorithms can dynamically adjust portfolio positions based on real-time data and [predictive analytics](../p/predictive_analytics.md) to [hedge](../h/hedge.md) against anticipated tail risks.
 
 2. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**
-   - **Function:** Before implementing [tail risk](../t/tail_risk.md) [hedging strategies](../h/hedging_strategies.md), algorithms are rigorously backtested using historical [market](../m/market.md) data and Monte Carlo simulations.
-   - **Usage:** This helps in fine-tuning strategies and assessing their effectiveness under various [market](../m/market.md) conditions, including [tail risk](../t/tail_risk.md) scenarios.
+ - **Function:** Before implementing [tail risk](../t/tail_risk.md) [hedging strategies](../h/hedging_strategies.md), algorithms are rigorously backtested using historical [market](../m/market.md) data and Monte Carlo simulations.
+ - **Usage:** This helps in fine-tuning strategies and assessing their effectiveness under various [market](../m/market.md) conditions, including [tail risk](../t/tail_risk.md) scenarios.
 
 ### Risk Monitoring Systems
 
 1. **Real-Time [Risk](../r/risk.md) Assessment**
-   - **Example:** [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
-   - **Function:** [Robust](../r/robust.md) [risk management](../r/risk_management.md) systems provide real-time monitoring of [market](../m/market.md) conditions, portfolio positions, and potential tail risks.
-   - **Usage:** Integration of such systems with [algorithmic trading](../a/algorithmic_trading.md) platforms allows for continuous assessment and automated adjustments to [hedge](../h/hedge.md) positions.
+ - **Example:** [Bloomberg](../b/bloomberg.md) Terminal (
+ - **Function:** [Robust](../r/robust.md) [risk management](../r/risk_management.md) systems provide real-time monitoring of [market](../m/market.md) conditions, portfolio positions, and potential tail risks.
+ - **Usage:** Integration of such systems with [algorithmic trading](../a/algorithmic_trading.md) platforms allows for continuous assessment and automated adjustments to [hedge](../h/hedge.md) positions.
 
 2. **[Stress Testing](../s/stress_testing_in_trading.md)**
-   - **Function:** Regular [stress testing](../s/stress_testing_in_trading.md) of portfolios against extreme [market](../m/market.md) scenarios ensures preparedness for tail events.
-   - **Usage:** Algorithmic systems can periodically simulate tail events, assess the potential impact, and adjust [hedging strategies](../h/hedging_strategies.md) accordingly.
+ - **Function:** Regular [stress testing](../s/stress_testing_in_trading.md) of portfolios against extreme [market](../m/market.md) scenarios ensures preparedness for tail events.
+ - **Usage:** Algorithmic systems can periodically simulate tail events, assess the potential impact, and adjust [hedging strategies](../h/hedging_strategies.md) accordingly.
 
 ## Challenges and Considerations
 

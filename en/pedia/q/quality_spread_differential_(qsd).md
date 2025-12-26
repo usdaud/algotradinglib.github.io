@@ -120,6 +120,6 @@ Quality Spread Differential (QSD) remains a fundamental measure in [financial ma
 For those interested in diving deeper into the practical applications of QSD, numerous resources and tools are available through financial institutions and educational platforms. Institutions like [Bloomberg](../b/bloomberg.md), Moody's, and S&P Global provide advanced analytical tools that can help in the application and understanding of QSD in the context of dynamic [financial markets](../f/financial_market.md).
 
 For further information, you can visit:
-- [Bloomberg](https://www.bloomberg.com)
-- [Moody's](https://www.moodys.com)
-- [S&P Global](https://www.spglobal.com)
+- Bloomberg
+- Moody's
+- S&P Global

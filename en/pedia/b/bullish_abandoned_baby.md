@@ -7,13 +7,13 @@ The "Bullish Abandoned Baby" is a term used in [technical analysis](../t/technic
 The Bullish Abandoned Baby is a rare but highly potent [reversal](../r/reversal.md) pattern that typically signals a potential [reversal](../r/reversal.md) from a [downtrend](../d/downtrend.md) to an [uptrend](../u/uptrend.md). It consists of three distinct candlesticks and is identified by the following characteristics:
 
 1. **First Candle: Declining Candle**
-   - The first candle is usually found at the end of a prevailing [downtrend](../d/downtrend.md) and is characterized by a large bearish (red or black) [candlestick](../c/candlestick.md).
-   
+ - The first candle is usually found at the end of a prevailing [downtrend](../d/downtrend.md) and is characterized by a large bearish (red or black) [candlestick](../c/candlestick.md).
+
 2. **Second Candle: [Doji](../d/doji.md) Candle**
-   - The second candle is a [Doji](../d/doji.md), which represents a state of indecision in the [market](../m/market.md). This candle [gaps](../g/gap.md) down from the first one, leaving a noticeable space, indicating that the sellers' control is [tapering](../t/tapering.md) off.
-   
+ - The second candle is a [Doji](../d/doji.md), which represents a state of indecision in the [market](../m/market.md). This candle [gaps](../g/gap.md) down from the first one, leaving a noticeable space, indicating that the sellers' control is [tapering](../t/tapering.md) off.
+
 3. **Third Candle: Advancing Candle**
-   - The third candle is a bullish (green or white) [candlestick](../c/candlestick.md) that [gaps](../g/gap.md) up from the [Doji](../d/doji.md). This gap is usually indicative of the buyers exerting new control over the [market](../m/market.md).
+ - The third candle is a bullish (green or white) [candlestick](../c/candlestick.md) that [gaps](../g/gap.md) up from the [Doji](../d/doji.md). This gap is usually indicative of the buyers exerting new control over the [market](../m/market.md).
 
 The "abandoned" aspect of this pattern is the middle [Doji](../d/doji.md) candle, which appears to be isolated or separated by [gaps](../g/gap.md) on either side. This isolation signifies a significant sentiment shift from bearish to bullish.
 
@@ -33,7 +33,7 @@ It's the [gaps](../g/gap.md) that make this pattern reliable, as they showcase c
 The Bullish Abandoned Baby pattern is heralded as one of the most reliable bullish [reversal](../r/reversal.md) signals. Its significance in trading stems from its ability to highlight a strong shift in [market dynamics](../m/market_dynamics.md):
 
 - **[Investor](../i/investor.md) Psychology:** The pattern signals a transition from a bearish [market](../m/market.md) where sellers dominate to a bullish [market](../m/market.md) driven by buyer enthusiasm. This shift in psychology is often abrupt.
-  
+
 - **[Market Sentiment](../m/market_sentiment.md):** The isolated [Doji](../d/doji.md) indicates a strong phase of indecision, followed by a clear move by bullish traders, suggesting the [downtrend](../d/downtrend.md)'s exhaustion.
 
 - **[Reversal](../r/reversal.md) Confirmation:** Because the pattern is rare and involves significant [gaps](../g/gap.md), it provides a strong confirmation of a potential [reversal](../r/reversal.md), and traders consider it a high-confidence signal.
@@ -80,7 +80,7 @@ Traders use various strategies to [capitalize](../c/capitalize.md) on the Bullis
 Consider a stock that has been in a [downtrend](../d/downtrend.md) for several weeks. On Day 1, a large bearish candle forms. On Day 2, a [Doji](../d/doji.md) forms with a gap down, hinting at the end of seller dominance. On Day 3, a gap-up bullish [candlestick](../c/candlestick.md) forms, completing the pattern and indicating a potential [reversal](../r/reversal.md). Traders observing this might enter buys, with a stop-loss below the [Doji](../d/doji.md).
 
 ### Example 2: Forex Market
-Imagine a forex pair in a downward trajectory. The first day ends with a strong bearish [candlestick](../c/candlestick.md), followed by a day with a [Doji](../d/doji.md) that opens with a gap down. The third day starts with a gap up and closes higher. Given the gap nature of forex markets on high [leverage](../l/leverage.md), the Bullish Abandoned Baby might indicate a significant [reversal](../r/reversal.md), prompting traders to take long positions. 
+Imagine a forex pair in a downward trajectory. The first day ends with a strong bearish [candlestick](../c/candlestick.md), followed by a day with a [Doji](../d/doji.md) that opens with a gap down. The third day starts with a gap up and closes higher. Given the gap nature of forex markets on high [leverage](../l/leverage.md), the Bullish Abandoned Baby might indicate a significant [reversal](../r/reversal.md), prompting traders to take long positions.
 
 ## Backtesting and Performance
 

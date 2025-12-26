@@ -2,13 +2,15 @@
 
 The LIBOR-OIS spread is a critical financial metric that reflects the difference between the London Interbank Offered Rate (LIBOR) and the Overnight Indexed [Swap](../s/swap.md) (OIS) rate. This spread serves as an [indicator](../i/indicator.md) of banking sector health and [liquidity](../l/liquidity.md) conditions in the [financial markets](../f/financial_market.md). Understanding the LIBOR-OIS spread involves delving into both components of the spread, their significance, and their applications in algo trading.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## What is LIBOR?
 
 The London Interbank Offered Rate (LIBOR) is one of the world's most important [benchmark](../b/benchmark.md) [interest](../i/interest.md) rates. It represents the average rate at which major global banks are willing to lend to one another on an unsecured [basis](../b/basis.md) for a specific period ranging from overnight to twelve months. LIBOR is calculated for five currencies (USD, EUR, GBP, JPY, CHF) and for seven borrowing periods (overnight, 1 week, and 1, 2, 3, 6, 12 months).
 
 LIBOR has traditionally been a key [reference rate](../r/reference_rate.md) for a large [volume](../v/volume.md) of financial products, including [derivatives](../d/derivatives.md), mortgages, and corporate loans. However, it has faced scrutiny and reform, especially following the [interest rate](../i/interest_rate.md) rigging scandal in 2012. The Financial Conduct Authority (FCA) has been working to phase out LIBOR with alternative reference rates like SOFR (Secured Overnight [Financing](../f/financing.md) Rate).
 
-Learn more about LIBOR from [ICE Benchmark Administration](https://www.theice.com/iba/libor).
+Learn more about LIBOR from ICE Benchmark Administration.
 
 ## What is OIS?
 

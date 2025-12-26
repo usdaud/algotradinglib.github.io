@@ -1,6 +1,6 @@
 # Unlimited Liability
 
-Unlimited [liability](../l/liability.md) refers to the legal [obligations](../o/obligation.md) general partners and sole proprietors have because they are liable for all [business](../b/business.md) debts if the [business](../b/business.md) can't pay its liabilities. Unlike corporations and [limited liability](../l/limited_liability.md) companies (LLCs), which limit their owners' [risk](../r/risk.md) to the amount of [capital](../c/capital.md) they have invested in the [business](../b/business.md), the personal assets of sole proprietors and general partners can be used to satisfy [business](../b/business.md) debts and legal judgments against the [business](../b/business.md). 
+Unlimited [liability](../l/liability.md) refers to the legal [obligations](../o/obligation.md) general partners and sole proprietors have because they are liable for all [business](../b/business.md) debts if the [business](../b/business.md) can't pay its liabilities. Unlike corporations and [limited liability](../l/limited_liability.md) companies (LLCs), which limit their owners' [risk](../r/risk.md) to the amount of [capital](../c/capital.md) they have invested in the [business](../b/business.md), the personal assets of sole proprietors and general partners can be used to satisfy [business](../b/business.md) debts and legal judgments against the [business](../b/business.md).
 
 ## Key Characteristics
 
@@ -49,7 +49,7 @@ However, during a particularly slow season, Jane's bakery accumulates debts and 
 
 ### Case Study 2: General Partnership in Construction
 
-John Smith and Adam Brown form a [general partnership](../g/general_partnership.md) to start a construction [business](../b/business.md). Both partners contribute [capital](../c/capital.md) and share decision-making responsibilities. 
+John Smith and Adam Brown form a [general partnership](../g/general_partnership.md) to start a construction [business](../b/business.md). Both partners contribute [capital](../c/capital.md) and share decision-making responsibilities.
 
 When the [business](../b/business.md) faces a significant lawsuit due to an accident on one of its construction sites, the financial liabilities exceed the company's assets. Under the rules of unlimited [liability](../l/liability.md), both John and Adam's personal assets are at [risk](../r/risk.md) to cover any remaining legal judgments.
 
@@ -60,40 +60,40 @@ Unlike unlimited [liability](../l/liability.md), [limited liability](../l/limite
 ### Sole Proprietorship vs. LLC
 
 - **[Sole Proprietorship](../s/sole_proprietorship.md):**
-  - Unlimited personal [liability](../l/liability.md).
-  - Easier to establish.
-  - Fewer regulatory requirements.
+ - Unlimited personal [liability](../l/liability.md).
+ - Easier to establish.
+ - Fewer regulatory requirements.
 
 - **[Limited Liability](../l/limited_liability.md) Company (LLC):**
-  - [Limited liability](../l/limited_liability.md) protection.
-  - Requires more paperwork and fees.
-  - More regulatory requirements but offers [asset protection](../a/asset_protection.md).
+ - [Limited liability](../l/limited_liability.md) protection.
+ - Requires more paperwork and fees.
+ - More regulatory requirements but offers [asset protection](../a/asset_protection.md).
 
 ### General Partnership vs. Limited Partnership
 
 - **[General Partnership](../g/general_partnership.md):**
-  - All partners have unlimited [liability](../l/liability.md).
-  - Equal participation in management.
+ - All partners have unlimited [liability](../l/liability.md).
+ - Equal participation in management.
 
 - **Limited Partnership (LP):**
-  - General partners have unlimited [liability](../l/liability.md).
-  - Limited partners have [liability](../l/liability.md) only up to the amount they invested.
+ - General partners have unlimited [liability](../l/liability.md).
+ - Limited partners have [liability](../l/liability.md) only up to the amount they invested.
 
 ## Legal and Regulatory Considerations
 
 Navigating the legal landscape is crucial for entities with unlimited [liability](../l/liability.md). Key considerations include:
 
 1. **Contracts:**
-   Careful drafting of contracts to specify the rights and [obligations](../o/obligation.md) of parties involved. 
+ Careful drafting of contracts to specify the rights and [obligations](../o/obligation.md) of parties involved.
 
 2. **[Insurance](../i/insurance.md):**
-   [Business](../b/business.md) owners should consider obtaining [liability insurance](../l/liability_insurance.md) to mitigate some of the risks associated with unlimited [liability](../l/liability.md).
+ [Business](../b/business.md) owners should consider obtaining [liability insurance](../l/liability_insurance.md) to mitigate some of the risks associated with unlimited [liability](../l/liability.md).
 
 3. **Registration and Licenses:**
-   Even though the [business](../b/business.md) structure may be simpler, compliance with local [business](../b/business.md) laws and obtaining the necessary licenses are still mandatory.
+ Even though the [business](../b/business.md) structure may be simpler, compliance with local [business](../b/business.md) laws and obtaining the necessary licenses are still mandatory.
 
 4. **Tax Implications:**
-   Proprietors and partners need to be aware that profits from these entities are generally taxed as [personal income](../p/personal_income.md), not as corporate [earnings](../e/earnings.md).
+ Proprietors and partners need to be aware that profits from these entities are generally taxed as [personal income](../p/personal_income.md), not as corporate [earnings](../e/earnings.md).
 
 ## Managing Unlimited Liability
 
@@ -113,7 +113,7 @@ Owners may consider transitioning to a [limited liability](../l/limited_liabilit
 
 Unlimited [liability](../l/liability.md) is a fundamental concept affecting sole proprietorships and general partnerships, [offering](../o/offering.md) simplicity and complete control while also imposing significant financial risks on the owners. Understanding the nuances of unlimited [liability](../l/liability.md) helps in making informed decisions about [business](../b/business.md) structure, [risk management](../r/risk_management.md), and strategic growth. The key is to balance the benefits of ease of formation and decision-making control with the inherent risks and potential [financial exposure](../f/financial_exposure.md).
 
-For further reading and detailed examples of how businesses manage unlimited [liability](../l/liability.md), you can visit professional services websites like [LegalZoom](https://www.legalzoom.com).
+For further reading and detailed examples of how businesses manage unlimited [liability](../l/liability.md), you can visit professional services websites like LegalZoom.
 
 ---
 

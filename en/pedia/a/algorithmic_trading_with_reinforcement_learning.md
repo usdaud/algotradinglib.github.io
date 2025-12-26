@@ -23,7 +23,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), the agent 
 Several RL algorithms have been adapted for use in [algorithmic trading](../a/algorithmic_trading.md). Prominent among them are:
 
 - **Q-Learning:** An off-policy RL algorithm where the agent learns the [value](../v/value.md) of taking certain actions in given states. It utilizes a Q-table to store and update Q-values, which help in choosing actions that [yield](../y/yield.md) the highest rewards.
-  
+
 - **Deep Q-Network (DQN):** An extension of Q-learning that uses deep [neural networks](../n/neural_networks_in_trading.md) to approximate Q-values. DQN is capable of handling large and complex state spaces, making it suitable for [financial markets](../f/financial_market.md).
 
 - **Policy Gradient Methods:** These involve directly optimizing the policy, which maps states to actions, using gradient ascent. Examples include REINFORCE and Proximal Policy [Optimization](../o/optimization.md) (PPO).
@@ -76,7 +76,7 @@ Let's consider a theoretical case study where [reinforcement learning](../r/rein
 
 1. **Problem Setting:** A trading [firm](../f/firm.md) wants to develop an RL-based forex trading system. The goal is to [trade](../t/trade.md) EUR/USD with the objective of maximizing profits while managing [risk](../r/risk.md).
 
-2. **Environment Setup:** The environment includes historical EUR/USD price data, [transaction costs](../t/transaction_costs.md), [liquidity](../l/liquidity.md) constraints, and [market](../m/market.md) hours. 
+2. **Environment Setup:** The environment includes historical EUR/USD price data, [transaction costs](../t/transaction_costs.md), [liquidity](../l/liquidity.md) constraints, and [market](../m/market.md) hours.
 
 3. **State Space:** The state space includes factors like current [bid](../b/bid.md)-ask prices, moving averages, MACD, RSI, and [order book depth](../o/order_book_depth.md).
 
@@ -84,7 +84,7 @@ Let's consider a theoretical case study where [reinforcement learning](../r/rein
 
 5. **Algorithm Selection:** The [firm](../f/firm.md) decides to use the Deep Q-Network (DQN) due to its ability to [handle](../h/handle.md) complex state spaces.
 
-6. **Training:** The DQN agent is trained using historical data, with emphasis on learning both short-term and long-term [trading strategies](../t/trading_strategies.md). 
+6. **Training:** The DQN agent is trained using historical data, with emphasis on learning both short-term and long-term [trading strategies](../t/trading_strategies.md).
 
 7. **Back-testing and Evaluation:** The trained model is back-tested on a separate historical dataset to evaluate its performance. Key metrics like total returns, maximum [drawdown](../d/drawdown.md), and [Sharpe ratio](../s/sharpe_ratio.md) are analyzed.
 
@@ -96,10 +96,10 @@ Let's consider a theoretical case study where [reinforcement learning](../r/rein
 
 Several companies and research institutions are at the forefront of integrating [reinforcement learning](../r/reinforcement_learning.md) into [algorithmic trading](../a/algorithmic_trading.md):
 
-- **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs for real-time and historical [market](../m/market.md) data. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), including [reinforcement learning](../r/reinforcement_learning.md), to [offer](../o/offer.md) advanced trading solutions. More information can be found on their [official website](https://alpaca.markets/).
+- **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs for real-time and historical [market](../m/market.md) data. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), including [reinforcement learning](../r/reinforcement_learning.md), to [offer](../o/offer.md) advanced trading solutions.
 
-- **Numerai**: A [hedge fund](../h/hedge_fund.md) built according to a new model, Numerai applies machine [learning algorithms](../l/learning_algorithms_in_trading.md) to model the [stock market](../s/stock_market.md). Their approach crowdsources [predictive models](../p/predictive_models_in_trading.md) from data scientists and has explored the use of [reinforcement learning](../r/reinforcement_learning.md). Visit their [official website](https://numer.ai/) for more details.
+- **Numerai**: A [hedge fund](../h/hedge_fund.md) built according to a new model, Numerai applies machine [learning algorithms](../l/learning_algorithms_in_trading.md) to model the [stock market](../s/stock_market.md). Their approach crowdsources [predictive models](../p/predictive_models_in_trading.md) from data scientists and has explored the use of [reinforcement learning](../r/reinforcement_learning.md).
 
-- **DeepMind**: Known for its advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), DeepMind has delved into [financial markets](../f/financial_market.md). Their research often touches on [reinforcement learning](../r/reinforcement_learning.md) applications in trading. More about their work can be found on their [website](https://deepmind.com/).
+- **DeepMind**: Known for its advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), DeepMind has delved into [financial markets](../f/financial_market.md). Their research often touches on [reinforcement learning](../r/reinforcement_learning.md) applications
 
 By understanding and applying these principles, traders and financial analysts can harness the power of [reinforcement learning](../r/reinforcement_learning.md) to develop sophisticated and adaptive [trading strategies](../t/trading_strategies.md) that can potentially [outperform](../o/outperform.md) traditional methods.

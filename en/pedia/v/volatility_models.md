@@ -47,7 +47,7 @@ The [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX) mea
 
 The VIX calculation involves a complex formula that incorporates the [weighted average](../w/weighted_average.md) of the implied volatilities from a wide [range](../r/range.md) of [options](../o/options.md) with different strike prices and maturities.
 
-For more information, refer to the Cboe Global Markets, which created and maintains the VIX: [Cboe VIX](https://www.cboe.com/tradable_products/vix/)
+For more information, refer to the Cboe Global Markets, which created and maintains the VIX: Cboe VIX
 
 6. **EWMA (Exponentially [Weighted](../w/weighted.md) Moving Average)**
 -----------------------------------------------------
@@ -87,9 +87,9 @@ Despite their complexity, multifractal models [offer](../o/offer.md) profound in
 ----------------------------------------
 Recent advancements in [machine learning](../m/machine_learning.md) have given rise to neural network-based models for [volatility](../v/volatility.md) prediction. [Neural networks](../n/neural_networks_in_trading.md), particularly [deep learning](../d/deep_learning.md) models, can capture complex patterns in financial data that traditional models might miss.
 
-These models are trained using large datasets and [leverage](../l/leverage.md) various architectures, such as Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long Short-Term Memory (LSTM) networks, to forecast future [volatility](../v/volatility.md). 
+These models are trained using large datasets and [leverage](../l/leverage.md) various architectures, such as Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long Short-Term Memory (LSTM) networks, to forecast future [volatility](../v/volatility.md).
 
-Leading financial institutions and research groups are increasingly adopting [machine learning](../m/machine_learning.md) approaches due to their adaptability and accuracy. Notable examples include work done by companies like [Two Sigma](https://www.twosigma.com) and [Numerai](https://numer.ai).
+Leading financial institutions and research groups are increasingly adopting [machine learning](../m/machine_learning.md) approaches due to their adaptability and accuracy. Notable examples include work done by companies like Two Sigma and Numerai.
 
 10. **RiskMetrics**
 ---------------------
@@ -97,6 +97,6 @@ RiskMetrics, developed by J.P. Morgan, is a comprehensive framework for measurin
 
 RiskMetrics has become a standard in the [industry](../i/industry.md) for [risk management](../r/risk_management.md) and is widely utilized by financial institutions globally.
 
-For more details, visit [MSCI RiskMetrics](https://www.msci.com/riskmetrics).
+For more details, visit MSCI RiskMetrics.
 
 To summarize, [volatility](../v/volatility.md) models play a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) by providing insights into [market risk](../m/market_risk.md) and helping traders develop sophisticated strategies. The choice of [volatility](../v/volatility.md) model depends on the specific requirements, [market](../m/market.md) conditions, and computational resources available. By leveraging these models, traders can enhance their understanding of [market dynamics](../m/market_dynamics.md), mitigate risks, and [capitalize](../c/capitalize.md) on trading opportunities.

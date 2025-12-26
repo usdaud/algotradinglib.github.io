@@ -103,10 +103,10 @@ In real-time trading, algorithms must make quick decisions based on the latest [
 
 Several tools and platforms provide functionalities to calculate Expected [Return](../r/return.md) and integrate it into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Some popular platforms include:
 
-- **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): Offers a cloud-based [algorithmic trading](../a/accountability.md) platform with access to historical data, [backtesting](../b/backtesting.md), and real-time trading capabilities.
-- **[Quantlib](../q/quantlib.md)** (https://www.[quantlib](../q/quantlib.md).org/): An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) which includes tools for modeling, trading, and [risk management](../r/risk_management.md).
-- **[Interactive Brokers](../i/interactive_brokers.md)** (https://www.interactivebrokers.com/): Provides an API for [algorithmic trading](../a/accountability.md) and various tools for [risk management](../r/risk_management.md) and performance analysis.
-- **[Alpaca](../a/alpaca.md)** (https://[alpaca](../a/alpaca.md).markets/): A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with API support for developing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+- **[StockSharp](../s/stocksharp.md)**: Offers a [algorithmic trading](../a/accountability.md) platform with access to historical data, [backtesting](../b/backtesting.md), and real-time trading capabilities.
+- **[Quantlib](../q/quantlib.md)** ( An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) which includes tools for modeling, trading, and [risk management](../r/risk_management.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)** ( Provides an API for [algorithmic trading](../a/accountability.md) and various tools for [risk management](../r/risk_management.md) and performance analysis.
+- **[Alpaca](../a/alpaca.md)** ( A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with API support for developing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ## Conclusion
 

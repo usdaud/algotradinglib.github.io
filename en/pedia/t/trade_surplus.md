@@ -5,10 +5,10 @@ A [trade](../t/trade.md) [surplus](../s/surplus.md) occurs when the [value](../v
 ## Definition and Calculation
 - **Definition**: A [trade](../t/trade.md) [surplus](../s/surplus.md) is a positive balance of [trade](../t/trade.md), indicating that a country's [export](../e/export.md) revenues outweigh its [import](../i/import.md) expenditures.
 - **Calculation**: The formula for calculating the [trade](../t/trade.md) [surplus](../s/surplus.md) is simple:
-  \[
-  \text{[Trade](../t/trade.md) [Surplus](../s/surplus.md)} = \text{Total Exports} - \text{Total Imports}
-  \]
-  If the result is a positive number, the country has a [trade](../t/trade.md) [surplus](../s/surplus.md).
+ \[
+ \text{[Trade](../t/trade.md) [Surplus](../s/surplus.md)} = \text{Total Exports} - \text{Total Imports}
+ \]
+ If the result is a positive number, the country has a [trade](../t/trade.md) [surplus](../s/surplus.md).
 
 ## Causes of Trade Surplus
 Several factors can contribute to the occurrence of a [trade](../t/trade.md) [surplus](../s/surplus.md):
@@ -31,13 +31,13 @@ A [trade](../t/trade.md) [surplus](../s/surplus.md) can have various implication
 Different countries have experienced [trade](../t/trade.md) surpluses due to various reasons. Below are some examples:
 
 1. **Germany**: Known for its strong [manufacturing](../m/manufacturing.md) sector, Germany consistently runs a substantial [trade](../t/trade.md) [surplus](../s/surplus.md). The country excels in exporting high-quality automobiles, machinery, and chemicals.
-    - [Learn more about Germany's trade at GTAI](https://www.gtai.de/en)
+ - Learn more about Germany's trade at GTAI
 
 2. **China**: For decades, China has been a net exporter, leveraging its vast [manufacturing](../m/manufacturing.md) capabilities and low labor costs to dominate international markets.
-    - [Explore China's trade data on China Briefing](https://www.china-briefing.com)
+ - Explore China's trade data on China Briefing
 
 3. **South Korea**: Another example of a major [trade](../t/trade.md) [surplus](../s/surplus.md) country due to its electronics, automotive, and shipbuilding industries.
-    - [More details on South Korea's economy at Korea Trade-Investment Promotion Agency](https://www.kotra.or.kr)
+ - More details on South Korea's economy at Korea Trade-Investment Promotion Agency
 
 ## Significance in Global Trade
 A [trade](../t/trade.md) [surplus](../s/surplus.md) is significant in the context of global [trade](../t/trade.md) for several reasons:

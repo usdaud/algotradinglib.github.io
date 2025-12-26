@@ -7,7 +7,7 @@
 WARF serves several critical purposes in [financial analysis](../f/financial_analysis.md):
 
 1. **[Credit Risk](../c/credit_risk.md) Assessment**: WARF provides a quantifiable measure of the [credit risk](../c/credit_risk.md) associated with a portfolio of assets. By considering the ratings of all individual assets, it synthesizes this information into a single number, which is easier to interpret and compare.
-  
+
 2. **Compliance and Regulatory Reporting**: Many institutional investors must adhere to regulatory requirements that mandate the evaluation of [credit risk](../c/credit_risk.md). WARF offers a systematic way to report and monitor the [credit](../c/credit.md) quality of investment portfolios.
 
 3. **[Performance Benchmarking](../p/performance_benchmarking.md)**: Using WARF, financial analysts can [benchmark](../b/benchmark.md) the [credit](../c/credit.md) quality of portfolios against indices or other investment vehicles, facilitating performance comparison.
@@ -34,24 +34,24 @@ Consider a simplified portfolio with the following assets:
 
 | [Asset](../a/asset.md) | [Principal](../p/principal.md) Amount ($) | [Credit Rating](../c/credit_rating.md) | [Rating](../r/rating.md) [Factor](../f/factor.md) |
 |-------|---------------------|---------------|---------------|
-| A     | 1,000,000           | [AAA](../a/aaa.md)           | 1             |
-| B     | 500,000             | BBB           | 7             |
-| C     | 2,000,000           | BB            | 10            |
+| A | 1,000,000 | [AAA](../a/aaa.md) | 1 |
+| B | 500,000 | BBB | 7 |
+| C | 2,000,000 | BB | 10 |
 
 ### Step-by-Step Calculation:
 
 1. **Assign [Rating](../r/rating.md) Factors**:
-   - [Asset](../a/asset.md) A: [AAA](../a/aaa.md) -> 1
-   - [Asset](../a/asset.md) B: BBB -> 7
-   - [Asset](../a/asset.md) C: BB -> 10
+ - [Asset](../a/asset.md) A: [AAA](../a/aaa.md) -> 1
+ - [Asset](../a/asset.md) B: BBB -> 7
+ - [Asset](../a/asset.md) C: BB -> 10
 
 2. **Weight by [Principal](../p/principal.md) Amount**:
-   - [Asset](../a/asset.md) A: \( 1 \times 1,000,000 = 1,000,000 \)
-   - [Asset](../a/asset.md) B: \( 7 \times 500,000 = 3,500,000 \)
-   - [Asset](../a/asset.md) C: \( 10 \times 2,000,000 = 20,000,000 \)
+ - [Asset](../a/asset.md) A: \( 1 \times 1,000,000 = 1,000,000 \)
+ - [Asset](../a/asset.md) B: \( 7 \times 500,000 = 3,500,000 \)
+ - [Asset](../a/asset.md) C: \( 10 \times 2,000,000 = 20,000,000 \)
 
 3. **Sum and Divide**:
-   \[ \text{WARF} = \frac{1,000,000 + 3,500,000 + 20,000,000}{1,000,000 + 500,000 + 2,000,000} = \frac{24,500,000}{3,500,000} = 7 \]
+ \[ \text{WARF} = \frac{1,000,000 + 3,500,000 + 20,000,000}{1,000,000 + 500,000 + 2,000,000} = \frac{24,500,000}{3,500,000} = 7 \]
 
 Thus, the WARF for this portfolio is 7, indicating a [credit](../c/credit.md) quality skewed towards the riskier end of the spectrum.
 
@@ -67,8 +67,8 @@ CLOs are financial instruments that pool various loans, then repackaged and sold
 ### Credit Rating Agencies
 
 Agencies like Moody's and Fitch provide WARF metrics in their evaluation reports of [structured finance](../s/structured_finance.md) products:
-- **Moody’s WARF Metric** (WARF Documentation from Moody's: [Moodys WARF](https://www.moodys.com/researchdocumentcontentpage.aspx?docid=PBC_79442))
-- **Fitch WARF Metric** (WARF Documentation from Fitch: [Fitch WARF](https://www.fitchratings.com/))
+- **Moody’s WARF Metric** (WARF Documentation from Moody's: Moodys WARF)
+- **Fitch WARF Metric** (WARF Documentation from Fitch: Fitch WARF)
 
 ## Limitations of WARF
 
@@ -91,7 +91,7 @@ In more sophisticated applications, analysts perform dynamic WARF analysis, whic
 
 ### WARF in FinTech and Algorithmic Trading
 
-With the rise of FinTech, [algorithmic trading](../a/accountability.md) systems incorporate WARF to enhance automated decision-making processes:
+With the rise of FinTech, [algorithmic trading](../a/algorithmic_trading.md) systems incorporate WARF to enhance automated decision-making processes:
 - **Algorithmic [Portfolio Management](../p/par.md)**: Algorithms can dynamically adjust the composition of fixed-[income](../i/income.md) portfolios to maintain a desired WARF, aligning with investment strategies and [risk tolerance](../r/risk_tolerance.md).
 - **[Credit Risk Models](../c/credit_risk_models.md)**: FinTech platforms integrate WARF within [credit risk models](../c/credit_risk_models.md) to [offer](../o/offer.md) real-time insights and recommendations to investors.
 

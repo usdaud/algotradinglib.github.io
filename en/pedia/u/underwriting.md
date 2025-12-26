@@ -19,7 +19,7 @@ In the realm of [insurance](../i/insurance.md), underwriting is the process that
 - **Automated Underwriting Systems:** These systems help streamline the underwriting process by automating data collection and initial assessment steps.
 
 ### 2. Loan Underwriting
-In banking, underwriting refers to the assessment of the [creditworthiness](../c/creditworthiness.md) of a borrower. This process determines if the borrower can repay a [loan](../l/loan.md) and helps set the terms and conditions of the [loan](../l/loan.md). 
+In banking, underwriting refers to the assessment of the [creditworthiness](../c/creditworthiness.md) of a borrower. This process determines if the borrower can repay a [loan](../l/loan.md) and helps set the terms and conditions of the [loan](../l/loan.md).
 
 #### Steps in Loan Underwriting
 - **[Credit](../c/credit.md) History Review:** Reviewing the borrower's [credit](../c/credit.md) reports and scores.
@@ -34,7 +34,7 @@ In banking, underwriting refers to the assessment of the [creditworthiness](../c
 - **[Income](../i/income.md) Verification Services:** Companies like The Work Number provide automated [income](../i/income.md) verification.
 
 ### 3. Securities Underwriting
-In the [investment banking](../i/investment_banking.md) sector, underwriting primarily concerns the issuance of new securities, where underwriters (or [investment banks](../i/investment_bank_(ib).md)) take on the [risk](../r/risk.md) of buying and distributing new [shares](../s/shares.md) or bonds to the public. 
+In the [investment banking](../i/investment_banking.md) sector, underwriting primarily concerns the issuance of new securities, where underwriters (or [investment banks](../i/investment_bank_(ib).md)) take on the [risk](../r/risk.md) of buying and distributing new [shares](../s/shares.md) or bonds to the public.
 
 #### Types of Securities Underwriting
 - **[Firm](../f/firm.md) Commitment:** The [underwriter](../u/underwriter.md) buys the entire [issue](../i/issue.md) and resells it to the public, bearing the full [risk](../r/risk.md).
@@ -53,15 +53,12 @@ In the [investment banking](../i/investment_banking.md) sector, underwriting pri
 
 #### Munich Re
 Munich Re specializes in [reinsurance](../r/reinsurance.md), primary [insurance](../i/insurance.md), and [insurance](../i/insurance.md)-related [risk](../r/risk.md) solutions. It offers a comprehensive [range](../r/range.md) of products in underwriting across various sectors.
-[Munich Re](https://www.munichre.com)
 
 #### Bank of America
 [Bank](../b/bank.md) of America is heavily involved in [loan](../l/loan.md) underwriting, providing financial services including [mortgage](../m/mortgage.md) underwriting, and commercial lending.
-[Bank of America](https://www.bankofamerica.com)
 
 #### Goldman Sachs
 Goldman Sachs plays a significant role in securities underwriting, facilitating [capital](../c/capital.md) formation for corporations, institutions, and governments.
-[Goldman Sachs](https://www.goldmansachs.com)
 
 ## Importance of Underwriting
 

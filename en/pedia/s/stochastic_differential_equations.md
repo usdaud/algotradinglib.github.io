@@ -100,9 +100,8 @@ Generalizing Runge-Kutta methods to SDEs involves constructing schemes that [han
 
 Several software packages and libraries support the [simulation](../s/simulation_in_trading.md) and numerical solution of SDEs. Notable examples include:
 
-- **SDE Toolbox for MATLAB**: A comprehensive suite for numerically solving SDEs and implementing various methods (https://www.mathworks.com/matlabcentral/fileexchange/26586-sde-toolbox).
-- **Stochastic Differential Equations in Python (SDEPy)**: A Python library for SDE [simulation](../s/simulation_in_trading.md) and analysis (https://github.com/RJT1990/pySDE).
-- **[QuantLib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for pricing [derivatives](../d/derivatives.md) and managing financial models, including SDEs (https://www.[quantlib](../q/quantlib.md).org/).
+- **SDE Toolbox for MATLAB**: A comprehensive suite for numerically solving SDEs and implementing various methods - **Stochastic Differential Equations in Python (SDEPy)**: A Python library for SDE [simulation](../s/simulation_in_trading.md) and analysis (
+- **[QuantLib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for pricing [derivatives](../d/derivatives.md) and managing financial models, including SDEs (
 
 ## Challenges and Future Directions
 

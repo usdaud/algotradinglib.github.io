@@ -13,11 +13,11 @@ Where:
 - \(\[beta](../b/beta.md)\) = [Beta](../b/beta.md) of the [asset](../a/asset.md),
 - \(R_m\) = [Return](../r/return.md) of the [market](../m/market.md).
 
-**Implications:** 
+**Implications:**
 A positive [alpha](../a/alpha.md) indicates the [trading strategy](../t/trading_strategy.md) has outperformed the [benchmark](../b/benchmark.md), while a negative [alpha](../a/alpha.md) indicates underperformance.
 
 #### 2. **Beta**
-[Beta](../b/beta.md) measures the [volatility](../v/volatility.md) or [systematic risk](../s/systematic_risk.md) of an [asset](../a/asset.md) or strategy relative to the overall [market](../m/market.md). 
+[Beta](../b/beta.md) measures the [volatility](../v/volatility.md) or [systematic risk](../s/systematic_risk.md) of an [asset](../a/asset.md) or strategy relative to the overall [market](../m/market.md).
 
 **Formula:**
 \[ \[beta](../b/beta.md) = \frac{Cov(R_a, R_m)}{Var(R_m)} \]
@@ -42,7 +42,7 @@ Where:
 A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better [risk](../r/risk.md)-adjusted returns, suggesting that the strategy generates higher returns for a given level of [risk](../r/risk.md).
 
 #### 4. **Sortino Ratio**
-The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that only considers [downside risk](../d/downside_risk.md) (i.e., returns falling below a certain threshold, typically a [risk](../r/risk.md)-free rate). 
+The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that only considers [downside risk](../d/downside_risk.md) (i.e., returns falling below a certain threshold, typically a [risk](../r/risk.md)-free rate).
 
 **Formula:**
 \[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_a - R_f}{\sigma_d} \]
@@ -146,4 +146,4 @@ Up Capture Ratio greater than 100% indicates the strategy outperformed during [m
 
 Relative [performance metrics](../p/performance_metrics.md) are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md) for evaluating and comparing the effectiveness of [trading strategies](../t/trading_strategies.md) in relation to predefined benchmarks or indices. Utilizing these metrics allows traders and investors to make informed, data-driven decisions, optimize their portfolios, and manage risks effectively. Consequently, mastering these metrics can contribute significantly to achieving long-term investment success.
 
-For further information, services, and advanced tools about [performance metrics](../p/performance_metrics.md), refer to companies like [Bloomberg](https://www.bloomberg.com/professional/solution/performance-measurement/) and [Morningstar](https://www.morningstar.com).
+For further information, services, and advanced tools about [performance metrics](../p/performance_metrics.md), refer to companies like Bloomberg and Morningstar.

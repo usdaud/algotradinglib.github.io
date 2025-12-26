@@ -8,15 +8,15 @@ The [Central Limit Theorem](../c/central_limit_theorem_in_trading.md) can be des
 - Let \(X_1, X_2, \ldots, X_n\) be a random sample of size \(n\) drawn from a population with mean \(\mu\) and finite variance \(\sigma^2\).
 - The sample mean \(\overline{X}\) is given by:
 
-  \[
-  \overline{X} = \frac{1}{n} \sum_{i=1}^n X_i
-  \]
+ \[
+ \overline{X} = \frac{1}{n} \sum_{i=1}^n X_i
+ \]
 
 - As the sample size \(n\) becomes large, the [distribution](../d/distribution.md) of the sample mean \(\overline{X}\) approaches a [normal distribution](../n/normal_distribution_in_trading.md) with mean \(\mu\) and variance \(\frac{\sigma^2}{n}\). Mathematically, this can be expressed as:
 
-  \[
-  \overline{X} \sim N\left(\mu, \frac{\sigma^2}{n}\right)
-  \]
+ \[
+ \overline{X} \sim N\left(\mu, \frac{\sigma^2}{n}\right)
+ \]
 
 This implies that no matter what the original [distribution](../d/distribution.md) of the data is, the [sampling distribution](../s/sampling_distribution.md) of the mean [will](../w/will.md) tend to be normal if we take sufficiently large samples.
 

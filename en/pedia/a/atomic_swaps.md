@@ -33,7 +33,7 @@ Atomic swaps [offer](../o/offer.md) several advantages that make them an attract
 
 ### Decentralization
 
-One of the primary benefits of atomic swaps is that they enable decentralized trading. Users aren't required to [trust](../t/trust.md) centralized exchanges, which can be susceptible to hacks, [fraud](../f/fraud.md), and regulatory shutdowns. 
+One of the primary benefits of atomic swaps is that they enable decentralized trading. Users aren't required to [trust](../t/trust.md) centralized exchanges, which can be susceptible to hacks, [fraud](../f/fraud.md), and regulatory shutdowns.
 
 ### Security
 
@@ -41,7 +41,7 @@ By using cryptographic hashes and time-locked contracts, atomic swaps ensure tha
 
 ### Lower Fees
 
-Since atomic swaps eliminate the need for centralized intermediaries, trading fees are reduced. In traditional exchanges, traders often have to pay fees for deposits, withdrawals, and transactions, all of which can add up. 
+Since atomic swaps eliminate the need for centralized intermediaries, trading fees are reduced. In traditional exchanges, traders often have to pay fees for deposits, withdrawals, and transactions, all of which can add up.
 
 ### Interoperability
 
@@ -77,7 +77,7 @@ Several platforms and projects are working towards making atomic swaps more acce
 
 ### Komodo
 
-The Komodo platform (https://komodoplatform.com) has been a pioneer in atomic [swap](../s/swap.md) technology, integrating it into its decentralized [exchange](../e/exchange.md), AtomicDEX. Komodo’s platform supports a wide [range](../r/range.md) of cryptocurrencies, allowing users to [trade](../t/trade.md) without relying on centralized exchanges.
+The Komodo platform ( has been a pioneer in atomic [swap](../s/swap.md) technology, integrating it into its decentralized [exchange](../e/exchange.md), AtomicDEX. Komodo’s platform supports a wide [range](../r/range.md) of cryptocurrencies, allowing users to [trade](../t/trade.md) without relying on centralized exchanges.
 
 ### Litecoin and Decred
 
@@ -85,7 +85,7 @@ Litecoin and Decred were among the first cryptocurrencies to successfully demons
 
 ### Lightning Network
 
-The [Lightning Network](../l/lightning_network.md), a second-layer solution for [Bitcoin](../b/bitcoin.md), also supports atomic swaps. This enables fast, off-chain transactions that are settled on-chain, providing a scalable solution for [Bitcoin](../b/bitcoin.md) and other cryptocurrencies. 
+The [Lightning Network](../l/lightning_network.md), a second-layer solution for [Bitcoin](../b/bitcoin.md), also supports atomic swaps. This enables fast, off-chain transactions that are settled on-chain, providing a scalable solution for [Bitcoin](../b/bitcoin.md) and other cryptocurrencies.
 
 ## Future Implications
 

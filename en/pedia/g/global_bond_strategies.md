@@ -70,15 +70,15 @@
 
 ## Examples of Institutions Employing Global Bond Strategies
 
-1. **PIMCO**: One of the world’s leading fixed-[income](../i/income.md) investment managers, PIMCO employs a [range](../r/range.md) of [global bond](../g/global_bond.md) strategies aimed at maximizing returns and managing risks across diverse markets. [PIMCO](https://www.pimco.com/)
+1. **PIMCO**: One of the world’s leading fixed-[income](../i/income.md) investment managers, PIMCO employs a [range](../r/range.md) of [global bond](../g/global_bond.md) strategies aimed at maximizing returns and managing risks across diverse markets. PIMCO
 
-2. **BlackRock**: The world’s largest [asset](../a/asset.md) manager, BlackRock offers various [global bond](../g/global_bond.md) funds and ETFs that provide exposure to international fixed-[income](../i/income.md) markets. [BlackRock](https://www.blackrock.com/)
+2. **BlackRock**: The world’s largest [asset](../a/asset.md) manager, BlackRock offers various [global bond](../g/global_bond.md) funds and ETFs that provide exposure to international fixed-[income](../i/income.md) markets. BlackRock
 
-3. **Vanguard**: Known for its low-cost [index](../i/index_instrument.md) funds, Vanguard offers [global bond](../g/global_bond.md) [index](../i/index_instrument.md) funds that allow investors to track broad [international bond](../i/international_bond.md) markets. [Vanguard](https://www.vanguard.com/)
+3. **Vanguard**: Known for its low-cost [index](../i/index_instrument.md) funds, Vanguard offers [global bond](../g/global_bond.md) [index](../i/index_instrument.md) funds that allow investors to track broad [international bond](../i/international_bond.md) markets. Vanguard
 
-4. **J.P. Morgan [Asset Management](../a/asset_management.md)**: This [firm](../f/firm.md) offers actively managed [global bond](../g/global_bond.md) funds that seek to achieve superior returns through strategic investments in international bonds. [J.P. Morgan Asset Management](https://am.jpmorgan.com/)
+4. **J.P. Morgan [Asset Management](../a/asset_management.md)**: This [firm](../f/firm.md) offers actively managed [global bond](../g/global_bond.md) funds that seek to achieve superior returns through strategic investments in international bonds. J.P. Morgan Asset Management
 
-5. **Franklin Templeton**: Known for its expertise in emerging markets, Franklin Templeton provides [global bond](../g/global_bond.md) strategies that focus on both developed and developing markets. [Franklin Templeton](https://www.franklintempleton.com/)
+5. **Franklin Templeton**: Known for its expertise in emerging markets, Franklin Templeton provides [global bond](../g/global_bond.md) strategies that focus on both developed and developing markets. Franklin Templeton
 
 ## Conclusion
 

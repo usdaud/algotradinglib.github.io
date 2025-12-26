@@ -18,24 +18,24 @@ Where:
 #### Step-by-Step Calculation
 
 1. **Determine Total Assets**: This includes all the securities, bonds, [stocks](../s/stock.md), cash, and equivalents held by the [fund](../f/fund.md).
-   
-   Let's assume a [mutual fund](../m/mutual_fund.md) has the following assets:
-   - [Stocks](../s/stock.md) worth $200 million
-   - Bonds worth $50 million
-   - Cash and equivalents worth $30 million
 
-   Thus, Total Assets = $200 million ([Stocks](../s/stock.md)) + $50 million (Bonds) + $30 million (Cash) = $280 million
+ Let's assume a [mutual fund](../m/mutual_fund.md) has the following assets:
+ - [Stocks](../s/stock.md) worth $200 million
+ - Bonds worth $50 million
+ - Cash and equivalents worth $30 million
+
+ Thus, Total Assets = $200 million ([Stocks](../s/stock.md)) + $50 million (Bonds) + $30 million (Cash) = $280 million
 
 2. **Determine [Total Liabilities](../t/total_liabilities.md)**: This includes any fees payable, accrued expenses, [taxes](../t/taxes.md), etc.
-   
-   For instance, if the [fund](../f/fund.md) has liabilities amounting to $20 million.
+
+ For instance, if the [fund](../f/fund.md) has liabilities amounting to $20 million.
 
 3. **Calculate NAV**: Subtract [Total Liabilities](../t/total_liabilities.md) from Total Assets to get the net assets, then divide by the total number of [shares](../s/shares.md) outstanding.
-   
-   If the [mutual fund](../m/mutual_fund.md) has 10 million [shares](../s/shares.md) outstanding:
-   \[
-   \text{NAV} = \frac{($280 million - $20 million)}{10 million} = \frac{$260 million}{10 million} = $26
-   \]
+
+ If the [mutual fund](../m/mutual_fund.md) has 10 million [shares](../s/shares.md) outstanding:
+ \[
+ \text{NAV} = \frac{($280 million - $20 million)}{10 million} = \frac{$260 million}{10 million} = $26
+ \]
 
 The NAV, in this case, would be $26 per share.
 
@@ -77,12 +77,11 @@ For funds holding international assets, [currency](../c/currency.md) fluctuation
 ### Real-world Applications and Examples
 
 #### Vanguard
-Vanguard is one of the world's largest and most respected [investment management](../i/investment_management.md) companies. They provide transparent daily updates on the NAV of their funds, ensuring investors have reliable information. Vanguard's mutual funds and ETFs maintain comprehensive NAV disclosures and calculations on their official website: [Vanguard NAV](https://investor.vanguard.com/mutual-funds/profile/VFIAX)
+Vanguard is one of the world's largest and most respected [investment management](../i/investment_management.md) companies. They provide transparent daily updates on the NAV of their funds, ensuring investors have reliable information. Vanguard's mutual funds and ETFs maintain comprehensive NAV disclosures and calculations on their public materials: Vanguard NAV
 
 #### BlackRock
-BlackRock, another leading global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), emphasizes the importance of NAV in their [iShares](../i/ishares.md) ETFs. They [leverage](../l/leverage.md) sophisticated algorithms to calculate real-time NAV, aiding in the efficient management and trading of their extensive [range](../r/range.md) of funds. You can explore their NAV details and [fund](../f/fund.md) profiles here: [BlackRock iShares NAV](https://www.blackrock.com/us/individual/products/239726/)
+BlackRock, another leading global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), emphasizes the importance of NAV in their [iShares](../i/ishares.md) ETFs. They [leverage](../l/leverage.md) sophisticated algorithms to calculate real-time NAV, aiding in the efficient management and trading of their extensive [range](../r/range.md) of funds. You can explore their NAV details and [fund](../f/fund.md) profiles here: BlackRock iShares NAV
 
 ### Conclusion
 
 Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV) remains a fundamental concept in the investment world, [offering](../o/offering.md) a transparent and accurate measure of a [fund](../f/fund.md)'s [value](../v/value.md). For investors, NAV provides a foundation for evaluating and comparing different funds. In algo trading, real-time NAV calculations unlock opportunities for [arbitrage](../a/arbitrage.md), efficient [portfolio management](../p/portfolio_management.md), and strategic trading. Understanding NAV's calculation, significance, and application facilitates a deeper comprehension of [investment fund](../i/investment_fund.md) dynamics and their role in modern [trading strategies](../t/trading_strategies.md).
-

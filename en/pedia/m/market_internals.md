@@ -58,19 +58,19 @@ Several financial services and data providers specialize in [offering](../o/offe
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com/) provides extensive [market](../m/market.md) internals data through its [Bloomberg](../b/bloomberg.md) Terminal. Traders and analysts use [Bloomberg](../b/bloomberg.md) to access a [wealth](../w/wealth.md) of financial information, including [market breadth indicators](../m/market_breadth_indicators.md), [volume](../v/volume.md) data, and [volatility](../v/volatility.md) indices.
+Bloomberg provides extensive [market](../m/market.md) internals data through its [Bloomberg](../b/bloomberg.md) Terminal. Traders and analysts use [Bloomberg](../b/bloomberg.md) to access a [wealth](../w/wealth.md) of financial information, including [market breadth indicators](../m/market_breadth_indicators.md), [volume](../v/volume.md) data, and [volatility](../v/volatility.md) indices.
 
 ### Thomson Reuters
 
-[Thomson Reuters](https://www.reuters.com/) offers [market](../m/market.md) internals data and analytics via its Eikon platform. Eikon provides comprehensive [financial analysis](../f/financial_analysis.md) tools, including [market sentiment](../m/market_sentiment.md) metrics, breadth indicators, and advanced charting.
+Thomson Reuters offers [market](../m/market.md) internals data and analytics via its Eikon platform. Eikon provides comprehensive [financial analysis](../f/financial_analysis.md) tools, including [market sentiment](../m/market_sentiment.md) metrics, breadth indicators, and advanced charting.
 
 ### StockCharts.com
 
-[StockCharts.com](https://stockcharts.com/) is a widely used resource for charting and [technical analysis](../t/technical_analysis.md) of [market](../m/market.md) internals. It offers various [market breadth indicators](../m/market_breadth_indicators.md), [volume analysis](../v/volume_analysis.md) tools, and [volatility](../v/volatility.md) indices accessible to traders and investors.
+StockCharts.com is a widely used resource for charting and [technical analysis](../t/technical_analysis.md) of [market](../m/market.md) internals. It offers various [market breadth indicators](../m/market_breadth_indicators.md), [volume analysis](../v/volume_analysis.md) tools, and [volatility](../v/volatility.md) indices accessible to traders and investors.
 
 ### eSignal
 
-[eSignal](https://www.esignal.com/) is another popular platform for accessing [market](../m/market.md) internals data. It provides real-time data, advanced charting capabilities, and a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), making it a valuable tool for traders.
+eSignal is another popular platform for accessing [market](../m/market.md) internals data. It provides real-time data, advanced charting capabilities, and a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), making it a valuable tool for traders.
 
 ## Practical Applications of Market Internals
 

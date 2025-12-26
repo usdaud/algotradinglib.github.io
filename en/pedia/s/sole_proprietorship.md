@@ -1,6 +1,6 @@
 # Sole Proprietorship
 
-A sole proprietorship, also known simply as a sole [trader](../t/trader.md) or a proprietorship, is the most basic form of [business](../b/business.md) structure. This type of [business](../b/business.md) is owned and operated by one individual, with no distinction between the owner and the [business](../b/business.md) entity. The proprietor is entitled to all profits but is also responsible for all the [business](../b/business.md)'s debts, losses, and liabilities. It is the easiest and most straightforward way to start a [business](../b/business.md), often favored for its simplicity and minimal regulatory overhead. 
+A sole proprietorship, also known simply as a sole [trader](../t/trader.md) or a proprietorship, is the most basic form of [business](../b/business.md) structure. This type of [business](../b/business.md) is owned and operated by one individual, with no distinction between the owner and the [business](../b/business.md) entity. The proprietor is entitled to all profits but is also responsible for all the [business](../b/business.md)'s debts, losses, and liabilities. It is the easiest and most straightforward way to start a [business](../b/business.md), often favored for its simplicity and minimal regulatory overhead.
 
 ## Characteristics of Sole Proprietorship
 
@@ -64,7 +64,7 @@ Small e-[commerce](../c/commerce.md) businesses often start as sole proprietorsh
 Many successful businesses started as sole proprietorships. For instance, a local "mom and pop" grocery store might begin with one family running all aspects of the [business](../b/business.md). Over the years, through hard work and community engagement, they could grow and eventually decide to incorporate for benefits like [limited liability](../l/limited_liability.md) and easier access to [capital](../c/capital.md).
 
 ### Real-World Example: Chobani Yogurt
-Hamdi Ulukaya started Chobani Yogurt as a sole proprietorship. He took an old yogurt plant, developed new products, and scaled the [business](../b/business.md). Eventually, as the company grew, it transitioned into more complex corporate structures. For more, visit [Chobani](https://www.chobani.com).
+Hamdi Ulukaya started Chobani Yogurt as a sole proprietorship. He took an old yogurt plant, developed new products, and scaled the [business](../b/business.md). Eventually, as the company grew, it transitioned into more complex corporate structures. For more, visit Chobani.
 
 ## Transition from Sole Proprietorship to Other Structures
 

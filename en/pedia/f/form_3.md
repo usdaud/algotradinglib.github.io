@@ -43,9 +43,9 @@ Failing to file Form 3 on time can lead to significant legal consequences, inclu
 
 Several high-profile executives and major shareholders from leading companies regularly file Form 3. Here are a few notable examples:
 
-- [Apple Inc.](https://investor.apple.com/): Officers and directors of Apple Inc., such as Tim Cook, must comply with Form 3 reporting requirements.
-- [Tesla, Inc.](https://ir.tesla.com/): Elon Musk, as CEO and a significant [shareholder](../s/shareholder.md), files Form 3 and subsequent forms to disclose his [holdings](../h/holdings.md) and transactions.
-- [Amazon.com, Inc.](https://www.aboutamazon.com/): Key executives like Jeff Bezos have historically filed Form 3 to report their ownership stakes.
+- Apple Inc.: Officers and directors of Apple Inc., such as Tim Cook, must comply with Form 3 reporting requirements.
+- Tesla, Inc.: Elon Musk, as CEO and a significant [shareholder](../s/shareholder.md), files Form 3 and subsequent forms to disclose his [holdings](../h/holdings.md) and transactions.
+- Amazon.com, Inc.: Key executives like Jeff Bezos have historically filed Form 3 to report their ownership stakes.
 
 ## Relation to Algo Trading
 

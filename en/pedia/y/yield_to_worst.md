@@ -9,7 +9,7 @@
 ## Importance of Yield to Worst
 
 1. **[Risk Management](../r/risk_management.md):** YTW helps investors manage [interest rate risk](../i/interest_rate_risk.md) and [reinvestment risk](../r/reinvestment_risk.md). By focusing on the lowest [yield](../y/yield.md) scenario, it forces investors to consider potential downside scenarios and make provisions for them.
-  
+
 2. **[Bond](../b/bond.md) Comparison:** YTW allows investors to compare bonds with different call provisions and potential early retirement scenarios on a consistent [basis](../b/basis.md). This aids in making better-informed decisions.
 
 3. **[Portfolio Optimization](../p/portfolio_optimization.md):** In [algorithmic trading](../a/algorithmic_trading.md), YTW can help in optimizing [bond](../b/bond.md) portfolios by ensuring that the overall portfolio [yield](../y/yield.md) is not overly optimistic, factoring in the worst-case scenarios.
@@ -84,33 +84,33 @@ Several platforms and tools [offer](../o/offer.md) capabilities for calculating 
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive analytical tools that include YTW calculations, making it a popular choice for [trading algorithms](../t/trading_algorithms.md). 
+The [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive analytical tools that include YTW calculations, making it a popular choice for [trading algorithms](../t/trading_algorithms.md).
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- Bloomberg Terminal
 
 ### Thomson Reuters Eikon
 
-Thomson [Reuters](../r/reuters.md) Eikon offers powerful analytical tools, including [bond yield](../b/bond_yield.md) calculations and [scenario analysis](../s/scenario_analysis.md), which are essential for calculating YTW. 
+Thomson [Reuters](../r/reuters.md) Eikon offers powerful analytical tools, including [bond yield](../b/bond_yield.md) calculations and [scenario analysis](../s/scenario_analysis.md), which are essential for calculating YTW.
 
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- Thomson Reuters Eikon
 
 ### QuantConnect
 
 [QuantConnect](../q/quantconnect.md) provides an [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and implement strategies that include YTW calculations.
 
-- [QuantConnect](https://www.quantconnect.com)
+- QuantConnect
 
 ### AlgoTrader
 
 [AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports fixed-[income](../i/income.md) trading and [yield](../y/yield.md) calculations including YTW.
 
-- [AlgoTrader](https://www.algotrader.com)
+- AlgoTrader
 
 ### MATLAB
 
 MATLAB supports extensive financial toolboxes that include functions for [bond](../b/bond.md) pricing and [yield](../y/yield.md) calculations, facilitating YTW integration in complex [trading models](../t/trading_models.md).
 
-- [MATLAB Financial Toolbox](https://www.mathworks.com/products/finseries.html)
+- MATLAB Financial Toolbox
 
 ## Challenges and Considerations
 

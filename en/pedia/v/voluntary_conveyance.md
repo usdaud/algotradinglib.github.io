@@ -1,6 +1,6 @@
 # Voluntary Conveyance
 
-Voluntary conveyance is a term that is used in the fields of [real estate](../r/real_estate.md), legal transactions, and [estate](../e/estate.md) management, specifically to describe the intentional and willing transfer of property from one party to another without any external compulsion or legal requirement. This type of property transfer is often carried out through formal documentation such as deeds, and it is executed with the mutual consent of all involved parties. 
+Voluntary conveyance is a term that is used in the fields of [real estate](../r/real_estate.md), legal transactions, and [estate](../e/estate.md) management, specifically to describe the intentional and willing transfer of property from one party to another without any external compulsion or legal requirement. This type of property transfer is often carried out through formal documentation such as deeds, and it is executed with the mutual consent of all involved parties.
 
 ## Key Components of Voluntary Conveyance
 
@@ -15,11 +15,11 @@ In a voluntary conveyance, the involved parties are typically referred to as the
 The transfer of property through voluntary conveyance is usually documented using formal instruments such as deeds. The most commonly used deeds in voluntary conveyance include:
 
 - **[Warranty Deed](../w/warranty_deed.md):** A legal document that guarantees the [grantor](../g/grantor.md) holds clear title to the property and has the right to transfer it. It also assures the [grantee](../g/grantee.md) that the property is free from mortgages or other encumbrances.
-  
+
 - **[Quitclaim Deed](../q/quitclaim_deed.md):** This type of [deed](../d/deed.md) transfers whatever [interest](../i/interest.md) the [grantor](../g/grantor.md) has in the property without making any guarantees about the title. It provides the least amount of protection for the [grantee](../g/grantee.md).
-  
+
 - **[Grant Deed](../g/grant_deed.md):** An intermediary between a [warranty deed](../w/warranty_deed.md) and a [quitclaim deed](../q/quitclaim_deed.md), a [grant deed](../g/grant_deed.md) assures the [grantee](../g/grantee.md) that the [grantor](../g/grantor.md) has not previously transferred the property to someone else and that the property is free of any encumbrances made by the [grantor](../g/grantor.md).
-  
+
 Each type of [deed](../d/deed.md) serves a different purpose and provides a different level of protection to the [grantee](../g/grantee.md).
 
 ### Legal Considerations
@@ -27,7 +27,7 @@ Each type of [deed](../d/deed.md) serves a different purpose and provides a diff
 When conducting a voluntary conveyance, it is important to take into account several legal considerations to ensure the [transaction](../t/transaction.md) is legally binding and recognized by the pertinent authorities.
 
 1. **Identification and Description of the Property:** Accurately identifying and describing the property being conveyed is critical. This typically involves providing the legal description of the property, which includes pertinent details such as parcel numbers, boundaries, and dimensions.
-   
+
 2. **Signatures and Notarization:** Both the [grantor](../g/grantor.md) and [grantee](../g/grantee.md) are required to sign the [deed](../d/deed.md), and their signatures must be witnessed and notarized to validate the document. Notarization helps deter [fraud](../f/fraud.md) and ensures that the signatories understand the implications of the [transaction](../t/transaction.md).
 
 3. **Recording the [Deed](../d/deed.md):** In [order](../o/order.md) to provide public notice of the property transfer and protect the interests of the [grantee](../g/grantee.md), the [deed](../d/deed.md) must be recorded with the local county recorder's office or land registry. Recording the [deed](../d/deed.md) makes the property [transaction](../t/transaction.md) a matter of public record and helps prevent disputes over ownership.

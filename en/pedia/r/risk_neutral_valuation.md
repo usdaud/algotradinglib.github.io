@@ -54,8 +54,8 @@ In the context of [risk](../r/risk.md)-[neutral](../n/neutral.md) [valuation](..
 
 ### Implementation
 1. **Generate paths** for the [underlying asset](../u/underlying_asset.md) using [geometric Brownian motion](../g/geometric_brownian_motion.md):
-   \[ S_t = S_0 e^{(r - \sigma^2/2)t + \sigma W_t} \]
-   where \( W_t \) is a Wiener process under the [risk](../r/risk.md)-[neutral](../n/neutral.md) measure.
+ \[ S_t = S_0 e^{(r - \sigma^2/2)t + \sigma W_t} \]
+ where \( W_t \) is a Wiener process under the [risk](../r/risk.md)-[neutral](../n/neutral.md) measure.
 2. **Calculate payoffs** for each scenario based on the type of [derivative](../d/derivative.md).
 3. **Average payoffs** and [discount](../d/discount.md) back at the [risk](../r/risk.md)-free rate.
 
@@ -111,13 +111,10 @@ Regulations and compliance requirements can impact the application of [risk](../
 Several firms provide tools and services for [financial modeling](../f/financial_modeling.md) and [risk](../r/risk.md)-[neutral](../n/neutral.md) [valuation](../v/valuation.md). Some notable companies include:
 
 - **Numerix**: Numerix offers a suite of analytics and models for pricing, [risk management](../r/risk_management.md), and [financial analysis](../f/financial_analysis.md).
-  [Numerix](https://www.numerix.com/)
 
 - **Quantifi**: Quantifi provides advanced analytics, trading, and [risk management](../r/risk_management.md) solutions for the global financial [industry](../i/industry.md).
-  [Quantifi](https://www.quantifisolutions.com/)
 
 - **FINCAD**: FINCAD delivers enterprise solutions for [derivatives](../d/derivatives.md) analytics and [risk management](../r/risk_management.md).
-  [FINCAD](https://www.fincad.com/)
 
 ## Conclusion
 

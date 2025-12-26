@@ -34,9 +34,8 @@ Understand how tail [risk management](../r/risk_management.md) was crucial durin
 
 ### Companies Specialized in Tail Risk Management
 Several financial firms specialize in providing solutions and analytics for tail [risk management](../r/risk_management.md):
-- **Swan Global Investments**: [Swan Global Investments](https://www.swanglobalinvestments.com/) offers investment strategies centered on mitigating tail risks through defined [risk](../r/risk.md) strategies.
-- **Hodges [Capital](../c/capital.md)**: [Hodges Capital](https://www.hodgescapital.com/) provides investment solutions that focus on safeguarding portfolios from extreme [market](../m/market.md) downturns.
+- **Swan Global Investments**: Swan Global Investments offers investment strategies centered on mitigating tail risks through defined [risk](../r/risk.md) strategies.
+- **Hodges [Capital](../c/capital.md)**: Hodges Capital provides investment solutions that focus on safeguarding portfolios from extreme [market](../m/market.md) downturns.
 
 ### Final Thoughts
 Tail [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md) is not merely about reacting to [market](../m/market.md) downturns but proactively preparing for unpredictable extreme events. As markets evolve with increasing complexity and interconnectivity, the importance of [robust](../r/robust.md) tail [risk management](../r/risk_management.md) strategies continues to grow. Algorithmic traders who prioritize the management of tail risks [will](../w/will.md) be better positioned to sustain their strategies while navigating through rare yet potentially devastating [market anomalies](../m/market_anomalies.md).
-

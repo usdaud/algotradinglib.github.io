@@ -1,18 +1,18 @@
 # Floating Rate Note (FRN)
 
-A Floating Rate [Note](../n/note.md) (FRN) is a type of [bond](../b/bond.md) or [debt instrument](../d/debt_instrument.md) with a [variable interest rate](../v/variable_interest_rate.md). Unlike fixed-rate bonds that have consistent [interest](../i/interest.md) payments throughout their life, the [interest](../i/interest.md) payments on FRNs fluctuate, typically in line with [benchmark](../b/benchmark.md) [interest](../i/interest.md) rates such as LIBOR (London Interbank Offered Rate), EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate), or the [Federal Funds Rate](../f/federal_funds_rate.md). This unique characteristic makes FRNs attractive to investors looking to mitigate [interest rate risk](../i/interest_rate_risk.md), particularly during periods of rising or volatile [interest](../i/interest.md) rates.
+A Floating Rate [Note](../n/note.md) (FRN) is a type of [bond](../b/bond.md) or [debt instrument](../d/debt_instrument.md) with a [variable interest rate](../v/variable_interest_rate.md). Unlike fixed-rate bonds that have consistent [interest](../i/interest.md) payments throughout their life, the [interest](../i/interest.md) payments on FRNs fluctuate, typically in line with [benchmark](../b/benchmark.md) [interest](../i/interest.md) rates such as SOFR (Secured Overnight Financing Rate), EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate), or the [Federal Funds Rate](../f/federal_funds_rate.md). Note: LIBOR was phased out in June 2023. This unique characteristic makes FRNs attractive to investors looking to mitigate [interest rate risk](../i/interest_rate_risk.md), particularly during periods of rising or volatile [interest](../i/interest.md) rates.
 
 ## Overview
 
-FRNs can be issued by governments, financial institutions, and corporations. They are particularly common in the banking sector. These notes [offer](../o/offer.md) a number of advantages and disadvantages that appeal to different types of investors. Understanding the mechanics of FRNs is crucial for making informed investment decisions and managing [risk](../r/risk.md). 
+FRNs can be issued by governments, financial institutions, and corporations. They are particularly common in the banking sector. These notes [offer](../o/offer.md) a number of advantages and disadvantages that appeal to different types of investors. Understanding the mechanics of FRNs is crucial for making informed investment decisions and managing [risk](../r/risk.md).
 
 ### Structure
 
 The [interest rate](../i/interest_rate.md) on an FRN is composed of two components:
-1. **[Reference Rate](../r/reference_rate.md):** This is the [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md), such as LIBOR, that the FRN's [interest](../i/interest.md) payments track.
+1. **[Reference Rate](../r/reference_rate.md):** This is the [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md), such as SOFR (or historically LIBOR prior to June 2023), that the FRN's [interest](../i/interest.md) payments track.
 2. **Spread:** This is an additional amount, stated in [basis](../b/basis.md) points, added to the [reference rate](../r/reference_rate.md) to calculate the total [interest](../i/interest.md) [payment](../p/payment.md). The spread remains constant over the life of the FRN.
 
-For example, if an FRN is pegged to the 3-month LIBOR with a spread of 100 [basis](../b/basis.md) points (1%), and the current 3-month LIBOR is 2.5%, the [interest rate](../i/interest_rate.md) for the FRN would be 3.5%.
+For example, if an FRN is pegged to SOFR with a spread of 100 [basis](../b/basis.md) points (1%), and the current SOFR is 2.5%, the [interest rate](../i/interest_rate.md) for the FRN would be 3.5%.
 
 [Interest](../i/interest.md) payments are made at regular intervals, commonly quarterly or semi-annually. As the [reference rate](../r/reference_rate.md) changes, so does the [interest](../i/interest.md) [payment](../p/payment.md) amount, allowing the FRN to adapt to [market](../m/market.md) conditions.
 
@@ -58,9 +58,9 @@ Municipalities may [issue](../i/issue.md) FRNs to raise funds for public project
 
 Effective [floating rate notes](../f/floating_rate_notes.md) rely on well-established and transparent [benchmark](../b/benchmark.md) rates. The commonly used benchmarks include:
 
-### LIBOR
+### LIBOR (Phased Out)
 
-LIBOR has been the primary [reference rate](../r/reference_rate.md) for many FRNs globally. However, due to past manipulation scandals and the transition to more reliable benchmarks, LIBOR is scheduled to be phased out by the end of 2021.
+LIBOR was the primary [reference rate](../r/reference_rate.md) for many FRNs globally. However, due to past manipulation scandals and the transition to more reliable benchmarks, LIBOR was phased out in June 2023 and replaced by alternative reference rates such as SOFR.
 
 ### EURIBOR
 
@@ -132,7 +132,7 @@ The regulatory environment for FRNs is dynamic, with changes impacting both issu
 
 ### Benchmark Reform
 
-The transition from LIBOR to alternative benchmarks like SOFR has significant implications for FRNs. [Market](../m/market.md) participants need to understand these changes and adapt existing contracts to new reference rates.
+The transition from LIBOR to alternative benchmarks like SOFR was completed in June 2023 and has significant implications for FRNs. [Market](../m/market.md) participants needed to understand these changes and adapt existing contracts to new reference rates.
 
 ### Disclosure Requirements
 
@@ -144,4 +144,4 @@ Banks holding FRNs need to account for them in their [risk-weighted assets](../r
 
 ## Conclusion
 
-[Floating Rate Notes](../f/floating_rate_notes.md) [offer](../o/offer.md) unique advantages in managing [interest rate risk](../i/interest_rate_risk.md), providing regular [income](../i/income.md), and diversifying investment portfolios. However, they come with complexities and risks that require careful consideration. As [interest rate](../i/interest_rate.md) benchmarks evolve, understanding the dynamics of FRNs and their [underlying](../u/underlying.md) reference rates is more critical than ever. Investors and issuers alike must stay informed and responsive to the changing landscape to [capitalize](../c/capitalize.md) on the benefits of [Floating Rate Notes](../f/floating_rate_notes.md). For further detailed and specific information about particular FRNs and their applications, investors can refer to official documents and resources from financial institutions like [JP Morgan](https://www.jpmorgan.com), [Goldman Sachs](https://www.goldmansachs.com), and government bodies like the [U.S. Treasury](https://www.treasury.gov).
+[Floating Rate Notes](../f/floating_rate_notes.md) [offer](../o/offer.md) unique advantages in managing [interest rate risk](../i/interest_rate_risk.md), providing regular [income](../i/income.md), and diversifying investment portfolios. However, they come with complexities and risks that require careful consideration. As [interest rate](../i/interest_rate.md) benchmarks evolve, understanding the dynamics of FRNs and their [underlying](../u/underlying.md) reference rates is more critical than ever. Investors and issuers alike must stay informed and responsive to the changing landscape to [capitalize](../c/capitalize.md) on the benefits of [Floating Rate Notes](../f/floating_rate_notes.md). For further detailed and specific information about particular FRNs and their applications, investors can refer to official documents and resources from financial institutions like JP Morgan, Goldman Sachs, and government bodies like the U.S. Treasury.

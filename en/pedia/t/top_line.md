@@ -4,7 +4,7 @@ In the realm of [finance](../f/finance.md) and [accounting](../a/accounting.md),
 
 ## Components of the Top Line
 
-**[Gross Sales](../g/gross_sales.md):** 
+**[Gross Sales](../g/gross_sales.md):**
 [Gross sales](../g/gross_sales.md) are the total [revenue](../r/revenue.md) generated from the [sale](../s/sale.md) of goods or services. This does not include any returns, allowances, or discounts that may be subtracted later.
 
 **[Revenue](../r/revenue.md) from Operations:**
@@ -47,12 +47,10 @@ The top line should not be confused with the [bottom line](../b/bottom_line.md),
 1. **Amazon:**
 Amazon has shown consistent top line growth for years. In 2021, the company generated $469.8 billion in [revenue](../r/revenue.md), up from $386 billion in 2020. This growth was driven by increases in e-[commerce](../c/commerce.md) sales, AWS services, and other areas.
 
-    **Source:** [Amazon Investor Relations](https://www.amazon.com/ir)
 
 2. **Apple:**
 Apple’s top line has seen substantial growth over the years. For fiscal year 2021, Apple reported revenues of $365.8 billion, up from $274.5 billion in 2020, largely due to [robust](../r/robust.md) sales of iPhones, Macs, and other services.
 
-    **Source:** [Apple Investor Relations](https://investor.apple.com)
 
 ## Analyzing the Top Line
 
@@ -74,6 +72,6 @@ This is calculated as a percentage increase in [revenue](../r/revenue.md) over a
 
 The top line is a fundamental metric that provides insight into a company's [revenue](../r/revenue.md)-generating capability. It is an essential starting point for further [financial analysis](../f/financial_analysis.md) and helps in understanding a company's [market](../m/market.md) position, growth trajectory, and operational effectiveness. While it should not be the sole metric for investment decisions, it plays a critical role in providing a comprehensive financial picture.
 
-Understanding the top line in conjunction with other financial metrics can provide a holistic view of a company's performance and potential for future growth. 
+Understanding the top line in conjunction with other financial metrics can provide a holistic view of a company's performance and potential for future growth.
 
-For more information about how companies report and analyze their top line, visit the [investor relations](../i/investor_relations.md) pages of major companies like Amazon or Apple.
+./i/investor_relations.md) pages of major companies like Amazon or Apple.

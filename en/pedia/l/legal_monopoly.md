@@ -68,17 +68,17 @@ Monopolies have significant power, which can lead to abuses, even with regulator
 ### United States Postal Service (USPS)
 The USPS operates as a legal [monopoly](../m/monopoly.md) in the United States with exclusive rights to deliver first-class mail. This ensures that even the most remote areas receive postal services. The USPS is also subject to strict regulation and must adhere to service and quality standards set by the government.
 
-- [USPS Official Website](https://www.usps.com)
+-
 
 ### British Telecom (BT)
 Historically, British Telecom operated as a legal [monopoly](../m/monopoly.md) in the UK’s telecommunications [market](../m/market.md). This allowed for significant investment in the national phone network. Over time, the [market](../m/market.md) has been liberalized, introducing competition, but BT still remains a major player.
 
-- [BT Official Website](https://www.bt.com)
+-
 
 ### Con Edison
 Consolidated Edison, Inc., commonly known as Con Edison or Con Ed, is a regulated company that operates as a legal [monopoly](../m/monopoly.md) in the [provision](../p/provision.md) of electricity, gas, and steam in New York City and Westchester County. The government regulates it to ensure fair rates and adequate service.
 
-- [Con Edison Official Website](https://www.coned.com)
+-
 
 ## Regulatory Framework
 
@@ -88,8 +88,8 @@ While legal monopolies are created and sanctioned by the government, they must s
 ### Regulatory Agencies
 Various agencies oversee and regulate legal monopolies. For instance, the Federal Energy Regulatory [Commission](../c/commission.md) (FERC) in the USA regulates electricity and gas utilities, ensuring fair practices and rates. Similarly, the Federal Communications [Commission](../c/commission.md) (FCC) oversees telecommunications.
 
-- [FERC Official Website](https://www.ferc.gov)
-- [FCC Official Website](https://www.fcc.gov)
+-
+-
 
 ### Rate Setting
 Regulatory bodies often have the authority to approve or set rates that legal monopolies can charge. This prevents monopolies from exploiting their [market](../m/market.md) position to charge exorbitant prices. Rate-setting processes usually involve detailed cost analyses and public input.

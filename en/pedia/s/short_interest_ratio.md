@@ -23,7 +23,7 @@ This means it would take approximately 5 days of average trading [volume](../v/v
 ### Implications of Short Interest Ratio
 
 - **High SIR**: A high [Short Interest](../s/short_interest.md) Ratio indicates that a significant number of investors believe the stock price [will](../w/will.md) decline. This can suggest bearish [market sentiment](../m/market_sentiment.md). However, it may also lead to a "[short squeeze](../s/short_squeeze.md)" if the stock price unexpectedly rises, forcing short sellers to buy back [shares](../s/shares.md) quickly, further driving up the price.
-  
+
 - **Low SIR**: A low [Short Interest](../s/short_interest.md) Ratio implies that fewer investors are betting against the stock, which could be a sign of bullish sentiment or limited [interest](../i/interest.md) in shorting the stock due to perceived stability.
 
 ## Analyzing Short Interest Ratio
@@ -78,7 +78,7 @@ The [Short Interest](../s/short_interest.md) Ratio is a valuable tool for invest
 
 For more information on [short interest](../s/short_interest.md) and related financial metrics, visit the following resources:
 
-- [NASDAQ Short Interest](https://www.nasdaq.com/market-activity/short-interest)
-- [NYSE Short Interest](https://www.nyse.com/market-data/short-interest)
+- NASDAQ Short Interest
+- NYSE Short Interest
 
 Incorporating the [Short Interest](../s/short_interest.md) Ratio into a broader [investment strategy](../i/investment_strategy.md) can enhance [risk management](../r/risk_management.md), support more informed trading decisions, and potentially uncover [lucrative](../l/lucrative.md) opportunities in both bullish and bearish [market](../m/market.md) conditions.

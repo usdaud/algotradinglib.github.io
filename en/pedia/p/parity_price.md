@@ -81,19 +81,19 @@ Several online platforms and financial tools [offer](../o/offer.md) calculators 
 
 [Bloomberg](../b/bloomberg.md) offers extensive financial data and tools for calculating [parity](../p/parity.md) price, particularly useful for institutional investors.
 
-Website: [Bloomberg](https://www.bloomberg.com/)
+online platform: Bloomberg
 
 ### Yahoo Finance
 
 For retail investors, [Yahoo Finance](../y/yahoo_finance.md) provides useful tools and calculators that can help determine [parity](../p/parity.md) price in relation to various securities.
 
-Website: [Yahoo Finance](https://finance.yahoo.com/)
+online platform: Yahoo Finance
 
 ### Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) also offers trading platforms equipped with [parity](../p/parity.md) price calculators, facilitating efficient trading and investment strategies.
 
-Website: [Interactive Brokers](https://www.interactivebrokers.com/)
+online platform: Interactive Brokers
 
 ## Conclusion
 

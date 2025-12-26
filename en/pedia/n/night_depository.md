@@ -56,4 +56,4 @@ With advancements in [mobile banking](../m/mobile_banking.md) apps and digital f
 
 Night depositories continue to provide a critical service, especially for cash-intensive businesses. The safety, convenience, and [cash flow](../c/cash_flow.md) benefits make them a valuable tool in financial management. However, the rise of digital banking and 24/7 ATMs offers businesses additional flexibility and [options](../o/options.md) for managing deposits and transactions effectively.
 
-For more in-depth information on services provided by different financial institutions, you can visit the websites of major banks such as [Bank of America](https://www.bankofamerica.com/) or [Wells Fargo](https://www.wellsfargo.com/).
+For more in-depth information on services provided by different financial institutions, you can visit the websites of major banks such as Bank of America or Wells Fargo.

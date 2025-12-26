@@ -17,7 +17,7 @@ These indirect [exchange](../e/exchange.md) rates are crucial, especially in glo
 In the world of [algorithmic trading](../a/algorithmic_trading.md), where speed and precision are paramount, X-rate analysis is indispensable for several reasons:
 
 1. **[Arbitrage](../a/arbitrage.md) Opportunities**: By identifying discrepancies in the pricing of [currency](../c/currency.md) pairs across different markets, traders can exploit [arbitrage](../a/arbitrage.md) opportunities to secure [risk](../r/risk.md)-free profits.
-   
+
 2. **[Risk Management](../r/risk_management.md)**: Cross [exchange](../e/exchange.md) rates allow traders to [hedge](../h/hedge.md) risks more effectively. By understanding the interrelationships among various currencies, more informed decisions can be made to mitigate potential losses.
 
 3. **[Market Depth](../m/market_depth.md)**: X-rate analysis provides a deeper understanding of [market dynamics](../m/market_dynamics.md). It uncovers hidden trends and patterns that are not immediately visible when analyzing individual [currency](../c/currency.md) pairs.
@@ -31,7 +31,7 @@ Effective X-rate analysis involves various methodologies, ranging from statistic
 Statistical [arbitrage](../a/arbitrage.md) is a popular strategy that uses statistical methods to identify and exploit price inefficiencies. This approach involves:
 
 1. **Pair Trading**: Involves trading two correlated [currency](../c/currency.md) pairs simultaneously. By analyzing the spread between these pairs, traders can determine [arbitrage](../a/arbitrage.md) opportunities.
-   
+
 2. **Time-Series Analysis**: Techniques like cointegration and [autocorrelation](../a/autocorrelation.md) are used to analyze the historical data of [currency](../c/currency.md) pairs to predict future price movements.
 
 ### Machine Learning and AI
@@ -39,7 +39,7 @@ Statistical [arbitrage](../a/arbitrage.md) is a popular strategy that uses stati
 With advancements in technology, [machine learning](../m/machine_learning.md), and AI have revolutionized X-rate analysis. Algorithms can process vast amounts of data at high speeds to identify complex patterns. Specific techniques include:
 
 1. **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on historical data to predict future X-rates. This involves feature engineering, model selection, and validation.
-   
+
 2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: [Clustering algorithms](../c/clustering_algorithms.md) like K-means are used to group similar [currency](../c/currency.md) pairs, making it easier to identify anomalies and opportunities.
 
 ### High-Frequency Trading (HFT)
@@ -47,7 +47,7 @@ With advancements in technology, [machine learning](../m/machine_learning.md), a
 High-Frequency Trading involves executing a large number of trades at extremely high speeds. For X-rate analysis, HFT algorithms can:
 
 1. **Real-Time Data Processing**: Continuously monitor cross [exchange](../e/exchange.md) rates across [multiple](../m/multiple.md) platforms to identify incongruences instantaneously.
-   
+
 2. **Latency [Arbitrage](../a/arbitrage.md)**: Exploit minor time differences in the dissemination of [exchange](../e/exchange.md) rates between different trading platforms.
 
 ## Technological Infrastructure
@@ -61,7 +61,7 @@ Real-time and historical data feeds are the backbone of any algo-trading system.
 1. **[Market](../m/market.md) Data**: Real-time [bid](../b/bid.md)/ask prices, [trade](../t/trade.md) volumes, and historical price data for various [currency](../c/currency.md) pairs.
 2. **News Feeds**: Real-time news feeds to capture macroeconomic events affecting [currency](../c/currency.md) markets.
 
-Reliable providers include [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) [Refinitiv](https://www.refinitiv.com/en), and [QuantConnect](https://www.quantconnect.com/).
+Reliable providers include [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) Refinitiv, and QuantConnect.
 
 ### Trading Platforms
 
@@ -69,7 +69,7 @@ Automated trading platforms provide the tools and interfaces necessary for devel
 
 1. **MetaTrader 4/5 (MT4/MT5)**: Widely used for forex trading, [offering](../o/offering.md) extensive scripting capabilities through MQL4/5.
 2. **[TradeStation](../t/tradestation.md)**: Known for its [robust](../r/robust.md) analytics and scripting capabilities via EasyLanguage.
-3. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including forex.
+3. **[StockSharp](../s/stocksharp.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including forex.
 
 ### Execution Mechanisms
 
@@ -89,10 +89,10 @@ X-rate analysis is not just a theoretical concept. It finds practical applicatio
 In the forex [market](../m/market.md), discrepancies between cross rates on different platforms or regional exchanges can be exploited. For instance:
 
 1. **Triangular [Arbitrage](../a/arbitrage.md)**: This involves three currencies and takes advantage of inconsistencies among their [exchange](../e/exchange.md) rates. The process is as follows:
-   - Convert [Currency](../c/currency.md) A to [Currency](../c/currency.md) B.
-   - Convert [Currency](../c/currency.md) B to [Currency](../c/currency.md) C.
-   - Finally, convert [Currency](../c/currency.md) C back to [Currency](../c/currency.md) A.
-   Any difference between the initial and final amounts represents an [arbitrage](../a/arbitrage.md) [profit](../p/profit.md).
+ - Convert [Currency](../c/currency.md) A to [Currency](../c/currency.md) B.
+ - Convert [Currency](../c/currency.md) B to [Currency](../c/currency.md) C.
+ - Finally, convert [Currency](../c/currency.md) C back to [Currency](../c/currency.md) A.
+ Any difference between the initial and final amounts represents an [arbitrage](../a/arbitrage.md) [profit](../p/profit.md).
 
 ### Hedging in Multinational Corporations
 

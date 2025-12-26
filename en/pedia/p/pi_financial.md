@@ -44,5 +44,3 @@ PI Financial is regulated by several top-tier financial authorities in Canada, e
 - Investment [Industry](../i/industry.md) Regulatory Organization of Canada (IIROC)
 - Canadian [Investor](../i/investor.md) Protection [Fund](../f/fund.md) (CIPF)
 
-## Website
-For more information and to start trading, visit the official PI Financial website: [PI Financial](https://www.pifinancialcorp.com)

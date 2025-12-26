@@ -108,9 +108,9 @@ The future of trading is likely to be shaped by continued technological advancem
 3. **Regulation**: Evolving regulatory frameworks to address new challenges posed by technological advancements in trading.
 
 Links to some of the companies mentioned:
-- Virtu Financial: [Virtu Financial](https://www.virtu.com/)
-- Citadel Securities: [Citadel Securities](https://www.citadelsecurities.com/)
-- Renaissance Technologies: [Renaissance Technologies](https://www.rentec.com/)
-- Two Sigma: [Two Sigma](https://www.twosigma.com/)
-- [Robinhood](../r/robinhood.md): [Robinhood](https://robinhood.com/)
-- [eToro](../e/etoro.md): [eToro](https://www.etoro.com/)
+- Virtu Financial: Virtu Financial
+- Citadel Securities: Citadel Securities
+- Renaissance Technologies: Renaissance Technologies
+- Two Sigma: Two Sigma
+- [Robinhood](../r/robinhood.md): Robinhood
+- [eToro](../e/etoro.md): eToro

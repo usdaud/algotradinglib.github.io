@@ -48,7 +48,7 @@ Once a [reorganization](../r/reorganization.md) plan is proposed, it must be app
 
 #### Business Continuity
 
-One of the significant benefits of a DIP is that it allows the [business](../b/business.md) to continue its operations, preserving jobs and supplier relationships, and maintaining [customer](../c/customer.md) [trust](../t/trust.md). 
+One of the significant benefits of a DIP is that it allows the [business](../b/business.md) to continue its operations, preserving jobs and supplier relationships, and maintaining [customer](../c/customer.md) [trust](../t/trust.md).
 
 #### Enhanced Creditor Recovery
 
@@ -82,7 +82,7 @@ One of the most notable examples of DIP [financing](../f/financing.md) is the ca
 
 In 2012, Eastman Kodak filed for [Chapter 11 bankruptcy](../c/chapter_11_bankruptcy.md) and obtained DIP [financing](../f/financing.md) to support its [reorganization](../r/reorganization.md) efforts. The [financing](../f/financing.md) enabled Kodak to maintain operations, develop and execute its [reorganization](../r/reorganization.md) plan, and emerge from [bankruptcy](../b/bankruptcy.md) as a restructured, viable entity.
 
-For more information about these examples, you can visit [General Motors](https://www.gm.com/) and [Eastman Kodak](https://www.kodak.com/).
+For more information about these examples, you can visit General Motors and Eastman Kodak.
 
 ## Conclusion
 

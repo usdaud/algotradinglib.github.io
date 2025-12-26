@@ -42,7 +42,7 @@ Portfolio managers often rely on [sampling](../s/sampling.md) distributions to e
 Assessing the [risk](../r/risk.md) associated with financial instruments, such as [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) calculations, often involves [sampling](../s/sampling.md) distributions. By understanding the [variability](../v/variability.md) of returns and using [sampling](../s/sampling.md) distributions, financial analysts can estimate potential losses under varying [market](../m/market.md) conditions.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), strategies based on statistical models are frequently back-tested using historical data. By understanding the [sampling](../s/sampling.md) [distribution](../d/distribution.md) of [trading signals](../t/trading_signals.md) and returns, quant analysts can improve the robustness and reliability of their [trading algorithms](../t/trading_algorithms.md).
+In [algorithmic trading](../a/algorithmic_trading.md), strategies based on statistical models are frequently back-tested using historical data. By understanding the [sampling](../s/sampling.md) [distribution](../d/distribution.md) of [trading signals](../t/trading_signals.md) and returns, quant analysts can improve the robustness and reliability of their [trading algorithms](../t/trading_algorithms.md).
 
 ## Limitations and Assumptions
 While [sampling](../s/sampling.md) distributions are powerful tools, they rely on several assumptions and have limitations:

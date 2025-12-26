@@ -100,7 +100,7 @@ Roy's Safety-First Criterion can [complement](../c/complement.md) Modern Portfol
 
 ### Use in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the SFRatio can serve as a critical component in the development of [trading algorithms](../t/trading_algorithms.md). By programming the criterion into algorithms, traders can automate the selection of assets or portfolios that meet predefined safety standards. This approach is particularly beneficial in high-frequency trading, where rapid decision-making is paramount.
+In [algorithmic trading](../a/algorithmic_trading.md), the SFRatio can serve as a critical component in the development of [trading algorithms](../t/trading_algorithms.md). By programming the criterion into algorithms, traders can automate the selection of assets or portfolios that meet predefined safety standards. This approach is particularly beneficial in high-frequency trading, where rapid decision-making is paramount.
 
 ### Corporate Finance Applications
 

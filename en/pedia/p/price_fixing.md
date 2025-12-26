@@ -74,11 +74,11 @@ Price fixing disrupts the natural forces of [supply](../s/supply.md) and [demand
 
 ## Price Fixing in the Digital Age
 
-The advent of technology has added layers of complexity to detecting and preventing price fixing. Algorithms employed in [algorithmic trading](../a/accountability.md) and fintech sectors can be manipulated to fix prices without human intervention, making traditional methods of detection less effective.
+The advent of technology has added layers of complexity to detecting and preventing price fixing. Algorithms employed in [algorithmic trading](../a/algorithmic_trading.md) and fintech sectors can be manipulated to fix prices without human intervention, making traditional methods of detection less effective.
 
 ### Algorithms and Machine Learning
 
-In markets where [algorithmic trading](../a/accountability.md) is prominent, the algorithms themselves can be programmed to follow pre-set pricing strategies that mimic collusive behavior. Legal frameworks are evolving to address these new challenges, but there remains a significant gap in regulation and enforcement.
+In markets where [algorithmic trading](../a/algorithmic_trading.md) is prominent, the algorithms themselves can be programmed to follow pre-set pricing strategies that mimic collusive behavior. Legal frameworks are evolving to address these new challenges, but there remains a significant gap in regulation and enforcement.
 
 ### Blockchain and Transparency
 
@@ -90,4 +90,4 @@ While most discussions around price fixing focus on legal and economic consequen
 
 ## Conclusion
 
-Price fixing is a significant [issue](../i/issue.md) in [financial markets](../f/financial_market.md) and everyday [commerce](../c/commerce.md). While the primary focus has traditionally been on brick-and-mortar businesses, there is increasing attention on digital markets and [algorithmic trading](../a/accountability.md) practices. As legal frameworks catch up with technological advancements, the enforcement and detection strategies must also evolve. The ultimate goal is to preserve fair [market](../m/market.md) practices, protect consumers, and foster an environment where innovation can thrive.
+Price fixing is a significant [issue](../i/issue.md) in [financial markets](../f/financial_market.md) and everyday [commerce](../c/commerce.md). While the primary focus has traditionally been on brick-and-mortar businesses, there is increasing attention on digital markets and [algorithmic trading](../a/algorithmic_trading.md) practices. As legal frameworks catch up with technological advancements, the enforcement and detection strategies must also evolve. The ultimate goal is to preserve fair [market](../m/market.md) practices, protect consumers, and foster an environment where innovation can thrive.

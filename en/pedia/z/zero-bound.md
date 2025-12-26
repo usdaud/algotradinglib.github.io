@@ -1,6 +1,6 @@
 # Zero-Bound
 
-Zero-bound, also referred to as the [zero lower bound](../z/zero_lower_bound.md) (ZLB), is an economic concept that describes a situation where a central [bank](../b/bank.md)'s [nominal interest rate](../n/nominal_interest_rate.md) is at or near 0%, making it difficult to stimulate [economic growth](../e/economic_growth.md) through traditional [monetary policy](../m/monetary_policy.md) instruments. This term became particularly relevant during and after the [financial crisis](../f/financial_crisis.md) of 2007-2008, when central banks in many advanced economies reduced [interest](../i/interest.md) rates to very low levels in an attempt to spur economic activity. 
+Zero-bound, also referred to as the [zero lower bound](../z/zero_lower_bound.md) (ZLB), is an economic concept that describes a situation where a central [bank](../b/bank.md)'s [nominal interest rate](../n/nominal_interest_rate.md) is at or near 0%, making it difficult to stimulate [economic growth](../e/economic_growth.md) through traditional [monetary policy](../m/monetary_policy.md) instruments. This term became particularly relevant during and after the [financial crisis](../f/financial_crisis.md) of 2007-2008, when central banks in many advanced economies reduced [interest](../i/interest.md) rates to very low levels in an attempt to spur economic activity.
 
 ## Understanding Zero-Bound
 
@@ -60,13 +60,13 @@ The zero-bound became a pressing [issue](../i/issue.md) during the [financial cr
 
 The [Bank](../b/bank.md) of Japan (BoJ) provides a notable example of dealing with zero-bound issues over an extended period. Japan has faced low growth and deflationary pressures since the early 1990s, leading the BoJ to maintain very low [interest](../i/interest.md) rates for decades. In 2016, the BoJ even adopted a [negative interest rate](../n/negative_interest_rate.md) policy to stimulate economic activity further.
 
-Learn more about the [Bank](../b/bank.md) of Japan's [monetary policy](../m/monetary_policy.md) approaches [here](https://www.boj.or.jp/en/).
+Learn more about the [Bank](../b/bank.md) of Japan's [monetary policy](../m/monetary_policy.md) approaches here.
 
 ### Case Study: European Central Bank
 
 The European Central [Bank](../b/bank.md) (ECB) also encountered the zero-bound condition following the 2008 [financial crisis](../f/financial_crisis.md) and the subsequent [European sovereign debt crisis](../e/european_sovereign_debt_crisis.md). The ECB implemented various measures such as lowering [interest](../i/interest.md) rates, conducting long-term refinancing operations (LTROs), and launching QE programs to support the [Eurozone](../e/eurozone.md) [economy](../e/economy.md).
 
-For additional information on the ECB's response strategies, visit [ECB](https://www.ecb.europa.eu/home/html/index.en.html).
+For additional information on the ECB's response strategies, visit ECB.
 
 ## Theoretical Perspectives
 
@@ -89,7 +89,7 @@ The zero-bound presents a significant challenge to central banks attempting to m
 As historical episodes like the [financial crisis](../f/financial_crisis.md) of 2007-2008 and Japan's prolonged economic struggles illustrate, reaching the zero-bound can have profound and lasting effects on an [economy](../e/economy.md). Therefore, understanding this concept is crucial for policymakers, economists, and the [financial markets](../f/financial_market.md) as they navigate the complexities of modern economic management.
 
 For more information on this topic, consider visiting the following resources:
-- [Federal Reserve](https://www.federalreserve.gov/)
-- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-- [Bank of Japan](https://www.boj.or.jp/en/)
-- [International Monetary Fund (IMF)](https://www.imf.org/)
+- Federal Reserve
+- European Central Bank
+- Bank of Japan
+- International Monetary Fund (IMF)

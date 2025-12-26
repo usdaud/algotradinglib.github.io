@@ -86,6 +86,6 @@ The creation of the ESM and the implementation of the OMT program demonstrated t
 
 ## Conclusion
 
-The European Sovereign [Debt](../d/debt.md) Crisis was a complex and multifaceted event that tested the resilience of the [Eurozone](../e/eurozone.md)'s financial architecture. While significant progress has been made in addressing the structural weaknesses exposed by the crisis, challenges remain in ensuring long-term fiscal stability and economic convergence within the region. The lessons learned from the crisis continue to shape European economic policy and governance. 
+The European Sovereign [Debt](../d/debt.md) Crisis was a complex and multifaceted event that tested the resilience of the [Eurozone](../e/eurozone.md)'s financial architecture. While significant progress has been made in addressing the structural weaknesses exposed by the crisis, challenges remain in ensuring long-term fiscal stability and economic convergence within the region. The lessons learned from the crisis continue to shape European economic policy and governance.
 
-For further reading and details on the European Stability Mechanism (ESM), you can visit their official website: [European Stability Mechanism](https://www.esm.europa.eu/).
+For further reading and details on the European Stability Mechanism (ESM),

@@ -80,15 +80,15 @@ Many companies across various industries encounter unearned [revenue](../r/reven
 
 ### SaaS Companies
 
-Software-as-a-Service (SaaS) businesses commonly receive upfront payments for annual subscriptions. For instance, Salesforce (https://www.salesforce.com) recognizes [revenue](../r/revenue.md) over time as it delivers its service, resulting in significant unearned [revenue](../r/revenue.md) accounts.
+Software-as-a-Service (SaaS) businesses commonly receive upfront payments for annual subscriptions. For instance, Salesforce ( recognizes [revenue](../r/revenue.md) over time as it delivers its service, resulting in significant unearned [revenue](../r/revenue.md) accounts.
 
 ### Airlines
 
-Airlines often sell tickets weeks or months in advance, recognizing the ticket sales as unearned [revenue](../r/revenue.md) until the flight occurs. For example, United Airlines (https://www.united.com) records ticket sales as unearned [revenue](../r/revenue.md) until the flight service is provided.
+Airlines often sell tickets weeks or months in advance, recognizing the ticket sales as unearned [revenue](../r/revenue.md) until the flight occurs. For example, United Airlines ( records ticket sales as unearned [revenue](../r/revenue.md) until the flight service is provided.
 
 ### Insurance Companies
 
-[Insurance](../i/insurance.md) companies receive [premium](../p/premium.md) payments upfront for coverage over time. They initially record these premiums as unearned [revenue](../r/revenue.md) and recognize them as earned [revenue](../r/revenue.md) over the policy period. For instance, State Farm (https://www.statefarm.com) follows this [accounting method](../a/accounting_method.md).
+[Insurance](../i/insurance.md) companies receive [premium](../p/premium.md) payments upfront for coverage over time. They initially record these premiums as unearned [revenue](../r/revenue.md) and recognize them as earned [revenue](../r/revenue.md) over the policy period. For instance, State Farm ( follows this [accounting method](../a/accounting_method.md).
 
 ## Conclusion
 

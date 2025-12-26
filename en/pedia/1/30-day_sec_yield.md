@@ -7,21 +7,21 @@ The 30-Day [SEC Yield](../s/sec_yield.md) is a standardized [yield](../y/yield.m
 The 30-Day [SEC Yield](../s/sec_yield.md) is calculated based on a specific formula outlined by the SEC. It incorporates the [fund](../f/fund.md)’s distributions, expenses, and the period's prevailing [income](../i/income.md) rates. Here’s a step-by-step breakdown of this calculation:
 
 1. **Determine Net [Income](../i/income.md):**
-   - Calculate the [fund](../f/fund.md)’s [income](../i/income.md) from dividends and [interest](../i/interest.md) over the past 30 days.
-   - Subtract the [fund](../f/fund.md)’s expenses (management fees, administrative costs, etc.) incurred during this period.
+ - Calculate the [fund](../f/fund.md)’s [income](../i/income.md) from dividends and [interest](../i/interest.md) over the past 30 days.
+ - Subtract the [fund](../f/fund.md)’s expenses (management fees, administrative costs, etc.) incurred during this period.
 
 2. **Daily Net [Income](../i/income.md) Per Share:**
-   - Divide the net [income](../i/income.md) by the number of days in the period (30 days).
+ - Divide the net [income](../i/income.md) by the number of days in the period (30 days).
 
 3. **[Annualize](../a/annualize.md) the [Income](../i/income.md):**
-   - Multiply the daily net [income](../i/income.md) by 365 to [annualize](../a/annualize.md) the figure.
+ - Multiply the daily net [income](../i/income.md) by 365 to [annualize](../a/annualize.md) the figure.
 
 4. **[Yield](../y/yield.md) Calculation:**
-   - Divide the annualized net [income](../i/income.md) by the [fund](../f/fund.md)’s net [asset](../a/asset.md) [value](../v/value.md) (NAV) per share at the end of the period.
-   - Resulting equation: 
-     \[
-     \text{30-Day [SEC Yield](../s/sec_yield.md)} = \left( \frac{\text{net [investment income](../i/investment_income.md) 30-day period}}{\text{end of period NAV}} \right) \times \frac{365}{30} \times 100
-     \]
+ - Divide the annualized net [income](../i/income.md) by the [fund](../f/fund.md)’s net [asset](../a/asset.md) [value](../v/value.md) (NAV) per share at the end of the period.
+ - Resulting equation:
+ \[
+ \text{30-Day [SEC Yield](../s/sec_yield.md)} = \left( \frac{\text{net [investment income](../i/investment_income.md) 30-day period}}{\text{end of period NAV}} \right) \times \frac{365}{30} \times 100
+ \]
 
 ### Significance of 30-Day SEC Yield
 
@@ -49,16 +49,16 @@ Investors looking at [bond](../b/bond.md) funds can use the 30-Day [SEC Yield](.
 ### Examples of Companies Providing 30-Day SEC Yield Data
 
 1. **Vanguard Group**
-   - Vanguard provides detailed [SEC Yield](../s/sec_yield.md) information for its [bond](../b/bond.md) funds, [offering](../o/offering.md) [transparency](../t/transparency.md) and adherence to SEC standards.
-   - Link: [Vanguard Bond Funds](https://investor.vanguard.com/mutual-funds/profile/overview/VBMFX)
+ - Vanguard provides detailed [SEC Yield](../s/sec_yield.md) information for its [bond](../b/bond.md) funds, [offering](../o/offering.md) [transparency](../t/transparency.md) and adherence to SEC standards.
+ - Link: Vanguard Bond Funds
 
 2. **BlackRock**
-   - BlackRock offers a comprehensive overview of the 30-Day [SEC Yield](../s/sec_yield.md) for its [iShares](../i/ishares.md) [bond](../b/bond.md) ETFs, aiding investors in making informed decisions.
-   - Link: [BlackRock Bond ETFs](https://www.blackrock.com/us/individual/products/239726/)
+ - BlackRock offers a comprehensive overview of the 30-Day [SEC Yield](../s/sec_yield.md) for its [iShares](../i/ishares.md) [bond](../b/bond.md) ETFs, aiding investors in making informed decisions.
+ - Link: BlackRock Bond ETFs
 
 3. **[Fidelity Investments](../f/fidelity_investments.md)**
-   - Fidelity discloses the [SEC Yield](../s/sec_yield.md) for its various [bond](../b/bond.md) funds, providing investors with current and accurate [yield](../y/yield.md) information.
-   - Link: [Fidelity Bond Funds](https://fundresearch.fidelity.com/mutual-funds/fund-snapshot/31617H102)
+ - Fidelity discloses the [SEC Yield](../s/sec_yield.md) for its various [bond](../b/bond.md) funds, providing investors with current and accurate [yield](../y/yield.md) information.
+ - Link: Fidelity Bond Funds
 
 ### Limitations and Considerations
 
@@ -72,4 +72,4 @@ The 30-Day [SEC Yield](../s/sec_yield.md), by design, focuses on a short-term [i
 
 ### Conclusion
 
-The 30-Day [SEC Yield](../s/sec_yield.md) is a vital tool for [bond fund](../b/bond_fund.md) investors, providing a standardized, transparent measure of a [fund](../f/fund.md)’s [income](../i/income.md)-generating potential. It offers a realistic picture of what investors can expect to earn, considering current [market](../m/market.md) conditions and the [fund](../f/fund.md)’s expenses. While it is not without its limitations, the 30-Day [SEC Yield](../s/sec_yield.md) remains an essential metric for making informed investment decisions in the world of [bond](../b/bond.md) funds.
+The 30-Day [SEC Yield](../s/sec_yield.md) is a vital tool for [bond fund](../b/bond_fund.md) investors, providing a standardized, transparent measure of a [fund](../f/fund.md)’s [income](../i/income.md)-generating potential. It offers a realistic picture of what investors can expect to earn, considering current [market](../m/market.md) conditions and the [fund](../f/fund.md)’s expenses. While it is not without its limitations, the 30-Day [SEC Yield](../s/sec_yield.md) remains an essential metric for making informed investment decisions in the world of [bond](../b/bond.md) funds.

@@ -61,9 +61,9 @@ By doing this, the algorithm ensures that:
 ## Companies Offering Collar Trade Execution
 Several financial institutions and trading platforms [offer](../o/offer.md) tools and services to execute collar strategies. Notably:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides a [robust](../r/robust.md) platform for [options](../o/options.md) trading, including the ability to create and manage collar strategies. More information can be found on their [website](https://www.interactivebrokers.com).
-- **TD [Ameritrade](../a/ameritrade.md)**: Offers advanced [options](../o/options.md) trading tools suitable for implementing collar strategies. Details are available on their [website](https://www.tdameritrade.com).
-- **[E*TRADE](../e/e_trade.md)**: Allows traders to design and execute [options](../o/options.md) strategies, including collars. [Check](../c/check.md) their [website](https://us.etrade.com) for more.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides a [robust](../r/robust.md) platform for [options](../o/options.md) trading, including the ability to create and manage collar strategies.
+- **TD [Ameritrade](../a/ameritrade.md)**: Offers advanced [options](../o/options.md) trading tools suitable for implementing collar strategies.
+- **[E*TRADE](../e/e_trade.md)**: Allows traders to design and execute [options](../o/options.md) strategies, including collars.
 
 ## Conclusion
 The collar strategy is a valuable tool in a [trader](../t/trader.md)'s arsenal for managing [risk](../r/risk.md) and protecting gains, especially in volatile markets. By utilizing [algorithmic trading](../a/accountability.md) systems, the [execution](../e/execution.md) of collars can be automated, ensuring consistent application of the strategy without the need for constant monitoring.

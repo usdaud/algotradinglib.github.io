@@ -6,7 +6,7 @@
 
 ## Components of Order Imbalance
 
-[Order](../o/order.md) imbalance typically consists of three primary components: 
+[Order](../o/order.md) imbalance typically consists of three primary components:
 
 1. **Buy [Order](../o/order.md) [Volume](../v/volume.md)**: The total quantity of [shares](../s/shares.md) or contracts requested to be purchased at prevailing [market](../m/market.md) prices.
 2. **Sell [Order](../o/order.md) [Volume](../v/volume.md)**: The total quantity of [shares](../s/shares.md) or contracts requested to be sold at prevailing [market](../m/market.md) prices.
@@ -53,7 +53,7 @@ Traders and algorithmic systems can employ [multiple](../m/multiple.md) strategi
 Algorithmic traders may use imbalances to engage in [arbitrage](../a/arbitrage.md) opportunities:
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Leveraging historical price and [volume](../v/volume.md) data to predict and exploit short-term price discrepancies resulting from imbalances.
-  
+
 ### Mean Reversion
 
 This strategy involves anticipating that prices [will](../w/will.md) revert to their mean following an imbalance-induced price movement:
@@ -71,7 +71,7 @@ This strategy involves anticipating that prices [will](../w/will.md) revert to t
 Modern technology and trading platforms [offer](../o/offer.md) tools to track and react to [order](../o/order.md) imbalances in real-time. These technologies often include:
 
 - **Real-Time Data Feeds**: Providers like *[Bloomberg](../b/bloomberg.md)* and *Thomson [Reuters](../r/reuters.md)* [offer](../o/offer.md) real-time [order book](../o/order_book.md) data to monitor imbalances.
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms such as *[QuantConnect](../q/quantconnect.md)* and *[AlgoTrader](../a/algotrader.md)* enable traders to build, backtest, and deploy strategies that detect and react to imbalances.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms such as *[StockSharp](../s/stocksharp.md)* and *[AlgoTrader](../a/algotrader.md)* enable traders to build, backtest, and deploy strategies that detect and react to imbalances.
 - **[Machine Learning](../m/machine_learning.md) Models**: Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze massive datasets to predict and [capitalize](../c/capitalize.md) on imbalances more precisely.
 
 ## Case Studies and Real-World Examples

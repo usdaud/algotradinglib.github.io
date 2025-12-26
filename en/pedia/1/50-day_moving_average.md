@@ -65,12 +65,10 @@ Consider a [trader](../t/trader.md) looking to invest in Apple Inc. (AAPL). They
 #### Alibaba (BABA)
 
 Alibaba Group [Holdings](../h/holdings.md) trades on the New York Stock [Exchange](../e/exchange.md) under the ticker BABA. Traders often watch the 50-DMA for signs of [trend](../t/trend.md) changes.
-[Alibaba Group Website](https://www.alibabagroup.com)
 
 #### Amazon (AMZN)
 
 Amazon trades on the [NASDAQ](../n/nasdaq.md), and its stock is frequently analyzed using the 50-DMA for identifying entry and exit points.
-[Amazon Investor Relations](https://www.amazon.com/ir)
 
 ## Integration into Algo-Trading
 
@@ -79,7 +77,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the 50-DMA can be integra
 - **Automatic Buy/Sell Orders:** Generate buy signals when the price crosses above the 50-DMA and sell signals when it crosses below.
 - **[Risk Management](../r/risk_management.md):** Use the 50-DMA as a dynamic stop-loss level.
 - **Optimized Parameters:** Adjust the period length for the moving average to optimize performance based on historical data.
-  
+
 For example, a simple moving average crossover algorithm might be designed to buy a stock when the 20-DMA crosses above the 50-DMA ([Golden Cross](../g/golden_cross.md)) and sell when the 20-DMA crosses below the 50-DMA ([Death Cross](../d/death_cross.md)).
 
 ## Tools and Platforms
@@ -87,14 +85,11 @@ For example, a simple moving average crossover algorithm might be designed to bu
 Several trading platforms and [software tools](../s/software_tools_for_trading.md) allow traders to employ the 50-DMA in their strategies:
 
 - **MetaTrader 4/5:** Popular among retail traders for forex and [commodities trading](../c/commodities_trading.md).
-[MetaTrader Website](https://www.metatrader4.com)
 
 - **[ThinkorSwim](../t/thinkorswim.md):** Offered by TD [Ameritrade](../a/ameritrade.md), this platform allows for complex analyses including the 50-DMA.
-[ThinkorSwim Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 - **[NinjaTrader](../n/ninjatrader.md):** Known for its [algorithmic trading](../a/algorithmic_trading.md) capabilities.
-[NinjaTrader Website](https://ninjatrader.com)
 
 ## Conclusion
 
-The 50-Day Moving Average is a valuable tool in the arsenal of both novice and seasoned traders. While it is simple and easy to implement, its usefulness in identifying trends, generating buy and sell signals, and acting as a support or resistance level cannot be understated. By incorporating the 50-DMA into a broader [trading strategy](../t/trading_strategy.md) and using it in conjunction with other indicators, traders can make more informed decisions and improve their chances of success in the markets.
+The 50-Day Moving Average is a valuable tool in the arsenal of both novice and seasoned traders. While it is simple and easy to implement, its usefulness in identifying trends, generating buy and sell signals, and acting as a support or resistance level cannot be understated. By incorporating the 50-DMA into a broader [trading strategy](../t/trading_strategy.md) and using it in conjunction with other indicators, traders can make more informed decisions and improve their chances of success in the markets.

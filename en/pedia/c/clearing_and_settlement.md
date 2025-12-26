@@ -18,9 +18,9 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), [clearing]
 
 Clearinghouses are centralized entities that facilitate the [clearing](../c/clearing.md) process. They act as intermediaries between buyers and sellers in a [trade](../t/trade.md), ensuring that each party fulfills its [obligations](../o/obligation.md). Some well-known clearinghouses include:
 
-- **The [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC)**: A US-based organization that provides [clearing](../c/clearing.md) and settlement services for the [financial markets](../f/financial_market.md). [Visit DTCC](http://www.dtcc.com)
-- **LCH.Clearnet**: A multinational clearinghouse that provides [clearing](../c/clearing.md) services for a wide [range](../r/range.md) of [asset](../a/asset.md) classes. [Visit LCH](https://www.lch.com/)
-- **CME [Clearing](../c/clearing.md)**: The clearinghouse division of the CME Group, which provides [clearing](../c/clearing.md) and settlement services for [derivatives](../d/derivatives.md) and other instruments. [Visit CME Group](https://www.cmegroup.com/clearing.html)
+- **The [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC)**: A US-based organization that provides [clearing](../c/clearing.md) and settlement services for the [financial markets](../f/financial_market.md). Visit DTCC
+- **LCH.Clearnet**: A multinational clearinghouse that provides [clearing](../c/clearing.md) services for a wide [range](../r/range.md) of [asset](../a/asset.md) classes. Visit LCH
+- **CME [Clearing](../c/clearing.md)**: The clearinghouse division of the CME Group, which provides [clearing](../c/clearing.md) and settlement services for [derivatives](../d/derivatives.md) and other instruments. Visit CME Group
 
 ### Settlement
 
@@ -49,9 +49,9 @@ Central [Counterparty](../c/counterparty.md) [Clearing](../c/clearing.md) (CCP) 
 
 Prominent organizations [offering](../o/offering.md) CCP services include:
 
-- **National Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (NSCC)**, a subsidiary of DTCC. [Visit NSCC](http://www.dtcc.com)
-- **Eurex [Clearing](../c/clearing.md)**, operated by [Deutsche Börse](../d/deutsche_börse.md). [Visit Eurex Clearing](https://www.eurex.com/ex-en/clearing)
-  
+- **National Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (NSCC)**, a subsidiary of DTCC. Visit NSCC
+- **Eurex [Clearing](../c/clearing.md)**, operated by [Deutsche Börse](../d/deutsche_börse.md). Visit Eurex Clearing
+
 ### Margining
 
 Margining is another essential element in the [clearing](../c/clearing.md) and settlement process. It involves the posting of [collateral](../c/collateral.md) to cover potential future exposures. In essence:
@@ -79,4 +79,4 @@ Modern technology significantly impacts [clearing](../c/clearing.md) and settlem
 
 ### Conclusion
 
-[Clearing](../c/clearing.md) and settlement are indispensable components of the financial ecosystem, particularly in [algorithmic trading](../a/algorithmic_trading.md). They ensure that transactions are carried out smoothly, efficiently, and safely. As [financial markets](../f/financial_market.md) evolve, these processes [will](../w/will.md) continue to innovate, embracing new technologies and regulatory requirements to maintain the stability and integrity of [financial markets](../f/financial_market.md) worldwide.
+[Clearing](../c/clearing.md) and settlement are indispensable components of the financial ecosystem, particularly in [algorithmic trading](../a/algorithmic_trading.md). They ensure that transactions are carried out smoothly, efficiently, and safely. As [financial markets](../f/financial_market.md) evolve, these processes [will](../w/will.md) continue to innovate, embracing new technologies and regulatory requirements to maintain the stability and integrity of [financial markets](../f/financial_market.md) worldwide.

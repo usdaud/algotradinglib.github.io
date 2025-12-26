@@ -51,9 +51,8 @@ Over the decades, the [yield](../y/yield.md) on 90-Day T-Bills has fluctuated si
 
 Various online trading platforms facilitate the buying and selling of T-Bills directly. Examples include:
 
-- **TreasuryDirect**: A platform managed by the U.S. Department of the Treasury allowing direct purchase of T-Bills (https://www.treasurydirect.gov/).
-- **TD [Ameritrade](../a/ameritrade.md)**: Provides an avenue for trading T-Bills along with a suite of tools for bonds and other fixed-[income](../i/income.md) investments (https://www.tdameritrade.com/).
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers T-Bill trading and extensive research tools to help investors in their decision-making process (https://www.fidelity.com/).
+- **TreasuryDirect**: A platform managed by the U.S. Department of the Treasury allowing direct purchase of T-Bills - **Charles Schwab** (formerly TD Ameritrade, acquired September 2023): Provides an avenue for trading T-Bills along with a suite of tools for bonds and other fixed-[income](../i/income.md) investments (
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers T-Bill trading and extensive research tools to help investors in their decision-making process (
 
 ### Integrating T-Bills in Algotrading Strategies
 
@@ -64,4 +63,4 @@ Various online trading platforms facilitate the buying and selling of T-Bills di
 
 ### Conclusion
 
-The 90-Day Treasury Bill is a fundamental [asset](../a/asset.md) that offers both safety and strategic [value](../v/value.md), especially in a highly automated [trading environment](../t/trading_environment.md). Its attributes, historical significance, and role in [interest rate](../i/interest_rate.md) mechanisms make it a vital tool for [risk management](../r/risk_management.md), [market](../m/market.md) analysis, and [trading strategy](../t/trading_strategy.md) formulation.
+The 90-Day Treasury Bill is a fundamental [asset](../a/asset.md) that offers both safety and strategic [value](../v/value.md), especially in a highly automated [trading environment](../t/trading_environment.md). Its attributes, historical significance, and role in [interest rate](../i/interest_rate.md) mechanisms make it a vital tool for [risk management](../r/risk_management.md), [market](../m/market.md) analysis, and [trading strategy](../t/trading_strategy.md) formulation.

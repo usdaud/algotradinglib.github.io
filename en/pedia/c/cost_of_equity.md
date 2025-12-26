@@ -81,14 +81,11 @@ Cost of [equity](../e/equity.md) serves as a [benchmark](../b/benchmark.md) for 
 ## Benchmark Companies
 Several companies across different industries provide practical examples of cost of [equity](../e/equity.md) calculations and applications:
 
-- **Apple Inc.** (https://www.apple.com/)
-    Apple’s cost of [equity](../e/equity.md) is often analyzed using CAPM due to its significant [market](../m/market.md) presence and growth prospects.
+- **Apple Inc.** Apple’s cost of [equity](../e/equity.md) is often analyzed using CAPM due to its significant [market](../m/market.md) presence and growth prospects.
 
-- **General Electric** (https://www.ge.com/)
-    Known for its diverse operations and [dividend](../d/dividend.md)-paying history, GE can be evaluated using both DDM and CAPM approaches depending on the specific analysis required.
+- **General Electric** Known for its diverse operations and [dividend](../d/dividend.md)-paying history, GE can be evaluated using both DDM and CAPM approaches depending on the specific analysis required.
 
-- **Tesla, Inc.** (https://www.tesla.com/)
-    With a high growth rate and relatively volatile stock, Tesla's cost of [equity](../e/equity.md) is predominantly calculated using the CAPM model to account for [market](../m/market.md) and [systematic risk factors](../s/systematic_risk_factors.md).
+- **Tesla, Inc.** With a high growth rate and relatively volatile stock, Tesla's cost of [equity](../e/equity.md) is predominantly calculated using the CAPM model to account for [market](../m/market.md) and [systematic risk factors](../s/systematic_risk_factors.md).
 
 ## Conclusion
 The cost of [equity](../e/equity.md) is a fundamental concept in [finance](../f/finance.md), representing the compensation investors require for the [risk](../r/risk.md) of owning [shares](../s/shares.md) in a company. Calculated primarily through the [Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM) and the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM), it plays a critical role in investment decisions, [capital budgeting](../c/capital_budgeting.md), financial reporting, and performance assessment. Understanding and accurately calculating the cost of [equity](../e/equity.md) can significantly influence a company’s strategic financial decisions and its attractiveness to investors.

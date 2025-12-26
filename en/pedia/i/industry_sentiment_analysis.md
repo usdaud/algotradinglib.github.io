@@ -1,6 +1,6 @@
 # Industry Sentiment Analysis
 
-[Industry](../i/industry.md) [sentiment analysis](../s/sentiment_analysis.md) is a method of utilizing [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), text analysis, and computational linguistics to identify and extract subjective information from various sources, ultimately determining the overall sentiment or tone towards industries in [financial markets](../f/financial_market.md). This analysis helps in understanding the general mood and opinions expressed in news articles, [social media](../s/social_media.md), forums, and other text-rich data sources about a specific [industry](../i/industry.md), which can then be leveraged to make informed trading decisions. 
+[Industry](../i/industry.md) [sentiment analysis](../s/sentiment_analysis.md) is a method of utilizing [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), text analysis, and computational linguistics to identify and extract subjective information from various sources, ultimately determining the overall sentiment or tone towards industries in [financial markets](../f/financial_market.md). This analysis helps in understanding the general mood and opinions expressed in news articles, [social media](../s/social_media.md), forums, and other text-rich data sources about a specific [industry](../i/industry.md), which can then be leveraged to make informed trading decisions.
 
 ## The Importance of Sentiment Analysis in Trading
 
@@ -32,21 +32,21 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can classi
 ## Applications and Tools
 
 ### 1. **News Analytics Platforms**
-A number of financial services provide [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial news. These platforms analyze news articles from a wide [range](../r/range.md) of sources to generate sentiment scores for different industries or specific [stocks](../s/stock.md). 
+A number of financial services provide [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial news. These platforms analyze news articles from a wide [range](../r/range.md) of sources to generate sentiment scores for different industries or specific [stocks](../s/stock.md).
 
-#### Example: [RavenPack](https://www.ravenpack.com/)
+#### Example: RavenPack
 [RavenPack](../r/ravenpack.md) is a renowned provider of [sentiment analysis](../s/sentiment_analysis.md) tools focused on [financial markets](../f/financial_market.md). Their platform uses NLP and [big data analytics](../b/big_data_analytics_in_trading.md) to turn unstructured data into actionable analytics, [offering](../o/offering.md) insights that traders can integrate into their [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Social Media Monitoring**
 Monitoring [social media](../s/social_media.md) platforms like Twitter, Reddit, and LinkedIn for [sentiment analysis](../s/sentiment_analysis.md) is increasingly common. These platforms provide real-time data reflecting public opinions and can significantly impact [market](../m/market.md) sentiments, especially in retail-heavy [stocks](../s/stock.md).
 
-#### Example: [Dataminr](https://www.dataminr.com/)
+#### Example: Dataminr
 Dataminr is a leading real-time information discovery platform that uses AI to analyze [social media](../s/social_media.md) data, providing sentiment-driven insights to various industries, including [finance](../f/finance.md).
 
 ### 3. **Custom Dashboards and Analytics Tools**
 Traders often use custom-built dashboards that integrate [multiple](../m/multiple.md) [sentiment analysis](../s/sentiment_analysis.md) tools and data feeds. These dashboards provide an aggregated sentiment view from news, [social media](../s/social_media.md), and other sources, enhancing the decision-making process.
 
-#### Example: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+#### Example: Bloomberg Terminal
 The [Bloomberg](../b/bloomberg.md) Terminal is an iconic tool in the [finance](../f/finance.md) [industry](../i/industry.md). It integrates [sentiment analysis](../s/sentiment_analysis.md) from various sources into its analytics capabilities, providing comprehensive sentiment scores and trends across different industries.
 
 ## Case Study: Sentiment Analysis in Action
@@ -79,4 +79,3 @@ The future of [sentiment analysis](../s/sentiment_analysis.md) lies in real-time
 ## Conclusion
 
 [Industry](../i/industry.md) [sentiment analysis](../s/sentiment_analysis.md) represents a vital tool in modern trading, [offering](../o/offering.md) unparalleled insights into [market](../m/market.md) perceptions and trends. By effectively leveraging this technology, traders can make more informed decisions, manage risks better, and enhance their [trading strategies](../t/trading_strategies.md). With ongoing advancements in AI and NLP, the future of [sentiment analysis](../s/sentiment_analysis.md) in [financial markets](../f/financial_market.md) looks promising, driving more sophisticated and effective [trading models](../t/trading_models.md).
-

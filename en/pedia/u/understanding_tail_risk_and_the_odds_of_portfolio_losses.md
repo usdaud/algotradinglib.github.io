@@ -25,7 +25,7 @@ In [finance](../f/finance.md), many models assume a [normal distribution](../n/n
 
 ### Value at Risk (VaR)
 
-- **Historical VaR**: Uses historical data to calculate the maximum potential loss over a specified period at a given confidence level. 
+- **Historical VaR**: Uses historical data to calculate the maximum potential loss over a specified period at a given confidence level.
 - **Parametric VaR**: Assumes that returns are normally distributed; therefore, it allows for the analytical derivation of VaR using mean and [standard deviation](../s/standard_deviation.md).
 - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: Generates a [range](../r/range.md) of possible outcomes through [simulation](../s/simulation_in_trading.md) to estimate VaR.
 

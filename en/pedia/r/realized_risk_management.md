@@ -67,9 +67,9 @@ After trades are executed, it is important to conduct thorough analysis to under
 
 Several tools and technologies assist traders in managing realized [risk](../r/risk.md) effectively:
 
-- **[Risk Management](../r/risk_management.md) Software**: Platforms like [Numerix](https://www.numerix.com) and [QuantConnect](https://www.quantconnect.com) [offer](../o/offer.md) comprehensive [risk management](../r/risk_management.md) solutions tailored for [algorithmic trading](../a/algorithmic_trading.md).
-- **[Data Analytics](../d/data_analytics.md) Tools**: Tools such as [Python](https://www.python.org) and [R](https://www.r-project.org) enable sophisticated [risk analysis](../r/risk_analysis.md) through data manipulation and visualization.
-- **Trading Platforms**: Platforms like [MetaTrader](https://www.metaquotes.net/metatrader5) provide built-in [risk management](../r/risk_management.md) features such as [stop-loss orders](../s/stop-loss_orders.md) and [margin](../m/margin.md) requirements.
+- **[Risk Management](../r/risk_management.md) Software**: Platforms like Numerix and QuantConnect [offer](../o/offer.md) comprehensive [risk management](../r/risk_management.md) solutions tailored for [algorithmic trading](../a/algorithmic_trading.md).
+- **[Data Analytics](../d/data_analytics.md) Tools**: Tools such as Python and R enable sophisticated [risk analysis](../r/risk_analysis.md) through data manipulation and visualization.
+- **Trading Platforms**: Platforms like MetaTrader provide built-in [risk management](../r/risk_management.md) features such as [stop-loss orders](../s/stop-loss_orders.md) and [margin](../m/margin.md) requirements.
 
 ### Importance of Realized Risk Management
 

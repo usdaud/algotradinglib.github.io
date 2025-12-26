@@ -29,7 +29,7 @@ The process of dematerialization involves several steps:
 
 5. **Maintaining Electronic [Holdings](../h/holdings.md)**: The securities are now held and managed electronically, allowing for easier and faster transactions.
 
-The two main depositories that facilitate dematerialization in India are the National Securities [Depository](../d/depository.md) Limited (NSDL) [NSDL](https://www.nsdl.co.in/) and the Central [Depository](../d/depository.md) Services (India) Limited (CDSL) [CDSL](https://www.cdslindia.com/).
+The two main depositories that facilitate dematerialization in India are the National Securities [Depository](../d/depository.md) Limited (NSDL) NSDL and the Central [Depository](../d/depository.md) Services (India) Limited (CDSL) CDSL.
 
 ## Benefits of Dematerialization
 
@@ -122,6 +122,6 @@ The future of dematerialization looks promising with ongoing technological advan
 
 ## Conclusion
 
-Dematerialization has significantly transformed the landscape of the [financial markets](../f/financial_market.md) by introducing greater [efficiency](../e/efficiency.md), [security](../s/security.md), and convenience in the handling of securities. DEMAT accounts have become an integral component for investors, simplifying the process of trading and managing securities. With ongoing innovations and regulatory enhancements, the future holds immense potential for further advancement in the dematerialization domain. 
+Dematerialization has significantly transformed the landscape of the [financial markets](../f/financial_market.md) by introducing greater [efficiency](../e/efficiency.md), [security](../s/security.md), and convenience in the handling of securities. DEMAT accounts have become an integral component for investors, simplifying the process of trading and managing securities. With ongoing innovations and regulatory enhancements, the future holds immense potential for further advancement in the dematerialization domain.
 
 Investors and [market](../m/market.md) participants can expect continued improvements in the robustness, speed, and [transparency](../t/transparency.md) of transactions, thus fostering a more inclusive and dynamic financial ecosystem.

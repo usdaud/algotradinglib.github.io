@@ -48,7 +48,7 @@ An employee buys ESPP [shares](../s/shares.md) at a 10% [discount](../d/discount
 A disqualifying [disposition](../d/disposition.md) occurs when the criteria for a qualifying [disposition](../d/disposition.md) are not met. This often results in higher [taxes](../t/taxes.md), as the entire [gain](../g/gain.md) from the [sale](../s/sale.md) of the stock may be subject to [ordinary income](../o/ordinary_income.md) tax rates.
 
 1. **ISOs**: If ISO [shares](../s/shares.md) are sold within less than two years from the [grant](../g/grant.md) date or less than one year from the [exercise](../e/exercise.md) date, the [gain](../g/gain.md) is treated as [ordinary income](../o/ordinary_income.md) for the difference between the [exercise price](../e/excersise_price.md) and the [market price](../m/market_price.md) at the time of [exercise](../e/exercise.md).
-  
+
 2. **ESPPs**: If ESPP [shares](../s/shares.md) are sold within less than two years from the [offering](../o/offering.md) date or less than one year from the purchase date, the [discount](../d/discount.md) received [will](../w/will.md) be treated as [ordinary income](../o/ordinary_income.md) and may result in higher [taxes](../t/taxes.md).
 
 ## Reporting Qualifying Dispositions
@@ -80,4 +80,4 @@ To maximize tax benefits from qualifying dispositions, employees and investors c
 
 ## Conclusion
 
-A qualifying [disposition](../d/disposition.md) can significantly affect the financial outcomes for employees and investors dealing with ISOs and ESPPs. By understanding and adhering to the specific criteria set forth by the IRS, individuals can benefit from favorable tax treatment and maximize their after-tax gains. Proper planning, record-keeping, and consultation with tax professionals can enhance the ability to manage stock [options](../o/options.md) effectively and achieve the best possible financial results. For detailed information on relevant forms and IRS guidelines, individuals can refer to the [IRS website](https://www.irs.gov).
+A qualifying [disposition](../d/disposition.md) can significantly affect the financial outcomes for employees and investors dealing with ISOs and ESPPs. By understanding and adhering to the specific criteria set forth by the IRS, individuals can benefit from favorable tax treatment and maximize their after-tax gains. Proper planning, record-keeping, and consultation with tax professionals can enhance the ability to manage stock [options](../o/options.md) effectively and achieve the best possible financial results. For detailed information on relevant forms and IRS guidelines,

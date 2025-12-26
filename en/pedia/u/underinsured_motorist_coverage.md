@@ -61,4 +61,4 @@ Despite the potential increase in premiums, many find that the benefits of havin
 
 Underinsured Motorist Coverage is a vital part of a comprehensive auto [insurance](../i/insurance.md) strategy, providing valuable protection against insufficiently insured drivers. While it may not be required in all states, it offers significant financial reassurance for drivers concerned about the potential for substantial [out-of-pocket expenses](../o/out-of-pocket_expenses.md) following an accident.
 
-[Insurance](../i/insurance.md) companies like **Geico** (https://www.geico.com/), **State Farm** (https://www.statefarm.com/), and **Progressive** (https://www.progressive.com/) [offer](../o/offer.md) Underinsured Motorist Coverage, allowing consumers to tailor their policies to best fit their needs and provide peace of mind on the road.
+[Insurance](../i/insurance.md) companies like **Geico** ( **State Farm** ( and **Progressive** ( [offer](../o/offer.md) Underinsured Motorist Coverage, allowing consumers to tailor their policies to best fit their needs and provide peace of mind on the road.

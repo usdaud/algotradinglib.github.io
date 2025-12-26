@@ -1,13 +1,13 @@
 # Gray Market
 
-The term "gray [market](../m/market.md)" refers to the [trade](../t/trade.md) of goods and services through [distribution](../d/distribution.md) channels that, while not illegal, are unofficial, unauthorized, or unintended by the original manufacturer. This [market](../m/market.md) spans various industries, including pharmaceuticals, electronics, fashion, and different forms of trading, including financial instruments and algotrading. Gray markets are often conflated with black markets, but they are distinct; gray markets typically involve legitimate products sold through unauthorized channels, whereas black markets deal with illegal goods and services. 
+The term "gray [market](../m/market.md)" refers to the [trade](../t/trade.md) of goods and services through [distribution](../d/distribution.md) channels that, while not illegal, are unofficial, unauthorized, or unintended by the original manufacturer. This [market](../m/market.md) spans various industries, including pharmaceuticals, electronics, fashion, and different forms of trading, including financial instruments and algotrading. Gray markets are often conflated with black markets, but they are distinct; gray markets typically involve legitimate products sold through unauthorized channels, whereas black markets deal with illegal goods and services.
 
 ## Characteristics of the Gray Market
 
 Gray markets generally share several core characteristics:
 
 1. **Legitimacy of Products**: The products sold in gray markets are usually genuine and manufactured by the intended producers. However, they are sold through unauthorized channels.
-  
+
 2. **Price Differences**: One major driving force behind gray markets is price variation across different regions. For example, a product may be cheaper in one country compared to another, prompting individuals to buy in bulk from the cheaper region and sell it in the more expensive area.
 
 3. **[Warranty](../w/warranty.md) and Support Issues**: Products bought through gray markets often do not come with the manufacturer's [warranty](../w/warranty.md) or after-sales support, as they were not sold through authorized distributors.
@@ -18,7 +18,7 @@ Gray markets generally share several core characteristics:
 
 ## Gray Market in Algotrading
 
-Algotrading, or [algorithmic trading](../a/accountability.md), refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). The gray [market](../m/market.md) in the context of algotrading is the unregulated or unofficial trading of algorithms, [trading systems](../t/trading_systems.md), or financial instruments outside formal exchanges or regulated environments. 
+Algotrading, or [algorithmic trading](../a/algorithmic_trading.md), refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). The gray [market](../m/market.md) in the context of algotrading is the unregulated or unofficial trading of algorithms, [trading systems](../t/trading_systems.md), or financial instruments outside formal exchanges or regulated environments.
 
 ### Key Elements in Gray Market Algotrading
 
@@ -50,15 +50,12 @@ Inadequate consumer protection is another [issue](../i/issue.md). Without regula
 
 In the United States, regulatory bodies such as the SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)) and CFTC ([Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md)) oversee and regulate trading activities to mitigate the risks associated with gray markets. They enforce rules related to [transparency](../t/transparency.md), fairness, and integrity in [financial markets](../f/financial_market.md).
 
-- SEC: [https://www.sec.gov/](https://www.sec.gov/)
-- CFTC: [https://www.cftc.gov/](https://www.cftc.gov/)
-
+- SEC- CFTC
 ### International Efforts
 
 Globally, different countries have their regulatory bodies focused on curbing gray [market](../m/market.md) activities. For example, the European Securities and Markets Authority (ESMA) plays a crucial role in standardizing regulations across the [European Union](../e/european_union_(eu).md).
 
-- ESMA: [https://www.esma.europa.eu/](https://www.esma.europa.eu/)
-
+- ESMA
 ## Conclusion
 
 The gray [market](../m/market.md), while not illegal, operates in the realms of the unauthorized and unregulated. In the context of algotrading, gray markets pose significant risks, including intellectual property theft, [market manipulation](../m/market_manipulation.md), and direct consumer harm. Strong regulatory frameworks and vigilant enforcement are essential to mitigate these risks, protect stakeholders, and maintain [market](../m/market.md) integrity. It is crucial for participants to be aware of the implications of engaging in gray [market](../m/market.md) activities and to strive towards transparent and authorized trading practices.

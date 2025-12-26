@@ -34,5 +34,3 @@ QuantHouse offers a variety of APIs, including REST, FIX, and WebSocket, allowin
 ## Clients and Partners
 QuantHouse serves a diverse [range](../r/range.md) of clients, including [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, [investment banks](../i/investment_bank_(ib).md), and [asset](../a/asset.md) managers. Their partners include major exchanges, data centers, and technology providers, ensuring comprehensive coverage and support for their clients' trading needs.
 
-## Website
-For more information about QuantHouse and their services, visit the official website: [QuantHouse](https://www.quanthouse.com/)

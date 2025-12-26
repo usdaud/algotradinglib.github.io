@@ -62,31 +62,26 @@ The back-end comprises the data storage and management systems. It stores histor
 
 [Bloomberg](../b/bloomberg.md) offers an extensive OMS solution known as [Bloomberg](../b/bloomberg.md) AIM. It is designed for [buy-side](../b/buy-side.md) institutions and integrates with [Bloomberg](../b/bloomberg.md)'s renowned data and analytics services. This OMS supports [multi-asset trading](../m/multi-asset_trading.md) and provides extensive compliance and [risk management](../r/risk_management.md) features.
 
-[Learn more about Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/)
 
 ### Charles River IMS
 
 Charles River Development, a subsidiary of State Street, offers the Charles River [Investment Management](../i/investment_management.md) Solution (IMS), which includes comprehensive OMS capabilities. It caters to investment managers by [offering](../o/offering.md) [order management](../o/order_management_in_trading.md), compliance, [risk](../r/risk.md) monitoring, and more.
 
-[Learn more about Charles River IMS](https://www.crd.com/solutions/investment-management-solution/order-management/)
 
 ### Eze Software
 
 Eze Software provides the Eze OMS, which integrates with their suite of trading, [portfolio management](../p/portfolio_management.md), and compliance tools. This OMS is designed to [offer](../o/offer.md) flexible, efficient, and compliant [order management](../o/order_management_in_trading.md) solutions for investment firms.
 
-[Learn more about Eze Software](https://www.ezesoft.com/solutions/order-management/)
 
 ### Fidessa
 
 Fidessa, part of ION Group, offers an advanced OMS known for its high-performance trading capabilities. It caters to various [market](../m/market.md) participants, including [broker](../b/broker.md)-dealers and institutional investors, providing [robust](../r/robust.md) [order management](../o/order_management_in_trading.md) and [execution](../e/execution.md) services.
 
-[Learn more about Fidessa](https://iongroup.com/fidessa/)
 
 ### SS&C Eze
 
 SS&C Technologies provides the SS&C Eze OMS, a solution built to streamline [order routing](../o/order_routing.md), [execution](../e/execution.md), allocation, and compliance.
 
-[Learn more about SS&C Eze](https://www.ezesoft.com/solutions/order-management-system)
 
 ## Conclusion
 

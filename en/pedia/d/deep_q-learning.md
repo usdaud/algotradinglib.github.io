@@ -51,15 +51,15 @@ A DQN uses a neural network, often a convolutional neural network (CNN), to esti
 1. **Initialize** the replay memory to store experiences.
 2. **Initialize** the action-[value](../v/value.md) function \( Q \) with random weights.
 3. For each episode:
-   - Initialize the starting state.
-   - For each step in the episode:
-     - With probability \( \epsilon \), select a random action; otherwise, select the action with the highest Q-[value](../v/value.md).
-     - Execute the action, observe the reward and the next state.
-     - Store the experience in replay memory.
-     - Sample a mini-batch from replay memory.
-     - Compute the target Q-[value](../v/value.md) for each experience in the mini-batch.
-     - Perform a gradient descent step on the loss between the approximated Q-[value](../v/value.md) and the target Q-[value](../v/value.md).
-   - Periodically update the target network with the main network's weights.
+ - Initialize the starting state.
+ - For each step in the episode:
+ - With probability \( \epsilon \), select a random action; otherwise, select the action with the highest Q-[value](../v/value.md).
+ - Execute the action, observe the reward and the next state.
+ - Store the experience in replay memory.
+ - Sample a mini-batch from replay memory.
+ - Compute the target Q-[value](../v/value.md) for each experience in the mini-batch.
+ - Perform a gradient descent step on the loss between the approximated Q-[value](../v/value.md) and the target Q-[value](../v/value.md).
+ - Periodically update the target network with the main network's weights.
 
 ## Advantages and Challenges
 
@@ -90,12 +90,12 @@ Deep Q-Learning has found applications in [algorithmic trading](../a/algorithmic
 
 Numerous fintech companies and research labs have employed Deep Q-Learning for [trading strategies](../t/trading_strategies.md):
 
-1. **Kensho Technologies**: Utilizes [reinforcement learning](../r/reinforcement_learning.md) models for [predictive analytics](../p/predictive_analytics.md) in trading. [Kensho](https://www.kensho.com)
+1. **Kensho Technologies**: Utilizes [reinforcement learning](../r/reinforcement_learning.md) models for [predictive analytics](../p/predictive_analytics.md) in trading. Kensho
 
-2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages ML and RL techniques for [market](../m/market.md) predictions and [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai)
+2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages ML and RL techniques for [market](../m/market.md) predictions and [trading strategies](../t/trading_strategies.md). Numerai
 
-3. **[Alpaca](../a/alpaca.md)**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using [reinforcement learning](../r/reinforcement_learning.md). [Alpaca](https://alpaca.markets)
+3. **[Alpaca](../a/alpaca.md)**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using [reinforcement learning](../r/reinforcement_learning.md). Alpaca
 
 ## Conclusion
 
-Deep Q-Learning represents a significant advancement in [reinforcement learning](../r/reinforcement_learning.md) by combining the power of [deep learning](../d/deep_learning.md) with Q-Learning. Its ability to [handle](../h/handle.md) complex environments and make high-level decisions makes it a powerful tool for various applications, including [algorithmic trading](../a/algorithmic_trading.md). Despite its challenges, ongoing research and innovations continue to enhance its stability and [efficiency](../e/efficiency.md), paving the way for more effective and intelligent decision-making systems.
+Deep Q-Learning represents a significant advancement in [reinforcement learning](../r/reinforcement_learning.md) by combining the power of [deep learning](../d/deep_learning.md) with Q-Learning. Its ability to [handle](../h/handle.md) complex environments and make high-level decisions makes it a powerful tool for various applications, including [algorithmic trading](../a/algorithmic_trading.md). Despite its challenges, ongoing research and innovations continue to enhance its stability and [efficiency](../e/efficiency.md), paving the way for more effective and intelligent decision-making systems.

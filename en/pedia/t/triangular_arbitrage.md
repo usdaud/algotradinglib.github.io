@@ -4,7 +4,7 @@ Triangular [arbitrage](../a/arbitrage.md), commonly referred to as "cross-[curre
 
 ## Concept of Triangular Arbitrage
 
-Triangular [arbitrage](../a/arbitrage.md) hinges on the principle of exploiting discrepancies in the [exchange](../e/exchange.md) rates between three different currencies. The idea is straightforward: 
+Triangular [arbitrage](../a/arbitrage.md) hinges on the principle of exploiting discrepancies in the [exchange](../e/exchange.md) rates between three different currencies. The idea is straightforward:
 
 1. **Identify a Discrepancy**: Detect a situation where the quoted cross-[currency](../c/currency.md) rate between two currencies (derived from their respective [exchange](../e/exchange.md) rates with a third [currency](../c/currency.md)) deviates from the actual [market](../m/market.md) rate.
 2. **Execute Trades**: Simultaneously buy and sell the involved currencies to lock in a [risk](../r/risk.md)-free [profit](../p/profit.md).
@@ -17,19 +17,19 @@ Let's break down the mechanics with a simplified example involving three currenc
 ### Step-by-Step Execution:
 
 1. **Identify the Cross Rate**: Suppose the current spot rates are:
-   - EUR/USD = 1.2000 (1 [Euro](../e/euro.md) = 1.2000 USD)
-   - GBP/USD = 1.3500 (1 GBP = 1.3500 USD)
+ - EUR/USD = 1.2000 (1 [Euro](../e/euro.md) = 1.2000 USD)
+ - GBP/USD = 1.3500 (1 GBP = 1.3500 USD)
 
-   The implied cross rate for EUR/GBP would be `EUR/USD ÷ GBP/USD` = `1.2000 ÷ 1.3500` ≈ 0.8889 (1 [Euro](../e/euro.md) = 0.8889 GBP).
+ The implied cross rate for EUR/GBP would be `EUR/USD ÷ GBP/USD` = `1.2000 ÷ 1.3500` ≈ 0.8889 (1 [Euro](../e/euro.md) = 0.8889 GBP).
 
 2. **Evaluate the [Market](../m/market.md) Rate**: Assume the actual [market](../m/market.md) rate for EUR/GBP is quoted as 0.8950.
 
 3. **Identify [Arbitrage](../a/arbitrage.md) Opportunity**: The discrepancy between the [market](../m/market.md) rate (0.8950) and the implied cross rate (0.8889) presents an opportunity for [arbitrage](../a/arbitrage.md).
 
 4. **Execute the Trades**:
-   - Convert USD to EUR.
-   - Convert EUR to GBP using the [market](../m/market.md) rate.
-   - Convert GBP back to USD.
+ - Convert USD to EUR.
+ - Convert EUR to GBP using the [market](../m/market.md) rate.
+ - Convert GBP back to USD.
 
 ### Detailed Example:
 
@@ -58,9 +58,9 @@ Modern triangular [arbitrage](../a/arbitrage.md) strategies are heavily reliant 
 
 ### Forex Brokers and Trading Platforms:
 Several advanced trading platforms and brokers facilitate triangular [arbitrage](../a/arbitrage.md) by providing sophisticated tools for [real-time data analysis](../r/real-time_data_analysis.md), fast [execution](../e/execution.md), and low latency connections. Some of the notable players in this space include:
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [MetaTrader (MT4/MT5)](https://www.metatrader5.com)
-- [cTrader](https://ctrader.com)
+- Interactive Brokers
+- MetaTrader (MT4/MT5)
+- cTrader
 
 ### Developing an Algorithm:
 Creating a triangular [arbitrage](../a/arbitrage.md) algorithm involves programming a system to:
@@ -90,7 +90,7 @@ Large financial institutions, including banks and [hedge](../h/hedge.md) funds, 
 ### Example: JPMorgan Chase
 JPMorgan Chase leverages its vast technological resources and [market](../m/market.md) access to engage in various [arbitrage](../a/arbitrage.md) strategies, including triangular [arbitrage](../a/arbitrage.md). The [bank](../b/bank.md)'s extensive expertise in [foreign exchange](../f/foreign_exchange.md) trading and [algorithmic trading](../a/algorithmic_trading.md) provides it with a competitive edge in identifying and capitalizing on cross-[currency](../c/currency.md) discrepancies.
 
-For more information on JPMorgan's [trading strategies](../t/trading_strategies.md), visit their [official website](https://www.jpmorganchase.com).
+For more information on JPMorgan's [trading strategies](../t/trading_strategies.md),
 
 ## Conclusion
 

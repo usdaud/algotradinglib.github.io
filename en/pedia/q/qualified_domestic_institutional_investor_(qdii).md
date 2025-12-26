@@ -77,6 +77,6 @@ One notable example of a QDII [fund](../f/fund.md) is the **ChinaAMC Select Hong
 The QDII program stands as a testament to the progressive liberalization of China's [financial markets](../f/financial_market.md). It embodies a crucial bridge, connecting Chinese savings with global investment opportunities. While the prospects of the QDII are promising, it also faces a myriad of challenges that need to be navigated with careful regulatory oversight and [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md). The continued evolution of the QDII program [will](../w/will.md) play a critical role in shaping the future of global [capital](../c/capital.md) flows and the integration of China's [financial system](../f/financial_system.md) into the broader international [economy](../e/economy.md).
 
 For further details about QDII and participating institutions, you can visit:
-- [China Securities Regulatory Commission (CSRC)](http://www.csrc.gov.cn)
-- [China Banking and Insurance Regulatory Commission (CBIRC)](http://www.cbirc.gov.cn)
-- [State Administration of Foreign Exchange (SAFE)](http://www.safe.gov.cn)
+- China Securities Regulatory Commission (CSRC)
+- China Banking and Insurance Regulatory Commission (CBIRC)
+- State Administration of Foreign Exchange (SAFE)

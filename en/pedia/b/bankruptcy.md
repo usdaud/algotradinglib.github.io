@@ -1,6 +1,6 @@
 # Bankruptcy
 
-Bankruptcy is a legal proceeding involving a person or [business](../b/business.md) that is unable to repay their outstanding debts. The bankruptcy process begins with a petition filed by the debtor, or on behalf of creditors, which is less common. All of the debtor's assets are measured and evaluated, and they may be used to repay a portion of the outstanding [debt](../d/debt.md). 
+Bankruptcy is a legal proceeding involving a person or [business](../b/business.md) that is unable to repay their outstanding debts. The bankruptcy process begins with a petition filed by the debtor, or on behalf of creditors, which is less common. All of the debtor's assets are measured and evaluated, and they may be used to repay a portion of the outstanding [debt](../d/debt.md).
 
 Bankruptcies can generally be divided into two types: [liquidation](../l/liquidation.md) and [reorganization](../r/reorganization.md). [Liquidation](../l/liquidation.md) involves the complete [sale](../s/sale.md) of the debtor's non-exempt assets to repay creditors. This type of bankruptcy is also known as "straight bankruptcy." [Reorganization](../r/reorganization.md), on the other hand, allows the debtor to keep their property and use their future [income](../i/income.md) to pay [obligations](../o/obligation.md) over time, under the court-approved [repayment](../r/repayment.md) plan.
 
@@ -18,7 +18,6 @@ Chapter 7 of the U.S. Bankruptcy Code entails the [liquidation](../l/liquidation
 4. **[Asset](../a/asset.md) [Liquidation](../l/liquidation.md)**: Non-exempt assets are sold by the [trustee](../t/trustee.md).
 5. **[Debt](../d/debt.md) Discharge**: Eligible debts are discharged, meaning the debtor is no longer legally required to pay them.
 
-[For more information on Chapter 7 Bankruptcy](https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics)
 
 ### Chapter 11 Bankruptcy
 
@@ -32,7 +31,6 @@ Chapter 11 is primarily used by corporations and partnerships but can also be av
 4. **Plan Proposal**: The debtor proposes a [reorganization](../r/reorganization.md) plan, which must be approved by the creditors and the court.
 5. **Plan Confirmation**: The court confirms the plan, and the debtor begins to repay creditors according to the plan's terms.
 
-[For more information on Chapter 11 Bankruptcy](https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics)
 
 ### Chapter 13 Bankruptcy
 
@@ -46,7 +44,6 @@ Chapter 13 is designed for individuals with a regular [income](../i/income.md) w
 4. **Plan Development**: The debtor proposes a [repayment](../r/repayment.md) plan, which must meet specific requirements and be approved by the court.
 5. **Plan [Execution](../e/execution.md)**: Payments are made to the [trustee](../t/trustee.md), who distributes them to creditors according to the plan.
 
-[For more information on Chapter 13 Bankruptcy](https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/chapter-13-bankruptcy-basics)
 
 ## Causes of Bankruptcy
 
@@ -117,7 +114,6 @@ China's Enterprise Bankruptcy Law focuses on [reorganization](../r/reorganizatio
 
 Japan’s Bankruptcy Law includes [liquidation](../l/liquidation.md) (similar to Chapter 7), civil rehabilitation (akin to Chapter 13), and corporate [reorganization](../r/reorganization.md) procedures.
 
-[For more information on international bankruptcy laws](https://www.globalinsolvency.com)
 
 ## Famous Bankruptcy Cases
 

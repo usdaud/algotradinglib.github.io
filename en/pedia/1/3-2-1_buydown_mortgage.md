@@ -1,6 +1,6 @@
 # 3-2-1 Buydown Mortgage
 
-A 3-[2-1 buydown](../1/2-1_buydown.md) [mortgage](../m/mortgage.md) is a type of [loan](../l/loan.md) structure that allows borrowers to gradually step up their [mortgage](../m/mortgage.md) payments over a specified period. This arrangement is commonly used by first-time homebuyers or individuals anticipating an increase in their [income](../i/income.md) in the coming years. The concept behind a 3-[2-1 buydown](../1/2-1_buydown.md) [mortgage](../m/mortgage.md) is to [offer](../o/offer.md) a more affordable and manageable way to enter homeownership by reducing initial monthly payments and increasing them gradually. 
+A 3-[2-1 buydown](../1/2-1_buydown.md) [mortgage](../m/mortgage.md) is a type of [loan](../l/loan.md) structure that allows borrowers to gradually step up their [mortgage](../m/mortgage.md) payments over a specified period. This arrangement is commonly used by first-time homebuyers or individuals anticipating an increase in their [income](../i/income.md) in the coming years. The concept behind a 3-[2-1 buydown](../1/2-1_buydown.md) [mortgage](../m/mortgage.md) is to [offer](../o/offer.md) a more affordable and manageable way to enter homeownership by reducing initial monthly payments and increasing them gradually.
 
 ## Meaning of 3-2-1 Buydown Mortgage
 

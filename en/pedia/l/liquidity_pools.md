@@ -32,23 +32,23 @@ By staking tokens in a [liquidity](../l/liquidity.md) pool, users can earn a sha
 
 ### Uniswap
 
-[Uniswap](https://uniswap.org/) is one of the most prominent platforms, pioneering AMM-based trading. It uses [Ethereum](../e/ethereum_.md)-based tokens (ERC-20) and allows users to create and [trade](../t/trade.md) token pairs seamlessly.
+Uniswap is one of the most prominent platforms, pioneering AMM-based trading. It uses [Ethereum](../e/ethereum_.md)-based tokens (ERC-20) and allows users to create and [trade](../t/trade.md) token pairs seamlessly.
 
 ### Balancer
 
-[Balancer](https://balancer.fi/) offers a multi-token [liquidity](../l/liquidity.md) pool model, allowing for more diversified pools compared to traditional pools that usually consist of two tokens. This model helps to balance the portfolio of the [liquidity](../l/liquidity.md) provider while earning fees.
+Balancer offers a multi-token [liquidity](../l/liquidity.md) pool model, allowing for more diversified pools compared to traditional pools that usually consist of two tokens. This model helps to balance the portfolio of the [liquidity](../l/liquidity.md) provider while earning fees.
 
 ### SushiSwap
 
-[SushiSwap](https://sushi.com/) is a fork of Uniswap that has introduced additional functionalities, such as enhanced staking rewards and governance features. It aims to [offer](../o/offer.md) more community-driven control over the platform.
+SushiSwap is a fork of Uniswap that has introduced additional functionalities, such as enhanced staking rewards and governance features. It aims to [offer](../o/offer.md) more community-driven control over the platform.
 
 ### Curve Finance
 
-[Curve Finance](https://curve.fi/) specializes in stablecoin pools, minimizing [slippage](../s/slippage.md) and impermanent loss due to the low [volatility](../v/volatility.md) of stablecoins. This focus makes it particularly attractive for [liquidity](../l/liquidity.md) providers seeking predictable returns.
+Curve Finance specializes in stablecoin pools, minimizing [slippage](../s/slippage.md) and impermanent loss due to the low [volatility](../v/volatility.md) of stablecoins. This focus makes it particularly attractive for [liquidity](../l/liquidity.md) providers seeking predictable returns.
 
 ### PancakeSwap
 
-[PancakeSwap](https://pancakeswap.finance/) operates on the [Binance](../b/binance.md) Smart Chain (BSC) and is known for its lower [transaction fees](../t/transaction_fees.md) compared to [Ethereum](../e/ethereum_.md)-based platforms. It has gained significant traction due to its cost-effective [transaction](../t/transaction.md) process.
+PancakeSwap operates on the [Binance](../b/binance.md) Smart Chain (BSC) and is known for its lower [transaction fees](../t/transaction_fees.md) compared to [Ethereum](../e/ethereum_.md)-based platforms. It has gained significant traction due to its cost-effective [transaction](../t/transaction.md) process.
 
 ## Analyzing Liquidity Pools
 

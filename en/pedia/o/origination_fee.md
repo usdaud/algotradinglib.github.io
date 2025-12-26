@@ -1,4 +1,4 @@
-# Origination Fee 
+# Origination Fee
 
 An [origination](../o/origination.md) [fee](../f/fee.md) is a charge by a [lender](../l/lender.md) to process a new [loan](../l/loan.md) application. It's typically used as compensation for putting the [loan](../l/loan.md) into service, essentially acting as the administrative costs associated with [underwriting](../u/underwriting.md), verifying, and funding the [loan](../l/loan.md). [Origination](../o/origination.md) fees are commonly associated with [mortgage](../m/mortgage.md) loans, but they can also apply to other [financing](../f/financing.md) types such as personal loans, student loans, and [business](../b/business.md) loans. The [fee](../f/fee.md) can be presented as a flat amount or as a percentage of the total [loan](../l/loan.md) amount.
 
@@ -90,14 +90,14 @@ The ECOA prevents lenders from discriminating against applicants based on race, 
 
 ## Conclusion
 
-[Origination](../o/origination.md) fees are an essential consideration in the [loan](../l/loan.md) application process. While they cover crucial administrative costs for lenders, they also impact the overall cost of borrowing for the borrower. By understanding how these fees are structured, knowing the factors that influence them, and employing strategies to reduce them, borrowers can make more informed decisions and potentially save [money](../m/money.md) over the life of the [loan](../l/loan.md). 
+[Origination](../o/origination.md) fees are an essential consideration in the [loan](../l/loan.md) application process. While they cover crucial administrative costs for lenders, they also impact the overall cost of borrowing for the borrower. By understanding how these fees are structured, knowing the factors that influence them, and employing strategies to reduce them, borrowers can make more informed decisions and potentially save [money](../m/money.md) over the life of the [loan](../l/loan.md).
 
 For more detailed information on specific lenders and their [origination](../o/origination.md) fees, visit their official websites.
 
-- [Quicken Loans](https://www.quickenloans.com/)
-- [LendingClub](https://www.lendingclub.com/)
-- [Sofi](https://www.sofi.com/)
-- [CommonBond](https://www.commonbond.co/)
-- [Lendio](https://www.lendio.com/)
+- Quicken Loans
+- LendingClub
+- Sofi
+- CommonBond
+- Lendio
 
 By taking these insights into account, borrowers can better navigate the complex landscape of [loan](../l/loan.md) [origination](../o/origination.md) fees and secure the most favorable financial outcomes.

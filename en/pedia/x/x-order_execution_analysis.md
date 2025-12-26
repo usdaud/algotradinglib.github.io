@@ -46,19 +46,19 @@ EMS platforms are designed to optimize the [execution](../e/execution.md) of tra
 ## Leading Companies in X-Order Execution Analysis
 
 ### 1. **Virtu Financial**
-Virtu Financial is a leading provider of [execution](../e/execution.md) services and analytics. Their proprietary technology platform offers comprehensive tools for [transaction cost analysis](../t/transaction_cost_analysis.md) and [execution](../e/execution.md) quality assessment. Website: [Virtu Financial](https://www.virtu.com/)
+Virtu Financial is a leading provider of [execution](../e/execution.md) services and analytics. Their proprietary technology platform offers comprehensive tools for [transaction cost analysis](../t/transaction_cost_analysis.md) and [execution](../e/execution.md) quality assessment.
 
 ### 2. **ITG (Investment Technology Group)**
-Now a part of Virtu Financial, ITG provides innovative financial technology solutions, including [execution](../e/execution.md) management systems and analytics for understanding and improving [trading performance](../t/trading_performance.md). Website: [Investment Technology Group](https://www.virtu.com/solutions/)
+Now a part of Virtu Financial, ITG provides innovative financial technology solutions, including [execution](../e/execution.md) management systems and analytics for understanding and improving [trading performance](../t/trading_performance.md).
 
 ### 3. **Trade Informatics**
-[Trade](../t/trade.md) Informatics specializes in providing systematic approaches to analyze, optimize, and implement [trading strategies](../t/trading_strategies.md). Their services include in-depth [transaction cost analysis](../t/transaction_cost_analysis.md) and [execution](../e/execution.md) consulting. Website: [Trade Informatics](https://www.tradeinformatics.com/)
+[Trade](../t/trade.md) Informatics specializes in providing systematic approaches to analyze, optimize, and implement [trading strategies](../t/trading_strategies.md). Their services include in-depth [transaction cost analysis](../t/transaction_cost_analysis.md) and [execution](../e/execution.md) consulting.
 
 ### 4. **ITiviti**
-ITiviti (part of Broadridge Financial Solutions) offers advanced trading and connectivity solutions, including tools for high-performance [order](../o/order.md) [execution](../e/execution.md) and [post-trade analysis](../p/post-trade_analysis.md). Website: [Itiviti](https://www.itiviti.com/)
+ITiviti (part of Broadridge Financial Solutions) offers advanced trading and connectivity solutions, including tools for high-performance [order](../o/order.md) [execution](../e/execution.md) and [post-trade analysis](../p/post-trade_analysis.md).
 
 ### 5. **Bloomberg**
-[Bloomberg](../b/bloomberg.md)'s trading solutions include comprehensive analytics for [order](../o/order.md) [execution](../e/execution.md). [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) provides detailed reports and insights into [execution](../e/execution.md) performance. Website: [Bloomberg](https://www.bloomberg.com/professional/solution/transaction-cost-analysis/)
+[Bloomberg](../b/bloomberg.md)'s trading solutions include comprehensive analytics for [order](../o/order.md) [execution](../e/execution.md). [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) provides detailed reports and insights into [execution](../e/execution.md) performance.
 
 ## Strategies to Enhance Order Execution
 

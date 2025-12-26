@@ -17,13 +17,13 @@ Key principles of double-entry [accounting](../a/accounting.md) include:
 ### Components of Double-Entry Accounting
 
 1. **Accounts:** Categories where transactions are recorded, such as cash, [inventory](../i/inventory.md), and accounts [receivable](../r/receivable.md).
-  
+
 2. **Debits and Credits:** Directions of entries:
-    - **[Debit](../d/debit.md) (Dr):** Assets increase, liabilities and [equity](../e/equity.md) decrease.
-    - **[Credit](../c/credit.md) (Cr):** Assets decrease, liabilities and [equity](../e/equity.md) increase.
+ - **[Debit](../d/debit.md) (Dr):** Assets increase, liabilities and [equity](../e/equity.md) decrease.
+ - **[Credit](../c/credit.md) (Cr):** Assets decrease, liabilities and [equity](../e/equity.md) increase.
 
 3. **[Journal](../j/journal.md) Entries:** Detailed records of transactions in chronological [order](../o/order.md).
-  
+
 4. **Ledger:** Compilation of all [journal](../j/journal.md) entries, organized by account.
 
 5. **[Trial Balance](../t/trial_balance.md):** A report that lists the balances of all ledgers and ensures that debits equal credits.
@@ -57,7 +57,7 @@ Integrating double-entry [accounting](../a/accounting.md) into [algorithmic trad
 Develop a system architecture that incorporates [accounting principles](../a/accounting_principles.md). Key components should include:
 
 - **[Transaction](../t/transaction.md) Manager:** To [handle](../h/handle.md) [trade](../t/trade.md) executions and adjustments.
-  
+
 - **[Accounting](../a/accounting.md) Module:** To process debits and credits, generate [journal](../j/journal.md) entries, and maintain the ledger.
 
 - **Real-Time Database:** To store and retrieve financial records efficiently.
@@ -78,32 +78,32 @@ Seamlessly integrate the [accounting](../a/accounting.md) system with [trading a
 
 ### 1. Alpaca
 
-[Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides APIs for [algorithmic trading](../a/accountability.md). [Alpaca](../a/alpaca.md)’s [infrastructure](../i/infrastructure.md) supports double-entry [accounting](../a/accounting.md), ensuring that every [trade](../t/trade.md) and [transaction](../t/transaction.md) is accurately recorded and balanced.
+[Alpaca](../a/alpaca.md) ( is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides APIs for [algorithmic trading](../a/accountability.md). [Alpaca](../a/alpaca.md)’s [infrastructure](../i/infrastructure.md) supports double-entry [accounting](../a/accounting.md), ensuring that every [trade](../t/trade.md) and [transaction](../t/transaction.md) is accurately recorded and balanced.
 
-### 2. QuantConnect
+### 2. StockSharp
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) offers a cloud-based [algorithmic trading](../a/accountability.md) platform. It includes [robust](../r/robust.md) [accounting](../a/accounting.md) systems that [leverage](../l/leverage.md) double-entry principles to track portfolio changes and generate financial reports for users.
+[StockSharp](../s/stocksharp.md) offers a [algorithmic trading](../a/accountability.md) platform. It includes [robust](../r/robust.md) [accounting](../a/accounting.md) systems that [leverage](../l/leverage.md) double-entry principles to track portfolio changes and generate financial reports for users.
 
 ### 3. Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) is a well-established brokerage [firm](../f/firm.md) providing extensive resources for [algorithmic trading](../a/accountability.md). Their platform integrates double-entry [accounting](../a/accounting.md) to facilitate precise financial management and regulatory compliance.
+[Interactive Brokers](../i/interactive_brokers.md) ( is a well-established brokerage [firm](../f/firm.md) providing extensive resources for [algorithmic trading](../a/accountability.md). Their platform integrates double-entry [accounting](../a/accounting.md) to facilitate precise financial management and regulatory compliance.
 
 ### 4. MetaTrader 5
 
-MetaTrader 5 (https://www.metatrader5.com/en) is a popular [trading platform](../t/trading_platform.md) that supports a wide [range](../r/range.md) of financial instruments. It integrates double-entry [accounting](../a/accounting.md) for accurate tracking of trades, balances, and [financial statements](../f/financial_statements.md).
+MetaTrader 5 ( is a popular [trading platform](../t/trading_platform.md) that supports a wide [range](../r/range.md) of financial instruments. It integrates double-entry [accounting](../a/accounting.md) for accurate tracking of trades, balances, and [financial statements](../f/financial_statements.md).
 
 ### 5. Trading Technologies
 
-Trading Technologies (https://www.tradingtechnologies.com/) offers advanced trading solutions, including [algorithmic trading](../a/accountability.md) tools. Their systems incorporate double-entry [accounting](../a/accounting.md) to ensure financial accuracy and compliance.
+Trading Technologies ( offers advanced trading solutions, including [algorithmic trading](../a/accountability.md) tools. Their systems incorporate double-entry [accounting](../a/accounting.md) to ensure financial accuracy and compliance.
 
 ## Advantages and Challenges
 
 ### Advantages
 
 1. **Accuracy:** Ensures high accuracy of financial records, which is crucial in fast-paced trading environments.
-   
+
 2. **[Transparency](../t/transparency.md):** Provides clear and detailed records that enhance [transparency](../t/transparency.md) and auditability.
-   
+
 3. **Error Detection:** Helps detect and correct errors quickly.
 
 4. **Compliance:** Facilitates regulatory compliance and supports [robust](../r/robust.md) auditing processes.
@@ -111,9 +111,9 @@ Trading Technologies (https://www.tradingtechnologies.com/) offers advanced trad
 ### Challenges
 
 1. **Complexity:** Implementing and maintaining a double-entry [accounting](../a/accounting.md) system can be complex and resource-intensive.
-   
+
 2. **Integration:** Seamlessly integrating [accounting](../a/accounting.md) with [trading algorithms](../t/trading_algorithms.md) requires careful planning and [execution](../e/execution.md).
-   
+
 3. **[Scalability](../s/scalability.md):** Managing large volumes of transactions in real-time demands scalable solutions and [infrastructure](../i/infrastructure.md).
 
 ## Future Trends
@@ -121,7 +121,7 @@ Trading Technologies (https://www.tradingtechnologies.com/) offers advanced trad
 As technology advances, the integration of double-entry [accounting](../a/accounting.md) with [algorithmic trading](../a/accountability.md) systems [will](../w/will.md) continue to evolve. Key trends include:
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** The immutable and transparent nature of [blockchain](../b/blockchain_in_trading.md) can enhance double-entry [accounting](../a/accounting.md) by providing a decentralized ledger for recording transactions.
-  
+
 - **AI and [Machine Learning](../m/machine_learning.md):** These technologies can automate more complex [accounting](../a/accounting.md) tasks, improve error detection, and enhance decision-making.
 
 - **Enhanced [Data Analytics](../d/data_analytics.md):** Advanced analytics tools [will](../w/will.md) [offer](../o/offer.md) deeper insights into financial records, helping traders optimize strategies and manage risks more effectively.

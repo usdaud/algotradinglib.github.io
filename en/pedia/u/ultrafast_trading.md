@@ -19,7 +19,7 @@ The physical and technological [infrastructure](../i/infrastructure.md) supporti
 - **Data Centers**: Proximity to major exchanges is paramount to minimize data transmission latency.
 - **Fiber Optic Networks**: High-speed data transmission is achieved through advanced fiber optic networks.
 - **Co-location Services**: Trading firms rent space in data centers close to [exchange](../e/exchange.md) servers to reduce latency.
-  
+
 ### 3. Market Data Feeds
 Real-time access to [market](../m/market.md) data is essential for HFT. Trading firms utilize high-speed [market](../m/market.md) data feeds provided by exchanges and third-party vendors. This data includes information on price quotes, [order book depth](../o/order_book_depth.md), and [trade](../t/trade.md) executions.
 
@@ -42,10 +42,10 @@ Custom-built [software platforms](../s/software_platforms_for_trading.md) are us
 ## Risks and Challenges
 
 ### 1. Technological Risks
-The reliance on complex algorithms and high-speed [infrastructure](../i/infrastructure.md) introduces technological risks, such as software errors, hardware failures, and cyber-attacks. 
+The reliance on complex algorithms and high-speed [infrastructure](../i/infrastructure.md) introduces technological risks, such as software errors, hardware failures, and cyber-attacks.
 
 ### 2. Market Impact
-Ultrafast trading can contribute to [market](../m/market.md) [volatility](../v/volatility.md), as the rapid [execution](../e/execution.md) of large volumes of trades can lead to significant price fluctuations. 
+Ultrafast trading can contribute to [market](../m/market.md) [volatility](../v/volatility.md), as the rapid [execution](../e/execution.md) of large volumes of trades can lead to significant price fluctuations.
 
 ### 3. Regulatory Risks
 Regulations are evolving to address the challenges posed by ultrafast trading. Firms need to stay ahead of compliance requirements to avoid penalties and trading restrictions.
@@ -65,9 +65,9 @@ Ultrafast trading raises several ethical questions. Critics argue that it create
 
 ## Key Players in Ultrafast Trading
 Several prominent firms specialize in ultrafast trading. Examples include:
-- **Virtu Financial** [Virtu Financial](https://www.virtu.com)
-- **Citadel Securities** [Citadel Securities](https://www.citadelsecurities.com)
-- **Two Sigma** [Two Sigma](https://www.twosigma.com)
+- **Virtu Financial** Virtu Financial
+- **Citadel Securities** Citadel Securities
+- **Two Sigma** Two Sigma
 
 ## Future Trends and Developments
 As ultrafast trading continues to evolve, several trends are emerging:

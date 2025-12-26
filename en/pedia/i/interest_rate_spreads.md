@@ -17,7 +17,7 @@ These [spreads](../s/spreads.md) are influenced by various factors such as [cred
 Several types of [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md) are commonly analyzed in [financial markets](../f/financial_market.md):
 
 1. **[Credit Spread](../c/credit_spread.md):** The difference in [yield](../y/yield.md) between a [corporate bond](../c/corporate_bond.md) and a [government bond](../g/government_bond.md) of the same [maturity](../m/maturity.md). It reflects the [credit](../c/credit.md) [risk premium](../r/risk_premium.md) that investors [demand](../d/demand.md) for holding corporate bonds over [risk](../r/risk.md)-free government bonds.
-   
+
 2. **[Yield Curve](../y/yield_curve.md) Spread:** The difference between yields on short-term and long-term government bonds. This spread is a key [indicator](../i/indicator.md) of economic expectations and is often used to predict [economic cycles](../e/economic_cycles.md).
 
 3. **[Swap](../s/swap.md) Spread:** The spread between the fixed rate of a [swap](../s/swap.md) and the [yield](../y/yield.md) of a [government bond](../g/government_bond.md) with the same [maturity](../m/maturity.md). This is used to gauge [market](../m/market.md) perceptions of [credit risk](../c/credit_risk.md) and [liquidity](../l/liquidity.md) in the [swap](../s/swap.md) [market](../m/market.md).
@@ -66,13 +66,13 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), [interest ra
 
 Many financial institutions and trading platforms incorporate [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md) into their [trading algorithms](../t/trading_algorithms.md) and strategies. Some renowned entities in this space include:
 
-1. **Goldman Sachs:** [Goldman Sachs](https://www.goldmansachs.com/) employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies that [leverage](../l/leverage.md) [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md) for [proprietary trading](../p/proprietary_trading.md) and client services.
+1. **Goldman Sachs:** Goldman Sachs employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies that [leverage](../l/leverage.md) [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md) for [proprietary trading](../p/proprietary_trading.md) and client services.
 
-2. **JP Morgan:** [JP Morgan](https://www.jpmorgan.com/) uses advanced analytics and algorithms to [trade](../t/trade.md) [interest rate](../i/interest_rate.md) products and manage [risk](../r/risk.md).
+2. **JP Morgan:** JP Morgan uses advanced analytics and algorithms to [trade](../t/trade.md) [interest rate](../i/interest_rate.md) products and manage [risk](../r/risk.md).
 
-3. **[AlgoTrader](../a/algotrader.md):** [AlgoTrader](https://www.algotrader.com/) provides a comprehensive platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md).
+3. **[AlgoTrader](../a/algotrader.md):** AlgoTrader provides a comprehensive platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md).
 
-4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where traders can develop and backtest strategies that incorporate [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md).
+4. **[QuantConnect](../q/quantconnect.md):** QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where traders can develop and backtest strategies that incorporate [interest rate](../i/interest_rate.md) [spreads](../s/spreads.md).
 
 #### Regulatory and Ethical Considerations
 

@@ -58,16 +58,16 @@ Advanced algorithms employ [machine learning](../m/machine_learning.md) to predi
 ## Companies and Platforms
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) provides a platform for designing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), with a focus on maintaining and optimizing equity levels.
+QuantConnect provides a platform for designing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), with a focus on maintaining and optimizing equity levels.
 
 ### Alpaca
-[Alpaca](https://alpaca.markets/) offers API-driven trading [infrastructure](../i/infrastructure.md), enabling developers to build [automated trading systems](../a/automated_trading_systems.md) with real-time equity monitoring.
+Alpaca offers API-driven trading [infrastructure](../i/infrastructure.md), enabling developers to build [automated trading systems](../a/automated_trading_systems.md) with real-time equity monitoring.
 
 ### Interactive Brokers
-[Interactive Brokers](https://www.interactivebrokers.com/en/home.php) features comprehensive tools for [algorithmic trading](../a/accountability.md), allowing users to manage equity efficiently across various [asset](../a/asset.md) classes.
+Interactive Brokers features comprehensive tools for [algorithmic trading](../a/accountability.md), allowing users to manage equity efficiently across various [asset](../a/asset.md) classes.
 
 ### Robinhood
-[Robinhood](https://robinhood.com/) democratizes trading by providing easy access to trading platforms where users can automate [trading strategies](../t/trading_strategies.md) and manage equity.
+Robinhood democratizes trading by providing easy access to trading platforms where users can automate [trading strategies](../t/trading_strategies.md) and manage equity.
 
 ## Key Metrics and Analysis
 

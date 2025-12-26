@@ -5,7 +5,7 @@ Research and Development (R&D) encompasses a broad spectrum of activities undert
 ## Importance of R&D
 
 1. **Innovation:** R&D is fundamentally about creating new knowledge. The innovation process begins with research—sometimes basic research, focused on fundamental principles, but more often applied research, which targets specific commercial objectives.
-   
+
 2. **[Competitive Advantage](../c/competitive_advantage.md):** By developing proprietary technologies or improvements, companies can secure a competitive edge. They become [market](../m/market.md) leaders and dictate the trends in their industries.
 
 3. **Problem-Solving:** Effective R&D can solve pressing problems. For instance, pharmaceutical companies invest in R&D to discover new medications and medical procedures. Similarly, tech firms innovate to enhance cybersecurity or advance computing power.
@@ -60,26 +60,26 @@ The final phase involves monitoring the product's performance in the [market](..
 
 ### Pharmaceutical Industry
 
-Pharmaceutical companies invest heavily in R&D to discover new drugs and therapies. The process is highly regulated and requires clinical trials to ensure safety and efficacy. Companies like [Pfizer](https://www.pfizer.com/) and [Johnson & Johnson](https://www.jnj.com/) are prominent R&D investors in this field.
+Pharmaceutical companies invest heavily in R&D to discover new drugs and therapies. The process is highly regulated and requires clinical trials to ensure safety and efficacy. Companies like Pfizer and Johnson & Johnson are prominent R&D investors in this field.
 
 ### Technology Industry
 
-In the [technology sector](../t/technology_sector.md), R&D drives innovation in hardware, software, and services. Companies like Apple, Google, and Microsoft allocate significant budgets to R&D to stay at the forefront of technological innovation. For instance, [Google Research](https://research.google/) focuses on areas like [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [quantum computing](../q/quantum_computing_in_trading.md).
+In the [technology sector](../t/technology_sector.md), R&D drives innovation in hardware, software, and services. Companies like Apple, Google, and Microsoft allocate significant budgets to R&D to stay at the forefront of technological innovation. For instance, Google Research focuses on areas like [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [quantum computing](../q/quantum_computing_in_trading.md).
 
 ### Automotive Industry
 
-Automotive companies invest in R&D to develop new vehicle models, improve fuel [efficiency](../e/efficiency.md), and advance autonomous driving technologies. Companies such as [Tesla](https://www.tesla.com/), BMW, and Ford are known for their [robust](../r/robust.md) R&D efforts in electric vehicles and smart transportation solutions.
+Automotive companies invest in R&D to develop new vehicle models, improve fuel [efficiency](../e/efficiency.md), and advance autonomous driving technologies. Companies such as Tesla, BMW, and Ford are known for their [robust](../r/robust.md) R&D efforts in electric vehicles and smart transportation solutions.
 
 ### Aerospace Industry
 
-The aerospace sector relies on R&D for innovations in aircraft design, propulsion systems, and materials. Companies like [Boeing](https://www.boeing.com/) and Airbus continuously push the boundaries of aviation technology to enhance performance and safety.
+The aerospace sector relies on R&D for innovations in aircraft design, propulsion systems, and materials. Companies like Boeing and Airbus continuously push the boundaries of aviation technology to enhance performance and safety.
 
 ## R&D Funding
 
 R&D can be funded through various means:
 
 1. **Internal Funding:** Companies often use their own revenues to invest in R&D. This is common in industries where R&D is critical to maintaining a competitive edge.
-   
+
 2. **Government Grants:** Governments provide grants and incentives to encourage R&D activities, particularly in sectors like healthcare, defense, and energy. These grants can help [offset](../o/offset.md) the substantial costs involved.
 
 3. **[Venture Capital](../v/venture_capital.md):** Startups and smaller companies may rely on [venture capital](../v/venture_capital.md) to [fund](../f/fund.md) their R&D efforts. Venture capitalists invest in high-[risk](../r/risk.md) ventures with the potential for high returns, often focusing on innovative technologies.
@@ -91,7 +91,7 @@ R&D can be funded through various means:
 Despite its benefits, R&D faces several challenges:
 
 1. **High Costs:** R&D is expensive, and there is no guarantee of success. The [financial risk](../f/financial_risk.md) is particularly high in industries with long development cycles, such as pharmaceuticals and aerospace.
-   
+
 2. **Regulatory Hurdles:** Industries such as healthcare and aerospace face stringent regulations that can complicate and prolong the R&D process. Meeting these requirements can be both time-consuming and costly.
 
 3. **Intellectual Property:** Protecting intellectual property (IP) is crucial but challenging. Innovations need to be patented, and companies must safeguard their IP from theft and infringement.
@@ -105,7 +105,7 @@ Despite its benefits, R&D faces several challenges:
 The future of R&D is dynamic and poised for transformation due to several factors:
 
 1. **Digital Transformation:** Digital tools such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are revolutionizing the R&D process, making it faster, more efficient, and data-driven.
-   
+
 2. **[Open](../o/open.md) Innovation:** Collaboration across organizations and industries is becoming more common. [Open](../o/open.md) innovation encourages the sharing of ideas and resources to accelerate innovation.
 
 3. **Sustainable Development:** There is a growing focus on sustainable and environmentally-friendly R&D. This includes developing green technologies, renewable energy sources, and eco-friendly products.

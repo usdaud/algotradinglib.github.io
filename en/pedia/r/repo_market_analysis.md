@@ -11,11 +11,11 @@ The repo [market](../m/market.md) involves two primary parties: the cash borrowe
 Various entities participate in the repo [market](../m/market.md), each with distinct motivations and roles:
 
 - **Banks:** Banks frequently use repo transactions to manage [liquidity](../l/liquidity.md) and fulfill regulatory requirements (e.g., [reserve requirements](../r/reserve_requirements.md), [capital](../c/capital.md) ratios). They also lend cash to other institutions, such as [hedge](../h/hedge.md) funds, to earn a [return](../r/return.md) on excess [liquidity](../l/liquidity.md).
-  
+
 - **Central Banks:** Central banks, like the Federal Reserve or the European Central [Bank](../b/bank.md), use repo operations to implement [monetary policy](../m/monetary_policy.md) by influencing short-term [interest](../i/interest.md) rates and managing [money supply](../m/money_supply.md). The Federal Reserve's [Open Market Operations](../o/open_market_operations.md) (OMO) often involve buying and selling securities through repos.
 
 - **[Hedge](../h/hedge.md) Funds:** [Hedge](../h/hedge.md) funds engage in repo transactions to [leverage](../l/leverage.md) their positions and increase returns. They borrow cash against their securities [holdings](../h/holdings.md) and use the cash to [finance](../f/finance.md) other investments.
-  
+
 - **[Broker](../b/broker.md)-Dealers:** [Investment banks](../i/investment_bank_(ib).md) and [broker](../b/broker.md)-dealers act as intermediaries in the repo [market](../m/market.md), facilitating transactions between other [market](../m/market.md) participants and maintaining [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 - **[Money Market](../m/money_market.md) Funds & Institutional Investors:** These entities lend cash in the repo [market](../m/market.md) as a way to invest [surplus](../s/surplus.md) funds while maintaining [liquidity](../l/liquidity.md) and earning a [return](../r/return.md).
@@ -57,7 +57,7 @@ A [haircut](../h/haircut.md) is the difference between the [market value](../m/m
 The repo [market](../m/market.md) is subject to various regulatory frameworks aimed at ensuring its stability and mitigating systemic risks:
 
 - **[Basel III](../b/basel_iii.md):** These regulations introduced [liquidity](../l/liquidity.md) coverage ratios (LCR) and net stable funding ratios (NSFR), influencing banks' repo [market](../m/market.md) activities.
-  
+
 - **Dodd-Frank Act:** Post-2008 [financial crisis](../f/financial_crisis.md) reforms in the US, such as the Dodd-Frank Act, imposed stricter oversight on [financial markets](../f/financial_market.md), including repo transactions.
 
 - **European [Market](../m/market.md) [Infrastructure](../i/infrastructure.md) Regulation (EMIR):** In Europe, EMIR mandates reporting of repo transactions to improve [transparency](../t/transparency.md) and mitigate [counterparty](../c/counterparty.md) risks.
@@ -67,7 +67,7 @@ The repo [market](../m/market.md) is subject to various regulatory frameworks ai
 Despite its benefits, the repo [market](../m/market.md) is not without risks:
 
 - **[Credit Risk](../c/credit_risk.md):** The [risk](../r/risk.md) that the [counterparty](../c/counterparty.md) may [default](../d/default.md) before the repurchase occurs.
-  
+
 - **[Collateral](../c/collateral.md) [Risk](../r/risk.md):** Vulnerability to declines in the [market value](../m/market_value.md) of the [collateral](../c/collateral.md).
 
 - **[Liquidity Risk](../l/liquidity_risk.md):** The [risk](../r/risk.md) that participants might be unable to roll over repos, leading to a [liquidity](../l/liquidity.md) crunch.
@@ -94,7 +94,7 @@ The repo [market](../m/market.md) plays a vital role in the global [financial sy
 
 For further information on companies and their role in the repo [market](../m/market.md), refer to the websites of key institutions such as:
 
-- [Federal Reserve Bank](https://www.federalreserve.gov/)
-- [European Central Bank](https://www.ecb.europa.eu/)
-- [Bank of America](https://www.bofaml.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
+- Federal Reserve Bank
+- European Central Bank
+- Bank of America
+- J.P. Morgan

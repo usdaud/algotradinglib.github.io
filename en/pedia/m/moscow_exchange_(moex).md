@@ -100,6 +100,6 @@ To [trade](../t/trade.md) on the Moscow [Exchange](../e/exchange.md), participan
 
 ## Conclusion
 
-The Moscow [Exchange](../e/exchange.md) plays a pivotal role in the Russian [financial markets](../f/financial_market.md), [offering](../o/offering.md) a comprehensive platform for trading various [asset](../a/asset.md) classes. Through continuous innovation, strict regulatory adherence, and strategic initiatives, MOEX aims to enhance [market](../m/market.md) [liquidity](../l/liquidity.md), attract international investors, and support the development of the Russian [economy](../e/economy.md). 
+The Moscow [Exchange](../e/exchange.md) plays a pivotal role in the Russian [financial markets](../f/financial_market.md), [offering](../o/offering.md) a comprehensive platform for trading various [asset](../a/asset.md) classes. Through continuous innovation, strict regulatory adherence, and strategic initiatives, MOEX aims to enhance [market](../m/market.md) [liquidity](../l/liquidity.md), attract international investors, and support the development of the Russian [economy](../e/economy.md).
 
-For more information, you can visit the official website of the Moscow [Exchange](../e/exchange.md) at [https://www.moex.com](https://www.moex.com).
+./e/exchange.md) at

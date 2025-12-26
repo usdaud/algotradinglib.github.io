@@ -129,15 +129,14 @@ print(forecast)
 
 ### Example 1: Trading Firms Using X-Smooth
 
-Several [quantitative trading](../q/quantitative_trading.md) firms, such as [Two Sigma](https://www.twosigma.com/) and [Renaissance Technologies](https://www.rentec.com/), integrate X-Smooth techniques into their [trading algorithms](../t/trading_algorithms.md). These firms [leverage](../l/leverage.md) advanced statistical methods to remain ahead of [market](../m/market.md) trends and minimize [risk](../r/risk.md). 
-
+Several [quantitative trading](../q/quantitative_trading.md) firms, such as Two Sigma and Renaissance Technologies, integrate X-Smooth techniques into their [trading algorithms](../t/trading_algorithms.md). These firms [leverage](../l/leverage.md) advanced statistical methods to remain ahead of [market](../m/market.md) trends and minimize [risk](../r/risk.md).
 ### Example 2: Academic Research
 
-Research by academic institutions such as the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) has demonstrated the efficacy of X-Smooth techniques in various financial applications. Their studies often explore the [optimization](../o/optimization.md) of these models to enhance the predictive power of [trading algorithms](../t/trading_algorithms.md).
+Research by academic institutions such as the Massachusetts Institute of Technology (MIT) has demonstrated the efficacy of X-Smooth techniques in various financial applications. Their studies often explore the [optimization](../o/optimization.md) of these models to enhance the predictive power of [trading algorithms](../t/trading_algorithms.md).
 
 ### Example 3: Financial Market Analysis
 
-Financial analysts at [investment banks](../i/investment_bank_(ib).md) like [Goldman Sachs](https://www.goldmansachs.com/) use X-Smooth techniques to analyze [market](../m/market.md) trends and generate [trading signals](../t/trading_signals.md). These techniques help them to filter out [market](../m/market.md) [noise](../n/noise.md) and focus on significant patterns and trends.
+Financial analysts at [investment banks](../i/investment_bank_(ib).md) like Goldman Sachs use X-Smooth techniques to analyze [market](../m/market.md) trends and generate [trading signals](../t/trading_signals.md). These techniques help them to filter out [market](../m/market.md) [noise](../n/noise.md) and focus on significant patterns and trends.
 
 ## Challenges and Limitations
 

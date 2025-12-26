@@ -32,7 +32,7 @@ There are [multiple](../m/multiple.md) methods to calculate Average [Inventory](
 
 The most straightforward calculation utilizes the beginning and ending [inventory](../i/inventory.md) values over a given period:
 
-\[ 
+\[
 \text{Average [Inventory](../i/inventory.md)} = \frac{\text{Beginning [Inventory](../i/inventory.md)} + \text{Ending [Inventory](../i/inventory.md)}}{2}
 \]
 
@@ -40,7 +40,7 @@ The most straightforward calculation utilizes the beginning and ending [inventor
 
 For more granularity, businesses might use monthly figures:
 
-\[ 
+\[
 \text{Monthly Average [Inventory](../i/inventory.md)} = \frac{\sum (\text{Beginning [Inventory](../i/inventory.md)}_{\text{monthly}} + \text{Ending [Inventory](../i/inventory.md)}_{\text{monthly}})}{\text{Number of Months}}
 \]
 
@@ -48,7 +48,7 @@ For more granularity, businesses might use monthly figures:
 
 In some cases, companies may prefer a periodic approach where [inventory](../i/inventory.md) values are averaged at regular intervals (e.g., weekly, daily):
 
-\[ 
+\[
 \text{Periodic Average [Inventory](../i/inventory.md)} = \frac{\sum \text{[Inventory](../i/inventory.md) Values at Regular Intervals}}{\text{Number of Intervals}}
 \]
 
@@ -56,7 +56,7 @@ In some cases, companies may prefer a periodic approach where [inventory](../i/i
 
 This method considers the [inventory](../i/inventory.md) levels during various periods and assigns different weights based on the relevance or occurrence of those periods:
 
-\[ 
+\[
 \text{[Weighted Average](../w/weighted_average.md) [Inventory](../i/inventory.md)} = \sum \left( \text{[Inventory](../i/inventory.md) Level} \times \text{Weighting [Factor](../f/factor.md)} \right)
 \]
 
@@ -82,15 +82,15 @@ Numerous companies [leverage](../l/leverage.md) Average [Inventory](../i/invento
 
 ### Retail Sector: Walmart
 
-Walmart, a leading global retailer, employs sophisticated [inventory management](../i/inventory_management.md) systems utilizing Average [Inventory](../i/inventory.md) metrics to streamline their [supply chain](../s/supply_chain.md) operations. Their focus on optimizing [inventory](../i/inventory.md) levels helps reduce costs, minimize stockouts, and improve [customer](../c/customer.md) satisfaction. More information can be found on their [official website](https://www.walmart.com).
+Walmart, a leading global retailer, employs sophisticated [inventory management](../i/inventory_management.md) systems utilizing Average [Inventory](../i/inventory.md) metrics to streamline their [supply chain](../s/supply_chain.md) operations. Their focus on optimizing [inventory](../i/inventory.md) levels helps reduce costs, minimize stockouts, and improve [customer](../c/customer.md) satisfaction.
 
 ### Automotive Industry: Toyota
 
-Toyota, renowned for its Just-In-Time (JIT) [inventory](../i/inventory.md) system, utilizes Average [Inventory](../i/inventory.md) metrics to minimize waste and maximize [efficiency](../e/efficiency.md) in their production processes. This approach helps maintain lean [inventory](../i/inventory.md) levels that align closely with production schedules. Details about their [inventory management](../i/inventory_management.md) practices are available on their [official website](https://www.toyota.com).
+Toyota, renowned for its Just-In-Time (JIT) [inventory](../i/inventory.md) system, utilizes Average [Inventory](../i/inventory.md) metrics to minimize waste and maximize [efficiency](../e/efficiency.md) in their production processes. This approach helps maintain lean [inventory](../i/inventory.md) levels that align closely with production schedules. Details about their [inventory management](../i/inventory_management.md)
 
 ### E-commerce: Amazon
 
-Amazon's extensive use of [data analytics](../d/data_analytics.md), including Average [Inventory](../i/inventory.md) analysis, ensures optimal [inventory](../i/inventory.md) levels across their vast [distribution network](../d/distribution_network.md). By maintaining precise [inventory](../i/inventory.md) metrics, Amazon can [offer](../o/offer.md) fast shipping [options](../o/options.md) while minimizing [holding costs](../h/holding_costs.md). Learn more on their [official website](https://www.amazon.com).
+Amazon's extensive use of [data analytics](../d/data_analytics.md), including Average [Inventory](../i/inventory.md) analysis, ensures optimal [inventory](../i/inventory.md) levels across their vast [distribution network](../d/distribution_network.md). By maintaining precise [inventory](../i/inventory.md) metrics, Amazon can [offer](../o/offer.md) fast shipping [options](../o/options.md) while minimizing [holding costs](../h/holding_costs.md).
 
 ## Conclusion
 

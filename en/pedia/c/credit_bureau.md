@@ -8,21 +8,21 @@ There are several major [credit](../c/credit.md) bureaus around the world, but t
 
 ### Equifax
 
-Equifax is one of the largest [credit](../c/credit.md) reporting agencies. Founded in 1899 and headquartered in Atlanta, Georgia, Equifax provides [credit](../c/credit.md) information solutions, including [credit](../c/credit.md) reports, [identity theft](../i/identity_theft.md) protection, and [fraud](../f/fraud.md) detection services to businesses and consumers. 
+Equifax is one of the largest [credit](../c/credit.md) reporting agencies. Founded in 1899 and headquartered in Atlanta, Georgia, Equifax provides [credit](../c/credit.md) information solutions, including [credit](../c/credit.md) reports, [identity theft](../i/identity_theft.md) protection, and [fraud](../f/fraud.md) detection services to businesses and consumers.
 
-Website: [Equifax](https://www.equifax.com/)
+online platform: Equifax
 
 ### Experian
 
 Experian, another leading [credit](../c/credit.md) bureau, was founded in 1996 and is headquartered in Dublin, Ireland. Experian collects and aggregates data on over a billion individuals and businesses, providing [credit](../c/credit.md) reports, [credit](../c/credit.md) scores, and [credit](../c/credit.md) monitoring services.
 
-Website: [Experian](https://www.experian.com/)
+online platform: Experian
 
 ### TransUnion
 
 TransUnion, established in 1968, is headquartered in Chicago, Illinois. TransUnion offers [credit](../c/credit.md) information and information management services to consumers and businesses, including [credit](../c/credit.md) reports, [credit](../c/credit.md) scores, identity protection, and [risk management](../r/risk_management.md) solutions.
 
-Website: [TransUnion](https://www.transunion.com/)
+online platform: TransUnion
 
 ## Functionality and Services Provided by Credit Bureaus
 

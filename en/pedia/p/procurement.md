@@ -73,14 +73,14 @@ Procurement in FinTech (financial technology) involves acquiring the technology,
 Effective procurement involves not just a transactional relationship but an ongoing relationship with suppliers. This is where Supplier [Relationship Management](../r/relationship_management.md) (SRM) comes into play:
 
 - **Performance Monitoring**: Continuously assessing supplier performance to ensure contractual [obligations](../o/obligation.md) are met.
-  
+
 - **[Risk Management](../r/risk_management.md)**: Identifying and mitigating risks related to supplier failure or non-compliance.
-  
+
 - **Collaboration and Improvement**: Working jointly with suppliers to drive innovation and continuous improvement in quality and [efficiency](../e/efficiency.md).
 
 ## Technology in Procurement
 
-Modern procurement heavily relies on technology to enhance [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md). 
+Modern procurement heavily relies on technology to enhance [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md).
 
 ### E-Procurement
 
@@ -105,7 +105,7 @@ Compliance with local and international regulations can be complex, especially i
 
 ### Supplier Risks:
 
-Reliability and financial stability of suppliers are critical. Supplier disruptions can substantially impact an organization’s operations. 
+Reliability and financial stability of suppliers are critical. Supplier disruptions can substantially impact an organization’s operations.
 
 ### Cost Control:
 
@@ -121,8 +121,8 @@ Procurement is a multifaceted and dynamic function that plays a vital role in th
 
 For more detailed resources and software solutions related to procurement, you can explore:
 
-- Ariba: [Ariba Network](https://www.ariba.com/)
-- Coupa: [Coupa](https://www.coupa.com/)
-- Jaggaer: [Jaggaer](https://www.jaggaer.com/)
+- Ariba: Ariba Network
+- Coupa: Coupa
+- Jaggaer: Jaggaer
 
 By staying abreast of [best practices](../b/best_practices.md), leveraging technology, and cultivating strong supplier relationships, organizations can significantly enhance their procurement processes and outcomes.

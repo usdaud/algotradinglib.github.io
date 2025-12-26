@@ -48,11 +48,11 @@ In [portfolio management](../p/portfolio_management.md), Bayesian [statistics](.
 ### Real-World Applications
 
 #### BlackRock
-BlackRock, the world's largest [asset](../a/asset.md) manager, uses advanced quantitative techniques, including Bayesian [statistics](../s/statistics.md), to manage its portfolios and develop [trading strategies](../t/trading_strategies.md). Their Aladdin platform integrates various data sources and applies Bayesian models to enhance investment decisions. More information can be found on [BlackRock's website](https://www.blackrock.com).
+BlackRock, the world's largest [asset](../a/asset.md) manager, uses advanced quantitative techniques, including Bayesian [statistics](../s/statistics.md), to manage its portfolios and develop [trading strategies](../t/trading_strategies.md). Their Aladdin platform integrates various data sources and applies Bayesian models to enhance investment decisions.
 
 #### Two Sigma
-Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), leverages Bayesian [statistics](../s/statistics.md) in its [trading algorithms](../t/trading_algorithms.md). By continuously updating models with new [market](../m/market.md) data, Two Sigma aims to achieve superior returns while managing risks effectively. Additional information is available on [Two Sigma's website](https://www.twosigma.com).
+Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), leverages Bayesian [statistics](../s/statistics.md) in its [trading algorithms](../t/trading_algorithms.md). By continuously updating models with new [market](../m/market.md) data, Two Sigma aims to achieve superior returns while managing risks effectively.
 
 ### Conclusion
 
-Bayesian [statistics](../s/statistics.md) provide a rigorous framework for updating beliefs and making decisions based on new information, making it highly valuable for trading. By applying Bayesian methods, traders and investment managers can enhance their predictions, manage risks more effectively, and develop adaptive [trading strategies](../t/trading_strategies.md) that respond to changing [market](../m/market.md) conditions.
+Bayesian [statistics](../s/statistics.md) provide a rigorous framework for updating beliefs and making decisions based on new information, making it highly valuable for trading. By applying Bayesian methods, traders and investment managers can enhance their predictions, manage risks more effectively, and develop adaptive [trading strategies](../t/trading_strategies.md) that respond to changing [market](../m/market.md) conditions.

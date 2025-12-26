@@ -15,34 +15,34 @@ The Series 65 exam consists of 130 [multiple](../m/multiple.md)-choice questions
 The Series 65 exam includes several key areas:
 
 1. **Economic Factors and [Business](../b/business.md) Information** (15% of exam)
-   - [Economic Indicators](../e/economic_indicators.md)
-   - Financial Reporting
-   - Analytical Methods
+ - [Economic Indicators](../e/economic_indicators.md)
+ - Financial Reporting
+ - Analytical Methods
 
 2. **[Investment Vehicle](../i/investment_vehicle.md) Characteristics** (25% of exam)
-   - Cash and [Cash Equivalents](../c/cash_equivalents.md)
-   - [Fixed Income Securities](../f/fixed_income_securities.md)
-   - [Equity](../e/equity.md) Securities
-   - Pooled Investments
-   - [Derivatives](../d/derivatives.md)
-   - [Insurance](../i/insurance.md)-Based Products
+ - Cash and [Cash Equivalents](../c/cash_equivalents.md)
+ - [Fixed Income Securities](../f/fixed_income_securities.md)
+ - [Equity](../e/equity.md) Securities
+ - Pooled Investments
+ - [Derivatives](../d/derivatives.md)
+ - [Insurance](../i/insurance.md)-Based Products
 
 3. **Client Investment Recommendations and Strategies** (30% of exam)
-   - Types of Clients
-   - Client Profiles
-   - [Capital](../c/capital.md) [Market](../m/market.md) Theory
-   - [Portfolio Management](../p/par.md)
+ - Types of Clients
+ - Client Profiles
+ - [Capital](../c/capital.md) [Market](../m/market.md) Theory
+ - [Portfolio Management](../p/par.md)
 
 4. **Laws, Regulations, and Guidelines, including Prohibition on Unethical [Business](../b/business.md) Practices** (30% of exam)
-   - State and Federal Securities Acts and Regulations
-   - Ethical Practices and Fiduciary [Obligations](../o/obligation.md)
+ - State and Federal Securities Acts and Regulations
+ - Ethical Practices and Fiduciary [Obligations](../o/obligation.md)
 
 ## Registration and Fees
 
 Interested candidates must register for the Series 65 exam using the Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) registration system, even though FINRA does not administer the exam directly.
 
 - **Registration [Fee](../f/fee.md)**: The [fee](../f/fee.md) for the Series 65 exam is $175.
-- **Study Resources**: Candidates often use a variety of study guides, online courses, and textbooks to prepare for the exam. 
+- **Study Resources**: Candidates often use a variety of study guides, online courses, and textbooks to prepare for the exam.
 
 ## Significance in the Financial Industry
 
@@ -75,11 +75,11 @@ Holding a Series 65 license unlocks various career opportunities in [finance](..
 
 ### Investment Adviser Representative
 
-Licensed professionals can operate as Investment Adviser Representatives (IAR) under a Registered Investment Adviser (RIA) [firm](../f/firm.md). They typically provide advice on securities investments, [portfolio management](../p/par.md), and [financial planning](../f/financial_planning.md). 
+Licensed professionals can operate as Investment Adviser Representatives (IAR) under a Registered Investment Adviser (RIA) [firm](../f/firm.md). They typically provide advice on securities investments, [portfolio management](../p/par.md), and [financial planning](../f/financial_planning.md).
 
 ### Self-Employed Investment Advisor
 
-A valid Series 65 license allows an individual to start their advisory [firm](../f/firm.md) and operate as a sole proprietor, providing tailored investment advice to clients. 
+A valid Series 65 license allows an individual to start their advisory [firm](../f/firm.md) and operate as a sole proprietor, providing tailored investment advice to clients.
 
 ### Financial Counselor
 

@@ -1,6 +1,6 @@
 # X-Signal Models
 
-X-Signal Models represent advanced quantitative methods used in [algorithmic trading](../a/algorithmic_trading.md) to generate predictive signals based on complex [data analytics](../d/data_analytics.md). These models use [machine learning](../m/machine_learning.md) techniques, statistical methods, and high-performance computing to detect patterns and trends in massive datasets, effectively capturing the [market](../m/market.md)'s intricacies to identify profitable trading opportunities. 
+X-Signal Models represent advanced quantitative methods used in [algorithmic trading](../a/algorithmic_trading.md) to generate predictive signals based on complex [data analytics](../d/data_analytics.md). These models use [machine learning](../m/machine_learning.md) techniques, statistical methods, and high-performance computing to detect patterns and trends in massive datasets, effectively capturing the [market](../m/market.md)'s intricacies to identify profitable trading opportunities.
 
 #### 1. Introduction to X-Signal Models
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, refers to the use of computer algorithms to automate the trading process. X-Signal Models are one of the most sophisticated tools in this domain, leveraging interdisciplinary approaches from computer science, mathematics, and [finance](../f/finance.md).
@@ -43,10 +43,10 @@ Developing and deploying X-Signal Models come with several challenges:
 #### 6. Case Studies and Applications
 Several companies and financial institutions have successfully implemented X-Signal Models in their [trading strategies](../t/trading_strategies.md):
 
-- **AQR [Capital](../c/capital.md) Management**: Known for its quantitative approach, AQR utilizes advanced models to drive its trading decisions. [More about AQR](https://www.aqrcapital.com/)
-- **Two Sigma**: Another leader in [quantitative trading](../q/quantitative_trading.md), Two Sigma employs [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to inform its [trading strategies](../t/trading_strategies.md). [More about Two Sigma](https://www.twosigma.com/)
-- **Man AHL**: Part of the Man Group, Man AHL uses [systematic trading](../s/systematic_trading.md) strategies, incorporating complex statistical models and algorithms. [More about Man AHL](https://www.man.com/ahl)
-- **Jane Street**: Known for its [quantitative trading](../q/quantitative_trading.md) and [market](../m/market.md)-making activities, Jane Street uses sophisticated models to operate in highly [liquid](../l/liquid.md) markets. [More about Jane Street](https://www.janestreet.com/)
+- **AQR [Capital](../c/capital.md) Management**: Known for its quantitative approach, AQR utilizes advanced models to drive its trading decisions. More about AQR
+- **Two Sigma**: Another leader in [quantitative trading](../q/quantitative_trading.md), Two Sigma employs [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to inform its [trading strategies](../t/trading_strategies.md). More about Two Sigma
+- **Man AHL**: Part of the Man Group, Man AHL uses [systematic trading](../s/systematic_trading.md) strategies, incorporating complex statistical models and algorithms. More about Man AHL
+- **Jane Street**: Known for its [quantitative trading](../q/quantitative_trading.md) and [market](../m/market.md)-making activities, Jane Street uses sophisticated models to operate in highly [liquid](../l/liquid.md) markets. More about Jane Street
 
 #### 7. Future Trends in X-Signal Models
 The future of X-Signal Models looks promising with several emerging trends:

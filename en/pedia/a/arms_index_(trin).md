@@ -70,9 +70,9 @@ With the advent of sophisticated [trading systems](../t/trading_systems.md) and 
 
 Several trading platforms and financial services include TRIN indicators as part of their package. Examples include:
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive financial software system providing extensive [market](../m/market.md) data, analytics, and trading capabilities. Link: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: [Financial analysis](../f/financial_analysis.md) software providing [data visualization](../d/data_visualization.md) and trading tools. Link: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- **MetaTrader 4/5**: A popular [trading platform](../t/trading_platform.md) among retail traders that includes the TRIN [indicator](../i/indicator.md). Link: [MetaTrader](https://www.metatrader4.com/)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive financial software system providing extensive [market](../m/market.md) data, analytics, and trading capabilities. Link: Bloomberg
+- **Thomson [Reuters](../r/reuters.md) Eikon**: [Financial analysis](../f/financial_analysis.md) software providing [data visualization](../d/data_visualization.md) and trading tools. Link: Thomson Reuters Eikon
+- **MetaTrader 4/5**: A popular [trading platform](../t/trading_platform.md) among retail traders that includes the TRIN [indicator](../i/indicator.md). Link: MetaTrader
 
 ## Conclusion
 

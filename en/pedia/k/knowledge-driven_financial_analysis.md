@@ -8,8 +8,8 @@ Knowledge-Driven [Financial Analysis](../f/financial_analysis.md) (KDFA) is a mu
 KDFA heavily relies on the utilization of [big data](../b/big_data_in_trading.md), which encompasses vast and diverse datasets that can be analyzed to reveal patterns, trends, and associations. The use of [big data](../b/big_data_in_trading.md) in [finance](../f/finance.md) involves extracting useful insights from financial transactions, [market](../m/market.md) sentiments, [economic indicators](../e/economic_indicators.md), and related datasets.
 
 #### Source Examples
-- [Bloomberg](../b/bloomberg.md) Terminal ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)): Provides real-time and historical data, news, and analytics for financial [market](../m/market.md) professionals.
-- [Quandl](../q/quandl.md) ([Quandl](https://www.quandl.com/)): A platform [offering](../o/offering.md) a wide array of financial, economic, and alternative datasets.
+- [Bloomberg](../b/bloomberg.md) Terminal (Bloomberg): Provides real-time and historical data, news, and analytics for financial [market](../m/market.md) professionals.
+- [Quandl](../q/quandl.md) (Quandl): A platform [offering](../o/offering.md) a wide array of financial, economic, and alternative datasets.
 
 ### 2. Advanced Computational Techniques
 KDFA employs advanced computational techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), [machine learning](../m/machine_learning.md) (ML), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to process and analyze large volumes of data. These techniques enable more accurate predictions and identification of complex patterns that traditional methods might miss.
@@ -30,8 +30,8 @@ KDFA employs advanced computational techniques such as [natural language process
 [Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms to execute pre-determined [trading strategies](../t/trading_strategies.md) without human intervention. These algorithms can process data at high speeds and execute trades based on predefined criteria, minimizing human errors and emotional bias.
 
 #### Key Players
-- Renaissance Technologies ([Renaissance Technologies](https://www.rentec.com/)): A notable [firm](../f/firm.md) in [quantitative trading](../q/quantitative_trading.md).
-- Two Sigma ([Two Sigma](https://www.twosigma.com/)): Another leading [firm](../f/firm.md) known for their use of [data science](../d/data_science_in_trading.md) and technology in [trading strategies](../t/trading_strategies.md).
+- Renaissance Technologies (Renaissance Technologies): A notable [firm](../f/firm.md) in [quantitative trading](../q/quantitative_trading.md).
+- Two Sigma (Two Sigma): Another leading [firm](../f/firm.md) known for their use of [data science](../d/data_science_in_trading.md) and technology in [trading strategies](../t/trading_strategies.md).
 
 ### 5. Risk Management
 Effective [risk management](../r/risk_management.md) is crucial in KDFA, helping to mitigate potential losses and protect investments. Techniques include [stress testing](../s/stress_testing_in_trading.md), [scenario analysis](../s/scenario_analysis.md), and the implementation of [risk management](../r/risk_management.md) models.
@@ -58,15 +58,15 @@ Integrating data from various sources and ensuring interoperability between diff
 Effective [data visualization](../d/data_visualization.md) and reporting are essential for interpreting complex data and communicating insights to stakeholders. Tools like dashboards, graphs, and interactive reports are used to present data in an understandable and actionable format.
 
 #### Visualization Tools
-- Tableau ([Tableau](https://www.tableau.com/)): A powerful tool for creating interactive and shareable dashboards.
-- D3.js ([D3.js](https://d3js.org/)): A JavaScript library for producing dynamic, interactive data visualizations in web browsers.
+- Tableau (Tableau): A powerful tool for creating interactive and shareable dashboards.
+- D3.js (D3.js): A JavaScript library for producing dynamic, interactive data visualizations in web browsers.
 
 ### 9. Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) involves assessing the mood or tone of [market](../m/market.md) participants based on textual data from news articles, [social media](../s/social_media.md), and other sources. This technique helps in gauging [market sentiment](../m/market_sentiment.md) and predicting [market](../m/market.md) movements.
 
 #### Tools for Sentiment Analysis
-- Lexalytics ([Lexalytics](https://www.lexalytics.com/)): Provides text and [sentiment analysis](../s/sentiment_analysis.md) solutions.
-- MonkeyLearn ([MonkeyLearn](https://monkeylearn.com/)): An easy-to-use [machine learning](../m/machine_learning.md) tool for text analysis.
+- Lexalytics (Lexalytics): Provides text and [sentiment analysis](../s/sentiment_analysis.md) solutions.
+- MonkeyLearn (MonkeyLearn): An easy-to-use [machine learning](../m/machine_learning.md) tool for text analysis.
 
 ### 10. Quantitative Finance
 [Quantitative finance](../q/quantitative_finance.md) focuses on the application of [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to solve complex problems in [finance](../f/finance.md), such as pricing [derivatives](../d/derivatives.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md).

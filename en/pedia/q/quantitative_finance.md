@@ -1,6 +1,6 @@
 # Quantitative Finance
 
-Quantitative [finance](../f/finance.md), commonly referred to as "quant [finance](../f/finance.md)" or "[quantitative trading](../q/quantitative_trading.md)," is a subfield of [finance](../f/finance.md) that employs [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and [computational algorithms](../c/computational_algorithms.md) to understand financial phenomena and make investment decisions. This approach seeks to analyze and interpret [market](../m/market.md) trends, [asset](../a/asset.md) prices, and [financial risk](../f/financial_risk.md) using quantitative techniques derived from areas such as [statistics](../s/statistics.md), [stochastic processes](../s/stochastic_processes.md), empirical [finance](../f/finance.md), and [machine learning](../m/machine_learning.md). 
+Quantitative [finance](../f/finance.md), commonly referred to as "quant [finance](../f/finance.md)" or "[quantitative trading](../q/quantitative_trading.md)," is a subfield of [finance](../f/finance.md) that employs [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and [computational algorithms](../c/computational_algorithms.md) to understand financial phenomena and make investment decisions. This approach seeks to analyze and interpret [market](../m/market.md) trends, [asset](../a/asset.md) prices, and [financial risk](../f/financial_risk.md) using quantitative techniques derived from areas such as [statistics](../s/statistics.md), [stochastic processes](../s/stochastic_processes.md), empirical [finance](../f/finance.md), and [machine learning](../m/machine_learning.md).
 
 ## Foundational Concepts
 
@@ -50,16 +50,16 @@ High-frequency trading uses powerful computers and algorithms to execute a large
 Several institutions and companies are at the forefront of quantitative [finance](../f/finance.md), [offering](../o/offering.md) insights, tools, and platforms for traders and researchers. Here are some leading organizations:
 
 ### WorldQuant
-[WorldQuant](https://www.worldquant.com/) is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses statistical and [mathematical models](../m/mathematical_models_in_trading.md) to develop investment strategies. They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and high-performance computational [infrastructure](../i/infrastructure.md).
+WorldQuant is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses statistical and [mathematical models](../m/mathematical_models_in_trading.md) to develop investment strategies. They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and high-performance computational [infrastructure](../i/infrastructure.md).
 
 ### Jane Street
-[Jane Street](https://www.janestreet.com/) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that excels in [quantitative trading](../q/quantitative_trading.md) and research. They focus on [algorithmic trading](../a/algorithmic_trading.md) strategies and have a significant presence in ETFs, [options](../o/options.md), and other financial [derivatives](../d/derivatives.md).
+Jane Street is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that excels in [quantitative trading](../q/quantitative_trading.md) and research. They focus on [algorithmic trading](../a/algorithmic_trading.md) strategies and have a significant presence in ETFs, [options](../o/options.md), and other financial [derivatives](../d/derivatives.md).
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a technology-driven [hedge fund](../h/hedge_fund.md) that uses [quantitative analysis](../q/quantitative_analysis.md) to develop [trading strategies](../t/trading_strategies.md). They combine [data science](../d/data_science_in_trading.md), advanced mathematics, and innovative engineering to drive their investment processes.
+Two Sigma is a technology-driven [hedge fund](../h/hedge_fund.md) that uses [quantitative analysis](../q/quantitative_analysis.md) to develop [trading strategies](../t/trading_strategies.md). They combine [data science](../d/data_science_in_trading.md), advanced mathematics, and innovative engineering to drive their investment processes.
 
 ### Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is one of the most successful quant-driven [hedge](../h/hedge.md) funds, known for its Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to secure high returns.
+Renaissance Technologies is one of the most successful quant-driven [hedge](../h/hedge.md) funds, known for its Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to secure high returns.
 
 ## Quantitative Finance Software and Tools
 
@@ -75,7 +75,7 @@ R and Python are popular [open](../o/open.md)-source programming languages in qu
 - **Python:** Known for its versatility and extensive libraries such as NumPy, pandas, and SciPy for data analysis, and PyMC3 and [TensorFlow](../t/tensorflow.md) for [machine learning](../m/machine_learning.md).
 
 ### QuantLib
-[QuantLib](https://www.quantlib.org/) is an [open](../o/open.md)-source library for financial quantitative analysts and developers, [offering](../o/offering.md) tools for [derivatives](../d/derivatives.md) pricing, [portfolio management](../p/portfolio_management.md), and [risk management](../r/risk_management.md).
+QuantLib is an [open](../o/open.md)-source library for financial quantitative analysts and developers, [offering](../o/offering.md) tools for [derivatives](../d/derivatives.md) pricing, [portfolio management](../p/portfolio_management.md), and [risk management](../r/risk_management.md).
 
 ### Bloomberg Terminal
 The [Bloomberg](../b/bloomberg.md) Terminal is a widely-used software system that provides real-time financial data, news, and analytics. It is a crucial tool for traders and analysts in quantitative [finance](../f/finance.md).

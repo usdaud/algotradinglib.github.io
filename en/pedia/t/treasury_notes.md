@@ -75,10 +75,10 @@ Corporate bonds are issued by companies and carry higher [risk](../r/risk.md) an
 ## 8. Technological Innovations and Treasury Notes
 
 ### 8.1. Electronic Trading Platforms
-The advent of electronic trading platforms has increased the accessibility and [transparency](../t/transparency.md) of the Treasury notes [market](../m/market.md). Platforms like TreasuryDirect allow individual investors to purchase T-notes directly from the government without intermediaries. For more information, visit [TreasuryDirect](https://www.treasurydirect.gov).
+The advent of electronic trading platforms has increased the accessibility and [transparency](../t/transparency.md) of the Treasury notes [market](../m/market.md). Platforms like TreasuryDirect allow individual investors to purchase T-notes directly from the government without intermediaries. For more information, visit TreasuryDirect.
 
 ### 8.2. Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades based on predefined criteria. In the context of Treasury notes, algorithms can analyze [market](../m/market.md) data and execute trades with high speed and precision, potentially capitalizing on short-term [market](../m/market.md) inefficiencies.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades based on predefined criteria. In the context of Treasury notes, algorithms can analyze [market](../m/market.md) data and execute trades with high speed and precision, potentially capitalizing on short-term [market](../m/market.md) inefficiencies.
 
 ### 8.3. Blockchain and Distributed Ledger Technology
 [Blockchain](../b/blockchain_in_trading.md) technology has the potential to revolutionize the issuance, trading, and settlement of Treasury notes by providing a secure and transparent ledger for transactions. This could enhance the [efficiency](../e/efficiency.md) and reduce the costs associated with the fixed-[income](../i/income.md) [market](../m/market.md).

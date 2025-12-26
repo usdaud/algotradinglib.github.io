@@ -22,7 +22,7 @@ Leveraged ETFs come in various flavors, including:
 
 - **2x or 3x [Bull](../b/bull.md) ETFs**: Seek to achieve twice or three times the daily performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
 - **-2x or -3x Bear ETFs**: Seek to achieve twice or three times the inverse of the daily performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
-  
+
 #### Uses in Algorithmic Trading
 
 Algorithmic traders frequently use leveraged ETFs for [short-term trading](../s/short-term_trading.md) strategies due to their ability to [capitalize](../c/capitalize.md) quickly on [market](../m/market.md) movements. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can exploit the [leverage](../l/leverage.md) and [liquidity](../l/liquidity.md) of these funds to achieve superior returns on smaller movements in the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
@@ -57,9 +57,9 @@ Some of the well-known leveraged ETFs include:
 
 The [leveraged ETF](../l/leveraged_etf.md) [market](../m/market.md) is dominated by a few key players, including:
 
-- **ProShares**: [ProShares](https://www.proshares.com), a leading provider of leveraged ETFs, [offering](../o/offering.md) a wide [range](../r/range.md) of products across various [asset](../a/asset.md) classes.
-- **Direxion**: [Direxion](https://www.direxion.com), another major provider known for its diverse [leveraged ETF](../l/leveraged_etf.md) offerings.
-- **VelocityShares**: [VelocityShares](https://www.velocityshares.com), specializing in leveraged and inverse [volatility](../v/volatility.md) ETFs.
+- **ProShares**: ProShares, a leading provider of leveraged ETFs, [offering](../o/offering.md) a wide [range](../r/range.md) of products across various [asset](../a/asset.md) classes.
+- **Direxion**: Direxion, another major provider known for its diverse [leveraged ETF](../l/leveraged_etf.md) offerings.
+- **VelocityShares**: VelocityShares, specializing in leveraged and inverse [volatility](../v/volatility.md) ETFs.
 
 #### Conclusion
 

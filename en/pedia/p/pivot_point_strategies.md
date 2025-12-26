@@ -88,10 +88,10 @@ DeMark's [Pivot Points](../p/pivot_points.md), named after Tom DeMark, use a dif
 
 #### X Value Definition Based on Close
 
-\[ X = \begin{cases} 
+\[ X = \begin{cases}
 High_{previous} + Low_{previous} + 2 \times Close_{previous}, & \text{if Close_{previous} < Open_{previous}} \\
 High_{previous} + 2 \times Low_{previous} + Close_{previous}, & \text{if Close_{previous} > Open_{previous}} \\
-2 \times (High_{previous} + Low_{previous}), & \text{if Close_{previous} = Open_{previous}} 
+2 \times (High_{previous} + Low_{previous}), & \text{if Close_{previous} = Open_{previous}}
 \end{cases}
 \]
 
@@ -181,11 +181,11 @@ print(df)
 Many trading platforms and tools provide built-in capabilities to calculate and use [Pivot Points](../p/pivot_points.md) in [trading strategies](../t/trading_strategies.md). Some of these platforms include:
 
 - **MetaTrader 4 and 5 (MT4/MT5)**: Widely used trading platforms that feature [Pivot Point](../p/pivot_point.md) indicators and allow for the development of custom algorithms using MetaQuotes Language (MQL4/MQL5).
-- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities, including [Pivot Point](../p/pivot_point.md) indicators. [NinjaTrader Website](https://ninjatrader.com/)
-- **[TradingView](../t/tradingview.md)**: Provides charting tools with [Pivot Point](../p/pivot_point.md) indicators and supports custom script creation using Pine Script. [TradingView Website](https://www.tradingview.com/)
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows you to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md) using Python and C#. [QuantConnect Website](https://www.quantconnect.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers [Trader](../t/trader.md) Workstation (TWS) which includes [Pivot Point](../p/pivot_point.md) analysis tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers Website](https://www.interactivebrokers.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities, including [Pivot Point](../p/pivot_point.md)
+- **[TradingView](../t/tradingview.md)**: Provides charting tools with [Pivot Point](../p/pivot_point.md) indicators and supports
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows you to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md) using Python and C#.
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers [Trader](../t/trader.md) Workstation (TWS) which includes [Pivot Point](../p/pivot_point.md) analysis tools and APIs for [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conclusion
 
-[Pivot Point](../p/pivot_point.md) strategies are an essential part of the toolkit for both manual and algorithmic traders. These strategies [leverage](../l/leverage.md) historical price data to identify key levels where the [market sentiment](../m/market_sentiment.md) may shift. Implementing [Pivot Point](../p/pivot_point.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) involves calculating [Pivot Points](../p/pivot_points.md), determining [support and resistance](../s/support_and_resistance.md) levels, and developing algorithms that generate [trading signals](../t/trading_signals.md) based on these levels. When combined with other [technical indicators](../t/technical_indicators.md) and tools, [Pivot Point](../p/pivot_point.md) strategies can become a powerful component of a [trader](../t/trader.md)’s overall strategy. The adoption of platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), [TradingView](../t/tradingview.md), [QuantConnect](../q/quantconnect.md), and [Interactive Brokers](../i/interactive_brokers.md) can facilitate the development and [execution](../e/execution.md) of [Pivot Point](../p/pivot_point.md)-based algorithms.
+[Pivot Point](../p/pivot_point.md) strategies are an essential part of the toolkit for both manual and algorithmic traders. These strategies [leverage](../l/leverage.md) historical price data to identify key levels where the [market sentiment](../m/market_sentiment.md) may shift. Implementing [Pivot Point](../p/pivot_point.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) involves calculating [Pivot Points](../p/pivot_points.md), determining [support and resistance](../s/support_and_resistance.md) levels, and developing algorithms that generate [trading signals](../t/trading_signals.md) based on these levels. When combined with other [technical indicators](../t/technical_indicators.md) and tools, [Pivot Point](../p/pivot_point.md) strategies can become a powerful component of a [trader](../t/trader.md)’s overall strategy. The adoption of platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), [TradingView](../t/tradingview.md), [StockSharp](../s/stocksharp.md), and [Interactive Brokers](../i/interactive_brokers.md) can facilitate the development and [execution](../e/execution.md) of [Pivot Point](../p/pivot_point.md)-based algorithms.

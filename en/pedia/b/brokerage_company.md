@@ -58,25 +58,25 @@ Brokerage companies operate within a highly regulated environment to ensure [mar
 
 In the United States, the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) is the primary regulatory body overseeing brokerage firms. The SEC enforces securities laws, oversees registration and reporting requirements, and ensures that brokers act in the best interests of their clients.
 
-- [SEC](https://www.sec.gov)
+- SEC
 
 ### The Financial Industry Regulatory Authority (FINRA)
 
 FINRA is a self-regulatory organization that oversees brokerage firms and their registered representatives. FINRA ensures compliance with [industry](../i/industry.md) regulations, conducts examinations, and enforces disciplinary actions for violations.
 
-- [FINRA](https://www.finra.org)
+- FINRA
 
 ### The Financial Conduct Authority (FCA)
 
 In the United Kingdom, the Financial Conduct Authority (FCA) regulates brokerage firms. The FCA's role is to ensure that [financial markets](../f/financial_market.md) operate fairly and transparently and that consumers are protected.
 
-- [FCA](https://www.fca.org.uk)
+- FCA
 
 ### European Securities and Markets Authority (ESMA)
 
 In the [European Union](../e/european_union_(eu).md), the European Securities and Markets Authority (ESMA) is responsible for ensuring the stability and integrity of [financial markets](../f/financial_market.md). ESMA develops guidelines and regulatory standards for [market](../m/market.md) participants, including brokerage firms.
 
-- [ESMA](https://www.esma.europa.eu)
+- ESMA
 
 ## Technological Advancements
 

@@ -63,24 +63,24 @@ Consider a scenario where a [trader](../t/trader.md) wants to predict whether th
 1. **Prepare Data**: Collect historical price data and compute [technical indicators](../t/technical_indicators.md).
 2. **Define Response Variable**: Let the response variable \( Y \) be 1 if the price goes up and 0 if it goes down.
 3. **Fit [Logistic Regression](../l/logistic_regression_in_trading.md) Model**:
-   ```python
-   [import](../i/import.md) pandas as pd
-   [import](../i/import.md) statsmodels.api as sm
+ ```python
+ [import](../i/import.md) pandas as pd
+ [import](../i/import.md) statsmodels.api as sm
 
-   # Assume df is a DataFrame containing historical price data and [technical indicators](../t/technical_indicators.md)
-   X = df[['moving_average', 'RSI']]  # Covariates
-   y = df['price_direction']  # Response variable
+ # Assume df is a DataFrame containing historical price data and [technical indicators](../t/technical_indicators.md)
+ X = df[['moving_average', 'RSI']] # Covariates
+ y = df['price_direction'] # Response variable
 
-   # Add constant to the model (intercept)
-   X = sm.add_constant(X)
+ # Add constant to the model (intercept)
+ X = sm.add_constant(X)
 
-   # Fit [logistic regression](../l/logistic_regression_in_trading.md)
-   model = sm.Logit(y, X)
-   result = model.fit()
+ # Fit [logistic regression](../l/logistic_regression_in_trading.md)
+ model = sm.Logit(y, X)
+ result = model.fit()
 
-   # Display summary
-   print(result.summary())
-   ```
+ # Display summary
+ print(result.summary())
+ ```
 
 ### Example 2: Poisson Regression for Modeling Trade Frequency
 
@@ -89,27 +89,27 @@ A trading [firm](../f/firm.md) may want to model the frequency of trades execute
 1. **Prepare Data**: Collect historical data on the number of trades per period and potential predictors (e.g., [market](../m/market.md) [volatility](../v/volatility.md), trading [volume](../v/volume.md)).
 2. **Define Response Variable**: Let the response variable \( Y \) be the number of trades.
 3. **Fit [Poisson Regression](../p/poisson_regression_in_trading.md) Model**:
-   ```python
-   [import](../i/import.md) pandas as pd
-   [import](../i/import.md) statsmodels.api as sm
+ ```python
+ [import](../i/import.md) pandas as pd
+ [import](../i/import.md) statsmodels.api as sm
 
-   # Assume df is a DataFrame containing historical [trade](../t/trade.md) counts and predictors
-   X = df[['market_volatility', 'trading_volume']]  # Covariates
-   y = df['trade_count']  # Response variable
+ # Assume df is a DataFrame containing historical [trade](../t/trade.md) counts and predictors
+ X = df[['market_volatility', 'trading_volume']] # Covariates
+ y = df['trade_count'] # Response variable
 
-   # Add constant to the model (intercept)
-   X = sm.add_constant(X)
+ # Add constant to the model (intercept)
+ X = sm.add_constant(X)
 
-   # Fit [Poisson regression](../p/poisson_regression_in_trading.md)
-   model = sm.GLM(y, X, family=sm.families.Poisson())
-   result = model.fit()
+ # Fit [Poisson regression](../p/poisson_regression_in_trading.md)
+ model = sm.GLM(y, X, family=sm.families.Poisson())
+ result = model.fit()
 
-   # Display summary
-   print(result.summary())
-   ```
+ # Display summary
+ print(result.summary())
+ ```
 
 ## Conclusion
 
 Generalized [Linear Models](../l/linear_models_in_trading.md) are powerful tools that can be applied to various problems in [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) flexibility in modeling different types of response variables and can incorporate a wide [range](../r/range.md) of covariates. By using GLMs, traders and quantitative analysts can build more accurate [predictive models](../p/predictive_models_in_trading.md), assess risks, and optimize their [trading strategies](../t/trading_strategies.md) and portfolios.
 
-For further reading or practical applications, one can explore various resources, libraries, and platforms like [QuantConnect](https://www.quantconnect.com/), [Alpaca](https://alpaca.markets/), and more, which provide tools and environments for quantitative and [algorithmic trading](../a/algorithmic_trading.md).
+For further reading or practical applications, one can explore various resources, libraries, and platforms like QuantConnect, Alpaca, and more, which provide tools and environments for quantitative and [algorithmic trading](../a/algorithmic_trading.md).

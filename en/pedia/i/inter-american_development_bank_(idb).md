@@ -45,4 +45,3 @@ The **Inter-American Development [Bank](../b/bank.md) (IDB)** is a regional deve
 
 ## Conclusion
 The Inter-American Development [Bank](../b/bank.md) plays a crucial role in fostering sustainable development and regional integration in Latin America and the Caribbean. Through its financial and technical assistance, the IDB supports a wide [range](../r/range.md) of projects aimed at improving [infrastructure](../i/infrastructure.md), social services, [economic growth](../e/economic_growth.md), and environmental sustainability. Understanding the IDB’s mission, areas of focus, and [best practices](../b/best_practices.md) can help stakeholders maximize the benefits of its support and contribute to the region’s development goals.
-

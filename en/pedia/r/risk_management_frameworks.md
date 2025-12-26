@@ -102,7 +102,7 @@ XYZ uses state-of-the-art software to continuously monitor trading activities an
 
 A [risk management](../r/risk_management.md) committee at XYZ oversees all [risk](../r/risk.md)-related activities. The committee establishes [risk tolerance](../r/risk_tolerance.md) levels and ensures compliance with [risk management](../r/risk_management.md) policies through regular audits and reviews.
 
-For more information about XYZ [Algorithmic Trading](../a/algorithmic_trading.md) [Firm](../f/firm.md)’s [risk management](../r/risk_management.md) practices, visit their official website: [XYZ Algorithmic Trading Firm](https://www.xyzalgotrading.com).
+For more information about XYZ [Algorithmic Trading](../a/algorithmic_trading.md) [Firm](../f/firm.md)’s [risk management](../r/risk_management.md) practices,
 
 ### Conclusion
 

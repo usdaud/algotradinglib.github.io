@@ -9,18 +9,18 @@
 ## Key Components of Yield Forecast Analysis
 
 1. **Data Collection and Preprocessing**
-    - **Historical Price Data:** Past price data of the financial instruments is crucial for [trend analysis](../t/trend_analysis.md) and model training.
-    - **[Economic Indicators](../e/economic_indicators.md):** Macroeconomic data such as GDP growth, [interest](../i/interest.md) rates, and [inflation](../i/inflation.md) can influence yields.
-    - **Corporate Fundamentals:** Corporate [earnings](../e/earnings.md) reports, balance sheets, and other fundamental data are often used in stock [yield forecasting](../y/yield_forecasting.md).
+ - **Historical Price Data:** Past price data of the financial instruments is crucial for [trend analysis](../t/trend_analysis.md) and model training.
+ - **[Economic Indicators](../e/economic_indicators.md):** Macroeconomic data such as GDP growth, [interest](../i/interest.md) rates, and [inflation](../i/inflation.md) can influence yields.
+ - **Corporate Fundamentals:** Corporate [earnings](../e/earnings.md) reports, balance sheets, and other fundamental data are often used in stock [yield forecasting](../y/yield_forecasting.md).
 
 2. **Statistical Methods and Models**
-    - **[Time Series Analysis](../t/time_series_analysis.md):** Techniques like ARIMA (AutoRegressive Integrated Moving Average) models are employed to analyze time-dependent data.
-    - **[Factor Models](../f/factor_models.md):** Multi-[factor models](../f/factor_models.md) (e.g., Fama-French three-[factor](../f/factor.md) model) evaluate the impact of various economic factors on returns.
-    - **[Machine Learning](../m/machine_learning.md) Models:** More recently, [machine learning](../m/machine_learning.md) models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) have been employed for [yield forecasting](../y/yield_forecasting.md).
+ - **[Time Series Analysis](../t/time_series_analysis.md):** Techniques like ARIMA (AutoRegressive Integrated Moving Average) models are employed to analyze time-dependent data.
+ - **[Factor Models](../f/factor_models.md):** Multi-[factor models](../f/factor_models.md) (e.g., Fama-French three-[factor](../f/factor.md) model) evaluate the impact of various economic factors on returns.
+ - **[Machine Learning](../m/machine_learning.md) Models:** More recently, [machine learning](../m/machine_learning.md) models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) have been employed for [yield forecasting](../y/yield_forecasting.md).
 
 3. **[Risk Management](../r/risk_management.md)**
-    - **[Volatility](../v/volatility.md) Assessment:** Measuring the [volatility](../v/volatility.md) of predicted returns is critical for [risk management](../r/risk_management.md).
-    - **[Scenario Analysis](../s/scenario_analysis.md):** [Stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) to evaluate the impact of different [market](../m/market.md) conditions on forecasts.
+ - **[Volatility](../v/volatility.md) Assessment:** Measuring the [volatility](../v/volatility.md) of predicted returns is critical for [risk management](../r/risk_management.md).
+ - **[Scenario Analysis](../s/scenario_analysis.md):** [Stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) to evaluate the impact of different [market](../m/market.md) conditions on forecasts.
 
 ## Methodologies in Yield Forecast Analysis
 
@@ -59,50 +59,50 @@ These [ensemble learning](../e/ensemble_learning.md) methods combine the predict
 ## Tools and Platforms for Yield Forecast Analysis
 
 1. **Python Libraries:**
-    - **Pandas:** Essential for data manipulation and preprocessing.
-    - **NumPy:** Fundamental for numerical operations.
-    - **Scikit-learn:** Provides [robust](../r/robust.md) implementations of classical machine [learning algorithms](../l/learning_algorithms_in_trading.md).
-    - **Statsmodels:** Useful for statistical models and [hypothesis testing](../h/hypothesis_testing.md).
-    - **[TensorFlow](../t/tensorflow.md)/[PyTorch](../p/pytorch.md):** Frameworks for building and training [neural networks](../n/neural_networks_in_trading.md).
+ - **Pandas:** Essential for data manipulation and preprocessing.
+ - **NumPy:** Fundamental for numerical operations.
+ - **Scikit-learn:** Provides [robust](../r/robust.md) implementations of classical machine [learning algorithms](../l/learning_algorithms_in_trading.md).
+ - **Statsmodels:** Useful for statistical models and [hypothesis testing](../h/hypothesis_testing.md).
+ - **[TensorFlow](../t/tensorflow.md)/[PyTorch](../p/pytorch.md):** Frameworks for building and training [neural networks](../n/neural_networks_in_trading.md).
 
 2. **Trading Platforms:**
-    - **[QuantConnect](../q/quantconnect.md) [https://www.quantconnect.com/](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, [cloud computing](../c/cloud_computing_in_trading.md), and [backtesting](../b/backtesting.md) capabilities.
-    - **[AlgoTrader](../a/algotrader.md) [https://www.algotrader.com/](https://www.algotrader.com/):** Professional software for automated [trading strategies](../t/trading_strategies.md) development and [execution](../e/execution.md).
-    - **MetaTrader [https://www.metatrader4.com/en](https://www.metatrader4.com/en):** A widely-used electronic [trading platform](../t/trading_platform.md) for [financial markets](../f/financial_market.md).
+ - **[QuantConnect](../q/quantconnect.md) An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, [cloud computing](../c/cloud_computing_in_trading.md), and [backtesting](../b/backtesting.md) capabilities.
+ - **[AlgoTrader](../a/algotrader.md) Professional software for automated [trading strategies](../t/trading_strategies.md) development and [execution](../e/execution.md).
+ - **MetaTrader A widely-used electronic [trading platform](../t/trading_platform.md) for [financial markets](../f/financial_market.md).
 
 3. **Data Providers:**
-    - **[Bloomberg](../b/bloomberg.md) [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/):** Comprehensive financial, economic, and [market](../m/market.md) data.
-    - **Thomson [Reuters](../r/reuters.md) Eikon [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software):** Provides a wide [range](../r/range.md) of financial data and analytics.
+ - **[Bloomberg](../b/bloomberg.md) Comprehensive financial, economic, and [market](../m/market.md) data.
+ - **Thomson [Reuters](../r/reuters.md) Eikon Provides a wide [range](../r/range.md) of financial data and analytics.
 
 4. **[Backtesting](../b/backtesting.md) Frameworks:**
-    - **[Backtrader](../b/backtrader.md) [https://www.backtrader.com/](https://www.backtrader.com/):** A popular Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-    - **Zipline [https://www.zipline.io/](https://www.zipline.io/):** [Open](../o/open.md)-source [backtesting](../b/backtesting.md) system that powers Quantopian.
+ - **[Backtrader](../b/backtrader.md) A popular Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+ - **Zipline [Open](../o/open.md)-source [backtesting](../b/backtesting.md) system that powers Quantopian.
 
 ## Practical Example of Yield Forecast Analysis
 
 ### Step-by-Step Implementation
 
 1. **Data Collection:**
-    - Collect historical data for the [asset](../a/asset.md) you wish to forecast.
-    - Gather [economic indicators](../e/economic_indicators.md) and fundamentals if necessary.
+ - Collect historical data for the [asset](../a/asset.md) you wish to forecast.
+ - Gather [economic indicators](../e/economic_indicators.md) and fundamentals if necessary.
 
 2. **Data Preprocessing:**
-    - Clean and preprocess the data, [handle](../h/handle.md) missing values, and normalize features.
+ - Clean and preprocess the data, [handle](../h/handle.md) missing values, and normalize features.
 
 3. **Model Selection:**
-    - Choose appropriate models (ARIMA, LSTM, [Random Forests](../r/random_forests_in_trading.md)).
+ - Choose appropriate models (ARIMA, LSTM, [Random Forests](../r/random_forests_in_trading.md)).
 
 4. **Model Training:**
-    - Train the model on historical data, ensuring to split the data into training and validation sets.
+ - Train the model on historical data, ensuring to split the data into training and validation sets.
 
 5. **Model Evaluation:**
-    - Evaluate the model's performance using metrics like Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE), and [R-squared](../r/r-squared_in_trading.md).
+ - Evaluate the model's performance using metrics like Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE), and [R-squared](../r/r-squared_in_trading.md).
 
 6. **[Risk](../r/risk.md) Assessment:**
-    - Assess the [volatility](../v/volatility.md) and [risk](../r/risk.md) of the forecasted yields.
+ - Assess the [volatility](../v/volatility.md) and [risk](../r/risk.md) of the forecasted yields.
 
 7. **[Backtesting](../b/backtesting.md):**
-    - Backtest the predictions against historical data to validate the model's effectiveness.
+ - Backtest the predictions against historical data to validate the model's effectiveness.
 
 ### Example Code Snippet
 

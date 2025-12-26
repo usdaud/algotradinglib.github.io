@@ -177,4 +177,4 @@ In [algorithmic trading](../a/algorithmic_trading.md), precise and accurate meas
 **Continuous Monitoring:**
 Automated systems can be programmed to continuously monitor and calculate total returns, adjusting strategies in real time based on updated [performance metrics](../p/performance_metrics.md), which is crucial for maintaining competitive edge in high-frequency trading environments.
 
-For more detailed services and data on [total return](../t/total_return.md) calculations and analytic tools, companies like [Morningstar](https://www.morningstar.com) and [Bloomberg](https://www.bloomberg.com) provide comprehensive platforms catering to advanced [financial analysis](../f/financial_analysis.md) needs.
+For more detailed services and data on [total return](../t/total_return.md) calculations and analytic tools, companies like Morningstar and Bloomberg provide comprehensive platforms catering to advanced [financial analysis](../f/financial_analysis.md) needs.

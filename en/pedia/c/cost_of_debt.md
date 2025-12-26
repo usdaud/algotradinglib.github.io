@@ -55,13 +55,13 @@ The pre-tax cost of [debt](../d/debt.md) is the [interest rate](../i/interest_ra
 ### Factors Influencing the Cost of Debt
 
 1. **[Credit Rating](../c/credit_rating.md)**: Companies with higher [credit](../c/credit.md) ratings tend to have a lower cost of [debt](../d/debt.md) because they are perceived as lower [risk](../r/risk.md).
-  
+
 2. **[Market](../m/market.md) Conditions**: [Interest](../i/interest.md) rates in the [economy](../e/economy.md) influence the cost of [debt](../d/debt.md). Higher [market](../m/market.md) [interest](../i/interest.md) rates typically increase the cost of borrowing.
-  
+
 3. **Company Performance**: Financially stronger companies with consistent [earnings](../e/earnings.md) have access to cheaper [debt](../d/debt.md).
-  
+
 4. **[Debt](../d/debt.md) [Maturity](../m/maturity.md)**: [Long-term debt](../l/long-term_debt.md) often has a higher [interest rate](../i/interest_rate.md) compared to [short-term debt](../s/short-term_debt.md) due to the longer exposure to potential risks.
-  
+
 5. **[Collateral](../c/collateral.md) and Covenants**: Secured [debt](../d/debt.md) generally has a lower [interest rate](../i/interest_rate.md) compared to [unsecured debt](../u/unsecured_debt.md) as it implies lower [risk](../r/risk.md) for lenders.
 
 ### Optimal Capital Structure
@@ -70,20 +70,19 @@ Deciding the right mix of [debt](../d/debt.md) and [equity](../e/equity.md) is e
 
 ### Real-world Application
 
-One example of a company actively managing its cost of [debt](../d/debt.md) is Apple Inc. ([NASDAQ](../n/nasdaq.md): AAPL). To [gain](../g/gain.md) insights into their strategies and cost of [debt](../d/debt.md), one can explore their annual reports and [investor relations](../i/investor_relations.md) page:
+One example of a company actively managing its cost of [debt](../d/debt.md) is Apple Inc. ([NASDAQ](../n/nasdaq.md): AAPL). To [gain](../g/gain.md) insights into their strategies and cost of [debt](../d/debt.md), one can explore their annual reports and company filings.
 
-[Apple Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
 
 ### Debt Instruments and Cost
 
 Different types of [debt](../d/debt.md) instruments have varied impacts on the cost of [debt](../d/debt.md):
 
 1. **Bonds**: Corporate bonds are a common type of [long-term debt](../l/long-term_debt.md), often paying periodic [interest](../i/interest.md) (coupons). The [interest rate](../i/interest_rate.md) on bonds, known as the [coupon rate](../c/coupon_rate.md), impacts the overall cost of [debt](../d/debt.md).
-  
+
 2. **Loans**: [Bank](../b/bank.md) loans can be short-term or long-term. The [interest](../i/interest.md) rates on loans vary depending on the terms and the [creditworthiness](../c/creditworthiness.md) of the borrower.
-  
+
 3. **Convertible [Debt](../d/debt.md)**: These instruments can be converted into [equity](../e/equity.md), often carrying a lower [interest rate](../i/interest_rate.md) due to the conversion option.
-  
+
 4. **Commercial Papers**: Short-term [financing](../f/financing.md) instruments used by companies to manage [liquidity](../l/liquidity.md). They typically carry lower [interest](../i/interest.md) rates compared to [long-term debt](../l/long-term_debt.md).
 
 ### Impact of Financial Policies

@@ -6,7 +6,7 @@ Naked shorting is a contentious and sophisticated financial practice that exists
 
 Naked shorting involves selling [shares](../s/shares.md) of a stock that the seller does not currently own and has not borrowed. This means that the short seller is selling a [financial instrument](../f/financial_instrument.md) without ensuring prior possession or control over it, violating securities laws in many jurisdictions given its potential manipulative elements.
 
-When a traditional [short sale](../s/short_sale.md) is executed, the seller borrows the [shares](../s/shares.md) to be sold, commonly from a [broker](../b/broker.md). The borrowed [shares](../s/shares.md) are then sold on the [open market](../o/open_market.md), and at a later date, the seller aims to repurchase the [shares](../s/shares.md) at a lower price to [return](../r/return.md) to the [lender](../l/lender.md), thereby profiting from the difference. 
+When a traditional [short sale](../s/short_sale.md) is executed, the seller borrows the [shares](../s/shares.md) to be sold, commonly from a [broker](../b/broker.md). The borrowed [shares](../s/shares.md) are then sold on the [open market](../o/open_market.md), and at a later date, the seller aims to repurchase the [shares](../s/shares.md) at a lower price to [return](../r/return.md) to the [lender](../l/lender.md), thereby profiting from the difference.
 
 In a naked [short sale](../s/short_sale.md), the short seller does not borrow or arrange to borrow the [shares](../s/shares.md) before executing the [sale](../s/sale.md). The [transaction](../t/transaction.md) proceeds assuming the [shares](../s/shares.md) could be borrowed or delivered. This practice creates a scenario where more [shares](../s/shares.md) are sold short than exist, potentially inflating [supply](../s/supply.md) and creating undue downward pressure on the stock's price.
 
@@ -42,7 +42,7 @@ During the 2008 [financial crisis](../f/financial_crisis.md), banks and financia
 ## Technological Developments and Market Impact
 
 ### Advanced Trading Technologies
-With the rise of [algorithmic trading](../a/accountability.md) and high-frequency trading (HFT), the mechanics of executing and monitoring naked short sales have evolved. These technologies can obscure the tracing of naked short activities, complicating regulatory oversight. 
+With the rise of [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading (HFT), the mechanics of executing and monitoring naked short sales have evolved. These technologies can obscure the tracing of naked short activities, complicating regulatory oversight.
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 [Blockchain](../b/blockchain_in_trading.md) and DLT can revolutionize the [transparency](../t/transparency.md) of [securities lending](../s/securities_lending.md) and [short selling](../s/short_selling.md). A [blockchain](../b/blockchain_in_trading.md)-based system could create immutable records of share ownership and borrowing, potentially deterring naked [short selling](../s/short_selling.md) by ensuring all [shares](../s/shares.md) sold short are verifiably borrowed.
@@ -64,5 +64,3 @@ Training and educating traders about the legalities and ethical considerations o
 ## Conclusion
 
 Naked shorting remains one of the most controversial practices in [financial markets](../f/financial_market.md), embodying significant [risk](../r/risk.md) and legal challenges. While it can [offer](../o/offer.md) [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md) benefits, its potential to distort markets and invite manipulative behavior cannot be ignored. Through vigilant regulation, advanced technology, and a commitment to [transparency](../t/transparency.md), the detrimental impacts of naked [short selling](../s/short_selling.md) can be mitigated, preserving [market](../m/market.md) function and [investor](../i/investor.md) confidence.
-
-For more information, visit the SEC site on [Naked Short Sales](https://www.sec.gov/investor/pubs/regsho.htm).

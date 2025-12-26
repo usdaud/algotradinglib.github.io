@@ -92,7 +92,7 @@ Paymium has plans to expand its [range](../r/range.md) of services. This include
 
 ### Technological Improvements
 
-The company continuously invests in technological upgrades to enhance platform performance and [security](../s/security.md). Future updates may include more [robust](../r/robust.md) API integrations for [algorithmic trading](../a/accountability.md) and improved mobile app functionalities.
+The company continuously invests in technological upgrades to enhance platform performance and [security](../s/security.md). Future updates may include more [robust](../r/robust.md) API integrations for [algorithmic trading](../a/algorithmic_trading.md) and improved mobile app functionalities.
 
 ---
 
@@ -100,4 +100,3 @@ The company continuously invests in technological upgrades to enhance platform p
 
 Paymium has established itself as a reliable and secure platform for [Bitcoin](../b/bitcoin.md) trading in Europe. With its focus on regulatory compliance, user [security](../s/security.md), and a seamless trading experience, it continues to be a preferred choice for many traders. As the cryptocurrency [market](../m/market.md) evolves, Paymium aims to adapt and expand its services to meet the growing needs of its users.
 
-For more information, you can visit their [official website](https://www.paymium.com).

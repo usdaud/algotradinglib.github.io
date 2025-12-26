@@ -8,7 +8,7 @@
 
 [Open](../o/open.md) [Trade](../t/trade.md) [Equity](../e/equity.md) refers to the paper [profit](../p/profit.md) or loss on an [open position](../o/open_position.md) in a [trading account](../t/trading_account.md). It is the difference between the current [market value](../m/market_value.md) of an [open position](../o/open_position.md) and its original purchase price. Unlike realized gains or losses, which occur when a position is closed, OTE represents potential [profit](../p/profit.md) or loss that has not yet been locked in.
 
-For instance, if a [trader](../t/trader.md) purchases a [futures contract](../f/futures_contract.md) at $100 and the current [market price](../m/market_price.md) is $120, the OTE is $20 per contract. Conversely, if the [market price](../m/market_price.md) drops to $90, the OTE is -$10 per contract. 
+For instance, if a [trader](../t/trader.md) purchases a [futures contract](../f/futures_contract.md) at $100 and the current [market price](../m/market_price.md) is $120, the OTE is $20 per contract. Conversely, if the [market price](../m/market_price.md) drops to $90, the OTE is -$10 per contract.
 
 ### Importance of OTE in Trading
 
@@ -30,27 +30,27 @@ Calculating OTE involves determining the difference between the [market value](.
 
 1. **Positive OTE:**
 
-   - Entry Price: $50
-   - Current [Market Price](../m/market_price.md): $65
-   - Number of Contracts: 10
+ - Entry Price: $50
+ - Current [Market Price](../m/market_price.md): $65
+ - Number of Contracts: 10
 
-   OTE = (65 - 50) × 10 = $150
+ OTE = (65 - 50) × 10 = $150
 
 2. **Negative OTE:**
 
-   - Entry Price: $50
-   - Current [Market Price](../m/market_price.md): $40
-   - Number of Contracts: 10
+ - Entry Price: $50
+ - Current [Market Price](../m/market_price.md): $40
+ - Number of Contracts: 10
 
-   OTE = (40 - 50) × 10 = -$100
+ OTE = (40 - 50) × 10 = -$100
 
 3. **No Change in OTE:**
 
-   - Entry Price: $50
-   - Current [Market Price](../m/market_price.md): $50
-   - Number of Contracts: 10
+ - Entry Price: $50
+ - Current [Market Price](../m/market_price.md): $50
+ - Number of Contracts: 10
 
-   OTE = (50 - 50) × 10 = $0
+ OTE = (50 - 50) × 10 = $0
 
 ### Factors Affecting OTE
 
@@ -96,15 +96,15 @@ Numerous trading platforms and brokerage firms provide real-time OTE calculation
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (IB) offers sophisticated trading platforms with real-time OTE tracking. Traders can access detailed reports and analytics to manage their trades. [Interactive Brokers](https://www.interactivebrokers.com/)
+[Interactive Brokers](../i/interactive_brokers.md) (IB) offers sophisticated trading platforms with real-time OTE tracking. Traders can access detailed reports and analytics to manage their trades. Interactive Brokers
 
 ### TD Ameritrade
 
-Thinkorswim by TD [Ameritrade](../a/ameritrade.md) provides advanced features for monitoring OTE along with comprehensive charting tools and [market](../m/market.md) analysis. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+Thinkorswim by TD [Ameritrade](../a/ameritrade.md) provides advanced features for monitoring OTE along with comprehensive charting tools and [market](../m/market.md) analysis. Thinkorswim
 
 ### E*TRADE
 
-[E*TRADE](../e/e_trade.md) offers [robust](../r/robust.md) trading platforms that include OTE reporting and [risk management](../r/risk_management.md) tools, helping traders make informed decisions. [E*TRADE](https://us.etrade.com/home)
+[E*TRADE](../e/e_trade.md) offers [robust](../r/robust.md) trading platforms that include OTE reporting and [risk management](../r/risk_management.md) tools, helping traders make informed decisions. E*TRADE
 
 ## Challenges and Considerations
 

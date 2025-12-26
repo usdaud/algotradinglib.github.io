@@ -43,7 +43,6 @@ Tangible Common [Equity](../e/equity.md) is the [equity](../e/equity.md) [capita
 #### Company Overview
 JPMorgan Chase & Co. is one of the largest financial institutions in the world, providing a wide [range](../r/range.md) of financial services including [investment banking](../i/investment_banking.md), financial services for consumers and businesses, financial [transaction](../t/transaction.md) processing, [asset management](../a/asset_management.md), and [private equity](../p/private_equity.md).
 
-[More about JPMorgan Chase](https://www.jpmorganchase.com/)
 
 #### ROTE Analysis
 In their [financial statements](../f/financial_statements.md), JPMorgan Chase reports both net [income](../i/income.md) and tangible common [equity](../e/equity.md), making it easier to calculate and analyze their ROTE. For instance, in 2022, their reported net [income](../i/income.md) was approximately $48 billion, and their tangible common [equity](../e/equity.md) was around $200 billion. Thus, their ROTE can be calculated as follows:

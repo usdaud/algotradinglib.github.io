@@ -37,7 +37,7 @@ Conversely, [growth investing](../g/growth_investing.md) targets companies expec
 [Indexing](../i/indexing.md) involves [investing](../i/investing.md) in [index](../i/index_instrument.md) funds or ETFs that replicate the performance of a particular [market index](../m/market_index.md). This passive [investment strategy](../i/investment_strategy.md) aims to achieve [market](../m/market.md)-average returns and is often associated with lower fees and expenses.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) uses computer algorithms to execute trades automatically based on predefined criteria. This strategy can be particularly effective in fast-paced markets, [offering](../o/offering.md) the potential for high-frequency trading and minimizing the impact of human error.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades automatically based on predefined criteria. This strategy can be particularly effective in fast-paced markets, [offering](../o/offering.md) the potential for high-frequency trading and minimizing the impact of human error.
 
 ### Risk Management
 Effective [risk management techniques](../r/risk_management_techniques.md) include setting [stop-loss orders](../s/stop-loss_orders.md) to limit potential losses, using [options](../o/options.md) and other [derivatives](../d/derivatives.md) for hedging, and maintaining an appropriate [asset allocation](../a/asset_allocation.md) based on the [investor](../i/investor.md)'s [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
@@ -45,13 +45,13 @@ Effective [risk management techniques](../r/risk_management_techniques.md) inclu
 ## Platforms for Unaffiliated Investments
 
 ### Brokerage Firms
-Brokerage firms like [Charles Schwab](../c/charles_schwab.md) ([schwab.com](https://www.schwab.com/)), TD [Ameritrade](../a/ameritrade.md) ([tdameritrade.com](https://www.tdameritrade.com/)), and Fidelity ([fidelity.com](https://www.fidelity.com/)) [offer](../o/offer.md) platforms for investors to manage their unaffiliated investments. These platforms provide tools, research, and resources to help investors make informed decisions.
+Brokerage firms like [Charles Schwab](../c/charles_schwab.md) (schwab.com), TD [Ameritrade](../a/ameritrade.md) (tdameritrade.com), and Fidelity (fidelity.com) [offer](../o/offer.md) platforms for investors to manage their unaffiliated investments. These platforms provide tools, research, and resources to help investors make informed decisions.
 
 ### Robo-Advisors
-Robo-advisors such as Betterment ([betterment.com](https://www.betterment.com/)) and Wealthfront ([wealthfront.com](https://www.wealthfront.com/)) use automated algorithms to create and manage investment portfolios. While they [offer](../o/offer.md) less human interaction, they provide a low-cost, efficient way to manage unaffiliated investments.
+Robo-advisors such as Betterment (betterment.com) and Wealthfront (wealthfront.com) use automated algorithms to create and manage investment portfolios. While they [offer](../o/offer.md) less human interaction, they provide a low-cost, efficient way to manage unaffiliated investments.
 
 ### Fintech Solutions
-Fintech companies have revolutionized the investment landscape with innovative solutions like [Robinhood](../r/robinhood.md) ([robinhood.com](https://www.robinhood.com/)) that [offer](../o/offer.md) [commission](../c/commission.md)-free trading and accessible mobile apps. These platforms cater to younger, tech-savvy investors looking for cost-effective ways to manage their funds.
+Fintech companies have revolutionized the investment landscape with innovative solutions like [Robinhood](../r/robinhood.md) (robinhood.com) that [offer](../o/offer.md) [commission](../c/commission.md)-free trading and accessible mobile apps. These platforms cater to younger, tech-savvy investors looking for cost-effective ways to manage their funds.
 
 ## Pros and Cons of Unaffiliated Investments
 

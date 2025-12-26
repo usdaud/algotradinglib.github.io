@@ -51,13 +51,13 @@ HFT involves the rapid [execution](../e/execution.md) of a large number of small
 
 Renaissance Technologies, through its Medallion [Fund](../f/fund.md), is known for its cutting-edge [algorithmic trading](../a/algorithmic_trading.md) strategies. With a focus on [quantitative models](../q/quantitative_models.md), the [firm](../f/firm.md) monitors X-[turnover](../t/turnover.md) closely to maintain its stellar performance. By managing [trade](../t/trade.md) volumes in relation to [market](../m/market.md) volumes, Renaissance Technologies ensures that its algorithms impact the [market](../m/market.md) minimally while capitalizing on short-term opportunities.
 
-(Link: [Renaissance Technologies](https://www.rentec.com))
+(Link: Renaissance Technologies)
 
 #### Example 2: Two Sigma
 
 Two Sigma employs numerous [algorithmic trading](../a/algorithmic_trading.md) strategies that rely on vast amounts of data and statistical models. X-[turnover analysis](../t/turnover_analysis.md) at Two Sigma helps in optimizing algorithm parameters, ensuring that their trading actions align with [liquidity](../l/liquidity.md) conditions and [market](../m/market.md) behavior, thus maintaining an edge in [trading performance](../t/trading_performance.md).
 
-(Link: [Two Sigma](https://www.twosigma.com))
+(Link: Two Sigma)
 
 ### Tools for X-Turnover Analysis
 
@@ -85,4 +85,3 @@ As markets evolve and technology advances, the future of X-[turnover analysis](.
 ### Conclusion
 
 X-[Turnover analysis](../t/turnover_analysis.md) is a cornerstone of effective [algorithmic trading](../a/algorithmic_trading.md) strategy management. By providing a clear picture of an algorithm's trading activity relative to overall [market](../m/market.md) [volume](../v/volume.md), it helps in optimizing performance, managing risks, and ensuring regulatory compliance. As technology and markets continue to advance, the importance and sophistication of X-[turnover analysis](../t/turnover_analysis.md) [will](../w/will.md) only grow, making it an indispensable tool for modern algorithmic traders.
-

@@ -1,6 +1,6 @@
 # Government Securities Clearing Corporation (GSCC)
 
-The Government Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (GSCC) was established as a subsidiary of the National Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (NSCC) in 1986 to provide [post-trade processing](../p/post-trade_processing.md) services for government securities. The GSCC plays a vital role in the United States [financial markets](../f/financial_market.md) by enhancing the [efficiency](../e/efficiency.md), [liquidity](../l/liquidity.md), and safety of trading in government securities.
+The Government Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (GSCC) was established as a subsidiary of the National Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (NSCC) in 1986 to provide [post-trade processing](../p/post-trade_processing.md) services for government securities. In 2003, GSCC merged with the Mortgage-Backed Securities Clearing Corporation (MBSCC) to form the Fixed Income Clearing Corporation (FICC), which now operates as a subsidiary of the Depository Trust & Clearing Corporation (DTCC). The functions previously performed by GSCC continue under FICC's Government Securities Division (GSD).
 
 ### Purpose and Function
 
@@ -71,14 +71,12 @@ GSCC's services have had a profound impact on the [efficiency](../e/efficiency.m
 - **Reduced [Risk](../r/risk.md):** GSCC's [netting](../n/netting.md) and [risk management](../r/risk_management.md) practices have significantly reduced [counterparty](../c/counterparty.md) and operational risks, providing greater [assurance](../a/assurance.md) to [market](../m/market.md) participants.
 - **Lower Costs:** The efficiencies achieved through [netting](../n/netting.md) and centralized processing have lowered [transaction costs](../t/transaction_costs.md) for [market](../m/market.md) participants.
 
-### Future Outlook
+### Legacy and Current Status
 
-As the [financial markets](../f/financial_market.md) continue to evolve, GSCC is expected to remain at the forefront of [clearing and settlement](../c/clearing_and_settlement.md) services for government securities. Future developments may include:
+Since its merger into FICC in 2003, the services originally provided by GSCC continue under the FICC Government Securities Division (GSD). The GSD maintains the same core functions—trade matching, netting, settlement, and risk management—while benefiting from FICC's broader infrastructure and the DTCC's comprehensive clearing and settlement ecosystem.
 
-- **Technological Advancements:** Continued investment in technology to enhance processing speed, accuracy, and [security](../s/security.md).
-- **Global Collaboration:** Greater collaboration with international clearinghouses and counterparties to support [cross-border trading](../c/cross-border_trading.md) and settlement.
-- **Regulatory Adaptation:** Ongoing adaptation to regulatory changes and [market](../m/market.md) developments to maintain the highest standards of safety and [efficiency](../e/efficiency.md).
+For current information about government securities clearing services, visit DTCC/FICC.
 
 ### Conclusion
 
-The Government Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (GSCC) plays a critical role in the U.S. [financial markets](../f/financial_market.md) by providing centralized [clearing and settlement](../c/clearing_and_settlement.md) services for government securities. Through its [trade](../t/trade.md) matching, [netting](../n/netting.md), settlement, and [risk management](../r/risk_management.md) functions, GSCC enhances [market](../m/market.md) [liquidity](../l/liquidity.md), reduces [risk](../r/risk.md), and lowers costs for [market](../m/market.md) participants. With a continued focus on technological innovation and regulatory compliance, GSCC is poised to remain a key pillar in the [infrastructure](../i/infrastructure.md) of the [financial markets](../f/financial_market.md).
+The Government Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (GSCC) played a critical historical role in the U.S. [financial markets](../f/financial_market.md) by providing centralized [clearing and settlement](../c/clearing_and_settlement.md) services for government securities. Through its [trade](../t/trade.md) matching, [netting](../n/netting.md), settlement, and [risk management](../r/risk_management.md) functions, GSCC enhanced [market](../m/market.md) [liquidity](../l/liquidity.md), reduced [risk](../r/risk.md), and lowered costs for [market](../m/market.md) participants. Its legacy continues through FICC's Government Securities Division, which maintains these essential services as part of the modern financial infrastructure.

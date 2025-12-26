@@ -5,24 +5,24 @@ A short [strangle](../s/strangle.md) is a sophisticated [options](../o/options.m
 ### Key Concepts
 
 1. **[Options](../o/options.md) Basics**:
-    - **[Call Option](../c/call_option.md)**: A financial contract that gives the buyer the right, but not the obligation, to purchase the [underlying asset](../u/underlying_asset.md) at a predetermined price ([strike price](../s/strike_price.md)) before a specified [expiration date](../e/expiration_date.md).
-    - **[Put Option](../p/put.md)**: A financial contract that gives the buyer the right, but not the obligation, to sell the [underlying asset](../u/underlying_asset.md) at a predetermined price before a specified [expiration date](../e/expiration_date.md).
-    - **Out-of-the-[Money](../m/money.md) (OTM)**: An option is out-of-the-[money](../m/money.md) if it has no [intrinsic value](../i/intrinsic_value.md). For a [call option](../c/call_option.md), this means the [strike price](../s/strike_price.md) is above the current price of the [underlying asset](../u/underlying_asset.md). For a [put option](../p/put.md), the [strike price](../s/strike_price.md) is below the current price of the [underlying asset](../u/underlying_asset.md).
+ - **[Call Option](../c/call_option.md)**: A financial contract that gives the buyer the right, but not the obligation, to purchase the [underlying asset](../u/underlying_asset.md) at a predetermined price ([strike price](../s/strike_price.md)) before a specified [expiration date](../e/expiration_date.md).
+ - **[Put Option](../p/put.md)**: A financial contract that gives the buyer the right, but not the obligation, to sell the [underlying asset](../u/underlying_asset.md) at a predetermined price before a specified [expiration date](../e/expiration_date.md).
+ - **Out-of-the-[Money](../m/money.md) (OTM)**: An option is out-of-the-[money](../m/money.md) if it has no [intrinsic value](../i/intrinsic_value.md). For a [call option](../c/call_option.md), this means the [strike price](../s/strike_price.md) is above the current price of the [underlying asset](../u/underlying_asset.md). For a [put option](../p/put.md), the [strike price](../s/strike_price.md) is below the current price of the [underlying asset](../u/underlying_asset.md).
 
 2. **Short [Strangle](../s/strangle.md) Construction**:
-    - **Sell OTM [Call Option](../c/call_option.md)**: Writing a [call option](../c/call_option.md) that is out-of-the-[money](../m/money.md).
-    - **Sell OTM [Put Option](../p/put.md)**: Writing a [put option](../p/put.md) that is out-of-the-[money](../m/money.md).
-    - Both [options](../o/options.md) should have the same [expiration date](../e/expiration_date.md).
+ - **Sell OTM [Call Option](../c/call_option.md)**: Writing a [call option](../c/call_option.md) that is out-of-the-[money](../m/money.md).
+ - **Sell OTM [Put Option](../p/put.md)**: Writing a [put option](../p/put.md) that is out-of-the-[money](../m/money.md).
+ - Both [options](../o/options.md) should have the same [expiration date](../e/expiration_date.md).
 
 3. **[Premium](../p/premium.md) [Income](../i/income.md)**: The total [premium](../p/premium.md) received from selling both the OTM call and OTM [put options](../p/put_options.md). This [premium](../p/premium.md) represents the maximum [profit](../p/profit.md) potential for the short [strangle](../s/strangle.md) strategy.
 
 4. **Break-Even Points**: The two price points at which the [trader](../t/trader.md) neither makes nor loses [money](../m/money.md). These are calculated as follows:
-    - Upper Break-Even Point: The [strike price](../s/strike_price.md) of the [call option](../c/call_option.md) plus the total [premium](../p/premium.md) received.
-    - Lower Break-Even Point: The [strike price](../s/strike_price.md) of the [put option](../p/put.md) minus the total [premium](../p/premium.md) received.
+ - Upper Break-Even Point: The [strike price](../s/strike_price.md) of the [call option](../c/call_option.md) plus the total [premium](../p/premium.md) received.
+ - Lower Break-Even Point: The [strike price](../s/strike_price.md) of the [put option](../p/put.md) minus the total [premium](../p/premium.md) received.
 
 5. **[Profit](../p/profit.md) and Loss (P&L)**:
-    - Maximum [Profit](../p/profit.md): Limited to the total [premium](../p/premium.md) received when initiating the [trade](../t/trade.md).
-    - Maximum Loss: Potentially unlimited if the [underlying asset](../u/underlying_asset.md)'s price moves significantly either upwards or downwards beyond the strike prices of the sold [options](../o/options.md).
+ - Maximum [Profit](../p/profit.md): Limited to the total [premium](../p/premium.md) received when initiating the [trade](../t/trade.md).
+ - Maximum Loss: Potentially unlimited if the [underlying asset](../u/underlying_asset.md)'s price moves significantly either upwards or downwards beyond the strike prices of the sold [options](../o/options.md).
 
 6. **[Risk Management](../r/risk_management.md)**: Since a short [strangle](../s/strangle.md) involves selling [options](../o/options.md), it exposes the [trader](../t/trader.md) to substantial [risk](../r/risk.md). Proper [risk management](../r/risk_management.md) is crucial, and this typically includes setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and regular monitoring of the [market](../m/market.md) conditions.
 
@@ -117,9 +117,9 @@ if __name__ == "__main__":
 
 ### Examples of High-Frequency Trading Firms Using Advanced Options Strategies
 
-- **Citadel Securities**: One of the prominent high-frequency trading firms with expertise in [options](../o/options.md) trading and other complex financial instruments. [Citadel Securities](https://www.citadelsecurities.com/)
-- **Jane Street**: Known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies, including [options](../o/options.md) trading. [Jane Street](https://www.janestreet.com/)
-- **Virtu Financial**: A leading player in the high-frequency trading space, Virtu Financial utilizes sophisticated algorithms for various [trading strategies](../t/trading_strategies.md), including [options](../o/options.md). [Virtu Financial](https://www.virtu.com/)
+- **Citadel Securities**: One of the prominent high-frequency trading firms with expertise in [options](../o/options.md) trading and other complex financial instruments. Citadel Securities
+- **Jane Street**: Known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies, including [options](../o/options.md) trading. Jane Street
+- **Virtu Financial**: A leading player in the high-frequency trading space, Virtu Financial utilizes sophisticated algorithms for various [trading strategies](../t/trading_strategies.md), including [options](../o/options.md). Virtu Financial
 
 ### Conclusion
 

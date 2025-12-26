@@ -35,13 +35,10 @@ When an IPO is [oversubscribed](../o/oversubscribed.md), the allocation of [shar
 #### Case Studies and Examples
 
 1. **Facebook IPO**: Facebook’s IPO in 2012 is a notable example. The IPO was significantly [oversubscribed](../o/oversubscribed.md), leading to high anticipation. However, technical glitches on [NASDAQ](../n/nasdaq.md) and a highly inflated price led to initial trading problems and later a dip in the stock price.
-   [Facebook](https://investor.fb.com/home/default.aspx)
 
 2. **Alibaba IPO**: Alibaba's IPO in 2014 remains the largest in history, raising $25 billion. The IPO was [oversubscribed](../o/oversubscribed.md) [multiple](../m/multiple.md) times, reflecting immense [investor](../i/investor.md) [interest](../i/interest.md) in the Chinese e-[commerce](../c/commerce.md) giant.
-   [Alibaba Group](https://www.alibabagroup.com/en/global/home)
 
 3. **Snowflake IPO**: The cloud data company Snowflake went public in September 2020, and its IPO was [oversubscribed](../o/oversubscribed.md) by a substantial [margin](../m/margin.md). The high [interest](../i/interest.md) drove its initial stock price significantly higher on the first trading day.
-   [Snowflake](https://www.snowflake.com/)
 
 #### Managing Investor Expectations
 

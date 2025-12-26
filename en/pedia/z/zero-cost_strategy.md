@@ -30,14 +30,14 @@ A [collar](../c/collar.md) is a common zero-cost strategy involving [options](..
 A zero-cost [collar](../c/collar.md) is one of the most straightforward illustrations of a zero-cost strategy. Here’s a step-by-step example of how a zero-cost [collar](../c/collar.md) works:
 
 1. **[Hold](../h/hold.md) the [Underlying Asset](../u/underlying_asset.md)**: Assume an [investor](../i/investor.md) holds [shares](../s/shares.md) of a company, say XYZ Inc., currently trading at $100 per share.
-  
+
 2. **Buy a [Put Option](../p/put.md)**: The [investor](../i/investor.md) buys a [put option](../p/put.md) with a [strike price](../s/strike_price.md) lower than the current stock price, for instance, $95. This [put option](../p/put.md) provides the right to sell the stock at $95, acting as protection against a decline in the share price below this level.
 
 3. **Sell a [Call Option](../c/call_option.md)**: To [offset](../o/offset.md) the cost of buying the [put option](../p/put.md), the [investor](../i/investor.md) sells a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) higher than the current stock price, for instance, $105. This [call option](../c/call_option.md) obligates the [investor](../i/investor.md) to sell the stock at $105 if the share price exceeds this level before the option expires.
 
 4. **Resulting P&L Profile**: The [premium](../p/premium.md) received from selling the [call option](../c/call_option.md) typically equals the [premium](../p/premium.md) paid for the [put option](../p/put.md). This results in no net cost to the [investor](../i/investor.md), hence the term "zero-cost [collar](../c/collar.md)." The P&L profile would look like this:
-   - If the stock price falls below $95, the [investor](../i/investor.md) is protected by the [put option](../p/put.md).
-   - If the stock price rises above $105, the [investor](../i/investor.md)’s gains are capped at $105 due to the [call option](../c/call_option.md).
+ - If the stock price falls below $95, the [investor](../i/investor.md) is protected by the [put option](../p/put.md).
+ - If the stock price rises above $105, the [investor](../i/investor.md)’s gains are capped at $105 due to the [call option](../c/call_option.md).
 
 ## Applications and Benefits
 
@@ -65,25 +65,21 @@ Many financial platforms and tools facilitate the implementation of zero-cost st
 
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) offers a comprehensive suite of tools for trading, research, and [risk management](../r/risk_management.md). It provides advanced [options](../o/options.md) analytics and the ability to simulate zero-cost strategies.
 
-[Visit Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) is renowned for its [robust](../r/robust.md) [trading platform](../t/trading_platform.md), providing sophisticated [options](../o/options.md) trading capabilities and analytical tools required to implement zero-cost strategies.
 
-[Visit Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### 3. Thinkorswim by TD Ameritrade
 
 Thinkorswim is a powerful [trading platform](../t/trading_platform.md) that offers extensive [options](../o/options.md) trading tools and the ability to diagram and execute complex zero-cost strategies.
 
-[Visit Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### 4. OptionsPlay
 
 OptionsPlay offers an intuitive platform specifically designed for [options](../o/options.md) trading, providing strategy [optimization](../o/optimization.md) tools, real-time analytics, and education resources for implementing zero-cost strategies.
 
-[Visit OptionsPlay](https://www.optionsplay.com/)
 
 ## Limitations and Risks
 

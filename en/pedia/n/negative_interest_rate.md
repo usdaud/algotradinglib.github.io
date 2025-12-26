@@ -26,19 +26,16 @@ Banks that [hold](../h/hold.md) [excess reserves](../e/excess_reserves.md) with 
 
 The European Central [Bank](../b/bank.md) was one of the first major central banks to adopt negative [interest](../i/interest.md) rates. In June 2014, the ECB implemented a negative [deposit](../d/deposit.md) rate of -0.10%. The goal was to address low [inflation](../i/inflation.md) and sluggish [economic growth](../e/economic_growth.md) in the [Eurozone](../e/eurozone.md). Over time, the ECB further reduced its [deposit](../d/deposit.md) rate, reaching -0.50% by September 2019.
 
-[European Central Bank](https://www.ecb.europa.eu/)
 
 ### Bank of Japan (BoJ)
 
 Japan has experienced long-term economic [stagnation](../s/stagnation.md) and [deflation](../d/deflation.md), partly due to demographic challenges and structural economic issues. In January 2016, the [Bank](../b/bank.md) of Japan adopted a negative [interest rate](../i/interest_rate.md) strategy, setting the rate at -0.10%. The aim was to maintain stability while attempting to stimulate economic activity and counteract the impacts of [deflation](../d/deflation.md).
 
-[Bank of Japan](https://www.boj.or.jp/en/)
 
 ### Swiss National Bank (SNB)
 
 The Swiss [National Bank](../n/national_bank.md) introduced negative [interest](../i/interest.md) rates in December 2014, largely to counteract the strong appreciation of the Swiss Franc, which was harming the [export](../e/export.md)-dependent [economy](../e/economy.md). The SNB set its policy rate to -0.75%, intending to reduce the attractiveness of the Swiss Franc and maintain economic stability.
 
-[Swiss National Bank](https://www.snb.ch/en/)
 
 ## Economic Mechanisms and Impacts
 
@@ -74,7 +71,7 @@ There is also debate about the effectiveness of negative [interest](../i/interes
 
 ## The Future of Negative Interest Rates
 
-As economic landscapes continue evolving, the use and prevalence of negative [interest](../i/interest.md) rates [will](../w/will.md) likely remain a topic of debate. With [monetary policy](../m/monetary_policy.md) navigating increasingly complex global challenges, from pandemics to geopolitical tensions and climate change, central banks may rely more on unconventional tools, including negative rates, to maintain economic stability. 
+As economic landscapes continue evolving, the use and prevalence of negative [interest](../i/interest.md) rates [will](../w/will.md) likely remain a topic of debate. With [monetary policy](../m/monetary_policy.md) navigating increasingly complex global challenges, from pandemics to geopolitical tensions and climate change, central banks may rely more on unconventional tools, including negative rates, to maintain economic stability.
 
 The future [will](../w/will.md) reveal more about the practical limits, advantages, and disadvantages of negative [interest](../i/interest.md) rates, contributing to the ongoing evolution of global financial systems and [monetary policy](../m/monetary_policy.md).
 

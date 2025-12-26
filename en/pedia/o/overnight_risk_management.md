@@ -53,7 +53,6 @@ One example of a [firm](../f/firm.md) known for its sophisticated [algorithmic t
 
 Renaissance Technologies is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md). Known for its reliance on mathematical and statistical methods to make investment decisions, the [firm](../f/firm.md) employs various [risk management](../r/risk_management.md) techniques, including those for managing overnight [risk](../r/risk.md).
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 

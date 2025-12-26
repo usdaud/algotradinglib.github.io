@@ -101,11 +101,11 @@ Often, financial analysts and students use PVIF tables to quickly look up the [p
 
 | [Discount Rate](../d/discount_rate.md) | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
 | ------------- | ------ | ------ | ------ | ------ | ------ |
-| 2%            | 0.9804 | 0.9612 | 0.9423 | 0.9238 | 0.9057 |
-| 4%            | 0.9615 | 0.9246 | 0.8890 | 0.8548 | 0.8219 |
-| 6%            | 0.9434 | 0.8900 | 0.8396 | 0.7921 | 0.7473 |
-| 8%            | 0.9259 | 0.8573 | 0.7938 | 0.7350 | 0.6806 |
-| 10%           | 0.9091 | 0.8264 | 0.7513 | 0.6830 | 0.6209 |
+| 2% | 0.9804 | 0.9612 | 0.9423 | 0.9238 | 0.9057 |
+| 4% | 0.9615 | 0.9246 | 0.8890 | 0.8548 | 0.8219 |
+| 6% | 0.9434 | 0.8900 | 0.8396 | 0.7921 | 0.7473 |
+| 8% | 0.9259 | 0.8573 | 0.7938 | 0.7350 | 0.6806 |
+| 10% | 0.9091 | 0.8264 | 0.7513 | 0.6830 | 0.6209 |
 
 These tables are particularly useful for quick calculations without the need for a calculator or software, although [software tools](../s/software_tools_for_trading.md) like Excel or financial calculators also [offer](../o/offer.md) PVIF functions.
 

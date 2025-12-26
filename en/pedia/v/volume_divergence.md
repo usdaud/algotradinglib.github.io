@@ -74,15 +74,15 @@ Several trading firms and platforms utilize [volume](../v/volume.md) [divergence
 
 ### Trading Technologies
 
-Trading Technologies provides a suite of trading tools and platforms that allow traders to implement and automate strategies based on [volume](../v/volume.md) [divergence](../d/divergence.md). Their advanced analytics and [execution](../e/execution.md) services cater to both retail and institutional traders. [Trading Technologies](https://www.tradingtechnologies.com/)
+Trading Technologies provides a suite of trading tools and platforms that allow traders to implement and automate strategies based on [volume](../v/volume.md) [divergence](../d/divergence.md). Their advanced analytics and [execution](../e/execution.md) services cater to both retail and institutional traders. Trading Technologies
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development and testing of strategies based on [volume](../v/volume.md) [divergence](../d/divergence.md). The platform provides access to extensive historical data and cloud-based [backtesting](../b/backtesting.md) capabilities. [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development and testing of strategies based on [volume](../v/volume.md) [divergence](../d/divergence.md). The platform provides access to extensive historical data and cloud-based [backtesting](../b/backtesting.md) capabilities. QuantConnect
 
 ### AlgoTrader
 
-[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that integrates [volume divergence analysis](../v/volume_divergence_analysis.md) into its suite of tools. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides functionalities for strategy development, [backtesting](../b/backtesting.md), and live trading. [AlgoTrader](https://www.algotrader.com/)
+[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that integrates [volume divergence analysis](../v/volume_divergence_analysis.md) into its suite of tools. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides functionalities for strategy development, [backtesting](../b/backtesting.md), and live trading. AlgoTrader
 
 ## Challenges and Considerations
 
@@ -103,4 +103,3 @@ In fast-moving markets, latency and [execution](../e/execution.md) speed are cri
 ## Conclusion
 
 [Volume](../v/volume.md) [divergence](../d/divergence.md) is a valuable concept in [algorithmic trading](../a/algorithmic_trading.md), providing insights into [market](../m/market.md) strength and potential reversals. By leveraging advanced [data analysis techniques](../d/data_analysis_techniques.md) and incorporating [volume](../v/volume.md) [divergence](../d/divergence.md) signals into [trading strategies](../t/trading_strategies.md), traders can enhance their decision-making processes and improve their overall performance. As with any [trading strategy](../t/trading_strategy.md), thorough testing, [optimization](../o/optimization.md), and continuous monitoring are essential to success.
-

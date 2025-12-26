@@ -57,7 +57,7 @@ Although it can be cost-effective, direct [marketing](../m/marketing.md) can als
 
 ### Negative Perceptions
 
-Over-rely on direct [marketing](../m/marketing.md) techniques can lead to negative perceptions among consumers. For example, frequent unsolicited emails (often perceived as spam) or intrusive telemarketing calls can aggravate potential customers and damage the brand's reputation. 
+Over-rely on direct [marketing](../m/marketing.md) techniques can lead to negative perceptions among consumers. For example, frequent unsolicited emails (often perceived as spam) or intrusive telemarketing calls can aggravate potential customers and damage the brand's reputation.
 
 ## Techniques in Direct Marketing
 
@@ -109,19 +109,19 @@ Direct response advertising encourages immediate action from the audience. It ca
 
 Amazon employs extensive direct [marketing](../m/marketing.md) techniques, especially email [marketing](../m/marketing.md) and direct response advertising. The company uses [customer](../c/customer.md) data to send highly personalized emails that recommend products based on previous purchases and browsing history. Through effective segmentation and personalization, Amazon consistently achieves high engagement and conversion rates.
 
-Learn more at [Amazon](https://www.amazon.com).
+Learn more at Amazon.
 
 ### HubSpot
 
 HubSpot is a leading inbound [marketing](../m/marketing.md) and sales software company that extensively utilizes email [marketing](../m/marketing.md). They provide valuable content through personalized email campaigns to nurture leads and convert them into customers. HubSpot's approach is data-driven, employing extensive A/B testing and segmentation to improve email performance continuously.
 
-Learn more at [HubSpot](https://www.hubspot.com).
+Learn more at HubSpot.
 
 ### Charity: Water
 
 Charity: Water, a nonprofit organization, effectively uses direct mail campaigns to reach potential donors. Their direct mail materials often include compelling stories, high-quality images, and a clear call to action, which has helped them raise significant funds for water projects worldwide.
 
-Learn more at [Charity: Water](https://www.charitywater.org).
+Learn more at Charity: Water.
 
 ## Conclusion
 

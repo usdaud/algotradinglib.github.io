@@ -1,6 +1,6 @@
 # Remittance
 
-Remittance refers to the transfer of [money](../m/money.md) by a foreign worker to an individual in their [home](../h/home.md) country. This topic spans various aspects such as economic impact, methods of transfer, regulatory frameworks, and technological advancements, specifically within the fintech sphere. 
+Remittance refers to the transfer of [money](../m/money.md) by a foreign worker to an individual in their [home](../h/home.md) country. This topic spans various aspects such as economic impact, methods of transfer, regulatory frameworks, and technological advancements, specifically within the fintech sphere.
 
 ## Economic Impact
 
@@ -63,16 +63,16 @@ AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading
 Several companies and platforms have distinguished themselves in the remittance [industry](../i/industry.md) due to their innovative approaches and extensive networks.
 
 ### TransferWise (Wise)
-TransferWise, now known as Wise, offers a transparent and low-cost solution for sending [money](../m/money.md) abroad. The company utilizes a peer-to-peer mechanism to transfer [money](../m/money.md), thus avoiding steep [bank](../b/bank.md) fees. [Wise](https://wise.com/)
+TransferWise, now known as Wise, offers a transparent and low-cost solution for sending [money](../m/money.md) abroad. The company utilizes a peer-to-peer mechanism to transfer [money](../m/money.md), thus avoiding steep [bank](../b/bank.md) fees. Wise
 
 ### Western Union
-Western Union is one of the oldest and most recognized names in the remittance [industry](../i/industry.md). The company boasts a vast network of agent locations worldwide, providing both digital and physical transfer services. [Western Union](https://www.westernunion.com/)
+Western Union is one of the oldest and most recognized names in the remittance [industry](../i/industry.md). The company boasts a vast network of agent locations worldwide, providing both digital and physical transfer services. Western Union
 
 ### Revolut
-Revolut has made noteworthy strides in the financial [technology sector](../t/technology_sector.md), [offering](../o/offering.md) a comprehensive global [money](../m/money.md) transfer service with competitive [exchange](../e/exchange.md) rates and low fees. [Revolut](https://www.revolut.com/)
+Revolut has made noteworthy strides in the financial [technology sector](../t/technology_sector.md), [offering](../o/offering.md) a comprehensive global [money](../m/money.md) transfer service with competitive [exchange](../e/exchange.md) rates and low fees. Revolut
 
 ### Xoom
-Xoom, a service by [PayPal](../p/paypal.md), provides international [money](../m/money.md) transfer services that emphasize speed and convenience. Xoom supports [bank deposits](../b/bank_deposits.md), cash pickups, and mobile reloads in numerous countries. [Xoom](https://www.xoom.com/)
+Xoom, a service by [PayPal](../p/paypal.md), provides international [money](../m/money.md) transfer services that emphasize speed and convenience. Xoom supports [bank deposits](../b/bank_deposits.md), cash pickups, and mobile reloads in numerous countries. Xoom
 
 ## Challenges and Future Directions
 

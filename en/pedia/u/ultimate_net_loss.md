@@ -64,9 +64,9 @@ Advanced [predictive analytics](../p/predictive_analytics.md), including [machin
 ### Software Solutions
 
 Numerous commercial software solutions available in the [market](../m/market.md) assist insurers in estimating UNL. Examples include:
-- [Guidewire](https://www.guidewire.com)
-- [Duck Creek Technologies](https://www.duckcreek.com)
-- [Milliman](https://www.milliman.com)
+- Guidewire
+- Duck Creek Technologies
+- Milliman
 
 These platforms [offer](../o/offer.md) comprehensive tools for data analysis, modeling, and reporting, making it easier for insurers to manage their loss reserves effectively.
 

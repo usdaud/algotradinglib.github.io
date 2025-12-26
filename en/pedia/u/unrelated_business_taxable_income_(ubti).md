@@ -18,7 +18,7 @@ For [income](../i/income.md) to be categorized as UBTI, it must meet three core 
 
 1. **[Trade](../t/trade.md) or [Business](../b/business.md)**: The [income](../i/income.md) originates from a [trade](../t/trade.md) or [business](../b/business.md) as defined under IRC Section 513. A [trade](../t/trade.md) or [business](../b/business.md) generally involves any activity carried on for the production of [income](../i/income.md) from selling goods or performing services.
 2. **Regularly Carried On**: The activity generating the [income](../i/income.md) is conducted with a frequency and continuity similar to comparable commercial activities. Occasional or intermittent activities typically do not qualify as "regularly carried on."
-3. **Not Substantially Related**: The activity generating the [income](../i/income.md) must not be substantially related to the organization's tax-exempt purpose, aside from the need to generate funds. 
+3. **Not Substantially Related**: The activity generating the [income](../i/income.md) must not be substantially related to the organization's tax-exempt purpose, aside from the need to generate funds.
 
 ## Examples of UBTI
 
@@ -60,16 +60,16 @@ While UBTI poses certain challenges, it can also present opportunities for nonpr
 - **Segregating [Business Activities](../b/business_activities.md)**: Setting up separate [business](../b/business.md) entities (e.g., for-[profit](../p/profit.md) subsidiaries) to manage unrelated [business activities](../b/business_activities.md) and minimize UBTI within the nonprofit.
 - **Leveraging Tax Credits and Deductions**: Exploring available tax credits and deductions that can [offset](../o/offset.md) UBTI, thereby reducing overall [tax liability](../t/tax_liability.md).
 - **[Investing](../i/investing.md) in [Passive Income](../p/passive_income.md)**: Prioritizing [passive income](../p/passive_income.md)-generating activities (e.g., dividends, royalties) that are excluded from UBTI.
-  
+
 ## Case Studies
 
 ### Harvard University
 
-Harvard University runs various commercial-like activities, including publishing and [real estate](../r/real_estate.md) rentals, which generate UBTI. The university's financial management teams regularly assess these activities to ensure compliance with UBTI regulations and optimize tax outcomes. For more information, you can visit [Harvard University's Financial Administration](https://finance.harvard.edu/).
+Harvard University runs various commercial-like activities, including publishing and [real estate](../r/real_estate.md) rentals, which generate UBTI. The university's financial management teams regularly assess these activities to ensure compliance with UBTI regulations and optimize tax outcomes. For more information, you can visit Harvard University's Financial Administration.
 
 ### YMCA
 
-The YMCA often engages in rental activities, such as leasing out gym facilities for private events, which can produce UBTI. To navigate these challenges, the YMCA adheres to stringent [accounting](../a/accounting.md) and reporting practices to segregate unrelated [business](../b/business.md) [income](../i/income.md) from mission-driven activities. For more details, visit [YMCA's Financial Information](https://www.ymca.net/).
+The YMCA often engages in rental activities, such as leasing out gym facilities for private events, which can produce UBTI. To navigate these challenges, the YMCA adheres to stringent [accounting](../a/accounting.md) and reporting practices to segregate unrelated [business](../b/business.md) [income](../i/income.md) from mission-driven activities. For more details, visit YMCA's Financial Information.
 
 ## Conclusion
 

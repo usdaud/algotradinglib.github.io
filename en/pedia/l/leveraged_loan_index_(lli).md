@@ -6,7 +6,7 @@ The [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md) (
 
 Leveraged loans are a subset of the broader [loan](../l/loan.md) [market](../m/market.md) and are characterized by a few key features:
 
-1. **Floating [Interest](../i/interest.md) Rates**: Leveraged loans typically have floating [interest](../i/interest.md) rates, which fluctuate with [market](../m/market.md) conditions. The rate is usually tied to a [benchmark](../b/benchmark.md) such as LIBOR (London Interbank Offered Rate) plus a fixed spread.
+1. **Floating [Interest](../i/interest.md) Rates**: Leveraged loans typically have floating [interest](../i/interest.md) rates, which fluctuate with [market](../m/market.md) conditions. The rate is usually tied to a [benchmark](../b/benchmark.md) such as SOFR or legacy LIBOR (discontinued after 2023) plus a fixed spread.
 
 2. **Secured [Debt](../d/debt.md)**: These loans are often secured by the assets of the borrowing company, providing lenders with a higher level of protection.
 
@@ -32,7 +32,7 @@ The LLI is composed of various metrics and data points that provide a comprehens
 
 1. **[Loan](../l/loan.md) Prices**: Tracking the prices of loans in the [secondary market](../s/secondary_market.md) offers insight into [demand](../d/demand.md) and [supply](../s/supply.md) dynamics.
 
-2. **Spread over LIBOR**: This measures the extra [yield](../y/yield.md) that investors receive over the [benchmark](../b/benchmark.md) rate, indicating the [risk premium](../r/risk_premium.md) demanded by the [market](../m/market.md).
+2. **Spread over the Benchmark Rate**: This measures the extra [yield](../y/yield.md) that investors receive over the [benchmark](../b/benchmark.md) rate (for example, SOFR or legacy LIBOR), indicating the [risk premium](../r/risk_premium.md) demanded by the [market](../m/market.md).
 
 3. **[Total Return](../t/total_return.md)**: This includes both [interest](../i/interest.md) [income](../i/income.md) and [capital](../c/capital.md) gains/losses, [offering](../o/offering.md) a holistic view of investment performance.
 
@@ -44,11 +44,11 @@ The LLI is composed of various metrics and data points that provide a comprehens
 
 Several organizations provide [leveraged loan](../l/leveraged_loan.md) indices, each with its own methodology and focus. Some of the most widely recognized indices include:
 
-- **S&P/LSTA [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md)**: Maintained by Standard & Poor's and the [Loan](../l/loan.md) Syndications and Trading Association (LSTA), this [index](../i/index_instrument.md) is one of the most comprehensive and widely used benchmarks for the U.S. [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). It includes a broad [range](../r/range.md) of loans, capturing various sectors and [credit](../c/credit.md) qualities. More details can be found on the [LSTA website](https://www.lsta.org/research/indices/).
+- **S&P/LSTA [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md)**: Maintained by Standard & Poor's and the [Loan](../l/loan.md) Syndications and Trading Association (LSTA), this [index](../i/index_instrument.md) is one of the most comprehensive and widely used benchmarks for the U.S. [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). It includes a broad [range](../r/range.md) of loans, capturing various sectors and [credit](../c/credit.md) qualities. More
 
-- **[Credit](../c/credit.md) Suisse [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md)**: This [index](../i/index_instrument.md) offers insights into U.S. dollar-denominated leveraged loans drawn from a diverse [range](../r/range.md) of sectors. It is used to track the [market](../m/market.md)'s performance and includes features like [total return](../t/total_return.md) and spread measures. Further information is available on the [Credit Suisse website](https://www.credit-suisse.com/us/en.html).
+- **[Credit](../c/credit.md) Suisse [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md)**: This [index](../i/index_instrument.md) offers insights into U.S. dollar-denominated leveraged loans drawn from a diverse [range](../r/range.md) of sectors. It is used to track the [market](../m/market.md)'s performance and includes features like [total return](../t/total_return.md) and spread measures.
 
-- **[Morningstar](../m/morningstar.md) [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md)**: Managed by [Morningstar](../m/morningstar.md), this [index](../i/index_instrument.md) provides a broad view of the U.S. [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). It is designed to reflect the performance of various types of loans, including those with different maturities and [credit](../c/credit.md) qualities. More information can be found on the [Morningstar website](https://www.morningstar.com/).
+- **[Morningstar](../m/morningstar.md) [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md)**: Managed by [Morningstar](../m/morningstar.md), this [index](../i/index_instrument.md) provides a broad view of the U.S. [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). It is designed to reflect the performance of various types of loans, including those with different maturities and [credit](../c/credit.md) qualities.
 
 ## How the LLI is Used in Investment Strategies
 
@@ -68,7 +68,7 @@ The performance of the LLI is influenced by a variety of factors, including [eco
 
 1. **Price Movements**: Analyzing the average price changes of loans within the [index](../i/index_instrument.md) can provide insights into [market sentiment](../m/market_sentiment.md) and [investor](../i/investor.md) [demand](../d/demand.md).
 
-2. **[Yield Spread](../y/yield_spread.md)**: Monitoring changes in the spread over LIBOR helps investors understand shifts in [risk](../r/risk.md) premiums demanded by the [market](../m/market.md).
+2. **[Yield Spread](../y/yield_spread.md)**: Monitoring changes in the spread over the benchmark rate (for example, SOFR or legacy LIBOR) helps investors understand shifts in [risk](../r/risk.md) premiums demanded by the [market](../m/market.md).
 
 3. **[Total Return](../t/total_return.md)**: This metric reflects the combined effect of [interest](../i/interest.md) [income](../i/income.md) and price changes, providing a comprehensive view of investment performance.
 
@@ -90,4 +90,4 @@ While the LLI is a valuable tool, investors should be aware of certain challenge
 
 The [Leveraged Loan](../l/leveraged_loan.md) [Index](../i/index_instrument.md) (LLI) is a crucial [benchmark](../b/benchmark.md) for tracking the performance of the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). It provides investors with valuable insights into [market](../m/market.md) trends, [risk](../r/risk.md) characteristics, and [return](../r/return.md) potential. By understanding the components, [performance metrics](../p/performance_metrics.md), and applications of the LLI, investors can make more informed decisions and effectively navigate the complex world of leveraged loans.
 
-For more detailed information, you can explore resources provided by the major [index](../i/index_instrument.md) publishers: [LSTA](https://www.lsta.org/research/indices/), [Credit Suisse](https://www.credit-suisse.com/us/en.html), and [Morningstar](https://www.morningstar.com/).
+For more detailed information, you can explore resources provided by the major [index](../i/index_instrument.md) publishers: LSTA, Credit Suisse, and Morningstar.

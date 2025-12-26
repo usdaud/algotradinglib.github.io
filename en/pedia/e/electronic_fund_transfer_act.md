@@ -56,7 +56,6 @@ The EFTA revolutionized the financial services [industry](../i/industry.md) by e
 
 The EFTA continues to play a critical role in shaping the future of electronic payments, adapting to new technologies and responding to the evolving needs of consumers and businesses.
 
-For more information about the EFTA, consumers and financial institutions can visit the official Bureau of Consumer Financial Protection (CFPB) website: [CFPB](https://www.consumerfinance.gov/)
 
 ---
 

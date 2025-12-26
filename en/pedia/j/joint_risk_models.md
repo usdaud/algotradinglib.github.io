@@ -21,7 +21,7 @@ In the realm of financial mathematics and [algorithmic trading](../a/algorithmic
 ## Mathematical Framework of Joint Risk Models
 
 ### 1. Correlation Matrices
-[Correlation](../c/correlation.md) matrices are a key component in [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md), representing the pairwise linear correlations between [multiple](../m/multiple.md) assets. Given \(n\) assets, a [correlation](../c/correlation.md) matrix is an \(n \times n\) symmetric matrix where each element \(\rho_{ij}\) denotes the [correlation](../c/correlation.md) between [asset](../a/asset.md) \(i\) and [asset](../a/asset.md) \(j\). 
+[Correlation](../c/correlation.md) matrices are a key component in [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md), representing the pairwise linear correlations between [multiple](../m/multiple.md) assets. Given \(n\) assets, a [correlation](../c/correlation.md) matrix is an \(n \times n\) symmetric matrix where each element \(\rho_{ij}\) denotes the [correlation](../c/correlation.md) between [asset](../a/asset.md) \(i\) and [asset](../a/asset.md) \(j\).
 
 ### 2. Multivariate Normal Distribution
 The multivariate [normal distribution](../n/normal_distribution_in_trading.md) is often used to model [joint](../j/joint.md) [asset](../a/asset.md) returns. It is characterized by a mean vector \(\mu\) and a [covariance](../c/covariance.md) matrix \(\Sigma\). The [probability density function](../p/probability_density_function.md) (pdf) of a multivariate [normal distribution](../n/normal_distribution_in_trading.md) is given by:
@@ -93,15 +93,15 @@ Regulatory bodies are increasingly requiring financial institutions to adopt com
 
 Several companies and institutions are at the forefront of developing and implementing [joint](../j/joint.md) [risk](../r/risk.md) modeling solutions. Some notable leaders include:
 
-- **MSCI Inc.** (https://www.msci.com/): MSCI provides advanced [risk management](../r/risk_management.md) solutions, including [multi-asset class](../m/multi-asset_class.md) [risk](../r/risk.md) analytics and [stress testing](../s/stress_testing_in_trading.md) tools, leveraging sophisticated [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md).
+- **MSCI Inc.** ( MSCI provides advanced [risk management](../r/risk_management.md) solutions, including [multi-asset class](../m/multi-asset_class.md) [risk](../r/risk.md) analytics and [stress testing](../s/stress_testing_in_trading.md) tools, leveraging sophisticated [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md).
 
-- **[Bloomberg](../b/bloomberg.md) L.P.** (https://www.[bloomberg](../b/bloomberg.md).com/): [Bloomberg](../b/bloomberg.md) offers comprehensive [risk management](../r/risk_management.md) platforms that integrate [joint](../j/joint.md) [risk](../r/risk.md) modeling capabilities, enabling financial professionals to assess and manage risks across diverse portfolios.
+- **[Bloomberg](../b/bloomberg.md) L.P.** ( [Bloomberg](../b/bloomberg.md) offers comprehensive [risk management](../r/risk_management.md) platforms that integrate [joint](../j/joint.md) [risk](../r/risk.md) modeling capabilities, enabling financial professionals to assess and manage risks across diverse portfolios.
 
-- **RiskMetrics Group** (now part of MSCI) (https://www.msci.com/rmg-riskmanager): Originally known for its pioneering work in [risk management](../r/risk_management.md) and [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md), RiskMetrics Group's methodologies are widely adopted in the [industry](../i/industry.md).
+- **RiskMetrics Group** (now part of MSCI) ( Originally known for its pioneering work in [risk management](../r/risk_management.md) and [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md), RiskMetrics Group's methodologies are widely adopted in the [industry](../i/industry.md).
 
-- **[FactSet](../f/factset.md) Research Systems Inc.** (https://www.[factset](../f/factset.md).com/): [FactSet](../f/factset.md) provides integrated financial data and analytical solutions, including multi-[asset](../a/asset.md) [risk](../r/risk.md) modeling tools that utilize [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md).
+- **[FactSet](../f/factset.md) Research Systems Inc.** ( [FactSet](../f/factset.md) provides integrated financial data and analytical solutions, including multi-[asset](../a/asset.md) [risk](../r/risk.md) modeling tools that utilize [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md).
 
-- **Axioma Inc.** (now part of Qontigo) (https://www.qontigo.com/axioma/): Axioma delivers portfolio construction and [risk management](../r/risk_management.md) solutions, incorporating advanced [joint](../j/joint.md) [risk](../r/risk.md) modeling techniques to optimize [portfolio performance](../p/portfolio_performance.md) and manage risks.
+- **Axioma Inc.** (now part of Qontigo) ( Axioma delivers portfolio construction and [risk management](../r/risk_management.md) solutions, incorporating advanced [joint](../j/joint.md) [risk](../r/risk.md) modeling techniques to optimize [portfolio performance](../p/portfolio_performance.md) and manage risks.
 
 ## Conclusion
 

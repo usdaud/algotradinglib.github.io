@@ -72,8 +72,8 @@ GASB also provides a plethora of educational resources to help government accoun
 
 ## Contact and Further Information
 
-For more detailed and up-to-date information about GASB's activities, standards, and publications, you can visit their official website:
+For more detailed and up-to-date information about GASB's activities, standards, and publications, you can
 
-[Government Accounting Standards Board (GASB)](https://www.gasb.org)
+Government Accounting Standards Board (GASB)
 
 GASB remains a fundamental pillar in the realm of governmental [accounting](../a/accounting.md), committed to ensuring that financial reporting by state and local governments is reliable, transparent, and comparable, ultimately serving the public [interest](../i/interest.md).

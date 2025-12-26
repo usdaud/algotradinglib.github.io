@@ -46,8 +46,8 @@ The SAFT framework is generally restricted to accredited investors to comply wit
 
 Several projects and companies have utilized the SAFT framework for their token sales. Examples include:
 
-1. **Filecoin:** One of the most notable projects to use a SAFT, raising $257 million in their token [sale](../s/sale.md) (https://filecoin.io/).
-2. **Protocol Labs:** The [parent company](../p/parent_company.md) behind Filecoin, also employing the SAFT for other initiatives (https://protocol.ai/).
+1. **Filecoin:** One of the most notable projects to use a SAFT, raising $257 million in their token [sale](../s/sale.md) (
+2. **Protocol Labs:** The [parent company](../p/parent_company.md) behind Filecoin, also employing the SAFT for other initiatives (
 
 ## Conclusion
 

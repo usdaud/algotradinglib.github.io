@@ -8,7 +8,7 @@
 
 #### Beta
 
-[Beta](../b/beta.md) represents the component of a portfolio’s [return](../r/return.md) that derives from its exposure to [market](../m/market.md) movements. It measures a portfolio’s sensitivity to [market](../m/market.md) fluctuations. A [beta](../b/beta.md) of 1 indicates that the portfolio’s price [will](../w/will.md) move in line with the [market](../m/market.md), while a [beta](../b/beta.md) greater than 1 indicates higher sensitivity to [market](../m/market.md) moves, and a [beta](../b/beta.md) less than 1 indicates lower sensitivity. 
+[Beta](../b/beta.md) represents the component of a portfolio’s [return](../r/return.md) that derives from its exposure to [market](../m/market.md) movements. It measures a portfolio’s sensitivity to [market](../m/market.md) fluctuations. A [beta](../b/beta.md) of 1 indicates that the portfolio’s price [will](../w/will.md) move in line with the [market](../m/market.md), while a [beta](../b/beta.md) greater than 1 indicates higher sensitivity to [market](../m/market.md) moves, and a [beta](../b/beta.md) less than 1 indicates lower sensitivity.
 
 #### Alpha
 
@@ -39,15 +39,15 @@ Incorporating [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation into [algor
 
 #### 1. Quantitative Models
 
-[Quantitative models](../q/quantitative_models.md) use statistical methods to analyze historic data and predict [market](../m/market.md) movements. These models can be tailored to either enhance [beta](../b/beta.md) exposure or isolate [alpha](../a/alpha.md) factors. Firms such as [Two Sigma](https://www.twosigma.com/) [leverage](../l/leverage.md) [quantitative models](../q/quantitative_models.md) in their [trading strategies](../t/trading_strategies.md).
+[Quantitative models](../q/quantitative_models.md) use statistical methods to analyze historic data and predict [market](../m/market.md) movements. These models can be tailored to either enhance [beta](../b/beta.md) exposure or isolate [alpha](../a/alpha.md) factors. Firms such as Two Sigma [leverage](../l/leverage.md) [quantitative models](../q/quantitative_models.md) in their [trading strategies](../t/trading_strategies.md).
 
 #### 2. Machine Learning Algorithms
 
-[Machine learning](../m/machine_learning.md) (ML) algorithms help discover hidden [alpha](../a/alpha.md) by identifying patterns and anomalies that human traders might overlook. ML models can process vast amounts of data, making them crucial for developing sophisticated [alpha](../a/alpha.md) strategies. Companies like [Kensho Technologies](https://www.kensho.com/) exemplify the integration of ML in analyzing financial data.
+[Machine learning](../m/machine_learning.md) (ML) algorithms help discover hidden [alpha](../a/alpha.md) by identifying patterns and anomalies that human traders might overlook. ML models can process vast amounts of data, making them crucial for developing sophisticated [alpha](../a/alpha.md) strategies. Companies like Kensho Technologies exemplify the integration of ML in analyzing financial data.
 
 #### 3. High-Frequency Trading (HFT)
 
-HFT leverages low-latency technology to execute trades in microseconds, capitalizing on small price discrepancies. Such strategies often combine [alpha generation](../a/alpha_generation.md) with efficient [beta management](../b/beta_management.md) by exploiting short-term inefficiencies. Firms like [Virtu Financial](https://www.virtu.com/) are prominent players in the HFT space.
+HFT leverages low-latency technology to execute trades in microseconds, capitalizing on small price discrepancies. Such strategies often combine [alpha generation](../a/alpha_generation.md) with efficient [beta management](../b/beta_management.md) by exploiting short-term inefficiencies. Firms like Virtu Financial are prominent players in the HFT space.
 
 ### Challenges and Considerations
 
@@ -69,4 +69,4 @@ High-quality data is crucial for both [alpha generation](../a/alpha_generation.m
 
 [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation is a foundational principle in [algorithmic trading](../a/algorithmic_trading.md), enabling clearer distinction between [market](../m/market.md)-driven returns and those from active strategies. This separation enhances [return](../r/return.md) decomposition, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md). As technology and [data analysis techniques](../d/data_analysis_techniques.md) advance, [alpha](../a/alpha.md)-[beta](../b/beta.md) separation strategies [will](../w/will.md) continue to evolve, [offering](../o/offering.md) more sophisticated and efficient ways to optimize trading and investment decisions.
 
-By leveraging [quantitative models](../q/quantitative_models.md), [machine learning](../m/machine_learning.md), and high-frequency trading, firms like Two Sigma, Kensho Technologies, and Virtu Financial exemplify the cutting-edge applications of [alpha](../a/alpha.md)-[beta](../b/beta.md) separation, demonstrating its critical role in modern [financial markets](../f/financial_market.md).
+By leveraging [quantitative models](../q/quantitative_models.md), [machine learning](../m/machine_learning.md), and high-frequency trading, firms like Two Sigma, Kensho Technologies, and Virtu Financial exemplify the cutting-edge applications of [alpha](../a/alpha.md)-[beta](../b/beta.md) separation, demonstrating its critical role in modern [financial markets](../f/financial_market.md).

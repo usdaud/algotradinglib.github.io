@@ -27,31 +27,31 @@ Ether and [Bitcoin](../b/bitcoin.md) serve as the two most prominent cryptocurre
 ## Purpose and Use Cases
 
 - **[Bitcoin](../b/bitcoin.md):** Often referred to as "digital gold," [Bitcoin](../b/bitcoin.md) was created to be a decentralized [digital currency](../d/digital_currency.md) that allows for peer-to-peer transactions without the need for intermediaries.
-  
+
 - **Ether:** While Ether also facilitates peer-to-peer transactions, its primary purpose is to incentivize and power the [Ethereum](../e/ethereum_.md) network, supporting its development and [execution](../e/execution.md) of decentralized apps (dApps) and [smart contracts](../s/smart_contracts_in_trading.md).
 
 ## Technology
 
 - **[Bitcoin](../b/bitcoin.md):** Utilizes a PoW consensus mechanism and has a capped [supply](../s/supply.md) of 21 million BTC.
-  
+
 - **Ether:** Originally used PoW but is shifting to PoS. It doesn’t have a capped [supply](../s/supply.md), although [inflation](../i/inflation.md) is controlled through periodic updates and changes to the network protocol.
 
 ## Speed and Efficiency
 
 - **[Bitcoin](../b/bitcoin.md):** [Bitcoin](../b/bitcoin.md) transactions can be slower and more costly, owing to the PoW system and block size.
-  
+
 - **Ether:** Transactions and smart contract executions on [Ethereum](../e/ethereum_.md) tend to be faster, especially with the integration of layer 2 solutions and the upcoming [Ethereum](../e/ethereum_.md) 2.0 upgrades.
 
 ## Scalability
 
 - **[Bitcoin](../b/bitcoin.md):** Limited in [scalability](../s/scalability.md) due to its block size and PoW mechanism.
-  
+
 - **Ether:** Designed to be more scalable with upcoming [Ethereum](../e/ethereum_.md) 2.0 upgrades, including sharding and PoS, which aim to increase [transaction](../t/transaction.md) [throughput](../t/throughput.md) and reduce costs.
 
 ## Community and Development
 
 - **[Bitcoin](../b/bitcoin.md):** Primarily supported by a community focused on maintaining it as a secure, decentralized form of digital gold.
-  
+
 - **Ether:** Supported by a more diverse community, including developers working on dApps, DeFi projects, and other smart contract-based innovations.
 
 # Major Projects and Ecosystem
@@ -59,9 +59,9 @@ Ether and [Bitcoin](../b/bitcoin.md) serve as the two most prominent cryptocurre
 Ether powers a broad ecosystem of dApps and DeFi projects. Some of the most notable projects include:
 
 - **Uniswap:** A decentralized [exchange](../e/exchange.md) that allows users to [trade](../t/trade.md) ETH and ERC-20 tokens without intermediaries.
-  
+
 - **MakerDAO:** A decentralized [finance](../f/finance.md) platform that enables users to borrow and lend ETH and other tokens.
-  
+
 - **OpenSea:** A marketplace for non-fungible tokens (NFTs), which are unique digital assets that exist on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md).
 
 These projects, among countless others, underscore the versatile applications of Ether within the rapidly growing [blockchain](../b/blockchain_in_trading.md) ecosystem.
@@ -70,4 +70,4 @@ These projects, among countless others, underscore the versatile applications of
 
 Ether (ETH) is much more than a [digital currency](../d/digital_currency.md); it is the lifeblood of a dynamic and rapidly evolving ecosystem that fosters innovation in decentralized applications and [finance](../f/finance.md). Its features, such as [smart contracts](../s/smart_contracts_in_trading.md) and the upcoming shift to a Proof of Stake consensus mechanism, differentiate it from [Bitcoin](../b/bitcoin.md) and position it as a cornerstone of the decentralized web.
 
-For more detailed and updated information, you can visit the official [Ethereum website](https://ethereum.org/).
+For more detailed and updated information,

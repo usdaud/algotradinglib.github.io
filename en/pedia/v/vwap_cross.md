@@ -26,12 +26,12 @@ VWAP is employed mainly for [short-term trading](../s/short-term_trading.md) tac
 VWAP Cross is a relatively straightforward [trading strategy](../t/trading_strategy.md) that relies on the crossing of [price action](../p/price_action.md) above or below the VWAP line. By following these crossings, traders can identify potential trends and [trade](../t/trade.md) accordingly:
 
 1. **Bullish Bias**: When the price crosses above the VWAP, it indicates a bullish [market sentiment](../m/market_sentiment.md). In such conditions:
-    - Traders may enter long positions.
-    - It suggests that buyers are willing to pay prices above the average price of the day, indicating strength.
+ - Traders may enter long positions.
+ - It suggests that buyers are willing to pay prices above the average price of the day, indicating strength.
 
 2. **Bearish Bias**: When the price crosses below the VWAP, it indicates bearish sentiment. In this scenario:
-    - Traders may enter short positions.
-    - It implies that the [market](../m/market.md) is experiencing selling pressure, dragging prices below the average [transaction](../t/transaction.md) price of the day.
+ - Traders may enter short positions.
+ - It implies that the [market](../m/market.md) is experiencing selling pressure, dragging prices below the average [transaction](../t/transaction.md) price of the day.
 
 ### Execution of VWAP Cross Strategy
 
@@ -39,8 +39,8 @@ VWAP Cross is a relatively straightforward [trading strategy](../t/trading_strat
 
 1. **Calculate VWAP**: First, calculate the VWAP for the [security](../s/security.md) for the desired time frame—typically one trading day.
 2. **Set Entry Points**: Identify conditions for entry points:
-    - **Long Entry**: When the price crosses above the VWAP.
-    - **Short Entry**: When the price crosses below the VWAP.
+ - **Long Entry**: When the price crosses above the VWAP.
+ - **Short Entry**: When the price crosses below the VWAP.
 3. **[Risk Management](../r/risk_management.md)**: Set [stop-loss orders](../s/stop-loss_orders.md) just below the VWAP for long positions and just above for short positions to manage risks.
 4. **Exit Points**: Determine exit strategies. One method could be setting target prices or using trailing stops.
 
@@ -70,7 +70,7 @@ Similar to [Bollinger Bands](../b/bollinger_band.md), VWAP bands add a [standard
 
 ### Implementing VWAP in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), VWAP is highly significant. Algorithms aren't just using VWAP as a reference point; they are designed to execute trades that aim to achieve VWAP or better:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), VWAP is highly significant. Algorithms aren't just using VWAP as a reference point; they are designed to execute trades that aim to achieve VWAP or better:
 
 1. **VWAP Targeting Algorithms**: These algos break down large orders into smaller parts distributed throughout the trading day to achieve the VWAP price.
 2. **Cost-Reduction Strategies**: Algorithms use VWAP as part of larger strategies to reduce [market](../m/market.md) impact and [slippage](../s/slippage.md), ensuring large orders do not adversely affect the [security](../s/security.md)'s price.
@@ -92,4 +92,4 @@ While VWAP and VWAP Cross can be powerful for trading:
 
 The VWAP Cross strategy combines the power of the [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price with cross-over techniques to potentially identify trading opportunities. By understanding how VWAP operates and integrating it effectively with [risk management](../r/risk_management.md) and trading [execution](../e/execution.md), traders can [leverage](../l/leverage.md) this strategy both manually and algorithmically. Institutions and individual traders alike find VWAP indispensable for achieving fair prices, enhancing [trading performance](../t/trading_performance.md), and minimizing costs.
 
-For more detailed information and platform-specific usage, you might consider reviewing resources from trading platforms like [Bloomberg](../b/bloomberg.md) ([Bloomberg VWAP](https://www.bloomberg.com)), [TradingView](../t/tradingview.md) ([TradingView Indicators](https://www.tradingview.com/)), and other financial service providers.
+For more detailed information and platform-specific usage, you might consider reviewing resources from trading platforms like [Bloomberg](../b/bloomberg.md) (Bloomberg VWAP), [TradingView](../t/tradingview.md) (TradingView Indicators), and other financial service providers.

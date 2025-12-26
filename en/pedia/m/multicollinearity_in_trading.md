@@ -48,7 +48,7 @@ In the domain of trading, multicollinearity can have several detrimental effects
 Several approaches can be employed to mitigate the effects of multicollinearity in [trading models](../t/trading_models.md):
 
 1. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: PCA transforms the predictor variables into a smaller set of uncorrelated components, reducing multicollinearity while retaining most of the information.
-   
+
 2. **Ridge Regression**: This technique adds a penalty term to the regression equation, shrinking coefficient estimates and reducing the impact of multicollinearity.
 
 3. **Lasso Regression**: Similar to Ridge Regression, Lasso Regression adds a regularization term but also performs variable selection by driving some coefficients to zero.
@@ -85,8 +85,8 @@ Multicollinearity is a common [issue](../i/issue.md) in [trading models](../t/tr
 
 For additional resources and tools related to multicollinearity and trading, you can explore:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Investopedia](https://www.investopedia.com/) for in-depth articles on financial concepts and [trading strategies](../t/trading_strategies.md).
+- QuantConnect
+- Kaggle Datasets
+- Investopedia for in-depth articles on financial concepts and [trading strategies](../t/trading_strategies.md).
 
 By leveraging these resources, traders and analysts can deepen their understanding of multicollinearity and its impact on [trading models](../t/trading_models.md), leading to more informed and effective [trading strategies](../t/trading_strategies.md).

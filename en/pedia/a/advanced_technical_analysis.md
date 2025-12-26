@@ -74,9 +74,9 @@ The Ichimoku Kinko Hyo, or [Ichimoku Cloud](../i/ichimoku_cloud.md), is a compre
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to execute trades based on predefined criteria. Advanced [technical analysis](../t/technical_analysis.md) tools and indicators are often integrated into these algorithms to enhance their precision and profitability. Companies specializing in this field include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
-- **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: quantconnect.com
+- **[AlgoTrader](../a/algotrader.md)**: algotrader.com
 
 ### 13. Conclusion
 
-Advanced [technical analysis](../t/technical_analysis.md) combines various sophisticated tools, indicators, patterns, and theories to provide deeper insights into [market](../m/market.md) trends and potential price movements. Mastering these techniques can significantly enhance a [trader](../t/trader.md)'s ability to make informed decisions and succeed in the dynamic world of [financial markets](../f/financial_market.md). Whether you're a seasoned [trader](../t/trader.md) or just beginning, incorporating advanced [technical analysis](../t/technical_analysis.md) into your [trading strategy](../t/trading_strategy.md) can provide a substantial edge in achieving your financial goals.
+Advanced [technical analysis](../t/technical_analysis.md) combines various sophisticated tools, indicators, patterns, and theories to provide deeper insights into [market](../m/market.md) trends and potential price movements. Mastering these techniques can significantly enhance a [trader](../t/trader.md)'s ability to make informed decisions and succeed in the dynamic world of [financial markets](../f/financial_market.md). Whether you're a seasoned [trader](../t/trader.md) or just beginning, incorporating advanced [technical analysis](../t/technical_analysis.md) into your [trading strategy](../t/trading_strategy.md) can provide a substantial edge in achieving your financial goals.

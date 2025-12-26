@@ -17,17 +17,17 @@ The data must be sorted in ascending [order](../o/order.md) before the quartiles
 
 ### Example
 
-Consider a data set: 6, 47, 49, 15, 48, 16, 51, 22, 5, 18, 17. 
+Consider a data set: 6, 47, 49, 15, 48, 16, 51, 22, 5, 18, 17.
 
 1. **Sort the Data**: 5, 6, 15, 16, 17, 18, 22, 47, 48, 49, 51
-2. **Calculate Q2 ([Median](../m/median.md))**: 
-   - There are 11 numbers, so the middle one is the 6th number: 18 (Q2)
+2. **Calculate Q2 ([Median](../m/median.md))**:
+ - There are 11 numbers, so the middle one is the 6th number: 18 (Q2)
 3. **Calculate Q1**:
-   - The lower half is 5, 6, 15, 16, 17
-   - [Median](../m/median.md) of lower half (Q1) is 15
+ - The lower half is 5, 6, 15, 16, 17
+ - [Median](../m/median.md) of lower half (Q1) is 15
 4. **Calculate Q3**:
-   - The upper half is 22, 47, 48, 49, 51
-   - [Median](../m/median.md) of upper half (Q3) is 48
+ - The upper half is 22, 47, 48, 49, 51
+ - [Median](../m/median.md) of upper half (Q3) is 48
 
 Therefore, Q1 = 15, Q2 = 18, and Q3 = 48.
 
@@ -49,7 +49,7 @@ In trading, quartiles can measure how various [trading strategies](../t/trading_
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), understanding the spread and [distribution](../d/distribution.md) of historical price movements can help in designing more effective [trading algorithms](../t/trading_algorithms.md). Quartiles can be used to divide price data into segments, helping to identify potential entry and exit points for trades.
+In [algorithmic trading](../a/algorithmic_trading.md), understanding the spread and [distribution](../d/distribution.md) of historical price movements can help in designing more effective [trading algorithms](../t/trading_algorithms.md). Quartiles can be used to divide price data into segments, helping to identify potential entry and exit points for trades.
 
 ## Quartiles and Box Plots
 
@@ -76,7 +76,7 @@ Consider an investment portfolio. Using historical [return](../r/return.md) data
 
 ## Advanced Applications in FinTech and Algo-Trading
 
-In FinTech and [algorithmic trading](../a/accountability.md) (algo-trading), quartiles help in creating [robust](../r/robust.md) models that can lead to more effective [trading strategies](../t/trading_strategies.md).
+In FinTech and [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), quartiles help in creating [robust](../r/robust.md) models that can lead to more effective [trading strategies](../t/trading_strategies.md).
 
 ### Machine Learning Models
 
@@ -96,6 +96,6 @@ Quartile-based custom indicators might be more sensitive to [market](../m/market
 
 ## Conclusion
 
-Quartiles are a foundational statistical tool that offers deep insights into data [distribution](../d/distribution.md). In [finance](../f/finance.md) and trading, their applications are vast, from basic [risk](../r/risk.md) assessment to advanced [algorithmic trading](../a/accountability.md). They provide a detailed view of data trends, identify outliers, and can significantly enhance the effectiveness of [trading strategies](../t/trading_strategies.md) and financial models.
+Quartiles are a foundational statistical tool that offers deep insights into data [distribution](../d/distribution.md). In [finance](../f/finance.md) and trading, their applications are vast, from basic [risk](../r/risk.md) assessment to advanced [algorithmic trading](../a/algorithmic_trading.md). They provide a detailed view of data trends, identify outliers, and can significantly enhance the effectiveness of [trading strategies](../t/trading_strategies.md) and financial models.
 
 By understanding and utilizing quartiles, financial analysts, and traders can [gain](../g/gain.md) superior insights, making more informed decisions to optimize returns and manage risks effectively.

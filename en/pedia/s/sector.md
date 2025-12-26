@@ -63,10 +63,10 @@ Investors use these ETFs to [leverage](../l/leverage.md) sector trends, diversif
 [Sector rotation](../s/sector_rotation.md) is an [investment strategy](../i/investment_strategy.md) based on capitalizing on different phases of [economic cycles](../e/economic_cycles.md) by reallocating investments among sectors expected to perform well in particular [market](../m/market.md) conditions.
 
 1. **[Economic Cycle](../e/economic_cycle.md) Phases**:
-   - **[Expansion](../e/expansion.md)**: Characterized by rising economic activity, increased consumer spending, and industrial production. Sectors often favored include Technology, Consumer Discretionary, and Financials.
-   - **Peak**: The [economy](../e/economy.md) is at its highest point, potentially leading to [inflation](../i/inflation.md) and higher [interest](../i/interest.md) rates. Sectors such as Energy and Materials typically perform well.
-   - **Contraction**: Falling economic activity, reduced consumer and [business](../b/business.md) spending. Defensive sectors like Utilities, [Consumer Staples](../c/consumer_staples.md), and Healthcare tend to be more stable.
-   - **[Trough](../t/trough.md)**: The [economy](../e/economy.md) is at its lowest point, setting the stage for recovery. Investors may start moving back into sectors benefiting from economic rebound, such as Industrials and [Real Estate](../r/real_estate.md).
+ - **[Expansion](../e/expansion.md)**: Characterized by rising economic activity, increased consumer spending, and industrial production. Sectors often favored include Technology, Consumer Discretionary, and Financials.
+ - **Peak**: The [economy](../e/economy.md) is at its highest point, potentially leading to [inflation](../i/inflation.md) and higher [interest](../i/interest.md) rates. Sectors such as Energy and Materials typically perform well.
+ - **Contraction**: Falling economic activity, reduced consumer and [business](../b/business.md) spending. Defensive sectors like Utilities, [Consumer Staples](../c/consumer_staples.md), and Healthcare tend to be more stable.
+ - **[Trough](../t/trough.md)**: The [economy](../e/economy.md) is at its lowest point, setting the stage for recovery. Investors may start moving back into sectors benefiting from economic rebound, such as Industrials and [Real Estate](../r/real_estate.md).
 
 ## Conclusion
 

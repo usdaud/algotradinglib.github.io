@@ -75,10 +75,10 @@ Using cross-validation techniques to assess model performance can help avoid [ov
 ### Trading Platforms and APIs
 
 #### QuantConnect
-[QuantConnect](https://www.quantconnect.com) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) types of strategies, from basic moving averages to complex [machine learning](../m/machine_learning.md) models.
+QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) types of strategies, from basic moving averages to complex [machine learning](../m/machine_learning.md) models.
 
 #### Alpaca
-[Alpaca](https://alpaca.markets) is an API-focused [trading platform](../t/trading_platform.md) that provides [commission](../c/commission.md)-free trading and powerful tools for developing and testing [trading algorithms](../t/trading_algorithms.md).
+Alpaca is an API-focused [trading platform](../t/trading_platform.md) that provides [commission](../c/commission.md)-free trading and powerful tools for developing and testing [trading algorithms](../t/trading_algorithms.md).
 
 ### Programming Libraries
 

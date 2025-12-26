@@ -1,6 +1,6 @@
 # Cost Per Thousand (CPM)
 
-Cost Per Thousand (CPM), also referred to as Cost Per Mille, is a [marketing](../m/marketing.md) term used to denote the price of 1,000 advertisement impressions on one web page. If a website publisher charges $2.00 CPM, that means an advertiser must pay $2.00 for every 1,000 impressions of its ad on the site. CPM is a [benchmark](../b/benchmark.md) used not only in the world of online advertising but also for traditional media such as television, radio, and print. 
+Cost Per Thousand (CPM), also referred to as Cost Per Mille, is a [marketing](../m/marketing.md) term used to denote the price of 1,000 advertisement impressions on one web page. If an online platform publisher charges $2.00 CPM, that means an advertiser must pay $2.00 for every 1,000 impressions of its ad on the platform. CPM is a [benchmark](../b/benchmark.md) used not only in the world of online advertising but also for traditional media such as television, radio, and print.
 
 ## Understanding CPM
 
@@ -54,8 +54,8 @@ CPM campaigns can be more susceptible to ad [fraud](../f/fraud.md), where create
 
 In the context of online advertising, CPM is a commonly used metric in display advertising, video advertising, and sometimes even [social media](../s/social_media.md) advertising. Platforms like Google Ads and Facebook Ads [offer](../o/offer.md) CPM pricing models.
 
-- [Google Ads](https://ads.google.com/)
-- [Facebook Ads](https://www.facebook.com/business/ads)
+- Google Ads
+- Facebook Ads
 
 ### Television & Radio
 

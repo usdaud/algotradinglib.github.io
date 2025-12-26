@@ -84,15 +84,15 @@ The prevalence of stock-based compensation can affect stock performance, particu
 
 ### Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), understanding a company’s stock compensation structure can provide insights into potential stock price movements. For example, algorithms might detect patterns or predict stock price movements based on upcoming [vesting](../v/vesting.md) dates or large exercises of stock [options](../o/options.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding a company’s stock compensation structure can provide insights into potential stock price movements. For example, algorithms might detect patterns or predict stock price movements based on upcoming [vesting](../v/vesting.md) dates or large exercises of stock [options](../o/options.md).
 
 ## Conclusion
 
-Stock compensation remains a powerful tool for companies to attract, retain, and motivate employees, aligning their interests closely with those of shareholders. However, it comes with its own set of complexities, particularly around [valuation](../v/valuation.md) and [accounting](../a/accounting.md). As the financial landscape evolves, particularly with the increasing role of technology and [algorithmic trading](../a/accountability.md), the significance and influence of stock-based compensation continue to grow. Both employers and employees must stay well-informed and strategically manage these compensatory mechanisms to maximize their benefits while mitigating potential drawbacks.
+Stock compensation remains a powerful tool for companies to attract, retain, and motivate employees, aligning their interests closely with those of shareholders. However, it comes with its own set of complexities, particularly around [valuation](../v/valuation.md) and [accounting](../a/accounting.md). As the financial landscape evolves, particularly with the increasing role of technology and [algorithmic trading](../a/algorithmic_trading.md), the significance and influence of stock-based compensation continue to grow. Both employers and employees must stay well-informed and strategically manage these compensatory mechanisms to maximize their benefits while mitigating potential drawbacks.
 
 For further information about specific company policies on stock compensation, you can visit organizations' official websites. For example:
-- [Google's Parent Company, Alphabet Inc.](https://abc.xyz/)
-- [Microsoft Corporation](https://www.microsoft.com/)
-- [Apple Inc.](https://www.apple.com/)
+- Google's Parent Company, Alphabet Inc.
+- Microsoft Corporation
+- Apple Inc.
 
 Understanding the nuances of stock compensation is crucial for stakeholders at all levels, and ongoing education and monitoring of [industry](../i/industry.md) [best practices](../b/best_practices.md) [will](../w/will.md) remain essential in this ever-evolving field.

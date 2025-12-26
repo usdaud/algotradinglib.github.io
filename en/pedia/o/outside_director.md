@@ -1,12 +1,12 @@
 # Outside Director
 
-An outside director is a member of a company's board of directors who is not part of the company's executive team. These directors are brought onto the board to provide balanced perspectives on [corporate governance](../c/corporate_governance.md) and strategy, ensuring that the interests of shareholders and other stakeholders are protected. Their independence from the internal management ranks brings an added layer of oversight, potentially minimizing conflicts of [interest](../i/interest.md) and improving corporate accountability. 
+An outside director is a member of a company's board of directors who is not part of the company's executive team. These directors are brought onto the board to provide balanced perspectives on [corporate governance](../c/corporate_governance.md) and strategy, ensuring that the interests of shareholders and other stakeholders are protected. Their independence from the internal management ranks brings an added layer of oversight, potentially minimizing conflicts of [interest](../i/interest.md) and improving corporate accountability.
 
 ## Definition and Role
 
 Outside directors, also known as external directors, are not involved in the daily organizational operations and do not have a managerial role within the company. They often come from diverse professional backgrounds and bring a [wealth](../w/wealth.md) of experience and expertise in various sectors. The primary role of an outside director is to [offer](../o/offer.md) unbiased, independent [judgment](../j/judgment.md) and ensure that the organization remains on a legally and ethically sound path. They often participate in key board committees such as audit, compensation, and governance committees.
 
-### Responsibilities 
+### Responsibilities
 
 The responsibilities of outside directors vary depending on the company's size, [industry](../i/industry.md), and governance structure but typically include:
 
@@ -57,15 +57,15 @@ Although they are typically more independent, outside directors can still face p
 
 ### Apple Inc.
 
-Apple Inc. has several prominent outside directors on its board who contribute to broad governance oversight. For example, Andrea Jung, the former CEO of Avon Products, brings a [wealth](../w/wealth.md) of experience in [consumer goods](../c/consumer_goods.md) and [corporate governance](../c/corporate_governance.md). [Apple Board of Directors](https://www.apple.com/leadership/)
+Apple Inc. has several prominent outside directors on its board who contribute to broad governance oversight. For example, Andrea Jung, the former CEO of Avon Products, brings a [wealth](../w/wealth.md) of experience in [consumer goods](../c/consumer_goods.md) and [corporate governance](../c/corporate_governance.md). Apple Board of Directors
 
 ### Tesla, Inc.
 
-Tesla’s board includes outside directors such as James Murdoch and Robyn Denholm, who bring diverse experience from media and telecommunications sectors. Their independent insights are crucial in guiding Tesla through its rapidly growing and technically complex landscape. [Tesla Board of Directors](https://ir.tesla.com/corporate/leadership)
+Tesla’s board includes outside directors such as James Murdoch and Robyn Denholm, who bring diverse experience from media and telecommunications sectors. Their independent insights are crucial in guiding Tesla through its rapidly growing and technically complex landscape. Tesla Board of Directors
 
 ### JPMorgan Chase & Co.
 
-JPMorgan Chase’s Board includes outside directors like James A. Bell, who serves as a director on several other boards and brings extensive experience in [finance](../f/finance.md) and [corporate governance](../c/corporate_governance.md). [JPMorgan Chase Board of Directors](https://www.jpmorganchase.com/about/our-leadership/board-of-directors)
+JPMorgan Chase’s Board includes outside directors like James A. Bell, who serves as a director on several other boards and brings extensive experience in [finance](../f/finance.md) and [corporate governance](../c/corporate_governance.md). JPMorgan Chase Board of Directors
 
 ## Best Practices for Effective Outside Directors
 

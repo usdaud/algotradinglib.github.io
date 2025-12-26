@@ -81,9 +81,9 @@ Markets are dynamic, and correlations can change over time due to evolving [mark
 
 Several tools and platforms assist traders in carrying out [correlation](../c/correlation.md) analysis. [Quantitative trading](../q/quantitative_trading.md) platforms like [QuantConnect](../q/quantconnect.md), AlphaVantage, and [QuantLib](../q/quantlib.md) [offer](../o/offer.md) APIs and libraries for performing complex statistical analyses, including [correlation](../c/correlation.md) assessments. These tools facilitate the integration of [correlation](../c/correlation.md) analysis into [automated trading systems](../a/automated_trading_systems.md).
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [AlphaVantage](https://www.alphavantage.co/)
-- [QuantLib](https://www.quantlib.org/)
+- QuantConnect
+- AlphaVantage
+- QuantLib
 
 ### Case Studies
 
@@ -111,4 +111,4 @@ In [algorithmic trading](../a/algorithmic_trading.md), [overfitting](../o/overfi
 
 ### Conclusion
 
-[Correlation](../c/correlation.md) analysis is an indispensable tool in [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into the relationships between financial instruments. By leveraging various [correlation](../c/correlation.md) measures, traders can develop sophisticated strategies, manage [risk](../r/risk.md) effectively, and construct well-diversified portfolios. While challenges such as non-stationary data, spurious correlations, and [overfitting](../o/overfitting.md) remain, careful application and continuous adaptation of [correlation](../c/correlation.md) analysis can significantly enhance [trading performance](../t/trading_performance.md). Employing advanced tools and maintaining a nuanced understanding of [market dynamics](../m/market_dynamics.md) are critical to deriving [value](../v/value.md) from this statistical technique.
+[Correlation](../c/correlation.md) analysis is an indispensable tool in [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into the relationships between financial instruments. By leveraging various [correlation](../c/correlation.md) measures, traders can develop sophisticated strategies, manage [risk](../r/risk.md) effectively, and construct well-diversified portfolios. While challenges such as non-stationary data, spurious correlations, and [overfitting](../o/overfitting.md) remain, careful application and continuous adaptation of [correlation](../c/correlation.md) analysis can significantly enhance [trading performance](../t/trading_performance.md). Employing advanced tools and maintaining a nuanced understanding of [market dynamics](../m/market_dynamics.md) are critical to deriving [value](../v/value.md) from this statistical technique.

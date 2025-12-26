@@ -1,6 +1,6 @@
 # Futures Term Structure
 
-The term structure of [futures](../f/futures.md) refers to the relationship between the prices of [futures contracts](../f/futures_contracts.md) and the differing [maturity](../m/maturity.md) dates for these contracts. Essentially, it is the curve created when plotting the prices of [futures contracts](../f/futures_contracts.md) against their respective expiration dates. This concept is particularly important in understanding the cost of carry, [market](../m/market.md) expectations, and the overall [market sentiment](../m/market_sentiment.md). 
+The term structure of [futures](../f/futures.md) refers to the relationship between the prices of [futures contracts](../f/futures_contracts.md) and the differing [maturity](../m/maturity.md) dates for these contracts. Essentially, it is the curve created when plotting the prices of [futures contracts](../f/futures_contracts.md) against their respective expiration dates. This concept is particularly important in understanding the cost of carry, [market](../m/market.md) expectations, and the overall [market sentiment](../m/market_sentiment.md).
 
 ## Key Components
 
@@ -92,11 +92,11 @@ In the context of [interest rate futures](../i/interest_rate_futures.md) (e.g., 
 
 ### CME Group
 
-[CME Group](https://www.cmegroup.com/) is a global markets company that owns large [derivatives](../d/derivatives.md), [options](../o/options.md), and [futures](../f/futures.md) exchanges such as the Chicago Mercantile [Exchange](../e/exchange.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of [futures](../f/futures.md) products and are a key player in the analysis and application of [futures](../f/futures.md) term structures.
+CME Group is a global markets company that owns large [derivatives](../d/derivatives.md), [options](../o/options.md), and [futures](../f/futures.md) exchanges such as the Chicago Mercantile [Exchange](../e/exchange.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of [futures](../f/futures.md) products and are a key player in the analysis and application of [futures](../f/futures.md) term structures.
 
 ### ICE (Intercontinental Exchange)
 
-[ICE](https://www.theice.com/) operates numerous global exchanges and clearinghouses, and it is another pivotal player in the [futures](../f/futures.md) markets. They provide [futures contracts](../f/futures_contracts.md) on a variety of assets, from commodities to financial instruments, allowing for comprehensive [term structure analysis](../t/term_structure_analysis.md).
+ICE operates numerous global exchanges and clearinghouses, and it is another pivotal player in the [futures](../f/futures.md) markets. They provide [futures contracts](../f/futures_contracts.md) on a variety of assets, from commodities to financial instruments, allowing for comprehensive [term structure analysis](../t/term_structure_analysis.md).
 
 ## Conclusion
 

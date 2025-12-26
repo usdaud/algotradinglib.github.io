@@ -61,13 +61,13 @@ Several tools and software packages are available for signal processing in tradi
 - **Matlab:** Widely used for data analysis and algorithm development
 - **Python Libraries:** Libraries like NumPy, SciPy, pandas, and scikit-learn provide [robust](../r/robust.md) tools for signal processing and [machine learning](../m/machine_learning.md)
 - **R:** Statistical computing software with packages for [time series analysis](../t/time_series_analysis.md) and signal processing
-- **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) built-in tools for signal processing and algorithm development
+- **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [StockSharp](../s/stocksharp.md) [offer](../o/offer.md) built-in tools for signal processing and algorithm development
 
 ### Case Studies
 
-1. **Renaissance Technologies [Link](https://www.rentec.com/)**: A [hedge fund](../h/hedge_fund.md) known for its use of advanced signal processing and [mathematical models](../m/mathematical_models_in_trading.md) to achieve exceptional returns.
+1. **Renaissance Technologies Link**: A [hedge fund](../h/hedge_fund.md) known for its use of advanced signal processing and [mathematical models](../m/mathematical_models_in_trading.md) to achieve exceptional returns.
 
-2. **Two Sigma [Link](https://www.twosigma.com/)**: This [firm](../f/firm.md) employs [data science](../d/data_science_in_trading.md), AI, and signal processing techniques to drive its [trading strategies](../t/trading_strategies.md).
+2. **Two Sigma Link**: This [firm](../f/firm.md) employs [data science](../d/data_science_in_trading.md), AI, and signal processing techniques to drive its [trading strategies](../t/trading_strategies.md).
 
 ### Challenges and Limitations
 

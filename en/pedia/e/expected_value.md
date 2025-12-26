@@ -65,7 +65,7 @@ This means that, on average, you can expect an 8% [return](../r/return.md) on th
 
 Consider a portfolio with two assets. [Asset](../a/asset.md) A has an [expected return](../e/expected_return.md) of 6%, and [Asset](../a/asset.md) B has an [expected return](../e/expected_return.md) of 12%. If $40,000 is invested in [Asset](../a/asset.md) A and $60,000 in [Asset](../a/asset.md) B, the [expected return](../e/expected_return.md) of the entire portfolio can be calculated as follows:
 
-1. Calculate the total investment: 
+1. Calculate the total investment:
 
 \[ \text{Total Investment} = 40,000 + 60,000 = 100,000 \]
 

@@ -15,7 +15,7 @@ Currencies in the Forex [market](../m/market.md) are traded in pairs, which mean
 ### Major, Minor, and Exotic Pairs
 
 - **Major Pairs**: These involve the US Dollar (USD) and are the most [liquid](../l/liquid.md) and widely traded in the Forex [market](../m/market.md), e.g., EUR/USD, USD/JPY, GBP/USD.
-  
+
 - **Minor Pairs**: These do not involve the USD but include other major currencies like EUR, GBP, and JPY, e.g., EUR/GBP, GBP/JPY.
 
 - **Exotic Pairs**: These involve one major [currency](../c/currency.md) and one [currency](../c/currency.md) from a smaller or emerging [market](../m/market.md), e.g., USD/TRY, EUR/PLN.
@@ -25,9 +25,9 @@ Currencies in the Forex [market](../m/market.md) are traded in pairs, which mean
 The main participants in the Forex [market](../m/market.md) include:
 
 - **Commercial Banks**: The largest participants in the Forex [market](../m/market.md), facilitating transactions for clients and conducting [proprietary trading](../p/proprietary_trading.md).
-  
+
 - **Central Banks**: Involved in the Forex [market](../m/market.md) to control [currency](../c/currency.md) reserves and influence [exchange](../e/exchange.md) rates.
-  
+
 - **Corporations**: Engage in Forex to [hedge](../h/hedge.md) risks arising from international [business activities](../b/business_activities.md).
 
 - **Investment Funds**: [Hedge](../h/hedge.md) funds and other investment entities [trade](../t/trade.md) Forex for speculative purposes and [portfolio diversification](../p/portfolio_diversification.md).
@@ -57,9 +57,9 @@ A [pip](../p/pip.md) (percentage in point) is the smallest price movement in the
 The Forex [market](../m/market.md) operates 24 hours a day, five days a week, with trading sessions overlapping across major financial centers:
 
 - **Asian Session**: Tokyo opens from 12:00 AM to 9:00 AM GMT.
-  
+
 - **European Session**: London opens from 8:00 AM to 5:00 PM GMT.
-  
+
 - **American Session**: New York opens from 1:00 PM to 10:00 PM GMT.
 
 ## Forex Trading Strategies
@@ -69,7 +69,7 @@ The Forex [market](../m/market.md) operates 24 hours a day, five days a week, wi
 [Technical analysis](../t/technical_analysis.md) involves analyzing past price movements and patterns to predict future price behavior. Tools used in [technical analysis](../t/technical_analysis.md) include:
 
 - **Charts**: [Candlestick](../c/candlestick.md), bar, and line charts to visualize price data.
-  
+
 - **Indicators**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), MACD, [Bollinger Bands](../b/bollinger_band.md).
 
 - **Patterns**: Head and shoulders, triangles, flags, and double tops/bottoms.
@@ -113,7 +113,7 @@ Choosing the right Forex [broker](../b/broker.md) is crucial for trading success
 Ensure the [broker](../b/broker.md) is regulated by a reputable authority, such as:
 
 - **U.S.**: National [Futures](../f/futures.md) Association (NFA), [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC).
-  
+
 - **U.K.**: Financial Conduct Authority (FCA).
 
 - **Australia**: Australian Securities and Investments [Commission](../c/commission.md) (ASIC).
@@ -125,7 +125,7 @@ Ensure the [broker](../b/broker.md) is regulated by a reputable authority, such 
 The [trading platform](../t/trading_platform.md) should be user-friendly, reliable, and [offer](../o/offer.md) tools for technical and [fundamental analysis](../f/fundamental_analysis.md). Popular platforms include:
 
 - **MetaTrader 4 and 5**: Widely used for Forex trading with extensive charting tools.
-  
+
 - **[cTrader](../c/ctrader.md)**: Known for its advanced charting capabilities and user-friendly interface.
 
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers a wide [range](../r/range.md) of [technical analysis tools](../t/technical_analysis_tools.md) and automated trading.

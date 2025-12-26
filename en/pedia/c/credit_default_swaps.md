@@ -45,11 +45,11 @@ The CDS [market](../m/market.md) has evolved significantly since its inception. 
 
 ### Major Players
 Major institutions involved in the CDS [market](../m/market.md) include:
-- **JPMorgan Chase & Co.**: [JPMorgan Chase](https://www.jpmorganchase.com)
-- **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
-- **Citigroup**: [Citigroup](https://www.citigroup.com)
-- **Deutsche [Bank](../b/bank.md)**: [Deutsche Bank](https://www.db.com)
-- **ISDA (International Swaps and [Derivatives](../d/derivatives.md) Association)**: [ISDA](https://www.isda.org)
+- **JPMorgan Chase & Co.**: JPMorgan Chase
+- **Goldman Sachs**: Goldman Sachs
+- **Citigroup**: Citigroup
+- **Deutsche [Bank](../b/bank.md)**: Deutsche Bank
+- **ISDA (International Swaps and [Derivatives](../d/derivatives.md) Association)**: ISDA
 
 ## Regulatory Environment
 Post-2008 [financial crisis](../f/financial_crisis.md), regulatory bodies worldwide have implemented reforms aimed at increasing the [transparency](../t/transparency.md) and stability of the CDS [market](../m/market.md). Key measures include:
@@ -57,4 +57,4 @@ Post-2008 [financial crisis](../f/financial_crisis.md), regulatory bodies worldw
 - **European [Market](../m/market.md) [Infrastructure](../i/infrastructure.md) Regulation (EMIR)**: Mandates similar provisions for European markets.
 
 ## Conclusion
-[Credit](../c/credit.md) [Default](../d/default.md) Swaps are vibrant yet complex financial instruments that [offer](../o/offer.md) immense potential for [risk management](../r/risk_management.md) and speculative gains. However, they require thorough understanding and careful consideration given their impact on financial stability and [market dynamics](../m/market_dynamics.md). As a pivotal component of the financial [derivatives](../d/derivatives.md) [market](../m/market.md), the evolution and regulation of CDS continue to be critical topics within the financial [industry](../i/industry.md).
+[Credit](../c/credit.md) [Default](../d/default.md) Swaps are vibrant yet complex financial instruments that [offer](../o/offer.md) immense potential for [risk management](../r/risk_management.md) and speculative gains. However, they require thorough understanding and careful consideration given their impact on financial stability and [market dynamics](../m/market_dynamics.md). As a pivotal component of the financial [derivatives](../d/derivatives.md) [market](../m/market.md), the evolution and regulation of CDS continue to be critical topics within the financial [industry](../i/industry.md).

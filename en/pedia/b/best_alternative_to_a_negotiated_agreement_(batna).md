@@ -6,7 +6,7 @@ The concept of BATNA, which stands for Best Alternative to a Negotiated Agreemen
 ## Importance of BATNA in Negotiations
 
 1. **Empowerment**: Knowing your BATNA helps you approach negotiations with confidence. If the negotiated agreement is not better than your BATNA, you can walk away from the table.
-   
+
 2. **[Security](../s/security.md)**: Understanding your best alternative ensures that you are not compelled to accept a suboptimal deal out of a lack of [options](../o/options.md). You're aware of the fallback plan, providing a safety net.
 
 3. **[Leverage](../l/leverage.md)**: A strong BATNA can provide you with significant [leverage](../l/leverage.md) in negotiations. If the other party realizes that you have a solid alternative, they might be more willing to make concessions to keep you at the table.

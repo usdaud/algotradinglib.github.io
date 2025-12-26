@@ -16,18 +16,18 @@ The primary goal for many companies is to maximize [shareholder](../s/shareholde
 To measure [shareholder](../s/shareholder.md) [value](../v/value.md), various financial metrics and methodologies can be employed. These include:
 
 1. **[Market Capitalization](../m/market_capitalization.md)**: The total [market value](../m/market_value.md) of a company's outstanding [shares](../s/shares.md) of stock. It is calculated by multiplying the current [market price](../m/market_price.md) of the company's [shares](../s/shares.md) by the total number of [issued shares](../i/issued_shares.md).
-   \[ \text{[Market Capitalization](../m/market_capitalization.md)} = \text{Share Price} \times \text{Total Number of [Shares](../s/shares.md) Outstanding} \]
+ \[ \text{[Market Capitalization](../m/market_capitalization.md)} = \text{Share Price} \times \text{Total Number of [Shares](../s/shares.md) Outstanding} \]
 
 2. **[Earnings](../e/earnings.md) per Share (EPS)**: A key profitability [indicator](../i/indicator.md) that shows how much [profit](../p/profit.md) is allocated to each outstanding share of [common stock](../c/common_stock.md).
-   \[ \text{EPS} = \frac{\text{Net [Income](../i/income.md)} - \text{Preferred Dividends}}{\text{Average Number of Outstanding [Shares](../s/shares.md)}} \]
+ \[ \text{EPS} = \frac{\text{Net [Income](../i/income.md)} - \text{Preferred Dividends}}{\text{Average Number of Outstanding [Shares](../s/shares.md)}} \]
 
 3. **Dividends**: Cash or stock distributions made to shareholders from a company's [earnings](../e/earnings.md). A stable or increasing [dividend](../d/dividend.md) [payout](../p/payout.md) is often viewed positively by investors.
 
 4. **Total [Shareholder](../s/shareholder.md) [Return](../r/return.md) (TSR)**: The [total return](../t/total_return.md) provided to shareholders, including stock price appreciation and dividends. TSR is particularly useful for assessing long-term [value](../v/value.md) creation.
-   \[ \text{TSR} = \frac{(\text{Current Stock Price} - \text{Initial Stock Price}) + \text{Dividends Paid}}{\text{Initial Stock Price}} \]
+ \[ \text{TSR} = \frac{(\text{Current Stock Price} - \text{Initial Stock Price}) + \text{Dividends Paid}}{\text{Initial Stock Price}} \]
 
 5. **[Economic Value](../e/economic_value.md) Added (EVA)**: A measure of a company's [financial performance](../f/financial_performance.md) based on residual [wealth](../w/wealth.md), calculated by deducting the [cost of capital](../c/cost_of_capital.md) from [operating profit](../o/operating_profit.md).
-   \[ \text{EVA} = \text{Net [Operating Profit](../o/operating_profit.md) After Tax (NOPAT)} - (\text{[Capital](../c/capital.md) Invested} \times \text{[Cost of Capital](../c/cost_of_capital.md)}) \]
+ \[ \text{EVA} = \text{Net [Operating Profit](../o/operating_profit.md) After Tax (NOPAT)} - (\text{[Capital](../c/capital.md) Invested} \times \text{[Cost of Capital](../c/cost_of_capital.md)}) \]
 
 ## Factors Influencing Shareholder Value
 
@@ -61,13 +61,13 @@ A focus on maximizing [shareholder](../s/shareholder.md) [value](../v/value.md) 
 Many companies explicitly state their commitment to maximizing [shareholder](../s/shareholder.md) [value](../v/value.md). Here are some high-profile examples:
 
 1. **Apple Inc.**: Apple focuses on delivering innovative products and services that generate strong [financial performance](../f/financial_performance.md). Their consistent growth in [revenue](../r/revenue.md) and dividends has significantly increased [shareholder](../s/shareholder.md) [value](../v/value.md) over the years.
-   - Official Site: [Apple](https://www.apple.com)
+ - public materials: Apple
 
 2. **Johnson & Johnson**: Johnson & Johnson prioritizes [shareholder](../s/shareholder.md) [value](../v/value.md) through a balanced approach to growth, dividends, and [share buybacks](../s/share_buybacks.md), driven by solid financial management and strategic acquisitions.
-   - Official Site: [Johnson & Johnson](https://www.jnj.com)
+ - public materials: Johnson & Johnson
 
 3. **PepsiCo**: PepsiCo adopts a holistic strategy aimed at profitable growth while maintaining a strong emphasis on [shareholder](../s/shareholder.md) returns through dividends and [share repurchase](../s/share_repurchase.md) programs.
-   - Official Site: [PepsiCo](https://www.pepsico.com)
+ - public materials: PepsiCo
 
 ## Ethical Considerations
 

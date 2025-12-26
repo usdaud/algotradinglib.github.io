@@ -57,7 +57,7 @@ The Federal Reserve, often referred to as the Fed, is the central [bank](../b/ba
 - Supervising and regulating banks to ensure financial stability.
 - Providing financial services to the government and financial institutions.
 
-For more details, visit the official [Federal Reserve website](https://www.federalreserve.gov/).
+
 
 ### European Central Bank (European Union)
 
@@ -68,7 +68,7 @@ The European Central [Bank](../b/bank.md) (ECB) is the central [bank](../b/bank.
 - Promoting the smooth operation of [payment](../p/payment.md) systems.
 - Ensuring the stability of the [financial system](../f/financial_system.md).
 
-For more information, visit the official [European Central Bank website](https://www.ecb.europa.eu/).
+
 
 ### Bank of Japan
 
@@ -79,7 +79,7 @@ The [Bank](../b/bank.md) of Japan (BoJ) is the central [bank](../b/bank.md) of J
 - Conducting economic research and analysis.
 - Providing banking services to the government and commercial banks.
 
-For further details, visit the official [Bank of Japan website](https://www.boj.or.jp/en/).
+
 
 ### People's Bank of China
 
@@ -90,7 +90,7 @@ The People's [Bank](../b/bank.md) of China (PBoC) is the central [bank](../b/ban
 - Managing the issuance and circulation of the Chinese yuan.
 - Conducting research on economic and financial matters.
 
-For more information, visit the official [People's Bank of China website](http://www.pbc.gov.cn/en/3688006/index.html).
+
 
 ## National Banks and Financial Technology (FinTech)
 

@@ -32,7 +32,7 @@ There are several strategic reasons why a company might choose to keep a portion
 
 When a company decides to [issue](../i/issue.md) additional [shares](../s/shares.md) from its pool of unissued stock, it can lead to [equity](../e/equity.md) [dilution](../d/dilution.md). [Dilution](../d/dilution.md) occurs when the ownership percentage of existing shareholders is reduced because new [shares](../s/shares.md) are issued. This is often a concern for investors as it can affect the [value](../v/value.md) of their [holdings](../h/holdings.md):
 
-1. **[Earnings](../e/earnings.md) Per Share (EPS)**: [Dilution](../d/dilution.md) reduces the [earnings](../e/earnings.md) per share since the same amount of [profit](../p/profit.md) is now spread over a larger number of [shares](../s/shares.md). 
+1. **[Earnings](../e/earnings.md) Per Share (EPS)**: [Dilution](../d/dilution.md) reduces the [earnings](../e/earnings.md) per share since the same amount of [profit](../p/profit.md) is now spread over a larger number of [shares](../s/shares.md).
 
 2. **Control [Dilution](../d/dilution.md)**: For shareholders who are concerned about maintaining control or influence over the company, the issuance of new [shares](../s/shares.md) means their voting power decreases unless they buy additional [shares](../s/shares.md).
 
@@ -73,7 +73,7 @@ Unissued stock does not show up directly on the [balance sheet](../b/balance_she
 Investors closely scrutinize the number of authorized, issued, and unissued [shares](../s/shares.md) as these metrics can provide insights into the company's future plans and [financial health](../f/financial_health.md). For example:
 
 - **Potential [Dilution](../d/dilution.md)**: A large number of unissued [shares](../s/shares.md) might signal potential future [dilution](../d/dilution.md), which could impact the stock's price negatively.
-  
+
 - **Growth Prospects**: Investors might view unissued [shares](../s/shares.md) as a sign that the company is preparing for future growth, acquisitions, or other positive developments.
 
 #### Public Announcements and Market Reaction
@@ -87,14 +87,14 @@ Public announcements regarding the issuance of new [shares](../s/shares.md) or c
 In the [startup](../s/startup.md) ecosystem, companies typically keep a significant portion of their [shares](../s/shares.md) unissued to:
 
 1. **Attract [Venture Capital](../v/venture_capital.md)**: Startups [issue](../i/issue.md) [shares](../s/shares.md) in various funding rounds to attract investment from venture capitalists and angel investors.
-  
+
 2. **Employee Compensation**: Stock [options](../o/options.md) are a critical tool in attracting and retaining talent, making unissued [shares](../s/shares.md) essential for startups planning to scale rapidly.
 
 3. **Rapid [Expansion](../e/expansion.md)**: Flexibility to [issue](../i/issue.md) [shares](../s/shares.md) quickly is crucial for startups that may need to pivot or expand operations swiftly.
 
 ### Finance Giants and Unissued Stock
 
-Large corporations also strategically use unissued stock. For instance, companies like [Apple](https://www.apple.com), Google ([Alphabet Inc.](https://abc.xyz)), and others maintain unissued [shares](../s/shares.md) to manage their [capital structure](../c/capital_structure.md) effectively and engage in strategic M&A or stock [buyback](../b/buyback.md) programs to enhance [shareholder value](../s/shareholder_value.md).
+Large corporations also strategically use unissued stock. For instance, companies like Apple, Google (Alphabet Inc.), and others maintain unissued [shares](../s/shares.md) to manage their [capital structure](../c/capital_structure.md) effectively and engage in strategic M&A or stock [buyback](../b/buyback.md) programs to enhance [shareholder value](../s/shareholder_value.md).
 
 ## Risks and Considerations
 

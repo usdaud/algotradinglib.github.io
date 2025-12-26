@@ -1,6 +1,6 @@
 # Tel Aviv Stock Exchange (TASE)
 
-The Tel Aviv Stock [Exchange](../e/exchange.md) (TASE), located in Tel Aviv, Israel, is one of the primary stock exchanges in the Middle East and serves as a fundamental cornerstone of the Israeli [economy](../e/economy.md). TASE facilitates the trading of various financial instruments including [stocks](../s/stock.md), corporate bonds, government bonds, [exchange](../e/exchange.md)-traded funds (ETFs), and [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md). This document provides a comprehensive detailing of TASE, its history, operations, trading mechanisms, [listed](../l/listed.md) companies, and regulations, along with insights into [algorithmic trading](../a/accountability.md) on the [exchange](../e/exchange.md).
+The Tel Aviv Stock [Exchange](../e/exchange.md) (TASE), located in Tel Aviv, Israel, is one of the primary stock exchanges in the Middle East and serves as a fundamental cornerstone of the Israeli [economy](../e/economy.md). TASE facilitates the trading of various financial instruments including [stocks](../s/stock.md), corporate bonds, government bonds, [exchange](../e/exchange.md)-traded funds (ETFs), and [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md). This document provides a comprehensive detailing of TASE, its history, operations, trading mechanisms, [listed](../l/listed.md) companies, and regulations, along with insights into [algorithmic trading](../a/algorithmic_trading.md) on the [exchange](../e/exchange.md).
 
 ## History and Development
 
@@ -13,25 +13,25 @@ TASE has consistently modernized its [infrastructure](../i/infrastructure.md) an
 ### Trading Hours
 
 TASE operates five days a week, from Sunday to Thursday. The trading day is divided into several phases:
-1. **Opening Phase (Pre-Opening):** 
-   - Time: 9:00 to 9:45.
-   - Orders can be submitted, modified, and cancelled, but no actual trading occurs.
+1. **Opening Phase (Pre-Opening):**
+ - Time: 9:00 to 9:45.
+ - Orders can be submitted, modified, and cancelled, but no actual trading occurs.
 
 2. **Opening Auction:**
-   - Time: 9:45 to approximately 9:55.
-   - [Matching orders](../m/matching_orders.md) set the opening prices based on [supply](../s/supply.md) and [demand](../d/demand.md) [equilibrium](../e/equilibrium.md).
+ - Time: 9:45 to approximately 9:55.
+ - [Matching orders](../m/matching_orders.md) set the opening prices based on [supply](../s/supply.md) and [demand](../d/demand.md) [equilibrium](../e/equilibrium.md).
 
 3. **Continuous Trading:**
-   - Time: 9:55 to 17:15.
-   - Orders are continuously matched and executed throughout the trading day.
+ - Time: 9:55 to 17:15.
+ - Orders are continuously matched and executed throughout the trading day.
 
 4. **Closing Auction:**
-   - Time: 17:15 to approximately 17:24.
-   - Similar to the opening auction, it determines the closing prices through [order](../o/order.md) matching.
+ - Time: 17:15 to approximately 17:24.
+ - Similar to the opening auction, it determines the closing prices through [order](../o/order.md) matching.
 
 5. **[After-Hours Trading](../a/after-hours_trading.md):**
-   - Time: 17:25 to 17:30.
-   - Limited to certain securities and basic operations.
+ - Time: 17:25 to 17:30.
+ - Limited to certain securities and basic operations.
 
 ### Instruments Traded
 
@@ -80,7 +80,7 @@ TASE operates under the supervision of the Israel Securities Authority (ISA), es
 
 ## Algorithmic Trading on TASE
 
-[Algorithmic trading](../a/accountability.md) has been increasingly utilized on TASE, reflecting a global [trend](../t/trend.md) towards automated, high-frequency trading. Here are some aspects of algo trading relevant to TASE:
+[Algorithmic trading](../a/algorithmic_trading.md) has been increasingly utilized on TASE, reflecting a global [trend](../t/trend.md) towards automated, high-frequency trading. Here are some aspects of algo trading relevant to TASE:
 
 ### Infrastructure
 
@@ -96,10 +96,10 @@ Common [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) 
 
 ### Regulatory Considerations
 
-The Israeli Securities Law and the Regulations of the TASE stipulate certain requirements for [algorithmic trading](../a/accountability.md), including:
+The Israeli Securities Law and the Regulations of the TASE stipulate certain requirements for [algorithmic trading](../a/algorithmic_trading.md), including:
 
 - **[Risk](../r/risk.md) Controls:** Mechanisms to minimize potential [market](../m/market.md) disruptions caused by erroneous trades.
-- **Pre-[Trade](../t/trade.md) and Post-[Trade](../t/trade.md) [Transparency](../t/transparency.md):** Ensuring that [algorithmic trading](../a/accountability.md) does not undermine the fairness and [transparency](../t/transparency.md) of the [market](../m/market.md).
+- **Pre-[Trade](../t/trade.md) and Post-[Trade](../t/trade.md) [Transparency](../t/transparency.md):** Ensuring that [algorithmic trading](../a/algorithmic_trading.md) does not undermine the fairness and [transparency](../t/transparency.md) of the [market](../m/market.md).
 - **Monitoring and Reporting:** Continuous monitoring of algorithmic trades with regular reporting to the regulatory authorities.
 
 ## Statistical Data
@@ -111,4 +111,4 @@ TASE publishes various statistical bulletins, providing insights into trading vo
 
 ## Conclusion
 
-The Tel Aviv Stock [Exchange](../e/exchange.md) plays a pivotal role in Israel's financial ecosystem, providing a platform for [capital](../c/capital.md) raising, investment, and [liquidity](../l/liquidity.md). With its advanced trading [infrastructure](../i/infrastructure.md), [robust](../r/robust.md) regulatory environment, and diverse [range](../r/range.md) of [listed](../l/listed.md) securities, TASE is well-positioned to continue its growth and influence in the global [financial markets](../f/financial_market.md). For more information, visit the official TASE website [here](https://www.tase.co.il)
+The Tel Aviv Stock [Exchange](../e/exchange.md) plays a pivotal role in Israel's financial ecosystem, providing a platform for [capital](../c/capital.md) raising, investment, and [liquidity](../l/liquidity.md). With its advanced trading [infrastructure](../i/infrastructure.md), [robust](../r/robust.md) regulatory environment, and diverse [range](../r/range.md) of [listed](../l/listed.md) securities, TASE is well-positioned to continue its growth and influence in the global [financial markets](../f/financial_market.md).

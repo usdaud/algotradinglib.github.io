@@ -1,15 +1,15 @@
 # Duopoly
 
-A duopoly is a specific type of [oligopoly](../o/oligopoly.md) where two firms [hold](../h/hold.md) dominant or exclusive control over a [market](../m/market.md). It is a fundamental concept in economic theory, [market](../m/market.md) structures, and strategic corporate behavior. This structure presents unique competitive dynamics and strategic challenges that are critical for firms, policymakers, and economists to understand. 
+A duopoly is a specific type of [oligopoly](../o/oligopoly.md) where two firms [hold](../h/hold.md) dominant or exclusive control over a [market](../m/market.md). It is a fundamental concept in economic theory, [market](../m/market.md) structures, and strategic corporate behavior. This structure presents unique competitive dynamics and strategic challenges that are critical for firms, policymakers, and economists to understand.
 
 ## Understanding Duopoly
 
 In a duopoly, the two firms control the majority or entirety of the [market share](../m/market_share.md) for a particular product or service. As a result, each [firm](../f/firm.md)'s decisions directly affect the other, creating a highly interdependent relationship. This interdependence leads to strategic behaviors that can significantly influence [market](../m/market.md) outcomes, prices, product quality, and innovation.
 
 Duopolies can occur in various industries, including technology, telecommunications, and airlines. They are particularly prevalent in markets where high [barriers to entry](../b/barriers_to_entry.md) exist, or where significant [economies of scale](../e/economies_of_scale.md) provide a competitive edge to established players.
-  
+
 ## Types of Duopoly Models
-  
+
 ### Cournot Duopoly
 The Cournot duopoly model, named after the French [economist](../e/economist.md) Augustin Cournot, is one of the oldest and most commonly studied models. In this model, each [firm](../f/firm.md) decides on the quantity of output to produce independently and simultaneously, assuming the competitor's output remains constant. The firms then choose their production levels to maximize profits, taking into account the effect on [market price](../m/market_price.md) and overall [demand](../d/demand.md).
 
@@ -43,15 +43,11 @@ The Stackelberg duopoly model, named after the German [economist](../e/economist
 
 The commercial aircraft [market](../m/market.md) is one of the most prominent examples of a duopoly. Boeing and Airbus are the two dominant players, controlling the vast majority of the global [market](../m/market.md) for large commercial jets. Their competition is characterized by strategic decisions on pricing, production capacity, technological innovation, and negotiations with airlines and governments.
 
-- **Boeing**: [Boeing Official Site](https://www.boeing.com)
-- **Airbus**: [Airbus Official Site](https://www.airbus.com)
 
 ### Coca-Cola and PepsiCo
 
 In the non-alcoholic beverage [market](../m/market.md), Coca-Cola and PepsiCo dominate the global [market](../m/market.md) for carbonated soft drinks. Their competition involves intensive [marketing](../m/marketing.md) strategies, brand positioning, product [diversification](../d/diversification.md), and pricing tactics.
 
-- **Coca-Cola**: [Coca-Cola Official Site](https://www.coca-colacompany.com)
-- **PepsiCo**: [PepsiCo Official Site](https://www.pepsico.com)
 
 ## Strategic Behavior in Duopolies
 
@@ -81,7 +77,6 @@ Given the potential for anti-competitive behavior in duopolistic markets, regula
 #### Microsoft and Justice Department
 A notable case of [antitrust](../a/antitrust.md) action involving a duopoly occurred in the [technology sector](../t/technology_sector.md) with Microsoft. The United States Department of Justice sued Microsoft in the late 1990s, alleging that the company engaged in anti-competitive practices to maintain its dominance in the operating system [market](../m/market.md) against competitors like Netscape.
 
-- **Microsoft**: [Microsoft Official Site](https://www.microsoft.com)
 
 ## Game Theory and Strategic Interaction
 

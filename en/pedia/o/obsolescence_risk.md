@@ -52,7 +52,7 @@ For investors, obsolescence [risk](../r/risk.md) influences [asset valuation](..
 
 ### Continuous Innovation
 
-Businesses must prioritize continuous innovation to stay relevant. This involves [investing](../i/investing.md) in research and development, adopting new technologies, and continuously improving products and services. Companies like Google (https://about.google/) and Apple (https://www.apple.com/) exemplify continuous innovation as a core strategy.
+Businesses must prioritize continuous innovation to stay relevant. This involves [investing](../i/investing.md) in research and development, adopting new technologies, and continuously improving products and services. Companies like Google ( and Apple ( exemplify continuous innovation as a core strategy.
 
 ### Flexible Business Models
 

@@ -9,7 +9,7 @@ Economic cycles, also referred to as [business](../b/business.md) cycles, are ch
 ### Stages of Economic Cycles
 
 1. **[Expansion](../e/expansion.md)**: This phase features increased economic activity. Indicators such as GDP, employment rates, and consumer spending rise. [Credit](../c/credit.md) availability expands, leading to more investments and consumption. It's a period of growing confidence among businesses and consumers.
-  
+
 2. **Peak**: This marks the high point of the [economy](../e/economy.md), where growth hits its maximum potential. Indicators such as [inflation](../i/inflation.md) may start to increase, and the [growth rates](../g/growth_rates_in_trading.md) of GDP and employment begin to decelerate. It's often a precursor to an economic slowdown.
 
 3. **Contraction**: Also known as a [recession](../r/recession.md), contraction is when economic activity begins to decline. Indicators such as GDP, employment, and spending go down. Businesses cut back on investments, and layoffs may occur as companies try to maintain profitability.
@@ -77,7 +77,7 @@ Governments and central banks play a crucial role in managing economic cycles th
 It's important to distinguish between cyclical and long-term growth:
 
 - **Cyclical Growth**: Short-term fluctuations often driven by external factors or temporary changes in [demand](../d/demand.md) and [supply](../s/supply.md).
-  
+
 - **Long-Term Growth**: Sustained over longer periods and driven by structural factors such as technological innovations, labor force growth, and [capital](../c/capital.md) accumulation.
 
 Policymakers aim to smooth out the [volatility](../v/volatility.md) of economic cycles while promoting policies that encourage sustained long-term growth. A balanced approach can mitigate the adverse effects of booms and busts while fostering a stable and healthy economic environment.

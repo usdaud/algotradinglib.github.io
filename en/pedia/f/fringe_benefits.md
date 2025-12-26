@@ -56,19 +56,19 @@ While fringe benefits are an investment in [human capital](../h/human_capital.md
 ## Examples of Companies with Notable Fringe Benefits
 
 ### Google
-[Google](https://careers.google.com/benefits/) is known for [offering](../o/offering.md) one of the most comprehensive benefits packages in the tech [industry](../i/industry.md). Perks include on-site wellness and fitness centers, free gourmet meals, generous parental leave, and even death benefits for employees’ families.
+Google is known for [offering](../o/offering.md) one of the most comprehensive benefits packages in the tech [industry](../i/industry.md). Perks include on-site wellness and fitness centers, free gourmet meals, generous parental leave, and even death benefits for employees’ families.
 
 ### Microsoft
-[Microsoft](https://careers.microsoft.com/us/en/usbenefits) offers extensive health and wellness benefits, professional development programs, and financial benefits like stock [options](../o/options.md) and performance bonuses. The company also emphasizes work-life balance with flexible work arrangements.
+Microsoft offers extensive health and wellness benefits, professional development programs, and financial benefits like stock [options](../o/options.md) and performance bonuses. The company also emphasizes work-life balance with flexible work arrangements.
 
 ### Starbucks
-[Starbucks](https://www.starbucksbenefits.com/) offers a [range](../r/range.md) of benefits that include health coverage, a stock program, and the Starbucks College Achievement Plan, allowing employees to earn a degree with tuition coverage through Arizona State University's online program.
+Starbucks offers a [range](../r/range.md) of benefits that include health coverage, a stock program, and the Starbucks College Achievement Plan, allowing employees to earn a degree with tuition coverage through Arizona State University's online program.
 
 ### Netflix
-[Netflix](https://jobs.netflix.com/culture) provides unlimited vacation days, comprehensive health plans, and generous parental leave policies. The company also pays top dollar to attract the best employees and offers a culture of freedom and responsibility.
+Netflix provides unlimited vacation days, comprehensive health plans, and generous parental leave policies. The company also pays top dollar to attract the best employees and offers a culture of freedom and responsibility.
 
 ### Salesforce
-[Salesforce](https://www.salesforce.com/company/careers/employee-benefits/) offers [robust](../r/robust.md) health benefits, paid volunteer time, generous parental leave, and wellness [reimbursement](../r/reimbursement.md). The company also focuses on career development and continuous learning opportunities.
+Salesforce offers [robust](../r/robust.md) health benefits, paid volunteer time, generous parental leave, and wellness [reimbursement](../r/reimbursement.md). The company also focuses on career development and continuous learning opportunities.
 
 ## Global Perspective
 

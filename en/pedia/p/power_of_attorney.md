@@ -1,6 +1,6 @@
 # Power of Attorney
 
-A Power of Attorney (POA) is a legal document that grants a designated person or organization, known as the agent or [attorney-in-fact](../a/attorney-in-fact.md), the authority to act on behalf of another person, who is referred to as the [principal](../p/principal.md). This authority can cover a wide [range](../r/range.md) of financial, legal, and [business](../b/business.md) matters, depending on how the POA is structured. 
+A Power of Attorney (POA) is a legal document that grants a designated person or organization, known as the agent or [attorney-in-fact](../a/attorney-in-fact.md), the authority to act on behalf of another person, who is referred to as the [principal](../p/principal.md). This authority can cover a wide [range](../r/range.md) of financial, legal, and [business](../b/business.md) matters, depending on how the POA is structured.
 
 ## Types of Power of Attorney
 

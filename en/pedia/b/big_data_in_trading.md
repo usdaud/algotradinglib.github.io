@@ -38,27 +38,23 @@ Big Data refers to the vast [volume](../v/volume.md) of data, both structured an
 
 5. **Visualization Tools**: Tools like Tableau and Power BI are used to create interactive visualizations of Big Data, making it easier for traders to understand complex data patterns and trends.
 
-## Companies Leading in Big Data Trading 
+## Companies Leading in Big Data Trading
 
 ### 1. **Two Sigma**
 Two Sigma is a quantitative investment [firm](../f/firm.md) that leverages Big Data and advanced technologies to derive insights and drive [trading strategies](../t/trading_strategies.md). They utilize [machine learning](../m/machine_learning.md), distributed computing, and other technological advancements to analyze vast datasets and develop [trading models](../t/trading_models.md).
-[Two Sigma](https://www.twosigma.com/)
 
 ### 2. **D.E. Shaw & Co.**
 D.E. Shaw & Co. is another prominent player in the field of [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [Big Data analytics](../b/big_data_analytics_in_trading.md) to uncover trading opportunities and manage [risk](../r/risk.md).
-[D.E. Shaw](https://www.deshaw.com/)
+D.E. Shaw
 
 ### 3. **Kensho Technologies**
 Kensho is a [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) company that provides financial firms with powerful data analysis tools. Their services enable traders to analyze Big Data quickly and accurately, facilitating better trading decisions.
-[Kensho](https://www.kensho.com/)
 
 ### 4. **Cloudera**
 Cloudera offers a data platform that includes storage, processing, and analysis of Big Data. Their solutions are widely used by financial firms to manage and analyze large datasets for trading purposes.
-[Cloudera](https://www.cloudera.com/)
 
 ### 5. **Palantir Technologies**
 Palantir Technologies specializes in [data integration](../d/data_integration.md), analytics, and [security](../s/security.md). Their platforms help traders integrate and analyze diverse data sources, providing a holistic view of the [market](../m/market.md).
-[Palantir](https://www.palantir.com/)
 
 ## Applications of Big Data in Trading
 
@@ -94,4 +90,4 @@ Palantir Technologies specializes in [data integration](../d/data_integration.md
 
 ## Conclusion
 
-Big Data has revolutionized the trading landscape, providing unprecedented opportunities for analysis, insight, and strategic decision-making. From [algorithmic trading](../a/algorithmic_trading.md) to [risk management](../r/risk_management.md), [predictive analytics](../p/predictive_analytics.md), and beyond, the applications of Big Data in trading are vast and continually evolving. As technologies advance and data volumes continue to grow, the role of Big Data in trading [will](../w/will.md) only become more critical, shaping the future of [financial markets](../f/financial_market.md) and investment strategies.
+Big Data has revolutionized the trading landscape, providing unprecedented opportunities for analysis, insight, and strategic decision-making. From [algorithmic trading](../a/algorithmic_trading.md) to [risk management](../r/risk_management.md), [predictive analytics](../p/predictive_analytics.md), and beyond, the applications of Big Data in trading are vast and continually evolving. As technologies advance and data volumes continue to grow, the role of Big Data in trading [will](../w/will.md) only become more critical, shaping the future of [financial markets](../f/financial_market.md) and investment strategies.

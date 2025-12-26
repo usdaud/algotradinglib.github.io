@@ -71,6 +71,6 @@ The [bankruptcy](../b/bankruptcy.md) of [Lehman Brothers](../l/lehman_brothers.m
 Going-concern [value](../v/value.md) is a pivotal concept in [business](../b/business.md) [valuation](../v/valuation.md) and [financial planning](../f/financial_planning.md), influencing a wide array of decisions from investment and [credit](../c/credit.md) assessment to corporate strategy and regulatory compliance. Understanding its implications helps stakeholders maintain a realistic view of a company's potential and ensures informed decision-making processes.
 
 ## References
-- Investopedia, "[Going Concern](../g/going_concern.md)," [Investopedia - Going Concern](https://www.investopedia.com/terms/g/goingconcern.asp)
-- Damodaran, Aswath. "[Valuation Approaches](../v/valuation_approaches.md) and Metrics: A Survey of the Theory and Evidence." [Nyu - Damodaran Online](http://pages.stern.nyu.edu/~adamodar/)
-- KPMG, "[Going Concern](../g/going_concern.md) [Value](../v/value.md) vs [Liquidation Value](../l/liquidation_value.md)," [KPMG-en-US-Insights](https://home.kpmg/us/en/home/insights/2020/08/going-concern-and-liquidation-value.html)
+- Investopedia, "[Going Concern](../g/going_concern.md)," Investopedia - Going Concern
+- Damodaran, Aswath. "[Valuation Approaches](../v/valuation_approaches.md) and Metrics: A Survey of the Theory and Evidence." Nyu - Damodaran Online
+- KPMG, "[Going Concern](../g/going_concern.md) [Value](../v/value.md) vs [Liquidation Value](../l/liquidation_value.md)," KPMG-en-US-Insights

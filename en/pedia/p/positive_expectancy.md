@@ -1,6 +1,6 @@
 # Positive Expectancy
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or automated trading, is a method of executing a large [order](../o/order.md) (too large to fill all at once) using automated pre-programmed trading instructions [accounting](../a/accounting.md) variables such as time, price, and [volume](../v/volume.md). One of the primary objectives in algo-trading is to develop [trading strategies](../t/trading_strategies.md) that have a high probability of success over time. A crucial concept in evaluating such strategies is positive expectancy. 
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or automated trading, is a method of executing a large [order](../o/order.md) (too large to fill all at once) using automated pre-programmed trading instructions [accounting](../a/accounting.md) variables such as time, price, and [volume](../v/volume.md). One of the primary objectives in algo-trading is to develop [trading strategies](../t/trading_strategies.md) that have a high probability of success over time. A crucial concept in evaluating such strategies is positive expectancy.
 
 Positive expectancy is a mathematical formula used by traders to determine whether their strategies [will](../w/will.md) be profitable in the long term. Let's delve into the different facets of this concept, its application, and implications in [algorithmic trading](../a/algorithmic_trading.md).
 
@@ -48,7 +48,7 @@ Expectancy = (0.6 * $20) - (0.4 * $20)
 
 In this case, the positive expectancy is $4 per [trade](../t/trade.md), suggesting that on average, the algorithm makes $4 each time a [trade](../t/trade.md) is executed.
 
-## The Importance of Positive Expectancy 
+## The Importance of Positive Expectancy
 
 ### Long-term Profitability
 
@@ -68,19 +68,19 @@ By regularly calculating the expectancy of their trades, algorithmic traders can
 
 One of the most illustrious examples of positive expectancy in algo-trading is Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) founded by mathematician James Simons. The [firm](../f/firm.md) is renowned for its Medallion [Fund](../f/fund.md), which has delivered astronomical returns since its inception, attributed to highly sophisticated [quantitative models](../q/quantitative_models.md) based on positive expectancy.
 
-For more information about Renaissance Technologies: [Renaissance Technologies](https://www.rentec.com)
+For more information about Renaissance Technologies: Renaissance Technologies
 
 ### Two Sigma Investments
 
 Another significant entity in this domain is Two Sigma Investments, known for its extensive use of technology and [data science in trading](../d/data_science_in_trading.md). By employing models that focus on positive expectancy, Two Sigma has achieved substantial returns and manages billions of dollars in assets.
 
-For more information about Two Sigma Investments: [Two Sigma](https://www.twosigma.com)
+For more information about Two Sigma Investments: Two Sigma
 
 ### Bridgewater Associates
 
 Bridgewater Associates, founded by Ray Dalio, is also a prime example. While not entirely an algo-driven [firm](../f/firm.md), Bridgewater uses algorithmic strategies extensively. By focusing on strategies with positive expectancy, they have managed risks and captured profits effectively.
 
-For more information about Bridgewater Associates: [Bridgewater Associates](https://www.bridgewater.com)
+For more information about Bridgewater Associates: Bridgewater Associates
 
 ## Factors Influencing Positive Expectancy
 
@@ -120,6 +120,6 @@ Human psychology can often interfere with algorithmic strategies. Traders may be
 
 ## Conclusion
 
-Positive expectancy is a fundamental concept in [algorithmic trading](../a/algorithmic_trading.md) that provides a clear mathematical framework for evaluating the long-term profitability of [trading strategies](../t/trading_strategies.md). By focusing on strategies with positive expectancy, traders can achieve consistent profits, manage risks effectively, and adapt to changing [market](../m/market.md) conditions. 
+Positive expectancy is a fundamental concept in [algorithmic trading](../a/algorithmic_trading.md) that provides a clear mathematical framework for evaluating the long-term profitability of [trading strategies](../t/trading_strategies.md). By focusing on strategies with positive expectancy, traders can achieve consistent profits, manage risks effectively, and adapt to changing [market](../m/market.md) conditions.
 
 Understanding and calculating positive expectancy is not just a theoretical [exercise](../e/exercise.md) but a practical necessity for any serious algorithmic [trader](../t/trader.md). With the right tools, continuous refinement, and disciplined [execution](../e/execution.md), positive expectancy can serve as a valuable compass in the complex world of [financial markets](../f/financial_market.md).

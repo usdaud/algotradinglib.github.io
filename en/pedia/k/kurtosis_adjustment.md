@@ -58,11 +58,11 @@ Before deploying any stratified algorithm, it is paramount to conduct rigorous [
 Several tools and libraries can facilitate [kurtosis](../k/kurtosis.md) adjustments in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Python (SciPy and NumPy):** These libraries provide [robust](../r/robust.md) functions for statistical calculations, including [kurtosis](../k/kurtosis.md). For example:
-  
-  ```python
-  [import](../i/import.md) scipy.stats as stats
-  [kurtosis](../k/kurtosis.md) = stats.[kurtosis](../k/kurtosis.md)(data)
-  ```
+
+ ```python
+ [import](../i/import.md) scipy.stats as stats
+ [kurtosis](../k/kurtosis.md) = stats.[kurtosis](../k/kurtosis.md)(data)
+ ```
 
 - **R:** R is another popular language in statistical computing that offers functions to calculate and adjust for [kurtosis](../k/kurtosis.md).
 
@@ -72,7 +72,7 @@ Several tools and libraries can facilitate [kurtosis](../k/kurtosis.md) adjustme
 
 #### Mean Reversion Strategies
 
-[Mean reversion](../m/mean_reversion.md) strategies assume that [asset](../a/asset.md) prices [will](../w/will.md) revert to a historical mean. Given that [leptokurtic distributions](../l/leptokurtic_distributions.md) exhibit frequent extreme values, adjusting for [kurtosis](../k/kurtosis.md) can help avoid [false signals](../f/false_signals_in_trading.md) that may arise from these anomalies. 
+[Mean reversion](../m/mean_reversion.md) strategies assume that [asset](../a/asset.md) prices [will](../w/will.md) revert to a historical mean. Given that [leptokurtic distributions](../l/leptokurtic_distributions.md) exhibit frequent extreme values, adjusting for [kurtosis](../k/kurtosis.md) can help avoid [false signals](../f/false_signals_in_trading.md) that may arise from these anomalies.
 
 Traders might use higher thresholds for determining [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions to avoid premature entry or exit when there are extremely sharp price movements.
 

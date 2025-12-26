@@ -14,20 +14,20 @@ When combined, the ADX, +DI, and -DI provide a comprehensive view of [market](..
 ### Calculating the ADX
 
 1. **Calculate True [Range](../r/range.md) (TR)**: The TR for each period is the greatest of the following:
-    - Current High minus Current Low
-    - Absolute [value](../v/value.md) of Current High minus Previous Close
-    - Absolute [value](../v/value.md) of Current Low minus Previous Close
+ - Current High minus Current Low
+ - Absolute [value](../v/value.md) of Current High minus Previous Close
+ - Absolute [value](../v/value.md) of Current Low minus Previous Close
 
 2. **Calculate the Directional Movement (+DM and -DM)**:
-    - +DM equals Current High minus Previous High, if Current High minus Previous High is greater than Current Low minus Previous Low. Otherwise, +DM is zero.
-    - -DM equals Previous Low minus Current Low, if Previous Low minus Current Low is greater than Current High minus Previous High. Otherwise, -DM is zero.
+ - +DM equals Current High minus Previous High, if Current High minus Previous High is greater than Current Low minus Previous Low. Otherwise, +DM is zero.
+ - -DM equals Previous Low minus Current Low, if Previous Low minus Current Low is greater than Current High minus Previous High. Otherwise, -DM is zero.
 
 3. **Smooth the TR, +DM, and -DM values** typically over a 14-day period.
 
 4. **Calculate the +DI and -DI** by dividing the smoothed +DM and -DM by the smoothed TR.
 
 5. **Calculate the Directional Movement [Index](../i/index_instrument.md) (DX)**:
-    - DX = ABS(+DI - -DI) / (+DI + -DI) * 100
+ - DX = ABS(+DI - -DI) / (+DI + -DI) * 100
 
 6. **Calculate the ADX** by smoothing the DX values, usually with a 14-bar Moving Average.
 
@@ -93,7 +93,7 @@ def calculate_adx(data, period=14):
     [return](../r/return.md) data['ADX']
 
 # Example Data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'High': [1.20, 1.25, 1.30, 1.35, 1.40],
     'Low': [1.10, 1.15, 1.18, 1.20, 1.25],
     'Close': [1.15, 1.20, 1.25, 1.32, 1.35]
@@ -113,10 +113,10 @@ Several financial platforms and tools support the ADX [indicator](../i/indicator
 
 Each of these platforms provides customization features allowing traders to tweak ADX settings to fit their [trading strategies](../t/trading_strategies.md).
 
-**MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
+**MetaTrader**: MetaTrader
 
-**[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
+**[TradeStation](../t/tradestation.md)**: TradeStation
 
-**[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/)
+**[TradingView](../t/tradingview.md)**: TradingView
 
-In conclusion, the Average Directional [Index](../i/index_instrument.md) (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of [trend](../t/trend.md) strength, helping traders make informed decisions on [market](../m/market.md) entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a [trading strategy](../t/trading_strategy.md).
+In conclusion, the Average Directional [Index](../i/index_instrument.md) (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of [trend](../t/trend.md) strength, helping traders make informed decisions on [market](../m/market.md) entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a [trading strategy](../t/trading_strategy.md).

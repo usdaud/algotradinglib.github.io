@@ -58,7 +58,7 @@ Proving the existence and terms of an oral contract generally relies on:
 
 ### Burden of Proof
 
-The party seeking to enforce the oral contract carries the burden of proof. This can often be a formidable challenge, as courts generally prefer written evidence. 
+The party seeking to enforce the oral contract carries the burden of proof. This can often be a formidable challenge, as courts generally prefer written evidence.
 
 ## Advantages and Disadvantages
 

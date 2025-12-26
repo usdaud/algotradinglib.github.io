@@ -24,7 +24,7 @@ Surcharges are typically applied as a percentage of the original price or as a f
 
 - **Consumer Impact**: Surcharges can affect purchasing decisions. Consumers may feel burdened by additional costs and may seek alternatives without extra fees.
 
-- **[Revenue](../r/revenue.md) Generation**: For businesses, surcharges can help [offset](../o/offset.md) costs, manage volatile expenses, and stabilize [revenue](../r/revenue.md) streams. 
+- **[Revenue](../r/revenue.md) Generation**: For businesses, surcharges can help [offset](../o/offset.md) costs, manage volatile expenses, and stabilize [revenue](../r/revenue.md) streams.
 
 - **[Transparency](../t/transparency.md) and Regulation**: [Transparency](../t/transparency.md) in surcharges is crucial for maintaining [customer](../c/customer.md) [trust](../t/trust.md). Regulatory bodies may require clear [disclosure](../d/disclosure.md) of any additional fees to protect consumers.
 
@@ -48,16 +48,14 @@ In recent times, data analysis tools have become essential in understanding and 
 - **[Customer](../c/customer.md) Behavior Analysis**: Analyzing how surcharges affect purchasing behavior and adjusting strategies to improve [customer](../c/customer.md) satisfaction.
 - **Regulatory Reporting**: Ensuring that surcharge data is accurately reported to comply with regulatory requirements.
 
-### Example of a Fintech Application: Stripe 
+### Example of a Fintech Application: Stripe
 
 Stripe, a prominent fintech company, provides an example of how surcharges are managed in the digital [payment](../p/payment.md) landscape:
 
 - **[Transaction Fees](../t/transaction_fees.md)**: Stripe charges a standard [transaction](../t/transaction.md) [fee](../f/fee.md) which includes a small percentage of the [transaction](../t/transaction.md) amount plus a fixed cent amount. This is to cover the processing costs involved with [credit](../c/credit.md) and [debit](../d/debit.md) card transactions.
-  
-  Website: [Stripe](https://stripe.com/)
+
+ online platform: Stripe
 
 In conclusion, surcharges are a multifaceted financial tool used across various industries to manage additional costs and generate [revenue](../r/revenue.md). While beneficial for businesses, the implementation of surcharges requires careful consideration of [transparency](../t/transparency.md), consistency, and regulatory compliance to maintain consumer [trust](../t/trust.md) and avoid potential legal issues.
 
 ---
-
-End of Document

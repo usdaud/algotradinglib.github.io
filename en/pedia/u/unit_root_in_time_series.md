@@ -50,7 +50,6 @@ This removes the stochastic [trend](../t/trend.md), stabilizing the mean of the 
 
 When dealing with [multiple](../m/multiple.md) [time series](../t/time_series.md), cointegration is a method used to discover whether a linear combination of non-stationary series is stationary:
 \[ y_t^1 \sim I(1), y_t^2 \sim I(1) \]
-but
 \[ y_t^1 - \[beta](../b/beta.md) y_t^2 \sim I(0) \]
 
 ### Example: Applying Unit Root Tests in R
@@ -82,7 +81,7 @@ Unit roots in [financial time series](../f/financial_time_series.md) have practi
 
 ### Case Study: AlgoTrader
 
-[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that leverages various statistical and [machine learning](../m/machine_learning.md) techniques to analyze and utilize [financial time series](../f/financial_time_series.md) data. Understanding unit roots and transforming non-stationary data is crucial for improving prediction accuracy and model robustness.
+[AlgoTrader](../a/algotrader.md) ( is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that leverages various statistical and [machine learning](../m/machine_learning.md) techniques to analyze and utilize [financial time series](../f/financial_time_series.md) data. Understanding unit roots and transforming non-stationary data is crucial for improving prediction accuracy and model robustness.
 
 ---
 

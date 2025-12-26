@@ -56,7 +56,7 @@ The principles of the [Kelly criterion](../k/kelly_criterion.md) can be integrat
 
 #### Hedge Funds and Investment Firms
 
-Several [hedge](../h/hedge.md) funds and investment firms are known to use [Kelly criterion](../k/kelly_criterion.md) and similar strategies as part of their [trading algorithms](../t/trading_algorithms.md). Firms like Renaissance Technologies, founded by Jim Simons, notoriously employ quantitative and algorithmic strategies to [yield](../y/yield.md) high returns. More details on their approach can be found on [Renaissance Technologies' official site](https://www.rentec.com/).
+Several [hedge](../h/hedge.md) funds and investment firms are known to use [Kelly criterion](../k/kelly_criterion.md) and similar strategies as part of their [trading algorithms](../t/trading_algorithms.md). Firms like Renaissance Technologies, founded by Jim Simons, notoriously employ quantitative and algorithmic strategies to [yield](../y/yield.md) high returns.
 
 #### Retail Traders and Robo-Advisors
 

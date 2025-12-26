@@ -95,7 +95,7 @@ Unappropriated [retained earnings](../r/retained_earnings.md) are an essential c
 
 For additional information, companies often have dedicated sections on their [financial health](../f/financial_health.md) and [earnings](../e/earnings.md) reports:
 
-- [Check](../c/check.md) out the financial section of Apple Inc. for their detailed [earnings report](../e/earnings_report.md): [Apple Financials](https://www.apple.com/investor/earnings-call/)
-- Review the [retained earnings](../r/retained_earnings.md) report section of Microsoft: [Microsoft Investors](https://www.microsoft.com/en-us/Investor/)
+- [Check](../c/check.md) out the financial section of Apple Inc. for their detailed [earnings report](../e/earnings_report.md): Apple Financials
+- Review the [retained earnings](../r/retained_earnings.md) report section of Microsoft: Microsoft Investors
 
 Unappropriated [retained earnings](../r/retained_earnings.md), therefore, form the cornerstone of a company's [reinvestment](../r/reinvestment.md) potential and financial strategy, underscoring the importance of prudent financial management and strategic foresight in [corporate governance](../c/corporate_governance.md).

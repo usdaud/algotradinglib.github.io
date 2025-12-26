@@ -62,13 +62,13 @@ Algorithmic [rebalancing strategies](../r/rebalancing_strategies.md) are rigorou
 ## Real-World Applications
 
 ### Robo-Advisors
-Robo-advisors, such as Betterment [betterment.com](https://www.betterment.com) and Wealthfront [wealthfront.com](https://www.wealthfront.com), heavily rely on algorithmic [rebalancing](../r/rebalancing.md). They [offer](../o/offer.md) automated [investment management](../i/investment_management.md) services that rebalance portfolios on behalf of their clients, ensuring alignment with their investment goals and [risk](../r/risk.md) profile.
+Robo-advisors, such as Betterment betterment.com and Wealthfront wealthfront.com, heavily rely on algorithmic [rebalancing](../r/rebalancing.md). They [offer](../o/offer.md) automated [investment management](../i/investment_management.md) services that rebalance portfolios on behalf of their clients, ensuring alignment with their investment goals and [risk](../r/risk.md) profile.
 
 ### Institutional Investors
-Large institutional investors, including pension funds, endowments, and [insurance](../i/insurance.md) companies, use algorithmic [rebalancing](../r/rebalancing.md) to manage extensive portfolios. Firms like BlackRock [blackrock.com](https://www.blackrock.com) and Vanguard [vanguard.com](https://www.vanguard.com) deploy sophisticated [rebalancing strategies](../r/rebalancing_strategies.md) to optimize [asset allocation](../a/asset_allocation.md) and performance.
+Large institutional investors, including pension funds, endowments, and [insurance](../i/insurance.md) companies, use algorithmic [rebalancing](../r/rebalancing.md) to manage extensive portfolios. Firms like BlackRock blackrock.com and Vanguard vanguard.com deploy sophisticated [rebalancing strategies](../r/rebalancing_strategies.md) to optimize [asset allocation](../a/asset_allocation.md) and performance.
 
 ### High-Frequency Trading Firms
-High-frequency trading (HFT) firms, such as Citadel Securities [citadelsecurities.com](https://www.citadelsecurities.com) and Two Sigma [twosigma.com](https://www.twosigma.com), implement algorithmic [rebalancing](../r/rebalancing.md) to swiftly respond to [market](../m/market.md) fluctuations. Their strategies enable them to maintain their [risk](../r/risk.md) parameters while exploiting short-term [market](../m/market.md) inefficiencies.
+High-frequency trading (HFT) firms, such as Citadel Securities citadelsecurities.com and Two Sigma twosigma.com, implement algorithmic [rebalancing](../r/rebalancing.md) to swiftly respond to [market](../m/market.md) fluctuations. Their strategies enable them to maintain their [risk](../r/risk.md) parameters while exploiting short-term [market](../m/market.md) inefficiencies.
 
 ## Future Trends in Portfolio Rebalancing
 

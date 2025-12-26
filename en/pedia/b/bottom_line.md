@@ -50,9 +50,9 @@ The bottom line is not limited to [financial performance](../f/financial_perform
 
 Several companies specialize in algo trading and focus on optimizing the bottom line:
 
-- **Two Sigma Investments**: Known for its data-driven approach to investment ([Two Sigma](https://www.twosigma.com/)).
-- **Citadel Securities**: A global [market maker](../m/market_maker.md) with a focus on various [asset](../a/asset.md) classes ([Citadel Securities](https://www.citadelsecurities.com/)).
-- **AQR [Capital](../c/capital.md) Management**: Employs [quantitative analysis](../q/quantitative_analysis.md) to develop its [trading strategies](../t/trading_strategies.md) ([AQR Capital](https://www.aqr.com/)).
+- **Two Sigma Investments**: Known for its data-driven approach to investment (Two Sigma).
+- **Citadel Securities**: A global [market maker](../m/market_maker.md) with a focus on various [asset](../a/asset.md) classes (Citadel Securities).
+- **AQR [Capital](../c/capital.md) Management**: Employs [quantitative analysis](../q/quantitative_analysis.md) to develop its [trading strategies](../t/trading_strategies.md) (AQR Capital).
 
 ## Conclusion
 

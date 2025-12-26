@@ -9,38 +9,38 @@ Theta, often referred to as the "[time decay](../t/time_decay.md)" of an option,
 ### Key Characteristics of Theta
 
 1. **Sign of Theta:**
-   - For **long [options](../o/options.md) (both calls and puts)**, Theta is typically negative. This means that holding a long position in an option loses [value](../v/value.md) over time.
-   - For **short [options](../o/options.md)** ([options](../o/options.md) that have been written or sold), Theta is positive. In this case, the option seller benefits from the passage of time as the [option premium](../o/option_premium.md) decays.
+ - For **long [options](../o/options.md) (both calls and puts)**, Theta is typically negative. This means that holding a long position in an option loses [value](../v/value.md) over time.
+ - For **short [options](../o/options.md)** ([options](../o/options.md) that have been written or sold), Theta is positive. In this case, the option seller benefits from the passage of time as the [option premium](../o/option_premium.md) decays.
 
 2. **Rate of Decay:**
-   - Theta is not constant and tends to **accelerate as the option's [expiration date](../e/expiration_date.md) approaches**. This phenomenon is especially noticeable in the last 30 days before expiration, known as the "[Gamma](../g/gamma.md) [risk](../r/risk.md) period."
-   - **Out-of-the-[money](../m/money.md) (OTM)** [options](../o/options.md) [will](../w/will.md) experience the least Theta decay compared to **at-the-[money](../m/money.md) (ATM)** [options](../o/options.md), which suffer the highest Theta decay.
+ - Theta is not constant and tends to **accelerate as the option's [expiration date](../e/expiration_date.md) approaches**. This phenomenon is especially noticeable in the last 30 days before expiration, known as the "[Gamma](../g/gamma.md) [risk](../r/risk.md) period."
+ - **Out-of-the-[money](../m/money.md) (OTM)** [options](../o/options.md) [will](../w/will.md) experience the least Theta decay compared to **at-the-[money](../m/money.md) (ATM)** [options](../o/options.md), which suffer the highest Theta decay.
 
 3. **Impact of Implied [Volatility](../v/volatility.md):**
-   - Higher levels of implied [volatility](../v/volatility.md) generally reduce the absolute [value](../v/value.md) of Theta for [options](../o/options.md). This is because significant [volatility](../v/volatility.md) increases the likelihood that the option may end up in-the-[money](../m/money.md) (ITM), making [time decay](../t/time_decay.md) less impactful in relative terms.
-   - Conversely, lower [volatility](../v/volatility.md) environments result in a higher absolute [value](../v/value.md) of Theta.
+ - Higher levels of implied [volatility](../v/volatility.md) generally reduce the absolute [value](../v/value.md) of Theta for [options](../o/options.md). This is because significant [volatility](../v/volatility.md) increases the likelihood that the option may end up in-the-[money](../m/money.md) (ITM), making [time decay](../t/time_decay.md) less impactful in relative terms.
+ - Conversely, lower [volatility](../v/volatility.md) environments result in a higher absolute [value](../v/value.md) of Theta.
 
 ### Practical Application of Theta
 
 #### Using Theta for Long and Short Strategies
 
 - **Long Option Strategies:**
-  - Traders who buy [options](../o/options.md) (both calls and puts) must be aware of Theta's impact as a decaying force on their positions. To combat Theta decay, an [options](../o/options.md) buyer typically needs the [underlying security](../u/underlying_security.md) to move sufficiently in their favor relatively quickly.
-  - Strategies such as long calls and puts, and long straddles and strangles, are particularly sensitive to Theta. 
+ - Traders who buy [options](../o/options.md) (both calls and puts) must be aware of Theta's impact as a decaying force on their positions. To combat Theta decay, an [options](../o/options.md) buyer typically needs the [underlying security](../u/underlying_security.md) to move sufficiently in their favor relatively quickly.
+ - Strategies such as long calls and puts, and long straddles and strangles, are particularly sensitive to Theta.
 
 - **Short Option Strategies:**
-  - Option sellers benefit from the natural decay of Theta over time. Strategies like short puts, short calls, and [credit](../c/credit.md) [spreads](../s/spreads.md) [capitalize](../c/capitalize.md) on this principle.
-  - Selling [options](../o/options.md) as part of covered strategies, such as covered calls, or engaging in high-Theta short-term [options](../o/options.md) like weekly [options](../o/options.md), is another common approach.
+ - Option sellers benefit from the natural decay of Theta over time. Strategies like short puts, short calls, and [credit](../c/credit.md) [spreads](../s/spreads.md) [capitalize](../c/capitalize.md) on this principle.
+ - Selling [options](../o/options.md) as part of covered strategies, such as covered calls, or engaging in high-Theta short-term [options](../o/options.md) like weekly [options](../o/options.md), is another common approach.
 
 #### Theta and Option Pricing Models
 
 Theta is derived from complex [mathematical models](../m/mathematical_models_in_trading.md) that attempt to predict the theoretical [value](../v/value.md) of [options](../o/options.md) over time. The most widely used models include the [Black-Scholes model](../b/black-scholes_model.md) and the Binomial [options](../o/options.md) pricing model.
 
 - **[Black-Scholes Model](../b/black-scholes_model.md):**
-  Developed by Fischer Black, Myron Scholes, and Robert Merton, this model is foundational in modern [options](../o/options.md) pricing. It incorporates factors such as the [underlying asset](../u/underlying_asset.md)'s price, [strike price](../s/strike_price.md), time to expiration, [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md), and [market](../m/market.md) [volatility](../v/volatility.md).
-  
+ Developed by Fischer Black, Myron Scholes, and Robert Merton, this model is foundational in modern [options](../o/options.md) pricing. It incorporates factors such as the [underlying asset](../u/underlying_asset.md)'s price, [strike price](../s/strike_price.md), time to expiration, [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md), and [market](../m/market.md) [volatility](../v/volatility.md).
+
 - **Binomial Model:**
-  This model uses a discrete-time framework for option pricing and allows for a more flexible approach to account for varying [market](../m/market.md) conditions. The binomial model is particularly appreciated for its ability to [handle](../h/handle.md) American-style [options](../o/options.md) (which can be exercised at any time before expiration).
+ This model uses a discrete-time framework for option pricing and allows for a more flexible approach to account for varying [market](../m/market.md) conditions. The binomial model is particularly appreciated for its ability to [handle](../h/handle.md) American-style [options](../o/options.md) (which can be exercised at any time before expiration).
 
 ### Advanced Theta Strategies
 
@@ -69,9 +69,9 @@ Continuous academic and [industry](../i/industry.md) research aims to provide de
 
 For further exploration on the topic, leading financial institutions and trading platforms provide valuable resources and tools:
 
-- [CME Group - Options on Futures](https://www.cmegroup.com)
-- [Interactive Brokers - Options Trading](https://www.interactivebrokers.com)
-- [E*TRADE - Options Trading Tools](https://us.etrade.com)
+- CME Group - Options on Futures
+- Interactive Brokers - Options Trading
+- E*TRADE - Options Trading Tools
 
 ### Conclusion
 

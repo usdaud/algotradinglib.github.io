@@ -1,6 +1,6 @@
 # Xenocurrency
 
-In the complex ecosystem of global [finance](../f/finance.md), understanding various types of currencies is fundamental to grasping the nuances of international [trade](../t/trade.md), investment, and economic policy. One such type of [currency](../c/currency.md) which often comes up in discussions related to international [finance](../f/finance.md) is "Xenocurrency." This term, although not commonly used in everyday conversations, is critically important for multinational corporations, central banks, and investors engaged in cross-border transactions. 
+In the complex ecosystem of global [finance](../f/finance.md), understanding various types of currencies is fundamental to grasping the nuances of international [trade](../t/trade.md), investment, and economic policy. One such type of [currency](../c/currency.md) which often comes up in discussions related to international [finance](../f/finance.md) is "Xenocurrency." This term, although not commonly used in everyday conversations, is critically important for multinational corporations, central banks, and investors engaged in cross-border transactions.
 
 ## Definition and Overview
 
@@ -102,7 +102,7 @@ Different countries have varying regulatory frameworks governing [currency tradi
 
 ## Case Study: The USD/CHF Pair During the Swiss Franc Shock
 
-In January 2015, the Swiss [National Bank](../n/national_bank.md) (SNB) unexpectedly removed the Swiss Franc's (CHF) peg to the [Euro](../e/euro.md) (EUR), causing the USD/CHF pair to witness extreme [volatility](../v/volatility.md). The Swiss Franc appreciated dramatically against the USD, and other currencies, impacting traders and businesses holding positions in this xenocurrency pair. 
+In January 2015, the Swiss [National Bank](../n/national_bank.md) (SNB) unexpectedly removed the Swiss Franc's (CHF) peg to the [Euro](../e/euro.md) (EUR), causing the USD/CHF pair to witness extreme [volatility](../v/volatility.md). The Swiss Franc appreciated dramatically against the USD, and other currencies, impacting traders and businesses holding positions in this xenocurrency pair.
 
 This incident underscores the importance of understanding the risks involved in xenocurrency trading and the profound impact central [bank](../b/bank.md) policies can have on [currency](../c/currency.md) values.
 

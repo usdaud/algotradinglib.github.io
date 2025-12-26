@@ -76,6 +76,6 @@ The concept of a White Squire is a fascinating aspect of [corporate finance](../
 
 For further reading and insights into real-time applications of White Squires, consider exploring resources directly from strategic investment firms, financial regulatory bodies, and consulting studies from entities like [Berkshire Hathaway](../b/berkshire_hathaway.md)'s involvement in various deals. This nuanced approach to corporate defense reveals the depth and creativity involved in the financial world's strategic battles.
 
-- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
-- [Securities and Exchange Commission (SEC)](https://www.sec.gov/)
-- [Federal Trade Commission (FTC)](https://www.ftc.gov/)
+- Berkshire Hathaway
+- Securities and Exchange Commission (SEC)
+- Federal Trade Commission (FTC)

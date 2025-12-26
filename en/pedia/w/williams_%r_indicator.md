@@ -59,4 +59,3 @@ In this case, a %R [value](../v/value.md) of -20 indicates that the stock is in 
 ### Conclusion
 The [Williams %R](../w/williams_%r.md) [Indicator](../i/indicator.md) is an invaluable tool for traders looking to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions in various markets. Its ability to pinpoint potential reversals and confirm trends makes it a popular choice among technical analysts. However, traders should be mindful of its limitations and consider using it in conjunction with other analytical tools for more accurate and reliable trading decisions.
 
-For more information about Larry Williams and his work, you can visit his official [website](https://www.ireallytrade.com/).

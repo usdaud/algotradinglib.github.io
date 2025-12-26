@@ -65,9 +65,9 @@ Several trading platforms and [software tools](../s/software_tools_for_trading.m
 - **[NinjaTrader](../n/ninjatrader.md):** Known for its advanced charting capabilities, [NinjaTrader](../n/ninjatrader.md) includes Gann Fan tools for [technical analysis](../t/technical_analysis.md).
 
 Links to these platforms:
-- [TradingView](https://www.tradingview.com)
-- [MetaTrader](https://www.metatrader4.com/en)
-- [NinjaTrader](https://ninjatrader.com/)
+- TradingView
+- MetaTrader
+- NinjaTrader
 
 ## Conclusion
 

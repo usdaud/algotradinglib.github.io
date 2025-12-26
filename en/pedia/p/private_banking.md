@@ -60,22 +60,17 @@ Advanced [data analytics](../d/data_analytics.md) enable private banks to better
 
 [UBS](../u/ubs.md) is a global financial services company renowned for its comprehensive private banking services. Their [wealth management](../w/wealth_management.md) division serves clients worldwide with tailored financial products and advisory services.
 
-Website: [UBS](https://www.ubs.com/)
-
 ### Credit Suisse
 
 [Credit](../c/credit.md) Suisse offers a [range](../r/range.md) of private banking services, focusing on [wealth management](../w/wealth_management.md), [investment banking](../i/investment_banking.md), and [asset management](../a/asset_management.md). The [firm](../f/firm.md) caters specifically to affluent clients, providing bespoke financial solutions.
 
-Website: [Credit Suisse](https://www.credit-suisse.com/)
 
 ### JPMorgan Chase
 
-JPMorgan Chase's Private [Bank](../b/bank.md) serves high-net-worth and ultra-high-net-worth individuals with customized investment, banking, and [credit](../c/credit.md) solutions. 
+JPMorgan Chase's Private [Bank](../b/bank.md) serves high-net-worth and ultra-high-net-worth individuals with customized investment, banking, and [credit](../c/credit.md) solutions.
 
-Website: [JPMorgan Chase](https://www.jpmorganchase.com/)
 
 ## Regulatory Environment
-
 Private banking is subject to stringent regulations aimed at preventing financial crimes and ensuring [market](../m/market.md) stability:
 
 - **Know Your [Customer](../c/customer.md) (KYC):** Regulations requiring banks to verify clients’ identities.

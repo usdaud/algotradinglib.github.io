@@ -71,15 +71,15 @@ The ability of central banks to act as LOLRs is often subject to legal and polit
 
 ### The U.S. Federal Reserve
 
-The U.S. Federal Reserve (Fed) has a well-established role as the LOLR in the United States. Through various mechanisms, including OMOs and the [discount](../d/discount.md) window, the Fed provides [liquidity](../l/liquidity.md) support to financial institutions. The Fed's actions during the 2007-2008 [financial crisis](../f/financial_crisis.md) are among the most notable examples of its LOLR function. For more information, you can visit the [Federal Reserve's official website](https://www.federalreserve.gov).
+The U.S. Federal Reserve (Fed) has a well-established role as the LOLR in the United States. Through various mechanisms, including OMOs and the [discount](../d/discount.md) window, the Fed provides [liquidity](../l/liquidity.md) support to financial institutions. The Fed's actions during the 2007-2008 [financial crisis](../f/financial_crisis.md) are among the most notable examples of its LOLR function.
 
 ### The European Central Bank (ECB)
 
-The European Central [Bank](../b/bank.md) (ECB) serves as the LOLR for the [Eurozone](../e/eurozone.md). The ECB's [liquidity](../l/liquidity.md) support mechanisms, such as the LTROs and ELA, have been instrumental in stabilizing the region's banking system during crises. More information about the ECB's role and functions can be found on the [European Central Bank's official website](https://www.ecb.europa.eu).
+The European Central [Bank](../b/bank.md) (ECB) serves as the LOLR for the [Eurozone](../e/eurozone.md). The ECB's [liquidity](../l/liquidity.md) support mechanisms, such as the LTROs and ELA, have been instrumental in stabilizing the region's banking system during crises.
 
 ### The Bank of England
 
-The [Bank](../b/bank.md) of England (BoE) acts as the LOLR for the United Kingdom. The BoE's Sterling Monetary Framework includes several tools, such as the [Discount](../d/discount.md) Window [Facility](../f/facility.md) and the Indexed Long-Term Repo operations, to provide [liquidity](../l/liquidity.md) support. The BoE's responses during the [financial crisis](../f/financial_crisis.md) and subsequent periods of stress highlight its LOLR function. For more details, visit the [Bank of England's official website](https://www.bankofengland.co.uk).
+The [Bank](../b/bank.md) of England (BoE) acts as the LOLR for the United Kingdom. The BoE's Sterling Monetary Framework includes several tools, such as the [Discount](../d/discount.md) Window [Facility](../f/facility.md) and the Indexed Long-Term Repo operations, to provide [liquidity](../l/liquidity.md) support. The BoE's responses during the [financial crisis](../f/financial_crisis.md) and subsequent periods of stress highlight its LOLR function.
 
 ## Conclusion
 

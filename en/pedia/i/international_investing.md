@@ -6,7 +6,7 @@ International [investing](../i/investing.md) refers to the strategy of selecting
 
 ### 1. **Foreign Direct Investment (FDI)**
 
-FDI involves [investing](../i/investing.md) directly in the [economy](../e/economy.md) of another country by setting up operations or acquiring assets, such as a factory or company. This is typically long-term and entails significant management control and a substantial stake in the foreign company. 
+FDI involves [investing](../i/investing.md) directly in the [economy](../e/economy.md) of another country by setting up operations or acquiring assets, such as a factory or company. This is typically long-term and entails significant management control and a substantial stake in the foreign company.
 
 ### 2. **International Stocks**
 
@@ -98,27 +98,27 @@ To manage [currency](../c/currency.md) [risk](../r/risk.md), some funds and fina
 
 ### 1. **Charles Schwab**
 
-[Charles Schwab](../c/charles_schwab.md) offers extensive international [investing](../i/investing.md) [options](../o/options.md), including global research and support for trading in foreign markets. More information can be found on their website: [Charles Schwab International Investing](https://www.schwab.com/international)
+[Charles Schwab](../c/charles_schwab.md) offers extensive international [investing](../i/investing.md) [options](../o/options.md), including global research and support for trading in foreign markets. Charles Schwab International Investing
 
 ### 2. **Interactive Brokers**
 
-[Interactive Brokers](../i/interactive_brokers.md) provides access to over 135 global markets and supports international trading in [multiple](../m/multiple.md) currencies. Their platform is designed for sophisticated investors and offers numerous tools for research and trading: [Interactive Brokers International Trading](https://www.interactivebrokers.com/en/index.php?f=1338)
+[Interactive Brokers](../i/interactive_brokers.md) provides access to over 135 global markets and supports international trading in [multiple](../m/multiple.md) currencies. Their platform is designed for sophisticated investors and offers numerous tools for research and trading: Interactive Brokers International Trading
 
 ### 3. **Vanguard**
 
-Vanguard offers a variety of international mutual funds and ETFs focusing on different regions and sectors: [Vanguard International Investing](https://investor.vanguard.com/investing/international-investing)
+Vanguard offers a variety of international mutual funds and ETFs focusing on different regions and sectors: Vanguard International Investing
 
 ### 4. **Fidelity**
 
-Fidelity provides a comprehensive suite of tools and resources for international [investing](../i/investing.md), including access to foreign markets and international funds: [Fidelity International Investing](https://www.fidelity.com/mutual-funds/investing-ideas/international-investing)
+Fidelity provides a comprehensive suite of tools and resources for international [investing](../i/investing.md), including access to foreign markets and international funds: Fidelity International Investing
 
 ### 5. **Morgan Stanley**
 
-Morgan Stanley offers extensive global investment opportunities, research, and [wealth management](../w/wealth_management.md) solutions: [Morgan Stanley International Investing](https://www.morganstanley.com/)
+Morgan Stanley offers extensive global investment opportunities, research, and [wealth management](../w/wealth_management.md) solutions: Morgan Stanley International Investing
 
 ### 6. **BlackRock**
 
-BlackRock offers a wide [range](../r/range.md) of international ETFs through its [iShares](../i/ishares.md) brand, providing exposure to various global markets and sectors: [BlackRock iShares International ETFs](https://www.ishares.com/us/products/etf-investments#!type=ishares&style=isharesGlobal)
+BlackRock offers a wide [range](../r/range.md) of international ETFs through its [iShares](../i/ishares.md) brand, providing exposure to various global markets and sectors: BlackRock iShares International ETFs
 
 ## Case Study: Emerging Markets
 
@@ -135,6 +135,6 @@ Emerging markets present unique challenges such as political instability, [curre
 
 ## Conclusion
 
-International [investing](../i/investing.md) can broaden an [investor](../i/investor.md)’s horizons, [offering](../o/offering.md) opportunities beyond domestic markets. While it carries additional risks, including political, [currency](../c/currency.md), and economic uncertainties, the potential rewards often justify the effort. Various strategies and vehicles, like direct investments, mutual funds, ETFs, and ADRs, allow investors to tailor their international investments to their [risk tolerance](../r/risk_tolerance.md) and financial goals. 
+International [investing](../i/investing.md) can broaden an [investor](../i/investor.md)’s horizons, [offering](../o/offering.md) opportunities beyond domestic markets. While it carries additional risks, including political, [currency](../c/currency.md), and economic uncertainties, the potential rewards often justify the effort. Various strategies and vehicles, like direct investments, mutual funds, ETFs, and ADRs, allow investors to tailor their international investments to their [risk tolerance](../r/risk_tolerance.md) and financial goals.
 
 By leveraging the tools and platforms provided by financial institutions like [Charles Schwab](../c/charles_schwab.md), [Interactive Brokers](../i/interactive_brokers.md), Vanguard, Fidelity, Morgan Stanley, and BlackRock, investors can navigate and [capitalize](../c/capitalize.md) on global markets, achieving a more diversified and potentially more resilient investment portfolio.

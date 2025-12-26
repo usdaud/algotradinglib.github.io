@@ -17,11 +17,11 @@ The primary purposes of maintaining a war chest include:
 
 ### Apple Inc.
 
-Apple Inc. is famous for maintaining one of the largest corporate war chests. As of 2022, Apple had approximately $200 billion in cash and [marketable securities](../m/marketable_securities.md). This financial reserve enables Apple to continue [investing](../i/investing.md) in research and development, acquire competitors, and manage economic downturns effectively. You can find more details on Apple's financial strategies on their official [Investor Relations](https://investor.apple.com/investor-relations/default.aspx) page.
+Apple Inc. is famous for maintaining one of the largest corporate war chests. As of 2022, Apple had approximately $200 billion in cash and [marketable securities](../m/marketable_securities.md). This financial reserve enables Apple to continue [investing](../i/investing.md) in research and development, acquire competitors, and manage economic downturns effectively. You can find
 
 ### Berkshire Hathaway
 
-[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is another prime example of a company with a massive war chest. The company maintains significant cash reserves to [capitalize](../c/capitalize.md) on investment opportunities and acquisitions during [market](../m/market.md) downturns. For more information, visit their [annual report page](https://www.berkshirehathaway.com/reports.html).
+[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is another prime example of a company with a massive war chest. The company maintains significant cash reserves to [capitalize](../c/capitalize.md) on investment opportunities and acquisitions during [market](../m/market.md) downturns.
 
 ## Importance in Mergers and Acquisitions
 

@@ -22,7 +22,7 @@ Billing cycles are integral to various financial operations, particularly those 
 
 All transactions, including purchases, payments, and fees (for [credit](../c/credit.md) accounts), or usage (for [utility](../u/utility.md) services), that occur within the billing cycle are recorded and reflected in the billing statement. Positive transactions increase the owed balance, whereas payments and credits decrease it.
 
-### Grace Period 
+### Grace Period
 
 Many billing systems include a grace period - the [duration](../d/duration.md) between the statement date and the due date during which no [interest](../i/interest.md) or late fees are charged. This period encourages timely payments and offers consumers flexibility in managing their finances.
 

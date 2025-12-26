@@ -45,7 +45,7 @@ Systematic strategies incorporate predefined [risk management](../r/risk_managem
 
 ### 1. **Data Acquisition and Processing**
 
-Data is pivotal for systematic trading. This includes historical price data, [real-time market data](../r/real-time_market_data.md), [economic indicators](../e/economic_indicators.md), news sentiment, and more. Providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) comprehensive data feeds.
+Data is pivotal for systematic trading. This includes historical price data, [real-time market data](../r/real-time_market_data.md), [economic indicators](../e/economic_indicators.md), news sentiment, and more. Providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [StockSharp](../s/stocksharp.md) [offer](../o/offer.md) comprehensive data feeds.
 
 ### 2. **Programming Languages**
 
@@ -67,19 +67,19 @@ Various trading platforms support the deployment of systematic [trading strategi
 
 ### 1. **Two Sigma**
 
-[Two Sigma](https://www.twosigma.com) is a prominent quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and advanced technologies to drive its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) massive data sets, [machine learning](../m/machine_learning.md), and distributed computing.
+Two Sigma is a prominent quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and advanced technologies to drive its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) massive data sets, [machine learning](../m/machine_learning.md), and distributed computing.
 
 ### 2. **Renaissance Technologies**
 
-[Renaissance Technologies](https://www.rentec.com) is another leading [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which utilizes [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market](../m/market.md) inefficiencies. Founded by Jim Simons, it is often cited as one of the most successful [hedge](../h/hedge.md) funds.
+Renaissance Technologies is another leading [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which utilizes [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market](../m/market.md) inefficiencies. Founded by Jim Simons, it is often cited as one of the most successful [hedge](../h/hedge.md) funds.
 
 ### 3. **DE Shaw & Co.**
 
-[DE Shaw & Co.](https://www.deshaw.com) is a global investment and technology development [firm](../f/firm.md). They use quantitative and computational strategies to manage [capital](../c/capital.md) across various [asset](../a/asset.md) classes.
+DE Shaw & Co. is a global investment and technology development [firm](../f/firm.md). They use quantitative and computational strategies to manage [capital](../c/capital.md) across various [asset](../a/asset.md) classes.
 
 ### 4. **Citadel**
 
-[Citadel](https://www.citadel.com) is a multinational [hedge fund](../h/hedge_fund.md) and financial services company. They operate with a strong focus on using [quantitative strategies](../q/quantitative_strategies_in_trading.md), high-frequency trading, and [market](../m/market.md)-making activities.
+Citadel is a multinational [hedge fund](../h/hedge_fund.md) and financial services company. They operate with a strong focus on using [quantitative strategies](../q/quantitative_strategies_in_trading.md), high-frequency trading, and [market](../m/market.md)-making activities.
 
 ## Regulatory Landscape
 
@@ -133,4 +133,3 @@ The rise of quantitative [exchange](../e/exchange.md)-traded funds (ETFs) that e
 ## Conclusion
 
 Systematic trading represents a paradigm shift in how [financial markets](../f/financial_market.md) operate, emphasizing the importance of data, [machine learning](../m/machine_learning.md), and algorithmic strategies. As technology advances, the role of systematic trading [will](../w/will.md) only grow, paving the way for more efficient and innovative approaches to [financial markets](../f/financial_market.md).
-

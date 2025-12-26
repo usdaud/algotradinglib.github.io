@@ -5,15 +5,15 @@ Smart [Order Routing](../o/order_routing.md) (SOR) is an advanced [algorithmic t
 ### Key Concepts
 
 1. **[Order Types](../o/order_types_in_trading.md)**: There are several types of orders in trading, including [market](../m/market.md) orders, limit orders, stop orders, and more. SOR algorithms consider the specifics of these orders to optimize routing.
-   
+
 2. **Trading Venues**: These are the marketplaces where financial instruments are bought and sold. They include major exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md), as well as [dark pools](../d/dark_pools.md) and other ATS.
-   
+
 3. **Latency**: This refers to the time delay in the processing of trading orders. Low latency is crucial for SOR as it needs to react in real-time to [market](../m/market.md) conditions.
-   
+
 4. **Regulation**: Different markets are governed by different sets of regulations. For example, in the U.S., Regulation NMS (National [Market](../m/market.md) System) seeks to ensure fair and efficient access to [market](../m/market.md) data and trading.
-   
+
 5. **[Liquidity](../l/liquidity.md)**: Availability of buy and sell orders in the [market](../m/market.md). SOR algorithms aim to maximize the fill rate by tapping into [multiple](../m/multiple.md) sources of [liquidity](../l/liquidity.md).
-   
+
 6. **Cost**: [Transaction costs](../t/transaction_costs.md), including fees and [slippage](../s/slippage.md), are minimized through effective [order routing](../o/order_routing.md).
 
 ### How Smart Order Routing Works
@@ -33,13 +33,13 @@ The operation of SOR can be broken down into several steps:
 ### Types of Routing Strategies
 
 1. **Best Price Routing**: Focuses on obtaining the best available price across [multiple](../m/multiple.md) venues.
-   
+
 2. **Time-[Weighted Average](../w/weighted_average.md) Price (TWAP)**: Executes orders evenly over time to achieve an average price close to the time-[weighted average](../w/weighted_average.md).
-   
+
 3. **[Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP)**: Seeks to match the average price of the [security](../s/security.md) obtained with the average price [weighted](../w/weighted.md) by [volume](../v/volume.md).
-   
+
 4. **[Liquidity](../l/liquidity.md) Seeking**: Routes orders to venues with the highest [liquidity](../l/liquidity.md) to improve the likelihood of [execution](../e/execution.md).
-   
+
 5. **Cost Reduction**: Focuses on minimizing the total [transaction costs](../t/transaction_costs.md), including fees and [slippage](../s/slippage.md).
 
 ### Advantages of Smart Order Routing
@@ -68,15 +68,15 @@ The operation of SOR can be broken down into several steps:
 
 ### Real-World Implementations
 
-1. **Goldman Sachs**: Known for using advanced SOR within their [trading systems](../t/trading_systems.md) to ensure they meet best [execution](../e/execution.md) requirements for their clients. [Goldman Sachs](https://www.goldmansachs.com/)
+1. **Goldman Sachs**: Known for using advanced SOR within their [trading systems](../t/trading_systems.md) to ensure they meet best [execution](../e/execution.md) requirements for their clients. Goldman Sachs
 
-2. **Morgan Stanley**: Another major player with sophisticated SOR systems, allowing for efficient routing across [multiple](../m/multiple.md) venues. [Morgan Stanley](https://www.morganstanley.com/)
+2. **Morgan Stanley**: Another major player with sophisticated SOR systems, allowing for efficient routing across [multiple](../m/multiple.md) venues. Morgan Stanley
 
-3. **Virtu Financial**: Specializes in high-frequency trading and employs cutting-edge SOR to manage their [order](../o/order.md) flows. [Virtu Financial](https://www.virtu.com/)
+3. **Virtu Financial**: Specializes in high-frequency trading and employs cutting-edge SOR to manage their [order](../o/order.md) flows. Virtu Financial
 
-4. **[Bloomberg](../b/bloomberg.md) Tradebook**: Provides a [trading platform](../t/trading_platform.md) with integrated SOR to optimize [order](../o/order.md) [execution](../e/execution.md). [Bloomberg Tradebook](https://www.bloomberg.com/professional/product/tradebook/)
+4. **[Bloomberg](../b/bloomberg.md) Tradebook**: Provides a [trading platform](../t/trading_platform.md) with integrated SOR to optimize [order](../o/order.md) [execution](../e/execution.md). Bloomberg Tradebook
 
-5. **Citadel Securities**: Utilizes advanced SOR algorithms to ensure high-quality [trade](../t/trade.md) [execution](../e/execution.md) for their [market](../m/market.md)-making operations. [Citadel Securities](https://www.citadelsecurities.com/)
+5. **Citadel Securities**: Utilizes advanced SOR algorithms to ensure high-quality [trade](../t/trade.md) [execution](../e/execution.md) for their [market](../m/market.md)-making operations. Citadel Securities
 
 ### Technologies Behind Smart Order Routing
 

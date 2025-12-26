@@ -50,8 +50,8 @@ The VAR model is extensively utilized in [financial markets](../f/financial_mark
 
 Several companies [offer](../o/offer.md) advanced software and platforms for performing VAR analysis. Examples include:
 
-- **EViews**: A comprehensive statistical software package [offering](../o/offering.md) powerful VAR modeling tools. More information can be found at [EViews](https://www.eviews.com/home.html).
-- **Stata**: A [robust](../r/robust.md) data analysis and statistical software that includes various [options](../o/options.md) for estimating and diagnosing VAR models. Visit [Stata](https://www.stata.com) for more details.
+- **EViews**: A comprehensive statistical software package [offering](../o/offering.md) powerful VAR modeling tools. More information can be found at EViews.
+- **Stata**: A [robust](../r/robust.md) data analysis and statistical software that includes various [options](../o/options.md) for estimating and diagnosing VAR models. Visit Stata for more details.
 
 #### Challenges and Considerations
 

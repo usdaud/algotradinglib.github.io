@@ -22,7 +22,7 @@ Equipment encompasses various tools and devices needed for daily operations. Thi
 Fixed [capital](../c/capital.md) assets generally have a lengthy [useful life](../u/useful_life.md). However, they are subject to [depreciation](../d/depreciation.md), whereby the [value](../v/value.md) of an [asset](../a/asset.md) decreases over time due to wear and tear or obsolescence. Companies can use different methods of [depreciation](../d/depreciation.md) to allocate the cost of assets over their useful lives, such as straight-line [depreciation](../d/depreciation.md) or declining balance methods.
 
 ### Basis for Production Capacity
-The scale and [efficiency](../e/efficiency.md) of production are directly tied to the amount and quality of fixed [capital](../c/capital.md). High-quality, well-maintained machinery and equipment can increase [productivity](../p/productivity.md) and reduce costs over time. 
+The scale and [efficiency](../e/efficiency.md) of production are directly tied to the amount and quality of fixed [capital](../c/capital.md). High-quality, well-maintained machinery and equipment can increase [productivity](../p/productivity.md) and reduce costs over time.
 
 ### Investment and Financing
 Significant investments are often required to acquire fixed [capital](../c/capital.md). Companies may use various [financing](../f/financing.md) methods, including [retained earnings](../r/retained_earnings.md), loans, and leasing. The choice of [financing](../f/financing.md) affects the long-term [financial health](../f/financial_health.md) of the company.
@@ -33,7 +33,7 @@ Significant investments are often required to acquire fixed [capital](../c/capit
 In the [manufacturing](../m/manufacturing.md) sector, fixed [capital](../c/capital.md) is crucial for the production process. Investments in advanced machinery and robots can significantly increase output and [efficiency](../e/efficiency.md). For instance, automobile [manufacturing](../m/manufacturing.md) heavily relies on specialized machinery and assembly lines.
 
 ### Real Estate
-In the [real estate](../r/real_estate.md) [industry](../i/industry.md), buildings and land constitute the bulk of fixed [capital](../c/capital.md). These are [long-term investments](../l/long-term_investments.md) that appreciate over time and generate rental [income](../i/income.md). 
+In the [real estate](../r/real_estate.md) [industry](../i/industry.md), buildings and land constitute the bulk of fixed [capital](../c/capital.md). These are [long-term investments](../l/long-term_investments.md) that appreciate over time and generate rental [income](../i/income.md).
 
 ### Information Technology
 In IT, servers, data centers, and specialized computing equipment are considered fixed [capital](../c/capital.md). The rapid pace of technological change means that businesses must continually invest in updated equipment.
@@ -82,12 +82,12 @@ Managing the risks associated with fixed [capital](../c/capital.md)—such as te
 ## Case Studies
 
 ### Tesla, Inc.
-Tesla's Gigafactories serve as a prime example of substantial fixed [capital](../c/capital.md) investments in the automotive and energy sectors. These state-of-the-art [manufacturing](../m/manufacturing.md) facilities are pivotal for Tesla's production of electric vehicles and energy storage solutions. More information can be found on their [official website](https://www.tesla.com/gigafactory).
+Tesla's Gigafactories serve as a prime example of substantial fixed [capital](../c/capital.md) investments in the automotive and energy sectors. These state-of-the-art [manufacturing](../m/manufacturing.md) facilities are pivotal for Tesla's production of electric vehicles and energy storage solutions.
 
 ### Amazon
-Amazon's investment in fulfillment centers showcases fixed [capital](../c/capital.md) in the retail sector. These automated warehouses significantly enhance Amazon's ability to quickly and efficiently process and ship orders. Visit their [official website](https://www.aboutamazon.com) for more details.
+Amazon's investment in fulfillment centers showcases fixed [capital](../c/capital.md) in the retail sector. These automated warehouses significantly enhance Amazon's ability to quickly and efficiently process and ship orders.
 
 ### Apple Inc.
-Apple's investment in cutting-edge [manufacturing](../m/manufacturing.md) facilities and equipment, particularly for the production of its iPhones and MacBooks, highlights the critical role of fixed [capital](../c/capital.md) in the consumer electronics [industry](../i/industry.md). Their [official website](https://www.apple.com) provides further insights.
+Apple's investment in cutting-edge [manufacturing](../m/manufacturing.md) facilities and equipment, particularly for the production of its iPhones and MacBooks, highlights the critical role of fixed [capital](../c/capital.md) in the consumer electronics [industry](../i/industry.md). Their public materials provides further insights.
 
 By thoroughly understanding fixed [capital](../c/capital.md), its components, importance, and its implications across various industries, businesses can make informed decisions that enhance their long-term [productivity](../p/productivity.md) and financial stability.

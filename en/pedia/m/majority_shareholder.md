@@ -24,7 +24,7 @@ Majority shareholders have a say in essential financial decisions, including [di
 
 Warren Buffett is a quintessential example of a majority [shareholder](../s/shareholder.md) who exerts significant influence over his company, [Berkshire Hathaway](../b/berkshire_hathaway.md). As the largest [shareholder](../s/shareholder.md), Buffett has molded the company’s [investment strategy](../i/investment_strategy.md) and [corporate culture](../c/corporate_culture.md), earning a reputation for [value investing](../v/value_investing.md) and measured financial oversight.
 
-For more information, visit [Berkshire Hathaway](http://www.berkshirehathaway.com/).
+For more information, visit Berkshire Hathaway.
 
 ## Legal Implications
 
@@ -60,19 +60,19 @@ The presence of a majority [shareholder](../s/shareholder.md) can influence [mar
 
 [Mark Zuckerberg](../m/mark_zuckerberg.md) is the largest [shareholder](../s/shareholder.md) of Facebook (now Meta Platforms), wielding majority control through a dual-class share structure. This structure allows Zuckerberg to retain control over the company while owning a minority of the total [shares](../s/shares.md), thus enabling him to steer Meta Platforms' long-term vision without significant opposition.
 
-For more information, visit [Meta Platforms](https://about.facebook.com/meta/).
+For more information, visit Meta Platforms.
 
 ### Amazon
 
 Jeff Bezos, the founder of Amazon, held a substantial amount of Amazon [shares](../s/shares.md), giving him significant influence over the company’s operations and strategic direction until he stepped down as CEO in 2021. Bezos' ownership and vision played a crucial role in Amazon’s [expansion](../e/expansion.md) and [market](../m/market.md) dominance.
 
-For more information, visit [Amazon](https://www.amazon.com/).
+For more information, visit Amazon.
 
 ### Tesla
 
 Elon Musk is the largest [shareholder](../s/shareholder.md) of Tesla, heavily influencing its strategic direction, operational decisions, and innovative culture. His majority stake and position as CEO have allowed him to aggressively pursue ambitious goals, such as mass-producing electric vehicles and developing autonomous driving technology.
 
-For more information, visit [Tesla](https://www.tesla.com/).
+For more information, visit Tesla.
 
 ## Voting Rights and Proxy Voting
 

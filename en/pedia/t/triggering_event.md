@@ -1,6 +1,6 @@
 # Triggering Event
 
-A triggering event in the context of [finance](../f/finance.md) and trading refers to a specific occurrence that initiates a particular action or series of actions in trading or financial systems. These events are crucial because they can significantly impact markets, strategies, and outcomes for investors and institutions. Understanding triggering events can aid in better decision-making, [risk management](../r/risk_management.md), and the creation of [automated trading systems](../a/automated_trading_systems.md), commonly known as [algorithmic trading](../a/accountability.md) or algo-trading.
+A triggering event in the context of [finance](../f/finance.md) and trading refers to a specific occurrence that initiates a particular action or series of actions in trading or financial systems. These events are crucial because they can significantly impact markets, strategies, and outcomes for investors and institutions. Understanding triggering events can aid in better decision-making, [risk management](../r/risk_management.md), and the creation of [automated trading systems](../a/automated_trading_systems.md), commonly known as [algorithmic trading](../a/algorithmic_trading.md) or algo-trading.
 
 ## Types of Triggering Events
 
@@ -8,87 +8,87 @@ Triggering events can be broadly categorized into several types based on their n
 
 ### Market-Driven Events
 
-1. **Price Movements**: 
-   - **Breakouts**: When a [security](../s/security.md)'s price moves above a resistance level or below a support level, it often triggers buy or sell orders, respectively.
-   - **[Gaps](../g/gap.md)**: Sudden price changes that occur between [market](../m/market.md) sessions can lead to immediate trading actions.
-   - **[Volatility](../v/volatility.md)**: High [volatility](../v/volatility.md) can trigger [stop-loss orders](../s/stop-loss_orders.md) or [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) designed to [capitalize](../c/capitalize.md) on rapid price changes.
+1. **Price Movements**:
+ - **Breakouts**: When a [security](../s/security.md)'s price moves above a resistance level or below a support level, it often triggers buy or sell orders, respectively.
+ - **[Gaps](../g/gap.md)**: Sudden price changes that occur between [market](../m/market.md) sessions can lead to immediate trading actions.
+ - **[Volatility](../v/volatility.md)**: High [volatility](../v/volatility.md) can trigger [stop-loss orders](../s/stop-loss_orders.md) or [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) designed to [capitalize](../c/capitalize.md) on rapid price changes.
 
 2. **[Volume](../v/volume.md) Changes**:
-   - Significant increases or decreases in trading [volume](../v/volume.md) can signal [momentum](../m/momentum.md) and trigger trading activity.
+ - Significant increases or decreases in trading [volume](../v/volume.md) can signal [momentum](../m/momentum.md) and trigger trading activity.
 
 ### Economic Indicators
 
-1. **Employment Reports**: 
-   - Data such as non-farm payrolls, [unemployment](../u/unemployment.md) rates, and [jobless claims](../j/jobless_claims.md) can significantly move markets and trigger trading actions.
+1. **Employment Reports**:
+ - Data such as non-farm payrolls, [unemployment](../u/unemployment.md) rates, and [jobless claims](../j/jobless_claims.md) can significantly move markets and trigger trading actions.
 
 2. **[Inflation](../i/inflation.md) Data**:
-   - Consumer Price [Index](../i/index_instrument.md) (CPI), Producer Price [Index](../i/index_instrument.md) (PPI), and other measures of [inflation](../i/inflation.md) can trigger trading decisions based on anticipated [monetary policy](../m/monetary_policy.md) adjustments.
+ - Consumer Price [Index](../i/index_instrument.md) (CPI), Producer Price [Index](../i/index_instrument.md) (PPI), and other measures of [inflation](../i/inflation.md) can trigger trading decisions based on anticipated [monetary policy](../m/monetary_policy.md) adjustments.
 
 3. **GDP Reports**:
-   - Gross Domestic Product (GDP) reports reflect the economic health of a country and can trigger broad [market](../m/market.md) movements.
+ - Gross Domestic Product (GDP) reports reflect the economic health of a country and can trigger broad [market](../m/market.md) movements.
 
 ### Corporate Actions
 
 1. **[Earnings Announcements](../e/earnings_announcements.md)**:
-   - Quarterly or annual [earnings](../e/earnings.md) reports can trigger significant price movements in individual [stocks](../s/stock.md), leading to trading actions.
-   
+ - Quarterly or annual [earnings](../e/earnings.md) reports can trigger significant price movements in individual [stocks](../s/stock.md), leading to trading actions.
+
 2. **Dividends**:
-   - [Dividend](../d/dividend.md) announcements, especially unexpected ones, can trigger [revaluation](../r/revaluation.md) of a company's stock and subsequent trading activity.
+ - [Dividend](../d/dividend.md) announcements, especially unexpected ones, can trigger [revaluation](../r/revaluation.md) of a company's stock and subsequent trading activity.
 
 3. **Mergers and Acquisitions**:
-   - Announcements of mergers, acquisitions, or divestitures can lead to significant trading [volume](../v/volume.md) and price movements.
+ - Announcements of mergers, acquisitions, or divestitures can lead to significant trading [volume](../v/volume.md) and price movements.
 
 ### Regulatory Changes
 
 1. **[Monetary Policy](../m/monetary_policy.md)**:
-   - Central [bank](../b/bank.md) decisions on [interest](../i/interest.md) rates, [quantitative easing](../q/quantitative_easing.md), or other monetary tools can have broad impacts on [financial markets](../f/financial_market.md).
+ - Central [bank](../b/bank.md) decisions on [interest](../i/interest.md) rates, [quantitative easing](../q/quantitative_easing.md), or other monetary tools can have broad impacts on [financial markets](../f/financial_market.md).
 
 2. **[Fiscal Policy](../f/fiscal_policy.md)**:
-   - Government policy changes, such as tax reforms or changes in government spending, can be significant triggering events for markets.
+ - Government policy changes, such as tax reforms or changes in government spending, can be significant triggering events for markets.
 
 ### Political Events
 
 1. **Elections and Referendums**:
-   - Outcomes of elections or referendums can lead to significant [market](../m/market.md) [volatility](../v/volatility.md) and trigger trading actions.
+ - Outcomes of elections or referendums can lead to significant [market](../m/market.md) [volatility](../v/volatility.md) and trigger trading actions.
 
 2. **Geopolitical Tensions**:
-   - Events like wars, [trade](../t/trade.md) disputes, or diplomatic standoffs can be triggering events, causing [market](../m/market.md) instability.
+ - Events like wars, [trade](../t/trade.md) disputes, or diplomatic standoffs can be triggering events, causing [market](../m/market.md) instability.
 
 ### Technological Changes
 
 1. **Technological Innovations**:
-   - Announcements or launches of new technologies can trigger [market](../m/market.md) movements, particularly in tech-centric [stocks](../s/stock.md).
-   
+ - Announcements or launches of new technologies can trigger [market](../m/market.md) movements, particularly in tech-centric [stocks](../s/stock.md).
+
 2. **Cybersecurity Incidents**:
-   - Breaches or other cybersecurity issues can trigger defensive trading actions in affected sectors.
+ - Breaches or other cybersecurity issues can trigger defensive trading actions in affected sectors.
 
 ## Mechanisms for Detecting and Responding to Triggering Events
 
 ### Algorithmic Trading Systems
 
-[Algorithmic trading](../a/accountability.md) systems are designed to detect triggering events and execute predefined strategies. These systems rely on:
+[Algorithmic trading](../a/algorithmic_trading.md) systems are designed to detect triggering events and execute predefined strategies. These systems rely on:
 
 1. **[Quantitative Models](../q/quantitative_models.md)**:
-   - Using [mathematical models](../m/mathematical_models_in_trading.md) to predict and respond to [market](../m/market.md) movements triggered by certain events.
+ - Using [mathematical models](../m/mathematical_models_in_trading.md) to predict and respond to [market](../m/market.md) movements triggered by certain events.
 
 2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**:
-   - Leveraging AI and ML to enhance prediction accuracy and response times to triggering events.
+ - Leveraging AI and ML to enhance prediction accuracy and response times to triggering events.
 
 3. **[Real-Time Data Analysis](../r/real-time_data_analysis.md)**:
-   - Analyzing [market](../m/market.md) data in real-time to pinpoint triggering events as they occur.
+ - Analyzing [market](../m/market.md) data in real-time to pinpoint triggering events as they occur.
 
 ### Manual Trading
 
 Manual traders also respond to triggering events, though not at the speed or [efficiency](../e/efficiency.md) of automated systems. They rely on:
 
 1. **[Technical Analysis](../t/technical_analysis.md)**:
-   - Using charts, indicators, and other tools to identify potential triggering events.
+ - Using charts, indicators, and other tools to identify potential triggering events.
 
 2. **[Fundamental Analysis](../f/fundamental_analysis.md)**:
-   - Evaluating [economic indicators](../e/economic_indicators.md) and corporate actions to forecast triggering events.
+ - Evaluating [economic indicators](../e/economic_indicators.md) and corporate actions to forecast triggering events.
 
 3. **News Monitoring**:
-   - Keeping an eye on financial news to catch triggering events early.
+ - Keeping an eye on financial news to catch triggering events early.
 
 ## Managing Risks Associated with Triggering Events
 

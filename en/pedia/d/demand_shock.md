@@ -52,9 +52,9 @@ Sophisticated [risk management](../r/risk_management.md) algorithms can help mit
 
 ### Example Companies Using Algorithmic Trading to Manage Demand Shocks
 
-- **Jane Street**: [Jane Street](https://www.janestreet.com/) is an established name in [quantitative trading](../q/quantitative_trading.md), often leveraging sophisticated models to identify and act on [demand](../d/demand.md) shocks.
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses [data science](../d/data_science_in_trading.md) and technology to build [predictive models](../p/predictive_models_in_trading.md) that can anticipate and react to [demand](../d/demand.md) shocks.
-- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com/) is renowned for its Medallion [Fund](../f/fund.md), which employs complex algorithms that can navigate [demand](../d/demand.md) shocks effectively.
+- **Jane Street**: Jane Street is an established name in [quantitative trading](../q/quantitative_trading.md), often leveraging sophisticated models to identify and act on [demand](../d/demand.md) shocks.
+- **Two Sigma**: Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to build [predictive models](../p/predictive_models_in_trading.md) that can anticipate and react to [demand](../d/demand.md) shocks.
+- **Renaissance Technologies**: Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which employs complex algorithms that can navigate [demand](../d/demand.md) shocks effectively.
 
 ## Strategies to Handle Demand Shocks
 

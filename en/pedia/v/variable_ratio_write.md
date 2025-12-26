@@ -2,7 +2,7 @@
 
 The concept of a "Variable Ratio Write" pertains to a specific [options](../o/options.md) [trading strategy](../t/trading_strategy.md) where an [investor](../i/investor.md) holds a certain number of [shares](../s/shares.md) (also known as a long stock position) and sells call [options](../o/options.md) at different strike prices or quantities against those [shares](../s/shares.md). This strategy aims to generate additional [income](../i/income.md) or [hedge](../h/hedge.md) existing stock positions, although it can also increase [risk](../r/risk.md) due to the unlimited potential losses if the stock price rises significantly above the [strike price](../s/strike_price.md) of the call [options](../o/options.md) sold.
 
-## Introduction 
+## Introduction
 
 The Variable Ratio Write strategy is a sophisticated trading tactic that falls under the larger umbrella of [options trading strategies](../o/options_trading_strategies.md). It involves selling (writing) [multiple](../m/multiple.md) call [options](../o/options.md) at different strike prices against a long [underlying asset](../u/underlying_asset.md). Unlike a traditional [covered call](../c/covered_call.md) strategy where an [investor](../i/investor.md) sells one [call option](../c/call_option.md) for every 100 [shares](../s/shares.md) owned, a Variable Ratio Write may involve selling a different number of call [options](../o/options.md), and those [options](../o/options.md) may be at various strike prices.
 
@@ -26,8 +26,8 @@ Let’s break down an example for clarity:
 
 - **Long Stock Position**: Own 200 [shares](../s/shares.md) of XYZ, currently priced at $45 per share.
 - **Sold Call [Options](../o/options.md)**:
-  - Sell 2 call [options](../o/options.md) at a $50 [strike price](../s/strike_price.md) (near-the-[money](../m/money.md))
-  - Sell 1 [call option](../c/call_option.md) at a $55 [strike price](../s/strike_price.md) (out-of-the-[money](../m/money.md))
+ - Sell 2 call [options](../o/options.md) at a $50 [strike price](../s/strike_price.md) (near-the-[money](../m/money.md))
+ - Sell 1 [call option](../c/call_option.md) at a $55 [strike price](../s/strike_price.md) (out-of-the-[money](../m/money.md))
 
 In this scenario, if XYZ stock rises,:
 - Up to $50: The 2 calls at the $50 strike [will](../w/will.md) be exercised, obligating the [investor](../i/investor.md) to sell 200 [shares](../s/shares.md) at $50, regardless of how high the stock price goes. However, the $55 call [will](../w/will.md) remain unexercised.
@@ -62,14 +62,14 @@ In this scenario, if XYZ stock rises,:
 
 Consider an [investor](../i/investor.md) who owns 500 [shares](../s/shares.md) of ABC Corp, trading at $100 per share:
 1. **Long Stock**: 500 [shares](../s/shares.md).
-2. **Sell Calls**: 
-   - 2 call [options](../o/options.md) at $105 strike
-   - 3 call [options](../o/options.md) at $110 strike
+2. **Sell Calls**:
+ - 2 call [options](../o/options.md) at $105 strike
+ - 3 call [options](../o/options.md) at $110 strike
 
 - **[Scenario Analysis](../s/scenario_analysis.md)**:
-  - **Stock stays below $105**: All [options](../o/options.md) expire worthless, and the [investor](../i/investor.md) keeps premia.
-  - **Stock hits $107**: The $105 [options](../o/options.md) are exercised, requiring the [investor](../i/investor.md) to sell 200 [shares](../s/shares.md) at $105 while retaining 300 [shares](../s/shares.md).
-  - **Stock hits $111**: All [options](../o/options.md) are exercised. Calls at $105 and $110 are utilized, requiring sales but exposing the gap between only $105 and the higher trading price for additional losses.
+ - **Stock stays below $105**: All [options](../o/options.md) expire worthless, and the [investor](../i/investor.md) keeps premia.
+ - **Stock hits $107**: The $105 [options](../o/options.md) are exercised, requiring the [investor](../i/investor.md) to sell 200 [shares](../s/shares.md) at $105 while retaining 300 [shares](../s/shares.md).
+ - **Stock hits $111**: All [options](../o/options.md) are exercised. Calls at $105 and $110 are utilized, requiring sales but exposing the gap between only $105 and the higher trading price for additional losses.
 
 ### Adjustment Strategies
 
@@ -87,6 +87,6 @@ Variable Ratio Writes require dynamic adjustments like:
 
 The Variable Ratio Write strategy is a sophisticated [options](../o/options.md) trading tactic [offering](../o/offering.md) benefits in [premium](../p/premium.md) collection and flexible [risk management](../r/risk_management.md). However, it significantly increases complexity and exposure to [risk](../r/risk.md). Investors must diligently analyze [market](../m/market.md) conditions, [volatility](../v/volatility.md), and potential outcomes while monitoring positions consistently. Practical use can be enhanced by developing [robust](../r/robust.md) adjustment mechanisms suited to individual investment goals and [risk tolerance](../r/risk_tolerance.md).
 
-For more in-depth information, insights, and specific implementation advice, investors can consult with a professional brokerage such as [TD Ameritrade](https://www.tdameritrade.com) or [Interactive Brokers](https://www.interactivebrokers.com).
+For more in-depth information, insights, and specific implementation advice, investors can consult with a professional brokerage such as TD Ameritrade or Interactive Brokers.
 
 This detailed exploration serves as an introduction to understanding and considering the Variable Ratio Write strategy within your trading portfolio to potentially augment [income](../i/income.md) while managing related risks prudently.

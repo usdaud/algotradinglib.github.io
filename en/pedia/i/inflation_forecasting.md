@@ -18,7 +18,7 @@
 
 **Autoregressive Integrated Moving Average (ARIMA)**
 
-- ARIMA models are widely used for [forecasting](../f/forecasting.md) [inflation](../i/inflation.md) as they can [handle](../h/handle.md) data with trends and [seasonality](../s/seasonality.md). They involve differencing the data to achieve stationarity and then applying autoregressive and moving average components to model the data. 
+- ARIMA models are widely used for [forecasting](../f/forecasting.md) [inflation](../i/inflation.md) as they can [handle](../h/handle.md) data with trends and [seasonality](../s/seasonality.md). They involve differencing the data to achieve stationarity and then applying autoregressive and moving average components to model the data.
 
 - **Example**: ARIMA(1,1,1) incorporates one lag of the dependent variable, one differencing operation, and one lag of the forecast error.
 
@@ -36,15 +36,15 @@
 
 - **Mathematical Representation**: π_t = π_{t-1} + β(U_t - U*),
 
-  where π_t is the [inflation](../i/inflation.md) rate at time t, π_{t-1} is the [inflation](../i/inflation.md) rate at the previous period, U_t is the current [unemployment rate](../u/unemployment_rate.md), and U* is the natural rate of [unemployment](../u/unemployment.md).
+ where π_t is the [inflation](../i/inflation.md) rate at time t, π_{t-1} is the [inflation](../i/inflation.md) rate at the previous period, U_t is the current [unemployment rate](../u/unemployment_rate.md), and U* is the natural rate of [unemployment](../u/unemployment.md).
 
 **[Multiple](../m/multiple.md) Regression Models**
 
 - These models use various [economic indicators](../e/economic_indicators.md), such as GDP growth, [money supply](../m/money_supply.md), and [interest](../i/interest.md) rates, to predict future [inflation](../i/inflation.md). [Multiple](../m/multiple.md) regression can capture complex relationships between variables.
 
-- **Example**: π_t = β₀ + β₁ X₁_t + β₂ X₂_t + ... + βn Xn_t + ε_t,
+- **Example**: π_t = β₀ + β₁ X₁_t + β₂ X₂_t +... + βn Xn_t + ε_t,
 
-  where π_t represents the [inflation](../i/inflation.md) rate, and X₁_t, X₂_t, ..., Xn_t are explanatory variables such as GDP growth, [unemployment rate](../u/unemployment_rate.md), [money supply](../m/money_supply.md), etc.
+ where π_t represents the [inflation](../i/inflation.md) rate, and X₁_t, X₂_t,..., Xn_t are explanatory variables such as GDP growth, [unemployment rate](../u/unemployment_rate.md), [money supply](../m/money_supply.md), etc.
 
 #### 3. **Structural Models**
 
@@ -54,11 +54,11 @@
 
 - **Example**: A bivariate VAR with [inflation](../i/inflation.md) (π) and [unemployment](../u/unemployment.md) (U) might look like:
 
-  π_t = α₀ + α₁ π_{t-1} + α₂ U_{t-1} + ε₁_t,
-  
-  U_t = β₀ + β₁ π_{t-1} + β₂ U_{t-1} + ε₂_t,
+ π_t = α₀ + α₁ π_{t-1} + α₂ U_{t-1} + ε₁_t,
 
-  where ε₁_t and ε₂_t are error terms.
+ U_t = β₀ + β₁ π_{t-1} + β₂ U_{t-1} + ε₂_t,
+
+ where ε₁_t and ε₂_t are error terms.
 
 **Dynamic Stochastic General [Equilibrium](../e/equilibrium.md) (DSGE) Models**
 

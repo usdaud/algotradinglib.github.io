@@ -15,13 +15,13 @@ SECA comprises two primary components:
 1. **[Social Security](../s/social_security.md) Tax**
 2. **Medicare Tax**
 
-Both components apply to the net [earnings](../e/earnings.md) from [self-employment](../s/self-employment.md), with different rates applicable to each. 
+Both components apply to the net [earnings](../e/earnings.md) from [self-employment](../s/self-employment.md), with different rates applicable to each.
 
 ## SECA Tax Rates
 
 ### Social Security Tax
 
-For the 2023 tax year, the [Social Security](../s/social_security.md) [tax rate](../t/tax_rate.md) under SECA is 12.4%. However, this tax is only applied to the first $160,200 of net [earnings](../e/earnings.md) (this threshold changes annually based on [inflation](../i/inflation.md) and other factors). 
+For the 2023 tax year, the [Social Security](../s/social_security.md) [tax rate](../t/tax_rate.md) under SECA is 12.4%. However, this tax is only applied to the first $160,200 of net [earnings](../e/earnings.md) (this threshold changes annually based on [inflation](../i/inflation.md) and other factors).
 
 ### Medicare Tax
 
@@ -62,7 +62,7 @@ Self-employed individuals are typically required to pay estimated [taxes](../t/t
 
 At the end of the tax year, the exact SECA tax owed is calculated on Schedule SE, filed along with the individual's annual [tax return](../t/tax_return.md) (Form 1040). This form details total [self-employment](../s/self-employment.md) [income](../i/income.md) and the corresponding SECA [tax liability](../t/tax_liability.md).
 
-### Electronic Filing and Payments 
+### Electronic Filing and Payments
 
 With the advent of technology, the Internal [Revenue](../r/revenue.md) Service (IRS) encourages electronic filing and payments. Tools like the Electronic Federal Tax [Payment](../p/payment.md) System (EFTPS) facilitate straightforward SECA tax payments.
 
@@ -120,4 +120,4 @@ Self-employed individuals can typically deduct [health insurance](../h/health_in
 
 The Self Employed Contributions Act (SECA) plays a pivotal role in ensuring that self-employed individuals contribute fairly to [Social Security](../s/social_security.md) and Medicare. Understanding SECA tax rates, calculation methods, filing requirements, and strategic [tax planning](../t/tax_planning.md) can significantly impact one's financial well-being. By adhering to the regulations and leveraging available deductions and strategies, self-employed individuals can manage their SECA tax [obligations](../o/obligation.md) more effectively and secure their future retirement and healthcare benefits.
 
-For more detailed information, the IRS provides resources and publications on SECA and [self-employment](../s/self-employment.md) [taxes](../t/taxes.md) on their website: [IRS Self-Employment Tax Information](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-self-employed-individuals).
+For more detailed information, the IRS provides resources and publications on SECA and [self-employment](../s/self-employment.md) [taxes](../t/taxes.md) through its online channels: IRS Self-Employment Tax Information.

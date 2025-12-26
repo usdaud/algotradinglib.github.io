@@ -1,6 +1,6 @@
 # Qualified Dividend
 
-A qualified [dividend](../d/dividend.md) is a type of [dividend](../d/dividend.md) that is taxed at the long-term [capital gains tax](../c/capital_gains_tax.md) rates rather than the [ordinary income](../o/ordinary_income.md) tax rates. This preferential tax treatment is one of the incentives provided by the U.S. tax code to encourage investment in corporate [stocks](../s/stock.md). For a [dividend](../d/dividend.md) to be considered "qualified," it must meet specific criteria set forth by the Internal [Revenue](../r/revenue.md) Service (IRS). Understanding these criteria and the implications of qualified dividends is critical for individual investors and financial professionals alike. 
+A qualified [dividend](../d/dividend.md) is a type of [dividend](../d/dividend.md) that is taxed at the long-term [capital gains tax](../c/capital_gains_tax.md) rates rather than the [ordinary income](../o/ordinary_income.md) tax rates. This preferential tax treatment is one of the incentives provided by the U.S. tax code to encourage investment in corporate [stocks](../s/stock.md). For a [dividend](../d/dividend.md) to be considered "qualified," it must meet specific criteria set forth by the Internal [Revenue](../r/revenue.md) Service (IRS). Understanding these criteria and the implications of qualified dividends is critical for individual investors and financial professionals alike.
 
 ## Definition and Tax Implications
 
@@ -97,6 +97,6 @@ In this case study, [Investor](../i/investor.md) A saves $900 in [taxes](../t/ta
 
 ## Conclusion
 
-Qualified dividends, with their preferential tax treatment, [offer](../o/offer.md) significant advantages for investors looking to maximize their after-tax returns. By understanding the criteria that make a [dividend](../d/dividend.md) qualified, the tax implications, and strategies to benefit from such dividends, investors can enhance their [financial planning](../f/financial_planning.md) and investment strategies. 
+Qualified dividends, with their preferential tax treatment, [offer](../o/offer.md) significant advantages for investors looking to maximize their after-tax returns. By understanding the criteria that make a [dividend](../d/dividend.md) qualified, the tax implications, and strategies to benefit from such dividends, investors can enhance their [financial planning](../f/financial_planning.md) and investment strategies.
 
 Investors and financial advisors should keep abreast of any changes to tax laws that may impact the status of qualified dividends and revise their strategies accordingly.

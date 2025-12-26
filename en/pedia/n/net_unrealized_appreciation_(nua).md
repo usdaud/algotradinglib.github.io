@@ -56,9 +56,9 @@ If Jim is in the 24% [federal income](../f/federal_income.md) tax bracket for [o
 ### Financial Planning Tools and Resources
 Financial tools and calculators can help you assess whether an NUA strategy is tax-advantageous. Some resources you can use are:
 
-- [Fidelity Net Unrealized Appreciation Calculator](https://www.fidelity.com/viewpoints/retirement/net-unrealized-appreciation-rule)
-- [Vanguard’s NUA guidance](https://investor.vanguard.com/401k-rollover/options/net-unrealized-appreciation)
-- [Charles Schwab’s NUA Insight](https://www.schwab.com/learn/story/understanding-net-unrealized-appreciation)
+- Fidelity Net Unrealized Appreciation Calculator
+- Vanguard’s NUA guidance
+- Charles Schwab’s NUA Insight
 
 ### Conclusion
 Net Unrealized Appreciation (NUA) represents a potentially significant tax-saving opportunity for those who have company stock within their retirement plans. By understanding how NUA is calculated, the associated tax implications, and strategic planning steps, individuals can make more informed decisions about their retirement distributions. Utilizing professional [guidance](../g/guidance.md) and planning tools can further optimize the benefits of the NUA strategy.

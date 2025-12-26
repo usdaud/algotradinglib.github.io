@@ -17,9 +17,9 @@ The primary goals of quantitative benchmarking are to:
 1. **[Benchmark](../b/benchmark.md) Selection**: The choice of an appropriate [benchmark](../b/benchmark.md) is crucial. Common benchmarks include indices like the S&P 500, [NASDAQ](../n/nasdaq.md), or specific [sector indices](../s/sector_indices.md). Custom benchmarks can also be created based on the investment objectives or [risk profiles](../r/risk_profiles.md).
 
 2. **[Performance Metrics](../p/performance_metrics.md)**: Various [performance metrics](../p/performance_metrics.md) are used to assess algorithmic strategies, including:
-   - **[Return](../r/return.md) Metrics**: [Total return](../t/total_return.md), [compounding](../c/compounding.md) [return](../r/return.md), and cumulative [return](../r/return.md).
-   - **[Risk Metrics](../r/risk_metrics.md)**: [Standard deviation](../s/standard_deviation.md), [beta](../b/beta.md), and [Value](../v/value.md) at [Risk](../r/risk.md) (VaR).
-   - **[Risk](../r/risk.md)-Adjusted Metrics**: [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and [Information ratio](../i/information_ratio.md).
+ - **[Return](../r/return.md) Metrics**: [Total return](../t/total_return.md), [compounding](../c/compounding.md) [return](../r/return.md), and cumulative [return](../r/return.md).
+ - **[Risk Metrics](../r/risk_metrics.md)**: [Standard deviation](../s/standard_deviation.md), [beta](../b/beta.md), and [Value](../v/value.md) at [Risk](../r/risk.md) (VaR).
+ - **[Risk](../r/risk.md)-Adjusted Metrics**: [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and [Information ratio](../i/information_ratio.md).
 
 3. **Time Frames**: The evaluation can be performed over different time frames such as daily, monthly, or yearly, depending on the nature of the [trading strategy](../t/trading_strategy.md) and the [investment horizon](../i/investment_horizon.md).
 
@@ -34,15 +34,15 @@ The primary goals of quantitative benchmarking are to:
 ### Steps in Quantitative Benchmarking Process
 
 1. **Data Collection**: Gather historical data for the trading algorithm and the chosen [benchmark](../b/benchmark.md). This data should include price, [volume](../v/volume.md), and any other relevant metrics.
-   
+
 2. **Data Preprocessing**: Clean and preprocess the data to ensure accuracy. This might involve adjusting for splits, dividends, and removing outliers.
-   
+
 3. **Strategy Implementation**: Run the trading algorithm on historical data to simulate its performance. This is often done using [backtesting](../b/backtesting.md) tools.
-   
+
 4. **Performance Analysis**: Calculate [performance metrics](../p/performance_metrics.md) for both the trading algorithm and the [benchmark](../b/benchmark.md). Metrics such as cumulative returns, [drawdown](../d/drawdown.md), [volatility](../v/volatility.md), and [risk](../r/risk.md) ratios are commonly used.
-   
+
 5. **Comparison**: Compare the calculated metrics of the algorithm against the [benchmark](../b/benchmark.md). This helps in understanding how the algorithm performs under various [market](../m/market.md) conditions.
-   
+
 6. **Reporting**: Generate detailed reports that summarize the findings. These reports should highlight areas where the algorithm outperforms or underperforms relative to the [benchmark](../b/benchmark.md).
 
 ### Tools and Software for Quantitative Benchmarking
@@ -57,18 +57,18 @@ There are various tools and software available to facilitate quantitative benchm
 
 4. **[TradingView](../t/tradingview.md)**: A popular platform for traders that offers [backtesting](../b/backtesting.md) tools and [performance metrics](../p/performance_metrics.md) to [benchmark](../b/benchmark.md) [trading strategies](../t/trading_strategies.md).
 
-5. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides historical data, [backtesting](../b/backtesting.md) capabilities, and various [performance metrics](../p/performance_metrics.md).
+5. **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides historical data, [backtesting](../b/backtesting.md) capabilities, and various [performance metrics](../p/performance_metrics.md).
 
 ### Challenges in Quantitative Benchmarking
 
 While quantitative benchmarking is a powerful tool, it is not without challenges:
 
 1. **Data Quality**: Ensuring the accuracy and completeness of data is crucial. Poor quality data can lead to incorrect conclusions.
-   
+
 2. **[Market](../m/market.md) Changes**: [Financial markets](../f/financial_market.md) are dynamic. A strategy that performs well under certain [market](../m/market.md) conditions might not perform well under different circumstances.
-   
+
 3. **[Survivorship Bias](../s/survivorship_bias.md)**: Historical data might not include companies or securities that have gone bankrupt or have been delisted, leading to biased results.
-   
+
 4. **[Overfitting](../o/overfitting.md)**: There is a [risk](../r/risk.md) of over-optimizing a strategy to fit historical data, which might not perform well in real-time trading.
 
 ### Conclusion
@@ -77,8 +77,4 @@ Quantitative benchmarking is a critical aspect of [algorithmic trading](../a/alg
 
 For further reading and deep dive into quantitative benchmarking, you can visit the following companies and platforms:
 
-- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
-- **[TradingView](../t/tradingview.md)**: [https://www.tradingview.com](https://www.tradingview.com)
-- **MATLAB**: [https://www.mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)
-- **Python for [Finance](../f/finance.md)**: [https://www.python.org](https://www.python.org)
-- **R Project**: [https://www.r-project.org](https://www.r-project.org)
+- **[QuantConnect](../q/quantconnect.md)**- **[TradingView](../t/tradingview.md)**- **MATLAB**- **Python for [Finance](../f/finance.md)**- **R Project**

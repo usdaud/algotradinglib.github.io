@@ -72,24 +72,24 @@ Several tools and software have become critical in the field of quantitative hed
 MATLAB is a high-performance language for technical computing. It integrates computation, visualization, and programming, making it ideal for [quantitative analysis](../q/quantitative_analysis.md).
 
 ### Python and R
-Python and R have become the go-to programming languages for financial analysts due to their flexibility and wide [range](../r/range.md) of libraries tailored for [quantitative analysis](../q/quantitative_analysis.md). 
+Python and R have become the go-to programming languages for financial analysts due to their flexibility and wide [range](../r/range.md) of libraries tailored for [quantitative analysis](../q/quantitative_analysis.md).
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform providing access to historical data and [backtesting](../b/backtesting.md) capabilities.
+[QuantConnect](../q/quantconnect.md) ( is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform providing access to historical data and [backtesting](../b/backtesting.md) capabilities.
 
 ### Quantlib
-[Quantlib](../q/quantlib.md) (http://[quantlib](../q/quantlib.md).org/) is a free and [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md). It provides tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life.
+[Quantlib](../q/quantlib.md) ( is a free and [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md). It provides tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life.
 
 ## Institutions and Firms Utilizing Quantitative Hedging
 
 ### Renaissance Technologies
-Renaissance Technologies (https://www.rentec.com) is one of the most well-known [quantitative hedge funds](../q/quantitative_hedge_funds.md). The [firm](../f/firm.md) employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify [market](../m/market.md) inefficiencies.
+Renaissance Technologies ( is one of the most well-known [quantitative hedge funds](../q/quantitative_hedge_funds.md). The [firm](../f/firm.md) employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify [market](../m/market.md) inefficiencies.
 
 ### Citadel LLC
-Citadel (https://www.citadel.com) integrates [quantitative research](../q/quantitative_research.md) with [discretionary trading](../d/discretionary_trading.md) and invests across [multiple](../m/multiple.md) [asset](../a/asset.md) classes globally employing sophisticated [risk management](../r/risk_management.md) techniques.
+Citadel ( integrates [quantitative research](../q/quantitative_research.md) with [discretionary trading](../d/discretionary_trading.md) and invests across [multiple](../m/multiple.md) [asset](../a/asset.md) classes globally employing sophisticated [risk management](../r/risk_management.md) techniques.
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com) blends expertise in [finance](../f/finance.md), technology, and [data science](../d/data_science_in_trading.md) to manage various [financial markets](../f/financial_market.md), employing quantitative [hedging strategies](../h/hedging_strategies.md).
+Two Sigma ( blends expertise in [finance](../f/finance.md), technology, and [data science](../d/data_science_in_trading.md) to manage various [financial markets](../f/financial_market.md), employing quantitative [hedging strategies](../h/hedging_strategies.md).
 
 ## Challenges and Limitations
 
@@ -100,7 +100,7 @@ One of the primary concerns in [quantitative analysis](../q/quantitative_analysi
 The reliability of quantitative [hedging strategies](../h/hedging_strategies.md) depends heavily on the quality and availability of data. Inaccurate or insufficient data can lead to poor-performing models.
 
 ### Market Changes
-[Quantitative models](../q/quantitative_models.md) are based on historical data and assumptions. Sudden, unprecedented [market](../m/market.md) changes can result in model failure. 
+[Quantitative models](../q/quantitative_models.md) are based on historical data and assumptions. Sudden, unprecedented [market](../m/market.md) changes can result in model failure.
 
 ### Regulatory Risks
 Quantitative [hedging strategies](../h/hedging_strategies.md) must comply with regulatory requirements, which can vary widely across different jurisdictions. Constantly adapting to new regulations can be a significant challenge.

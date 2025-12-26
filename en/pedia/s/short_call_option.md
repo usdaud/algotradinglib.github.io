@@ -4,7 +4,7 @@ In the realm of [options](../o/options.md) trading, a **short [call option](../c
 
 ### Mechanics of a Short Call Option
 
-When an [investor](../i/investor.md) writes a [call option](../c/call_option.md), they are entering into a contractual agreement to sell a particular [asset](../a/asset.md) at the [strike price](../s/strike_price.md) if the option buyer exercises their right. The seller receives a [premium](../p/premium.md) ([income](../i/income.md)) from the buyer at the time the contract is initiated. 
+When an [investor](../i/investor.md) writes a [call option](../c/call_option.md), they are entering into a contractual agreement to sell a particular [asset](../a/asset.md) at the [strike price](../s/strike_price.md) if the option buyer exercises their right. The seller receives a [premium](../p/premium.md) ([income](../i/income.md)) from the buyer at the time the contract is initiated.
 
 Given that the goal of a [short call](../s/short_call.md) is for the stock price to fall or stay below the [strike price](../s/strike_price.md), the seller's [profit](../p/profit.md) is limited to the [premium](../p/premium.md) received. However, the potential loss is theoretically unlimited, as the stock price can rise dramatically above the [strike price](../s/strike_price.md), forcing the seller to [supply](../s/supply.md) the stock at below-[market](../m/market.md) prices.
 
@@ -18,7 +18,7 @@ Given that the goal of a [short call](../s/short_call.md) is for the stock price
 **[Short call](../s/short_call.md) [options](../o/options.md)** are typically used by investors who are [neutral](../n/neutral.md) to bearish on a stock or other [underlying asset](../u/underlying_asset.md). There are several reasons and scenarios in which a [trader](../t/trader.md) might write a [call option](../c/call_option.md):
 
 1. **Generating [Income](../i/income.md):** Sellers of call [options](../o/options.md) can earn the [premium](../p/premium.md) upfront as immediate [income](../i/income.md). If the [underlying](../u/underlying.md) stock remains below the [strike price](../s/strike_price.md), the option expires worthless, allowing the seller to keep the [premium](../p/premium.md) as [profit](../p/profit.md).
-  
+
 2. **Hedging:** Investors holding long stock positions can write calls against their [holdings](../h/holdings.md) (covered calls) to generate additional [income](../i/income.md) and provide a minor [hedge](../h/hedge.md) against a minor decrease in the stock's price.
 
 ### Risk and Reward
@@ -26,7 +26,7 @@ Given that the goal of a [short call](../s/short_call.md) is for the stock price
 The [risk](../r/risk.md)/reward dynamics of [short call](../s/short_call.md) [options](../o/options.md) are crucial for understanding the potential impacts of different [market](../m/market.md) movements:
 
 - **Maximum [Profit](../p/profit.md):** Limited to the [premium](../p/premium.md) received. If the [asset](../a/asset.md)’s price stays at or below the [strike price](../s/strike_price.md) until the option expires, the seller keeps the [premium](../p/premium.md) as pure [profit](../p/profit.md).
-  
+
 - **Maximum Loss:** Theoretically unlimited. If the [underlying asset](../u/underlying_asset.md)'s price rises significantly above the [strike price](../s/strike_price.md), the seller must buy the [asset](../a/asset.md) at the higher [market price](../m/market_price.md) and sell it to the option holder at the lower [strike price](../s/strike_price.md), resulting in potentially substantial losses.
 
 #### Example Scenario:
@@ -37,7 +37,7 @@ Suppose an [investor](../i/investor.md) writes a [call option](../c/call_option.
 Managing a short [call option](../c/call_option.md) involves continuous monitoring due to the potentially [unlimited risk](../u/unlimited_risk.md). Here are several strategies:
 
 1. **Early Exit:** Close the position before expiration if it appears that the [underlying asset](../u/underlying_asset.md)'s price [will](../w/will.md) move significantly above the [strike price](../s/strike_price.md).
-  
+
 2. **Rolling:** Extend the position by buying back the [short call](../s/short_call.md) and selling another [call option](../c/call_option.md) with a later [expiration date](../e/expiration_date.md) and possibly a different [strike price](../s/strike_price.md).
 
 3. **Hedging:** Purchase the [underlying asset](../u/underlying_asset.md) or another option strategy to counterbalance potential losses.
@@ -47,11 +47,11 @@ Managing a short [call option](../c/call_option.md) involves continuous monitori
 Professional traders and institutions often engage in writing call [options](../o/options.md) as part of more complex strategies, such as creating [income](../i/income.md) portfolios or engaging in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
 
 #### Companies Offering Options Trading Platforms:
-- **[Interactive Brokers](../i/interactive_brokers.md)** [link](https://www.interactivebrokers.com/en/index.php?f=options)
-  
-- **TD [Ameritrade](../a/ameritrade.md)** [link](https://www.tdameritrade.com/investment-products/options-trading.html)
-  
-- **[E*TRADE](../e/e_trade.md)** [link](https://us.etrade.com/what-we-offer/investment-choices/options)
+- **[Interactive Brokers](../i/interactive_brokers.md)** link
+
+- **TD [Ameritrade](../a/ameritrade.md)** link
+
+- **[E*TRADE](../e/e_trade.md)** link
 
 ### Conclusion
 

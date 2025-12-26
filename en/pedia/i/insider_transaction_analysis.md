@@ -15,7 +15,7 @@ Insiders are individuals or entities that have access to non-public information 
 Insider transactions can be broadly classified into two categories:
 
 1. **[Open Market](../o/open_market.md) Transactions**: These involve the buying and selling of a company's [shares](../s/shares.md) in the [open market](../o/open_market.md). For instance, when a CEO purchases [shares](../s/shares.md) using personal funds, it indicates confidence in the company's future prospects.
-   
+
 2. **Private Transactions**: These include stock grants, awards, and [options](../o/options.md) exercises that are not conducted on the [open market](../o/open_market.md) but are still significant.
 
 ## Legal and Regulatory Framework
@@ -28,16 +28,12 @@ Regulatory bodies, such as the Securities and [Exchange](../e/exchange.md) [Comm
 Several platforms and regulatory filings provide data on insider transactions:
 
 - **EDGAR Database**: The SEC’s Electronic Data Gathering, Analysis, and Retrieval system where insiders must file forms like [Form 4](../f/form_4.md).
-  [EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch.html)
-  
+
 - **[Yahoo Finance](../y/yahoo_finance.md) Insider Transactions**
-  [Yahoo Finance Insider Transactions](https://finance.yahoo.com/insider-transactions)
 
 - **[Bloomberg](../b/bloomberg.md) Insiders Transactions**
-  [Bloomberg Insider Transactions](https://www.bloomberg.com/markets/insider)
 
 - **GuruFocus Insider Trends**
-  [GuruFocus Insider Trends](https://www.gurufocus.com/insider/summary)
 
 ## Importance of Insider Transaction Analysis in Algorithmic Trading
 ### Predictive Value
@@ -71,13 +67,10 @@ Insider [transaction](../t/transaction.md) analysis can be sector-specific. For 
 
 ## Tools and Platforms for Insider Transaction Analysis
 - **InsiderScore**: A platform that provides comprehensive analysis and scoring of insider transactions.
-  [InsiderScore](https://www.insiderscore.com/)
 
 - **Quiver Quantitative**: Provides tools for retail investors to analyze insider transactions.
-  [Quiver Quantitative](https://www.quiverquant.com/)
 
-- **SecForm4**: A website focused on tracking [Form 4](../f/form_4.md) filings.
-  [SecForm4](https://www.secform4.com/)
+- **SecForm4**../f/form_4.md) filings.
 
 ## Challenges and Considerations
 ### Data Quality

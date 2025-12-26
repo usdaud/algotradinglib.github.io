@@ -63,31 +63,26 @@ Many large, reputable firms specialize in [asset](../a/asset.md) management, ser
 
 BlackRock is the world's largest [asset](../a/asset.md) manager, with over $9 trillion in assets under management (AUM) as of 2021. The company provides a broad [range](../r/range.md) of investment services, including mutual funds, ETFs, and alternative investments.
 
-Website: [BlackRock](https://www.blackrock.com/)
 
 ### Vanguard Group
 
 Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. As one of the largest [asset](../a/asset.md) management firms globally, Vanguard manages over $7 trillion in AUM.
 
-Website: [Vanguard](https://www.vanguard.com/)
 
 ### Fidelity Investments
 
 Fidelity is a diversified financial services company that offers [asset](../a/asset.md) management, brokerage, and other financial services. Fidelity manages over $4 trillion in AUM.
 
-Website: [Fidelity](https://www.fidelity.com/)
 
 ### State Street Global Advisors
 
 State Street Global Advisors is one of the leading providers of [investment management](../i/investment_management.md) services, particularly known for its SPDR family of ETFs. The [firm](../f/firm.md) manages over $3 trillion in AUM.
 
-Website: [State Street Global Advisors](https://www.ssga.com/)
 
 ### PIMCO
 
 PIMCO is a prominent global [fixed income](../f/fixed_income.md) [investment manager](../i/investment_manager.md). Known for its [bond](../b/bond.md) funds, PIMCO manages over $2 trillion in AUM.
 
-Website: [PIMCO](https://www.pimco.com/)
 
 ## Regulations and Compliance
 

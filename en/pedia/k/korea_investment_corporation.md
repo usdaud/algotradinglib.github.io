@@ -68,4 +68,3 @@ KIC’s sustainability report outlines their commitment to ESG principles and th
 ## Conclusion
 Korea Investment [Corporation](../c/corporation.md) plays a crucial role in managing South Korea's sovereign [wealth](../w/wealth.md) through strategic, diversified investments aimed at generating long-term returns. By adopting a [robust](../r/robust.md) governance structure, sophisticated [risk management](../r/risk_management.md) practices, and a dynamic [investment strategy](../i/investment_strategy.md), KIC aligns with global [best practices](../b/best_practices.md) to fulfill its mission. Their focus on global [expansion](../e/expansion.md), partnerships, and responsible [investing](../i/investing.md) underscores their commitment to creating sustainable [value](../v/value.md) for future generations.
 
-For more information, you can visit their official [website](https://www.kic.kr/eng/main.do).

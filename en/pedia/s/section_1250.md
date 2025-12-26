@@ -60,7 +60,6 @@ Many [real estate](../r/real_estate.md) investment firms, [property management](
 
 ### Example of a Real Estate Investment Firm
 
-[Investopedia - Section 1250](https://www.investopedia.com/terms/s/section-1250.asp)
 
 ## Conclusion
 

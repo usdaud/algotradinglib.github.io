@@ -86,15 +86,12 @@ The moneyness of [knock-out options](../k/knock-out_options.md)—whether they a
 
 ### Refinitiv
 Refinitiv offers various tools and platforms for trading [derivatives](../d/derivatives.md), including [knock-out options](../k/knock-out_options.md). They provide [market](../m/market.md) data, analytics, and [trading systems](../t/trading_systems.md) that help traders make informed decisions.
-[Refinitiv](https://www.refinitiv.com)
 
 ### CME Group
 The CME Group is one of the world's largest exchanges for trading [futures](../f/futures.md) and [options](../o/options.md), including [exotic options](../e/exotic_option.md) like [knock-out options](../k/knock-out_options.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of products across various [asset](../a/asset.md) classes.
-[CME Group](https://www.cmegroup.com)
 
 ### Saxo Bank
 [Saxo Bank](../s/saxo_bank.md) provides a comprehensive [trading platform](../t/trading_platform.md) that supports various [derivatives](../d/derivatives.md), including [knock-out options](../k/knock-out_options.md). They [offer](../o/offer.md) advanced tools and analytics for [options](../o/options.md) trading.
-[Saxo Bank](https://www.home.saxo)
 
 ## Conclusion
 

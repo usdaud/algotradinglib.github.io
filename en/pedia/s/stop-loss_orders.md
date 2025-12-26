@@ -94,12 +94,12 @@ def adjust_trailing_stop(current_price, highest_price, trailing_pct):
 
 #### 3. **Integrating with Trading Platforms**
 
-Many platforms [offer](../o/offer.md) APIs to place and manage stop-loss orders. Libraries like `[alpaca](../a/alpaca.md)-[trade](../t/trade.md)-api` for [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) or `ccxt` for various exchanges can be used.
+Many platforms [offer](../o/offer.md) APIs to place and manage stop-loss orders. Libraries like `[alpaca](../a/alpaca.md)-[trade](../t/trade.md)-api` for [Alpaca](../a/alpaca.md) ( or `ccxt` for various exchanges can be used.
 
 ```python
 [import](../i/import.md) alpaca_trade_api as tradeapi
 
-api = tradeapi.REST('<API_KEY>', '<SECRET_KEY>', base_url='https://paper-api.[alpaca](../a/alpaca.md).markets')
+api = tradeapi.REST'<API_KEY>', '<SECRET_KEY>', base_url='
 
 # Place a stop-loss order
 [order](../o/order.md) = api.submit_order(
@@ -129,7 +129,7 @@ High-frequency trading (HFT) firms use automated stop-loss orders as part of the
 
 #### 4. **Robo-Advisors**
 
-Robo-advisors (e.g., Betterment (https://www.betterment.com/), Wealthfront (https://www.wealthfront.com/)) incorporate stop-loss strategies to optimize investment portfolios automatically based on user-defined [risk tolerance](../r/risk_tolerance.md) levels.
+Robo-advisors (e.g., Betterment ( Wealthfront ( incorporate stop-loss strategies to optimize investment portfolios automatically based on user-defined [risk tolerance](../r/risk_tolerance.md) levels.
 
 ---
 

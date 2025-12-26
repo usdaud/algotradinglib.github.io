@@ -67,15 +67,15 @@ Several CTAs have gained prominence for their exceptional performance and innova
 
 A number of firms have established themselves as leaders in the CTA space:
 
-1. **Man AHL**: One of the largest and most established CTAs, known for its diversified [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Man AHL](https://www.ahl.com)
-2. **Aspect [Capital](../c/capital.md)**: Founded by AHL co-founder Anthony Todd, Aspect [Capital](../c/capital.md) employs sophisticated [quantitative models](../q/quantitative_models.md). [Aspect Capital](https://www.aspectcapital.com)
-3. **Campbell & Company**: A pioneer in the [systematic trading](../s/systematic_trading.md) space, with a history dating back to 1972. [Campbell & Company](https://www.campbell.com)
+1. **Man AHL**: One of the largest and most established CTAs, known for its diversified [quantitative strategies](../q/quantitative_strategies_in_trading.md). Man AHL
+2. **Aspect [Capital](../c/capital.md)**: Founded by AHL co-founder Anthony Todd, Aspect [Capital](../c/capital.md) employs sophisticated [quantitative models](../q/quantitative_models.md). Aspect Capital
+3. **Campbell & Company**: A pioneer in the [systematic trading](../s/systematic_trading.md) space, with a history dating back to 1972. Campbell & Company
 
 ### Technologies and Tools
 
 CTAs [leverage](../l/leverage.md) a [range](../r/range.md) of advanced technologies and tools to support their trading activities, including:
 
-1. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: These platforms enable the development, [backtesting](../b/backtesting.md), and [execution](../e/execution.md) of [trading algorithms](../t/trading_algorithms.md). Examples include MetaTrader and [QuantConnect](../q/quantconnect.md).
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: These platforms enable the development, [backtesting](../b/backtesting.md), and [execution](../e/execution.md) of [trading algorithms](../t/trading_algorithms.md). Examples include MetaTrader and [StockSharp](../s/stocksharp.md).
 2. **[Data Analytics](../d/data_analytics.md) Software**: Tools like Python, R, and MATLAB are frequently used to analyze [market](../m/market.md) data and build [quantitative models](../q/quantitative_models.md).
 3. **[Risk Management](../r/risk_management.md) Systems**: Specialized software such as RiskMetrics or proprietary [risk management](../r/risk_management.md) systems to monitor and mitigate [risk](../r/risk.md).
 
@@ -97,4 +97,4 @@ The CTA space is highly competitive, with numerous players vying for [investor](
 
 [Commodity](../c/commodity.md) Trading Advisors play a pivotal role in the [financial markets](../f/financial_market.md), [offering](../o/offering.md) specialized expertise in [futures](../f/futures.md) trading and sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their ability to navigate complex [market](../m/market.md) environments and deliver [risk](../r/risk.md)-adjusted returns makes them valuable partners for a diverse [range](../r/range.md) of investors. However, success in this space demands careful attention to [risk management](../r/risk_management.md), compliance, and ongoing innovation.
 
-For further exploration into the world of CTAs, one might consider attending [industry](../i/industry.md) conferences, engaging with professional associations such as the Managed Funds Association (MFA), and staying current with [industry](../i/industry.md) publications and research.
+For further exploration into the world of CTAs, one might consider attending [industry](../i/industry.md) conferences, engaging with professional associations such as the Managed Funds Association (MFA), and staying current with [industry](../i/industry.md) publications and research.

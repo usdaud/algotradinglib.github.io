@@ -35,7 +35,7 @@ Graham Number = sqrt(22.5 * 5 * 40)
               = 67.08
 ```
 
-If the stock's current [market price](../m/market_price.md) is $60, it would be considered [undervalued](../u/undervalued.md) relative to its Graham Number [value](../v/value.md) of $67.08. 
+If the stock's current [market price](../m/market_price.md) is $60, it would be considered [undervalued](../u/undervalued.md) relative to its Graham Number [value](../v/value.md) of $67.08.
 
 ## Limitations
 

@@ -22,7 +22,7 @@ The [financial performance](../f/financial_performance.md) of Meta Platforms Inc
 
 Despite its success, Meta faces several challenges, including data privacy concerns, regulatory scrutiny, and competition from other [social media](../s/social_media.md) platforms. However, the company is betting heavily on the metaverse as the next big frontier in tech.
 
-**[Meta Platforms Inc.](https://investor.fb.com/)**
+**Meta Platforms Inc.**
 
 ## Amazon
 
@@ -46,7 +46,7 @@ Amazon's [financial performance](../f/financial_performance.md) shows consistent
 
 Amazon faces challenges related to [antitrust](../a/antitrust.md) investigations, labor issues, and competition from other retailers and cloud service providers. Nonetheless, the company is continuously exploring new avenues, such as grocery delivery with Amazon Fresh and advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
-**[Amazon](https://www.amazon.com/)**
+**Amazon**
 
 ## Apple
 
@@ -73,7 +73,7 @@ Apple consistently posts strong financial results, with iPhone sales being a sig
 
 While Apple enjoys [brand loyalty](../b/brand_loyalty.md) and a [robust](../r/robust.md) product ecosystem, it faces challenges such as slowing smartphone sales and increasing regulatory scrutiny. However, the company continuously explores new technologies, such as augmented reality and autonomous vehicles, to sustain its growth.
 
-**[Apple](https://www.apple.com/)**
+**Apple**
 
 ## Netflix
 
@@ -95,7 +95,7 @@ Netflix has experienced rapid subscriber growth and [revenue](../r/revenue.md) i
 
 Despite its success, Netflix faces intense competition from platforms like Disney+, Amazon Prime Video, and HBO Max. Additionally, there are challenges related to content [production costs](../p/production_costs.md) and maintaining subscriber growth.
 
-**[Netflix](https://www.netflixinvestor.com/)**
+**Netflix**
 
 ## Alphabet (Google)
 
@@ -121,7 +121,7 @@ Alphabet consistently delivers strong financial results, with a significant port
 
 Alphabet faces regulatory scrutiny, [antitrust](../a/antitrust.md) issues, and competition in various markets. However, the company has numerous growth opportunities in [cloud computing](../c/cloud_computing_in_trading.md), autonomous driving, and life sciences.
 
-**[Alphabet (Google)](https://abc.xyz/)**
+**Alphabet (Google)**
 
 ## Summary
 

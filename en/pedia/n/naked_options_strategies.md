@@ -46,12 +46,11 @@ Trading in inherently risky instruments like naked [options](../o/options.md) re
 ## Case Study: High-frequency Trading Firms’ Use of Naked Options
 
 ### Citadel Securities
-[Citadel Securities](https://www.citadelsecurities.com) is a prominent [market](../m/market.md)-maker known for employing sophisticated [trading strategies](../t/trading_strategies.md), including [options](../o/options.md). They use advanced algorithms to manage risks associated with naked [options](../o/options.md) while exploiting [market](../m/market.md) inefficiencies.
+Citadel Securities is a prominent [market](../m/market.md)-maker known for employing sophisticated [trading strategies](../t/trading_strategies.md), including [options](../o/options.md). They use advanced algorithms to manage risks associated with naked [options](../o/options.md) while exploiting [market](../m/market.md) inefficiencies.
 
 ### Susquehanna International Group (SIG)
-[Susquehanna International Group](https://www.sig.com) is another major player that actively engages in [options](../o/options.md) trading. They blend [quantitative models](../q/quantitative_models.md) with strategic naked [options](../o/options.md) trades, driven by in-depth statistical analysis and [proprietary trading](../p/proprietary_trading.md) technologies.
+Susquehanna International Group is another major player that actively engages in [options](../o/options.md) trading. They blend [quantitative models](../q/quantitative_models.md) with strategic naked [options](../o/options.md) trades, driven by in-depth statistical analysis and [proprietary trading](../p/proprietary_trading.md) technologies.
 
 ## Conclusion
 
 Naked [options](../o/options.md) strategies can be [lucrative](../l/lucrative.md) but require adept [risk management](../r/risk_management.md) and [robust](../r/robust.md) [market](../m/market.md) understanding. While they [offer](../o/offer.md) potential for significant [premium](../p/premium.md) collection and flexibility, the risks are substantial, necessitating disciplined trading practices. Traders engaging in naked [options](../o/options.md) need to balance potential rewards against the inherent risks, all while maintaining a solid strategy for navigating volatile markets.
-

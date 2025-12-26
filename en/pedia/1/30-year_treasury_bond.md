@@ -24,7 +24,7 @@ The pricing of the [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond
 - **[Inflation](../i/inflation.md) Expectations**: Higher expected [inflation](../i/inflation.md) tends to reduce the [bond](../b/bond.md)'s price as investors [demand](../d/demand.md) higher yields to compensate for the loss of [purchasing power](../p/purchasing_power.md).
 - **[Economic Indicators](../e/economic_indicators.md)**: Data on GDP growth, employment, and other macroeconomic factors can impact [investor](../i/investor.md) sentiment, influencing the [bond](../b/bond.md)'s [yield](../y/yield.md).
 
-Yields on these bonds are inversely related to their prices. When the [bond](../b/bond.md) price goes up, the [yield](../y/yield.md) falls, and when the [bond](../b/bond.md) price goes down, the [yield](../y/yield.md) increases. 
+Yields on these bonds are inversely related to their prices. When the [bond](../b/bond.md) price goes up, the [yield](../y/yield.md) falls, and when the [bond](../b/bond.md) price goes down, the [yield](../y/yield.md) increases.
 
 #### Primary and Secondary Markets
 
@@ -39,8 +39,8 @@ Yields on these bonds are inversely related to their prices. When the [bond](../
 #### Risk and Returns
 
 Although considered one of the safest investments, the [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) carries certain risks:
-- **[Interest Rate Risk](../i/interest_rate_risk.md)**: Due to its long [maturity](../m/maturity.md), its price is highly sensitive to changes in [interest](../i/interest.md) rates. 
-- **[Inflation](../i/inflation.md) [Risk](../r/risk.md)**: With a [fixed interest rate](../f/fixed_interest_rate.md), if [inflation](../i/inflation.md) rises significantly, the real [yield](../y/yield.md) ([yield](../y/yield.md) adjusted for [inflation](../i/inflation.md)) may decrease. 
+- **[Interest Rate Risk](../i/interest_rate_risk.md)**: Due to its long [maturity](../m/maturity.md), its price is highly sensitive to changes in [interest](../i/interest.md) rates.
+- **[Inflation](../i/inflation.md) [Risk](../r/risk.md)**: With a [fixed interest rate](../f/fixed_interest_rate.md), if [inflation](../i/inflation.md) rises significantly, the real [yield](../y/yield.md) ([yield](../y/yield.md) adjusted for [inflation](../i/inflation.md)) may decrease.
 - **[Reinvestment Risk](../r/reinvestment_risk.md)**: If [interest](../i/interest.md) rates fall, the periodic [interest](../i/interest.md) payments may be reinvested at lower rates.
 - **[Market Risk](../m/market_risk.md)**: While minimal, the [bond](../b/bond.md)’s price can fluctuate based on [market](../m/market.md) conditions and [investor](../i/investor.md) sentiment.
 
@@ -62,4 +62,4 @@ The investment landscape for the [30-Year Treasury](../1/30-year_treasury.md) [B
 
 #### Conclusion
 
-The [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) remains a cornerstone in the landscape of fixed-[income](../i/income.md) investments, critical for both government [financing](../f/financing.md) and providing a [benchmark](../b/benchmark.md) for [financial markets](../f/financial_market.md). Its characteristics make it integral to a myriad of [trading strategies](../t/trading_strategies.md), particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md), where its [volatility](../v/volatility.md) and [risk profiles](../r/risk_profiles.md) are meticulously analyzed and utilized for generating returns. Understanding the dynamics of the [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) is essential for any [investor](../i/investor.md) looking to navigate the complexities of the [financial markets](../f/financial_market.md) successfully.
+The [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) remains a cornerstone in the landscape of fixed-[income](../i/income.md) investments, critical for both government [financing](../f/financing.md) and providing a [benchmark](../b/benchmark.md) for [financial markets](../f/financial_market.md). Its characteristics make it integral to a myriad of [trading strategies](../t/trading_strategies.md), particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md), where its [volatility](../v/volatility.md) and [risk profiles](../r/risk_profiles.md) are meticulously analyzed and utilized for generating returns. Understanding the dynamics of the [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) is essential for any [investor](../i/investor.md) looking to navigate the complexities of the [financial markets](../f/financial_market.md) successfully.

@@ -66,10 +66,10 @@ To excel as a Compliance Officer in algotrading, individuals need a blend of [te
 ## Case Studies
 
 ### HSBC
-HSBC, one of the largest banking institutions, has a dedicated compliance team for their trading activities. Their Compliance Officer role includes comprehensive responsibilities to manage and mitigate risks associated with algo trading. More details can be found on [HSBC's careers page](https://www.hsbc.com/careers).
+HSBC, one of the largest banking institutions, has a dedicated compliance team for their trading activities. Their Compliance Officer role includes comprehensive responsibilities to manage and mitigate risks associated with algo trading.
 
 ### Goldman Sachs
-Goldman Sachs employs cutting-edge technology and detailed compliance protocols to ensure adherence to global trading regulations. Their compliance officers are heavily involved in real-time monitoring and [risk](../r/risk.md) assessments specific to [algorithmic trading](../a/accountability.md). For further information, visit [Goldman Sachs' official website](https://www.goldmansachs.com/careers/index.html).
+Goldman Sachs employs cutting-edge technology and detailed compliance protocols to ensure adherence to global trading regulations. Their compliance officers are heavily involved in real-time monitoring and [risk](../r/risk.md) assessments specific to [algorithmic trading](../a/accountability.md).
 
 ## Future Trends
 

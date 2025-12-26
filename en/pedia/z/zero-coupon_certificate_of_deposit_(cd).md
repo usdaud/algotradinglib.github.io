@@ -53,8 +53,8 @@ Investors with long-term savings goals may prefer zero-coupon CDs because of the
 
 Many financial institutions [offer](../o/offer.md) zero-coupon CDs, and they can be found through a variety of banks and [credit](../c/credit.md) unions.
 
-- [Bank of America Zero-Coupon CDs](https://www.bankofamerica.com)
-- [Wells Fargo Certificate of Deposit](https://www.wellsfargo.com)
+- Bank of America Zero-Coupon CDs
+- Wells Fargo Certificate of Deposit
 
 ## Conclusion
 

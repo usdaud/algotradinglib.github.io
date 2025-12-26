@@ -42,8 +42,8 @@ These companies focus on constructing and maintaining the physical [infrastructu
 
 This segment includes companies that develop and provide technology and equipment for water purification, desalination, wastewater treatment, and leak detection.
 
-- **Xylem Inc. (XYL)** – [Xylem Inc.](https://www.xylem.com/)
-- **Pentair plc (PNR)** – [Pentair plc](https://www.pentair.com/)
+- **Xylem Inc. (XYL)** – Xylem Inc.
+- **Pentair plc (PNR)** – Pentair plc
 
 ## Major Water ETFs
 
@@ -53,25 +53,25 @@ Several ETFs [offer](../o/offer.md) investors exposure to the water sector. Thes
 
 This ETF tracks the [NASDAQ](../n/nasdaq.md) OMX US Water [Index](../i/index_instrument.md), which comprises U.S.-[listed](../l/listed.md) companies focused on water conservation and purification, wastewater treatment, and supporting [infrastructure](../i/infrastructure.md).
 
-- [Invesco Water Resources ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=PHO)
+- Invesco Water Resources ETF
 
 ### First Trust Water ETF (FIW)
 
 The First [Trust](../t/trust.md) Water ETF replicates the ISE Clean Edge Water [Index](../i/index_instrument.md), [investing](../i/investing.md) in companies involved in potable and wastewater treatment, storage and [distribution](../d/distribution.md), and other water-related industries.
 
-- [First Trust Water ETF](https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FIW)
+- First Trust Water ETF
 
 ### iShares Global Water UCITS ETF (IH2O)
 
 This ETF tracks the S&P Global Water [Index](../i/index_instrument.md) and provides global exposure, [investing](../i/investing.md) in companies across developed markets that are involved in water-related activities.
 
-- [iShares Global Water UCITS ETF](https://www.ishares.com/uk/individual/en/products/251869/ishares-global-water-ucits-etf)
+- iShares Global Water UCITS ETF
 
 ### Lyxor World Water UCITS ETF (WATU)
 
 The Lyxor World Water ETF aims to track the World Water [Index](../i/index_instrument.md) CW Net [Total Return Index](../t/total_return_index.md). It invests in international companies that are leaders in water utilities, [infrastructure](../i/infrastructure.md), equipment, and technology.
 
-- [Lyxor World Water UCITS ETF](https://www.lyxoretf.co.uk/en/instit/products/equity-etf/lyxor-world-water-ucits-etf-dist-lu1280394386/eur)
+- Lyxor World Water UCITS ETF
 
 ## Criteria for Selecting Water ETFs
 

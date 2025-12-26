@@ -51,7 +51,7 @@ CSV can serve various functions in personal [financial planning](../f/financial_
 
 ### Policy Loan Scenario
 
-Suppose a policyholder has a [life insurance](../l/life_insurance.md) policy with a CSV of $50,000. They can take a policy [loan](../l/loan.md) up to the CSV amount, often at a relatively low-[interest rate](../i/interest_rate.md). This [loan](../l/loan.md) does not require [credit](../c/credit.md) checks since it is secured by the policy itself. If the policyholder borrows $20,000 and does not repay it, the [death benefit](../d/death_benefit.md) [will](../w/will.md) be reduced by the outstanding [loan](../l/loan.md) amount plus any [interest](../i/interest.md) accrued. 
+Suppose a policyholder has a [life insurance](../l/life_insurance.md) policy with a CSV of $50,000. They can take a policy [loan](../l/loan.md) up to the CSV amount, often at a relatively low-[interest rate](../i/interest_rate.md). This [loan](../l/loan.md) does not require [credit](../c/credit.md) checks since it is secured by the policy itself. If the policyholder borrows $20,000 and does not repay it, the [death benefit](../d/death_benefit.md) [will](../w/will.md) be reduced by the outstanding [loan](../l/loan.md) amount plus any [interest](../i/interest.md) accrued.
 
 ### Policy Surrender Scenario
 

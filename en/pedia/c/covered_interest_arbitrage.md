@@ -58,10 +58,7 @@ Finally, the [trader](../t/trader.md) repays the dollar [loan](../l/loan.md) of 
 
 Covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) is typically implemented by institutional investors, [hedge](../h/hedge.md) funds, and highly sophisticated traders because of the complexities involved and the significant [capital](../c/capital.md) requirements. Some prominent institutions involved in such strategies include:
 
-- **Goldman Sachs** (https://www.goldmansachs.com)
-- **JP Morgan Chase & Co.** (https://www.jpmorganchase.com)
-- **Citigroup Inc.** (https://www.citigroup.com)
-
+- **Goldman Sachs** - **JP Morgan Chase & Co.** - **Citigroup Inc.**
 These institutions [leverage](../l/leverage.md) sophisticated trading platforms and vast [capital](../c/capital.md) resources to execute covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) efficiently.
 
 ## Constraints and Risks
@@ -102,4 +99,4 @@ While covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) involv
 
 ## Conclusion
 
-Covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) remains a vital strategy for forex [market](../m/market.md) participants aiming to earn riskless profits from [interest rate](../i/interest_rate.md) differentials. Despite potential constraints such as [transaction costs](../t/transaction_costs.md), [credit](../c/credit.md) risks, and regulatory hurdles, it provides a fundamental approach to understanding the dynamics between [interest](../i/interest.md) rates and [exchange](../e/exchange.md) rates. As global [financial markets](../f/financial_market.md) become increasingly interconnected, the principles of covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) are essential knowledge for traders, institutional investors, and financial analysts.
+Covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) remains a vital strategy for forex [market](../m/market.md) participants aiming to earn riskless profits from [interest rate](../i/interest_rate.md) differentials. Despite potential constraints such as [transaction costs](../t/transaction_costs.md), [credit](../c/credit.md) risks, and regulatory hurdles, it provides a fundamental approach to understanding the dynamics between [interest](../i/interest.md) rates and [exchange](../e/exchange.md) rates. As global [financial markets](../f/financial_market.md) become increasingly interconnected, the principles of covered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) are essential knowledge for traders, institutional investors, and financial analysts.

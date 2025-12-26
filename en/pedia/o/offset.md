@@ -58,14 +58,14 @@ Offsetting within a portfolio involves diversifying investments to reduce overal
 
 ### Market Neutral Strategies
 
-[Market neutral strategies](../m/market_neutral_strategies.md) aim to offset [market risk](../m/market_risk.md) by holding both long and short positions that balance each other out. 
+[Market neutral strategies](../m/market_neutral_strategies.md) aim to offset [market risk](../m/market_risk.md) by holding both long and short positions that balance each other out.
 
 - **[Long/Short Equity](../l/long_short_equity.md)**: Holding long positions in [undervalued](../u/undervalued.md) [stocks](../s/stock.md) while offsetting with short positions in [overvalued](../o/overvalued.md) [stocks](../s/stock.md).
 - **Pair Trading**: Identifying two correlated [stocks](../s/stock.md) and taking a long position in one while shorting the other.
 
 ## Algorithmic Trading
 
-Offsetting is particularly important in [algorithmic trading](../a/accountability.md), where automated systems execute trades to balance a portfolio or reduce exposure to [risk](../r/risk.md).
+Offsetting is particularly important in [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades to balance a portfolio or reduce exposure to [risk](../r/risk.md).
 
 ### Mean Reversion
 
@@ -117,8 +117,8 @@ Synthetic positions involve using combinations of [options](../o/options.md) and
 
 Numerous firms [offer](../o/offer.md) tools and services for offsetting positions, trades, and portfolios. Here are a few notable examples:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: This platform provides a wide [range](../r/range.md) of tools for hedging and offsetting positions. [Interactive Brokers](https://www.interactivebrokers.com)
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Terminal](../b/bloomberg_terminal.md) offers comprehensive functionality for offsetting and [risk management](../r/risk_management.md). [Bloomberg](https://www.bloomberg.com)
-- **Goldman Sachs**: Offers advanced trading and [risk management](../r/risk_management.md) services for institutional clients. [Goldman Sachs](https://www.goldmansachs.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: This platform provides a wide [range](../r/range.md) of tools for hedging and offsetting positions. Interactive Brokers
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Terminal](../b/bloomberg_terminal.md) offers comprehensive functionality for offsetting and [risk management](../r/risk_management.md). Bloomberg
+- **Goldman Sachs**: Offers advanced trading and [risk management](../r/risk_management.md) services for institutional clients. Goldman Sachs
 
 By understanding and effectively using offsetting strategies, traders and investors can better manage [risk](../r/risk.md) and achieve more stable returns in volatile markets. Whether through straightforward stock trades or complex algorithmic systems, offsetting remains a cornerstone of prudent financial management.

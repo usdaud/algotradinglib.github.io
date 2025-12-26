@@ -28,7 +28,7 @@ Hedging is primarily used to mitigate [risk](../r/risk.md) by taking offsetting 
 Several option-based strategies can be employed for hedging purposes. Some of the most widely used include:
 
 - **[Protective Put](../p/protective_put.md)**: This involves buying a [put option](../p/put.md) for an [asset](../a/asset.md) that is already owned. The [put option](../p/put.md) provides [insurance](../i/insurance.md) against a decline in the [asset](../a/asset.md)'s price. If the [asset](../a/asset.md)'s price falls below the [strike price](../s/strike_price.md), the [put option](../p/put.md) can be exercised, offsetting the loss in the [underlying asset](../u/underlying_asset.md).
-  
+
 - **[Covered Call](../c/covered_call.md)**: This strategy includes holding the [underlying asset](../u/underlying_asset.md) and selling a [call option](../c/call_option.md) on the same [asset](../a/asset.md). The [premium](../p/premium.md) earned from selling the [call option](../c/call_option.md) provides some [income](../i/income.md) and a slight [hedge](../h/hedge.md) against a decline in the [asset](../a/asset.md)'s price. However, if the [asset](../a/asset.md)'s price rises significantly, the gains are capped at the [strike price](../s/strike_price.md).
 
 - **[Collar](../c/collar.md)**: A [collar](../c/collar.md) strategy involves holding the [underlying asset](../u/underlying_asset.md), buying a [protective put](../p/protective_put.md), and selling a [covered call](../c/covered_call.md). This combination aims to reduce the cost of the put by receiving the [premium](../p/premium.md) from the sold call. It creates a [range](../r/range.md) of acceptable outcomes where losses and gains are both limited.
@@ -40,12 +40,12 @@ Several option-based strategies can be employed for hedging purposes. Some of th
 Hedging with [options](../o/options.md) is a common practice among institutional investors, [hedge](../h/hedge.md) funds, and even individual traders. Here's a detailed example to illustrate a [protective put](../p/protective_put.md):
 
 1. **Scenario**: An [investor](../i/investor.md) owns 100 [shares](../s/shares.md) of XYZ [Corporation](../c/corporation.md), currently trading at $50 per share. They fear a potential decline in the stock's price over the next three months.
-   
+
 2. **Action**: The [investor](../i/investor.md) buys a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $48, expiring in three months, for a [premium](../p/premium.md) of $2 per share.
 
 3. **Outcome**:
-   - If XYZ’s stock price drops to $40, the [investor](../i/investor.md) can [exercise](../e/exercise.md) the [put option](../p/put.md) and sell the [shares](../s/shares.md) at $48, thus limiting their loss.
-   - If the stock price remains above $48, the [put option](../p/put.md) expires worthless, and the [investor](../i/investor.md)'s maximum loss is the [premium](../p/premium.md) paid ($2 per share).
+ - If XYZ’s stock price drops to $40, the [investor](../i/investor.md) can [exercise](../e/exercise.md) the [put option](../p/put.md) and sell the [shares](../s/shares.md) at $48, thus limiting their loss.
+ - If the stock price remains above $48, the [put option](../p/put.md) expires worthless, and the [investor](../i/investor.md)'s maximum loss is the [premium](../p/premium.md) paid ($2 per share).
 
 This hedging strategy effectively limits the [downside risk](../d/downside_risk.md) while allowing the [investor](../i/investor.md) to benefit from any price appreciation above the [strike price](../s/strike_price.md) minus the [premium](../p/premium.md).
 
@@ -67,10 +67,10 @@ Hedging with [options](../o/options.md) is not without its challenges. Costs can
 
 Various platforms [offer](../o/offer.md) tools and environments for trading [options](../o/options.md) and implementing [hedging strategies](../h/hedging_strategies.md). Some of the prominent ones include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com): Known for its comprehensive [range](../r/range.md) of [options](../o/options.md) trading tools, [Interactive Brokers](../i/interactive_brokers.md) provides a [robust](../r/robust.md) platform for executing and managing [options](../o/options.md) strategies.
-- [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page): Offers advanced charting and analytics tools tailored for [options](../o/options.md) trading.
-- [E*Trade](https://us.etrade.com): Provides a user-friendly interface with extensive resources for [options](../o/options.md) trading and [risk management](../r/risk_management.md).
-- [Tastyworks](https://www.tastyworks.com): Focuses on [options](../o/options.md) trading with innovative features and educational content to help traders master [hedging strategies](../h/hedging_strategies.md).
+- Interactive Brokers: Known for its comprehensive [range](../r/range.md) of [options](../o/options.md) trading tools, [Interactive Brokers](../i/interactive_brokers.md) provides a [robust](../r/robust.md) platform for executing and managing [options](../o/options.md) strategies.
+- Thinkorswim by TD Ameritrade: Offers advanced charting and analytics tools tailored for [options](../o/options.md) trading.
+- E*Trade: Provides a user-friendly interface with extensive resources for [options](../o/options.md) trading and [risk management](../r/risk_management.md).
+- Tastyworks: Focuses on [options](../o/options.md) trading with innovative features and educational content to help traders master [hedging strategies](../h/hedging_strategies.md).
 
 #### Conclusion
 

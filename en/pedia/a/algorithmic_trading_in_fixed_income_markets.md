@@ -48,10 +48,10 @@ Successfully implementing [algorithmic trading](../a/algorithmic_trading.md) in 
 
 Several firms and platforms are notable for their contributions to [algorithmic trading](../a/algorithmic_trading.md) in [fixed income](../f/fixed_income.md) markets:
 
-- **Tradeweb**: Tradeweb offers electronic trading platforms for [fixed income securities](../f/fixed_income_securities.md), including government bonds and corporate [debt](../d/debt.md). [Tradeweb](https://www.tradeweb.com/)
-- **[MarketAxess](../m/marketaxess.md)**: This platform specializes in electronic trading for global [credit](../c/credit.md) products and operates one of the world’s leading [fixed income](../f/fixed_income.md) marketplaces. [MarketAxess](https://www.marketaxess.com/)
-- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)’s electronic trading and analytics platform is widely used for executing [fixed income](../f/fixed_income.md) strategies. [Bloomberg Professional Services](https://www.bloomberg.com/professional/)
-- **BlackRock Aladdin**: BlackRock’s Aladdin platform offers trading, [risk management](../r/risk_management.md), and analytics for [fixed income](../f/fixed_income.md) portfolios. [BlackRock Aladdin](https://www.blackrock.com/aladdin)
+- **Tradeweb**: Tradeweb offers electronic trading platforms for [fixed income securities](../f/fixed_income_securities.md), including government bonds and corporate [debt](../d/debt.md). Tradeweb
+- **[MarketAxess](../m/marketaxess.md)**: This platform specializes in electronic trading for global [credit](../c/credit.md) products and operates one of the world’s leading [fixed income](../f/fixed_income.md) marketplaces. MarketAxess
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)’s electronic trading and analytics platform is widely used for executing [fixed income](../f/fixed_income.md) strategies. Bloomberg Professional Services
+- **BlackRock Aladdin**: BlackRock’s Aladdin platform offers trading, [risk management](../r/risk_management.md), and analytics for [fixed income](../f/fixed_income.md) portfolios. BlackRock Aladdin
 
 ## Regulatory Considerations
 
@@ -72,4 +72,4 @@ As technology continues to evolve, several trends are likely to shape the future
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) in [fixed income](../f/fixed_income.md) markets is a complex but evolving field, [offering](../o/offering.md) the potential for enhanced trading [efficiency](../e/efficiency.md) and [execution](../e/execution.md) quality. Overcoming the unique challenges posed by these markets requires sophisticated technology, [robust](../r/robust.md) data management, and a keen understanding of [market dynamics](../m/market_dynamics.md). As the financial landscape continues to shift, [algorithmic trading](../a/algorithmic_trading.md) strategies [will](../w/will.md) become increasingly crucial in navigating and capitalizing on opportunities within [fixed income](../f/fixed_income.md) markets.
+[Algorithmic trading](../a/algorithmic_trading.md) in [fixed income](../f/fixed_income.md) markets is a complex but evolving field, [offering](../o/offering.md) the potential for enhanced trading [efficiency](../e/efficiency.md) and [execution](../e/execution.md) quality. Overcoming the unique challenges posed by these markets requires sophisticated technology, [robust](../r/robust.md) data management, and a keen understanding of [market dynamics](../m/market_dynamics.md). As the financial landscape continues to shift, [algorithmic trading](../a/algorithmic_trading.md) strategies [will](../w/will.md) become increasingly crucial in navigating and capitalizing on opportunities within [fixed income](../f/fixed_income.md) markets.

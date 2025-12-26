@@ -53,4 +53,4 @@ Given the controversy around [12B-1 fees](../1/12b-1_fees.md), the SEC has consi
 
 The 12B-1 Plan remains a significant component of [mutual fund](../m/mutual_fund.md) [fee](../f/fee.md) structures, having both potential benefits and drawbacks. Investors should be aware of these fees when selecting mutual funds and consider whether the benefits justify the costs. Being an informed [investor](../i/investor.md) entails scrutinizing these and other fees to make educated decisions that align with one's financial goals.
 
-To [gain](../g/gain.md) more insight into mutual funds and their [fee](../f/fee.md) structures, investors can visit the websites of established [mutual fund](../m/mutual_fund.md) companies such as [Vanguard](https://investor.vanguard.com/mutual-funds) and [Fidelity](https://www.fidelity.com/mutual-funds/overview).
+To [gain](../g/gain.md) more insight into mutual funds and their [fee](../f/fee.md) structures, investors can visit the websites of established [mutual fund](../m/mutual_fund.md) companies such as Vanguard and Fidelity.

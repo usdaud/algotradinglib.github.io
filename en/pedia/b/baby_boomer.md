@@ -48,11 +48,11 @@ The financial behaviors and transitions of Baby Boomers have a pronounced impact
 
 Numerous companies specialize in [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) platforms tailored to different [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) needs. Here are a few notable examples:
 
-**[QuantConnect](../q/quantconnect.md)**: A popular [algorithmic trading](../a/accountability.md) platform that provides a cloud-based environment for developing and testing [trading algorithms](../t/trading_algorithms.md). You can learn more at [QuantConnect](https://www.quantconnect.com).
+**[QuantConnect](../q/quantconnect.md)**: A popular [algorithmic trading](../a/accountability.md) platform that provides a cloud-based environment for developing and testing [trading algorithms](../t/trading_algorithms.md). You can learn more at QuantConnect.
 
-**[NinjaTrader](../n/ninjatrader.md)**: Another prominent name in [algorithmic trading](../a/accountability.md), [NinjaTrader](../n/ninjatrader.md) offers sophisticated charting, analysis tools, and [automated trading systems](../a/automated_trading_systems.md). Visit [NinjaTrader](https://ninjatrader.com) for more information.
+**[NinjaTrader](../n/ninjatrader.md)**: Another prominent name in [algorithmic trading](../a/accountability.md), [NinjaTrader](../n/ninjatrader.md) offers sophisticated charting, analysis tools, and [automated trading systems](../a/automated_trading_systems.md). Visit NinjaTrader for more information.
 
-**Kavout**: This company combines [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop predictive algorithms for trading. Their platform is designed for both individual investors and institutions. Explore more at [Kavout](https://kavout.com).
+**Kavout**: This company combines [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop predictive algorithms for trading. Their platform is designed for both individual investors and institutions. Explore more at Kavout.
 
 ## The Future of Baby Boomers in Financial Markets
 

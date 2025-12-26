@@ -98,23 +98,23 @@ A [trader](../t/trader.md) looking at the [market depth](../m/market_depth.md) c
 
 ### Bloomberg Terminal
 
-[Bloomberg Terminal](../b/bloomberg_terminal.md) provides comprehensive tools for analyzing [order](../o/order.md) books, time and sales data, and [market depth](../m/market_depth.md), enabling traders to effectively measure absorption rates. More information can be found [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+[Bloomberg Terminal](../b/bloomberg_terminal.md) provides comprehensive tools for analyzing [order](../o/order.md) books, time and sales data, and [market depth](../m/market_depth.md), enabling traders to effectively measure absorption rates. More information can be found here.
 
 ### Thomson Reuters Eikon
 
-Eikon offers powerful analytics and real-time data for assessing absorption rates and other critical trading metrics. More information can be found [here](https://www.refinitiv.com/en/products/eikon-trading-software).
+Eikon offers powerful analytics and real-time data for assessing absorption rates and other critical trading metrics. More information can be found here.
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a platform for building and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), providing access to historical and [real-time market data](../r/real-time_market_data.md) for analyzing absorption rates. More information can be found [here](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a platform for building and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), providing access to historical and [real-time market data](../r/real-time_market_data.md) for analyzing absorption rates. More information can be found here.
 
 ### AlgoTrader
 
-AlgoTrader offers tools for automated trading, providing insights into [order](../o/order.md) [execution](../e/execution.md) and [market](../m/market.md) [liquidity](../l/liquidity.md), aiding in the analysis of absorption rates. More information can be found [here](https://www.algotrader.com/).
+AlgoTrader offers tools for automated trading, providing insights into [order](../o/order.md) [execution](../e/execution.md) and [market](../m/market.md) [liquidity](../l/liquidity.md), aiding in the analysis of absorption rates. More information can be found here.
 
 ### Bookmap
 
-Bookmap provides advanced visualizations of [market depth](../m/market_depth.md) and [order](../o/order.md) flow, allowing traders to closely monitor absorption rates. More information can be found [here](https://bookmap.com/).
+Bookmap provides advanced visualizations of [market depth](../m/market_depth.md) and [order](../o/order.md) flow, allowing traders to closely monitor absorption rates. More information can be found here.
 
 ## Conclusion
 

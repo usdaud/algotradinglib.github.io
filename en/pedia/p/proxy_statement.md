@@ -1,6 +1,6 @@
 # Proxy Statement
 
-A [proxy](../p/proxy.md) statement is an essential document that a [public company](../p/public_company.md) is required to provide to its shareholders before the annual general meeting (AGM) or any special [shareholder](../s/shareholder.md) meetings. This document allows shareholders to make informed decisions regarding the matters that [will](../w/will.md) be discussed and voted on during these meetings. These [proxy](../p/proxy.md) statements are filed with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) on Form DEF 14A and bear significant importance in [corporate governance](../c/corporate_governance.md). 
+A [proxy](../p/proxy.md) statement is an essential document that a [public company](../p/public_company.md) is required to provide to its shareholders before the annual general meeting (AGM) or any special [shareholder](../s/shareholder.md) meetings. This document allows shareholders to make informed decisions regarding the matters that [will](../w/will.md) be discussed and voted on during these meetings. These [proxy](../p/proxy.md) statements are filed with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) on Form DEF 14A and bear significant importance in [corporate governance](../c/corporate_governance.md).
 
 ## Purpose and Importance of Proxy Statements
 
@@ -79,9 +79,9 @@ With advancements in technology, companies have increasingly adopted electronic 
 
 Many large corporations publish their [proxy](../p/proxy.md) statements on their corporate websites in addition to filing them with the SEC. For example:
 
-- [Apple Inc.](https://investor.apple.com/annual-meeting/default.aspx) publishes its [proxy](../p/proxy.md) statements under the "Annual Meeting" section on its [investor relations](../i/investor_relations.md) page.
-- [Microsoft Corporation](https://www.microsoft.com/en-us/Investor/sec-filings) provides access to its [proxy](../p/proxy.md) statements along with other SEC filings.
-- [Amazon.com, Inc.](https://www.amazon.com/ir) includes [proxy](../p/proxy.md) statements in the "SEC Filings" section of its [investor relations](../i/investor_relations.md) website.
+- Apple Inc. publishes its [proxy](../p/proxy.md) statements under the "Annual Meeting" section on its [company filings](../i/investor_relations.md) page.
+- Microsoft Corporation provides access to its [proxy](../p/proxy.md) statements along with other SEC filings.
+- online resource, Inc. includes [proxy](../p/proxy.md) statements in the "SEC Filings" section of its [company filings](../i/investor_relations.md) online platform.
 
 ## Conclusion
 

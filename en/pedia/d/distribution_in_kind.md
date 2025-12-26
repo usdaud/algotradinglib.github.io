@@ -1,7 +1,7 @@
 # Distribution In Kind
 
-## Introduction 
-[Distribution](../d/distribution.md) in kind, also known as an "in-kind [distribution](../d/distribution.md)" or "[distribution](../d/distribution.md) [in specie](../i/in_specie.md)," refers to the allocation of assets in their original form rather than in cash. This concept is particularly significant in the realms of [investment management](../i/investment_management.md), [estate planning](../e/estate_planning.md), and [business](../b/business.md) partnerships. It answers the questions of how and when assets are passed on, often having implications for tax liabilities and strategic planning. 
+## Introduction
+[Distribution](../d/distribution.md) in kind, also known as an "in-kind [distribution](../d/distribution.md)" or "[distribution](../d/distribution.md) [in specie](../i/in_specie.md)," refers to the allocation of assets in their original form rather than in cash. This concept is particularly significant in the realms of [investment management](../i/investment_management.md), [estate planning](../e/estate_planning.md), and [business](../b/business.md) partnerships. It answers the questions of how and when assets are passed on, often having implications for tax liabilities and strategic planning.
 
 ## Key Definitions and Differences
 ### Distribution in Kind vs. Cash Distribution
@@ -83,7 +83,7 @@ While distributions in kind [offer](../o/offer.md) several benefits, they also p
 ## Notable Examples
 Several institutional investors and mutual funds have successfully implemented distributions in kind. For instance, **Vanguard** frequently adopts in-kind redemptions for its large ETFs to minimize the [market](../m/market.md) impact and [trading costs](../t/trading_costs.md).
 
-**Vanguard**: [Vanguard Official Website](https://www.vanguard.com)
+**Vanguard**:
 
 ## Conclusion
 [Distribution](../d/distribution.md) in kind serves as a versatile method of [asset](../a/asset.md) [distribution](../d/distribution.md) across various domains, including [investment management](../i/investment_management.md), [estate planning](../e/estate_planning.md), and [business](../b/business.md) partnerships. While it offers numerous benefits including potential tax advantages and preservation of [asset](../a/asset.md) [value](../v/value.md), it also entails significant operational and regulatory challenges. Effective planning and strategic utilization of distributions in kind can result in optimized financial outcomes for both distributing entities and recipients.

@@ -35,7 +35,7 @@ Long-tail [liability](../l/liability.md) is a concept in [insurance](../i/insura
 - **Data Gathering**: Collecting historical data on past claims and relevant [risk factors](../r/risk_factors_in_trading.md).
 - **Statistical Analysis**: Employing advanced statistical tools to identify patterns and predict future occurrences.
 - **[Machine Learning](../m/machine_learning.md)**: Implementing [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to refine predictions and improve accuracy.
-  
+
 ### Actuarial Science
 [Actuarial science](../a/actuarial_science.md) plays a fundamental role in managing long-tail liabilities through:
 - **[Risk](../r/risk.md) Assessment**: Detailed evaluation of risks associated with long-tail claims.
@@ -51,13 +51,10 @@ Adopting and adapting to legal and regulatory frameworks is essential. This can 
 ## Examples in Practice
 ### Insurance Companies
 Several [insurance](../i/insurance.md) companies are renowned for their strategies in managing long-tail liabilities. For instance:
-- **AIG**: Known for its comprehensive approach to long-tail risks in various sectors. (https://www.aig.com/)
-- **Lloyd’s of London**: A pioneer in [reinsurance](../r/reinsurance.md) and long-tail [liability](../l/liability.md) management solutions. (https://www.lloyds.com/)
-  
-### Corporate Examples
-- **Dow Chemical Company**: Faced with long-tail liabilities from environmental damage and asbestos-related claims, the company continues to address these through legal and financial frameworks. (https://www.dow.com/)
-- **Johnson & Johnson**: Management of long-tail product liabilities related to pharmaceutical and consumer products is critical for the company. (https://www.jnj.com/)
+- **AIG**: Known for its comprehensive approach to long-tail risks in various sectors. - **Lloyd’s of London**: A pioneer in [reinsurance](../r/reinsurance.md) and long-tail [liability](../l/liability.md) management solutions. (
 
+### Corporate Examples
+- **Dow Chemical Company**: Faced with long-tail liabilities from environmental damage and asbestos-related claims, the company continues to address these through legal and financial frameworks. - **Johnson & Johnson**: Management of long-tail product liabilities related to pharmaceutical and consumer products is critical for the company.
 ## Current and Emerging Trends
 ### Technological Advancements
 - **AI and [Machine Learning](../m/machine_learning.md)**: Enhanced prediction and management of long-tail liabilities through advanced technologies.
@@ -75,6 +72,4 @@ Several [insurance](../i/insurance.md) companies are renowned for their strategi
 Long-tail [liability](../l/liability.md) represents both a challenge and an opportunity for organizations across various sectors. Effective management requires a comprehensive understanding of the unique characteristics of these liabilities and the application of sophisticated [risk management](../r/risk_management.md) strategies. Companies that successfully navigate the complexities associated with long-tail liabilities position themselves for long-term sustainability and financial stability.
 
 For further reading and updates on long-tail liabilities, consider visiting [industry](../i/industry.md) resources such as:
-- **[Insurance](../i/insurance.md) Information Institute**: https://www.iii.org/
-- **National Association of [Insurance](../i/insurance.md) Commissioners (NAIC)**: https://www.naic.org/
-- **International Association of [Insurance](../i/insurance.md) Supervisors (IAIS)**: https://www.iaisweb.org/
+- **[Insurance](../i/insurance.md) Information Institute**- **National Association of [Insurance](../i/insurance.md) Commissioners (NAIC)**- **International Association of [Insurance](../i/insurance.md) Supervisors (IAIS)**

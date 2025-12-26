@@ -6,7 +6,7 @@ Psychological [trading strategies](../t/trading_strategies.md) focus on the ment
 
 ### 1. Emotional Intelligence (EI) in Trading
 
-Emotional Intelligence (EI) refers to a person's ability to identify, understand, and manage their own emotions, as well as the emotions of others. In trading, high EI can help individuals make more rational decisions, avoid impulsive actions based on fear or greed, and maintain mental discipline. 
+Emotional Intelligence (EI) refers to a person's ability to identify, understand, and manage their own emotions, as well as the emotions of others. In trading, high EI can help individuals make more rational decisions, avoid impulsive actions based on fear or greed, and maintain mental discipline.
 
 Components of Emotional Intelligence include:
 - **Self-awareness**: Understanding personal emotions and their impact on trading.
@@ -76,11 +76,11 @@ The [market](../m/market.md) is dynamic, requiring traders to continuously learn
 
 ### 1. Algorithmic Trading Systems
 
-[Algorithmic trading](../a/algorithmic_trading.md) leverages pre-programmed instructions and statistical models to execute trades at high speed and [volume](../v/volume.md), mitigating human emotional interference. Companies like [MetaTrader](https://www.metatrader5.com/) provide platforms that support automated [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) leverages pre-programmed instructions and statistical models to execute trades at high speed and [volume](../v/volume.md), mitigating human emotional interference. Companies like MetaTrader provide platforms that support automated [trading strategies](../t/trading_strategies.md).
 
 ### 2. Artificial Intelligence and Machine Learning
 
-AI and [machine learning](../m/machine_learning.md) tools can analyze vast amounts of data to identify patterns and predict [market](../m/market.md) movements, reducing the psychological pressure on traders. These technologies can be integrated with platforms such as [QuantConnect](https://www.quantconnect.com), which provides AI-driven [algorithmic trading](../a/algorithmic_trading.md) solutions.
+AI and [machine learning](../m/machine_learning.md) tools can analyze vast amounts of data to identify patterns and predict [market](../m/market.md) movements, reducing the psychological pressure on traders. These technologies can be integrated with platforms such as QuantConnect, which provides AI-driven [algorithmic trading](../a/algorithmic_trading.md) solutions.
 
 ### 3. Psychological Proctoring Software
 
@@ -91,13 +91,13 @@ Certain software solutions aim to monitor and improve the psychological state of
 
 ### 4. Risk Management Tools
 
-Innovative [risk management](../r/risk_management.md) tools help traders implement and adhere to their [risk tolerance](../r/risk_tolerance.md) levels. Platforms like [eToro](https://www.etoro.com/) [offer](../o/offer.md) various tools for managing [risk](../r/risk.md), including portfolio analytics and automatic stop-loss settings.
+Innovative [risk management](../r/risk_management.md) tools help traders implement and adhere to their [risk tolerance](../r/risk_tolerance.md) levels. Platforms like eToro [offer](../o/offer.md) various tools for managing [risk](../r/risk.md), including portfolio analytics and automatic stop-loss settings.
 
 ## Case Studies
 
 ### Case Study 1: Ray Dalio and Bridgewater Associates
 
-Ray Dalio, founder of Bridgewater Associates, emphasizes the importance of understanding human psychology in trading. His principles are detailed in his book "Principles: Life & Work," which outlines techniques to overcome biases and maintain mental clarity ([Bridgewater](https://www.bridgewater.com/)).
+Ray Dalio, founder of Bridgewater Associates, emphasizes the importance of understanding human psychology in trading. His principles are detailed in his book "Principles: Life & Work," which outlines techniques to overcome biases and maintain mental clarity (Bridgewater).
 
 ### Case Study 2: The Turtle Traders
 

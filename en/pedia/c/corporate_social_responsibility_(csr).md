@@ -47,11 +47,11 @@ Several companies globally have established [robust](../r/robust.md) CSR program
 **5. Ben & Jerry’s**: The company’s social mission includes a strong focus on environmental sustainability, advocating for [social justice](../s/social_justice.md), fair [trade](../t/trade.md) sourcing, and community-centric programs.
 
 To explore more about their CSR initiatives, visit their respective websites:
-- [Unilever](https://www.unilever.com)
-- [Patagonia](https://www.patagonia.com)
-- [Microsoft](https://www.microsoft.com)
-- [Tesla](https://www.tesla.com)
-- [Ben & Jerry's](https://www.benjerry.com)
+- Unilever
+- Patagonia
+- Microsoft
+- Tesla
+- Ben & Jerry's
 
 # Benefits of CSR to Businesses
 

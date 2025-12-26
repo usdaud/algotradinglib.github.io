@@ -49,7 +49,7 @@ The Both-to-Blame Collision Clause significantly impacts marine [insurance](../i
 - **Protection and Indemnity (P&I) [Insurance](../i/insurance.md)**: Covers third-party liabilities, including collision liabilities.
 - **Freight, Demurrage, and Defense (FD&D) [Insurance](../i/insurance.md)**: Provides legal defense costs associated with collision claims.
 
-[Insurance](../i/insurance.md) companies such as [Lloyd's of London](../l/lloyd's_of_london.md) (https://www.lloyds.com/) [offer](../o/offer.md) specialized policies that incorporate the Both-to-Blame Collision Clause, catering to the complex needs of maritime stakeholders.
+[Insurance](../i/insurance.md) companies such as [Lloyd's of London](../l/lloyd's_of_london.md) ( [offer](../o/offer.md) specialized policies that incorporate the Both-to-Blame Collision Clause, catering to the complex needs of maritime stakeholders.
 
 ## Controversies and Criticisms
 
@@ -61,7 +61,7 @@ Critics argue that the Both-to-Blame Collision Clause can introduce complexity a
 
 Smaller ship operators may find themselves disproportionately burdened by the financial and operational implications of the clause. The necessity to share in another party's damages, even when only partially at fault, can strain resources and affect profitability.
 
-### Calls for Reform 
+### Calls for Reform
 
 There have been calls for reform within the maritime community to simplify the clause or replace it with clearer, more equitable provisions. Some suggest adopting a "no-fault" system similar to those used in certain other industries, although this idea remains contentious.
 

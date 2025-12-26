@@ -50,7 +50,7 @@ The primary distinctions between base pay and annual pay lie in their components
 ### 3.1 Stability vs. Variability
 
 - **Base Pay:** Constant and predictable, providing a secure [income](../i/income.md).
-- **Annual Pay:** Variable, subject to bonuses, allowances, and other periodic benefits. 
+- **Annual Pay:** Variable, subject to bonuses, allowances, and other periodic benefits.
 
 ### 3.2 Negotiation and Review
 

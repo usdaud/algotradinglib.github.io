@@ -36,12 +36,12 @@ Filling out a [deposit](../d/deposit.md) slip is straightforward but requires at
 
 1. **Enter Personal Information:** Fill in your name, address, and the current date.
 2. **Write [Account Number](../a/account_number.md):** Include the [bank](../b/bank.md) [account number](../a/account_number.md) where the funds are to be deposited.
-3. **Detail Cash and Checks:** 
-   - For cash deposits, write the total cash amount.
-   - For checks, list each [check](../c/check.md) separately, including the [check](../c/check.md) number and respective amount.
+3. **Detail Cash and Checks:**
+ - For cash deposits, write the total cash amount.
+ - For checks, list each [check](../c/check.md) separately, including the [check](../c/check.md) number and respective amount.
 4. **Calculate Total [Deposit](../d/deposit.md):**
-   - Sum the cash and [check](../c/check.md) amounts to get a subtotal.
-   - Deduct any cash you wish to receive immediately, providing the net [deposit](../d/deposit.md) amount.
+ - Sum the cash and [check](../c/check.md) amounts to get a subtotal.
+ - Deduct any cash you wish to receive immediately, providing the net [deposit](../d/deposit.md) amount.
 5. **Sign the Slip:** If required, sign the [deposit](../d/deposit.md) slip to authorize the [transaction](../t/transaction.md).
 
 ## Importance of Deposit Slips

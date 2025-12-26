@@ -39,14 +39,14 @@ Understanding the historical trends of the 6-month [yield](../y/yield.md) provid
 
 ## Current Environment
 
-Tracking the latest 6-month [yield](../y/yield.md) is crucial for making informed trading decisions. The [U.S. Treasury](../u/u.s._treasury.md) Department provides up-to-date [yield](../y/yield.md) information on their official website [here](https://www.home.treasury.gov). This data is fundamental for traders and investors who need to adapt their strategies to the prevailing [market](../m/market.md) conditions.
+Tracking the latest 6-month [yield](../y/yield.md) is crucial for making informed trading decisions. The [U.S. Treasury](../u/u.s._treasury.md) Department provides up-to-date [yield](../y/yield.md) information. This data is fundamental for traders and investors who need to adapt their strategies to the prevailing [market](../m/market.md) conditions.
 
 ## Impact on Different Markets
 
 The 6-month [yield](../y/yield.md) influences a [range](../r/range.md) of [financial markets](../f/financial_market.md) including:
 
 1. **[Equity](../e/equity.md) Markets**: As a [benchmark](../b/benchmark.md) for [risk](../r/risk.md)-free returns, changes in the 6-month [yield](../y/yield.md) can influence the pricing of equities. Higher yields might lead to a sell-off in equities as investors move to safer, higher-yielding treasuries.
-   
+
 2. **[Bond](../b/bond.md) Markets**: The entire [fixed income](../f/fixed_income.md) [market](../m/market.md) is particularly sensitive to changes in the 6-month [yield](../y/yield.md). Other short-term and long-term bonds adjust their yields in alignment with changes in the 6-month [yield](../y/yield.md).
 
 3. **[Foreign Exchange](../f/foreign_exchange.md) Markets**: The [yield](../y/yield.md) impacts [currency](../c/currency.md) values as higher [interest](../i/interest.md) rates attract foreign [capital](../c/capital.md). Consequently, a rising 6-month [yield](../y/yield.md) can lead to an appreciation of the U.S. dollar.
@@ -55,4 +55,4 @@ The 6-month [yield](../y/yield.md) influences a [range](../r/range.md) of [finan
 
 The 6-month [yield](../y/yield.md) is a critical [indicator](../i/indicator.md) in the financial world and holds significant weight in the realm of [algorithmic trading](../a/algorithmic_trading.md). It serves as a [proxy](../p/proxy.md) for short-term [interest](../i/interest.md) rates and reflects broader economic and monetary conditions. Algotraders [leverage](../l/leverage.md) this [yield](../y/yield.md) to inform a variety of [trading strategies](../t/trading_strategies.md), making it a fundamental aspect of [financial analysis](../f/financial_analysis.md).
 
-Staying informed about the current and historical 6-month [yield](../y/yield.md) trends is imperative for successful trading and investment decisions, especially in dynamically changing [market](../m/market.md) environments.
+Staying informed about the current and historical 6-month [yield](../y/yield.md) trends is imperative for successful trading and investment decisions, especially in dynamically changing [market](../m/market.md) environments.

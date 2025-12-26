@@ -74,6 +74,6 @@ The winding up of large corporations can have significant economic repercussions
 Winding up is a complex process involving [multiple](../m/multiple.md) stakeholders and numerous legal and financial considerations. Whether done voluntarily or through a court mandate, the aim is to ensure that the company's affairs are wrapped up in an orderly manner, with assets distributed fairly among stakeholders. Understanding the procedures and implications of winding up is crucial for corporate directors, shareholders, employees, and creditors alike.
 
 For further information on winding-up procedures, legal considerations, and implications, visit
-- [United States Bankruptcy Court](http://www.uscourts.gov/services-forms/bankruptcy)
-- [Insolvency Service, UK](https://www.gov.uk/government/organisations/insolvency-service)
-- [Corporate Affairs Commission, Nigeria](https://www.cac.gov.ng)
+- United States Bankruptcy Court
+- Insolvency Service, UK
+- Corporate Affairs Commission, Nigeria

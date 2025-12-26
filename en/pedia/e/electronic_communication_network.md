@@ -32,19 +32,18 @@ Several ECNs operate in today’s [financial markets](../f/financial_market.md),
 
 ### Major ECNs
 
-1. **[NASDAQ](../n/nasdaq.md)**: Among the largest electronic trading platforms, [NASDAQ](../n/nasdaq.md) has evolved from an electronic [quotation](../q/quotation.md) system to one of the world's primary stock exchanges. [NASDAQ Official Site](https://www.nasdaq.com)
-   
-2. **BATS**: Now a part of the CBOE Global Markets, BATS (Better Alternative Trading System) is a significant player in both U.S. and European markets. [CBOE BATS](https://www.cboe.com)
-   
-3. **[NYSE Arca](../n/nyse_arca.md)**: Part of the New York Stock [Exchange](../e/exchange.md) Group, [NYSE Arca](../n/nyse_arca.md) is an ECN that focuses primarily on [stocks](../s/stock.md) and [exchange](../e/exchange.md)-traded products (ETPs). [NYSE Arca](https://www.nyse.com/markets/nyse-arca)
+
+2. **BATS**: Now a part of the CBOE Global Markets, BATS (Better Alternative Trading System) is a significant player in both U.S. and European markets. CBOE BATS
+
+3. **[NYSE Arca](../n/nyse_arca.md)**: Part of the New York Stock [Exchange](../e/exchange.md) Group, [NYSE Arca](../n/nyse_arca.md) is an ECN that focuses primarily on [stocks](../s/stock.md) and [exchange](../e/exchange.md)-traded products (ETPs). NYSE Arca
 
 ### Specialized ECNs
 
-1. **Instinet**: Often considered the first ECN, it focuses primarily on [equity trading](../e/equity_trading.md) and continues to be a prominent platform for institutional investors. [Instinet](https://www.instinet.com)
-   
-2. **FXAll**: Specializing in [foreign exchange](../f/foreign_exchange.md) markets, FXAll provides unparalleled [liquidity](../l/liquidity.md) and competitive pricing. [FXAll](https://www.refinitiv.com/en/products/fxall-foreign-exchange-trading)
-   
-3. **IEX**: The Investors [Exchange](../e/exchange.md) is known for its focus on fairness and [transparency](../t/transparency.md), particularly through its innovative "speed bump" mechanism to level the playing field. [IEX](https://www.iextrading.com)
+1. **Instinet**: Often considered the first ECN, it focuses primarily on [equity trading](../e/equity_trading.md) and continues to be a prominent platform for institutional investors. Instinet
+
+2. **FXAll**: Specializing in [foreign exchange](../f/foreign_exchange.md) markets, FXAll provides unparalleled [liquidity](../l/liquidity.md) and competitive pricing. FXAll
+
+3. **IEX**: The Investors [Exchange](../e/exchange.md) is known for its focus on fairness and [transparency](../t/transparency.md), particularly through its innovative "speed bump" mechanism to level the playing field. IEX
 
 ## Advantages of ECNs
 

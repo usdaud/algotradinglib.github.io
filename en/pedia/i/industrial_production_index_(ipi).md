@@ -61,25 +61,24 @@ Industrial production levels can help predict inflationary pressures in the [eco
 
 The IPI for the United States is published by the Federal Reserve Board. It’s one of the major components of the [Index](../i/index_instrument.md) of Leading [Economic Indicators](../e/economic_indicators.md) and offers insights into the U.S. economic health.
 
-[More about the U.S. IPI](https://www.federalreserve.gov/releases/G17/)
+More about the U.S. IPI
 
 ### European Union
 
 The IPI for the EU is released by Eurostat. It encompasses data from the [Eurozone](../e/eurozone.md) member countries, [offering](../o/offering.md) a consolidated view of the industrial production across the EU.
 
-[More about the EU IPI](https://ec.europa.eu/eurostat/web/short-term-business-statistics)
 
 ### Japan
 
 Japan's IPI is tracked by Japan's Ministry of [Economy](../e/economy.md), [Trade](../t/trade.md) and [Industry](../i/industry.md) (METI). It’s a critical measure of the production levels in one of the world’s major industrial economies.
 
-[More about Japan's IPI](https://www.meti.go.jp/english/statistics/tyo/iip/index.html)
+More about Japan's IPI
 
 ### China
 
 In China, the National Bureau of [Statistics](../s/statistics.md) (NBS) publishes the IPI. It is a central [indicator](../i/indicator.md) used to understand the industrial output of the world's second-largest [economy](../e/economy.md).
 
-[More about China's IPI](http://www.stats.gov.cn/english/)
+More about China's IPI
 
 ## 5. Challenges and Limitations
 

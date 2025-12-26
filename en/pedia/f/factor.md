@@ -83,7 +83,7 @@ Researching and developing factor-based strategies involves several steps:
 
 One prominent [asset management](../a/asset_management.md) [firm](../f/firm.md) specializing in [factor investing](../f/factor_investing.md) is **AQR [Capital](../c/capital.md) Management**. AQR's approach to [investing](../i/investing.md) is grounded in academic research and aims to deliver superior [risk](../r/risk.md)-adjusted returns through disciplined, rules-based strategies.
 
-AQR [Capital](../c/capital.md) Management: [aqr.com](https://www.aqr.com)
+AQR [Capital](../c/capital.md) Management: aqr.com
 
 ## Risk Management with Factors
 

@@ -34,11 +34,11 @@ In [exchange](../e/exchange.md) for their investment, VCs acquire [equity](../e/
 
 Prominent VC firms include:
 
-- **Sequoia [Capital](../c/capital.md)**: [Sequoia Capital](https://www.sequoiacap.com/)
-- **Andreessen Horowitz**: [Andreessen Horowitz](https://a16z.com/)
-- **[Benchmark](../b/benchmark.md)**: [Benchmark](https://www.benchmark.com/)
-- **Accel**: [Accel](https://www.accel.com/)
-- **Kleiner Perkins**: [Kleiner Perkins](https://www.kleinerperkins.com/)
+- **Sequoia [Capital](../c/capital.md)**: Sequoia Capital
+- **Andreessen Horowitz**: Andreessen Horowitz
+- **[Benchmark](../b/benchmark.md)**: Benchmark
+- **Accel**: Accel
+- **Kleiner Perkins**: Kleiner Perkins
 
 These firms have shaped the [startup](../s/startup.md) ecosystem by backing some of the most successful tech companies.
 

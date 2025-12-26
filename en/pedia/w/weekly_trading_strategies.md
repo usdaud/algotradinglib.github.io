@@ -47,20 +47,16 @@ Weekly traders need [robust](../r/robust.md) platforms that [offer](../o/offer.m
 Accurate and timely data is critical for successful weekly trading.
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A [premium](../p/premium.md) service [offering](../o/offering.md) extensive [real-time market data](../r/real-time_market_data.md) and analytics.
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Provides access to global financial data and news.
-[Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### 3. **Research and News Outlets**
 
 Up-to-date analysis and reports can inform trading decisions.
 
 - **The [Wall Street](../w/wall_street.md) [Journal](../j/journal.md)**: Offers financial news and [market](../m/market.md) analysis.
-[The Wall Street Journal](https://www.wsj.com/)
 
 - **MarketWatch**: Provides [stock market](../s/stock_market.md) data and news.
-[MarketWatch](https://www.marketwatch.com/)
 
 ## Risk Management Practices
 

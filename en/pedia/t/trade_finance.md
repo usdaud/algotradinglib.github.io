@@ -125,23 +125,23 @@ Suppliers and buyers are key participants in the [trade](../t/trade.md) [finance
 
 ### Marco Polo
 
-[Marco Polo](https://www.marcopolo.finance/) is a [blockchain](../b/blockchain_in_trading.md)-based [trade](../t/trade.md) [finance](../f/finance.md) network that connects buyers, sellers, and financial institutions to streamline [trade](../t/trade.md) [finance](../f/finance.md) processes. It provides real-time, secure, and transparent [transaction](../t/transaction.md) tracking, reducing the need for traditional paperwork.
+Marco Polo is a [blockchain](../b/blockchain_in_trading.md)-based [trade](../t/trade.md) [finance](../f/finance.md) network that connects buyers, sellers, and financial institutions to streamline [trade](../t/trade.md) [finance](../f/finance.md) processes. It provides real-time, secure, and transparent [transaction](../t/transaction.md) tracking, reducing the need for traditional paperwork.
 
 ### TradeIX
 
-[TradeIX](https://www.tradeix.com/) offers an [open](../o/open.md) platform powered by [blockchain](../b/blockchain_in_trading.md) for [trade](../t/trade.md) [finance](../f/finance.md) solutions. The platform allows users to manage their [trade](../t/trade.md) transactions, [financing](../f/financing.md), and [insurance](../i/insurance.md) using a single interface, enhancing [efficiency](../e/efficiency.md) and reducing costs.
+TradeIX offers an [open](../o/open.md) platform powered by [blockchain](../b/blockchain_in_trading.md) for [trade](../t/trade.md) [finance](../f/finance.md) solutions. The platform allows users to manage their [trade](../t/trade.md) transactions, [financing](../f/financing.md), and [insurance](../i/insurance.md) using a single interface, enhancing [efficiency](../e/efficiency.md) and reducing costs.
 
 ### Kyriba
 
-[Kyriba](https://www.kyriba.com/) provides cloud-based solutions for treasury and [risk management](../r/risk_management.md), including [trade](../t/trade.md) [finance](../f/finance.md). Kyriba’s platform enables businesses to optimize their working [capital](../c/capital.md), mitigate risks, and ensure regulatory compliance in their [trade](../t/trade.md) activities.
+Kyriba provides cloud-based solutions for treasury and [risk management](../r/risk_management.md), including [trade](../t/trade.md) [finance](../f/finance.md). Kyriba’s platform enables businesses to optimize their working [capital](../c/capital.md), mitigate risks, and ensure regulatory compliance in their [trade](../t/trade.md) activities.
 
 ### DS-Concept
 
-[DS-Concept](https://www.ds-concept.net/) offers [trade](../t/trade.md) [finance](../f/finance.md) services including factoring and [supply chain finance](../s/supply_chain_finance.md). They provide customized solutions for exporters and importers to improve their [liquidity](../l/liquidity.md) and financial stability.
+DS-Concept offers [trade](../t/trade.md) [finance](../f/finance.md) services including factoring and [supply chain finance](../s/supply_chain_finance.md). They provide customized solutions for exporters and importers to improve their [liquidity](../l/liquidity.md) and financial stability.
 
 ### PrimeRevenue
 
-[PrimeRevenue](https://primerevenue.com/) specializes in [supply chain finance](../s/supply_chain_finance.md), helping businesses access early payments on their invoices and manage their supplier relationships more effectively. Their platform supports both buyers and suppliers in optimizing [cash flow](../c/cash_flow.md) and reducing financial risks.
+PrimeRevenue specializes in [supply chain finance](../s/supply_chain_finance.md), helping businesses access early payments on their invoices and manage their supplier relationships more effectively. Their platform supports both buyers and suppliers in optimizing [cash flow](../c/cash_flow.md) and reducing financial risks.
 
 ## Conclusion
 

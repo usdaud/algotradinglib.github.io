@@ -20,8 +20,8 @@ The calculation of the 52-week high/low is straightforward:
 
 Financial data providers and stock exchanges typically provide this information. For instance:
 
-- **[Yahoo Finance](../y/yahoo_finance.md)** [Yahoo Finance](https://finance.yahoo.com) offers historical data, including the 52-week high/low of securities.
-- **[Bloomberg](../b/bloomberg.md)** [Bloomberg](https://www.bloomberg.com) provides comprehensive financial data and can be a valuable resource for historical price information.
+- **[Yahoo Finance](../y/yahoo_finance.md)** Yahoo Finance offers historical data, including the 52-week high/low of securities.
+- **[Bloomberg](../b/bloomberg.md)** Bloomberg provides comprehensive financial data and can be a valuable resource for historical price information.
 
 ## Strategies Using 52-Week High/Low in Algotrading
 
@@ -62,85 +62,85 @@ Conversely:
 
 ## Implementation in Algorithmic Trading Systems
 
-To implement strategies involving the 52-week high/low in algotrading systems, various trading platforms and programming languages can be utilized. 
+To implement strategies involving the 52-week high/low in algotrading systems, various trading platforms and programming languages can be utilized.
 
 ### Trading Platforms
 
 1. **MetaTrader:** A widely used platform that supports [algorithmic trading](../a/algorithmic_trading.md) with tools such as MetaTrader's MQL4/MQL5 for coding custom indicators and strategies.
-   - [MetaTrader](https://www.metatrader4.com/en)
+ - MetaTrader
 
-2. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and live trading using Python or C#.
-   - [QuantConnect](https://www.quantconnect.com)
+2. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and live trading using C#.
+ - QuantConnect
 
 3. **[Interactive Brokers](../i/interactive_brokers.md):** They [offer](../o/offer.md) a [robust](../r/robust.md) API that traders can use to implement custom algorithms in languages such as Python, Java, and C++.
-   - [Interactive Brokers](https://www.interactivebrokers.com)
+ - Interactive Brokers
 
 ### Programming Languages
 
 1. **Python:** With libraries such as `pandas`, `numpy`, and `[backtrader](../b/backtrader.md)`, Python is a popular choice for developing algotrading algorithms.
-   ```python
-   [import](../i/import.md) pandas as pd
-   from datetime [import](../i/import.md) datetime, timedelta
+ ```python
+ [import](../i/import.md) pandas as pd
+ from datetime [import](../i/import.md) datetime, timedelta
 
-   # [Load](../l/load.md) historical stock data
-   stock_data = pd.read_csv('historical_prices.csv', parse_dates=['Date'], index_col='Date')
+ # [Load](../l/load.md) historical stock data
+ stock_data = pd.read_csv('historical_prices.csv', parse_dates=['Date'], index_col='Date')
 
-   # Calculate 52-week high and low
-   end_date = datetime.now()
-   start_date = end_date - timedelta(weeks=52)
-   last_year_data = stock_data[start_date:end_date]
+ # Calculate 52-week high and low
+ end_date = datetime.now()
+ start_date = end_date - timedelta(weeks=52)
+ last_year_data = stock_data[start_date:end_date]
 
-   fifty_two_week_high = last_year_data['High'].max()
-   fifty_two_week_low = last_year_data['Low'].min()
-   print(f"52-Week High: {fifty_two_week_high}, 52-Week Low: {fifty_two_week_low}")
-   ```
+ fifty_two_week_high = last_year_data['High'].max()
+ fifty_two_week_low = last_year_data['Low'].min()
+ print(f"52-Week High: {fifty_two_week_high}, 52-Week Low: {fifty_two_week_low}")
+ ```
 
 2. **C#:** Using platforms like [QuantConnect](../q/quantconnect.md), traders can write algorithms in C# that utilize historical data to calculate and act upon 52-week highs/lows.
-   ```csharp
-   public class MyAlgorithm : QCAlgorithm
-   {
-       private Symbol _symbol;
-       private RollingWindow<decimal> _highWindow;
-       private RollingWindow<decimal> _lowWindow;
+ ```csharp
+ public class MyAlgorithm: QCAlgorithm
+ {
+ private Symbol _symbol;
+ private RollingWindow<decimal> _highWindow;
+ private RollingWindow<decimal> _lowWindow;
 
-       public override void Initialize()
-       {
-           SetStartDate(2022, 1, 1);
-           SetEndDate(DateTime.Now);
-           _symbol = AddEquity("AAPL", Resolution.Daily).Symbol;
+ public override void Initialize()
+ {
+ SetStartDate(2022, 1, 1);
+ SetEndDate(DateTime.Now);
+ _symbol = AddEquity("AAPL", Resolution.Daily).Symbol;
 
-           _highWindow = new RollingWindow<decimal>(252);
-           _lowWindow = new RollingWindow<decimal>(252);
-       }
+ _highWindow = new RollingWindow<decimal>(252);
+ _lowWindow = new RollingWindow<decimal>(252);
+ }
 
-       public override void OnData(Slice data)
-       {
-           if (!data.Bars.ContainsKey(_symbol)) [return](../r/return.md);
+ public override void OnData(Slice data)
+ {
+ if (!data.Bars.ContainsKey(_symbol)) [return](../r/return.md);
 
-           var bar = data.Bars[_symbol];
-           _highWindow.Add(bar.High);
-           _lowWindow.Add(bar.Low);
+ var bar = data.Bars[_symbol];
+ _highWindow.Add(bar.High);
+ _lowWindow.Add(bar.Low);
 
-           if (_highWindow.IsReady && _lowWindow.IsReady)
-           {
-               var fiftyTwoWeekHigh = _highWindow.Max();
-               var fiftyTwoWeekLow = _lowWindow.Min();
-               
-               Debug($"52-Week High: {fiftyTwoWeekHigh}, 52-Week Low: {fiftyTwoWeekLow}");
+ if (_highWindow.IsReady && _lowWindow.IsReady)
+ {
+ var fiftyTwoWeekHigh = _highWindow.Max();
+ var fiftyTwoWeekLow = _lowWindow.Min();
 
-               // Implement [breakout trading](../b/breakout_trading.md) logic here
-               if (bar.Close >= fiftyTwoWeekHigh)
-               {
-                   SetHoldings(_symbol, 1);
-               }
-               else if (bar.Close <= fiftyTwoWeekLow)
-               {
-                   SetHoldings(_symbol, -1);
-               }
-           }
-       }
-   }
-   ```
+ Debug($"52-Week High: {fiftyTwoWeekHigh}, 52-Week Low: {fiftyTwoWeekLow}");
+
+ // Implement [breakout trading](../b/breakout_trading.md) logic here
+ if (bar.Close >= fiftyTwoWeekHigh)
+ {
+ SetHoldings(_symbol, 1);
+ }
+ else if (bar.Close <= fiftyTwoWeekLow)
+ {
+ SetHoldings(_symbol, -1);
+ }
+ }
+ }
+ }
+ ```
 
 ## Challenges and Risks
 
@@ -154,4 +154,4 @@ While the 52-week high/low can be a powerful tool in algotrading, it does come w
 
 ## Conclusion
 
-The 52-week high/low metric is a vital component in the toolbox of both discretionary and algorithmic traders. By understanding its significance and integrating it into [algorithmic trading](../a/algorithmic_trading.md) strategies, traders can potentially enhance their decision-making and achieve better [market](../m/market.md) outcomes. However, it's essential to be aware of the associated risks and challenges and to use this metric in conjunction with other indicators and strategies for a comprehensive trading approach.
+The 52-week high/low metric is a vital component in the toolbox of both discretionary and algorithmic traders. By understanding its significance and integrating it into [algorithmic trading](../a/algorithmic_trading.md) strategies, traders can potentially enhance their decision-making and achieve better [market](../m/market.md) outcomes. However, it's essential to be aware of the associated risks and challenges and to use this metric in conjunction with other indicators and strategies for a comprehensive trading approach.

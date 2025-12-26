@@ -79,7 +79,7 @@ High-frequency trading (HFT) firms must account for jump risks because sudden [m
 
 ## Case Study: Societe Generale
 
-Societe Generale [SG](https://www.societegenerale.com) employs a variety of [hedging strategies](../h/hedging_strategies.md), including those focused on jump risks. The [bank](../b/bank.md) utilizes advanced [quantitative models](../q/quantitative_models.md) and a suite of [derivatives](../d/derivatives.md) to protect against adverse [market](../m/market.md) movements.
+Societe Generale SG employs a variety of [hedging strategies](../h/hedging_strategies.md), including those focused on jump risks. The [bank](../b/bank.md) utilizes advanced [quantitative models](../q/quantitative_models.md) and a suite of [derivatives](../d/derivatives.md) to protect against adverse [market](../m/market.md) movements.
 
 ## Emerging Trends
 

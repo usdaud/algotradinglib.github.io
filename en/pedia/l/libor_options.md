@@ -1,15 +1,17 @@
 # Libor Options
 
-Libor [options](../o/options.md), also known as London Interbank Offered Rate [options](../o/options.md), are [derivative](../d/derivative.md) instruments that derive their [value](../v/value.md) from the Libor, an [interest rate](../i/interest_rate.md) [benchmark](../b/benchmark.md) that reflects the rates at which banks lend to each other in the international [interbank market](../i/interbank_market.md). These [options](../o/options.md) represent a key segment of the financial [derivatives](../d/derivatives.md) [market](../m/market.md), and play a crucial role in [interest rate](../i/interest_rate.md) hedging, speculating, and arbitraging strategies pursued by various financial institutions. 
+Libor [options](../o/options.md), also known as London Interbank Offered Rate [options](../o/options.md), are [derivative](../d/derivative.md) instruments that derive their [value](../v/value.md) from the Libor, an [interest rate](../i/interest_rate.md) [benchmark](../b/benchmark.md) that reflects the rates at which banks lend to each other in the international [interbank market](../i/interbank_market.md). These [options](../o/options.md) represent a key segment of the financial [derivatives](../d/derivatives.md) [market](../m/market.md), and play a crucial role in [interest rate](../i/interest_rate.md) hedging, speculating, and arbitraging strategies pursued by various financial institutions.
 
-Libor is a series of [interest](../i/interest.md) rates calculated for five currencies and seven borrowing periods ranging from overnight to one year, which are published each banking day by the Intercontinental [Exchange](../e/exchange.md) (ICE). These rates serve as reference rates for various financial instruments including mortgages, loans, and [derivatives](../d/derivatives.md) exceeding trillions of dollars in [value](../v/value.md) globally. 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
+Libor is a series of [interest](../i/interest.md) rates calculated for five currencies and seven borrowing periods ranging from overnight to one year, which are published each banking day by the Intercontinental [Exchange](../e/exchange.md) (ICE). These rates serve as reference rates for various financial instruments including mortgages, loans, and [derivatives](../d/derivatives.md) exceeding trillions of dollars in [value](../v/value.md) globally.
 
 ### Pricing Mechanism in Libor Options
 The [valuation](../v/valuation.md) of Libor [options](../o/options.md) is heavily influenced by the [volatility](../v/volatility.md) of the [underlying](../u/underlying.md) [Libor rate](../l/libor_rate_analysis.md). Pricing models for Libor [options](../o/options.md) are typically derived from the Black-Scholes framework adapted to [handle](../h/handle.md) [interest](../i/interest.md) rates, known as the Black model. The key inputs needed for the Black model are the current [Libor rate](../l/libor_rate_analysis.md), the [strike price](../s/strike_price.md) of the option, the time to expiry, the [risk](../r/risk.md)-free rate, and the [volatility](../v/volatility.md) of the [Libor rate](../l/libor_rate_analysis.md).
 
 The pricing of a European [call option](../c/call_option.md) on the [Libor rate](../l/libor_rate_analysis.md) can be expressed as follows:
 
-\[ 
+\[
 C = P \left[ F \cdot N(d1) - X \cdot e^{-r(T-t)} \cdot N(d2) \right]
 \]
 
@@ -39,9 +41,9 @@ Libor [options](../o/options.md) are used by a variety of [market](../m/market.m
 ### Regulatory and Market Landscape
 Libor [options](../o/options.md) are traded on various exchanges and [over-the-counter (OTC) markets](../o/over-the-counter_markets.md). However, the credibility of Libor as a [benchmark](../b/benchmark.md) was significantly impacted by the [Libor scandal](../l/libor_scandal.md), where it was revealed that several banks colluded to manipulate the rate for [profit](../p/profit.md). This had profound repercussions, prompting global regulatory bodies to initiate a transition from Libor to alternative [risk](../r/risk.md)-free rates (RFRs) like the Secured Overnight [Financing](../f/financing.md) Rate (SOFR) in the US, the [Euro](../e/euro.md) Short-Term Rate (€STR) in Europe, and the Sterling Overnight [Index](../i/index_instrument.md) Average (SONIA) in the UK.
 
-ICE continues to publish Libor rates despite these developments, but the transition towards alternative benchmarks is steadily advancing. [Market](../m/market.md) participants are gradually shifting their [interest rate](../i/interest_rate.md) hedging and speculative activities from Libor-based instruments to those linked with new RFR benchmarks. 
+ICE continues to publish Libor rates despite these developments, but the transition towards alternative benchmarks is steadily advancing. [Market](../m/market.md) participants are gradually shifting their [interest rate](../i/interest_rate.md) hedging and speculative activities from Libor-based instruments to those linked with new RFR benchmarks.
 
-Further information on the latest developments related to Libor can be found on the website of the [Intercontinental Exchange (ICE)](https://www.theice.com/iba/libor).
+
 
 ### Mathematical Appendix
 For those looking for a deeper mathematical understanding, the [stochastic processes](../s/stochastic_processes.md) governing the evolution of Libor rates can be modeled using various [interest rate models](../i/interest_rate_models.md), such as:
@@ -52,7 +54,7 @@ dr(t) = \[theta](../t/theta.md) [\mu - r(t)]dt + \sigma dW(t)
 \]
 where \(\[theta](../t/theta.md)\) is the reversion speed, \(\mu\) is the long-term mean rate, \(\sigma\) is the [volatility](../v/volatility.md) [factor](../f/factor.md), and \(dW(t)\) is the Wiener process.
 
-- **Black-Derman-Toy Model:** This is a discrete-time model used to describe the evolution of [interest](../i/interest.md) rates. It accounts for varying volatilities and ensures that they are positive. 
+- **Black-Derman-Toy Model:** This is a discrete-time model used to describe the evolution of [interest](../i/interest.md) rates. It accounts for varying volatilities and ensures that they are positive.
 
 These models contribute to the accurate pricing, [risk management](../r/risk_management.md), and strategic placement of Libor [options](../o/options.md).
 

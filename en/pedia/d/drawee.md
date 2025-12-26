@@ -1,64 +1,81 @@
-# Drawdown
+# Drawee
 
-Drawdown is a critical concept in the world of trading and [investment management](../i/investment_management.md). It refers to the peak-to-[trough](../t/trough.md) decline during a specific recorded period of an investment, [trading account](../t/trading_account.md), or [fund](../f/fund.md). It is usually quoted as the percentage between the peak and the [trough](../t/trough.md). Understanding drawdown is essential for both individual investors and institutional traders, as it helps gauge [risk](../r/risk.md) and the potential for loss in any given strategy or portfolio.
+A drawee is a financial and legal term referring to the party that is directed to pay a specified sum of [money](../m/money.md) in a [negotiable instrument](../n/negotiable_instrument.md), such as a [check](../c/check.md), [draft](../d/draft.md), or [bill of exchange](../b/bill_of_exchange.md). The drawee is typically a [bank](../b/bank.md) or financial institution that holds the funds of the drawer (the party who writes the [check](../c/check.md) or [draft](../d/draft.md)).
 
-## Types of Drawdown
+## Key Concepts
 
-### 1. **Absolute Drawdown**
-Absolute drawdown is the difference between the initial [capital](../c/capital.md) and the smallest point below the initial [capital](../c/capital.md). This metric is crucial for understanding the worst-case scenario in terms of actual loss.
+### Parties Involved in a Negotiable Instrument
 
-### 2. **Maximum Drawdown**
-Maximum drawdown (MDD) is one of the most commonly used metrics to evaluate the [risk](../r/risk.md) of a portfolio. It represents the maximum loss from a peak to a [trough](../t/trough.md) of a portfolio, before a new peak is attained. 
+1. **Drawer**: The party who creates and signs the [negotiable instrument](../n/negotiable_instrument.md), ordering the drawee to pay a specified amount.
+2. **Drawee**: The party directed to make the [payment](../p/payment.md). In the case of a [check](../c/check.md), this is typically the [bank](../b/bank.md) where the drawer has an account.
+3. **[Payee](../p/payee.md)**: The party designated to receive the [payment](../p/payment.md).
 
-### 3. **Relative Drawdown**
-Relative drawdown is expressed as a percentage and is the ratio of the current drawdown to the historical [equity](../e/equity.md) high.
+### The Role of the Drawee
 
-## Importance of Drawdown
+The drawee's primary responsibility is to honor the [payment](../p/payment.md) request made by the drawer, provided that:
+- The drawer has sufficient funds in the account
+- The instrument is properly executed and presented
+- There are no legal restrictions preventing [payment](../p/payment.md)
 
-### **1. Risk Management**
-Drawdown measures are vital in the assessment of trading [risk](../r/risk.md). Traders often set maximum allowable drawdowns that if exceeded, trigger predetermined [risk management](../r/risk_management.md) actions.
+When a [check](../c/check.md) is presented to the drawee [bank](../b/bank.md), the [bank](../b/bank.md) verifies the authenticity of the instrument and the availability of funds before processing the [payment](../p/payment.md).
 
-### **2. Performance Evaluation**
-By examining drawdown values, investors can identify the robustness and reliability of different [trading strategies](../t/trading_strategies.md).
+## Types of Instruments Involving Drawees
 
-### **3. Psychological Impact**
-High drawdowns can have a significant negative psychological impact on traders and investors, potentially leading to poor decision-making and strategy abandonment.
+### Checks
 
-## Drawdown Calculation
+A [check](../c/check.md) is the most common [negotiable instrument](../n/negotiable_instrument.md) involving a drawee. The drawee is the [bank](../b/bank.md) on which the [check](../c/check.md) is drawn. When the [payee](../p/payee.md) deposits or cashes the [check](../c/check.md), their [bank](../b/bank.md) presents it to the drawee [bank](../b/bank.md) for [payment](../p/payment.md).
 
-The formula to calculate drawdown is:
+### Bills of Exchange
 
-\[ \text{Drawdown} = \frac{\text{[Trough](../t/trough.md) [Value](../v/value.md) - Peak [Value](../v/value.md)}}{\text{Peak [Value](../v/value.md)}} \]
+In international [trade](../t/trade.md), a [bill of exchange](../b/bill_of_exchange.md) is commonly used. The drawee in this context may be a [bank](../b/bank.md) or the buyer of goods, depending on the terms of the [transaction](../t/transaction.md).
 
-This can be broken into computational steps, especially in [algorithmic trading](../a/accountability.md) systems, where continuous monitoring of drawdowns is necessary.
+### Bank Drafts
 
-## Managing Drawdown
+A [bank draft](../b/bank_draft.md) is a [payment](../p/payment.md) instrument where the [bank](../b/bank.md) itself acts as both the drawer and the guarantor. The drawee is typically another [bank](../b/bank.md) or branch of the same [bank](../b/bank.md).
 
-### **1. Diversification**
-Diversifying investments can mitigate the impact of drawdowns by spreading [risk](../r/risk.md) across various assets or strategies.
+## Legal Framework
 
-### **2. Stop-Loss Orders**
-Automatic [stop-loss orders](../s/stop-loss_orders.md) can limit potential losses by automatically closing a position when it reaches a predefined loss threshold.
+### Uniform Commercial Code (UCC)
 
-### **3. Periodic Portfolio Rebalancing**
-Regularly adjusting the proportions of assets in a portfolio helps in maintaining the desired [risk](../r/risk.md) level.
+In the United States, the rights and [obligations](../o/obligation.md) of drawees are governed by Article 3 of the Uniform Commercial Code (UCC), which covers [negotiable instruments](../n/negotiable_instruments.md).
 
-## Tools and Technologies
+### Bills of Exchange Act
 
-Several companies [offer](../o/offer.md) tools and services to manage and analyze drawdowns. Here are some notable ones:
+In the United Kingdom and Commonwealth countries, similar principles are codified in the Bills of [Exchange](../e/exchange.md) Act 1882, which defines the relationship between drawers, drawees, and payees.
 
-### **1. QuantConnect**
-[QuantConnect](../q/quantconnect.md) provides cloud-based [algorithmic trading](../a/accountability.md) solutions that help in [backtesting](../b/backtesting.md) strategies and managing drawdowns. 
-Website: [QuantConnect](https://www.quantconnect.com/)
+## Drawee's Liability
 
-### **2. AlphaSense**
-AlphaSense offers AI-driven investment research tools for managing risks related to drawdowns.
-Website: [AlphaSense](https://www.alpha-sense.com/)
+The drawee is not automatically liable on a [negotiable instrument](../n/negotiable_instrument.md) until they accept it. Acceptance occurs when the drawee signs the instrument, indicating agreement to pay the specified amount. Once accepted:
 
-### **3. Riskalyze**
-Riskalyze helps advisors manage clients' portfolios by understanding potential drawdowns and aligning portfolios with clients' [risk tolerance](../r/risk_tolerance.md).
-Website: [Riskalyze](https://www.riskalyze.com/)
+- The drawee becomes the **acceptor**
+- The acceptor is primarily liable for [payment](../p/payment.md)
+- The acceptor must pay the instrument according to its terms at the time of acceptance
+
+## Dishonor by Drawee
+
+If the drawee refuses to pay or accept the instrument, it is said to be **dishonored**. Common reasons for dishonor include:
+
+- Insufficient funds in the drawer's account
+- Account closed or frozen
+- Signature irregularities
+- Stop [payment](../p/payment.md) orders
+- Expired or stale-dated instruments
+
+When an instrument is dishonored, the holder may pursue legal remedies against the drawer and any endorsers.
+
+## Practical Applications
+
+### Banking Operations
+
+Banks serving as drawees process millions of checks and drafts daily through automated [clearing](../c/clearing.md) systems such as:
+- **ACH ([Automated Clearing House](../a/ach_(automated_clearing_house).md))** in the United States
+- **BACS** in the United Kingdom
+- **SEPA** in the [European Union](../e/european_union_(eu).md)
+
+### Trade Finance
+
+In international [trade](../t/trade.md), drawees play a crucial role in documentary collections and letters of [credit](../c/credit.md), where banks act as intermediaries to ensure secure [payment](../p/payment.md) between importers and exporters.
 
 ## Conclusion
 
-Understanding drawdown and its implications is essential for anyone involved in trading and [investing](../i/investing.md). It serves as a critical measure of [risk](../r/risk.md) and performance, allowing traders and investors to make informed decisions and employ strategic [risk management](../r/risk_management.md) practices.
+The drawee is a fundamental concept in commercial and banking law, representing the party responsible for making [payment](../p/payment.md) on [negotiable instruments](../n/negotiable_instruments.md). Understanding the role and responsibilities of drawees is essential for anyone involved in banking, [trade finance](../t/trade_finance.md), or commercial transactions.

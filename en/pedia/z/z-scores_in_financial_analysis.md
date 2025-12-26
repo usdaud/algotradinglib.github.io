@@ -68,7 +68,7 @@ Portfolio managers deploy [Z-scores](../z/z-scores_in_trading.md) to [benchmark]
 
 [Credit risk](../c/credit_risk.md) analysts employ [Z-scores](../z/z-scores_in_trading.md) to evaluate the financial stability of companies and predict [credit](../c/credit.md) defaults. Tools like the [Altman Z-score](../a/altman_z-score.md) are integral in developing [credit](../c/credit.md) scoring models and [risk](../r/risk.md) assessments for loans and bonds.
 
-### Limitations 
+### Limitations
 
 Despite their [utility](../u/utility.md), [Z-scores](../z/z-scores_in_trading.md) have certain limitations in [financial analysis](../f/financial_analysis.md):
 - **Assumption of Normality**: [Z-scores](../z/z-scores_in_trading.md) assume a [normal distribution](../n/normal_distribution_in_trading.md) of data which is often not the case in [financial markets](../f/financial_market.md).

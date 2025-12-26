@@ -55,8 +55,8 @@ Similar to MBS, ABS such as auto loans or [credit card](../c/credit_card.md) rec
 ### Trading Platforms and Tools
 
 Several trading platforms [offer](../o/offer.md) functionalities to analyze and compute average life:
-- [Interactive Brokers](https://www.interactivebrokers.com): Provides comprehensive [bond](../b/bond.md) trading tools, including analysis of average life.
-- [Charles Schwab](https://www.schwab.com): Offers a [range](../r/range.md) of services for [bond](../b/bond.md) investors, including educational resources about average life.
+- Interactive Brokers: Provides comprehensive [bond](../b/bond.md) trading tools, including analysis of average life.
+- Charles Schwab: Offers a [range](../r/range.md) of services for [bond](../b/bond.md) investors, including educational resources about average life.
 
 ## Conclusion
 

@@ -4,7 +4,7 @@ In the realm of [options](../o/options.md) trading and [financial markets](../f/
 
 ## Definition of Long Put
 
-A long put is an option strategy where an [investor](../i/investor.md) buys a [put option](../p/put.md) with the expectation that the [underlying asset](../u/underlying_asset.md)'s price [will](../w/will.md) decline. A [put option](../p/put.md) gives the holder the right, but not the obligation, to sell the [underlying asset](../u/underlying_asset.md) at a specified price (the [strike price](../s/strike_price.md)) before or at the option's [expiration date](../e/expiration_date.md). The buyer of a [put option](../p/put.md) pays a [premium](../p/premium.md) for this right. 
+A long put is an option strategy where an [investor](../i/investor.md) buys a [put option](../p/put.md) with the expectation that the [underlying asset](../u/underlying_asset.md)'s price [will](../w/will.md) decline. A [put option](../p/put.md) gives the holder the right, but not the obligation, to sell the [underlying asset](../u/underlying_asset.md) at a specified price (the [strike price](../s/strike_price.md)) before or at the option's [expiration date](../e/expiration_date.md). The buyer of a [put option](../p/put.md) pays a [premium](../p/premium.md) for this right.
 
 By using a long put strategy, an [investor](../i/investor.md) can [capitalize](../c/capitalize.md) on the downward movement in the price of the [underlying asset](../u/underlying_asset.md) without actually holding or owning the [asset](../a/asset.md). This strategy can be employed as a form of [insurance](../i/insurance.md) to [hedge](../h/hedge.md) against potential losses in an [underlying](../u/underlying.md) stock position.
 
@@ -22,22 +22,22 @@ To illustrate the long put strategy, consider an [investor](../i/investor.md), J
 ### Possible Scenarios
 
 1. **Stock Price Falls to $85:**
-   - Jane exercises the [put option](../p/put.md), selling XYZ stock at $95.
-   - The [intrinsic value](../i/intrinsic_value.md) of the option is $10 [$95 ([strike price](../s/strike_price.md)) - $85 (current price)].
-   - Since she paid a $3 [premium](../p/premium.md), her net [profit](../p/profit.md) is $7 per share [$10 [intrinsic value](../i/intrinsic_value.md) - $3 [premium](../p/premium.md)].
-   
+ - Jane exercises the [put option](../p/put.md), selling XYZ stock at $95.
+ - The [intrinsic value](../i/intrinsic_value.md) of the option is $10 [$95 ([strike price](../s/strike_price.md)) - $85 (current price)].
+ - Since she paid a $3 [premium](../p/premium.md), her net [profit](../p/profit.md) is $7 per share [$10 [intrinsic value](../i/intrinsic_value.md) - $3 [premium](../p/premium.md)].
+
 2. **Stock Price Falls to $95:**
-   - Jane exercises the [put option](../p/put.md), selling XYZ stock at $95.
-   - The [intrinsic value](../i/intrinsic_value.md) of the option is $0 as the [market price](../m/market_price.md) equals the [strike price](../s/strike_price.md).
-   - Jane incurs a loss equal to the [premium](../p/premium.md) paid, which is $3.
+ - Jane exercises the [put option](../p/put.md), selling XYZ stock at $95.
+ - The [intrinsic value](../i/intrinsic_value.md) of the option is $0 as the [market price](../m/market_price.md) equals the [strike price](../s/strike_price.md).
+ - Jane incurs a loss equal to the [premium](../p/premium.md) paid, which is $3.
 
 3. **Stock Price Remains at $100:**
-   - The option expires worthless as there is no benefit in selling at $95 when the [market price](../m/market_price.md) is $100.
-   - Jane's total loss is the [premium](../p/premium.md) paid, i.e., $3.
+ - The option expires worthless as there is no benefit in selling at $95 when the [market price](../m/market_price.md) is $100.
+ - Jane's total loss is the [premium](../p/premium.md) paid, i.e., $3.
 
 4. **Stock Price Rises to $110:**
-   - The option expires worthless.
-   - Jane loses $3, the [premium](../p/premium.md) paid for the option.
+ - The option expires worthless.
+ - Jane loses $3, the [premium](../p/premium.md) paid for the option.
 
 This example demonstrates how a long put strategy can limit losses to the [premium](../p/premium.md) paid while [offering](../o/offering.md) significant potential gains if the [underlying asset](../u/underlying_asset.md)'s price declines.
 
@@ -68,17 +68,17 @@ Shorting a stock involves borrowing [shares](../s/shares.md) of the stock and se
 #### Long Put Example Revisited
 
 - **Stock Price Falls to $85:**
-  - Jane buys a [put option](../p/put.md) at $95 strike for $3.
-  - [Intrinsic value](../i/intrinsic_value.md) = $95 - $85 = $10.
-  - Net [Profit](../p/profit.md) = $10 - $3 = $7 per share.
+ - Jane buys a [put option](../p/put.md) at $95 strike for $3.
+ - [Intrinsic value](../i/intrinsic_value.md) = $95 - $85 = $10.
+ - Net [Profit](../p/profit.md) = $10 - $3 = $7 per share.
 
 #### Short Selling Example (Same Scenario)
 
 - **Stock Price Falls to $85:**
-  - Jane shorts 100 [shares](../s/shares.md) at $100.
-  - Repurchases at $85.
-  - [Gross Profit](../g/gross_profit.md) = ($100 - $85) * 100 = $1500.
-  - Subtract borrowing costs and commissions to determine net [profit](../p/profit.md).
+ - Jane shorts 100 [shares](../s/shares.md) at $100.
+ - Repurchases at $85.
+ - [Gross Profit](../g/gross_profit.md) = ($100 - $85) * 100 = $1500.
+ - Subtract borrowing costs and commissions to determine net [profit](../p/profit.md).
 
 In both cases, Jane profits from the stock’s decline. However, the risks and costs associated with each strategy differ. In the long put scenario, Jane's [risk](../r/risk.md) is limited to the [premium](../p/premium.md) paid, whereas shorting the stock exposes her to potentially infinite losses if the stock price increases.
 

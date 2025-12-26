@@ -150,7 +150,7 @@ Corporate [earnings](../e/earnings.md) represent a company’s profitability and
 In essence, worldwide [economic indicators](../e/economic_indicators.md) are indispensable for [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) a [wealth](../w/wealth.md) of data that not only reflects the current state of the [economy](../e/economy.md) but also helps in predicting future [market](../m/market.md) movements. By integrating these indicators into sophisticated [trading models](../t/trading_models.md), algorithmic traders can make more informed, data-driven decisions, ultimately enhancing their [trading performance](../t/trading_performance.md).
 
 For further information and live data reference, traders and interested parties can visit several reliable sources such as:
-- [U.S. Bureau of Economic Analysis](https://www.bea.gov/)
-- [Eurostat](https://ec.europa.eu/eurostat)
-- [World Bank Data](https://data.worldbank.org/)
-- [International Monetary Fund (IMF)](https://www.imf.org/en/Data)
+- U.S. Bureau of Economic Analysis
+- Eurostat
+- World Bank Data
+- International Monetary Fund (IMF)

@@ -43,5 +43,3 @@ Fidelity integrates with a variety of financial platforms and tools to enhance i
 ## Regulation
 Fidelity Investments is regulated by the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and the Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md)), ensuring a secure and compliant [trading environment](../t/trading_environment.md).
 
-## Website
-For more information and to start trading, visit the official Fidelity Investments website: [Fidelity Investments](https://www.fidelity.com)

@@ -4,7 +4,7 @@ In [finance](../f/finance.md) and [statistics](../s/statistics.md), the concept 
 
 ## Definition of Platykurtic
 
-A platykurtic [distribution](../d/distribution.md) has a [kurtosis](../k/kurtosis.md) [value](../v/value.md) less than three (since the [kurtosis](../k/kurtosis.md) of a [normal distribution](../n/normal_distribution_in_trading.md) is 3). This lower [kurtosis](../k/kurtosis.md) indicates that the [distribution](../d/distribution.md)'s tails are thinner and the peak (central region) is flatter than the [normal distribution](../n/normal_distribution_in_trading.md). The term is derived from the Greek words "platy," meaning broad, and "kurtos," meaning curved. Therefore, a platykurtic [distribution](../d/distribution.md) has a "broadly curved" appearance. 
+A platykurtic [distribution](../d/distribution.md) has a [kurtosis](../k/kurtosis.md) [value](../v/value.md) less than three (since the [kurtosis](../k/kurtosis.md) of a [normal distribution](../n/normal_distribution_in_trading.md) is 3). This lower [kurtosis](../k/kurtosis.md) indicates that the [distribution](../d/distribution.md)'s tails are thinner and the peak (central region) is flatter than the [normal distribution](../n/normal_distribution_in_trading.md). The term is derived from the Greek words "platy," meaning broad, and "kurtos," meaning curved. Therefore, a platykurtic [distribution](../d/distribution.md) has a "broadly curved" appearance.
 
 In general, [kurtosis](../k/kurtosis.md) is divided into three types:
 1. **Leptokurtic**: [Kurtosis](../k/kurtosis.md) > 3, indicating fatter tails and a sharper peak.
@@ -34,7 +34,7 @@ If \(\gamma_2 < 0\), the [distribution](../d/distribution.md) is considered plat
 
 ## Characteristics of Platykurtic Distributions
 
-1. **Tails**: Thinner tails indicate a lower probability of extreme values or outliers compared to the [normal distribution](../n/normal_distribution_in_trading.md). 
+1. **Tails**: Thinner tails indicate a lower probability of extreme values or outliers compared to the [normal distribution](../n/normal_distribution_in_trading.md).
 2. **Peak**: A flatter peak suggests that data points are more evenly distributed around the mean.
 3. **[Risk](../r/risk.md)**: Platykurtic distributions are often considered to have lower [risk](../r/risk.md) of extreme outcomes, making them appealing for [risk-averse](../r/risk-averse.md) investors.
 4. **Shape**: Generally, these distributions appear broader and less centralized around the mean.
@@ -51,7 +51,7 @@ In [risk management](../r/risk_management.md), the shape of a [probability distr
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), understanding the [distribution](../d/distribution.md) of returns is crucial for developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). While many strategies aim to exploit fat-tails and [volatility](../v/volatility.md), there are situations where a platykurtic assumption could simplify model development and enhance computational [efficiency](../e/efficiency.md). For instance, [risk-averse](../r/risk-averse.md) [trading algorithms](../t/trading_algorithms.md) might prioritize consistency and reduced likelihood of extreme outliers, making platykurtic distributions a viable assumption.
+In [algorithmic trading](../a/algorithmic_trading.md), understanding the [distribution](../d/distribution.md) of returns is crucial for developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). While many strategies aim to exploit fat-tails and [volatility](../v/volatility.md), there are situations where a platykurtic assumption could simplify model development and enhance computational [efficiency](../e/efficiency.md). For instance, [risk-averse](../r/risk-averse.md) [trading algorithms](../t/trading_algorithms.md) might prioritize consistency and reduced likelihood of extreme outliers, making platykurtic distributions a viable assumption.
 
 ## Real-World Applications
 
@@ -75,11 +75,11 @@ Managers of large, diverse portfolios often aim for more stable returns with few
 
 ### Case Study 1: Stable Utility Companies
 
-[Utility](../u/utility.md) companies often have stable, predictable cash flows, making their returns distributions more likely to be platykurtic. For instance, a [utility](../u/utility.md) company like NextEra Energy (https://www.nexteraenergy.com/) often exhibits returns with less pronounced peaks and thinner tails. Investors in such companies might prioritize stability and predictability over high but volatile returns.
+[Utility](../u/utility.md) companies often have stable, predictable cash flows, making their returns distributions more likely to be platykurtic. For instance, a [utility](../u/utility.md) company like NextEra Energy ( often exhibits returns with less pronounced peaks and thinner tails. Investors in such companies might prioritize stability and predictability over high but volatile returns.
 
 ### Case Study 2: Municipal Bond Portfolios
 
-[Municipal bond](../m/municipal_bond.md) portfolios are another example where returns might follow a platykurtic [distribution](../d/distribution.md). These bonds typically have lower [default](../d/default.md) risks and provide steady returns, resulting in a [probability distribution](../p/probability_distribution.md) with lower [kurtosis](../k/kurtosis.md). Portfolio managers, such as those at the Vanguard Group (https://[investor](../i/investor.md).vanguard.com/corporate-portal/), might utilize platykurtic assumptions in their [risk models](../r/risk_models_in_trading.md) to better match the actual performance of [bond](../b/bond.md) investments.
+[Municipal bond](../m/municipal_bond.md) portfolios are another example where returns might follow a platykurtic [distribution](../d/distribution.md). These bonds typically have lower [default](../d/default.md) risks and provide steady returns, resulting in a [probability distribution](../p/probability_distribution.md) with lower [kurtosis](../k/kurtosis.md). Portfolio managers, such as those at the Vanguard Group ( might utilize platykurtic assumptions in their [risk models](../r/risk_models_in_trading.md) to better match the actual performance of [bond](../b/bond.md) investments.
 
 ### Case Study 3: Pension Funds
 
@@ -87,6 +87,6 @@ Pension funds aim for stable, long-term returns to meet their future liabilities
 
 ## Conclusion
 
-Understanding platykurtic distributions is essential for financial professionals aiming to model, manage, and mitigate risks effectively. With their characteristic thinner tails and flatter peaks, platykurtic distributions signal lower probabilities of extreme outcomes, making them useful for specific applications within [finance](../f/finance.md) and trading. Although real-world financial returns often deviate towards leptokurtic behavior, acknowledging and applying the concepts of platykurtic distributions can provide valuable insights, particularly in low-[volatility](../v/volatility.md) and [risk-averse](../r/risk-averse.md) investment contexts. 
+Understanding platykurtic distributions is essential for financial professionals aiming to model, manage, and mitigate risks effectively. With their characteristic thinner tails and flatter peaks, platykurtic distributions signal lower probabilities of extreme outcomes, making them useful for specific applications within [finance](../f/finance.md) and trading. Although real-world financial returns often deviate towards leptokurtic behavior, acknowledging and applying the concepts of platykurtic distributions can provide valuable insights, particularly in low-[volatility](../v/volatility.md) and [risk-averse](../r/risk-averse.md) investment contexts.
 
-Whether it's in [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, or [algorithmic trading](../a/accountability.md), the implications of assuming a platykurtic [distribution](../d/distribution.md) can be profound, influencing strategies, decisions, and outcomes. As [finance](../f/finance.md) continues to evolve with advanced modeling techniques and computational power, the nuanced understanding of terms like platykurtic becomes increasingly indispensable for gaining a competitive edge in the [market](../m/market.md).
+Whether it's in [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, or [algorithmic trading](../a/algorithmic_trading.md), the implications of assuming a platykurtic [distribution](../d/distribution.md) can be profound, influencing strategies, decisions, and outcomes. As [finance](../f/finance.md) continues to evolve with advanced modeling techniques and computational power, the nuanced understanding of terms like platykurtic becomes increasingly indispensable for gaining a competitive edge in the [market](../m/market.md).

@@ -6,7 +6,7 @@ The [Order](../o/order.md) Protection Rule, also known as Rule 611, is a mandate
 
 The [Order](../o/order.md) Protection Rule requires that trading centers, including exchanges and alternative [trading systems](../t/trading_systems.md) (ATS), protect the best displayed bids and offers, known as the National Best [Bid](../b/bid.md) and [Offer](../o/offer.md) (NBBO). This means that [market](../m/market.md) participants executing trades must either execute at the NBBO or route the [order](../o/order.md) to a [market](../m/market.md) where the NBBO is available.
 
-## Key Concepts 
+## Key Concepts
 
 ### National Best Bid and Offer (NBBO)
 The NBBO represents the highest [bid price](../b/bid_price.md) and the lowest [offer](../o/offer.md) price available across all trading venues. In essence, it is the best price at which [shares](../s/shares.md) can be bought or sold in the [market](../m/market.md) at any given time. Calculating and disseminating the NBBO is crucial for maintaining a level playing field among investors.

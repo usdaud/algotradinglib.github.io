@@ -48,9 +48,9 @@ Frequent trading inherent in [theta](../t/theta.md) [scalping](../s/scalping.md)
 
 Various [software platforms](../s/software_platforms_for_trading.md) [offer](../o/offer.md) tools and APIs for developing, [backtesting](../b/backtesting.md), and executing [theta](../t/theta.md) [scalping](../s/scalping.md) algorithms. Some of the popular [options](../o/options.md) include:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-- **[Tradier](../t/tradier.md)**: An API-integrated [trading platform](../t/trading_platform.md) providing access to [options](../o/options.md) markets and real-time data. [Tradier](https://www.tradier.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides APIs and [robust](../r/robust.md) trading mechanisms for implementing [options](../o/options.md) trades. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). QuantConnect
+- **[Tradier](../t/tradier.md)**: An API-integrated [trading platform](../t/trading_platform.md) providing access to [options](../o/options.md) markets and real-time data. Tradier
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides APIs and [robust](../r/robust.md) trading mechanisms for implementing [options](../o/options.md) trades. Interactive Brokers
 
 ## Case Studies
 

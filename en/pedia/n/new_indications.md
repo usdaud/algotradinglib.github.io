@@ -1,6 +1,6 @@
 # New Indications
 
-[Technical analysis](../t/technical_analysis.md) is a method used in the realm of [finance](../f/finance.md) and trading to forecast the direction of prices by analyzing historical [market](../m/market.md) data, primarily price and [volume](../v/volume.md). It is a fundamental discipline within the broader field of trading and has a significant role in [algorithmic trading](../a/accountability.md). This comprehensive guide explores the principles, tools, and strategies associated with [technical analysis](../t/technical_analysis.md), particularly focusing on its application in [algorithmic trading](../a/accountability.md).
+[Technical analysis](../t/technical_analysis.md) is a method used in the realm of [finance](../f/finance.md) and trading to forecast the direction of prices by analyzing historical [market](../m/market.md) data, primarily price and [volume](../v/volume.md). It is a fundamental discipline within the broader field of trading and has a significant role in [algorithmic trading](../a/algorithmic_trading.md). This comprehensive guide explores the principles, tools, and strategies associated with [technical analysis](../t/technical_analysis.md), particularly focusing on its application in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Fundamentals of Technical Analysis
 
@@ -52,7 +52,7 @@ Moving averages smooth out price data to identify trends. Types include:
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to [trade](../t/trade.md) at high frequencies, employing strategies based on [technical indicators](../t/technical_indicator.md) and patterns. Key aspects include:
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to [trade](../t/trade.md) at high frequencies, employing strategies based on [technical indicators](../t/technical_indicator.md) and patterns. Key aspects include:
 
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Ensure trades are made quickly and efficiently.
 - **[Alpha Generation](../a/alpha_generation.md) Algorithms**: Identify profitable opportunities using statistical and [machine learning](../m/machine_learning.md) models.
@@ -66,21 +66,21 @@ Moving averages smooth out price data to identify trends. Types include:
 
 ### High-Frequency Trading (HFT)
 
-HFT is a subset of [algorithmic trading](../a/accountability.md), involving rapid [execution](../e/execution.md) of orders:
+HFT is a subset of [algorithmic trading](../a/algorithmic_trading.md), involving rapid [execution](../e/execution.md) of orders:
 
 - Utilizes complex algorithms and [high-speed data feed](../h/high-speed_data_feed.md).
 - Relies heavily on [technical analysis](../t/technical_analysis.md) and trends.
 
 ### Machine Learning
 
-[Machine learning](../m/machine_learning.md) enhances [algorithmic trading](../a/accountability.md) through [predictive models](../p/predictive_models_in_trading.md):
+[Machine learning](../m/machine_learning.md) enhances [algorithmic trading](../a/algorithmic_trading.md) through [predictive models](../p/predictive_models_in_trading.md):
 
 - **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on annotated data (e.g., predicting price movements).
 - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifies hidden patterns in the data (e.g., clustering similar [market](../m/market.md) conditions).
 
 ### Execution Strategies
 
-Common [execution](../e/execution.md) strategies in [algorithmic trading](../a/accountability.md) include:
+Common [execution](../e/execution.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) include:
 
 - **VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price)**: Divides orders based on historical [volume](../v/volume.md) [distribution](../d/distribution.md).
 - **TWAP (Time [Weighted Average](../w/weighted_average.md) Price)**: Divides orders evenly over a set period.
@@ -120,7 +120,7 @@ Techniques to reduce potential losses:
 
 ### Market Regulations
 
-[Financial markets](../f/financial_market.md) are regulated to ensure fair practices, of importance in [algorithmic trading](../a/accountability.md):
+[Financial markets](../f/financial_market.md) are regulated to ensure fair practices, of importance in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))** in the United States.
 - **FCA (Financial Conduct Authority)** in the United Kingdom.

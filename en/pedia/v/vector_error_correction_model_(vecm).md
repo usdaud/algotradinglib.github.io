@@ -86,4 +86,4 @@ The Vector Error [Correction](../c/correction.md) Model (VECM) is a powerful too
 
 ### References
 
-1. [StatsModels Documentation](https://www.statsmodels.org/stable/vector_ar.html)
+1. StatsModels Documentation

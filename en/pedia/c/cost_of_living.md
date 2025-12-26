@@ -86,8 +86,8 @@ Governments need to consider the cost of living when designing social [welfare](
 
 Numerous tools and websites [offer](../o/offer.md) cost of living comparisons, helping individuals and businesses make informed decisions. For example:
 
-- [Numbeo](https://www.numbeo.com/cost-of-living/): A comprehensive database of cost of living data in various cities worldwide.
-- [Expatistan](https://www.expatistan.com/cost-of-living): A tool for comparing the cost of living between cities.
-- [Mercer](https://mobilityexchange.mercer.com/): A prominent consulting [firm](../f/firm.md) providing cost of living reports and indices.
+- Numbeo: A comprehensive database of cost of living data in various cities worldwide.
+- Expatistan: A tool for comparing the cost of living between cities.
+- Mercer: A prominent consulting [firm](../f/firm.md) providing cost of living reports and indices.
 
 Understanding the cost of living is a complex yet vital aspect of economic analysis, impacting personal decisions, [business](../b/business.md) strategies, and [government policies](../g/government_policies_in_trading.md). By considering the various factors and utilizing available resources, individuals and organizations can better navigate the financial landscape.

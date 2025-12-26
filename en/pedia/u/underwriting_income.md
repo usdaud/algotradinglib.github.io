@@ -106,11 +106,11 @@ Diversifying the portfolios and offerings can stabilize [underwriting](../u/unde
 
 ### Insurance Company Example
 
-A leading global [insurance](../i/insurance.md) company like Allianz SE (https://www.allianz.com/) has effectively managed its [underwriting](../u/underwriting.md) [income](../i/income.md) through a combination of stringent [risk](../r/risk.md) assessment, innovative products, and strategic [reinsurance](../r/reinsurance.md). Allianz employs sophisticated analytical tools to assess risks and set premiums that cover potential claims while ensuring profitability.
+A leading global [insurance](../i/insurance.md) company like Allianz SE ( has effectively managed its [underwriting](../u/underwriting.md) [income](../i/income.md) through a combination of stringent [risk](../r/risk.md) assessment, innovative products, and strategic [reinsurance](../r/reinsurance.md). Allianz employs sophisticated analytical tools to assess risks and set premiums that cover potential claims while ensuring profitability.
 
 ### Investment Banking Example
 
-An example in the [investment banking](../i/investment_banking.md) sector is Goldman Sachs (https://www.goldmansachs.com/). The [firm](../f/firm.md) has a [robust](../r/robust.md) [underwriting](../u/underwriting.md) division that handles large volumes of securities issuance and provides comprehensive advisory services, contributing significantly to its [underwriting](../u/underwriting.md) [income](../i/income.md).
+An example in the [investment banking](../i/investment_banking.md) sector is Goldman Sachs ( The [firm](../f/firm.md) has a [robust](../r/robust.md) [underwriting](../u/underwriting.md) division that handles large volumes of securities issuance and provides comprehensive advisory services, contributing significantly to its [underwriting](../u/underwriting.md) [income](../i/income.md).
 
 By leveraging its extensive [market](../m/market.md) expertise and [risk management](../r/risk_management.md) acumen, Goldman Sachs ensures that even in volatile markets, it can maintain a steady stream of [underwriting](../u/underwriting.md) [revenue](../r/revenue.md).
 

@@ -27,7 +27,7 @@ Apart from individual [candlestick](../c/candlestick.md) formations, [price patt
 ## Implementing Price Action in Algo Trading
 
 ### Algorithm Design
-Incorporating [price action](../p/price_action.md) signals into an [algorithmic trading](../a/algorithmic_trading.md) system involves creating rules and conditions based on these [price patterns](../p/price_patterns.md) and levels. 
+Incorporating [price action](../p/price_action.md) signals into an [algorithmic trading](../a/algorithmic_trading.md) system involves creating rules and conditions based on these [price patterns](../p/price_patterns.md) and levels.
 
 - **[Pattern Recognition](../p/pattern_recognition.md)**: The algorithm must be capable of recognizing various [candlestick patterns](../c/candlestick_patterns.md) and larger [price patterns](../p/price_patterns.md). This involves writing code that can identify the specific configuration of price bars forming these patterns.
 - **Dynamic [Support and Resistance](../s/support_and_resistance.md)**: The algorithm should be able to dynamically identify and adjust [support and resistance](../s/support_and_resistance.md) levels based on recent price movements.

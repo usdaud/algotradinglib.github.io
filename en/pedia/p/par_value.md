@@ -1,6 +1,6 @@
 # Par Value
 
-Par [value](../v/value.md), also known as "[nominal value](../n/nominal_value.md)" or "[face value](../f/face_value.md)," is a term extensively used in [finance](../f/finance.md) and trading, particularly in the context of bonds and [stocks](../s/stock.md). It represents the amount at which a [security](../s/security.md) is issued or can be redeemed at [maturity](../m/maturity.md). 
+Par [value](../v/value.md), also known as "[nominal value](../n/nominal_value.md)" or "[face value](../f/face_value.md)," is a term extensively used in [finance](../f/finance.md) and trading, particularly in the context of bonds and [stocks](../s/stock.md). It represents the amount at which a [security](../s/security.md) is issued or can be redeemed at [maturity](../m/maturity.md).
 
 ## Par Value in Bonds
 
@@ -16,7 +16,7 @@ In the [bond market](../b/bond_market.md), par [value](../v/value.md) is the [fa
 
 ### Bond Premiums and Discounts
 
-Bonds can [trade](../t/trade.md) above ([premium](../p/premium.md)) or below ([discount](../d/discount.md)) their par [value](../v/value.md) based on prevailing [interest](../i/interest.md) rates and other factors affecting [creditworthiness](../c/creditworthiness.md). 
+Bonds can [trade](../t/trade.md) above ([premium](../p/premium.md)) or below ([discount](../d/discount.md)) their par [value](../v/value.md) based on prevailing [interest](../i/interest.md) rates and other factors affecting [creditworthiness](../c/creditworthiness.md).
 
 - **[Premium](../p/premium.md) Bonds**: If prevailing [interest](../i/interest.md) rates are lower than the [bond](../b/bond.md)'s [coupon rate](../c/coupon_rate.md), the [bond](../b/bond.md) [will](../w/will.md) be more valuable and [trade](../t/trade.md) above par [value](../v/value.md).
 - **[Discount](../d/discount.md) Bonds**: Conversely, if prevailing [interest](../i/interest.md) rates are higher, the [bond](../b/bond.md)'s fixed coupon payments become less attractive, leading the [bond](../b/bond.md) to [trade](../t/trade.md) below par [value](../v/value.md).

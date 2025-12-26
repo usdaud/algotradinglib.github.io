@@ -1,6 +1,6 @@
 # Base Year
 
-A base year is a specific year against which [economic growth](../e/economic_growth.md) and other indices are measured. It serves as a reference point or [benchmark](../b/benchmark.md) for comparison of financial, economic, or statistical data over a period of time. This practice is widespread in various analyses such as [inflation](../i/inflation.md) adjustments, GDP calculations, financial reporting, and other time-series data comparisons. 
+A base year is a specific year against which [economic growth](../e/economic_growth.md) and other indices are measured. It serves as a reference point or [benchmark](../b/benchmark.md) for comparison of financial, economic, or statistical data over a period of time. This practice is widespread in various analyses such as [inflation](../i/inflation.md) adjustments, GDP calculations, financial reporting, and other time-series data comparisons.
 
 Base years are crucial in converting [nominal](../n/nominal.md) financial and economic figures into real terms, adjusting for price or population changes, and in calculating indices that reflect true [economic conditions](../e/economic_conditions.md). They help us understand trends, [growth rates](../g/growth_rates_in_trading.md), and overall economic health by eliminating the effects of [inflation](../i/inflation.md) or other distortive factors.
 
@@ -61,13 +61,13 @@ If CPI in 2010 is 100 and in 2022 it’s 130, the overall [price level](../p/pri
 ## Practical Examples of Base Year Usage by Organizations
 
 ### U.S. Bureau of Economic Analysis (BEA)
-The BEA frequently updates its base year to keep economic analysis current. For example, they might decide to change the base year to a more recent year like 2012 or 2015 to reflect more accurate economic data. [Link to BEA](https://www.bea.gov/)
+The BEA frequently updates its base year to keep economic analysis current. For example, they might decide to change the base year to a more recent year like 2012 or 2015 to reflect more accurate economic data. Link to BEA
 
 ### International Monetary Fund (IMF)
-The IMF uses various base years for its World Economic Outlook. For instance, they might use a base year of 2011 to adjust global economic data in their reports. [Link to IMF](https://www.imf.org/)
+The IMF uses various base years for its World Economic Outlook. For instance, they might use a base year of 2011 to adjust global economic data in their reports. Link to IMF
 
 ### World Bank
-The [World Bank](../w/world_bank.md) also employs different base years when reporting global [poverty](../p/poverty.md) lines and [economic indicators](../e/economic_indicators.md), such as using 2017 prices for certain [economic indicators](../e/economic_indicators.md). [Link to World Bank](https://www.worldbank.org/)
+The [World Bank](../w/world_bank.md) also employs different base years when reporting global [poverty](../p/poverty.md) lines and [economic indicators](../e/economic_indicators.md), such as using 2017 prices for certain [economic indicators](../e/economic_indicators.md). Link to World Bank
 
 ## Limitations and Challenges
 

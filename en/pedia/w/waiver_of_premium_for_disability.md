@@ -87,5 +87,3 @@ The Waiver of [Premium](../p/premium.md) for Disability is a valuable [rider](..
 For those considering this [rider](../r/rider.md), it is essential to thoroughly understand the terms and conditions specific to their [insurance](../i/insurance.md) policy to ensure it meets their needs and provides the protection they seek.
 
 For more information or to add a Waiver of [Premium](../p/premium.md) for Disability to your policy, contact your [insurance](../i/insurance.md) provider directly.
-
-[Example Company](https://www.examplecompany.com)

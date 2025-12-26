@@ -9,13 +9,13 @@ Ownership of units in a unit [trust](../t/trust.md) gives the unitholder a propo
 [Unit trusts](../u/unit_trusts.md) can be classified into various types based on their investment strategies and the assets they invest in. Some of the common types include:
 
 - **[Equity](../e/equity.md) Funds**: These funds primarily invest in [stocks](../s/stock.md) and aim for [capital](../c/capital.md) growth. [Equity](../e/equity.md) funds can be further subdivided into sub-types based on the size of the companies they invest in (large-cap, [mid-cap](../m/mid-cap.md), and small-cap) and the geographic regions they focus on (domestic, international, or global).
-  
+
 - **[Bond](../b/bond.md) Funds**: These funds invest in fixed-[income](../i/income.md) securities such as government and corporate bonds. [Bond](../b/bond.md) funds can be classified based on the [duration](../d/duration.md) of the bonds they [hold](../h/hold.md) (short-term, intermediate-term, and long-term) and the [credit](../c/credit.md) quality (investment-grade or high-[yield](../y/yield.md)).
-  
+
 - **Balanced Funds**: These funds diversify their investments across both [equity](../e/equity.md) and fixed-[income](../i/income.md) securities, aiming for a balance of [capital](../c/capital.md) growth and [income](../i/income.md) generation.
-  
+
 - **[Index](../i/index_instrument.md) Funds**: These funds aim to replicate the performance of a specific stock [market index](../m/market_index.md), such as the S&P 500 or the FTSE 100, by holding a similar portfolio of assets as the [index](../i/index_instrument.md).
-  
+
 - **[Real Estate](../r/real_estate.md) Investment Trusts (REITs)**: These funds invest in [real estate](../r/real_estate.md) properties, aiming to generate both rental [income](../i/income.md) and [capital](../c/capital.md) appreciation from the properties in their portfolio.
 
 ## Rights and Responsibilities of Unitholders
@@ -116,13 +116,13 @@ Regulatory bodies often have mechanisms in place to protect investors in case of
 
 Several well-known financial institutions [offer](../o/offer.md) [unit trusts](../u/unit_trusts.md), each with its own [investment strategy](../i/investment_strategy.md) and focus. Some examples include:
 
-- **Vanguard Group**: Vanguard offers a wide [range](../r/range.md) of [unit trusts](../u/unit_trusts.md) and mutual funds, focusing on low-cost [index](../i/index_instrument.md) funds and actively managed funds. More information can be found on their official website: [Vanguard Group](https://www.vanguard.com)
-  
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity provides a variety of [unit trusts](../u/unit_trusts.md), including [equity](../e/equity.md), [bond](../b/bond.md), and balanced funds. Fidelity is known for its extensive research and [fund](../f/fund.md) management expertise. More information can be found on their official website: [Fidelity Investments](https://www.fidelity.com)
-  
-- **BlackRock**: BlackRock offers [unit trusts](../u/unit_trusts.md) through its [iShares](../i/ishares.md) brand, including a [range](../r/range.md) of [exchange](../e/exchange.md)-traded funds (ETFs) that provide exposure to various [asset](../a/asset.md) classes and investment strategies. More information can be found on their official website: [BlackRock](https://www.blackrock.com)
-  
-- **Schroders**: Schroders is a global [asset management](../a/asset_management.md) company that provides a wide [range](../r/range.md) of [unit trusts](../u/unit_trusts.md), focusing on both active and [passive investment strategies](../p/passive_investment_strategies.md). More information can be found on their official website: [Schroders](https://www.schroders.com)
+- **Vanguard Group**: Vanguard offers a wide [range](../r/range.md) of [unit trusts](../u/unit_trusts.md) and mutual funds, focusing on low-cost [index](../i/index_instrument.md) funds and actively managed funds.
+
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity provides a variety of [unit trusts](../u/unit_trusts.md), including [equity](../e/equity.md), [bond](../b/bond.md), and balanced funds. Fidelity is known for its extensive research and [fund](../f/fund.md) management expertise.
+
+- **BlackRock**: BlackRock offers [unit trusts](../u/unit_trusts.md) through its [iShares](../i/ishares.md) brand, including a [range](../r/range.md) of [exchange](../e/exchange.md)-traded funds (ETFs) that provide exposure to various [asset](../a/asset.md) classes and investment strategies.
+
+- **Schroders**: Schroders is a global [asset management](../a/asset_management.md) company that provides a wide [range](../r/range.md) of [unit trusts](../u/unit_trusts.md), focusing on both active and [passive investment strategies](../p/passive_investment_strategies.md).
 
 ## Conclusion
 

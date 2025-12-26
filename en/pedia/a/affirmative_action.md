@@ -100,19 +100,16 @@ The widespread use of algorithmic trading has led to the evolution of [market](.
 
 Renaissance Technologies, founded by Jim Simons, is a prime example of the success that can be achieved through algorithmic trading. Their Medallion [Fund](../f/fund.md), which relies heavily on [quantitative models](../q/quantitative_models.md) and algorithmic strategies, has consistently delivered exceptional returns.
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 
 Two Sigma employs a data-driven approach to [investment management](../i/investment_management.md), leveraging [machine learning](../m/machine_learning.md), distributed computing, and other technologies to execute sophisticated [trading strategies](../t/trading_strategies.md).
 
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ### Citadel Securities
 
 Citadel Securities is a leading [market maker](../m/market_maker.md) actively engaged in algorithmic and high-frequency trading. They provide [liquidity](../l/liquidity.md) and play a crucial role in [financial markets](../f/financial_market.md) globally.
 
-[Visit Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Future Trends
 

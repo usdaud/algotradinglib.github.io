@@ -126,23 +126,22 @@ Based on the deal probability, traders take positions in the target and acquirin
 ## 5. Leading Companies in Quantitative Investment
 
 ### 5.1 Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a prominent quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to derive trading and investment strategies.
+Two Sigma is a prominent quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to derive trading and investment strategies.
 
 ### 5.2 Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is renowned for its Medallion [Fund](../f/fund.md), which is considered one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md) globally.
+Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which is considered one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md) globally.
 
 ### 5.3 DE Shaw & Co.
-[DE Shaw & Co.](https://www.deshaw.com/) specializes in developing hybrid [quantitative investment strategies](../q/quantitative_investment_strategies.md), blending traditional and [quantitative research](../q/quantitative_research.md).
+DE Shaw & Co. specializes in developing hybrid [quantitative investment strategies](../q/quantitative_investment_strategies.md), blending traditional and [quantitative research](../q/quantitative_research.md).
 
 ### 5.4 AQR Capital Management
-[AQR Capital Management](https://www.aqr.com/) uses [quantitative models](../q/quantitative_models.md) to [offer](../o/offer.md) a [range](../r/range.md) of investment products, including [equity](../e/equity.md), [fixed income](../f/fixed_income.md), and alternative strategies.
+AQR Capital Management uses [quantitative models](../q/quantitative_models.md) to [offer](../o/offer.md) a [range](../r/range.md) of investment products, including [equity](../e/equity.md), [fixed income](../f/fixed_income.md), and alternative strategies.
 
 ### 5.5 Citadel
-[Citadel](https://www.citadel.com/) is a global financial institution known for its [quantitative trading](../q/quantitative_trading.md) and investment capabilities in various [asset](../a/asset.md) classes.
+Citadel is a global financial institution known for its [quantitative trading](../q/quantitative_trading.md) and investment capabilities in various [asset](../a/asset.md) classes.
 
 ### 5.6 Man Group
-[Man Group](https://www.man.com/) employs [quantitative models](../q/quantitative_models.md) across its investment strategies, particularly through its AHL division specializing in [managed futures](../m/managed_futures.md) and [systematic trading](../s/systematic_trading.md).
+Man Group employs [quantitative models](../q/quantitative_models.md) across its investment strategies, particularly through its AHL division specializing in [managed futures](../m/managed_futures.md) and [systematic trading](../s/systematic_trading.md).
 
 ## Conclusion
 Quantitative investment models have transformed the landscape of trading and investment. By leveraging advanced mathematical, statistical, and computational techniques, these models [offer](../o/offer.md) powerful tools for optimizing portfolios, managing risks, and identifying profitable opportunities. As technology and data availability continue to evolve, the role of [quantitative models](../q/quantitative_models.md) is expected to grow, further enhancing the [efficiency](../e/efficiency.md) and effectiveness of investment strategies.
-

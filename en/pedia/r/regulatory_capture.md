@@ -9,7 +9,7 @@ Regulatory capture is a significant [issue](../i/issue.md) in the context of gov
 Regulatory capture can occur through various mechanisms, including but not limited to:
 
 ### 1. **Revolving Door Syndrome**
-This phenomenon occurs when individuals move between roles as regulators and members of the industries affected by regulation. The close connections developed by these individuals may bias regulatory actions. 
+This phenomenon occurs when individuals move between roles as regulators and members of the industries affected by regulation. The close connections developed by these individuals may bias regulatory actions.
 
 **Example**: A classic example involves the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). Critics often point out that many high-ranking officials in the SEC are former employees of major [Wall Street](../w/wall_street.md) firms.
 
@@ -19,7 +19,7 @@ Industries often engage in intense lobbying to influence regulatory agencies and
 **Example**: The banking [industry](../i/industry.md) in the U.S. has been known to spend millions on lobbying to influence the regulatory climate, especially in the wake of the 2008 [financial crisis](../f/financial_crisis.md).
 
 ### 3. **Regulatory Inertia**
-Regulatory agencies can become slow and resistant to change due to entrenched [bureaucracy](../b/bureaucracy.md) and established relationships with the industries they regulate. 
+Regulatory agencies can become slow and resistant to change due to entrenched [bureaucracy](../b/bureaucracy.md) and established relationships with the industries they regulate.
 
 **Example**: In sectors like telecommunications or pharmaceuticals, regulatory agencies often take years to implement new rules or reforms, which may be due in part to their interactions with the [industry](../i/industry.md).
 
@@ -36,17 +36,17 @@ Established in 1887 to regulate the railroads and later trucking, the ICC is oft
 ### 2. **The Federal Reserve**
 While not a classic case of regulatory capture, the Federal Reserve has been criticized for being too close to the banking [industry](../i/industry.md). Post-2008, critics argue that its actions primarily benefited large financial institutions rather than the broader [economy](../e/economy.md).
 
-**Link**: [Federal Reserve](https://www.federalreserve.gov/)
+**Link**: Federal Reserve
 
 ### 3. **Environmental Protection Agency (EPA)**
 The EPA has been accused of regulatory capture, especially under various administrations. [Industry](../i/industry.md) lobbying and political pressure have sometimes led to weaker environmental regulations.
 
-**Link**: [EPA](https://www.epa.gov/)
+**Link**: EPA
 
 ### 4. **Food and Drug Administration (FDA)**
 Accusations have been leveled against the FDA regarding its relationship with pharmaceutical companies. Some argue that the agency's reliance on [industry](../i/industry.md) funding and expertise compromises its ability to regulate effectively.
 
-**Link**: [FDA](https://www.fda.gov/)
+**Link**: FDA
 
 ## Modern-day Examples
 
@@ -59,7 +59,7 @@ Lobbying by [insurance](../i/insurance.md) companies, pharmaceutical firms, and 
 ### 3. **Technology Sector**
 Tech giants like Google, Amazon, and Facebook spend significant amounts on lobbying efforts, leading to a perception of regulatory capture within agencies like the Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC).
 
-**Link**: [FTC](https://www.ftc.gov/)
+**Link**: FTC
 
 ## Implications and Consequences
 Regulatory capture has various negative consequences, including:

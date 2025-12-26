@@ -82,7 +82,7 @@ Reliable [market](../m/market.md) data for the selected instruments is critical.
 
 ### Software and Tools
 
-Software solutions, such as [Bloomberg](../b/bloomberg.md) Terminal (www.[bloomberg](../b/bloomberg.md).com) or [Reuters](../r/reuters.md) Eikon (www.refinitiv.com/en/products/eikon-trading-software), are essential for accessing [market](../m/market.md) data and performing complex calculations.
+Software solutions, such as [Bloomberg](../b/bloomberg.md) Terminal ( or [Reuters](../r/reuters.md) Eikon ( are essential for accessing [market](../m/market.md) data and performing complex calculations.
 
 ### Model Assumptions
 

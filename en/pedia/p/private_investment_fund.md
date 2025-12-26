@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A private [investment fund](../i/investment_fund.md), often known as a [private equity](../p/private_equity.md) [fund](../f/fund.md), is a collective investment scheme used for making investments in various [equity](../e/equity.md) (and to a lesser extent [debt](../d/debt.md)) securities according to one of the investment strategies associated with [private equity](../p/private_equity.md). 
+A private [investment fund](../i/investment_fund.md), often known as a [private equity](../p/private_equity.md) [fund](../f/fund.md), is a collective investment scheme used for making investments in various [equity](../e/equity.md) (and to a lesser extent [debt](../d/debt.md)) securities according to one of the investment strategies associated with [private equity](../p/private_equity.md).
 
 Private investment funds are pooled investment vehicles that typically include high-net-worth individuals (HNWIs), pension funds, institutional investors, and accredited investors. These funds are not typically traded on public exchanges and are mostly available to a limited number of qualified clients.
 
@@ -34,9 +34,9 @@ Private investment funds are subject to less stringent regulatory oversight than
 ### 1. **Private Equity Funds**
 [Private equity](../p/private_equity.md) funds invest in companies that are not publicly traded on a stock [exchange](../e/exchange.md). The focus is on acquiring stakes in private companies, with the aim of providing the necessary [capital](../c/capital.md) and expertise to drive growth, enhance profitability, and eventually exit these investments through mergers, acquisitions, or initial public offerings (IPOs).
 
-   - **[Buyout](../b/buyout.md) Funds:** Typically acquire controlling stakes in companies either through leveraged buyouts (LBOs) or management buyouts (MBOs).
-   - **Growth [Capital](../c/capital.md) Funds:** Provide [expansion](../e/expansion.md) [capital](../c/capital.md) to mature companies looking to expand or restructure operations.
-   - **[Venture Capital Funds](../v/venture_capital_funds.md):** Invest in early-stage or [startup](../s/startup.md) companies, often taking higher risks with potential for high returns.
+ - **[Buyout](../b/buyout.md) Funds:** Typically acquire controlling stakes in companies either through leveraged buyouts (LBOs) or management buyouts (MBOs).
+ - **Growth [Capital](../c/capital.md) Funds:** Provide [expansion](../e/expansion.md) [capital](../c/capital.md) to mature companies looking to expand or restructure operations.
+ - **[Venture Capital Funds](../v/venture_capital_funds.md):** Invest in early-stage or [startup](../s/startup.md) companies, often taking higher risks with potential for high returns.
 
 ### 2. **Hedge Funds**
 Unlike [private equity](../p/private_equity.md) funds, [hedge](../h/hedge.md) funds can take both long and short positions in securities, [trade](../t/trade.md) [options](../o/options.md) or bonds, and invest in virtually any opportunity in any [market](../m/market.md) where it foresees significant gains at reduced [risk](../r/risk.md). [Hedge](../h/hedge.md) funds use a variety of strategies to maximize returns for their investors, including [arbitrage](../a/arbitrage.md), [short selling](../s/short_selling.md), [leverage](../l/leverage.md), and [derivatives](../d/derivatives.md).
@@ -54,7 +54,6 @@ These funds provide [financing](../f/financing.md) solutions to private companie
 
 ### 1. **Blackstone Group**
 Blackstone is one of the world's leading investment firms with a diverse portfolio that includes [private equity](../p/private_equity.md), [real estate](../r/real_estate.md), [hedge](../h/hedge.md) funds, and [credit](../c/credit.md). Their expertise and scale allow them to provide a wide [range](../r/range.md) of investment solutions to their clients.
-[Blackstone Group](https://www.blackstone.com/)
 
 ### 2. **KKR & Co. Inc.**
 KKR is a global investment [firm](../f/firm.md) that manages [multiple](../m/multiple.md)

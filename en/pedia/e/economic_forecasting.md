@@ -37,7 +37,7 @@ Qualitative [forecasting](../f/forecasting.md) relies on expert opinions rather 
 
 ### Time Series Analysis
 
-[Time series analysis](../t/time_series_analysis.md) is a statistical technique that deals with time-ordered data points. It is particularly useful for identifying trends, cyclic patterns, and seasonal variations. 
+[Time series analysis](../t/time_series_analysis.md) is a statistical technique that deals with time-ordered data points. It is particularly useful for identifying trends, cyclic patterns, and seasonal variations.
 
 - **[Trend Analysis](../t/trend_analysis.md):** Involves identifying [underlying](../u/underlying.md) patterns in data over a long period. Linear and exponential trends are among the most common types.
 - **Cyclic Patterns:** These are fluctuations that occur at irregular intervals. Unlike seasonal patterns, cyclic patterns do not have a fixed period.
@@ -88,23 +88,23 @@ Economic [forecasting](../f/forecasting.md) has several practical applications:
 
 ### Federal Reserve Bank
 
-The [Federal Reserve Bank](../f/federal_reserve_bank.md) (https://www.federalreserve.gov/) is a critical player in economic [forecasting](../f/forecasting.md), particularly in the United States. It uses various models and [economic indicators](../e/economic_indicators.md) to guide its [monetary policy](../m/monetary_policy.md) decisions.
+The [Federal Reserve Bank](../f/federal_reserve_bank.md) ( is a critical player in economic [forecasting](../f/forecasting.md), particularly in the United States. It uses various models and [economic indicators](../e/economic_indicators.md) to guide its [monetary policy](../m/monetary_policy.md) decisions.
 
 ### International Monetary Fund (IMF)
 
-The IMF (https://www.imf.org/) provides regular economic forecasts on global and national levels. It uses these forecasts to advise member countries and to shape international economic policy.
+The IMF provides regular economic forecasts on global and national levels. It uses these forecasts to advise member countries and to shape international economic policy.
 
 ### Organisation for Economic Co-operation and Development (OECD)
 
-The OECD (https://www.oecd.org/) offers comprehensive analyses and forecasts on a [range](../r/range.md) of economic issues, helping member countries achieve sustainable [economic growth](../e/economic_growth.md).
+The OECD ( offers comprehensive analyses and forecasts on a [range](../r/range.md) of economic issues, helping member countries achieve sustainable [economic growth](../e/economic_growth.md).
 
 ### Private Sector Firms
 
 Several [private sector](../p/private_sector.md) companies also [offer](../o/offer.md) economic [forecasting](../f/forecasting.md) services:
 
-- **Moody's Analytics (https://www.moodysanalytics.com/):** Provides economic, financial, and [credit risk](../c/credit_risk.md) insights.
-- **The Conference Board (https://www.conference-board.org/):** Offers economic forecasts and insights to help businesses navigate economic changes.
-- **IHS Markit (https://ihsmarkit.com/):** Specializes in providing economic forecasts and analysis across industries.
+- **Moody's Analytics ( Provides economic, financial, and [credit risk](../c/credit_risk.md) insights.
+- **The Conference Board Offers economic forecasts and insights to help businesses navigate economic changes.
+- **IHS Markit Specializes in providing economic forecasts and analysis across industries.
 
 ## Conclusion
 

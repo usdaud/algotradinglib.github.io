@@ -2,7 +2,7 @@
 
 ## Introduction to First Mortgage
 
-A first [mortgage](../m/mortgage.md) is the primary [loan](../l/loan.md) a borrower takes out to purchase a residential or commercial property. It is senior to all other liens or claims on the property in terms of [repayment](../r/repayment.md) priority if the borrower defaults. This means that in the event of [foreclosure](../f/foreclosure.md), the first [mortgage](../m/mortgage.md) must be paid off before any subsequent loans or liens, such as second mortgages or [home equity](../h/home_equity.md) lines of [credit](../c/credit.md). This seniority makes the first [mortgage](../m/mortgage.md) less risky for lenders, typically resulting in lower [interest](../i/interest.md) rates compared to junior liens. 
+A first [mortgage](../m/mortgage.md) is the primary [loan](../l/loan.md) a borrower takes out to purchase a residential or commercial property. It is senior to all other liens or claims on the property in terms of [repayment](../r/repayment.md) priority if the borrower defaults. This means that in the event of [foreclosure](../f/foreclosure.md), the first [mortgage](../m/mortgage.md) must be paid off before any subsequent loans or liens, such as second mortgages or [home equity](../h/home_equity.md) lines of [credit](../c/credit.md). This seniority makes the first [mortgage](../m/mortgage.md) less risky for lenders, typically resulting in lower [interest](../i/interest.md) rates compared to junior liens.
 
 ## Key Components of a First Mortgage
 

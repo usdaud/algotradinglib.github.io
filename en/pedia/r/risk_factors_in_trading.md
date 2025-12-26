@@ -23,7 +23,7 @@ Price [risk](../r/risk.md) refers to the [risk](../r/risk.md) that an [asset](..
 
 ### 1.4 Correlation Risk
 
-[Correlation](../c/correlation.md) [risk](../r/risk.md) is the [risk](../r/risk.md) that the relationship between two or more assets [will](../w/will.md) change, impacting [hedging strategies](../h/hedging_strategies.md) or portfolio [diversification benefits](../d/diversification_benefits.md). 
+[Correlation](../c/correlation.md) [risk](../r/risk.md) is the [risk](../r/risk.md) that the relationship between two or more assets [will](../w/will.md) change, impacting [hedging strategies](../h/hedging_strategies.md) or portfolio [diversification benefits](../d/diversification_benefits.md).
 
 ## 2. Credit Risks
 
@@ -55,7 +55,7 @@ Operational risks are the risks arising from the internal processes, people, sys
 
 ### 4.1 System Failures
 
-System failures, such as software glitches or hardware malfunctions, can prevent trades from being executed or cause errors in [trade](../t/trade.md) [execution](../e/execution.md). 
+System failures, such as software glitches or hardware malfunctions, can prevent trades from being executed or cause errors in [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### 4.2 Human Errors
 
@@ -75,7 +75,7 @@ Contagion [risk](../r/risk.md) is the [risk](../r/risk.md) that financial instab
 
 ### 5.2 Moral Hazard
 
-[Moral hazard](../m/moral_hazard.md) arises when one party takes on [risk](../r/risk.md) because they believe another party, such as a government or [insurance](../i/insurance.md), [will](../w/will.md) bear the costs of that [risk](../r/risk.md). 
+[Moral hazard](../m/moral_hazard.md) arises when one party takes on [risk](../r/risk.md) because they believe another party, such as a government or [insurance](../i/insurance.md), [will](../w/will.md) bear the costs of that [risk](../r/risk.md).
 
 ### Addressing and Managing Risk Factors
 

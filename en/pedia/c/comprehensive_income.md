@@ -8,10 +8,10 @@ Comprehensive [income](../i/income.md) is composed of two primary elements:
 
 1. **Net [Income](../i/income.md):** This is the traditional measure of profitability that includes revenues, expenses, gains, and losses recognized during the reporting period.
 2. **Other Comprehensive [Income](../i/income.md) (OCI):** This part of comprehensive [income](../i/income.md) captures items that are not included in net [income](../i/income.md). These items are usually considered [unrealized gains](../u/unrealized_gains.md) and losses that have not been realized through transactions. Common components of OCI include:
-   - Foreign [currency](../c/currency.md) translation adjustments.
-   - [Unrealized gains](../u/unrealized_gains.md) and losses on available-for-[sale](../s/sale.md) securities.
-   - Changes in the [fair value](../f/fair_value.md) of [derivatives](../d/derivatives.md) designated as [cash flow](../c/cash_flow.md) hedges.
-   - [Pension plan](../p/pension_plan.md) actuarial gains and losses and prior service costs.
+ - Foreign [currency](../c/currency.md) translation adjustments.
+ - [Unrealized gains](../u/unrealized_gains.md) and losses on available-for-[sale](../s/sale.md) securities.
+ - Changes in the [fair value](../f/fair_value.md) of [derivatives](../d/derivatives.md) designated as [cash flow](../c/cash_flow.md) hedges.
+ - [Pension plan](../p/pension_plan.md) actuarial gains and losses and prior service costs.
 
 ## Importance of Comprehensive Income
 
@@ -47,7 +47,7 @@ Changes in [pension plan](../p/pension_plan.md) [obligations](../o/obligation.md
 
 ## Practical Example: Apple Inc.
 
-Apple Inc.’s [financial statements](../f/financial_statements.md) provide a clear example of comprehensive [income](../i/income.md) reporting. The company reports comprehensive [income](../i/income.md) in its annual 10-K filings with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). For the fiscal year 2021, Apple included net [income](../i/income.md) as well as items like [unrealized gains](../u/unrealized_gains.md) and losses on [marketable securities](../m/marketable_securities.md) and foreign [currency](../c/currency.md) translation adjustments in its comprehensive [income statement](../i/income_statement.md). You can view Apple Inc.'s comprehensive [income](../i/income.md) statements on their [investor relations](../i/investor_relations.md) page [here](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc.’s [financial statements](../f/financial_statements.md) provide a clear example of comprehensive [income](../i/income.md) reporting. The company reports comprehensive [income](../i/income.md) in its annual 10-K filings with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). For the fiscal year 2021, Apple included net [income](../i/income.md) as well as items like [unrealized gains](../u/unrealized_gains.md) and losses on [marketable securities](../m/marketable_securities.md) and foreign [currency](../c/currency.md) translation adjustments in its comprehensive [income statement](../i/income_statement.md).
 
 ## Tools and Techniques in Measuring Comprehensive Income
 

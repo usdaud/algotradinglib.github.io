@@ -8,9 +8,9 @@ A 52-week moving average is a [technical analysis](../t/technical_analysis.md) t
 2. **Understanding the 52-Week Moving Average**
 3. **Calculation of the 52-Week Moving Average**
 4. **Applications in [Algorithmic Trading](../a/algorithmic_trading.md)**
-   - [Golden Cross](../g/golden_cross.md) and [Death Cross](../d/death_cross.md)
-   - [Momentum Trading](../m/momentum_trading.md)
-   - [Mean Reversion](../m/mean_reversion.md) Strategies
+ - [Golden Cross](../g/golden_cross.md) and [Death Cross](../d/death_cross.md)
+ - [Momentum Trading](../m/momentum_trading.md)
+ - [Mean Reversion](../m/mean_reversion.md) Strategies
 5. **Advantages of the 52-Week Moving Average**
 6. **Disadvantages of the 52-Week Moving Average**
 7. **Case Studies and Examples**
@@ -66,13 +66,13 @@ The "[Golden Cross](../g/golden_cross.md)" occurs when a short-term moving avera
 
 ### Example 1: Analyzing Apple Inc. (AAPL)
 
-![AAPL 52-Week Moving Average](https://example.com/aapl-chart)
+!AAPL 52-Week Moving Average
 
 By plotting the 52-week moving average on Apple's stock price, investors noticed a [Golden Cross](../g/golden_cross.md) in early 2021, signaling a strong upward [trend](../t/trend.md). This insight helped algorithmic traders [capitalize](../c/capitalize.md) on the bullish [momentum](../m/momentum.md).
 
 ### Example 2: Mean Reversion in the S&P 500 Index
 
-![S&P 500 52-Week Moving Average](https://example.com/sp500-chart)
+!S&P 500 52-Week Moving Average
 
 During early 2020, the S&P 500 [index](../i/index_instrument.md) fell significantly below its 52-week moving average. [Mean reversion](../m/mean_reversion.md) strategies would have identified this as an [oversold](../o/oversold.md) condition, prompting buy orders.
 
@@ -82,13 +82,13 @@ Several platforms and tools facilitate the use of moving averages in [trading st
 
 - **[TradingView](../t/tradingview.md)**: Offers [robust](../r/robust.md) charting tools and scripting language (Pine Script) for custom indicators.
 - **MetaTrader 4/5**: Provides built-in moving average indicators and supports automated trading.
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading of [moving average strategies](../m/moving_average_strategies.md).
+- **[StockSharp](../s/stocksharp.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading of [moving average strategies](../m/moving_average_strategies.md).
 
 For more information on these platforms, visit:
-- [TradingView](https://www.tradingview.com)
-- [MetaTrader](https://www.metatrader4.com)
-- [QuantConnect](https://www.quantconnect.com)
+- TradingView
+- MetaTrader
+- QuantConnect
 
 ## 9. Conclusion
 
-The 52-week moving average is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its ability to smooth out short-term fluctuations and highlight long-term trends aids in making informed trading decisions. However, traders must be cautious of its lagging nature and the potential for [false signals](../f/false_signals_in_trading.md). By integrating it with other indicators and employing sophisticated algorithms, traders can enhance their strategies and improve their [market](../m/market.md) performance.
+The 52-week moving average is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its ability to smooth out short-term fluctuations and highlight long-term trends aids in making informed trading decisions. However, traders must be cautious of its lagging nature and the potential for [false signals](../f/false_signals_in_trading.md). By integrating it with other indicators and employing sophisticated algorithms, traders can enhance their strategies and improve their [market](../m/market.md) performance.

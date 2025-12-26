@@ -53,12 +53,12 @@ The legal framework governing liquidation varies by jurisdiction but generally i
 
 ## Liquidation in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) often involves automated strategies that can trigger liquidation events, especially in scenarios like [margin](../m/margin.md) calls. High-frequency trading (HFT) systems must account for potential liquidation to avoid significant [market](../m/market.md) disruptions. These strategies often include [fail](../f/fail.md)-safes to limit [risk](../r/risk.md) and manage [liquidity](../l/liquidity.md) effectively.
+[Algorithmic trading](../a/algorithmic_trading.md) often involves automated strategies that can trigger liquidation events, especially in scenarios like [margin](../m/margin.md) calls. High-frequency trading (HFT) systems must account for potential liquidation to avoid significant [market](../m/market.md) disruptions. These strategies often include [fail](../f/fail.md)-safes to limit [risk](../r/risk.md) and manage [liquidity](../l/liquidity.md) effectively.
 
 ## Companies and Tools Involved in Liquidation
 
-- **Enron's [Bankruptcy](../b/bankruptcy.md)**: One of the most famous liquidation cases, details available at [Enron](https://www.enron.com/).
-- **[Lehman Brothers](../l/lehman_brothers.md) [Holdings](../h/holdings.md) Inc.** Case study illustrating the impact of a major financial institution's liquidation, details at [Lehman Brothers Holdings Inc.](https://www.lehman-saga.com/).
+- **Enron's [Bankruptcy](../b/bankruptcy.md)**: One of the most famous liquidation cases, details available at Enron.
+- **[Lehman Brothers](../l/lehman_brothers.md) [Holdings](../h/holdings.md) Inc.** Case study illustrating the impact of a major financial institution's liquidation, details at Lehman Brothers Holdings Inc..
 - **Financial Services Authority (FSA)**: Regulates compliance and provides guidelines to follow during liquidation processes.
 
 ## Advanced Concepts
@@ -74,4 +74,4 @@ These are large-scale liquidation events, often affecting entire sectors or mark
 
 ## Conclusion
 
-Understanding liquidation is essential for financial professionals, as it involves complex legal, operational, and financial steps. Whether it’s voluntary or compulsory, the liquidation process has far-reaching implications for all stakeholders involved, including creditors, shareholders, and employees. Moreover, in the context of [algorithmic trading](../a/accountability.md) and high-frequency trading, managing liquidation risks becomes crucial to avoid significant [market](../m/market.md) disruptions. With evolving regulations and [market](../m/market.md) conditions, staying informed about the nuances of liquidation can provide a competitive edge in [capital markets](../c/capital_markets.md).
+Understanding liquidation is essential for financial professionals, as it involves complex legal, operational, and financial steps. Whether it’s voluntary or compulsory, the liquidation process has far-reaching implications for all stakeholders involved, including creditors, shareholders, and employees. Moreover, in the context of [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading, managing liquidation risks becomes crucial to avoid significant [market](../m/market.md) disruptions. With evolving regulations and [market](../m/market.md) conditions, staying informed about the nuances of liquidation can provide a competitive edge in [capital markets](../c/capital_markets.md).

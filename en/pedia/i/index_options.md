@@ -16,7 +16,7 @@ Here are some of the most commonly traded [index](../i/index_instrument.md) [opt
 2. **[NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md) [Options](../o/options.md) (NDX):** These [options](../o/options.md) are based on the [NASDAQ](../n/nasdaq.md)-100 [index](../i/index_instrument.md), which includes 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md).
 3. **Dow Jones Industrial Average (DJIA) [Options](../o/options.md) (DJX):** These are [options](../o/options.md) on the DJIA, an [index](../i/index_instrument.md) representing 30 large, publicly-owned companies based in the U.S.
 
-SPX [options](../o/options.md) can be explored more [here](https://www.cboe.com/tradable_products/sp_500).
+SPX [options](../o/options.md) can be explored more here.
 
 ### Pricing and Valuation
 The [valuation](../v/valuation.md) of [index](../i/index_instrument.md) [options](../o/options.md) is driven by several factors, primarily:
@@ -62,4 +62,4 @@ Traders use various strategies to [profit](../p/profit.md) from or [hedge](../h/
 ### Conclusion
 [Index](../i/index_instrument.md) [options](../o/options.md) are a versatile [financial instrument](../f/financial_instrument.md) used widely in the [market](../m/market.md) for a [range](../r/range.md) of purposes from hedging to [speculation](../s/speculation.md). Understanding their characteristics, pricing, and risks is critical for anyone looking to utilize them in their trading or [investment strategy](../i/investment_strategy.md).
 
-For further reading on SPX [options](../o/options.md), you can visit the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) [website](https://www.cboe.com/tradable_products/sp_500).
+For further reading on SPX [options](../o/options.md), you can visit the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) online platform.

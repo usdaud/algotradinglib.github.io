@@ -34,9 +34,9 @@ In the [J-Curve](../j/j-curve.md)'s upward tail, the investment or strategy begi
 
 In practice, [J-Curve](../j/j-curve.md) dynamics can be observed in various trading environments:
 
-1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds experience the [J-Curve effect](../j/j-curve_effect.md), particularly when launching new [trading strategies](../t/trading_strategies.md) or entering new markets. A well-documented example is [Bridgewater Associates](https://www.bridgewater.com/), where initial strategy implementation phases often involve significant [backtesting](../b/backtesting.md) and [market](../m/market.md) adaptation.
-2. **[Private Equity](../p/private_equity.md)**: Similar dynamics are seen in [private equity](../p/private_equity.md) investments, where funds initially spend [capital](../c/capital.md) and time on improving portfolio companies before realizing returns in later stages. For instance, [KKR](https://www.kkr.com/) often navigates this curve with their strategic investments.
-3. **[Venture Capital](../v/venture_capital.md)**: Early-stage investments usually follow a [J-Curve](../j/j-curve.md), where initial funding rounds are followed by development phases before achieving profitability, a dynamic evident in firms like [Sequoia Capital](https://www.sequoiacap.com/).
+1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds experience the [J-Curve effect](../j/j-curve_effect.md), particularly when launching new [trading strategies](../t/trading_strategies.md) or entering new markets. A well-documented example is Bridgewater Associates, where initial strategy implementation phases often involve significant [backtesting](../b/backtesting.md) and [market](../m/market.md) adaptation.
+2. **[Private Equity](../p/private_equity.md)**: Similar dynamics are seen in [private equity](../p/private_equity.md) investments, where funds initially spend [capital](../c/capital.md) and time on improving portfolio companies before realizing returns in later stages. For instance, KKR often navigates this curve with their strategic investments.
+3. **[Venture Capital](../v/venture_capital.md)**: Early-stage investments usually follow a [J-Curve](../j/j-curve.md), where initial funding rounds are followed by development phases before achieving profitability, a dynamic evident in firms like Sequoia Capital.
 
 ## Factors Influencing J-Curve Dynamics in Trading
 

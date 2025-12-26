@@ -71,10 +71,10 @@ While disclosure is critical, it also poses several challenges:
 ## Examples of Disclosure Practices
 
 ### Company: Renaissance Technologies
-Renaissance Technologies is one of the most successful and secretive [hedge](../h/hedge.md) funds specializing in [quantitative trading](../q/quantitative_trading.md). Although specific algorithm details are proprietary, Renaissance complies with regulatory disclosure requirements by providing necessary filings to the SEC. For more information, visit their [official website](https://www.rentec.com/).
+Renaissance Technologies is one of the most successful and secretive [hedge](../h/hedge.md) funds specializing in [quantitative trading](../q/quantitative_trading.md). Although specific algorithm details are proprietary, Renaissance complies with regulatory disclosure requirements by providing necessary filings to the SEC.
 
 ### Company: Two Sigma
-Two Sigma employs data-driven strategies and advanced algorithms for investment purposes. It adheres to all regulatory standards regarding disclosure, ensuring [transparency](../t/transparency.md) in its trading practices and [risk management](../r/risk_management.md) procedures. For more information, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma employs data-driven strategies and advanced algorithms for investment purposes. It adheres to all regulatory standards regarding disclosure, ensuring [transparency](../t/transparency.md) in its trading practices and [risk management](../r/risk_management.md) procedures. For more information, visit Two Sigma.
 
 ## Future Trends in Disclosure
 

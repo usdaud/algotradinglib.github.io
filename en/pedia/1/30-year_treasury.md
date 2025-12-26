@@ -1,6 +1,6 @@
 # 30-Year Treasury
 
-The [30-Year Treasury bond](../1/30-year_treasury_bond.md), often referred to as the "long [bond](../b/bond.md)," is a [debt](../d/debt.md) obligation issued by the United States Department of the Treasury that has a [maturity](../m/maturity.md) of 30 years from its [issue](../i/issue.md) date. These bonds are considered one of the safest investments since they are backed by the full faith and [credit](../c/credit.md) of the U.S. government, making them relatively low [risk](../r/risk.md) compared to other forms of investments. In this comprehensive guide, we [will](../w/will.md) delve into the meaning, history, and examples of 30-Year Treasury bonds. 
+The [30-Year Treasury bond](../1/30-year_treasury_bond.md), often referred to as the "long [bond](../b/bond.md)," is a [debt](../d/debt.md) obligation issued by the United States Department of the Treasury that has a [maturity](../m/maturity.md) of 30 years from its [issue](../i/issue.md) date. These bonds are considered one of the safest investments since they are backed by the full faith and [credit](../c/credit.md) of the U.S. government, making them relatively low [risk](../r/risk.md) compared to other forms of investments. In this comprehensive guide, we [will](../w/will.md) delve into the meaning, history, and examples of 30-Year Treasury bonds.
 
 ## Meaning
 
@@ -24,11 +24,11 @@ The history of the [30-Year Treasury bond](../1/30-year_treasury_bond.md) is int
 - **1917:** The concept of long-term Treasury securities emerged as part of the funding efforts for World War I, although these were not specifically 30 years in [maturity](../m/maturity.md).
 - **1935:** The first official 30-Year Treasury bonds were issued to [finance](../f/finance.md) [New Deal](../n/new_deal.md) projects under President Franklin D. Roosevelt. The bonds were intended to stimulate [economic recovery](../e/economic_recovery.md) during the [Great Depression](../g/great_depression.md).
 
-### Mid 20th Century 
+### Mid 20th Century
 
 - **1950s-1980s:** The 30-Year Treasury continued to be a cornerstone of U.S. [fiscal policy](../f/fiscal_policy.md). Post-World War II economic [expansion](../e/expansion.md) and periods of [inflation](../i/inflation.md) in the 1970s saw varying [interest](../i/interest.md) rates for these bonds, reflecting [economic conditions](../e/economic_conditions.md).
 
-### Cessation and Revival 
+### Cessation and Revival
 
 - **2001:** The [U.S. Treasury](../u/u.s._treasury.md) suspended the issuance of the 30-Year [bond](../b/bond.md), citing [budget](../b/budget.md) surpluses and reduced borrowing needs at that time.
 - **2006:** Due to growing government deficits and increased [demand](../d/demand.md) from pension funds and [insurance](../i/insurance.md) companies, the 30-Year [bond](../b/bond.md) was reintroduced.
@@ -37,15 +37,15 @@ The history of the [30-Year Treasury bond](../1/30-year_treasury_bond.md) is int
 
 ### How to Purchase 30-Year Treasury Bonds
 
-- **Direct Purchase from TreasuryDirect:** Individual investors can purchase 30-Year Treasuries directly from the [U.S. Treasury](../u/u.s._treasury.md) through the TreasuryDirect website [https://www.treasurydirect.gov/tsy/frn/frn.htm].
+- **Direct Purchase from TreasuryDirect:** Individual investors can purchase 30-Year Treasuries directly from the [U.S. Treasury](../u/u.s._treasury.md) through the TreasuryDirect platform.
 - **[Secondary Market](../s/secondary_market.md):** These bonds can also be purchased in the [secondary market](../s/secondary_market.md) through brokers and financial institutions.
 
 ### Key Financial Institutions
 
 Several key financial institutions and entities influence and interact with the [market](../m/market.md) for 30-Year Treasury bonds:
 
-- **Primary Dealers:** Banks and [broker](../b/broker.md)-dealers authorized by the Federal Reserve to buy government securities directly from Treasury auctions. These include companies like JPMorgan Chase & Co. [https://www.jpmorganchase.com/], Goldman Sachs [https://www.goldmansachs.com/], and Citigroup [https://www.citigroup.com/].
-- **Federal Reserve:** The Federal Reserve holds 30-Year Treasuries as part of their [monetary policy](../m/monetary_policy.md) operations, influencing the [yield curve](../y/yard.md).
+- **Primary Dealers:** Banks and [broker](../b/broker.md)-dealers authorized by the Federal Reserve to buy government securities directly from Treasury auctions. These include companies like JPMorgan Chase & Co., Goldman Sachs, and Citigroup.
+- **Federal Reserve:** The Federal Reserve holds 30-Year Treasuries as part of their [monetary policy](../m/monetary_policy.md) operations, influencing the [yield curve](../y/yield_curve.md).
 
 ### Market Influences
 

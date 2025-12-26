@@ -4,7 +4,7 @@
 
 ## Overview
 
-[Coinbase](../c/coinbase.md) [Exchange](../e/exchange.md) was founded in 2012 by Brian Armstrong and Fred Ehrsam. Since its inception, [Coinbase](../c/coinbase.md) has grown exponentially and plays an integral role in the cryptocurrency ecosystem. [Coinbase](../c/coinbase.md) [Exchange](../e/exchange.md) supports a wide array of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Litecoin (LTC), and many others, making it a versatile platform for crypto enthusiasts. 
+[Coinbase](../c/coinbase.md) [Exchange](../e/exchange.md) was founded in 2012 by Brian Armstrong and Fred Ehrsam. Since its inception, [Coinbase](../c/coinbase.md) has grown exponentially and plays an integral role in the cryptocurrency ecosystem. [Coinbase](../c/coinbase.md) [Exchange](../e/exchange.md) supports a wide array of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Litecoin (LTC), and many others, making it a versatile platform for crypto enthusiasts.
 
 ### Key Features
 
@@ -74,7 +74,7 @@ Developers can use programming languages such as Python to interact with the [Co
 ```python
 [import](../i/import.md) requests
 
-API_URL = "https://api.pro.[coinbase](../c/coinbase.md).com"
+API_URL = "
 PRODUCT_ID = "BTC-USD"
 ENDPOINT = f"/products/{PRODUCT_ID}/ticker"
 
@@ -101,6 +101,5 @@ This code snippet demonstrates how to retrieve the latest [market](../m/market.m
 
 ## Conclusion
 
-[Coinbase](../c/coinbase.md) [Exchange](../e/exchange.md) is a leading cryptocurrency platform that offers a wide [range](../r/range.md) of services for individual and institutional investors. With its commitment to [security](../s/security.md), user experience, and regulatory compliance, [Coinbase](../c/coinbase.md) has become a trusted name in the crypto [industry](../i/industry.md). Whether you're a novice looking to enter the world of digital currencies or a professional [trader](../t/trader.md) seeking advanced tools, [Coinbase](../c/coinbase.md) provides the [infrastructure](../i/infrastructure.md) and support needed to meet your trading needs. 
+[Coinbase](../c/coinbase.md) [Exchange](../e/exchange.md) is a leading cryptocurrency platform that offers a wide [range](../r/range.md) of services for individual and institutional investors. With its commitment to [security](../s/security.md), user experience, and regulatory compliance, [Coinbase](../c/coinbase.md) has become a trusted name in the crypto [industry](../i/industry.md). Whether you're a novice looking to enter the world of digital currencies or a professional [trader](../t/trader.md) seeking advanced tools, [Coinbase](../c/coinbase.md) provides the [infrastructure](../i/infrastructure.md) and support needed to meet your trading needs.
 
-For more information, you can visit their [official website](https://www.coinbase.com/).

@@ -11,16 +11,16 @@ The term "uneconomic growth" was popularized by Herman Daly, a pioneer in ecolog
 ## Key Characteristics of Uneconomic Growth
 
 1. **Environmental Costs:**
-   - **Resource [Depletion](../d/depletion.md):** Economic activities leading to the over-extraction of non-[renewable resources](../r/renewable_resource.md) cause long-term negative impacts on natural ecosystems.
-   - **Pollution:** Increased production often correlates with higher emissions of pollutants, which can degrade air and water quality, affect public health, and harm biodiversity.
-  
+ - **Resource [Depletion](../d/depletion.md):** Economic activities leading to the over-extraction of non-[renewable resources](../r/renewable_resource.md) cause long-term negative impacts on natural ecosystems.
+ - **Pollution:** Increased production often correlates with higher emissions of pollutants, which can degrade air and water quality, affect public health, and harm biodiversity.
+
 2. **Social Inequality:**
-   - **[Income](../i/income.md) [Distribution](../d/distribution.md):** [Economic growth](../e/economic_growth.md) does not always result in equitable [income](../i/income.md) [distribution](../d/distribution.md). Often, the [wealth](../w/wealth.md) generated is concentrated in the hands of a few, exacerbating social inequalities.
-   - **[Quality of Life](../q/quality_of_life.md):** Higher GDP does not necessarily translate into better living standards for all citizens, especially if the [wealth](../w/wealth.md) is not distributed justly.
+ - **[Income](../i/income.md) [Distribution](../d/distribution.md):** [Economic growth](../e/economic_growth.md) does not always result in equitable [income](../i/income.md) [distribution](../d/distribution.md). Often, the [wealth](../w/wealth.md) generated is concentrated in the hands of a few, exacerbating social inequalities.
+ - **[Quality of Life](../q/quality_of_life.md):** Higher GDP does not necessarily translate into better living standards for all citizens, especially if the [wealth](../w/wealth.md) is not distributed justly.
 
 3. **Health and Well-being:**
-   - **Physical Health Costs:** Increased economic activity can lead to lifestyle changes and environmental hazards that may negatively impact public health.
-   - **Mental Health**: The societal push for higher [productivity](../p/productivity.md) and consumption can lead to stress, anxiety, and other mental health issues.
+ - **Physical Health Costs:** Increased economic activity can lead to lifestyle changes and environmental hazards that may negatively impact public health.
+ - **Mental Health**: The societal push for higher [productivity](../p/productivity.md) and consumption can lead to stress, anxiety, and other mental health issues.
 
 ## Metrics for Evaluating Uneconomic Growth
 

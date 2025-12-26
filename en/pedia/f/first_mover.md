@@ -54,19 +54,19 @@ While being the first mover provides an initial competitive edge, it also sets a
 
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company known for its use of sophisticated algorithms and [quantitative models](../q/quantitative_models.md) for trading. Founded by Jim Simons, Renaissance Technologies is often cited as one of the most successful [hedge](../h/hedge.md) funds due to its first mover advantage in [algorithmic trading](../a/accountability.md).
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
+online platform: Renaissance Technologies
 
 ### Two Sigma
 
 Two Sigma is another prominent [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to drive [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). By focusing on being at the forefront of technological advancements, Two Sigma has established itself as a leader in the field.
 
-Website: [Two Sigma](https://www.twosigma.com/)
+online platform: Two Sigma
 
 ### D.E. Shaw Group
 
 The D.E. Shaw Group is a global investment and technology development [firm](../f/firm.md). Known for its early adoption of [computational finance](../c/computational_finance.md), D.E. Shaw has maintained a significant competitive edge through its first mover advantage.
 
-Website: [D.E. Shaw Group](https://www.deshaw.com/)
+online platform: D.E. Shaw Group
 
 ## Conclusion
 

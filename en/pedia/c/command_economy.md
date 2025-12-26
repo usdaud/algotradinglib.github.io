@@ -60,7 +60,7 @@ Advances in technology, particularly in [data analytics](../d/data_analytics.md)
 ## Companies Operating in Economic Systems
 
 ### China National Petroleum Corporation (CNPC)
-[China National Petroleum Corporation](http://www.cnpc.com.cn/en/) is a state-owned enterprise and a significant player in China's command [economy](../e/economy.md). As an essential arm of the Chinese government in the [energy sector](../e/energy_sector.md), CNPC's activities are closely coordinated with national economic plans and policies. The company's presence exemplifies how a state entity can operate within a command [economy](../e/economy.md) framework, contributing to national development objectives.
+China National Petroleum Corporation is a state-owned enterprise and a significant player in China's command [economy](../e/economy.md). As an essential arm of the Chinese government in the [energy sector](../e/energy_sector.md), CNPC's activities are closely coordinated with national economic plans and policies. The company's presence exemplifies how a state entity can operate within a command [economy](../e/economy.md) framework, contributing to national development objectives.
 
 ## Conclusion
 

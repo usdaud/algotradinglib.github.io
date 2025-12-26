@@ -42,12 +42,12 @@ In recent years, the magnitude of the January Effect has seemingly diminished, p
 
 ### Conclusion
 
-The January Effect is an intriguing [market](../m/market.md) [anomaly](../a/anomaly.md) that highlights the complexities and [seasonality](../s/seasonality.md) of stock returns. While its prominence may have waned in recent years, understanding this phenomenon provides valuable insights into [market](../m/market.md) behaviors and offers potential [trading strategies](../t/trading_strategies.md) for keen investors. 
+The January Effect is an intriguing [market](../m/market.md) [anomaly](../a/anomaly.md) that highlights the complexities and [seasonality](../s/seasonality.md) of stock returns. While its prominence may have waned in recent years, understanding this phenomenon provides valuable insights into [market](../m/market.md) behaviors and offers potential [trading strategies](../t/trading_strategies.md) for keen investors.
 
 ### References
 
-- [Investopedia Explains the January Effect](https://www.investopedia.com/terms/j/januaryeffect.asp)
-- [NASDAQ on Market Seasonality](https://www.nasdaq.com/)
+- Investopedia Explains the January Effect
+- NASDAQ on Market Seasonality
 - [Journal of [Financial Economics](../f/financial_economics.md) Article
 
-](https://www.journals.elsevier.com/[journal](../j/journal.md)-of-financial-[economics](../e/economics.md))
+]

@@ -13,7 +13,7 @@ When an individual is arrested and taken into custody, they are brought before a
 ### Types of Bail Bonds
 
 1. **Cash Bail**: This involves paying the full bail amount in cash to the court. The cash is refunded once the trial is concluded, minus any court fees or fines.
-   
+
 2. **[Surety](../s/surety.md) [Bond](../b/bond.md)**: In this case, a bail [bond](../b/bond.md) agency or a bail bondsman pays the bail amount on behalf of the defendant. The agency typically charges a non-refundable [fee](../f/fee.md), usually about 10-20% of the total bail amount.
 
 3. **Property [Bond](../b/bond.md)**: [Real property](../r/real_property.md) (e.g., a house) is used as [collateral](../c/collateral.md). If the defendant fails to appear in court, the property can be seized by the court.
@@ -65,9 +65,9 @@ The modernization of various industries has led to the advent of online bail [bo
 
 ### Examples of Online Bail Bond Services
 
-- **AIA [Surety](../s/surety.md)**: [AIA Surety](https://www.aiasurety.com) offers a [range](../r/range.md) of bail [bond](../b/bond.md) services, including online application forms and [payment](../p/payment.md) [options](../o/options.md).
-  
-- **Aladdin Bail Bonds**: [Aladdin Bail Bonds](https://www.aladdinbailbonds.com) provides online tools and resources to help defendants secure release from custody.
+- **AIA [Surety](../s/surety.md)**: AIA Surety offers a [range](../r/range.md) of bail [bond](../b/bond.md) services, including online application forms and [payment](../p/payment.md) [options](../o/options.md).
+
+- **Aladdin Bail Bonds**: Aladdin Bail Bonds provides online tools and resources to help defendants secure release from custody.
 
 ## Conclusion
 

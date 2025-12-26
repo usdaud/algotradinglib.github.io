@@ -79,15 +79,15 @@ The [distribution](../d/distribution.md) of [income](../i/income.md) within a po
 
 ### Apple Inc.
 
-Apple Inc. (https://www.apple.com) represents a prime example of a company that markets normal goods, particularly in the electronics and [technology sector](../t/technology_sector.md). As consumer incomes rise, the [demand](../d/demand.md) for Apple's [premium](../p/premium.md) products like the iPhone, MacBook, and iPad typically increases. Apple's [business](../b/business.md) model leverages the positive [income](../i/income.md) [elasticity](../e/elasticity.md) of its products, continually innovating and introducing higher-end versions to capture the increasing willingness to spend among its customers.
+Apple Inc. ( represents a prime example of a company that markets normal goods, particularly in the electronics and [technology sector](../t/technology_sector.md). As consumer incomes rise, the [demand](../d/demand.md) for Apple's [premium](../p/premium.md) products like the iPhone, MacBook, and iPad typically increases. Apple's [business](../b/business.md) model leverages the positive [income](../i/income.md) [elasticity](../e/elasticity.md) of its products, continually innovating and introducing higher-end versions to capture the increasing willingness to spend among its customers.
 
 ### Tesla, Inc.
 
-Tesla, Inc. (https://www.tesla.com) produces electric vehicles that are considered normal goods. As consumer incomes grow, especially in developed markets, the [demand](../d/demand.md) for Tesla’s cars rises. Tesla capitalizes on this by expanding its product [range](../r/range.md) and focusing on features that appeal to higher-[income](../i/income.md) consumers, such as advanced autonomous driving capabilities and superior electric [range](../r/range.md).
+Tesla, Inc. ( produces electric vehicles that are considered normal goods. As consumer incomes grow, especially in developed markets, the [demand](../d/demand.md) for Tesla’s cars rises. Tesla capitalizes on this by expanding its product [range](../r/range.md) and focusing on features that appeal to higher-[income](../i/income.md) consumers, such as advanced autonomous driving capabilities and superior electric [range](../r/range.md).
 
 ### Starbucks Corporation
 
-Starbucks [Corporation](../c/corporation.md) (https://www.starbucks.com) operates in the food and beverage [industry](../i/industry.md) where many of its products are considered normal goods. As disposable incomes increase, consumers are more likely to spend on [premium](../p/premium.md) coffee experiences and specialty beverages. Starbucks uses its understanding of [income](../i/income.md) [elasticity](../e/elasticity.md) to design its product offerings and pricing strategies effectively.
+Starbucks [Corporation](../c/corporation.md) ( operates in the food and beverage [industry](../i/industry.md) where many of its products are considered normal goods. As disposable incomes increase, consumers are more likely to spend on [premium](../p/premium.md) coffee experiences and specialty beverages. Starbucks uses its understanding of [income](../i/income.md) [elasticity](../e/elasticity.md) to design its product offerings and pricing strategies effectively.
 
 ## Conclusion
 

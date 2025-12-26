@@ -16,7 +16,7 @@ According to U.S. tax law, a foreign [corporation](../c/corporation.md) is class
 U.S. taxpayers holding [shares](../s/shares.md) in a PFIC are subjected to disadvantageous tax treatments known as the "excess [distribution](../d/distribution.md) regime." This regime imposes tax and [interest](../i/interest.md) charges on excessive distributions from and gains on the [sale](../s/sale.md) of PFIC stock. The primary methods of [taxation](../t/taxation.md) include:
 
 1. **Excess [Distribution](../d/distribution.md)**: Distributions from a PFIC that exceed 125% of the average distributions received in the previous three years are deemed “excess distributions.” The excess [distribution](../d/distribution.md) is subject to tax at the highest marginal rate and an [interest](../i/interest.md) charge is applied to account for the deferral of [taxes](../t/taxes.md).
-2. **[Disposition](../d/disposition.md) of PFIC [Shares](../s/shares.md)**: [Gain](../g/gain.md) from the [sale](../s/sale.md) of PFIC [shares](../s/shares.md) is treated in a similar way to excess distributions, with an [interest](../i/interest.md) charge applied to the gains. 
+2. **[Disposition](../d/disposition.md) of PFIC [Shares](../s/shares.md)**: [Gain](../g/gain.md) from the [sale](../s/sale.md) of PFIC [shares](../s/shares.md) is treated in a similar way to excess distributions, with an [interest](../i/interest.md) charge applied to the gains.
 
 ## Qualified Electing Fund (QEF) Election
 
@@ -61,4 +61,4 @@ For more detailed [guidance](../g/guidance.md) and complexities, it is always ad
 
 For additional resources and [guidance](../g/guidance.md) on PFIC, please visit:
 
-- [IRS Official Website](https://www.irs.gov/instructions/i8621)
+-

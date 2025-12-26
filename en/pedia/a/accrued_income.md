@@ -25,27 +25,27 @@ Accrued [income](../i/income.md) enhances the accuracy and reliability of [finan
 Accrued [income](../i/income.md) has specific [accounting](../a/accounting.md) treatments involving [journal](../j/journal.md) entries and the [income statement](../i/income_statement.md). Here’s a detailed process for recording accrued [income](../i/income.md):
 
 1. **Initial Recognition**:
-   - **[Journal](../j/journal.md) Entry**: When [income](../i/income.md) is earned but not yet received, an [adjusting journal entry](../a/adjusting_journal_entry.md) is made:
-     - [Debit](../d/debit.md): Accrued [Income](../i/income.md) ([Asset](../a/asset.md) Account)
-     - [Credit](../c/credit.md): [Revenue](../r/revenue.md) ([Income Statement](../i/income_statement.md) Account)
-   - This entry recognizes the [earned income](../e/earned_income.md), increasing assets and revenues.
+ - **[Journal](../j/journal.md) Entry**: When [income](../i/income.md) is earned but not yet received, an [adjusting journal entry](../a/adjusting_journal_entry.md) is made:
+ - [Debit](../d/debit.md): Accrued [Income](../i/income.md) ([Asset](../a/asset.md) Account)
+ - [Credit](../c/credit.md): [Revenue](../r/revenue.md) ([Income Statement](../i/income_statement.md) Account)
+ - This entry recognizes the [earned income](../e/earned_income.md), increasing assets and revenues.
 
 2. **Receipt of [Income](../i/income.md)**:
-   - **[Journal](../j/journal.md) Entry**: When the [payment](../p/payment.md) is eventually received:
-     - [Debit](../d/debit.md): Cash/[Bank](../b/bank.md) ([Asset](../a/asset.md) Account)
-     - [Credit](../c/credit.md): Accrued [Income](../i/income.md) ([Asset](../a/asset.md) Account)
-   - This entry clears the accrued [income](../i/income.md) account and recognizes the actual cash inflow.
+ - **[Journal](../j/journal.md) Entry**: When the [payment](../p/payment.md) is eventually received:
+ - [Debit](../d/debit.md): Cash/[Bank](../b/bank.md) ([Asset](../a/asset.md) Account)
+ - [Credit](../c/credit.md): Accrued [Income](../i/income.md) ([Asset](../a/asset.md) Account)
+ - This entry clears the accrued [income](../i/income.md) account and recognizes the actual cash inflow.
 
 ### Example Journal Entries
 
 Consider a scenario where a law [firm](../f/firm.md) has provided legal services worth $5,000 in December, but the client [will](../w/will.md) only pay in January:
 
 - **December Accrual**:
-  - [Debit](../d/debit.md): Accrued [Income](../i/income.md) $5,000
-  - [Credit](../c/credit.md): Legal Services [Revenue](../r/revenue.md) $5,000
+ - [Debit](../d/debit.md): Accrued [Income](../i/income.md) $5,000
+ - [Credit](../c/credit.md): Legal Services [Revenue](../r/revenue.md) $5,000
 - **January [Payment](../p/payment.md)**:
-  - [Debit](../d/debit.md): Cash $5,000
-  - [Credit](../c/credit.md): Accrued [Income](../i/income.md) $5,000
+ - [Debit](../d/debit.md): Cash $5,000
+ - [Credit](../c/credit.md): Accrued [Income](../i/income.md) $5,000
 
 Through these entries, the law [firm](../f/firm.md) accurately records the [revenue](../r/revenue.md) in the period it was earned, maintaining consistency with accrual [accounting principles](../a/accounting_principles.md).
 
@@ -54,11 +54,11 @@ Through these entries, the law [firm](../f/firm.md) accurately records the [reve
 While accrued [income](../i/income.md) represents [earnings](../e/earnings.md) recognized before cash receipt, deferred (or unearned) [income](../i/income.md) pertains to cash received before the associated [revenue](../r/revenue.md) is earned. Understanding this distinction is vital for proper financial reporting:
 
 1. **Accrued [Income](../i/income.md)**:
-   - Recognized before cash receipt.
-   - Example: [Interest](../i/interest.md) earned but not yet received.
+ - Recognized before cash receipt.
+ - Example: [Interest](../i/interest.md) earned but not yet received.
 2. **Deferred [Income](../i/income.md)**:
-   - Cash received before the associated [revenue](../r/revenue.md) is earned.
-   - Example: [Advance payment](../a/advance_payment.md) for subscription services.
+ - Cash received before the associated [revenue](../r/revenue.md) is earned.
+ - Example: [Advance payment](../a/advance_payment.md) for subscription services.
 
 Both concepts ensure compliance with the matching principle, aligning [income](../i/income.md) and expenses within the appropriate periods.
 
@@ -72,7 +72,7 @@ Effective management and reporting of accrued [income](../i/income.md) involve s
 
 ### Use of Technology
 
-Modern [accounting](../a/accounting.md) software, such as QuickBooks, Xero, or SAP, plays a vital role in managing accrued [income](../i/income.md). These platforms [offer](../o/offer.md) features to automate [journal](../j/journal.md) entries, track outstanding receivables, and generate accurate financial reports. Companies like **[Intuit QuickBooks](https://quickbooks.intuit.com/)** provide solutions tailored to businesses of all sizes, ensuring compliance with [accounting](../a/accounting.md) standards while simplifying accrued [income](../i/income.md) management.
+Modern [accounting](../a/accounting.md) software, such as QuickBooks, Xero, or SAP, plays a vital role in managing accrued [income](../i/income.md). These platforms [offer](../o/offer.md) features to automate [journal](../j/journal.md) entries, track outstanding receivables, and generate accurate financial reports. Companies like **Intuit QuickBooks** provide solutions tailored to businesses of all sizes, ensuring compliance with [accounting](../a/accounting.md) standards while simplifying accrued [income](../i/income.md) management.
 
 ## Impact on Financial Statements
 

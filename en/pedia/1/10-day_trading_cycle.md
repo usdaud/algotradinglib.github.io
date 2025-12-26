@@ -22,7 +22,7 @@ The first step in the 10-[day trading](../d/day_trading.md) cycle is the collect
 - **High/Low Prices**: The highest and lowest prices reached each day.
 - **Moving Averages**: Calculation of 10-day moving averages for identifying trends.
 
-Websites like [Yahoo Finance](https://finance.yahoo.com) or [Google Finance](https://www.google.com/finance) provide historical data that can be utilized for this purpose.
+Websites like Yahoo Finance or Google Finance provide historical data that can be utilized for this purpose.
 
 ### Analysis
 
@@ -39,7 +39,7 @@ The RSI over a 10-day period can help in identifying [momentum](../m/momentum.md
 
 #### Bollinger Bands
 
-[Bollinger Bands](../b/bollinger_bands.md), usually set at a [10-day SMA](../1/10-day_sma.md) +/- 2 standard deviations, can help identify price [volatility](../v/volatility.md) and potential reversals. 
+[Bollinger Bands](../b/bollinger_bands.md), usually set at a [10-day SMA](../1/10-day_sma.md) +/- 2 standard deviations, can help identify price [volatility](../v/volatility.md) and potential reversals.
 
 #### Volume Analysis
 
@@ -82,4 +82,4 @@ Leveraging technology is essential for effective implementation of the 10-[day t
 
 ## Conclusion
 
-The 10-[day trading](../d/day_trading.md) cycle offers a structured yet flexible approach to [short-term trading](../s/short-term_trading.md). By focusing on data collection, rigorous analysis, [pattern recognition](../p/pattern_recognition.md), strategic [execution](../e/execution.md), and [risk management](../r/risk_management.md), traders can potentially [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. While the principles of the 10-day cycle are straightforward, success requires discipline, continual learning, and adaptation to changing [market](../m/market.md) conditions.
+The 10-[day trading](../d/day_trading.md) cycle offers a structured yet flexible approach to [short-term trading](../s/short-term_trading.md). By focusing on data collection, rigorous analysis, [pattern recognition](../p/pattern_recognition.md), strategic [execution](../e/execution.md), and [risk management](../r/risk_management.md), traders can potentially [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. While the principles of the 10-day cycle are straightforward, success requires discipline, continual learning, and adaptation to changing [market](../m/market.md) conditions.

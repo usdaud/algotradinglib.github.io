@@ -14,7 +14,7 @@ The UN [Security](../s/security.md) Council has the authority to impose sanction
 
 The United States implements [trade](../t/trade.md) sanctions through various laws and executive orders, primarily under the International Emergency Economic Powers Act (IEEPA), the Trading with the Enemy Act (TWEA), and laws administered by the Office of Foreign Assets Control (OFAC), part of the US Department of the Treasury. OFAC is responsible for enforcing US sanctions and maintaining a list of Specially Designated Nationals and Blocked Persons (SDN List) whom US entities and individuals are prohibited from dealing with.
 
-[Office of Foreign Assets Control (OFAC)](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information)
+Office of Foreign Assets Control (OFAC)
 
 ### European Union
 

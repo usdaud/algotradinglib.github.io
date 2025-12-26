@@ -4,7 +4,7 @@ Activities of Daily Living (ADLs) are a cornerstone in the realm of healthcare, 
 
 ## Definition and Importance
 
-ADLs are typically classified into two categories: Basic Activities of Daily Living (BADLs) and Instrumental Activities of Daily Living (IADLs). 
+ADLs are typically classified into two categories: Basic Activities of Daily Living (BADLs) and Instrumental Activities of Daily Living (IADLs).
 
 ### Basic Activities of Daily Living (BADLs)
 
@@ -43,7 +43,7 @@ Assessing ADLs is a critical part of evaluating a patient's functional status. H
 
 ADLs are particularly relevant in geriatric care. As people age, the [risk](../r/risk.md) of impairments in performing ADLs increases due to factors like physical decline, cognitive [impairment](../i/impairment.md), or chronic illnesses. Evaluating ADLs in elderly patients helps in:
 
-1. **Care Planning**: Establishing the level of care and support required. 
+1. **Care Planning**: Establishing the level of care and support required.
 2. **Early Intervention**: Identifying early signs of functional decline to prevent further [impairment](../i/impairment.md).
 3. **[Quality of Life](../q/quality_of_life.md)**: Enhancing the well-being and independence of older adults.
 
@@ -97,8 +97,8 @@ ADLs are a fundamental aspect of an individual's ability to live independently a
 
 ### Additional Resources
 
-- [National Institute on Aging](https://www.nia.nih.gov/)
-- [American Occupational Therapy Association](https://www.aota.org/)
-- [American Geriatrics Society](https://www.americangeriatrics.org/)
+- National Institute on Aging
+- American Occupational Therapy Association
+- American Geriatrics Society
 
 By focusing on the essential activities that make up daily living, healthcare professionals can provide better care, plan more effectively, and ultimately improve the lives of their patients.

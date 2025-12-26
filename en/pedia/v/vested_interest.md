@@ -9,26 +9,26 @@ At its core, a vested [interest](../i/interest.md) represents a legal right to a
 ### Examples of Vested Interest
 
 1. **Employee Stock [Options](../o/options.md):**
-   Employee stock [options](../o/options.md) are granted to employees as part of their compensation package. These [options](../o/options.md) vest over a predetermined schedule, meaning the employee gains the right to [exercise](../e/exercise.md) the stock [options](../o/options.md) after certain conditions are met. For instance, an employee may be granted 1,000 stock [options](../o/options.md) with a four-year [vesting](../v/vesting.md) period. This means they would be entitled to 250 [options](../o/options.md) each year until [fully vested](../f/fully_vested.md) at the end of the fourth year.
+ Employee stock [options](../o/options.md) are granted to employees as part of their compensation package. These [options](../o/options.md) vest over a predetermined schedule, meaning the employee gains the right to [exercise](../e/exercise.md) the stock [options](../o/options.md) after certain conditions are met. For instance, an employee may be granted 1,000 stock [options](../o/options.md) with a four-year [vesting](../v/vesting.md) period. This means they would be entitled to 250 [options](../o/options.md) each year until [fully vested](../f/fully_vested.md) at the end of the fourth year.
 
 2. **Pension Plans:**
-   In the context of retirement benefits, [vesting](../v/vesting.md) describes the process through which employees earn the non-forfeitable right to their employer-contributed pension funds. For example, an employee may need to work for a company for five years before achieving a 100% vested [interest](../i/interest.md) in the [pension plan](../p/pension_plan.md) funded by the employer.
+ In the context of retirement benefits, [vesting](../v/vesting.md) describes the process through which employees earn the non-forfeitable right to their employer-contributed pension funds. For example, an employee may need to work for a company for five years before achieving a 100% vested [interest](../i/interest.md) in the [pension plan](../p/pension_plan.md) funded by the employer.
 
 3. **Executive Compensation:**
-   High-level executives often receive compensation packages that include vested interests in the form of stock [options](../o/options.md), [restricted stock](../r/restricted_stock.md) units (RSUs), or similar financial products. These are often designed to keep key executives invested in the company's long-term success.
+ High-level executives often receive compensation packages that include vested interests in the form of stock [options](../o/options.md), [restricted stock](../r/restricted_stock.md) units (RSUs), or similar financial products. These are often designed to keep key executives invested in the company's long-term success.
 
 ## The Importance of Vested Interest
 
 Understanding vested [interest](../i/interest.md) is essential for several reasons:
 
 1. **Aligning Interests:**
-   [Vesting](../v/vesting.md) schedules, especially in stock [options](../o/options.md) and other executive compensations, align the interests of employees with those of the shareholders. Employees are incentivized to work towards the company's success, as their financial benefits are directly tied to their performance and the company's wellbeing.
+ [Vesting](../v/vesting.md) schedules, especially in stock [options](../o/options.md) and other executive compensations, align the interests of employees with those of the shareholders. Employees are incentivized to work towards the company's success, as their financial benefits are directly tied to their performance and the company's wellbeing.
 
 2. **Employee Retention:**
-   Companies use [vesting](../v/vesting.md) schedules as a tool to retain talent. Employees are encouraged to stay with the company until their stock [options](../o/options.md) or retirement benefits are [fully vested](../f/fully_vested.md), thereby reducing [turnover](../t/turnover.md) and maintaining organizational stability.
+ Companies use [vesting](../v/vesting.md) schedules as a tool to retain talent. Employees are encouraged to stay with the company until their stock [options](../o/options.md) or retirement benefits are [fully vested](../f/fully_vested.md), thereby reducing [turnover](../t/turnover.md) and maintaining organizational stability.
 
 3. **[Risk Management](../r/risk_management.md):**
-   For investors, understanding whether a company has solid [vesting](../v/vesting.md) plans in place can be an [indicator](../i/indicator.md) of sound [corporate governance](../c/corporate_governance.md) and [risk management](../r/risk_management.md) practices. Vested interests can mitigate risks associated with sudden departures of key personnel and ensure that strategic plans are carried out effectively.
+ For investors, understanding whether a company has solid [vesting](../v/vesting.md) plans in place can be an [indicator](../i/indicator.md) of sound [corporate governance](../c/corporate_governance.md) and [risk management](../r/risk_management.md) practices. Vested interests can mitigate risks associated with sudden departures of key personnel and ensure that strategic plans are carried out effectively.
 
 ## Vesting Schedules
 
@@ -44,7 +44,7 @@ Cliff [vesting](../v/vesting.md), on the other hand, allows employees to earn 10
 
 ## Legal and Regulatory Aspects
 
-Vested interests often have legal and regulatory implications, which can vary depending on the jurisdiction and the type of vested [interest](../i/interest.md) involved. 
+Vested interests often have legal and regulatory implications, which can vary depending on the jurisdiction and the type of vested [interest](../i/interest.md) involved.
 
 ### ERISA
 
@@ -70,7 +70,7 @@ Fintech platforms are increasingly incorporating solutions for managing vested i
 
 ### Equity Management Platforms
 
-Platforms like Carta (https://carta.com/) [offer](../o/offer.md) comprehensive solutions for managing [equity](../e/equity.md) and ownership, including vested interests. These platforms provide tools for issuing, tracking, and reporting on [equity compensation](../e/equity_compensation.md), making it easier for companies to manage their employee [stock option](../s/stock_option.md) plans.
+Platforms like Carta ( [offer](../o/offer.md) comprehensive solutions for managing [equity](../e/equity.md) and ownership, including vested interests. These platforms provide tools for issuing, tracking, and reporting on [equity compensation](../e/equity_compensation.md), making it easier for companies to manage their employee [stock option](../s/stock_option.md) plans.
 
 ### Blockchain Solutions
 

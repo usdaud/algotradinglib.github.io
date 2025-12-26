@@ -30,7 +30,7 @@ Delivered Duty Paid (DDP) is one of the [Incoterms](../i/incoterms.md) (Internat
 
 - **[Market](../m/market.md) Appeal**: [Offering](../o/offering.md) DDP can make a seller more attractive to international buyers who prefer simpler transactions.
 - **Control Over Transportation**: Managing [logistics](../l/logistics.md) allows sellers to ensure timely delivery and potentially lower shipping costs through established carrier relationships.
-  
+
 ## Disadvantages of DDP
 
 ### For Buyers
@@ -48,7 +48,7 @@ Delivered Duty Paid (DDP) is one of the [Incoterms](../i/incoterms.md) (Internat
 
 ### E-Commerce and Retail
 
-In the growing world of e-[commerce](../c/commerce.md), companies like Amazon (https://www.amazon.com) often engage in international shipping under terms reflecting DDP to enhance [customer](../c/customer.md) experience. By managing all costs and complexities, they attract more global customers. This model reduces the friction of cross-border shopping, making it easier for consumers to receive products without navigating foreign customs and [taxes](../t/taxes.md).
+In the growing world of e-[commerce](../c/commerce.md), companies like Amazon ( often engage in international shipping under terms reflecting DDP to enhance [customer](../c/customer.md) experience. By managing all costs and complexities, they attract more global customers. This model reduces the friction of cross-border shopping, making it easier for consumers to receive products without navigating foreign customs and [taxes](../t/taxes.md).
 
 ### Industrial Goods
 
@@ -56,7 +56,7 @@ A similar model is often adopted by industrial suppliers who ship machinery or l
 
 ### Pharmaceuticals
 
-The pharmaceutical [industry](../i/industry.md), represented by companies like Pfizer (https://www.pfizer.com), also deals with DDP transactions. With stringent regulations around the [import](../i/import.md) of healthcare products, DDP ensures compliance and expedited delivery. This is crucial for medications that require controlled environments and rapid deployment.
+The pharmaceutical [industry](../i/industry.md), represented by companies like Pfizer ( also deals with DDP transactions. With stringent regulations around the [import](../i/import.md) of healthcare products, DDP ensures compliance and expedited delivery. This is crucial for medications that require controlled environments and rapid deployment.
 
 ## Conclusion
 

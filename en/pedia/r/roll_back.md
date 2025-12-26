@@ -4,14 +4,14 @@ In the realms of [finance](../f/finance.md) and trading, the term "roll back" us
 
 ## Roll Backs in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies extensively on automated systems to execute trades, typically incorporating sophisticated algorithms to perform high-frequency trading (HFT), [arbitrage](../a/arbitrage.md), or other strategies. In [algorithmic trading](../a/accountability.md), a roll back might be implemented for various reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) relies extensively on automated systems to execute trades, typically incorporating sophisticated algorithms to perform high-frequency trading (HFT), [arbitrage](../a/arbitrage.md), or other strategies. In [algorithmic trading](../a/algorithmic_trading.md), a roll back might be implemented for various reasons:
 
 1. **Error [Correction](../c/correction.md)**: Automated systems, despite their sophistication, can encounter errors or unexpected scenarios. A roll back might be necessary to correct trades executed by mistake.
 2. **Strategy Adjustments**: Changes in [market](../m/market.md) conditions can lead to modifications in [trading strategies](../t/trading_strategies.md). When a new strategy doesn't perform as expected, rolling back to a previous, more stable strategy might be necessary.
 3. **Technical Issues**: System malfunctions or breakdowns can occur, requiring roll backs to restore prior configurations or data states.
 4. **Regulatory Compliance**: If a [trade](../t/trade.md) contradicts regulatory guidelines unintentionally, rolling back the [trade](../t/trade.md) to comply with regulations is crucial.
 
-In [algorithmic trading](../a/accountability.md), the term "roll back" might also refer to data management processes. For example, during [backtesting](../b/backtesting.md), it might be essential to revert data to a previous state for accurate strategy evaluation.
+In [algorithmic trading](../a/algorithmic_trading.md), the term "roll back" might also refer to data management processes. For example, during [backtesting](../b/backtesting.md), it might be essential to revert data to a previous state for accurate strategy evaluation.
 
 ## Roll Backs in FinTech
 
@@ -30,7 +30,7 @@ A notable example of a [trade](../t/trade.md) roll back occurred in 2010 during 
 
 ### Software Roll Back in FinTech
 
-In FinTech, software roll backs are common during product updates. Take, for example, a leading financial management platform like QuickBooks (https://quickbooks.intuit.com). If a new feature release introduces bugs affecting [transaction](../t/transaction.md) records accuracy, Intuit might roll back the software to a previous stable version while addressing the issues.
+In FinTech, software roll backs are common during product updates. Take, for example, a leading financial management platform like QuickBooks ( If a new feature release introduces bugs affecting [transaction](../t/transaction.md) records accuracy, Intuit might roll back the software to a previous stable version while addressing the issues.
 
 ## Roll Back Mechanisms and Techniques
 

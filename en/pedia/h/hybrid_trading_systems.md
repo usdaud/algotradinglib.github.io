@@ -7,37 +7,37 @@ Hybrid [trading systems](../t/trading_systems.md) represent a blend of both huma
 Hybrid [trading systems](../t/trading_systems.md) often integrate several key components to achieve their goals:
 
 1. **Human Discretion**: The human component involves traders who utilize their expertise, intuition, and experience to make critical decisions, especially in complex [market](../m/market.md) conditions that may not be easily quantifiable. Human discretion may be employed in:
-   - Strategic decision-making
-   - [Risk management](../r/risk_management.md)
-   - [Market](../m/market.md) interpretation and adjustment of algorithms
+ - Strategic decision-making
+ - [Risk management](../r/risk_management.md)
+ - [Market](../m/market.md) interpretation and adjustment of algorithms
 
 2. **Algorithmic Models**: Algorithms perform high-frequency tasks and repetitive calculations with speed and accuracy that far surpass human capability. These models may include:
-   - [Trend](../t/trend.md)-following algorithms
-   - Statistical [arbitrage](../a/arbitrage.md) models
-   - [Market](../m/market.md)-making algorithms
-   - [Machine learning](../m/machine_learning.md) and AI-based models
+ - [Trend](../t/trend.md)-following algorithms
+ - Statistical [arbitrage](../a/arbitrage.md) models
+ - [Market](../m/market.md)-making algorithms
+ - [Machine learning](../m/machine_learning.md) and AI-based models
 
 3. **[Execution](../e/execution.md) Systems**: [Order](../o/order.md) [execution](../e/execution.md) benefits from algorithms that can swiftly respond to [market](../m/market.md) changes, minimizing [slippage](../s/slippage.md) and optimizing entry and exit points. [Execution](../e/execution.md) systems might incorporate:
-   - Smart [Order Routing](../o/order_routing.md) (SOR)
-   - Direct [Market](../m/market.md) Access (DMA)
-   - [Algorithmic execution](../a/algorithmic_execution.md) strategies, such as TWAP (Time [Weighted Average](../w/weighted_average.md) Price) and VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price)
+ - Smart [Order Routing](../o/order_routing.md) (SOR)
+ - Direct [Market](../m/market.md) Access (DMA)
+ - [Algorithmic execution](../a/algorithmic_execution.md) strategies, such as TWAP (Time [Weighted Average](../w/weighted_average.md) Price) and VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price)
 
 4. **[Risk Management](../r/risk_management.md)**: Effective [risk management](../r/risk_management.md) is critical. Hybrid systems use both automated [risk](../r/risk.md) controls and human oversight to manage exposure. Key aspects include:
-   - Automated stop-loss triggers
-   - [Position sizing](../p/position_sizing.md) algorithms
-   - [Scenario analysis](../s/scenario_analysis.md) and [stress testing](../s/stress_testing_in_trading.md)
+ - Automated stop-loss triggers
+ - [Position sizing](../p/position_sizing.md) algorithms
+ - [Scenario analysis](../s/scenario_analysis.md) and [stress testing](../s/stress_testing_in_trading.md)
 
 5. **[Market](../m/market.md) Data and Analytics**: Real-time data feeds and advanced analytics are essential. Hybrid [trading systems](../t/trading_systems.md) combine quantitative data analysis with human interpretation for:
-   - Signal generation
-   - [Market sentiment analysis](../m/market_sentiment_analysis.md)
-   - News and [event-driven trading](../e/event-driven_trading.md) strategies
+ - Signal generation
+ - [Market sentiment analysis](../m/market_sentiment_analysis.md)
+ - News and [event-driven trading](../e/event-driven_trading.md) strategies
 
 ### Advantages of Hybrid Trading Systems
 
 Hybrid [trading systems](../t/trading_systems.md) [offer](../o/offer.md) several advantages:
 
 1. **Adaptive Flexibility**: The human component allows for rapid adaptation to unforeseen [market](../m/market.md) conditions, while algorithms ensure consistent implementation of routine tasks.
-   
+
 2. **Enhanced Performance**: By leveraging algorithmic precision and human intuition, hybrid systems can potentially achieve better performance compared to purely manual or automated systems.
 
 3. **Improved [Risk Management](../r/risk_management.md)**: A dual approach to [risk management](../r/risk_management.md), combining automated controls with human oversight, enhances the robustness and responsiveness to potential [market](../m/market.md) disruptions.
@@ -72,15 +72,15 @@ Hybrid [trading systems](../t/trading_systems.md) are employed across various [t
 
 Several firms are known for their implementation of hybrid [trading strategies](../t/trading_strategies.md):
 
-1. **Goldman Sachs**: Utilizes hybrid [trading systems](../t/trading_systems.md) to enhance their [market](../m/market.md)-making and [proprietary trading](../p/proprietary_trading.md) activities. [Goldman Sachs](https://www.goldmansachs.com/)
-   
-2. **Morgan Stanley**: Employs a blend of human and [algorithmic trading](../a/algorithmic_trading.md) in its [equity](../e/equity.md) and [fixed income](../f/fixed_income.md) trading desks. [Morgan Stanley](https://www.morganstanley.com/)
+1. **Goldman Sachs**: Utilizes hybrid [trading systems](../t/trading_systems.md) to enhance their [market](../m/market.md)-making and [proprietary trading](../p/proprietary_trading.md) activities. Goldman Sachs
 
-3. **Virtu Financial**: As a leading electronic [market maker](../m/market_maker.md), Virtu blends advanced algorithms with human oversight. [Virtu Financial](https://www.virtu.com/)
+2. **Morgan Stanley**: Employs a blend of human and [algorithmic trading](../a/algorithmic_trading.md) in its [equity](../e/equity.md) and [fixed income](../f/fixed_income.md) trading desks. Morgan Stanley
 
-4. **Jane Street**: Known for its sophisticated [trading systems](../t/trading_systems.md) that combine human [judgment](../j/judgment.md) with algorithmic precision. [Jane Street](https://www.janestreet.com/)
+3. **Virtu Financial**: As a leading electronic [market maker](../m/market_maker.md), Virtu blends advanced algorithms with human oversight. Virtu Financial
 
-5. **Two Sigma**: A quantitative investment [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and other advanced technologies, harnessing human insights for complex decision-making. [Two Sigma](https://www.twosigma.com/)
+4. **Jane Street**: Known for its sophisticated [trading systems](../t/trading_systems.md) that combine human [judgment](../j/judgment.md) with algorithmic precision. Jane Street
+
+5. **Two Sigma**: A quantitative investment [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and other advanced technologies, harnessing human insights for complex decision-making. Two Sigma
 
 ### Conclusion
 

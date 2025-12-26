@@ -4,13 +4,13 @@
 
 ## The Basics of Equity Accounting
 
-In [equity](../e/equity.md) [accounting](../a/accounting.md), the initial investment is recorded at cost. Subsequently, the carrying amount of this investment is adjusted to reflect the [investor](../i/investor.md)'s share of the net [profit](../p/profit.md) or loss of the investee, reduced by dividends received from the investee. 
+In [equity](../e/equity.md) [accounting](../a/accounting.md), the initial investment is recorded at cost. Subsequently, the carrying amount of this investment is adjusted to reflect the [investor](../i/investor.md)'s share of the net [profit](../p/profit.md) or loss of the investee, reduced by dividends received from the investee.
 
 The key principle lies in reflecting the [investor](../i/investor.md)'s share of the investee's [financial performance](../f/financial_performance.md) in the [investor](../i/investor.md)'s [financial statements](../f/financial_statements.md), underlining that the [investor](../i/investor.md) has influenced the investee's operations and indirectly [shares](../s/shares.md) its financial gains and setbacks.
 
 ### Initial Recognition
 
-Upon acquiring a stake in another company, the [investor](../i/investor.md) records the investment at the [acquisition](../a/acquisition.md) cost. This entry appears on the [balance sheet](../b/balance_sheet.md) as a non-current [asset](../a/asset.md). 
+Upon acquiring a stake in another company, the [investor](../i/investor.md) records the investment at the [acquisition](../a/acquisition.md) cost. This entry appears on the [balance sheet](../b/balance_sheet.md) as a non-current [asset](../a/asset.md).
 
 The [journal](../j/journal.md) entry for the initial investment would generally look like:
 
@@ -61,24 +61,24 @@ Let's consider a practical example to illustrate [equity](../e/equity.md) [accou
 The steps Company A would follow are:
 
 1. **Initial Investment:**
-    ```markdown
-    [Debit](../d/debit.md): Investment in B $1,000,000
-    [Credit](../c/credit.md): Cash $1,000,000
-    ```
+ ```markdown
+ [Debit](../d/debit.md): Investment in B $1,000,000
+ [Credit](../c/credit.md): Cash $1,000,000
+ ```
 
 2. **Recording Share of [Income](../i/income.md):**
-    Company A's share of Company B's [income](../i/income.md) would be 25% of $200,000, which is $50,000.
-    ```markdown
-    [Debit](../d/debit.md): Investment in B $50,000
-    [Credit](../c/credit.md): Share of [Profit](../p/profit.md) of B $50,000
-    ```
+ Company A's share of Company B's [income](../i/income.md) would be 25% of $200,000, which is $50,000.
+ ```markdown
+ [Debit](../d/debit.md): Investment in B $50,000
+ [Credit](../c/credit.md): Share of [Profit](../p/profit.md) of B $50,000
+ ```
 
 3. **Recording Share of Dividends:**
-    Company A's share of dividends would be 25% of $50,000, which amounts to $12,500.
-    ```markdown
-    [Debit](../d/debit.md): Cash $12,500
-    [Credit](../c/credit.md): Investment in B $12,500
-    ```
+ Company A's share of dividends would be 25% of $50,000, which amounts to $12,500.
+ ```markdown
+ [Debit](../d/debit.md): Cash $12,500
+ [Credit](../c/credit.md): Investment in B $12,500
+ ```
 
 The year-end balance of the Investment in B would be:
 ```
@@ -92,20 +92,18 @@ $1,000,000 (initial investment) + $50,000 (share of [profit](../p/profit.md)) - 
 ### Notable Companies Using Equity Accounting
 
 1. **Goldman Sachs Group Inc.**
-    Goldman Sachs, a global investment [bank](../b/bank.md), employs [equity](../e/equity.md) [accounting](../a/accounting.md) for its [joint](../j/joint.md) ventures and strategic investments to report its financial results accurately.
-    [Goldman Sachs Group Inc.](https://www.goldmansachs.com/)
+ Goldman Sachs, a global investment [bank](../b/bank.md), employs [equity](../e/equity.md) [accounting](../a/accounting.md) for its [joint](../j/joint.md) ventures and strategic investments to report its financial results accurately.
+ Goldman Sachs Group Inc.
 
 2. **[Berkshire Hathaway](../b/berkshire_hathaway.md)**
-    Warren Buffet’s [conglomerate](../c/conglomerate.md), [Berkshire Hathaway](../b/berkshire_hathaway.md), applies the [equity method](../e/equity_method.md) to a number of its investments in companies where it holds significant influence but does not [exercise](../e/exercise.md) control.
-    [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+ Warren Buffet’s [conglomerate](../c/conglomerate.md), [Berkshire Hathaway](../b/berkshire_hathaway.md), applies the [equity method](../e/equity_method.md) to a number of its investments in companies where it holds significant influence but does not [exercise](../e/exercise.md) control.
 
 3. **JP Morgan Chase & Co.**
-    JP Morgan Chase uses the [equity method](../e/equity_method.md) for [accounting](../a/accounting.md) its interests in certain investees, ensuring transparent and accurate representation of its stake in those entities.
-    [JP Morgan Chase & Co.](https://www.jpmorganchase.com/)
+ JP Morgan Chase uses the [equity method](../e/equity_method.md) for [accounting](../a/accounting.md) its interests in certain investees, ensuring transparent and accurate representation of its stake in those entities.
+ JP Morgan Chase & Co.
 
 4. **AT&T**
-    AT&T utilizes [equity](../e/equity.md) [accounting](../a/accounting.md) for its considerable stakes in various media and telecommunications entities where it exercises significant influence.
-    [AT&T](https://www.att.com/)
+ AT&T utilizes [equity](../e/equity.md) [accounting](../a/accounting.md) for its considerable stakes in various media and telecommunications entities where it exercises significant influence.
 
 ## Regulatory Framework and Standards
 
@@ -116,14 +114,14 @@ $1,000,000 (initial investment) + $50,000 (share of [profit](../p/profit.md)) - 
 - **Title:** IAS 28 - Investments in Associates and [Joint](../j/joint.md) Ventures
 - **Key Provisions:** This standard prescribes the [accounting](../a/accounting.md) treatment for investments in associates and sets out the requirements for applying the [equity method](../e/equity_method.md).
 - **[Scope](../s/scope.md) and Objective:** It applies to all entities that invest in associates and [joint](../j/joint.md) ventures, aiming to provide relevant information about the [investor](../i/investor.md)’s economic interests in these investments.
-- [IFRS - IAS 28](https://www.ifrs.org/issued-standards/list-of-standards/ias-28-investments-in-associates-and-joint-ventures/)
+- IFRS - IAS 28
 
 ### Financial Accounting Standards Board (FASB) - Accounting Standards Codification (ASC) 323
 
 - **Title:** ASC 323 - Investments — [Equity Method](../e/equity_method.md) and [Joint](../j/joint.md) Ventures
 - **Key Provisions:** Outlines the [accounting](../a/accounting.md) procedures for investments in [common stock](../c/common_stock.md) when the [investor](../i/investor.md) has significant influence over the investee but does not control it.
 - **[Scope](../s/scope.md) and Objective:** Ensures consistent application of the [equity method](../e/equity_method.md) across entities, enhancing comparability and reliability of [financial statements](../f/financial_statements.md).
-- [FASB ASC 323](https://asc.fasb.org/section&trid=2120784)
+- FASB ASC 323
 
 ## Challenges and Considerations
 

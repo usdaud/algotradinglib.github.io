@@ -55,7 +55,7 @@ In many jurisdictions, [share buybacks](../s/share_buybacks.md) are more tax-eff
 ### Technology Companies
 Big tech companies like Apple, Microsoft, and Alphabet have been at the forefront of share repurchase programs in recent years. Due to their substantial cash reserves and consistent profitability, these companies utilize buybacks to [return](../r/return.md) [value](../v/value.md) to shareholders and support stock prices.
 
-Apple Inc., for example, has been one of the largest spenders on [share buybacks](../s/share_buybacks.md). Their extensive repurchase program has significantly reduced the number of outstanding [shares](../s/shares.md), bolstering EPS and [shareholder value](../s/shareholder_value.md). More information on Apple's financial strategies can be found on their [Investor Relations](https://investor.apple.com/) page.
+Apple Inc., for example, has been one of the largest spenders on [share buybacks](../s/share_buybacks.md). Their extensive repurchase program has significantly reduced the number of outstanding [shares](../s/shares.md), bolstering EPS and [shareholder value](../s/shareholder_value.md).
 
 ### Buyback Moratoriums and Legislative Changes
 Some jurisdictions have imposed temporary moratoriums on [share buybacks](../s/share_buybacks.md), particularly during economic downturns or corporate bailouts, to ensure that companies prioritize maintaining employment and stability over returning [capital](../c/capital.md) to shareholders. Furthermore, legislative changes have been proposed in various countries to scrutinize and regulate share repurchase activities more stringently.

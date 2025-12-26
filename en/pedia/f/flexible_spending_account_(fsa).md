@@ -43,7 +43,7 @@ Ineligible expenses typically include:
 
 ## Use-It-or-Lose-It Rule
 
-FSAs are subject to the "Use-It-or-Lose-It" rule, which means that any funds not used by the end of the plan year are forfeited. However, employers may [offer](../o/offer.md) one of two [options](../o/options.md) to mitigate this [risk](../r/risk.md): 
+FSAs are subject to the "Use-It-or-Lose-It" rule, which means that any funds not used by the end of the plan year are forfeited. However, employers may [offer](../o/offer.md) one of two [options](../o/options.md) to mitigate this [risk](../r/risk.md):
 
 1. **Grace Period**: Employers can give employees up to an additional 2.5 months to use the funds after the plan year ends.
 2. **Carryover**: Employers can allow employees to carry over up to $610 (as of 2023) to the next plan year.

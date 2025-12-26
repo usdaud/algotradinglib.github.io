@@ -3,6 +3,8 @@
 ## Introduction to LIBOR
 The London Interbank Offered Rate (LIBOR) is a globally recognized [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) that represents the average rate at which major global banks are willing to lend to one another in the international [interbank market](../i/interbank_market.md) for short-term loans. It is determined daily and serves as a fundamental reference for a variety of financial instruments and contracts.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Structure and Calculation of LIBOR
 LIBOR is calculated for five currencies: the US dollar (USD), the [euro](../e/euro.md) (EUR), the British pound sterling (GBP), the Japanese yen (JPY), and the Swiss franc (CHF). Furthermore, it takes into account seven different maturities: overnight, one week, and 1, 2, 3, 6, and 12 months. This results in a total of 35 different LIBOR rates being published each [business](../b/business.md) day.
 
@@ -48,6 +50,5 @@ Regulatory bodies, central banks, and financial institutions worldwide are colla
 The transition away from LIBOR marks a significant shift in the [financial markets](../f/financial_market.md). As the [industry](../i/industry.md) adapts to new benchmarks, it aims to foster a more transparent and stable financial environment. Stakeholders must stay informed and proactive to navigate this change effectively.
 
 For further information, you can explore the following resources:
-- [ICE Benchmark Administration](https://www.theice.com/iba/libor)
-- [SOFR Information](https://www.newyorkfed.org/markets/reference-rates/sofr)
-
+- ICE Benchmark Administration
+- SOFR Information

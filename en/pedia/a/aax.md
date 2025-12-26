@@ -1,10 +1,14 @@
 # AAX
 
-AAX, short for Atom [Asset](../a/asset.md) [Exchange](../e/exchange.md), is a cryptocurrency [exchange](../e/exchange.md) platform that offers various financial services including spot trading, [futures](../f/futures.md) trading, savings products, and more. The platform is known for its [efficiency](../e/efficiency.md), [security](../s/security.md), and adoption of high-frequency trading technologies.
+**Note: AAX ceased operations in November 2022** following the collapse of FTX and broader cryptocurrency market turmoil. The exchange suspended withdrawals and subsequently shut down, leaving users unable to access their funds. This section is preserved for historical reference.
+
+---
+
+AAX, short for Atom [Asset](../a/asset.md) [Exchange](../e/exchange.md), was a cryptocurrency [exchange](../e/exchange.md) platform that offered various financial services including spot trading, [futures](../f/futures.md) trading, savings products, and more. The platform was known for its [efficiency](../e/efficiency.md), [security](../s/security.md), and adoption of high-frequency trading technologies.
 
 ## Overview
 
-AAX was established in 2018 and has its headquarters in Hong Kong. The [exchange](../e/exchange.md) is built by a team of financial professionals and [blockchain](../b/blockchain_in_trading.md) experts who aim to [offer](../o/offer.md) a seamless trading experience for both retail and institutional traders. AAX is distinguished by being the first cryptocurrency [exchange](../e/exchange.md) to be powered by the London Stock [Exchange](../e/exchange.md) Group's (LSEG) technology, which significantly enhances its trading engine's speed and reliability.
+AAX was established in 2018 and had its headquarters in Hong Kong. The [exchange](../e/exchange.md) is built by a team of financial professionals and [blockchain](../b/blockchain_in_trading.md) experts who aim to [offer](../o/offer.md) a seamless trading experience for both retail and institutional traders. AAX is distinguished by being the first cryptocurrency [exchange](../e/exchange.md) to be powered by the London Stock [Exchange](../e/exchange.md) Group's (LSEG) technology, which significantly enhances its trading engine's speed and reliability.
 
 ## Key Features
 
@@ -68,4 +72,3 @@ In recent times, AAX has expanded its product offerings and added new features t
 
 AAX has carved out a significant niche in the cryptocurrency [exchange](../e/exchange.md) [market](../m/market.md) by [offering](../o/offering.md) a comprehensive [range](../r/range.md) of services powered by [robust](../r/robust.md) technology. Its collaboration with LSEG, along with user-centric features, advanced trading tools, and stringent [security](../s/security.md) measures, positions it as a leading player in the [industry](../i/industry.md).
 
-For more detailed information, you can visit the official AAX website: [AAX](https://www.aax.com/)

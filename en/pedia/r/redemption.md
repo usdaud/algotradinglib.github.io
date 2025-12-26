@@ -11,17 +11,17 @@ In [finance](../f/finance.md), redemption refers to the repurchase or [repayment
 Redemption can occur in various forms, each with unique characteristics and implications. These include:
 
 1. **[Bond](../b/bond.md) Redemption**:
-   - **At [Maturity](../m/maturity.md)**: When a [bond](../b/bond.md) reaches its [maturity date](../m/maturity_date.md), the [issuer](../i/issuer.md) is obligated to repay the [face value](../f/face_value.md) of the [bond](../b/bond.md) to the [bondholder](../b/bondholder.md). This is the most straightforward form of redemption.
-   - **Callable Bonds**: Some bonds come with a call feature, allowing the [issuer](../i/issuer.md) to redeem the [bond](../b/bond.md) before its [maturity date](../m/maturity_date.md). Typically, issuers [will](../w/will.md) call bonds when [interest](../i/interest.md) rates decline, enabling them to [refinance](../r/refinance.md) [debt](../d/debt.md) at a lower cost.
-   - **Putable Bonds**: These bonds give the [bondholder](../b/bondholder.md) the right to [demand](../d/demand.md) early [repayment](../r/repayment.md) of the [principal](../p/principal.md) before the [maturity date](../m/maturity_date.md), usually in scenarios where [interest](../i/interest.md) rates rise or the [issuer](../i/issuer.md)'s [creditworthiness](../c/creditworthiness.md) deteriorates.
+ - **At [Maturity](../m/maturity.md)**: When a [bond](../b/bond.md) reaches its [maturity date](../m/maturity_date.md), the [issuer](../i/issuer.md) is obligated to repay the [face value](../f/face_value.md) of the [bond](../b/bond.md) to the [bondholder](../b/bondholder.md). This is the most straightforward form of redemption.
+ - **Callable Bonds**: Some bonds come with a call feature, allowing the [issuer](../i/issuer.md) to redeem the [bond](../b/bond.md) before its [maturity date](../m/maturity_date.md). Typically, issuers [will](../w/will.md) call bonds when [interest](../i/interest.md) rates decline, enabling them to [refinance](../r/refinance.md) [debt](../d/debt.md) at a lower cost.
+ - **Putable Bonds**: These bonds give the [bondholder](../b/bondholder.md) the right to [demand](../d/demand.md) early [repayment](../r/repayment.md) of the [principal](../p/principal.md) before the [maturity date](../m/maturity_date.md), usually in scenarios where [interest](../i/interest.md) rates rise or the [issuer](../i/issuer.md)'s [creditworthiness](../c/creditworthiness.md) deteriorates.
 
 2. **[Mutual Fund](../m/mutual_fund.md) Redemption**:
-   - **[Open](../o/open.md)-End Funds**: Investors can redeem [shares](../s/shares.md) of [open](../o/open.md)-end mutual funds at the net [asset](../a/asset.md) [value](../v/value.md) (NAV) at the end of the trading day. This feature provides [liquidity](../l/liquidity.md) and flexibility for investors.
-   - **Closed-End Funds**: Generally, these funds do not [offer](../o/offer.md) redemption. Instead, [shares](../s/shares.md) are bought and sold on the [secondary market](../s/secondary_market.md), often at a [discount](../d/discount.md) or [premium](../p/premium.md) to NAV.
+ - **[Open](../o/open.md)-End Funds**: Investors can redeem [shares](../s/shares.md) of [open](../o/open.md)-end mutual funds at the net [asset](../a/asset.md) [value](../v/value.md) (NAV) at the end of the trading day. This feature provides [liquidity](../l/liquidity.md) and flexibility for investors.
+ - **Closed-End Funds**: Generally, these funds do not [offer](../o/offer.md) redemption. Instead, [shares](../s/shares.md) are bought and sold on the [secondary market](../s/secondary_market.md), often at a [discount](../d/discount.md) or [premium](../p/premium.md) to NAV.
 
 3. **Certificate of [Deposit](../d/deposit.md) (CD) Redemption**:
-   - **At [Maturity](../m/maturity.md)**: Similar to bonds, when a CD reaches its [maturity date](../m/maturity_date.md), the [investor](../i/investor.md) can redeem the original [deposit](../d/deposit.md) amount plus any [accrued interest](../a/accrued_interest.md).
-   - **Early Redemption**: Investors can withdraw funds before the CD's [maturity date](../m/maturity_date.md), but this usually incurs a penalty, reducing the overall [return](../r/return.md).
+ - **At [Maturity](../m/maturity.md)**: Similar to bonds, when a CD reaches its [maturity date](../m/maturity_date.md), the [investor](../i/investor.md) can redeem the original [deposit](../d/deposit.md) amount plus any [accrued interest](../a/accrued_interest.md).
+ - **Early Redemption**: Investors can withdraw funds before the CD's [maturity date](../m/maturity_date.md), but this usually incurs a penalty, reducing the overall [return](../r/return.md).
 
 ### Importance of Redemption Terms
 

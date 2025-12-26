@@ -48,9 +48,7 @@ Apple Inc. meticulously manages its Gross Working [Capital](../c/capital.md) to 
 ### **Walmart**
 Walmart's Gross Working [Capital](../c/capital.md) strategy involves tight [inventory management](../i/inventory_management.md) and rapid [turnover](../t/turnover.md), which is crucial for a retail giant. This [efficiency](../e/efficiency.md) in managing [current assets](../c/current_assets.md) helps Walmart maximize operational [liquidity](../l/liquidity.md) and reduce waste in [inventory](../i/inventory.md).
 
-For more detailed [financial analysis](../f/financial_analysis.md) of these companies, you can visit their respective [investor relations](../i/investor_relations.md) pages:
-- [Apple Inc. Investor Relations](https://investor.apple.com/)
-- [Walmart Investor Relations](https://stock.walmart.com/)
+For more detailed [financial analysis](../f/financial_analysis.md) of these companies, you can visit their respective [company filings](../i/investor_relations.md) pages:
 
 ## Conclusion
 Gross Working [Capital](../c/capital.md) is a fundamental financial metric that provides valuable insights into a company's operational [liquidity](../l/liquidity.md) and short-term [financial health](../f/financial_health.md). By effectively managing Gross Working [Capital](../c/capital.md), companies can ensure smooth daily operations, meet [obligations](../o/obligation.md) promptly, and [capitalize](../c/capitalize.md) on growth opportunities.

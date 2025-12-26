@@ -9,8 +9,8 @@ The main types of anti-[dilution](../d/dilution.md) provisions include:
 1. **Full-Ratchet Anti-[Dilution](../d/dilution.md)**: This [provision](../p/provision.md) adjusts the conversion price of the [investor](../i/investor.md)’s [shares](../s/shares.md) to the price at which new [shares](../s/shares.md) are issued, irrespective of the number of new [shares](../s/shares.md) issued. This method is straightforward and offers maximum protection to investors but can be very punitive for existing shareholders.
 
 2. **[Weighted](../w/weighted.md)-Average Anti-[Dilution](../d/dilution.md)**: This method takes into account both the price and the number of newly [issued shares](../i/issued_shares.md). It is considered more balanced, as it doesn’t penalize existing shareholders to the same extent as full-ratchet. The [weighted](../w/weighted.md)-average can be further divided into two types:
-   - **Broad-Based [Weighted](../w/weighted.md)-Average**: Considers all common [shares](../s/shares.md) outstanding, including [options](../o/options.md) and convertible securities, providing a lesser degree of [dilution](../d/dilution.md).
-   - **Narrow-Based [Weighted](../w/weighted.md)-Average**: Only takes into account outstanding common [shares](../s/shares.md), excluding [options](../o/options.md) and convertible securities, generally [offering](../o/offering.md) slightly less protection than the broad-based method.
+ - **Broad-Based [Weighted](../w/weighted.md)-Average**: Considers all common [shares](../s/shares.md) outstanding, including [options](../o/options.md) and convertible securities, providing a lesser degree of [dilution](../d/dilution.md).
+ - **Narrow-Based [Weighted](../w/weighted.md)-Average**: Only takes into account outstanding common [shares](../s/shares.md), excluding [options](../o/options.md) and convertible securities, generally [offering](../o/offering.md) slightly less protection than the broad-based method.
 
 3. **No Anti-[Dilution](../d/dilution.md) Protection**: As the name suggests, this approach provides no protection against [dilution](../d/dilution.md), typically seen in [common stock](../c/common_stock.md) without any attached privileges.
 
@@ -54,15 +54,12 @@ In the [startup](../s/startup.md) world, anti-[dilution](../d/dilution.md) provi
 
 ### SoftBank
 SoftBank, a major player in [venture capital](../v/venture_capital.md) and [private equity](../p/private_equity.md), often structures its deals with anti-[dilution](../d/dilution.md) provisions to protect its significant investments. For instance, SoftBank’s Vision [Fund](../f/fund.md) has been known to employ anti-[dilution](../d/dilution.md) clauses to safeguard its multi-billion-dollar investments in tech startups.
-[SoftBank](https://www.softbank.jp/en/)
 
 ### Andreessen Horowitz
 Another prominent name in [venture capital](../v/venture_capital.md), Andreessen Horowitz (a16z), frequently uses anti-[dilution](../d/dilution.md) provisions in their investment term sheets. These clauses help a16z balance the [risk](../r/risk.md)-reward ratio and [offer](../o/offer.md) protection to their sizable investment portfolio.
-[Andreessen Horowitz](https://a16z.com/)
 
 ### Sequoia Capital
 Sequoia [Capital](../c/capital.md), renowned for its investments in companies like Apple and Google, also integrates anti-[dilution](../d/dilution.md) provisions in its investment documents. This ensures Sequoia’s investments are not diluted in future [financing](../f/financing.md) rounds.
-[Sequoia Capital](https://www.sequoiacap.com/)
 
 ## Legal and Accounting Implications
 

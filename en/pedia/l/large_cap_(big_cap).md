@@ -21,13 +21,12 @@ Large cap companies are usually well-established with stable [revenue](../r/reve
 ## Examples of Large Cap Companies
 
 ### Apple Inc. (AAPL)
-Apple Inc. is one of the most iconic large cap companies, with a vast [product portfolio](../p/product_portfolio.md) that includes iPhones, iPads, Macs, and services like iCloud and Apple Music. As of early 2023, Apple's [market](../m/market.md) cap exceeds $2 trillion, making it one of the largest companies globally. More information about Apple Inc. can be found on their [official website](https://www.apple.com).
+Apple Inc. is one of the most iconic large cap companies, with a vast [product portfolio](../p/product_portfolio.md) that includes iPhones, iPads, Macs, and services like iCloud and Apple Music. As of early 2023, Apple's [market](../m/market.md) cap exceeds $2 trillion, making it one of the largest companies globally.
 
 ### Microsoft Corporation (MSFT)
-Microsoft [Corporation](../c/corporation.md), founded by Bill Gates and Paul Allen, is another prominent large cap stock. Known for its software products like Windows and Microsoft Office, Microsoft has also become a leader in [cloud computing](../c/cloud_computing_in_trading.md) with its Azure platform. As of 2023, Microsoft's [market](../m/market.md) cap is well over $1 trillion. More details are available on their [official website](https://www.microsoft.com). 
-
+Microsoft [Corporation](../c/corporation.md), founded by Bill Gates and Paul Allen, is another prominent large cap stock. Known for its software products like Windows and Microsoft Office, Microsoft has also become a leader in [cloud computing](../c/cloud_computing_in_trading.md) with its Azure platform. As of 2023, Microsoft's [market](../m/market.md) cap is well over $1 trillion. More
 ### Amazon.com, Inc. (AMZN)
-Amazon.com, Inc. started as an online bookstore and has evolved into one of the world's largest e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) companies. Its diverse [business](../b/business.md) model includes Amazon Web Services (AWS), retail, and subscription services. Amazon’s [market capitalization](../m/market_capitalization.md) also stands at over $1 trillion. More information can be found on their [official website](https://www.amazon.com).
+Amazon.com, Inc. started as an online bookstore and has evolved into one of the world's largest e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) companies. Its diverse [business](../b/business.md) model includes Amazon Web Services (AWS), retail, and subscription services. Amazon’s [market capitalization](../m/market_capitalization.md) also stands at over $1 trillion.
 
 ## Advantages of Investing in Large Cap Stocks
 
@@ -43,7 +42,7 @@ Amazon.com, Inc. started as an online bookstore and has evolved into one of the 
 
 ## Risks of Investing in Large Cap Stocks
 
-1. **Lower Growth Potential**: Due to their already substantial size, large cap companies often exhibit slower [growth rates](../g/growth_rates_in_trading.md) compared to small or mid cap [stocks](../s/stock.md). 
+1. **Lower Growth Potential**: Due to their already substantial size, large cap companies often exhibit slower [growth rates](../g/growth_rates_in_trading.md) compared to small or mid cap [stocks](../s/stock.md).
 
 2. **[Market Sentiment](../m/market_sentiment.md)**: Being high-profile, large caps are heavily influenced by [market sentiment](../m/market_sentiment.md), media coverage, and macroeconomic conditions, which can lead to [volatility](../v/volatility.md).
 
@@ -71,16 +70,16 @@ In pair trading, investors pair a long position in a large cap stock with a shor
 ## Tools and Platforms for Trading Large Cap Stocks
 
 ### Bloomberg Terminal
-The [Bloomberg Terminal](../b/bloomberg_terminal.md) is a powerful tool used by financial professionals for [real-time market data](../r/real-time_market_data.md), news, analytics, and trading. It offers extensive information on large cap [stocks](../s/stock.md), including [financial statements](../f/financial_statements.md), analyst ratings, and historical data. More about [Bloomberg Terminal](../b/bloomberg_terminal.md) can be found on their [official page](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg Terminal](../b/bloomberg_terminal.md) is a powerful tool used by financial professionals for [real-time market data](../r/real-time_market_data.md), news, analytics, and trading. It offers extensive information on large cap [stocks](../s/stock.md), including [financial statements](../f/financial_statements.md), analyst ratings, and historical data. More about [Bloomberg Terminal](../b/bloomberg_terminal.md) can be found on their public materials.
 
 ### Yahoo Finance
-[Yahoo Finance](../y/yahoo_finance.md) provides a more accessible platform for retail investors to track large cap [stocks](../s/stock.md). It offers financial news, stock quotes, and [portfolio management](../p/par.md) resources. More details are available on [Yahoo Finance's website](https://finance.yahoo.com).
+[Yahoo Finance](../y/yahoo_finance.md) provides a more accessible platform for retail investors to track large cap [stocks](../s/stock.md). It offers financial news, stock quotes, and [portfolio management](../p/par.md) resources. More
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) is a [trading platform](../t/trading_platform.md) known for its comprehensive [range](../r/range.md) of investment products and [market](../m/market.md) access. It offers advanced trading tools suitable for both professional and retail traders. More information can be found on their [official site](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) is a [trading platform](../t/trading_platform.md) known for its comprehensive [range](../r/range.md) of investment products and [market](../m/market.md) access. It offers advanced trading tools suitable for both professional and retail traders.
 
 ### Morningstar
-[Morningstar](../m/morningstar.md) is a provider of independent investment research which includes in-depth analysis, ratings, and data on large cap [stocks](../s/stock.md). Investors use it to make informed decisions based on fundamental and [technical analysis](../t/technical_analysis.md). Visit their [official website](https://www.morningstar.com) for more details.
+[Morningstar](../m/morningstar.md) is a provider of independent investment research which includes in-depth analysis, ratings, and data on large cap [stocks](../s/stock.md). Investors use it to make informed decisions based on fundamental and [technical analysis](../t/technical_analysis.md).
 
 ## Conclusion
 

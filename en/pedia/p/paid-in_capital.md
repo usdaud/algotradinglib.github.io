@@ -32,7 +32,7 @@ Thus, XYZ Corp's paid-in [capital](../c/capital.md) would be $10,000.
 
 ## Importance of Paid-In Capital
 
-Paid-in [capital](../c/capital.md) is a critical metric in understanding a company's [financing](../f/financing.md) structure. It reflects the initial investment made by shareholders and is considered more stable compared to [revenue](../r/revenue.md) generated from operations. 
+Paid-in [capital](../c/capital.md) is a critical metric in understanding a company's [financing](../f/financing.md) structure. It reflects the initial investment made by shareholders and is considered more stable compared to [revenue](../r/revenue.md) generated from operations.
 
 ### Financial Health Indicator
 
@@ -148,7 +148,7 @@ Shareholders expect returns on their [equity](../e/equity.md) investments, which
 
 ### Paid-In Capital Structure
 
-Apple Inc., one of the world’s largest technology companies, has a significant paid-in [capital](../c/capital.md) component within its [equity](../e/equity.md). Find more about Apple Inc.’s [capital structure](../c/capital_structure.md) on their [official investor relations page](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc., one of the world’s largest technology companies, has a significant paid-in [capital](../c/capital.md) component within its [equity](../e/equity.md). Find more about Apple Inc.’s [capital structure](../c/capital_structure.md) on their official company filings.
 
 ### Financial Health and Corporate Actions
 

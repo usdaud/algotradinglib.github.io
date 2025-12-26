@@ -134,5 +134,3 @@ FTSE is focused on providing more tailored and customizable [indexing](../i/inde
 ## Conclusion
 
 The Financial Times Stock [Exchange](../e/exchange.md) Group (FTSE) has established itself as a leading global provider of [stock market](../s/stock_market.md) indices and data services. Through its innovative products, rigorous methodologies, and commitment to [transparency](../t/transparency.md), FTSE supports investors, [asset](../a/asset.md) managers, and financial institutions in making informed investment decisions. As the financial landscape continues to evolve, FTSE remains at the forefront of [index](../i/index_instrument.md) innovation, driving the development of new benchmarks and data solutions that enhance [market](../m/market.md) performance, sustainability, and resilience.
-
-For more information about FTSE, visit their official website: [FTSE Russell](https://www.ftserussell.com/)

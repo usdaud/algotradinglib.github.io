@@ -8,13 +8,13 @@ SWFs are state-owned investment funds that manage a vast array of assets and inv
 ## Objectives of the Santiago Principles
 
 1. **Promote [Transparency](../t/transparency.md)**: The principles aim to enhance the [transparency](../t/transparency.md) of SWFs by encouraging [disclosure](../d/disclosure.md) of investment objectives, strategies, governance frameworks, and [financial performance](../f/financial_performance.md).
-  
+
 2. **Foster Accountability**: GAPP encourages SWFs to account for their activities and performance to the governments and the public of their respective countries to maintain legitimacy.
-   
+
 3. **Ensure Sound Governance Structures**: Implementing [robust](../r/robust.md) governance structures with clearly defined roles and responsibilities is an essential objective of the principles.
-   
+
 4. **Encourage Prudent Investment Practices**: The guidelines advocate for [risk management](../r/risk_management.md) and strategic [asset allocation](../a/asset_allocation.md) to ensure the long-term sustainability and growth of the funds.
-   
+
 5. **Facilitate Global Financial Stability**: By promoting [best practices](../b/best_practices.md) among SWFs, the GAPP contributes to the stability of the global [financial system](../f/financial_system.md).
 
 ## Key Elements of GAPP
@@ -48,7 +48,7 @@ The need for a coherent set of principles for SWFs gained [momentum](../m/moment
 ## Implementation and Impact
 
 ### Adoption by SWFs
-Most major SWFs have adopted the Santiago Principles, demonstrating their commitment to [transparency](../t/transparency.md), accountability, and good governance. For instance, Norway's Government Pension [Fund](../f/fund.md) Global (GPFG) [link](https://www.nbim.no/) and the Abu Dhabi Investment Authority (ADIA) [link](https://www.adia.ae/) are two examples of funds that adhere to GAPP.
+Most major SWFs have adopted the Santiago Principles, demonstrating their commitment to [transparency](../t/transparency.md), accountability, and good governance. For instance, Norway's Government Pension [Fund](../f/fund.md) Global (GPFG) link and the Abu Dhabi Investment Authority (ADIA) link are two examples of funds that adhere to GAPP.
 
 ### Enhancing Credibility
 By committing to GAPP, SWFs enhance their credibility and legitimacy globally. This adherence helps in mitigating fears that SWFs might make investments based on political motives rather than economic and financial principles.

@@ -48,7 +48,7 @@ In financial reporting, realized gains are recorded on the [income statement](..
 
 ## Realized Gains in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), quantifying realized gains is essential for evaluating the performance of [trading algorithms](../t/trading_algorithms.md) and strategies. Traders and firms often implement automated systems that track and calculate realized gains in real-time, enabling them to quickly assess profitability and make informed decisions.
+In [algorithmic trading](../a/algorithmic_trading.md), quantifying realized gains is essential for evaluating the performance of [trading algorithms](../t/trading_algorithms.md) and strategies. Traders and firms often implement automated systems that track and calculate realized gains in real-time, enabling them to quickly assess profitability and make informed decisions.
 
 ## Tools and Software
 
@@ -56,11 +56,11 @@ Various tools and software solutions are available to help traders and investors
 
 ### Brokerages and Trading Platforms
 
-Many online brokerages and trading platforms [offer](../o/offer.md) features that simplify tracking realized gains. For example, platforms like [E*TRADE](https://us.etrade.com) and [TD Ameritrade](https://www.tdameritrade.com) provide detailed [transaction](../t/transaction.md) histories and [gain](../g/gain.md)/loss summaries. These tools help investors monitor their performance and prepare for tax filings.
+Many online brokerages and trading platforms [offer](../o/offer.md) features that simplify tracking realized gains. For example, platforms like E*TRADE and TD Ameritrade provide detailed [transaction](../t/transaction.md) histories and [gain](../g/gain.md)/loss summaries. These tools help investors monitor their performance and prepare for tax filings.
 
 ### Specialized Software
 
-There are also specialized software solutions designed for more comprehensive [portfolio management](../p/par.md) and tax reporting. Tools like [TurboTax](https://turbotax.intuit.com) and [H&R Block](https://www.hrblock.com) [offer](../o/offer.md) functionalities for importing investment data and calculating [realized gains and losses](../r/realized_gains_and_losses.md), making the tax preparation process more efficient.
+There are also specialized software solutions designed for more comprehensive [portfolio management](../p/par.md) and tax reporting. Tools like TurboTax and H&R Block [offer](../o/offer.md) functionalities for importing investment data and calculating [realized gains and losses](../r/realized_gains_and_losses.md), making the tax preparation process more efficient.
 
 ## Conclusion
 

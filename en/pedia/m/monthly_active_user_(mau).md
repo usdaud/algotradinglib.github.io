@@ -39,32 +39,32 @@ While DAU can provide insights into daily trends and peak usage times, MAU offer
 In the realm of [finance](../f/finance.md) and fintech, MAU is an essential KPI (Key Performance [Indicator](../i/indicator.md)) for digital wallets, [payment](../p/payment.md) platforms, trading apps, and other financial services. The metric can help assess the health and growth of financial services:
 
 - **Digital Wallets**: Companies like [PayPal](../p/paypal.md) or Revolut analyze MAU to monitor user adoption and retention.
-  
-  Link: [PayPal](https://www.paypal.com)
-  
+
+ Link: PayPal
+
 - **Trading Platforms**: Platforms such as [Robinhood](../r/robinhood.md) use MAU to evaluate [trader](../t/trader.md) engagement and the effective reach of their services.
-  
-  Link: [Robinhood](https://www.robinhood.com)
-  
+
+ Link: Robinhood
+
 - **Investment Apps**: Applications for [personal finance](../p/personal_finance_in_trading.md) and investment use MAU to understand user interaction with their budgeting and investment tools.
-  
-  Link: [Betterment](https://www.betterment.com)
+
+ Link: Betterment
 
 ## MAU in Social Media and Tech Giants
 
 Tech giants and [social media](../s/social_media.md) platforms are highly dependent on MAU as a metric to showcase their [market penetration](../m/market_penetration.md) and user loyalty:
 
 - **Facebook**: Facebook (Meta) reported MAU to highlight their extensive user network.
-  
-  Link: [Facebook](https://www.facebook.com)
-  
+
+ Link: Facebook
+
 - **Twitter**: Twitter provides MAU [statistics](../s/statistics.md) to demonstrate user engagement on their platform.
-  
-  Link: [Twitter](https://www.twitter.com)
-  
+
+ Link: Twitter
+
 - **Snapchat**: Snap Inc. offers MAU data to reflect the active engagement of their users.
-  
-  Link: [Snapchat](https://www.snapchat.com)
+
+ Link: Snapchat
 
 ## Challenges in Measuring MAU
 

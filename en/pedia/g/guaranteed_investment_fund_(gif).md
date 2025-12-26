@@ -50,13 +50,13 @@ These specialized GIFs often focus on providing a steady [income](../i/income.md
 ## Major Players in the GIF Market
 
 ### 1. Manulife Financial
-Manulife Financial is one of the prominent insurers that offers a variety of segregated funds. You can find more details on their product offerings at [Manulife Financial](https://www.manulife.ca).
+Manulife Financial is one of the prominent insurers that offers a variety of segregated funds. You can find more details on their product offerings at Manulife Financial.
 
 ### 2. Sun Life Financial
-Sun Life Financial offers a [range](../r/range.md) of investment products, including segregated funds with multi-faceted guarantees. More information can be found here: [Sun Life Financial](https://www.sunlife.ca).
+Sun Life Financial offers a [range](../r/range.md) of investment products, including segregated funds with multi-faceted guarantees. More information can be found here: Sun Life Financial.
 
 ### 3. Great-West Life
-Known for various [insurance](../i/insurance.md) and investment products, Great-West Life offers several segregated [fund](../f/fund.md) [options](../o/options.md) suitable for different [investor](../i/investor.md) needs. Visit their site for more details: [Great-West Life](https://www.greatwestlife.com).
+Known for various [insurance](../i/insurance.md) and investment products, Great-West Life offers several segregated [fund](../f/fund.md) [options](../o/options.md) suitable for different [investor](../i/investor.md) needs.
 
 ## Risks and Considerations
 
@@ -64,7 +64,7 @@ Known for various [insurance](../i/insurance.md) and investment products, Great-
 While GIFs [offer](../o/offer.md) [capital](../c/capital.md) guarantees, the returns are still subject to [market](../m/market.md) performance. The guarantees often apply only at [maturity](../m/maturity.md) or on death, so investors could see lower interim valuations.
 
 ### 2. Fees
-The higher fees associated with GIFs can eat into returns over the long term. 
+The higher fees associated with GIFs can eat into returns over the long term.
 
 ### 3. Liquidity
 GIFs can have restrictions on withdrawals and may impose penalties for early [redemption](../r/redemption.md).

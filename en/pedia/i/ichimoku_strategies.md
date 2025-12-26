@@ -34,7 +34,7 @@ The Chikou Span is the current period’s closing price plotted 26 periods behin
 
 ### A. Cloud (Kumo)
 
-The space between Senkou Span A and B forms the Kumo or cloud. This acts as a dynamic [support and resistance](../s/support_and_resistance.md) area. The color of the cloud changes based on the position of Senkou Span A relative to Senkou Span B. 
+The space between Senkou Span A and B forms the Kumo or cloud. This acts as a dynamic [support and resistance](../s/support_and_resistance.md) area. The color of the cloud changes based on the position of Senkou Span A relative to Senkou Span B.
 
 - **Bullish Cloud**: Senkou Span A is above Senkou Span B.
 - **Bearish Cloud**: Senkou Span A is below Senkou Span B.
@@ -42,12 +42,12 @@ The space between Senkou Span A and B forms the Kumo or cloud. This acts as a dy
 ### B. Crossover Strategies
 
 1. **Tenkan-Kijun Cross**
-   - Bullish Signal: Tenkan-sen rises above Kijun-sen.
-   - Bearish Signal: Tenkan-sen drops below Kijun-sen.
+ - Bullish Signal: Tenkan-sen rises above Kijun-sen.
+ - Bearish Signal: Tenkan-sen drops below Kijun-sen.
 
 2. **Price-Kijun Cross**
-   - Bullish Signal: Price rises above the Kijun-sen.
-   - Bearish Signal: Price drops below the Kijun-sen.
+ - Bullish Signal: Price rises above the Kijun-sen.
+ - Bearish Signal: Price drops below the Kijun-sen.
 
 ### C. Cloud Breakout
 
@@ -63,7 +63,7 @@ Chikou Span provides confirmation by assessing how the current price behaves rel
 
 ### Building the Indicator
 
-Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. Python and platforms such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) provide APIs to help build and simulate these strategies.
+Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. C# and platforms such as [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) provide APIs to help build and simulate these strategies.
 
 ```python
 [import](../i/import.md) numpy as np
@@ -161,4 +161,3 @@ In this example, the `[backtrader](../b/backtrader.md)` library is used to backt
 ## Conclusion
 
 Ichimoku strategies [offer](../o/offer.md) a [robust](../r/robust.md) and versatile toolset for traders, especially when automated. By understanding the components and properly implementing them in algorithmic strategies, traders can enhance their insights and potentially improve their [trading performance](../t/trading_performance.md). The attractive balance between simplicity and depth makes Ichimoku an excellent choice for both novice and experienced algorithmic traders.
-

@@ -28,7 +28,7 @@ There are two primary types of Chi-Square tests:
 ## Applications in Algorithmic Trading
 
 ### Strategy Performance Evaluation
-One of the main applications of the Chi-Square test in [algorithmic trading](../a/algorithmic_trading.md) is to evaluate the performance of a [trading strategy](../t/trading_strategy.md) under different [market](../m/market.md) conditions. For instance, you can use a Chi-Square test to determine if the success rate of a [trading strategy](../t/trading_strategy.md) is independent of the [market](../m/market.md) condition (bullish, bearish, or [neutral](../n/neutral.md)). 
+One of the main applications of the Chi-Square test in [algorithmic trading](../a/algorithmic_trading.md) is to evaluate the performance of a [trading strategy](../t/trading_strategy.md) under different [market](../m/market.md) conditions. For instance, you can use a Chi-Square test to determine if the success rate of a [trading strategy](../t/trading_strategy.md) is independent of the [market](../m/market.md) condition (bullish, bearish, or [neutral](../n/neutral.md)).
 
 ### Strategy Comparison
 Traders can also use the Chi-Square test to compare different [trading strategies](../t/trading_strategies.md). By categorizing trades based on different strategies and [market](../m/market.md) outcomes, a Chi-Square test can reveal whether the differences in performance are statistically significant.
@@ -91,5 +91,4 @@ print('Expected frequencies:', ex)
 
 ## Conclusion
 
-The Chi-Square test is a powerful tool for analyzing relationships in categorical data and can provide valuable insights in the realm of [algorithmic trading](../a/algorithmic_trading.md). By understanding and leveraging this statistical method, traders can make more informed decisions, optimize [trading strategies](../t/trading_strategies.md), and manage risks more effectively. For further exploration of [trading strategies](../t/trading_strategies.md), data, and methods, you may refer to [algorithmic trading](../a/algorithmic_trading.md) experts and resources like [QuantConnect](https://www.quantconnect.com) and [Alpaca](https://alpaca.markets).
-
+The Chi-Square test is a powerful tool for analyzing relationships in categorical data and can provide valuable insights in the realm of [algorithmic trading](../a/algorithmic_trading.md). By understanding and leveraging this statistical method, traders can make more informed decisions, optimize [trading strategies](../t/trading_strategies.md), and manage risks more effectively. For further exploration of [trading strategies](../t/trading_strategies.md), data, and methods, you may refer to [algorithmic trading](../a/algorithmic_trading.md) experts and resources like QuantConnect and Alpaca.

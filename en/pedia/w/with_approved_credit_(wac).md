@@ -30,7 +30,7 @@ In the automotive [industry](../i/industry.md), the phrase "With Approved [Credi
 
 In the [mortgage](../m/mortgage.md) realm, WAC is equally important as lenders evaluate the [creditworthiness](../c/creditworthiness.md) of potential homebuyers.
 
-- **[Loan](../l/loan.md) Approval:** [Mortgage](../m/mortgage.md) lenders scrutinize [credit](../c/credit.md) scores, employment history, [income](../i/income.md), and existing [debt](../d/debt.md) when approving loans. 
+- **[Loan](../l/loan.md) Approval:** [Mortgage](../m/mortgage.md) lenders scrutinize [credit](../c/credit.md) scores, employment history, [income](../i/income.md), and existing [debt](../d/debt.md) when approving loans.
 - **[Interest](../i/interest.md) Rates:** Just like in automotive [financing](../f/financing.md), better [credit](../c/credit.md) leads to more favorable [mortgage](../m/mortgage.md) rates.
 - **[Loan](../l/loan.md) Amounts:** The amount a borrower can [finance](../f/finance.md) often hinges on their [creditworthiness](../c/creditworthiness.md), affecting their [purchasing power](../p/purchasing_power.md).
 
@@ -95,15 +95,15 @@ Lenders and retailers rely on WAC to mitigate [risk](../r/risk.md). By extending
 
 ### Automotive Dealers
 
-Many automotive dealerships, such as [Honda Financial Services](https://www.financialservices.honda.com/), extensively use WAC in their promotional campaigns to provide [financing](../f/financing.md) for new and used vehicles.
+Many automotive dealerships, such as Honda Financial Services, extensively use WAC in their promotional campaigns to provide [financing](../f/financing.md) for new and used vehicles.
 
 ### Mortgage Lenders
 
-[Mortgage](../m/mortgage.md) lenders like [Quicken Loans](https://www.quickenloans.com/) use WAC to determine [loan](../l/loan.md) eligibility and terms, helping potential homeowners secure [financing](../f/financing.md).
+[Mortgage](../m/mortgage.md) lenders like Quicken Loans use WAC to determine [loan](../l/loan.md) eligibility and terms, helping potential homeowners secure [financing](../f/financing.md).
 
 ### Retailers
 
-Large retailers such as [Best Buy](https://www.bestbuy.com/) [offer](../o/offer.md) [in-house financing](../i/in-house_financing.md) [options](../o/options.md) and store [credit](../c/credit.md) cards with terms often subject to WAC, allowing customers to [finance](../f/finance.md) big-ticket items.
+Large retailers such as Best Buy [offer](../o/offer.md) [in-house financing](../i/in-house_financing.md) [options](../o/options.md) and store [credit](../c/credit.md) cards with terms often subject to WAC, allowing customers to [finance](../f/finance.md) big-ticket items.
 
 ## Conclusion
 

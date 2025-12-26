@@ -72,7 +72,7 @@ Algorithmic traders often use correlation to identify and follow trends. For exa
 
 ### Pair Trading
 
-Pair trading involves taking long and short positions in two highly correlated [stocks](../s/stock.md), betting on the convergence of their prices. If the correlation breaks, the [trader](../t/trader.md) can [profit](../p/profit.md) from the price discrepancy. 
+Pair trading involves taking long and short positions in two highly correlated [stocks](../s/stock.md), betting on the convergence of their prices. If the correlation breaks, the [trader](../t/trader.md) can [profit](../p/profit.md) from the price discrepancy.
 
 ### Risk Management
 
@@ -91,19 +91,19 @@ Traders exploit temporary price discrepancies in correlated assets. For example,
 Several powerful tools and software packages aid traders in calculating and analyzing correlations as part of their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Here are some notable ones:
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/): [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides extensive libraries for analyzing correlations, building, and implementing [trading strategies](../t/trading_strategies.md).
+QuantConnect: [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides extensive libraries for analyzing correlations, building, and implementing [trading strategies](../t/trading_strategies.md).
 
 ### QuantLib
-[QuantLib](https://www.quantlib.org/): An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [QuantLib](../q/quantlib.md) includes models and tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and calculating financial metrics, including correlation.
+QuantLib: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [QuantLib](../q/quantlib.md) includes models and tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and calculating financial metrics, including correlation.
 
 ### R and Python
 Programming languages R and Python are widely used in [quantitative finance](../q/quantitative_finance.md). Libraries such as `pandas`, `NumPy`, `SciPy`, and `statsmodels` in Python, and `quantmod`, `PerformanceAnalytics`, and `xts` in R, [offer](../o/offer.md) [robust](../r/robust.md) functions for [correlation analysis](../c/correlation_analysis.md).
 
 ### MATLAB
-[MATLAB](https://www.mathworks.com/products/matlab.html): MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming. Its financial toolbox includes functions for calculating and analyzing correlations.
+MATLAB: MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming. Its financial toolbox includes functions for calculating and analyzing correlations.
 
 ### Bloomberg Terminal
-[Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/): The [Bloomberg Terminal](../b/bloomberg_terminal.md) offers comprehensive financial data, analytics, and trading tools, including capabilities to calculate and visualize correlations.
+Bloomberg: The [Bloomberg Terminal](../b/bloomberg_terminal.md) offers comprehensive financial data, analytics, and trading tools, including capabilities to calculate and visualize correlations.
 
 ## Conclusion
 
@@ -115,6 +115,6 @@ To deepen your understanding of correlation and its application in algo trading,
 
 - "[Quantitative Trading](../q/quantitative_trading.md): How to Build Your Own [Algorithmic Trading](../a/accountability.md) [Business](../b/business.md)" by Ernest P. Chan
 - "[Algorithmic Trading](../a/accountability.md) and DMA" by Barry Johnson
-- [QuantStart](https://www.quantstart.com/): A resource website for learning about quantitative and [algorithmic trading](../a/accountability.md).
+- QuantStart../a/accountability.md).
 
 [Investing](../i/investing.md) time in learning and applying [correlation analysis](../c/correlation_analysis.md) can lead to improved [trading performance](../t/trading_performance.md) and a more resilient portfolio.

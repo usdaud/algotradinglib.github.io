@@ -10,7 +10,7 @@ However, the experience of the 1970s, characterized by [stagflation](../s/stagfl
 
 ## Importance in Monetary Policy
 
-Central banks, such as the Federal Reserve in the United States or the European Central [Bank](../b/bank.md), often focus on NAIRU in formulating [monetary policy](../m/monetary_policy.md). By estimating the NAIRU, policymakers can decide whether to implement expansionary or contractionary policies. 
+Central banks, such as the Federal Reserve in the United States or the European Central [Bank](../b/bank.md), often focus on NAIRU in formulating [monetary policy](../m/monetary_policy.md). By estimating the NAIRU, policymakers can decide whether to implement expansionary or contractionary policies.
 
 ### Estimation Challenges
 
@@ -20,7 +20,7 @@ Estimating NAIRU is complex due to several factors:
 2. **Model Dependency**: The accuracy of NAIRU estimates depends on the economic models used. Different models can [yield](../y/yield.md) different NAIRU estimates.
 3. **[Inflation](../i/inflation.md) Expectations**: Future expectations of [inflation](../i/inflation.md) can influence the actual relationship between [unemployment](../u/unemployment.md) and [inflation](../i/inflation.md).
 
-## Calculations and Measurements 
+## Calculations and Measurements
 
 Estimating NAIRU typically involves econometric models that incorporate various factors like historical data on [inflation](../i/inflation.md), wage growth, and [unemployment](../u/unemployment.md). One popular approach is the Reduced Form Model, which directly assesses the relationship between [unemployment](../u/unemployment.md) and [inflation](../i/inflation.md).
 
@@ -66,7 +66,7 @@ With ongoing changes in the economic landscape, the concept of NAIRU [will](../w
 
 In conclusion, while NAIRU is an essential tool for understanding the interplay between [unemployment](../u/unemployment.md) and [inflation](../i/inflation.md), it is but one piece of a complex puzzle. Continuous refinement and adaptation of the concept are necessary as economies develop and new datasets become available.
 
-For more detailed insights and up-to-date information on NAIRU from prominent institutions, you can visit: 
-- [Federal Reserve](https://www.federalreserve.gov)
-- [European Central Bank](https://www.ecb.europa.eu)
-- [International Monetary Fund](https://www.imf.org)
+For more detailed insights and up-to-date information on NAIRU from prominent institutions, you can visit:
+- Federal Reserve
+- European Central Bank
+- International Monetary Fund

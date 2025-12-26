@@ -121,7 +121,7 @@ Several software packages and libraries support Monte Carlo simulations across d
 1. **MATLAB:** Provides built-in functions for Monte Carlo simulations and custom script capabilities.
 2. **R:** Contains packages like `mc2d` and `runjags` for advanced Monte Carlo and MCMC methods.
 3. **Python:** Libraries such as NumPy, SciPy, and PyMC3 support extensive Monte Carlo and Bayesian analysis.
-4. **Monte Carlo Frameworks:** Proprietary tools like @[RISK](../r/risk.md) (https://www.palisade.com/[risk](../r/risk.md)/) and Crystal Ball (from Oracle) [offer](../o/offer.md) specialized environments for [risk analysis](../r/risk_analysis.md) and [simulation](../s/simulation_in_trading.md).
+4. **Monte Carlo Frameworks:** Proprietary tools like @[RISK](../r/risk.md) ( and Crystal Ball (from Oracle) [offer](../o/offer.md) specialized environments for [risk analysis](../r/risk_analysis.md) and [simulation](../s/simulation_in_trading.md).
 
 ## Conclusion
 

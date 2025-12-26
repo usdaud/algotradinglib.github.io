@@ -7,15 +7,15 @@ Net International Investment Position (NIIP) is a crucial economic metric that p
 NIIP is defined as the difference between the [value](../v/value.md) of a country's overseas financial assets and the [value](../v/value.md) of its foreign financial liabilities at a specific point in time. The components of NIIP can be broken down into two [principal](../p/principal.md) categories:
 
 1. **External Financial Assets:** These include:
-    - Foreign direct investments (FDI) made by residents.
-    - Portfolio investments such as [stocks](../s/stock.md) and bonds held by domestic investors in foreign entities.
-    - Other investments, including loans and deposits held abroad.
-    - Reserve assets held by the central [bank](../b/bank.md), including foreign currencies and gold.
+ - Foreign direct investments (FDI) made by residents.
+ - Portfolio investments such as [stocks](../s/stock.md) and bonds held by domestic investors in foreign entities.
+ - Other investments, including loans and deposits held abroad.
+ - Reserve assets held by the central [bank](../b/bank.md), including foreign currencies and gold.
 
 2. **External Financial Liabilities:** These comprise:
-    - Foreign direct investments made by non-residents in the domestic [economy](../e/economy.md).
-    - Foreign investors' [holdings](../h/holdings.md) of domestic [stocks](../s/stock.md) and bonds.
-    - Other types of foreign investments, such as loans and deposits received from abroad.
+ - Foreign direct investments made by non-residents in the domestic [economy](../e/economy.md).
+ - Foreign investors' [holdings](../h/holdings.md) of domestic [stocks](../s/stock.md) and bonds.
+ - Other types of foreign investments, such as loans and deposits received from abroad.
 
 The NIIP is represented mathematically as:
 
@@ -29,7 +29,7 @@ A positive NIIP indicates that a country is a net [lender](../l/lender.md) to th
 NIIP is an important [indicator](../i/indicator.md) for several reasons:
 
 1. **Economic Health:** It helps assess the overall [financial health](../f/financial_health.md) of an [economy](../e/economy.md). A positive NIIP can indicate a strong [economy](../e/economy.md) with substantial investments abroad, whereas a negative NIIP might signal vulnerability due to significant foreign [debt](../d/debt.md).
-  
+
 2. **[Exchange Rate](../e/exchange_rate.md) Dynamics:** Countries with strong positive NIIPs might see appreciation pressures on their currencies due to consistent [capital](../c/capital.md) inflows, while those with negative NIIPs might experience [depreciation](../d/depreciation.md) pressures.
 
 3. **Investment Flows:** Analyzing NIIP helps understand the [capital](../c/capital.md) flows into and out of a country, which can provide insights into [investor](../i/investor.md) confidence and economic stability.
@@ -41,9 +41,9 @@ NIIP is an important [indicator](../i/indicator.md) for several reasons:
 Several factors can influence a country’s NIIP:
 
 1. **Economic Policies:** Monetary and fiscal policies can significantly affect NIIP. For example, expansive fiscal policies may lead to increased borrowing, affecting the country's liabilities.
-  
+
 2. **GDP Growth:** Higher [economic growth](../e/economic_growth.md) can lead to increased investments abroad, positively affecting NIIP.
-  
+
 3. **[Exchange Rate](../e/exchange_rate.md) Fluctuations:** Changes in [exchange](../e/exchange.md) rates can impact the [value](../v/value.md) of both assets and liabilities. For instance, a [depreciation](../d/depreciation.md) of the domestic [currency](../c/currency.md) can increase the local [currency](../c/currency.md) [value](../v/value.md) of foreign liabilities.
 
 4. **[Interest](../i/interest.md) Rates:** Changes in global and domestic [interest](../i/interest.md) rates can influence investment decisions and thereby affect NIIP.
@@ -82,7 +82,7 @@ Reliable and up-to-date data on NIIP can be sourced from:
 
 3. **National Central Banks and Statistical Agencies:** These institutions often publish detailed data on a country's international investment position.
 
-To calculate NIIP, data on various types of external assets and liabilities must be collected, categorized, and aggregated. The final [value](../v/value.md) of NIIP is then determined by subtracting [total liabilities](../t/total_liabilities.md) from total assets. 
+To calculate NIIP, data on various types of external assets and liabilities must be collected, categorized, and aggregated. The final [value](../v/value.md) of NIIP is then determined by subtracting [total liabilities](../t/total_liabilities.md) from total assets.
 
 ## Conclusion
 

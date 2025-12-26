@@ -41,13 +41,13 @@ False [market](../m/market.md) signals, or [false signals](../f/false_signals_in
 
 #### Prominent Companies in Algorithmic Trading
 
-1. **Two Sigma**: [Two Sigma](https://www.twosigma.com) is a leading financial services company that employs [data science](../d/data_science_in_trading.md) and technology to run [quantitative trading](../q/quantitative_trading.md) strategies. Their emphasis on [machine learning](../m/machine_learning.md) helps mitigate the risks associated with [false signals](../f/false_signals_in_trading.md).
-  
-2. **Citadel LLC**: [Citadel](https://www.citadel.com) is one of the world's largest alternative [asset](../a/asset.md) managers, known for its [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) practices.
-  
-3. **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com) is a quantitative [hedge fund](../h/hedge_fund.md) famous for its Medallion [Fund](../f/fund.md), which uses [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities while filtering out [false signals](../f/false_signals_in_trading.md).
+1. **Two Sigma**: Two Sigma is a leading financial services company that employs [data science](../d/data_science_in_trading.md) and technology to run [quantitative trading](../q/quantitative_trading.md) strategies. Their emphasis on [machine learning](../m/machine_learning.md) helps mitigate the risks associated with [false signals](../f/false_signals_in_trading.md).
 
-4. **Jane Street**: [Jane Street](https://www.janestreet.com) specializes in [proprietary trading](../p/proprietary_trading.md) and [market](../m/market.md)-making, relying heavily on algorithms and data analysis to maintain [liquidity](../l/liquidity.md) and execute trades efficiently.
+2. **Citadel LLC**: Citadel is one of the world's largest alternative [asset](../a/asset.md) managers, known for its [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) practices.
+
+3. **Renaissance Technologies**: Renaissance Technologies is a quantitative [hedge fund](../h/hedge_fund.md) famous for its Medallion [Fund](../f/fund.md), which uses [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities while filtering out [false signals](../f/false_signals_in_trading.md).
+
+4. **Jane Street**: Jane Street specializes in [proprietary trading](../p/proprietary_trading.md) and [market](../m/market.md)-making, relying heavily on algorithms and data analysis to maintain [liquidity](../l/liquidity.md) and execute trades efficiently.
 
 #### Conclusion
 

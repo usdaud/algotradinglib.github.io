@@ -1,10 +1,10 @@
 # Net Lease
 
-Net leases are a type of [commercial real estate](../c/commercial_real_estate.md) lease arrangement where the tenant is responsible for paying a portion or all of the property expenses in addition to their base rent. These expenses can include property [taxes](../t/taxes.md), [insurance](../i/insurance.md) premiums, and maintenance and repair costs. This type of lease is highly prevalent in investment-grade [real estate](../r/real_estate.md) and is favored due to its predictable [cash flow](../c/cash_flow.md) and reduced management burden on the [landlord](../l/landlord.md). 
+Net leases are a type of [commercial real estate](../c/commercial_real_estate.md) lease arrangement where the tenant is responsible for paying a portion or all of the property expenses in addition to their base rent. These expenses can include property [taxes](../t/taxes.md), [insurance](../i/insurance.md) premiums, and maintenance and repair costs. This type of lease is highly prevalent in investment-grade [real estate](../r/real_estate.md) and is favored due to its predictable [cash flow](../c/cash_flow.md) and reduced management burden on the [landlord](../l/landlord.md).
 
 ## Types of Net Leases
 
-Net leases can come in various forms, primarily categorized into three main types: 
+Net leases can come in various forms, primarily categorized into three main types:
 
 1. Single Net Lease (N Lease)
 2. Double Net Lease (NN Lease)
@@ -20,7 +20,7 @@ In a double net lease, the tenant pays the base rent, property [taxes](../t/taxe
 
 ### Triple Net Lease (NNN Lease)
 
-In a triple net lease, the tenant takes on the most responsibility. They pay the base rent, property [taxes](../t/taxes.md), [property insurance](../p/property_insurance.md), and all [maintenance expenses](../m/maintenance_expenses.md). This type is most beneficial to landlords as it offers near-complete pass-through of property-related costs to the tenant, thereby [offering](../o/offering.md) stable and predictable [income](../i/income.md) streams. 
+In a triple net lease, the tenant takes on the most responsibility. They pay the base rent, property [taxes](../t/taxes.md), [property insurance](../p/property_insurance.md), and all [maintenance expenses](../m/maintenance_expenses.md). This type is most beneficial to landlords as it offers near-complete pass-through of property-related costs to the tenant, thereby [offering](../o/offering.md) stable and predictable [income](../i/income.md) streams.
 
 Triple net leases are often found in single-tenant properties, such as standalone retail stores, industrial warehouses, and certain office properties.
 
@@ -55,8 +55,8 @@ These properties are often traded as part of larger investment portfolios and at
 
 ### Example of Corporations Involved
 
-- **Realty [Income](../i/income.md) [Corporation](../c/corporation.md)**: Known as "The Monthly [Dividend](../d/dividend.md) Company," Realty [Income](../i/income.md) specializes in acquiring and managing freestanding, single-tenant commercial properties leased under long-term net lease agreements. Learn more about them at [Realty Income Corporation](https://www.realtyincome.com/).
-- **National Retail Properties**: Another significant player, they invest primarily in high-quality retail properties subject to long-term net leases. More details can be found at [National Retail Properties](https://www.nnnreit.com/).
+- **Realty [Income](../i/income.md) [Corporation](../c/corporation.md)**: Known as "The Monthly [Dividend](../d/dividend.md) Company," Realty [Income](../i/income.md) specializes in acquiring and managing freestanding, single-tenant commercial properties leased under long-term net lease agreements. Learn more about them at Realty Income Corporation.
+- **National Retail Properties**: Another significant player, they invest primarily in high-quality retail properties subject to long-term net leases. More details can be found at National Retail Properties.
 
 ## Financial Considerations
 
@@ -101,4 +101,4 @@ The net lease [market](../m/market.md) is evolving with economic climates and [m
 
 Net leases [offer](../o/offer.md) a straightforward, low-[risk](../r/risk.md) investment opportunity for landlords and a stable operational framework for tenants. Understanding the nuances of different types of net leases, as well as the associated advantages and disadvantages, is crucial for both parties. As the [market](../m/market.md) evolves, staying updated on trends and legal considerations [will](../w/will.md) help investors and tenants navigate the changing landscape of [commercial real estate](../c/commercial_real_estate.md) leasing.
 
-For more information, [check](../c/check.md) out Realty [Income](../i/income.md) [Corporation](../c/corporation.md)’s extensive resources at [Realty Income Corporation](https://www.realtyincome.com/) and National Retail Properties at [National Retail Properties](https://www.nnnreit.com/).
+For more information, [check](../c/check.md) out Realty [Income](../i/income.md) [Corporation](../c/corporation.md)’s extensive resources at Realty Income Corporation and National Retail Properties at National Retail Properties.

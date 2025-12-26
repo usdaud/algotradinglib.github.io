@@ -9,25 +9,25 @@ Understanding downside [risk](../r/risk.md) is crucial for investors and financi
 The method used to calculate downside [risk](../r/risk.md) can vary depending on the specific context and the financial instruments involved. However, one of the most common approaches involves:
 
 1. **Defining a Minimum Acceptable [Return](../r/return.md) (MAR)**:
-   The first step in calculating downside [risk](../r/risk.md) is to define a [benchmark](../b/benchmark.md) [return](../r/return.md), which is often referred to as the Minimum Acceptable [Return](../r/return.md) (MAR). This [benchmark](../b/benchmark.md) could be a [risk](../r/risk.md)-free rate, a predetermined target [return](../r/return.md), or any specific rate the [investor](../i/investor.md) seeks to achieve.
+ The first step in calculating downside [risk](../r/risk.md) is to define a [benchmark](../b/benchmark.md) [return](../r/return.md), which is often referred to as the Minimum Acceptable [Return](../r/return.md) (MAR). This [benchmark](../b/benchmark.md) could be a [risk](../r/risk.md)-free rate, a predetermined target [return](../r/return.md), or any specific rate the [investor](../i/investor.md) seeks to achieve.
 
 2. **Calculating [Downside Deviation](../d/downside_deviation.md)**:
-   The [downside deviation](../d/downside_deviation.md) is calculated by measuring the deviations of the actual returns from the MAR, but only for periods where the returns fall below this [benchmark](../b/benchmark.md). The formula for [downside deviation](../d/downside_deviation.md) can be expressed as:
+ The [downside deviation](../d/downside_deviation.md) is calculated by measuring the deviations of the actual returns from the MAR, but only for periods where the returns fall below this [benchmark](../b/benchmark.md). The formula for [downside deviation](../d/downside_deviation.md) can be expressed as:
 
-   \[
-   \text{[Downside Deviation](../d/downside_deviation.md)} (DD) = \sqrt{\frac{\sum_{t=1}^{n}(\min(R_t - MAR, 0))^2}{n}}
-   \]
+ \[
+ \text{[Downside Deviation](../d/downside_deviation.md)} (DD) = \sqrt{\frac{\sum_{t=1}^{n}(\min(R_t - MAR, 0))^2}{n}}
+ \]
 
-   where \(R_t\) represents the [return](../r/return.md) in period \(t\), and \(n\) is the total number of periods.
+ where \(R_t\) represents the [return](../r/return.md) in period \(t\), and \(n\) is the total number of periods.
 
 3. **[Sortino Ratio](../s/sortino_ratio.md)**:
-   A common metric derived from the downside [risk](../r/risk.md) is the [Sortino Ratio](../s/sortino_ratio.md), which is used to assess the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment. The [Sortino Ratio](../s/sortino_ratio.md) is similar to the [Sharpe Ratio](../s/sharpe_ratio.md), but it uses [downside deviation](../d/downside_deviation.md) instead of [standard deviation](../s/standard_deviation.md). It is calculated as follows:
+ A common metric derived from the downside [risk](../r/risk.md) is the [Sortino Ratio](../s/sortino_ratio.md), which is used to assess the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment. The [Sortino Ratio](../s/sortino_ratio.md) is similar to the [Sharpe Ratio](../s/sharpe_ratio.md), but it uses [downside deviation](../d/downside_deviation.md) instead of [standard deviation](../s/standard_deviation.md). It is calculated as follows:
 
-   \[
-   \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - MAR}{DD}
-   \]
+ \[
+ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - MAR}{DD}
+ \]
 
-   where \(R_p\) is the actual [return](../r/return.md) of the portfolio.
+ where \(R_p\) is the actual [return](../r/return.md) of the portfolio.
 
 By focusing only on the negative deviations from the MAR, downside [risk](../r/risk.md) captures the essence of the potential for loss, which is often more relevant to [risk-averse](../r/risk-averse.md) investors.
 
@@ -85,11 +85,11 @@ Financial regulators and institutions often emphasize the importance of managing
 
 ### Basel III
 
-[Basel III](../b/basel_iii.md) is a set of international banking regulations developed by the Basel Committee on Banking Supervision. It aims to strengthen the regulation, supervision, and [risk management](../r/risk_management.md) of banks. One of the key components of [Basel III](../b/basel_iii.md) is the requirement for banks to [hold](../h/hold.md) sufficient [capital](../c/capital.md) to withstand potential losses, including those arising from downside [risk](../r/risk.md). More information can be found [here](https://www.bis.org/bcbs/basel3.htm).
+[Basel III](../b/basel_iii.md) is a set of international banking regulations developed by the Basel Committee on Banking Supervision. It aims to strengthen the regulation, supervision, and [risk management](../r/risk_management.md) of banks. One of the key components of [Basel III](../b/basel_iii.md) is the requirement for banks to [hold](../h/hold.md) sufficient [capital](../c/capital.md) to withstand potential losses, including those arising from downside [risk](../r/risk.md). More information can be found here.
 
 ### Solvency II
 
-[Solvency](../s/solvency.md) II is a regulatory framework for [insurance](../i/insurance.md) companies in the [European Union](../e/european_union_(eu).md). It focuses on the [risk](../r/risk.md)-based assessment of [capital](../c/capital.md) requirements, ensuring that insurers [hold](../h/hold.md) enough [capital](../c/capital.md) to cover their liabilities, including potential downside risks. This framework emphasizes the importance of [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. More information can be found [here](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/insurance-and-pensions/risk-management-and-supervision-insurance-companies-solvency-ii_en).
+[Solvency](../s/solvency.md) II is a regulatory framework for [insurance](../i/insurance.md) companies in the [European Union](../e/european_union_(eu).md). It focuses on the [risk](../r/risk.md)-based assessment of [capital](../c/capital.md) requirements, ensuring that insurers [hold](../h/hold.md) enough [capital](../c/capital.md) to cover their liabilities, including potential downside risks. This framework emphasizes the importance of [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. More information can be found here.
 
 ## Conclusion
 

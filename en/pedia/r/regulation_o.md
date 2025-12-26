@@ -1,19 +1,19 @@
 # Regulation O
 
-Regulation O is a regulation set forth by the [Board of Governors](../b/board_of_governors.md) of the Federal Reserve System (the Fed) in the United States to govern the extension of [credit](../c/credit.md) to executive officers, directors, and [principal](../p/principal.md) shareholders of banks. It aims to prevent preferential treatment and conflicts of [interest](../i/interest.md), which could otherwise jeopardize the soundness and fairness of banking operations. 
+Regulation O is a regulation set forth by the [Board of Governors](../b/board_of_governors.md) of the Federal Reserve System (the Fed) in the United States to govern the extension of [credit](../c/credit.md) to executive officers, directors, and [principal](../p/principal.md) shareholders of banks. It aims to prevent preferential treatment and conflicts of [interest](../i/interest.md), which could otherwise jeopardize the soundness and fairness of banking operations.
 
 ## Purpose of Regulation O
 
 The primary purpose of Regulation O is to maintain the safety and soundness of financial institutions. By restricting and monitoring the lending practices to insiders, the regulation seeks to:
 
 1. Prevent conflicts of [interest](../i/interest.md).
-    - Ensure that the officers, directors, and major shareholders of a [bank](../b/bank.md) do not exploit their positions for personal [gain](../g/gain.md).
+ - Ensure that the officers, directors, and major shareholders of a [bank](../b/bank.md) do not exploit their positions for personal [gain](../g/gain.md).
 2. Maintain public confidence in the banking system.
-    - Reduce the likelihood of fraudulent activities and malpractices that could undermine [trust](../t/trust.md) in the banking [industry](../i/industry.md).
+ - Reduce the likelihood of fraudulent activities and malpractices that could undermine [trust](../t/trust.md) in the banking [industry](../i/industry.md).
 3. Establish clear and uniform guidelines.
-    - Provide a standardized framework for all banks to follow, ensuring fair and consistent treatment across the [industry](../i/industry.md).
+ - Provide a standardized framework for all banks to follow, ensuring fair and consistent treatment across the [industry](../i/industry.md).
 4. Enhance the governance within financial institutions.
-    - Promote stronger governance and oversight mechanisms to prevent [undue influence](../u/undue_influence.md) by insiders.
+ - Promote stronger governance and oversight mechanisms to prevent [undue influence](../u/undue_influence.md) by insiders.
 
 ## Key Provisions of Regulation O
 
@@ -101,4 +101,4 @@ To comply with Regulation O, banks must adhere to several specific requirements,
 
 ## Conclusion
 
-Regulation O serves as a crucial safeguard in the banking [industry](../i/industry.md), ensuring that [credit](../c/credit.md) extensions to insiders are conducted with [transparency](../t/transparency.md), fairness, and integrity. By establishing clear guidelines and monitoring mechanisms, Regulation O helps mitigate risks associated with conflicts of [interest](../i/interest.md) and preferential treatment. Banks must prioritize compliance with these regulations to [uphold](../u/uphold.md) the safety, soundness, and public [trust](../t/trust.md) in the [financial system](../f/financial_system.md). For more information, you can visit the [Federal Reserve's website](https://www.federalreserve.gov/supervisionreg/regocg.htm).
+Regulation O serves as a crucial safeguard in the banking [industry](../i/industry.md), ensuring that [credit](../c/credit.md) extensions to insiders are conducted with [transparency](../t/transparency.md), fairness, and integrity. By establishing clear guidelines and monitoring mechanisms, Regulation O helps mitigate risks associated with conflicts of [interest](../i/interest.md) and preferential treatment. Banks must prioritize compliance with these regulations to [uphold](../u/uphold.md) the safety, soundness, and public [trust](../t/trust.md) in the [financial system](../f/financial_system.md).

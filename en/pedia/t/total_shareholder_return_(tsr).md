@@ -8,7 +8,7 @@ TSR combines stock price changes and [dividend](../d/dividend.md) payments to pr
 
 \[ \text{TSR} = \left( \frac{P_{\text{end}} - P_{\text{start}} + D}{P_{\text{start}}} \right) \times 100 \]
 
-Where:  
+Where:
 - \( P_{\text{end}} \) = Ending share price
 - \( P_{\text{start}} \) = Beginning share price
 - \( D \) = Dividends paid over the period
@@ -53,7 +53,7 @@ Analysts also consider the [risk](../r/risk.md) and [volatility](../v/volatility
 
 ## Applications of TSR in Executive Compensation
 
-Many companies incorporate TSR into their executive compensation structures to align management's interests with those of shareholders. 
+Many companies incorporate TSR into their executive compensation structures to align management's interests with those of shareholders.
 
 ### Performance-Based Incentives
 Companies utilize TSR as a performance metric to provide stock awards, bonuses, and other incentives. Executives are often rewarded based on achieving specific TSR targets compared to competitors or [market](../m/market.md) benchmarks.
@@ -98,7 +98,7 @@ Companies can boost TSR through strategic initiatives such as mergers and acquis
 Effective cost management and operational efficiencies can lead to higher profitability and, consequently, improved TSR.
 
 ### Dividend Policies
-Optimizing [dividend](../d/dividend.md) policies to balance [reinvestment](../r/reinvestment.md) and [shareholder](../s/shareholder.md) payouts can positively impact TSR. 
+Optimizing [dividend](../d/dividend.md) policies to balance [reinvestment](../r/reinvestment.md) and [shareholder](../s/shareholder.md) payouts can positively impact TSR.
 
 ### Share Buybacks
 Executing share [buyback](../b/buyback.md) programs reduces the number of outstanding [shares](../s/shares.md), often boosting stock prices and enhancing TSR for remaining shareholders.
@@ -114,7 +114,4 @@ Microsoft maintains a balanced approach to returning [value](../v/value.md) thro
 ### Procter & Gamble
 Procter & Gamble’s focus on [operational efficiency](../o/operational_efficiency_in_trading.md), innovation, and consistent [dividend](../d/dividend.md) payouts has ensured sustained TSR, making it a [benchmark](../b/benchmark.md) for [consumer goods](../c/consumer_goods.md) companies.
 
-For more detailed insights and strategies involving TSR, one can refer to respective company [investor relations](../i/investor_relations.md) pages:
-- [Apple Inc. Investor Relations](https://investor.apple.com/)
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
-- [Procter & Gamble Investor Relations](https://www.pginvestor.com/)
+For more detailed insights and strategies involving TSR, one can refer to respective company [company filings](../i/investor_relations.md) pages:

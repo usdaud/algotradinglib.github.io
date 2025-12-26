@@ -60,33 +60,33 @@ Monte Carlo Simulations involve generating random samples to model the probabili
 Several tools and [software platforms](../s/software_platforms_for_trading.md) facilitate performance analytics in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. **QuantConnect**
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), live trading, and performance analytics. It supports [multiple](../m/multiple.md) programming languages like C#, Python, and F#. [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), live trading, and performance analytics. It supports [multiple](../m/multiple.md) programming languages like C#, Python, and F#. QuantConnect
 
 ### 2. **QuantLib**
-[QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library that supports [quantitative finance](../q/quantitative_finance.md) research, including tools for performance analytics. It offers a vast collection of mathematical functions for financial analytics. [QuantLib](https://www.quantlib.org/)
+[QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library that supports [quantitative finance](../q/quantitative_finance.md) research, including tools for performance analytics. It offers a vast collection of mathematical functions for financial analytics. QuantLib
 
 ### 3. **MATLAB**
-MATLAB provides extensive toolboxes for [financial analysis](../f/financial_analysis.md), including performance analytics. It features [robust](../r/robust.md) visualization and computational capabilities that are essential for evaluating [trading strategies](../t/trading_strategies.md). [MATLAB](https://www.mathworks.com/)
+MATLAB provides extensive toolboxes for [financial analysis](../f/financial_analysis.md), including performance analytics. It features [robust](../r/robust.md) visualization and computational capabilities that are essential for evaluating [trading strategies](../t/trading_strategies.md). MATLAB
 
 ### 4. **R**
-R is a statistical programming language that offers numerous packages for [financial performance](../f/financial_performance.md) analysis, including `PerformanceAnalytics`, `quantmod`, and `TTR`. [R Project](https://www.r-project.org/)
+R is a statistical programming language that offers numerous packages for [financial performance](../f/financial_performance.md) analysis, including `PerformanceAnalytics`, `quantmod`, and `TTR`. R Project
 
 ### 5. **Python Libraries**
 Python has increasingly become popular for [algorithmic trading](../a/algorithmic_trading.md), supported by libraries like `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, and `TA-Lib`. These libraries facilitate various performance analytics tasks.
 
 ### 6. **Multicharts**
-[Multicharts](../m/multicharts.md) is a professional trading software that provides advanced charting, [backtesting](../b/backtesting.md), and performance analysis. It is highly regarded among traders for its reliability and functionality. [MultiCharts](https://www.multicharts.com/)
+[Multicharts](../m/multicharts.md) is a professional trading software that provides advanced charting, [backtesting](../b/backtesting.md), and performance analysis. It is highly regarded among traders for its reliability and functionality. MultiCharts
 
 ## Case Studies
 
 ### 1. Renaissance Technologies
-Renaissance Technologies is a renowned quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which has consistently outperformed markets. The [firm](../f/firm.md) uses advanced performance analytics to continuously refine its [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is a renowned quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which has consistently outperformed markets. The [firm](../f/firm.md) uses advanced performance analytics to continuously refine its [trading algorithms](../t/trading_algorithms.md). Renaissance Technologies
 
 ### 2. Two Sigma
-Two Sigma is another global financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and performance analytics to develop [trading strategies](../t/trading_strategies.md). Their approach focuses on rigorous statistical analysis and [machine learning](../m/machine_learning.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma is another global financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and performance analytics to develop [trading strategies](../t/trading_strategies.md). Their approach focuses on rigorous statistical analysis and [machine learning](../m/machine_learning.md). Two Sigma
 
 ### 3. D.E. Shaw & Co.
-D.E. Shaw & Co. utilizes quantitative and computational techniques for [investment management](../i/investment_management.md). The [firm](../f/firm.md)’s emphasis on performance analytics has been key to its sustained success in the [industry](../i/industry.md). [D.E. Shaw](https://www.deshaw.com/)
+D.E. Shaw & Co. utilizes quantitative and computational techniques for [investment management](../i/investment_management.md). The [firm](../f/firm.md)’s emphasis on performance analytics has been key to its sustained success in the [industry](../i/industry.md). D.E. Shaw
 
 ## Best Practices
 

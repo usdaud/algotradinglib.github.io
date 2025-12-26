@@ -2,36 +2,38 @@
 
 An Overnight [Index](../i/index_instrument.md) [Swap](../s/swap.md) (OIS) is a type of [interest rate swap](../i/interest_rate_swap.md) where the periodic floating [payment](../p/payment.md) is based on a [return](../r/return.md) calculated from a daily [compound interest](../c/compound_interest_in_trading.md) investment. This investment typically uses an [overnight rate](../o/overnight_rate.md), which is a measure of the cost of borrowing in the short-term [interbank market](../i/interbank_market.md). OIS are widely used in the [financial markets](../f/financial_market.md) for hedging and as a [benchmark](../b/benchmark.md) for weights and [spreads](../s/spreads.md) between different types of financial instruments.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ### Key Concepts and Terminology
 
 1. **[Overnight Rate](../o/overnight_rate.md)**:
-   The [overnight rate](../o/overnight_rate.md) is the [interest rate](../i/interest_rate.md) at which a [bank](../b/bank.md) lends to another [bank](../b/bank.md) overnight. Central banks, such as the Federal Reserve in the United States, set [benchmark](../b/benchmark.md) overnight rates, which influence all other [interest](../i/interest.md) rates in the [economy](../e/economy.md). For instance, in the U.S., the Fed Funds Rate is the typical [overnight rate](../o/overnight_rate.md) used for OIS.
+ The [overnight rate](../o/overnight_rate.md) is the [interest rate](../i/interest_rate.md) at which a [bank](../b/bank.md) lends to another [bank](../b/bank.md) overnight. Central banks, such as the Federal Reserve in the United States, set [benchmark](../b/benchmark.md) overnight rates, which influence all other [interest](../i/interest.md) rates in the [economy](../e/economy.md). For instance, in the U.S., the Fed Funds Rate is the typical [overnight rate](../o/overnight_rate.md) used for OIS.
 
 2. **Floating Rate**:
-   In an OIS, the floating rate is tied to the [overnight rate](../o/overnight_rate.md), meaning it changes with fluctuations in the central [bank](../b/bank.md)'s [benchmark](../b/benchmark.md) rate. This is distinct from the fixed rate, which remains constant throughout the [swap](../s/swap.md)'s term.
+ In an OIS, the floating rate is tied to the [overnight rate](../o/overnight_rate.md), meaning it changes with fluctuations in the central [bank](../b/bank.md)'s [benchmark](../b/benchmark.md) rate. This is distinct from the fixed rate, which remains constant throughout the [swap](../s/swap.md)'s term.
 
 3. **Fixed Rate**:
-   The fixed rate in an OIS is agreed upon at the inception of the [swap](../s/swap.md) contract. One party [will](../w/will.md) pay this fixed rate while receiving the floating rate linked to the overnight [index](../i/index_instrument.md).
+ The fixed rate in an OIS is agreed upon at the inception of the [swap](../s/swap.md) contract. One party [will](../w/will.md) pay this fixed rate while receiving the floating rate linked to the overnight [index](../i/index_instrument.md).
 
 4. **Notional [Principal](../p/principal.md)**:
-   The notional [principal](../p/principal.md) is the total amount upon which the [exchange](../e/exchange.md) of [interest](../i/interest.md) payments in the OIS is based. It's called 'notional' because this [principal](../p/principal.md) amount is not actually exchanged between counterparties.
+ The notional [principal](../p/principal.md) is the total amount upon which the [exchange](../e/exchange.md) of [interest](../i/interest.md) payments in the OIS is based. It's called 'notional' because this [principal](../p/principal.md) amount is not actually exchanged between counterparties.
 
 5. **[Compounding](../c/compounding.md)**:
-   In an OIS, the [floating interest rate](../f/floating_interest_rate.md) payments are typically compounded daily. This means each day’s [interest](../i/interest.md) accrues [interest](../i/interest.md) on subsequent days, leading to a compounded [interest](../i/interest.md) calculation.
+ In an OIS, the [floating interest rate](../f/floating_interest_rate.md) payments are typically compounded daily. This means each day’s [interest](../i/interest.md) accrues [interest](../i/interest.md) on subsequent days, leading to a compounded [interest](../i/interest.md) calculation.
 
 6. **[Maturity](../m/maturity.md)**:
-   The [maturity](../m/maturity.md) of an OIS contract can [range](../r/range.md) from a few days to several years. The most common maturities are less than one year.
+ The [maturity](../m/maturity.md) of an OIS contract can [range](../r/range.md) from a few days to several years. The most common maturities are less than one year.
 
 ### Practical Applications of OIS
 
 1. **[Interest Rate](../i/interest_rate.md) Hedging**:
-   Financial institutions and corporations use OIS to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) fluctuations. For example, if a company has a floating rate [loan](../l/loan.md), they might enter into an OIS to fix their [interest](../i/interest.md) payments, protecting against rising rates.
+ Financial institutions and corporations use OIS to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) fluctuations. For example, if a company has a floating rate [loan](../l/loan.md), they might enter into an OIS to fix their [interest](../i/interest.md) payments, protecting against rising rates.
 
 2. **[Credit Risk](../c/credit_risk.md) Assessment**:
-   OIS [spreads](../s/spreads.md) are used as a measure of [credit risk](../c/credit_risk.md) in the banking sector. A widening OIS spread indicates increased [credit risk](../c/credit_risk.md) or decreased [liquidity](../l/liquidity.md) in the [interbank market](../i/interbank_market.md).
+ OIS [spreads](../s/spreads.md) are used as a measure of [credit risk](../c/credit_risk.md) in the banking sector. A widening OIS spread indicates increased [credit risk](../c/credit_risk.md) or decreased [liquidity](../l/liquidity.md) in the [interbank market](../i/interbank_market.md).
 
 3. **Benchmarking and Pricing**:
-   The OIS rate serves as a [benchmark](../b/benchmark.md) for other financial instruments. For instance, the OIS curve is used to [discount](../d/discount.md) cash flows in the [valuation](../v/valuation.md) of [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md).
+ The OIS rate serves as a [benchmark](../b/benchmark.md) for other financial instruments. For instance, the OIS curve is used to [discount](../d/discount.md) cash flows in the [valuation](../v/valuation.md) of [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md).
 
 ### Calculation of OIS Payments
 
@@ -64,33 +66,33 @@ The compounded [interest](../i/interest.md) continues for the rest of the 30 day
 Several major financial institutions, exchanges, and clearinghouses play pivotal roles in the OIS [market](../m/market.md). Some notable entities include:
 
 1. **[Bloomberg](../b/bloomberg.md) LP**:
-   [Bloomberg](https://www.bloomberg.com/) provides a wide [range](../r/range.md) of financial data and analytics platforms, including tools for OIS analysis and trading. [Bloomberg](../b/bloomberg.md)'s systems are widely used by traders and analysts for [real-time market data](../r/real-time_market_data.md) and pricing.
+ Bloomberg provides a wide [range](../r/range.md) of financial data and analytics platforms, including tools for OIS analysis and trading. [Bloomberg](../b/bloomberg.md)'s systems are widely used by traders and analysts for [real-time market data](../r/real-time_market_data.md) and pricing.
 
 2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**:
-   [Intercontinental Exchange](https://www.theice.com/) offers various financial products and services, including trading platforms for [interest rate swaps](../i/interest_rate_swaps.md). ICE provides [clearing](../c/clearing.md) and [risk management](../r/risk_management.md) services for OIS transactions.
+ Intercontinental Exchange offers various financial products and services, including trading platforms for [interest rate swaps](../i/interest_rate_swaps.md). ICE provides [clearing](../c/clearing.md) and [risk management](../r/risk_management.md) services for OIS transactions.
 
 3. **LCH Limited**:
-   [LCH](https://www.lch.com/) is one of the world’s leading clearinghouses and offers comprehensive [clearing](../c/clearing.md) services for [interest rate swaps](../i/interest_rate_swaps.md) among other products. LCH's SwapClear service is widely used for OIS [clearing](../c/clearing.md).
+ LCH is one of the world’s leading clearinghouses and offers comprehensive [clearing](../c/clearing.md) services for [interest rate swaps](../i/interest_rate_swaps.md) among other products. LCH's SwapClear service is widely used for OIS [clearing](../c/clearing.md).
 
 4. **CME Group**:
-   [CME Group](https://www.cmegroup.com/) provides [futures](../f/futures.md) and [options](../o/options.md) trading services along with [robust](../r/robust.md) [clearing and settlement](../c/clearing_and_settlement.md) for [interest rate swap](../i/interest_rate_swap.md) transactions, including OIS.
+ CME Group provides [futures](../f/futures.md) and [options](../o/options.md) trading services along with [robust](../r/robust.md) [clearing and settlement](../c/clearing_and_settlement.md) for [interest rate swap](../i/interest_rate_swap.md) transactions, including OIS.
 
 ### Risks and Considerations
 
 1. **[Counterparty Risk](../c/counterparty_risk.md)**:
-   Since OIS are over-the-counter (OTC) transactions, they carry [counterparty risk](../c/counterparty_risk.md). The possibility that one party may [default](../d/default.md) on its [obligations](../o/obligation.md) is a significant [risk](../r/risk.md) [factor](../f/factor.md). Clearinghouses like LCH reduce this [risk](../r/risk.md) by standing between the two counterparties and guaranteeing the [transaction](../t/transaction.md).
+ Since OIS are over-the-counter (OTC) transactions, they carry [counterparty risk](../c/counterparty_risk.md). The possibility that one party may [default](../d/default.md) on its [obligations](../o/obligation.md) is a significant [risk](../r/risk.md) [factor](../f/factor.md). Clearinghouses like LCH reduce this [risk](../r/risk.md) by standing between the two counterparties and guaranteeing the [transaction](../t/transaction.md).
 
 2. **[Liquidity Risk](../l/liquidity_risk.md)**:
-   While highly [liquid](../l/liquid.md) for short maturities, OIS can be less [liquid](../l/liquid.md) for longer maturities. This can make it difficult to enter or exit positions without impacting the [market price](../m/market_price.md).
+ While highly [liquid](../l/liquid.md) for short maturities, OIS can be less [liquid](../l/liquid.md) for longer maturities. This can make it difficult to enter or exit positions without impacting the [market price](../m/market_price.md).
 
 3. **[Model Risk](../m/model_risk.md)**:
-   The [valuation](../v/valuation.md) of an OIS requires accurate modeling of [interest rate](../i/interest_rate.md) dynamics. Incorrect assumptions can lead to significant [valuation](../v/valuation.md) errors and potential losses.
+ The [valuation](../v/valuation.md) of an OIS requires accurate modeling of [interest rate](../i/interest_rate.md) dynamics. Incorrect assumptions can lead to significant [valuation](../v/valuation.md) errors and potential losses.
 
 4. **[Basis Risk](../b/basis_risk.md)**:
-   [Basis risk](../b/basis_risk.md) occurs when there is a discrepancy between the floating rate of an OIS and the rate of the hedged instrument. This can lead to imperfect hedges and unforeseen financial exposures.
+ [Basis risk](../b/basis_risk.md) occurs when there is a discrepancy between the floating rate of an OIS and the rate of the hedged instrument. This can lead to imperfect hedges and unforeseen financial exposures.
 
 5. **[Regulatory Risk](../r/regulatory_risk.md)**:
-   Regulatory changes can impact the OIS [market](../m/market.md). For instance, the transition from LIBOR to alternative reference rates has significant implications for existing and new OIS contracts.
+ Regulatory changes can impact the OIS [market](../m/market.md). For instance, the transition from LIBOR to alternative reference rates has significant implications for existing and new OIS contracts.
 
 ### Conclusion
 

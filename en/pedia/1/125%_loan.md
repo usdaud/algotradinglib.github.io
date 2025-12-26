@@ -1,6 +1,6 @@
 # 125% Loan
 
-A 125% [loan](../l/loan.md) is a type of [mortgage](../m/mortgage.md) arrangement in which the borrower is lent an amount that exceeds the [market value](../m/market_value.md) of the property being purchased. This kind of [loan](../l/loan.md) has become less common but had gained popularity during economic booms or in [real estate](../r/real_estate.md) markets where property prices were continually rising. The "125%" figure means that the [loan](../l/loan.md) amount is 25% higher than the [value](../v/value.md) of the property. For example, if a property is valued at $160,000, a borrower could receive a [loan](../l/loan.md) of $200,000. 
+A 125% [loan](../l/loan.md) is a type of [mortgage](../m/mortgage.md) arrangement in which the borrower is lent an amount that exceeds the [market value](../m/market_value.md) of the property being purchased. This kind of [loan](../l/loan.md) has become less common but had gained popularity during economic booms or in [real estate](../r/real_estate.md) markets where property prices were continually rising. The "125%" figure means that the [loan](../l/loan.md) amount is 25% higher than the [value](../v/value.md) of the property. For example, if a property is valued at $160,000, a borrower could receive a [loan](../l/loan.md) of $200,000.
 
 ## Purpose and Usage
 
@@ -47,7 +47,7 @@ The concept of 125% loans peaked in popularity in the late 1990s and early 2000s
 
 125% loans are usually offered by specialized lending institutions and are less common among traditional banks and [credit](../c/credit.md) unions due to their high-[risk](../r/risk.md) nature. If available, they are often through [mortgage](../m/mortgage.md) brokers or non-traditional lenders.
 
-For instance, specialized online lending platforms such as [SoFi](https://www.sofi.com), [LoanDepot](https://www.loandepot.com), and [Quicken Loans](https://www.quickenloans.com) may [offer](../o/offer.md) varying degrees of high [loan](../l/loan.md)-to-[value](../v/value.md) mortgages.
+For instance, specialized online lending platforms such as SoFi, LoanDepot, and Quicken Loans may [offer](../o/offer.md) varying degrees of high [loan](../l/loan.md)-to-[value](../v/value.md) mortgages.
 However, these companies need to be researched to confirm current offerings as [economic conditions](../e/economic_conditions.md) and lending policies continually evolve.
 
 ## Legal and Regulatory Considerations

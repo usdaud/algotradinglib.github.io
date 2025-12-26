@@ -39,21 +39,17 @@ Where:
 
 ### Real-World Examples and Companies
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform where users can design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They [offer](../o/offer.md) extensive documentation and tutorials that often discuss the use of log returns in strategy development.
+1. **[StockSharp](../s/stocksharp.md)**: [StockSharp](../s/stocksharp.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform where users can design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They [offer](../o/offer.md) extensive documentation and tutorials that often discuss the use of log returns in strategy development.
 
-   [QuantConnect](https://www.quantconnect.com/)
 
 2. **[Alpha](../a/alpha.md) Vantage**: [Alpha](../a/alpha.md) Vantage is a provider of free APIs for various financial data, including real-time and historical prices. They frequently provide datasets that are suitable for calculating logarithmic returns and integration into [algorithmic trading](../a/algorithmic_trading.md) models.
 
-   [Alpha Vantage](https://www.alphavantage.co/)
 
 3. **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) and financial services company that relies heavily on [data science](../d/data_science_in_trading.md) and advanced mathematics, including the use of log returns, to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-   [Two Sigma](https://www.twosigma.com/)
 
 4. **Kaggle**: Kaggle is a platform for [data science](../d/data_science_in_trading.md) competitions where financial datasets are often used for [algorithmic trading](../a/algorithmic_trading.md) challenges. Many solutions and kernels shared by the community involve the calculation and application of logarithmic returns.
 
-   [Kaggle](https://www.kaggle.com/)
 
 ### Mathematical Properties
 

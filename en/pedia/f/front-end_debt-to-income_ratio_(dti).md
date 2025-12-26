@@ -2,7 +2,7 @@
 
 ## Definition and Importance
 
-The Front-End [Debt](../d/debt.md)-to-[Income](../i/income.md) Ratio (DTI) is a critical metric used primarily in [real estate](../r/real_estate.md) and [personal finance](../p/personal_finance_in_trading.md) to assess an individual's or household's ability to manage monthly expenses and [mortgage](../m/mortgage.md) repayments. The front-end DTI, also known as the "housing ratio," compares an individual's monthly housing-related expenses to their gross monthly [income](../i/income.md). 
+The Front-End [Debt](../d/debt.md)-to-[Income](../i/income.md) Ratio (DTI) is a critical metric used primarily in [real estate](../r/real_estate.md) and [personal finance](../p/personal_finance_in_trading.md) to assess an individual's or household's ability to manage monthly expenses and [mortgage](../m/mortgage.md) repayments. The front-end DTI, also known as the "housing ratio," compares an individual's monthly housing-related expenses to their gross monthly [income](../i/income.md).
 
 This ratio is crucial for lenders when evaluating [mortgage](../m/mortgage.md) applications, as it helps determine the borrower's capacity to [handle](../h/handle.md) the financial responsibilities of owning a [home](../h/home.md). A lower front-end DTI indicates that the borrower has a higher chance of making their [mortgage](../m/mortgage.md) payments consistently and on time.
 
@@ -111,6 +111,6 @@ Front-end DTI serves as a [benchmark](../b/benchmark.md) for evaluating one's [f
 
 ## Conclusion
 
-The Front-End [Debt](../d/debt.md)-to-[Income](../i/income.md) Ratio is a fundamental metric in personal and [real estate](../r/real_estate.md) [finance](../f/finance.md), crucial for both borrowers and lenders. It reflects the borrower’s ability to manage housing expenses in relation to their [income](../i/income.md), influencing [mortgage](../m/mortgage.md) [loan](../l/loan.md) approvals, terms, and conditions. Understanding this ratio enables individuals to make informed financial decisions and maintain healthy financial practices as they pursue homeownership. 
+The Front-End [Debt](../d/debt.md)-to-[Income](../i/income.md) Ratio is a fundamental metric in personal and [real estate](../r/real_estate.md) [finance](../f/finance.md), crucial for both borrowers and lenders. It reflects the borrower’s ability to manage housing expenses in relation to their [income](../i/income.md), influencing [mortgage](../m/mortgage.md) [loan](../l/loan.md) approvals, terms, and conditions. Understanding this ratio enables individuals to make informed financial decisions and maintain healthy financial practices as they pursue homeownership.
 
 Mastering the factors that affect front-end DTI and adopting strategies to manage it effectively can significantly improve an individual's financial standing and [loan](../l/loan.md) prospects, ultimately leading to more favorable borrowing opportunities and enhanced financial [security](../s/security.md).

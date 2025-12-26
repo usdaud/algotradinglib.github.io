@@ -1,6 +1,6 @@
 # Retrocession
 
-Retrocession is a sophisticated mechanism in the financial, [insurance](../i/insurance.md), and [reinsurance](../r/reinsurance.md) industries, vital for [risk management](../r/risk_management.md) and [diversification](../d/diversification.md). It involves the [transfer of risk](../t/transfer_of_risk.md) from a reinsurer to another party, commonly another reinsurer. This practice is essential for managing exposure to large-scale risks and maintaining the financial stability of the involved entities. 
+Retrocession is a sophisticated mechanism in the financial, [insurance](../i/insurance.md), and [reinsurance](../r/reinsurance.md) industries, vital for [risk management](../r/risk_management.md) and [diversification](../d/diversification.md). It involves the [transfer of risk](../t/transfer_of_risk.md) from a reinsurer to another party, commonly another reinsurer. This practice is essential for managing exposure to large-scale risks and maintaining the financial stability of the involved entities.
 
 ## Introduction to Retrocession
 
@@ -14,7 +14,7 @@ To understand retrocession, it’s important first to grasp the concept of [rein
 
 ### Further Cession (retrocession)
 
-Retrocession is essentially the reinsuring of what has already been reinsured. After a primary insurer cedes some risks to a reinsurer, the reinsurer may then [offset](../o/offset.md) a portion of that [risk](../r/risk.md) by ceding it to a retrocessionaire. This ceding can continue through several layers, depending on the [risk](../r/risk.md) profile and the agreements involved. 
+Retrocession is essentially the reinsuring of what has already been reinsured. After a primary insurer cedes some risks to a reinsurer, the reinsurer may then [offset](../o/offset.md) a portion of that [risk](../r/risk.md) by ceding it to a retrocessionaire. This ceding can continue through several layers, depending on the [risk](../r/risk.md) profile and the agreements involved.
 
 **Example Scenario**:
 1. **Primary Insurer**: Underwrites [risk](../r/risk.md) by selling policies to customers.
@@ -88,6 +88,4 @@ Advancements in financial technology and analytical capabilities enable more acc
 Retrocession is a critical and complex aspect of the [reinsurance](../r/reinsurance.md) [industry](../i/industry.md), providing layers of [risk management](../r/risk_management.md) and [diversification](../d/diversification.md) beyond initial [reinsurance](../r/reinsurance.md). By ceding parts of the [risk](../r/risk.md) to retrocessionaires, reinsurers can ensure a more balanced portfolio, maintain [capital](../c/capital.md) adequacy, and tap into specialized expertise. Although it involves significant regulatory oversight and can be fraught with practical challenges, retrocession remains an indispensable tool for effective [risk](../r/risk.md) mitigation in the global [insurance](../i/insurance.md) and [reinsurance](../r/reinsurance.md) markets. As technology continues to evolve, the methods and [efficiency](../e/efficiency.md) of retrocession are poised to improve, further reinforcing the financial robustness of the involved entities.
 
 For more detailed information and practical insights, you can visit the websites of major [reinsurance](../r/reinsurance.md) companies:
-- Swiss Re: [www.swissre.com](https://www.swissre.com)
-- Munich Re: [www.munichre.com](https://www.munichre.com)
-- Lloyd’s of London: [www.lloyds.com](https://www.lloyds.com)
+- Swiss Re- Munich Re- Lloyd’s of London

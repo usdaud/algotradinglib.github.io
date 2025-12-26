@@ -33,7 +33,7 @@ ARIMA models are particularly useful for capturing the [underlying](../u/underly
 
 [Linear regression](../l/linear_regression.md) models predict a dependent variable using one or more independent variables. The relationship is modeled through a linear equation:
 
-\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n + \epsilon \]
+\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 +... + \beta_nX_n + \epsilon \]
 
 - **Ordinary Least Squares (OLS)**: The most common method for estimating the coefficients, minimizing the sum of squared residuals.
 - **Application**: Applied to predict [asset](../a/asset.md) prices, returns based on [economic indicators](../e/economic_indicators.md), and factors affecting [market](../m/market.md) sentiments.
@@ -42,7 +42,7 @@ ARIMA models are particularly useful for capturing the [underlying](../u/underly
 
 [Logistic regression](../l/logistic_regression_in_trading.md) is used for predicting a binary outcome, typically modeled using a logistic function.
 
-\[ P(Y=1) = \frac{e^{\beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n}}{1 + e^{\beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n}} \]
+\[ P(Y=1) = \frac{e^{\beta_0 + \beta_1X_1 + \beta_2X_2 +... + \beta_nX_n}}{1 + e^{\beta_0 + \beta_1X_1 + \beta_2X_2 +... + \beta_nX_n}} \]
 
 - **Application**: Commonly used in predicting [market](../m/market.md) movements (up/down), [credit](../c/credit.md) scoring, and [default risk](../d/default_risk.md) estimation.
 
@@ -118,13 +118,13 @@ Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) fu
 
 AQR leverages [quantitative models](../q/quantitative_models.md) to manage assets across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. They focus on a rigorous, research-driven approach to investment.
 
-For more details, visit [AQR Capital Management](https://www.aqr.com).
+For more details, visit AQR Capital Management.
 
 ### Two Sigma
 
 Two Sigma applies [data science](../d/data_science_in_trading.md) and technology to find [value](../v/value.md) in [financial markets](../f/financial_market.md). Their [quantitative models](../q/quantitative_models.md) integrate [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md).
 
-More information can be found at [Two Sigma](https://www.twosigma.com).
+More information can be found at Two Sigma.
 
 ## Conclusion
 

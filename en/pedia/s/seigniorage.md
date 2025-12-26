@@ -8,7 +8,7 @@ Seigniorage has its roots in the Latin term “seniorage,” which comes from �
 
 ## Money Creation and Seigniorage
 
-Governments typically create [money](../m/money.md) through their central banks. In a fiat [currency](../c/currency.md) system, the central [bank](../b/bank.md) can print [currency](../c/currency.md) notes or mint coins. The cost of producing these monetary instruments is usually lower than the [value](../v/value.md) they denote. For example, if it costs a mint $0.10 to produce a coin valued at $1, then the seigniorage is $0.90. 
+Governments typically create [money](../m/money.md) through their central banks. In a fiat [currency](../c/currency.md) system, the central [bank](../b/bank.md) can print [currency](../c/currency.md) notes or mint coins. The cost of producing these monetary instruments is usually lower than the [value](../v/value.md) they denote. For example, if it costs a mint $0.10 to produce a coin valued at $1, then the seigniorage is $0.90.
 
 However, seigniorage isn't limited to physical [currency](../c/currency.md). In modern economies, a significant proportion of [money](../m/money.md) is created digitally. Central banks can increase the [money supply](../m/money_supply.md) by buying government bonds or other assets, in a process known as [quantitative easing](../q/quantitative_easing.md). The seigniorage in this case is the [interest](../i/interest.md) earned on these assets minus any associated costs.
 
@@ -20,7 +20,7 @@ While seigniorage can be an important [revenue](../r/revenue.md) source for gove
 
 ## Seigniorage in Cryptocurrency
 
-With the advent of digital currencies, seigniorage has taken on new dimensions. Cryptocurrencies like [Bitcoin](../b/bitcoin.md) have their production mechanism called [mining](../m/mining.md). In this context, seigniorage can be viewed as the difference between the [market value](../m/market_value.md) of a mined cryptocurrency and the cost of [mining](../m/mining.md) (electricity, hardware, etc.). 
+With the advent of digital currencies, seigniorage has taken on new dimensions. Cryptocurrencies like [Bitcoin](../b/bitcoin.md) have their production mechanism called [mining](../m/mining.md). In this context, seigniorage can be viewed as the difference between the [market value](../m/market_value.md) of a mined cryptocurrency and the cost of [mining](../m/mining.md) (electricity, hardware, etc.).
 
 Crypto projects that [issue](../i/issue.md) tokens also experience a form of seigniorage. Stablecoins, for example, are pegged to traditional currencies but created in a digital environment, allowing issuers to [gain](../g/gain.md) if the production cost is lower than the token [value](../v/value.md).
 
@@ -50,11 +50,11 @@ Seigniorage can help governments meet budgetary needs without raising [taxes](..
 
 ### The United States
 
-The [U.S. Treasury](../u/u.s._treasury.md), through the Bureau of Engraving and Printing and the U.S. Mint, is responsible for producing and distributing [currency](../c/currency.md). The seigniorage from coin production is significant. For detailed information, visit [The U.S. Mint's official site](https://www.usmint.gov).
+The [U.S. Treasury](../u/u.s._treasury.md), through the Bureau of Engraving and Printing and the U.S. Mint, is responsible for producing and distributing [currency](../c/currency.md). The seigniorage from coin production is significant. For detailed information, visit The U.S. Mint's public materials.
 
 ### The European Union
 
-The European Central [Bank](../b/bank.md) handles the issuance of [euro](../e/euro.md) banknotes. The [profit](../p/profit.md) generated is distributed among the member states’ central banks. Each central [bank](../b/bank.md) contributes to seigniorage according to its share in the ECB’s [capital](../c/capital.md). More information can be found on the [European Central Bank's official site](https://www.ecb.europa.eu).
+The European Central [Bank](../b/bank.md) handles the issuance of [euro](../e/euro.md) banknotes. The [profit](../p/profit.md) generated is distributed among the member states’ central banks. Each central [bank](../b/bank.md) contributes to seigniorage according to its share in the ECB’s [capital](../c/capital.md).
 
 ### Developing Nations
 

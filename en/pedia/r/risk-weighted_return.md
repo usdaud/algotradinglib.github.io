@@ -87,19 +87,19 @@ A higher [Information Ratio](../i/information_ratio.md) suggests that the [portf
 
 ## Companies Utilizing Risk-Weighted Return in Algo-Trading
 
-### Two Sigma Investments [Link](https://www.twosigma.com/)
+### Two Sigma Investments Link
 
 Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other sophisticated technologies to find connections in global markets. They heavily rely on [risk](../r/risk.md)-[weighted](../w/weighted.md) [return](../r/return.md) metrics to optimize their [trading strategies](../t/trading_strategies.md).
 
-### Renaissance Technologies [Link](https://www.rentec.com/)
+### Renaissance Technologies Link
 
 Renaissance Technologies, known for their Medallion [Fund](../f/fund.md), employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit [market](../m/market.md) inefficiencies, continually adjusting for [risk](../r/risk.md)-to-[return](../r/return.md) ratios to maintain their competitive edge.
 
-### AQR Capital Management [Link](https://www.aqr.com/)
+### AQR Capital Management Link
 
 AQR [Capital](../c/capital.md) Management leverages [quantitative analysis](../q/quantitative_analysis.md) to manage [risk](../r/risk.md) and optimize returns. They utilize [risk](../r/risk.md)-[weighted](../w/weighted.md) [return](../r/return.md) metrics extensively in their multi-strategy investment approach.
 
-### Citadel [Link](https://www.citadel.com/)
+### Citadel Link
 
 Citadel applies rigorous research and technology-driven strategies to manage a broad [range](../r/range.md) of [asset](../a/asset.md) classes and investment strategies. These strategies often incorporate [risk](../r/risk.md)-[weighted returns](../w/weighted_returns_in_trading.md) to ensure alignment with investment objectives.
 
@@ -109,7 +109,7 @@ Citadel applies rigorous research and technology-driven strategies to manage a b
 
 ### Example
 
-Consider a [portfolio manager](../p/portfolio_manager.md) evaluating two investment opportunities: 
+Consider a [portfolio manager](../p/portfolio_manager.md) evaluating two investment opportunities:
 
 1. **Investment A** has an [expected return](../e/expected_return.md) of 10% with a [standard deviation](../s/standard_deviation.md) of 15%.
 2. **Investment B** has an [expected return](../e/expected_return.md) of 8% with a [standard deviation](../s/standard_deviation.md) of 8%.

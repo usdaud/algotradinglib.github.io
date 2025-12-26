@@ -1,18 +1,18 @@
 # Time Horizon
 
-In the realm of [finance](../f/finance.md) and trading, the term "time horizon" refers to the period over which an investment is expected to be held before it is liquidated. Time horizons can [range](../r/range.md) from seconds (in high-frequency trading) to several decades (such as in long-term [estate planning](../e/estate_planning.md)). Investors and traders often use these time frames to guide their strategies, [risk management](../r/risk_management.md) practices, and [asset](../a/asset.md) selections. 
+In the realm of [finance](../f/finance.md) and trading, the term "time horizon" refers to the period over which an investment is expected to be held before it is liquidated. Time horizons can [range](../r/range.md) from seconds (in high-frequency trading) to several decades (such as in long-term [estate planning](../e/estate_planning.md)). Investors and traders often use these time frames to guide their strategies, [risk management](../r/risk_management.md) practices, and [asset](../a/asset.md) selections.
 
 ## Types of Time Horizons
 
 ### Short-Term Horizons
-Short-term horizons generally span from seconds to a few months. These are typically used by day traders, high-frequency traders (HFTs), and some swing traders. The primary focus is on quick gains through exploiting [market](../m/market.md) inefficiencies or short-term price movements. Highly [liquid](../l/liquid.md) assets are preferred to facilitate rapid entry and exit. 
+Short-term horizons generally span from seconds to a few months. These are typically used by day traders, high-frequency traders (HFTs), and some swing traders. The primary focus is on quick gains through exploiting [market](../m/market.md) inefficiencies or short-term price movements. Highly [liquid](../l/liquid.md) assets are preferred to facilitate rapid entry and exit.
 
 #### Day Trading
 Day traders usually [hold](../h/hold.md) positions for minutes to hours and almost never overnight. They benefit from intraday price movements and rely heavily on [technical analysis](../t/technical_analysis.md). [Day trading](../d/day_trading.md) requires constant monitoring of markets and positions.
 - **Key Strategies:** [Scalping](../s/scalping.md), [momentum trading](../m/momentum_trading.md), and [arbitrage](../a/arbitrage.md).
 - **Risks:** High due to constant [market](../m/market.md) [volatility](../v/volatility.md).
 - **Tools Used:** Advanced charting software, real-time financial news feeds, [trading algorithms](../t/trading_algorithms.md).
-  
+
 #### High-Frequency Trading (HFT)
 High-frequency trading involves executing orders at incredibly high speeds, often within milliseconds. It leverages complex algorithms and significant computing power. HFT firms typically [profit](../p/profit.md) from small price discrepancies in the [market](../m/market.md).
 - **Key Strategies:** [Market](../m/market.md) making, statistical [arbitrage](../a/arbitrage.md), and event [arbitrage](../a/arbitrage.md).
@@ -20,7 +20,7 @@ High-frequency trading involves executing orders at incredibly high speeds, ofte
 - **Famous HFT Firms:** Two Sigma, Citadel Securities.
 
 ### Medium-Term Horizons
-Medium-term horizons usually span from a few months to a few years. These horizons are most common among swing traders, some types of portfolio managers, and investors focusing on specific [economic cycles](../e/economic_cycles.md). 
+Medium-term horizons usually span from a few months to a few years. These horizons are most common among swing traders, some types of portfolio managers, and investors focusing on specific [economic cycles](../e/economic_cycles.md).
 
 #### Swing Trading
 Swing traders [hold](../h/hold.md) positions from days to weeks, aiming to capture short- to medium-term gains in stock prices. They primarily use [technical analysis](../t/technical_analysis.md) but may also rely on [fundamental analysis](../f/fundamental_analysis.md).
@@ -35,7 +35,7 @@ Position traders keep their positions for weeks to months. This approach is clos
 - **Tools Used:** [Trend indicators](../t/trend_indicators.md), [fundamental analysis](../f/fundamental_analysis.md) tools.
 
 ### Long-Term Horizons
-Long-term horizons span from several years to decades. Commonly employed by [value](../v/value.md) investors, retirement planners, and institutional investors, long-term horizons aim for substantial growth or [income](../i/income.md) over extended periods. 
+Long-term horizons span from several years to decades. Commonly employed by [value](../v/value.md) investors, retirement planners, and institutional investors, long-term horizons aim for substantial growth or [income](../i/income.md) over extended periods.
 
 #### Value Investing
 [Value](../v/value.md) investors look for [undervalued](../u/undervalued.md) [stocks](../s/stock.md) with the potential for significant appreciation over years. [Fundamental analysis](../f/fundamental_analysis.md), especially regarding a company's [financial health](../f/financial_health.md), is crucial.
@@ -70,4 +70,4 @@ An advanced understanding of markets might allow more sophisticated investors to
 ## Conclusion
 Understanding time horizons is crucial for crafting an effective [investment strategy](../i/investment_strategy.md). Different horizons align with different [risk profiles](../r/risk_profiles.md), financial goals, and [market](../m/market.md) conditions. Whether you are a high-frequency [trader](../t/trader.md) or a long-term [investor](../i/investor.md), identifying the appropriate time horizon for your objectives is vital for success in the [financial markets](../f/financial_market.md).
 
-Visit [Two Sigma](https://www.twosigma.com) and [Citadel Securities](https://www.citadelsecurities.com) to learn more about high-frequency trading firms.
+Visit Two Sigma and Citadel Securities to learn more about high-frequency trading firms.

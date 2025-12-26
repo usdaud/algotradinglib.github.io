@@ -45,5 +45,3 @@ Upstox is regulated by several top-tier financial authorities in India, ensuring
 - National Stock [Exchange](../e/exchange.md) (NSE)
 - Multi [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) (MCX)
 
-## Website
-For more information and to start trading, visit the official Upstox website: [Upstox](https://www.upstox.com)

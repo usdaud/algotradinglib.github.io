@@ -9,19 +9,19 @@ Share price analysis is a critical aspect of [financial markets](../f/financial_
 ### Key Components of Fundamental Analysis
 
 1. **[Financial Statements](../f/financial_statements.md)**
-    - **[Income Statement](../i/income_statement.md)**: This summarizes a company's revenues and expenses over a period, reflecting profitability.
-    - **[Balance Sheet](../b/balance_sheet.md)**: This outlines a company's assets, liabilities, and shareholders' [equity](../e/equity.md) at a specific point in time.
-    - **[Cash Flow Statement](../c/cash_flow_statement.md)**: This provides a summary of [money](../m/money.md) flowing in and out of the [business](../b/business.md).
+ - **[Income Statement](../i/income_statement.md)**: This summarizes a company's revenues and expenses over a period, reflecting profitability.
+ - **[Balance Sheet](../b/balance_sheet.md)**: This outlines a company's assets, liabilities, and shareholders' [equity](../e/equity.md) at a specific point in time.
+ - **[Cash Flow Statement](../c/cash_flow_statement.md)**: This provides a summary of [money](../m/money.md) flowing in and out of the [business](../b/business.md).
 
 2. **Ratios**
-    - **Price-to-[Earnings](../e/earnings.md) (P/E) Ratio**: This measures the current share price relative to per-share [earnings](../e/earnings.md).
-    - **Price-to-Book (P/B) Ratio**: This compares the [market value](../m/market_value.md) of a company to its [book value](../b/book_value.md).
-    - **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) (D/E) Ratio**: This indicates the relative proportion of shareholders' [equity](../e/equity.md) and [debt](../d/debt.md) used to [finance](../f/finance.md) a company's assets.
+ - **Price-to-[Earnings](../e/earnings.md) (P/E) Ratio**: This measures the current share price relative to per-share [earnings](../e/earnings.md).
+ - **Price-to-Book (P/B) Ratio**: This compares the [market value](../m/market_value.md) of a company to its [book value](../b/book_value.md).
+ - **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) (D/E) Ratio**: This indicates the relative proportion of shareholders' [equity](../e/equity.md) and [debt](../d/debt.md) used to [finance](../f/finance.md) a company's assets.
 
 3. **Qualitative Factors**
-    - **Management Competence**
-    - **[Industry](../i/industry.md) Position and Competition**
-    - **Economic and [Market](../m/market.md) Conditions**
+ - **Management Competence**
+ - **[Industry](../i/industry.md) Position and Competition**
+ - **Economic and [Market](../m/market.md) Conditions**
 
 ## Technical Analysis
 
@@ -29,20 +29,20 @@ Share price analysis is a critical aspect of [financial markets](../f/financial_
 
 ### Key Tools in Technical Analysis
 
-1. **Charts** 
-    - **Line Charts**: Show the closing prices over a period.
-    - **Bar Charts**: Provide more detail, including opening, high, low, and closing prices.
-    - **[Candlestick](../c/candlestick.md) Charts**: Show the same data as bar charts but in a more detailed format.
+1. **Charts**
+ - **Line Charts**: Show the closing prices over a period.
+ - **Bar Charts**: Provide more detail, including opening, high, low, and closing prices.
+ - **[Candlestick](../c/candlestick.md) Charts**: Show the same data as bar charts but in a more detailed format.
 
 2. **Indicators**
-    - **Moving Averages**: Smooth out price data to identify the direction of the [trend](../t/trend.md).
-    - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements.
-    - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: Shows the relationship between two moving averages.
+ - **Moving Averages**: Smooth out price data to identify the direction of the [trend](../t/trend.md).
+ - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements.
+ - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: Shows the relationship between two moving averages.
 
 3. **Patterns**
-    - **Head and Shoulders**
-    - **[Double Top](../d/double_top.md) and Bottom**
-    - **Triangles and Flags**
+ - **Head and Shoulders**
+ - **[Double Top](../d/double_top.md) and Bottom**
+ - **Triangles and Flags**
 
 ## Sentiment Analysis
 
@@ -72,12 +72,12 @@ Share price analysis is a critical aspect of [financial markets](../f/financial_
 
 ### Companies Offering Algorithmic Trading Solutions
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that provides data for [backtesting](../b/backtesting.md) strategies.
-- **[QuantConnect](https://www.quantconnect.com)**
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that provides data for [backtesting](../b/backtesting.md) strategies.
+- **QuantConnect**
 - **[Alpha](../a/alpha.md) Vantage**: Offers a rich set of APIs for financial data for [simulation](../s/simulation_in_trading.md).
-- **[Alpha Vantage](https://www.alphavantage.co)**
+- **Alpha Vantage**
 - **Kensho Technologies**: A [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) [firm](../f/firm.md) providing advanced solutions for [financial markets](../f/financial_market.md).
-- **[Kensho](https://www.kensho.com)**
+- **Kensho**
 
 ## Modern Technologies in Share Price Prediction
 
@@ -86,24 +86,23 @@ Advancements in technology have revolutionized share price analysis. [Machine le
 ### Machine Learning Models
 
 1. **[Supervised Learning](../s/supervised_learning.md) Models**
-    - **[Linear Regression](../l/linear_regression.md)**: Useful for predicting continuous values.
-    - **[Decision Trees](../d/decision_trees.md)**: Non-[linear models](../l/linear_models_in_trading.md) capable of capturing complex patterns.
-    - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Work well for classification problems.
+ - **[Linear Regression](../l/linear_regression.md)**: Useful for predicting continuous values.
+ - **[Decision Trees](../d/decision_trees.md)**: Non-[linear models](../l/linear_models_in_trading.md) capable of capturing complex patterns.
+ - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Work well for classification problems.
 
 2. **[Unsupervised Learning](../u/unsupervised_learning.md) Models**
-    - **Clustering**: Groups similar data points which can help identify [market](../m/market.md) segments.
-    - **[Anomaly Detection](../a/anomaly_detection.md)**: Identifies unusual patterns that might signify [market anomalies](../m/market_anomalies.md).
+ - **Clustering**: Groups similar data points which can help identify [market](../m/market.md) segments.
+ - **[Anomaly Detection](../a/anomaly_detection.md)**: Identifies unusual patterns that might signify [market anomalies](../m/market_anomalies.md).
 
 3. **[Deep Learning](../d/deep_learning.md) Models**
-    - **[Neural Networks](../n/neural_networks_in_trading.md)**: Particularly feedforward, convolutional, and recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) for time-series prediction.
+ - **[Neural Networks](../n/neural_networks_in_trading.md)**: Particularly feedforward, convolutional, and recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) for time-series prediction.
 
 ### AI-powered Tools and Platforms
 
 - **DataRobot**: An AI-driven platform for automating [machine learning](../m/machine_learning.md) workflows.
-- **[DataRobot](https://www.datarobot.com)**
+- **DataRobot**
 - **Kaggle**: A platform for [predictive modeling](../p/predictive_modeling.md) and analytics competitions that often involve stock price prediction.
-- **[Kaggle](https://www.kaggle.com)** 
-
+- **Kaggle**
 ## Integrated Approaches
 
 Modern share price analysis often integrates various methodologies. Combining fundamental, technical, and [sentiment analysis](../s/sentiment_analysis.md) with [algorithmic trading](../a/algorithmic_trading.md) can enhance decision-making.
@@ -111,10 +110,10 @@ Modern share price analysis often integrates various methodologies. Combining fu
 ### Integrated Systems
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a wide [range](../r/range.md) of financial data, news, and analytics tools all in one place.
-- **[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)**
+- **Bloomberg Terminal**
 
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Provides access to extensive [financial analysis](../f/financial_analysis.md) tools and [market](../m/market.md) data.
-- **[Thomson Reuters Eikon](https://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html)**
+- **Thomson Reuters Eikon**
 
 ## Conclusion
 

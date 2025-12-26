@@ -1,6 +1,6 @@
 # Guarantee Company
 
-A Guarantee Company, also known as a "Mutual Guarantee Company" or an "MG Company," is a [financial structure](../f/financial_structure.md) that provides guarantees to support the [creditworthiness](../c/creditworthiness.md) and operations of businesses or individuals. These companies play a critical role in facilitating access to [credit](../c/credit.md), managing [risk](../r/risk.md), and promoting economic stability. This comprehensive analysis aims to delve into the intricacies of Guarantee Companies, including their structure, function, benefits, regulatory environment, and global examples.  
+A Guarantee Company, also known as a "Mutual Guarantee Company" or an "MG Company," is a [financial structure](../f/financial_structure.md) that provides guarantees to support the [creditworthiness](../c/creditworthiness.md) and operations of businesses or individuals. These companies play a critical role in facilitating access to [credit](../c/credit.md), managing [risk](../r/risk.md), and promoting economic stability. This comprehensive analysis aims to delve into the intricacies of Guarantee Companies, including their structure, function, benefits, regulatory environment, and global examples.
 
 ## Structure and Function
 
@@ -54,31 +54,31 @@ In the EU, Guarantee Companies are a cornerstone of the financial ecosystem, par
 
 Japan operates an extensive network of [Credit](../c/credit.md) Guarantee Corporations (CGCs) that support SMEs. These corporations work closely with local governments and financial institutions to provide guarantees, ensuring that even small businesses can access the [credit](../c/credit.md) they need to grow.
 
-Website: [CGCs Network](http://www.chusho.meti.go.jp/sg
+online platform: [CGCs Network]
 
 ### United States
 
 In the United States, the Small [Business](../b/business.md) Administration (SBA) provides guarantees to lenders to encourage the [provision](../p/provision.md) of [financing](../f/financing.md) to small businesses. The SBA's 7(a) [Loan](../l/loan.md) Guarantee Program is one of the most prominent examples, [offering](../o/offering.md) guarantees up to 85% of the [loan](../l/loan.md) amount.
 
-Website: [SBA](https://www.sba.gov/funding-programs/loans)
+online platform: SBA
 
 ### China
 
 China has also established [multiple](../m/multiple.md) Guarantee Companies to support its rapidly growing [economy](../e/economy.md). These entities often receive substantial backing from state-owned banks and local governments, playing a crucial role in the [financial inclusion](../f/financial_inclusion.md) of small businesses.
 
-Website: [China Banking and Insurance Regulatory Commission](http://www.cbirc.gov.cn)
+online platform: China Banking and Insurance Regulatory Commission
 
 ### Latin America
 
 In Latin America, Guarantee Companies are gaining traction as tools for economic development. Institutions like Nacional Financiera (NAFINSA) in Mexico provide comprehensive guarantee services to promote entrepreneurial initiatives and [business](../b/business.md) [expansion](../e/expansion.md).
 
-Website: [NAFINSA](https://www.nafin.com/portalnf/content/content/inicio.html)
+online platform: NAFINSA
 
 ### Africa
 
 Various countries in Africa have started adopting the Guarantee Company model to support their developing economies. Organizations like the African Guarantee [Fund](../f/fund.md) (AGF) provide guarantees to SMEs across the continent, helping to drive sustainable [economic growth](../e/economic_growth.md).
 
-Website: [AGF](https://africanguaranteefund.com)
+online platform: AGF
 
 ## Challenges and Limitations
 

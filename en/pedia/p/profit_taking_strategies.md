@@ -60,15 +60,15 @@ Once the strategy is fine-tuned, automate it using a [trading platform](../t/tra
 
 ### Case Study: High-Frequency Trading
 
-In high-frequency trading (HFT), [profit](../p/profit.md)-taking strategies need to be executed with precision. Firms like Virtu Financial (https://www.virtu.com/) use sophisticated algorithms that can take profits in microseconds. These algorithms often employ trailing stops and fixed [profit](../p/profit.md) targets to secure profits quickly and efficiently.
+In high-frequency trading (HFT), [profit](../p/profit.md)-taking strategies need to be executed with precision. Firms like Virtu Financial ( use sophisticated algorithms that can take profits in microseconds. These algorithms often employ trailing stops and fixed [profit](../p/profit.md) targets to secure profits quickly and efficiently.
 
 ### Case Study: Trend Following
 
-[Trend](../t/trend.md)-following strategies often use moving averages to decide when to take profits. For instance, a strategy might close a position when the price crosses below a moving average. Companies like AQR [Capital](../c/capital.md) Management (https://www.aqr.com/) use complex [trend](../t/trend.md)-following models that incorporate various [profit](../p/profit.md)-taking mechanisms to [capitalize](../c/capitalize.md) on long-term [market](../m/market.md) trends.
+[Trend](../t/trend.md)-following strategies often use moving averages to decide when to take profits. For instance, a strategy might close a position when the price crosses below a moving average. Companies like AQR [Capital](../c/capital.md) Management ( use complex [trend](../t/trend.md)-following models that incorporate various [profit](../p/profit.md)-taking mechanisms to [capitalize](../c/capitalize.md) on long-term [market](../m/market.md) trends.
 
 ### Case Study: Quantitative Trading
 
-[Quantitative trading](../q/quantitative_trading.md) firms like Renaissance Technologies (no official website) employ [mathematical models](../m/mathematical_models_in_trading.md) to determine optimal points for taking profits. These models analyze vast amounts of data to predict price movements and set [profit](../p/profit.md) targets that maximize returns while minimizing [risk](../r/risk.md). 
+[Quantitative trading](../q/quantitative_trading.md) firms like Renaissance Technologies employ [mathematical models](../m/mathematical_models_in_trading.md) to determine optimal points for taking profits. These models analyze vast amounts of data to predict price movements and set [profit](../p/profit.md) targets that maximize returns while minimizing [risk](../r/risk.md).
 
 ## Conclusion
 

@@ -51,16 +51,16 @@ Financial accounts are used to conduct various financial analyses, such as [rati
 ## Digital Financial Accounts and Fintech
 
 ### **Online Banking**
-[Online banking](../o/online_banking.md) has revolutionized how individuals and businesses manage their financial accounts. [Online banking](../o/online_banking.md) platforms like [Bank](../b/bank.md) of America's [Online Banking](../o/online_banking.md) (https://www.bankofamerica.com/online-banking/) provide users with the ability to view account balances, transfer [money](../m/money.md), pay bills, and manage investments from their computers or mobile devices.
+[Online banking](../o/online_banking.md) has revolutionized how individuals and businesses manage their financial accounts. [Online banking](../o/online_banking.md) platforms like [Bank](../b/bank.md) of America's [Online Banking](../o/online_banking.md) ( provide users with the ability to view account balances, transfer [money](../m/money.md), pay bills, and manage investments from their computers or mobile devices.
 
 ### **Robo-Advisors**
-Robo-advisors like Betterment (https://www.betterment.com/) [offer](../o/offer.md) automated [investment management](../i/investment_management.md) services. These platforms use algorithms to create and manage a diversified investment portfolio based on the user’s [risk tolerance](../r/risk_tolerance.md) and financial goals.
+Robo-advisors like Betterment ( [offer](../o/offer.md) automated [investment management](../i/investment_management.md) services. These platforms use algorithms to create and manage a diversified investment portfolio based on the user’s [risk tolerance](../r/risk_tolerance.md) and financial goals.
 
 ### **Accounting Software**
-Companies like QuickBooks (https://quickbooks.intuit.com/) provide [accounting](../a/accounting.md) software that helps businesses maintain their financial accounts. These tools [offer](../o/offer.md) features like invoicing, [expense](../e/expense.md) tracking, [payroll](../p/payroll.md) management, and financial reporting.
+Companies like QuickBooks ( provide [accounting](../a/accounting.md) software that helps businesses maintain their financial accounts. These tools [offer](../o/offer.md) features like invoicing, [expense](../e/expense.md) tracking, [payroll](../p/payroll.md) management, and financial reporting.
 
 ### **Cryptocurrency Wallets**
-Digital wallets such as [Coinbase](../c/coinbase.md) (https://www.[coinbase](../c/coinbase.md).com/) allow users to manage their cryptocurrency [holdings](../h/holdings.md). These wallets provide a secure way to store, send, and receive digital currencies like [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md).
+Digital wallets such as [Coinbase](../c/coinbase.md) ( allow users to manage their cryptocurrency [holdings](../h/holdings.md). These wallets provide a secure way to store, send, and receive digital currencies like [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md).
 
 ## Regulatory Framework
 
@@ -71,10 +71,10 @@ GAAP is a collection of commonly followed [accounting](../a/accounting.md) rules
 IFRS are a set of international [accounting](../a/accounting.md) standards stating how particular types of transactions and events should be reported in [financial statements](../f/financial_statements.md). These standards are used in over 140 jurisdictions and are issued by the International [Accounting](../a/accounting.md) Standards Board (IASB).
 
 ### **Financial Industry Regulatory Authority (FINRA)**
-FINRA (https://www.finra.org/) is a non-governmental organization that regulates member brokerage firms and [exchange](../e/exchange.md) markets. It oversees the way that registered brokers and [broker-dealer](../b/broker-dealer.md) firms conduct [business](../b/business.md) with the [investing](../i/investing.md) public.
+FINRA ( is a non-governmental organization that regulates member brokerage firms and [exchange](../e/exchange.md) markets. It oversees the way that registered brokers and [broker-dealer](../b/broker-dealer.md) firms conduct [business](../b/business.md) with the [investing](../i/investing.md) public.
 
 ### **Securities and Exchange Commission (SEC)**
-The SEC (https://www.sec.gov/) is a U.S. government agency that oversees securities transactions, activities of financial professionals, and [mutual fund](../m/mutual_fund.md) trading to prevent [fraud](../f/fraud.md) and intentional deception.
+The SEC ( is a U.S. government agency that oversees securities transactions, activities of financial professionals, and [mutual fund](../m/mutual_fund.md) trading to prevent [fraud](../f/fraud.md) and intentional deception.
 
 ## Challenges in Managing Financial Accounts
 

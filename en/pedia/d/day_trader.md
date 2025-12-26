@@ -56,7 +56,7 @@ Various tools and platforms are available for day traders. Some of the most util
 Popular trading platforms used by day traders include MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradingView](../t/tradingview.md). These platforms [offer](../o/offer.md) [real-time market data](../r/real-time_market_data.md), advanced charting, and trading [execution](../e/execution.md) capabilities.
 
 ### 2. Automated Trading Systems
-[Automated trading systems](../a/automated_trading_systems.md) use computer algorithms to [trade](../t/trade.md) on behalf of the [trader](../t/trader.md). These systems can act on preset criteria to execute trades at speeds far beyond human capabilities. 
+[Automated trading systems](../a/automated_trading_systems.md) use computer algorithms to [trade](../t/trade.md) on behalf of the [trader](../t/trader.md). These systems can act on preset criteria to execute trades at speeds far beyond human capabilities.
 
 ### 3. News Aggregators
 News plays a crucial role in [market](../m/market.md) movements. Tools like [Bloomberg Terminal](../b/bloomberg_terminal.md), [Reuters](../r/reuters.md), and specialized financial news websites help day traders stay informed.
@@ -92,20 +92,20 @@ Techniques such as mindfulness, regular breaks, and physical [exercise](../e/exe
 Several individuals and firms have gained recognition for their success in [day trading](../d/day_trading.md). These examples can provide valuable insights and inspiration for other traders.
 
 ### 1. Ross Cameron
-Ross Cameron, founder of Warrior Trading, is known for his educational resources and live trading streams. He emphasizes [risk management](../r/risk_management.md) and disciplined [trading strategies](../t/trading_strategies.md). [Warrior Trading](https://www.warriortrading.com/)
+Ross Cameron, founder of Warrior Trading, is known for his educational resources and live trading streams. He emphasizes [risk management](../r/risk_management.md) and disciplined [trading strategies](../t/trading_strategies.md). Warrior Trading
 
 ### 2. Tim Grittani
 Tim Grittani, a self-taught [trader](../t/trader.md), turned a small initial investment into millions by focusing on [penny stocks](../p/penny_stocks.md) and [day trading strategies](../d/day_trading_strategies.md). He is known for his [transparency](../t/transparency.md) and educational contributions.
 
 ### 3. SMB Capital
-SMB [Capital](../c/capital.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that offers training and mentorship programs for aspiring day traders. They are renowned for their rigorous training process and focus on skill development. [SMB Capital](https://www.smbcap.com/)
+SMB [Capital](../c/capital.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that offers training and mentorship programs for aspiring day traders. They are renowned for their rigorous training process and focus on skill development. SMB Capital
 
 ## Regulations and Compliance
 
 Day traders must navigate various regulations and compliance requirements. These can vary significantly based on the [trader](../t/trader.md)'s location and the markets in which they operate.
 
 ### 1. Pattern Day Trader Rule (USA)
-In the United States, FINRA's [Pattern Day Trader](../p/pattern_day_trader.md) rule requires traders with more than four day trades within five [business](../b/business.md) days to maintain a minimum [account balance](../a/account_balance.md) of $25,000. 
+In the United States, FINRA's [Pattern Day Trader](../p/pattern_day_trader.md) rule requires traders with more than four day trades within five [business](../b/business.md) days to maintain a minimum [account balance](../a/account_balance.md) of $25,000.
 
 ### 2. Leverage Restrictions
 Different markets have varying rules on the amount of [leverage](../l/leverage.md) traders can use. For instance, in forex trading, [leverage](../l/leverage.md) is heavily regulated in jurisdictions like the EU to protect retail investors.

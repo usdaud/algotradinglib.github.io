@@ -60,23 +60,23 @@ Here are several companies that [offer](../o/offer.md) [debt](../d/debt.md) [con
 
 ### LendingClub
 LendingClub is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that provides personal loans for [debt](../d/debt.md) [consolidation](../c/consolidation.md). The company allows individuals to get lower [interest](../i/interest.md) rates compared to high-[interest](../i/interest.md) [credit](../c/credit.md) cards.
-Website: [LendingClub](https://www.lendingclub.com/)
+online platform: LendingClub
 
 ### SoFi
 SoFi is an online [finance](../f/finance.md) company that offers personal loans for [credit card](../c/credit_card.md) [consolidation](../c/consolidation.md), among other financial products. They advertise competitive rates and terms.
-Website: [SoFi](https://www.sofi.com/)
+online platform: SoFi
 
 ### Discover Personal Loans
 Discover offers personal loans for [debt](../d/debt.md) [consolidation](../c/consolidation.md) with flexible [repayment](../r/repayment.md) terms. Their loans can be used to consolidate various types of [debt](../d/debt.md).
-Website: [Discover Personal Loans](https://www.discover.com/personal-loans/debt-consolidation/)
+online platform: Discover Personal Loans
 
 ### LightStream
-A division of SunTrust [Bank](../b/bank.md), LightStream provides personal loans for [good credit](../g/good_credit.md) borrowers looking to consolidate [debt](../d/debt.md). They promote no fees and competitive [interest](../i/interest.md) rates.
-Website: [LightStream](https://www.lightstream.com/)
+A division of Truist (formerly SunTrust [Bank](../b/bank.md), LightStream provides personal loans for [good credit](../g/good_credit.md) borrowers looking to consolidate [debt](../d/debt.md). They promote no fees and competitive [interest](../i/interest.md) rates.
+online platform: LightStream
 
 ### National Debt Relief
 National [Debt](../d/debt.md) Relief offers [debt](../d/debt.md) settlement services, which is a different approach from traditional [debt](../d/debt.md) [consolidation](../c/consolidation.md). They negotiate with creditors to reduce the total amount owed in [exchange](../e/exchange.md) for a [lump-sum payment](../l/lump-sum_payment.md).
-Website: [National Debt Relief](https://www.nationaldebtrelief.com/)
+online platform: National Debt Relief
 
 ## Debt Consolidation Process
 

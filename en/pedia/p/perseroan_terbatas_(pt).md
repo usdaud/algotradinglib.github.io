@@ -57,7 +57,7 @@ The board of commissioners supervises the board of directors and ensures that ma
 ### Annual GMS
 
 A PT must [hold](../h/hold.md) an annual GMS at least once a year to approve the company's [financial statements](../f/financial_statements.md), discuss the company’s performance, and make necessary decisions.
- 
+
 ### Financial Reporting
 
 A PT is required to maintain proper [accounting](../a/accounting.md) records and prepare [financial statements](../f/financial_statements.md) in accordance with Indonesian [Financial Accounting](../f/financial_accounting.md) Standards (SAK). The [financial statements](../f/financial_statements.md) must be audited by a licensed public [accountant](../a/accountant.md) if the company meets certain criteria.
@@ -98,4 +98,4 @@ Profits of a PT must be distributed to shareholders in accordance with their sha
 
 A Perseroan Terbatas (PT) offers a structured and legally recognized way to conduct [business](../b/business.md) in Indonesia. While it involves significant regulatory compliance, its benefits in terms of [limited liability](../l/limited_liability.md), [capital](../c/capital.md) raising, and [business](../b/business.md) continuity make it an attractive option for entrepreneurs and investors.
 
-For more detailed regulation and processes, businesses can refer to the official website of Ministry of Law and Human Rights of Republic Indonesia [here](https://www.kemenkumham.go.id/).
+For more detailed regulation and processes, businesses can refer to the public materials of Ministry of Law and Human Rights of Republic Indonesia here.

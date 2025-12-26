@@ -48,7 +48,7 @@ Addressing [debt](../d/debt.md) [overhang](../o/overhang.md) requires a multifac
 
 ### Debt Restructuring
 
-[Debt restructuring](../d/debt_restructuring.md) involves renegotiating the terms of existing [debt](../d/debt.md) to more manageable levels. This can mean extending maturities, reducing [interest](../i/interest.md) rates, or even converting [debt](../d/debt.md) into [equity](../e/equity.md). For example, corporate giant [General Motors](https://www.gm.com) undertook a massive [debt restructuring](../d/debt_restructuring.md) during the 2008 crisis to avoid [liquidation](../l/liquidation.md).
+[Debt restructuring](../d/debt_restructuring.md) involves renegotiating the terms of existing [debt](../d/debt.md) to more manageable levels. This can mean extending maturities, reducing [interest](../i/interest.md) rates, or even converting [debt](../d/debt.md) into [equity](../e/equity.md). For example, corporate giant General Motors undertook a massive [debt restructuring](../d/debt_restructuring.md) during the 2008 crisis to avoid [liquidation](../l/liquidation.md).
 
 ### Equity Infusion
 

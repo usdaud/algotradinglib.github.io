@@ -39,7 +39,7 @@ Several notable companies have undergone [dividend](../d/dividend.md) recapitali
 
 ### Private Equity Involvement
 
-[Private equity](../p/private_equity.md) firms frequently use [dividend](../d/dividend.md) [recapitalization](../r/recapitalization.md) to extract [liquidity](../l/liquidity.md) from their portfolio companies. This approach aligns with the [private equity](../p/private_equity.md) model of acquiring companies, improving their operations, and returning [capital](../c/capital.md) to investors. For instance, KKR & Co. Inc. (https://www.kkr.com/) has been known for its use of [dividend](../d/dividend.md) recapitalizations in various deals to boost returns.
+[Private equity](../p/private_equity.md) firms frequently use [dividend](../d/dividend.md) [recapitalization](../r/recapitalization.md) to extract [liquidity](../l/liquidity.md) from their portfolio companies. This approach aligns with the [private equity](../p/private_equity.md) model of acquiring companies, improving their operations, and returning [capital](../c/capital.md) to investors. For instance, KKR & Co. Inc. ( has been known for its use of [dividend](../d/dividend.md) recapitalizations in various deals to boost returns.
 
 ## Implementation Considerations
 

@@ -1,6 +1,6 @@
 # Rate of Return
 
-The rate of [return](../r/return.md) (RoR) is a crucial financial metric used to evaluate the performance of an investment over a specific period. It is the ratio of [money](../m/money.md) gained or lost relative to the amount invested, expressed as a percentage. 
+The rate of [return](../r/return.md) (RoR) is a crucial financial metric used to evaluate the performance of an investment over a specific period. It is the ratio of [money](../m/money.md) gained or lost relative to the amount invested, expressed as a percentage.
 
 ## Definition and Calculation
 
@@ -50,7 +50,7 @@ The rate of [return](../r/return.md) is indispensable in various financial analy
 
 ### Investment Evaluation
 
-Investors use RoR to assess the performance of different investments and decide where to allocate resources for maximum profitability. 
+Investors use RoR to assess the performance of different investments and decide where to allocate resources for maximum profitability.
 
 ### Portfolio Management
 
@@ -98,7 +98,7 @@ Fintech companies provide tools for detailed [performance analytics](../p/perfor
 
 ## Conclusion
 
-The rate of [return](../r/return.md) is a pivotal metric in [finance](../f/finance.md) that helps investors, portfolio managers, and companies in making sound financial decisions. Despite its limitations, when used in conjunction with other financial metrics, RoR provides valuable insights into the performance and [risk](../r/risk.md) associated with investments. 
+The rate of [return](../r/return.md) is a pivotal metric in [finance](../f/finance.md) that helps investors, portfolio managers, and companies in making sound financial decisions. Despite its limitations, when used in conjunction with other financial metrics, RoR provides valuable insights into the performance and [risk](../r/risk.md) associated with investments.
 
 For comprehensive [financial analysis](../f/financial_analysis.md) and investment tools, you can explore platforms like [
-Wealthfront](https://www.wealthfront.com) for automated investment strategies and [Morningstar](https://www.morningstar.com) for detailed [performance analytics](../p/performance_analytics.md).
+Wealthfront]( for automated investment strategies and Morningstar for detailed [performance analytics](../p/performance_analytics.md).

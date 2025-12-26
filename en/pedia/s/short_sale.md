@@ -6,7 +6,7 @@
 
 [Short selling](../s/short_selling.md) requires opening a [margin account](../m/margin_account.md) with a brokerage because the [investor](../i/investor.md) is borrowing [shares](../s/shares.md), and [margin](../m/margin.md) accounts come with higher [capital](../c/capital.md) requirements and [interest](../i/interest.md) charges. Here's a step-by-step breakdown of the [short selling](../s/short_selling.md) process:
 
-1. **Borrowing [Shares](../s/shares.md):** The short seller borrows [shares](../s/shares.md) from a [broker](../b/broker.md) or another [investor](../i/investor.md) who owns the stock. 
+1. **Borrowing [Shares](../s/shares.md):** The short seller borrows [shares](../s/shares.md) from a [broker](../b/broker.md) or another [investor](../i/investor.md) who owns the stock.
 2. **Selling the [Shares](../s/shares.md):** These borrowed [shares](../s/shares.md) are immediately sold on the [open market](../o/open_market.md) at the current [market price](../m/market_price.md).
 3. **[Buy to Cover](../b/buy_to_cover.md):** The [investor](../i/investor.md) later buys the same number of [shares](../s/shares.md) in the [market](../m/market.md) to [return](../r/return.md) to the [lender](../l/lender.md). This process is called "covering the short position."
 4. **[Profit](../p/profit.md) or Loss Calculation:** If the stock price drops, the short seller buys back the [shares](../s/shares.md) at the lower price, repays the [lender](../l/lender.md), and pockets the difference as [profit](../p/profit.md). Conversely, if the stock price rises, the short seller incurs a loss.

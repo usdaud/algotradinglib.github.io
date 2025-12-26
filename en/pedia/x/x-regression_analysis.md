@@ -23,36 +23,36 @@ The [error term](../e/error_term.md), often denoted as ε, captures the discrepa
 ### 1. Linear X-Regression
 Linear X-Regression models describe a relationship by fitting a linear equation to the observed data. The general form is:
 
-    Y = β0 + β1X1 + β2X2 + ... + βnXn + ε
+ Y = β0 + β1X1 + β2X2 +... + βnXn + ε
 
 where:
 - Y is the dependent variable,
-- X1, X2, ..., Xn are independent variables,
+- X1, X2,..., Xn are independent variables,
 - β0 is the intercept,
-- β1, β2, ..., βn are coefficients,
+- β1, β2,..., βn are coefficients,
 - ε is the [error term](../e/error_term.md).
 
 ### 2. Polynomial X-Regression
 Polynomial X-Regression models introduce non-linear relationships by including polynomial terms of the independent variables. The equation can be represented as:
 
-    Y = β0 + β1X + β2X^2 + ... + βnX^n + ε
+ Y = β0 + β1X + β2X^2 +... + βnX^n + ε
 
 ### 3. Ridge X-Regression
 Ridge X-Regression addresses [multicollinearity](../m/multicollinearity_in_trading.md) (when independent variables are highly correlated) by adding a penalty to the size of the coefficients. The modified objective function becomes:
 
-    Minimize (∑(Y_i - (β0 + β1X1 + ... + βnXn))^2 + λ∑β_i^2)
+ Minimize (∑(Y_i - (β0 + β1X1 +... + βnXn))^2 + λ∑β_i^2)
 
 where λ is the regularization parameter controlling the penalty strength.
 
 ### 4. Lasso X-Regression
 Lasso X-Regression (Least Absolute [Shrinkage](../s/shrinkage.md) and Selection Operator) also addresses [multicollinearity](../m/multicollinearity_in_trading.md) but promotes sparsity by adding an L1 norm penalty:
 
-    Minimize (∑(Y_i - (β0 + β1X1 + ... + βnXn))^2 + λ∑|β_i|)
+ Minimize (∑(Y_i - (β0 + β1X1 +... + βnXn))^2 + λ∑|β_i|)
 
 ### 5. Elastic Net X-Regression
 [Elastic](../e/elastic.md) Net X-Regression combines ridge and lasso penalties to balance between them:
 
-    Minimize (∑(Y_i - (β0 + β1X1 + ... + βnXn))^2 + λ1∑|β_i| + λ2∑β_i^2)
+ Minimize (∑(Y_i - (β0 + β1X1 +... + βnXn))^2 + λ1∑|β_i| + λ2∑β_i^2)
 
 ### 6. Quantile X-Regression
 Quantile X-Regression models the conditional quantiles (e.g., [median](../m/median.md)) of the dependent variable instead of the mean, making it [robust](../r/robust.md) to outliers.
@@ -94,19 +94,19 @@ While complex models can capture intricate patterns, they may lack interpretabil
 ## Leading Companies Offering X-Regression Solutions
 
 ### 1. Numerix
-Numerix (https://www.numerix.com/) offers advanced analytics and financial technology solutions, including [regression analysis](../r/regression_analysis.md) tools, for [risk management](../r/risk_management.md) and trading.
+Numerix ( offers advanced analytics and financial technology solutions, including [regression analysis](../r/regression_analysis.md) tools, for [risk management](../r/risk_management.md) and trading.
 
 ### 2. QuantConnect
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides [algorithmic trading](../a/algorithmic_trading.md) platforms with built-in support for various regression models and tools for strategy development and [backtesting](../b/backtesting.md).
+[QuantConnect](../q/quantconnect.md) ( provides [algorithmic trading](../a/algorithmic_trading.md) platforms with built-in support for various regression models and tools for strategy development and [backtesting](../b/backtesting.md).
 
 ### 3. Ayasdi
-Ayasdi (https://www.ayasdi.com/) specializes in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for financial services, with [robust](../r/robust.md) [regression analysis](../r/regression_analysis.md) capabilities.
+Ayasdi ( specializes in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for financial services, with [robust](../r/robust.md) [regression analysis](../r/regression_analysis.md) capabilities.
 
 ### 4. RStudio
-RStudio (https://rstudio.com/) offers integrated development environments and tools for R, a statistical programming language widely used for [regression analysis](../r/regression_analysis.md) in [finance](../f/finance.md).
+RStudio ( offers integrated development environments and tools for R, a statistical programming language widely used for [regression analysis](../r/regression_analysis.md) in [finance](../f/finance.md).
 
 ### 5. DataRobot
-DataRobot (https://www.datarobot.com/) provides automated [machine learning](../m/machine_learning.md) platforms that support a [range](../r/range.md) of [regression techniques](../r/regression_techniques.md) for [predictive modeling](../p/predictive_modeling.md) in trading and [risk management](../r/risk_management.md).
+DataRobot ( provides automated [machine learning](../m/machine_learning.md) platforms that support a [range](../r/range.md) of [regression techniques](../r/regression_techniques.md) for [predictive modeling](../p/predictive_modeling.md) in trading and [risk management](../r/risk_management.md).
 
 ## Conclusion
 

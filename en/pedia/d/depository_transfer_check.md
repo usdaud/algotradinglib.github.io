@@ -11,7 +11,7 @@ A [Depository](../d/depository.md) Transfer [Check](../c/check.md) (DTC) is a [n
 [Depository](../d/depository.md) Transfer Checks share many characteristics with traditional checks in terms of their physical attributes, such as containing the [account number](../a/account_number.md), routing number, date, and the amount to be transferred. However, several unique features set them apart:
 
 - **[Non-Negotiable](../n/non-negotiable.md)**: Unlike regular checks, DTCs are [non-negotiable](../n/non-negotiable.md), meaning they cannot be endorsed and cashed by the bearer. They are strictly used for internal [fund](../f/fund.md) transfers between specified accounts.
-  
+
 - **[Payee](../p/payee.md)**: The [payee](../p/payee.md) on a DTC is usually a department or entity within the issuing [corporation](../c/corporation.md), ensuring the funds reach the intended internal account.
 
 - **Purpose**: The primary purpose of a DTC is to facilitate quick and efficient cash [consolidation](../c/consolidation.md), aiding in better [liquidity](../l/liquidity.md) management and reducing the complexities of handling [multiple](../m/multiple.md) deposits from different sources.

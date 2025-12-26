@@ -30,7 +30,7 @@ CUSIP numbers also facilitate [risk management](../r/risk_management.md) by allo
 ## How to Obtain a CUSIP Number?
 
 #### Applying for a CUSIP Number
-To obtain a CUSIP number for a new [security](../s/security.md), an [issuer](../i/issuer.md) must complete an application process through Standard & Poor’s (S&P) CUSIP Global Services, the organization responsible for issuing CUSIP numbers. The process involves submitting detailed information about the [security](../s/security.md) and its [issuer](../i/issuer.md). For more detailed information, visit [CUSIP Global Services](https://www.cusip.com/).
+To obtain a CUSIP number for a new [security](../s/security.md), an [issuer](../i/issuer.md) must complete an application process through Standard & Poor’s (S&P) CUSIP Global Services, the organization responsible for issuing CUSIP numbers. The process involves submitting detailed information about the [security](../s/security.md) and its [issuer](../i/issuer.md). For more detailed information, visit CUSIP Global Services.
 
 #### Using a CUSIP Lookup Tool
 Investors, brokers, and financial professionals can use online lookup tools to find the CUSIP numbers for existing securities. Various platforms provide search functionalities where one can enter a company’s name or other identifying information to retrieve the corresponding CUSIP number.
@@ -66,4 +66,4 @@ There is a cost associated with obtaining CUSIP numbers which can be a barrier f
 
 The CUSIP number system is a backbone of the North American [financial markets](../f/financial_market.md), providing a standardized method for identifying and tracking securities. Its applications in [trade](../t/trade.md) [execution](../e/execution.md), regulatory compliance, and [risk management](../r/risk_management.md) are indispensable. While it has limitations, especially on the global stage, its importance in improving [market](../m/market.md) [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) is unparalleled. For organizations and individuals involved in securities trading, [investment management](../i/investment_management.md), or regulatory compliance, understanding and utilizing CUSIP numbers is essential for [operational efficiency](../o/operational_efficiency_in_trading.md) and accuracy.
 
-For more extensive information about CUSIP numbers and their management, visit [CUSIP Global Services](https://www.cusip.com/).
+For more extensive information about CUSIP numbers and their management, visit CUSIP Global Services.

@@ -66,22 +66,22 @@ Central [bank](../b/bank.md) officials frequently testify before legislative bod
 
 The Federal Reserve has long used [Open](../o/open.md) Mouth Operations as part of its policy toolkit. Examples include:
 
-- **FOMC Press Releases**: Statements released after each Federal [Open Market](../o/open_market.md) Committee (FOMC) meeting summarize policy decisions and [offer](../o/offer.md) [guidance](../g/guidance.md). [Federal Reserve FOMC Statements](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
-- **Speeches by Fed Chair**: Regular speeches by the Chair of the Federal Reserve provide insights into the central [bank](../b/bank.md)'s views. For example, speeches made by Jerome Powell, the current Chair, are closely watched by [financial markets](../f/financial_market.md). [Federal Reserve Chair Speeches](https://www.federalreserve.gov/newsevents/speeches.htm)
+- **FOMC Press Releases**: Statements released after each Federal [Open Market](../o/open_market.md) Committee (FOMC) meeting summarize policy decisions and [offer](../o/offer.md) [guidance](../g/guidance.md). Federal Reserve FOMC Statements
+- **Speeches by Fed Chair**: Regular speeches by the Chair of the Federal Reserve provide insights into the central [bank](../b/bank.md)'s views. For example, speeches made by Jerome Powell, the current Chair, are closely watched by [financial markets](../f/financial_market.md). Federal Reserve Chair Speeches
 
 ### European Central Bank (ECB)
 
 The ECB also employs [Open](../o/open.md) Mouth Operations:
 
-- **ECB Press Conferences**: The ECB holds regular press conferences where the President, currently Christine Lagarde, discusses [monetary policy](../m/monetary_policy.md) decisions and economic insights. [ECB Press Conferences](https://www.ecb.europa.eu/press/pressconf/html/index.en.html)
-- **ECB Economic Bulletin**: The ECB publishes quarterly bulletins providing comprehensive views on economic and monetary developments. [ECB Economic Bulletin](https://www.ecb.europa.eu/pub/economic-bulletin/html/index.en.html)
+- **ECB Press Conferences**: The ECB holds regular press conferences where the President, currently Christine Lagarde, discusses [monetary policy](../m/monetary_policy.md) decisions and economic insights. ECB Press Conferences
+- **ECB Economic Bulletin**: The ECB publishes quarterly bulletins providing comprehensive views on economic and monetary developments. ECB Economic Bulletin
 
 ### Bank of England (BoE)
 
 The BoE utilizes various communication channels as part of its [Open](../o/open.md) Mouth Operations strategy:
 
-- **[Monetary Policy](../m/monetary_policy.md) Reports**: These detailed reports outline the central [bank](../b/bank.md)'s assessment of [economic conditions](../e/economic_conditions.md) and policy outlook. [Bank of England Monetary Policy Reports](https://www.bankofengland.co.uk/monetary-policy-report)
-- **Speeches by MPC Members**: Speeches by members of the [Monetary Policy](../m/monetary_policy.md) Committee (MPC) [offer](../o/offer.md) insights into the central [bank](../b/bank.md)'s thinking. [Bank of England MPC Member Speeches](https://www.bankofengland.co.uk/news/speeches)
+- **[Monetary Policy](../m/monetary_policy.md) Reports**: These detailed reports outline the central [bank](../b/bank.md)'s assessment of [economic conditions](../e/economic_conditions.md) and policy outlook. Bank of England Monetary Policy Reports
+- **Speeches by MPC Members**: Speeches by members of the [Monetary Policy](../m/monetary_policy.md) Committee (MPC) [offer](../o/offer.md) insights into the central [bank](../b/bank.md)'s thinking. Bank of England MPC Member Speeches
 
 ## Impact on Financial Markets
 

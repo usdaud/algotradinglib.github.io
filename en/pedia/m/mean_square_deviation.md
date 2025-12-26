@@ -54,52 +54,52 @@ print(f"Mean Square Deviation: {msd}")
 #### Applications of MSD in Algorithmic Trading
 
 1. **Model Evaluation**:
-   - Traders can use MSD to compare different [predictive models](../p/predictive_models_in_trading.md) and choose the one with the lowest MSD, indicating higher accuracy.
+ - Traders can use MSD to compare different [predictive models](../p/predictive_models_in_trading.md) and choose the one with the lowest MSD, indicating higher accuracy.
 
 2. **Parameter Tuning**:
-   - Adjusting hyperparameters in [machine learning](../m/machine_learning.md) models to minimize MSD can lead to better-performing [trading algorithms](../t/trading_algorithms.md).
+ - Adjusting hyperparameters in [machine learning](../m/machine_learning.md) models to minimize MSD can lead to better-performing [trading algorithms](../t/trading_algorithms.md).
 
 3. **[Risk Management](../r/risk_management.md)**:
-   - By assessing MSD, traders can gauge the reliability of their models and adjust their [risk](../r/risk.md) exposure accordingly.
+ - By assessing MSD, traders can gauge the reliability of their models and adjust their [risk](../r/risk.md) exposure accordingly.
 
 4. **[Backtesting](../b/backtesting.md) Strategies**:
-   - MSD is used during the [backtesting](../b/backtesting.md) phase to evaluate the historical performance of a [trading strategy](../t/trading_strategy.md), ensuring it performs consistently before actual deployment.
+ - MSD is used during the [backtesting](../b/backtesting.md) phase to evaluate the historical performance of a [trading strategy](../t/trading_strategy.md), ensuring it performs consistently before actual deployment.
 
 #### Real-World Examples and Case Studies
 
 Several trading firms and platforms utilize MSD as part of their model development and evaluation processes:
 
-- **[QuantConnect](../q/quantconnect.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform offers tools and resources to develop, backtest, and live [trade](../t/trade.md) various strategies. [QuantConnect](../q/quantconnect.md) supports the use of statistical metrics, including MSD, for model evaluation ([QuantConnect](https://www.quantconnect.com/)).
+- **[QuantConnect](../q/quantconnect.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform offers tools and resources to develop, backtest, and live [trade](../t/trade.md) various strategies. [QuantConnect](../q/quantconnect.md) supports the use of statistical metrics, including MSD, for model evaluation (QuantConnect).
 
-- **WorldQuant**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages quantitative methods, including careful analysis of MSD, to build and optimize [trading algorithms](../t/trading_algorithms.md) ([WorldQuant](https://www.worldquant.com/)).
+- **WorldQuant**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages quantitative methods, including careful analysis of MSD, to build and optimize [trading algorithms](../t/trading_algorithms.md) (WorldQuant).
 
-- **Two Sigma**: This [hedge fund](../h/hedge_fund.md) relies on [data science](../d/data_science_in_trading.md) and advanced statistical methods, including MSD, to drive its trading decisions and strategy optimizations ([Two Sigma](https://www.twosigma.com/)).
+- **Two Sigma**: This [hedge fund](../h/hedge_fund.md) relies on [data science](../d/data_science_in_trading.md) and advanced statistical methods, including MSD, to drive its trading decisions and strategy optimizations (Two Sigma).
 
 #### Challenges and Limitations of Using MSD
 
 While MSD is a powerful metric, it comes with specific challenges and limitations:
 
 - **Sensitivity to Outliers**:
-  - The squaring of errors means that MSD is highly sensitive to outliers, which can sometimes lead to misleading conclusions.
+ - The squaring of errors means that MSD is highly sensitive to outliers, which can sometimes lead to misleading conclusions.
 
 - **Not Scale-Invariant**:
-  - MSD can vary significantly with the scale of the data, making it less useful when comparing models across different datasets with varying scales.
+ - MSD can vary significantly with the scale of the data, making it less useful when comparing models across different datasets with varying scales.
 
 - **Interpretation Difficulties**:
-  - The [value](../v/value.md) of MSD, being in the squared units of the output variable, can be hard to interpret especially in the context of financial metrics.
+ - The [value](../v/value.md) of MSD, being in the squared units of the output variable, can be hard to interpret especially in the context of financial metrics.
 
 #### Alternatives to Mean Square Deviation
 
 To address some of the limitations of MSD, traders and analysts may use other metrics such as:
 
 - **[Mean Absolute Deviation](../m/mean_absolute_deviation.md) (MAD)**:
-  - Unlike MSD, MAD measures the average of absolute errors, which reduces the impact of outliers.
+ - Unlike MSD, MAD measures the average of absolute errors, which reduces the impact of outliers.
 
 - **Root Mean Square Deviation (RMSD)**:
-  - RMSD is the square root of MSD, converting the units back to the original scale for more straightforward interpretation.
+ - RMSD is the square root of MSD, converting the units back to the original scale for more straightforward interpretation.
 
 - **Mean Absolute Percentage Error (MAPE)**:
-  - This metric provides a percentage measure of prediction accuracy, useful for comparing the performance of models across different scales.
+ - This metric provides a percentage measure of prediction accuracy, useful for comparing the performance of models across different scales.
 
 #### Conclusion
 

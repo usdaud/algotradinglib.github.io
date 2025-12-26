@@ -24,10 +24,10 @@ Data is the lifeblood of [momentum](../m/momentum.md) strategies. The primary in
 
 Data can be obtained from [multiple](../m/multiple.md) sources, including financial databases like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and more specialized financial data providers such as:
 
-- [Quandl](https://www.quandl.com/)
-- [Alpha Vantage](https://www.alphavantage.co/)
-- [IEX Cloud](https://iexcloud.io/)
-- [Yahoo Finance](https://finance.yahoo.com/)
+- Quandl
+- Alpha Vantage
+- IEX Cloud
+- Yahoo Finance
 
 #### Ranking Mechanism
 
@@ -88,10 +88,10 @@ Before deploying a relative [momentum](../m/momentum.md) strategy in live tradin
 
 [Backtesting](../b/backtesting.md) platforms include:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Trading Blox](https://tradingblox.com/)
-- [MetaTrader](https://www.metatrader4.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- QuantConnect
+- Trading Blox
+- MetaTrader
+- NinjaTrader
 
 ### Risk Management
 
@@ -152,13 +152,13 @@ Selecting top-performing commodities for investment.
 
 AQR has extensively researched and implemented [momentum](../m/momentum.md) strategies across various [asset](../a/asset.md) classes. Their findings are documented in [multiple](../m/multiple.md) whitepapers, such as "[Value](../v/value.md) and [Momentum](../m/momentum.md) Everywhere" (Asness et al., 2012).
 
-- [AQR Capital Management](https://www.aqr.com/)
+- AQR Capital Management
 
 #### Research Affiliates
 
 Research Affiliates has explored the benefits of [momentum](../m/momentum.md) strategies in their research, highlighting how these strategies can be integrated into broader investment frameworks.
 
-- [Research Affiliates](https://www.researchaffiliates.com/)
+- Research Affiliates
 
 ### Future Directions
 
@@ -177,4 +177,3 @@ Developing dynamic allocation models that adapt to changing [market](../m/market
 ### Conclusion
 
 Relative [momentum](../m/momentum.md) strategies [offer](../o/offer.md) a [robust](../r/robust.md) framework for identifying and capitalizing on trends in various [asset](../a/asset.md) classes. Through careful data analysis, rigorous [backtesting](../b/backtesting.md), and effective [risk management](../r/risk_management.md), these strategies can significantly enhance [portfolio performance](../p/portfolio_performance.md).
-

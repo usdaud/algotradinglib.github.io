@@ -38,34 +38,34 @@ In trading and [financial markets](../f/financial_market.md), "resume" typically
 ## Importance in Trading Decisions
 
 1. **[Volatility](../v/volatility.md) Management**
-   - Trading resumes often coincide with increased [volatility](../v/volatility.md)
-   - Requires adjusted [risk management](../r/risk_management.md) strategies
+ - Trading resumes often coincide with increased [volatility](../v/volatility.md)
+ - Requires adjusted [risk management](../r/risk_management.md) strategies
 
 2. **[Information Processing](../i/information_processing_in_trading.md)**
-   - Resumes after news-related halts allow time for [market](../m/market.md) participants to digest information
-   - Can lead to more informed trading decisions
+ - Resumes after news-related halts allow time for [market](../m/market.md) participants to digest information
+ - Can lead to more informed trading decisions
 
 3. **[Liquidity](../l/liquidity.md) Considerations**
-   - Trading volumes may be abnormal immediately following a resume
-   - Impacts [execution](../e/execution.md) strategies and potential [slippage](../s/slippage.md)
+ - Trading volumes may be abnormal immediately following a resume
+ - Impacts [execution](../e/execution.md) strategies and potential [slippage](../s/slippage.md)
 
-4. **[Algorithmic Trading](../a/accountability.md) Adjustments**
-   - Automated systems need to account for trading resumes in their logic
-   - May require specific programming to [handle](../h/handle.md) these events
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Adjustments**
+ - Automated systems need to account for trading resumes in their logic
+ - May require specific programming to [handle](../h/handle.md) these events
 
 ## Related Concepts
 
 1. **Circuit Breakers**
-   - Mechanisms that halt trading to prevent excessive [volatility](../v/volatility.md)
-   - Trading resumes after predetermined conditions are met
+ - Mechanisms that halt trading to prevent excessive [volatility](../v/volatility.md)
+ - Trading resumes after predetermined conditions are met
 
 2. **[Gap Analysis](../g/gap_analysis.md)**
-   - Study of price differences between close and resume of trading
-   - Important for overnight positions and multi-day strategies
+ - Study of price differences between close and resume of trading
+ - Important for overnight positions and multi-day strategies
 
 3. **[Opening Range](../o/opening_range.md)**
-   - The price [range](../r/range.md) established in the initial minutes after trading resumes
-   - Used by some traders to set the tone for the [trading session](../t/trading_session.md)
+ - The price [range](../r/range.md) established in the initial minutes after trading resumes
+ - Used by some traders to set the tone for the [trading session](../t/trading_session.md)
 
 ## Best Practices for Traders
 

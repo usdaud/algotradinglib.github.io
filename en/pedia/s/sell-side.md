@@ -10,7 +10,7 @@ Sell-side firms primarily consist of [investment banks](../i/investment_bank_(ib
 
 ### Investment Banking
 
-[Investment banks](../i/investment_bank_(ib).md) are a cornerstone of the sell-side sector, providing a plethora of services to corporations, governments, and other institutions. These services include [underwriting](../u/underwriting.md) securities, mergers and acquisitions (M&A), and advisory services. 
+[Investment banks](../i/investment_bank_(ib).md) are a cornerstone of the sell-side sector, providing a plethora of services to corporations, governments, and other institutions. These services include [underwriting](../u/underwriting.md) securities, mergers and acquisitions (M&A), and advisory services.
 
 - **[Underwriting](../u/underwriting.md)**: [Investment banks](../i/investment_bank_(ib).md) help companies to raise [capital](../c/capital.md) by issuing new securities. They buy these securities from the [issuer](../i/issuer.md) and sell them to the public or institutional investors. This process requires extensive knowledge of [market](../m/market.md) conditions and [investor](../i/investor.md) appetite.
 - **Mergers and Acquisitions**: Sell-side advisory in M&A involves advising clients on the purchase, [sale](../s/sale.md), or [merger](../m/merger.md) of companies. [Investment banks](../i/investment_bank_(ib).md) conduct valuations, structure deals, and negotiate terms to maximize [value](../v/value.md) for their clients.
@@ -33,7 +33,7 @@ Brokerage firms are another critical component of the sell-side ecosystem. These
 
 ### Research and Analysis
 
-Sell-side research departments provide in-depth analysis and recommendations on various securities. This research is often disseminated to institutional and retail clients to inform their investment decisions. 
+Sell-side research departments provide in-depth analysis and recommendations on various securities. This research is often disseminated to institutional and retail clients to inform their investment decisions.
 
 - **[Equity Research](../e/equity_research.md)**: Analysis of [stocks](../s/stock.md), including [financial statement analysis](../f/financial_statement_analysis.md), [industry](../i/industry.md) trends, and forecasts of future performance.
 - **[Fixed Income](../f/fixed_income.md) Research**: Analysis of [bond](../b/bond.md) markets, including [interest rate](../i/interest_rate.md) trends, [credit](../c/credit.md) ratings, and [economic indicators](../e/economic_indicators.md).
@@ -41,11 +41,11 @@ Sell-side research departments provide in-depth analysis and recommendations on 
 
 ## Sell-Side Technology and Innovation
 
-The financial [industry](../i/industry.md) has seen significant advancements in technology, greatly impacting sell-side operations. The introduction of [algorithmic trading](../a/accountability.md), electronic trading platforms, and fintech innovations has transformed how sell-side institutions operate.
+The financial [industry](../i/industry.md) has seen significant advancements in technology, greatly impacting sell-side operations. The introduction of [algorithmic trading](../a/algorithmic_trading.md), electronic trading platforms, and fintech innovations has transformed how sell-side institutions operate.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of automated systems to execute trades based on pre-set conditions. Sell-side firms deploy algorithms to enhance trading [efficiency](../e/efficiency.md), reduce costs, and provide better [execution](../e/execution.md) for clients.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of automated systems to execute trades based on pre-set conditions. Sell-side firms deploy algorithms to enhance trading [efficiency](../e/efficiency.md), reduce costs, and provide better [execution](../e/execution.md) for clients.
 
 - **Speed and [Efficiency](../e/efficiency.md)**: Algorithms can execute large volumes of trades at high speeds, taking advantage of small price discrepancies.
 - **Reduced Costs**: Automated trading reduces the need for manual intervention, cutting down on associated labor costs.
@@ -80,15 +80,15 @@ The sell-side operates within a stringent regulatory framework designed to ensur
 
 Several key players dominate the sell-side landscape, providing a wide [range](../r/range.md) of financial services to clients worldwide. Some of the major sell-side institutions include:
 
-- **Goldman Sachs**: One of the leading global [investment banks](../i/investment_bank_(ib).md), [offering](../o/offering.md) services in [investment banking](../i/investment_banking.md), securities trading, and [asset management](../a/asset_management.md). [Goldman Sachs](https://www.goldmansachs.com/)
-- **Morgan Stanley**: A global financial services [firm](../f/firm.md) providing [investment banking](../i/investment_banking.md), securities trading, and [wealth management](../w/wealth_management.md) services. [Morgan Stanley](https://www.morganstanley.com/)
-- **J.P. Morgan**: A premier investment [bank](../b/bank.md) providing advisory and [capital](../c/capital.md)-raising services to a [range](../r/range.md) of clients. [J.P. Morgan](https://www.jpmorgan.com/)
-- **Citigroup**: A multinational investment [bank](../b/bank.md) and financial services [corporation](../c/corporation.md) engaged in [investment banking](../i/investment_banking.md), brokerage, and [market](../m/market.md)-making activities. [Citigroup](https://www.citigroup.com/)
-- **Barclays**: A major global [bank](../b/bank.md) [offering](../o/offering.md) [investment banking](../i/investment_banking.md), corporate banking, and [wealth management](../w/wealth_management.md) services. [Barclays](https://home.barclays/)
+- **Goldman Sachs**: One of the leading global [investment banks](../i/investment_bank_(ib).md), [offering](../o/offering.md) services in [investment banking](../i/investment_banking.md), securities trading, and [asset management](../a/asset_management.md). Goldman Sachs
+- **Morgan Stanley**: A global financial services [firm](../f/firm.md) providing [investment banking](../i/investment_banking.md), securities trading, and [wealth management](../w/wealth_management.md) services. Morgan Stanley
+- **J.P. Morgan**: A premier investment [bank](../b/bank.md) providing advisory and [capital](../c/capital.md)-raising services to a [range](../r/range.md) of clients. J.P. Morgan
+- **Citigroup**: A multinational investment [bank](../b/bank.md) and financial services [corporation](../c/corporation.md) engaged in [investment banking](../i/investment_banking.md), brokerage, and [market](../m/market.md)-making activities. Citigroup
+- **Barclays**: A major global [bank](../b/bank.md) [offering](../o/offering.md) [investment banking](../i/investment_banking.md), corporate banking, and [wealth management](../w/wealth_management.md) services. Barclays
 
 ## Career Opportunities in the Sell-Side
 
-Careers in the sell-side sector can be highly rewarding and varied. Opportunities exist across [multiple](../m/multiple.md) functions, including [investment banking](../i/investment_banking.md), sales and trading, research, and technology. 
+Careers in the sell-side sector can be highly rewarding and varied. Opportunities exist across [multiple](../m/multiple.md) functions, including [investment banking](../i/investment_banking.md), sales and trading, research, and technology.
 
 ### Investment Banking Analysts and Associates
 

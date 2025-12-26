@@ -25,7 +25,6 @@ Conversely, when a central [bank](../b/bank.md) enters into a reverse repo agree
 
 In the United States, the Federal Reserve uses reverse repo agreements as part of its [open market operations](../o/open_market_operations.md) to regulate the [supply](../s/supply.md) of [money](../m/money.md). The Federal Reserve conducts reverse repos to maintain control over overnight [interest](../i/interest.md) rates and to ensure that the [federal funds rate](../f/federal_funds_rate.md) stays within the target [range](../r/range.md).
 
-For more information about the Federal Reserve's reverse repo operations, you can visit their official site [here](https://www.federalreserve.gov).
 
 ## Applications in Finance
 
@@ -52,4 +51,4 @@ While reverse repos are generally considered low-[risk](../r/risk.md) transactio
 
 Reverse repurchase agreements are vital financial instruments widely used by central banks and financial institutions to manage [liquidity](../l/liquidity.md), regulate [interest](../i/interest.md) rates, and mitigate risks. Through these transactions, financial entities can secure short-term funding while leveraging their securities portfolio. As a pivotal component in [monetary policy](../m/monetary_policy.md) and [money](../m/money.md) markets, reverse repos contribute to the overall stability and [efficiency](../e/efficiency.md) of the [financial system](../f/financial_system.md).
 
-If you're keen on learning more about reverse repurchase agreements and their role in [financial markets](../f/financial_market.md), the Federal Reserve's [official page on reverse repo operations](https://www.federalreserve.gov) provides a [wealth](../w/wealth.md) of information.
+If you're keen on learning more about reverse repurchase agreements and their role in [financial markets](../f/financial_market.md), the Federal Reserve's public materials on reverse repo operations provides a [wealth](../w/wealth.md) of information.

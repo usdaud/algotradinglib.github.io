@@ -109,9 +109,9 @@ By continuously monitoring sentiment, traders can identify shifts in [market sen
 
 ### Example Companies
 
-- **[RavenPack](https://www.ravenpack.com/)**: Provides analytics solutions that include sentiment analysis derived from news and [social media](../s/social_media.md).
-- **[MarketPsych Data](https://www.marketpsychdata.com/)**: Offers financial sentiment data and analysis for traders and [asset](../a/asset.md) managers.
-- **[Sentifi](https://www.sentifi.com/)**: Specializes in harnessing crowd-sourced financial intelligence through sentiment analysis.
+- **RavenPack**: Provides analytics solutions that include sentiment analysis derived from news and [social media](../s/social_media.md).
+- **MarketPsych Data**: Offers financial sentiment data and analysis for traders and [asset](../a/asset.md) managers.
+- **Sentifi**: Specializes in harnessing crowd-sourced financial intelligence through sentiment analysis.
 
 ## Challenges
 

@@ -8,7 +8,7 @@ The kinked [demand curve](../d/demand_curve.md) model was developed independentl
 
 #### Characteristics of Kinked Demand Curve
 
-1. **Kink at the [Market Price](../m/market_price.md)**: The curve consists of two segments with differing elasticities. Above the kink, the [demand curve](../d/demand_curve.md) is relatively [elastic](../e/elastic.md), meaning that a small increase in price would lead to a significant drop in [quantity demanded](../q/quantity_demanded.md) as consumers switch to competitors' products. Below the kink, the [demand curve](../d/demand_curve.md) is relatively inelastic, meaning that a small decrease in price would not lead to a significant increase in [quantity demanded](../q/quantity_demanded.md). 
+1. **Kink at the [Market Price](../m/market_price.md)**: The curve consists of two segments with differing elasticities. Above the kink, the [demand curve](../d/demand_curve.md) is relatively [elastic](../e/elastic.md), meaning that a small increase in price would lead to a significant drop in [quantity demanded](../q/quantity_demanded.md) as consumers switch to competitors' products. Below the kink, the [demand curve](../d/demand_curve.md) is relatively inelastic, meaning that a small decrease in price would not lead to a significant increase in [quantity demanded](../q/quantity_demanded.md).
 
 2. **Price Rigidity**: Because of the kink, firms may be reluctant to change their prices. If a [firm](../f/firm.md) increases its price, it risks losing a large [market share](../m/market_share.md) because the other firms are unlikely to follow the price increase ([demand](../d/demand.md) being [elastic](../e/elastic.md) above the current price). Conversely, if a [firm](../f/firm.md) decreases its price, it risks igniting a price war, as other firms are likely to match the price cut to retain their [market share](../m/market_share.md) ([demand](../d/demand.md) being inelastic below the current price). Consequently, prices in oligopolistic markets tend to be sticky.
 
@@ -19,7 +19,7 @@ The kinked [demand curve](../d/demand_curve.md) model was developed independentl
 The typical graphical representation of a kinked [demand curve](../d/demand_curve.md) involves plotting the price versus [quantity demanded](../q/quantity_demanded.md), with the [demand curve](../d/demand_curve.md) bending at the current [price level](../p/price_level.md). Here's a step-by-step breakdown of how to derive the curve:
 
 1. **Identify the prevailing [market price](../m/market_price.md) and quantity.** This is the point where the kink occurs.
-   
+
 2. **Draw the [demand curve](../d/demand_curve.md) above the kink.** This part of the curve is more [elastic](../e/elastic.md), indicating that consumers are more responsive to price increases.
 
 3. **Draw the [demand curve](../d/demand_curve.md) below the kink.** This part of the curve is more inelastic, indicating that consumers are less responsive to price decreases.
@@ -53,7 +53,7 @@ While the kinked [demand curve](../d/demand_curve.md) model provides a simplifie
 While informative, the kinked [demand curve](../d/demand_curve.md) model has several limitations:
 
 1. **Lack of Empirical Support**: There is limited empirical evidence directly supporting the existence of kinked [demand](../d/demand.md) curves in all oligopolistic markets.
-   
+
 2. **Simplistic Assumptions**: The model assumes that firms only compete on price and overlooks other strategic factors such as capacity decisions, [product differentiation](../p/product_differentiation.md), and innovation.
 
 3. **No Consideration for Entry and Exit**: The model does not account for new firms entering or exiting the [market](../m/market.md), which can influence price setting and competitive dynamics.

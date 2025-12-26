@@ -45,18 +45,18 @@ Coincheck provides APIs for [algorithmic trading](../a/accountability.md), allow
 
 ### API Endpoints
 - **Public Endpoints:** Provide [market](../m/market.md) data and public information.
-  - `/api/ticker`
-  - `/api/trades`
-  - `/api/order_books`
+ - `/api/ticker`
+ - `/api/trades`
+ - `/api/order_books`
 - **Private Endpoints:** Require authentication and provide account-specific data.
-  - `/api/accounts`
-  - `/api/orders`
-  - `/api/deposits`
-  - `/api/withdrawals`
+ - `/api/accounts`
+ - `/api/orders`
+ - `/api/deposits`
+ - `/api/withdrawals`
 
 ## Statistics
 Coincheck boasts a significant user base and high trading volumes. As of 2023, the platform has over 1.5 million registered users and processes daily trading volumes in the hundreds of millions of dollars. The [exchange](../e/exchange.md)'s [liquidity](../l/liquidity.md) and wide [range](../r/range.md) of supported cryptocurrencies make it a preferred choice for many traders.
 
 ## Web Links
-- [Coincheck Official Website](https://coincheck.com/)
-- [Coincheck API Documentation](https://coincheck.com/en/documents/exchange/api)
+-
+- Coincheck API Documentation

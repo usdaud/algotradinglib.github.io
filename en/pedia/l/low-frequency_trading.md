@@ -11,7 +11,7 @@ LFT strategies generally involve holding positions for longer durations, which c
 ### Core Principles
 
 1. **[Fundamental Analysis](../f/fundamental_analysis.md)**: LFT often relies on [fundamental analysis](../f/fundamental_analysis.md), which involves evaluating a company's [financial health](../f/financial_health.md), [industry](../i/industry.md) conditions, and economic factors to predict future [market](../m/market.md) movements.
-   
+
 2. **[Technical Analysis](../t/technical_analysis.md)**: Some LFT strategies [leverage](../l/leverage.md) [technical analysis](../t/technical_analysis.md), which involves studying historical price charts and [volume](../v/volume.md) data to forecast future price movements.
 
 3. **[Quantitative Models](../q/quantitative_models.md)**: LFT strategies can also incorporate [quantitative models](../q/quantitative_models.md) that use statistical methods to predict price trends over a more extended period.
@@ -60,7 +60,7 @@ While LFT does not rely on the ultra-fast [execution](../e/execution.md) technol
 
 ### Importance of Backtesting
 
-[Backtesting](../b/backtesting.md) is an essential component of LFT strategy development. This involves running historical [market](../m/market.md) data through a trading algorithm to evaluate how it would have performed in the past. Effective [backtesting](../b/backtesting.md) can help traders refine their strategies and identify potential weaknesses before deploying them in live markets. 
+[Backtesting](../b/backtesting.md) is an essential component of LFT strategy development. This involves running historical [market](../m/market.md) data through a trading algorithm to evaluate how it would have performed in the past. Effective [backtesting](../b/backtesting.md) can help traders refine their strategies and identify potential weaknesses before deploying them in live markets.
 
 ## Regulatory Environment
 
@@ -77,11 +77,11 @@ While LFT is subject to regulatory oversight to ensure fair and orderly markets,
 
 While many trading firms engage in low-frequency trading, some notable players include [investment banks](../i/investment_bank_(ib).md), [hedge](../h/hedge.md) funds, and [proprietary trading](../p/proprietary_trading.md) firms. Examples include:
 
-- **BlackRock**: [BlackRock](https://www.blackrock.com) is one of the world's largest [asset management](../a/asset_management.md) firms and employs various LFT strategies.
-- **Bridgewater Associates**: [Bridgewater Associates](https://www.bridgewater.com) is a leading [hedge fund](../h/hedge_fund.md) that utilizes [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md), including LFT.
-- **Citadel**: [Citadel](https://www.citadel.com) is a global financial institution known for its diverse [trading strategies](../t/trading_strategies.md), including LFT.
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com) employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) in its trading, including low-frequency models.
-- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com) is a renowned [hedge fund](../h/hedge_fund.md) that employs sophisticated [quantitative trading](../q/quantitative_trading.md) strategies, including LFT.
+- **BlackRock**: BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms and employs various LFT strategies.
+- **Bridgewater Associates**: Bridgewater Associates is a leading [hedge fund](../h/hedge_fund.md) that utilizes [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md), including LFT.
+- **Citadel**: Citadel is a global financial institution known for its diverse [trading strategies](../t/trading_strategies.md), including LFT.
+- **Two Sigma**: Two Sigma employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) in its trading, including low-frequency models.
+- **Renaissance Technologies**: Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) that employs sophisticated [quantitative trading](../q/quantitative_trading.md) strategies, including LFT.
 
 ## Case Studies
 

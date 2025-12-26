@@ -48,6 +48,6 @@ Intraday traders use VWAP to identify optimal entry and exit points. Buying belo
 Trading [volume indicators](../v/volume_indicators.md) are indispensable tools for traders and analysts, providing vital insights into [market dynamics](../m/market_dynamics.md) and price movements. By incorporating these indicators into their [trading strategies](../t/trading_strategies.md), traders can enhance their ability to predict trends, confirm breakouts, and identify potential reversals, ultimately improving their trading success.
 
 ## References and Further Reading
-- [Investopedia - Volume](https://www.investopedia.com)
-- [StockCharts - Volume Indicators](https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators)
-- [TradingView - Volume Indicators](https://www.tradingview.com)
+- Investopedia - Volume
+- StockCharts - Volume Indicators
+- TradingView - Volume Indicators

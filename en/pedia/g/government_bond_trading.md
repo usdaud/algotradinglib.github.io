@@ -15,19 +15,19 @@
 The process of trading government bonds can be broken down into primary and secondary markets.
 
 1. **[Primary Market](../p/primary_market.md):**
-   - **Issuance:** Governments [issue](../i/issue.md) bonds directly to investors through auctions. The U.S. Department of the Treasury, for instance, conducts regular auctions for its bonds.
-   - **Bidding:** Investors can submit competitive or non-competitive bids. Competitive bidding allows investors to specify the [return](../r/return.md) they are seeking, whereas non-competitive bidders automatically receive newly issued bonds at the average auction price.
+ - **Issuance:** Governments [issue](../i/issue.md) bonds directly to investors through auctions. The U.S. Department of the Treasury, for instance, conducts regular auctions for its bonds.
+ - **Bidding:** Investors can submit competitive or non-competitive bids. Competitive bidding allows investors to specify the [return](../r/return.md) they are seeking, whereas non-competitive bidders automatically receive newly issued bonds at the average auction price.
 
 2. **[Secondary Market](../s/secondary_market.md):**
-   - **Over-the-Counter (OTC) [Market](../m/market.md):** Most [government bond](../g/government_bond.md) trading occurs in the OTC [market](../m/market.md), where securities are traded directly between [market](../m/market.md) participants rather than on a formal [exchange](../e/exchange.md).
-   - **[Broker](../b/broker.md)-Dealers:** Financial intermediaries facilitate trades in the [secondary market](../s/secondary_market.md). Notable [broker](../b/broker.md)-dealers include [Goldman Sachs](https://www.goldmansachs.com/), [Morgan Stanley](https://www.morganstanley.com/), and [J.P. Morgan](https://www.jpmorgan.com/).
+ - **Over-the-Counter (OTC) [Market](../m/market.md):** Most [government bond](../g/government_bond.md) trading occurs in the OTC [market](../m/market.md), where securities are traded directly between [market](../m/market.md) participants rather than on a formal [exchange](../e/exchange.md).
+ - **[Broker](../b/broker.md)-Dealers:** Financial intermediaries facilitate trades in the [secondary market](../s/secondary_market.md). Notable [broker](../b/broker.md)-dealers include Goldman Sachs, Morgan Stanley, and J.P. Morgan.
 
 #### Market Participants
 
 1. **Institutional Investors:**
-   - **Pension Funds:** These long-term investors often [hold](../h/hold.md) government bonds for their stability and predictable returns.
-   - **[Insurance](../i/insurance.md) Companies:** They make significant investments in government bonds to match their [long-term liabilities](../l/long-term_liabilities.md).
-   - **Mutual Funds and ETFs:** These investment vehicles often include government bonds as part of a diversified portfolio.
+ - **Pension Funds:** These long-term investors often [hold](../h/hold.md) government bonds for their stability and predictable returns.
+ - **[Insurance](../i/insurance.md) Companies:** They make significant investments in government bonds to match their [long-term liabilities](../l/long-term_liabilities.md).
+ - **Mutual Funds and ETFs:** These investment vehicles often include government bonds as part of a diversified portfolio.
 
 2. **Individual Investors:** Retail investors also participate in [government bond](../g/government_bond.md) trading, although they typically do so through brokers or investment funds.
 

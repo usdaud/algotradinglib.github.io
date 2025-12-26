@@ -42,13 +42,13 @@ Statistical [arbitrage](../a/arbitrage.md) (stat arb) models involve the use of 
 ## Applications of Quantitative Financial Models
 
 ### 1. High-Frequency Trading (HFT)
-High-frequency trading involves executing a large number of orders at extremely high speeds. [Quantitative models](../q/quantitative_models.md) assist in identifying [arbitrage](../a/arbitrage.md) opportunities, executing trades, and reducing latency. Companies like Virtu Financial [Virtu](https://www.virtu.com/) have specialized HFT operations.
+High-frequency trading involves executing a large number of orders at extremely high speeds. [Quantitative models](../q/quantitative_models.md) assist in identifying [arbitrage](../a/arbitrage.md) opportunities, executing trades, and reducing latency. Companies like Virtu Financial Virtu have specialized HFT operations.
 
 ### 2. Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) uses pre-programmed instructions or algorithms based on [quantitative models](../q/quantitative_models.md) to execute [trading strategies](../t/trading_strategies.md). These models help in back-testing strategies, automating [trade](../t/trade.md) [execution](../e/execution.md), and optimizing [trade](../t/trade.md) timing.
 
 ### 3. Asset Management
-In [asset management](../a/asset_management.md), [quantitative models](../q/quantitative_models.md) are used to construct and manage investment portfolios, employing strategies across equities, [fixed income](../f/fixed_income.md), commodities, and [derivatives](../d/derivatives.md). Firms like Two Sigma [Two Sigma](https://www.twosigma.com/) [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) in their [asset management](../a/asset_management.md) processes.
+In [asset management](../a/asset_management.md), [quantitative models](../q/quantitative_models.md) are used to construct and manage investment portfolios, employing strategies across equities, [fixed income](../f/fixed_income.md), commodities, and [derivatives](../d/derivatives.md). Firms like Two Sigma Two Sigma [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) in their [asset management](../a/asset_management.md) processes.
 
 ### 4. Risk Assessment
 [Quantitative models](../q/quantitative_models.md) assist in assessing and managing financial risks. Regulatory compliance, [market risk](../m/market_risk.md), [credit risk](../c/credit_risk.md), and [operational risk](../o/operational_risk.md) are evaluated using sophisticated statistical and computational techniques.
@@ -76,13 +76,13 @@ Running complex [quantitative models](../q/quantitative_models.md) requires sign
 ## Notable Companies in Quantitative Finance
 
 ### Renaissance Technologies
-Renaissance Technologies, founded by Jim Simons, is one of the most prominent [quantitative hedge funds](../q/quantitative_hedge_funds.md) globally. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is renowned for its exceptional returns, driven by sophisticated [quantitative models](../q/quantitative_models.md) and algorithms. [Renaissance Technologies](https://www.rentech.com/)
+Renaissance Technologies, founded by Jim Simons, is one of the most prominent [quantitative hedge funds](../q/quantitative_hedge_funds.md) globally. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is renowned for its exceptional returns, driven by sophisticated [quantitative models](../q/quantitative_models.md) and algorithms. Renaissance Technologies
 
 ### Citadel
-Citadel is a leading global financial institution founded by Ken Griffin. Its [quantitative research](../q/quantitative_research.md) and engineering teams develop high-frequency [trading strategies](../t/trading_strategies.md) and algorithmic applications to [trade](../t/trade.md) across various [asset](../a/asset.md) classes. [Citadel](https://www.citadel.com/)
+Citadel is a leading global financial institution founded by Ken Griffin. Its [quantitative research](../q/quantitative_research.md) and engineering teams develop high-frequency [trading strategies](../t/trading_strategies.md) and algorithmic applications to [trade](../t/trade.md) across various [asset](../a/asset.md) classes. Citadel
 
 ### DE Shaw
-DE Shaw & Co., founded by David E. Shaw, specializes in [quantitative investment strategies](../q/quantitative_investment_strategies.md). The [firm](../f/firm.md) employs [computational finance](../c/computational_finance.md) techniques and extensive data analysis to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. [DE Shaw](https://www.deshaw.com/)
+DE Shaw & Co., founded by David E. Shaw, specializes in [quantitative investment strategies](../q/quantitative_investment_strategies.md). The [firm](../f/firm.md) employs [computational finance](../c/computational_finance.md) techniques and extensive data analysis to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. DE Shaw
 
 ## Conclusion
 

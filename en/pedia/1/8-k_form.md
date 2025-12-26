@@ -34,8 +34,7 @@ Following are some crucial items that the 8-K form might include:
 
 ### Example of an 8-K Form
 
-To provide better clarity, let’s look at an example of a real 8-K filing, such as those made by [Apple Inc.](https://www.apple.com/investor-relations/sec-filings/), where significant changes like executive shifts or quarterly results are documented. 
-
+To provide better clarity, let’s look at an example of a real 8-K filing, such as those made by Apple Inc., where significant changes like executive shifts or quarterly results are documented.
 ### Pros and Cons in Algo Trading
 
 **Pros:**
@@ -68,5 +67,4 @@ The 8-K form is a vital instrument for public companies and investors alike. In 
 
 **References:**
 
-- [Apple Inc. Investor Relations](https://www.apple.com/investor-relations/sec-filings/)
-- [SEC Official Page for 8-K Filings](https://www.sec.gov)
+- SEC 8-K Filings

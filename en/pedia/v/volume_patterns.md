@@ -92,11 +92,11 @@ Several [technical indicators](../t/technical_indicators.md) utilize [volume](..
 
 ### Real-World Applications
 
-1. **High-Frequency Trading (HFT)**: HFT firms [leverage](../l/leverage.md) [volume](../v/volume.md) patterns to identify short-term price inefficiencies and execute trades at lightning speed. For example, firms like Virtu Financial (https://www.virtu.com) use sophisticated algorithms that [factor](../f/factor.md) in [volume](../v/volume.md) spikes and divergences.
+1. **High-Frequency Trading (HFT)**: HFT firms [leverage](../l/leverage.md) [volume](../v/volume.md) patterns to identify short-term price inefficiencies and execute trades at lightning speed. For example, firms like Virtu Financial ( use sophisticated algorithms that [factor](../f/factor.md) in [volume](../v/volume.md) spikes and divergences.
 
-2. **Institutional Trading**: Institutional investors use [volume analysis](../v/volume_analysis.md) to manage large trades without significantly impacting the [market](../m/market.md). [Volume](../v/volume.md) patterns assist in finding optimal [execution](../e/execution.md) points. An example is Renaissance Technologies (https://www.rentec.com), which employs [algorithmic trading](../a/algorithmic_trading.md) strategies incorporating [volume](../v/volume.md) data.
+2. **Institutional Trading**: Institutional investors use [volume analysis](../v/volume_analysis.md) to manage large trades without significantly impacting the [market](../m/market.md). [Volume](../v/volume.md) patterns assist in finding optimal [execution](../e/execution.md) points. An example is Renaissance Technologies ( which employs [algorithmic trading](../a/algorithmic_trading.md) strategies incorporating [volume](../v/volume.md) data.
 
-3. **Retail Trading Platforms**: Services like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) [offer](../o/offer.md) tools and analytics for individual traders to analyze [volume](../v/volume.md) patterns and make informed decisions.
+3. **Retail Trading Platforms**: Services like [Interactive Brokers](../i/interactive_brokers.md) ( [offer](../o/offer.md) tools and analytics for individual traders to analyze [volume](../v/volume.md) patterns and make informed decisions.
 
 ### Academic and Industry Research
 

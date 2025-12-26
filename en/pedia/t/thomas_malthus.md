@@ -4,7 +4,7 @@
 Thomas Malthus (1766-1834) was an English cleric and scholar, influential in the fields of [political economy](../p/political_economy.md) and demography. He is best known for his theory on population growth and its relationship to resources, commonly referred to as Malthusianism. His most renown work, "An Essay on the Principle of Population," first published in 1798, postulated that populations grow geometrically, while food production increases arithmetically. This discrepancy, according to Malthus, would lead inevitably to widespread famine and societal collapse unless checked by so-called "preventative" and "positive" checks. His ideas have had a profound impact on economic thought, demography, and policy-making.
 
 ## Early Life and Education
-Thomas Robert Malthus was born on February 13, 1766, in Surrey, England. He was the sixth of seven children in a relatively affluent family. His father, Daniel Malthus, was a personal friend of the philosopher David Hume and a follower of Jean-Jacques Rousseau, which profoundly influenced Thomas's early intellectual development. He studied at Jesus College, Cambridge, where he specialized in mathematics. Malthus later took holy orders, becoming an Anglican curate. 
+Thomas Robert Malthus was born on February 13, 1766, in Surrey, England. He was the sixth of seven children in a relatively affluent family. His father, Daniel Malthus, was a personal friend of the philosopher David Hume and a follower of Jean-Jacques Rousseau, which profoundly influenced Thomas's early intellectual development. He studied at Jesus College, Cambridge, where he specialized in mathematics. Malthus later took holy orders, becoming an Anglican curate.
 
 ## Key Works and Publications
 
@@ -16,8 +16,8 @@ Malthus's seminal work, "An Essay on the Principle of Population," laid the foun
 1. **Geometric vs. Arithmetic Growth**: Malthus argued that while population tends to grow geometrically (exponentially), resources, especially food, grow arithmetically (linearly). This imbalance would eventually result in resource [scarcity](../s/scarcity.md).
 
 2. **Preventative and Positive Checks**: To align the population with the available resources, Malthus categorized checks on population growth into two types:
-   - **Preventative Checks**: Measures that limit birth rates, such as moral restraint, contraception, and delayed marriage.
-   - **Positive Checks**: Factors that increase death rates, including famines, disease, and wars.
+ - **Preventative Checks**: Measures that limit birth rates, such as moral restraint, contraception, and delayed marriage.
+ - **Positive Checks**: Factors that increase death rates, including famines, disease, and wars.
 
 3. **Moral Restraint**: Malthus emphasized moral restraint as a critical preventive [check](../c/check.md) for curbing population growth, advocating for delayed marriage and celibacy until one could financially support a family.
 

@@ -4,25 +4,25 @@
 
 ## Structure of an Order Book
 
-An [order book](../o/order_book.md) typically features two main sides: 
+An [order book](../o/order_book.md) typically features two main sides:
 
 1. **[Bid](../b/bid.md) Side**: This side lists buy orders, sorted by price with the highest [bid](../b/bid.md) at the top.
 2. **Ask Side**: This side lists sell orders, sorted by price with the lowest ask at the top.
 
 For example:
 
-| Price  | Quantity |
+| Price | Quantity |
 |--------|----------|
-| Sell   |          |
-| 100.50 | 10       |
-| 100.40 | 5        |
-| 100.30 | 20       |
-| ...    | ...      |
-| 100.00 | 15       |
-| Buy    |          |
-| 99.90  | 12       |
-| 99.80  | 7        |
-| 99.70  | 25       |
+| Sell | |
+| 100.50 | 10 |
+| 100.40 | 5 |
+| 100.30 | 20 |
+|... |... |
+| 100.00 | 15 |
+| Buy | |
+| 99.90 | 12 |
+| 99.80 | 7 |
+| 99.70 | 25 |
 
 When a [market order](../m/market_order.md) is placed, it gets matched against the best available [limit order](../l/limit_order.md) on the opposite side of the [order book](../o/order_book.md). For example, a [market](../m/market.md) buy [order](../o/order.md) would be matched against the lowest sell [order](../o/order.md) (ask price). Similarly, a [market](../m/market.md) sell [order](../o/order.md) would be matched against the highest buy [order](../o/order.md) ([bid price](../b/bid_price.md)).
 
@@ -125,4 +125,4 @@ Large institutional traders utilize [order book](../o/order_book.md) data to exe
 
 [Order book](../o/order_book.md) dynamics provide invaluable insights into [market](../m/market.md) behavior and are fundamental to [algorithmic trading](../a/algorithmic_trading.md). By analyzing the ebb and flow of buy and sell orders, traders can make informed decisions, optimize [execution](../e/execution.md), and manage [risk](../r/risk.md) effectively. Advanced technologies like [machine learning](../m/machine_learning.md) and high-frequency trading continue to evolve, [offering](../o/offering.md) new tools and methods to [leverage](../l/leverage.md) [order book](../o/order_book.md) data for [competitive advantage](../c/competitive_advantage.md) in the rapidly changing landscape of [financial markets](../f/financial_market.md).
 
-For more information, you can visit [Nasdaq Order Book](https://www.nasdaq.com/solutions/nasdaq-totalview).
+For more information, you can visit Nasdaq Order Book.

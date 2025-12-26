@@ -48,13 +48,13 @@
 
 #### Algorithmic Trading for Risk Management
 
-[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to [trade](../t/trade.md) assets at high speed based on pre-defined criteria. In the context of [interest rate](../i/interest_rate.md) [risk management](../r/risk_management.md), traders and financial institutions can utilize specialized algorithms designed to execute trades that mitigate [risk](../r/risk.md) exposure. 
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to [trade](../t/trade.md) assets at high speed based on pre-defined criteria. In the context of [interest rate](../i/interest_rate.md) [risk management](../r/risk_management.md), traders and financial institutions can utilize specialized algorithms designed to execute trades that mitigate [risk](../r/risk.md) exposure.
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Using statistical models to find price discrepancies in the [bond](../b/bond.md) or [interest rate](../i/interest_rate.md) markets to exploit short-term mispricings.
 2. **[Machine Learning](../m/machine_learning.md) Models**: Algorithms trained to predict [interest rate](../i/interest_rate.md) changes and [market](../m/market.md) movements to automate [trading strategies](../t/trading_strategies.md) that [hedge](../h/hedge.md) against adverse rate movements.
 3. **Algo-driven [Rebalancing](../r/rebalancing.md)**: Automated [rebalancing](../r/rebalancing.md) of portfolios based on real-time [interest rate](../i/interest_rate.md) changes to keep the portfolio aligned with [risk tolerance](../r/risk_tolerance.md) levels.
 
-To understand more about companies that specialize in this area, refer to firms like [Axioma](https://www.axioma.com), known for providing [risk management](../r/risk_management.md) and portfolio construction solutions.
+To understand more about companies that specialize in this area, refer to firms like Axioma, known for providing [risk management](../r/risk_management.md) and portfolio construction solutions.
 
 ### Regulatory Compliance
 

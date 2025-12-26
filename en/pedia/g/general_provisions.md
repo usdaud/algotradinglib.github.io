@@ -36,4 +36,3 @@
 
 ## Conclusion
 General provisions are essential components of legal documents, contracts, statutes, and regulations. They establish the foundational framework, [scope](../s/scope.md), and guidelines for interpreting and applying the specific terms of the document. By ensuring clarity, consistency, and a legal foundation, general provisions help prevent misunderstandings and disputes, supporting the effective implementation and enforcement of the document’s terms.
-

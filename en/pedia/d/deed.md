@@ -41,4 +41,3 @@ A **Deed** is a legal document that represents the ownership of property or lega
 
 ## Conclusion
 A deed is a crucial legal document for transferring property ownership. It involves specific legal requirements to be valid and provides a clear record of property ownership and rights. Understanding the different types of deeds and the process involved ensures that property transfers are conducted smoothly and legally.
-

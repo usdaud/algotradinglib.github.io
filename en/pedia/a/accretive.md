@@ -48,7 +48,7 @@ In [algorithmic trading](../a/accountability.md), accretive strategies are those
 
 [QuantConnect](../q/quantconnect.md) is a platform that leverages [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to [offer](../o/offer.md) accretive returns. It supports [quantitative research](../q/quantitative_research.md) and [backtesting](../b/backtesting.md) to ensure the profitability of [trading algorithms](../t/trading_algorithms.md).
 
-**Link**: [QuantConnect](https://www.quantconnect.com)
+**Link**: QuantConnect
 
 ## Impact on Shareholder Value
 

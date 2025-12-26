@@ -127,19 +127,19 @@ Several prominent banks are well-known for their wholesale banking services. Som
 
 ### JPMorgan Chase
 
-JPMorgan Chase offers a wide [range](../r/range.md) of wholesale banking services, including [investment banking](../i/investment_banking.md), commercial banking, and treasury services. More information can be found on their [official website](https://www.jpmorganchase.com/).
+JPMorgan Chase offers a wide [range](../r/range.md) of wholesale banking services, including [investment banking](../i/investment_banking.md), commercial banking, and treasury services.
 
 ### Goldman Sachs
 
-Goldman Sachs is renowned for its [investment banking](../i/investment_banking.md), trading, and [asset management](../a/asset_management.md) services. Their wholesale banking offerings cater to a broad array of institutional clients. Visit their [official website](https://www.goldmansachs.com/) for more details.
+Goldman Sachs is renowned for its [investment banking](../i/investment_banking.md), trading, and [asset management](../a/asset_management.md) services. Their wholesale banking offerings cater to a broad array of institutional clients.
 
 ### Citigroup
 
-Citigroup provides comprehensive wholesale banking services, including corporate and [investment banking](../i/investment_banking.md), [trade finance](../t/trade_finance.md), and treasury services. Learn more on their [official website](https://www.citigroup.com/).
+Citigroup provides comprehensive wholesale banking services, including corporate and [investment banking](../i/investment_banking.md), [trade finance](../t/trade_finance.md), and treasury services.
 
 ### Bank of America Merrill Lynch
 
-[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md) offers extensive wholesale banking services, including [capital](../c/capital.md) raising, M&A advisory, and global [transaction](../t/transaction.md) services. More information is available on their [official website](https://www.bofaml.com/).
+[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md) offers extensive wholesale banking services, including [capital](../c/capital.md) raising, M&A advisory, and global [transaction](../t/transaction.md) services.
 
 ## Conclusion
 

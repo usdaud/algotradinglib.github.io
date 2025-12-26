@@ -88,19 +88,19 @@ Several trading platforms and financial institutions have integrated NLP into th
 
 #### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal is a renowned financial data and [trading platform](../t/trading_platform.md) that uses NLP to provide real-time news analysis, sentiment scores, and key financial metrics. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal is a renowned financial data and [trading platform](../t/trading_platform.md) that uses NLP to provide real-time news analysis, sentiment scores, and key financial metrics. Bloomberg Terminal
 
 #### Kensho Technologies
 
-Kensho Technologies, a subsidiary of S&P Global, utilizes NLP to analyze economic data, news, and [market](../m/market.md) reports, providing clients with actionable insights for trading and investment. [Kensho Technologies](https://www.kensho.com/)
+Kensho Technologies, a subsidiary of S&P Global, utilizes NLP to analyze economic data, news, and [market](../m/market.md) reports, providing clients with actionable insights for trading and investment. Kensho Technologies
 
 #### AlphaSense
 
-AlphaSense is a [market](../m/market.md) intelligence platform that leverages NLP to analyze a wide [range](../r/range.md) of textual data, including [earnings call](../e/earnings_call.md) transcripts, SEC filings, and news articles, aiding traders in making data-driven decisions. [AlphaSense](https://www.alpha-sense.com/)
+AlphaSense is a [market](../m/market.md) intelligence platform that leverages NLP to analyze a wide [range](../r/range.md) of textual data, including [earnings call](../e/earnings_call.md) transcripts, SEC filings, and news articles, aiding traders in making data-driven decisions. AlphaSense
 
 #### RavenPack
 
-[RavenPack](../r/ravenpack.md) uses NLP to convert unstructured data into structured formats, helping financial professionals [gain](../g/gain.md) insights from news, [social media](../s/social_media.md), and other textual sources. Their analytics facilitate better [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [RavenPack](https://www.ravenpack.com/)
+[RavenPack](../r/ravenpack.md) uses NLP to convert unstructured data into structured formats, helping financial professionals [gain](../g/gain.md) insights from news, [social media](../s/social_media.md), and other textual sources. Their analytics facilitate better [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). RavenPack
 
 ### Conclusion
 

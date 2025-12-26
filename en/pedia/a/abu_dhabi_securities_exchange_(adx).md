@@ -142,6 +142,5 @@ As the [exchange](../e/exchange.md) expands, it generates employment opportuniti
 
 ADX provides avenues for [wealth](../w/wealth.md) creation and management, helping both individual and institutional investors grow their assets. Its [robust](../r/robust.md) regulatory framework ensures that investors can [trade](../t/trade.md) in a secure and transparent environment.
 
-For more information, you can visit the official Abu Dhabi Securities [Exchange](../e/exchange.md) [website](https://www.adx.ae).
 
 In summary, the Abu Dhabi Securities [Exchange](../e/exchange.md) (ADX) stands as a cornerstone of the UAE's financial landscape, [offering](../o/offering.md) a diversified [range](../r/range.md) of investment opportunities underpinned by [robust](../r/robust.md) technological and regulatory frameworks. Its strategic initiatives aimed at [market](../m/market.md) development, sustainability, and international collaboration further underscore its pivotal role in propelling the UAE [economy](../e/economy.md) forward.

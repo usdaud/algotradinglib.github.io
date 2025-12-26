@@ -7,7 +7,7 @@ Email [Money](../m/money.md) Transfer (EMT), also known as Interac e-Transfer in
 ### Initiating a Transfer
 
 1. **Selection of Recipient**: The sender must log into their [online banking](../o/online_banking.md) platform and select the option for email [money](../m/money.md) transfer. They then select the recipient either by manually entering their email address or mobile number or selecting from a pre-saved list of contacts.
-   
+
 2. **Entering Transfer Details**: The sender specifies the amount of [money](../m/money.md) to transfer and may include a brief message or memo regarding the purpose of the transfer.
 
 3. **Creating a [Security](../s/security.md) Question**: To ensure that the [transaction](../t/transaction.md) is secure, the sender typically creates a [security](../s/security.md) question that the recipient must answer correctly in [order](../o/order.md) to receive the funds. The sender should communicate the answer to this question securely to the recipient.
@@ -16,7 +16,7 @@ Email [Money](../m/money.md) Transfer (EMT), also known as Interac e-Transfer in
 
 ### Receiving a Transfer
 
-1. **Notification**: The recipient [will](../w/will.md) receive an email or SMS notification that informs them of the pending transfer. This notification [will](../w/will.md) contain a link to the financial institution's website where the recipient can claim the funds.
+1. **Notification**: The recipient [will](../w/will.md) receive an email or SMS notification that informs them of the pending transfer. This notification [will](../w/will.md) contain a link to the financial institution's online platform where the recipient can claim the funds.
 
 2. **Authenticating the Transfer**: To accept the transfer, the recipient must correctly answer the [security](../s/security.md) question that was set by the sender. Further authentication such as logging into their own banking platform may also be required.
 
@@ -70,19 +70,19 @@ The daily, weekly, and monthly transfer limits, put in place to prevent [fraud](
 
 Interac, a Canadian organization, is one of the primary providers of EMT services in Canada. The company’s Interac e-Transfer service is integrated into most major Canadian banks, [offering](../o/offering.md) a [robust](../r/robust.md) and widely trusted platform for executing EMTs.
 
-Website: [Interac](https://www.interac.ca/)
+online platform: Interac
 
 ### Zelle (USA)
 
 In the United States, Zelle is a prominent provider of similar email [money](../m/money.md) transfer services. Zelle offers a comparable platform for quick and secure [money](../m/money.md) transfers directly between [bank](../b/bank.md) accounts using email addresses or mobile numbers.
 
-Website: [Zelle](https://www.zellepay.com/)
+online platform: Zelle
 
 ### PayPal (Global)
 
 While not a traditional EMT provider, [PayPal](../p/paypal.md) offers a [range](../r/range.md) of email-based [payment](../p/payment.md) services. [PayPal](../p/paypal.md) enables users globally to send and receive [money](../m/money.md) using email addresses, with additional features like invoicing for businesses.
 
-Website: [PayPal](https://www.paypal.com/)
+online platform: PayPal
 
 ## Conclusion
 

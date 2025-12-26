@@ -1,10 +1,10 @@
 # Validation Code
 
-Validation is an essential process in [algorithmic trading](../a/accountability.md), aimed at ensuring that [trading strategies](../t/trading_strategies.md) perform well not only on historical data but also on unseen [market](../m/market.md) conditions. The validation phase helps in mitigating the risks of [overfitting](../o/overfitting.md) and underfitting, providing a more reliable indication of how the algorithm would behave in live trading. This document [will](../w/will.md) deeply explore various aspects and methodologies of validation code in [algorithmic trading](../a/accountability.md).
+Validation is an essential process in [algorithmic trading](../a/algorithmic_trading.md), aimed at ensuring that [trading strategies](../t/trading_strategies.md) perform well not only on historical data but also on unseen [market](../m/market.md) conditions. The validation phase helps in mitigating the risks of [overfitting](../o/overfitting.md) and underfitting, providing a more reliable indication of how the algorithm would behave in live trading. This document [will](../w/will.md) deeply explore various aspects and methodologies of validation code in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Importance of Validation in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of software programs to follow a defined set of instructions for placing trades to generate profits at speeds and frequencies that are impossible for a human [trader](../t/trader.md). The need for validation arises from the fact that strategies that perform exceptionally well on historical data might not necessarily replicate the same performance in the future due to [market dynamics](../m/market_dynamics.md).
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of software programs to follow a defined set of instructions for placing trades to generate profits at speeds and frequencies that are impossible for a human [trader](../t/trader.md). The need for validation arises from the fact that strategies that perform exceptionally well on historical data might not necessarily replicate the same performance in the future due to [market dynamics](../m/market_dynamics.md).
 
 ### Designing the Validation Process
 
@@ -25,7 +25,7 @@ Data splitting is crucial for ensuring that the model is not trained and tested 
 
 ### Backtesting
 
-[Backtesting](../b/backtesting.md) involves simulating the [trading strategy](../t/trading_strategy.md) on historical data to assess its potential efficacy. It is an essential validation step in [algorithmic trading](../a/accountability.md). 
+[Backtesting](../b/backtesting.md) involves simulating the [trading strategy](../t/trading_strategy.md) on historical data to assess its potential efficacy. It is an essential validation step in [algorithmic trading](../a/algorithmic_trading.md).
 
 #### Metrics for Backtesting
 
@@ -146,9 +146,9 @@ def out_of_sample_test(strategy, train_data, test_data):
 
 Numerous quant trading firms and fintech companies implement these validation methods to ensure [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
 
-- [Two Sigma](https://www.twosigma.com): A quantitative [hedge fund](../h/hedge_fund.md) and financial services [firm](../f/firm.md) utilizing sophisticated [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
-- [Bridgewater Associates](https://www.bridgewater.com): One of the largest [hedge](../h/hedge.md) funds, known for its data-driven and [algorithmic trading](../a/accountability.md) approaches.
+- Two Sigma: A quantitative [hedge fund](../h/hedge_fund.md) and financial services [firm](../f/firm.md) utilizing sophisticated [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+- Bridgewater Associates: One of the largest [hedge](../h/hedge.md) funds, known for its data-driven and [algorithmic trading](../a/algorithmic_trading.md) approaches.
 
 ## Conclusion
 
-Validation is a cornerstone of developing reliable [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Through rigorous testing and validation techniques, traders can better ensure that their algorithms [will](../w/will.md) perform well under different [market](../m/market.md) conditions, thus reducing risks and potentially enhancing returns. From data splitting and [backtesting](../b/backtesting.md) to walk-forward analysis and cross-validation, each method provides unique insights and fortifies the trading algorithm against [overfitting](../o/overfitting.md) and other common pitfalls. Implementing these validation techniques [will](../w/will.md) not only protect against potential losses but also lay the groundwork for more consistent and scalable profits in the dynamic world of [algorithmic trading](../a/accountability.md).
+Validation is a cornerstone of developing reliable [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Through rigorous testing and validation techniques, traders can better ensure that their algorithms [will](../w/will.md) perform well under different [market](../m/market.md) conditions, thus reducing risks and potentially enhancing returns. From data splitting and [backtesting](../b/backtesting.md) to walk-forward analysis and cross-validation, each method provides unique insights and fortifies the trading algorithm against [overfitting](../o/overfitting.md) and other common pitfalls. Implementing these validation techniques [will](../w/will.md) not only protect against potential losses but also lay the groundwork for more consistent and scalable profits in the dynamic world of [algorithmic trading](../a/algorithmic_trading.md).

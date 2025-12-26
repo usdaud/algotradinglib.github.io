@@ -14,7 +14,7 @@
 3. **[Market](../m/market.md) Stability**: AAA-rated bonds are considered safe investments, contributing to overall [market](../m/market.md) stability.
 
 ## Example Scenarios
-1. **Government Bonds**: [U.S. Treasury](../u/u.s._treasury.md) securities often receive an AAA [rating](../r/rating.md), indicating that the U.S. government is highly likely to meet its [debt](../d/debt.md) [obligations](../o/obligation.md).
+1. **Government Bonds**: Several sovereign nations maintain AAA ratings, including Germany, Switzerland, Singapore, and Australia. Note that U.S. Treasury securities were downgraded from AAA by S&P in 2011 (to AA+) and by Fitch in 2023 (to AA+), though Moody's still maintains the Aaa rating for U.S. debt.
 2. **Corporate Bonds**: A [corporation](../c/corporation.md) with a strong financial position and stable [earnings](../e/earnings.md) may receive an AAA [rating](../r/rating.md) on its bonds, making them attractive to conservative investors.
 3. **[Municipal Bonds](../m/municipal_bonds.md)**: A city or state government with a solid financial outlook might [issue](../i/issue.md) AAA-rated [municipal bonds](../m/municipal_bonds.md) to [fund](../f/fund.md) public projects, benefiting from lower [interest](../i/interest.md) rates.
 
@@ -36,4 +36,3 @@
 
 ## Conclusion
 The AAA [rating](../r/rating.md) represents the highest level of [creditworthiness](../c/creditworthiness.md) assigned to bonds and [debt](../d/debt.md) instruments by [rating](../r/rating.md) agencies. It signifies minimal [risk](../r/risk.md) of [default](../d/default.md) and reflects the [issuer](../i/issuer.md)'s strong capacity to meet financial commitments. Understanding the importance, key components, and challenges associated with AAA ratings can help investors make informed decisions and issuers maintain their high [credit](../c/credit.md) standing.
-

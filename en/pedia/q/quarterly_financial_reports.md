@@ -50,11 +50,9 @@ For companies operating globally, algorithms must also consider International Fi
 
 ### Kensho Technologies
 Kensho Technologies utilizes AI and [machine learning](../m/machine_learning.md) to analyze financial data and quarterly reports, providing insights and [trading signals](../t/trading_signals.md).
-[Learn more about Kensho](https://www.kensho.com)
 
 ### Thasos Group
 Thasos Group leverages [alternative data](../a/alternative_data.md), such as [geolocation](../g/geolocation.md) from mobile devices, in combination with traditional quarterly financial reports to craft superior [trading strategies](../t/trading_strategies.md).
-[Learn more about Thasos](https://thasos.com)
 
 ## Conclusion
 

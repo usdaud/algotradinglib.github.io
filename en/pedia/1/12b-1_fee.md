@@ -63,16 +63,18 @@ Understanding these distinctions is vital for investors to make informed decisio
 
 Several prominent [mutual fund](../m/mutual_fund.md) companies incorporate [12B-1 fees](../1/12b-1_fees.md) as part of their cost structure. Some of these companies include:
 
-- [Fidelity Investments](https://www.fidelity.com/)
-- [Vanguard Group](https://www.vanguard.com/)
-- [BlackRock](https://www.blackrock.com/)
-- [T. Rowe Price](https://www.troweprice.com/)
+- Fidelity Investments
+- BlackRock
+- T. Rowe Price
+- American Funds
+
+**Note:** Vanguard Group is notably known for NOT charging 12B-1 fees on its funds, as the company was founded on the principle of low-cost investing.
 
 These companies clearly outline their [fee](../f/fee.md) structures, including [12B-1 fees](../1/12b-1_fees.md), in their [fund](../f/fund.md) prospectuses and annual reports.
 
 ## Alternatives to 12B-1 Fees
 
-Given the criticism surrounding [12B-1 fees](../1/12b-1_fees.md), some mutual funds have started to forego these charges. Alternatives include no-[load](../l/load.md) funds and direct purchase funds. 
+Given the criticism surrounding [12B-1 fees](../1/12b-1_fees.md), some mutual funds have started to forego these charges. Alternatives include no-[load](../l/load.md) funds and direct purchase funds.
 
 ### No-Load Funds
 

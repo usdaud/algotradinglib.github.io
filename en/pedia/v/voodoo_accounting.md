@@ -34,19 +34,19 @@ SPEs can be used to move [debt](../d/debt.md) off the [balance sheet](../b/balan
 
 The notorious Enron scandal is perhaps the most well-known case of voodoo [accounting](../a/accounting.md). Enron made extensive use of SPEs to hide its [debt](../d/debt.md) and inflate profits. By moving poorly performing assets and associated liabilities off its [balance sheet](../b/balance_sheet.md), Enron was able to maintain the appearance of [financial health](../f/financial_health.md). The company also manipulated [energy trading](../e/energy_trading.md) operations to create phantom [profit](../p/profit.md).
 
-**Reference**: [Enron](https://www.enron.com)
+**Reference**: Enron
 
 ### WorldCom
 
 [WorldCom](../w/worldcom.md) engaged in several voodoo [accounting](../a/accounting.md) practices, including capitalizing line costs that should have been expensed. The company concealed its declining [financial performance](../f/financial_performance.md) by manipulating its [earnings](../e/earnings.md), ultimately leading to one of the largest bankruptcies in the U.S.
 
-**Reference**: [WorldCom Full Details](https://www.sec.gov/spotlight/worldcom/)
+**Reference**: WorldCom Full Details
 
 ### Lehman Brothers
 
 The [financial crisis](../f/financial_crisis.md) of 2008 brought to light [Lehman Brothers](../l/lehman_brothers.md)’ use of “Repo 105” transactions. These were short-term repurchase agreements that temporarily removed securities from Lehman’s [balance sheet](../b/balance_sheet.md), thereby understating the company's [leverage](../l/leverage.md) and presenting a healthier financial condition than was true.
 
-**Reference**: [Lehman Brothers](http://www.lehmanbrothersexp.com)
+**Reference**: Lehman Brothers
 
 ## Regulatory Responses
 
@@ -62,7 +62,7 @@ Signed into law in 2010, the Dodd-Frank Act brought about major changes to finan
 
 IFRS, issued by the International [Accounting](../a/accounting.md) Standards Board (IASB), provides a global framework for how public companies prepare and disclose their [financial statements](../f/financial_statements.md). The guidelines are intended to bring consistency to [accounting](../a/accounting.md) standards across different countries, which, in turn, can help reduce incidents of voodoo [accounting](../a/accounting.md).
 
-**Reference**: [IFRS](https://www.ifrs.org)
+**Reference**: IFRS
 
 ### Public Company Accounting Oversight Board (PCAOB)
 

@@ -81,9 +81,9 @@ Spreading investments across various assets or strategies can mitigate [risk](..
 
 Some popular trading platforms [offering](../o/offering.md) [robust](../r/robust.md) support for [algorithmic trading](../a/algorithmic_trading.md) include MetaTrader 4/5, [NinjaTrader](../n/ninjatrader.md), and [Interactive Brokers](../i/interactive_brokers.md).
 
-- [MetaTrader](https://www.metatrader4.com/)
-- [NinjaTrader](https://ninjatrader.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- MetaTrader
+- NinjaTrader
+- Interactive Brokers
 
 ### Programming Languages
 
@@ -93,17 +93,17 @@ Python, R, C++, and Java are commonly used programming languages in algo trading
 
 Accurate and real-time data is crucial for [algorithmic trading](../a/algorithmic_trading.md). Some notable data providers include [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md).
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Thomson Reuters](https://www.thomsonreuters.com/)
-- [Quandl](https://www.quandl.com/)
+- Bloomberg
+- Thomson Reuters
+- Quandl
 
 ### Development Environments
 
 Integrated Development Environments (IDEs) such as PyCharm, IntelliJ, and Visual Studio Code can enhance [productivity](../p/productivity.md) by providing essential tools and features for coding and debugging.
 
-- [PyCharm](https://www.jetbrains.com/pycharm/)
-- [IntelliJ](https://www.jetbrains.com/idea/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- PyCharm
+- IntelliJ
+- Visual Studio Code
 
 ## Case Studies
 

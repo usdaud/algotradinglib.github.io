@@ -58,4 +58,4 @@ Advancements in technology have led to the development of sophisticated tools to
 
 [Whipsaw](../w/whipsaw.md) patterns present significant challenges to [algorithmic trading](../a/algorithmic_trading.md), primarily due to the [false signals](../f/false_signals_in_trading.md) and increased [transaction costs](../t/transaction_costs.md) they generate. Understanding the causes and characteristics of whipsaws, as well as employing strategies to mitigate their impact, is essential for successful algo-trading. By leveraging advanced technology, [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, and continuous algorithm refinement, traders can navigate the complexities of [whipsaw](../w/whipsaw.md) patterns and improve their overall [trading performance](../t/trading_performance.md).
 
-For further information on [algorithmic trading](../a/algorithmic_trading.md) solutions and emerging technologies, you can visit [WorldQuant](https://www.worldquant.com/) or [Numerai](https://numer.ai/).
+For further information on [algorithmic trading](../a/algorithmic_trading.md) solutions and emerging technologies, you can visit WorldQuant or Numerai.

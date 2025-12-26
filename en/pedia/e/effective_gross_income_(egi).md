@@ -65,22 +65,22 @@ Mixed-use properties that combine residential, retail, and office spaces [will](
 Here's a step-by-step example of calculating Effective [Gross Income](../g/gross_income.md) for a fictional rental property:
 
 1. **Determine Gross Potential [Income](../i/income.md) (GPI)**:
-   - Suppose a residential apartment complex has 50 units.
-   - Each unit is rented at $1,000 per month.
-   - GPI = 50 units * $1,000/unit * 12 months = $600,000 annually.
+ - Suppose a residential apartment complex has 50 units.
+ - Each unit is rented at $1,000 per month.
+ - GPI = 50 units * $1,000/unit * 12 months = $600,000 annually.
 
 2. **Estimate Vacancy Losses**:
-   - Assume that the typical [vacancy rate](../v/vacancy_rate.md) for the area is 5%.
-   - Vacancy Losses = GPI * [Vacancy Rate](../v/vacancy_rate.md) = $600,000 * 0.05 = $30,000 annually.
+ - Assume that the typical [vacancy rate](../v/vacancy_rate.md) for the area is 5%.
+ - Vacancy Losses = GPI * [Vacancy Rate](../v/vacancy_rate.md) = $600,000 * 0.05 = $30,000 annually.
 
 3. **Calculate Collection Losses**:
-   - Assume that collection losses are estimated to be 2%.
-   - Collection Losses = GPI * Collection Loss Rate = $600,000 * 0.02 = $12,000 annually.
+ - Assume that collection losses are estimated to be 2%.
+ - Collection Losses = GPI * Collection Loss Rate = $600,000 * 0.02 = $12,000 annually.
 
 4. **Calculate Effective [Gross Income](../g/gross_income.md) (EGI)**:
-   - EGI = GPI - Vacancy Losses - Collection Losses
-   - EGI = $600,000 - $30,000 - $12,000
-   - EGI = $558,000 annually.
+ - EGI = GPI - Vacancy Losses - Collection Losses
+ - EGI = $600,000 - $30,000 - $12,000
+ - EGI = $558,000 annually.
 
 By following these steps, the property manager determines that the Effective [Gross Income](../g/gross_income.md) for the apartment complex is $558,000 annually.
 

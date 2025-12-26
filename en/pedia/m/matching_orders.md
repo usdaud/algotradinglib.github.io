@@ -33,7 +33,7 @@ Different exchanges utilize different [matching algorithms](../m/matching_algori
 
 ### Order Matching in Different Markets
 
-1. **Stock Markets**: For example, the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md) employ their own OMEs to [handle](../h/handle.md) millions of trades per day. 
+1. **Stock Markets**: For example, the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md) employ their own OMEs to [handle](../h/handle.md) millions of trades per day.
 2. **Cryptocurrency Markets**: Exchanges like [Binance](../b/binance.md) and [Coinbase](../c/coinbase.md) also use advanced OMEs to manage [order](../o/order.md) matching in highly volatile markets.
 3. **[Commodity](../c/commodity.md) Markets**: Platforms like the Chicago Mercantile [Exchange](../e/exchange.md) (CME) facilitate the trading of commodities such as oil and wheat with their matching engines.
 
@@ -41,7 +41,7 @@ Different exchanges utilize different [matching algorithms](../m/matching_algori
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading involves using algorithms to execute a large number of trades in fractions of a second. HFT firms rely on OMEs and often co-locate their servers close to the [exchange](../e/exchange.md)’s data center to reduce latency. These firms use various strategies, such as statistical [arbitrage](../a/arbitrage.md) and [market](../m/market.md) making, to benefit from small price discrepancies. 
+High-frequency trading involves using algorithms to execute a large number of trades in fractions of a second. HFT firms rely on OMEs and often co-locate their servers close to the [exchange](../e/exchange.md)’s data center to reduce latency. These firms use various strategies, such as statistical [arbitrage](../a/arbitrage.md) and [market](../m/market.md) making, to benefit from small price discrepancies.
 
 ### Dark Pools
 

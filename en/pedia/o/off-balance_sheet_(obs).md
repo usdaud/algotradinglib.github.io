@@ -47,12 +47,12 @@ Over the years, regulatory bodies have become more vigilant regarding off-[balan
 Despite its benefits, OBS [financing](../f/financing.md) poses several risks:
 
 1. **Lack of [Transparency](../t/transparency.md)**: OBS items can obscure a company's true [financial health](../f/financial_health.md). Investors and regulators may find it difficult to assess the company's [risk](../r/risk.md) profile accurately.
-   
+
 2. **Potential for Abuse**: The complexity of OBS transactions makes them easier to misuse, which can lead to financial scandals as seen in the Enron case.
-   
+
 3. **[Market](../m/market.md) Perception**: If it becomes public knowledge that a company has significant OBS liabilities, it can lead to a decline in [shareholder](../s/shareholder.md) [trust](../t/trust.md) and stock prices.
 
-4. **Increased Scrutiny**: As financial regulations tighten, companies may face increased scrutiny and legal challenges related to their OBS activities. 
+4. **Increased Scrutiny**: As financial regulations tighten, companies may face increased scrutiny and legal challenges related to their OBS activities.
 
 ## Conclusion
 
@@ -60,4 +60,4 @@ Off-[Balance Sheet](../b/balance_sheet.md) [financing](../f/financing.md) is a m
 
 Understanding the implications and details of OBS items enables better decision-making, investment assessments, and ensures adherence to regulatory requirements. Companies must balance the benefits of OBS [financing](../f/financing.md) with the heightened need for [transparency](../t/transparency.md) and accountability in their financial reporting.
 
-For more information on regulatory frameworks and practices regarding OBS items, you can visit relevant websites such as the [International Financial Reporting Standards (IFRS)](https://www.ifrs.org/) and the [Basel Committee on Banking Supervision (BCBS)](https://www.bis.org/bcbs/).
+For more information on regulatory frameworks and practices regarding OBS items, you can visit relevant websites such as the International Financial Reporting Standards (IFRS) and the Basel Committee on Banking Supervision (BCBS).

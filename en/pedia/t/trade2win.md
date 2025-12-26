@@ -53,5 +53,3 @@ Trade2Win employs standard online [security](../s/security.md) measures to ensur
 - **Moderation**: Active moderation to maintain the quality of discussions and prevent spam or abusive behavior.
 - **Secure Access**: Implementing secure login processes to prevent unauthorized access.
 
-## Website
-For more information and to join the community, visit the official Trade2Win website: [Trade2Win](https://www.trade2win.com/)

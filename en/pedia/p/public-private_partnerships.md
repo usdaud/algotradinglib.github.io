@@ -4,7 +4,7 @@ Public-Private Partnerships (PPPs) are collaborative agreements between governme
 
 ## Key Characteristics of Public-Private Partnerships
 1. **[Risk](../r/risk.md) Sharing:** One of the hallmark features of PPPs is the sharing of risks and rewards between public and private partners. The allocation of risks is crucial in determining the feasibility and sustainability of a PPP project. Typically, risks such as construction, operation, and [financing](../f/financing.md) are managed by the [private sector](../p/private_sector.md), while the government might retain risks related to regulatory changes or public acceptance.
-   
+
 2. **Long-term Contracts:** PPPs typically involve long-term agreements that can span several decades, depending on the complexity and nature of the project. Long-term contracts ensure ongoing maintenance and operation of the [infrastructure](../i/infrastructure.md) or service.
 
 3. **Performance-Based Payments:** Payments in PPP agreements are often based on the performance of the private partner in meeting predefined objectives or service levels. This creates incentives for private entities to maintain high standards and deliver quality services.
@@ -42,8 +42,8 @@ Despite their advantages, PPPs also present challenges and risks that need to be
 
 2. **Political Risks:** Changes in [government policies](../g/government_policies_in_trading.md), regulations, or political climates can impact PPP projects. Political instability may lead to renegotiations, delays, or even termination of agreements.
 
-3. **Financial Risks:** PPP projects may face financial risks, including cost overruns, unanticipated [revenue](../r/revenue.md) shortfalls, or changes in [market](../m/market.md) conditions affecting profitability. 
-   
+3. **Financial Risks:** PPP projects may face financial risks, including cost overruns, unanticipated [revenue](../r/revenue.md) shortfalls, or changes in [market](../m/market.md) conditions affecting profitability.
+
 4. **Public Opposition:** Public perception and acceptance are critical for the success of PPP projects. If the community opposes a project due to concerns over costs, quality, or [privatization](../p/privatization.md), it can lead to delays or cancellations.
 
 5. **Regulatory and Legal Challenges:** PPP projects must navigate complex regulatory environments and comply with various legal requirements, which can be challenging and create potential roadblocks.
@@ -54,7 +54,7 @@ Despite their advantages, PPPs also present challenges and risks that need to be
 The [transportation sector](../t/transportation_sector.md) is a primary [beneficiary](../b/beneficiary.md) of PPPs, with numerous successful projects worldwide. Examples include:
 
 1. **Highway Construction and Maintenance:** Governments partner with private companies to build and maintain highways. Private entities often collect tolls to recoup their investments. One notable example is the London Orbital Motorway (M25) in the UK.
-   
+
 2. **Public Transit Systems:** PPPs help develop and operate public transit systems such as buses, metros, and railways. The Hong Kong Mass Transit Railway (MTR) [Corporation](../c/corporation.md) is a leading example of a successful PPP in public transit.
 
 ### Healthcare Sector
@@ -118,6 +118,6 @@ Advancements in technology, including [artificial intelligence](../a/artificial_
 Public-Private Partnerships are integral to modern [infrastructure](../i/infrastructure.md) development and service delivery, [offering](../o/offering.md) numerous benefits such as improved [efficiency](../e/efficiency.md), access to [capital](../c/capital.md), and enhanced service quality. However, they also present challenges that require careful management and [robust](../r/robust.md) regulatory frameworks. As technology advances and sustainability becomes a priority, PPPs [will](../w/will.md) continue to evolve, providing innovative solutions to complex public needs.
 
 For further information on Public-Private Partnerships, visit the following websites:
-- [World Bank - Public-Private Partnerships](https://www.worldbank.org/en/topic/publicprivatepartnerships)
-- [PPP Knowledge Lab](https://pppknowledgelab.org/)
-- [International Finance Corporation (IFC) PPP](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/PPP)
+- World Bank - Public-Private Partnerships
+- PPP Knowledge Lab
+- International Finance Corporation (IFC) PPP

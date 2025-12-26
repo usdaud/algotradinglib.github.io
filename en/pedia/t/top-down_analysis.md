@@ -85,9 +85,9 @@ A trading [firm](../f/firm.md) might develop an algorithm that dynamically adjus
 
 ### Major Firms Utilizing Top-Down Analysis
 
-- **Bridgewater Associates**: Known for its macroeconomic-driven investment strategies. [Bridgewater Associates](https://www.bridgewater.com)
-- **Two Sigma**: Combines statistical analysis with top-down insights. [Two Sigma](https://www.twosigma.com)
-- **AQR [Capital](../c/capital.md) Management**: Utilizes economic theories in their [quantitative strategies](../q/quantitative_strategies_in_trading.md). [AQR Capital Management](https://www.aqr.com)
+- **Bridgewater Associates**: Known for its macroeconomic-driven investment strategies. Bridgewater Associates
+- **Two Sigma**: Combines statistical analysis with top-down insights. Two Sigma
+- **AQR [Capital](../c/capital.md) Management**: Utilizes economic theories in their [quantitative strategies](../q/quantitative_strategies_in_trading.md). AQR Capital Management
 
 ## 5. Benefits and Limitations
 

@@ -12,7 +12,7 @@ Creating and maintaining a [budget](../b/budget.md) is a foundational aspect of 
 
 ### Emergency Savings
 
-Having an [emergency fund](../e/emergency_fund.md) is essential for financial [security](../s/security.md). This [fund](../f/fund.md) should ideally cover 3-6 months of living expenses. It serves as a financial cushion in case of unexpected events such as job loss, medical emergencies, or sudden repairs. 
+Having an [emergency fund](../e/emergency_fund.md) is essential for financial [security](../s/security.md). This [fund](../f/fund.md) should ideally cover 3-6 months of living expenses. It serves as a financial cushion in case of unexpected events such as job loss, medical emergencies, or sudden repairs.
 
 ### Debt Management
 
@@ -127,6 +127,6 @@ Numerous tools and resources can assist in managing financial health:
 
 ## Conclusion
 
-Financial health is a comprehensive measurement of one's overall financial state, encompassing present and future financial [security](../s/security.md). By focusing on budgeting, saving, [investing](../i/investing.md), and planning for contingencies, individuals can work towards achieving and maintaining a solid financial foundation. Regular monitoring and adapting to changes in personal circumstances or [economic conditions](../e/economic_conditions.md) are essential for sustained financial well-being. 
+Financial health is a comprehensive measurement of one's overall financial state, encompassing present and future financial [security](../s/security.md). By focusing on budgeting, saving, [investing](../i/investing.md), and planning for contingencies, individuals can work towards achieving and maintaining a solid financial foundation. Regular monitoring and adapting to changes in personal circumstances or [economic conditions](../e/economic_conditions.md) are essential for sustained financial well-being.
 
 By leveraging available tools and resources, and perhaps consulting with professionals, individuals can create and maintain a healthy financial profile that supports their life goals and provides peace of mind.

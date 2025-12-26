@@ -75,25 +75,25 @@ The role demands a unique combination of [technical skills](../t/technical_skill
 
 Vanguard is one of the largest and most respected [investment management](../i/investment_management.md) companies globally, known for its pioneering approach to low-cost [index](../i/index_instrument.md) funds and ETFs.
 
-- [Vanguard Website](https://investor.vanguard.com/)
+-
 
 ### BlackRock
 
 BlackRock is a global leader in [investment management](../i/investment_management.md), [risk management](../r/risk_management.md), and advisory services for institutional and retail clients. Its widely recognized [iShares](../i/ishares.md) ETF line is one of the largest in the world.
 
-- [BlackRock Website](https://www.blackrock.com/)
+-
 
 ### Fidelity Investments
 
 [Fidelity Investments](../f/fidelity_investments.md) provides a wide array of financial services, including [fund](../f/fund.md) management, brokerage, and retirement services. They are known for their active and passive investment products.
 
-- [Fidelity Investments Website](https://www.fidelity.com/)
+-
 
 ### State Street Global Advisors
 
 State Street Global Advisors, the [asset management](../a/asset_management.md) division of State Street [Corporation](../c/corporation.md), is known for its SPDR (Standard & Poor’s Depositary [Receipts](../r/receipt.md)) ETFs series.
 
-- [State Street Global Advisors Website](https://www.ssga.com/)
+-
 
 ## Investment Strategies Employed by Managers
 
@@ -113,7 +113,7 @@ Using patterns, charts, and [technical indicators](../t/technical_indicator.md),
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses pre-programmed rules to execute trades swiftly. Algorithms can be highly effective for optimizing [trade](../t/trade.md) [execution](../e/execution.md) and reducing [transaction costs](../t/transaction_costs.md).
+[Algorithmic trading](../a/algorithmic_trading.md) uses pre-programmed rules to execute trades swiftly. Algorithms can be highly effective for optimizing [trade](../t/trade.md) [execution](../e/execution.md) and reducing [transaction costs](../t/transaction_costs.md).
 
 ### Robo-Advisors
 

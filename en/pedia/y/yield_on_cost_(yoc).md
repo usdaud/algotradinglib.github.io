@@ -91,7 +91,7 @@ Procter & Gamble has a strong track record of not only paying but raising divide
 For investors looking to track their [Yield](../y/yield.md) on Cost efficiently, several platforms and tools can be helpful:
 
 - **[Yahoo Finance](../y/yahoo_finance.md)**: Provides detailed historical data and [dividend](../d/dividend.md) tracking which can assist in calculating YOC.
-- [Seeking Alpha](https://seekingalpha.com/): Offers [dividend](../d/dividend.md) data and portfolio tracking features tailored for [dividend](../d/dividend.md) growth investors.
+- Seeking Alpha: Offers [dividend](../d/dividend.md) data and portfolio tracking features tailored for [dividend](../d/dividend.md) growth investors.
 - **[Personal Finance](../p/personal_finance_in_trading.md) Software**: Tools like Quicken or platforms like Fidelity and Vanguard [offer](../o/offer.md) [portfolio management](../p/par.md) features that can include YOC tracking.
 
 ## Conclusion

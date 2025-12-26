@@ -69,4 +69,4 @@ Ben Bernanke's contributions to [economics](../e/economics.md), particularly dur
 
 ### External Links
 
-For more information on Ben Bernanke's current endeavors, visit the [Brookings Institution](https://www.brookings.edu/).
+For more information on Ben Bernanke's current endeavors, visit the Brookings Institution.

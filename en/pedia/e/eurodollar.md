@@ -11,14 +11,14 @@ The term "Eurodollar" dates back to the 1950s and 1960s when large amounts of U.
 ### Definitions and Characteristics
 
 1. **Deposits**: Eurodollar deposits are simply dollar-denominated deposits at banks outside the United States. These deposits [offer](../o/offer.md) the same [value](../v/value.md) as U.S. dollars within the United States.
-2. **[Interest](../i/interest.md) Rates**: Eurodollar [interest](../i/interest.md) rates are determined by the London Interbank Offered Rate (LIBOR), which is the [benchmark](../b/benchmark.md) rate that some of the world's leading banks charge each other for short-term loans.
+2. **[Interest](../i/interest.md) Rates**: Eurodollar [interest](../i/interest.md) rates are now primarily determined by SOFR (Secured Overnight Financing Rate), which replaced LIBOR (London Interbank Offered Rate) in June 2023. SOFR is the [benchmark](../b/benchmark.md) rate that reflects the cost of borrowing cash overnight collateralized by Treasury securities.
 3. **[Capital](../c/capital.md) and Regulation**: Eurodollar markets operate outside the regulatory [scope](../s/scope.md) of the U.S. Federal Reserve System, giving them a unique status in the global financial landscape.
 
 ## Eurodollar Deposits and Loans
 
 ### Deposits
 
-Eurodollar deposits are typically large, often millions of dollars, and are used primarily by corporations, financial institutions, and governments to manage their dollar reserves outside the United States. 
+Eurodollar deposits are typically large, often millions of dollars, and are used primarily by corporations, financial institutions, and governments to manage their dollar reserves outside the United States.
 
 #### Characteristics of Eurodollar Deposits:
 
@@ -33,7 +33,7 @@ Eurodollar loans are loans made in U.S. dollars by banks outside the United Stat
 #### Characteristics of Eurodollar Loans:
 
 1. **Flexibility**: Eurodollar loans [offer](../o/offer.md) greater flexibility in terms of [maturity](../m/maturity.md) and [repayment](../r/repayment.md) schedules than domestic loans.
-2. **[Interest](../i/interest.md) Rates**: The [interest](../i/interest.md) rates on these loans are generally tied to LIBOR, making them competitive and attractive for large-scale borrowers.
+2. **[Interest](../i/interest.md) Rates**: The [interest](../i/interest.md) rates on these loans are generally tied to SOFR (which replaced LIBOR in June 2023), making them competitive and attractive for large-scale borrowers.
 
 ## Eurodollar Futures and Options
 
@@ -95,6 +95,6 @@ Numerous banks and financial institutions participate in the Eurodollar [market]
 Eurodollars play a pivotal role in global [finance](../f/finance.md), providing [liquidity](../l/liquidity.md), investment opportunities, and tools for managing financial risks. Their unique characteristics and key role in the international monetary system make them a vital element for financial institutions, corporations, and governments worldwide. Understanding the intricacies of Eurodollars, from their origin to their current applications, is essential for anyone involved in international [finance](../f/finance.md) or investment.
 
 For further information, visit:
-- [HSBC](https://www.hsbc.com/)
-- [Deutsche Bank](https://www.db.com/)
-- [Barclays](https://home.barclays/)
+- HSBC
+- Deutsche Bank
+- Barclays

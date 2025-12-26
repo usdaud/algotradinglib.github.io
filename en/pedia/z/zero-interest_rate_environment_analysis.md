@@ -72,15 +72,15 @@ The ECB adopted ZIRP coupled with QE and other emergency measures to address wea
 
 ### 6.1 BlackRock
 
-BlackRock, Inc. [Link](https://www.blackrock.com) adjusted its strategies by focusing on riskier [asset](../a/asset.md) classes favored in a ZIRE. Their extensive ETF offerings [capitalize](../c/capitalize.md) on the low-[yield](../y/yield.md) environment, attracting substantial investments.
+BlackRock, Inc. Link adjusted its strategies by focusing on riskier [asset](../a/asset.md) classes favored in a ZIRE. Their extensive ETF offerings [capitalize](../c/capitalize.md) on the low-[yield](../y/yield.md) environment, attracting substantial investments.
 
 ### 6.2 Zillow
 
-[Interest](../i/interest.md) rates near zero foster a booming [real estate](../r/real_estate.md) [market](../m/market.md). Companies like Zillow [Link](https://www.zillow.com), [offering](../o/offering.md) online [real estate](../r/real_estate.md) databases, saw increased traffic and [interest](../i/interest.md) from homebuyers and investors seeking properties.
+[Interest](../i/interest.md) rates near zero foster a booming [real estate](../r/real_estate.md) [market](../m/market.md). Companies like Zillow Link, [offering](../o/offering.md) online [real estate](../r/real_estate.md) databases, saw increased traffic and [interest](../i/interest.md) from homebuyers and investors seeking properties.
 
 ### 6.3 Tesla
 
-Low borrowing costs aid [capital](../c/capital.md)-intensive industries. Tesla [Link](https://www.tesla.com), through significant investments in innovation and [expansion](../e/expansion.md), benefits from cheaper access to [debt](../d/debt.md), aiding its rapid growth and R&D initiatives.
+Low borrowing costs aid [capital](../c/capital.md)-intensive industries. Tesla Link, through significant investments in innovation and [expansion](../e/expansion.md), benefits from cheaper access to [debt](../d/debt.md), aiding its rapid growth and R&D initiatives.
 
 ## 7. Conclusion
 

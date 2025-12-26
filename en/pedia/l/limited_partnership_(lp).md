@@ -68,7 +68,7 @@ Limited Partnerships [offer](../o/offer.md) a unique blend of benefits and chall
 
 ### Example Companies and Further Reading
 
-- **The Blackstone Group**: A [private equity](../p/private_equity.md) [firm](../f/firm.md) that uses the LP structure to manage investments. [Website](https://www.blackstone.com)
-- **Kohlberg Kravis Roberts (KKR)**: Another example of a [private equity](../p/private_equity.md) [firm](../f/firm.md) operating through LPs. [Website](https://www.kkr.com)
+- **The Blackstone Group**: A [private equity](../p/private_equity.md) [firm](../f/firm.md)
+- **Kohlberg Kravis Roberts (KKR)**: Another example of a [private equity](../p/private_equity.md) [firm](../f/firm.md)
 
 By familiarizing oneself with these examples and the nuances of Limited Partnerships, potential partners can make informed decisions about whether this [business](../b/business.md) structure aligns with their goals and [risk tolerance](../r/risk_tolerance.md).

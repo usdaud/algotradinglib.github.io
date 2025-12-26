@@ -132,6 +132,6 @@ Without Evidence of Insurability is a facilitative [provision](../p/provision.md
 
 For more information on company-specific WEoI policies and guidelines, you can explore resources provided by leading insurers:
 
-- [MetLife](https://www.metlife.com)
-- [Prudential](https://www.prudential.com)
-- [Cigna](https://www.cigna.com)
+- MetLife
+- Prudential
+- Cigna

@@ -4,7 +4,7 @@ The Price-to-[Earnings](../e/earnings.md) (P/E) ratio is one of the most commonl
 
 ## Introduction to P/E 10 Ratio
 
-The P/E 10 ratio was popularized by Yale [economist](../e/economist.md) Robert Shiller, who argued that short-term [earnings](../e/earnings.md) can be highly volatile due to [business](../b/business.md) cycles and other factors. By using a 10-year average of [earnings](../e/earnings.md), the P/E 10 ratio adjusts for these fluctuations and provides a more consistent measure of whether a stock or the [stock market](../s/stock_market.md) in general is [overvalued](../o/overvalued.md) or [undervalued](../u/undervalued.md). 
+The P/E 10 ratio was popularized by Yale [economist](../e/economist.md) Robert Shiller, who argued that short-term [earnings](../e/earnings.md) can be highly volatile due to [business](../b/business.md) cycles and other factors. By using a 10-year average of [earnings](../e/earnings.md), the P/E 10 ratio adjusts for these fluctuations and provides a more consistent measure of whether a stock or the [stock market](../s/stock_market.md) in general is [overvalued](../o/overvalued.md) or [undervalued](../u/undervalued.md).
 
 ### Formula for P/E 10 Ratio
 
@@ -46,7 +46,7 @@ Despite its advantages, the P/E 10 ratio is not without its limitations:
 
 ## Applications in Algo-Trading
 
-The P/E 10 ratio can be particularly useful in [algorithmic trading](../a/accountability.md) (algo-trading) strategies that rely on [fundamental analysis](../f/fundamental_analysis.md). Here are some ways that algo-traders might incorporate the P/E 10 ratio:
+The P/E 10 ratio can be particularly useful in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading) strategies that rely on [fundamental analysis](../f/fundamental_analysis.md). Here are some ways that algo-traders might incorporate the P/E 10 ratio:
 
 ### Value Investing Strategies
 
@@ -81,11 +81,11 @@ The P/E 10 ratio can be integrated into [risk management frameworks](../r/risk_m
 
 ### Research Affiliates
 
-Research Affiliates, founded by Rob Arnott, is well-known for its research in fundamental [indexing](../i/indexing.md) and has used metrics like the P/E 10 ratio to construct portfolios. More information can be found on their homepage: [Research Affiliates](https://www.researchaffiliates.com/).
+Research Affiliates, founded by Rob Arnott, is well-known for its research in fundamental [indexing](../i/indexing.md) and has used metrics like the P/E 10 ratio to construct portfolios. More information can be found on their homepage: Research Affiliates.
 
 ### Grantham, Mayo, & van Otterloo (GMO)
 
-GMO, co-founded by Jeremy Grantham, utilizes [mean reversion](../m/mean_reversion.md) strategies incorporating the P/E 10 ratio to forecast long-term [market](../m/market.md) returns. For more details, visit: [GMO](https://www.gmo.com/).
+GMO, co-founded by Jeremy Grantham, utilizes [mean reversion](../m/mean_reversion.md) strategies incorporating the P/E 10 ratio to forecast long-term [market](../m/market.md) returns. For more details, visit: GMO.
 
 ## Conclusion
 

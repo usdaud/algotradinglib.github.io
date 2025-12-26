@@ -53,7 +53,7 @@ McDonald's is often cited as a textbook example of glocalization. The fast-food 
 - **India:** McDonald's offers a [range](../r/range.md) of vegetarian [options](../o/options.md), including the McAloo Tikki and Paneer Wrap, to cater to the large vegetarian population.
 - **Japan:** Unique items like the Ebi Filet-O (shrimp burger) and seasonal specialties such as the Teriyaki Burger reflect local tastes.
 
-More information can be found on their [official website](https://www.mcdonalds.com/).
+
 
 ### Netflix
 
@@ -62,7 +62,6 @@ Netflix is another example of a company that has embraced glocalization. The str
 - **India:** Original series like "Sacred Games" and "Delhi Crime" are specifically created for the Indian audience.
 - **South Korea:** Netflix has produced popular Korean dramas such as "Kingdom" and "Crash Landing on You".
 
-Visit their [official page](https://www.netflix.com/) for more details.
 
 ### Coca-Cola
 
@@ -71,7 +70,7 @@ Coca-Cola has successfully implemented glocalization by adapting its product off
 - **Japan:** Coca-Cola has introduced various unique flavors such as Green Tea Coke and Peach Coke to cater to local tastes.
 - **Middle East:** The company’s advertising campaigns often feature local celebrities and cultural themes to connect with the audience.
 
-For more information, [check](../c/check.md) their [website](https://www.coca-cola.com/).
+For more information, [check](../c/check.md)
 
 ## Challenges and Criticisms
 

@@ -82,11 +82,11 @@ Understanding [capital](../c/capital.md) gains tax implications can help in bett
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a renowned [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [systematic trading](../s/systematic_trading.md) using [quantitative models](../q/quantitative_models.md), employs advanced strategies to manage tax implications. Through various funds, including the flagship Medallion [Fund](../f/fund.md), they have achieved remarkable returns while navigating the complex tax landscape. More about Renaissance Technologies can be found [here](https://www.rentec.com/).
+Renaissance Technologies, a renowned [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [systematic trading](../s/systematic_trading.md) using [quantitative models](../q/quantitative_models.md), employs advanced strategies to manage tax implications. Through various funds, including the flagship Medallion [Fund](../f/fund.md), they have achieved remarkable returns while navigating the complex tax landscape. More about Renaissance Technologies can be found here.
 
 ### Bridgewater Associates
 
-Bridgewater Associates, another heavyweight in the world of [investment management](../i/investment_management.md), uses [algorithmic trading](../a/accountability.md) to manage large-scale assets. Their approach includes understanding the tax implications of global trading activities and incorporating tax [optimization](../o/optimization.md) into their strategies. Learn more about Bridgewater Associates [here](https://www.bridgewater.com/).
+Bridgewater Associates, another heavyweight in the world of [investment management](../i/investment_management.md), uses [algorithmic trading](../a/accountability.md) to manage large-scale assets. Their approach includes understanding the tax implications of global trading activities and incorporating tax [optimization](../o/optimization.md) into their strategies. Learn more about Bridgewater Associates here.
 
 ## Conclusion
 

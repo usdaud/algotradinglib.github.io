@@ -4,7 +4,7 @@
 
 ## 1. QuantiConnect
 
-**QuantiConnect** is an [open](../o/open.md)-source platform designed for quant traders and financial engineers. It is built to support the entire trading lifecycle, from strategy creation and [backtesting](../b/backtesting.md) to live trading and performance analysis. 
+**QuantiConnect** is an [open](../o/open.md)-source platform designed for quant traders and financial engineers. It is built to support the entire trading lifecycle, from strategy creation and [backtesting](../b/backtesting.md) to live trading and performance analysis.
 
 ### Key Features
 - **[Backtesting](../b/backtesting.md) Environment**: Provides [robust](../r/robust.md) [simulation](../s/simulation_in_trading.md) capabilities to evaluate [trading strategies](../t/trading_strategies.md) against historical data.
@@ -12,7 +12,6 @@
 - **Comprehensive Data Access**: Supports equities, [futures](../f/futures.md), Forex, and cryptocurrencies data.
 - **Community Collaborations**: Active community of developers and users contributing to the ecosystem.
 
-[QuantiConnect GitHub Repository](https://github.com/QuantConnect/Lean)
 
 ## 2. QuantLib
 
@@ -24,7 +23,6 @@
 - **[Market](../m/market.md) Model Calibration**: Advanced models for [market](../m/market.md) and [counterparty risk](../c/counterparty_risk.md).
 - **[Valuation](../v/valuation.md) and Pricing Models**: Useful for [derivative](../d/derivative.md) pricing and [risk management](../r/risk_management.md).
 
-[QuantLib Official Site](https://www.quantlib.org)
 
 ## 3. Zipline
 
@@ -36,7 +34,6 @@
 - **Custom Trading Calendars**: Allows definition of custom trading sessions.
 - **Performance Analysis**: Built-in metrics for evaluating the performance of [trading strategies](../t/trading_strategies.md).
 
-[Zipline GitHub Repository](https://github.com/quantopian/zipline)
 
 ## 4. PyAlgoTrade
 
@@ -48,7 +45,6 @@
 - **[Broker](../b/broker.md) Integration**: Offers integrations with real-world brokers for live trading.
 - **Easy Extension**: Allows for easy implementation of custom strategies and modules.
 
-[PyAlgoTrade GitHub Repository](https://github.com/gbeced/pyalgotrade)
 
 ## 5. Backtrader
 
@@ -60,7 +56,6 @@
 - **Support for [Multiple](../m/multiple.md) Data Feeds**: Handles numerous types of data feeds including live and historical data.
 - **[Order](../o/order.md) [Execution](../e/execution.md) Customization**: Customizable [order](../o/order.md) [execution](../e/execution.md) and [order types](../o/order_types_in_trading.md).
 
-[Backtrader GitHub Repository](https://github.com/mementum/backtrader)
 
 ## 6. Gekko
 
@@ -72,7 +67,6 @@
 - **Automated Trading**: Capabilities for fully automated [trading strategies](../t/trading_strategies.md).
 - **Plugin System**: Extensible through a plugin system for additional functionalities.
 
-[Gekko GitHub Repository](https://github.com/askmike/gekko)
 
 ## 7. AlgoTrader
 
@@ -84,7 +78,6 @@
 - **[Risk Management](../r/risk_management.md)**: Advanced [risk management](../r/risk_management.md) tools.
 - **Integration with [Market](../m/market.md) Data Providers**: Seamless integration with various data providers.
 
-[AlgoTrader Official Site](https://www.algotrader.com)
 
 ## 8. kdb+/q
 
@@ -96,7 +89,6 @@
 - **In-Memory Processing**: Capable of in-memory data analysis for real-time applications.
 - **Integration with Existing Systems**: Easily integrates into existing [trading systems](../t/trading_systems.md).
 
-[kdb+/q Official Site](https://kx.com)
 
 ## Conclusion
 

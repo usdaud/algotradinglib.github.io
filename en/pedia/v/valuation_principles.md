@@ -20,7 +20,7 @@
 
 #### Quantitative Analysis
 
-[Quantitative analysis](../q/quantitative_analysis.md) utilizes mathematical and statistical models to evaluate securities. It forms the backbone of [algorithmic trading](../a/algorithmic_trading.md) where models are built to exploit inefficiencies in the [market](../m/market.md). Algorithms leveraging quantitative techniques constantly run simulations using vast historical data sets to forecast future price movements or price anomalies. 
+[Quantitative analysis](../q/quantitative_analysis.md) utilizes mathematical and statistical models to evaluate securities. It forms the backbone of [algorithmic trading](../a/algorithmic_trading.md) where models are built to exploit inefficiencies in the [market](../m/market.md). Algorithms leveraging quantitative techniques constantly run simulations using vast historical data sets to forecast future price movements or price anomalies.
 
 - **[Factor Models](../f/factor_models.md)**: These models aim to explain returns based on various factors like [momentum](../m/momentum.md), [value](../v/value.md), size, etc. Factors are statistically derived and quantified to shape trading decisions.
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Involves simultaneous buying and selling related securities when there are discrepancies in prices, expecting them to revert to the mean.
@@ -61,9 +61,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), it's critical to adapt [v
 #### Companies and Tools
 Various companies [offer](../o/offer.md) platforms and tools that help in the [valuation](../v/valuation.md) and [execution](../e/execution.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com)
-- **[Alpaca](../a/alpaca.md) Markets**: [alpaca.markets](https://alpaca.markets)
-- **Numerai**: [numer.ai](https://numer.ai)
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers real-time [data analytics](../d/data_analytics.md), which can be essential for [valuation](../v/valuation.md) in [algorithmic trading](../a/algorithmic_trading.md). [bloomberg.com/professional/solution/bloomberg-terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[QuantConnect](../q/quantconnect.md)**: quantconnect.com
+- **[Alpaca](../a/alpaca.md) Markets**: alpaca.markets
+- **Numerai**: numer.ai
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers real-time [data analytics](../d/data_analytics.md), which can be essential for [valuation](../v/valuation.md) in [algorithmic trading](../a/algorithmic_trading.md). bloomberg.com/professional/solution/bloomberg-terminal
 
 In conclusion, [valuation](../v/valuation.md) principles in [algorithmic trading](../a/algorithmic_trading.md) are multifaceted, intertwining fundamental, technical, and quantitative analyses along with real-time data processing to derive fair [valuation](../v/valuation.md) metrics and making informed trading decisions. By leveraging these principles effectively, traders aim to identify [lucrative](../l/lucrative.md) opportunities and maintain a competitive edge in fast-moving markets.

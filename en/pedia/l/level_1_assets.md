@@ -21,7 +21,7 @@ Publicly traded equities are perhaps the most common example of Level 1 Assets. 
 
 ### Government Bonds
 
-Securities issued by the government, particularly those from developed nations like [U.S. Treasury](../u/u.s._treasury.md) bonds, are also classified as Level 1 Assets. The high [liquidity](../l/liquidity.md) and standardized nature of these instruments support their active trading in public markets. Websites such as the U.S. Department of the Treasury (https://www.treasury.gov) regularly publish updated information and prices for these securities.
+Securities issued by the government, particularly those from developed nations like [U.S. Treasury](../u/u.s._treasury.md) bonds, are also classified as Level 1 Assets. The high [liquidity](../l/liquidity.md) and standardized nature of these instruments support their active trading in public markets. Websites such as the U.S. Department of the Treasury ( regularly publish updated information and prices for these securities.
 
 ### Mutual Funds and ETFs
 
@@ -63,7 +63,7 @@ The SEC in the U.S. underscores the importance of [fair value](../f/fair_value.m
 
 ## Application in Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), Level 1 Assets [offer](../o/offer.md) a reliable source of real-time pricing data, which is crucial for executing [trading strategies](../t/trading_strategies.md) that depend on accurate and current [market](../m/market.md) information. Algorithms can [leverage](../l/leverage.md) Level 1 data for [multiple](../m/multiple.md) purposes:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), Level 1 Assets [offer](../o/offer.md) a reliable source of real-time pricing data, which is crucial for executing [trading strategies](../t/trading_strategies.md) that depend on accurate and current [market](../m/market.md) information. Algorithms can [leverage](../l/leverage.md) Level 1 data for [multiple](../m/multiple.md) purposes:
 
 1. **[Market](../m/market.md) Making:** The continuous availability of price quotes enables [market](../m/market.md) makers to provide [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md) efficiently.
 2. **[Arbitrage](../a/arbitrage.md) Trading:** Accurate real-time prices allow for identifying and exploiting price discrepancies across different markets.
@@ -82,6 +82,4 @@ Despite the high reliability of Level 1 Assets, there are certain challenges and
 
 Level 1 Assets fundamentally support the [transparency](../t/transparency.md), reliability, and comparability of financial reporting. They provide the most accurate [valuation](../v/valuation.md) by leveraging quoted prices in active markets, thus reducing subjectivity and enhancing [investor](../i/investor.md) confidence. Understanding Level 1 Assets, the [fair value](../f/fair_value.md) hierarchy, and the regulatory standards governing these valuations helps all stakeholders—including auditors, investors, and regulators—make informed decisions.
 
-In the fast-paced world of [algorithmic trading](../a/accountability.md), the characteristics of Level 1 Assets ensure that traders can access real-time, reliable price information essential for implementing effective [trading strategies](../t/trading_strategies.md). Despite facing certain challenges, Level 1 Assets remain a bedrock of accurate and trustworthy financial [valuation](../v/valuation.md).
-
-For further information or updates on regulatory guidelines, you can visit the FASB's official site (https://www.fasb.org) or the official page of the International Financial Reporting Standards (https://www.ifrs.org).
+In the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), the characteristics of Level 1 Assets ensure that traders can access real-time, reliable price information essential for implementing effective [trading strategies](../t/trading_strategies.md). Despite facing certain challenges, Level 1 Assets remain a bedrock of accurate and trustworthy financial [valuation](../v/valuation.md).

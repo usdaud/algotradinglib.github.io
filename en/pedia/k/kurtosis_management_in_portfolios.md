@@ -9,9 +9,9 @@ In the world of [finance](../f/finance.md) and investments, [portfolio managemen
 ### Types of Kurtosis
 
 1. **Mesokurtic**: This describes distributions that have [kurtosis](../k/kurtosis.md) similar to the [normal distribution](../n/normal_distribution_in_trading.md). The [benchmark](../b/benchmark.md) [value](../v/value.md) for a [normal distribution](../n/normal_distribution_in_trading.md) is a [kurtosis](../k/kurtosis.md) of 3. When referred to in excess form (subtracting 3 from the [kurtosis](../k/kurtosis.md) [value](../v/value.md)), a mesokurtic [distribution](../d/distribution.md) has a [kurtosis](../k/kurtosis.md) of 0.
-  
+
 2. **Leptokurtic**: These distributions are characterized by higher peakedness and fat tails. They have a [kurtosis](../k/kurtosis.md) greater than 3 (or >0 in excess [kurtosis](../k/kurtosis.md)), indicating a higher likelihood of extreme outcomes.
-  
+
 3. **[Platykurtic](../p/platykurtic.md)**: These distributions are less peaked and have thinner tails. With a [kurtosis](../k/kurtosis.md) less than 3 (or <0 in excess [kurtosis](../k/kurtosis.md)), they suggest fewer extreme events compared to a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ## Importance of Kurtosis in Portfolios
@@ -19,7 +19,7 @@ In the world of [finance](../f/finance.md) and investments, [portfolio managemen
 Managing [kurtosis](../k/kurtosis.md) is crucial for [portfolio risk management](../p/portfolio_risk_management.md) due to the following reasons:
 - **[Tail Risk](../t/tail_risk.md)**: High [kurtosis](../k/kurtosis.md) implies heightened [tail risk](../t/tail_risk.md), meaning the potential for extreme losses (or gains) is higher. Traditional [risk measures](../r/risk_measures.md) like [standard deviation](../s/standard_deviation.md) may not fully account for this aspect.
 - **[Investor](../i/investor.md) Preferences**: Investors may have preferences that are sensitive to higher moments of [distribution](../d/distribution.md). For instance, some may prefer portfolios with lower [kurtosis](../k/kurtosis.md) due to the reduced [risk](../r/risk.md) of extreme negative returns.
-  
+
 ## Strategies for Kurtosis Management
 
 ### Diversification
@@ -54,9 +54,9 @@ Expanding the [optimization](../o/optimization.md) framework to include higher m
 
 Several [software tools](../s/software_tools_for_trading.md) and platforms can help in managing and analyzing [kurtosis](../k/kurtosis.md) within portfolios. For instance:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive analytics and data to assess the [kurtosis](../k/kurtosis.md) of individual assets and portfolios ([link](https://www.bloomberg.com/professional/product/analytics/)).
-- **MATLAB**: Provides financial toolkits that can compute [kurtosis](../k/kurtosis.md) and integrate higher moments into [portfolio optimization](../p/portfolio_optimization.md) engines ([link](https://www.mathworks.com/products/financial-instruments-portfolio.html)).
-- **Python Libraries**: Libraries like `numpy`, `pandas`, and `scipy` can compute [kurtosis](../k/kurtosis.md), while packages like `PyPortfolioOpt` can assist in higher moment [portfolio optimization](../p/portfolio_optimization.md) ([link](https://pyportfolioopt.readthedocs.io/en/latest/)).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive analytics and data to assess the [kurtosis](../k/kurtosis.md) of individual assets and portfolios (link).
+- **MATLAB**: Provides financial toolkits that can compute [kurtosis](../k/kurtosis.md) and integrate higher moments into [portfolio optimization](../p/portfolio_optimization.md) engines (link).
+- **Python Libraries**: Libraries like `numpy`, `pandas`, and `scipy` can compute [kurtosis](../k/kurtosis.md), while packages like `PyPortfolioOpt` can assist in higher moment [portfolio optimization](../p/portfolio_optimization.md) (link).
 
 ## Conclusion
 

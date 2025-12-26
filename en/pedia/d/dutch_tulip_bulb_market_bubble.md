@@ -16,7 +16,7 @@ One of the unique characteristics of this [market](../m/market.md) was the use o
 
 ## The Height of the Bubble
 
-The tulip [market](../m/market.md) reached its peak during the winter of 1636-1637. During this period, prices reached astronomical levels. For context, some tulip bulbs changed hands for prices equivalent to the cost of a house in Amsterdam. Historical records suggest that people from various walks of life, including artisans, farmers, and even nobles, participated in the tulip [market](../m/market.md). 
+The tulip [market](../m/market.md) reached its peak during the winter of 1636-1637. During this period, prices reached astronomical levels. For context, some tulip bulbs changed hands for prices equivalent to the cost of a house in Amsterdam. Historical records suggest that people from various walks of life, including artisans, farmers, and even nobles, participated in the tulip [market](../m/market.md).
 
 ### Social Impact
 

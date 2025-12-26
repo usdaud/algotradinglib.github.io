@@ -48,13 +48,13 @@ High-frequency traders rely on the rapid [execution](../e/execution.md) of [mark
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [market](../m/market.md) orders can be a component of more complex [trade](../t/trade.md) [execution algorithms](../e/execution_algorithms.md). For instance, an algorithm might use [market](../m/market.md) orders to ensure rapid [execution](../e/execution.md) when a set of predefined conditions are met.
+In [algorithmic trading](../a/algorithmic_trading.md), [market](../m/market.md) orders can be a component of more complex [trade](../t/trade.md) [execution algorithms](../e/execution_algorithms.md). For instance, an algorithm might use [market](../m/market.md) orders to ensure rapid [execution](../e/execution.md) when a set of predefined conditions are met.
 
 ## Use Cases and Examples
 
 ### Stock Market
 
-In the [stock market](../s/stock_market.md), a [market](../m/market.md) [order](../o/order.md) to buy [shares](../s/shares.md) of a company [will](../w/will.md) be filled at the lowest available ask price. Conversely, a [market](../m/market.md) [order](../o/order.md) to sell [shares](../s/shares.md) [will](../w/will.md) be filled at the highest available [bid price](../b/bid_price.md). 
+In the [stock market](../s/stock_market.md), a [market](../m/market.md) [order](../o/order.md) to buy [shares](../s/shares.md) of a company [will](../w/will.md) be filled at the lowest available ask price. Conversely, a [market](../m/market.md) [order](../o/order.md) to sell [shares](../s/shares.md) [will](../w/will.md) be filled at the highest available [bid price](../b/bid_price.md).
 
 Example:
 - If the current [bid price](../b/bid_price.md) for Apple Inc. (AAPL) is $150 and the ask price is $150.02, a [market](../m/market.md) [order](../o/order.md) to buy 100 [shares](../s/shares.md) [will](../w/will.md) likely be filled at $150.02, assuming sufficient [liquidity](../l/liquidity.md).
@@ -94,7 +94,7 @@ Example:
 [Market](../m/market.md) orders, while straightforward, come with inherent risks such as [slippage](../s/slippage.md) and price [uncertainty](../u/uncertainty_in_trading.md). Traders can mitigate these risks through several strategies:
 
 1. **Monitoring [Market](../m/market.md) Conditions**: Being aware of [market](../m/market.md) [volatility](../v/volatility.md) and [liquidity](../l/liquidity.md) conditions can help traders anticipate potential [slippage](../s/slippage.md).
-   
+
 2. **Using Stop Orders**: Placing stop orders can provide a safety net by triggering a [market](../m/market.md) [order](../o/order.md) at a specified [price level](../p/price_level.md), thus limiting potential losses.
 
 3. **Partial Orders**: Breaking large orders into smaller chunks can reduce [market](../m/market.md) impact and [slippage](../s/slippage.md).

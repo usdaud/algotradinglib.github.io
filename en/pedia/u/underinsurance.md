@@ -39,7 +39,7 @@ Health underinsurance is when an individual's [health insurance](../h/health_ins
 [Life insurance](../l/life_insurance.md) underinsurance occurs when a policyholder does not [hold](../h/hold.md) sufficient [life insurance](../l/life_insurance.md) coverage to meet the financial needs of beneficiaries in the event of the policyholder's death.
 
 - **[Income](../i/income.md) Replacement**: The primary need for [life insurance](../l/life_insurance.md) is often to replace the [income](../i/income.md) of the deceased; inadequate coverage can leave dependents financially vulnerable.
-- **[Debt](../d/debt.md) [Obligations](../o/obligation.md)**: [Life insurance](../l/life_insurance.md) should also cover outstanding debts and final expenses, such as funeral costs. 
+- **[Debt](../d/debt.md) [Obligations](../o/obligation.md)**: [Life insurance](../l/life_insurance.md) should also cover outstanding debts and final expenses, such as funeral costs.
 
 ## Consequences of Underinsurance
 

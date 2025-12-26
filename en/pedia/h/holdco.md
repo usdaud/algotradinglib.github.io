@@ -1,6 +1,6 @@
 # Holdco
 
-Holdco, short for [holding company](../h/holding_company.md), is a corporate entity that owns a controlling [interest](../i/interest.md) in other companies, known as subsidiaries. Unlike operational companies, holdcos typically do not produce goods or services themselves. Instead, their primary function is to manage and oversee the companies they own, providing strategic direction and financial support. Holdcos are particularly relevant in the context of [algorithmic trading](../a/accountability.md) for several reasons, including [risk management](../r/risk_management.md), regulatory compliance, and [operational efficiency](../o/operational_efficiency_in_trading.md).
+Holdco, short for [holding company](../h/holding_company.md), is a corporate entity that owns a controlling [interest](../i/interest.md) in other companies, known as subsidiaries. Unlike operational companies, holdcos typically do not produce goods or services themselves. Instead, their primary function is to manage and oversee the companies they own, providing strategic direction and financial support. Holdcos are particularly relevant in the context of [algorithmic trading](../a/algorithmic_trading.md) for several reasons, including [risk management](../r/risk_management.md), regulatory compliance, and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## What is a Holding Company?
 
@@ -16,7 +16,7 @@ A [holding company](../h/holding_company.md), or holdco, is a parent [corporatio
 
 ### Benefits of Holding Companies
 
-Holdcos [offer](../o/offer.md) several benefits that make them attractive, particularly in the context of [algorithmic trading](../a/accountability.md), where financial strategies can be highly complex and [risk management](../r/risk_management.md) is crucial.
+Holdcos [offer](../o/offer.md) several benefits that make them attractive, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md), where financial strategies can be highly complex and [risk management](../r/risk_management.md) is crucial.
 
 1. **[Risk Management](../r/risk_management.md)**: By holding a diverse portfolio of companies, holdcos can mitigate risks. Losses in one subsidiary can be [offset](../o/offset.md) by gains in another, providing a more stable overall [financial performance](../f/financial_performance.md).
 
@@ -28,7 +28,7 @@ Holdcos [offer](../o/offer.md) several benefits that make them attractive, parti
 
 ## Role in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo trading, involves using computer algorithms to automatically execute [trading strategies](../t/trading_strategies.md). Considering the fast-paced and complex nature of algo trading, the structure and management benefits offered by holdcos can be invaluable.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves using computer algorithms to automatically execute [trading strategies](../t/trading_strategies.md). Considering the fast-paced and complex nature of algo trading, the structure and management benefits offered by holdcos can be invaluable.
 
 ### Strategic Investments
 
@@ -40,7 +40,7 @@ Algo trading involves substantial [risk](../r/risk.md) due to [market](../m/mark
 
 ### Governance and Compliance
 
-Regulatory compliance is a significant concern in [algorithmic trading](../a/accountability.md), especially given the increasing scrutiny from financial regulators worldwide. A holdco can establish standardized compliance and governance protocols across its subsidiaries, ensuring that all entities within its portfolio adhere to regulatory requirements. This centralized approach can prevent regulatory breaches and the associated financial and reputational damage.
+Regulatory compliance is a significant concern in [algorithmic trading](../a/algorithmic_trading.md), especially given the increasing scrutiny from financial regulators worldwide. A holdco can establish standardized compliance and governance protocols across its subsidiaries, ensuring that all entities within its portfolio adhere to regulatory requirements. This centralized approach can prevent regulatory breaches and the associated financial and reputational damage.
 
 ### Technological Advancements
 
@@ -48,30 +48,30 @@ Holdcos can invest in state-of-the-art technologies and facilitate knowledge tra
 
 ### Operational Synergies
 
-Holdcos can optimize operational efficiencies by centralizing key functions such as research and development, legal, [finance](../f/finance.md), and HR. This centralization leads to cost savings and operational efficiencies, which are critical in the highly competitive field of [algorithmic trading](../a/accountability.md).
+Holdcos can optimize operational efficiencies by centralizing key functions such as research and development, legal, [finance](../f/finance.md), and HR. This centralization leads to cost savings and operational efficiencies, which are critical in the highly competitive field of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Examples of Holdcos in Algorithmic Trading
 
-Several notable holdcos have established themselves in the field of [algorithmic trading](../a/accountability.md), leveraging their diversified portfolios and strategic investments to dominate the [market](../m/market.md).
+Several notable holdcos have established themselves in the field of [algorithmic trading](../a/algorithmic_trading.md), leveraging their diversified portfolios and strategic investments to dominate the [market](../m/market.md).
 
 ### Citadel LLC
 
-Citadel LLC, founded by Kenneth C. Griffin, is one of the world's leading [hedge](../h/hedge.md) funds and financial institutions. Operating a [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) strategy, Citadel benefits from its diversified portfolio of subsidiaries, including technology firms, trading platforms, and [data analytics](../d/data_analytics.md) companies.
+Citadel LLC, founded by Kenneth C. Griffin, is one of the world's leading [hedge](../h/hedge.md) funds and financial institutions. Operating a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) strategy, Citadel benefits from its diversified portfolio of subsidiaries, including technology firms, trading platforms, and [data analytics](../d/data_analytics.md) companies.
 
-For more information, visit [Citadel LLC](https://www.citadel.com/).
+For more information, visit Citadel LLC.
 
 ### Two Sigma Investments
 
-Two Sigma Investments is a technology-driven [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and advanced technology to create successful [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). As a holdco, Two Sigma invests in various technology and research firms, enabling it to stay at the forefront of innovations in [algorithmic trading](../a/accountability.md).
+Two Sigma Investments is a technology-driven [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and advanced technology to create successful [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). As a holdco, Two Sigma invests in various technology and research firms, enabling it to stay at the forefront of innovations in [algorithmic trading](../a/algorithmic_trading.md).
 
-For more information, visit [Two Sigma Investments](https://www.twosigma.com/).
+For more information, visit Two Sigma Investments.
 
 ### Renaissance Technologies
 
 Renaissance Technologies, founded by mathematician James Simons, is a quant [hedge fund](../h/hedge_fund.md) known for its successful [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Renaissance Technologies operates as a holdco with interests in various trading technologies and research initiatives, making it a leader in the field.
 
-For more information, visit [Renaissance Technologies](https://www.rentec.com/).
+For more information, visit Renaissance Technologies.
 
 ## Conclusion
 
-Holdcos play a critical role in the world of [algorithmic trading](../a/accountability.md). Through strategic investments, [risk management](../r/risk_management.md), and operational efficiencies, they [offer](../o/offer.md) unique advantages that can enhance the performance of complex [trading strategies](../t/trading_strategies.md). By leveraging the benefits of diversified portfolios and centralized governance, holdcos provide a stable and efficient framework for navigating the fast-paced world of algo trading. Understanding the role and advantages of holdcos is crucial for anyone exploring the field of [algorithmic trading](../a/accountability.md).
+Holdcos play a critical role in the world of [algorithmic trading](../a/algorithmic_trading.md). Through strategic investments, [risk management](../r/risk_management.md), and operational efficiencies, they [offer](../o/offer.md) unique advantages that can enhance the performance of complex [trading strategies](../t/trading_strategies.md). By leveraging the benefits of diversified portfolios and centralized governance, holdcos provide a stable and efficient framework for navigating the fast-paced world of algo trading. Understanding the role and advantages of holdcos is crucial for anyone exploring the field of [algorithmic trading](../a/algorithmic_trading.md).

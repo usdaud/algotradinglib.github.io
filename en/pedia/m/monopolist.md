@@ -75,8 +75,8 @@ Microsoft provides an illustrative case of a technological [monopoly](../m/monop
 Facebook is another example where network effects have led to monopolistic characteristics. The platform’s user base has experienced [exponential growth](../e/exponential_growth.md), making it a primary [social media](../s/social_media.md) site globally. As more users join Facebook, the network becomes more valuable, further entrenching its dominant position in [social media](../s/social_media.md).
 
 #### Link:
-- [Microsoft](https://www.microsoft.com/)
-- [Facebook](https://www.facebook.com/)
+- Microsoft
+- Facebook
 
 ## Conclusion
 

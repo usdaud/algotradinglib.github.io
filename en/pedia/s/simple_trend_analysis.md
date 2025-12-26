@@ -70,9 +70,9 @@ Continuously monitor the algorithm's performance. Adjust parameters and strategi
 - **TA-Lib:** Contains a wide array of [technical analysis](../t/technical_analysis.md) functions, such as moving averages and indicators.
 
 ### Trading Platforms
-- **MetaTrader (MT4/MT5):** Popular trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) through MQL4/MQL5 scripting. ([MetaTrader](https://www.metaquotes.net))
-- **[QuantConnect](../q/quantconnect.md):** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. ([QuantConnect](https://www.quantconnect.com))
-- **[AlgoTrader](../a/algotrader.md):** Advanced [algorithmic trading](../a/algorithmic_trading.md) software platform for developing and deploying strategies. ([AlgoTrader](https://www.algotrader.com))
+- **MetaTrader (MT4/MT5):** Popular trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) through MQL4/MQL5 scripting. (MetaTrader)
+- **[QuantConnect](../q/quantconnect.md):** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. (QuantConnect)
+- **[AlgoTrader](../a/algotrader.md):** Advanced [algorithmic trading](../a/algorithmic_trading.md) software platform for developing and deploying strategies. (AlgoTrader)
 
 ## Advantages and Disadvantages
 
@@ -89,4 +89,4 @@ Continuously monitor the algorithm's performance. Adjust parameters and strategi
 ## Conclusion
 Simple [Trend Analysis](../t/trend_analysis.md) is a foundational aspect of [algorithmic trading](../a/algorithmic_trading.md), involving the identification and interpretation of price trends to make informed trading decisions. By leveraging tools like moving averages, [trend](../t/trend.md) lines, and [technical indicators](../t/technical_indicators.md), traders can develop effective strategies. The integration of these techniques into [automated trading systems](../a/automated_trading_systems.md) enhances [efficiency](../e/efficiency.md) and objectivity, allowing for more precise and profitable trades.
 
-For further learning and development, explore resources such as [MetaTrader](https://www.metaquotes.net), [QuantConnect](https://www.quantconnect.com), and [AlgoTrader](https://www.algotrader.com).
+For further learning and development, explore resources such as MetaTrader, QuantConnect, and AlgoTrader.

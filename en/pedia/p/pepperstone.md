@@ -50,5 +50,3 @@ Pepperstone is regulated by several top-tier financial authorities, ensuring a s
 - Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC)
 - [Capital Markets](../c/capital_markets.md) Authority (CMA) in Kenya
 
-## Website
-For more information and to start trading, visit the official Pepperstone website: [Pepperstone](https://www.pepperstone.com)

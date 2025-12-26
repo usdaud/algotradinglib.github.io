@@ -10,7 +10,7 @@
 #### Advantages:
 - **Realism**: Captures actual past [market](../m/market.md) conditions.
 - **[Performance Metrics](../p/performance_metrics.md)**: Provides concrete [performance metrics](../p/performance_metrics.md) for analysis.
-  
+
 #### Disadvantages:
 - **Data-Demanding**: Requires extensive historical data.
 - **Assumption of Stationarity**: Assumes that past conditions [will](../w/will.md) continue into the future.
@@ -21,7 +21,7 @@
 #### Advantages:
 - **Complex [Pattern Recognition](../p/pattern_recognition.md)**: Capable of identifying complex nonlinear relationships.
 - **Adaptability**: Can improve over time with additional data.
-  
+
 #### Disadvantages:
 - **[Overfitting](../o/overfitting.md)**: High [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to past data.
 - **Computationally Intensive**: Requires significant computational resources.
@@ -32,7 +32,7 @@
 #### Advantages:
 - **[Temporal Dependencies](../t/temporal_dependencies_in_trading.md)**: Specifically designed to [handle](../h/handle.md) time-dependent data.
 - **Predictive Power**: Effective for short-term [forecasting](../f/forecasting.md).
-  
+
 #### Disadvantages:
 - **Assumptive**: Relies on assumptions about the data’s temporal structure.
 - **Complexity**: Can be complex to implement and interpret.
@@ -43,7 +43,7 @@ Bayesian models incorporate prior knowledge or beliefs (priors) along with obser
 #### Advantages:
 - **[Incorporation](../i/incorporation.md) of Prior Knowledge**: Allows inclusion of expert knowledge.
 - **Flexibility**: Can [handle](../h/handle.md) complex data structures and incorporate [uncertainty](../u/uncertainty_in_trading.md) in model parameters.
-  
+
 #### Disadvantages:
 - **Computationally Intensive**: Requires substantial calculation for parameter estimation.
 - **Subjectivity**: The choice of priors can be subjective.
@@ -79,16 +79,16 @@ In high-frequency trading, [winning probability](../w/winning_probability.md) mo
 ## Companies Using Winning Probability Models
 
 ### 1. Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is known for its use of [quantitative models](../q/quantitative_models.md) and computer algorithms to [trade](../t/trade.md) in various markets. The [firm](../f/firm.md) employs a variety of statistical and [machine learning](../m/machine_learning.md) models to predict the [winning probability](../w/winning_probability.md) of trades.
+Renaissance Technologies is known for its use of [quantitative models](../q/quantitative_models.md) and computer algorithms to [trade](../t/trade.md) in various markets. The [firm](../f/firm.md) employs a variety of statistical and [machine learning](../m/machine_learning.md) models to predict the [winning probability](../w/winning_probability.md) of trades.
 
 ### 2. Two Sigma
-[Two Sigma](https://www.twosigma.com/) leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading models](../t/trading_models.md). Their approach includes the use of [machine learning](../m/machine_learning.md) and advanced statistical methods to improve [trade](../t/trade.md) predictions.
+Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading models](../t/trading_models.md). Their approach includes the use of [machine learning](../m/machine_learning.md) and advanced statistical methods to improve [trade](../t/trade.md) predictions.
 
 ### 3. Citadel
-[Citadel](https://www.citadel.com/) uses sophisticated [quantitative models](../q/quantitative_models.md) to manage investments. The [firm](../f/firm.md) employs a [range](../r/range.md) of probabilistic models to enhance the accuracy of its [trading strategies](../t/trading_strategies.md).
+Citadel uses sophisticated [quantitative models](../q/quantitative_models.md) to manage investments. The [firm](../f/firm.md) employs a [range](../r/range.md) of probabilistic models to enhance the accuracy of its [trading strategies](../t/trading_strategies.md).
 
 ### 4. AQR Capital Management
-[AQR Capital Management](https://www.aqr.com/) integrates [quantitative research](../q/quantitative_research.md) with investment strategies. Their models include [historical simulation](../h/historical_simulation.md), [time series analysis](../t/time_series_analysis.md), and [machine learning](../m/machine_learning.md) to predict [trade](../t/trade.md) outcomes.
+AQR Capital Management integrates [quantitative research](../q/quantitative_research.md) with investment strategies. Their models include [historical simulation](../h/historical_simulation.md), [time series analysis](../t/time_series_analysis.md), and [machine learning](../m/machine_learning.md) to predict [trade](../t/trade.md) outcomes.
 
 ## Challenges and Future Directions
 

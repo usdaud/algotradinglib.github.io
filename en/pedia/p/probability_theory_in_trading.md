@@ -59,15 +59,15 @@ Several companies are at the forefront of using probability theory and advanced 
 
 #### Renaissance Technologies
 Renaissance Technologies is known for its [quantitative research](../q/quantitative_research.md) and use of [mathematical models](../m/mathematical_models_in_trading.md) to drive investment decisions.
-- [Renaissance Technologies](https://www.rentec.com)
+- Renaissance Technologies
 
 #### Two Sigma
 Two Sigma applies AI and [machine learning](../m/machine_learning.md), founded on probability theory, to develop investment strategies.
-- [Two Sigma](https://www.twosigma.com)
+- Two Sigma
 
 #### DE Shaw & Co.
 DE Shaw combines advanced mathematical techniques with traditional [investing](../i/investing.md) strategies.
-- [DE Shaw](https://www.deshaw.com)
+- DE Shaw
 
 ### Conclusion
 The profound integration of probability theory in trading underscores its significance in shaping modern financial strategies. By quantifying [uncertainty](../u/uncertainty_in_trading.md) and employing sophisticated probabilistic models, traders can devise strategies that navigate [market](../m/market.md) complexities with greater precision.

@@ -76,8 +76,8 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) can enhance the e
 
 Several companies and platforms have incorporated the bandwagon effect into their [trading systems](../t/trading_systems.md):
 
-1. **Numerai**: https://numer.ai/ - Utilizes crowdsourced [machine learning](../m/machine_learning.md) models, effectively leveraging the bandwagon effect from its community of data scientists.
+1. **Numerai**: - Utilizes crowdsourced [machine learning](../m/machine_learning.md) models, effectively leveraging the bandwagon effect from its community of data scientists.
 2. **Sentient Technologies**: Although this company has ceased operations, it was known for implementing [artificial intelligence](../a/artificial_intelligence_in_trading.md) in financial trading, exploiting trends and [market sentiment](../m/market_sentiment.md).
-3. **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/ - Provides a platform for developing, [backtesting](../b/backtesting.md), and deploying [quantitative trading](../q/quantitative_trading.md) strategies, which may include those harnessing the bandwagon effect.
+3. **[StockSharp](../s/stocksharp.md)**: - Provides a platform for developing, [backtesting](../b/backtesting.md), and deploying [quantitative trading](../q/quantitative_trading.md) strategies, which may include those harnessing the bandwagon effect.
 
 In conclusion, the bandwagon effect is a potent force in [financial markets](../f/financial_market.md) and algotrading. By understanding its mechanisms, consequences, and how to manage its risks, traders and investors can better navigate this complex phenomenon.

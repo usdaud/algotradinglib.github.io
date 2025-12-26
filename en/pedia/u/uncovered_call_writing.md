@@ -20,8 +20,8 @@ The key components involved in uncovered call writing include:
 1. **Initiating the [Trade](../t/trade.md)**: The [investor](../i/investor.md) writes (sells) the [call option](../c/call_option.md) without owning the [underlying asset](../u/underlying_asset.md). In [return](../r/return.md), they receive the [premium](../p/premium.md).
 2. **Obligation**: If the [market price](../m/market_price.md) of the [underlying](../u/underlying.md) stock rises above the [strike price](../s/strike_price.md), the buyer of the [call option](../c/call_option.md) has the incentive to [exercise](../e/exercise.md) the option. The [writer](../w/writer.md) is then obligated to sell the stock at the [strike price](../s/strike_price.md), which might require purchasing the stock at the current [market price](../m/market_price.md) if they do not already own it.
 3. **[Profit](../p/profit.md) and Loss**:
-   - **[Profit](../p/profit.md)**: The maximum [profit](../p/profit.md) for the uncovered call [writer](../w/writer.md) is limited to the [premium](../p/premium.md) received.
-   - **Loss**: The potential loss is theoretically unlimited, as there is no cap on how high the stock price can rise, requiring the [writer](../w/writer.md) to buy at potentially much higher prices than the [strike price](../s/strike_price.md) to fulfill their obligation.
+ - **[Profit](../p/profit.md)**: The maximum [profit](../p/profit.md) for the uncovered call [writer](../w/writer.md) is limited to the [premium](../p/premium.md) received.
+ - **Loss**: The potential loss is theoretically unlimited, as there is no cap on how high the stock price can rise, requiring the [writer](../w/writer.md) to buy at potentially much higher prices than the [strike price](../s/strike_price.md) to fulfill their obligation.
 
 ## Advantages of Uncovered Call Writing
 
@@ -56,16 +56,16 @@ Uncovered calls can be combined with other strategies, like protective puts or s
 ## Real-World Applications
 
 ### Institutional Use
-Uncovered call writing is primarily used by institutional investors and [hedge](../h/hedge.md) funds due to its high-[risk](../r/risk.md) nature. Firms like Citadel Securities (https://www.citadelsecurities.com/) and Renaissance Technologies employ various complex option strategies, including potentially uncovered calls, although specific strategy disclosures are rare.
+Uncovered call writing is primarily used by institutional investors and [hedge](../h/hedge.md) funds due to its high-[risk](../r/risk.md) nature. Firms like Citadel Securities ( and Renaissance Technologies employ various complex option strategies, including potentially uncovered calls, although specific strategy disclosures are rare.
 
 ### Retail Traders
 Retail traders with substantial experience in [options](../o/options.md) trading and a deep understanding of [market dynamics](../m/market_dynamics.md) may use uncovered calls to generate [income](../i/income.md), though the high-[risk](../r/risk.md) nature of the strategy means it is less common.
 
 ### Educational Institutions
-Organizations like the [Options](../o/options.md) [Industry](../i/industry.md) Council (OIC) (https://www.optionseducation.org/) provide education about [options trading strategies](../o/options_trading_strategies.md), including uncovered call writing.
+Organizations like the [Options](../o/options.md) [Industry](../i/industry.md) Council (OIC) ( provide education about [options trading strategies](../o/options_trading_strategies.md), including uncovered call writing.
 
 ## Conclusion
 
-Uncovered call writing is a high-[risk](../r/risk.md), high-reward strategy predominantly suited for experienced traders and institutional investors. While it offers potential [income](../i/income.md) through premiums, the risks involved require careful management and a deep understanding of the [market](../m/market.md). Its effective utilization depends on the [trader](../t/trader.md)'s ability to analyze [market](../m/market.md) conditions, manage [risk](../r/risk.md), and employ strategies that mitigate potential losses. 
+Uncovered call writing is a high-[risk](../r/risk.md), high-reward strategy predominantly suited for experienced traders and institutional investors. While it offers potential [income](../i/income.md) through premiums, the risks involved require careful management and a deep understanding of the [market](../m/market.md). Its effective utilization depends on the [trader](../t/trader.md)'s ability to analyze [market](../m/market.md) conditions, manage [risk](../r/risk.md), and employ strategies that mitigate potential losses.
 
 Overall, uncovered call writing remains a powerful tool in the arsenal of sophisticated investors, representing a balance between [risk](../r/risk.md) and reward that can [yield](../y/yield.md) substantial returns when used judiciously.

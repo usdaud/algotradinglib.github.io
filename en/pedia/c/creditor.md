@@ -30,9 +30,9 @@ In [algorithmic trading](../a/accountability.md), creditors play a nuanced role.
 
 [Credit rating](../c/credit_rating.md) agencies like Moody’s, Standard & Poor’s, and [Fitch Ratings](../f/fitch_ratings.md) provide [credit](../c/credit.md) scores that help in evaluating the [creditworthiness](../c/creditworthiness.md) of corporations and government entities. These ratings can be fed into [trading algorithms](../t/trading_algorithms.md) to make informed decisions.
 
-- **Moody’s**: [Moody's](https://www.moodys.com)
-- **Standard & Poor’s**: [Standard & Poor's](https://www.spglobal.com/ratings)
-- **[Fitch Ratings](../f/fitch_ratings.md)**: [Fitch Ratings](https://www.fitchratings.com)
+- **Moody’s**: Moody's
+- **Standard & Poor’s**: Standard & Poor's
+- **[Fitch Ratings](../f/fitch_ratings.md)**: Fitch Ratings
 
 ### Credit Default Swaps (CDS)
 
@@ -46,7 +46,7 @@ There are several key metrics used to evaluate creditors and the impact they can
 
 The [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio measures the relative proportion of shareholders' [equity](../e/equity.md) and [debt](../d/debt.md) used to [finance](../f/finance.md) a company's assets. A higher ratio generally indicates more [risk](../r/risk.md) because it means a company is funding its growth with [debt](../d/debt.md).
 
-Formula: 
+Formula:
 
 \[ \text{Debt-to-Equity Ratio} = \frac{\text{[Total Liabilities](../t/total_liabilities.md)}}{\text{Shareholders' [Equity](../e/equity.md)}} \]
 
@@ -81,18 +81,17 @@ Where:
 
 Creditor regulations play a crucial role in maintaining the integrity and stability of [financial markets](../f/financial_market.md). Different jurisdictions have distinct regulatory bodies overseeing [credit](../c/credit.md) activities:
 
-- **United States**: 
-  - Federal Reserve Board (FRB): [Federal Reserve](https://www.federalreserve.gov)
-  - Office of the Comptroller of the [Currency](../c/currency.md) (OCC): [OCC](https://www.occ.treas.gov)
-  - Consumer Financial Protection Bureau (CFPB): [CFPB](https://www.consumerfinance.gov)
+- **United States**:
+ - Federal Reserve Board (FRB): Federal Reserve
+ - Office of the Comptroller of the [Currency](../c/currency.md) (OCC): OCC
+ - Consumer Financial Protection Bureau (CFPB): CFPB
 
-- **[European Union](../e/european_union_(eu).md)**: 
-  - European Central [Bank](../b/bank.md) (ECB): [ECB](https://www.ecb.europa.eu)
-  - Financial Conduct Authority (FCA) in the UK: [FCA](https://www.fca.org.uk)
+- **[European Union](../e/european_union_(eu).md)**:
+ - European Central [Bank](../b/bank.md) (ECB): ECB
+ - Financial Conduct Authority (FCA) in the UK: FCA
 
-- **Asia**: 
-  - Monetary Authority of Singapore (MAS): [MAS](https://www.mas.gov.sg) 
-  - Securities and [Exchange](../e/exchange.md) Board of India (SEBI): [SEBI](https://www.sebi.gov.in)
+- **Asia**:
+ - Monetary Authority of Singapore (MAS): MAS - Securities and [Exchange](../e/exchange.md) Board of India (SEBI): SEBI
 
 ## Technological Integration
 
@@ -100,15 +99,15 @@ Technological advancements have revolutionized how creditors operate and interac
 
 ### Blockchain
 
-[Blockchain](../b/blockchain_in_trading.md) provides a decentralized ledger system that can enhance [transparency](../t/transparency.md) and reduce the [risk](../r/risk.md) of [fraud](../f/fraud.md) in [credit](../c/credit.md) transactions. Companies like [Ripple](../r/ripple.md) ( [Ripple](https://ripple.com) ) are pioneering [blockchain](../b/blockchain_in_trading.md) solutions for cross-border payments and [credit](../c/credit.md) settlements.
+[Blockchain](../b/blockchain_in_trading.md) provides a decentralized ledger system that can enhance [transparency](../t/transparency.md) and reduce the [risk](../r/risk.md) of [fraud](../f/fraud.md) in [credit](../c/credit.md) transactions. Companies like [Ripple](../r/ripple.md) ( Ripple ) are pioneering [blockchain](../b/blockchain_in_trading.md) solutions for cross-border payments and [credit](../c/credit.md) settlements.
 
 ### Artificial Intelligence and Machine Learning
 
-AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are being increasingly used to evaluate [credit risk](../c/credit_risk.md), automate [loan](../l/loan.md) approvals, and predict defaults. Platforms like [Upstart](../u/upstart.md) ([Upstart](https://www.upstart.com) ) [leverage](../l/leverage.md) AI to provide personal loans based on non-traditional variables like education and employment history.
+AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are being increasingly used to evaluate [credit risk](../c/credit_risk.md), automate [loan](../l/loan.md) approvals, and predict defaults. Platforms like [Upstart](../u/upstart.md) (Upstart ) [leverage](../l/leverage.md) AI to provide personal loans based on non-traditional variables like education and employment history.
 
 ### Big Data Analytics
 
-[Big data analytics](../b/big_data_analytics_in_trading.md) enables the examination of vast amounts of data to derive insights related to [creditworthiness](../c/creditworthiness.md) and [market](../m/market.md) trends. Algorthimic trading platforms like [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com) ) integrate [big data analytics](../b/big_data_analytics_in_trading.md) to refine [trading models](../t/trading_models.md) and improve decision-making processes.
+[Big data analytics](../b/big_data_analytics_in_trading.md) enables the examination of vast amounts of data to derive insights related to [creditworthiness](../c/creditworthiness.md) and [market](../m/market.md) trends. Algorthimic trading platforms like [QuantConnect](../q/quantconnect.md) (QuantConnect ) integrate [big data analytics](../b/big_data_analytics_in_trading.md) to refine [trading models](../t/trading_models.md) and improve decision-making processes.
 
 ## Impact on Financial Markets
 

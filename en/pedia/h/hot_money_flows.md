@@ -23,7 +23,7 @@ These flows can be triggered by several factors, including:
 
 The effects of [hot money](../h/hot_money.md) can be profound, influencing [multiple](../m/multiple.md) aspects of an [economy](../e/economy.md):
 - **[Exchange](../e/exchange.md) Rates**: Massive inflows can cause [currency](../c/currency.md) appreciation, which might hurt [export](../e/export.md) competitiveness, while sudden outflows can lead to sharp depreciations.
-- **[Interest](../i/interest.md) Rates and [Monetary Policy](../m/monetary_policy.md)**: Central banks might feel pressured to adjust [interest](../i/interest.md) rates to control inflows and outflows. 
+- **[Interest](../i/interest.md) Rates and [Monetary Policy](../m/monetary_policy.md)**: Central banks might feel pressured to adjust [interest](../i/interest.md) rates to control inflows and outflows.
 - **Stock and [Real Estate](../r/real_estate.md) Markets**: [Asset](../a/asset.md) [bubbles](../b/bubble.md) can form due to sudden inflows, as seen in various emerging markets during periods of high [liquidity](../l/liquidity.md).
 - **Financial Stability**: Rapid in-and-out movements can create instability, particularly in emerging markets with less mature financial systems.
 
@@ -46,7 +46,7 @@ Governments and central banks employ several strategies to manage and control th
 Advances in technology, particularly in financial technology (fintech), have made it easier and faster to move [capital](../c/capital.md) globally. High-frequency trading (HFT) and [algorithmic trading](../a/algorithmic_trading.md) platforms allow investors to exploit minor discrepancies in markets around the world within milliseconds.
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Computers using complex algorithms can make thousands of trades in seconds based on predetermined criteria, often contributing to [hot money](../h/hot_money.md) flows.
-    - **Example**: Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. [Renaissance Technologies](https://www.rentec.com)
+ - **Example**: Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. Renaissance Technologies
 
 #### Future Trends
 

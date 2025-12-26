@@ -46,9 +46,9 @@ A simple application could involve creating an algorithm that identifies and tra
 ### Tools and Software
 There are several tools and [software platforms](../s/software_platforms_for_trading.md) available that help traders apply Wave Theory to algo trading. Some of them include:
 
-- **Elliott Wave International**: They provide detailed analysis and educational resources on applying [Elliott Wave Theory](../e/elliott_wave_theory.md). Their software tool, EWAVES, automates wave counting and analysis. [Website](https://www.elliottwave.com)
-- **[TradingView](../t/tradingview.md)**: A popular [technical analysis](../t/technical_analysis.md) platform [offering](../o/offering.md) various charting tools, including Elliott Wave drawing tools and script customization for algo trading. [Website](https://www.tradingview.com)
-- **MetaTrader 4/5 (MT4/MT5)**: These platforms support custom indicators and scripts, which can be coded using MQL4/MQL5 to identify and [trade](../t/trade.md) waves. [Website](https://www.metatrader4.com)
+- **Elliott Wave International**: They provide detailed analysis and educational resources on applying [Elliott Wave Theory](../e/elliott_wave_theory.md). Their software tool, EWAVES,
+- **[TradingView](../t/tradingview.md)**: A popular [technical analysis](../t/technical_analysis.md) platform [offering](../o/offering.md) various charting tools, including Elliott
+- **MetaTrader 4/5 (MT4/MT5)**: These platforms support custom indicators and scripts, which can be coded using MQL4/MQL5 to identify and [trade](../t/trade.md)
 
 ## Criticisms and Challenges
 

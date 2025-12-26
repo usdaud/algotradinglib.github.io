@@ -2,7 +2,7 @@
 
 In the context of economic theory and [financial markets](../f/financial_market.md), inflation represents the rate at which the general level of prices for goods and services is rising and subsequently eroding [purchasing power](../p/purchasing_power.md). Central banks attempt to limit inflation—and avoid [deflation](../d/deflation.md)—in [order](../o/order.md) to keep the [economy](../e/economy.md) running smoothly.
 
-In the world of [algorithmic trading](../a/accountability.md) (often referred to as algo trading), understanding inflation and its impact on [financial markets](../f/financial_market.md) is crucial. Algo trading relies on computer algorithms to make decisions concerning the buying and selling of assets based on predefined criteria. Inflation directly impacts [asset](../a/asset.md) prices, [interest](../i/interest.md) rates, and [currency](../c/currency.md) values, all of which are pivotal variables in [algorithmic trading](../a/accountability.md) models.
+In the world of [algorithmic trading](../a/algorithmic_trading.md) (often referred to as algo trading), understanding inflation and its impact on [financial markets](../f/financial_market.md) is crucial. Algo trading relies on computer algorithms to make decisions concerning the buying and selling of assets based on predefined criteria. Inflation directly impacts [asset](../a/asset.md) prices, [interest](../i/interest.md) rates, and [currency](../c/currency.md) values, all of which are pivotal variables in [algorithmic trading](../a/algorithmic_trading.md) models.
 
 # What is Inflation?
 
@@ -51,7 +51,7 @@ There are several key indicators for measuring inflation, the most commonly know
 
 # Inflation in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and software to make trading decisions. Inflation is an important variable in many of these models due to its widespread impact on various financial instruments.
+[Algorithmic trading](../a/algorithmic_trading.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and software to make trading decisions. Inflation is an important variable in many of these models due to its widespread impact on various financial instruments.
 
 ## Adjusting Algorithms for Inflation
 
@@ -72,12 +72,12 @@ There are several key indicators for measuring inflation, the most commonly know
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies, a pioneer in the field of [algorithmic trading](../a/accountability.md), has employed sophisticated mathematical and statistical models to achieve extraordinary returns. While specific details of their strategies are proprietary, it is known that macroeconomic variables, including inflation, play a significant role in their [trading models](../t/trading_models.md). More information can be found here: [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, a pioneer in the field of [algorithmic trading](../a/algorithmic_trading.md), has employed sophisticated mathematical and statistical models to achieve extraordinary returns. While specific details of their strategies are proprietary, it is known that macroeconomic variables, including inflation, play a significant role in their [trading models](../t/trading_models.md). More information can be found here: Renaissance Technologies.
 
 ## Case Study: Bridgewater Associates
 
-Founded by Ray Dalio, Bridgewater Associates is another prominent [firm](../f/firm.md) that integrates macroeconomic data, including inflation metrics, into their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Their approach to [diversification](../d/diversification.md) and [risk parity](../r/risk_parity.md) often considers inflation as a key [factor](../f/factor.md). More information can be found here: [Bridgewater Associates](https://www.bridgewater.com/).
+Founded by Ray Dalio, Bridgewater Associates is another prominent [firm](../f/firm.md) that integrates macroeconomic data, including inflation metrics, into their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Their approach to [diversification](../d/diversification.md) and [risk parity](../r/risk_parity.md) often considers inflation as a key [factor](../f/factor.md). More information can be found here: Bridgewater Associates.
 
 # Conclusion
 
-Inflation is a fundamental economic variable that influences virtually every aspect of the [financial markets](../f/financial_market.md). For those involved in [algorithmic trading](../a/accountability.md), understanding the mechanics of inflation and incorporating it into [trading models](../t/trading_models.md) is essential for achieving long-term, sustainable returns. The integration of real-time data, [machine learning](../m/machine_learning.md) models, and [backtesting](../b/backtesting.md) are some of the methods that can be employed to create resilient [trading algorithms](../t/trading_algorithms.md) that account for the effects of inflation.
+Inflation is a fundamental economic variable that influences virtually every aspect of the [financial markets](../f/financial_market.md). For those involved in [algorithmic trading](../a/algorithmic_trading.md), understanding the mechanics of inflation and incorporating it into [trading models](../t/trading_models.md) is essential for achieving long-term, sustainable returns. The integration of real-time data, [machine learning](../m/machine_learning.md) models, and [backtesting](../b/backtesting.md) are some of the methods that can be employed to create resilient [trading algorithms](../t/trading_algorithms.md) that account for the effects of inflation.

@@ -6,7 +6,7 @@ Gaussian Processes (GPs) are a powerful statistical tool that has gained signifi
 
 ### Definition
 
-A Gaussian Process is a collection of [random variables](../r/random_variables.md), any finite number of which have a [joint](../j/joint.md) [Gaussian distribution](../g/gaussian_distribution.md). Essentially, a GP defines a [distribution](../d/distribution.md) over functions and can be used to predict the [distribution](../d/distribution.md) of an unknown function given some known values. 
+A Gaussian Process is a collection of [random variables](../r/random_variables.md), any finite number of which have a [joint](../j/joint.md) [Gaussian distribution](../g/gaussian_distribution.md). Essentially, a GP defines a [distribution](../d/distribution.md) over functions and can be used to predict the [distribution](../d/distribution.md) of an unknown function given some known values.
 
 ### Gaussian Process Regression
 
@@ -111,6 +111,6 @@ Gaussian Processes [offer](../o/offer.md) a highly flexible and powerful framewo
 
 For more information on companies and further reading:
 
-- [scikit-learn](https://scikit-learn.org/)
-- [GPy](https://sheffieldml.github.io/GPy/)
-- [GPflow](https://www.gpflow.org/)
+- scikit-learn
+- GPy
+- GPflow

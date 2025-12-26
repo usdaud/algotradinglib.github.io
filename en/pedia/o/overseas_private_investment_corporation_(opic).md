@@ -31,7 +31,7 @@ OPIC had wide-ranging impacts on [multiple](../m/multiple.md) fronts:
 1. **[Economic Growth](../e/economic_growth.md)**: By providing financial products that reduced risks and made [capital](../c/capital.md) more accessible, OPIC supported projects that built [infrastructure](../i/infrastructure.md), created jobs, and enhanced [productivity](../p/productivity.md).
 2. **Political Stability**: Economic development typically fosters political stability. OPIC projects often reduced instability by alleviating [poverty](../p/poverty.md), improving public services, and building resilient economic sectors.
 3. **Strategic Interests**: OPIC projects promoted U.S. foreign policy objectives, helping improve conditions in regions of strategic [interest](../i/interest.md).
-  
+
 ## Transformation into DFC
 
 In 2019, OPIC was transformed into a new institution called the U.S. International Development [Finance](../f/finance.md) [Corporation](../c/corporation.md) (DFC). This transformation, enacted under the Better Utilization of Investments Leading to Development (BUILD) Act of 2018, expanded the mandate and capabilities initially set by OPIC. The DFC combined OPIC’s authorities with those of the U.S. Agency for International Development’s (USAID) Development [Credit](../c/credit.md) Authority, and expanded the ability of the institution to provide [equity financing](../e/equity_financing.md) and technical assistance.
@@ -58,5 +58,4 @@ Although OPIC no longer exists as a separate entity, its legacy persists through
 
 ## Conclusion
 
-The Overseas Private Investment [Corporation](../c/corporation.md) was a pioneer in channeling private [capital](../c/capital.md) into emerging markets through creative financial products and [risk](../r/risk.md) mitigation strategies. While its name has changed and its capabilities enhanced under the DFC, the core mission remains: to support economic development globally, thereby promoting political stability and aligning with U.S. strategic interests. For more information, visit the official website of the U.S. International Development [Finance](../f/finance.md) [Corporation](../c/corporation.md), [DFC](https://www.dfc.gov).
-
+The Overseas Private Investment [Corporation](../c/corporation.md) was a pioneer in channeling private [capital](../c/capital.md) into emerging markets through creative financial products and [risk](../r/risk.md) mitigation strategies. While its name has changed and its capabilities enhanced under the DFC, the core mission remains: to support economic development globally, thereby promoting political stability and aligning with U.S. strategic interests.S. International Development [Finance](../f/finance.md) [Corporation](../c/corporation.md), DFC.

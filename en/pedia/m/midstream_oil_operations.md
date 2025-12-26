@@ -20,8 +20,8 @@ Pipelines are the most common method for transporting large volumes of oil and n
 - Vulnerability to environmental and regulatory challenges
 
 **Major Players:**
-- [TransCanada (TC Energy)](https://www.tcenergy.com/)
-- [Enbridge](https://www.enbridge.com/)
+- TransCanada (TC Energy)
+- Enbridge
 
 #### **Rail**
 When pipelines are not available or feasible, rail transport serves as an alternative. Rail cars equipped with specially designed tankers can carry [crude oil](../c/crude_oil.md) and refined products to [market](../m/market.md).
@@ -35,8 +35,8 @@ When pipelines are not available or feasible, rail transport serves as an altern
 - Higher [risk](../r/risk.md) of accidents and spills
 
 **Major Players:**
-- [BNSF Railway](https://www.bnsf.com/)
-- [Union Pacific](https://www.up.com/)
+- BNSF Railway
+- Union Pacific
 
 #### **Trucking**
 Trucking is typically used for shorter distances or when other forms of transport are not practical.
@@ -50,8 +50,8 @@ Trucking is typically used for shorter distances or when other forms of transpor
 - Higher environmental impact and accident [risk](../r/risk.md)
 
 **Major Players:**
-- [Schneider](https://schneider.com/)
-- [J.B. Hunt](https://www.jbhunt.com/)
+- Schneider
+- J.B. Hunt
 
 #### **Marine Transportation**
 Tankers and barges are used to transport oil and LNG (Liquefied Natural Gas) across oceans and waterways.
@@ -65,8 +65,8 @@ Tankers and barges are used to transport oil and LNG (Liquefied Natural Gas) acr
 - Higher time frame for delivery
 
 **Major Players:**
-- [Teekay](https://www.teekay.com/)
-- [MOL (Mitsui O.S.K. Lines)](https://www.mol.co.jp/en/)
+- Teekay
+- MOL (Mitsui O.S.K. Lines)
 
 ### 2. Storage
 Storage facilities are critical for managing the [supply chain](../s/supply_chain.md) of oil and gas, especially to mitigate the impact of fluctuating [demand](../d/demand.md) and [supply](../s/supply.md). These facilities include tank farms, underground storage, and floating storage units.
@@ -83,8 +83,8 @@ Tank farms consist of [multiple](../m/multiple.md) large storage tanks situated 
 - Leasing significant land area
 
 **Major Players:**
-- [Kinder Morgan](https://www.kindermorgan.com/)
-- [Magellan Midstream Partners](https://www.magellanlp.com/)
+- Kinder Morgan
+- Magellan Midstream Partners
 
 #### **Underground Storage**
 Underground storage facilities, such as salt caverns and depleted oil fields, [offer](../o/offer.md) effective solutions for large-scale, long-term storage.
@@ -98,8 +98,8 @@ Underground storage facilities, such as salt caverns and depleted oil fields, [o
 - Longer time frame to access stored oil
 
 **Major Players:**
-- [Royal Vopak](https://www.vopak.com/)
-- [Buckeye Partners](https://www.buckeye.com/)
+- Royal Vopak
+- Buckeye Partners
 
 #### **Floating Storage Units**
 These include large ships or barges used for temporary storage, often while in transit or waiting for favorable [market](../m/market.md) conditions.
@@ -113,8 +113,8 @@ These include large ships or barges used for temporary storage, often while in t
 - Susceptible to regulations and piracy in certain regions
 
 **Major Players:**
-- [Frontline Ltd.](https://www.frontline.bm/)
-- [Euronav](https://www.euronav.com/)
+- Frontline Ltd.
+- Euronav
 
 ### 3. Wholesale Marketing
 Wholesale [marketing](../m/marketing.md) involves the [sale](../s/sale.md) of oil and gas to various entities such as refineries, commercial end-users, and government reserves. The pricing in this segment is highly influenced by global oil markets, [supply](../s/supply.md)-[demand](../d/demand.md) dynamics, and geopolitical factors.
@@ -123,15 +123,15 @@ Wholesale [marketing](../m/marketing.md) involves the [sale](../s/sale.md) of oi
 Physical and financial trading of oil and gas products is conducted on various exchanges globally.
 
 **Key Exchanges:**
-- [New York Mercantile Exchange (NYMEX)](https://www.cmegroup.com/trading/energy.html)
-- [Intercontinental Exchange (ICE)](https://www.theice.com/)
+- New York Mercantile Exchange (NYMEX)
+- Intercontinental Exchange (ICE)
 
 #### **Marketers**
 Marketers act as intermediaries between producers, transporters, and end-users, optimizing the [supply chain](../s/supply_chain.md) and providing [liquidity](../l/liquidity.md) to the [market](../m/market.md).
 
 **Major Players:**
-- [Vitol](https://www.vitol.com/)
-- [Trafigura](https://www.trafigura.com/)
+- Vitol
+- Trafigura
 
 ## Challenges and Risks in Midstream Operations
 

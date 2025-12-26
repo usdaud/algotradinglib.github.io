@@ -28,7 +28,7 @@ Several factors influence the determination of [credit](../c/credit.md) limits. 
 [Credit](../c/credit.md) limits can be categorized based on the type of [credit](../c/credit.md) extended:
 
 1. **[Credit](../c/credit.md) Cards**: [Credit](../c/credit.md) cards come with a defined [credit](../c/credit.md) limit, which can vary widely based on the factors mentioned above. Cardholders can make purchases up to this limit.
-2. **Personal Loans**: These loans have a fixed [credit](../c/credit.md) limit determined during the [loan](../l/loan.md) approval process. 
+2. **Personal Loans**: These loans have a fixed [credit](../c/credit.md) limit determined during the [loan](../l/loan.md) approval process.
 3. **Line of [Credit](../c/credit.md)**: A line of [credit](../c/credit.md), such as a revolving line of [credit](../c/credit.md), allows borrowers to draw funds up to a certain limit, repay, and borrow again.
 4. **[Business](../b/business.md) [Credit](../c/credit.md)**: Businesses can receive [credit](../c/credit.md) limits on [business](../b/business.md) [credit](../c/credit.md) cards, lines of [credit](../c/credit.md), or corporate loans. These limits are often higher than personal limits.
 
@@ -52,7 +52,7 @@ Technological advancements and evolving financial landscapes continually influen
 4. **Fintech Solutions**: Fintech companies are [offering](../o/offering.md) innovative ways to set and manage [credit](../c/credit.md) limits. For instance, companies like Affirm and Afterpay allow consumers to make purchases on a [budget](../b/budget.md) with clear limits and [repayment](../r/repayment.md) plans.
 5. **Regulatory Changes**: Global regulatory changes continually influence how [credit](../c/credit.md) limits are set and managed. Keeping abreast of these changes is essential for both lenders and borrowers.
 
-For example, Affirm, a prominent fintech company, is known for providing consumers with clear, predictable [financing](../f/financing.md) [options](../o/options.md), often setting [credit](../c/credit.md) limits that are transparent and absence of hidden fees. For more information, visit their [website](https://www.affirm.com/).
+For example, Affirm, a prominent fintech company, is known for providing consumers with clear, predictable [financing](../f/financing.md) [options](../o/options.md), often setting [credit](../c/credit.md) limits that are transparent and absence of hidden fees.
 
 ## Impact of Credit Limits on Credit Scores
 

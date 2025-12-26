@@ -5,7 +5,7 @@ Decision Analysis (DA) is a systematic, quantitative, and visual approach to add
 ## Key Concepts in Decision Analysis
 
 ### 1. Decision Nodes and Trees
-Decision Nodes and Trees are visual representations of decisions and their possible consequences. Each node represents a decision point or an [uncertainty](../u/uncertainty_in_trading.md), while branches represent the different [options](../o/options.md) or outcomes available. 
+Decision Nodes and Trees are visual representations of decisions and their possible consequences. Each node represents a decision point or an [uncertainty](../u/uncertainty_in_trading.md), while branches represent the different [options](../o/options.md) or outcomes available.
 
 - **Decision Nodes**: These are points in the [decision tree](../d/decision_tree.md) where the decision-maker must choose between alternatives.
 - **Chance Nodes**: Points where an event occurs with a certain probability, representing the [uncertainty](../u/uncertainty_in_trading.md) in the outcomes.
@@ -40,13 +40,10 @@ MCDA involves evaluating choices based on [multiple](../m/multiple.md) criteria 
 Several software applications facilitate decision analysis, including:
 
 - **TreeAge Pro**: A comprehensive platform for constructing, analyzing, and sharing [decision trees](../d/decision_trees.md) and Markov models.
-  [TreeAge Pro](https://www.treeage.com/)
-  
+
 - **Analytica**: A visual software environment for building models of complex decision problems.
-  [Analytica](https://lumina.com/)
 
 - **DPL (Decision Programming Language)**: A software tool for decision analysis, enabling users to model decision problems efficiently.
-  [DPL](https://www.syncopation.com/)
 
 ### 2. Simulation and Monte Carlo Methods
 [Simulation techniques](../s/simulation_techniques.md), including [Monte Carlo methods](../m/monte_carlo_methods.md), are used to model and analyze complex systems and [stochastic processes](../s/stochastic_processes.md). By running numerous scenarios, decision-makers can evaluate the potential outcomes of different strategies under various uncertain conditions.

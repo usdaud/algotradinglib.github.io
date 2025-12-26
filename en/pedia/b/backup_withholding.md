@@ -48,12 +48,12 @@ To avoid backup [withholding](../w/withholding.md), a [taxpayer](../t/taxpayer.m
 
 ### IRS Form W-9
 Form W-9 plays a central role in backup [withholding](../w/withholding.md). It's the form wherein a [taxpayer](../t/taxpayer.md) provides their TIN to the payer, certifying that the information is correct. Proper completion of this form is critical to avoiding backup [withholding](../w/withholding.md):
-- You can download the form from the [IRS website](https://www.irs.gov/forms-pubs/about-form-w-9).
+-
 
 ### IRS Notifications and Responses
 The IRS may notify payers to start backup [withholding](../w/withholding.md) if there are issues with TINs or reported [income](../i/income.md). Responding promptly and correcting inaccuracies is crucial to minimize the impact:
 - IRS sends CP2100 and CP2100A notices to payers about TIN discrepancies.
-  
+
 ## Consequences of Non-Compliance
 
 Failing to comply with backup [withholding](../w/withholding.md) requirements can have several repercussions:
@@ -63,12 +63,12 @@ Failing to comply with backup [withholding](../w/withholding.md) requirements ca
 ## Case Study: Implementation in Financial Institutions
 
 Financial institutions are heavily involved in implementing backup [withholding](../w/withholding.md) due to the [volume](../v/volume.md) of transactions they manage.
-- **Process Example**: 
-  - Collect [Customer](../c/customer.md) TIN via Form W-9.
-  - Validate the TIN against IRS databases.
-  - Automatically apply a 24% [withholding](../w/withholding.md) if instructed by the IRS or if there are discrepancies.
-  - Report and [deposit](../d/deposit.md) the withheld funds to the IRS.
-  - [Issue](../i/issue.md) 1099 forms annually summarizing the payments and withholdings.
+- **Process Example**:
+ - Collect [Customer](../c/customer.md) TIN via Form W-9.
+ - Validate the TIN against IRS databases.
+ - Automatically apply a 24% [withholding](../w/withholding.md) if instructed by the IRS or if there are discrepancies.
+ - Report and [deposit](../d/deposit.md) the withheld funds to the IRS.
+ - [Issue](../i/issue.md) 1099 forms annually summarizing the payments and withholdings.
 
 ## Advanced Considerations
 

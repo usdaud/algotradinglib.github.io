@@ -80,7 +80,7 @@ On May 6, 2010, U.S. [financial markets](../f/financial_market.md) experienced a
 In 2012, Knight [Capital](../c/capital.md) Group suffered a $440 million loss due to a faulty algorithm that resulted in erroneous trades. This incident highlighted the critical need for [robust](../r/robust.md) [risk management](../r/risk_management.md) and testing protocols for [trading algorithms](../t/trading_algorithms.md) (Knight [Capital](../c/capital.md) Group incident).
 
 ### **6.3. Citadel LLC**
-Citadel, one of the largest HFT firms globally, has been at the forefront of [algorithmic trading](../a/algorithmic_trading.md). The company's [robust](../r/robust.md) compliance mechanisms serve as a model for incorporating regulatory requirements into [trading strategies](../t/trading_strategies.md) ([Citadel LLC](https://www.citadel.com/)).
+Citadel, one of the largest HFT firms globally, has been at the forefront of [algorithmic trading](../a/algorithmic_trading.md). The company's [robust](../r/robust.md) compliance mechanisms serve as a model for incorporating regulatory requirements into [trading strategies](../t/trading_strategies.md) (Citadel LLC).
 
 ## **7. Conclusion**
 

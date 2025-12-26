@@ -64,12 +64,12 @@ In cases where [debt](../d/debt.md) instruments are publicly traded, securities 
 ### Corporate Debt Restructuring: General Motors
 In 2009, General Motors (GM) underwent one of the most significant corporate [debt](../d/debt.md) restructurings in history. Facing severe financial difficulties, GM filed for [Chapter 11 bankruptcy](../c/chapter_11_bankruptcy.md) protection. The [restructuring](../r/restructuring.md) involved the conversion of [debt](../d/debt.md) to [equity](../e/equity.md), significant renegotiation with bondholders, and a [bailout](../b/bailout.md) from the U.S. government. This process allowed GM to emerge from [bankruptcy](../b/bankruptcy.md) as a more financially stable entity.
 
-**Read more**: [General Motors](https://www.gm.com)
+**Read more**: General Motors
 
 ### Sovereign Debt Restructuring: Greece
 Greece experienced a severe [debt](../d/debt.md) crisis starting in 2009, leading to several rounds of [debt](../d/debt.md) [restructuring](../r/restructuring.md). The [restructuring](../r/restructuring.md) process involved negotiations with the [European Union](../e/european_union_(eu).md), the International Monetary [Fund](../f/fund.md), and [private sector](../p/private_sector.md) creditors. Measures included [bond](../b/bond.md) exchanges, haircuts (reductions in the [principal](../p/principal.md) amount), and extended maturities, aiming to make Greece's [debt](../d/debt.md) more sustainable.
 
-**Read more**: [Greek Crisis](https://ec.europa.eu/info/business-economy-euro/economic-and-fiscal-policy-coordination/eu-financial-assistance/which-eu-countries-have-received-assistance/financial-assistance-greece_en)
+**Read more**: Greek Crisis
 
 ## Best Practices
 

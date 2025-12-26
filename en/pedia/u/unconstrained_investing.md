@@ -1,6 +1,6 @@
 # Unconstrained Investing
 
-Unconstrained [investing](../i/investing.md) is a relatively modern [investment strategy](../i/investment_strategy.md) that breaks away from traditional, [benchmark](../b/benchmark.md)-linked [investing](../i/investing.md) methods. In essence, it provides [fund](../f/fund.md) managers the freedom to invest across a wide array of [asset](../a/asset.md) classes, sectors, and geographies without being tied to a specific [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). The goal of unconstrained [investing](../i/investing.md) is to maximize total returns, regardless of [market](../m/market.md) conditions. 
+Unconstrained [investing](../i/investing.md) is a relatively modern [investment strategy](../i/investment_strategy.md) that breaks away from traditional, [benchmark](../b/benchmark.md)-linked [investing](../i/investing.md) methods. In essence, it provides [fund](../f/fund.md) managers the freedom to invest across a wide array of [asset](../a/asset.md) classes, sectors, and geographies without being tied to a specific [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). The goal of unconstrained [investing](../i/investing.md) is to maximize total returns, regardless of [market](../m/market.md) conditions.
 
 ## Overview
 
@@ -52,15 +52,13 @@ The traditional investment strategies tend to adhere to specific benchmarks or i
 
 ### PIMCO Unconstrained Bond Fund
 
-The PIMCO Unconstrained [Bond Fund](../b/bond_fund.md) is a prime example of an unconstrained strategy in the fixed-[income](../i/income.md) space. Managed by PIMCO, one of the world's largest [investment management](../i/investment_management.md) firms, this [fund](../f/fund.md) takes a flexible approach toward [interest rate](../i/interest_rate.md) exposure, [credit](../c/credit.md) quality, and [duration](../d/duration.md). 
+The PIMCO Unconstrained [Bond Fund](../b/bond_fund.md) is a prime example of an unconstrained strategy in the fixed-[income](../i/income.md) space. Managed by PIMCO, one of the world's largest [investment management](../i/investment_management.md) firms, this [fund](../f/fund.md) takes a flexible approach toward [interest rate](../i/interest_rate.md) exposure, [credit](../c/credit.md) quality, and [duration](../d/duration.md).
 
-For more information, visit their [official site](https://www.pimco.com).
 
 ### BlackRock Global Allocation Fund
 
 The BlackRock Global Allocation [Fund](../f/fund.md) leverages the unconstrained approach by [investing](../i/investing.md) in a wide array of [asset](../a/asset.md) classes, including [stocks](../s/stock.md), bonds, and commodities. The [fund](../f/fund.md) aims to deliver high total returns while managing [volatility](../v/volatility.md) through diversified investments.
 
-For more information, visit their [official site](https://www.blackrock.com).
 
 ## Conclusion
 

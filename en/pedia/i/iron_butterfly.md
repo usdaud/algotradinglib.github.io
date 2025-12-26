@@ -29,7 +29,7 @@ Consider a stock trading at $100. Here’s how an Iron Butterfly might be constr
 
 ## Profit and Loss Potential
 
-The Iron Butterfly's [profit](../p/profit.md) and loss profile are both capped. This means that there is a maximum amount you can [gain](../g/gain.md) and a maximum amount you can lose. 
+The Iron Butterfly's [profit](../p/profit.md) and loss profile are both capped. This means that there is a maximum amount you can [gain](../g/gain.md) and a maximum amount you can lose.
 
 ### Maximum Profit
 
@@ -93,16 +93,16 @@ Professional traders often tweak the Iron Butterfly to suit specific [market](..
 Modern trading platforms and software provide tools for constructing and managing [Iron Butterfly strategies](../i/iron_butterfly_strategies.md). For instance:
 
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides tools for [options](../o/options.md) [trade](../t/trade.md) [execution](../e/execution.md), [risk analysis](../r/risk_analysis.md), and automatic alerts for managing Iron Butterfly positions.
-  
-  More information can be found at: [TD Ameritrade ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+
+ More information can be found at: TD Ameritrade ThinkOrSwim
 
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [robust](../r/robust.md) [options](../o/options.md) trading interface with analysis tools to implement and monitor [Iron Butterfly strategies](../i/iron_butterfly_strategies.md) effectively.
-  
-  More information can be found at: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=options-trading)
+
+ More information can be found at: Interactive Brokers
 
 - **[TradeStation](../t/tradestation.md)**: Known for its advanced analytical tools and strategy automation, [TradeStation](../t/tradestation.md) supports complex [options](../o/options.md) strategies including Iron Butterfly with detailed [performance analytics](../p/performance_analytics.md).
-  
-  More information can be found at: [TradeStation](https://www.tradestation.com/pricing/options/)
+
+ More information can be found at: TradeStation
 
 ## Conclusion
 

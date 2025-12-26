@@ -23,9 +23,9 @@ Gold ETFs operate by pooling [investor](../i/investor.md) funds and using them t
 
 Several gold ETFs have established themselves as leading [options](../o/options.md) for investors. Notable among them are:
 
-- **SPDR Gold [Shares](../s/shares.md) (GLD)**: [SPDR Gold Shares](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-gold-shares-gld)
-- **[iShares](../i/ishares.md) Gold [Trust](../t/trust.md) (IAU)**: [iShares Gold Trust](https://www.ishares.com/us/products/239561/ishares-gold-trust-fund)
-- **Aberdeen Standard Physical Gold [Shares](../s/shares.md) ETF (SGOL)**: [Aberdeen Standard Investments](https://www.aberdeenstandard.com/en-us/investor/fund-centre/etf-fund-range/aberdeen-standard-physical-gold-shares-etf)
+- **SPDR Gold [Shares](../s/shares.md) (GLD)**: SPDR Gold Shares
+- **[iShares](../i/ishares.md) Gold [Trust](../t/trust.md) (IAU)**: iShares Gold Trust
+- **Aberdeen Standard Physical Gold [Shares](../s/shares.md) ETF (SGOL)**: Aberdeen Standard Investments
 
 ## Benefits of Gold ETFs
 

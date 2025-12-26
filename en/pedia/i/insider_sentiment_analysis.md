@@ -6,12 +6,12 @@ Insider [sentiment analysis](../s/sentiment_analysis.md) involves the scrutiny o
 
 #### 1. **Insider Trading**
 
-[Insider trading](../i/insider.md) refers to the buying or selling of a company’s securities by individuals with access to confidential, non-public information about the company. Insiders usually include executives, directors, and employees with significant information about the company’s performance and strategic moves. 
+[Insider trading](../i/insider.md) refers to the buying or selling of a company’s securities by individuals with access to confidential, non-public information about the company. Insiders usually include executives, directors, and employees with significant information about the company’s performance and strategic moves.
 
 #### 2. **Types of Insider Transactions**
 
 There are generally two types of insider transactions:
- 
+
 - **Legal [Insider Trading](../i/insider.md)**: Legal [insider trading](../i/insider.md) occurs when corporate insiders—officers, directors, and employees—buy or sell stock in their own companies following all SEC regulations. These transactions must be reported to the SEC, ensuring [transparency](../t/transparency.md) and accountability.
 - **Illegal [Insider Trading](../i/insider.md)**: Illegal [insider trading](../i/insider.md) happens when someone trades based on non-public, material information obtained in a breach of duty or other relationships of [trust](../t/trust.md) and confidence.
 
@@ -26,7 +26,7 @@ Interpreting insider transactions involves understanding the motive and timing o
 - **[Volume](../v/volume.md) and frequency** of trades by specific insiders.
 - **Net aggregate [insider trading](../i/insider.md)**, summarizing the buying and selling activities over a period.
 
-### Algorithmic Implementation 
+### Algorithmic Implementation
 
 #### 1. **Data Collection and Preprocessing**
 
@@ -62,8 +62,8 @@ These sentiment scores can then be integrated into broader [trading algorithms](
 
 Several quantitative investment funds have effectively utilized insider sentiment within their [trading strategies](../t/trading_strategies.md):
 
-- **Point72 [Asset Management](../a/asset_management.md)** [Website](https://www.point72.com/): Renowned for integrating various data sets, including insider transactions, into their [predictive models](../p/predictive_models_in_trading.md).
-- **Renaissance Technologies** [Website](https://www.rentec.com/): Famous for their Medallion [Fund](../f/fund.md), which capitalizes on [systematic trading](../s/systematic_trading.md) strategies, potentially integrating insider sentiment alongside other sophisticated algorithms.
+- **Point72 [Asset Management](../a/asset_management.md)** online platform: Renowned for integrating various data sets, including insider transactions, into their [predictive models](../p/predictive_models_in_trading.md).
+- **Renaissance Technologies** online platform: Famous for their Medallion [Fund](../f/fund.md), which capitalizes on [systematic trading](../s/systematic_trading.md) strategies, potentially integrating insider sentiment alongside other sophisticated algorithms.
 
 ### Tools and Platforms
 
@@ -71,8 +71,8 @@ Several quantitative investment funds have effectively utilized insider sentimen
 
 - **Python Libraries**: Libraries like `pandas`, `numpy`, and `sklearn` are fundamental for data processing and [machine learning](../m/machine_learning.md) tasks related to insider sentiment.
 - **Data Providers**: Services such as [Quandl](../q/quandl.md), Insider Insights, and Institutional Brokers’ Estimate System (I/B/E/S) provide structured data on insider transactions.
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms like [QuantConnect](../q/quantconnect.md) or [Alpaca](../a/alpaca.md) allow the development and deployment of [trading algorithms](../t/trading_algorithms.md) informed by insider sentiment.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms like [StockSharp](../s/stocksharp.md) or [Alpaca](../a/alpaca.md) allow the development and deployment of [trading algorithms](../t/trading_algorithms.md) informed by insider sentiment.
 
 ### Conclusion
 
-Insider [sentiment analysis](../s/sentiment_analysis.md) represents a powerful approach in the domain of [algorithmic trading](../a/algorithmic_trading.md). By meticulously analyzing [insider trading](../i/insider.md) activities and integrating these insights into [quantitative models](../q/quantitative_models.md), traders can potentially enhance their predictive accuracy and [capitalize](../c/capitalize.md) on the behaviors of those with the most intimate knowledge of a company's prospects. As [trading systems](../t/trading_systems.md) evolve, the increasing sophistication in analyzing and leveraging insider data [will](../w/will.md) likely continue to play a pivotal role in generating [alpha](../a/alpha.md) and maintaining a competitive edge in the markets.
+Insider [sentiment analysis](../s/sentiment_analysis.md) represents a powerful approach in the domain of [algorithmic trading](../a/algorithmic_trading.md). By meticulously analyzing [insider trading](../i/insider.md) activities and integrating these insights into [quantitative models](../q/quantitative_models.md), traders can potentially enhance their predictive accuracy and [capitalize](../c/capitalize.md) on the behaviors of those with the most intimate knowledge of a company's prospects. As [trading systems](../t/trading_systems.md) evolve, the increasing sophistication in analyzing and leveraging insider data [will](../w/will.md) likely continue to play a pivotal role in generating alpha and maintaining a competitive edge in the markets.

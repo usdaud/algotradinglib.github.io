@@ -9,10 +9,10 @@
 ### Causes of Market Cannibalization
 
 1. **Poor [Market Segmentation](../m/market_segmentation.md) and Targeting**: When a company fails to distinguish between distinct [market](../m/market.md) segments and does not properly target its offerings, new products may unwittingly appeal to the same customers as existing products.
-   
+
 2. **Insufficient Differentiation**: If a new product is not sufficiently different from the company’s existing products, customers have little incentive to switch, causing internal competition.
 
-3. **Pricing Strategies**: Price reductions for new products can attract customers from existing products, leading to cannibalization. 
+3. **Pricing Strategies**: Price reductions for new products can attract customers from existing products, leading to cannibalization.
 
 4. **[Brand Loyalty](../b/brand_loyalty.md) and [Equity](../e/equity.md)**: Established brands may have strong consumer loyalty, making it difficult for new products under the same brand to attract new customers without cannibalizing existing ones.
 
@@ -32,7 +32,7 @@ To manage and mitigate [market](../m/market.md) cannibalization, companies need 
 ## Strategies to Mitigate Market Cannibalization
 
 1. **[Market Segmentation](../m/market_segmentation.md)**: Clearly distinguish [market](../m/market.md) segments and target the new product to a different [market segment](../m/market_segment.md) from existing products.
-   
+
 2. **[Product Differentiation](../p/product_differentiation.md)**: Ensure that the new product offers unique features or benefits that distinguish it from existing products.
 
 3. **Bundling and Cross-Promotions**: Create product bundles or cross-promotions that encourage customers to purchase [multiple](../m/multiple.md) products, reducing the likelihood of one product cannibalizing another.
@@ -45,23 +45,21 @@ To manage and mitigate [market](../m/market.md) cannibalization, companies need 
 
 ### Apple Inc. 
 
-Apple offers [multiple](../m/multiple.md) case studies in [market](../m/market.md) cannibalization. Aside from the iPad and MacBook scenario, another instance occurred with the launch of different models of the iPhone. Higher-spec models often lead to a decline in sales of previous models, though Apple compensates by targeting different [market](../m/market.md) segments with varying price points. 
+Apple offers [multiple](../m/multiple.md) case studies in [market](../m/market.md) cannibalization. Aside from the iPad and MacBook scenario, another instance occurred with the launch of different models of the iPhone. Higher-spec models often lead to a decline in sales of previous models, though Apple compensates by targeting different [market](../m/market.md) segments with varying price points.
 
-[Apple Inc.](https://www.apple.com)
+Apple Inc.
 
 ### Nike Inc. 
 
 Nike experienced [market](../m/market.md) cannibalization with the introduction of different models of running shoes. For instance, the introduction of the Nike Free line impacted the sales of older running shoe models. Nike mitigated the impact by targeting different consumer preferences, from professional athletes to casual runners, and emphasizing unique features in each [product line](../p/product_line.md).
 
-[Nike Inc.](https://www.nike.com)
+Nike Inc.
 
 ### Coca-Cola Company
 
 When Coca-Cola introduced Coke Zero to [complement](../c/complement.md) Diet Coke, they encountered [market](../m/market.md) cannibalization. Diet Coke, primarily marketed to women, lost part of its consumer base to Coke Zero, which appeals to a broader demographic including men who were less likely to drink Diet Coke.
 
-[Coca-Cola Company](https://www.coca-colacompany.com)
 
 ## Conclusion
 
 [Market](../m/market.md) cannibalization presents both risks and opportunities. Companies need to carefully consider their product development and [marketing](../m/marketing.md) strategies to minimize the negative impact of internal competition. By understanding the dynamics of [market](../m/market.md) cannibalization and applying effective measures, businesses can introduce new products while maintaining and growing their overall [market share](../m/market_share.md) and profitability.
-

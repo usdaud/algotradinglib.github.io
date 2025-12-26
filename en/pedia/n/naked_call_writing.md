@@ -92,8 +92,8 @@ Given the inherent risks, regulatory bodies such as the U.S. Securities and [Exc
 [Naked call](../n/naked_call.md) writing stands as one of the most high-[risk](../r/risk.md), high-reward strategies in [options](../o/options.md) trading. While it offers the potential for immediate [income](../i/income.md) and significant returns, the [trade](../t/trade.md)-offs include the [risk](../r/risk.md) of unlimited losses and substantial [margin](../m/margin.md) requirements. Traders employing this strategy must possess a deep understanding of [market](../m/market.md) movements, [robust](../r/robust.md) [risk management](../r/risk_management.md), and a disciplined approach to trading.
 
 For more detailed insights and platform-specific guidelines on [options](../o/options.md) trading, visit the following resources:
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
-- [E*TRADE](https://us.etrade.com)
+- Interactive Brokers
+- TD Ameritrade
+- E*TRADE
 
 Engaging with these platforms can provide additional educational resources, [risk management](../r/risk_management.md) tools, and a comprehensive understanding of how to implement [naked call](../n/naked_call.md) writing within a broader [trading strategy](../t/trading_strategy.md).

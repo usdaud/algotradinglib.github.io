@@ -54,15 +54,15 @@ There are several types of [joint](../j/joint.md) ventures, including:
 #### Sony Ericsson
 One of the notable JVs in the telecommunications [industry](../i/industry.md) was Sony Ericsson, a collaboration between Sony [Corporation](../c/corporation.md) and Ericsson. The venture combined Sony's consumer electronics expertise with Ericsson's telecommunications technology to produce mobile phones. This JV leveraged the strengths of both companies to compete in the global [market](../m/market.md).
 
-**More details**: [Sony Mobile](https://www.sonymobile.com/global-en/)
+**More details**: Sony Mobile
 
 #### Dow Corning
 Another example is Dow Corning, a world leader in silicone products. This JV was between The Dow Chemical Company and Corning Incorporated. Dow Corning benefited from the unique knowledge and resources of both parent companies.
 
-**More details**: [Dow Corning](https://www.dow.com)
+**More details**: Dow Corning
 
 ### Conclusion
 
-[Joint](../j/joint.md) Ventures (JVs) are strategic alliances that enable businesses to combine resources, share risks, and tap into new markets. While they [offer](../o/offer.md) significant advantages like resource pooling, [risk](../r/risk.md) sharing, and enhanced [market](../m/market.md) access, they also come with challenges such as complex management, potential conflicts, and legal complexities. Proper planning, clear agreements, and effective management are essential for the success of a JV. 
+[Joint](../j/joint.md) Ventures (JVs) are strategic alliances that enable businesses to combine resources, share risks, and tap into new markets. While they [offer](../o/offer.md) significant advantages like resource pooling, [risk](../r/risk.md) sharing, and enhanced [market](../m/market.md) access, they also come with challenges such as complex management, potential conflicts, and legal complexities. Proper planning, clear agreements, and effective management are essential for the success of a JV.
 
 By combining strengths, businesses can achieve goals that might be unattainable individually, making JVs a powerful tool in the global [business](../b/business.md) environment.

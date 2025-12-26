@@ -62,15 +62,15 @@ Several fintech companies have made strides in addressing the needs of the under
 
 ### Chime
 
-Chime is a neobank that offers various services tailored to the underbanked, such as zero-[fee](../f/fee.md) checking and savings accounts, early [direct deposit](../d/direct_deposit.md), and an automated savings feature. Chime's user-friendly mobile app simplifies financial management for those who may lack traditional banking access. More details about Chime's services can be found at [Chime's official website](https://www.chime.com/).
+Chime is a neobank that offers various services tailored to the underbanked, such as zero-[fee](../f/fee.md) checking and savings accounts, early [direct deposit](../d/direct_deposit.md), and an automated savings feature. Chime's user-friendly mobile app simplifies financial management for those who may lack traditional banking access. More details about Chime's services can be found at Chime's
 
 ### PayPal
 
-[PayPal](../p/paypal.md) provides a [range](../r/range.md) of financial services that cater to the underbanked, such as digital wallets, [money](../m/money.md) transfers, and microloans. With its wide acceptance and user-friendly interface, [PayPal](../p/paypal.md) has made it easier for underbanked individuals to engage in e-[commerce](../c/commerce.md) and online transactions. Visit [PayPal's official website](https://www.paypal.com/) for more information.
+[PayPal](../p/paypal.md) provides a [range](../r/range.md) of financial services that cater to the underbanked, such as digital wallets, [money](../m/money.md) transfers, and microloans. With its wide acceptance and user-friendly interface, [PayPal](../p/paypal.md) has made it easier for underbanked individuals to engage in e-[commerce](../c/commerce.md) and online transactions.
 
 ### Dave
 
-Dave is another fintech company focused on helping the underbanked avoid [overdraft](../o/overdraft.md) fees with features like early paychecks, budgeting tools, and small cash advances. Dave's app offers an array of financial tools tailored to the needs of individuals who are often neglected by traditional financial institutions. Learn more at [Dave's official website](https://www.dave.com/).
+Dave is another fintech company focused on helping the underbanked avoid [overdraft](../o/overdraft.md) fees with features like early paychecks, budgeting tools, and small cash advances. Dave's app offers an array of financial tools tailored to the needs of individuals who are often neglected by traditional financial institutions.
 
 ## Regulatory Environment
 

@@ -114,5 +114,4 @@ The CSE is poised for continued growth and development, driven by several key fa
 
 The Colombo Stock [Exchange](../e/exchange.md) (CSE) is a vital component of Sri Lanka's [financial system](../f/financial_system.md), providing a platform for the trading of securities and facilitating [capital](../c/capital.md) formation. With a modern electronic trading system, [robust](../r/robust.md) regulatory framework, and commitment to [investor](../i/investor.md) protection, the CSE is well-positioned to support the growth and development of the Sri Lankan [economy](../e/economy.md). As the [exchange](../e/exchange.md) continues to evolve and innovate, it [will](../w/will.md) play an increasingly important role in the global financial landscape.
 
-For more information, you can visit the official website of the Colombo Stock [Exchange](../e/exchange.md):
-[https://www.cse.lk/](https://www.cse.lk/)
+./e/exchange.md):

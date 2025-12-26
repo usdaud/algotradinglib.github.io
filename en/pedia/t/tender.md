@@ -101,13 +101,13 @@ These are the entities that respond to tenders, providing bids to win projects o
 
 ## Examples of Tendering Platforms
 
-### 1. [Tenders Direct](https://www.tendersdirect.co.uk)
+### 1. Tenders Direct
 A UK-based platform that provides access to public sector contract opportunities.
 
-### 2. [Government eMarketplace (GeM)](https://gem.gov.in)
+### 2. Government eMarketplace (GeM)
 An Indian government initiative to create an [open](../o/open.md) and transparent [procurement](../p/procurement.md) system for government departments and organizations.
 
-### 3. [EU Tenders](https://ted.europa.eu/TED/main/HomePage.do)
+### 3. EU Tenders
 The [European Union](../e/european_union_(eu).md)'s tendering portal, providing access to tender opportunities from across the EU.
 
 ## Conclusion

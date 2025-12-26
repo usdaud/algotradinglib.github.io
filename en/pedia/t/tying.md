@@ -34,30 +34,30 @@ Tying is a sales practice where a seller conditions the [sale](../s/sale.md) of 
 ## Types of Tying Arrangements
 
 1. **Contractual Tying**
-   - Explicitly stated in sales agreements
-   - Example: Software bundled with specific hardware
+ - Explicitly stated in sales agreements
+ - Example: Software bundled with specific hardware
 
 2. **Technological Tying**
-   - Products designed to work only with specific complementary products
-   - Example: Proprietary printer cartridges
+ - Products designed to work only with specific complementary products
+ - Example: Proprietary printer cartridges
 
 3. **Economic Tying**
-   - Pricing structures that make separate purchases uneconomical
-   - Example: Significant discounts for bundled purchases
+ - Pricing structures that make separate purchases uneconomical
+ - Example: Significant discounts for bundled purchases
 
 ## Examples in Finance and Business
 
 1. **Banking Services**
-   - Requiring a [checking account](../c/checking_account.md) to get a [loan](../l/loan.md)
+ - Requiring a [checking account](../c/checking_account.md) to get a [loan](../l/loan.md)
 
 2. **Software Licensing**
-   - Bundling [multiple](../m/multiple.md) software products in one license
+ - Bundling [multiple](../m/multiple.md) software products in one license
 
 3. **Telecommunications**
-   - Bundling internet, phone, and TV services
+ - Bundling internet, phone, and TV services
 
 4. **Franchising**
-   - Requiring franchisees to purchase supplies from the franchisor
+ - Requiring franchisees to purchase supplies from the franchisor
 
 ## Legal Status
 
@@ -87,16 +87,16 @@ Tying is a sales practice where a seller conditions the [sale](../s/sale.md) of 
 ## Detection and Enforcement
 
 1. **Regulatory Scrutiny**
-   - Monitored by [antitrust](../a/antitrust.md) authorities
-   - Often investigated following complaints
+ - Monitored by [antitrust](../a/antitrust.md) authorities
+ - Often investigated following complaints
 
 2. **Legal Challenges**
-   - Can result in lawsuits from competitors or consumers
-   - Potential for significant fines and forced [unbundling](../u/unbundling.md)
+ - Can result in lawsuits from competitors or consumers
+ - Potential for significant fines and forced [unbundling](../u/unbundling.md)
 
 3. **[Market](../m/market.md) Analysis**
-   - Economists analyze [market](../m/market.md) impacts
-   - Assessment of [market power](../m/market_power.md) and consumer harm
+ - Economists analyze [market](../m/market.md) impacts
+ - Assessment of [market power](../m/market_power.md) and consumer harm
 
 ## Related Concepts
 

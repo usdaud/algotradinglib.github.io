@@ -103,17 +103,17 @@ Complex, opaque, or frequently changing regulations can hinder the [business](..
 
 ## Examples of FDI
 
-### 1. **Toyota Motor Corporation**: 
-Toyota has made significant FDIs globally. The Japanese automaker established [manufacturing](../m/manufacturing.md) plants in the United States, which is a prime example of horizontal FDI aimed at producing and selling cars in the U.S. [market](../m/market.md). [Website](https://www.toyota-global.com/)
+### 1. **Toyota Motor Corporation**:
+Toyota has made significant FDIs globally. The Japanese automaker established [manufacturing](../m/manufacturing.md) plants in the United States, which is a prime example of horizontal FDI aimed at producing and selling cars in the U.S. [market](../m/market.md). online platform
 
 ### 2. **Google**:
-Google's [acquisition](../a/acquisition.md) of the Israeli start-up Waze is an instance of vertical FDI. Through this [acquisition](../a/acquisition.md), Google integrated Waze's real-time data capabilities to enhance its own product offerings. [Website](https://about.google/)
+Google's [acquisition](../a/acquisition.md) of the Israeli start-up Waze is an instance of vertical FDI. Through this [acquisition](../a/acquisition.md), Google integrated Waze's real-time
 
 ### 3. **Apple Inc.**:
-Apple's investment in setting up [manufacturing](../m/manufacturing.md) units in China to produce its iPhones is a Greenfield investment. This strategy allows Apple to benefit from lower [manufacturing](../m/manufacturing.md) costs in China while maintaining control over its production processes. [Website](https://www.apple.com/)
+Apple's investment in setting up [manufacturing](../m/manufacturing.md) units in China to produce its iPhones is a Greenfield investment. This strategy allows Apple to benefit from lower [manufacturing](../m/manufacturing.md) costs in China
 
 ### 4. **Intel Corporation**:
-Intel's $5.4 billion [acquisition](../a/acquisition.md) of Mobileye, an Israeli company that develops autonomous driving technology, represents a [conglomerate](../c/conglomerate.md) FDI. This [acquisition](../a/acquisition.md) aimed at diversifying Intel's portfolio and entering the burgeoning autonomous vehicle [industry](../i/industry.md). [Website](https://www.intel.com/)
+Intel's $5.4 billion [acquisition](../a/acquisition.md) of Mobileye, an Israeli company that develops autonomous driving technology, represents a [conglomerate](../c/conglomerate.md) FDI. This [acquisition](../a/acquisition.md) aimed at diversifying Intel's portfolio and entering the burgeoning autonomous vehicle [industry](../i/industry.md). online platform
 
 ## Conclusion
 

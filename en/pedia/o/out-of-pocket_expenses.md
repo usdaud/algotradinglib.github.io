@@ -73,9 +73,9 @@ Out-of-pocket expenses are a critical aspect of personal and [business](../b/bus
 
 ## External Links
 
-- [Expensify](https://www.expensify.com)
-- [Concur](https://www.concur.com)
-- [Mint](https://www.mint.com)
-- [YNAB](https://www.youneedabudget.com)
-- [GoodRx](https://www.goodrx.com)
-- [Personal Capital](https://www.personalcapital.com)
+- Expensify
+- Concur
+- Mint
+- YNAB
+- GoodRx
+- Personal Capital

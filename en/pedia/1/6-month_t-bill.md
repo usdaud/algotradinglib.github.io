@@ -8,7 +8,7 @@ A [6-Month Treasury Bill](../1/6-month_treasury_bill.md) (T-Bill) is a [short-te
 As the name suggests, a 6-Month T-Bill has a [maturity](../m/maturity.md) of six months, or approximately 182 days. This relatively short [maturity](../m/maturity.md) period makes these instruments particularly appealing for investors looking for [liquidity](../l/liquidity.md) and safety.
 
 ### Issuance and Trading
-6-Month T-Bills are issued through a competitive bidding process at Treasury auctions. Smaller investors can purchase these bills indirectly through brokers or directly through the TreasuryDirect website. After their issuance, these bills can be sold in the [secondary market](../s/secondary_market.md) if the [investor](../i/investor.md) needs [liquidity](../l/liquidity.md) before the [maturity date](../m/maturity_date.md).
+6-Month T-Bills are issued through a competitive bidding process at Treasury auctions. Smaller investors can purchase these bills indirectly through brokers or directly through the TreasuryDirect. After their issuance, these bills can be sold in the [secondary market](../s/secondary_market.md) if the [investor](../i/investor.md) needs [liquidity](../l/liquidity.md) before the [maturity date](../m/maturity_date.md).
 
 ### Yield Calculation
 The [yield](../y/yield.md) on a 6-Month T-Bill is calculated based on the difference between the purchase price and the [face value](../f/face_value.md). The formula for [yield](../y/yield.md) is:
@@ -59,7 +59,6 @@ Can purchase T-Bills through brokerage accounts or directly via TreasuryDirect, 
 Such as mutual funds, pension funds, and [insurance](../i/insurance.md) companies, often [hold](../h/hold.md) T-Bills as part of their [asset allocation](../a/asset_allocation.md) strategies to mitigate [risk](../r/risk.md) and ensure [liquidity](../l/liquidity.md).
 
 ## Further Reading
-For more details, you can visit [U.S. Department of the Treasury](https://www.treasurydirect.gov/).
+For more details, you can visit U.S. Department of the Treasury.
 
 Understanding the full [scope](../s/scope.md) of 6-Month T-Bills, their benefits, and how they fit into the broader financial [market](../m/market.md) can help investors make informed decisions.
-

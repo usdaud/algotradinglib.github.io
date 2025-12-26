@@ -52,4 +52,3 @@ CoinTiger provides an API for [algorithmic trading](../a/accountability.md), all
 ## Conclusion
 CoinTiger has established itself as a prominent player in the cryptocurrency [exchange](../e/exchange.md) [industry](../i/industry.md) by focusing on [security](../s/security.md), diverse trading [options](../o/options.md), and community engagement. With its continuous efforts to enhance user experience and expand its offerings, CoinTiger remains a popular choice for cryptocurrency traders globally.
 
-For more information, you can visit their official website: [CoinTiger](https://www.cointiger.com/)

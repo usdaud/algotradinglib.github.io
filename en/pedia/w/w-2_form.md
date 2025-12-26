@@ -1,6 +1,6 @@
 # W-2 Form
 
-The W-2 form, officially known as the "Wage and Tax Statement," is a crucial document in the United States for both employees and employers. It is issued by an employer to their employees and the Internal [Revenue](../r/revenue.md) Service (IRS) at the end of each year. The form details the employee's [earnings](../e/earnings.md) and the [taxes](../t/taxes.md) withheld from their paycheck over the course of the year. 
+The W-2 form, officially known as the "Wage and Tax Statement," is a crucial document in the United States for both employees and employers. It is issued by an employer to their employees and the Internal [Revenue](../r/revenue.md) Service (IRS) at the end of each year. The form details the employee's [earnings](../e/earnings.md) and the [taxes](../t/taxes.md) withheld from their paycheck over the course of the year.
 
 ## Purpose of the W-2 Form
 
@@ -38,7 +38,7 @@ Employers are required to [issue](../i/issue.md) W-2 forms to employees and file
 
 In addition to paper filing, the W-2 form can be filed electronically using the [Social Security](../s/social_security.md) Administration’s (SSA) [Business](../b/business.md) Services Online (BSO) portal. Electronic filing can be more efficient and provide quicker confirmation of receipt. Employers may also deliver W-2 forms electronically to employees, provided they adhere to consent requirements outlined by the IRS.
 
-For further details or assistance with electronic filing, visit the [Social Security Administration's Business Services Online portal](https://www.ssa.gov/bso/bsowelcome.htm).
+For further details or assistance with electronic filing, visit the Social Security Administration's Business Services Online portal.
 
 ## Amendments and Corrections
 

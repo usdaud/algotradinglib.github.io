@@ -96,4 +96,3 @@ The QSE supports the issuance of [green bonds](../g/green_bonds.md), which [fina
 
 The Qatar Stock [Exchange](../e/exchange.md) has established itself as a key player in the Middle East’s financial landscape. With a [robust](../r/robust.md) regulatory framework, technological advancements, and initiatives to attract [foreign investment](../f/foreign_investment.md), the QSE is well-positioned for future growth. As Qatar continues to diversify its [economy](../e/economy.md) and emphasize sustainable development, the QSE [will](../w/will.md) play a crucial role in facilitating [capital](../c/capital.md) flows and supporting economic progress.
 
-Official Website: [Qatar Stock Exchange](https://www.qe.com.qa/)

@@ -93,18 +93,18 @@ By incorporating assets or [trading strategies](../t/trading_strategies.md) with
 ### Options Analytics Platforms
 
 Several [software platforms](../s/software_platforms_for_trading.md) provide advanced analytics for [options](../o/options.md) trading, including implied [volatility](../v/volatility.md). Some popular [options](../o/options.md) include:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- [OptionMetrics](https://www.optionmetrics.com/)
-  
+- Bloomberg Terminal
+- Thomson Reuters Eikon
+- OptionMetrics
+
 These platforms [offer](../o/offer.md) comprehensive tools for analyzing implied [volatility](../v/volatility.md), building [trading strategies](../t/trading_strategies.md), and monitoring [market](../m/market.md) conditions.
 
 ### Broker Platforms
 
 Many online brokers also provide tools for analyzing implied [volatility](../v/volatility.md). For instance:
-- [TD Ameritrade's thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [E*TRADE](https://us.etrade.com/)
+- TD Ameritrade's thinkorswim
+- Interactive Brokers
+- E*TRADE
 
 These platforms often include various analytical tools, charts, and real-time data streaming capabilities for [options](../o/options.md) traders.
 

@@ -55,9 +55,9 @@ Bootstrapping is one of the most commonly used methods for zero curve constructi
 2. **Calculate Short-Term Spot Rates**: The [yield](../y/yield.md) on a [zero-coupon bond](../z/zero-coupon_bond.md) maturing at time `t` is the [spot rate](../s/spot_rate.md) `z(t)`. For short-term instruments, the [spot rate](../s/spot_rate.md) is directly observable.
 
 3. **Iterative Bootstrapping**:
-    - For each subsequent [maturity](../m/maturity.md), select a coupon-bearing [bond](../b/bond.md).
-    - Calculate the [present value](../p/present_value.md) of future cash flows using spot rates derived from previous iterations.
-    - Solve for the new [spot rate](../s/spot_rate.md) `z(t)` that correctly discounts the remaining cash flows to match the [bond](../b/bond.md)'s [market price](../m/market_price.md).
+ - For each subsequent [maturity](../m/maturity.md), select a coupon-bearing [bond](../b/bond.md).
+ - Calculate the [present value](../p/present_value.md) of future cash flows using spot rates derived from previous iterations.
+ - Solve for the new [spot rate](../s/spot_rate.md) `z(t)` that correctly discounts the remaining cash flows to match the [bond](../b/bond.md)'s [market price](../m/market_price.md).
 
 The bootstrapping process continues iteratively until spot rates are obtained for all desired maturities.
 

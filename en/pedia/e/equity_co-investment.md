@@ -60,33 +60,33 @@ Coordinating [multiple](../m/multiple.md) investors can be complex, particularly
 
 ### Blackstone Group
 
-Blackstone Group is one of the world's leading investment firms, providing various investment vehicles, including [equity](../e/equity.md) co-investments. Their significant global presence and experienced team make them prominent facilitators and lead investors in numerous co-investment deals. 
+Blackstone Group is one of the world's leading investment firms, providing various investment vehicles, including [equity](../e/equity.md) co-investments. Their significant global presence and experienced team make them prominent facilitators and lead investors in numerous co-investment deals.
 
-**Website:** [Blackstone Group](https://www.blackstone.com)
+**online platform:** Blackstone Group
 
 ### KKR & Co. Inc.
 
 KKR & Co. Inc. is another global investment [firm](../f/firm.md) known for its expertise in [private equity](../p/private_equity.md). KKR often acts as a lead [investor](../i/investor.md) in co-investment deals, leveraging its [industry](../i/industry.md) knowledge and [robust](../r/robust.md) network to identify and [capitalize](../c/capitalize.md) on promising opportunities.
 
-**Website:** [KKR & Co. Inc.](https://www.kkr.com)
+**online platform:** KKR & Co. Inc.
 
 ### Carlyle Group
 
 Carlyle Group provides co-investment opportunities across various sectors, including healthcare, technology, and energy. As a leading global investment [firm](../f/firm.md), Carlyle Group leverages its extensive resources and expert teams to source, evaluate, and manage co-investment deals.
 
-**Website:** [Carlyle Group](https://www.carlyle.com)
+**online platform:** Carlyle Group
 
 ### Apollo Global Management
 
 Apollo Global Management is renowned for its [alternative investment](../a/alternative_investment.md) strategies, including [private equity](../p/private_equity.md) and co-investments. They provide investors with opportunities to participate in substantial [equity](../e/equity.md) deals, driven by their rigorous investment processes and strong [industry](../i/industry.md) connections.
 
-**Website:** [Apollo Global Management](https://www.apollo.com)
+**online platform:** Apollo Global Management
 
 ### TPG Capital
 
 TPG [Capital](../c/capital.md) specializes in [private equity](../p/private_equity.md) and provides co-investment opportunities across diverse industries. Their focused approach and extensive experience make them a preferred partner for investors looking to engage in high-quality co-investment deals.
 
-**Website:** [TPG Capital](https://www.tpg.com)
+**online platform:** TPG Capital
 
 ## Case Studies of Successful Equity Co-Investments
 

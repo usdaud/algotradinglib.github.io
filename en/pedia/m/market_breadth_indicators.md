@@ -190,7 +190,7 @@ Traders can use the Breadth Thrust [Indicator](../i/indicator.md) to detect sign
 [Market breadth](../m/market_breadth.md) indicators are invaluable tools for understanding the internal dynamics of the [stock market](../s/stock_market.md), enabling traders to assess the overall [market sentiment](../m/market_sentiment.md) and strength. Their integration into [algorithmic trading](../a/algorithmic_trading.md) systems allows for more nuanced and informed trading decisions, enhancing the effectiveness of various [trading strategies](../t/trading_strategies.md).
 
 For more information on companies providing [market breadth](../m/market_breadth.md) indicators and [algorithmic trading](../a/algorithmic_trading.md) solutions, consider exploring:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- [TradeStation](https://www.tradestation.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- Bloomberg Terminal
+- Thomson Reuters Eikon
+- TradeStation
+- NinjaTrader

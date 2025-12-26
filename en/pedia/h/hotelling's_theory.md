@@ -69,7 +69,7 @@ where \( \mu \) represents the drift term ([expected return](../e/expected_retur
 Empirical studies in oil markets frequently reference Hotelling's Theory. For instance, Oil price trends often appear to exhibit the predicted price paths, though influenced by geopolitical events, technological breakthroughs in extraction techniques (like fracturing), and discovery of new reserves.
 
 ### Mineral Resources
-Copper, gold, and other mineral markets also provide fertile ground for testing Hotelling's predictions. Variations in [mining](../m/mining.md) [efficiency](../e/efficiency.md), discovery of high-grade ores, and regulation impacts significantly shape these markets. 
+Copper, gold, and other mineral markets also provide fertile ground for testing Hotelling's predictions. Variations in [mining](../m/mining.md) [efficiency](../e/efficiency.md), discovery of high-grade ores, and regulation impacts significantly shape these markets.
 
 ### Renewable Resources
 While primarily focused on nonrenewable resources, some adaptations of Hotelling's Theory also address [renewable resources](../r/renewable_resource.md) by considering regeneration rates. The optimal extraction path then incorporates both [depletion](../d/depletion.md) and regeneration dynamics.

@@ -11,7 +11,7 @@
 ### Types of Duration
 
 1. **[Macaulay Duration](../m/macaulay_duration.md)**: This is the [weighted average](../w/weighted_average.md) time to receive the [bond](../b/bond.md)'s cash flows and is calculated using the [present value](../p/present_value.md) of the [bond](../b/bond.md)'s cash flows. It is often used in academic contexts and provides a foundational understanding of [duration](../d/duration.md).
-   
+
 2. **[Modified Duration](../m/modified_duration.md)**: This adjusts [Macaulay duration](../m/macaulay_duration.md) to measure the [percentage change](../p/percentage_change.md) in the [bond](../b/bond.md)'s price for a 1% change in [yield](../y/yield.md). It is more practical for assessing [interest rate risk](../i/interest_rate_risk.md).
 
 3. **[Effective Duration](../e/effective_duration.md)**: This is used for bonds with embedded [options](../o/options.md) (e.g., callable bonds). It measures the sensitivity of the [bond](../b/bond.md)'s price to changes in the [yield curve](../y/yield_curve.md), considering changes in cash flows due to the [options](../o/options.md).
@@ -77,12 +77,12 @@ Active strategies aim to exploit expected changes in [interest](../i/interest.md
 
 ### Example Companies and Their Duration Strategies
 
-1. **PIMCO**: PIMCO is one of the largest [bond fund](../b/bond_fund.md) managers globally, renowned for its advanced [duration](../d/duration.md) strategies. Their approach involves combining [active management](../a/active_management.md) with [duration](../d/duration.md) matching to optimize [bond](../b/bond.md) portfolios. [Website](https://www.pimco.com)
-   
-2. **BlackRock**: BlackRock employs [duration](../d/duration.md)-based strategies to manage its extensive [bond](../b/bond.md) portfolios, focusing on both passive and [active management](../a/active_management.md) techniques to optimize [risk](../r/risk.md)-adjusted returns. [Website](https://www.blackrock.com)
+1. **PIMCO**: PIMCO is one of the largest [bond fund](../b/bond_fund.md) managers globally, renowned for its advanced [duration](../d/duration.md) strategies. Their approach involves combining [active management](../a/active_management.md) with [duration](../d/duration.md) matching to optimize [bond](../b/bond.md)
 
-3. **Vanguard**: Vanguard relies on [duration](../d/duration.md) management as a core component of its [bond](../b/bond.md) [investment strategy](../i/investment_strategy.md), balancing passive [index](../i/index_instrument.md) tracking with active [duration](../d/duration.md) adjustments to enhance performance. [Website](https://www.vanguard.com)
+2. **BlackRock**: BlackRock employs [duration](../d/duration.md)-based strategies to manage its extensive [bond](../b/bond.md) portfolios, focusing on both passive and [active management](../a/active_management.md) techniques to optimize [risk](../r/risk.md)-adjusted
+
+3. **Vanguard**: Vanguard relies on [duration](../d/duration.md) management as a core component of its [bond](../b/bond.md) [investment strategy](../i/investment_strategy.md), balancing passive [index](../i/index_instrument.md) tracking with active [duration](../d/duration.md)
 
 ## Conclusion
 
-[Bond](../b/bond.md) [duration](../d/duration.md) strategies are integral to managing [fixed income](../f/fixed_income.md) investments, [offering](../o/offering.md) tools to mitigate [interest rate risk](../i/interest_rate_risk.md) and optimize returns. Understanding the different types of [duration](../d/duration.md), their calculations, and their applications in [portfolio management](../p/portfolio_management.md) is essential for investors aiming to construct resilient and performance-driven [bond](../b/bond.md) portfolios. By incorporating these strategies, investors can better navigate the complexities of the [bond market](../b/bond_market.md), ensuring their portfolios are well-positioned to achieve their financial objectives.
+[Bond](../b/bond.md) [duration](../d/duration.md) strategies are integral to managing [fixed income](../f/fixed_income.md) investments, [offering](../o/offering.md) tools to mitigate [interest rate risk](../i/interest_rate_risk.md) and optimize returns. Understanding the different types of [duration](../d/duration.md), their calculations, and their applications in [portfolio management](../p/portfolio_management.md) is essential for investors aiming to construct resilient and performance-driven [bond](../b/bond.md) portfolios. By incorporating these strategies, investors can better navigate the complexities of the [bond market](../b/bond_market.md), ensuring their portfolios are well-positioned to achieve their financial objectives.

@@ -71,19 +71,19 @@ Several platforms and tools provide the necessary capabilities for performing [o
 
 ### Bookmap
 
-Bookmap is a [trading platform](../t/trading_platform.md) known for its detailed visualization of [order book](../o/order_book.md) data and real-time trading activity. [Bookmap](https://bookmap.com/) helps traders understand [market dynamics](../m/market_dynamics.md) and make informed trading decisions.
+Bookmap is a [trading platform](../t/trading_platform.md) known for its detailed visualization of [order book](../o/order_book.md) data and real-time trading activity. Bookmap helps traders understand [market dynamics](../m/market_dynamics.md) and make informed trading decisions.
 
 ### Jigsaw Trading
 
-[Jigsaw Trading](../j/jigsaw_trading.md) offers advanced [order flow analysis](../o/order_flow_analysis.md) tools, such as depth and sales, reconstructed tape, and the ability to filter and highlight important [market](../m/market.md) data. [Jigsaw Trading](https://www.jigsawtrading.com/) is used by professional traders for its extensive analytical capabilities.
+[Jigsaw Trading](../j/jigsaw_trading.md) offers advanced [order flow analysis](../o/order_flow_analysis.md) tools, such as depth and sales, reconstructed tape, and the ability to filter and highlight important [market](../m/market.md) data. Jigsaw Trading is used by professional traders for its extensive analytical capabilities.
 
 ### Sierra Chart
 
-[Sierra Chart](../s/sierra_chart.md) is a professional [trading platform](../t/trading_platform.md) that supports advanced [order](../o/order.md) flow analytics, including detailed [volume](../v/volume.md) profiles, footprint charts, and analysis of [market depth](../m/market_depth.md). [Sierra Chart](https://www.sierrachart.com/) provides traders with comprehensive tools for [order flow analysis](../o/order_flow_analysis.md).
+[Sierra Chart](../s/sierra_chart.md) is a professional [trading platform](../t/trading_platform.md) that supports advanced [order](../o/order.md) flow analytics, including detailed [volume](../v/volume.md) profiles, footprint charts, and analysis of [market depth](../m/market_depth.md). Sierra Chart provides traders with comprehensive tools for [order flow analysis](../o/order_flow_analysis.md).
 
 ### Quantower
 
-Quantower offers a suite of advanced trading tools, including detailed [order book](../o/order_book.md) and footprint charts, enabling traders to perform in-depth [order flow analysis](../o/order_flow_analysis.md). [Quantower](https://www.quantower.com/) caters to both retail and professional traders with its powerful analytical features.
+Quantower offers a suite of advanced trading tools, including detailed [order book](../o/order_book.md) and footprint charts, enabling traders to perform in-depth [order flow analysis](../o/order_flow_analysis.md). Quantower caters to both retail and professional traders with its powerful analytical features.
 
 ## Application of Order Flow Analytics in Trading Strategies
 
@@ -131,7 +131,7 @@ Not all trades are indicative of [market sentiment](../m/market_sentiment.md). H
 
 For more information on [order flow analysis](../o/order_flow_analysis.md) and the tools mentioned, visit their websites:
 
-- [Bookmap](https://bookmap.com/)
-- [Jigsaw Trading](https://www.jigsawtrading.com/)
-- [Sierra Chart](https://www.sierrachart.com/)
-- [Quantower](https://www.quantower.com/)
+- Bookmap
+- Jigsaw Trading
+- Sierra Chart
+- Quantower

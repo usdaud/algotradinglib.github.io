@@ -50,7 +50,6 @@ Long-run analysis must account for technological advances that can disrupt indus
 ### Warren Buffet’s Berkshire Hathaway
 Warren Buffett’s investment philosophy emphasizes holding investment for the long haul. His company, [Berkshire Hathaway](../b/berkshire_hathaway.md), has thrived by acquiring and holding [undervalued](../u/undervalued.md) securities and businesses over extended periods, allowing compound growth and the realization of [intrinsic value](../i/intrinsic_value.md) over time.
 
-[Visit Berkshire Hathaway's Official Site](http://www.berkshirehathaway.com).
 
 ## Conclusion
 

@@ -38,8 +38,8 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), recognizin
 4. **[Backtesting](../b/backtesting.md)**: [Trading strategies](../t/trading_strategies.md) based on Kitchin Cycles should be backtested against historical data to evaluate their effectiveness and robustness.
 
 ### Case Studies
-1. **TrendFollowing™**: A company that specializes in various [trend](../t/trend.md)-following [trading strategies](../t/trading_strategies.md) often considers macroeconomic cycles, including Kitchin Cycles, to enhance their algorithmic models. Visit their website here: [TrendFollowing](https://www.trendfollowing.com/)
-2. **Quantitative Brokers**: This [firm](../f/firm.md) provides [algorithmic trading](../a/algorithmic_trading.md) solutions and analytics which may include the integration of [economic cycles](../e/economic_cycles.md) to optimize [trade](../t/trade.md) [execution](../e/execution.md) and strategy. More information can be found here: [Quantitative Brokers](https://www.quantitativebrokers.com/)
+1. **TrendFollowing™**: A company that specializes in various [trend](../t/trend.md)-following [trading strategies](../t/trading_strategies.md) often considers macroeconomic cycles, including Kitchin Cycles, to enhance their algorithmic models.
+2. **Quantitative Brokers**: This [firm](../f/firm.md) provides [algorithmic trading](../a/algorithmic_trading.md) solutions and analytics which may include the integration of [economic cycles](../e/economic_cycles.md) to optimize [trade](../t/trade.md) [execution](../e/execution.md) and strategy. More information can be found here: Quantitative Brokers
 
 ## Challenges and Considerations
 

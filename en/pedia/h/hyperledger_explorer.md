@@ -1,16 +1,16 @@
 # Hyperledger Explorer
 
-[Hyperledger](../h/hyperledger.md) Explorer is an [open](../o/open.md)-source [blockchain](../b/blockchain_in_trading.md) module within the larger [Hyperledger](../h/hyperledger.md) project umbrella hosted by The Linux Foundation. It serves as a powerful browser for viewing, managing, and monitoring [blockchain](../b/blockchain_in_trading.md) deployments. This [blockchain](../b/blockchain_in_trading.md) viewer is specifically designed to allow users to create a user-friendly web application for searching, querying, and visualizing data on a [Hyperledger Fabric](../h/hyperledger_fabric.md) [blockchain](../b/blockchain_in_trading.md) network. 
+[Hyperledger](../h/hyperledger.md) Explorer is an [open](../o/open.md)-source [blockchain](../b/blockchain_in_trading.md) module within the larger [Hyperledger](../h/hyperledger.md) project umbrella hosted by The Linux Foundation. It serves as a powerful browser for viewing, managing, and monitoring [blockchain](../b/blockchain_in_trading.md) deployments. This [blockchain](../b/blockchain_in_trading.md) viewer is specifically designed to allow users to create a user-friendly web application for searching, querying, and visualizing data on a [Hyperledger Fabric](../h/hyperledger_fabric.md) [blockchain](../b/blockchain_in_trading.md) network.
 
 This comprehensive guide delves into the various components and functionalities of [Hyperledger](../h/hyperledger.md) Explorer, elucidating its importance, architecture, use cases, and more.
 
 ## Introduction to Hyperledger Explorer
 
-[Hyperledger](../h/hyperledger.md) Explorer provides a user interface for visual analytics and drill-down capabilities to understand and monitor different aspects of [blockchain](../b/blockchain_in_trading.md) activity. It's an essential tool for anyone working with [Hyperledger Fabric](../h/hyperledger_fabric.md) who needs to track chaincodes, transactions, and blocks across [multiple](../m/multiple.md) nodes. 
+[Hyperledger](../h/hyperledger.md) Explorer provides a user interface for visual analytics and drill-down capabilities to understand and monitor different aspects of [blockchain](../b/blockchain_in_trading.md) activity. It's an essential tool for anyone working with [Hyperledger Fabric](../h/hyperledger_fabric.md) who needs to track chaincodes, transactions, and blocks across [multiple](../m/multiple.md) nodes.
 
 ## Core Features
 
-[Hyperledger](../h/hyperledger.md) Explorer offers numerous features that make it a valuable tool for developers, administrators, and [business](../b/business.md) stakeholders. 
+[Hyperledger](../h/hyperledger.md) Explorer offers numerous features that make it a valuable tool for developers, administrators, and [business](../b/business.md) stakeholders.
 
 ### Real-Time Monitoring
 
@@ -70,8 +70,7 @@ The process to install and set up [Hyperledger](../h/hyperledger.md) Explorer ca
 ### Clone Repository
 
 ```bash
-git clone https://github.com/[hyperledger](../h/hyperledger.md)/[blockchain](../b/blockchain_in_trading.md)-explorer.git
-cd [blockchain](../b/blockchain_in_trading.md)-explorer
+git clone cd [blockchain](../b/blockchain_in_trading.md)-explorer
 ```
 
 ### Configure Database
@@ -86,7 +85,7 @@ CREATE USER explorer WITH ENCRYPTED PASSWORD 'explorerpw';
 
 ### Environment Configuration
 
-Set up the environment variables by copying the sample configuration files provided within the repository. 
+Set up the environment variables by copying the sample configuration files provided within the repository.
 
 ```bash
 cp app/platform/fabric/config.json app/platform/fabric/config_local.json
@@ -111,7 +110,7 @@ cd ..
 ./start.sh
 ```
 
-Visit `http://localhost:8080` to see [Hyperledger](../h/hyperledger.md) Explorer in action.
+Visit ` to see [Hyperledger](../h/hyperledger.md) Explorer in action.
 
 ## Use Cases
 
@@ -157,13 +156,12 @@ Use firewalls, VPNs, and other network [security](../s/security.md) measures to 
 
 ### Community
 
-The [Hyperledger](../h/hyperledger.md) community is highly active, [offering](../o/offering.md) support through mailing lists, forums, and chat platforms like Discord and Rocket.Chat. 
+The [Hyperledger](../h/hyperledger.md) community is highly active, [offering](../o/offering.md) support through mailing lists, forums, and chat platforms like Discord and Rocket.Chat.
 
 ### Hyperledger Explorer GitHub Repository
 
 All code and documentation are [open](../o/open.md)-source and housed on GitHub. Contributions are welcomed, and issues or feature requests can be logged here:
 
-[Hyperledger Explorer GitHub](https://github.com/hyperledger/blockchain-explorer)
 
 ## Conclusion
 

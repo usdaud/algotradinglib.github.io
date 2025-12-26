@@ -107,7 +107,7 @@ FTR = (Lesser of Purchases or Sales) / Average [Value](../v/value.md) of [Fund](
 Mutual funds and ETFs are required to disclose their [turnover ratios](../t/turnover_ratios.md) in their annual reports. Investors use this information to gauge the [fund](../f/fund.md)'s trading activity and assess the potential impact on performance and costs.
 
 #### Example:
-Vanguard, a prominent [investment management](../i/investment_management.md) company, provides detailed information about the [turnover ratios](../t/turnover_ratios.md) of its funds on its [official website](https://investor.vanguard.com).
+Vanguard, a prominent [investment management](../i/investment_management.md) company, provides detailed information about the [turnover ratios](../t/turnover_ratios.md)
 
 ### Investment Strategies
 
@@ -120,7 +120,7 @@ Different investment strategies exhibit varying [turnover ratios](../t/turnover_
 Institutional investors, such as [hedge](../h/hedge.md) funds and pension funds, closely monitor [turnover ratios](../t/turnover_ratios.md) to optimize their [trading strategies](../t/trading_strategies.md) and manage costs effectively.
 
 #### Example:
-Bridgewater Associates, the world's largest [hedge fund](../h/hedge_fund.md), emphasizes the importance of understanding and managing [turnover ratios](../t/turnover_ratios.md) in its [trading strategies](../t/trading_strategies.md). More information can be found on their [official website](https://www.bridgewater.com).
+Bridgewater Associates, the world's largest [hedge fund](../h/hedge_fund.md), emphasizes the importance of understanding and managing [turnover ratios](../t/turnover_ratios.md) in its [trading strategies](../t/trading_strategies.md).
 
 ## Improving Turnover Ratios
 

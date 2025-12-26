@@ -6,7 +6,7 @@ A [negotiable](../n/negotiable.md) instrument is a written document guaranteeing
 
 ### Promissory Notes
 
-A [promissory note](../p/promissory_note.md) is a written agreement in which one party promises to pay a determinate sum of [money](../m/money.md) to another party, either on [demand](../d/demand.md) or at a specified future date. It contains all the terms pertaining to the indebtedness, such as the [principal](../p/principal.md) amount, [interest rate](../i/interest_rate.md), and [maturity date](../m/maturity_date.md). Promissory notes are commonly used in [business](../b/business.md) transactions and lending agreements between individuals or businesses and financial institutions. 
+A [promissory note](../p/promissory_note.md) is a written agreement in which one party promises to pay a determinate sum of [money](../m/money.md) to another party, either on [demand](../d/demand.md) or at a specified future date. It contains all the terms pertaining to the indebtedness, such as the [principal](../p/principal.md) amount, [interest rate](../i/interest_rate.md), and [maturity date](../m/maturity_date.md). Promissory notes are commonly used in [business](../b/business.md) transactions and lending agreements between individuals or businesses and financial institutions.
 
 **Example:**
 - Borrower: John Doe
@@ -17,7 +17,7 @@ A [promissory note](../p/promissory_note.md) is a written agreement in which one
 
 ### Bills of Exchange
 
-A [bill of exchange](../b/bill_of_exchange.md) is an [order](../o/order.md) made by one party to another to pay a certain sum to a [third party](../t/third_party.md) on a specified future date or on [demand](../d/demand.md). This [financial instrument](../f/financial_instrument.md) is often used in international [trade](../t/trade.md) to facilitate transactions. 
+A [bill of exchange](../b/bill_of_exchange.md) is an [order](../o/order.md) made by one party to another to pay a certain sum to a [third party](../t/third_party.md) on a specified future date or on [demand](../d/demand.md). This [financial instrument](../f/financial_instrument.md) is often used in international [trade](../t/trade.md) to facilitate transactions.
 
 **Example:**
 - Drawer: Exporter
@@ -117,7 +117,7 @@ With the advent of technology, the landscape of [negotiable](../n/negotiable.md)
 
 ### eChecks
 
-An [electronic check](../e/electronic_check.md) (eCheck) is the digital version of a conventional [check](../c/check.md). They are processed electronically and have become particularly popular in online transactions. 
+An [electronic check](../e/electronic_check.md) (eCheck) is the digital version of a conventional [check](../c/check.md). They are processed electronically and have become particularly popular in online transactions.
 
 ### Smart Contracts
 
@@ -132,4 +132,4 @@ Digital promissory notes serve the same purpose as their paper counterparts but 
 [Negotiable](../n/negotiable.md) instruments play a pivotal role in both domestic and international [finance](../f/finance.md). Their flexibility, transferability, and legal robustness make them indispensable tools for ensuring [liquidity](../l/liquidity.md), managing [risk](../r/risk.md), and facilitating [trade](../t/trade.md). As technology continues to advance, the landscape of [negotiable](../n/negotiable.md) instruments [will](../w/will.md) undoubtedly evolve, bringing more [efficiency](../e/efficiency.md) and [security](../s/security.md) to financial transactions.
 
 For further reading, you may visit the following comprehensive resource:
-- [ABC Bank](https://www.abcbank.com) provides detailed information about various financial products including [negotiable](../n/negotiable.md) instruments.
+- ABC Bank provides detailed information about various financial products including [negotiable](../n/negotiable.md) instruments.

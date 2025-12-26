@@ -65,4 +65,4 @@ Thrift associations have played a vital role in promoting homeownership and fina
 Thrift associations, with their rich history and community-centric approach, continue to be an essential part of the financial landscape. Despite facing numerous challenges, they have adapted to regulatory changes, economic shifts, and technological advancements. As they evolve, thrift associations remain committed to their foundational mission of promoting savings and homeownership, contributing to the financial well-being of individuals and communities alike.
 
 
-For more details, you can visit Thrift Institutions Community Investment Platform: [https://www.fdic.gov/resources/community-affairs/thrift-institutions/](https://www.fdic.gov/resources/community-affairs/thrift-institutions/)
+For more details, you can visit Thrift Institutions Community Investment Platform

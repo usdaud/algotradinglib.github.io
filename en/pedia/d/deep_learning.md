@@ -40,18 +40,18 @@ Deep Learning models, particularly CNNs, have made significant strides in image 
 ### Natural Language Processing (NLP)
 NLP tasks, such as language translation, [sentiment analysis](../s/sentiment_analysis.md), and [speech recognition](../s/speech_recognition.md), have seen remarkable improvements with Deep Learning. Models like RNNs and [Transformers](../t/transformers.md) are pivotal.
 
-- **Google Translate:** Uses deep learning for accurate translations ([Google Translate](https://translate.google.com)).
-- **Siri and Alexa:** [Leverage](../l/leverage.md) deep learning for voice recognition ([Apple Siri](https://www.apple.com/siri/), [Amazon Alexa](https://developer.amazon.com/en-US/alexa)).
+- **Google Translate:** Uses deep learning for accurate translations (Google Translate).
+- **Siri and Alexa:** [Leverage](../l/leverage.md) deep learning for voice recognition (Apple Siri, Amazon Alexa).
 
 ### Financial Sector
 In [finance](../f/finance.md), Deep Learning models predict stock prices, detect fraudulent transactions, and optimize high-frequency [trading strategies](../t/trading_strategies.md).
 
-- **Kavout:** Utilizes deep learning for [stock analysis](../s/stock_analysis.md) ([Kavout](https://kavout.com/)).
+- **Kavout:** Utilizes deep learning for [stock analysis](../s/stock_analysis.md) (Kavout).
 
 ### Healthcare
 Deep Learning improves diagnostics and personalized treatments. Applications include:
 
-- **IBM Watson Health:** Uses deep learning to analyze medical data and assist in diagnostics ([IBM Watson Health](https://www.ibm.com/watson-health)).
+- **IBM Watson Health:** Uses deep learning to analyze medical data and assist in diagnostics (IBM Watson Health).
 
 ## Challenges in Deep Learning
 

@@ -78,16 +78,16 @@ Suppose an [investor](../i/investor.md), Jane, has a portfolio worth $500,000 in
 Several tools and platforms can facilitate the creation of homemade dividends. These include:
 
 ### 1. Brokerage Accounts
-Modern brokerage accounts [offer](../o/offer.md) tools for buying and selling [shares](../s/shares.md), tracking [portfolio performance](../p/portfolio_performance.md), and calculating [transaction costs](../t/transaction_costs.md). Notable brokerage platforms include [Charles Schwab](https://www.schwab.com), [Fidelity](https://www.fidelity.com), and [Robinhood](https://www.robinhood.com).
+Modern brokerage accounts [offer](../o/offer.md) tools for buying and selling [shares](../s/shares.md), tracking [portfolio performance](../p/portfolio_performance.md), and calculating [transaction costs](../t/transaction_costs.md). Notable brokerage platforms include Charles Schwab, Fidelity, and Robinhood.
 
 ### 2. Financial Software
-Financial software such as [Quicken](https://www.quicken.com) and [Personal Capital](https://www.personalcapital.com) can help investors manage their portfolios, track [cash flow](../c/cash_flow.md), and make informed decisions about when to sell [shares](../s/shares.md).
+Financial software such as Quicken and Personal Capital can help investors manage their portfolios, track [cash flow](../c/cash_flow.md), and make informed decisions about when to sell [shares](../s/shares.md).
 
 ### 3. Robo-Advisors
-Robo-advisors like [Betterment](https://www.betterment.com) and [Wealthfront](https://www.wealthfront.com) use algorithms to manage portfolios based on [investor](../i/investor.md) goals and [risk tolerance](../r/risk_tolerance.md), which can include generating homemade dividends.
+Robo-advisors like Betterment and Wealthfront use algorithms to manage portfolios based on [investor](../i/investor.md) goals and [risk tolerance](../r/risk_tolerance.md), which can include generating homemade dividends.
 
 ### 4. Financial Advisors
-Professional financial advisors can [offer](../o/offer.md) personalized advice and strategies for creating homemade dividends, considering the [investor](../i/investor.md)'s overall [financial plan](../f/financial_plan.md) and goals. Many advisors are accessible through firms like [Vanguard](https://investor.vanguard.com) and [Charles Schwab](https://www.schwab.com).
+Professional financial advisors can [offer](../o/offer.md) personalized advice and strategies for creating homemade dividends, considering the [investor](../i/investor.md)'s overall [financial plan](../f/financial_plan.md) and goals. Many advisors are accessible through firms like Vanguard and Charles Schwab.
 
 ## Conclusion
 Homemade dividends [offer](../o/offer.md) a flexible and customizable way for investors to generate [cash flow](../c/cash_flow.md) from their investments. By strategically buying and selling [shares](../s/shares.md), investors can align their [income](../i/income.md) streams with their financial needs and goals. This approach provides key benefits such as flexibility, tax [efficiency](../e/efficiency.md), and [diversification](../d/diversification.md) but also comes with risks like [market](../m/market.md) [volatility](../v/volatility.md) and [transaction costs](../t/transaction_costs.md).

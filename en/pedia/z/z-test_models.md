@@ -9,13 +9,13 @@
 4. Assumptions in Z-Tests
 5. Z-Tests in [Hypothesis Testing](../h/hypothesis_testing.md)
 6. Applications of Z-Tests in [Algorithmic Trading](../a/algorithmic_trading.md)
-    1. Strategy Validation
-    2. [Market Efficiency](../m/market_efficiency.md) Testing
-    3. [Risk Management](../r/risk_management.md)
-    4. [Performance Attribution](../p/performance_attribution.md)
+ 1. Strategy Validation
+ 2. [Market Efficiency](../m/market_efficiency.md) Testing
+ 3. [Risk Management](../r/risk_management.md)
+ 4. [Performance Attribution](../p/performance_attribution.md)
 7. Implementation of [Z-Test](../z/z-test_in_trading.md) Models
-    1. Python for Z-Tests
-    2. Case Studies
+ 1. Python for Z-Tests
+ 2. Case Studies
 8. Limitations of Z-Tests in Trading
 9. Conclusion
 
@@ -109,8 +109,8 @@ print("P-[Value](../v/value.md):", p_value)
 
 Several [algorithmic trading](../a/algorithmic_trading.md) firms and [hedge](../h/hedge.md) funds implement [Z-Test](../z/z-test_in_trading.md) models to optimize their [trading strategies](../t/trading_strategies.md). For instance:
 
-- **WorldQuant**: This [firm](../f/firm.md) extensively uses statistical tests, including Z-Tests, to develop and validate its [trading models](../t/trading_models.md). More information can be found on their [official website](https://www.worldquant.com).
-- **Two Sigma**: Two Sigma employs sophisticated algorithms and statistical methodologies, including Z-Tests, to derive insights and make trading decisions. Additional details are available on their [official website](https://www.twosigma.com).
+- **WorldQuant**: This [firm](../f/firm.md) extensively uses statistical tests, including Z-Tests, to develop and validate its [trading models](../t/trading_models.md).
+- **Two Sigma**: Two Sigma employs sophisticated algorithms and statistical methodologies, including Z-Tests, to derive insights and make trading decisions.
 
 ## Limitations of Z-Tests in Trading
 

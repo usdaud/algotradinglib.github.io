@@ -9,7 +9,7 @@ Moving Average (MA) is a widely used [technical analysis](../t/technical_analysi
 The Simple Moving Average is the most basic type of moving average. It is calculated by summing the prices over a specific period and then dividing by the number of periods. For instance, a [10-day SMA](../1/10-day_sma.md) is calculated by summing the closing prices over the past 10 days and dividing the result by 10.
 
 Formula:
-\[ SMA = \frac{P_1 + P_2 + P_3 + ... + P_N}{N} \]
+\[ SMA = \frac{P_1 + P_2 + P_3 +... + P_N}{N} \]
 
 Where:
 - \( P \) is the price
@@ -33,7 +33,7 @@ Where:
 The [Weighted](../w/weighted.md) Moving Average assigns a specific weight to each data point within the period, with more recent data points usually given more weight. The weights can be configured based on the analyst's preference, resulting in a highly customizable and responsive MA.
 
 Formula:
-\[ WMA = \frac{n \cdot P_1 + (n-1) \cdot P_2 + ... + 1 \cdot P_n}{n + (n-1) + ... + 1} \]
+\[ WMA = \frac{n \cdot P_1 + (n-1) \cdot P_2 +... + 1 \cdot P_n}{n + (n-1) +... + 1} \]
 
 Where:
 - \( n \) is the weighting [factor](../f/factor.md)
@@ -113,10 +113,10 @@ Due to their adaptability, some traders and analysts create custom moving averag
 To implement moving averages in [trading strategies](../t/trading_strategies.md), several [software tools](../s/software_tools_for_trading.md) and platforms can be utilized:
 
 1. **MetaTrader 4/5**: Offers built-in moving average indicators and supports custom indicators via MQL4/MQL5.
-2. **[TradingView](../t/tradingview.md)**: Provides an extensive library of built-in indicators, including [multiple](../m/multiple.md) moving average types. (Website: [TradingView](https://www.tradingview.com))
-3. **[QuantConnect](../q/quantconnect.md)**: A platform for [algorithmic trading](../a/accountability.md) with support for backtests and live trading using Python-based APIs. (Website: [QuantConnect](https://www.quantconnect.com))
-4. **AlgoTrader**: Designed for [quantitative research](../q/quantitative_research.md), [trading strategies](../t/trading_strategies.md) can incorporate moving averages for signal generation. (Website: [AlgoTrader](https://www.algotrader.com))
+2. **[TradingView](../t/tradingview.md)**: Provides an extensive library of built-in indicators, including [multiple](../m/multiple.md) moving average types.
+3. **[QuantConnect](../q/quantconnect.md)**: A platform for [algorithmic trading](../a/algorithmic_trading.md) with support for backtests and live trading using Python-based APIs.
+4. **AlgoTrader**: Designed for [quantitative research](../q/quantitative_research.md), [trading strategies](../t/trading_strategies.md) can incorporate moving averages for signal generation.
 
 ## Conclusion
 
-Moving Averages continue to be a staple in the toolbox of traders and financial analysts. Their simplicity, combined with their adaptability, makes them invaluable for identifying trends, providing [support and resistance](../s/support_and_resistance.md) levels, and generating [trading signals](../t/trading_signals.md). While they have their limitations, proper application and combination with other technical tools can significantly enhance [trading strategies](../t/trading_strategies.md). As [financial markets](../f/financial_market.md) continue to evolve, moving averages [will](../w/will.md) undoubtedly remain an essential tool in the realm of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/accountability.md).
+Moving Averages continue to be a staple in the toolbox of traders and financial analysts. Their simplicity, combined with their adaptability, makes them invaluable for identifying trends, providing [support and resistance](../s/support_and_resistance.md) levels, and generating [trading signals](../t/trading_signals.md). While they have their limitations, proper application and combination with other technical tools can significantly enhance [trading strategies](../t/trading_strategies.md). As [financial markets](../f/financial_market.md) continue to evolve, moving averages [will](../w/will.md) undoubtedly remain an essential tool in the realm of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).

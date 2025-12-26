@@ -76,5 +76,4 @@ The [Kelly Criterion](../k/kelly_criterion.md)'s origin in gambling makes it a f
 
 The [Kelly Criterion](../k/kelly_criterion.md) remains one of the cornerstone strategies in both [algorithmic trading](../a/algorithmic_trading.md) and broader [financial markets](../f/financial_market.md) for its [robust](../r/robust.md) mathematical foundation and its ability to provide an optimal [trade](../t/trade.md)-off between growth and [risk](../r/risk.md). Despite its complexities and criticisms, when applied correctly—especially through fractional approaches—it serves as a powerful tool for informed and disciplined financial decision-making.
 
-For more detailed information about implementing [Kelly Criterion](../k/kelly_criterion.md) in your [trading strategies](../t/trading_strategies.md), you might want to explore resources from financial algorithm firms like [Renaissance Technologies](https://www.rentec.com) or [risk management](../r/risk_management.md) services tailored to high-stakes trading environments.
-
+For more detailed information about implementing [Kelly Criterion](../k/kelly_criterion.md) in your [trading strategies](../t/trading_strategies.md), you might want to explore resources from financial algorithm firms like Renaissance Technologies or [risk management](../r/risk_management.md) services tailored to high-stakes trading environments.

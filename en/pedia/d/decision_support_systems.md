@@ -38,15 +38,15 @@ Decision Support Systems (DSS) are specialized information systems designed to s
 
 ## Companies Specializing in DSS for Algorithmic Trading
 
-1. **KX**: Specializes in developing high-performance systems for real-time analytics. Their platform is used by leading financial institutions for [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). [KX](https://kx.com/)
+1. **KX**: Specializes in developing high-performance systems for real-time analytics. Their platform is used by leading financial institutions for [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). KX
 
-2. **Numerix**: Provides cross-[asset](../a/asset.md) analytics for [derivatives](../d/derivatives.md) valuations and [risk management](../r/risk_management.md). They [offer](../o/offer.md) a suite of tools that integrate with DSS to enhance trading and [risk management](../r/risk_management.md) capabilities. [Numerix](https://www.numerix.com/)
+2. **Numerix**: Provides cross-[asset](../a/asset.md) analytics for [derivatives](../d/derivatives.md) valuations and [risk management](../r/risk_management.md). They [offer](../o/offer.md) a suite of tools that integrate with DSS to enhance trading and [risk management](../r/risk_management.md) capabilities. Numerix
 
-3. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and models for [backtesting](../b/backtesting.md) and live trading. Their platform can be integrated into DSS for developing and testing [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and models for [backtesting](../b/backtesting.md) and live trading. Their platform can be integrated into DSS for developing and testing [trading strategies](../t/trading_strategies.md). QuantConnect
 
-4. **[Alpaca](../a/alpaca.md)**: Offers a [commission](../c/commission.md)-free trading API that can be integrated with various DSS to execute trades programmatically. Their focus on API-driven trading makes them a valuable partner for [algorithmic trading](../a/algorithmic_trading.md) solutions. [Alpaca](https://alpaca.markets/)
+4. **[Alpaca](../a/alpaca.md)**: Offers a [commission](../c/commission.md)-free trading API that can be integrated with various DSS to execute trades programmatically. Their focus on API-driven trading makes them a valuable partner for [algorithmic trading](../a/algorithmic_trading.md) solutions. Alpaca
 
-5. **[AlgoTrader](../a/algotrader.md)**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that includes features for strategy design, [backtesting](../b/backtesting.md), and automated trading. Their comprehensive platform is an excellent example of an integrated DSS. [AlgoTrader](https://www.algotrader.com/)
+5. **[AlgoTrader](../a/algotrader.md)**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that includes features for strategy design, [backtesting](../b/backtesting.md), and automated trading. Their comprehensive platform is an excellent example of an integrated DSS. AlgoTrader
 
 ## Conclusion
-Decision Support Systems play a pivotal role in the world of [algorithmic trading](../a/algorithmic_trading.md) by combining data management, advanced analytics, and user-friendly interfaces to enhance decision-making processes. The integration of DSS in [trading strategies](../t/trading_strategies.md) not only improves [efficiency](../e/efficiency.md) and accuracy but also provides a competitive edge in the fast-paced world of [financial markets](../f/financial_market.md).
+Decision Support Systems play a pivotal role in the world of [algorithmic trading](../a/algorithmic_trading.md) by combining data management, advanced analytics, and user-friendly interfaces to enhance decision-making processes. The integration of DSS in [trading strategies](../t/trading_strategies.md) not only improves [efficiency](../e/efficiency.md) and accuracy but also provides a competitive edge in the fast-paced world of [financial markets](../f/financial_market.md).

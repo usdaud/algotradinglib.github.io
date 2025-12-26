@@ -25,7 +25,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves identifying pricing ineffici
 
 ### High-Frequency Trading (HFT)
 
-HFT is a form of [algorithmic trading](../a/accountability.md) that executes a large number of orders at extremely high speeds, often in milliseconds or microseconds. HFTs take advantage of very small price discrepancies and require low-latency trading [infrastructure](../i/infrastructure.md).
+HFT is a form of [algorithmic trading](../a/algorithmic_trading.md) that executes a large number of orders at extremely high speeds, often in milliseconds or microseconds. HFTs take advantage of very small price discrepancies and require low-latency trading [infrastructure](../i/infrastructure.md).
 
 ### Market Making
 
@@ -81,19 +81,19 @@ Several firms are renowned for their expertise in [quantitative investing](../q/
 
 ### Renaissance Technologies
 
-Founded by Jim Simons, Renaissance Technologies is famous for its Medallion [Fund](../f/fund.md), which has delivered extraordinary returns. The [firm](../f/firm.md) employs some of the brightest minds in mathematics and science to develop its models. [Renaissance Technologies](https://www.rentec.com/)
+Founded by Jim Simons, Renaissance Technologies is famous for its Medallion [Fund](../f/fund.md), which has delivered extraordinary returns. The [firm](../f/firm.md) employs some of the brightest minds in mathematics and science to develop its models. Renaissance Technologies
 
 ### Two Sigma
 
-Two Sigma uses a combination of [machine learning](../m/machine_learning.md), distributed computing, and data analysis to construct its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) focuses on scientific methods and employs a diverse team of researchers. [Two Sigma](https://www.twosigma.com/)
+Two Sigma uses a combination of [machine learning](../m/machine_learning.md), distributed computing, and data analysis to construct its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) focuses on scientific methods and employs a diverse team of researchers. Two Sigma
 
 ### DE Shaw
 
-DE Shaw employs quantitative and computational techniques across a vast array of [asset](../a/asset.md) classes and [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) has been a pioneer in expanding the [scope](../s/scope.md) of quant [investing](../i/investing.md). [DE Shaw](https://www.deshaw.com/)
+DE Shaw employs quantitative and computational techniques across a vast array of [asset](../a/asset.md) classes and [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) has been a pioneer in expanding the [scope](../s/scope.md) of quant [investing](../i/investing.md). DE Shaw
 
 ### Citadel
 
-Citadel is one of the largest [hedge](../h/hedge.md) funds globally and operates a significant quant trading division known as Citadel Securities. The [firm](../f/firm.md) employs sophisticated [quantitative models](../q/quantitative_models.md) to inform its [trading strategies](../t/trading_strategies.md). [Citadel](https://www.citadel.com/)
+Citadel is one of the largest [hedge](../h/hedge.md) funds globally and operates a significant quant trading division known as Citadel Securities. The [firm](../f/firm.md) employs sophisticated [quantitative models](../q/quantitative_models.md) to inform its [trading strategies](../t/trading_strategies.md). Citadel
 
 ## Future Trends
 
@@ -117,7 +117,7 @@ While quant funds have traditionally focused solely on returns, there is a growi
 
 ### Regulation
 
-The regulatory environment for [quantitative trading](../q/quantitative_trading.md) is evolving. Increased scrutiny is being placed on high-frequency trading and [algorithmic trading](../a/accountability.md) practices. Compliance with these regulations [will](../w/will.md) be crucial for the continued success of quant funds.
+The regulatory environment for [quantitative trading](../q/quantitative_trading.md) is evolving. Increased scrutiny is being placed on high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md) practices. Compliance with these regulations [will](../w/will.md) be crucial for the continued success of quant funds.
 
 ## Conclusion
 

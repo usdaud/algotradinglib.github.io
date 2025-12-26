@@ -20,7 +20,7 @@ The U.S. operates on an appropriations system where specific funding must be app
 
 ## Impact of a Government Shutdown
 
-The impacts are multi-faceted and can affect a wide array of areas, from economic stability to public services and worker morale. 
+The impacts are multi-faceted and can affect a wide array of areas, from economic stability to public services and worker morale.
 
 ### Economic Impacts
 
@@ -76,7 +76,7 @@ This was the longest shutdown in U.S. history, lasting 35 days. It revolved arou
 
 ## Mitigating a Shutdown
 
-Efforts to avoid shutdowns have been widely discussed, including the adoption of automated continuing resolutions, comprehensive bipartisan [budget](../b/budget.md) agreements, and enhancing inter-party negotiations. 
+Efforts to avoid shutdowns have been widely discussed, including the adoption of automated continuing resolutions, comprehensive bipartisan [budget](../b/budget.md) agreements, and enhancing inter-party negotiations.
 
 ### Automated Continuing Resolutions
 
@@ -88,7 +88,7 @@ Seeking longer-term and bipartisan [budget](../b/budget.md) agreements can also 
 
 ### Improved Negotiations
 
-Enhanced [negotiation](../n/negotiation.md) tactics and [arbitration](../a/arbitration.md) could prevent the escalation to a government shutdown. 
+Enhanced [negotiation](../n/negotiation.md) tactics and [arbitration](../a/arbitration.md) could prevent the escalation to a government shutdown.
 
 ## Conclusion
 

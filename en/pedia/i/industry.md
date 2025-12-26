@@ -10,15 +10,15 @@
 
 ## Types of Industries
 1. **Primary Industry**: Involves the extraction and harvesting of natural resources.
-   - **Examples**: Agriculture, [mining](../m/mining.md), forestry, and fishing.
+ - **Examples**: Agriculture, [mining](../m/mining.md), forestry, and fishing.
 2. **Secondary Industry**: Involves the processing of [raw materials](../r/raw_materials.md) and [manufacturing](../m/manufacturing.md) of goods.
-   - **Examples**: [Manufacturing](../m/manufacturing.md), construction, and food processing.
+ - **Examples**: [Manufacturing](../m/manufacturing.md), construction, and food processing.
 3. **[Tertiary Industry](../t/tertiary_industry.md)**: Involves the [provision](../p/provision.md) of services rather than goods.
-   - **Examples**: Retail, healthcare, education, and financial services.
+ - **Examples**: Retail, healthcare, education, and financial services.
 4. **Quaternary Industry**: Involves intellectual activities and knowledge-based services.
-   - **Examples**: Information technology, research and development, and consultancy.
+ - **Examples**: Information technology, research and development, and consultancy.
 5. **Quinary Industry**: Involves high-level decision making and advanced sectors.
-   - **Examples**: Government, scientific research, and top-level [business](../b/business.md) management.
+ - **Examples**: Government, scientific research, and top-level [business](../b/business.md) management.
 
 ## Importance
 1. **[Economic Growth](../e/economic_growth.md)**: Industries drive [economic growth](../e/economic_growth.md) by producing goods and services that generate [income](../i/income.md) and employment.
@@ -46,4 +46,3 @@
 
 ## Conclusion
 Industry is a fundamental component of the [economy](../e/economy.md), encompassing the production of goods, services, and [raw materials](../r/raw_materials.md). It plays a critical role in [economic growth](../e/economic_growth.md), job creation, and innovation. Understanding the different types of industries and their importance helps in appreciating their contribution to society and addressing the challenges they face. Through sustainable practices, innovation, and [efficiency](../e/efficiency.md), industries can continue to thrive and support economic development.
-

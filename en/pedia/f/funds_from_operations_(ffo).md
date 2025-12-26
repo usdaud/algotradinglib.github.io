@@ -54,7 +54,7 @@ Realty [Income](../i/income.md) [Corporation](../c/corporation.md) is a renowned
 - The impact of property acquisitions or disposals.
 - The core [earnings](../e/earnings.md) power devoid of non-recurring gains or losses.
 
-For more detailed information on how FFO is reported by Realty [Income](../i/income.md) [Corporation](../c/corporation.md), visit their [investor relations](../i/investor_relations.md) page: [Realty Income Corporation - Financial Reports](https://www.realtyincome.com/investors/financial-reports/default.aspx).
+For more detailed information on how FFO is reported by Realty [Income](../i/income.md) [Corporation](../c/corporation.md), see their filings.
 
 ## Conclusion
 

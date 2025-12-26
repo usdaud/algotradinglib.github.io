@@ -25,7 +25,7 @@ Implied [volatility](../v/volatility.md) represents the [market](../m/market.md)
 To understand the mechanics of [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md), consider an example:
 
 1. **Identify an Implied [Volatility](../v/volatility.md) Discrepancy**: A [trader](../t/trader.md) identifies an option where the implied [volatility](../v/volatility.md) is unusually high compared to the [historical volatility](../h/historical_volatility.md) of the [underlying asset](../u/underlying_asset.md). This discrepancy signals that the option might be overpriced.
-  
+
 2. **Construct a Spread**: The [trader](../t/trader.md) then constructs a spread [trade](../t/trade.md), such as buying a [straddle](../s/straddle.md) (buying both a call and a [put option](../p/put.md) at the same [strike price](../s/strike_price.md)) to bet on the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md) without a directional bias. Simultaneously, the [trader](../t/trader.md) might sell short the [underlying asset](../u/underlying_asset.md) to [hedge](../h/hedge.md) against price movements.
 
 3. **Monitor the Position**: As time progresses, the [trader](../t/trader.md) continuously monitors the position. Should the implied [volatility](../v/volatility.md) decrease and converge towards the [realized volatility](../r/realized_volatility.md), the position can be exited at a [profit](../p/profit.md).
@@ -73,9 +73,9 @@ Long-Term [Capital](../c/capital.md) Management (LTCM) was a [hedge fund](../h/h
 
 Several dedicated trading platforms and firms specialize in [volatility](../v/volatility.md) [spread trading](../s/spread_trading.md), providing advanced tools and resources for professional traders:
 
-- [Jane Street](https://www.janestreet.com/): A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) well-known for its expertise in [quantitative trading](../q/quantitative_trading.md), including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
-- [Two Sigma](https://www.twosigma.com/): Another leading quantitative investment [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to execute complex [trading strategies](../t/trading_strategies.md), including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
-- [IMC Trading](https://www.imc.com/): This global [market maker](../m/market_maker.md) engages in a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), with a significant focus on [options](../o/options.md) and [volatility](../v/volatility.md) trading.
+- Jane Street: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) well-known for its expertise in [quantitative trading](../q/quantitative_trading.md), including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
+- Two Sigma: Another leading quantitative investment [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to execute complex [trading strategies](../t/trading_strategies.md), including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
+- IMC Trading: This global [market maker](../m/market_maker.md) engages in a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), with a significant focus on [options](../o/options.md) and [volatility](../v/volatility.md) trading.
 
 ## Conclusion
 

@@ -78,23 +78,19 @@ Several [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_
 
 ### 1. **Bridgewater Associates**
 Bridgewater Associates, founded by Ray Dalio, is one of the largest and most successful [hedge](../h/hedge.md) funds globally. The [firm](../f/firm.md) employs various [fixed income](../f/fixed_income.md) [arbitrage](../a/arbitrage.md) strategies as part of its broader investment approach.
-[Bridgewater Associates](https://www.bridgewater.com)
 
 ### 2. **Citadel LLC**
 Citadel, founded by Ken Griffin, is a multinational [hedge fund](../h/hedge_fund.md) and financial services company known for its quantitative and [arbitrage](../a/arbitrage.md) [trading strategies](../t/trading_strategies.md), including [fixed income](../f/fixed_income.md) [arbitrage](../a/arbitrage.md).
-[Citadel LLC](https://www.citadel.com)
 
 ### 3. **DE Shaw & Co.**
 DE Shaw is a prominent [hedge fund](../h/hedge_fund.md) that employs advanced quantitative techniques, including [fixed income](../f/fixed_income.md) [arbitrage](../a/arbitrage.md), to generate returns.
-[DE Shaw & Co.](https://www.deshaw.com)
+DE Shaw & Co.
 
 ### 4. **Two Sigma Investments**
 Two Sigma is a technology-focused investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and advanced modeling for various [trading strategies](../t/trading_strategies.md), including [fixed income](../f/fixed_income.md) [arbitrage](../a/arbitrage.md).
-[Two Sigma Investments](https://www.twosigma.com)
 
 ### 5. **Jane Street**
 Jane Street is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that uses [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [fixed income](../f/fixed_income.md) [arbitrage](../a/arbitrage.md), to [trade](../t/trade.md) in global markets.
-[Jane Street](https://www.janestreet.com)
 
 ## Conclusion
 

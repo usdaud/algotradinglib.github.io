@@ -15,7 +15,7 @@ Where:
 - The Base [Market Capitalization](../m/market_capitalization.md) and Base [Index](../i/index_instrument.md) [Value](../v/value.md) are constants that were set when the [index](../i/index_instrument.md) was launched.
 
 ## Constituents and Weighting
-As of the latest revision, the Hang Seng [Index](../i/index_instrument.md) comprises 66 constituent companies, reflecting around 58% of the total [market capitalization](../m/market_capitalization.md) on the Hong Kong Stock [Exchange](../e/exchange.md). The constituents are selected based on 
+As of the latest revision, the Hang Seng [Index](../i/index_instrument.md) comprises 66 constituent companies, reflecting around 58% of the total [market capitalization](../m/market_capitalization.md) on the Hong Kong Stock [Exchange](../e/exchange.md). The constituents are selected based on
 - [Market capitalization](../m/market_capitalization.md),
 - Sector representation,
 - [Turnover](../t/turnover.md),
@@ -41,7 +41,7 @@ Various financial products derive their [value](../v/value.md) from the HSI. The
 - **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: Act as investment funds tracking the HSI's performance.
 - **Contracts for Difference (CFDs)**: Allow speculative trading on the price movement without ownership of the [underlying asset](../u/underlying_asset.md).
 
-The Hong Kong Exchanges and [Clearing](../c/clearing.md) Limited (HKEX) facilitates the trading of these products. More information can be found on their official website: [HKEX](https://www.hkex.com.hk).
+The Hong Kong Exchanges and [Clearing](../c/clearing.md) Limited (HKEX) facilitates the trading of these products.
 
 ## Key Milestones
 - **1997 [Asian Financial Crisis](../a/asian_financial_crisis.md)**: The HSI suffered significant losses but also rebounded and grew significantly in the following decade.

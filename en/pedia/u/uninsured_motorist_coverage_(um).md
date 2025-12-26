@@ -1,6 +1,6 @@
 # Uninsured Motorist Coverage (UM)
 
-Uninsured Motorist Coverage (UM) is an essential aspect of auto [insurance](../i/insurance.md) policy meant to protect motorists against the financial consequences of accidents involving uninsured or underinsured at-fault drivers. It provides compensation for injuries and damages that you, your passengers, or relatives living in your household might sustain if involved in such an accident. This coverage can also act as a safeguard against hit-and-run incidents where the at-fault driver flees the scene and remains unidentified. 
+Uninsured Motorist Coverage (UM) is an essential aspect of auto [insurance](../i/insurance.md) policy meant to protect motorists against the financial consequences of accidents involving uninsured or underinsured at-fault drivers. It provides compensation for injuries and damages that you, your passengers, or relatives living in your household might sustain if involved in such an accident. This coverage can also act as a safeguard against hit-and-run incidents where the at-fault driver flees the scene and remains unidentified.
 
 ## Key Components of Uninsured Motorist Coverage (UM)
 
@@ -67,7 +67,7 @@ UM coverage generally increases the cost of an auto [insurance](../i/insurance.m
 
 Uninsured Motorist Coverage is an indispensable feature for anyone who wants to mitigate the risks associated with driving in a world where not everyone adheres to mandatory [insurance](../i/insurance.md) laws. It acts as a safety net, ensuring that you and your passengers are not left financially devastated by the negligence of an uninsured or underinsured driver. While premiums might be slightly higher, and the process to file claims can be complex, the benefits far outweigh the costs, providing comprehensive protection and peace of mind on the road.
 
-For more detailed information regarding UM coverage, one can visit [insurance](../i/insurance.md) company websites such as [Geico](https://www.geico.com), [Progressive](https://www.progressive.com), or explore state-specific guidelines on official government portals.
+For more detailed information regarding UM coverage, one can visit [insurance](../i/insurance.md) company websites such as Geico, Progressive, or explore state-specific guidelines on official government portals.
 
 ---
 

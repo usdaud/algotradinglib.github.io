@@ -17,7 +17,7 @@ In [financial accounting](../f/financial_accounting.md), FIFO affects the [finan
 
 - **[Income Statement](../i/income_statement.md)**: FIFO can result in higher net [income](../i/income.md) in times of rising prices because older, cheaper costs are matched against current revenues.
 - **[Balance Sheet](../b/balance_sheet.md)**: Ending [inventory](../i/inventory.md) values are higher under FIFO during inflationary periods since they reflect the cost of the most recent acquisitions.
-  
+
 ### Algorithmic Trading
 
 In [algorithmic trading](../a/accountability.md), FIFO refers to the [order](../o/order.md) in which trades are executed. This ensures that the earliest trades are completed first, which can be crucial for maintaining the sequence logic of [trading algorithms](../t/trading_algorithms.md).
@@ -39,19 +39,19 @@ In [manufacturing](../m/manufacturing.md), FIFO is used to manage [inventory](..
 FIFO is particularly useful in retail to manage stock and ensure older items are sold first. This is especially important in fashion and electronics where products have a limited shelf life due to rapid [market](../m/market.md) changes.
 
 - **Shelf Management**: Retail stores often implement FIFO by rotating stock, placing older items at the front and newer items at the back.
-  
+
 ### Finance and Taxation
 
 For [finance](../f/finance.md) professionals and accountants, FIFO is a key method for managing the [valuation](../v/valuation.md) of [inventory](../i/inventory.md) and calculating the cost of goods sold.
 
 - **Tax Implications**: Since FIFO results in higher [income](../i/income.md) during periods of [inflation](../i/inflation.md), it can lead to higher tax liabilities. Companies need to weigh the benefits of higher paper profits against the tax implications.
-  
+
 ### Order Management Systems
 
 FIFO principles are embedded in many [Order Management Systems](../o/order_management_systems.md) (OMS) used in various industries, including [finance](../f/finance.md) and e-[commerce](../c/commerce.md). These systems automate the process of maintaining [order](../o/order.md) sequences according to FIFO rules.
 
 - **[Trade](../t/trade.md) Processing**: In financial trading, OMS integrating FIFO ensure that [trade](../t/trade.md) instructions are processed in the [order](../o/order.md) they are received.
-  
+
 ## Advantages of FIFO
 
 ### Simplicity and Transparency
@@ -128,7 +128,7 @@ For larger operations, implementing FIFO requires automated systems that can [ha
 Implementing FIFO requires adherence to financial reporting and regulatory standards, necessitating regular audits and documentation.
 
 - **Compliance Audits**: Regular audits ensure that FIFO is correctly implemented and adhered to, meeting regulatory requirements and providing accurate financial reporting.
-  
+
 ## Technological Advances
 
 ### AI and Machine Learning

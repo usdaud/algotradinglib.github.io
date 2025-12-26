@@ -63,17 +63,14 @@ Several software solutions [offer](../o/offer.md) tools for implementing the ave
 ### QuickBooks
 
 QuickBooks is one of the most popular [accounting](../a/accounting.md) software that supports the average cost method for [inventory](../i/inventory.md) [valuation](../v/valuation.md).
-[QuickBooks](https://quickbooks.intuit.com/)
 
 ### SAP
 
 SAP offers comprehensive ERP solutions that encompass [inventory](../i/inventory.md) and cost management, including the average cost method.
-[SAP](https://www.sap.com/)
 
 ### Oracle NetSuite
 
 Oracle NetSuite provides cloud-based ERP solutions with features to [handle](../h/handle.md) various [inventory](../i/inventory.md) [valuation](../v/valuation.md) methods, including the average cost.
-[Oracle NetSuite](https://www.netsuite.com/)
 
 ## Implications for Algorithmic Trading
 

@@ -4,7 +4,7 @@ The Dow Jones CDX, or [Credit](../c/credit.md) [Default](../d/default.md) [Swap]
 
 ## Introduction
 
-The Dow Jones CDX indices are part of a broader suite of [credit](../c/credit.md) [default](../d/default.md) [swap](../s/swap.md) (CDS) indices that provide [market](../m/market.md) participants with a [benchmark](../b/benchmark.md) for [credit](../c/credit.md) [derivative](../d/derivative.md) markets. These indices are maintained by IHS Markit, which offers detailed insight and analytics about [credit risk](../c/credit_risk.md). Each [index](../i/index_instrument.md) contains a basket of CDS contracts on entities from different sectors and ratings categories, thereby giving a diversified exposure to [credit risk](../c/credit_risk.md).
+The Dow Jones CDX indices are part of a broader suite of [credit](../c/credit.md) [default](../d/default.md) [swap](../s/swap.md) (CDS) indices that provide [market](../m/market.md) participants with a [benchmark](../b/benchmark.md) for [credit](../c/credit.md) [derivative](../d/derivative.md) markets. These indices are maintained by S&P Global (following its merger with IHS Markit in February 2022), which offers detailed insight and analytics about [credit risk](../c/credit_risk.md). Each [index](../i/index_instrument.md) contains a basket of CDS contracts on entities from different sectors and ratings categories, thereby giving a diversified exposure to [credit risk](../c/credit_risk.md).
 
 ## Methodology
 
@@ -50,9 +50,9 @@ The Dow Jones CDX indices are extensively used in the trading of [credit](../c/c
 
 ## Stakeholders
 
-### IHS Markit
+### S&P Global
 
-IHS Markit is the primary administrator of the Dow Jones CDX indices. The company is responsible for the construction, maintenance, and dissemination of the indices. [IHS Markit](https://ihsmarkit.com) provides comprehensive analytics and data services, ensuring the indices remain [robust](../r/robust.md) and reflective of the current [credit](../c/credit.md) [market](../m/market.md) environment.
+S&P Global is the primary administrator of the Dow Jones CDX indices following its merger with IHS Markit in February 2022. The company is responsible for the construction, maintenance, and dissemination of the indices. S&P Global provides comprehensive analytics and data services, ensuring the indices remain [robust](../r/robust.md) and reflective of the current [credit](../c/credit.md) [market](../m/market.md) environment.
 
 ### Financial Institutions
 
@@ -64,4 +64,4 @@ Regulatory bodies monitor the use of CDX indices to ensure [market](../m/market.
 
 ## Conclusion
 
-The Dow Jones CDX indices are pivotal instruments in the [credit](../c/credit.md) markets, [offering](../o/offering.md) standardized and efficient means for benchmarking, [risk management](../r/risk_management.md), and speculative activities. Managed by IHS Markit, these indices provide [transparency](../t/transparency.md) and [liquidity](../l/liquidity.md), supporting a wide [range](../r/range.md) of [market](../m/market.md) participants in navigating [credit risk](../c/credit_risk.md). Whether for hedging purposes or speculative strategies, the CDX indices play a crucial role in modern [financial markets](../f/financial_market.md).
+The Dow Jones CDX indices are pivotal instruments in the [credit](../c/credit.md) markets, [offering](../o/offering.md) standardized and efficient means for benchmarking, [risk management](../r/risk_management.md), and speculative activities. Managed by S&P Global, these indices provide [transparency](../t/transparency.md) and [liquidity](../l/liquidity.md), supporting a wide [range](../r/range.md) of [market](../m/market.md) participants in navigating [credit risk](../c/credit_risk.md). Whether for hedging purposes or speculative strategies, the CDX indices play a crucial role in modern [financial markets](../f/financial_market.md).

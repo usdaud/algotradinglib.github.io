@@ -112,13 +112,12 @@ A variety of software libraries exist for implementing non-Gaussian models:
 
 Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated statistical and [mathematical models](../m/mathematical_models_in_trading.md) in their [trading strategies](../t/trading_strategies.md), including non-Gaussian models. Detailed information on their methodologies is proprietary, but the [firm](../f/firm.md) is renowned for its use of cutting-edge quantitative techniques.
 
-More information about Renaissance Technologies can be found on their [official website](https://www.rentec.com/).
+
 
 #### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management leverages advanced [quantitative research](../q/quantitative_research.md), including non-Gaussian models, to develop [trading strategies](../t/trading_strategies.md). They emphasize the importance of capturing non-linear and complex dependencies in [financial markets](../f/financial_market.md).
 
-Visit AQR [Capital](../c/capital.md) Management’s [official website](https://www.aqr.com/) for more details.
 
 ### Conclusion
 

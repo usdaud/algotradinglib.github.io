@@ -24,13 +24,13 @@ ATS are non-[exchange](../e/exchange.md) trading venues that match buyers and se
 ### Key Players in the Unlisted Stock Market
 
 #### OTC Markets Group
-[OTC Markets Group](https://www.otcmarkets.com/) operates the [OTCQX](../o/otcqx.md), OTCQB, and Pink markets that provide price and [liquidity](../l/liquidity.md) information for almost 10,000 U.S. and global securities. Companies must meet various financial standards and comply with U.S. securities laws to be [listed](../l/listed.md) on these platforms.
+OTC Markets Group operates the [OTCQX](../o/otcqx.md), OTCQB, and Pink markets that provide price and [liquidity](../l/liquidity.md) information for almost 10,000 U.S. and global securities. Companies must meet various financial standards and comply with U.S. securities laws to be [listed](../l/listed.md) on these platforms.
 
 #### Nasdaq Private Market
-[Nasdaq Private Market](https://www.nasdaqprivatemarket.com/) enables companies, employees, and investors to facilitate [liquidity](../l/liquidity.md) and manage secondary transactions. They provide a variety of services that help private companies manage the evolving challenges associated with being an unlisted entity.
+Nasdaq Private Market enables companies, employees, and investors to facilitate [liquidity](../l/liquidity.md) and manage secondary transactions. They provide a variety of services that help private companies manage the evolving challenges associated with being an unlisted entity.
 
 #### ClearList
-[ClearList](https://clearlist.com/) is a digital securities marketplace enabling private companies to create a regulated, transparent environment for secondary trading of their [shares](../s/shares.md). It seeks to bridge the gap between private and public markets.
+ClearList is a digital securities marketplace enabling private companies to create a regulated, transparent environment for secondary trading of their [shares](../s/shares.md). It seeks to bridge the gap between private and public markets.
 
 ### Risks and Considerations
 [Investing](../i/investing.md) in unlisted [stocks](../s/stock.md) comes with unique risks:

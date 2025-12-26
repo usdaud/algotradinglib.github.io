@@ -2,7 +2,7 @@
 
 The Institutional Brokers' Estimate System (IBES) is a comprehensive database compiled and maintained by Refinitiv, a global provider of [market](../m/market.md) data and [infrastructure](../i/infrastructure.md). IBES is primarily known for its collection and dissemination of [earnings estimates](../e/earnings_estimate.md) and other financial predictions made by securities analysts. These estimates cover a wide [range](../r/range.md) of financial metrics such as [earnings](../e/earnings.md) per share (EPS), [revenue](../r/revenue.md), and other relevant financial indicators.
 
-IBES is widely utilized by institutional investors, [hedge](../h/hedge.md) funds, [investment banks](../i/investment_bank_(ib).md), and trading firms to make informed trading and investment decisions. The platform provides a [robust](../r/robust.md) dataset that helps in conducting various forms of [financial analysis](../f/financial_analysis.md), including [fundamental analysis](../f/fundamental_analysis.md), [quantitative analysis](../q/quantitative_analysis.md), and [algorithmic trading](../a/accountability.md).
+IBES is widely utilized by institutional investors, [hedge](../h/hedge.md) funds, [investment banks](../i/investment_bank_(ib).md), and trading firms to make informed trading and investment decisions. The platform provides a [robust](../r/robust.md) dataset that helps in conducting various forms of [financial analysis](../f/financial_analysis.md), including [fundamental analysis](../f/fundamental_analysis.md), [quantitative analysis](../q/quantitative_analysis.md), and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Key Features of IBES
 
@@ -26,7 +26,7 @@ IBES can be integrated with various other financial data sources, such as [marke
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades based on pre-defined criteria. IBES data is highly valuable in this context due to its high-quality, granular nature. Here are some specific ways IBES is utilized in [algorithmic trading](../a/accountability.md):
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades based on pre-defined criteria. IBES data is highly valuable in this context due to its high-quality, granular nature. Here are some specific ways IBES is utilized in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Predictive Modeling
 Analysts' estimates can be used as inputs in [predictive models](../p/predictive_models_in_trading.md) that try to forecast future stock prices. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md), can be trained using IBES data to predict stock price movements based on [earnings](../e/earnings.md) forecasts and other financial metrics.
@@ -70,6 +70,6 @@ Integrating IBES data with existing [trading systems](../t/trading_systems.md) a
 
 ## Conclusion
 
-The Institutional Brokers' Estimate System (IBES) is a powerful tool for traders, investors, and financial analysts. Its comprehensive dataset of analysts' estimates and historical financial data provides invaluable insights for making informed trading decisions. Given its importance in the financial [industry](../i/industry.md), IBES remains a crucial resource for anyone engaged in [algorithmic trading](../a/accountability.md), [quantitative analysis](../q/quantitative_analysis.md), and investment research. For more information, you can visit Refinitiv's page on IBES at [Refinitiv IBES](https://www.refinitiv.com/en/financial-data/financial-research/ibes-estimates).
+The Institutional Brokers' Estimate System (IBES) is a powerful tool for traders, investors, and financial analysts. Its comprehensive dataset of analysts' estimates and historical financial data provides invaluable insights for making informed trading decisions. Given its importance in the financial [industry](../i/industry.md), IBES remains a crucial resource for anyone engaged in [algorithmic trading](../a/algorithmic_trading.md), [quantitative analysis](../q/quantitative_analysis.md), and investment research.
 
 By leveraging the capabilities of IBES, traders can develop more sophisticated and effective [trading strategies](../t/trading_strategies.md), ultimately enhancing their ability to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities.

@@ -1,6 +1,6 @@
 # World Equity Benchmark Series (WEBS)
 
-The World [Equity](../e/equity.md) [Benchmark](../b/benchmark.md) Series (WEBS) represents one of the pivotal innovations in the realm of global [exchange](../e/exchange.md)-traded funds (ETFs). Initiated in 1996 by Morgan Stanley, the WEBS were the first of their kind to provide investors diversified exposure to a wide array of global markets through a single [financial instrument](../f/financial_instrument.md). These funds are now widely recognized under the name [iShares](../i/ishares.md) MSCI, as they were eventually taken under the banner of BlackRock's [iShares](../i/ishares.md) ETF suite. 
+The World [Equity](../e/equity.md) [Benchmark](../b/benchmark.md) Series (WEBS) represents one of the pivotal innovations in the realm of global [exchange](../e/exchange.md)-traded funds (ETFs). Initiated in 1996 by Morgan Stanley, the WEBS were the first of their kind to provide investors diversified exposure to a wide array of global markets through a single [financial instrument](../f/financial_instrument.md). These funds are now widely recognized under the name [iShares](../i/ishares.md) MSCI, as they were eventually taken under the banner of BlackRock's [iShares](../i/ishares.md) ETF suite.
 
 ## Origin and Development
 
@@ -86,4 +86,4 @@ Technological advancements in trading platforms, [data analytics](../d/data_anal
 
 The World [Equity](../e/equity.md) [Benchmark](../b/benchmark.md) Series (WEBS) ETFs, now part of the [iShares](../i/ishares.md) MSCI line, have had a profound impact on the investment landscape. By providing efficient, low-cost, and diversified exposure to international markets, they have enabled a broader [range](../r/range.md) of investors to participate in global opportunities. The success and evolution of WEBS ETFs underscore the importance of innovation in the financial [industry](../i/industry.md), driving greater accessibility, [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md) in global [investing](../i/investing.md).
 
-For more information on [iShares](../i/ishares.md) MSCI ETFs, you can visit the [official iShares website](https://www.ishares.com/us/products/etf-investments#!type=ishares&view=list&style=All).
+For more information on [iShares](../i/ishares.md) MSCI ETFs,

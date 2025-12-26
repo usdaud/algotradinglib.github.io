@@ -1,10 +1,10 @@
 # Lookback Option
 
-[Lookback options](../l/lookback_options.md) are a type of exotic option that allows the holder to "look back" over the life of the option and choose the optimal price to [exercise](../e/exercise.md) it at, increasing the potential returns. These [options](../o/options.md) are more complex than standard European or American style [options](../o/options.md) and have unique characteristics that make them appealing to sophisticated investors engaged in advanced [trading strategies](../t/trading_strategies.md). 
+[Lookback options](../l/lookback_options.md) are a type of exotic option that allows the holder to "look back" over the life of the option and choose the optimal price to [exercise](../e/exercise.md) it at, increasing the potential returns. These [options](../o/options.md) are more complex than standard European or American style [options](../o/options.md) and have unique characteristics that make them appealing to sophisticated investors engaged in advanced [trading strategies](../t/trading_strategies.md).
 
 ## Definition and Types
 
-[Lookback options](../l/lookback_options.md) can be divided into two main types: 
+[Lookback options](../l/lookback_options.md) can be divided into two main types:
 
 1. **Fixed [Lookback Options](../l/lookback_options.md)**
 2. **Floating [Lookback Options](../l/lookback_options.md)**
@@ -67,11 +67,11 @@ Sophisticated traders may use [lookback options](../l/lookback_options.md) to sp
 
 Several financial institutions and trading platforms [offer](../o/offer.md) [lookback options](../l/lookback_options.md). Some of the notable providers include:
 
-- **[IG Group](../i/ig_group.md):** A global leader in online trading, [IG Group](../i/ig_group.md) offers [lookback options](../l/lookback_options.md) among other [exotic options](../e/exotic_option.md) on its platform. [IG Group](https://www.ig.com)
-- **[Saxo Bank](../s/saxo_bank.md):** The Danish [bank](../b/bank.md) provides a [range](../r/range.md) of [derivative](../d/derivative.md) products including [lookback options](../l/lookback_options.md). [Saxo Bank](https://www.home.saxo)
+- **[IG Group](../i/ig_group.md):** A global leader in online trading, [IG Group](../i/ig_group.md) offers [lookback options](../l/lookback_options.md) among other [exotic options](../e/exotic_option.md) on its platform. IG Group
+- **[Saxo Bank](../s/saxo_bank.md):** The Danish [bank](../b/bank.md) provides a [range](../r/range.md) of [derivative](../d/derivative.md) products including [lookback options](../l/lookback_options.md). Saxo Bank
 
 ## Conclusion
 
-[Lookback options](../l/lookback_options.md) are a powerful tool for traders and investors seeking to maximize returns and manage risks in highly volatile markets. Their complex nature and higher costs make them suitable primarily for sophisticated [market](../m/market.md) participants and institutions. With the ability to look back over the life of the option and choose the optimal [exercise price](../e/excersise_price.md), they present unique opportunities and challenges in the landscape of exotic financial instruments. 
+[Lookback options](../l/lookback_options.md) are a powerful tool for traders and investors seeking to maximize returns and manage risks in highly volatile markets. Their complex nature and higher costs make them suitable primarily for sophisticated [market](../m/market.md) participants and institutions. With the ability to look back over the life of the option and choose the optimal [exercise price](../e/excersise_price.md), they present unique opportunities and challenges in the landscape of exotic financial instruments.
 
 Understanding the detailed mechanics and pricing models for [lookback options](../l/lookback_options.md) is crucial for effectively incorporating them into advanced trading and [risk management](../r/risk_management.md) strategies.

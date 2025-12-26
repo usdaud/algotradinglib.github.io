@@ -55,17 +55,17 @@ Seth Klarman, the author of "[Margin of Safety](../m/margin_of_safety.md): [Risk
 ### Advantages
 
 1. **Focus on Fundamentals:** [Value](../v/value.md) [investing](../i/investing.md) emphasizes the importance of a company’s fundamental qualities, reducing reliance on [market](../m/market.md) trends and [speculation](../s/speculation.md).
-   
+
 2. **Potential for High Returns:** Buying [undervalued](../u/undervalued.md) assets can result in significant returns when the [market](../m/market.md) corrects itself.
-   
+
 3. **[Risk](../r/risk.md) Mitigation:** The concept of a [margin of safety](../m/margin_of_safety.md) helps in reducing the [downside risk](../d/downside_risk.md) of investments.
 
 ### Disadvantages
 
 1. **Time-Consuming:** Thorough [fundamental analysis](../f/fundamental_analysis.md) requires substantial effort and dedication.
-   
+
 2. **Requires Patience:** [Value](../v/value.md) [investing](../i/investing.md) is a long-term strategy, which may not appeal to those looking for quick gains.
-   
+
 3. **[Market Efficiency](../m/market_efficiency.md):** In highly efficient markets, opportunities for finding [undervalued](../u/undervalued.md) [stocks](../s/stock.md) may be limited.
 
 ## Technology and Value Investing
@@ -82,13 +82,13 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predic
 ## Value Investing in a Digital Age
 
 ### Online Brokers
-Platforms like [E*TRADE](https://us.etrade.com/home) and [TD Ameritrade](https://www.tdameritrade.com/home.page) provide tools for retail investors to practice [value](../v/value.md) [investing](../i/investing.md) without the need for traditional [brokerage services](../b/brokerage_services.md).
+Platforms like E*TRADE and TD Ameritrade provide tools for retail investors to practice [value](../v/value.md) [investing](../i/investing.md) without the need for traditional [brokerage services](../b/brokerage_services.md).
 
 ### Robo-Advisors
-Robo-advisors such as [Betterment](https://www.betterment.com/) and [Wealthfront](https://www.wealthfront.com/) use algorithms to create and manage diversified portfolios, often incorporating principles of [value](../v/value.md) [investing](../i/investing.md).
+Robo-advisors such as Betterment and Wealthfront use algorithms to create and manage diversified portfolios, often incorporating principles of [value](../v/value.md) [investing](../i/investing.md).
 
 ### Educational Resources
-Numerous online courses and resources are available for those interested in [value](../v/value.md) [investing](../i/investing.md). Websites such as [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), and [Udemy](https://www.udemy.com/) [offer](../o/offer.md) courses that cover the principles and techniques of [value](../v/value.md) [investing](../i/investing.md).
+Numerous online courses and resources are available for those interested in [value](../v/value.md) [investing](../i/investing.md). Websites such as Coursera, edX, and Udemy [offer](../o/offer.md) courses that cover the principles and techniques of [value](../v/value.md) [investing](../i/investing.md).
 
 ## Conclusion
 

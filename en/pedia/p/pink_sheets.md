@@ -134,4 +134,3 @@ Financial technology (fintech) innovations continue to influence the Pink Sheets
 
 [Investing](../i/investing.md) in Pink Sheets can be an attractive option for those willing to embrace the accompanying risks. The [market](../m/market.md) provides opportunities to discover [undervalued](../u/undervalued.md) [stocks](../s/stock.md) with substantial growth potential. However, the lack of regulation, financial instability of [listed](../l/listed.md) companies, and potential for fraudulent activities necessitate comprehensive research and cautious investment strategies. Whether you are a seasoned [investor](../i/investor.md) or a newcomer, understanding the intricacies of the Pink Sheets is essential for making informed decisions.
 
-For more information, please visit the [OTC Markets Group website](https://www.otcmarkets.com/).

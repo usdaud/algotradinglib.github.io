@@ -8,12 +8,12 @@ The concept of overshooting primarily emerges from economic theories concerning 
 
 ### Dornbusch’s Overshooting Model
 
-Dornbusch proposed that in response to a change in [monetary policy](../m/monetary_policy.md), such as an increase in the [money supply](../m/money_supply.md), the [exchange rate](../e/exchange_rate.md) overshoots its long-term [value](../v/value.md) before eventually settling at a new [equilibrium](../e/equilibrium.md). The groundwork of his theory lies in the assumption that prices of goods and services adjust slowly compared to [financial markets](../f/financial_market.md). 
+Dornbusch proposed that in response to a change in [monetary policy](../m/monetary_policy.md), such as an increase in the [money supply](../m/money_supply.md), the [exchange rate](../e/exchange_rate.md) overshoots its long-term [value](../v/value.md) before eventually settling at a new [equilibrium](../e/equilibrium.md). The groundwork of his theory lies in the assumption that prices of goods and services adjust slowly compared to [financial markets](../f/financial_market.md).
 
 1. **Immediate Impact**: When a shock occurs, the [financial markets](../f/financial_market.md) react almost immediately because they process new information more quickly and are more [liquid](../l/liquid.md) than goods markets. Thus, in the case of a monetary [expansion](../e/expansion.md), the immediate effect is a [depreciation](../d/depreciation.md) of the domestic [currency](../c/currency.md).
-  
+
 2. **Overshooting**: Due to sticky prices in the goods [market](../m/market.md), the initial [depreciation](../d/depreciation.md) overshoots the long-term [depreciation](../d/depreciation.md) necessary to restore [equilibrium](../e/equilibrium.md). This means that the [exchange rate](../e/exchange_rate.md) falls below (in the case of [depreciation](../d/depreciation.md)) its fundamental [value](../v/value.md) due to the slow adjustment of prices in the real [economy](../e/economy.md).
-   
+
 3. **Adjustment and [Equilibrium](../e/equilibrium.md)**: Over time, as prices of goods and services adjust, the [exchange rate](../e/exchange_rate.md) starts to correct itself and eventually aligns with its long-term [value](../v/value.md). This process involves feedback from the goods [market](../m/market.md) where the initial [depreciation](../d/depreciation.md) affects [trade](../t/trade.md) balances and [inflation](../i/inflation.md), which in turn influences further adjustments in the [exchange rate](../e/exchange_rate.md).
 
 ### Example of Exchange Rate Overshooting

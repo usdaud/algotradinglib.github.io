@@ -66,12 +66,12 @@ Regulatory bodies such as the Securities and [Exchange](../e/exchange.md) [Commi
 A well-known example of the misuse of related-party transactions was seen in the Enron scandal. The company used complex RPTs to hide losses and inflate profitability, leading to one of the most infamous corporate collapses and subsequent [bankruptcy](../b/bankruptcy.md).
 
 ### Apple
-Apple Inc. is noted for its stringent policies on related-party transactions, [offering](../o/offering.md) [transparency](../t/transparency.md) in its financial disclosures, and ensuring [stakeholder](../s/stakeholder.md) confidence through detailed reporting in its annual [proxy](../p/proxy.md) statements. 
+Apple Inc. is noted for its stringent policies on related-party transactions, [offering](../o/offering.md) [transparency](../t/transparency.md) in its financial disclosures, and ensuring [stakeholder](../s/stakeholder.md) confidence through detailed reporting in its annual [proxy](../p/proxy.md) statements.
 
-For in-depth review, see Apple’s [financial statements](../f/financial_statements.md) and [proxy](../p/proxy.md) statements on their [official page](https://investor.apple.com).
+For in-depth review, see Apple’s [financial statements](../f/financial_statements.md) and [proxy](../p/proxy.md) statements on their public materials.
 
 ## Conclusion
 
-Related-party transactions can provide efficiencies and strategic advantages but must be approached with caution due to potential conflicts of [interest](../i/interest.md) and regulatory concerns. Comprehensive policies, independent reviews, and complete [transparency](../t/transparency.md) are paramount in managing these transactions effectively to maintain fiduciary responsibility and [stakeholder](../s/stakeholder.md) [trust](../t/trust.md). 
+Related-party transactions can provide efficiencies and strategic advantages but must be approached with caution due to potential conflicts of [interest](../i/interest.md) and regulatory concerns. Comprehensive policies, independent reviews, and complete [transparency](../t/transparency.md) are paramount in managing these transactions effectively to maintain fiduciary responsibility and [stakeholder](../s/stakeholder.md) [trust](../t/trust.md).
 
 By adhering to standards like IFRS and GAAP, and following [best practices](../b/best_practices.md), entities can [leverage](../l/leverage.md) related-party transactions for legitimate [business](../b/business.md) gains while ensuring compliance and integrity in financial reporting.

@@ -16,7 +16,7 @@ Each of these cycles ensures that there is an equitable [distribution](../d/dist
 
 [Options](../o/options.md) are typically available based on their time to expiration:
 - **Front Month (Near-Term)**: This is the closest expiration month. It is the current month if an [expiration date](../e/expiration_date.md) has not yet passed. For example, if today is February 1, 2023, and the February expiration has not yet occurred, then the February 2023 option is the front-month option.
-  
+
 - **Back Months (Long-Term)**: These are [options](../o/options.md) that expire in farther months. These could be the next one, two, or several months out, depending on the chosen option cycle and the [trader](../t/trader.md)'s strategy.
 
 ## LEAPS (Long-Term Equity Anticipation Securities)
@@ -50,7 +50,7 @@ In modern trading, sophisticated technology tools are available to assist trader
 
 1. **Trading Platforms**: Brokerages [offer](../o/offer.md) platforms with real-time data and analytics to track option cycles.
 2. **Financial Calculators**: These tools help in understanding [Greeks](../g/greeks.md) ([Delta](../d/delta.md), [Gamma](../g/gamma.md), [Theta](../t/theta.md), [Vega](../v/vega.md)) across different expiration months.
-3. **APIs and Algorithms**: Advanced traders use APIs and [algorithmic trading](../a/accountability.md) systems to automate their strategies considering cycle rules. Fintech firms such as [Robinhood](https://www.robinhood.com) and [Interactive Brokers](https://www.interactivebrokers.com) provide extensive APIs for this purpose.
+3. **APIs and Algorithms**: Advanced traders use APIs and [algorithmic trading](../a/algorithmic_trading.md) systems to automate their strategies considering cycle rules. Fintech firms such as Robinhood and Interactive Brokers provide extensive APIs for this purpose.
 
 ## Conclusion
 

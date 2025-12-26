@@ -53,7 +53,7 @@ The social fabric of the nation also felt the effects of the policy:
 
 Beginning in 2015, the Chinese government began to relax the policy:
 
-- **Two-Child Policy**: Announced in 2015, it allowed all couples to have two children. 
+- **Two-Child Policy**: Announced in 2015, it allowed all couples to have two children.
 - **Three-Child Policy**: In response to continuing demographic challenges, a three-child policy was enacted in 2021, followed by further pronouncements encouraging larger families.
 
 ### Continuing Challenges
@@ -79,4 +79,4 @@ Despite these changes, China continues to face significant challenges:
 
 The One-Child Policy is perhaps one of the most significant sociopolitical experiments of the 20th century, shaping the demographic and economic landscape of modern China. While it achieved its goal of curbing population growth, the lasting impacts present both opportunities and challenges for future policy makers. Balancing population growth with economic development and social stability remains a crucial task for global leaders.
 
-For further reading and detailed policy documents, you can visit the [National Health Commission of the PRC](http://en.nhc.gov.cn/) that offers comprehensive resources on China's family planning policies and demographic initiatives.
+For further reading and detailed policy documents, you can visit the National Health Commission of the PRC that offers comprehensive resources on China's family planning policies and demographic initiatives.

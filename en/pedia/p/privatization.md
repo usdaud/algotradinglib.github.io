@@ -102,10 +102,9 @@ In the early 1990s, Russia implemented a [voucher](../v/voucher.md) privatizatio
 
 Privatization remains a complex and often controversial policy tool. While it has the potential to enhance [economic efficiency](../e/economic_efficiency.md), reduce fiscal pressures, and foster [market](../m/market.md) development, it also poses significant challenges and risks. The success of privatization initiatives depends on careful planning, effective regulation, and a clear understanding of the broader social and economic context.
 
-For further information on specific privatization initiatives, readers can refer to the primary sources and websites of organizations involved in these processes. 
+For further information on specific privatization initiatives, readers can refer to the primary sources and websites of organizations involved in these processes.
 
 For example:
-- **British Telecom:** [BT Corporate website](https://www.bt.com) 
-- **Russian Privatization Programs:** For more detailed case studies and historical context, primary sources such as governmental reports and academic analyses can be invaluable.
+- **British Telecom.
 
 In sum, privatization is a multifaceted process that requires a balanced approach to harness its benefits while mitigating its potential downsides.

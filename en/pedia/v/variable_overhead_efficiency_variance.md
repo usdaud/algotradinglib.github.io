@@ -8,7 +8,7 @@ Variable overheads are costs that vary directly with the level of production out
 
 ## Significance of Variable Overhead Efficiency Variance
 
-The VOEV is crucial for management as it indicates how efficiently a company is utilizing its [variable overhead](../v/variable_overhead.md) resources. By analyzing this variance, management can identify areas where [efficiency](../e/efficiency.md) can be improved, reducing overall [production costs](../p/production_costs.md) and enhancing profitability. 
+The VOEV is crucial for management as it indicates how efficiently a company is utilizing its [variable overhead](../v/variable_overhead.md) resources. By analyzing this variance, management can identify areas where [efficiency](../e/efficiency.md) can be improved, reducing overall [production costs](../p/production_costs.md) and enhancing profitability.
 
 A favorable variance indicates that actual hours worked were less than the standard hours allocated for the actual production achieved, suggesting efficient use of resources. Conversely, an [unfavorable variance](../u/unfavorable_variance.md) implies inefficiency, with actual hours worked exceeding the standard expectation.
 

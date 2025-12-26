@@ -1,6 +1,6 @@
 # Receivable
 
-In the domain of [finance](../f/finance.md) and trading, the term "receivable" refers to the amount of [money](../m/money.md) owed to a company or an individual by its customers as a result of having delivered a product or service. This is a vital component of a company’s [cash flow](../c/cash_flow.md) and working [capital](../c/capital.md). Receivables are considered [current assets](../c/current_assets.md) on the [balance sheet](../b/balance_sheet.md) because they are expected to be paid within one year. 
+In the domain of [finance](../f/finance.md) and trading, the term "receivable" refers to the amount of [money](../m/money.md) owed to a company or an individual by its customers as a result of having delivered a product or service. This is a vital component of a company’s [cash flow](../c/cash_flow.md) and working [capital](../c/capital.md). Receivables are considered [current assets](../c/current_assets.md) on the [balance sheet](../b/balance_sheet.md) because they are expected to be paid within one year.
 
 ## Understanding Receivables
 
@@ -18,7 +18,7 @@ Notes receivable differ from accounts receivable in that they are supported by f
 
 #### Interest Receivables
 
-[Interest](../i/interest.md) receivables pertain to amounts owed to the company for [interest](../i/interest.md) [income](../i/income.md). This can arise from lending [money](../m/money.md) or from investments that generate [interest](../i/interest.md) [income](../i/income.md). 
+[Interest](../i/interest.md) receivables pertain to amounts owed to the company for [interest](../i/interest.md) [income](../i/income.md). This can arise from lending [money](../m/money.md) or from investments that generate [interest](../i/interest.md) [income](../i/income.md).
 
 ### Managing Receivables
 

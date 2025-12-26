@@ -80,19 +80,19 @@ Given the complexity of [offshore](../o/offshore.md) investment, seeking advice 
 
 The Cayman Islands are renowned for their [robust](../r/robust.md) [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md). Investors can benefit from flexible regulatory frameworks, tax neutrality, and privacy. A [hedge fund](../h/hedge_fund.md) established in the Cayman Islands might [offer](../o/offer.md) jurisdictional [diversification](../d/diversification.md) and potential tax benefits.
 
-For more information, visit [Cayman Islands Government](https://www.gov.ky/).
+For more information, visit Cayman Islands Government.
 
 ### 2. Real Estate Investment in Singapore
 
 Singapore's [real estate](../r/real_estate.md) [market](../m/market.md) has attracted numerous investors due to its stability, [transparency](../t/transparency.md), and growth potential. Foreign investors can purchase high-[value](../v/value.md) properties and enjoy the region's [economic growth](../e/economic_growth.md).
 
-For more information, visit [Economic Development Board of Singapore](https://www.edb.gov.sg/).
+For more information, visit Economic Development Board of Singapore.
 
 ### 3. Private Equity in Luxembourg
 
 Luxembourg is a prime location for [private equity](../p/private_equity.md) investments, boasting a mature financial ecosystem, favorable regulatory environment, and advantageous tax structures.
 
-For more information, visit [Luxembourg for Finance](https://www.luxembourgforfinance.com/).
+For more information, visit Luxembourg for Finance.
 
 ## Conclusion
 

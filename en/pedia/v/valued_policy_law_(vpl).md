@@ -80,4 +80,4 @@ Valued Policy Law serves as a critical component in [property insurance](../p/pr
 
 For more details on specific applications of VPL, policyholders are encouraged to refer to their state’s [insurance](../i/insurance.md) statutes or consult legal and [insurance](../i/insurance.md) professionals.
 
-Further reading and detailed explanations can also be found through [insurance](../i/insurance.md) [industry](../i/industry.md) resources such as the [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/).
+Further reading and detailed explanations can also be found through [insurance](../i/insurance.md) [industry](../i/industry.md) resources such as the National Association of Insurance Commissioners (NAIC).

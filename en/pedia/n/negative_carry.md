@@ -4,10 +4,10 @@
 
 ### Understanding Carry
 
-In [finance](../f/finance.md), "carry" refers to the cost or benefit of holding an investment or a financial position over time. This concept is widely applied across various financial instruments, including bonds, currencies, and [derivatives](../d/derivatives.md). Carry can be positive or negative, depending on the relationship between the cost of holding the [asset](../a/asset.md) and the [income](../i/income.md) it generates. 
+In [finance](../f/finance.md), "carry" refers to the cost or benefit of holding an investment or a financial position over time. This concept is widely applied across various financial instruments, including bonds, currencies, and [derivatives](../d/derivatives.md). Carry can be positive or negative, depending on the relationship between the cost of holding the [asset](../a/asset.md) and the [income](../i/income.md) it generates.
 
 - **Positive Carry**: This occurs when the [income](../i/income.md) or returns generated from holding an [asset](../a/asset.md) exceed the costs associated with maintaining it. For example, if you [hold](../h/hold.md) a [bond](../b/bond.md) that pays a 5% annual [interest rate](../i/interest_rate.md), but the cost of borrowing [money](../m/money.md) to buy the [bond](../b/bond.md) is only 3%, then the carry is positive because the [income](../i/income.md) exceeds the cost.
-  
+
 - **Negative Carry**: Conversely, negative carry arises when the costs of holding an [asset](../a/asset.md) exceed the [income](../i/income.md) it generates. For instance, if you [hold](../h/hold.md) a [bond](../b/bond.md) that yields 2% [interest](../i/interest.md) while the cost of borrowing funds to buy the [bond](../b/bond.md) is 4%, you would be experiencing negative carry.
 
 ### Components of Carry
@@ -17,7 +17,7 @@ The [income](../i/income.md) generated from holding an investment varies based o
 - **[Interest](../i/interest.md) payments**: In the case of bonds and other fixed-[income](../i/income.md) instruments, this refers to the periodic coupon payments received.
 - **Dividends**: For [equity](../e/equity.md) positions, this refers to the periodic dividends paid to shareholders.
 - **Price appreciation**: For assets such as [stocks](../s/stock.md) or [real estate](../r/real_estate.md), this can also include any appreciation in the [value](../v/value.md) of the [asset](../a/asset.md) over time.
-  
+
 #### Costs Incurred
 The costs of holding a financial position can include:
 - **Borrowing costs**: If the [asset](../a/asset.md) is purchased using borrowed funds, the [interest rate](../i/interest_rate.md) on the borrowed [capital](../c/capital.md) is a crucial [factor](../f/factor.md).
@@ -27,7 +27,7 @@ The costs of holding a financial position can include:
 ### Examples of Negative Carry
 
 #### Carry Trades in Forex
-In the [foreign exchange](../f/foreign_exchange.md) (forex) [market](../m/market.md), a "[carry trade](../c/carry_trade.md)" involves borrowing in a [currency](../c/currency.md) with a low [interest rate](../i/interest_rate.md) and [investing](../i/investing.md) in a [currency](../c/currency.md) with a higher [interest rate](../i/interest_rate.md). The differential between the two [interest](../i/interest.md) rates is the "carry". However, if the [currency](../c/currency.md) in which the investment is made depreciates significantly or if [interest rate](../i/interest_rate.md) differentials change, the position can result in negative carry. 
+In the [foreign exchange](../f/foreign_exchange.md) (forex) [market](../m/market.md), a "[carry trade](../c/carry_trade.md)" involves borrowing in a [currency](../c/currency.md) with a low [interest rate](../i/interest_rate.md) and [investing](../i/investing.md) in a [currency](../c/currency.md) with a higher [interest rate](../i/interest_rate.md). The differential between the two [interest](../i/interest.md) rates is the "carry". However, if the [currency](../c/currency.md) in which the investment is made depreciates significantly or if [interest rate](../i/interest_rate.md) differentials change, the position can result in negative carry.
 
 Example:
 - Borrowing in Japanese Yen (JPY) at a near-zero [interest rate](../i/interest_rate.md).
@@ -64,8 +64,8 @@ Diversifying the portfolio across different [asset](../a/asset.md) classes and i
 Negative carry represents a significant consideration for investors and traders across various [financial markets](../f/financial_market.md). It highlights the importance of understanding the ongoing costs associated with holding an investment and the necessity of balancing these costs against the potential returns. By carefully managing carry, incorporating [risk management](../r/risk_management.md) practices, and diversifying investment portfolios, [market](../m/market.md) participants can better navigate the complexities of both positive and negative carry scenarios.
 
 For further reading and resources on related topics, you may refer to:
-- [Investopedia: Negative Carry Definition](https://www.investopedia.com/terms/n/negative-carry.asp)
-- [CFI: Negative Carry](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/negative-carry/)
-- [OANDA Negative Carry Information](https://www.oanda.com/us-en/trading/forex/)
+- Investopedia: Negative Carry Definition
+- CFI: Negative Carry
+- OANDA Negative Carry Information
 
 Understanding negative carry and its implications allows for more informed decision-making and effective [portfolio management](../p/par.md), ensuring that costs do not unduly erode investment returns over time.

@@ -49,10 +49,10 @@ The maximum loss occurs if the [underlying asset](../u/underlying_asset.md)'s pr
 There are two breakeven points for a Long [Butterfly Spread](../b/butterfly_spread.md):
 
 1. **Lower [Breakeven Point](../b/breakeven_point.md):**
-   \[ \text{Lower [Strike Price](../s/strike_price.md)} + \text{[Net Premium](../n/net_premium.md) Paid} \]
+ \[ \text{Lower [Strike Price](../s/strike_price.md)} + \text{[Net Premium](../n/net_premium.md) Paid} \]
 
 2. **Higher [Breakeven Point](../b/breakeven_point.md):**
-   \[ \text{Higher [Strike Price](../s/strike_price.md)} - \text{[Net Premium](../n/net_premium.md) Paid} \]
+ \[ \text{Higher [Strike Price](../s/strike_price.md)} - \text{[Net Premium](../n/net_premium.md) Paid} \]
 
 ## Advantages of Long Butterfly Spread
 
@@ -70,10 +70,10 @@ There are two breakeven points for a Long [Butterfly Spread](../b/butterfly_spre
 
 Several platforms and brokers provide the tools and education necessary for implementing Long Butterfly [Spreads](../s/spreads.md), including:
 
-- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR):** [Interactive Brokers](https://www.interactivebrokers.com/) offers a comprehensive [options](../o/options.md) [trading platform](../t/trading_platform.md) with detailed analytics and educational resources.
-- **TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade](https://www.tdameritrade.com/) provides [thinkorswim](../t/thinkorswim.md), a [trading platform](../t/trading_platform.md) with advanced [options](../o/options.md) analytics tools.
-- **[E*TRADE](../e/e_trade.md):** [E*TRADE](https://us.etrade.com/home) allows for easy setup and [execution](../e/execution.md) of Butterfly [Spreads](../s/spreads.md) with a user-friendly interface.
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR):** Interactive Brokers offers a comprehensive [options](../o/options.md) [trading platform](../t/trading_platform.md) with detailed analytics and educational resources.
+- **TD [Ameritrade](../a/ameritrade.md):** TD Ameritrade provides [thinkorswim](../t/thinkorswim.md), a [trading platform](../t/trading_platform.md) with advanced [options](../o/options.md) analytics tools.
+- **[E*TRADE](../e/e_trade.md):** E*TRADE allows for easy setup and [execution](../e/execution.md) of Butterfly [Spreads](../s/spreads.md) with a user-friendly interface.
 
 ## Conclusion
 
-The Long [Butterfly Spread](../b/butterfly_spread.md) strategy is an advanced [options](../o/options.md) trading method designed for scenarios of low [volatility](../v/volatility.md) and stable [underlying asset](../u/underlying_asset.md) prices. By carefully structuring the spread and understanding the [profit](../p/profit.md)/loss dynamics, traders can efficiently use this strategy to [capitalize](../c/capitalize.md) on predicted [market](../m/market.md) conditions while keeping risks manageable and predefined. 
+The Long [Butterfly Spread](../b/butterfly_spread.md) strategy is an advanced [options](../o/options.md) trading method designed for scenarios of low [volatility](../v/volatility.md) and stable [underlying asset](../u/underlying_asset.md) prices. By carefully structuring the spread and understanding the [profit](../p/profit.md)/loss dynamics, traders can efficiently use this strategy to [capitalize](../c/capitalize.md) on predicted [market](../m/market.md) conditions while keeping risks manageable and predefined.

@@ -5,24 +5,24 @@ An **Elevator Pitch** is a brief, persuasive speech that you can use to spark [i
 ## Key Components of an Elevator Pitch
 
 1. **Introduction**
-   - Who you are
-   - Brief background (optional)
-   
+ - Who you are
+ - Brief background (optional)
+
 2. **Problem Statement**
-   - What problem are you solving?
-   - Why is this problem significant?
+ - What problem are you solving?
+ - Why is this problem significant?
 
 3. **Solution**
-   - What is your unique solution?
-   - How does it address the problem better than current solutions?
+ - What is your unique solution?
+ - How does it address the problem better than current solutions?
 
 4. **[Value Proposition](../v/value_proposition.md)**
-   - What are the benefits of your solution?
-   - Specific metrics or examples if available
+ - What are the benefits of your solution?
+ - Specific metrics or examples if available
 
 5. **Call to Action**
-   - What's the next step?
-   - How can the listener get involved or learn more?
+ - What's the next step?
+ - How can the listener get involved or learn more?
 
 ## Crafting an Effective Elevator Pitch in Algorithmic Trading
 

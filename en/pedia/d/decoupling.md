@@ -24,7 +24,7 @@ Decoupling in software architecture is critical for the [scalability](../s/scala
 **Microservices Architecture:**
 - Each module (microservice) handles a specific function, such as data ingestion, [risk management](../r/risk_management.md), strategy [execution](../e/execution.md), and [order management](../o/order_management_in_trading.md).
 - Communication between microservices typically happens via lightweight protocols such as REST API or message queues like RabbitMQ or Kafka.
-  
+
 **Service-Oriented Architecture (SOA):**
 - Services are more coarse-grained compared to microservices and may encapsulate several related functions.
 - SOA promotes reusability and interoperability between services, often managed via Enterprise Service Bus (ESB).
@@ -51,7 +51,7 @@ Decoupling [trading strategies](../t/trading_strategies.md) and algorithms from 
 
 **Modular Strategy Design:**
 - Designing strategies in modular components such as signal generation, [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and [execution](../e/execution.md).
-- Using frameworks like [QuantConnect](../q/quantconnect.md), MetaTrader, or proprietary solutions to implement and test strategies in isolation.
+- Using frameworks like [StockSharp](../s/stocksharp.md), MetaTrader, or proprietary solutions to implement and test strategies in isolation.
 
 **Algorithm Libraries:**
 - Maintaining libraries of pre-built algorithms that can be mixed and matched or extended based on specific trading needs.
@@ -95,15 +95,15 @@ Numerous trading firms and platforms employ decoupling strategies to create scal
 
 **[LMAX](../l/lmax.md) [Exchange](../e/exchange.md):**
 - A leading example in the HFT space, [LMAX](../l/lmax.md) [Exchange](../e/exchange.md) utilizes decoupled architecture to provide ultra-low latency [execution](../e/execution.md) times and high [throughput](../t/throughput.md).
-- More information can be found on their [website](https://www.lmax.com).
+-
 
-**[QuantConnect](../q/quantconnect.md):**
+**[StockSharp](../s/stocksharp.md):**
 - A cloud-based [algorithmic trading](../a/accountability.md) platform that allows quants to design, test, and deploy [trading strategies](../t/trading_strategies.md) in a highly decoupled environment.
-- More information is available on their [website](https://www.quantconnect.com).
+-
 
 **Virtu Financial:**
 - Known for its advanced technological [infrastructure](../i/infrastructure.md), Virtu Financial leverages decoupling to maintain uptime, minimize latency, and [handle](../h/handle.md) massive data volumes.
-- More information can be found on their [website](https://www.virtu.com).
+-
 
 ## Benefits of Decoupling in Algorithmic Trading
 

@@ -4,11 +4,11 @@ A turnkey property is a fully renovated and move-in-ready [real estate](../r/rea
 
 ## Key Characteristics of Turnkey Properties
 
-1. **Ready for Immediate Use**: 
-    - **Renovations Completed**: All necessary renovations have been completed before the [sale](../s/sale.md).
-    - **Functional Utilities**: Utilities such as water, electricity, and heating/cooling systems are functional.
-    - **Compliance with Standards**: The property meets all local building codes and regulations.
-  
+1. **Ready for Immediate Use**:
+ - **Renovations Completed**: All necessary renovations have been completed before the [sale](../s/sale.md).
+ - **Functional Utilities**: Utilities such as water, electricity, and heating/cooling systems are functional.
+ - **Compliance with Standards**: The property meets all local building codes and regulations.
+
 2. **Management Services**: Many turnkey properties come with [property management](../p/property_management.md) services. Companies specializing in turnkey properties [will](../w/will.md) often [offer](../o/offer.md) [property management](../p/property_management.md) as part of their service package, taking care of tenant management, rent collection, and maintenance.
 
 3. **Pre-existing Tenants**: Sometimes, these properties come with tenants already in place, generating immediate rental [income](../i/income.md) for the [investor](../i/investor.md).
@@ -37,10 +37,10 @@ A turnkey property is a fully renovated and move-in-ready [real estate](../r/rea
 
 When [investing](../i/investing.md) in turnkey properties, careful [market](../m/market.md) analysis is essential. Factors to consider include:
 
-1. **Location**: 
-    - **Employment Opportunities**: Areas with growing job markets tend to attract tenants.
-    - **[Demographics](../d/demographics.md)**: Understanding local [demographics](../d/demographics.md) can help identify target tenants.
-    - **[Economic Indicators](../e/economic_indicators.md)**: Evaluate local economic health, including [median](../m/median.md) [income](../i/income.md) levels and [cost of living](../c/cost_of_living.md).
+1. **Location**:
+ - **Employment Opportunities**: Areas with growing job markets tend to attract tenants.
+ - **[Demographics](../d/demographics.md)**: Understanding local [demographics](../d/demographics.md) can help identify target tenants.
+ - **[Economic Indicators](../e/economic_indicators.md)**: Evaluate local economic health, including [median](../m/median.md) [income](../i/income.md) levels and [cost of living](../c/cost_of_living.md).
 
 2. **Rental [Demand](../d/demand.md)**: Look for areas with strong rental [demand](../d/demand.md) to ensure steady [occupancy rates](../o/occupancy_rates_in_trading.md).
 
@@ -50,8 +50,7 @@ When [investing](../i/investing.md) in turnkey properties, careful [market](../m
 
 ## Case Study: Roofstock
 
-[Roofstock](https://www.roofstock.com/) is a leading marketplace for buying and selling turnkey rental properties. Roofstock simplifies the investment process by [offering](../o/offering.md) properties that have been vetted, often come with tenants in place, and provide [property management](../p/property_management.md) services. They [offer](../o/offer.md) a comprehensive platform where investors can:
-
+Roofstock is a leading marketplace for buying and selling turnkey rental properties. Roofstock simplifies the investment process by [offering](../o/offering.md) properties that have been vetted, often come with tenants in place, and provide [property management](../p/property_management.md) services. They [offer](../o/offer.md) a comprehensive platform where investors can
 1. **Browse Listings**: View detailed information of properties including [financial performance](../f/financial_performance.md), inspection reports, and neighborhood ratings.
 2. **Conduct Analysis**: Use investment calculators and other tools to analyze potential returns.
 3. **Invest Confidently**: Purchase properties knowing Roofstock provides a 30-day [money](../m/money.md)-back guarantee and ongoing support.

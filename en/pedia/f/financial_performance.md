@@ -30,13 +30,13 @@ Financial performance is a broad term that encapsulates a [range](../r/range.md)
 ### Types of Profit Margins
 
 1. **[Gross Profit Margin](../g/gross_profit_margin.md)**: ([Gross Profit](../g/gross_profit.md) / [Revenue](../r/revenue.md)) * 100
-   - [Gross profit](../g/gross_profit.md) is calculated by subtracting the cost of goods sold (COGS) from total [revenue](../r/revenue.md).
+ - [Gross profit](../g/gross_profit.md) is calculated by subtracting the cost of goods sold (COGS) from total [revenue](../r/revenue.md).
 
 2. **[Operating Profit](../o/operating_profit.md) [Margin](../m/margin.md)**: ([Operating Income](../o/operating_income.md) / [Revenue](../r/revenue.md)) * 100
-   - [Operating income](../o/operating_income.md) is derived by subtracting operating expenses (like wages and [depreciation](../d/depreciation.md)) from [gross profit](../g/gross_profit.md).
+ - [Operating income](../o/operating_income.md) is derived by subtracting operating expenses (like wages and [depreciation](../d/depreciation.md)) from [gross profit](../g/gross_profit.md).
 
 3. **[Net Profit Margin](../n/net_profit_margin.md)**: (Net [Profit](../p/profit.md) / [Revenue](../r/revenue.md)) * 100
-   - Net [profit](../p/profit.md) is the amount left after all expenses, [taxes](../t/taxes.md), and [interest](../i/interest.md) have been deducted from total [revenue](../r/revenue.md).
+ - Net [profit](../p/profit.md) is the amount left after all expenses, [taxes](../t/taxes.md), and [interest](../i/interest.md) have been deducted from total [revenue](../r/revenue.md).
 
 ### Importance
 
@@ -67,7 +67,7 @@ EBIT is a measure of a [firm](../f/firm.md)'s [profit](../p/profit.md) that incl
 
 ## Cash Flow
 
-[Cash flow](../c/cash_flow.md) refers to the net amount of cash being transferred into and out of a [business](../b/business.md), especially in regard to operating, [investing](../i/investing.md), and [financing](../f/financing.md) activities. 
+[Cash flow](../c/cash_flow.md) refers to the net amount of cash being transferred into and out of a [business](../b/business.md), especially in regard to operating, [investing](../i/investing.md), and [financing](../f/financing.md) activities.
 
 ### Types of Cash Flow
 
@@ -87,13 +87,13 @@ EBIT is a measure of a [firm](../f/firm.md)'s [profit](../p/profit.md) that incl
 ### Common Debt Ratios
 
 1. **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio**: Total [Debt](../d/debt.md) / Total [Equity](../e/equity.md)
-   - Measures the relative proportion of [shareholder](../s/shareholder.md)'s [equity](../e/equity.md) and [debt](../d/debt.md) used to [finance](../f/finance.md) a company's assets.
+ - Measures the relative proportion of [shareholder](../s/shareholder.md)'s [equity](../e/equity.md) and [debt](../d/debt.md) used to [finance](../f/finance.md) a company's assets.
 
 2. **[Debt](../d/debt.md)-to-Assets Ratio**: Total [Debt](../d/debt.md) / Total Assets
-   - Reflects the percentage of a company’s assets that are financed by [debt](../d/debt.md).
+ - Reflects the percentage of a company’s assets that are financed by [debt](../d/debt.md).
 
 3. **[Interest Coverage Ratio](../i/interest_coverage_ratio.md)**: EBIT / [Interest](../i/interest.md) Expenses
-   - Indicates how easily a company can pay [interest](../i/interest.md) on outstanding [debt](../d/debt.md).
+ - Indicates how easily a company can pay [interest](../i/interest.md) on outstanding [debt](../d/debt.md).
 
 ### Importance
 
@@ -152,13 +152,13 @@ Financial performance in investment portfolios can be measured through various m
 
 ## Examples of Companies Monitoring Financial Performance
 
-### [Apple Inc.](https://www.apple.com)
+### Apple Inc.
 
-Apple Inc. regularly publishes its financial performance through quarterly and annual reports. Their financial performance is closely watched considering their dominant position in the [technology sector](../t/technology_sector.md). Detailed information can be accessed through their [Investor Relations](../i/investor_relations.md) page.
+Apple Inc. regularly publishes its financial performance through quarterly and annual reports. Their financial performance is closely watched considering their dominant position in the [technology sector](../t/technology_sector.md). Detailed information can be accessed../i/investor_relations.md) page.
 
-### [Tesla, Inc.](https://ir.tesla.com/)
+### Tesla, Inc.
 
-Tesla, Inc. is another example where financial performance is critical given its rapid growth in the automotive and energy sectors. Their [financial health](../f/financial_health.md) and [performance metrics](../p/performance_metrics.md) are available on their [investor relations](../i/investor_relations.md) website, providing insights into their [operational efficiency](../o/operational_efficiency_in_trading.md) and [market](../m/market.md) strategy.
+Tesla, Inc. is another example where financial performance is critical given its rapid growth in the automotive and energy sectors. Their [financial health](../f/financial_health.md) and [performance metrics](../p/performance_metrics.md) are available on their [company filings](../i/investor_relations.md) online platform, providing insights into their [operational efficiency](../o/operational_efficiency_in_trading.md) and [market](../m/market.md) strategy.
 
 ## Conclusion
 

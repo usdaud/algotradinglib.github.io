@@ -6,7 +6,7 @@ X-Y data plotting is a fundamental aspect of [algorithmic trading](../a/algorith
 
 ### Scatter Plots
 
-A scatter plot is the most basic form of X-Y plotting used in [algorithmic trading](../a/algorithmic_trading.md). It allows traders and analysts to plot individual data points on a two-dimensional grid to identify potential trends, correlations, or outliers. Each point represents a trading event or a datapoint related to financial assets. 
+A scatter plot is the most basic form of X-Y plotting used in [algorithmic trading](../a/algorithmic_trading.md). It allows traders and analysts to plot individual data points on a two-dimensional grid to identify potential trends, correlations, or outliers. Each point represents a trading event or a datapoint related to financial assets.
 
 #### Example
 For instance, plotting stock prices (Y-axis) against time (X-axis) can help in visualizing price movements over a period.
@@ -54,14 +54,14 @@ A [heatmap](../h/heatmap.md) showing the intensity of trading volumes across dif
 
 Python is a popular language for [algorithmic trading](../a/algorithmic_trading.md), and libraries like Matplotlib and Seaborn are extensively used for X-Y plotting. Matplotlib provides a wide [range](../r/range.md) of functionalities for basic and advanced plotting, while Seaborn enhances Matplotlib’s capabilities with additional features and themes.
 
-- [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
+- Matplotlib
+- Seaborn
 
 ### R - ggplot2
 
 R is another language widely used for statistical analysis and visualization in [algorithmic trading](../a/algorithmic_trading.md). The ggplot2 library in R offers powerful tools for creating a wide [range](../r/range.md) of plots, including scatter plots, line graphs, and advanced statistical plots.
 
-- [ggplot2](https://ggplot2.tidyverse.org/)
+- ggplot2
 
 ### Specialized Trading Platforms
 
@@ -69,11 +69,11 @@ Several specialized trading platforms and software provide built-in tools for X-
 
 #### Examples
 - **MetaTrader**: A popular [trading platform](../t/trading_platform.md) that offers various charting tools, including [candlestick](../c/candlestick.md) and OHLC charts.
-    - [MetaTrader](https://www.metatrader4.com/)
+ - MetaTrader
 - **[TradingView](../t/tradingview.md)**: A web-based trading and charting platform [offering](../o/offering.md) extensive charting tools and community-sourced trading ideas.
-    - [TradingView](https://www.tradingview.com/)
+ - TradingView
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and [data visualization](../d/data_visualization.md).
-    - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 ## Application in Algorithmic Trading
 
@@ -116,4 +116,3 @@ Advanced plotting techniques, especially those involving large datasets or compl
 ## Conclusion
 
 X-Y data plotting is an indispensable tool in [algorithmic trading](../a/algorithmic_trading.md), supporting the visualization and analysis of complex relationships between financial variables. By leveraging various plotting techniques and tools, traders and analysts can [gain](../g/gain.md) deeper insights into [market](../m/market.md) behaviors, develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md), and effectively manage risks. However, it is also essential to be mindful of the challenges and limitations associated with data plotting to ensure that the visualizations lead to accurate and actionable insights.
-

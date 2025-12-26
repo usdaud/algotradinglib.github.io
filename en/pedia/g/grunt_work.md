@@ -1,12 +1,12 @@
 # Grunt Work
 
-Grunt work refers to the repetitive, often unglamorous tasks that need to be completed as part of a larger project or operational process. In the context of [algorithmic trading](../a/accountability.md) (also known as "algo-trading" or "automated trading"), grunt work takes on specific forms that involve handling and optimizing data, developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md), and even managing the computational and infrastructural requirements. Despite its seemingly mundane nature, grunt work is crucial for the efficient and successful operation of more complex [trading systems](../t/trading_systems.md).
+Grunt work refers to the repetitive, often unglamorous tasks that need to be completed as part of a larger project or operational process. In the context of [algorithmic trading](../a/algorithmic_trading.md) (also known as "algo-trading" or "automated trading"), grunt work takes on specific forms that involve handling and optimizing data, developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md), and even managing the computational and infrastructural requirements. Despite its seemingly mundane nature, grunt work is crucial for the efficient and successful operation of more complex [trading systems](../t/trading_systems.md).
 
 ## Definition in Algorithmic Trading
 
 ### Data Handling
 
-Data is the lifeblood of [algorithmic trading](../a/accountability.md). Collecting and maintaining high-quality data is the first step in developing any [trading strategy](../t/trading_strategy.md). This involves:
+Data is the lifeblood of [algorithmic trading](../a/algorithmic_trading.md). Collecting and maintaining high-quality data is the first step in developing any [trading strategy](../t/trading_strategy.md). This involves:
 
 - **Data [Acquisition](../a/acquisition.md)**: Gathering data from various sources such as exchanges, financial news sites, and APIs. Data can [range](../r/range.md) from stock prices, [volume](../v/volume.md), and historical data to more complex datasets like [sentiment analysis](../s/sentiment_analysis.md) from news articles and [social media](../s/social_media.md).
 - **[Data Cleaning](../d/data_cleaning.md)**: Raw data often contains [noise](../n/noise.md) and errors. Cleaning data involves removing duplicates, correcting errors, filling in missing values, and ensuring data is in a consistent format.
@@ -21,7 +21,7 @@ Once data is in place, the next step involves developing [trading algorithms](..
 
 ### Computational Requirements
 
-[Algorithmic trading](../a/accountability.md) requires significant computational power, especially for high-frequency trading where decisions are made in microseconds. Tasks under computational requirements include:
+[Algorithmic trading](../a/algorithmic_trading.md) requires significant computational power, especially for high-frequency trading where decisions are made in microseconds. Tasks under computational requirements include:
 
 - **[Infrastructure](../i/infrastructure.md) Setup**: Building and maintaining servers, network setups, and other [infrastructure](../i/infrastructure.md) elements necessary for low-latency trading.
 - **Algorithm [Optimization](../o/optimization.md)**: Ensuring that the algorithms run efficiently and can [handle](../h/handle.md) the required trading [volume](../v/volume.md) without bottlenecks.
@@ -37,30 +37,30 @@ Even after a strategy is developed, tested, and optimized, there are additional 
 
 ## Companies Specializing in Grunt Work for Algorithmic Trading
 
-Several companies specialize in providing the tools and [infrastructure](../i/infrastructure.md) necessary to [handle](../h/handle.md) the grunt work involved in [algorithmic trading](../a/accountability.md). Some notable ones include:
+Several companies specialize in providing the tools and [infrastructure](../i/infrastructure.md) necessary to [handle](../h/handle.md) the grunt work involved in [algorithmic trading](../a/algorithmic_trading.md). Some notable ones include:
 
 ### Quandl
 
-[Quandl](https://www.quandl.com/) specializes in providing financial, economic, and alternative datasets for investment professionals.
+Quandl specializes in providing financial, economic, and alternative datasets for investment professionals.
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/accountability.md) platform that offers tools for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md).
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md).
 
 ### Alpaca
 
-[Alpaca](https://alpaca.markets/) provides an API-first stock brokerage platform for trading algorithm integrations.
+Alpaca provides an API-first stock brokerage platform for trading algorithm integrations.
 
 ### Interactive Brokers
 
-[Interactive Brokers](https://www.interactivebrokers.com/) offers a comprehensive suite of tools for trading, including low-latency [order routing](../o/order_routing.md) and [execution](../e/execution.md) services suitable for algo-trading.
+Interactive Brokers offers a comprehensive suite of tools for trading, including low-latency [order routing](../o/order_routing.md) and [execution](../e/execution.md) services suitable for algo-trading.
 
 ### Kdb+
 
-[Kdb+](https://kx.com/platform/kdb/) is a time-series database from Kx Systems, highly optimized for handling large volumes of financial data.
+Kdb+ is a time-series database from Kx Systems, highly optimized for handling large volumes of financial data.
 
 ## Conclusion
 
-Grunt work in [algorithmic trading](../a/accountability.md) may not be glamorous, but it is essential. Whether it's data handling, strategy development, computational requirements, or [execution](../e/execution.md) and [order management](../o/order_management_in_trading.md), each aspect requires meticulous attention to detail. Companies specializing in various facets of this grunt work provide the necessary tools and services to ensure that [trading algorithms](../t/trading_algorithms.md) function smoothly and efficiently. This foundational work allows quants and traders to focus on what they do best: developing sophisticated strategies that can [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities.
+Grunt work in [algorithmic trading](../a/algorithmic_trading.md) may not be glamorous, but it is essential. Whether it's data handling, strategy development, computational requirements, or [execution](../e/execution.md) and [order management](../o/order_management_in_trading.md), each aspect requires meticulous attention to detail. Companies specializing in various facets of this grunt work provide the necessary tools and services to ensure that [trading algorithms](../t/trading_algorithms.md) function smoothly and efficiently. This foundational work allows quants and traders to focus on what they do best: developing sophisticated strategies that can [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities.
 
-By properly managing the grunt work, [algorithmic trading](../a/accountability.md) firms can achieve more accurate, efficient, and profitable trading operations.
+By properly managing the grunt work, [algorithmic trading](../a/algorithmic_trading.md) firms can achieve more accurate, efficient, and profitable trading operations.

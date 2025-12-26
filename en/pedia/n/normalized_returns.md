@@ -17,22 +17,22 @@ In essence, normalized returns take raw financial data and tweak it so that each
 There are [multiple](../m/multiple.md) ways to normalize returns, depending on the specific use case and data involved. Here are some common methods:
 
 1. **[Standard Deviation](../s/standard_deviation.md) Normalization**: This involves adjusting returns based on their [standard deviation](../s/standard_deviation.md). The formula is:
-   \[
-   \text{Normalized [Return](../r/return.md)} = \frac{R - \mu}{\sigma}
-   \]
-   where \( R \) is the raw [return](../r/return.md), \( \mu \) is the mean [return](../r/return.md), and \( \sigma \) is the [standard deviation](../s/standard_deviation.md).
+ \[
+ \text{Normalized [Return](../r/return.md)} = \frac{R - \mu}{\sigma}
+ \]
+ where \( R \) is the raw [return](../r/return.md), \( \mu \) is the mean [return](../r/return.md), and \( \sigma \) is the [standard deviation](../s/standard_deviation.md).
 
 2. **[Z-Score](../z/z-score.md)**: A [Z-score](../z/z-score.md) represents the number of standard deviations a data point is from the mean. In [finance](../f/finance.md), it’s used to standardize data points:
-   \[
-   Z = \frac{R - \mu}{\sigma}
-   \]
-   The [Z-score](../z/z-score.md) provides a clear idea of whether a [return](../r/return.md) is far from the mean or within the expected [range](../r/range.md).
+ \[
+ Z = \frac{R - \mu}{\sigma}
+ \]
+ The [Z-score](../z/z-score.md) provides a clear idea of whether a [return](../r/return.md) is far from the mean or within the expected [range](../r/range.md).
 
 3. **[Sharpe Ratio](../s/sharpe_ratio.md)**: This measures the performance of an investment compared to a [risk-free asset](../r/risk-free_asset.md), after adjusting for its [risk](../r/risk.md). It’s calculated as:
-   \[
-   \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{R - R_f}{\sigma}
-   \]
-   where \( R \) is the [return](../r/return.md) of the [asset](../a/asset.md), \( R_f \) is the [risk](../r/risk.md)-free rate, and \( \sigma \) is the [standard deviation](../s/standard_deviation.md) of the [asset](../a/asset.md)'s [excess return](../e/excess_return.md).
+ \[
+ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{R - R_f}{\sigma}
+ \]
+ where \( R \) is the [return](../r/return.md) of the [asset](../a/asset.md), \( R_f \) is the [risk](../r/risk.md)-free rate, and \( \sigma \) is the [standard deviation](../s/standard_deviation.md) of the [asset](../a/asset.md)'s [excess return](../e/excess_return.md).
 
 4. **[Benchmark](../b/benchmark.md) Normalization**: This method involves comparing returns to an [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). The [return](../r/return.md) is divided by the [benchmark](../b/benchmark.md) [return](../r/return.md) to [yield](../y/yield.md) a normalized figure.
 
@@ -66,10 +66,10 @@ Although [Asset](../a/asset.md) A has a higher raw [return](../r/return.md), [As
 
 Several companies [offer](../o/offer.md) tools and platforms tailored for algorithmic traders, providing them with capabilities to calculate and analyze normalized returns:
 
-- **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/): A community-focused [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, research, [backtesting](../b/backtesting.md), and live trading capabilities.
-- **[Alpaca](../a/alpaca.md)** [Alpaca](https://alpaca.markets/): Provides [commission](../c/commission.md)-free trading APIs and facilitates [algorithmic trading](../a/algorithmic_trading.md) with normalized [return](../r/return.md) calculations for performance comparison.
-- **Kensho Technologies** [Kensho](https://www.kensho.com/): Offers advanced analytics and data processing tools that can incorporate normalized returns into more extensive financial analyses.
-- **Numerai** [Numerai](https://numer.ai/): Utilizes crowd-sourced data and [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) moves, often incorporating normalized returns in their competitions and model assessments.
+- **[QuantConnect](../q/quantconnect.md)** QuantConnect: A community-focused [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, research, [backtesting](../b/backtesting.md), and live trading capabilities.
+- **[Alpaca](../a/alpaca.md)** Alpaca: Provides [commission](../c/commission.md)-free trading APIs and facilitates [algorithmic trading](../a/algorithmic_trading.md) with normalized [return](../r/return.md) calculations for performance comparison.
+- **Kensho Technologies** Kensho: Offers advanced analytics and data processing tools that can incorporate normalized returns into more extensive financial analyses.
+- **Numerai** Numerai: Utilizes crowd-sourced data and [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) moves, often incorporating normalized returns in their competitions and model assessments.
 
 #### Conclusion
 

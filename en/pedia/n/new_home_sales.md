@@ -28,7 +28,7 @@ These reports are typically released on a monthly [basis](../b/basis.md) and are
 
 ## Factors Influencing New Home Sales
 
-Numerous factors influence new [home](../h/home.md) sales, including [economic conditions](../e/economic_conditions.md), [interest](../i/interest.md) rates, consumer confidence, and [government policies](../g/government_policies_in_trading.md). 
+Numerous factors influence new [home](../h/home.md) sales, including [economic conditions](../e/economic_conditions.md), [interest](../i/interest.md) rates, consumer confidence, and [government policies](../g/government_policies_in_trading.md).
 
 ### Economic Conditions
 The overall state of the [economy](../e/economy.md) significantly influences new [home](../h/home.md) sales. During periods of [economic growth](../e/economic_growth.md), employment rates are generally higher, incomes are more stable, and people are more willing to make large financial commitments. Conversely, during economic downturns, potential buyers may be more cautious, leading to a decline in new [home](../h/home.md) sales.
@@ -71,4 +71,4 @@ The housing [market](../m/market.md) can be highly variable, with differences in
 
 New [home](../h/home.md) sales are a fundamental [indicator](../i/indicator.md) of economic health, consumer confidence, and [real estate](../r/real_estate.md) [market](../m/market.md) trends. Tracking this data provides valuable insights for a wide [range](../r/range.md) of stakeholders, including [real estate](../r/real_estate.md) developers, investors, policymakers, and consumers. Despite challenges such as data accuracy and [market](../m/market.md) [variability](../v/variability.md), new [home](../h/home.md) sales remain a critical metric in understanding and [forecasting](../f/forecasting.md) economic and [real estate](../r/real_estate.md) [market](../m/market.md) conditions.
 
-For ongoing data and reports, relevant stakeholders can refer to the U.S. Census Bureau and HUD's monthly new [home](../h/home.md) sales reports [here](https://www.census.gov/construction/nrs/).
+For ongoing data and reports, relevant stakeholders can refer to the U.S. Census Bureau and HUD's monthly new [home](../h/home.md) sales reports here.

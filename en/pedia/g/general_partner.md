@@ -44,11 +44,11 @@ In most jurisdictions, a General Partner is part of a limited partnership (LP), 
 
 ### Sequoia Capital
 
-Sequoia [Capital](../c/capital.md) is a well-known [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that acts as a General Partner in its investment funds. The [firm](../f/firm.md) has been instrumental in the early-stage funding of iconic companies like Apple, Google, and LinkedIn. For more information, visit [Sequoia Capital](https://www.sequoiacap.com/).
+Sequoia [Capital](../c/capital.md) is a well-known [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that acts as a General Partner in its investment funds. The [firm](../f/firm.md) has been instrumental in the early-stage funding of iconic companies like Apple, Google, and LinkedIn. For more information, visit Sequoia Capital.
 
 ### Blackstone Group
 
-The Blackstone Group is another notable example. Blackstone operates as a GP in various [private equity](../p/private_equity.md), [real estate](../r/real_estate.md), [hedge fund](../h/hedge_fund.md), and [credit](../c/credit.md) funds. The [firm](../f/firm.md)'s substantial AUM and diversified portfolio make it a leading player in the [industry](../i/industry.md). More details can be found on the [Blackstone Group website](https://www.blackstone.com/).
+The Blackstone Group is another notable example. Blackstone operates as a GP in various [private equity](../p/private_equity.md), [real estate](../r/real_estate.md), [hedge fund](../h/hedge_fund.md), and [credit](../c/credit.md) funds. The [firm](../f/firm.md)'s substantial AUM and diversified portfolio make it a leading player in the [industry](../i/industry.md). More
 
 ## Advantages
 

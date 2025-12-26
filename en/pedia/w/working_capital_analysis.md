@@ -108,13 +108,11 @@ Several companies are renowned for their effective [working capital management](
 
 Apple Inc. is often cited for its [robust](../r/robust.md) [working capital management](../w/working_capital_management.md) practices. Despite maintaining a large [inventory](../i/inventory.md), Apple efficiently manages its accounts [receivable](../r/receivable.md) and payable, ensuring a healthy [cash flow](../c/cash_flow.md). The company’s strategic supplier relationships and efficient [inventory turnover](../i/inventory_turnover.md) are key pillars of its [working capital management](../w/working_capital_management.md).
 
-More details can be found on their official website: [Apple Inc.](https://www.apple.com/)
 
 ### Toyota
 
 Toyota’s adoption of the Just-In-Time (JIT) [inventory](../i/inventory.md) system has revolutionized [inventory management](../i/inventory_management.md). The company maintains minimal [inventory](../i/inventory.md) levels, reducing [holding costs](../h/holding_costs.md) and improving [cash flow](../c/cash_flow.md). This approach is integral to Toyota’s efficient [working capital management](../w/working_capital_management.md).
 
-More details can be found on their official website: [Toyota](https://www.toyota-global.com/)
 
 ## Conclusion
 

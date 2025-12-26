@@ -1,6 +1,6 @@
 # Reverse Gamma Hedging
 
-## Introduction to Hedging 
+## Introduction to Hedging
 
 Hedging is a form of [risk management](../r/risk_management.md) deployed to [offset](../o/offset.md) potential losses in an investment portfolio. In the context of [options](../o/options.md) trading, hedging involves taking an opposing position in a correlated [asset](../a/asset.md) to mitigate potential losses. Traditional [hedging strategies](../h/hedging_strategies.md) include [Delta Hedging](../d/delta_hedging.md), [Gamma Hedging](../g/gamma_hedging.md), and [Vega](../v/vega.md) Hedging, among others.
 
@@ -57,10 +57,10 @@ The concept behind Reverse [Gamma Hedging](../g/gamma_hedging.md) is to intentio
 1. **Identify High [Gamma](../g/gamma.md) [Options](../o/options.md)**: Select [options](../o/options.md) with high [Gamma](../g/gamma.md), typically near expiration and at-the-[money](../m/money.md).
 2. **Setup Initial Position**: Initiate a position with a deliberate [Gamma](../g/gamma.md) imbalance.
 3. **Dynamic [Delta](../d/delta.md) Adjustment**: Continuously adjust [Delta](../d/delta.md) positions in response to price movements. This may involve:
-   - Buying or selling the [underlying asset](../u/underlying_asset.md).
-   - Adjusting the amount of [options](../o/options.md) held.
+ - Buying or selling the [underlying asset](../u/underlying_asset.md).
+ - Adjusting the amount of [options](../o/options.md) held.
 4. **Monitor [Market](../m/market.md) Conditions**: Constantly keep an eye on [market](../m/market.md) [volatility](../v/volatility.md) and make quick adjustments.
-   
+
 ### Example Scenario
 
 Imagine you expect significant [volatility](../v/volatility.md) in the stock of a technology company ahead of its [earnings report](../e/earnings_report.md). You identify near-expiration at-the-[money](../m/money.md) call [options](../o/options.md) with high [Gamma](../g/gamma.md):
@@ -79,16 +79,16 @@ During the period of extreme [volatility](../v/volatility.md) in early 2020 due 
 
 ### Trading Platforms
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A powerful tool for [options](../o/options.md) traders [offering](../o/offering.md) real-time [Gamma](../g/gamma.md) and [Delta](../d/delta.md) monitoring. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides advanced [options](../o/options.md) analytics and real-time monitoring tools. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A powerful tool for [options](../o/options.md) traders [offering](../o/offering.md) real-time [Gamma](../g/gamma.md) and [Delta](../d/delta.md) monitoring. Thinkorswim
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides advanced [options](../o/options.md) analytics and real-time monitoring tools. Interactive Brokers
 
 ### Analytics Tools
-- **OptionVue**: Delivers [robust](../r/robust.md) [options](../o/options.md) analysis including [Gamma](../g/gamma.md) and [Delta](../d/delta.md) projections. [OptionVue](https://optionvue.com)
-- **[Bloomberg](../b/bloomberg.md) Terminal**: [Industry](../i/industry.md)-standard tool for comprehensive financial analytics including [options](../o/options.md) [greeks](../g/greeks.md) and [volatility](../v/volatility.md) tracking. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **OptionVue**: Delivers [robust](../r/robust.md) [options](../o/options.md) analysis including [Gamma](../g/gamma.md) and [Delta](../d/delta.md) projections. OptionVue
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Industry](../i/industry.md)-standard tool for comprehensive financial analytics including [options](../o/options.md) [greeks](../g/greeks.md) and [volatility](../v/volatility.md) tracking. Bloomberg
 
 ### Algorithmic Trading Systems
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for the [backtesting](../b/backtesting.md) and implementation of complex [trading strategies](../t/trading_strategies.md) including Reverse [Gamma Hedging](../g/gamma_hedging.md). [QuantConnect](https://www.quantconnect.com)
-- **[AlgoTrader](../a/algotrader.md)**: Provides a comprehensive suite for developing and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. [AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for the [backtesting](../b/backtesting.md) and implementation of complex [trading strategies](../t/trading_strategies.md) including Reverse [Gamma Hedging](../g/gamma_hedging.md). QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: Provides a comprehensive suite for developing and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. AlgoTrader
 
 ## Conclusion
 

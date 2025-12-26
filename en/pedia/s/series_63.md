@@ -98,5 +98,5 @@ The Series 63 exam is crucial for ensuring that securities professionals are wel
 
 For more detailed information on the Series 63 exam, study materials, and registration details, you can visit the following links:
 
-- NASAA: [NASAA Series 63 Exam](https://www.nasaa.org/industry-resources/exams/series-63/)
-- FINRA: [FINRA Series 63 Exam](https://www.finra.org/registration-exams-ce/qualification-exams/series63)
+- NASAA: NASAA Series 63 Exam
+- FINRA: FINRA Series 63 Exam

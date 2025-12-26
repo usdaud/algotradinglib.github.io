@@ -81,10 +81,10 @@ Regularly review and potentially adjust the investment choices within the [varia
 
 ## Examples of Companies Offering Variable Annuities
 
-1. [Fidelity Investments](https://www.fidelity.com) - Offers a [range](../r/range.md) of variable annuities with various investment [options](../o/options.md) and features.
-2. [Vanguard](https://www.vanguard.com) - Provides low-cost variable annuities with a focus on long-term growth and [retirement planning](../r/retirement_planning.md).
-3. [Prudential Financial](https://www.prudential.com) - Offers variable annuities with optional riders for added [security](../s/security.md) and [income](../i/income.md) flexibility.
-4. [TIAA](https://www.tiaa.org) - Known for serving educators and non-[profit](../p/profit.md) employees with variable annuities tailored to their unique needs.
+1. Fidelity Investments - Offers a [range](../r/range.md) of variable annuities with various investment [options](../o/options.md) and features.
+2. Vanguard - Provides low-cost variable annuities with a focus on long-term growth and [retirement planning](../r/retirement_planning.md).
+3. Prudential Financial - Offers variable annuities with optional riders for added [security](../s/security.md) and [income](../i/income.md) flexibility.
+4. TIAA - Known for serving educators and non-[profit](../p/profit.md) employees with variable annuities tailored to their unique needs.
 
 ## Conclusion
 

@@ -13,50 +13,50 @@ Algorithmic traders use [earnings](../e/earnings.md) forecasts to develop strate
 ### Methodologies in Earnings Forecasting
 
 1. **[Fundamental Analysis](../f/fundamental_analysis.md)**:
-   - **[Qualitative Analysis](../q/qualitative_analysis.md)**: Considers the [business](../b/business.md) model, management quality, [market](../m/market.md) conditions, and competitive advantages.
-   - **[Quantitative Analysis](../q/quantitative_analysis.md)**: Involves scrutinizing [financial statements](../f/financial_statements.md), historical [earnings](../e/earnings.md), [revenue](../r/revenue.md) [growth rates](../g/growth_rates_in_trading.md), [profit margins](../p/profit_margins_in_trading.md), and other key financial metrics.
+ - **[Qualitative Analysis](../q/qualitative_analysis.md)**: Considers the [business](../b/business.md) model, management quality, [market](../m/market.md) conditions, and competitive advantages.
+ - **[Quantitative Analysis](../q/quantitative_analysis.md)**: Involves scrutinizing [financial statements](../f/financial_statements.md), historical [earnings](../e/earnings.md), [revenue](../r/revenue.md) [growth rates](../g/growth_rates_in_trading.md), [profit margins](../p/profit_margins_in_trading.md), and other key financial metrics.
 
 2. **Statistical Models**:
-   - **[Time Series Analysis](../t/time_series_analysis.md)**: Utilizes historical data to predict future [earnings](../e/earnings.md). Models such as ARIMA (AutoRegressive Integrated Moving Average) are popular.
-   - **[Regression Analysis](../r/regression_analysis.md)**: Identifies relationships between [earnings](../e/earnings.md) and other variables such as [interest](../i/interest.md) rates, GDP growth, and [industry](../i/industry.md) performance.
-   
+ - **[Time Series Analysis](../t/time_series_analysis.md)**: Utilizes historical data to predict future [earnings](../e/earnings.md). Models such as ARIMA (AutoRegressive Integrated Moving Average) are popular.
+ - **[Regression Analysis](../r/regression_analysis.md)**: Identifies relationships between [earnings](../e/earnings.md) and other variables such as [interest](../i/interest.md) rates, GDP growth, and [industry](../i/industry.md) performance.
+
 3. **[Machine Learning](../m/machine_learning.md) Models**:
-   - **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like Random Forest, Gradient Boosting Machines (GBMs), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) are trained on historical data to make predictions.
-   - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, including Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Long Short-Term Memory Networks (LSTMs), can capture complex patterns in the data.
+ - **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like Random Forest, Gradient Boosting Machines (GBMs), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) are trained on historical data to make predictions.
+ - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, including Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Long Short-Term Memory Networks (LSTMs), can capture complex patterns in the data.
 
 4. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
-   - [Sentiment analysis](../s/sentiment_analysis.md) involves evaluating [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and analyst reports. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are often employed to quantify sentiment and correlate it with potential [earnings](../e/earnings.md) outcomes.
+ - [Sentiment analysis](../s/sentiment_analysis.md) involves evaluating [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and analyst reports. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are often employed to quantify sentiment and correlate it with potential [earnings](../e/earnings.md) outcomes.
 
 ### Implementation in Algorithmic Trading
 
 1. **Data Collection and Preprocessing**:
-   - **Financial Data**: Gathering financial reports, [earnings](../e/earnings.md) statements, and other structured data.
-   - **[Alternative Data](../a/alternative_data.md)**: Incorporates [non-traditional data sources](../n/non-traditional_data_sources.md) such as [social media](../s/social_media.md), satellite images, and web traffic [statistics](../s/statistics.md).
-   - **Cleaning and Normalization**: Ensuring data quality and consistency by handling missing values, outliers, and standardizing formats.
+ - **Financial Data**: Gathering financial reports, [earnings](../e/earnings.md) statements, and other structured data.
+ - **[Alternative Data](../a/alternative_data.md)**: Incorporates [non-traditional data sources](../n/non-traditional_data_sources.md) such as [social media](../s/social_media.md), satellite images, and web traffic [statistics](../s/statistics.md).
+ - **Cleaning and Normalization**: Ensuring data quality and consistency by handling missing values, outliers, and standardizing formats.
 
 2. **Model Development**:
-   - **Feature Selection**: Identifying which variables are most predictive of future [earnings](../e/earnings.md).
-   - **Training and Validation**: Splitting data into training and validation sets to build and evaluate models.
-   - **Hyperparameter Tuning**: Optimizing model parameters to improve accuracy and robustness.
-   
+ - **Feature Selection**: Identifying which variables are most predictive of future [earnings](../e/earnings.md).
+ - **Training and Validation**: Splitting data into training and validation sets to build and evaluate models.
+ - **Hyperparameter Tuning**: Optimizing model parameters to improve accuracy and robustness.
+
 3. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**:
-   - **Historical Analysis**: Applying the model to historical data to assess performance.
-   - **Monte Carlo Simulations**: Running simulations to understand how the model performs under different [market](../m/market.md) conditions and scenarios.
+ - **Historical Analysis**: Applying the model to historical data to assess performance.
+ - **Monte Carlo Simulations**: Running simulations to understand how the model performs under different [market](../m/market.md) conditions and scenarios.
 
 4. **Deployment and Monitoring**:
-   - **Real-Time Predictions**: Integrating the model into a trading system to generate real-time [earnings](../e/earnings.md) forecasts.
-   - **Performance Tracking**: Continuously monitoring model accuracy and adapting to new data and [market](../m/market.md) conditions.
+ - **Real-Time Predictions**: Integrating the model into a trading system to generate real-time [earnings](../e/earnings.md) forecasts.
+ - **Performance Tracking**: Continuously monitoring model accuracy and adapting to new data and [market](../m/market.md) conditions.
 
 ### Case Studies and Applications
 
 1. **[Hedge](../h/hedge.md) Funds**:
-   - [Hedge](../h/hedge.md) funds like Bridgewater Associates ([Website](https://www.bridgewater.com)) and Renaissance Technologies deploy sophisticated [earnings](../e/earnings.md) [forecasting models](../f/forecasting_models.md) as part of their broader [quantitative trading](../q/quantitative_trading.md) strategies.
+ - [Hedge](../h/hedge.md) funds like Bridgewater Associates and Renaissance Technologies deploy sophisticated [earnings](../e/earnings.md) [forecasting models](../f/forecasting_models.md) as part of their broader [quantitative trading](../q/quantitative_trading.md) strategies.
 
 2. **[Proprietary Trading](../p/proprietary_trading.md) Firms**:
-   - Firms such as Jane Street ([Website](https://www.janestreet.com)) and Two Sigma ([Website](https://www.twosigma.com)) use [earnings](../e/earnings.md) forecasts to inform their high-frequency trading operations.
-   
+ - Firms such as Jane Street and Two Sigma use [earnings](../e/earnings.md) forecasts to inform their high-frequency trading operations.
+
 3. **Retail Investment Platforms**:
-   - Platforms like [Robinhood](../r/robinhood.md) ([Website](https://www.robinhood.com)) and [E-Trade](../e/e-trade.md) ([Website](https://us.etrade.com)) [offer](../o/offer.md) tools and analytics that aid retail investors in making decisions based on [earnings](../e/earnings.md) forecasts.
+ - Platforms like [Robinhood](../r/robinhood.md) and [E-Trade](../e/e-trade.md) [offer](../o/offer.md) tools and analytics that aid retail investors in making decisions based on [earnings](../e/earnings.md) forecasts.
 
 ### Challenges in Earnings Forecasting
 

@@ -37,4 +37,3 @@ A **Grant** is a financial award given by a government, [corporation](../c/corpo
 
 ## Conclusion
 Grants are a vital source of funding that supports a wide [range](../r/range.md) of projects and initiatives across various sectors. They provide financial assistance without the need for [repayment](../r/repayment.md), enabling individuals and organizations to pursue important research, educational, artistic, and community goals. Understanding the types of grants, the application process, and the responsibilities of grant recipients is essential for effectively leveraging this funding opportunity to achieve positive outcomes.
-

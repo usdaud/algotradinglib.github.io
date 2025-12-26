@@ -33,7 +33,7 @@ In algo-trading, the identification and analysis of overhead resistance levels a
 - **Channel Resistance**: These are parallel lines forming a channel that the price trades within. The upper line of the channel often acts as resistance.
 
 ## Example of Algorithmic Trading Company
-One of the prominent companies in the field of [algorithmic trading](../a/algorithmic_trading.md) is **[QuantConnect](../q/quantconnect.md)** ([QuantConnect](https://www.quantconnect.com/)). [QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides extensive data feeds, including historical price data crucial for identifying overhead resistance levels.
+One of the prominent companies in the field of [algorithmic trading](../a/algorithmic_trading.md) is **[QuantConnect](../q/quantconnect.md)** (QuantConnect). [QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides extensive data feeds, including historical price data crucial for identifying overhead resistance levels.
 
 ## Strategies Utilizing Overhead Resistance
 ### Breakout Trading Strategy
@@ -56,13 +56,13 @@ This involves algorithms that are designed to [trade](../t/trade.md) on the [bre
 
 ## Tools and Platforms for Analyzing Resistance
 ### TradingView
-**[TradingView](../t/tradingview.md)** ([TradingView](https://www.tradingview.com/)) is a popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and tools for identifying overhead resistance levels. It allows traders to use built-in scripts or write custom scripts to automate the analysis.
+**[TradingView](../t/tradingview.md)** (TradingView) is a popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and tools for identifying overhead resistance levels. It allows traders to use built-in scripts or write custom scripts to automate the analysis.
 
 ### MetaTrader
-**MetaTrader** ([MetaTrader](https://www.metatrader4.com/)) provides a [robust](../r/robust.md) environment for [algorithmic trading](../a/algorithmic_trading.md), supporting the development of trading robots and [technical indicators](../t/technical_indicators.md). It’s widely used in Forex trading to analyze resistance and [support levels](../s/support_levels.md).
+**MetaTrader** (MetaTrader) provides a [robust](../r/robust.md) environment for [algorithmic trading](../a/algorithmic_trading.md), supporting the development of trading robots and [technical indicators](../t/technical_indicators.md). It’s widely used in Forex trading to analyze resistance and [support levels](../s/support_levels.md).
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides comprehensive tools and data through its cloud-based algorithm development environment. Strategies incorporating resistance levels can be backtested and optimized using historical data and a wide [range](../r/range.md) of indicators.
+### StockSharp
+[StockSharp](../s/stocksharp.md) provides comprehensive tools and data through its algorithm development environment. Strategies incorporating resistance levels can be backtested and optimized using historical data and a wide [range](../r/range.md) of indicators.
 
 ## Risk Factors and Limitations
 [Trading algorithms](../t/trading_algorithms.md) that use overhead resistance as part of their strategy need to consider several [risk factors](../r/risk_factors_in_trading.md) and limitations:

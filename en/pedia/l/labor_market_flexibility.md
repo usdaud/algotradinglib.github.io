@@ -138,19 +138,19 @@ Digital nomadism represents a new form of geographic flexibility where individua
 
 ### Google
 
-Google is known for its flexible work culture, which includes [options](../o/options.md) for remote working, flexible hours, and a focus on employee well-being. More information on Google’s work policies can be found [here](https://careers.google.com/).
+Google is known for its flexible work culture, which includes [options](../o/options.md) for remote working, flexible hours, and a focus on employee well-being. More information on Google’s work policies can be found here.
 
 ### Amazon
 
-Amazon employs numerous flexible labor practices, particularly in terms of numerical and temporal flexibility. The company offers part-time, seasonal, and remote work [options](../o/options.md) to meet varying labor demands. Details can be found [here](https://www.amazon.jobs/).
+Amazon employs numerous flexible labor practices, particularly in terms of numerical and temporal flexibility. The company offers part-time, seasonal, and remote work [options](../o/options.md) to meet varying labor demands. Details can be found here.
 
 ### Deloitte
 
-Deloitte incorporates flexible work arrangements including flextime, telecommuting, and personalized career paths to accommodate diverse employee needs. Their approach to flexibility is detailed [here](https://www2.deloitte.com/us/en.html).
+Deloitte incorporates flexible work arrangements including flextime, telecommuting, and personalized career paths to accommodate diverse employee needs. Their approach to flexibility is detailed here.
 
 ### Upwork
 
-Upwork embodies [labor market](../l/labor_market.md) flexibility through its platform that connects freelancers with clients worldwide, promoting a [gig economy](../g/gig_economy.md) model that offers immense temporal and geographic flexibility. Visit Upwork’s site [here](https://www.upwork.com/).
+Upwork embodies [labor market](../l/labor_market.md) flexibility through its platform that connects freelancers with clients worldwide, promoting a [gig economy](../g/gig_economy.md) model that offers immense temporal and geographic flexibility.
 
 ## Conclusion
 

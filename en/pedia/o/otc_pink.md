@@ -58,7 +58,7 @@ Despite the inherent risks, OTC Pink serves a vital role in the [financial marke
 
 OTC Pink [will](../w/will.md) likely continue to play an essential role in the financial ecosystem, providing opportunities for both companies seeking to raise [capital](../c/capital.md) and investors looking for diverse and potentially high-[return](../r/return.md) investments. Technological advancements and improving regulatory frameworks may enhance [transparency](../t/transparency.md) and decrease some of the risks currently associated with trading on OTC Pink.
 
-For more details on OTC Pink and the broader OTC Markets Group, you can visit their official website: [OTC Markets Group](https://www.otcmarkets.com).
+
 
 ---
 

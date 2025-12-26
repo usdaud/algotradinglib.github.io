@@ -13,7 +13,7 @@ To fully grasp the concept of short covering, it's important to first understand
 4. **Returning [Shares](../s/shares.md)**: These [shares](../s/shares.md) are then returned to the [broker](../b/broker.md).
 
 ## The Process of Short Covering
-Short covering occurs during the "buying to cover" stage of [short selling](../s/short_selling.md). It is the act of purchasing the same number of [shares](../s/shares.md) that were borrowed and sold short, in [order](../o/order.md) to close the short position. 
+Short covering occurs during the "buying to cover" stage of [short selling](../s/short_selling.md). It is the act of purchasing the same number of [shares](../s/shares.md) that were borrowed and sold short, in [order](../o/order.md) to close the short position.
 
 ### Steps in Short Covering
 1. **[Market Order](../m/market_order.md)**: The short seller places a [market order](../m/market_order.md) to buy the [shares](../s/shares.md).
@@ -53,9 +53,9 @@ While short covering can be a strategic move for traders, it carries inherent ri
 
 ### Algorithmic Trading Platforms
 Several platforms [offer](../o/offer.md) advanced tools and algorithms for executing short covering efficiently:
-- **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) offers [robust](../r/robust.md) trading tools and platforms that support various [trading strategies](../t/trading_strategies.md), including [short selling](../s/short_selling.md) and short covering. [TradeStation](https://www.tradestation.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its advanced trading technology, [Interactive Brokers](../i/interactive_brokers.md) provides a [range](../r/range.md) of tools for short sellers. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[QuantConnect](../q/quantconnect.md)**: This platform allows users to build and backtest [trading algorithms](../t/trading_algorithms.md), including those for short covering. [QuantConnect](https://www.quantconnect.com/)
+- **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) offers [robust](../r/robust.md) trading tools and platforms that support various [trading strategies](../t/trading_strategies.md), including [short selling](../s/short_selling.md) and short covering. TradeStation
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its advanced trading technology, [Interactive Brokers](../i/interactive_brokers.md) provides a [range](../r/range.md) of tools for short sellers. Interactive Brokers
+- **[QuantConnect](../q/quantconnect.md)**: This platform allows users to build and backtest [trading algorithms](../t/trading_algorithms.md), including those for short covering. QuantConnect
 
 ### Factors Considered by Algorithms
 - **[Market](../m/market.md) Trends**: Real-time analysis of [market](../m/market.md) trends and trading volumes.

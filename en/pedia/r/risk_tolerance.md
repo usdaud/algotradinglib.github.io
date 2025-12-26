@@ -7,7 +7,7 @@
 At its core, [risk](../r/risk.md) tolerance can be broken down into the following components:
 
 1. **[Risk](../r/risk.md) Capacity**: This is the actual financial ability to take on [risk](../r/risk.md). It includes factors such as [income](../i/income.md), expenses, assets, liabilities, and investment [time horizon](../t/time_horizon.md). Higher capacities generally correlate with younger investors or those who have a high [net worth](../n/net_worth.md).
-   
+
 2. **[Risk](../r/risk.md) Perception**: How an individual perceives the [risk](../r/risk.md) and the likelihood of potential loss. Different individuals have different perceptions of the same investment risks based on their experiences and knowledge.
 
 3. **[Risk](../r/risk.md) Attitude**: This is the psychological aspect of [risk](../r/risk.md) tolerance, encompassing temperament, emotional responses to [market](../m/market.md) fluctuations, and overall comfort level with [uncertainty](../u/uncertainty_in_trading.md).
@@ -24,7 +24,7 @@ Several methodologies and tools have been developed to measure [risk](../r/risk.
 
 3. **Quantitative Metrics**: Financial metrics such as the [Sharpe ratio](../s/sharpe_ratio.md), [standard deviation](../s/standard_deviation.md), and [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) may provide quantitative insights into the [risk](../r/risk.md)-[return](../r/return.md) profile of an [investor](../i/investor.md)’s portfolio.
 
-4. **[Software Tools](../s/software_tools_for_trading.md)**: Many fintech companies [offer](../o/offer.md) software solutions to assess and monitor [risk](../r/risk.md) tolerance dynamically. These tools can [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to provide tailored investment advice. Companies like [Riskalyze](https://www.riskalyze.com/) and [Finametrica](https://www.finametrica.com/) specialize in these services.
+4. **[Software Tools](../s/software_tools_for_trading.md)**: Many fintech companies [offer](../o/offer.md) software solutions to assess and monitor [risk](../r/risk.md) tolerance dynamically. These tools can [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to provide tailored investment advice. Companies like Riskalyze and Finametrica specialize in these services.
 
 ## Impact on Investment Strategy
 
@@ -71,11 +71,11 @@ While [risk](../r/risk.md) tolerance is relatively stable over the long term, it
 
 Numerous fintech platforms [offer](../o/offer.md) tools for assessing and managing [risk](../r/risk.md) tolerance:
 
-1. **[Riskalyze](https://www.riskalyze.com/)**: This platform provides advisors with tools to quantify client [risk](../r/risk.md) tolerance and align portfolios accordingly.
-2. **[Finametrica](https://www.finametrica.com/)**: Provides detailed [risk](../r/risk.md) profiling questionnaires and reports that can be integrated into broader [financial planning](../f/financial_planning.md).
-3. **[Betterment](https://www.betterment.com/)**: A robo-advisor that incorporates [risk](../r/risk.md) tolerance assessments into its automated [investment management](../i/investment_management.md) services.
-4. **[Personal Capital](https://www.personalcapital.com/)**: Offers free tools for assessing investment portfolios, including [risk analysis](../r/risk_analysis.md) features.
-5. **[Wealthfront](https://www.wealthfront.com/)**: Uses automated [risk](../r/risk.md) assessment to allocate investments according to individual [risk profiles](../r/risk_profiles.md).
+1. **Riskalyze**: This platform provides advisors with tools to quantify client [risk](../r/risk.md) tolerance and align portfolios accordingly.
+2. **Finametrica**: Provides detailed [risk](../r/risk.md) profiling questionnaires and reports that can be integrated into broader [financial planning](../f/financial_planning.md).
+3. **Betterment**: A robo-advisor that incorporates [risk](../r/risk.md) tolerance assessments into its automated [investment management](../i/investment_management.md) services.
+4. **Personal Capital**: Offers free tools for assessing investment portfolios, including [risk analysis](../r/risk_analysis.md) features.
+5. **Wealthfront**: Uses automated [risk](../r/risk.md) assessment to allocate investments according to individual [risk profiles](../r/risk_profiles.md).
 
 ## Conclusion
 

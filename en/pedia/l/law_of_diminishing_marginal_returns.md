@@ -1,6 +1,6 @@
 # Law of Diminishing Marginal Returns
 
-The Law of Diminishing Marginal Returns is a fundamental principle in the field of [economics](../e/economics.md) that essentially describes the decrease in the incremental output of a production process as the amount of a single [factor](../f/factor.md) of production is incrementally increased, while all other factors remain constant. This principle has wide-reaching implications for various economic theories, [business](../b/business.md) strategies, and investment decisions. 
+The Law of Diminishing Marginal Returns is a fundamental principle in the field of [economics](../e/economics.md) that essentially describes the decrease in the incremental output of a production process as the amount of a single [factor](../f/factor.md) of production is incrementally increased, while all other factors remain constant. This principle has wide-reaching implications for various economic theories, [business](../b/business.md) strategies, and investment decisions.
 
 ## Definition
 

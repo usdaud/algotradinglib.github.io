@@ -56,11 +56,11 @@ While [gamma](../g/gamma.md) trading offers potential benefits, it also comes wi
 
 Several financial institutions and trading platforms provide tools and resources for [gamma](../g/gamma.md) trading. Here are a few notable ones:
 
-1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [robust](../r/robust.md) platform for [options](../o/options.md) trading, including tools for managing and analyzing [Greeks](../g/greeks.md). [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [robust](../r/robust.md) platform for [options](../o/options.md) trading, including tools for managing and analyzing [Greeks](../g/greeks.md). Interactive Brokers
 
-2. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides advanced [options](../o/options.md) analysis tools that include [gamma](../g/gamma.md) and other [Greeks](../g/greeks.md) calculations. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
+2. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides advanced [options](../o/options.md) analysis tools that include [gamma](../g/gamma.md) and other [Greeks](../g/greeks.md) calculations. TD Ameritrade
 
-3. **Cboe Global Markets**: One of the world's largest [options](../o/options.md) markets, providing educational resources and trading platforms for [options](../o/options.md) traders. [Cboe](https://www.cboe.com/)
+3. **Cboe Global Markets**: One of the world's largest [options](../o/options.md) markets, providing educational resources and trading platforms for [options](../o/options.md) traders. Cboe
 
 ## Conclusion
 

@@ -23,7 +23,7 @@ Pegging is a practice in [finance](../f/finance.md) and trading where the [value
 1. **Stability**: Pegging provides [exchange rate](../e/exchange_rate.md) stability, which can help reduce inflationary pressures and ensure a safer environment for international [trade](../t/trade.md) and investment.
 2. **Predictability**: Fixing [exchange](../e/exchange.md) rates make [financial forecasting](../f/financial_forecasting.md) easier, which helps businesses plan their financial operations better.
 3. **Credibility**: A peg can be a signal to international investors regarding a country’s commitment to low [inflation](../i/inflation.md) and sound monetary policies.
-  
+
 ### Disadvantages of Currency Pegging
 
 1. **Loss of Monetary Independence**: The central [bank](../b/bank.md) loses autonomy over its [monetary policy](../m/monetary_policy.md), as it must prioritize maintaining the peg over other economic concerns.
@@ -48,7 +48,7 @@ In [options](../o/options.md) trading, pegging is a practice where traders aim t
 
 ## Pegging in Commodities
 
-Similar to currencies and [options](../o/options.md), pegging can also apply to commodities. Governments or organizations might peg the price of a crucial [commodity](../c/commodity.md) (like oil, gold, or agricultural products) to stabilize its [market](../m/market.md) and reduce [volatility](../v/volatility.md). 
+Similar to currencies and [options](../o/options.md), pegging can also apply to commodities. Governments or organizations might peg the price of a crucial [commodity](../c/commodity.md) (like oil, gold, or agricultural products) to stabilize its [market](../m/market.md) and reduce [volatility](../v/volatility.md).
 
 ### Gold Standard (Historical Context)
 The classical [gold standard](../g/gold_standard.md) is a well-known historical example of [commodity](../c/commodity.md) pegging, where countries fixed the [value](../v/value.md) of their [currency](../c/currency.md) to a specific amount of gold. This system was prominent in the 19th and early 20th centuries but has largely been abandoned in favor of fiat currencies.

@@ -74,13 +74,13 @@ Passed in 1996, NSMIA preempted state registration requirements for SEC-register
 
 ## Modern Relevance
 
-In recent years, the emergence of robo-advisers and [algorithmic trading](../a/accountability.md) has posed new challenges for the regulatory framework established under the Investment Advisers Act of 1940. Robo-advisers are automated platforms that provide algorithm-driven [financial planning](../f/financial_planning.md) services with a minimal amount of human intervention. While they strive to [offer](../o/offer.md) personalized investment advice, questions about fiduciary responsibility and [transparency](../t/transparency.md) have necessitated the development of new guidelines to ensure they adhere to the principles of the Act.
+In recent years, the emergence of robo-advisers and [algorithmic trading](../a/algorithmic_trading.md) has posed new challenges for the regulatory framework established under the Investment Advisers Act of 1940. Robo-advisers are automated platforms that provide algorithm-driven [financial planning](../f/financial_planning.md) services with a minimal amount of human intervention. While they strive to [offer](../o/offer.md) personalized investment advice, questions about fiduciary responsibility and [transparency](../t/transparency.md) have necessitated the development of new guidelines to ensure they adhere to the principles of the Act.
 
 ## Investment Adviser Registration Depository (IARD)
 
 The Investment Adviser Registration [Depository](../d/depository.md) (IARD) is an electronic system that facilitates the filing of Forms ADV by investment advisers. Launched by the SEC, the IARD provides a comprehensive database of information which investors can use to research the background of potential advisers. The IARD streamlines the registration process and ensures a more efficient regulatory oversight by aggregating data in one centralized system.
 
-**[Investment Adviser Registration Depository](https://www.iard.com/)**
+**Investment Adviser Registration Depository**
 
 ## Conclusion
 

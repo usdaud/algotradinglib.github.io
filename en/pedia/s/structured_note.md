@@ -65,10 +65,10 @@ The issuance and trading of structured notes are subject to various regulatory p
 
 Several major financial institutions are prominent in the structured [note](../n/note.md) [market](../m/market.md). JPMorgan Chase, Citigroup, Goldman Sachs, and Morgan Stanley are a few top issuers. They [offer](../o/offer.md) a wide [range](../r/range.md) of structured notes catering to different [investor](../i/investor.md) needs and [market](../m/market.md) views.
 
-- **JPMorgan Chase:** [Visit](https://www.jpmorgan.com/global/markets/structured-investments)
-- **Citigroup:** [Visit](https://www.citigroup.com/citi/investor/data/qf191n.pdf)
-- **Goldman Sachs:** [Visit](https://www.goldmansachs.com/trading/markets/structured-products/)
-- **Morgan Stanley:** [Visit](https://www.morganstanley.com/what-we-do/investment-banking)
+- **JPMorgan Chase:** Visit
+- **Citigroup:** Visit
+- **Goldman Sachs:** Visit
+- **Morgan Stanley:** Visit
 
 ## Conclusion
 

@@ -20,10 +20,10 @@ A few types of discrete distributions are frequently used in [algorithmic tradin
 This [distribution](../d/distribution.md) describes the number of successes in a fixed number of independent Bernoulli trials, with a constant probability of success on each trial.
 
 - **PMF**: The probability of having exactly k successes in n trials is given by:
-  \[
-  P(X = k) = \binom{n}{k} p^k (1-p)^{n-k}
-  \]
-  where \(\binom{n}{k}\) is the binomial coefficient, \(p\) is the probability of success, and \(n\) is the number of trials.
+ \[
+ P(X = k) = \binom{n}{k} p^k (1-p)^{n-k}
+ \]
+ where \(\binom{n}{k}\) is the binomial coefficient, \(p\) is the probability of success, and \(n\) is the number of trials.
 
 - **Example**: Modeling the number of days a stock price closes above a certain [value](../v/value.md) in a given month.
 
@@ -31,23 +31,23 @@ This [distribution](../d/distribution.md) describes the number of successes in a
 
 Used to model the number of times an event happens within a fixed interval of time or space, given the events occur at a constant rate and independently of the time since the last event.
 
-- **PMF**: 
-  \[
-  P(X = k) = \frac{\[lambda](../l/lambda.md)^k e^{-\[lambda](../l/lambda.md)}}{k!}
-  \]
-  where \(\[lambda](../l/lambda.md)\) is the average rate (mean number of events in an interval), and \(k\) is the number of occurrences.
-  
+- **PMF**:
+ \[
+ P(X = k) = \frac{\[lambda](../l/lambda.md)^k e^{-\[lambda](../l/lambda.md)}}{k!}
+ \]
+ where \(\[lambda](../l/lambda.md)\) is the average rate (mean number of events in an interval), and \(k\) is the number of occurrences.
+
 - **Example**: The number of [market](../m/market.md) orders placed by traders in an hour.
 
 ### 3. **Geometric Distribution**
 
 This [distribution](../d/distribution.md) models the number of trials needed to get the first success in a series of Bernoulli trials.
 
-- **PMF**: 
-  \[
-  P(X = k) = (1-p)^{k-1} p
-  \]
-  where \(p\) is the probability of success and \(k\) is the trial on which the first success occurs.
+- **PMF**:
+ \[
+ P(X = k) = (1-p)^{k-1} p
+ \]
+ where \(p\) is the probability of success and \(k\) is the trial on which the first success occurs.
 
 - **Example**: The number of trades required before achieving a successful [arbitrage](../a/arbitrage.md).
 
@@ -56,10 +56,10 @@ This [distribution](../d/distribution.md) models the number of trials needed to 
 Similar to the geometric [distribution](../d/distribution.md) but counts the number of trials required to achieve a fixed number of successes.
 
 - **PMF**:
-  \[
-  P(X = k) = \binom{k-1}{r-1} p^r (1-p)^{k-r}
-  \]
-  where \(\binom{k-1}{r-1}\) is the binomial coefficient, \(p\) is the probability of success, \(r\) is the number of successes, and \(k\) is the trial number on which the r-th success occurs.
+ \[
+ P(X = k) = \binom{k-1}{r-1} p^r (1-p)^{k-r}
+ \]
+ where \(\binom{k-1}{r-1}\) is the binomial coefficient, \(p\) is the probability of success, \(r\) is the number of successes, and \(k\) is the trial number on which the r-th success occurs.
 
 - **Example**: The number of trades needed to realize a certain number of profitable trades.
 
@@ -68,10 +68,10 @@ Similar to the geometric [distribution](../d/distribution.md) but counts the num
 Models the number of successes in a sample of size \(n\), drawn without replacement from a population of size \(N\) containing \(K\) successes.
 
 - **PMF**:
-  \[
-  P(X = k) = \frac{\binom{K}{k} \binom{N-K}{n-k}}{\binom{N}{n}}
-  \]
-  where \(\binom{a}{b}\) is the binomial coefficient.
+ \[
+ P(X = k) = \frac{\binom{K}{k} \binom{N-K}{n-k}}{\binom{N}{n}}
+ \]
+ where \(\binom{a}{b}\) is the binomial coefficient.
 
 - **Example**: The number of winning [stocks](../s/stock.md) chosen in a sample from a larger population.
 
@@ -104,9 +104,9 @@ Poisson and other discrete modeling techniques are crucial for studying the micr
 
 Numerous financial firms and organizations [leverage](../l/leverage.md) statistical models, including discrete distributions, to enhance their [trading strategies](../t/trading_strategies.md). Some notable companies include:
 
-- **Kershner Trading Group** (https://kershnertrading.com/): Employs sophisticated algorithms and probabilistic models to improve trading decisions.
-- **Jane Street** (https://www.janestreet.com/): A leading [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that extensively uses quantitative [financial modeling](../f/financial_modeling.md).
-- **Two Sigma** (https://www.twosigma.com/): Known for utilizing advanced computational techniques and statistical models in their trading operations.
+- **Kershner Trading Group** Employs sophisticated algorithms and probabilistic models to improve trading decisions.
+- **Jane Street** ( A leading [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that extensively uses quantitative [financial modeling](../f/financial_modeling.md).
+- **Two Sigma** Known for utilizing advanced computational techniques and statistical models in their trading operations.
 
 ## Advanced Topics in Discrete Distributions
 

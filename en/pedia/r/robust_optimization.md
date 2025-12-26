@@ -34,7 +34,7 @@ For an [optimization](../o/optimization.md) problem with uncertain parameters, t
 - **[Portfolio Optimization](../p/portfolio_optimization.md):** Maximizing the worst-case returns or minimizing the [risk](../r/risk.md) for a given level of returns.
 - **[Asset](../a/asset.md) [Liability](../l/liability.md) Management:** Ensuring assets sufficiently cover liabilities under various economic scenarios.
 
-Example: Goldman Sachs [link to recent research or application on the company's official website].
+Example.
 
 #### 2. Supply Chain Management
 
@@ -62,9 +62,9 @@ Several methodologies have been developed to tackle [robust](../r/robust.md) [op
 
 ### Algorithms and Software
 
-- **Gurobi:** A powerful solver that supports [robust](../r/robust.md) [optimization](../o/optimization.md) formulations. [Gurobi robust optimization page](https://www.gurobi.com/resource/robust-optimization/).
-- **IBM CPLEX:** Offers [robust](../r/robust.md) [optimization](../o/optimization.md) capabilities, particularly in linear and mixed-integer programming. [IBM CPLEX page](https://www.ibm.com/analytics/cplex-optimizer).
-- **MOSEK:** Provides [robust](../r/robust.md) [optimization](../o/optimization.md) tools suitable for convex problems. [MOSEK robust optimization page](https://www.mosek.com/products/optimizers/).
+- **Gurobi:** A powerful solver that supports [robust](../r/robust.md) [optimization](../o/optimization.md) formulations. Gurobi robust optimization page.
+- **IBM CPLEX:** Offers [robust](../r/robust.md) [optimization](../o/optimization.md) capabilities, particularly in linear and mixed-integer programming. IBM CPLEX page.
+- **MOSEK:** Provides [robust](../r/robust.md) [optimization](../o/optimization.md) tools suitable for convex problems. MOSEK robust optimization page.
 
 ### Theoretical Developments
 

@@ -63,8 +63,8 @@ For instance, General Electric's [long-term debt](../l/long-term_debt.md) to [ca
 
 \[ \text{GE Financials} \]
 
-Investors can visit General Electric’s [investor relations](../i/investor_relations.md) page to review their latest [financial statements](../f/financial_statements.md) and ratio calculations:
-[https://www.ge.com/[investor](../i/investor.md)-relations]
+Investors can review General Electric’s latest [financial statements](../f/financial_statements.md) and ratio calculations in their filings.
+[
 
 By analyzing these metrics, stakeholders can track how GE's [capital structure](../c/capital_structure.md) impacts its [financial health](../f/financial_health.md) and strategic decisions.
 

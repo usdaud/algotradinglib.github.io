@@ -54,10 +54,10 @@ Despite their benefits, preferred [stocks](../s/stock.md) carry certain risks:
 
 Notable issuers of preferred [stocks](../s/stock.md) include major banks, utilities, and other stable, [income](../i/income.md)-generating companies. Here are a few prominent issuers and trading platforms:
 
-- **JPMorgan Chase & Co.**: One of the largest banks in the world, JPMorgan issues preferred [stocks](../s/stock.md) to raise [capital](../c/capital.md) while [offering](../o/offering.md) attractive dividends to investors ([JPMorgan Chase](https://www.jpmorganchase.com)).
-- **Duke Energy**: A leading energy company that issues preferred [shares](../s/shares.md) to [finance](../f/finance.md) its operations while providing stable [dividend](../d/dividend.md) payouts ([Duke Energy](https://www.duke-energy.com)).
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A comprehensive [trading platform](../t/trading_platform.md) that offers access to a wide [range](../r/range.md) of preferred [stocks](../s/stock.md), catering to both individual and institutional investors ([Interactive Brokers](https://www.interactivebrokers.com)).
-- **[E*TRADE](../e/e_trade.md)**: An online [trading platform](../t/trading_platform.md) known for its user-friendly interface and extensive [range](../r/range.md) of investment [options](../o/options.md), including preferred [stocks](../s/stock.md) ([E*TRADE](https://us.etrade.com)).
+- **JPMorgan Chase & Co.**: One of the largest banks in the world, JPMorgan issues preferred [stocks](../s/stock.md) to raise [capital](../c/capital.md) while [offering](../o/offering.md) attractive dividends to investors (JPMorgan Chase).
+- **Duke Energy**: A leading energy company that issues preferred [shares](../s/shares.md) to [finance](../f/finance.md) its operations while providing stable [dividend](../d/dividend.md) payouts (Duke Energy).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A comprehensive [trading platform](../t/trading_platform.md) that offers access to a wide [range](../r/range.md) of preferred [stocks](../s/stock.md), catering to both individual and institutional investors (Interactive Brokers).
+- **[E*TRADE](../e/e_trade.md)**: An online [trading platform](../t/trading_platform.md) known for its user-friendly interface and extensive [range](../r/range.md) of investment [options](../o/options.md), including preferred [stocks](../s/stock.md) (E*TRADE).
 
 #### Conclusion
 

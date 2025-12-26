@@ -85,8 +85,8 @@ print(f"[Kurtosis](../k/kurtosis.md): {data_kurtosis}")
 
 Several financial institutions and trading firms apply [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) analysis in their [trading algorithms](../t/trading_algorithms.md) to manage risks and optimize portfolios. Here are a few examples:
 
-- **Two Sigma:** Known for its data-driven approach, Two Sigma incorporates advanced statistical measures, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), to enhance [trading algorithms](../t/trading_algorithms.md). More information can be found [here](https://www.twosigma.com/).
-- **AQR [Capital](../c/capital.md) Management:** AQR utilizes these metrics as part of its [quantitative strategies](../q/quantitative_strategies_in_trading.md) to assess and mitigate risks. Their systematic approach often involves deep statistical analysis of [asset](../a/asset.md) returns. Additional insights can be found [here](https://www.aqr.com/).
+- **Two Sigma:** Known for its data-driven approach, Two Sigma incorporates advanced statistical measures, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), to enhance [trading algorithms](../t/trading_algorithms.md). More information can be found here.
+- **AQR [Capital](../c/capital.md) Management:** AQR utilizes these metrics as part of its [quantitative strategies](../q/quantitative_strategies_in_trading.md) to assess and mitigate risks. Their systematic approach often involves deep statistical analysis of [asset](../a/asset.md) returns. Additional insights can be found here.
 
 ### Conclusion
 

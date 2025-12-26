@@ -15,7 +15,7 @@ Socialism is an economic and political system in which the means of production, 
 
 Early forms of socialism can be found in various cultural and religious movements which espoused communal living and shared resources. Notably, certain early Christian communities practiced forms of communal sharing and support, which can be seen as precursors to modern socialist ideas.
 
-### 19th Century – The Birth of Modern Socialism 
+### 19th Century – The Birth of Modern Socialism
 
 The term "socialism" came into more common use in the early 19th century, reflecting the rise of industrial [capitalism](../c/capitalism.md) and stark inequalities it produced. Key figures during this period included:
 

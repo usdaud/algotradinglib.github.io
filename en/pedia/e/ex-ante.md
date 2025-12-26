@@ -100,13 +100,13 @@ Qualitative ex-ante approaches involve expert [judgment](../j/judgment.md), scen
 
 Financial institutions like banks, [hedge](../h/hedge.md) funds, and [asset management](../a/asset_management.md) companies extensively use ex-ante analysis for various purposes, including [investment strategy](../i/investment_strategy.md) formulation, [risk management](../r/risk_management.md), and regulatory compliance.
 
-- **Bridgewater Associates**: One of the world’s largest [hedge](../h/hedge.md) funds, Bridgewater Associates, uses ex-ante economic models to predict [market](../m/market.md) movements and guide their investment strategies. For more information, visit [Bridgewater Associates](https://www.bridgewater.com/).
+- **Bridgewater Associates**: One of the world’s largest [hedge](../h/hedge.md) funds, Bridgewater Associates, uses ex-ante economic models to predict [market](../m/market.md) movements and guide their investment strategies. For more information, visit Bridgewater Associates.
 
 ### Corporate Sector
 
 Corporations apply ex-ante analysis in [business](../b/business.md) planning, [market research](../m/market_research.md), and strategic decision-making to anticipate future trends and prepare accordingly.
 
-- **McKinsey & Company**: A global management consulting [firm](../f/firm.md), McKinsey & Company, employs ex-ante analysis to advise clients on strategic issues, [market](../m/market.md) trends, and performance improvement. For more information, visit [McKinsey & Company](https://www.mckinsey.com/).
+- **McKinsey & Company**: A global management consulting [firm](../f/firm.md), McKinsey & Company, employs ex-ante analysis to advise clients on strategic issues, [market](../m/market.md) trends, and performance improvement. For more information, visit McKinsey & Company.
 
 ## Conclusion
 

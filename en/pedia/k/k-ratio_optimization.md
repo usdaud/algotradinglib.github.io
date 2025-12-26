@@ -1,6 +1,6 @@
 # K-Ratio Optimization
 
-### Introduction 
+### Introduction
 [Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves using computer programs to [trade](../t/trade.md) financial securities based on pre-defined criteria. One of the key challenges in algo trading is to develop strategies that are not only profitable but also consistently so over time. One metric that is particularly useful in evaluating and optimizing [trading strategies](../t/trading_strategies.md) is the [K-Ratio](../k/k-ratio_in_trading.md). The [K-Ratio](../k/k-ratio_in_trading.md) considers both the growth of an [equity](../e/equity.md) curve and its consistency, making it a comprehensive tool for traders and quantitative analysts alike.
 
 ### What is K-Ratio?
@@ -13,9 +13,9 @@ The formula for the [K-Ratio](../k/k-ratio_in_trading.md) typically involves the
 3. **Calculate the [Linear Regression](../l/linear_regression.md)**: Perform a [linear regression](../l/linear_regression.md) on the log-transformed [equity](../e/equity.md) curve to get the slope and the [standard error](../s/standard_error.md) of the regression.
 4. **Compute the [K-Ratio](../k/k-ratio_in_trading.md)**: The [K-Ratio](../k/k-ratio_in_trading.md) is generally defined as the slope divided by the [standard error](../s/standard_error.md) of the regression.
 
-    \[
-    [K-Ratio](../k/k-ratio_in_trading.md) = \frac{\text{Slope of Log-Transformed [Equity](../e/equity.md) Curve}}{\text{[Standard Error](../s/standard_error.md) of Regression}}
-    \]
+ \[
+ [K-Ratio](../k/k-ratio_in_trading.md) = \frac{\text{Slope of Log-Transformed [Equity](../e/equity.md) Curve}}{\text{[Standard Error](../s/standard_error.md) of Regression}}
+ \]
 
 ### The Importance of the K-Ratio
 - **Consistency**: One of the primary advantages of using the [K-Ratio](../k/k-ratio_in_trading.md) is that it emphasizes the consistency of returns. A [trading strategy](../t/trading_strategy.md) with a high [K-Ratio](../k/k-ratio_in_trading.md) is not only profitable but also achieves this [profit](../p/profit.md) in a steady, reliable manner.
@@ -35,30 +35,30 @@ The calculation of the [K-Ratio](../k/k-ratio_in_trading.md) involves several de
 
 1. **[Equity](../e/equity.md) Curve Generation**: Build the [equity](../e/equity.md) curve from the strategy's performance data. This should be a [time series](../t/time_series.md) of cumulative profits and losses.
 2. **Log Transformation**: Apply a logarithmic transformation to the [equity](../e/equity.md) curve. The transformation helps to stabilize the variance and manage the wide [range](../r/range.md) of values typically seen in trading profits.
-    \[
-    \text{Log-Transformed [Equity](../e/equity.md)} = \log(\text{[Equity](../e/equity.md)})
-    \]
+ \[
+ \text{Log-Transformed [Equity](../e/equity.md)} = \log(\text{[Equity](../e/equity.md)})
+ \]
 3. **[Linear Regression](../l/linear_regression.md)**: Perform a [linear regression](../l/linear_regression.md) on the log-transformed [equity](../e/equity.md) curve. Use the time component as the independent variable and the log-transformed [equity](../e/equity.md) values as the dependent variable.
-    \[
-    \log(Y) = a + bX
-    \]
-    where \(a\) is the intercept and \(b\) is the slope of the regression line.
+ \[
+ \log(Y) = a + bX
+ \]
+ where \(a\) is the intercept and \(b\) is the slope of the regression line.
 4. **[Standard Error](../s/standard_error.md) Calculation**: Calculate the [standard error](../s/standard_error.md) of the regression, which measures the [dispersion](../d/dispersion.md) of the data points around the regression line.
-    \[
-    \text{[Standard Error](../s/standard_error.md)} = \sqrt{\frac{1}{n-2} \sum (y_i - \hat{y_i})^2}
-    \]
-    where \(n\) is the number of data points, \(y_i\) are the actual data points, and \(\hat{y_i}\) are the predicted values from the regression.
+ \[
+ \text{[Standard Error](../s/standard_error.md)} = \sqrt{\frac{1}{n-2} \sum (y_i - \hat{y_i})^2}
+ \]
+ where \(n\) is the number of data points, \(y_i\) are the actual data points, and \(\hat{y_i}\) are the predicted values from the regression.
 5. **[K-Ratio](../k/k-ratio_in_trading.md) Computation**: Finally, compute the [K-Ratio](../k/k-ratio_in_trading.md) by dividing the slope of the regression by the [standard error](../s/standard_error.md).
-    \[
-    [K-Ratio](../k/k-ratio_in_trading.md) = \frac{b}{\text{[Standard Error](../s/standard_error.md)}}
-    \]
+ \[
+ [K-Ratio](../k/k-ratio_in_trading.md) = \frac{b}{\text{[Standard Error](../s/standard_error.md)}}
+ \]
 
 ### Tools and Software for K-Ratio Optimization
 Several tools and [software platforms](../s/software_platforms_for_trading.md) can assist traders in calculating and optimizing the [K-Ratio](../k/k-ratio_in_trading.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) platform for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that supports various financial metrics, including the [K-Ratio](../k/k-ratio_in_trading.md). [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) platform for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that supports various financial metrics, including the [K-Ratio](../k/k-ratio_in_trading.md). QuantConnect
 - **Python Libraries**: Libraries like `pandas`, `numpy`, and `statsmodels` can be used to calculate the [K-Ratio](../k/k-ratio_in_trading.md) and perform optimizations in a flexible, customizable manner.
-- **Trading Platforms**: Platforms such as MetaTrader and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) built-in functions or the ability to create custom functions to calculate and optimize the [K-Ratio](../k/k-ratio_in_trading.md). [MetaTrader](https://www.metatrader4.com/), [NinjaTrader](https://ninjatrader.com/)
+- **Trading Platforms**: Platforms such as MetaTrader and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) built-in functions or the ability to create custom functions to calculate and optimize the [K-Ratio](../k/k-ratio_in_trading.md). MetaTrader, NinjaTrader
 
 ### Case Studies
 #### Case Study 1: High-Frequency Trading Strategy

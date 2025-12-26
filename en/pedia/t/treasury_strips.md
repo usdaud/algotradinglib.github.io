@@ -2,7 +2,7 @@
 
 In the realm of [finance](../f/finance.md) and investments, Treasury STRIPS stands for Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) Securities. These are fixed-[income](../i/income.md) securities sold at a significant [discount](../d/discount.md) to [face value](../f/face_value.md) and are intended to be held and traded individually. Essentially, STRIPS are derived from [U.S. Treasury](../u/u.s._treasury.md) securities but have been repackaged to cater to specific investment needs. These securities [hold](../h/hold.md) particular appeal for those interested in secure investment opportunities that [will](../w/will.md) not be affected by [periodic interest rate](../p/periodic_interest_rate.md) fluctuations.
 
-## Creation and Characteristics 
+## Creation and Characteristics
 
 ### How STRIPS are Formed
 
@@ -24,7 +24,7 @@ Similar to other zero-coupon bonds, the [valuation](../v/valuation.md) of STRIPS
 
 ### Yield to Maturity (YTM)
 
-[Yield to maturity](../y/yield_to_maturity.md) is a crucial measure for pricing STRIPS. It represents the annualized [return](../r/return.md) on an investment, assuming the STRIP is held until [maturity](../m/maturity.md). YTM incorporates the [interest rate](../i/interest_rate.md) environment, [term to maturity](../t/term_to_maturity.md), and the purchase price and is used to determine the trajectory and [value](../v/value.md) accrual of the STRIP over its lifespan. 
+[Yield to maturity](../y/yield_to_maturity.md) is a crucial measure for pricing STRIPS. It represents the annualized [return](../r/return.md) on an investment, assuming the STRIP is held until [maturity](../m/maturity.md). YTM incorporates the [interest rate](../i/interest_rate.md) environment, [term to maturity](../t/term_to_maturity.md), and the purchase price and is used to determine the trajectory and [value](../v/value.md) accrual of the STRIP over its lifespan.
 
 ### Impact of Interest Rate Movements
 
@@ -76,4 +76,4 @@ Given the tax implications of holding STRIPS, tax-exempt organizations might [ga
 
 Treasury STRIPS [offer](../o/offer.md) a specialized [investment vehicle](../i/investment_vehicle.md) that aligns well with the needs of investors looking for predictability and [security](../s/security.md). While they come with certain disadvantages, particularly in terms of sensitivity to [interest rate](../i/interest_rate.md) shifts and [inflation](../i/inflation.md) [risk](../r/risk.md), their unique structure makes them appealing for a [range](../r/range.md) of [financial planning](../f/financial_planning.md) purposes. Understanding the distinct attributes and implications of STRIPS can help investors make informed decisions that align with their financial goals and [risk tolerance](../r/risk_tolerance.md).
 
-For those interested in exploring more details or [investing](../i/investing.md) in Treasury STRIPS, resources such as the U.S. Department of the Treasury’s Bureau of the Fiscal Service provide comprehensive information and guidelines: [Treasury Direct](https://www.treasurydirect.gov/indiv/products/prod_strips_glance.htm).
+For those interested in exploring more details or [investing](../i/investing.md) in Treasury STRIPS, resources such as the U.S. Department of the Treasury’s Bureau of the Fiscal Service provide comprehensive information and guidelines: Treasury Direct.

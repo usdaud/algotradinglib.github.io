@@ -69,7 +69,7 @@ Although the basic linear consumption function offers a useful starting point, r
 
 ### 1. **Permanent Income Hypothesis**
 
-Proposed by [Milton Friedman](../m/milton_friedman.md), the [Permanent Income Hypothesis](../p/permanent_income_hypothesis.md) (PIH) suggests that consumers base their consumption decisions not just on current [income](../i/income.md) but on their longer-term [income](../i/income.md) expectations. According to this model, temporary changes in [income](../i/income.md) have less impact on consumption than permanent changes. 
+Proposed by [Milton Friedman](../m/milton_friedman.md), the [Permanent Income Hypothesis](../p/permanent_income_hypothesis.md) (PIH) suggests that consumers base their consumption decisions not just on current [income](../i/income.md) but on their longer-term [income](../i/income.md) expectations. According to this model, temporary changes in [income](../i/income.md) have less impact on consumption than permanent changes.
 
 \[C = \[alpha](../a/alpha.md)(Y_p)\]
 
@@ -79,7 +79,7 @@ Here, \(Y_p\) stands for permanent [income](../i/income.md).
 
 Franco Modigliani’s Life-Cycle Hypothesis (LCH) posits that individuals plan their consumption and savings over their lifetime. This model considers the stages of an individual’s life, acknowledging that people might save during their working years and dissave during retirement.
 
-\[C = \frac{W_t + R_{t+1}Y_{t+1} + ... + R_{T}Y_{T}} {T}\]
+\[C = \frac{W_t + R_{t+1}Y_{t+1} +... + R_{T}Y_{T}} {T}\]
 
 ### 3. **Wealth Effects**
 

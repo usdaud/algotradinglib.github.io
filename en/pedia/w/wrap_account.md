@@ -45,7 +45,7 @@ Wrap accounts are typically tailored to meet the specific investment goals and [
 
 ### 1. **Higher Costs for Small Portfolios**
 
-For investors with smaller portfolios, the percentage-based [fee](../f/fee.md) might be prohibitively expensive relative to the assets under management. 
+For investors with smaller portfolios, the percentage-based [fee](../f/fee.md) might be prohibitively expensive relative to the assets under management.
 
 ### 2. **Potential Conflicts of Interest**
 
@@ -76,13 +76,13 @@ Selecting the right wrap account provider involves assessing various factors:
 
 ### Example Providers of Wrap Accounts
 
-1. **[Charles Schwab](../c/charles_schwab.md)**: [Schwab Managed Account Services](https://www.schwab.com/)
+1. **[Charles Schwab](../c/charles_schwab.md)**: Schwab Managed Account Services
 - Offers a variety of wrap account [options](../o/options.md) through its [managed account](../m/managed_account.md) services, catering to different investment styles and goals.
 
-2. **Merrill Edge**: [Merrill Lynch Investment Advisory Program](https://www.merrilledge.com/)
+2. **Merrill Edge**: Merrill Lynch Investment Advisory Program
 - Provides wrap accounts through its [Merrill Lynch](../m/merrill_lynch.md) Investment Advisory Program, emphasizing personalized financial advice and planning.
 
-3. **Morgan Stanley**: [Morgan Stanley Wrap Fee Programs](https://www.morganstanley.com/)
+3. **Morgan Stanley**: Morgan Stanley Wrap Fee Programs
 - Features [multiple](../m/multiple.md) [wrap fee](../w/wrap_fee.md) programs with a focus on personalized [portfolio management](../p/par.md) and comprehensive advisory services.
 
 ## Conclusion

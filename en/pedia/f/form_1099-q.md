@@ -24,7 +24,7 @@ Coverdell ESAs are another [tax-advantaged](../t/tax-advantaged.md) [investment 
 
 ## Purpose of Form 1099-Q
 
-The main purpose of Form 1099-Q is to report distributions from these qualified education programs. The form is issued by the plan administrator, [custodian](../c/custodian.md), or [trustee](../t/trustee.md) and sent to both the IRS and the [beneficiary](../b/beneficiary.md). 
+The main purpose of Form 1099-Q is to report distributions from these qualified education programs. The form is issued by the plan administrator, [custodian](../c/custodian.md), or [trustee](../t/trustee.md) and sent to both the IRS and the [beneficiary](../b/beneficiary.md).
 
 ### Key Points Reported on Form 1099-Q
 
@@ -79,7 +79,7 @@ Form 1099-Q must be issued by the financial institution to both the IRS and the 
 
 ## Resources and Tools
 
-For more comprehensive details on Form 1099-Q, users can refer to the IRS official instructions and resources available on their [website](https://www.irs.gov/forms-pubs/form-1099-q-payments-from-qualified-education-programs-under-sections-529-and-530).
+For more comprehensive details on Form 1099-Q, users can refer to the
 
 ## Conclusion
 

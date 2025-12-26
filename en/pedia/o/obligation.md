@@ -116,7 +116,7 @@ Robo-advisors and [algorithmic trading platforms](../a/algorithmic_trading_platf
 ### ESG Criteria
 Environmental, Social, and Governance (ESG) criteria are increasingly important in the assessment and issuance of obligations, reflecting growing [interest](../i/interest.md) in socially responsible [investing](../i/investing.md).
 
-For additional information or specific inquiries related to obligations, you can visit various corporate and financial websites. Here is a link to [J.P. Morgan's fixed income page](https://www.jpmorgan.com/global/fixed-income).
+For additional information or specific inquiries related to obligations, consult corporate financial disclosures and fixed-income materials.
 
 ## Conclusion
 

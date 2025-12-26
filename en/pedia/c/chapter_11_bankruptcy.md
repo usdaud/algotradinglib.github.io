@@ -91,20 +91,20 @@ Shareholders typically stand behind creditors in priority and might lose signifi
 ## Famous Examples of Chapter 11 Cases
 
 1. **General Motors (GM)**
-    - In 2009, GM filed for Chapter 11 [bankruptcy](../b/bankruptcy.md), one of the largest bankruptcies in the U.S. history. The restructured GM emerged from [bankruptcy](../b/bankruptcy.md) with help from government bailouts.
-    - [General Motors](https://www.gm.com/)
+ - In 2009, GM filed for Chapter 11 [bankruptcy](../b/bankruptcy.md), one of the largest bankruptcies in the U.S. history. The restructured GM emerged from [bankruptcy](../b/bankruptcy.md) with help from government bailouts.
+ - General Motors
 
 2. **[Lehman Brothers](../l/lehman_brothers.md)**
-    - [Lehman Brothers](../l/lehman_brothers.md) filed for Chapter 11 [bankruptcy](../b/bankruptcy.md) in 2008, marking the largest [bankruptcy](../b/bankruptcy.md) filing ever at that time, significantly contributing to the global [financial crisis](../f/financial_crisis.md).
-    - [Lehman Brothers Holdings](https://www.lehmanholdings.com/)
+ - [Lehman Brothers](../l/lehman_brothers.md) filed for Chapter 11 [bankruptcy](../b/bankruptcy.md) in 2008, marking the largest [bankruptcy](../b/bankruptcy.md) filing ever at that time, significantly contributing to the global [financial crisis](../f/financial_crisis.md).
+ - Lehman Brothers Holdings
 
 3. **[Delta](../d/delta.md) Air Lines**
-    - Filed for Chapter 11 in 2005 to restructure its [debt](../d/debt.md) amid rising fuel costs and competition. Successfully emerged in 2007.
-    - [Delta Air Lines](https://www.delta.com/)
+ - Filed for Chapter 11 in 2005 to restructure its [debt](../d/debt.md) amid rising fuel costs and competition. Successfully emerged in 2007.
+ - Delta Air Lines
 
 4. **Chrysler Group LLC**
-    - Filed for Chapter 11 in 2009 and formed an alliance with Fiat to help stabilize operations.
-    - [FCA US LLC (Stellantis North America)](https://www.stellantisnorthamerica.com/)
+ - Filed for Chapter 11 in 2009 and formed an alliance with Fiat to help stabilize operations.
+ - FCA US LLC (Stellantis North America)
 
 ## Conclusion
 

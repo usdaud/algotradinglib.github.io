@@ -28,7 +28,7 @@ Consider a company deciding whether to accept a special [order](../o/order.md) f
 Relevant costs can come in various forms depending on the situation and the specific decisions being made. Common types are:
 
 1. **Avoidable Costs**: Costs that can be eliminated if a particular action is taken. For instance, discontinuing a product may help a company avoid costs related to its production and [marketing](../m/marketing.md).
- 
+
 2. **Opportunity Costs**: The potential [revenue](../r/revenue.md) lost when one alternative is chosen over another. For example, using a factory space to produce one type of product means you’re forgoing the potential [revenue](../r/revenue.md) from producing a different product in the same space.
 
 3. **Incremental Costs**: Costs that specifically change as a result of a decision. These are additional costs incurred, for example, when increasing production levels.
@@ -61,9 +61,9 @@ To illustrate, consider a factory contemplating whether to accept a special [ord
 
 - **Incremental [Revenue](../r/revenue.md)**: $80,000
 - **Incremental Costs**:
-  - Direct Materials: $30,000
-  - Direct Labor: $25,000
-  - [Variable Overhead](../v/variable_overhead.md): $10,000
+ - Direct Materials: $30,000
+ - Direct Labor: $25,000
+ - [Variable Overhead](../v/variable_overhead.md): $10,000
 - **Total Incremental Costs**: $65,000
 
 In this case, accepting the [order](../o/order.md) would result in an incremental benefit of $15,000 ($80,000 - $65,000), making it a relevant decision.
@@ -73,7 +73,7 @@ In this case, accepting the [order](../o/order.md) would result in an incrementa
 While relevant costing is invaluable for decision-making, it does have limitations:
 
 1. **Assumes Rationality**: The concept assumes all managers [will](../w/will.md) make rational decisions based on the data. In reality, decisions may be influenced by non-financial factors.
-  
+
 2. **Short-Term Focus**: Relevant cost analysis tends to focus on short-term decisions. It doesn't necessarily consider long-term strategic implications and broader financial conditions.
 
 3. **Quantitative Focus**: The model is heavily dependent on easily quantifiable costs and benefits, often neglecting intangible factors such as employee morale, brand reputation, or [customer](../c/customer.md) satisfaction.

@@ -12,8 +12,6 @@ The [subprime mortgage](../s/subprime_mortgage.md) crisis emerged from an overhe
 
 One of the cornerstone elements of HERA was the creation of the Federal Housing [Finance](../f/finance.md) Agency (FHFA). The FHFA was established as an independent regulatory agency with oversight of Fannie Mae, [Freddie Mac](../f/freddie_mac.md), and the Federal [Home](../h/home.md) [Loan](../l/loan.md) Banks. Its mandate includes ensuring the safety and soundness of these government-sponsored enterprises (GSEs), promoting a stable and [liquid](../l/liquid.md) [mortgage](../m/mortgage.md) [market](../m/market.md), and preserving public confidence in the U.S. housing [finance](../f/finance.md) system.
 
-- **FHFA Official Website:** [FHFA.gov](https://www.fhfa.gov)
-
 ### Conservatorship of Fannie Mae and Freddie Mac
 
 In conjunction with the establishment of the FHFA, HERA authorized the conservatorship of Fannie Mae and [Freddie Mac](../f/freddie_mac.md). This move aimed to prevent the collapse of these two GSEs, which are critical players in the U.S. [mortgage](../m/mortgage.md) [market](../m/market.md). By placing them under conservatorship, the federal government could stabilize their operations and reassure the markets.

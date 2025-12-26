@@ -19,7 +19,7 @@ Common types of accrued expenses include:
 
 To account for accrued expenses, an [accountant](../a/accountant.md) [will](../w/will.md) make an [adjusting journal entry](../a/adjusting_journal_entry.md) at the end of the [accounting](../a/accounting.md) period. This entry [will](../w/will.md) involve:
 1. **[Debit](../d/debit.md) to an [Expense](../e/expense.md) Account**: Reflecting the incurred [expense](../e/expense.md) for the period.
-2. **[Credit](../c/credit.md) to an [Accrued Liability](../a/accrued_liability.md) Account**: Indicating the amount owed but not yet paid. 
+2. **[Credit](../c/credit.md) to an [Accrued Liability](../a/accrued_liability.md) Account**: Indicating the amount owed but not yet paid.
 
 ### Journal Entry for Accrued Expenses
 
@@ -69,13 +69,13 @@ In [financial analysis](../f/financial_analysis.md), accrued expenses are a cons
 Many modern [accounting](../a/accounting.md) software solutions facilitate the management of accrued expenses by automating the recording and adjusting entries. For instance, platforms like QuickBooks, Xero, and Oracle NetSuite [offer](../o/offer.md) functionalities to track and manage accrued expenses, ensuring compliance and streamlining the [accounting](../a/accounting.md) process.
 
 ### QuickBooks
-[QuickBooks](https://quickbooks.intuit.com) provides automation features for tracking accrued expenses, making adjusting entries, and generating [financial statements](../f/financial_statements.md).
+QuickBooks provides automation features for tracking accrued expenses, making adjusting entries, and generating [financial statements](../f/financial_statements.md).
 
 ### Xero
-[Xero](https://www.xero.com) supports the management of accrued expenses with features that simplify the process of recording, adjusting, and reporting.
+Xero supports the management of accrued expenses with features that simplify the process of recording, adjusting, and reporting.
 
 ### Oracle NetSuite
-[Oracle NetSuite](https://www.netsuite.com/portal/home.shtml) offers comprehensive tools for managing accrued expenses within its broader suite of financial management applications.
+Oracle NetSuite offers comprehensive tools for managing accrued expenses within its broader suite of financial management applications.
 
 ## Conclusion
 

@@ -82,22 +82,22 @@ Adherence to regulatory requirements and internal governance policies is vital i
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma apply sophisticated [risk](../r/risk.md) [capital allocation](../c/capital_allocation.md) techniques to their algorithm-driven [trading strategies](../t/trading_strategies.md). These firms use advanced [mathematical models](../m/mathematical_models_in_trading.md), machine [learning algorithms](../l/learning_algorithms_in_trading.md), and high-performance computing to optimize [risk](../r/risk.md)-adjusted returns across diversified portfolios.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma
 
 ### 5.2. Proprietary Trading Firms
 
 [Proprietary trading](../p/proprietary_trading.md) firms such as [Jump Trading](../j/jump_trading.md) and Citadel Securities [leverage](../l/leverage.md) their own [capital](../c/capital.md) to [trade](../t/trade.md) various financial instruments using algorithmic strategies. These firms employ rigorous [risk management](../r/risk_management.md) practices and real-time [risk](../r/risk.md) [capital allocation](../c/capital_allocation.md) to navigate volatile markets and achieve consistent performance.
 
-- [Jump Trading](https://www.jumptrading.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Jump Trading
+- Citadel Securities
 
 ### 5.3. Retail Algorithmic Trading Platforms
 
 Platforms like [QuantConnect](../q/quantconnect.md) and [TradeStation](../t/tradestation.md) provide tools for individual traders to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. These platforms include features for [risk](../r/risk.md) [capital allocation](../c/capital_allocation.md), enabling retail traders to implement professional-grade [risk management](../r/risk_management.md) techniques.
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [TradeStation](https://www.tradestation.com/)
+- QuantConnect
+- TradeStation
 
 ## Conclusion
 

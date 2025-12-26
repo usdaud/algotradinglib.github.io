@@ -57,7 +57,7 @@ Investments in foreign markets can also help [hedge](../h/hedge.md) against dome
 FinTech companies have introduced platforms and tools that [offer](../o/offer.md) innovative ways to manage and invest [money](../m/money.md), potentially enhancing purchasing power. For example, robo-advisors can create personalized investment strategies to tackle [inflation](../i/inflation.md).
 
 ### 7.2. Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) leverages computer algorithms to execute trades at optimal prices, potentially providing better returns for investors and thereby maintaining or increasing their purchasing power.
+[Algorithmic trading](../a/algorithmic_trading.md) leverages computer algorithms to execute trades at optimal prices, potentially providing better returns for investors and thereby maintaining or increasing their purchasing power.
 
 ### 7.3. Digital Currencies
 Digital currencies like [Bitcoin](../b/bitcoin.md) and stablecoins [offer](../o/offer.md) an alternative to traditional fiat currencies. They possess the potential to provide protection against [inflation](../i/inflation.md), although they come with their own set of risks and volatilities.

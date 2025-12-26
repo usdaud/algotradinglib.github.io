@@ -1,6 +1,6 @@
 # Game Theory
 
-Game Theory is a critical framework used in [algorithmic trading](../a/accountability.md), also known as algo-trading or automated trading. It is a branch of mathematics that deals with the study of strategic interactions between rational decision-makers. The application of Game Theory in algo-trading involves employing statistical and computational techniques to make optimal decisions in stock markets, [derivatives](../d/derivatives.md) trading, and other financial instruments.
+Game Theory is a critical framework used in [algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or automated trading. It is a branch of mathematics that deals with the study of strategic interactions between rational decision-makers. The application of Game Theory in algo-trading involves employing statistical and computational techniques to make optimal decisions in stock markets, [derivatives](../d/derivatives.md) trading, and other financial instruments.
 
 ### History and Development
 
@@ -43,19 +43,19 @@ In some scenarios, [trading algorithms](../t/trading_algorithms.md) might engage
 ### Prominent Companies in Algo-Trading
 
 #### 1. **Citadel Securities**
-Citadel Securities is one of the largest [market](../m/market.md)-making firms globally, employing sophisticated algorithms and Game Theory principles. [Citadel Securities](https://www.citadelsecurities.com)
+Citadel Securities is one of the largest [market](../m/market.md)-making firms globally, employing sophisticated algorithms and Game Theory principles. Citadel Securities
 
 #### 2. **Two Sigma Investments**
-Two Sigma is a [hedge fund](../h/hedge_fund.md) that uses statistical modeling and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in its [trading strategies](../t/trading_strategies.md). Game Theory is integral to their approach. [Two Sigma](https://www.twosigma.com)
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that uses statistical modeling and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in its [trading strategies](../t/trading_strategies.md). Game Theory is integral to their approach. Two Sigma
 
 #### 3. **Renaissance Technologies**
-Renaissance Technologies is known for its Medallion [Fund](../f/fund.md), one of the most successful [hedge](../h/hedge.md) funds in history, leveraging advanced Game Theory in its [trading models](../t/trading_models.md). [Renaissance Technologies](https://www.rentech.com)
+Renaissance Technologies is known for its Medallion [Fund](../f/fund.md), one of the most successful [hedge](../h/hedge.md) funds in history, leveraging advanced Game Theory in its [trading models](../t/trading_models.md). Renaissance Technologies
 
 #### 4. **Jane Street**
-Jane Street uses [quantitative analysis](../q/quantitative_analysis.md) and Game Theory to execute trades and manage [risk](../r/risk.md) efficiently. [Jane Street](https://www.janestreet.com)
+Jane Street uses [quantitative analysis](../q/quantitative_analysis.md) and Game Theory to execute trades and manage [risk](../r/risk.md) efficiently. Jane Street
 
 #### 5. **Virtu Financial**
-Virtu Financial is a financial services [firm](../f/firm.md) that uses high-frequency [trading strategies](../t/trading_strategies.md), relying heavily on Game Theory to stay competitive. [Virtu Financial](https://www.virtu.com)
+Virtu Financial is a financial services [firm](../f/firm.md) that uses high-frequency [trading strategies](../t/trading_strategies.md), relying heavily on Game Theory to stay competitive. Virtu Financial
 
 ### Challenges and Considerations
 

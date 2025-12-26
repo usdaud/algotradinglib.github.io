@@ -1,6 +1,6 @@
 # Downstream
 
-The term "downstream" refers to the later stages in the production and [distribution](../d/distribution.md) processes of various industries, particularly the oil and gas sector. In these industries, operations can broadly be categorized into three segments: [upstream](../u/upstream.md), midstream, and downstream. 
+The term "downstream" refers to the later stages in the production and [distribution](../d/distribution.md) processes of various industries, particularly the oil and gas sector. In these industries, operations can broadly be categorized into three segments: [upstream](../u/upstream.md), midstream, and downstream.
 
 ## Definition of Downstream
 
@@ -30,19 +30,19 @@ Additionally, the downstream sector includes the [manufacturing](../m/manufactur
 
 ### ExxonMobil
 
-ExxonMobil is one of the largest publicly traded international oil and gas companies, and it is highly integrated across the downstream sector’s refining, [distribution](../d/distribution.md), and [marketing](../m/marketing.md) activities. You can explore more about their operations [here](https://corporate.exxonmobil.com/).
+ExxonMobil is one of the largest publicly traded international oil and gas companies, and it is highly integrated across the downstream sector’s refining, [distribution](../d/distribution.md), and [marketing](../m/marketing.md) activities. You can explore more about their operations here.
 
 ### Royal Dutch Shell
 
-Shell operates an extensive network of refineries, chemicals, and [distribution](../d/distribution.md) facilities fully integrated with their [upstream](../u/upstream.md) and midstream operations. The company's diverse [range](../r/range.md) of activities in the downstream sector globally make it a key player. More about their operations can be found [here](https://www.shell.com/).
+Shell operates an extensive network of refineries, chemicals, and [distribution](../d/distribution.md) facilities fully integrated with their [upstream](../u/upstream.md) and midstream operations. The company's diverse [range](../r/range.md) of activities in the downstream sector globally make it a key player. More about their operations can be found here.
 
 ### Chevron
 
-Chevron has significant operations in the downstream sector, including refining, product [marketing](../m/marketing.md), and transportation. Chevron's downstream operations allow the company to [offer](../o/offer.md) consumers a [range](../r/range.md) of [petroleum](../p/petroleum.md) products and services through retail and commercial markets. Learn more about Chevron [here](https://www.chevron.com/).
+Chevron has significant operations in the downstream sector, including refining, product [marketing](../m/marketing.md), and transportation. Chevron's downstream operations allow the company to [offer](../o/offer.md) consumers a [range](../r/range.md) of [petroleum](../p/petroleum.md) products and services through retail and commercial markets. Learn more about Chevron here.
 
 ### BP (British Petroleum)
 
-BP's integrated [supply](../s/supply.md) and trading model provides the framework for its downstream operations. They own and operate a series of refineries and chemicals plants worldwide. You can [gain](../g/gain.md) deeper insights into BP's downstream activities [here](https://www.bp.com/).
+BP's integrated [supply](../s/supply.md) and trading model provides the framework for its downstream operations. They own and operate a series of refineries and chemicals plants worldwide. You can [gain](../g/gain.md) deeper insights into BP's downstream activities here.
 
 ## Conclusion
 

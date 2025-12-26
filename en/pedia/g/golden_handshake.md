@@ -23,10 +23,10 @@ Golden handshakes can have numerous legal implications. Employment laws vary by 
 
 ## Case Studies
 ### 1. **Bob Iger's Departure from Disney**
-Bob Iger, executive chairman of The Walt Disney Company, received a substantial Golden Handshake when he transitioned from CEO. His package reportedly included millions in [severance pay](../s/severance_pay.md), stock [options](../o/options.md), and bonuses. [Disney's Leadership](https://thewaltdisneycompany.com/leaders/robert-a-iger/)
+Bob Iger, executive chairman of The Walt Disney Company, received a substantial Golden Handshake when he transitioned from CEO. His package reportedly included millions in [severance pay](../s/severance_pay.md), stock [options](../o/options.md), and bonuses. Disney's Leadership
 
 ### 2. **Marissa Mayer's Exit from Yahoo**
-When Marissa Mayer left Yahoo following its [sale](../s/sale.md) to Verizon, she received a Golden Handshake valued at around $23 million, including stock [options](../o/options.md) and [severance pay](../s/severance_pay.md). [Verizon Media Group](https://www.verizonmedia.com/policies/us/en/verizonmedia/leadership/)
+When Marissa Mayer left Yahoo following its [sale](../s/sale.md) to Verizon, she received a Golden Handshake valued at around $23 million, including stock [options](../o/options.md) and [severance pay](../s/severance_pay.md). Verizon Media Group
 
 ## Economic and Ethical Considerations
 

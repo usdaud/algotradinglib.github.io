@@ -91,7 +91,7 @@ Alphabet Inc., the [parent company](../p/parent_company.md) of Google, frequentl
 
 Tesla, Inc., a leading electric vehicle and energy company, often uses pro forma financials to project the financial impact of new product launches, factory expansions, and mergers. These projections help Tesla to secure [investor](../i/investor.md) confidence and funding for ambitious projects.
 
-### [Pro Forma Case Study: Apple Inc.](https://investor.apple.com/)
+### Pro Forma Case Study: Apple Inc.
 
 Apple Inc. provides an example of using pro forma financials to illustrate the financial impact of [share buybacks](../s/share_buybacks.md) and [dividend](../d/dividend.md) payments, giving shareholders a clearer picture of the company’s [capital allocation](../c/capital_allocation.md) strategy and anticipated [financial performance](../f/financial_performance.md).
 

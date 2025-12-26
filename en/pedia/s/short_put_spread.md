@@ -5,12 +5,12 @@ A [Short Put](../s/short_put.md) Spread, also known as a [bull put spread](../b/
 ## Components of a Short Put Spread
 
 - **Short [Put Option](../p/put.md)**: This is the [put option](../p/put.md) that the [trader](../t/trader.md) sells or writes. The [strike price](../s/strike_price.md) of this option is usually higher than the current price of the [underlying asset](../u/underlying_asset.md).
-  
+
 - **Long [Put Option](../p/put.md)**: This is the [put option](../p/put.md) that the [trader](../t/trader.md) buys. The [strike price](../s/strike_price.md) of this option is lower than the [strike price](../s/strike_price.md) of the short [put option](../p/put.md), providing protection against significant downward moves in the [underlying asset](../u/underlying_asset.md)'s price.
 
 ## Mechanics of the Strategy
 
-1. **Selling the Higher Strike [Put Option](../p/put.md) (Short [Leg](../l/leg.md))**: When you sell a [put option](../p/put.md), you receive a [premium](../p/premium.md). This [premium](../p/premium.md) is your maximum [profit](../p/profit.md) in the [short put](../s/short_put.md) spread strategy. 
+1. **Selling the Higher Strike [Put Option](../p/put.md) (Short [Leg](../l/leg.md))**: When you sell a [put option](../p/put.md), you receive a [premium](../p/premium.md). This [premium](../p/premium.md) is your maximum [profit](../p/profit.md) in the [short put](../s/short_put.md) spread strategy.
 
 2. **Buying the Lower Strike [Put Option](../p/put.md) (Long [Leg](../l/leg.md))**: When you buy a [put option](../p/put.md), you pay a [premium](../p/premium.md). The purpose of buying a put with a lower [strike price](../s/strike_price.md) is to limit your potential losses if the [underlying asset](../u/underlying_asset.md)'s price drops significantly.
 
@@ -58,15 +58,15 @@ Let's consider a stock currently trading at $100. A [trader](../t/trader.md) emp
 
 Investment firms and [hedge](../h/hedge.md) funds often employ [algorithmic trading](../a/algorithmic_trading.md) strategies that include [short put](../s/short_put.md) [spreads](../s/spreads.md). Algorithms can be programmed to identify favorable [market](../m/market.md) conditions for implementing the strategy, execute trades, manage [risk](../r/risk.md), and even exit positions when certain criteria are met.
 
-For example, an algo trading [firm](../f/firm.md) like [Two Sigma](https://www.twosigma.com/) might develop an algorithm that scans the [options](../o/options.md) [market](../m/market.md) for opportunities to implement [short put](../s/short_put.md) [spreads](../s/spreads.md) based on statistical patterns and historical data.
+For example, an algo trading [firm](../f/firm.md) like Two Sigma might develop an algorithm that scans the [options](../o/options.md) [market](../m/market.md) for opportunities to implement [short put](../s/short_put.md) [spreads](../s/spreads.md) based on statistical patterns and historical data.
 
 ### Retail Traders
 
-Retail traders can use online brokerage platforms to implement short [put spread strategies](../p/put_spread_strategies.md). Platforms such as [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) provide tools for analyzing, executing, and managing these trades.
+Retail traders can use online brokerage platforms to implement short [put spread strategies](../p/put_spread_strategies.md). Platforms such as Thinkorswim by TD Ameritrade provide tools for analyzing, executing, and managing these trades.
 
 ## Tools and Platforms
 
-- **[Market Scanners](../m/market_scanners.md)**: [Software tools](../s/software_tools_for_trading.md) that scan the [market](../m/market.md) for [options](../o/options.md) with favorable conditions for [short put](../s/short_put.md) [spreads](../s/spreads.md). Examples include [OptionsPlay](https://www.optionsplay.com/) and [Finviz](https://finviz.com/).
+- **[Market Scanners](../m/market_scanners.md)**: [Software tools](../s/software_tools_for_trading.md) that scan the [market](../m/market.md) for [options](../o/options.md) with favorable conditions for [short put](../s/short_put.md) [spreads](../s/spreads.md). Examples include OptionsPlay and Finviz.
 
 - **Trading Platforms**: Comprehensive platforms like [Thinkorswim](../t/thinkorswim.md) and [Interactive Brokers](../i/interactive_brokers.md)' [Trader](../t/trader.md) Workstation (TWS) [offer](../o/offer.md) [robust](../r/robust.md) functionality for executing and managing [short put](../s/short_put.md) [spreads](../s/spreads.md).
 

@@ -1,6 +1,6 @@
 # Basel III
 
-Basel III is a comprehensive set of reform measures, developed by the Basel Committee on Banking Supervision, to strengthen the regulation, supervision, and [risk management](../r/risk_management.md) of the banking sector. These measures aim to improve the [financial sector](../f/financial_sector.md)'s ability to deal with economic stress, enhance [risk management](../r/risk_management.md), and promote [transparency](../t/transparency.md). Basel III was introduced in response to the deficiencies in financial regulation revealed by the [financial crisis](../f/financial_crisis.md) of 2007-2008. It is a global regulatory framework that addresses various aspects of banking stability, including [capital](../c/capital.md) requirements, [leverage ratios](../l/leverage_ratios.md), and [liquidity](../l/liquidity.md) requirements. 
+Basel III is a comprehensive set of reform measures, developed by the Basel Committee on Banking Supervision, to strengthen the regulation, supervision, and [risk management](../r/risk_management.md) of the banking sector. These measures aim to improve the [financial sector](../f/financial_sector.md)'s ability to deal with economic stress, enhance [risk management](../r/risk_management.md), and promote [transparency](../t/transparency.md). Basel III was introduced in response to the deficiencies in financial regulation revealed by the [financial crisis](../f/financial_crisis.md) of 2007-2008. It is a global regulatory framework that addresses various aspects of banking stability, including [capital](../c/capital.md) requirements, [leverage ratios](../l/leverage_ratios.md), and [liquidity](../l/liquidity.md) requirements.
 
 ## Historical Context and Motivation
 
@@ -13,9 +13,9 @@ The [financial crisis](../f/financial_crisis.md) of 2007-2008 exposed significan
 Basel III introduces more stringent [capital](../c/capital.md) requirements aimed at ensuring that banks have the financial strength to absorb shocks arising from economic stress. The key aspects include:
 
 - **Minimum Common [Equity](../e/equity.md) Tier 1 (CET1) Ratio**: This has been increased to 4.5% of [risk-weighted assets](../r/risk-weighted_assets.md) (RWA), up from the 2% under [Basel II](../b/basel_ii.md). CET1 is the [capital](../c/capital.md) of the highest quality, primarily composed of common [shares](../s/shares.md) and [retained earnings](../r/retained_earnings.md).
-  
+
 - **[Tier 1 Capital Ratio](../t/tier_1_capital_ratio.md)**: The minimum [Tier 1 capital ratio](../t/tier_1_capital_ratio.md), which includes CET1 and additional [Tier 1 capital](../t/tier_1_capital.md) like preferred [shares](../s/shares.md), has been set at 6% of RWA, up from 4% in [Basel II](../b/basel_ii.md).
-  
+
 - **Total [Capital](../c/capital.md) Ratio**: The total [capital](../c/capital.md) ratio remains at 8% of RWA, but Basel III increases the quality of the [capital](../c/capital.md) that must be held.
 
 - **[Capital](../c/capital.md) Conservation Buffer**: Banks must [hold](../h/hold.md) an additional 2.5% of RWA in CET1 [capital](../c/capital.md) as a counter-cyclical buffer during periods of [credit](../c/credit.md) growth.
@@ -55,7 +55,7 @@ Implementation of Basel III varies across regions, with different jurisdictions 
 Basel III has faced several criticisms and controversies, including:
 
 - **Procyclicality**: Critics argue that the [capital](../c/capital.md) buffers are procyclical and may exacerbate economic downturns by forcing banks to raise [capital](../c/capital.md) or cut back lending during periods of economic stress.
-  
+
 - **Complexity**: The framework's complexity and the burden of compliance have been criticized, particularly for smaller banks that might struggle with the administrative [load](../l/load.md).
 
 - **Impact on Lending**: There are concerns that stricter [capital](../c/capital.md) requirements could reduce banks' ability to lend, potentially slowing [economic growth](../e/economic_growth.md).
@@ -69,9 +69,9 @@ Basel IV, sometimes unofficially referred to as the "finalization of Basel III,"
 For more precise information on Basel IV and continuing developments, you can refer to the Basel Committee's official publications and member banks' reports. It is also beneficial to keep an eye on national regulatory bodies, as they often provide detailed guidelines and updates on the implementation of Basel standards within their jurisdictions.
 
 ### References:
-- Basel Committee on Banking Supervision: [BCBS](https://www.bis.org/bcbs/)
-- European Banking Authority (EBA): [EBA](https://www.eba.europa.eu/)
-- Federal Reserve (US): [Federal Reserve](https://www.federalreserve.gov/)
-- [Bank](../b/bank.md) for International Settlements (BIS): [BIS](https://www.bis.org/)
+- Basel Committee on Banking Supervision: BCBS
+- European Banking Authority (EBA): EBA
+- Federal Reserve (US): Federal Reserve
+- [Bank](../b/bank.md) for International Settlements (BIS): BIS
 
 By understanding and complying with Basel III, banks and financial institutions aim to contribute to a more stable and resilient global [financial system](../f/financial_system.md).

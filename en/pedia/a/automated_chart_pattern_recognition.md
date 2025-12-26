@@ -68,16 +68,16 @@ Quant desks in financial institutions use ACPR for [quantitative analysis](../q/
 
 ### Trading Technologies
 
-1. **TrendSpider**: [Website](https://www.trendspider.com)
-2. **PatternSmart**: [Website](https://www.patternsmart.com)
-3. **[Trade](../t/trade.md) Ideas**: [Website](https://www.trade-ideas.com)
+1. **TrendSpider**:
+2. **PatternSmart**:
+3. **[Trade](../t/trade.md) Ideas**:
 
 ### Financial Institutions
 
-1. **Goldman Sachs**: Known for its [proprietary trading](../p/proprietary_trading.md) algorithms and advanced analytics, Goldman Sachs is at the forefront of using technology for trading. [Website](https://www.goldmansachs.com)
-2. **J.P. Morgan**: The [firm](../f/firm.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and ACPR technologies to enhance their trading operations. [Website](https://www.jpmorgan.com)
+1. **Goldman Sachs**: Known for its [proprietary trading](../p/proprietary_trading.md) algorithms and advanced analytics, Goldman
+2. **J.P. Morgan**: The [firm](../f/firm.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md)
 
 ### Research and Development
 
-1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops [machine learning](../m/machine_learning.md) and AI solutions for [financial markets](../f/financial_market.md). [Website](https://www.kensho.com)
-2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and AI for trading, utilizing [predictive models](../p/predictive_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md). [Website](https://numer.ai)
+1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops [machine learning](../m/machine_learning.md) and AI solutions for [financial markets](../f/financial_market.md).
+2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and AI for trading, utilizing [predictive models](../p/predictive_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md).

@@ -73,10 +73,10 @@ Calibration is the process of fine-tuning the model parameters to improve its pr
 ### Case Studies
 
 **1. Renaissance Technologies**
-Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company, is renowned for its use of deterministic models. The [firm](../f/firm.md) uses sophisticated mathematical and statistical models to [trade](../t/trade.md) across various markets. More information on their approach can be found [here](https://www.rentec.com/).
+Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company, is renowned for its use of deterministic models. The [firm](../f/firm.md) uses sophisticated mathematical and statistical models to [trade](../t/trade.md) across various markets. More information on their approach can be found here.
 
 **2. Two Sigma**
-Two Sigma is another leading investment [firm](../f/firm.md) that relies heavily on deterministic models. Their models analyze large datasets to identify patterns and inform trading decisions. More details are available on their [website](https://www.twosigma.com/).
+Two Sigma is another leading investment [firm](../f/firm.md) that relies heavily on deterministic models. Their models analyze large datasets to identify patterns and inform trading decisions. More
 
 ### Future Trends and Innovations
 
@@ -91,4 +91,4 @@ High-quality data is critical for the success of deterministic models. Future tr
 
 ### Conclusion
 
-Deterministic models play a fundamental role in modern trading, [offering](../o/offering.md) a structured and predictable approach to understanding and capitalizing on [market](../m/market.md) behaviors. Despite their limitations, these models provide a [robust](../r/robust.md) framework for [algorithmic trading](../a/algorithmic_trading.md), [technical analysis](../t/technical_analysis.md), and [risk management](../r/risk_management.md). As technology advances, the future of deterministic models in trading looks promising, with potential enhancements through [machine learning](../m/machine_learning.md) and better data quality.
+Deterministic models play a fundamental role in modern trading, [offering](../o/offering.md) a structured and predictable approach to understanding and capitalizing on [market](../m/market.md) behaviors. Despite their limitations, these models provide a [robust](../r/robust.md) framework for [algorithmic trading](../a/algorithmic_trading.md), [technical analysis](../t/technical_analysis.md), and [risk management](../r/risk_management.md). As technology advances, the future of deterministic models in trading looks promising, with potential enhancements through [machine learning](../m/machine_learning.md) and better data quality.

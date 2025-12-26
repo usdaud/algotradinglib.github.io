@@ -58,4 +58,4 @@ Apple Inc. provides an illustrative case of how resistance levels work. Suppose 
 
 Resistance levels are a foundational concept in [technical analysis](../t/technical_analysis.md). They help traders and investors anticipate future price movements by indicating where selling pressure might increase. Understanding the nuances of resistance, such as psychological barriers and trading volumes, can significantly enhance [trading strategies](../t/trading_strategies.md). Utilizing various techniques to identify these levels, from horizontal lines to Fibonacci retracements, equips traders with the tools to make informed decisions. Recognizing breakouts and retests further adds to the efficacy of using resistance levels in trading.
 
-For more advanced learning and resources, traders and investors can visit platforms like [Investopedia](https://www.investopedia.com/) or specialized tools like [TradingView](https://www.tradingview.com/) for real-time charting and analysis.
+For more advanced learning and resources, traders and investors can visit platforms like Investopedia or specialized tools like TradingView for real-time charting and analysis.

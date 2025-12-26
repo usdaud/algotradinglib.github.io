@@ -46,9 +46,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), Markowitz Portfolio Theor
 Several financial [software platforms](../s/software_platforms_for_trading.md) and tools implement Markowitz Portfolio Theory, [offering](../o/offering.md) both individual and institutional investors tools to optimize their portfolios.
 
 ### Example Platforms:
-- **[Kensho](https://www.s&pglobal.com/marketintelligence/en/campaigns/kensho)**: Provides comprehensive AI-driven analytics, including [portfolio optimization](../p/portfolio_optimization.md) using MPT.
-- **[Portfolio Visualizer](https://www.portfoliovisualizer.com/)**: A [robust](../r/robust.md) tool for [backtesting](../b/backtesting.md) and [portfolio optimization](../p/portfolio_optimization.md), incorporating MPT principles.
-- **[QuantConnect](https://www.quantconnect.com/)**: [Open](../o/open.md)-source platform that allows algorithmic traders to build, backtest and deploy algorithms, including those based on MPT.
+- **Kensho**: Provides comprehensive AI-driven analytics, including [portfolio optimization](../p/portfolio_optimization.md) using MPT.
+- **Portfolio Visualizer**: A [robust](../r/robust.md) tool for [backtesting](../b/backtesting.md) and [portfolio optimization](../p/portfolio_optimization.md), incorporating MPT principles.
+- **QuantConnect**: [Open](../o/open.md)-source platform that allows algorithmic traders to build, backtest and deploy algorithms, including those based on MPT.
 
 ## Advanced Considerations
 ### 1. Constraints in MPT

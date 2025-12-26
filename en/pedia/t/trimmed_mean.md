@@ -1,6 +1,6 @@
 # Trimmed Mean
 
-The trimmed mean is a [robust](../r/robust.md) statistical measure of central tendency that excludes a specified percentage of the lowest and highest outliers before calculating the mean (average) of the remaining data. This technique is particularly useful when dealing with data sets that contain extreme values or outliers that could disproportionately affect the mean. A trimmed mean enhances the accuracy of data analyses by mitigating the impact of anomalies, making it a popular choice in various fields, including [finance](../f/finance.md), [economics](../e/economics.md), and [algorithmic trading](../a/accountability.md).
+The trimmed mean is a [robust](../r/robust.md) statistical measure of central tendency that excludes a specified percentage of the lowest and highest outliers before calculating the mean (average) of the remaining data. This technique is particularly useful when dealing with data sets that contain extreme values or outliers that could disproportionately affect the mean. A trimmed mean enhances the accuracy of data analyses by mitigating the impact of anomalies, making it a popular choice in various fields, including [finance](../f/finance.md), [economics](../e/economics.md), and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition and Calculation
 
@@ -10,7 +10,7 @@ A trimmed mean is computed by:
 2. **Trimming** or removing a specified percentage (often denoted as '[alpha](../a/alpha.md)') of the smallest and largest values. For example, a 10% trimmed mean removes the lowest 10% and the highest 10% of the data points.
 3. **Averaging** the remaining data points.
 
-Mathematically, if you have a data set \( X = \{x_1, x_2, x_3, ..., x_n\} \) sorted in ascending [order](../o/order.md), the trimmed mean \( T_\[alpha](../a/alpha.md) \) at a trimming level \( \[alpha](../a/alpha.md) \) is given by:
+Mathematically, if you have a data set \( X = \{x_1, x_2, x_3,..., x_n\} \) sorted in ascending [order](../o/order.md), the trimmed mean \( T_\[alpha](../a/alpha.md) \) at a trimming level \( \[alpha](../a/alpha.md) \) is given by:
 
 \[ T_\[alpha](../a/alpha.md) = \frac{1}{n - 2k} \sum_{i=k+1}^{n-k} x_i \]
 
@@ -40,13 +40,13 @@ To calculate the 20% trimmed mean:
 2. **Trim 20%** from both ends (n=10, k=2): Removing the two smallest (-0.20, -0.03) and the two largest values (0.25, 0.30).
 3. **Calculate the mean** of the remaining data: \[ \{ -0.02, -0.01, 0.00, 0.01, 0.05, 0.15 \} \]
 
-\[  \text{Trimmed Mean} = \frac{-0.02 - 0.01 + 0.00 + 0.01 + 0.05 + 0.15}{6} = \frac{0.18}{6} = 0.03 \]
+\[ \text{Trimmed Mean} = \frac{-0.02 - 0.01 + 0.00 + 0.01 + 0.05 + 0.15}{6} = \frac{0.18}{6} = 0.03 \]
 
 Thus, the 20% trimmed mean of the stock's daily returns is 0.03.
 
 ## Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the trimmed mean can be used to enhance the robustness of automated [trading strategies](../t/trading_strategies.md). Algorithms can use trimmed means to filter out [noise](../n/noise.md) in historical price data, improving the reliability of [trading signals](../t/trading_signals.md).
+In [algorithmic trading](../a/algorithmic_trading.md), the trimmed mean can be used to enhance the robustness of automated [trading strategies](../t/trading_strategies.md). Algorithms can use trimmed means to filter out [noise](../n/noise.md) in historical price data, improving the reliability of [trading signals](../t/trading_signals.md).
 
 ### Signal Generation
 

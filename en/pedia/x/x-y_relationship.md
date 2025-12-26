@@ -59,8 +59,8 @@ Identifying and quantifying the X-Y Relationship requires various statistical an
 Advanced [machine learning](../m/machine_learning.md) techniques like [neural networks](../n/neural_networks_in_trading.md), [random forests](../r/random_forests_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used to identify non-linear and complex relationships.
 
 #### Example Companies Using Machine Learning in Trading
-- **Kensho Technologies** (https://sandbox.kensho.com/): Utilizes advanced analytics and [machine learning](../m/machine_learning.md) to predict [market](../m/market.md) movements.
-- **Two Sigma** (https://www.twosigma.com/): Employs [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
+- **Kensho Technologies** ( Utilizes advanced analytics and [machine learning](../m/machine_learning.md) to predict [market](../m/market.md) movements.
+- **Two Sigma** ( Employs [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
 
 ## Quantitative Models and Algorithmic Trading
 

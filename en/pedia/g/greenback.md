@@ -1,6 +1,6 @@
 # Greenback
 
-The term "Greenback" originally referred to paper [currency](../c/currency.md) issued by the United States during the Civil War, which had a distinctive green back. However, in the context of modern [finance](../f/finance.md) and particularly within the realm of [algorithmic trading](../a/accountability.md), "Greenback" has evolved to commonly mean the US dollar (USD). [Algorithmic trading](../a/accountability.md), or "algotrading," is the use of computers to execute trades automatically. These trades are based on a set of predetermined criteria or algorithms. The role of the Greenback, or USD, is fundamental in both global [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md) systems.
+The term "Greenback" originally referred to paper [currency](../c/currency.md) issued by the United States during the Civil War, which had a distinctive green back. However, in the context of modern [finance](../f/finance.md) and particularly within the realm of [algorithmic trading](../a/algorithmic_trading.md), "Greenback" has evolved to commonly mean the US dollar (USD). [Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," is the use of computers to execute trades automatically. These trades are based on a set of predetermined criteria or algorithms. The role of the Greenback, or USD, is fundamental in both global [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Importance of the Greenback in Global Finance
 
@@ -14,13 +14,13 @@ The US dollar is widely used as a [medium of exchange](../m/medium_of_exchange.m
 
 ### Financial Instruments
 
-Numerous financial instruments, including bonds, [stocks](../s/stock.md), and [derivatives](../d/derivatives.md), are denominated in USD. Because the US dollar is so pivotal, it is critical for [algorithmic trading](../a/accountability.md) systems to incorporate USD-based data and metrics to maintain accuracy in predictions and [efficiency](../e/efficiency.md) in trades.
+Numerous financial instruments, including bonds, [stocks](../s/stock.md), and [derivatives](../d/derivatives.md), are denominated in USD. Because the US dollar is so pivotal, it is critical for [algorithmic trading](../a/algorithmic_trading.md) systems to incorporate USD-based data and metrics to maintain accuracy in predictions and [efficiency](../e/efficiency.md) in trades.
 
 ## Role of Greenback in Algorithmic Trading Systems
 
 ### Data Feeds and Market Indicators
 
-In [algorithmic trading](../a/accountability.md), the quality and reliability of data feeds are paramount. The USD plays a significant role in the data feeds that traders use to develop and refine their algorithms. Indicators like the USD [Index](../i/index_instrument.md) (DXY), which measures the [value](../v/value.md) of the USD against a basket of other significant currencies, are commonly used in [trading algorithms](../t/trading_algorithms.md) to gauge [market sentiment](../m/market_sentiment.md) and make forecasts.
+In [algorithmic trading](../a/algorithmic_trading.md), the quality and reliability of data feeds are paramount. The USD plays a significant role in the data feeds that traders use to develop and refine their algorithms. Indicators like the USD [Index](../i/index_instrument.md) (DXY), which measures the [value](../v/value.md) of the USD against a basket of other significant currencies, are commonly used in [trading algorithms](../t/trading_algorithms.md) to gauge [market sentiment](../m/market_sentiment.md) and make forecasts.
 
 ### Forex Trading
 
@@ -28,21 +28,21 @@ In [algorithmic trading](../a/accountability.md), the quality and reliability of
 
 ### Market Sentiment Analysis
 
-[Algorithmic trading](../a/accountability.md) systems often employ [sentiment analysis](../s/sentiment_analysis.md) to gauge the mood of the [market](../m/market.md). The sentiment surrounding the USD can be a critical [factor](../f/factor.md) in these systems. [Social media](../s/social_media.md) feeds, news headlines, and macroeconomic reports related to the Greenback are parsed and analyzed to predict future movements in the [currency](../c/currency.md)'s [value](../v/value.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems often employ [sentiment analysis](../s/sentiment_analysis.md) to gauge the mood of the [market](../m/market.md). The sentiment surrounding the USD can be a critical [factor](../f/factor.md) in these systems. [Social media](../s/social_media.md) feeds, news headlines, and macroeconomic reports related to the Greenback are parsed and analyzed to predict future movements in the [currency](../c/currency.md)'s [value](../v/value.md).
 
 ## Influential Companies in Greenback-focused Algorithmic Trading
 
 ### Citadel LLC
 
-[Citadel LLC](https://www.citadel.com) is a multinational [hedge fund](../h/hedge_fund.md) and financial services company. They are known for their advanced [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that often involve USD-based securities. Citadel employs quantitative analysts and data scientists to develop complex models that anticipate [market](../m/market.md) movements, including those of the USD.
+Citadel LLC is a multinational [hedge fund](../h/hedge_fund.md) and financial services company. They are known for their advanced [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that often involve USD-based securities. Citadel employs quantitative analysts and data scientists to develop complex models that anticipate [market](../m/market.md) movements, including those of the USD.
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com) is another significant player in the field of [algorithmic trading](../a/accountability.md). Known for their Medallion [Fund](../f/fund.md), the company utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) a variety of assets, including those denominated in USD. Renaissance Technologies heavily relies on data-driven strategies to maximize returns.
+Renaissance Technologies is another significant player in the field of [algorithmic trading](../a/algorithmic_trading.md). Known for their Medallion [Fund](../f/fund.md), the company utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) a variety of assets, including those denominated in USD. Renaissance Technologies heavily relies on data-driven strategies to maximize returns.
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com) focuses on applying technology and [data science](../d/data_science_in_trading.md) to trading. Their strategies often involve the USD, given its central role in global [finance](../f/finance.md). Two Sigma employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced statistical methods to develop their [trading algorithms](../t/trading_algorithms.md).
+Two Sigma Investments focuses on applying technology and [data science](../d/data_science_in_trading.md) to trading. Their strategies often involve the USD, given its central role in global [finance](../f/finance.md). Two Sigma employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced statistical methods to develop their [trading algorithms](../t/trading_algorithms.md).
 
 ### Other Noteworthy Firms
 
@@ -70,11 +70,11 @@ Events such as elections, [trade](../t/trade.md) agreements, or geopolitical con
 
 ### Risk Management
 
-Effective [risk management](../r/risk_management.md) practices are crucial in Greenback-focused [algorithmic trading](../a/accountability.md). Traders develop strategies that limit exposure to adverse movements in the USD. This often involves setting [stop-loss orders](../s/stop-loss_orders.md), diversifying portfolios, and using hedging instruments like [options](../o/options.md) and [futures](../f/futures.md) to mitigate [risk](../r/risk.md).
+Effective [risk management](../r/risk_management.md) practices are crucial in Greenback-focused [algorithmic trading](../a/algorithmic_trading.md). Traders develop strategies that limit exposure to adverse movements in the USD. This often involves setting [stop-loss orders](../s/stop-loss_orders.md), diversifying portfolios, and using hedging instruments like [options](../o/options.md) and [futures](../f/futures.md) to mitigate [risk](../r/risk.md).
 
 ## Conclusion
 
-The Greenback, or US dollar, is a cornerstone of global [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). Its status as the world’s leading [reserve currency](../r/reserve_currency.md) and a critical medium of international [trade](../t/trade.md) underscores its significance. Companies like Citadel, Renaissance Technologies, and Two Sigma Investments have successfully built sophisticated algorithms that [leverage](../l/leverage.md) the role of the USD in global markets.
+The Greenback, or US dollar, is a cornerstone of global [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md). Its status as the world’s leading [reserve currency](../r/reserve_currency.md) and a critical medium of international [trade](../t/trade.md) underscores its significance. Companies like Citadel, Renaissance Technologies, and Two Sigma Investments have successfully built sophisticated algorithms that [leverage](../l/leverage.md) the role of the USD in global markets.
 
 Effective [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) must account for a wide [range](../r/range.md) of factors influencing the [value](../v/value.md) of the Greenback. These include [economic indicators](../e/economic_indicators.md) like GDP and [inflation](../i/inflation.md) rates, Federal Reserve [interest rate](../i/interest_rate.md) decisions, geopolitical events, and [market](../m/market.md) [liquidity](../l/liquidity.md). [Risk management](../r/risk_management.md) is also essential to ensure that [trading algorithms](../t/trading_algorithms.md) can effectively navigate the [volatility](../v/volatility.md) and risks associated with USD-based trading.
 

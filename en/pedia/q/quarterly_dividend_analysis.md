@@ -1,6 +1,6 @@
 # Quarterly Dividend Analysis
 
-Quarterly [dividend](../d/dividend.md) analysis involves evaluating the dividends that a company pays out to its shareholders regularly, typically every three months. This examination is especially pertinent for [income](../i/income.md)-focused investors who are attracted to [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) for their potential to provide a steady stream of [income](../i/income.md). 
+Quarterly [dividend](../d/dividend.md) analysis involves evaluating the dividends that a company pays out to its shareholders regularly, typically every three months. This examination is especially pertinent for [income](../i/income.md)-focused investors who are attracted to [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) for their potential to provide a steady stream of [income](../i/income.md).
 
 ## Understanding Dividends
 Dividends are a portion of a company's [earnings](../e/earnings.md) distributed to shareholders. They are usually paid in cash but can also be issued as additional [shares](../s/shares.md) of stock. The decision to pay dividends is made by the company's board of directors and is influenced by factors such as profitability, [cash flow](../c/cash_flow.md), and broader [economic conditions](../e/economic_conditions.md).
@@ -33,9 +33,6 @@ Analyzing a company’s [financial statements](../f/financial_statements.md), in
 ### Dividend Aristocrats
 "[Dividend](../d/dividend.md) Aristocrats" are companies that have consistently increased their dividends for at least 25 consecutive years. These companies are often seen as reliable [dividend](../d/dividend.md) payers, making them attractive for [income](../i/income.md)-focused investors. Notable examples include:
 
-- **The Coca-Cola Company (KO)**: [Coca-Cola Company Investor Relations](https://investors.coca-colacompany.com)
-- **Procter & Gamble Co. (PG)**: [Procter & Gamble Investor Relations](https://www.pginvestor.com)
-- **3M Company (MMM)**: [3M Investor Relations](https://investors.3m.com)
 
 ### Online Tools and Platforms
 Several online platforms and tools can facilitate quarterly [dividend](../d/dividend.md) analysis, providing detailed data and insights for investors:

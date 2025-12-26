@@ -20,11 +20,11 @@ Cardholders earn cash back on eligible purchases, which accumulates over a billi
 ### Example Programs
 
 - **Chase Freedom Unlimited:** Offers 1.5% cash back on all purchases.
-  - [Chase Freedom Unlimited](https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited)
+ - Chase Freedom Unlimited
 - **Citi Double Cash Card:** Provides 2% cash back on every purchase – 1% when you buy plus 1% as you pay.
-  - [Citi Double Cash Card](https://www.citi.com/credit-cards/citi-double-cash-credit-card)
+ - Citi Double Cash Card
 - **Discover it Cash Back:** Earn 5% cash back on rotating quarterly categories and 1% on all other purchases.
-  - [Discover it Cash Back](https://www.discover.com/credit-cards/cash-back/)
+ - Discover it Cash Back
 
 ## E-Commerce and Retail Cash Back
 
@@ -35,11 +35,11 @@ Several online platforms and tools allow consumers to earn cash back when they s
 ### Popular Platforms
 
 - **Rakuten:** Provides cash back to shoppers who use the platform's links to complete purchases at partner stores.
-  - [Rakuten](https://www.rakuten.com/)
+ - Rakuten
 - **Honey:** Offers a browser extension that applies the best coupons and also provides cash back opportunities.
-  - [Honey](https://www.joinhoney.com/)
+ - Honey
 - **RetailMeNot:** Another popular portal that aggregates deals and cash back offers from various online retailers.
-  - [RetailMeNot](https://www.retailmenot.com/)
+ - RetailMeNot
 
 ### In-Store Cash Back
 
@@ -57,9 +57,9 @@ Some investment and trading platforms [offer](../o/offer.md) cash back incentive
 ### Examples
 
 - **[Robinhood](../r/robinhood.md):** Occasionally offers cash back promotions for new accounts and certain [deposit](../d/deposit.md) thresholds.
-  - [Robinhood](https://robinhood.com/)
+ - Robinhood
 - **[eToro](../e/etoro.md):** Offers cash back on specific trading volumes or promotional trading activities.
-  - [eToro](https://www.etoro.com/)
+ - eToro
 
 ## Benefits of Cash Back Programs
 
@@ -101,8 +101,9 @@ Advancements in technology have allowed for smoother integration of cash back pr
 
 ### Cryptocurrencies and Cash Back
 
-The advent of cryptocurrencies has also seen innovation in the cash back sector. Some financial platforms now [offer](../o/offer.md) cash back rewards in the form of cryptocurrencies rather than traditional cash. For instance, the BlockFi [credit card](../c/credit_card.md) offers [Bitcoin](../b/bitcoin.md) rewards on everyday purchases.
-   - [BlockFi](https://blockfi.com/bitcoin-rewards-credit-card)
+The advent of cryptocurrencies has also seen innovation in the cash back sector. Some financial platforms offer cash back rewards in the form of cryptocurrencies rather than traditional cash. Examples include cards that reward purchases with [Bitcoin](../b/bitcoin.md) or other cryptocurrencies.
+
+**Note:** BlockFi, which previously offered a popular Bitcoin rewards credit card, filed for bankruptcy in November 2022 following the collapse of FTX. Other crypto rewards cards are now offered by platforms like Coinbase and Gemini.
 
 ## Conclusion
 

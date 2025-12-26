@@ -5,7 +5,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), participants
 ## Understanding Unhedged Positions
 
 ### Definition
-An unhedged position is one that does not have any form of counterbalance or protection against [market](../m/market.md) fluctuations. In simpler terms, it's a [trade](../t/trade.md) or investment that is fully exposed to the [open market](../o/open_market.md) without any form of [risk](../r/risk.md) mitigation strategy in place. For example, if a [trader](../t/trader.md) buys a stock without placing any [stop-loss order](../s/stop-loss_order.md) or purchasing a [put option](../p/put.md), this position is unhedged. 
+An unhedged position is one that does not have any form of counterbalance or protection against [market](../m/market.md) fluctuations. In simpler terms, it's a [trade](../t/trade.md) or investment that is fully exposed to the [open market](../o/open_market.md) without any form of [risk](../r/risk.md) mitigation strategy in place. For example, if a [trader](../t/trader.md) buys a stock without placing any [stop-loss order](../s/stop-loss_order.md) or purchasing a [put option](../p/put.md), this position is unhedged.
 
 ### Key Characteristics
 1. **Exposure to [Market Risk](../m/market_risk.md):** Unhedged positions are completely vulnerable to [market](../m/market.md) conditions. Any adverse movement in price can result in significant losses.
@@ -60,21 +60,20 @@ Regulatory bodies, such as the SEC in the United States or ESMA in Europe, often
 ### Trading Platforms
 Several trading platforms [offer](../o/offer.md) tools and features that assist in managing unhedged positions:
 
-1. **MetaTrader 5 (MT5):** Known for its advanced charting tools and trading automation capabilities, MT5 allows traders to implement custom algorithms and [risk management](../r/risk_management.md) strategies. [MetaTrader](https://www.metatrader5.com)
+1. **MetaTrader 5 (MT5):** Known for its advanced charting tools and trading automation capabilities, MT5 allows traders to implement custom algorithms and [risk management](../r/risk_management.md) strategies. MetaTrader
 
-2. **[Interactive Brokers](../i/interactive_brokers.md):** This platform provides a [range](../r/range.md) of [risk management](../r/risk_management.md) tools, including [options](../o/options.md) for creating hedged strategies, even if the primary position is unhedged. [Interactive Brokers](https://www.interactivebrokers.com)
+2. **[Interactive Brokers](../i/interactive_brokers.md):** This platform provides a [range](../r/range.md) of [risk management](../r/risk_management.md) tools, including [options](../o/options.md) for creating hedged strategies, even if the primary position is unhedged. Interactive Brokers
 
-3. **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading while allowing customization to manage unhedged positions. [QuantConnect](https://www.quantconnect.com)
+3. **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading while allowing customization to manage unhedged positions. QuantConnect
 
 ### Risk Management Tools
 Several companies specialize in [offering](../o/offering.md) [risk management](../r/risk_management.md) solutions to mitigate the exposure of unhedged positions:
 
-1. **Numerix:** Provides advanced analytics for [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing, helping traders understand and manage their unhedged positions. [Numerix](https://www.numerix.com)
+1. **Numerix:** Provides advanced analytics for [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing, helping traders understand and manage their unhedged positions. Numerix
 
-2. **RiskMetrics:** Known for its [risk](../r/risk.md) assessment tools, RiskMetrics helps traders and financial institutions evaluate the potential impact of unhedged positions. [RiskMetrics](https://www.msci.com/riskmetrics)
+2. **RiskMetrics:** Known for its [risk](../r/risk.md) assessment tools, RiskMetrics helps traders and financial institutions evaluate the potential impact of unhedged positions. RiskMetrics
 
-3. **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive [risk management](../r/risk_management.md) tools, analytics, and real-time data to help traders manage their unhedged positions effectively. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+3. **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive [risk management](../r/risk_management.md) tools, analytics, and real-time data to help traders manage their unhedged positions effectively. Bloomberg Terminal
 
 ## Conclusion
 Unhedged positions in [algorithmic trading](../a/algorithmic_trading.md) present a significant [risk](../r/risk.md)-reward scenario, demanding a thorough understanding and effective [risk management](../r/risk_management.md) strategies. Through the use of advanced tools, simulations, and regulatory guidelines, traders can navigate the complexities of unhedged positions, aiming to maximize returns while mitigating potential losses. As the field of [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the approach to managing unhedged positions [will](../w/will.md) likely become more sophisticated, integrating cutting-edge technologies and financial insights.
-

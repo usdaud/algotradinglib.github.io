@@ -83,8 +83,8 @@ Anomalies play a pivotal role in the world of [algorithmic trading](../a/account
 
 Interested traders and institutions can explore more about [anomaly detection](../a/anomaly_detection.md) and [algorithmic trading](../a/accountability.md) services through various specialized firms like:
 
-- [Jane Street](https://www.janestreet.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Renaissance Technologies](https://www.rentech.com/)
+- Jane Street
+- Two Sigma
+- Renaissance Technologies
 
 These firms are at the forefront of research and application in exploiting financial [market anomalies](../m/market_anomalies.md) using cutting-edge technology and quantitative methods.

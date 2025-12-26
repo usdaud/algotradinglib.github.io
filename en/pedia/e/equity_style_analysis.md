@@ -4,7 +4,7 @@
 
 ## Style Box
 
-A fundamental component of [Equity](../e/equity.md) Style Analysis is the "style box," a nine-square grid that maps investment styles. The style box, pioneered by [Morningstar](../m/morningstar.md), visually represents a portfolio's exposure to different [market](../m/market.md) segments. The vertical axis measures [market capitalization](../m/market_capitalization.md) (large, mid, small), while the horizontal axis measures investment style ([value](../v/value.md), blend, growth). 
+A fundamental component of [Equity](../e/equity.md) Style Analysis is the "style box," a nine-square grid that maps investment styles. The style box, pioneered by [Morningstar](../m/morningstar.md), visually represents a portfolio's exposure to different [market](../m/market.md) segments. The vertical axis measures [market capitalization](../m/market_capitalization.md) (large, mid, small), while the horizontal axis measures investment style ([value](../v/value.md), blend, growth).
 
 ### Market Capitalization
 
@@ -60,19 +60,19 @@ Various tools and platforms facilitate [Equity](../e/equity.md) Style Analysis, 
 
 ### Morningstar Direct
 
-[Morningstar Direct](https://www.morningstar.com/products/direct) is a comprehensive [investment analysis](../i/investment_analysis.md) platform providing detailed style analysis, [performance metrics](../p/performance_metrics.md), and [fund](../f/fund.md) ratings.
+Morningstar Direct is a comprehensive [investment analysis](../i/investment_analysis.md) platform providing detailed style analysis, [performance metrics](../p/performance_metrics.md), and [fund](../f/fund.md) ratings.
 
 ### FactSet
 
-[FactSet](https://www.factset.com) offers powerful analytical tools for portfolio style analysis, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md), helping investors make data-driven decisions.
+FactSet offers powerful analytical tools for portfolio style analysis, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md), helping investors make data-driven decisions.
 
 ### MSCI Barra
 
-[MSCI Barra](https://www.msci.com) provides sophisticated [risk](../r/risk.md) and style analysis tools, enabling investors to understand and optimize their portfolio exposures to different [market](../m/market.md) segments.
+MSCI Barra provides sophisticated [risk](../r/risk.md) and style analysis tools, enabling investors to understand and optimize their portfolio exposures to different [market](../m/market.md) segments.
 
 ### Bloomberg Terminal
 
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers access to advanced analytics, style attribution, and [market](../m/market.md) insights, supporting informed investment decisions.
+Bloomberg Terminal offers access to advanced analytics, style attribution, and [market](../m/market.md) insights, supporting informed investment decisions.
 
 ## Challenges and Limitations of Equity Style Analysis
 

@@ -86,9 +86,9 @@ Tax considerations play a significant role in IPS investment decisions. Investor
 
 ### 1. TIPS Mutual Funds and ETFs
 For investors seeking diversified exposure to TIPS, mutual funds and ETFs that invest in a portfolio of TIPS [offer](../o/offer.md) a practical solution. These funds can provide [liquidity](../l/liquidity.md), professional management, and cost-[efficiency](../e/efficiency.md). Examples of such funds include the [iShares](../i/ishares.md) TIPS [Bond ETF](../b/bond_etf.md) (TIP) and the Vanguard [Inflation](../i/inflation.md)-Protected Securities [Fund](../f/fund.md) (VIPSX).
-  
-- [iShares TIPS Bond ETF (TIP)](https://www.ishares.com/us/products/239467/ishares-tips-bond-etf)
-- [Vanguard Inflation-Protected Securities Fund (VIPSX)](https://investor.vanguard.com/mutual-funds/profile/VIPSX)
+
+- iShares TIPS Bond ETF (TIP)
+- Vanguard Inflation-Protected Securities Fund (VIPSX)
 
 ### 2. Case Study: TIPS Performance During the 2008 Financial Crisis
 During the 2008 [financial crisis](../f/financial_crisis.md), TIPS initially suffered from [liquidity](../l/liquidity.md) issues and declining prices. However, as the U.S. government implemented monetary policies to combat [deflation](../d/deflation.md) and stimulate the [economy](../e/economy.md), TIPS rebounded strongly, showcasing their resilience and [inflation](../i/inflation.md)-protection properties.

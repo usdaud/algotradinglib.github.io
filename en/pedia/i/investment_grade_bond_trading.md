@@ -8,9 +8,9 @@
 
 ### Credit Rating Agencies
 
-1. **Moody's**: [Website](https://www.moodys.com)
-2. **Standard & Poor's**: [Website](https://www.spglobal.com)
-3. **[Fitch Ratings](../f/fitch_ratings.md)**: [Website](https://www.fitchratings.com)
+1. **Moody's**
+2. **Standard & Poor's**
+3. **[Fitch Ratings](../f/fitch_ratings.md)**
 
 ## Characteristics of Investment Grade Bonds
 
@@ -84,13 +84,13 @@ High-frequency trading is a specific subset of [algorithmic trading](../a/algori
 
 ## Regulatory Aspects
 
-Given their substantial role in the [financial markets](../f/financial_market.md), investment-grade bonds are subject to rigorous regulation. 
+Given their substantial role in the [financial markets](../f/financial_market.md), investment-grade bonds are subject to rigorous regulation.
 
 ### Key Regulatory Bodies
 
-1. **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)** for the United States: [Website](https://www.sec.gov)
-2. **Financial Conduct Authority (FCA)** for the United Kingdom: [Website](https://www.fca.org.uk)
-3. **European Securities and Markets Authority (ESMA)** for the [European Union](../e/european_union_(eu).md): [Website](https://www.esma.europa.eu)
+1. **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)** for the United States
+2. **Financial Conduct Authority (FCA)** for the United Kingdom
+3. **European Securities and Markets Authority (ESMA)** for the [European Union](../e/european_union_(eu).md)
 
 ### Regulations
 
@@ -114,9 +114,9 @@ OTC trading involves direct transactions between parties, typically facilitated 
 
 Numerous electronic platforms cater to the [bond](../b/bond.md) trading community. Some well-known ones include:
 
-1. **Tradeweb**: [Website](https://www.tradeweb.com)
-2. **[MarketAxess](../m/marketaxess.md)**: [Website](https://www.marketaxess.com)
-3. **[Bloomberg](../b/bloomberg.md) Terminal**: [Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **Tradeweb**
+2. **[MarketAxess](../m/marketaxess.md)**
+3. **[Bloomberg](../b/bloomberg.md) Terminal**
 
 ## Trading Strategies for Investment Grade Bonds
 

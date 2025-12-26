@@ -38,9 +38,9 @@ Understanding the [liquidity](../l/liquidity.md) of the assets in your portfolio
 
 ### Leveraging Technological Solutions
 
-Advancements in trading technology, such as [algorithmic trading](../a/accountability.md) and high-frequency trading (HFT), can help manage locked-in trades more effectively. These technologies can execute trades at optimal times, taking advantage of [market](../m/market.md) inefficiencies and minimizing the [risk](../r/risk.md) of being locked into a position.
+Advancements in trading technology, such as [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading (HFT), can help manage locked-in trades more effectively. These technologies can execute trades at optimal times, taking advantage of [market](../m/market.md) inefficiencies and minimizing the [risk](../r/risk.md) of being locked into a position.
 
-- Prominent firms like [Jane Street](https://www.janestreet.com) and [Renaissance Technologies](https://www.rentec.com) are known for their expertise in leveraging technology for trading. Their sophisticated systems help minimize risks and improve [execution](../e/execution.md) [efficiency](../e/efficiency.md), [offering](../o/offering.md) valuable insights for managing locked-in trades.
+- Prominent firms like Jane Street and Renaissance Technologies are known for their expertise in leveraging technology for trading. Their sophisticated systems help minimize risks and improve [execution](../e/execution.md) [efficiency](../e/efficiency.md), [offering](../o/offering.md) valuable insights for managing locked-in trades.
 
 ### Communication with Brokers
 

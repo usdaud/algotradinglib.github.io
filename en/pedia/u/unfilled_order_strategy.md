@@ -51,11 +51,10 @@ Strategically placing and managing [unfilled orders](../u/unfilled_orders.md) al
 
 ## Real-World Applications and Case Studies
 ### Institutional Traders
-Institutional traders often use sophisticated algorithms to manage large volumes of orders, minimizing the impact on the [market](../m/market.md) and optimizing [execution](../e/execution.md). For instance, [Goldman Sachs](https://www.goldmansachs.com) employs advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [handle](../h/handle.md) their trading activities, including managing their [unfilled orders](../u/unfilled_orders.md) to maintain [market](../m/market.md) neutrality.
+Institutional traders often use sophisticated algorithms to manage large volumes of orders, minimizing the impact on the [market](../m/market.md) and optimizing [execution](../e/execution.md). For instance, Goldman Sachs employs advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [handle](../h/handle.md) their trading activities, including managing their [unfilled orders](../u/unfilled_orders.md) to maintain [market](../m/market.md) neutrality.
 
 ### Retail Traders
-Retail traders can also benefit from unfilled [order](../o/order.md) strategies by using trading platforms that [offer](../o/offer.md) advanced [order management](../o/order_management_in_trading.md) tools. Platforms like [Interactive Brokers](https://www.interactivebrokers.com) provide functionalities for monitoring and adjusting [unfilled orders](../u/unfilled_orders.md) in real-time, catering to both novice and experienced traders.
+Retail traders can also benefit from unfilled [order](../o/order.md) strategies by using trading platforms that [offer](../o/offer.md) advanced [order management](../o/order_management_in_trading.md) tools. Platforms like Interactive Brokers provide functionalities for monitoring and adjusting [unfilled orders](../u/unfilled_orders.md) in real-time, catering to both novice and experienced traders.
 
 ## Conclusion
 The Unfilled [Order](../o/order.md) Strategy is a nuanced approach in the realm of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) both challenges and opportunities. By leveraging technology, [data analytics](../d/data_analytics.md), and sophisticated algorithms, traders can turn [unfilled orders](../u/unfilled_orders.md) into valuable insights and profitable opportunities. With continuous advancements in trading technology and increasing data availability, the future holds promising potential for further refinement and success in unfilled [order](../o/order.md) strategies.
-

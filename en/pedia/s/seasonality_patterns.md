@@ -12,22 +12,22 @@
 ### Types of Seasonality Patterns
 
 1. **Calendar Effects**
-   - **[January Effect](../j/january_effect.md)**: The tendency for stock prices, particularly small-cap [stocks](../s/stock.md), to rise during January.
-   - **[Sell in May and Go Away](../s/sell_in_may_and_go_away.md)**: Based on the idea that [stocks](../s/stock.md) perform better between November and April than they do between May and October.
-   - **Halloween [Indicator](../i/indicator.md)**: Similar to "[Sell in May and Go Away](../s/sell_in_may_and_go_away.md)," suggesting that the period between October 31 and May 1 is a better time to own [stocks](../s/stock.md).
+ - **[January Effect](../j/january_effect.md)**: The tendency for stock prices, particularly small-cap [stocks](../s/stock.md), to rise during January.
+ - **[Sell in May and Go Away](../s/sell_in_may_and_go_away.md)**: Based on the idea that [stocks](../s/stock.md) perform better between November and April than they do between May and October.
+ - **Halloween [Indicator](../i/indicator.md)**: Similar to "[Sell in May and Go Away](../s/sell_in_may_and_go_away.md)," suggesting that the period between October 31 and May 1 is a better time to own [stocks](../s/stock.md).
 
 2. **Monthly Patterns**
-   - **End-of-Month Effect**: [Stocks](../s/stock.md) often show better performance towards the end of the month.
-   - **Turn-of-the-Month Effect**: The first few days of a new month can demonstrate better returns.
+ - **End-of-Month Effect**: [Stocks](../s/stock.md) often show better performance towards the end of the month.
+ - **Turn-of-the-Month Effect**: The first few days of a new month can demonstrate better returns.
 
 3. **Weekly Patterns**
-   - **Monday Effect**: The tendency for stock prices to experience lower returns on Mondays.
-   - **Friday Effect**: The tendency for stock prices to close higher on Fridays, potentially due to optimism heading into the weekend.
+ - **Monday Effect**: The tendency for stock prices to experience lower returns on Mondays.
+ - **Friday Effect**: The tendency for stock prices to close higher on Fridays, potentially due to optimism heading into the weekend.
 
 4. **Intraday Patterns**
-   - **[Open](../o/open.md) Auction Effect**: Stock prices may rise or fall dramatically during [market](../m/market.md) [open](../o/open.md) hours.
-   - **Lunchtime Lull**: Midday trading tends to slow down, leading to lower [volatility](../v/volatility.md).
-   - **Closing Auction Effect**: The last hour of trading can be highly volatile as traders position themselves for the close.
+ - **[Open](../o/open.md) Auction Effect**: Stock prices may rise or fall dramatically during [market](../m/market.md) [open](../o/open.md) hours.
+ - **Lunchtime Lull**: Midday trading tends to slow down, leading to lower [volatility](../v/volatility.md).
+ - **Closing Auction Effect**: The last hour of trading can be highly volatile as traders position themselves for the close.
 
 ### Case Studies
 
@@ -54,8 +54,8 @@ A working paper by Bouman and Jacobsen (2002) found evidence supporting this ada
 
 Several tools and platforms can help traders implement [seasonality](../s/seasonality.md)-based strategies:
 - **Python Libraries**: Libraries like `Pandas`, `NumPy`, and `statsmodels` can be used for statistical analysis and [backtesting](../b/backtesting.md).
-- **[QuantConnect](../q/quantconnect.md)**: A platform that provides data, [backtesting](../b/backtesting.md), and deployment tools for [algorithmic trading](../a/algorithmic_trading.md). [QuantConnect](https://www.quantconnect.com)
-- **[TradingView](../t/tradingview.md)**: A social network for traders and investors on Stock, [Futures](../f/futures.md), and Forex markets which provides trading charts support and script-based automation. [TradingView](https://www.tradingview.com)
+- **[QuantConnect](../q/quantconnect.md)**: A platform that provides data, [backtesting](../b/backtesting.md), and deployment tools for [algorithmic trading](../a/algorithmic_trading.md). QuantConnect
+- **[TradingView](../t/tradingview.md)**: A social network for traders and investors on Stock, [Futures](../f/futures.md), and Forex markets which provides trading charts support and script-based automation. TradingView
 
 ### Challenges and Limitations
 
@@ -68,4 +68,4 @@ Several tools and platforms can help traders implement [seasonality](../s/season
 
 [Seasonality](../s/seasonality.md) patterns [offer](../o/offer.md) valuable insights that can be leveraged to enhance the profitability of [algorithmic trading](../a/algorithmic_trading.md) strategies. From the [January Effect](../j/january_effect.md) to intraday seasonal trends, understanding and exploiting these patterns can provide a competitive edge. However, it is essential to approach the implementation of [seasonality](../s/seasonality.md) in [algorithmic trading](../a/algorithmic_trading.md) with rigorous statistical analysis and [robust](../r/robust.md) [backtesting](../b/backtesting.md) to ensure that the strategies are both effective and reliable.
 
-For further reading on empirical research and methodologies in [seasonality](../s/seasonality.md), traders can refer to resources from universities and financial research institutions. Engaging with platforms like [QuantConnect](../q/quantconnect.md) and [TradingView](../t/tradingview.md) also helps to stay updated with [real-time market data](../r/real-time_market_data.md) and [backtesting](../b/backtesting.md) environments.
+For further reading on empirical research and methodologies in [seasonality](../s/seasonality.md), traders can refer to resources from universities and financial research institutions. Engaging with platforms like [StockSharp](../s/stocksharp.md) and [TradingView](../t/tradingview.md) also helps to stay updated with [real-time market data](../r/real-time_market_data.md) and [backtesting](../b/backtesting.md) environments.

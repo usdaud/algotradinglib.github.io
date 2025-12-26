@@ -50,20 +50,20 @@ In some [business models](../b/business_models.md), companies segregate operatio
 ## Beispiel Companies
 
 1. **Amazon.com, Inc.**
-   - Amazon is a quintessential example of an Opco engaged in diverse businesses ranging from e-[commerce](../c/commerce.md) to [cloud computing](../c/cloud_computing_in_trading.md) through Amazon Web Services (AWS). 
-   - [Amazon](https://www.amazon.com/)
+ - Amazon is a quintessential example of an Opco engaged in diverse businesses ranging from e-[commerce](../c/commerce.md) to [cloud computing](../c/cloud_computing_in_trading.md) through Amazon Web Services (AWS).
+ - Amazon
 
 2. **Starbucks [Corporation](../c/corporation.md)**
-   - Starbucks operates as an Opco in the food and beverage [industry](../i/industry.md), managing a global chain of coffeehouses and retail stores.
-   - [Starbucks](https://www.starbucks.com/)
+ - Starbucks operates as an Opco in the food and beverage [industry](../i/industry.md), managing a global chain of coffeehouses and retail stores.
+ - Starbucks
 
 3. **Tesla, Inc.**
-   - Tesla combines automotive [manufacturing](../m/manufacturing.md) with energy solutions, focusing intensely on innovation and technology.
-   - [Tesla](https://www.tesla.com/)
+ - Tesla combines automotive [manufacturing](../m/manufacturing.md) with energy solutions, focusing intensely on innovation and technology.
+ - Tesla
 
 4. **Apple Inc.**
-   - Apple operates by producing consumer electronics, software, and services.
-   - [Apple](https://www.apple.com/)
+ - Apple operates by producing consumer electronics, software, and services.
+ - Apple
 
 ## Conclusion
 

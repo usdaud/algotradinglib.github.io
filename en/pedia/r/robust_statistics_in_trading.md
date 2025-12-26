@@ -47,7 +47,7 @@ Traditional [Mean-Variance Optimization](../m/mean-variance_optimization.md) (MV
 Integrating [robust](../r/robust.md) [statistics](../s/statistics.md) with [machine learning](../m/machine_learning.md) models enhances their performance by providing resilience against noisy and non-stationary data. [Robust](../r/robust.md) versions of common machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as [robust](../r/robust.md) [regression trees](../r/regression_trees_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs), [offer](../o/offer.md) improved predictive capability in [financial markets](../f/financial_market.md).
 
 ### Real-World Example: Fund Management
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) such as Renaissance Technologies have successfully integrated [robust](../r/robust.md) statistical methods into their [trading systems](../t/trading_systems.md). These methods' ability to deal with real-world data anomalies significantly contributes to their exemplary performance. More information on their approach can be found on their official website: [Renaissance Technologies](https://www.rentec.com/).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) such as Renaissance Technologies have successfully integrated [robust](../r/robust.md) statistical methods into their [trading systems](../t/trading_systems.md). These methods' ability to deal with real-world data anomalies significantly contributes to their exemplary performance.
 
 ## Software and Tools
 

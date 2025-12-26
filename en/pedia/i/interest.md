@@ -10,15 +10,15 @@
 
 ## Types of Interest
 1. **[Simple Interest](../s/simple_interest.md)**: Calculated only on the [principal](../p/principal.md) amount of a [loan](../l/loan.md) or investment.
-   - **Formula**: [Simple Interest](../s/simple_interest.md) = [Principal](../p/principal.md) × [Interest Rate](../i/interest_rate.md) × Time
-   - **Example**: A $1,000 [loan](../l/loan.md) at a 5% annual [interest rate](../i/interest_rate.md) for 3 years would [accrue](../a/accrue.md) $150 in interest.
+ - **Formula**: [Simple Interest](../s/simple_interest.md) = [Principal](../p/principal.md) × [Interest Rate](../i/interest_rate.md) × Time
+ - **Example**: A $1,000 [loan](../l/loan.md) at a 5% annual [interest rate](../i/interest_rate.md) for 3 years would [accrue](../a/accrue.md) $150 in interest.
 2. **[Compound Interest](../c/compound_interest_in_trading.md)**: Calculated on the [principal](../p/principal.md) amount and also on any accumulated interest from previous periods.
-   - **Formula**: [Compound Interest](../c/compound_interest_in_trading.md) = [Principal](../p/principal.md) × (1 + [Interest Rate](../i/interest_rate.md)/n)^(n×Time) - [Principal](../p/principal.md)
-   - **Example**: A $1,000 investment at a 5% annual [interest rate](../i/interest_rate.md), compounded annually for 3 years, would grow to $1,157.63.
+ - **Formula**: [Compound Interest](../c/compound_interest_in_trading.md) = [Principal](../p/principal.md) × (1 + [Interest Rate](../i/interest_rate.md)/n)^(n×Time) - [Principal](../p/principal.md)
+ - **Example**: A $1,000 investment at a 5% annual [interest rate](../i/interest_rate.md), compounded annually for 3 years, would grow to $1,157.63.
 3. **Fixed Interest**: The [interest rate](../i/interest_rate.md) remains constant throughout the term of the [loan](../l/loan.md) or investment.
-   - **Example**: A [mortgage](../m/mortgage.md) with a [fixed interest rate](../f/fixed_interest_rate.md) of 4% for 30 years.
+ - **Example**: A [mortgage](../m/mortgage.md) with a [fixed interest rate](../f/fixed_interest_rate.md) of 4% for 30 years.
 4. **Variable Interest**: The [interest rate](../i/interest_rate.md) can change over time, based on [market](../m/market.md) conditions or an [index](../i/index_instrument.md).
-   - **Example**: A [credit card](../c/credit_card.md) with an [interest rate](../i/interest_rate.md) that fluctuates with the [prime rate](../p/prime_rate.md).
+ - **Example**: A [credit card](../c/credit_card.md) with an [interest rate](../i/interest_rate.md) that fluctuates with the [prime rate](../p/prime_rate.md).
 
 ## Importance
 1. **Cost of Borrowing**: Interest is a key [factor](../f/factor.md) in the total cost of borrowing [money](../m/money.md), impacting personal loans, mortgages, [credit](../c/credit.md) cards, and [business](../b/business.md) loans.
@@ -44,4 +44,3 @@
 
 ## Conclusion
 Interest is a fundamental concept in [finance](../f/finance.md) that affects borrowing, saving, and [investing](../i/investing.md). Understanding the different types of interest, how they are calculated, and their impact on financial decisions is crucial for effective financial management and planning. Whether dealing with loans, mortgages, or investments, being aware of interest implications can help individuals and businesses make informed choices and optimize their financial outcomes.
-

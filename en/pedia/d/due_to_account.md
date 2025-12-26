@@ -6,7 +6,7 @@ The term "Due to Account" occupies a crucial space in both traditional financial
 
 ### Definition
 
-A Due to Account is essentially a ledger entry that reflects [obligations](../o/obligation.md) a [firm](../f/firm.md) or individual needs to fulfill. It could [hold](../h/hold.md) entries of amounts owed to vendors, financial institutions, or even thirds parties like governments for [taxes](../t/taxes.md). Unlike Due from Accounts, which are assets representing amounts that are [receivable](../r/receivable.md), Due to Accounts reflect liabilities. 
+A Due to Account is essentially a ledger entry that reflects [obligations](../o/obligation.md) a [firm](../f/firm.md) or individual needs to fulfill. It could [hold](../h/hold.md) entries of amounts owed to vendors, financial institutions, or even thirds parties like governments for [taxes](../t/taxes.md). Unlike Due from Accounts, which are assets representing amounts that are [receivable](../r/receivable.md), Due to Accounts reflect liabilities.
 
 ### Key Features
 
@@ -75,17 +75,15 @@ MetaTrader is widely used by retail traders. It provides [robust](../r/robust.md
 - **Detailed Reporting:** Generate comprehensive reports [on account](../o/on_account.md) liabilities.
 - **Auto-[Reconciliation](../r/reconciliation.md):** Built-in features for reconciling trading activities.
 
-(Website: [MetaTrader](https://www.metatrader4.com))
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides tools for developing and deploying [trading strategies](../t/trading_strategies.md). Regarding Due to Accounts, it offers:
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides tools for developing and deploying [trading strategies](../t/trading_strategies.md). Regarding Due to Accounts, it offers:
 
 - **Automated [Accounting](../a/accounting.md):** Integration tools for reflecting liabilities in real-time.
 - **[Risk Management](../r/risk_management.md):** Features to continuously monitor the liabilities.
 - **Regulatory Tools:** Built-in functionalities to ensure compliance.
 
-(Website: [QuantConnect](https://www.quantconnect.com))
 
 ### AlgoTrader
 
@@ -95,7 +93,6 @@ AlgoTrader is a comprehensive [trading strategy](../t/trading_strategy.md) devel
 - **Advanced [Reconciliation](../r/reconciliation.md):** Sophisticated algorithms for accurate [reconciliation](../r/reconciliation.md) of Due to Accounts.
 - **Compliance Tools:** Functionality for generating regulatory-compliant reports.
 
-(Website: [AlgoTrader](https://www.algotrader.com))
 
 ## Challenges and Solutions
 
@@ -127,7 +124,7 @@ Financial regulations are continually evolving. Keeping Due to Accounts in line 
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can significantly enhance the management of Due to Accounts in algo trading. 
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can significantly enhance the management of Due to Accounts in algo trading.
 
 - **[Predictive Analytics](../p/predictive_analytics.md):** ML algorithms can predict [market](../m/market.md) movements and adjust liabilities accordingly.
 - **[Anomaly Detection](../a/anomaly_detection.md):** AI can identify unusual patterns in [trade](../t/trade.md) data, which could indicate discrepancies.

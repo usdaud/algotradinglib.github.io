@@ -16,7 +16,7 @@ By the 1980s, Krugerrands accounted for about 90% of the global gold coin [marke
 
 ### Sanctions and Decline
 
-During the 1980s, international sanctions against South Africa due to its Apartheid policies caused a decline in the availability and acceptance of Krugerrands. Many Western countries, including the United States, banned the importation of Krugerrands. 
+During the 1980s, international sanctions against South Africa due to its Apartheid policies caused a decline in the availability and acceptance of Krugerrands. Many Western countries, including the United States, banned the importation of Krugerrands.
 
 ### Resurgence
 
@@ -88,11 +88,11 @@ Tax policies on Krugerrands vary by country. It's essential for investors to und
 
 ### South African Mint
 
-The primary producer of Krugerrands, the South African Mint, offers detailed information and purchasing [options](../o/options.md) on their official [website](https://www.samint.co.za).
+The primary producer of Krugerrands, the South African Mint, offers detailed information and purchasing [options](../o/options.md)
 
 ### Investopedia
 
-For comprehensive [investing](../i/investing.md) guides including Krugerrands, Investopedia offers valuable insights and resources. You can explore more on their official [website](https://www.investopedia.com).
+For comprehensive [investing](../i/investing.md) guides including Krugerrands, Investopedia offers valuable insights and resources. You can
 
 ## Conclusion
 

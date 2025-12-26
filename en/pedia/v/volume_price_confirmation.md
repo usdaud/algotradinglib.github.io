@@ -6,13 +6,13 @@
 
 ### Importance of Volume in Trading
 
-[Volume](../v/volume.md), the number of [shares](../s/shares.md) or contracts traded within a given period, serves as a barometer for the strength and sustainability of price movements. In general, higher [volume](../v/volume.md) indicates a higher level of [interest](../i/interest.md) and participation in the [market](../m/market.md) for a particular [asset](../a/asset.md), lending greater credibility to price movements. [Algorithmic trading](../a/algorithmic_trading.md) systems often incorporate [volume](../v/volume.md) data to enhance their decision-making processes. 
+[Volume](../v/volume.md), the number of [shares](../s/shares.md) or contracts traded within a given period, serves as a barometer for the strength and sustainability of price movements. In general, higher [volume](../v/volume.md) indicates a higher level of [interest](../i/interest.md) and participation in the [market](../m/market.md) for a particular [asset](../a/asset.md), lending greater credibility to price movements. [Algorithmic trading](../a/algorithmic_trading.md) systems often incorporate [volume](../v/volume.md) data to enhance their decision-making processes.
 
 1. **Confirmation of Trends:** A [trend](../t/trend.md) supported by increasing [volume](../v/volume.md) is more likely to persist. Conversely, a weak [volume](../v/volume.md) [trend](../t/trend.md) may suggest that the movement lacks genuine [interest](../i/interest.md) from investors.
-   
+
 2. **Identification of [Reversal](../r/reversal.md) Points:** Sharp [volume](../v/volume.md) spikes can indicate potential [reversal](../r/reversal.md) points in the [market](../m/market.md). A significant increase in [volume](../v/volume.md) during a price decline or rise may suggest climax buying or selling, leading to a turning point.
 
-3. **Assessment of Breakouts:** Breakouts from [price patterns](../p/price_patterns.md) such as resistance or [support levels](../s/support_levels.md) are more trustworthy when accompanied by [volume](../v/volume.md) increases. 
+3. **Assessment of Breakouts:** Breakouts from [price patterns](../p/price_patterns.md) such as resistance or [support levels](../s/support_levels.md) are more trustworthy when accompanied by [volume](../v/volume.md) increases.
 
 ### Volume Price Confirmation Strategies
 
@@ -29,42 +29,36 @@ Algorithmic traders employ various strategies to utilize [Volume](../v/volume.md
 In [algorithmic trading](../a/algorithmic_trading.md), several tools and platforms facilitate the integration of [volume analysis](../v/volume_analysis.md):
 
 1. **[TradeStation](../t/tradestation.md):** [TradeStation](../t/tradestation.md) provides comprehensive tools for [volume analysis](../v/volume_analysis.md), including advanced charting capabilities and custom scripting.
-   
-   [TradeStation](https://www.tradestation.com/)
+
 
 2. **[NinjaTrader](../n/ninjatrader.md):** This platform offers extensive [volume analysis](../v/volume_analysis.md) features such as the VWAP, [volume profile](../v/volume_profile.md), and other [volume](../v/volume.md)-based indicators.
 
-   [NinjaTrader](https://ninjatrader.com/)
 
 3. **MetaTrader 5 (MT5):** MT5 supports a multitude of [volume indicators](../v/volume_indicators.md) and allows the development of custom algorithms that can incorporate [volume](../v/volume.md) price confirmation analysis.
 
-   [MetaTrader 5](https://www.metatrader5.com/)
 
-4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with data libraries and tools to perform [volume](../v/volume.md)-based analysis.
+4. **[StockSharp](../s/stocksharp.md):** [StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform with data libraries and tools to perform [volume](../v/volume.md)-based analysis.
 
-   [QuantConnect](https://www.quantconnect.com/)
 
 ### Challenges and Considerations
 
 While [Volume](../v/volume.md) Price Confirmation is a powerful tool, there are several challenges and considerations:
 
 1. **[False Signals](../f/false_signals_in_trading.md):** In some cases, [volume](../v/volume.md) can surge due to non-[trend](../t/trend.md)-related factors such as news releases or [market anomalies](../m/market_anomalies.md), leading to false interpretation.
-   
+
 2. **Latency and Data Quality:** For [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), latency in [volume](../v/volume.md) data can affect the reliability of the signals. Ensuring high-quality, real-time data is crucial.
 
 3. **[Market](../m/market.md)-Specific Nuances:** Different markets may have varying levels of [liquidity](../l/liquidity.md) and participation, affecting how [volume](../v/volume.md) should be interpreted. Customizing algorithms to match the [market](../m/market.md)-specific characteristics is essential.
 
 ### Case Studies and Real-World Applications
 
-1. **Renaissance Technologies:** Known for their Medallion [Fund](../f/fund.md), Renaissance Technologies applies sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) that likely include [volume](../v/volume.md) price confirmation as part of their multi-strategy approach. 
+1. **Renaissance Technologies:** Known for their Medallion [Fund](../f/fund.md), Renaissance Technologies applies sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) that likely include [volume](../v/volume.md) price confirmation as part of their multi-strategy approach.
 
 2. **Two Sigma:** This [hedge fund](../h/hedge_fund.md) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies. [Volume](../v/volume.md) analytics are a fundamental component of their research and [trading models](../t/trading_models.md).
 
-   [Two Sigma](https://www.twosigma.com/)
 
 3. **Citadel:** Citadel uses a combination of statistical models, including those that analyze [volume](../v/volume.md) and price relationships, to execute trades across different [asset](../a/asset.md) classes.
 
-   [Citadel](https://www.citadel.com/)
 
 ### Conclusion
 

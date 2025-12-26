@@ -20,9 +20,9 @@ Global equities represent [shares](../s/shares.md) in publicly [listed](../l/lis
 
 Several indices track the performance of global equities, [offering](../o/offering.md) benchmarks for investment performance. Key indices include:
 
-1. **MSCI World [Index](../i/index_instrument.md)**: Tracks large and [mid-cap](../m/mid-cap.md) stock performance across 23 developed [market](../m/market.md) countries (https://www.msci.com/world).
-2. **FTSE All-World [Index](../i/index_instrument.md)**: An [index](../i/index_instrument.md) that covers over 3,900 [stocks](../s/stock.md) in 47 countries, both developed and emerging markets (https://www.ftserussell.com/products/indices/geisac).
-3. **S&P Global 1200**: Combines seven headline indices covering 31 markets, providing a broad measure of global [equity](../e/equity.md) performance (https://www.spglobal.com/spdji/en/indices/[equity](../e/equity.md)/sp-global-1200/).
+1. **MSCI World [Index](../i/index_instrument.md)**: Tracks large and [mid-cap](../m/mid-cap.md) stock performance across 23 developed [market](../m/market.md) countries (
+2. **FTSE All-World [Index](../i/index_instrument.md)**: An [index](../i/index_instrument.md) that covers over 3,900 [stocks](../s/stock.md) in 47 countries, both developed and emerging markets (
+3. **S&P Global 1200**: Combines seven headline indices covering 31 markets, providing a broad measure of global [equity](../e/equity.md) performance (
 
 ## Algorithmic Trading in Global Equities
 
@@ -58,10 +58,10 @@ Several indices track the performance of global equities, [offering](../o/offeri
 
 ## Firms Specializing in Global Equities Algo Trading
 
-1. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) focusing heavily on quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies (https://www.janestreet.com).
-2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) leveraging [data science](../d/data_science_in_trading.md) and technology for trading, with significant involvement in global equities (https://www.twosigma.com).
-3. **Virtu Financial**: A [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider adopting algo strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including global equities (https://www.virtu.com).
-4. **DE Shaw**: Utilizes complex computational strategies and models for trading equities and other [asset](../a/asset.md) classes (https://www.deshaw.com).
+1. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) focusing heavily on quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies (
+2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) leveraging [data science](../d/data_science_in_trading.md) and technology for trading, with significant involvement in global equities (
+3. **Virtu Financial**: A [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider adopting algo strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including global equities (
+4. **DE Shaw**: Utilizes complex computational strategies and models for trading equities and other [asset](../a/asset.md) classes (
 
 ## Future Trends in Global Equities and Algorithmic Trading
 

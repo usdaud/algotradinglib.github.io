@@ -75,14 +75,14 @@ An ECM can effectively model the short-term dynamics and long-term [equilibrium]
 Several software packages provide tools for estimating ECMs, including:
 
 - **R:** Packages such as `urca` and `ecm` support ECM estimation.
-- **EViews:** Offers comprehensive tools for [time series analysis](../t/time_series_analysis.md), including ECM. [EViews](http://www.eviews.com/)
-- **Stata:** Commands like `vec` are available for ECM analysis. [Stata](https://www.stata.com/)
+- **EViews:** Offers comprehensive tools for [time series analysis](../t/time_series_analysis.md), including ECM. EViews
+- **Stata:** Commands like `vec` are available for ECM analysis. Stata
 
 ## Companies Using ECM
 
 Financial institutions like banks and investment firms extensively use ECMs for [forecasting](../f/forecasting.md) and [risk management](../r/risk_management.md). Examples include:
-1. **Goldman Sachs:** Employs sophisticated econometric models, including ECMs, for economic forecasts and [financial analysis](../f/financial_analysis.md). [Goldman Sachs](https://www.goldmansachs.com/)
-2. **JP Morgan:** Utilizes ECMs in their research division to understand [market dynamics](../m/market_dynamics.md) and economic linkages. [JP Morgan](https://www.jpmorganchase.com/)
+1. **Goldman Sachs:** Employs sophisticated econometric models, including ECMs, for economic forecasts and [financial analysis](../f/financial_analysis.md). Goldman Sachs
+2. **JP Morgan:** Utilizes ECMs in their research division to understand [market dynamics](../m/market_dynamics.md) and economic linkages. JP Morgan
 
 ## Conclusion
 

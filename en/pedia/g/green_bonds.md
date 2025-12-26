@@ -1,6 +1,6 @@
 # Green Bonds
 
-Green bonds are a type of fixed-[income](../i/income.md) instrument specifically earmarked to raise [money](../m/money.md) for climate and environmental projects. These bonds are an essential financial tool in the fight against global warming and the promotion of sustainability. A [green bond](../g/green_bond.md) is similar to a traditional [bond](../b/bond.md) in terms of its structure, [risk](../r/risk.md), and returns, but the significant difference lies in its purpose: the funds raised by green bonds are exclusively dedicated to projects with positive environmental impacts. 
+Green bonds are a type of fixed-[income](../i/income.md) instrument specifically earmarked to raise [money](../m/money.md) for climate and environmental projects. These bonds are an essential financial tool in the fight against global warming and the promotion of sustainability. A [green bond](../g/green_bond.md) is similar to a traditional [bond](../b/bond.md) in terms of its structure, [risk](../r/risk.md), and returns, but the significant difference lies in its purpose: the funds raised by green bonds are exclusively dedicated to projects with positive environmental impacts.
 
 [Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading, involves the use of computer algorithms to automate the trading process. It leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computation to execute the buying and selling of securities more efficiently than manual trading. The intersection of green bonds and [algorithmic trading](../a/algorithmic_trading.md) represents a promising frontier for both [finance](../f/finance.md) and environmentalism.
 
@@ -29,13 +29,13 @@ Algo [trading strategies](../t/trading_strategies.md) rely heavily on data analy
 ## Major Issuers and Supporting Organizations
 
 ### 1. World Bank
-The [World Bank](../w/world_bank.md) is a prominent [issuer](../i/issuer.md) of green bonds, using the proceeds to [finance](../f/finance.md) projects around the world that address climate change and other environmental challenges. [World Bank Green Bonds](https://www.worldbank.org/en/news/feature/2019/11/18/what-you-need-to-know-about-green-bonds).
+The [World Bank](../w/world_bank.md) is a prominent [issuer](../i/issuer.md) of green bonds, using the proceeds to [finance](../f/finance.md) projects around the world that address climate change and other environmental challenges. World Bank Green Bonds.
 
 ### 2. European Investment Bank (EIB)
-The EIB has been a leader in the green [bond market](../b/bond_market.md), issuing Climate Awareness Bonds to support renewable energy and energy [efficiency](../e/efficiency.md) projects. [European Investment Bank Green Bonds](https://www.eib.org/en/investor_relations/cab/index.htm).
+The EIB has been a leader in the green [bond market](../b/bond_market.md), issuing Climate Awareness Bonds to support renewable energy and energy [efficiency](../e/efficiency.md) projects. European Investment Bank Green Bonds.
 
 ### 3. Corporate Issuers
-Companies like Apple and PepsiCo have also entered the green [bond market](../b/bond_market.md), using the funds to advance their sustainability goals. [Apple's Green Bond Impact](https://www.apple.com/newsroom/2020/07/apple-allocates-2-8-billion-from-green-bond-to-environmental-initiatives/), [PepsiCo's Green Bond](https://www.pepsico.com/news/press-release/pepsico-prices-first-ever-green-bond-20190930).
+Companies like Apple and PepsiCo have also entered the green [bond market](../b/bond_market.md), using the funds to advance their sustainability goals. Apple's Green Bond Impact, PepsiCo's Green Bond.
 
 ## Algorithmic Strategies for Green Bonds
 
@@ -62,4 +62,3 @@ High-quality, reliable data is critical for [algorithmic trading](../a/algorithm
 ## Conclusion
 
 Green bonds represent a crucial step towards integrating sustainable practices into the [financial markets](../f/financial_market.md). [Algorithmic trading](../a/algorithmic_trading.md) offers the potential to transform this [market](../m/market.md) by improving [efficiency](../e/efficiency.md), providing better data analysis, and increasing [investor](../i/investor.md) access. Despite the challenges, the combination of green bonds and [algorithmic trading](../a/algorithmic_trading.md) embodies a promising avenue for promoting sustainability in [finance](../f/finance.md). As technology and standards evolve, the future of green bonds and [algorithmic trading](../a/algorithmic_trading.md) looks bright.
-

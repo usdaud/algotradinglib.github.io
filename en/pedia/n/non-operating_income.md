@@ -97,7 +97,7 @@ Investors, analysts, and other stakeholders keenly observe non-[operating income
 
 ### Example of Non-Operating Income Reporting
 
-Taking the example of a real-world company like **Apple Inc.** Apple’s comprehensive financial disclosures include detailed information on non-[operating income](../o/operating_income.md). Investors and analysts scrutinize Apple's non-[operating income](../o/operating_income.md) from various sources like [interest](../i/interest.md) [income](../i/income.md) from its large cash reserves. More detailed information can be found on their [Investor Relations page](https://investor.apple.com/investor-relations/default.aspx).
+Taking the example of a real-world company like **Apple Inc.** Apple’s comprehensive financial disclosures include detailed information on non-[operating income](../o/operating_income.md). Investors and analysts scrutinize Apple's non-[operating income](../o/operating_income.md) from various sources like [interest](../i/interest.md) [income](../i/income.md) from its large cash reserves. More detailed information can be found on their company filings.
 
 ## Conclusion
 

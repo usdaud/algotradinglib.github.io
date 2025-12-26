@@ -10,7 +10,7 @@ Ripple was conceived in 2004 by Ryan Fugger, a Canadian web developer. Initially
 
 RippleNet is the core technology under Ripple Labs' suite of products. It includes a series of advanced tools and protocols designed to enhance the [efficiency](../e/efficiency.md) of cross-border transactions. RippleNet is composed of three distinct components:
 
-1. **xCurrent**: Ripple's enterprise solution that enables banks to instantly settle cross-border payments with end-to-end tracking. 
+1. **xCurrent**: Ripple's enterprise solution that enables banks to instantly settle cross-border payments with end-to-end tracking.
 
 2. **xRapid**: This product leverages XRP, Ripple's digital [asset](../a/asset.md), to provide on-[demand](../d/demand.md) [liquidity](../l/liquidity.md). Financial institutions can engage in seamless cross-border transactions without needing to maintain nostro/vostro accounts.
 
@@ -63,5 +63,3 @@ Ripple is dedicated to innovation and continually invests in technological advan
 Ripple stands out as a transformative entity in the world of financial technology. With its trio of products—xCurrent, xRapid, and xVia—RippleNet aims to revolutionize the way cross-border payments are conducted, making them faster, more secure, and more cost-effective. The integration of XRP in the Ripple network provides enhanced [liquidity](../l/liquidity.md) and reduces the need for pre-funding, setting Ripple apart from traditional financial systems.
 
 Ripple continues to navigate complex regulatory waters while pushing the boundaries of what's possible in the [blockchain](../b/blockchain_in_trading.md) and cryptocurrency sectors. Its vision of a more inclusive and efficient financial ecosystem is both ambitious and transformative, making Ripple a compelling company to watch.
-
-More information can be found on the official Ripple website: [Ripple](https://ripple.com/)

@@ -8,7 +8,7 @@
 
 ### General Partners (GPs) and Limited Partners (LPs)
 
-VC funds are typically organized as limited partnerships. 
+VC funds are typically organized as limited partnerships.
 - **General Partners (GPs)**: These are the funds' managers responsible for sourcing deals, making investment decisions, and managing the portfolio companies. GPs are compensated through management fees (usually 2-3% of the [fund](../f/fund.md)'s committed [capital](../c/capital.md)) and [carried interest](../c/carried_interest.md) (a share of the profits, typically around 20%, that exceeds a specified [return](../r/return.md) threshold).
 - **Limited Partners (LPs)**: These are the investors in the [fund](../f/fund.md), which can include institutional investors, endowments, pension funds, high-net-worth individuals, and [family offices](../f/family_offices.md). LPs provide the bulk of the investment [capital](../c/capital.md) but have [limited liability](../l/limited_liability.md) and do not participate in day-to-day management.
 
@@ -17,7 +17,7 @@ VC funds are typically organized as limited partnerships.
 A typical VC [fund](../f/fund.md) has a lifecycle of about 10 years, which includes:
 1. **Fundraising (1-2 years)**: During this phase, GPs raise [capital](../c/capital.md) commitments from LPs.
 2. **Investment Period (3-5 years)**: The GPs invest the raised [capital](../c/capital.md) in portfolio companies. This period involves deal sourcing, [due diligence](../d/due_diligence.md), and [capital](../c/capital.md) deployment.
-3. **[Portfolio Management](../p/portfolio_management.md) (5-7 years)**: GPs actively engage with portfolio companies to help them grow and achieve successful exits. 
+3. **[Portfolio Management](../p/portfolio_management.md) (5-7 years)**: GPs actively engage with portfolio companies to help them grow and achieve successful exits.
 4. **Exiting (5-10 years)**: The [fund](../f/fund.md) seeks exits to [return](../r/return.md) [capital](../c/capital.md) to LPs, commonly through mergers and acquisitions (M&A) or initial public offerings (IPOs).
 
 ## Stages of Venture Capital Investment
@@ -87,15 +87,15 @@ VC deal sourcing is the process by which funds identify and evaluate potential i
 
 ### Sequoia Capital
 
-[Sequoia Capital](https://www.sequoiacap.com) is one of the most prominent VC firms, known for early investments in companies like Apple, Google, and WhatsApp. The [firm](../f/firm.md) focuses on technology-based startups across various stages of development.
+Sequoia Capital is one of the most prominent VC firms, known for early investments in companies like Apple, Google, and WhatsApp. The [firm](../f/firm.md) focuses on technology-based startups across various stages of development.
 
 ### Andreessen Horowitz
 
-[Andreessen Horowitz](https://a16z.com), also known as a16z, is a [venture capital](../v/venture_capital.md) [firm](../f/firm.md) with investments in technology spaces including software, bio, fintech, and more. Prominent investments include Facebook, Airbnb, and Slack.
+Andreessen Horowitz, also known as a16z, is a [venture capital](../v/venture_capital.md) [firm](../f/firm.md) with investments in technology spaces including software, bio, fintech, and more. Prominent investments include Facebook, Airbnb, and Slack.
 
 ### Benchmark Capital
 
-[Benchmark Capital](https://benchmark.com) is a [venture capital](../v/venture_capital.md) [firm](../f/firm.md) noted for early-stage investments in startups. They have backed companies like Twitter, Uber, and Dropbox.
+Benchmark Capital is a [venture capital](../v/venture_capital.md) [firm](../f/firm.md) noted for early-stage investments in startups. They have backed companies like Twitter, Uber, and Dropbox.
 
 ## Challenges in Venture Capital
 

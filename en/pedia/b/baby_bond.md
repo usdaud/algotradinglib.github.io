@@ -58,14 +58,12 @@ The unique features of baby bonds allow for the development of specialized [algo
 ## Leading Issuers of Baby Bonds
 
 ### Corporate Issuers
-Many corporations [issue](../i/issue.md) baby bonds to diversify their funding sources and attract retail investors. Companies like **American Financial Group, Inc.** have issued baby bonds as part of their [capital structure](../c/capital_structure.md). Their official site provides more details:
+Many corporations [issue](../i/issue.md) baby bonds to diversify their funding sources and attract retail investors. Companies like **American Financial Group, Inc.** have issued baby bonds as part of their [capital structure](../c/capital_structure.md). Their provides more details:
 
-[American Financial Group Bonds](https://www.afginc.com/)
 
 ### Municipal Issuers
 Municipalities also [issue](../i/issue.md) baby bonds, with details often available on their official websites or through financial services platforms that specialize in [municipal bonds](../m/municipal_bonds.md) like the Municipal Securities Rulemaking Board (MSRB):
 
-[Municipal Securities Rulemaking Board](http://www.msrb.org/)
 
 ## Risks and Limitations
 

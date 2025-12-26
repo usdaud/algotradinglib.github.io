@@ -1,6 +1,6 @@
 # Transaction
 
-In the context of [finance](../f/finance.md) and trading, a transaction refers to an agreement or a contract between a buyer and a seller to [exchange](../e/exchange.md) assets, goods, or services. Financial transactions are critical components of economic systems as they enable the flow of [capital](../c/capital.md), facilitate [trade](../t/trade.md), and allow for the allocation of resources. This document aims to delve deeply into the concept of transactions, focusing on various types, the process, significant components, and implications within [financial markets](../f/financial_market.md), particularly in the realm of [algorithmic trading](../a/accountability.md) and financial technology (fintech).
+In the context of [finance](../f/finance.md) and trading, a transaction refers to an agreement or a contract between a buyer and a seller to [exchange](../e/exchange.md) assets, goods, or services. Financial transactions are critical components of economic systems as they enable the flow of [capital](../c/capital.md), facilitate [trade](../t/trade.md), and allow for the allocation of resources. This document aims to delve deeply into the concept of transactions, focusing on various types, the process, significant components, and implications within [financial markets](../f/financial_market.md), particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ## Types of Financial Transactions
 
@@ -31,7 +31,7 @@ These involve the purchase and [sale](../s/sale.md) of investment vehicles:
 The process of a financial transaction can be broken down into several steps:
 
 1. **Initiation:** The process begins when a buyer makes a decision to purchase an [asset](../a/asset.md) or transfer funds. This can be done manually (e.g., through a [broker](../b/broker.md)) or automatically (e.g., using [trading algorithms](../t/trading_algorithms.md)).
-  
+
 2. **Authorization:** The transaction must be approved by a relevant authority. In the case of [payment](../p/payment.md) transactions, this often involves a [bank](../b/bank.md) or [payment](../p/payment.md) processor verifying the sufficiency of funds.
 
 3. **[Clearing](../c/clearing.md):** The process of updating the accounts of the trading parties to reflect the transaction. This involves validating and [matching orders](../m/matching_orders.md).
@@ -63,7 +63,7 @@ This could be [currency](../c/currency.md), other financial assets, or a [barter
 ## Transactions in Algorithmic Trading
 
 ### Automation and Efficiency
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute transactions at speeds and frequencies beyond human capacity. The algorithms follow predefined sets of rules to make trading decisions, minimizing latency and maximizing [efficiency](../e/efficiency.md).
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute transactions at speeds and frequencies beyond human capacity. The algorithms follow predefined sets of rules to make trading decisions, minimizing latency and maximizing [efficiency](../e/efficiency.md).
 
 ### Market Impact
 Automated trades can execute large volumes without significant [market](../m/market.md) impact by breaking down bulk orders into smaller, manageable transactions. This helps in maintaining [market](../m/market.md) stability.
@@ -75,18 +75,18 @@ Algorithms can be programmed with advanced [risk management techniques](../r/ris
 
 ### Trading Platforms
 These act as interfaces where transaction commands are executed. Notable trading platforms, accessible for API integrations, include:
-- [Interactive Brokers](../i/interactive_brokers.md): [Interactive Brokers](https://www.interactivebrokers.com)
-- MetaTrader: [MetaTrader](https://www.metatrader5.com)
+- [Interactive Brokers](../i/interactive_brokers.md): Interactive Brokers
+- MetaTrader: MetaTrader
 
 ### Payment Processors
 Entities that [handle](../h/handle.md) [payment](../p/payment.md) transactions, ensuring the transfer of funds between parties. Notable players in this domain include:
-- [PayPal](../p/paypal.md): [PayPal](https://www.paypal.com)
-- Square: [Square](https://squareup.com)
+- [PayPal](../p/paypal.md): PayPal
+- Square: Square
 
 ### Ledger Systems and Blockchains
 Advanced systems that [offer](../o/offer.md) secure, transparent recording of transactions. [Blockchain](../b/blockchain_in_trading.md) technology, in particular, ensures immutability and traceability of transactions:
-- [Bitcoin](../b/bitcoin.md): [Bitcoin](https://bitcoin.org)
-- [Ethereum](../e/ethereum_.md): [Ethereum](https://ethereum.org)
+- [Bitcoin](../b/bitcoin.md): Bitcoin
+- [Ethereum](../e/ethereum_.md): Ethereum
 
 ## Implications on Financial Markets
 
@@ -118,4 +118,4 @@ Advanced [security](../s/security.md) protocols, including encryption and multi-
 
 ## Conclusion
 
-Transactions are the backbone of financial systems, facilitating [trade](../t/trade.md), investment, and the efficient allocation of resources. In the age of fintech and [algorithmic trading](../a/accountability.md), the nature of transactions has evolved to become faster, more secure, and highly efficient. Understanding the intricacies of transactions is vital for participants in [financial markets](../f/financial_market.md), as they underpin [market](../m/market.md) operations and influence economic stability. Whether through traditional or digital means, well-executed transactions are key to sustaining dynamic and functional financial ecosystems.
+Transactions are the backbone of financial systems, facilitating [trade](../t/trade.md), investment, and the efficient allocation of resources. In the age of fintech and [algorithmic trading](../a/algorithmic_trading.md), the nature of transactions has evolved to become faster, more secure, and highly efficient. Understanding the intricacies of transactions is vital for participants in [financial markets](../f/financial_market.md), as they underpin [market](../m/market.md) operations and influence economic stability. Whether through traditional or digital means, well-executed transactions are key to sustaining dynamic and functional financial ecosystems.

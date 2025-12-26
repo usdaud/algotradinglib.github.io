@@ -10,7 +10,7 @@ Kiribati gained independence from the United Kingdom in 1979, and since then, it
 
 ### Trading Mechanisms
 
-The Kiribati Stock [Exchange](../e/exchange.md) employs a straightforward trading mechanism, tailored to suit the relatively small size of its [market](../m/market.md). Most transactions are executed manually due to the low [volume](../v/volume.md) of trading activities. Automatic [trading systems](../t/trading_systems.md), although more efficient, have not yet been fully implemented due to budgetary and technological constraints. 
+The Kiribati Stock [Exchange](../e/exchange.md) employs a straightforward trading mechanism, tailored to suit the relatively small size of its [market](../m/market.md). Most transactions are executed manually due to the low [volume](../v/volume.md) of trading activities. Automatic [trading systems](../t/trading_systems.md), although more efficient, have not yet been fully implemented due to budgetary and technological constraints.
 
 ### Listing Requirements
 
@@ -26,7 +26,7 @@ The KSE offers a variety of financial instruments tailored to local [market](../
 
 ### Equities
 
-[Equity](../e/equity.md) or stock of various domestic companies constitute a large portion of the trades on the KSE. These equities provide opportunities for both [capital](../c/capital.md) appreciation and [dividend](../d/dividend.md) [income](../i/income.md). 
+[Equity](../e/equity.md) or stock of various domestic companies constitute a large portion of the trades on the KSE. These equities provide opportunities for both [capital](../c/capital.md) appreciation and [dividend](../d/dividend.md) [income](../i/income.md).
 
 ### Government Bonds
 

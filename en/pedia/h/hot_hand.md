@@ -1,6 +1,6 @@
 # Hot Hand
 
-The concept of the "hot hand" refers to the belief that success breeds further success, and conversely for failure. This phenomenon is often discussed in the realms of psychology, sports, and [finance](../f/finance.md), particularly in the context of [algorithmic trading](../a/accountability.md) (also known as algo-trading). Algo-trading leverages computational power to execute [trading strategies](../t/trading_strategies.md) based on predefined criteria, and the idea of the hot hand may influence the development and perception of these strategies.
+The concept of the "hot hand" refers to the belief that success breeds further success, and conversely for failure. This phenomenon is often discussed in the realms of psychology, sports, and [finance](../f/finance.md), particularly in the context of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading). Algo-trading leverages computational power to execute [trading strategies](../t/trading_strategies.md) based on predefined criteria, and the idea of the hot hand may influence the development and perception of these strategies.
 
 ## The Psychology of the Hot Hand
 
@@ -16,7 +16,7 @@ The hot hand concept has significant implications for sports betting markets. Ga
 
 ## The Hot Hand in Finance and Algorithmic Trading
 
-In [finance](../f/finance.md), the hot hand fallacy might influence traders and investors. When applied to [algorithmic trading](../a/accountability.md), this concept leads to various considerations:
+In [finance](../f/finance.md), the hot hand fallacy might influence traders and investors. When applied to [algorithmic trading](../a/algorithmic_trading.md), this concept leads to various considerations:
 
 ### Momentum Trading Strategies
 
@@ -24,7 +24,7 @@ One form of algorithmic strategy influenced by the hot hand belief is [momentum 
 
 ### Backtesting and Overfitting
 
-A critical aspect of implementing the hot hand in [algorithmic trading](../a/accountability.md) is [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) uses historical data to test the viability of [trading strategies](../t/trading_strategies.md). However, strategies that appear successful in the backtest phase may suffer from [overfitting](../o/overfitting.md). [Overfitting](../o/overfitting.md) occurs when a model becomes too tailored to past data, making it less effective in live trading environments.
+A critical aspect of implementing the hot hand in [algorithmic trading](../a/algorithmic_trading.md) is [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) uses historical data to test the viability of [trading strategies](../t/trading_strategies.md). However, strategies that appear successful in the backtest phase may suffer from [overfitting](../o/overfitting.md). [Overfitting](../o/overfitting.md) occurs when a model becomes too tailored to past data, making it less effective in live trading environments.
 
 ### Behavioral Finance
 
@@ -42,8 +42,8 @@ The primary limitation of using the hot hand in algo-trading is the [risk](../r/
 
 ### Real-World Examples
 
-Some trading firms, such as Renaissance Technologies, have built sophisticated models that may incorporate [momentum](../m/momentum.md) strategies akin to the hot hand principle. Renaissance Technologies' Medallion [Fund](../f/fund.md), for instance, is renowned for its exceptional returns, driven by complex algorithms analyzing vast amounts of [market](../m/market.md) data. However, the specific details of their strategies are proprietary and not publicly disclosed. More information about the company can be found on their website: [Renaissance Technologies](https://www.rentec.com/).
+Some trading firms, such as Renaissance Technologies, have built sophisticated models that may incorporate [momentum](../m/momentum.md) strategies akin to the hot hand principle. Renaissance Technologies' Medallion [Fund](../f/fund.md), for instance, is renowned for its exceptional returns, driven by complex algorithms analyzing vast amounts of [market](../m/market.md) data. However, the specific details of their strategies are proprietary and not publicly disclosed.
 
 ## Conclusion
 
-The hot hand phenomenon is a fascinating and controversial topic, intersecting psychology, sports, and [finance](../f/finance.md). While initial studies debunked its existence in sports, the belief continues to resonate in various domains, including [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). In the context of algo-trading, the hot hand principle underpins certain [momentum](../m/momentum.md)-based strategies, despite the associated risks of [overfitting](../o/overfitting.md) and [market](../m/market.md) unpredictability. Understanding and acknowledging these risks are crucial for the effective application of the hot hand in developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
+The hot hand phenomenon is a fascinating and controversial topic, intersecting psychology, sports, and [finance](../f/finance.md). While initial studies debunked its existence in sports, the belief continues to resonate in various domains, including [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md). In the context of algo-trading, the hot hand principle underpins certain [momentum](../m/momentum.md)-based strategies, despite the associated risks of [overfitting](../o/overfitting.md) and [market](../m/market.md) unpredictability. Understanding and acknowledging these risks are crucial for the effective application of the hot hand in developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).

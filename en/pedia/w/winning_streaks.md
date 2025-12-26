@@ -62,13 +62,12 @@ Several high-profile [algorithmic trading](../a/algorithmic_trading.md) firms ha
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is renowned for its Medallion [Fund](../f/fund.md), which has experienced numerous winning streaks. The [firm](../f/firm.md)’s sophisticated algorithms analyze vast amounts of data to detect patterns and optimize trades. Their streaks are managed through rigorous [risk](../r/risk.md) controls and [diversification strategies](../d/diversification_strategies.md). More information about their approach can be found on their [official website](https://www.rentec.com/).
+Renaissance Technologies, founded by James Simons, is renowned for its Medallion [Fund](../f/fund.md), which has experienced numerous winning streaks. The [firm](../f/firm.md)’s sophisticated algorithms analyze vast amounts of data to detect patterns and optimize trades. Their streaks are managed through rigorous [risk](../r/risk.md) controls and [diversification strategies](../d/diversification_strategies.md).
 
 ### Bridgewater Associates
 
-Another example is Bridgewater Associates, led by Ray Dalio. Known for its "Pure [Alpha](../a/alpha.md)" and "All Weather" strategies, the [firm](../f/firm.md) has faced significant winning streaks. They focus on diversifying [risk](../r/risk.md) and maintaining a balanced portfolio to manage the psychological and financial impacts of these streaks. Their methodologies are highlighted in various publications and on the [Bridgewater Associates website](https://www.bridgewater.com/).
+Another example is Bridgewater Associates, led by Ray Dalio. Known for its "Pure [Alpha](../a/alpha.md)" and "All Weather" strategies, the [firm](../f/firm.md) has faced significant winning streaks. They focus on diversifying [risk](../r/risk.md) and maintaining a balanced portfolio to manage the psychological and financial impacts of these streaks. Their methodologies are highlighted
 
 ## Conclusion
 
 Winning streaks in [algorithmic trading](../a/algorithmic_trading.md) are multifaceted phenomena with significant implications for both human and machine-driven trading approaches. By understanding the statistical nature, psychological impact, and evaluation methods of winning streaks, traders and developers can harness their potential while mitigating associated risks. The balance between leveraging winning streaks and maintaining consistent, disciplined [trading strategies](../t/trading_strategies.md) is key to long-term success in the competitive landscape of [algorithmic trading](../a/algorithmic_trading.md).
-

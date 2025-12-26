@@ -29,8 +29,8 @@ Under Basel II, [credit risk](../c/credit_risk.md) is assessed using three diffe
 1. **Standardized Approach**: This approach uses external [credit](../c/credit.md) ratings from recognized [rating](../r/rating.md) agencies to determine the [risk](../r/risk.md) weights for different types of exposures. Each exposure is assigned a [risk](../r/risk.md) weight based on its [credit rating](../c/credit_rating.md), which in turn determines the amount of [capital](../c/capital.md) that must be held against it.
 
 2. **Internal Ratings-Based (IRB) Approach**: This approach allows banks to use their internal [risk assessment models](../r/risk_assessment_models.md) to calculate [credit risk](../c/credit_risk.md). There are two variations of the IRB approach:
-   - **Foundation IRB (F-IRB)**: Banks estimate the probability of [default](../d/default.md) (PD) for each exposure, while other [risk](../r/risk.md) components like loss given [default](../d/default.md) (LGD) and exposure at [default](../d/default.md) (EAD) are provided by regulators.
-   - **Advanced IRB (A-IRB)**: Banks estimate all [risk](../r/risk.md) components, including PD, LGD, and EAD, based on their internal models, subject to regulatory approval.
+ - **Foundation IRB (F-IRB)**: Banks estimate the probability of [default](../d/default.md) (PD) for each exposure, while other [risk](../r/risk.md) components like loss given [default](../d/default.md) (LGD) and exposure at [default](../d/default.md) (EAD) are provided by regulators.
+ - **Advanced IRB (A-IRB)**: Banks estimate all [risk](../r/risk.md) components, including PD, LGD, and EAD, based on their internal models, subject to regulatory approval.
 
 3. **[Securitization](../s/securitization.md)**: This involves the pooling of various types of [debt](../d/debt.md) (such as mortgages or [credit card](../c/credit_card.md) [debt](../d/debt.md)) and selling them as securities to investors. Basel II sets out specific criteria for the [risk](../r/risk.md)-weighting of securitized exposures, both for the originating [bank](../b/bank.md) and the [investing](../i/investing.md) [bank](../b/bank.md).
 

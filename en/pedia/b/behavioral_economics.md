@@ -65,19 +65,19 @@ Several firms have successfully leveraged behavioral [economics](../e/economics.
 
 ### Bridgewater Associates
 
-Bridgewater Associates, founded by Ray Dalio, is known for its principles-based approach to [investing](../i/investing.md). The [firm](../f/firm.md) employs various techniques inspired by behavioral [economics](../e/economics.md) to manage its portfolios. [Bridgewater Associates](https://www.bridgewater.com/)
+Bridgewater Associates, founded by Ray Dalio, is known for its principles-based approach to [investing](../i/investing.md). The [firm](../f/firm.md) employs various techniques inspired by behavioral [economics](../e/economics.md) to manage its portfolios. Bridgewater Associates
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is a renowned quantitative [hedge fund](../h/hedge_fund.md) that extensively employs behavioral and statistical models to guide trading decisions. The [firm](../f/firm.md) focuses on exploiting [market](../m/market.md) inefficiencies caused by irrational [investor](../i/investor.md) behaviors. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, founded by Jim Simons, is a renowned quantitative [hedge fund](../h/hedge_fund.md) that extensively employs behavioral and statistical models to guide trading decisions. The [firm](../f/firm.md) focuses on exploiting [market](../m/market.md) inefficiencies caused by irrational [investor](../i/investor.md) behaviors. Renaissance Technologies
 
 ### Betterment
 
-Betterment is an online financial advisory company that uses insights from behavioral [economics](../e/economics.md) to design its [portfolio management](../p/par.md) strategies. By understanding [investor](../i/investor.md) psychology, they aim to [offer](../o/offer.md) better personalized advice and portfolio recommendations. [Betterment](https://www.betterment.com/)
+Betterment is an online financial advisory company that uses insights from behavioral [economics](../e/economics.md) to design its [portfolio management](../p/par.md) strategies. By understanding [investor](../i/investor.md) psychology, they aim to [offer](../o/offer.md) better personalized advice and portfolio recommendations. Betterment
 
 ### Acorns
 
-Acorns is a micro-[investing](../i/investing.md) app that leverages insights from behavioral [economics](../e/economics.md) to encourage savings and investment. The platform uses round-ups and small, frequent investments to help users overcome the inertia and difficulties associated with traditional investment methods. [Acorns](https://www.acorns.com/)
+Acorns is a micro-[investing](../i/investing.md) app that leverages insights from behavioral [economics](../e/economics.md) to encourage savings and investment. The platform uses round-ups and small, frequent investments to help users overcome the inertia and difficulties associated with traditional investment methods. Acorns
 
 ## Ethical Considerations
 

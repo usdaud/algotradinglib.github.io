@@ -10,7 +10,7 @@ Conditional [Value](../v/value.md) at [Risk](../r/risk.md) can be described as t
 
 Mathematically, let \( L \) be a random variable representing the loss. The [Value](../v/value.md) at [Risk](../r/risk.md) at a confidence level \( \[alpha](../a/alpha.md) \) (typically 95% or 99%) is defined as:
 
-\[ VaR_{\[alpha](../a/alpha.md)} = \inf \{ l \in \mathbb{R} : P(L > l) \leq 1 - \[alpha](../a/alpha.md) \} \]
+\[ VaR_{\[alpha](../a/alpha.md)} = \inf \{ l \in \mathbb{R}: P(L > l) \leq 1 - \[alpha](../a/alpha.md) \} \]
 
 The Conditional [Value](../v/value.md) at [Risk](../r/risk.md) at the same confidence level \( \[alpha](../a/alpha.md) \) is then defined as the [expected value](../e/expected_value.md) of the loss given that it exceeds \( VaR_{\[alpha](../a/alpha.md)} \):
 
@@ -63,10 +63,10 @@ Regulations often require financial institutions to report [risk measures](../r/
 
 Several tools and [software platforms](../s/software_platforms_for_trading.md) facilitate CVaR calculation, including:
 
-- **RiskMetrics**: RiskMetrics provides comprehensive [risk](../r/risk.md) analytics tools, including CVaR calculation (https://www.msci.com/riskmetrics-analytics).
-- **MATLAB**: MATLAB offers various financial toolboxes that can calculate CVaR for different [asset](../a/asset.md) classes (https://www.mathworks.com/products/financial.html).
-- **R Programming**: The `PerformanceAnalytics` package in R can be used for [financial risk](../f/financial_risk.md) assessment, including CVaR computation (https://cran.r-project.org/web/packages/PerformanceAnalytics/[index](../i/index_instrument.md).html).
+- **RiskMetrics**: RiskMetrics provides comprehensive [risk](../r/risk.md) analytics tools, including CVaR calculation (
+- **MATLAB**: MATLAB offers various financial toolboxes that can calculate CVaR for different [asset](../a/asset.md) classes (
+- **R Programming**: The `PerformanceAnalytics` package in R can be used for [financial risk](../f/financial_risk.md) assessment, including CVaR computation (
 
 ### Conclusion
 
-Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR) provides a deeper understanding of potential extreme losses in a portfolio by considering the average losses beyond a certain confidence threshold. As [financial markets](../f/financial_market.md) become more complex and unpredictable, CVaR stands out as a crucial tool for investors and [risk](../r/risk.md) managers to mitigate and manage financial risks effectively. From [portfolio optimization](../p/portfolio_optimization.md) to regulatory compliance, the application of CVaR spans [multiple](../m/multiple.md) facets of modern financial practices, making it an indispensable measure in today's [risk management](../r/risk_management.md) toolbox.
+Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR) provides a deeper understanding of potential extreme losses in a portfolio by considering the average losses beyond a certain confidence threshold. As [financial markets](../f/financial_market.md) become more complex and unpredictable, CVaR stands out as a crucial tool for investors and [risk](../r/risk.md) managers to mitigate and manage financial risks effectively. From [portfolio optimization](../p/portfolio_optimization.md) to regulatory compliance, the application of CVaR spans [multiple](../m/multiple.md) facets of modern financial practices, making it an indispensable measure in today's [risk management](../r/risk_management.md) toolbox.

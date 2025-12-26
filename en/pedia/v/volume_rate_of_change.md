@@ -86,9 +86,9 @@ In the cryptocurrency [market](../m/market.md), where [volume](../v/volume.md) d
 
 Various trading platforms and tools [offer](../o/offer.md) the VROC [indicator](../i/indicator.md) as part of their [technical analysis](../t/technical_analysis.md) suite. Examples include:
 
-- **[TradingView](../t/tradingview.md)** (https://www.[tradingview](../t/tradingview.md).com/): A popular web-based charting platform that provides the VROC [indicator](../i/indicator.md) among numerous other analysis tools.
-- **MetaTrader 4/5** (https://www.[metatrader4](../m/metatrader4.md).com/): Commonly used by forex and CFD traders, [offering](../o/offering.md) the VROC as a customizable [indicator](../i/indicator.md).
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page): A [robust](../r/robust.md) [trading platform](../t/trading_platform.md) that includes advanced charting features and the VROC [indicator](../i/indicator.md).
+- **[TradingView](../t/tradingview.md)** ( A popular web-based charting platform that provides the VROC [indicator](../i/indicator.md) among numerous other analysis tools.
+- **MetaTrader 4/5** ( Commonly used by forex and CFD traders, [offering](../o/offering.md) the VROC as a customizable [indicator](../i/indicator.md).
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)** ( A [robust](../r/robust.md) [trading platform](../t/trading_platform.md) that includes advanced charting features and the VROC [indicator](../i/indicator.md).
 
 ## Conclusion
 

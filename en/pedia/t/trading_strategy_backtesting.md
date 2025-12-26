@@ -33,7 +33,7 @@ Several software solutions are available that simplify the [backtesting](../b/ba
 
 - **MetaTrader**: A widely-used platform for forex and CFD trading that includes [backtesting](../b/backtesting.md) capabilities.
 - **[TradeStation](../t/tradestation.md)**: A [trading platform](../t/trading_platform.md) that offers advanced [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) tools.
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform that supports [backtesting](../b/backtesting.md) for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source platform that supports [backtesting](../b/backtesting.md) for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 - **[Amibroker](../a/amibroker.md)**: A comprehensive charting and analysis software that provides powerful [backtesting](../b/backtesting.md) features.
 
 ### Best Practices
@@ -58,7 +58,7 @@ Examining real-world case studies can provide practical insights into the [backt
 - **Example 2: [Mean Reversion](../m/mean_reversion.md) Strategy**: Testing a strategy that buys assets when prices deviate significantly from their long-term average.
 
 ### Industry Applications
-[Backtesting](../b/backtesting.md) is widely used by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and individual traders. Companies like [Renaissance Technologies](https://www.rentec.com), [Two Sigma](https://www.twosigma.com), and [AQR Capital Management](https://www.aqr.com) have built successful [trading models](../t/trading_models.md) based on rigorous [backtesting](../b/backtesting.md) and [quantitative analysis](../q/quantitative_analysis.md).
+[Backtesting](../b/backtesting.md) is widely used by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and individual traders. Companies like Renaissance Technologies, Two Sigma, and AQR Capital Management have built successful [trading models](../t/trading_models.md) based on rigorous [backtesting](../b/backtesting.md) and [quantitative analysis](../q/quantitative_analysis.md).
 
 ### Conclusion
 [Trading strategy](../t/trading_strategy.md) [backtesting](../b/backtesting.md) is an essential practice for any [trader](../t/trader.md) looking to understand the potential risks and rewards of their strategies. By utilizing historical data, developing [robust](../r/robust.md) strategies, and following [best practices](../b/best_practices.md), traders can enhance their chances of success in live markets. Advanced techniques like walk-forward [optimization](../o/optimization.md) and [Monte Carlo simulation](../m/monte_carlo_simulation.md) can further refine strategies, making [backtesting](../b/backtesting.md) a powerful tool in the [trader](../t/trader.md)'s arsenal.

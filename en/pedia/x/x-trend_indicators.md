@@ -89,10 +89,10 @@ Integrating [machine learning](../m/machine_learning.md) with X-[Trend Indicator
 
 Several platforms and tools facilitate the creation, [backtesting](../b/backtesting.md), and [execution](../e/execution.md) of [trading algorithms](../t/trading_algorithms.md) using X-[Trend Indicators](../t/trend_indicators.md):
 
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and deployment across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. For more information, visit [QuantConnect](https://www.quantconnect.com/).
-- **[TradeStation](../t/tradestation.md):** Offers advanced trading analytics and strategy building tools. Learn more at [TradeStation](https://www.tradestation.com/).
-- **MetaTrader:** A popular [trading platform](../t/trading_platform.md) that allows for the automation of [trading strategies](../t/trading_strategies.md) using the MQL programming language. Refer to [MetaTrader 4](https://www.metatrader4.com/) for more details.
-- **[Interactive Brokers](../i/interactive_brokers.md):** Provides [robust](../r/robust.md) trading APIs for [algorithmic trading](../a/algorithmic_trading.md). Explore more at [Interactive Brokers](https://www.interactivebrokers.com/).
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and deployment across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. For more information, visit QuantConnect.
+- **[TradeStation](../t/tradestation.md):** Offers advanced trading analytics and strategy building tools. Learn more at TradeStation.
+- **MetaTrader:** A popular [trading platform](../t/trading_platform.md) that allows for the automation of [trading strategies](../t/trading_strategies.md) using the MQL programming language. Refer to MetaTrader 4 for more details.
+- **[Interactive Brokers](../i/interactive_brokers.md):** Provides [robust](../r/robust.md) trading APIs for [algorithmic trading](../a/algorithmic_trading.md). Explore more at Interactive Brokers.
 
 ## Challenges and Considerations
 

@@ -4,7 +4,7 @@ eCash refers to electronic cash, which is a type of [digital money](../d/digital
 
 ## History of eCash
 
-The concept of eCash is not new. It dates back to the late 20th century when the idea of [money](../m/money.md) that could be transacted through electronic means started to take shape. One of the earliest and most notable instances of eCash was introduced by David Chaum in 1983. Chaum introduced an anonymous cryptographic [electronic money](../e/electronic_money.md) called "eCash," which laid the groundwork for future developments in [digital currency](../d/digital_currency.md). 
+The concept of eCash is not new. It dates back to the late 20th century when the idea of [money](../m/money.md) that could be transacted through electronic means started to take shape. One of the earliest and most notable instances of eCash was introduced by David Chaum in 1983. Chaum introduced an anonymous cryptographic [electronic money](../e/electronic_money.md) called "eCash," which laid the groundwork for future developments in [digital currency](../d/digital_currency.md).
 
 ### Early Developments
 
@@ -79,25 +79,21 @@ Several companies and platforms are at the forefront of eCash innovation, each c
 
 [PayPal](../p/paypal.md) is a leading digital [payment](../p/payment.md) platform that enables individuals and businesses to send and receive [money](../m/money.md) online. With over 400 million active users globally, [PayPal](../p/paypal.md) offers a [range](../r/range.md) of services, including online payments, peer-to-peer transactions, and point-of-[sale](../s/sale.md) systems for merchants. [PayPal](../p/paypal.md) continuously innovates to include features such as cryptocurrency trading and integration with eCommerce platforms.
 
-- Website: [PayPal](https://www.paypal.com/)
 
 ### Ripple
 
 [Ripple](../r/ripple.md) is a real-time gross settlement system, [currency exchange](../c/currency_exchange.md), and [remittance](../r/remittance.md) network. Built upon a decentralized [open](../o/open.md)-source protocol, [Ripple](../r/ripple.md) facilitates instant and secure cross-border transactions. [Ripple](../r/ripple.md)'s native cryptocurrency, XRP, is used within the network to provide [liquidity](../l/liquidity.md) and ease cross-[currency](../c/currency.md) payments.
 
-- Website: [Ripple](https://ripple.com/)
 
 ### Coinbase
 
 [Coinbase](../c/coinbase.md) is a [digital currency](../d/digital_currency.md) wallet and platform where merchants and consumers can transact with new digital currencies like [Bitcoin](../b/bitcoin.md), [Ethereum](../e/ethereum_.md), and Litecoin. [Coinbase](../c/coinbase.md) provides a secure environment for buying, selling, transferring, and storing [digital currency](../d/digital_currency.md).
 
-- Website: [Coinbase](https://www.coinbase.com/)
 
 ### Blockchain.com
 
 [Blockchain](../b/blockchain_in_trading.md).com is a platform that provides various services related to cryptocurrencies, including a wallet, [exchange](../e/exchange.md), and block explorer. [Blockchain](../b/blockchain_in_trading.md).com aims to create a more [open](../o/open.md), accessible, and fair financial future, leveraging [blockchain](../b/blockchain_in_trading.md) technology to empower users globally.
 
-- Website: [Blockchain.com](https://www.blockchain.com/)
 
 ## Advantages of eCash
 

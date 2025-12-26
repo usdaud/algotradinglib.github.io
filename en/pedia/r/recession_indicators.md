@@ -114,10 +114,10 @@ By harnessing these indicators, traders can build [robust](../r/robust.md) algo-
 
 For more information on integrating [economic indicators](../e/economic_indicators.md) into algo-[trading models](../t/trading_models.md), you can explore resources such as:
 
-- [Institute for Supply Management](https://www.ismworld.org)
-- [U.S. Bureau of Labor Statistics](https://www.bls.gov)
-- [The Conference Board](https://www.conference-board.org)
-- [Bureau of Economic Analysis](https://www.bea.gov)
-- [Federal Reserve](https://www.federalreserve.gov)
+- Institute for Supply Management
+- U.S. Bureau of Labor Statistics
+- The Conference Board
+- Bureau of Economic Analysis
+- Federal Reserve
 
 Understanding and applying [recession](../r/recession.md) indicators in [algorithmic trading](../a/algorithmic_trading.md) requires a blend of economic knowledge and technical prowess. While no model is foolproof, leveraging a combination of leading, lagging, and coincident indicators can provide valuable insights into potential economic shifts, thereby supporting more informed trading decisions.

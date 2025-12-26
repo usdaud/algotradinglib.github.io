@@ -76,19 +76,19 @@ Several financial institutions and companies specialize in creating, managing, a
 
 MSCI provides indexes and analytics for [equity](../e/equity.md), [fixed income](../f/fixed_income.md), and [hedge fund](../h/hedge_fund.md) investment markets, and their indices like the MSCI Growth Indexes focus heavily on identifying growth opportunities globally.
 
-Website: [MSCI Inc.](https://www.msci.com/)
+online platform: MSCI Inc.
 
 ### S&P Dow Jones Indices
 
 A major player in the indices space, S&P Dow Jones Indices offers numerous growth-focused indices, including the S&P 500 Growth [Index](../i/index_instrument.md), which selects companies from the S&P 500 exhibiting strong growth metrics.
 
-Website: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
+online platform: S&P Dow Jones Indices
 
 ### Russell Investments
 
 Russell Investments provides a [range](../r/range.md) of indices focusing on different [market](../m/market.md) segments, with the Russell 1000 Growth [Index](../i/index_instrument.md) being a notable example.
 
-Website: [Russell Investments](https://russellinvestments.com/)
+online platform: Russell Investments
 
 ## Investment Strategies Using Growth-Weighted Indices
 

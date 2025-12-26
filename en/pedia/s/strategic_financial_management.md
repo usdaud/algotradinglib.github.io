@@ -111,4 +111,4 @@ Other major financial transactions can include [capital](../c/capital.md) [restr
 
 Strategic financial management is a comprehensive approach to managing a company's financial resources to achieve its long-term strategic goals. It involves [financial planning](../f/financial_planning.md) and [forecasting](../f/forecasting.md), [capital structure](../c/capital_structure.md) management, investment decision-making, [risk management](../r/risk_management.md), performance measurement and control, and [corporate finance](../c/corporate_finance.md) practices. By integrating financial strategy into the broader corporate strategy, companies can maximize [shareholder value](../s/shareholder_value.md) and ensure long-term growth and sustainability.
 
-For more information, you can visit reputable sources such as [McKinsey & Company](https://www.mckinsey.com/), [PricewaterhouseCoopers (PwC)](https://www.pwc.com), and [Deloitte](https://www2.deloitte.com).
+For more information, you can visit reputable sources such as McKinsey & Company, PricewaterhouseCoopers (PwC), and Deloitte.

@@ -72,10 +72,10 @@ Wellness programs often include a variety of activities and resources such as he
 
 To learn more about these companies and their wellness programs, you can visit their websites:
 
-- [Google](https://www.google.com)
-- [Johnson & Johnson](https://www.jnj.com)
-- [SAS Institute](https://www.sas.com)
-- [Virgin Pulse](https://www.virginpulse.com)
+- Google
+- Johnson & Johnson
+- SAS Institute
+- Virgin Pulse
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Trendline Breakout
 
-A [trendline](../t/trendline.md) [breakout](../b/breakout.md) is a key concept in [technical analysis](../t/technical_analysis.md) that signals a potential shift in the prevailing [market](../m/market.md) [trend](../t/trend.md). This strategy is widely used by traders, especially in [algorithmic trading](../a/algorithmic_trading.md), to identify trading opportunities. 
+A [trendline](../t/trendline.md) [breakout](../b/breakout.md) is a key concept in [technical analysis](../t/technical_analysis.md) that signals a potential shift in the prevailing [market](../m/market.md) [trend](../t/trend.md). This strategy is widely used by traders, especially in [algorithmic trading](../a/algorithmic_trading.md), to identify trading opportunities.
 
 ## Introduction to Trendlines
 
@@ -86,8 +86,8 @@ In Forex trading, [trendline](../t/trendline.md) breakouts can be used to [capit
 
 Several platforms and tools facilitate [trendline](../t/trendline.md) [breakout](../b/breakout.md) strategies in algo trading:
 1. **MetaTrader 4/5**: Widely used for Forex, [offering](../o/offering.md) scripting languages to automate trading.
-2. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud-based platform for [backtesting](../b/backtesting.md) and executing strategies. [QuantConnect](https://www.quantconnect.com/)
-3. **[TradingView](../t/tradingview.md)**: Allows drawing trendlines and integrating custom scripts for [breakout](../b/breakout.md) detection. [TradingView](https://www.tradingview.com/)
+2. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud-based platform for [backtesting](../b/backtesting.md) and executing strategies. QuantConnect
+3. **[TradingView](../t/tradingview.md)**: Allows drawing trendlines and integrating custom scripts for [breakout](../b/breakout.md) detection. TradingView
 
 ## Risks and Challenges
 

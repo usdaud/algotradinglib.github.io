@@ -69,17 +69,14 @@ Some advanced [algorithmic trading](../a/accountability.md) systems are designed
 ### Case Study 1: Renaissance Technologies
 
 Renaissance Technologies, founded by James Simons, is known for its Medallion [Fund](../f/fund.md), which employs sophisticated algorithms to [trade](../t/trade.md) [stocks](../s/stock.md), bonds, [futures](../f/futures.md), and other instruments. The [firm](../f/firm.md)’s models incorporate a wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.md), including those linked to automatic stabilizers. This integration helps Renaissance Technologies maintain remarkable returns by adapting to [economic cycles](../e/economic_cycles.md) swiftly.
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Case Study 2: Two Sigma Investments
 
 Two Sigma Investments leverages [machine learning](../m/machine_learning.md), distributed computing, and large-scale data analysis to drive its [trading strategies](../t/trading_strategies.md). Two Sigma’s algorithms consider variables such as tax [receipts](../r/receipt.md) and [unemployment](../u/unemployment.md) data to gauge economic health and adapt [trading algorithms](../t/trading_algorithms.md) dynamically. Their data-rich approach provides a competitive edge in [market](../m/market.md) predictions.
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ### Case Study 3: Citadel LLC
 
 Citadel LLC uses advanced [quantitative research](../q/quantitative_research.md) and high-frequency [trading strategies](../t/trading_strategies.md). They analyze [economic indicators](../e/economic_indicators.md) influenced by automatic stabilizers to make calculated investment decisions. Citadel’s focus on [robust](../r/robust.md) [data analytics](../d/data_analytics.md) helps the [firm](../f/firm.md) navigate various [economic conditions](../e/economic_conditions.md) effectively.
-[Visit Citadel](https://www.citadel.com/)
 
 ## The Future of Algorithmic Trading and Automatic Stabilizers
 

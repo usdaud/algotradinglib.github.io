@@ -29,7 +29,7 @@ The p-[value](../v/value.md) is the probability that the observed data would occ
 ## Application of Z-Test in Financial Models
 
 ### 1. Stock Prices
-In [financial markets](../f/financial_market.md), analysts often compare the prices of a stock at different times to determine if there has been a significant change. 
+In [financial markets](../f/financial_market.md), analysts often compare the prices of a stock at different times to determine if there has been a significant change.
 
 ### 2. Portfolio Performance
 Z-Tests can be used to compare the performance of different portfolios against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) to assess if a [portfolio manager](../p/portfolio_manager.md) has added significant [value](../v/value.md).
@@ -45,22 +45,22 @@ Algorithmic traders use Z-Tests to validate the performance of different [tradin
 Suppose you are analyzing the returns of a stock. You want to determine if the mean [return](../r/return.md) of the stock over the last year is significantly different from zero. Here’s how you would perform a [Z-Test](../z/z-test_in_trading.md):
 
 1. **State Hypotheses**:
-   - [Null Hypothesis](../n/null_hypothesis.md) (H₀): μ = 0 (The mean [return](../r/return.md) is zero)
-   - Alternative Hypothesis (H₁): μ ≠ 0 (The mean [return](../r/return.md) is not zero)
+ - [Null Hypothesis](../n/null_hypothesis.md) (H₀): μ = 0 (The mean [return](../r/return.md) is zero)
+ - Alternative Hypothesis (H₁): μ ≠ 0 (The mean [return](../r/return.md) is not zero)
 
 2. **Collect Sample Data**:
-   - Assume the sample mean [return](../r/return.md) = 0.02
-   - Assume the population [standard deviation](../s/standard_deviation.md) σ = 0.05
-   - Sample size (n) = 50
+ - Assume the sample mean [return](../r/return.md) = 0.02
+ - Assume the population [standard deviation](../s/standard_deviation.md) σ = 0.05
+ - Sample size (n) = 50
 
 3. **Calculate the [Z-Score](../z/z-score.md)**:
-   \[ Z = \frac{(X̄ - μ₀)}{(\sigma/\sqrt{n})} = \frac{(0.02 - 0)}{(0.05/\sqrt{50})} = 2.828 \]
+ \[ Z = \frac{(X̄ - μ₀)}{(\sigma/\sqrt{n})} = \frac{(0.02 - 0)}{(0.05/\sqrt{50})} = 2.828 \]
 
 4. **Find the p-[Value](../v/value.md)**:
-   - Using Z-tables or statistical software, you find the p-[value](../v/value.md). For Z = 2.828, p = 0.0047.
+ - Using Z-tables or statistical software, you find the p-[value](../v/value.md). For Z = 2.828, p = 0.0047.
 
 5. **Interpret Results**:
-   - Since p < 0.05, you reject the [null hypothesis](../n/null_hypothesis.md). There is significant evidence to suggest that the mean [return](../r/return.md) is not zero.
+ - Since p < 0.05, you reject the [null hypothesis](../n/null_hypothesis.md). There is significant evidence to suggest that the mean [return](../r/return.md) is not zero.
 
 ## Tools and Software for Z-Test in Financial Modeling
 
@@ -80,19 +80,14 @@ MATLAB also offers functionalities to perform Z-Tests with functions like `ztest
 
 ### 1. BlackRock
 BlackRock is one of the world’s leading [asset management](../a/asset_management.md) firms. They use sophisticated statistical models, including Z-Tests, to analyze [financial markets](../f/financial_market.md) and manage investment risks.
-Website: [BlackRock](https://www.blackrock.com/)
-
 ### 2. Goldman Sachs
 Goldman Sachs applies statistical tests, including Z-Tests, in their [algorithmic trading](../a/algorithmic_trading.md) strategies to test hypotheses about [market](../m/market.md) movements and [asset](../a/asset.md) prices.
-Website: [Goldman Sachs](https://www.goldmansachs.com/)
 
 ### 3. JP Morgan
 JP Morgan employs advanced statistical methods like Z-Tests to evaluate [economic indicators](../e/economic_indicators.md) and financial instruments for better decision-making.
-Website: [JP Morgan](https://www.jpmorgan.com/)
 
 ### 4. Renaissance Technologies
 Renowned for their [quantitative trading](../q/quantitative_trading.md) strategies, Renaissance Technologies extensively use statistical tests, including Z-Tests, to validate their models.
-Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 

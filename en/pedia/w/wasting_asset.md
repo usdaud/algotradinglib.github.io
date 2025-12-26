@@ -68,16 +68,16 @@ Periodically upgrading or replacing wasting assets ensures that businesses remai
 ## Industry Examples
 
 ### Oil and Gas
-In the oil and gas [industry](../i/industry.md), wasting assets include reserves of oil and gas. Companies like ExxonMobil (https://corporate.exxonmobil.com) manage these assets through exploration, extraction, and refining processes.
+In the oil and gas [industry](../i/industry.md), wasting assets include reserves of oil and gas. Companies like ExxonMobil ( manage these assets through exploration, extraction, and refining processes.
 
 ### Manufacturing
-[Manufacturing](../m/manufacturing.md) industries heavily rely on machinery and equipment, which are wasting assets due to continuous usage and technological advancements. Caterpillar Inc. (https://www.caterpillar.com) is an example of a company that deals with such assets.
+[Manufacturing](../m/manufacturing.md) industries heavily rely on machinery and equipment, which are wasting assets due to continuous usage and technological advancements. Caterpillar Inc. ( is an example of a company that deals with such assets.
 
 ### Technology
-Technology companies manage intangible wasting assets like software patents and licenses. A company such as Microsoft (https://www.microsoft.com) frequently deals with the [depreciation](../d/depreciation.md) of its intellectual property.
+Technology companies manage intangible wasting assets like software patents and licenses. A company such as Microsoft ( frequently deals with the [depreciation](../d/depreciation.md) of its intellectual property.
 
 ### Mining
-[Mining](../m/mining.md) companies like Rio Tinto (https://www.riotinto.com) manage [mining](../m/mining.md) equipment and mineral reserves as wasting assets, dealing with their gradual [depletion](../d/depletion.md).
+[Mining](../m/mining.md) companies like Rio Tinto ( manage [mining](../m/mining.md) equipment and mineral reserves as wasting assets, dealing with their gradual [depletion](../d/depletion.md).
 
 ## Innovations and Advances
 

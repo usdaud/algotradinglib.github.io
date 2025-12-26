@@ -86,15 +86,15 @@ Several major financial institutions and trading firms are active participants i
 
 ### Nomura Securities
 
-Nomura Securities is a leading Japanese financial services group and investment [bank](../b/bank.md) that is heavily involved in trading JGB [futures](../f/futures.md). More information can be found on their official website: [Nomura Securities](https://www.nomura.co.jp)
+Nomura Securities is a leading Japanese financial services group and investment [bank](../b/bank.md) that is heavily involved in trading JGB [futures](../f/futures.md).
 
 ### Daiwa Securities
 
-Daiwa Securities is another major player in the Japanese securities [industry](../i/industry.md), providing trading and [investment banking](../i/investment_banking.md) services, including JGB [futures](../f/futures.md) trading. More information is available on their official website: [Daiwa Securities](https://www.daiwa-grp.jp)
+Daiwa Securities is another major player in the Japanese securities [industry](../i/industry.md), providing trading and [investment banking](../i/investment_banking.md) services, including JGB [futures](../f/futures.md) trading.
 
 ### Mitsubishi UFJ Financial Group (MUFG)
 
-MUFG is one of the largest financial groups in Japan, [offering](../o/offering.md) a wide [range](../r/range.md) of financial services, including trading in JGB [futures](../f/futures.md). For more details, visit their website: [MUFG](https://www.mufg.jp)
+MUFG is one of the largest financial groups in Japan, [offering](../o/offering.md) a wide [range](../r/range.md) of financial services, including trading in JGB [futures](../f/futures.md).
 
 ## Conclusion
 

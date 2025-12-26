@@ -48,14 +48,13 @@ Improving [efficiency](../e/efficiency.md) involves:
 
 ## Case Studies
 ### Renaissance Technologies
-Renaissance Technologies is renowned for its sophisticated use of [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. Their high occupancy rates in [capital](../c/capital.md) utilization and strategy implementation serve as benchmarks in the [industry](../i/industry.md). More information can be found on their [official site](https://www.rentec.com).
+Renaissance Technologies is renowned for its sophisticated use of [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. Their high occupancy rates in [capital](../c/capital.md) utilization and strategy implementation serve as benchmarks in the [industry](../i/industry.md).
 
 ### Citadel LLC
-Citadel employs a wide [range](../r/range.md) of quantitative methods to maximize [capital](../c/capital.md) and strategy utilization. Their use of advanced [infrastructure](../i/infrastructure.md), including low-latency [trading systems](../t/trading_systems.md), makes them a leader in trading [efficiency](../e/efficiency.md). Learn more on their [website](https://www.citadel.com).
+Citadel employs a wide [range](../r/range.md) of quantitative methods to maximize [capital](../c/capital.md) and strategy utilization. Their use of advanced [infrastructure](../i/infrastructure.md), including low-latency [trading systems](../t/trading_systems.md), makes them a leader in trading [efficiency](../e/efficiency.md).
 
 ### Two Sigma
-Two Sigma uses [data science](../d/data_science_in_trading.md) to drive trading decisions, continually optimizing their strategies and [capital allocation](../c/capital_allocation.md) methods to achieve high occupancy rates. More details available on their [website](https://www.twosigma.com).
+Two Sigma uses [data science](../d/data_science_in_trading.md) to drive trading decisions, continually optimizing their strategies and [capital allocation](../c/capital_allocation.md) methods to
 
 ## Conclusion
 Occupancy rates in trading encompass various dimensions, including [capital](../c/capital.md) utilization, strategy implementation, and [infrastructure](../i/infrastructure.md) [efficiency](../e/efficiency.md). By focusing on these areas, trading firms and individual traders can achieve optimal performance, higher profitability, and reduced risks. The examples of Renaissance Technologies, Citadel LLC, and Two Sigma illustrate how leading firms in the [industry](../i/industry.md) apply these principles effectively.
-

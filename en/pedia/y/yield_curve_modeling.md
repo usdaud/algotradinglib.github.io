@@ -34,7 +34,7 @@ A flat [yield curve](../y/yield_curve.md) suggests that short-term and long-term
 
 ### 1. Bootstrapping
 
-Bootstrapping is a method used to construct a [yield curve](../y/yield_curve.md) from the prices of a series of zero-coupon bonds. It iteratively determines spot rates for increasing maturities by solving for each subsequent [spot rate](../s/spot_rate.md). 
+Bootstrapping is a method used to construct a [yield curve](../y/yield_curve.md) from the prices of a series of zero-coupon bonds. It iteratively determines spot rates for increasing maturities by solving for each subsequent [spot rate](../s/spot_rate.md).
 
 ### 2. Nelson-Siegel Model
 
@@ -75,27 +75,22 @@ The [yield curve](../y/yield_curve.md) serves as a [benchmark](../b/benchmark.md
 ### 1. Bloomberg L.P.
 
 [Bloomberg](../b/bloomberg.md) provides comprehensive financial data services, including advanced tools for [yield curve](../y/yield_curve.md) modeling and analysis. [Bloomberg](../b/bloomberg.md) Terminal, widely used in the financial [industry](../i/industry.md), offers real-time [yield curve](../y/yield_curve.md) data, sophisticated analytical tools, and customizable models for [yield curve](../y/yield_curve.md) construction.
-[Learn More](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. Thomson Reuters (Refinitiv)
 
 Refinitiv, previously part of Thomson [Reuters](../r/reuters.md), offers [robust](../r/robust.md) financial data solutions, including tools for [yield curve](../y/yield_curve.md) modeling. Their Eikon platform provides extensive fixed-[income](../i/income.md) analytics, real-time data, and proprietary models for [yield curve](../y/yield_curve.md) analysis.
-[Learn More](https://www.refinitiv.com/en/products/refinitiv-eikon)
 
 ### 3. QuantLib
 
 [QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) tools and functions for [yield curve](../y/yield_curve.md) modeling. It provides code for bootstrapping, spline [interpolation](../i/interpolation.md), and advanced models like Nelson-Siegel and Svensson, supporting the development of custom [yield curve](../y/yield_curve.md) solutions.
-[Learn More](https://www.quantlib.org/)
 
 ### 4. FINCAD
 
 FINCAD specializes in analytics for [derivative](../d/derivative.md) and fixed-[income](../i/income.md) markets, providing a wide [range](../r/range.md) of tools for [yield curve](../y/yield_curve.md) modeling. Their products [offer](../o/offer.md) comprehensive support for various curve construction methods, [risk management](../r/risk_management.md), and [valuation](../v/valuation.md) of complex securities.
-[Learn More](https://fincad.com/)
 
 ### 5. Moody's Analytics
 
 Moody's Analytics offers solutions for [yield curve](../y/yield_curve.md) construction, [economic forecasting](../e/economic_forecasting.md), and [credit risk](../c/credit_risk.md) assessment. Their data and analytics platforms support advanced [yield curve](../y/yield_curve.md) modeling, integrating economic data and proprietary analytics to enhance decision-making.
-[Learn More](https://www.moodysanalytics.com/)
 
 ## Conclusion
 

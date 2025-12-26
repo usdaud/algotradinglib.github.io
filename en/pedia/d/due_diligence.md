@@ -40,15 +40,15 @@ Due diligence originated in the early 1930s with the passage of the U.S. [Securi
 
 Several firms specialize in providing due diligence services tailored to the [algorithmic trading](../a/accountability.md) [industry](../i/industry.md). These companies [offer](../o/offer.md) a [range](../r/range.md) of services from technical audits to regulatory compliance checks. Here are a few:
 
-- **Apex Group Ltd.**: Apex provides a comprehensive suite of services that include due diligence, [operational risk](../o/operational_risk.md) reviews, and regulatory compliance. [Apex Group](https://www.apexgroup.com/)
+- **Apex Group Ltd.**: Apex provides a comprehensive suite of services that include due diligence, [operational risk](../o/operational_risk.md) reviews, and regulatory compliance. Apex Group
 
-- **Castle Hall Diligence**: Specializes in operational due diligence for [fund](../f/fund.md) managers and investors. They [offer](../o/offer.md) various due diligence programs tailored to different investment strategies, including [algorithmic trading](../a/accountability.md). [Castle Hall Diligence](https://www.castlehalldiligence.com/)
+- **Castle Hall Diligence**: Specializes in operational due diligence for [fund](../f/fund.md) managers and investors. They [offer](../o/offer.md) various due diligence programs tailored to different investment strategies, including [algorithmic trading](../a/accountability.md). Castle Hall Diligence
 
-- **Albourne Partners**: Albourne offers advisory services for investors, including due diligence for [hedge](../h/hedge.md) funds, [private equity](../p/private_equity.md), and [credit](../c/credit.md) strategies. They provide in-depth analysis and monitoring of investment managers. [Albourne Partners](https://www.albourne.com/)
+- **Albourne Partners**: Albourne offers advisory services for investors, including due diligence for [hedge](../h/hedge.md) funds, [private equity](../p/private_equity.md), and [credit](../c/credit.md) strategies. They provide in-depth analysis and monitoring of investment managers. Albourne Partners
 
-- **Duff & Phelps, A Kroll [Business](../b/business.md)**: Known for their financial advisory and due diligence services, Duff & Phelps offers services for evaluating financial, operational, and regulatory risks. [Duff & Phelps](https://www.kroll.com/en)
+- **Duff & Phelps, A Kroll [Business](../b/business.md)**: Known for their financial advisory and due diligence services, Duff & Phelps offers services for evaluating financial, operational, and regulatory risks. Duff & Phelps
 
-- **ACA Group**: ACA provides comprehensive regulatory, governance, and due diligence services tailored to [asset](../a/asset.md) managers, including those engaged in [algorithmic trading](../a/accountability.md). [ACA Group](https://www.acaglobal.com/)
+- **ACA Group**: ACA provides comprehensive regulatory, governance, and due diligence services tailored to [asset](../a/asset.md) managers, including those engaged in [algorithmic trading](../a/accountability.md). ACA Group
 
 ## Conclusion
 

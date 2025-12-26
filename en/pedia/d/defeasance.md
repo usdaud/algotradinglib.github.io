@@ -78,9 +78,9 @@ Once a defeasance is in place, the terms are typically fixed, and the [obligor](
 
 Several companies and financial institutions specialize in providing defeasance services, [offering](../o/offering.md) expertise in structuring and managing defeasance transactions. Some notable companies include:
 
-- **Commercial Defeasance, LLC:** A leading provider of [commercial real estate](../c/commercial_real_estate.md) defeasance services. More information can be found on their [website](https://www.defeasewithease.com/).
-- **AST Defeasance:** Specializes in providing defeasance services for [commercial real estate](../c/commercial_real_estate.md) and other financial [obligations](../o/obligation.md). More information can be found on their [website](https://www.astdefeasance.com/).
-- **Defease with Ease:** Offers complete defeasance solutions, including [financial analysis](../f/financial_analysis.md) and coordination of all legal and administrative aspects. More information can be found on their [website](https://defeasewithease.com/).
+- **Commercial Defeasance, LLC:** A leading provider of [commercial real estate](../c/commercial_real_estate.md) defeasance services.
+- **AST Defeasance:** Specializes in providing defeasance services for [commercial real estate](../c/commercial_real_estate.md) and other financial [obligations](../o/obligation.md).
+- **Defease with Ease:** Offers complete defeasance solutions, including [financial analysis](../f/financial_analysis.md) and coordination of all legal and administrative aspects.
 
 ## Conclusion
 

@@ -100,13 +100,13 @@ During the development and [backtesting](../b/backtesting.md) of [trading algori
 Several companies provide platforms and tools that facilitate the application of non-parametric methods in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com) offers cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) services. Their platform supports the integration of non-parametric methods through extensive libraries and flexible APIs.
+QuantConnect offers cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) services. Their platform supports the integration of non-parametric methods through extensive libraries and flexible APIs.
 
 ### Numerai
-[Numerai](https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and non-parametric methods to build [trading models](../t/trading_models.md). They aggregate models from a global community of data scientists to optimize their trading decisions.
+Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and non-parametric methods to build [trading models](../t/trading_models.md). They aggregate models from a global community of data scientists to optimize their trading decisions.
 
 ### Quantopian (Defunct but relevant)
-Although [Quantopian](https://www.quantopian.com/) ceased operations, its methodology and development environment have influenced other platforms. Quantopian's approach often incorporated non-parametric methods within its strategy development framework, emphasizing the flexibility and robustness these methods can provide.
+Although Quantopian ceased operations, its methodology and development environment have influenced other platforms. Quantopian's approach often incorporated non-parametric methods within its strategy development framework, emphasizing the flexibility and robustness these methods can provide.
 
 ## Conclusion
 

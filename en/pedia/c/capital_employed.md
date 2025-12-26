@@ -24,7 +24,7 @@ Alternatively, it can be calculated as:
 Fixed Assets are long-term [tangible assets](../t/tangible_asset.md) that a company uses to produce goods and services. They include machinery, buildings, land, and equipment. These assets are not expected to be converted into cash within a year.
 
 ### 2. Working Capital
-Working [Capital](../c/capital.md) is the difference between a company’s [current assets](../c/current_assets.md) and [current liabilities](../c/current_liabilities.md). It represents the [liquidity](../l/liquidity.md) available to a [business](../b/business.md). Positive working [capital](../c/capital.md) means the company can cover its short-term liabilities with short-term assets. 
+Working [Capital](../c/capital.md) is the difference between a company’s [current assets](../c/current_assets.md) and [current liabilities](../c/current_liabilities.md). It represents the [liquidity](../l/liquidity.md) available to a [business](../b/business.md). Positive working [capital](../c/capital.md) means the company can cover its short-term liabilities with short-term assets.
 
 \[
 \text{Working [Capital](../c/capital.md)} = \text{[Current Assets](../c/current_assets.md)} - \text{[Current Liabilities](../c/current_liabilities.md)}
@@ -77,13 +77,13 @@ Both methods [yield](../y/yield.md) the same result.
 ## Companies Utilizing Capital Employed
 
 ### General Electric (GE)
-General Electric is a multinational [conglomerate](../c/conglomerate.md) with substantial investments in various sectors like aviation, healthcare, and energy. The company extensively uses [capital](../c/capital.md) employed metrics to manage and evaluate its vast array of assets and investments. More information can be found on their [official website](https://www.ge.com/).
+General Electric is a multinational [conglomerate](../c/conglomerate.md) with substantial investments in various sectors like aviation, healthcare, and energy. The company extensively uses [capital](../c/capital.md) employed metrics to manage and evaluate its vast array of assets and investments.
 
 ### Apple Inc.
-Apple Inc., known for its innovative technology products, uses [capital](../c/capital.md) employed to ensure efficient use of its vast resources and investments in research and development. [Capital](../c/capital.md) employed helps Apple in making strategic decisions regarding product launches and [market](../m/market.md) expansions. More information is available on their [official investor relations page](https://investor.apple.com/).
+Apple Inc., known for its innovative technology products, uses [capital](../c/capital.md) employed to ensure efficient use of its vast resources and investments in research and development. [Capital](../c/capital.md) employed helps Apple in making strategic decisions regarding product launches and [market](../m/market.md) expansions.
 
 ### ExxonMobil
-ExxonMobil, a global oil and gas company, employs [capital](../c/capital.md) employed as a key metric to assess its large-scale [capital](../c/capital.md) investments in oil extraction, refining, and [distribution](../d/distribution.md). This helps in understanding the [return](../r/return.md) on their substantial [capital](../c/capital.md) expenditures. For more details, visit their [official site](https://corporate.exxonmobil.com/).
+ExxonMobil, a global oil and gas company, employs [capital](../c/capital.md) employed as a key metric to assess its large-scale [capital](../c/capital.md) investments in oil extraction, refining, and [distribution](../d/distribution.md). This helps in understanding the [return](../r/return.md) on their substantial [capital](../c/capital.md) expenditures.
 
 ## Conclusion
 

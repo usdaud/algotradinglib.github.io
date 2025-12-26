@@ -67,27 +67,27 @@ Several leading commercial banks operate globally, each [offering](../o/offering
 
 ### JPMorgan Chase
 
-JPMorgan Chase & Co. is one of the largest and most prominent commercial banks in the United States and globally. It provides a [range](../r/range.md) of financial services, including personal banking, [business banking](../b/business_banking.md), [credit](../c/credit.md) cards, [mortgage](../m/mortgage.md) loans, and investment services. [JPMorgan Chase](https://www.jpmorganchase.com/)
+JPMorgan Chase & Co. is one of the largest and most prominent commercial banks in the United States and globally. It provides a [range](../r/range.md) of financial services, including personal banking, [business banking](../b/business_banking.md), [credit](../c/credit.md) cards, [mortgage](../m/mortgage.md) loans, and investment services. JPMorgan Chase
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America [Corporation](../c/corporation.md) is a multinational investment [bank](../b/bank.md) and financial services company headquartered in Charlotte, North Carolina. It serves approximately 67 million consumer and small [business](../b/business.md) clients. [Bank of America](https://www.bankofamerica.com/)
+[Bank](../b/bank.md) of America [Corporation](../c/corporation.md) is a multinational investment [bank](../b/bank.md) and financial services company headquartered in Charlotte, North Carolina. It serves approximately 67 million consumer and small [business](../b/business.md) clients. Bank of America
 
 ### Citibank
 
-Citi is a global [bank](../b/bank.md) that provides consumers, corporations, governments, and institutions with a broad [range](../r/range.md) of financial products and services. Citibank, its banking division, offers various personal and [business banking](../b/business_banking.md) products. [Citibank](https://www.citigroup.com/citi/)
+Citi is a global [bank](../b/bank.md) that provides consumers, corporations, governments, and institutions with a broad [range](../r/range.md) of financial products and services. Citibank, its banking division, offers various personal and [business banking](../b/business_banking.md) products. Citibank
 
 ### HSBC
 
-HSBC [Holdings](../h/holdings.md) plc is a British multinational investment [bank](../b/bank.md) and financial services [holding company](../h/holding_company.md). HSBC operates worldwide, [offering](../o/offering.md) a [range](../r/range.md) of services like personal banking, commercial banking, global banking and markets, and [wealth](../w/wealth.md) and personal banking. [HSBC](https://www.hsbc.com/)
+HSBC [Holdings](../h/holdings.md) plc is a British multinational investment [bank](../b/bank.md) and financial services [holding company](../h/holding_company.md). HSBC operates worldwide, [offering](../o/offering.md) a [range](../r/range.md) of services like personal banking, commercial banking, global banking and markets, and [wealth](../w/wealth.md) and personal banking. HSBC
 
 ### Wells Fargo
 
-Wells Fargo & Company is a diversified financial services company that provides banking, [insurance](../i/insurance.md), investments, [mortgage](../m/mortgage.md), and consumer and commercial [finance](../f/finance.md). It is headquartered in San Francisco, California. [Wells Fargo](https://www.wellsfargo.com/)
+Wells Fargo & Company is a diversified financial services company that provides banking, [insurance](../i/insurance.md), investments, [mortgage](../m/mortgage.md), and consumer and commercial [finance](../f/finance.md). It is headquartered in San Francisco, California. Wells Fargo
 
 ### Barclays
 
-Barclays PLC is a British multinational investment [bank](../b/bank.md) and financial services company. Barclays has operations in retail, wholesale, and [investment banking](../i/investment_banking.md), as well as [wealth management](../w/wealth_management.md), [mortgage](../m/mortgage.md) lending, and [credit](../c/credit.md) cards. [Barclays](https://www.barclays.co.uk/)
+Barclays PLC is a British multinational investment [bank](../b/bank.md) and financial services company. Barclays has operations in retail, wholesale, and [investment banking](../i/investment_banking.md), as well as [wealth management](../w/wealth_management.md), [mortgage](../m/mortgage.md) lending, and [credit](../c/credit.md) cards. Barclays
 
 ## Innovations in Commercial Banking
 

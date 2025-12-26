@@ -54,7 +54,7 @@ Mitigating the effects of [jitter](../j/jitter.md) involves a combination of net
 2. **Algorithm [Optimization](../o/optimization.md)**: Their development team re-engineered their [trading algorithms](../t/trading_algorithms.md) for more efficient data processing, minimizing internal delays.
 3. **Time Synchronization**: By deploying PTP across their [infrastructure](../i/infrastructure.md), they ensured that all systems operated in sync, reducing timing discrepancies.
 
-For more information about [Firm](../f/firm.md) XYZ's successful implementation, you can visit their [official page](https://www.firmxyz.com/jitter-mitigation).
+For more information about [Firm](../f/firm.md) XYZ's successful implementation, you can
 
 ## Conclusion
 

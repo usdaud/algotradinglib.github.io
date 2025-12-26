@@ -1,6 +1,6 @@
 # Pro Rata
 
-Pro rata, a Latin term meaning "in proportion," is a principle universally adopted in [finance](../f/finance.md) and trading that signifies distributions or allocations in proportion to a specific rate or [factor](../f/factor.md). This arithmetic concept ensures fairness, precision, and [equity](../e/equity.md) in dividing financial aspects such as dividends, profits, costs, and assets. 
+Pro rata, a Latin term meaning "in proportion," is a principle universally adopted in [finance](../f/finance.md) and trading that signifies distributions or allocations in proportion to a specific rate or [factor](../f/factor.md). This arithmetic concept ensures fairness, precision, and [equity](../e/equity.md) in dividing financial aspects such as dividends, profits, costs, and assets.
 
 In the financial domain, pro rata can manifest in various forms: prorated dividends, prorated [interest](../i/interest.md), prorated expenses, and prorated [shares](../s/shares.md). Here, the essentials of each segment [will](../w/will.md) be covered, elucidating how pro rata functions and its implications for stakeholders.
 
@@ -85,14 +85,14 @@ The legal system upholds the pro rata principle, particularly in [debt](../d/deb
 \]
 
 **Consolidated Example on Pro-rata Applications:**
-1. **Dividends:** 
-   - A company declares $500,000 dividends. Shareholders' entitlement based on [shares](../s/shares.md) held.
+1. **Dividends:**
+ - A company declares $500,000 dividends. Shareholders' entitlement based on [shares](../s/shares.md) held.
 2. **[Interest](../i/interest.md):**
-   - [Bond](../b/bond.md) purchased midway; prorated [interest](../i/interest.md) calculation until [payment](../p/payment.md) date.
+ - [Bond](../b/bond.md) purchased midway; prorated [interest](../i/interest.md) calculation until [payment](../p/payment.md) date.
 3. **Expenses:**
-   - Rental property and tenant's move-in date.
+ - Rental property and tenant's move-in date.
 4. **[Shares](../s/shares.md):**
-   - Corporate action leading to stock splits.
+ - Corporate action leading to stock splits.
 
 ## Conclusion
 Pro rata stands as a cornerstone concept in [finance](../f/finance.md) and trading, ensuring equitable treatment in the [distribution](../d/distribution.md) of diviэdends, [interest](../i/interest.md), expenses, and assets. It provides a transparent, fair-grounded template for various financial operations, maintaining harmony and precision in fiscal matters. Its consistent application across legal, corporate, and [insurance](../i/insurance.md) domains underscores its indispensability as a fairness-driven arithmetic standard.

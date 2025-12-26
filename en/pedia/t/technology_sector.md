@@ -48,25 +48,25 @@ Key [performance metrics](../p/performance_metrics.md) in the technology sector 
 ## Major Technology Companies
 
 ### Apple Inc.
-Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, among other products. They are also engaged in the [sale](../s/sale.md) of software, services, and digital content. [Apple Inc.](https://www.apple.com/)
+Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, among other products. They are also engaged in the [sale](../s/sale.md) of software, services, and digital content. Apple Inc.
 
 ### Microsoft Corporation
-Microsoft [Corporation](../c/corporation.md) develops license markets and supports a [range](../r/range.md) of software products, services, and devices. The company is best known for its Windows operating system and Office [productivity](../p/productivity.md) suite. [Microsoft Corporation](https://www.microsoft.com/)
+Microsoft [Corporation](../c/corporation.md) develops license markets and supports a [range](../r/range.md) of software products, services, and devices. The company is best known for its Windows operating system and Office [productivity](../p/productivity.md) suite. Microsoft Corporation
 
 ### Alphabet Inc.
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, specializes in Internet-related services and products, including search engines, online advertising technologies, [cloud computing](../c/cloud_computing_in_trading.md), software, and hardware. [Alphabet Inc.](https://abc.xyz/)
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, specializes in Internet-related services and products, including search engines, online advertising technologies, [cloud computing](../c/cloud_computing_in_trading.md), software, and hardware. Alphabet Inc.
 
 ### Amazon.com, Inc.
-Amazon.com, Inc. initially started as an online bookstore but now has diversified into a multitude of product categories and services, including [cloud computing](../c/cloud_computing_in_trading.md) through AWS (Amazon Web Services). [Amazon.com, Inc.](https://www.amazon.com/)
+Amazon.com, Inc. initially started as an online bookstore but now has diversified into a multitude of product categories and services, including [cloud computing](../c/cloud_computing_in_trading.md) through AWS (Amazon Web Services). Amazon.com, Inc.
 
 ### Facebook, Inc. (Meta)
-Meta Platforms, Inc., formerly Facebook, Inc., is focused on building [social media](../s/social_media.md) applications and technologies that include Facebook, Instagram, WhatsApp, and Oculus VR. [Meta Platforms, Inc.](https://about.facebook.com/)
+Meta Platforms, Inc., formerly Facebook, Inc., is focused on building [social media](../s/social_media.md) applications and technologies that include Facebook, Instagram, WhatsApp, and Oculus VR. Meta Platforms, Inc.
 
 ### NVIDIA Corporation
-NVIDIA is best known for its graphics processing units (GPUs) which are essential for gaming and professional visualization. The company is also a key player in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) hardware. [NVIDIA Corporation](https://www.nvidia.com/)
+NVIDIA is best known for its graphics processing units (GPUs) which are essential for gaming and professional visualization. The company is also a key player in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) hardware. NVIDIA Corporation
 
 ### Intel Corporation
-Intel [Corporation](../c/corporation.md) is a leading technology company best known for its semiconductor chips. The company manufactures processors for computers and is heavily involved in the innovation of data center technologies. [Intel Corporation](https://www.intel.com/)
+Intel [Corporation](../c/corporation.md) is a leading technology company best known for its semiconductor chips. The company manufactures processors for computers and is heavily involved in the innovation of data center technologies. Intel Corporation
 
 ## Emerging Trends in the Technology Sector
 
@@ -82,7 +82,7 @@ The Internet of Things refers to the interconnectedness of everyday objects via 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) aims to revolutionize computing by utilizing the principles of quantum mechanics, which can potentially solve complex problems beyond the reach of classical computers.
 
-### 5G Technology 
+### 5G Technology
 5G technology promises stronger, faster, and more reliable wireless communication. This new generation of mobile network technology supports higher data rates, lower latency, and increased capacity.
 
 ## Risks and Challenges
@@ -104,10 +104,10 @@ As technology becomes more pervasive, the risks associated with cyber threats an
 The technology sector is a dynamic and critical component of the global [economy](../e/economy.md), driving innovation, growth, and improvements across various industries. [Investing](../i/investing.md) in this sector offers substantial opportunities but comes with significant risks due to its fast-paced and ever-evolving nature. Those involved in the sector must remain agile and forward-thinking to [capitalize](../c/capitalize.md) on emerging trends and mitigate potential challenges.
 
 For more insights and in-depth resources, visit the following:
-- [Apple Inc.](https://www.apple.com/)
-- [Microsoft Corporation](https://www.microsoft.com/)
-- [Alphabet Inc.](https://abc.xyz/)
-- [Amazon.com, Inc.](https://www.amazon.com/)
-- [Meta Platforms, Inc.](https://about.facebook.com/)
-- [NVIDIA Corporation](https://www.nvidia.com/)
-- [Intel Corporation](https://www.intel.com/)
+- Apple Inc.
+- Microsoft Corporation
+- Alphabet Inc.
+- Amazon.com, Inc.
+- Meta Platforms, Inc.
+- NVIDIA Corporation
+- Intel Corporation

@@ -57,4 +57,4 @@ Beyond his professional accomplishments, Nelson Peltz is involved in various phi
 
 Nelson Peltz's career as an [activist investor](../a/activist_investor.md) and businessman has left an indelible mark on the world of [finance](../f/finance.md). Through Trian [Fund](../f/fund.md) Management, he has demonstrated the power of strategic activism to drive corporate transformation and enhance [shareholder value](../s/shareholder_value.md). His legacy is characterized by a commitment to rigorous analysis, strategic insight, and a relentless pursuit of long-term [value](../v/value.md) creation. As both an influencer and a trailblazer, Peltz continues to shape the future of investment and [corporate governance](../c/corporate_governance.md).
 
-For more information about Nelson Peltz and Trian [Fund](../f/fund.md) Management, visit their official website: [Trian Fund Management](https://trianpartners.com/).
+For more information about Nelson Peltz and Trian [Fund](../f/fund.md) Management,

@@ -34,7 +34,7 @@ With the advent of electronic trading, the role and prevalence of floor traders 
 
 - New technologies have allowed for instant [execution](../e/execution.md) of trades, reducing the need for human intermediaries. Algorithms can now match orders with greater [efficiency](../e/efficiency.md) than manual floor trading.
 
-### Cost Reduction 
+### Cost Reduction
 
 - Electronic trading is generally more cost-effective. Traditional floor trading involved several intermediaries, each taking a cut, whereas electronic platforms reduce these overheads significantly.
 
@@ -55,8 +55,5 @@ Despite the decline in their numbers, floor traders have not been entirely phase
 
 ## Professional Organizations and Further Reading
 
-- **New York Stock [Exchange](../e/exchange.md) (NYSE):** [www.nyse.com](https://www.nyse.com)
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME):** [www.cmegroup.com](https://www.cmegroup.com)
-- **National [Futures](../f/futures.md) Association (NFA):** [www.nfa.futures.org](https://www.nfa.futures.org)
-
+- **New York Stock [Exchange](../e/exchange.md) (NYSE):** - **Chicago Mercantile [Exchange](../e/exchange.md) (CME):** - **National [Futures](../f/futures.md) Association (NFA):**
 In summary, floor traders have historically been vital components of [market](../m/market.md) operations, providing [liquidity](../l/liquidity.md) and facilitating large trades. While their role has evolved with technological advancements, the foundational principles of [market](../m/market.md) making and [liquidity provision](../l/liquidity_provision.md) continue to underlie modern trading practices.

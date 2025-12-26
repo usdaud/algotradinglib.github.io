@@ -27,16 +27,16 @@ Goal-based [investing](../i/investing.md) minimizes emotional biases, such as th
 Several financial services companies and platforms facilitate goal-based [investing](../i/investing.md) through digital tools, [financial planning](../f/financial_planning.md) software, and personalized advisory services. These platforms often [offer](../o/offer.md) goal-tracking features, progress reports, and automated [rebalancing](../r/rebalancing.md).
 
 ### 1. Betterment
-Betterment ([betterment.com](https://www.betterment.com)) is a prominent robo-advisor that emphasizes goal-based [investing](../i/investing.md) by [offering](../o/offering.md) investors personalized advice and [portfolio management](../p/par.md) services tailored to specific financial goals. Users can create [multiple](../m/multiple.md) goals, each with its own funding plan and [risk](../r/risk.md) level.
+Betterment (betterment.com) is a prominent robo-advisor that emphasizes goal-based [investing](../i/investing.md) by [offering](../o/offering.md) investors personalized advice and [portfolio management](../p/par.md) services tailored to specific financial goals. Users can create [multiple](../m/multiple.md) goals, each with its own funding plan and [risk](../r/risk.md) level.
 
 ### 2. Wealthfront
-Wealthfront ([wealthfront.com](https://www.wealthfront.com)) provides a goal-based investment approach where investors can set and track [multiple](../m/multiple.md) financial objectives. The platform uses automated [financial planning](../f/financial_planning.md) and investment algorithms to help users stay on track to meet their goals.
+Wealthfront (wealthfront.com) provides a goal-based investment approach where investors can set and track [multiple](../m/multiple.md) financial objectives. The platform uses automated [financial planning](../f/financial_planning.md) and investment algorithms to help users stay on track to meet their goals.
 
 ### 3. Schwab Intelligent Portfolios
-[Charles Schwab](../c/charles_schwab.md)’s Schwab Intelligent Portfolios ([schwab.com](https://www.schwab.com)) combines goal-oriented [investing](../i/investing.md) with [automated portfolio management](../a/automated_portfolio_management.md). The service allows clients to specify personal goals and uses a diversified [investment strategy](../i/investment_strategy.md) to achieve them.
+[Charles Schwab](../c/charles_schwab.md)’s Schwab Intelligent Portfolios (schwab.com) combines goal-oriented [investing](../i/investing.md) with [automated portfolio management](../a/automated_portfolio_management.md). The service allows clients to specify personal goals and uses a diversified [investment strategy](../i/investment_strategy.md) to achieve them.
 
 ### 4. Vanguard Personal Advisor Services
-Vanguard’s Personal Advisor Services ([investor.vanguard.com](https://investor.vanguard.com)) blends human advisors with digital tools to deliver personalized, goal-based investment strategies. Advisors help clients identify goals, develop tailored investment plans, and provide ongoing support.
+Vanguard’s Personal Advisor Services (investor.vanguard.com) blends human advisors with digital tools to deliver personalized, goal-based investment strategies. Advisors help clients identify goals, develop tailored investment plans, and provide ongoing support.
 
 ## Benefits of Goal-Based Investing
 

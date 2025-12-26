@@ -81,8 +81,8 @@ Startups and rapidly growing companies may opt for PIK [financing](../f/financin
 
 ### Key Players
 
-- **Apollo Global Management:** The [private equity](../p/private_equity.md) [firm](../f/firm.md) frequently employs PIK notes in its acquisitions and portfolio company financings. For more information, visit [Apollo Global Management](https://www.apollo.com).
-- **The Carlyle Group:** Another significant user of PIK instruments in leveraged buyouts and corporate [financing](../f/financing.md). For more details, see [The Carlyle Group](https://www.carlyle.com).
+- **Apollo Global Management:** The [private equity](../p/private_equity.md) [firm](../f/firm.md) frequently employs PIK notes in its acquisitions and portfolio company financings. For more information, visit Apollo Global Management.
+- **The Carlyle Group:** Another significant user of PIK instruments in leveraged buyouts and corporate [financing](../f/financing.md). For more details, see The Carlyle Group.
 
 ## Conclusion
 

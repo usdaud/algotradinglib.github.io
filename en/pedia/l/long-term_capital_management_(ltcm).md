@@ -70,6 +70,3 @@ LTCM's experience has been extensively studied in academic and [market research]
 
 Long-Term [Capital](../c/capital.md) Management's story is a cautionary tale of the dangers of excessive [leverage](../l/leverage.md), [hubris](../h/hubris.md), and overreliance on [quantitative models](../q/quantitative_models.md). While the [firm](../f/firm.md)'s early success showcased the potential of sophisticated financial strategies, its downfall highlighted the importance of [robust](../r/robust.md) [risk management](../r/risk_management.md), the need to account for extreme [market](../m/market.md) scenarios, and the critical role of [liquidity](../l/liquidity.md) in maintaining stability.
 
-For more information about LTCM and detailed case studies on its [rise and fall](../r/rise_fall.md), interested readers can refer to:
-
-- [LTCM Official Website (historical archive)](https://web.archive.org/web/20080915000000*/http://www.ltcm.com/)

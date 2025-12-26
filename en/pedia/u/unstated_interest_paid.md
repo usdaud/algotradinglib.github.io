@@ -98,13 +98,13 @@ Within [corporate finance](../c/corporate_finance.md), structured deals, leverag
 
 Modern financial software like [Bloomberg Terminal](../b/bloomberg_terminal.md), [Reuters](../r/reuters.md) Eikon, and specialized [bond](../b/bond.md) pricing tools [offer](../o/offer.md) features to automatically calculate unstated [interest](../i/interest.md), providing [transparency](../t/transparency.md) and accuracy in [financial analysis](../f/financial_analysis.md).
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: [Bloomberg](https://www.bloomberg.com/)
-- **[Reuters](../r/reuters.md) Eikon**: [Refinitiv](https://www.refinitiv.com/en/products/refinitiv-eikon-trading-software)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Bloomberg
+- **[Reuters](../r/reuters.md) Eikon**: Refinitiv
 - **[Bond](../b/bond.md) Pricing Tools**: Various specialized [bond](../b/bond.md) pricing tools available in the [market](../m/market.md) can [handle](../h/handle.md) complex financial instruments to determine unstated [interest](../i/interest.md).
 
 ### Machine Learning and Algorithms
 
-In the context of [algorithmic trading](../a/accountability.md) and fintech, [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can play a vital role in detecting and pricing unstated [interest](../i/interest.md):
+In the context of [algorithmic trading](../a/algorithmic_trading.md) and fintech, [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can play a vital role in detecting and pricing unstated [interest](../i/interest.md):
 
 - **[Predictive Modeling](../p/predictive_modeling.md)**: Advanced algorithms can predict future price movements of discounted or [premium](../p/premium.md) bonds based on unstated [interest](../i/interest.md) factors.
 - **[Risk Management](../r/risk_management.md)**: AI-driven [risk management](../r/risk_management.md) platforms can identify and quantify risks associated with unstated [interest](../i/interest.md) in complex portfolios.

@@ -31,7 +31,7 @@ If a stock is trading at $100, you could:
 The maximum [profit](../p/profit.md) is attained when the stock price at expiration is equal to the middle [strike price](../s/strike_price.md) (Y). The maximum loss is limited to the initial net [debit](../d/debit.md) (the cost to enter the [trade](../t/trade.md)).
 
 #### Suitability
-This strategy is ideal in a low-[volatility](../v/volatility.md) environment where the [trader](../t/trader.md) expects the stock to stay around the middle [strike price](../s/strike_price.md) at expiration. 
+This strategy is ideal in a low-[volatility](../v/volatility.md) environment where the [trader](../t/trader.md) expects the stock to stay around the middle [strike price](../s/strike_price.md) at expiration.
 
 ### 2. Long Put Butterfly Spread
 
@@ -111,7 +111,7 @@ The [Iron Condor](../i/iron_condor.md) is preferable in a low [volatility](../v/
 
 ### Practical Applications
 
-Butterfly [Options](../o/options.md) Strategies are widely used by traders and [hedge](../h/hedge.md) funds to manage [risk](../r/risk.md) and maximize profits. For instance, the [hedge fund](../h/hedge_fund.md) **Two Sigma Investments** (https://www.twosigma.com/) employs advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) that may include varied [options trading strategies](../o/options_trading_strategies.md) such as butterflies to optimize their portfolios.
+Butterfly [Options](../o/options.md) Strategies are widely used by traders and [hedge](../h/hedge.md) funds to manage [risk](../r/risk.md) and maximize profits. For instance, the [hedge fund](../h/hedge_fund.md) **Two Sigma Investments** ( employs advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) that may include varied [options trading strategies](../o/options_trading_strategies.md) such as butterflies to optimize their portfolios.
 
 ### Conclusion
-Butterfly [Options](../o/options.md) Strategies [offer](../o/offer.md) a palette of low-[risk](../r/risk.md), high-control trading techniques suitable for different [market](../m/market.md) outlooks. While they appear complex, understanding their construction, risks, and payoffs can provide traders with powerful tools to enhance their [trading strategies](../t/trading_strategies.md) in both volatile and non-volatile markets. Careful planning and [execution](../e/execution.md) are key to leveraging these strategies optimally.
+Butterfly [Options](../o/options.md) Strategies [offer](../o/offer.md) a palette of low-[risk](../r/risk.md), high-control trading techniques suitable for different [market](../m/market.md) outlooks. While they appear complex, understanding their construction, risks, and payoffs can provide traders with powerful tools to enhance their [trading strategies](../t/trading_strategies.md) in both volatile and non-volatile markets. Careful planning and [execution](../e/execution.md) are key to leveraging these strategies optimally.

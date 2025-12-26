@@ -13,7 +13,6 @@ RPU helps determine the [efficiency](../e/efficiency.md) of [revenue](../r/reven
 ### Comparative Analysis
 RPU can be used to compare [financial performance](../f/financial_performance.md) across different time periods, product lines, or [customer](../c/customer.md) segments. It helps businesses identify areas with high [revenue](../r/revenue.md) potential and those needing improvement.
 
-### Investor Relations
 Investors often look at RPU as a key performance [indicator](../i/indicator.md) (KPI) to understand a company’s profitability and future [revenue](../r/revenue.md) potential. High and increasing RPU often signals a potentially [lucrative](../l/lucrative.md) investment.
 
 ### Customer Segmentation
@@ -91,13 +90,13 @@ Financial management platforms like Oracle Financials or SAP S/4HANA provide [ro
 ## Real-world Examples
 
 ### Netflix
-Netflix uses RPU to evaluate performance across different regions and [customer](../c/customer.md) segments. By optimizing pricing strategies and enhancing content offerings, Netflix aims to continuously improve its RPU. Learn more about Netflix at [Netflix](https://www.netflix.com).
+Netflix uses RPU to evaluate performance across different regions and [customer](../c/customer.md) segments. By optimizing pricing strategies and enhancing content offerings, Netflix aims to continuously improve its RPU. Learn more about Netflix at Netflix.
 
 ### Spotify
-Spotify measures RPU to understand [revenue](../r/revenue.md) contributions from [premium](../p/premium.md) subscribers versus ad-supported users. By expanding its [premium](../p/premium.md) offerings and improving ad targeting, Spotify works to boost its RPU. [Check](../c/check.md) Spotify's approach [here](https://www.spotify.com).
+Spotify measures RPU to understand [revenue](../r/revenue.md) contributions from [premium](../p/premium.md) subscribers versus ad-supported users. By expanding its [premium](../p/premium.md) offerings and improving ad targeting, Spotify works to boost its RPU. [Check](../c/check.md) Spotify's approach here.
 
 ### Adobe
-Adobe utilizes RPU to track the success of its subscription-based software solutions. By providing innovative features and comprehensive packages, Adobe continuously strives to enhance its RPU. More information can be found at [Adobe](https://www.adobe.com).
+Adobe utilizes RPU to track the success of its subscription-based software solutions. By providing innovative features and comprehensive packages, Adobe continuously strives to enhance its RPU. More information can be found at Adobe.
 
 ## Conclusion
 

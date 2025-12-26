@@ -37,7 +37,7 @@ NGW has significant implications for both the acquiring company and the [market]
 
 ## Negative Goodwill in Practice
 
-Companies in various sectors may report NGW due to diverse [market](../m/market.md) conditions. For instance, during economic downturns or sector-specific declines, distressed assets may be acquired at a fraction of their [fair value](../f/fair_value.md), leading to NGW. 
+Companies in various sectors may report NGW due to diverse [market](../m/market.md) conditions. For instance, during economic downturns or sector-specific declines, distressed assets may be acquired at a fraction of their [fair value](../f/fair_value.md), leading to NGW.
 
 ### Case Study Example:
 In a scenario where a technology [firm](../f/firm.md) acquires a competing smaller [firm](../f/firm.md) struggling with [debt](../d/debt.md), the purchase price might be significantly lesser than the smaller [firm](../f/firm.md)’s [asset valuation](../a/asset_valuation.md) after [liability](../l/liability.md) adjustments, resulting in NGW.
@@ -46,4 +46,3 @@ In a scenario where a technology [firm](../f/firm.md) acquires a competing small
 
 Negative [Goodwill](../g/goodwill.md) (NGW) signals a potentially advantageous [acquisition](../a/acquisition.md) for a buyer, but it also flags some [underlying](../u/underlying.md) complications with the target company. Accurate assessment and proper [accounting](../a/accounting.md) are crucial to reflect this on the acquiring company's [financial statements](../f/financial_statements.md). By understanding and managing NGW effectively, companies can [leverage](../l/leverage.md) bargain purchases to their strategic advantage while maintaining [transparency](../t/transparency.md) and regulatory compliance.
 
-For further information, you may refer to [IFRS 3 Overview on the IFRS website](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-3-business-combinations/).

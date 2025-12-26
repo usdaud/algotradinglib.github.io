@@ -1,6 +1,6 @@
 # Iceberg Order
 
-An iceberg [order](../o/order.md) is a type of [algorithmic trading](../a/accountability.md) [order](../o/order.md) that is large in size but divided into smaller limit orders. These smaller orders, known as "child" orders, are only visible to the [market](../m/market.md) once the [order](../o/order.md) before them has been executed. The primary purpose of iceberg orders is to conceal the actual size of the [order](../o/order.md) to minimize [market](../m/market.md) impact and to prevent other traders from exploiting the information about the large [order](../o/order.md) size, which could lead to unfavorable price movements. This technique derives its name from an iceberg because, much like the physical iceberg, only a small portion of the entire [order](../o/order.md) is visible above the surface at any given time.
+An iceberg [order](../o/order.md) is a type of [algorithmic trading](../a/algorithmic_trading.md) [order](../o/order.md) that is large in size but divided into smaller limit orders. These smaller orders, known as "child" orders, are only visible to the [market](../m/market.md) once the [order](../o/order.md) before them has been executed. The primary purpose of iceberg orders is to conceal the actual size of the [order](../o/order.md) to minimize [market](../m/market.md) impact and to prevent other traders from exploiting the information about the large [order](../o/order.md) size, which could lead to unfavorable price movements. This technique derives its name from an iceberg because, much like the physical iceberg, only a small portion of the entire [order](../o/order.md) is visible above the surface at any given time.
 
 ## Components of Iceberg Orders
 
@@ -36,26 +36,26 @@ In volatile markets, large orders can cause significant price [slippage](../s/sl
 
 Many trading platforms and [brokerage services](../b/brokerage_services.md) [offer](../o/offer.md) iceberg orders as a part of their advanced trading features. Some well-known trading platforms that support iceberg orders include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers Iceberg Orders](https://www.interactivebrokers.com/en/index.php?f=614)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers Iceberg Orders
 
 ### Algorithmic Trading Systems
 
-[Algorithmic trading](../a/accountability.md) systems developed by financial institutions and [hedge](../h/hedge.md) funds often include the capability to execute iceberg orders as part of their suite of strategies for optimal [trade](../t/trade.md) [execution](../e/execution.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems developed by financial institutions and [hedge](../h/hedge.md) funds often include the capability to execute iceberg orders as part of their suite of strategies for optimal [trade](../t/trade.md) [execution](../e/execution.md).
 
 ## Advantages and Disadvantages
 
 ### Advantages
 
 - **Minimized [Market](../m/market.md) Impact**: Iceberg orders reduce the impact of large trades on [market](../m/market.md) prices.
-  
+
 - **Secrecy**: They help in keeping trading intentions secret from competitors.
-  
+
 - **Better Price [Execution](../e/execution.md)**: Smaller [order](../o/order.md) sizes reduce the chances of significant price movement, achieving a better average price.
 
 ### Disadvantages
 
 - **Partial Fills**: There is a [risk](../r/risk.md) that only part of the iceberg [order](../o/order.md) might be executed, particularly if the [market](../m/market.md) moves away from the [order](../o/order.md) price.
-  
+
 - **Higher [Transaction Costs](../t/transaction_costs.md)**: Repeatedly placing smaller orders can lead to higher cumulative [transaction costs](../t/transaction_costs.md), including fees and [spreads](../s/spreads.md).
 
 - **Technical Complexity**: Effective use of iceberg orders often requires sophisticated [trading systems](../t/trading_systems.md) and technology, which can be resource-intensive to build and maintain.

@@ -9,7 +9,7 @@ Net investment is calculated as:
 \[ \text{Net Investment} = \text{Gross Investment} - \text{[Depreciation](../d/depreciation.md)} \]
 
 - **Gross Investment**: This is the total amount of [money](../m/money.md) spent on purchasing or upgrading [capital](../c/capital.md) assets, such as machinery, buildings, and equipment.
-  
+
 - **[Depreciation](../d/depreciation.md)**: This represents the reduction in the [value](../v/value.md) of these assets over time due to wear and tear, obsolescence, or other factors.
 
 ### Example
@@ -61,10 +61,10 @@ Several factors can influence a company's net investment levels:
 ## Case Studies
 
 ### Case Study 1: Apple Inc.
-Apple Inc. is a good example of a company with significant net investment. Known for its yearly updates to its product lines, Apple frequently invests in new technology and equipment. The [depreciation](../d/depreciation.md) of older technology and equipment is accounted for in their [financial statements](../f/financial_statements.md). For more detailed financial data, you can visit [Apple’s Investor Relations page](https://investor.apple.com/).
+Apple Inc. is a good example of a company with significant net investment. Known for its yearly updates to its product lines, Apple frequently invests in new technology and equipment. The [depreciation](../d/depreciation.md) of older technology and equipment is accounted for in their [financial statements](../f/financial_statements.md). For more detailed financial data, you can
 
 ### Case Study 2: Tesla, Inc.
-Tesla Inc.'s [business](../b/business.md) model depends heavily on continual investment in new technologies, [manufacturing](../m/manufacturing.md) facilities, and other [capital](../c/capital.md) assets. Net investment at Tesla is crucial for the development and production of new electric vehicle models and energy products. For detailed financial reports, visit [Tesla’s Investor Relations page](https://ir.tesla.com/).
+Tesla Inc.'s [business](../b/business.md) model depends heavily on continual investment in new technologies, [manufacturing](../m/manufacturing.md) facilities, and other [capital](../c/capital.md) assets. Net investment at Tesla is crucial for the development and production of new electric vehicle models and energy products. For detailed financial reports,
 
 ## Conclusion
 

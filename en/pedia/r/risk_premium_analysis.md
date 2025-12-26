@@ -5,16 +5,16 @@
 ## Types of Risk Premiums
 
 1. **[Equity Risk Premium](../e/equity_risk_premium.md) (ERP):**
-   The [equity risk premium](../e/equity_risk_premium.md) represents the [excess return](../e/excess_return.md) that [investing](../i/investing.md) in the [stock market](../s/stock_market.md) provides over a [risk](../r/risk.md)-free rate, usually taken as government bonds. This [premium](../p/premium.md) compensates investors for taking on the higher [volatility](../v/volatility.md) and potential losses associated with equities.
+ The [equity risk premium](../e/equity_risk_premium.md) represents the [excess return](../e/excess_return.md) that [investing](../i/investing.md) in the [stock market](../s/stock_market.md) provides over a [risk](../r/risk.md)-free rate, usually taken as government bonds. This [premium](../p/premium.md) compensates investors for taking on the higher [volatility](../v/volatility.md) and potential losses associated with equities.
 
 2. **[Credit](../c/credit.md) [Risk Premium](../r/risk_premium.md):**
-   [Credit](../c/credit.md) [risk premium](../r/risk_premium.md) is the additional [yield](../y/yield.md) that investors require for holding corporate bonds over government bonds. This [premium](../p/premium.md) reflects the [default risk](../d/default_risk.md), i.e., the likelihood that the [bond](../b/bond.md) [issuer](../i/issuer.md) may not fulfill its [obligations](../o/obligation.md).
+ [Credit](../c/credit.md) [risk premium](../r/risk_premium.md) is the additional [yield](../y/yield.md) that investors require for holding corporate bonds over government bonds. This [premium](../p/premium.md) reflects the [default risk](../d/default_risk.md), i.e., the likelihood that the [bond](../b/bond.md) [issuer](../i/issuer.md) may not fulfill its [obligations](../o/obligation.md).
 
 3. **[Liquidity Risk](../l/liquidity_risk.md) [Premium](../p/premium.md):**
-   [Liquidity risk](../l/liquidity_risk.md) [premium](../p/premium.md) refers to the extra [return](../r/return.md) expected by investors for holding assets that are not easily tradable or [liquid](../l/liquid.md). Assets with lower [liquidity](../l/liquidity.md) typically require higher [risk](../r/risk.md) premiums to compensate for the difficulty in selling them quickly at a fair price.
+ [Liquidity risk](../l/liquidity_risk.md) [premium](../p/premium.md) refers to the extra [return](../r/return.md) expected by investors for holding assets that are not easily tradable or [liquid](../l/liquid.md). Assets with lower [liquidity](../l/liquidity.md) typically require higher [risk](../r/risk.md) premiums to compensate for the difficulty in selling them quickly at a fair price.
 
 4. **Term [Premium](../p/premium.md):**
-   The term [premium](../p/premium.md) is the additional [return](../r/return.md) that investors [demand](../d/demand.md) for holding longer-term [debt](../d/debt.md) securities instead of [multiple](../m/multiple.md) shorter-term securities. This [premium](../p/premium.md) compensates for the risks associated with [interest rate](../i/interest_rate.md) changes over a longer period.
+ The term [premium](../p/premium.md) is the additional [return](../r/return.md) that investors [demand](../d/demand.md) for holding longer-term [debt](../d/debt.md) securities instead of [multiple](../m/multiple.md) shorter-term securities. This [premium](../p/premium.md) compensates for the risks associated with [interest rate](../i/interest_rate.md) changes over a longer period.
 
 ## Methodologies for Measuring Risk Premiums
 
@@ -57,4 +57,4 @@ Countries like Greece experienced significant increases in their sovereign [bond
 
 ## Conclusion
 
-[Risk premium](../r/risk_premium.md) analysis is an indispensable tool in [finance](../f/finance.md), [offering](../o/offering.md) insights into the additional returns required by investors for taking on [risk](../r/risk.md). By understanding the different types of [risk](../r/risk.md) premiums, methodologies for their measurement, and their applications, [market](../m/market.md) participants can make more informed investment decisions. Real-world case studies further underscore the importance of accurate [risk premium](../r/risk_premium.md) analysis in various economic and [market](../m/market.md) conditions. For more information on specialized financial services related to [risk premium](../r/risk_premium.md) analysis, organizations like [BlackRock](https://www.blackrock.com) and [Morningstar](https://www.morningstar.com) provide comprehensive resources and expertise.
+[Risk premium](../r/risk_premium.md) analysis is an indispensable tool in [finance](../f/finance.md), [offering](../o/offering.md) insights into the additional returns required by investors for taking on [risk](../r/risk.md). By understanding the different types of [risk](../r/risk.md) premiums, methodologies for their measurement, and their applications, [market](../m/market.md) participants can make more informed investment decisions. Real-world case studies further underscore the importance of accurate [risk premium](../r/risk_premium.md) analysis in various economic and [market](../m/market.md) conditions. For more information on specialized financial services related to [risk premium](../r/risk_premium.md) analysis, organizations like BlackRock and Morningstar provide comprehensive resources and expertise.

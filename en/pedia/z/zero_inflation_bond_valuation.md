@@ -57,8 +57,8 @@ Zero [Inflation](../i/inflation.md) Bonds are utilized for various purposes:
 ### Major Issuers and Markets
 Zero [Inflation](../i/inflation.md) Bonds are primarily issued by sovereign governments, with the United States, United Kingdom, and certain [Eurozone](../e/eurozone.md) countries being notable issuers. Prominent examples include:
 
-- **[U.S. Treasury](../u/u.s._treasury.md) [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS)**: Issued by the U.S. Department of the Treasury (https://www.treasurydirect.gov/).
-- **UK [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md)**: Issued by the UK [Debt](../d/debt.md) Management Office (https://www.dmo.gov.uk/).
+- **[U.S. Treasury](../u/u.s._treasury.md) [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS)**: Issued by the U.S. Department of the Treasury (
+- **UK [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md)**: Issued by the UK [Debt](../d/debt.md) Management Office (
 - **[Eurozone](../e/eurozone.md) [Inflation-Linked Bonds](../i/inflation-linked_bonds.md)**: Issued by various countries within the [Eurozone](../e/eurozone.md).
 
 ### Conclusion

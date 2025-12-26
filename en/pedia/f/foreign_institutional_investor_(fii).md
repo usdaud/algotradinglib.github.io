@@ -72,23 +72,23 @@ Several prominent FIIs have played significant roles in the global [financial ma
 
 ### 1. **BlackRock**
 BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms. With assets under management (AUM) exceeding $9 trillion, it plays a crucial role as an FII globally.
-Website: [BlackRock](https://www.blackrock.com/)
+online platform: BlackRock
 
 ### 2. **Vanguard Group**
 The Vanguard Group is another significant player, managing over $7 trillion in global assets. It operates numerous mutual funds and ETFs.
-Website: [Vanguard](https://www.vanguard.com/)
+online platform: Vanguard
 
 ### 3. **Fidelity Investments**
 [Fidelity Investments](../f/fidelity_investments.md) offers a [range](../r/range.md) of [asset management](../a/asset_management.md), [retirement planning](../r/retirement_planning.md), and [brokerage services](../b/brokerage_services.md) with substantial global investments.
-Website: [Fidelity](https://www.fidelity.com/)
+online platform: Fidelity
 
 ### 4. **PIMCO**
 PIMCO specializes in [fixed income](../f/fixed_income.md) and manages over $2 trillion in assets. It has a substantial presence in several international markets.
-Website: [PIMCO](https://www.pimco.com/)
+online platform: PIMCO
 
 ### 5. **Capital Group**
 Known for its American Funds, [Capital](../c/capital.md) Group is a major player in the FII space, managing over $2.6 trillion in assets.
-Website: [Capital Group](https://www.capitalgroup.com/)
+online platform: Capital Group
 
 ## Conclusion
 

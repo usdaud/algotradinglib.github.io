@@ -13,9 +13,9 @@ In the world of [finance](../f/finance.md), the grey [market](../m/market.md) br
 ### Characteristics of Grey Market Trading
 
 1. **Lack of Regulation**: Grey [market](../m/market.md) transactions typically occur outside of regulatory oversight. This means that standard safeguards, such as [investor](../i/investor.md) protections and [transparency](../t/transparency.md) requirements, are often absent.
-  
+
 2. **Price Discrepancies**: Prices in the grey [market](../m/market.md) can differ significantly from those in regulated markets. This is due to varying [supply](../s/supply.md) and [demand](../d/demand.md) dynamics and the lack of pricing standards.
-  
+
 3. **Availability of Goods and Securities**: Products or securities that are unavailable in authorized channels might be found in the grey [market](../m/market.md). This includes items that are yet to be released officially, like pre-release electronics or [pre-IPO](../p/pre-ipo.md) [shares](../s/shares.md).
 
 4. **[Warranty](../w/warranty.md) and Support Issues**: Items purchased through grey markets often do not come with the official [warranty](../w/warranty.md) and support services offered by the manufacturer or authorized dealers.
@@ -52,7 +52,7 @@ This pre-issuance trading can influence the [perceived value](../p/perceived_val
 
 As grey [market](../m/market.md) trades occur in a regulatory blind spot, they present opportunities for [arbitrage](../a/arbitrage.md) and [speculation](../s/speculation.md). Traders might exploit differences in pricing between the grey [market](../m/market.md) and the expected official [market](../m/market.md) prices. This involves higher [risk](../r/risk.md) given the lack of [transparency](../t/transparency.md) and legal protections.
 
-In the context of [algorithmic trading](../a/accountability.md), grey [market](../m/market.md) data can be used to develop models that anticipate the movement of these instruments once they enter the official exchanges. Algorithms might be programmed to detect trends and patterns in grey [market](../m/market.md) prices, informing broader [trading strategies](../t/trading_strategies.md).
+In the context of [algorithmic trading](../a/algorithmic_trading.md), grey [market](../m/market.md) data can be used to develop models that anticipate the movement of these instruments once they enter the official exchanges. Algorithms might be programmed to detect trends and patterns in grey [market](../m/market.md) prices, informing broader [trading strategies](../t/trading_strategies.md).
 
 ## Risks and Challenges
 
@@ -80,7 +80,7 @@ While specific companies might not directly advertise their involvement in grey 
 
 #### Knightsbridge Trading Academy
 
-Knightsbridge Trading Academy offers training on different financial trading methodologies, including insights into grey [market](../m/market.md) trading for sophisticated investors. Their programs cover aspects of trading that incorporate grey [market dynamics](../m/market_dynamics.md) and their effect on official [market](../m/market.md) strategies. [Knightsbridge Trading Academy](https://knightsbridgetradingacademy.com/)
+Knightsbridge Trading Academy offers training on different financial trading methodologies, including insights into grey [market](../m/market.md) trading for sophisticated investors. Their programs cover aspects of trading that incorporate grey [market dynamics](../m/market_dynamics.md) and their effect on official [market](../m/market.md) strategies. Knightsbridge Trading Academy
 
 ### Private Trading Firms
 

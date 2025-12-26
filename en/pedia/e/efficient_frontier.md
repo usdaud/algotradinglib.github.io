@@ -41,22 +41,22 @@ The Efficient Frontier is derived using [mean-variance optimization](../m/mean-v
 
 ### Equations Used
 
-1. **[Expected Return](../e/expected_return.md)**: 
-   \[
-   E(R_p) = \sum_{i=1}^n w_i E(R_i)
-   \]
-   
+1. **[Expected Return](../e/expected_return.md)**:
+ \[
+ E(R_p) = \sum_{i=1}^n w_i E(R_i)
+ \]
+
 2. **[Portfolio Variance](../p/portfolio_variance.md)**:
-   \[
-   \sigma^2_p = \sum_{i=1}^n \sum_{j=1}^n w_i w_j \sigma_{ij}
-   \]
-   where \( w_i \) and \( w_j \) are the weight of assets i and j, and \( \sigma_{ij} \) is the [covariance](../c/covariance.md) between the returns of assets i and j.
+ \[
+ \sigma^2_p = \sum_{i=1}^n \sum_{j=1}^n w_i w_j \sigma_{ij}
+ \]
+ where \( w_i \) and \( w_j \) are the weight of assets i and j, and \( \sigma_{ij} \) is the [covariance](../c/covariance.md) between the returns of assets i and j.
 
 3. **[Optimization](../o/optimization.md) Objective**:
-   \[
-   \text{Maximize } \frac{E(R_p) - R_f}{\sigma_p}
-   \]
-   where \( R_f \) is the [risk](../r/risk.md)-free rate.
+ \[
+ \text{Maximize } \frac{E(R_p) - R_f}{\sigma_p}
+ \]
+ where \( R_f \) is the [risk](../r/risk.md)-free rate.
 
 ### Quadratic Programming
 
@@ -71,14 +71,11 @@ MATLAB provides functions and toolboxes for [portfolio optimization](../p/portfo
 ### Python Libraries
 
 - **PyPortfolioOpt**: A popular library that includes methods for constructing the Efficient Frontier.
-  - [PyPortfolioOpt on GitHub](https://github.com/robertmartin8/PyPortfolioOpt)
+ - PyPortfolioOpt on GitHub
 
 - **Pandas**: Used for data manipulation in constructing portfolios.
-  - [Pandas Official Site](https://pandas.pydata.org/)
 
 - **NumPy and SciPy**: Used for numerical calculations in [portfolio optimization](../p/portfolio_optimization.md).
-  - [NumPy Official Site](https://numpy.org/)
-  - [SciPy Official Site](https://scipy.org/)
 
 ## Practical Applications
 
@@ -93,8 +90,8 @@ Financial advisors use the Efficient Frontier to help clients build retirement p
 ### Robo-Advisors
 
 Automated investment platforms, or robo-advisors, use algorithms to construct portfolios that lie on the Efficient Frontier for their users.
-  - [Betterment](https://www.betterment.com/)
-  - [Wealthfront](https://www.wealthfront.com/)
+ - Betterment
+ - Wealthfront
 
 ## Limitations
 

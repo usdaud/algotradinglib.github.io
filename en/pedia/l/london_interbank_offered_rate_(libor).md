@@ -2,6 +2,8 @@
 
 The London InterBank Offered Rate, commonly known as LIBOR, is a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) at which major global banks lend to one another in the international [interbank market](../i/interbank_market.md) for short-term loans. LIBOR is determined and published by the Intercontinental [Exchange](../e/exchange.md) (ICE) and serves as a globally accepted key [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) that indicates borrowing costs between banks. It influences a wide array of financial products, including mortgages, loans, bonds, and [derivatives](../d/derivatives.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Structure of LIBOR
 
 LIBOR rates are calculated for five currencies and seven borrowing periods, ranging from overnight to one year. The five currencies are:
@@ -53,16 +55,12 @@ The transition away from LIBOR involves several steps, including:
 Several organizations and regulatory bodies are playing critical roles in the LIBOR transition process:
 
 - **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Responsible for the administration and publication of LIBOR.
-  - Website: [ICE Benchmark Administration](https://www.theice.com/iba)
-  
+
 - **Financial Conduct Authority (FCA)**: The UK regulator overseeing the phase-out of LIBOR and its replacement with alternative rates.
-  - Website: [FCA](https://www.fca.org.uk)
 
 - **Alternative Reference Rates Committee (ARRC)**: A group convened by the Federal Reserve to guide the transition from USD LIBOR to SOFR in the U.S.
-  - Website: [ARRC](https://www.newyorkfed.org/arrc)
 
 - **International Swaps and [Derivatives](../d/derivatives.md) Association (ISDA)**: Provides standard documentation and protocols to facilitate the LIBOR transition in the [derivatives](../d/derivatives.md) [market](../m/market.md).
-  - Website: [ISDA](https://www.isda.org)
 
 ## Implications for Financial Markets
 
@@ -93,7 +91,7 @@ The move from LIBOR to new [benchmark](../b/benchmark.md) rates introduces [basi
 The London InterBank Offered Rate (LIBOR) has been a cornerstone of global [financial markets](../f/financial_market.md) for decades, serving as a key [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) for various financial products. However, due to past manipulation scandals and inherent vulnerabilities, a transition to more transparent, [transaction](../t/transaction.md)-based reference rates is underway. Organizations, regulators, and [market](../m/market.md) participants worldwide are actively working towards a more resilient and trustworthy financial [benchmark](../b/benchmark.md) system, ensuring stability and confidence in the [financial markets](../f/financial_market.md).
 
 For further information on the transition process, you can visit:
-- [ICE Benchmark Administration](https://www.theice.com/iba)
-- [FCA LIBOR](https://www.fca.org.uk/markets/libor)
-- [ARRC](https://www.newyorkfed.org/arrc)
-- [ISDA Benchmarks](https://www.isda.org)
+- ICE Benchmark Administration
+- FCA LIBOR
+- ARRC
+- ISDA Benchmarks

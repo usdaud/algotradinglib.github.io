@@ -81,29 +81,29 @@ Divergences between [volume indicators](../v/volume_indicators.md) like OBV or C
 
 #### TradingView
 
-[TradingView](https://www.tradingview.com/) offers a [range](../r/range.md) of tools for [volume](../v/volume.md) flow analysis, including customizable [volume indicators](../v/volume_indicators.md) and real-time data.
+TradingView offers a [range](../r/range.md) of tools for [volume](../v/volume.md) flow analysis, including customizable [volume indicators](../v/volume_indicators.md) and real-time data.
 
 #### Bloomberg Terminal
 
-The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is a comprehensive solution for professional traders, [offering](../o/offering.md) advanced [volume analysis](../v/volume_analysis.md) tools and extensive [market](../m/market.md) data.
+The Bloomberg Terminal is a comprehensive solution for professional traders, [offering](../o/offering.md) advanced [volume analysis](../v/volume_analysis.md) tools and extensive [market](../m/market.md) data.
 
 #### MetaTrader 5
 
-[MetaTrader 5](https://www.metatrader5.com/en) provides a variety of built-in [volume indicators](../v/volume_indicators.md) and support for [algorithmic trading](../a/algorithmic_trading.md) through its MQL5 language.
+MetaTrader 5 provides a variety of built-in [volume indicators](../v/volume_indicators.md) and support for [algorithmic trading](../a/algorithmic_trading.md) through its MQL5 language.
 
 ### Leading Companies in Volume Flow Analysis
 
 #### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md), including those based on [volume](../v/volume.md) flow analysis.
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md), including those based on [volume](../v/volume.md) flow analysis.
 
 #### AlgoTrader
 
-[AlgoTrader](https://www.algotrader.com/) offers an institutional-grade [trading platform](../t/trading_platform.md) with advanced features for [volume](../v/volume.md) flow analysis, supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+AlgoTrader offers an institutional-grade [trading platform](../t/trading_platform.md) with advanced features for [volume](../v/volume.md) flow analysis, supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
 #### QuantInsti
 
-[QuantInsti](https://www.quantinsti.com/) provides educational resources and tools for developing [algorithmic trading](../a/algorithmic_trading.md) strategies, including courses on [volume](../v/volume.md) flow analysis.
+QuantInsti provides educational resources and tools for developing [algorithmic trading](../a/algorithmic_trading.md) strategies, including courses on [volume](../v/volume.md) flow analysis.
 
 ### Conclusion
 

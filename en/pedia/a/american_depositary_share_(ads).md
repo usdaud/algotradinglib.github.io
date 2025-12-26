@@ -1,6 +1,6 @@
 # American Depositary Share (ADS)
 
-An American Depositary Share (ADS) is a U.S. dollar-denominated [equity](../e/equity.md) share of a foreign-based company available for purchase on an American stock [exchange](../e/exchange.md). Each ADS represents one or more [shares](../s/shares.md) of a foreign stock or a fraction of a share. The terms "American Depositary [Shares](../s/shares.md)" and "American Depositary [Receipts](../r/receipt.md)" (ADR) are often used interchangeably. 
+An American Depositary Share (ADS) is a U.S. dollar-denominated [equity](../e/equity.md) share of a foreign-based company available for purchase on an American stock [exchange](../e/exchange.md). Each ADS represents one or more [shares](../s/shares.md) of a foreign stock or a fraction of a share. The terms "American Depositary [Shares](../s/shares.md)" and "American Depositary [Receipts](../r/receipt.md)" (ADR) are often used interchangeably.
 
 ADSs are a way for American investors to invest in non-U.S. companies without dealing with foreign stock exchanges or currencies. They are particularly common for firms from countries where [capital](../c/capital.md) controls or other restrictions make it difficult for foreign investors to purchase [shares](../s/shares.md) directly.
 
@@ -19,9 +19,9 @@ Each ADS can represent one share, [multiple](../m/multiple.md) [shares](../s/sha
 There are three main types of ADS programs:
 
 1. **Sponsored ADRs**: These are created when a foreign company selects a U.S. [bank](../b/bank.md) to serve as the ADR depositary. The foreign company provides [financial statements](../f/financial_statements.md) and other information necessary to comply with U.S. regulations. Sponsored ADRs can be further categorized into three levels based on their complexity and regulatory requirements:
-   - **Level I**: These are the simplest form, traded over-the-counter (OTC). They require minimal reporting to the SEC.
-   - **Level II**: These ADRs are [listed](../l/listed.md) on U.S. stock exchanges (e.g., NYSE or [NASDAQ](../n/nasdaq.md)) and require more stringent reporting to the SEC, including compliance with U.S. GAAP or IFRS.
-   - **Level III**: These involve the same level of SEC reporting as Level II but also include a [capital](../c/capital.md)-raising [transaction](../t/transaction.md) in the U.S. public markets.
+ - **Level I**: These are the simplest form, traded over-the-counter (OTC). They require minimal reporting to the SEC.
+ - **Level II**: These ADRs are [listed](../l/listed.md) on U.S. stock exchanges (e.g., NYSE or [NASDAQ](../n/nasdaq.md)) and require more stringent reporting to the SEC, including compliance with U.S. GAAP or IFRS.
+ - **Level III**: These involve the same level of SEC reporting as Level II but also include a [capital](../c/capital.md)-raising [transaction](../t/transaction.md) in the U.S. public markets.
 
 2. **Unsponsored ADRs**: These ADRs are created without the involvement of the foreign company. Instead, a U.S. [broker](../b/broker.md) or investment [bank](../b/bank.md) creates them based on existing [shares](../s/shares.md) trading in the foreign [market](../m/market.md). Unsponsored ADRs do not require the foreign company to provide financial information or comply with U.S. regulations.
 
@@ -67,22 +67,18 @@ Numerous foreign companies have successfully issued ADSs to [gain](../g/gain.md)
 ### Alibaba Group Holding Limited
 Alibaba, the Chinese e-[commerce](../c/commerce.md) giant, issued ADSs on the New York Stock [Exchange](../e/exchange.md) (NYSE) under the [ticker symbol](../t/ticker_symbol.md) BABA. Each ADS represents eight ordinary [shares](../s/shares.md) of Alibaba.
 
-- [Alibaba Investor Relations](https://www.alibabagroup.com/en/ir/home)
 
 ### Royal Dutch Shell
 Royal Dutch Shell, a global energy and petrochemical company, has ADSs traded on the NYSE under the [ticker symbol](../t/ticker_symbol.md) RDS.A and RDS.B. Each ADS represents two ordinary [shares](../s/shares.md) of Shell.
 
-- [Royal Dutch Shell Investor Relations](https://www.shell.com/investors.html)
 
 ### Baidu, Inc.
 Baidu, a leading Chinese internet search provider, lists its ADSs on [NASDAQ](../n/nasdaq.md) under the [ticker symbol](../t/ticker_symbol.md) BIDU. Each ADS represents 10 Class A ordinary [shares](../s/shares.md) of Baidu.
 
-- [Baidu Investor Relations](http://ir.baidu.com/phoenix.zhtml?c=188488&p=irol-irhome)
 
 ### Toyota Motor Corporation
 Toyota, the Japanese automotive manufacturer, has ADSs traded on the NYSE under the [ticker symbol](../t/ticker_symbol.md) TM. Each ADS represents two ordinary [shares](../s/shares.md) of Toyota.
 
-- [Toyota Investor Relations](https://global.toyota/en/ir/)
 
 ## Regulatory Environment
 

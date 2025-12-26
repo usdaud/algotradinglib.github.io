@@ -76,4 +76,4 @@ Staged funding involves providing [capital](../c/capital.md) to a company in [mu
 ## Conclusion
 [Venture capital](../v/venture_capital.md) is a powerful tool for funding innovative startups and high-growth companies. By understanding the various types of [venture capital](../v/venture_capital.md), the funding stages, and the strategies for identifying viable investments and managing [risk](../r/risk.md), investors can make informed decisions and achieve substantial returns. As the [venture capital](../v/venture_capital.md) landscape continues to evolve, staying informed and adapting to new trends and opportunities [will](../w/will.md) be crucial for success.
 
-For more information on [venture capital](../v/venture_capital.md) strategies, visit [Sequoia Capital](https://www.sequoiacap.com/) and [Andreessen Horowitz](https://a16z.com/).
+For more information on [venture capital](../v/venture_capital.md) strategies, visit Sequoia Capital and Andreessen Horowitz.

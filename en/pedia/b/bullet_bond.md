@@ -52,11 +52,11 @@ Algorithms can manage the [interest rate risk](../i/interest_rate_risk.md) assoc
 
 Several financial institutions and platforms focus on the trading and issuance of bullet bonds. Notable among them are:
 
-- **BlackRock**: One of the world's largest [asset management](../a/asset_management.md) firms, BlackRock manages a [wide variety](../w/wide_variety.md) of fixed-[income](../i/income.md) portfolios that include bullet bonds (https://www.blackrock.com).
-  
-- **PIMCO**: This leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializes in [fixed income](../f/fixed_income.md) and has extensive offerings in bullet bonds (https://www.pimco.com).
-  
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: An indispensable tool for [bond](../b/bond.md) traders, [Bloomberg](../b/bloomberg.md) provides comprehensive data and analytics for bullet bonds and facilitates electronic trading (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal).
+- **BlackRock**: One of the world's largest [asset management](../a/asset_management.md) firms, BlackRock manages a [wide variety](../w/wide_variety.md) of fixed-[income](../i/income.md) portfolios that include bullet bonds (
+
+- **PIMCO**: This leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializes in [fixed income](../f/fixed_income.md) and has extensive offerings in bullet bonds (
+
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: An indispensable tool for [bond](../b/bond.md) traders, [Bloomberg](../b/bloomberg.md) provides comprehensive data and analytics for bullet bonds and facilitates electronic trading (
 
 ## Conclusion
 

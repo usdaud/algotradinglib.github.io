@@ -9,9 +9,9 @@ The concept of the RTN originated back in 1910, when the American Bankers Associ
 An RTN is always a nine-digit number. This numerical sequence is divided into three main parts, each serving a distinct purpose in the identification process.
 
 1. **Institution Identifier**: The first four digits of the RTN identify the [Federal Reserve Bank](../f/federal_reserve_bank.md) district where the institution is located. These districts [range](../r/range.md) from 01 to 12, representing different geographic areas across the United States.
-  
+
 2. **[Bank](../b/bank.md) Designation**: The following four digits serve as an identifier for the specific [bank](../b/bank.md) or financial institution. These are assigned by the ABA and help in differentiating between various banks within the same Federal Reserve district.
-  
+
 3. **[Check](../c/check.md) Digit**: The final digit, known as the [check](../c/check.md) digit, is used for validation purposes, ensuring the accuracy of the preceding numbers. It is calculated through a modulus 10 algorithm and helps prevent errors in the entry and processing of routing numbers.
 
 For example, an RTN of 123456789 can be dissected as:
@@ -44,9 +44,9 @@ ACH transactions involve a network that processes large volumes of [credit](../c
 Routing Transit Numbers have become indispensable for the functioning of the U.S. banking system for several reasons:
 
 - **Accuracy and [Efficiency](../e/efficiency.md)**: They reduce errors and delays in the processing of financial transactions by automating and standardizing the identification of banks.
-  
+
 - **[Security](../s/security.md)**: The use of [check](../c/check.md) digits and algorithmic validation helps prevent fraudulent activities and mistakes.
-  
+
 - **Interoperability**: RTNs facilitate seamless inter-[bank](../b/bank.md) transactions, regardless of the banks' locations within the country.
 
 ## Differences Between RTNs and Other Codes
@@ -70,11 +70,11 @@ In the United Kingdom, a sort code is used to identify banks and their branches 
 There are various ways for customers to find the RTN of their [bank](../b/bank.md). These include:
 
 1. **Checks**: The RTN is typically printed on the bottom left corner of checks, preceding the [account number](../a/account_number.md) and [check](../c/check.md) number.
-  
+
 2. **[Bank](../b/bank.md) Statements**: Monthly [bank](../b/bank.md) statements often include the RTN.
-  
+
 3. **[Online Banking](../o/online_banking.md)**: Most banks provide RTN information through their [online banking](../o/online_banking.md) portals.
-  
+
 4. **[Customer Service](../c/customer_service.md)**: [Bank](../b/bank.md) customers can always contact their [bank](../b/bank.md)'s [customer service](../c/customer_service.md) for the RTN.
 
 ## Modern Applications and Innovations
@@ -102,11 +102,11 @@ New real-time [payment](../p/payment.md) systems and networks are being designed
 Many large banks in the U.S. are easily identifiable by their RTNs. Here are a few examples:
 
 - **JPMorgan Chase**: One of the largest banks in the U.S., Chase uses [multiple](../m/multiple.md) RTNs based on location, such as 021000021 for New York.
-  
+
 - **[Bank](../b/bank.md) of America**: Known for its widespread services, [Bank](../b/bank.md) of America has RTNs like 026009593.
-  
+
 - **Wells Fargo**: This institution also uses different RTNs based on regions, such as 121000248 for Northern California.
-  
+
 - **Citibank**: Citibank’s RTNs include numbers like 021000089.
 
 In conclusion, the Routing Transit Number (RTN) system remains a backbone of the U.S. financial [infrastructure](../i/infrastructure.md), facilitating a wide [range](../r/range.md) of financial activities. Understanding its structure, functions, and its role in modern banking is essential for anyone navigating the complexities of financial transactions in the United States. With ongoing advancements in fintech, the role and applications of RTNs are poised for further evolution.

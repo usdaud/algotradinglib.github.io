@@ -58,7 +58,7 @@ Several investment firms and [hedge](../h/hedge.md) funds specialize in [gamma e
 #### Example: Susquehanna International Group (SIG)
 Susquehanna International Group is a global [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) specializing in a variety of strategies, including [gamma](../g/gamma.md) [exposure management](../e/exposure_management.md). Their approach to [gamma trading](../g/gamma_trading.md) involves sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [proprietary trading](../p/proprietary_trading.md) systems.
 
-Website: [Susquehanna International Group](https://www.sig.com)
+online platform: Susquehanna International Group
 
 ### Market Makers
 [Market](../m/market.md) makers play a vital role in [options](../o/options.md) markets by providing [liquidity](../l/liquidity.md) and continuously quoting [bid and ask](../b/bid_and_ask.md) prices for [options](../o/options.md). Managing [gamma exposure](../g/gamma_exposure.md) is essential for [market](../m/market.md) makers to mitigate the risks associated with large price movements in [underlying](../u/underlying.md) assets.
@@ -66,7 +66,7 @@ Website: [Susquehanna International Group](https://www.sig.com)
 #### Example: Optiver
 Optiver is a leading [market](../m/market.md)-making [firm](../f/firm.md) that focuses on providing [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md). They utilize advanced trading techniques and [risk management](../r/risk_management.md) tools to [handle](../h/handle.md) [gamma exposure](../g/gamma_exposure.md) effectively.
 
-Website: [Optiver](https://www.optiver.com)
+online platform: Optiver
 
 ## Conclusion
 

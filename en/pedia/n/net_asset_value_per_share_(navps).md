@@ -10,7 +10,7 @@ The formula to compute NAVPS is straightforward:
 
 \[ \text{NAVPS} = \frac{\text{Total Net Assets}}{\text{Total Number of [Shares](../s/shares.md) Outstanding}} \]
 
-Here, "Total Net Assets" is the difference between the total assets and liabilities of the [fund](../f/fund.md). 
+Here, "Total Net Assets" is the difference between the total assets and liabilities of the [fund](../f/fund.md).
 
 ### Steps
 1. **Total Assets**: Calculate the total [market value](../m/market_value.md) of all the assets held by the [fund](../f/fund.md).

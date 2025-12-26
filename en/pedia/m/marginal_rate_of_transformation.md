@@ -22,7 +22,7 @@ In the context of firms and production, isoquant curves depict combinations of v
 
 Mathematically, the MRT is the ratio of the marginal products (MP) of two goods. If the goods being produced are X and Y, and the marginal products of these goods are MPX and MPY, then the MRT can be expressed as:
 
-    MRT = - (dY/dX) = MPX / MPY
+ MRT = - (dY/dX) = MPX / MPY
 
 This formula implies that the MRT is the rate at which one good must decrease to allow for the production of an additional unit of another good.
 
@@ -56,20 +56,20 @@ Assume a farm produces wheat and corn. The table below shows possible combinatio
 
 | Combination | Wheat (tons) | Corn (tons) |
 |-------------|---------------|-------------|
-| A           | 100           | 0           |
-| B           | 80            | 20          |
-| C           | 60            | 35          |
-| D           | 40            | 45          |
-| E           | 20            | 50          |
-| F           | 0             | 55          |
+| A | 100 | 0 |
+| B | 80 | 20 |
+| C | 60 | 35 |
+| D | 40 | 45 |
+| E | 20 | 50 |
+| F | 0 | 55 |
 
 The MRT between combinations can be calculated using the formula given earlier. For instance, the MRT between combination A (100 tons wheat, 0 tons corn) and combination B (80 tons wheat, 20 tons corn) is:
 
-    MRT = (Change in Corn) / (Change in Wheat)
-    
-    MRT = (20 - 0) / (80 - 100)
-    
-    MRT = -20 / -20 = 1
+ MRT = (Change in Corn) / (Change in Wheat)
+
+ MRT = (20 - 0) / (80 - 100)
+
+ MRT = -20 / -20 = 1
 
 This means that for every ton of corn produced, the farm must sacrifice one ton of wheat.
 
@@ -99,7 +99,7 @@ The MRT can be formally represented and analyzed using differential calculus, pa
 
 Consider a production function F(x, y), where x and y represent two goods. The MRT between these goods can be
 
-    MRT(x, y) = - (∂y/∂x) | F(x, y) = constant
+ MRT(x, y) = - (∂y/∂x) | F(x, y) = constant
 
 This partial [derivative](../d/derivative.md) reflects the change in output y for a marginal change in output x while holding the production level constant, thus providing a precise measure of the [opportunity cost](../o/opportunity_cost.md) in terms of the sacrificed good.
 

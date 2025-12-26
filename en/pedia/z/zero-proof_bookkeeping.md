@@ -22,7 +22,7 @@ In the fintech sector, Zero-Proof Bookkeeping can provide a higher level of [sec
 
 ### Algotrading
 
-In [algorithmic trading](../a/accountability.md), maintaining accurate and timely financial data is crucial. Zero-Proof Bookkeeping ensures that all transactions are recorded in real-time and are immutable. This can significantly reduce the [risk](../r/risk.md) of [fraud](../f/fraud.md) and manipulation, which is critical in high-frequency trading environments.
+In [algorithmic trading](../a/algorithmic_trading.md), maintaining accurate and timely financial data is crucial. Zero-Proof Bookkeeping ensures that all transactions are recorded in real-time and are immutable. This can significantly reduce the [risk](../r/risk.md) of [fraud](../f/fraud.md) and manipulation, which is critical in high-frequency trading environments.
 
 ### Traditional Banking
 
@@ -48,10 +48,10 @@ In [supply chain](../s/supply_chain.md) management, tracking the movement of goo
 ## Companies Leading the Way
 
 Several companies are at the forefront of implementing Zero-Proof Bookkeeping solutions:
-- **Chainlink**: Provides decentralized oracle networks that can bring off-chain data onto the [blockchain](../b/blockchain_in_trading.md) in secure and reliable manner ([Chainlink](https://chain.link/)).
-- **Consensys**: Focuses on building [infrastructure](../i/infrastructure.md), applications, and practices for [blockchain](../b/blockchain_in_trading.md) ecosystems, including [finance](../f/finance.md) ([Consensys](https://consensys.net/)).
-- **R3**: Known for its enterprise [blockchain](../b/blockchain_in_trading.md) platform, Corda, which allows businesses to transact directly and privately using [smart contracts](../s/smart_contracts_in_trading.md) ([R3](https://www.r3.com/)).
-- **IBM [Blockchain](../b/blockchain_in_trading.md)**: IBM offers [blockchain](../b/blockchain_in_trading.md) solutions that enable businesses to create transparent and secure environments ([IBM Blockchain](https://www.ibm.com/blockchain)).
+- **Chainlink**: Provides decentralized oracle networks that can bring off-chain data onto the [blockchain](../b/blockchain_in_trading.md) in secure and reliable manner (Chainlink).
+- **Consensys**: Focuses on building [infrastructure](../i/infrastructure.md), applications, and practices for [blockchain](../b/blockchain_in_trading.md) ecosystems, including [finance](../f/finance.md) (Consensys).
+- **R3**: Known for its enterprise [blockchain](../b/blockchain_in_trading.md) platform, Corda, which allows businesses to transact directly and privately using [smart contracts](../s/smart_contracts_in_trading.md) (R3).
+- **IBM [Blockchain](../b/blockchain_in_trading.md)**: IBM offers [blockchain](../b/blockchain_in_trading.md) solutions that enable businesses to create transparent and secure environments (IBM Blockchain).
 
 ## Future Outlook
 

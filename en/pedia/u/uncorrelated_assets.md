@@ -66,19 +66,16 @@ Several financial firms and investment managers specialize in creating portfolio
 
 Bridgewater Associates, founded by Ray Dalio, is known for its "All Weather" [investment strategy](../i/investment_strategy.md), which aims to perform well in various economic environments by holding a diversified mix of uncorrelated assets. The [firm](../f/firm.md) uses a combination of [global equities](../g/global_equities.md), bonds, commodities, and currencies to achieve this goal.
 
-Visit their website: [Bridgewater Associates](https://www.bridgewater.com)
 
 ### BlackRock
 
 BlackRock, one of the world’s largest [asset management](../a/asset_management.md) firms, offers various investment strategies that focus on uncorrelated assets. The [firm](../f/firm.md)’s multi-[asset](../a/asset.md) solutions include portfolios that invest in equities, [fixed income](../f/fixed_income.md), real assets, and alternative investments to achieve [diversification](../d/diversification.md) and [risk management](../r/risk_management.md).
 
-Visit their website: [BlackRock](https://www.blackrock.com)
 
 ### PIMCO
 
 PIMCO offers multi-[asset](../a/asset.md) funds that include a diverse [range](../r/range.md) of investments, from [equity](../e/equity.md) and [fixed income](../f/fixed_income.md) to real assets and alternative strategies. By focusing on the uncorrelated nature of these assets, PIMCO aims to provide stable and consistent returns for investors.
 
-Visit their website: [PIMCO](https://www.pimco.com)
 
 ## Algorithmic Trading and Uncorrelated Assets
 

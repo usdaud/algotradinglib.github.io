@@ -18,7 +18,7 @@ Collecting accurate and reliable last price data is crucial. Several primary dat
 
 1. **Stock Exchanges**: Official trading venues like NYSE, [NASDAQ](../n/nasdaq.md), provide real-time last price data.
 2. **Data Providers**: Companies such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Intrinio](../i/intrinio.md) [offer](../o/offer.md) comprehensive datasets.
-3. **Brokers**: Online brokerage platforms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) provide [market](../m/market.md) data feeds.
+3. **Brokers**: Online brokerage platforms like [Interactive Brokers](../i/interactive_brokers.md) ( provide [market](../m/market.md) data feeds.
 
 ## How Last Price is Calculated
 
@@ -76,9 +76,9 @@ Last price analysis plays a crucial role in managing trading risks:
 
 Several sophisticated platforms assist traders and analysts in conducting last price analysis:
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)**: Offers comprehensive analytics and real-time last price data.
-2. **Thomson [Reuters](../r/reuters.md) Eikon (https://www.thomsonreuters.com/en/products-services/financial/trading/financial-trading-software.html)**: Provides in-depth [market](../m/market.md) data and analytical tools.
-3. **[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com/)**: A popular platform for retail traders focusing on price charts and [technical analysis](../t/technical_analysis.md).
+1. **[Bloomberg](../b/bloomberg.md) Terminal ( Offers comprehensive analytics and real-time last price data.
+2. **Thomson [Reuters](../r/reuters.md) Eikon ( Provides in-depth [market](../m/market.md) data and analytical tools.
+3. **[TradingView](../t/tradingview.md) ( A popular platform for retail traders focusing on price charts and [technical analysis](../t/technical_analysis.md).
 
 ## Conclusion
 

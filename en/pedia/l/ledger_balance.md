@@ -76,7 +76,7 @@ Most financial institutions [offer](../o/offer.md) [online banking](../o/online_
 
 ### Fintech Innovations
 
-Companies like Mint (https://www.mint.com) and Personal [Capital](../c/capital.md) (https://www.personalcapital.com) [offer](../o/offer.md) financial management tools that allow users to track their ledger balances across [multiple](../m/multiple.md) accounts, providing a holistic view of their [financial health](../f/financial_health.md).
+Companies like Mint ( and Personal [Capital](../c/capital.md) ( [offer](../o/offer.md) financial management tools that allow users to track their ledger balances across [multiple](../m/multiple.md) accounts, providing a holistic view of their [financial health](../f/financial_health.md).
 
 ## Ledger Balance in Investment Accounts
 

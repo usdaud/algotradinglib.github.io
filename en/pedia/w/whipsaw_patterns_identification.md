@@ -22,7 +22,7 @@ Several factors can contribute to the occurrence of [whipsaw patterns](../w/whip
 
 ### 1. Time Series Analysis
 
-[Time series analysis](../t/time_series_analysis.md) is imperative in identifying [whipsaw patterns](../w/whipsaw_patterns.md). Techniques such as moving averages, exponential moving averages (EMAs), and other [trend](../t/trend.md)-following metrics can help smooth data and identify [underlying](../u/underlying.md) trends despite the [noise](../n/noise.md) created by [whipsaw](../w/whipsaw.md) movements. 
+[Time series analysis](../t/time_series_analysis.md) is imperative in identifying [whipsaw patterns](../w/whipsaw_patterns.md). Techniques such as moving averages, exponential moving averages (EMAs), and other [trend](../t/trend.md)-following metrics can help smooth data and identify [underlying](../u/underlying.md) trends despite the [noise](../n/noise.md) created by [whipsaw](../w/whipsaw.md) movements.
 
 ### 2. Moving Average Convergence Divergence (MACD)
 
@@ -66,9 +66,9 @@ Setting [stop-loss orders](../s/stop-loss_orders.md) can help limit potential lo
 
 #### Hedging Strategies
 
-Using [options](../o/options.md), [futures](../f/futures.md), and other [derivatives](../d/derivatives.md) can provide a [hedge](../h/hedge.md) against the [risk](../r/risk.md) of [whipsaw patterns](../w/whipsaw_patterns.md). 
+Using [options](../o/options.md), [futures](../f/futures.md), and other [derivatives](../d/derivatives.md) can provide a [hedge](../h/hedge.md) against the [risk](../r/risk.md) of [whipsaw patterns](../w/whipsaw_patterns.md).
 
-Algotrading firms like Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/home/default.html) [leverage](../l/leverage.md) sophisticated algorithms and diversified portfolios to mitigate the impact of [whipsaw patterns](../w/whipsaw_patterns.md).
+Algotrading firms like Renaissance Technologies Renaissance Technologies [leverage](../l/leverage.md) sophisticated algorithms and diversified portfolios to mitigate the impact of [whipsaw patterns](../w/whipsaw_patterns.md).
 
 ### Conclusion
 

@@ -78,4 +78,4 @@ Modern digital trading platforms are increasingly integrating mechanisms to faci
 
 Unsponsored ADRs present a nuanced and multifaceted option for U.S. investors looking to diversify their portfolios with foreign equities. While they [offer](../o/offer.md) accessibility and potential growth opportunities, they come with their own set of challenges and risks, primarily revolving around information asymmetry, higher fees, and [liquidity](../l/liquidity.md) concerns. Finally, technological advancements are likely to play a crucial role in enhancing the framework in which unsponsored ADRs operate, potentially providing more transparent, efficient, and [investor](../i/investor.md)-friendly mechanisms in the near future.
 
-For more detailed information, you can visit the SEC's website on ADRs at [SEC ADR Information](https://www.sec.gov/investor/alerts/adr-bulletin.pdf).
+For more detailed information,

@@ -24,23 +24,23 @@ Consumer expectations for financial services have evolved, with a greater [deman
 
 ### Stripe
 
-Stripe [Stripe](https://stripe.com) is a leading player in online payments [infrastructure](../i/infrastructure.md) for the internet. Valued at over $95 billion, Stripe provides an array of products to manage online transactions, billing, and [business](../b/business.md) expenditure. The company’s success is largely attributed to its [robust](../r/robust.md) API, which simplifies the integration of [payment](../p/payment.md) processing into web applications.
+Stripe Stripe is a leading player in online payments [infrastructure](../i/infrastructure.md) for the internet. Valued at over $95 billion, Stripe provides an array of products to manage online transactions, billing, and [business](../b/business.md) expenditure. The company’s success is largely attributed to its [robust](../r/robust.md) API, which simplifies the integration of [payment](../p/payment.md) processing into web applications.
 
 ### Ant Financial
 
-Ant Financial [Ant Financial](https://www.antgroup.com) (now Ant Group), an affiliate company of the Chinese Alibaba Group, has emerged as one of the world's most valuable fintech companies, with an estimated [valuation](../v/valuation.md) of $150 billion. Ant Financial's flagship product, Alipay, is a comprehensive [payment](../p/payment.md) platform that includes mobile payments, peer-to-peer transfers, an online [bank](../b/bank.md), and [wealth management](../w/wealth_management.md) services.
+Ant Financial Ant Financial (now Ant Group), an affiliate company of the Chinese Alibaba Group, has emerged as one of the world's most valuable fintech companies, with an estimated [valuation](../v/valuation.md) of $150 billion. Ant Financial's flagship product, Alipay, is a comprehensive [payment](../p/payment.md) platform that includes mobile payments, peer-to-peer transfers, an online [bank](../b/bank.md), and [wealth management](../w/wealth_management.md) services.
 
 ### Robinhood
 
-[Robinhood](../r/robinhood.md) [Robinhood](https://robinhood.com) revolutionized the brokerage [industry](../i/industry.md) by [offering](../o/offering.md) [commission](../c/commission.md)-free trading. The company, valued at around $11.7 billion, has attracted millions of users with its user-friendly app and democratized access to [financial markets](../f/financial_market.md). [Robinhood](../r/robinhood.md) has played a significant role in popularizing retail [investing](../i/investing.md) and empowering individual traders.
+[Robinhood](../r/robinhood.md) Robinhood revolutionized the brokerage [industry](../i/industry.md) by [offering](../o/offering.md) [commission](../c/commission.md)-free trading. The company, valued at around $11.7 billion, has attracted millions of users with its user-friendly app and democratized access to [financial markets](../f/financial_market.md). [Robinhood](../r/robinhood.md) has played a significant role in popularizing retail [investing](../i/investing.md) and empowering individual traders.
 
 ### Revolut
 
-Revolut [Revolut](https://www.revolut.com) is a UK-based fintech company providing banking services, including a prepaid [debit](../d/debit.md) card, [currency exchange](../c/currency_exchange.md), cryptocurrency [exchange](../e/exchange.md), and peer-to-peer payments. With a [valuation](../v/valuation.md) exceeding $33 billion, Revolut's success stems from its all-in-one financial app that caters to a global audience.
+Revolut Revolut is a UK-based fintech company providing banking services, including a prepaid [debit](../d/debit.md) card, [currency exchange](../c/currency_exchange.md), cryptocurrency [exchange](../e/exchange.md), and peer-to-peer payments. With a [valuation](../v/valuation.md) exceeding $33 billion, Revolut's success stems from its all-in-one financial app that caters to a global audience.
 
 ### Square
 
-Square [Square](https://squareup.com) is another remarkable player in the fintech landscape. Initially known for its point-of-[sale](../s/sale.md) solutions for small businesses, Square has diversified its offerings to include peer-to-peer payments (Cash App), small [business](../b/business.md) loans (Square [Capital](../c/capital.md)), and cryptocurrency services. Its [valuation](../v/valuation.md) exceeds $120 billion, reflecting its expansive [market](../m/market.md) reach.
+Square Square is another remarkable player in the fintech landscape. Initially known for its point-of-[sale](../s/sale.md) solutions for small businesses, Square has diversified its offerings to include peer-to-peer payments (Cash App), small [business](../b/business.md) loans (Square [Capital](../c/capital.md)), and cryptocurrency services. Its [valuation](../v/valuation.md) exceeds $120 billion, reflecting its expansive [market](../m/market.md) reach.
 
 ## Impact and Implications
 

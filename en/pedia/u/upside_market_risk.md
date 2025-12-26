@@ -48,15 +48,15 @@ Several financial products are designed to harness [upside](../u/upside.md) [mar
 
 ### Renaissance Technologies
 
-Renaissance Technologies, led by Jim Simons, has been a pioneer in capturing [upside](../u/upside.md) [market risk](../m/market_risk.md) using quantitative methods. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has generated outsized returns through sophisticated models that identify and exploit [market](../m/market.md) inefficiencies. More about their strategies can be found on their [website](https://www.rentec.com).
+Renaissance Technologies, led by Jim Simons, has been a pioneer in capturing [upside](../u/upside.md) [market risk](../m/market_risk.md) using quantitative methods. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has generated outsized returns through sophisticated models that identify and exploit [market](../m/market.md) inefficiencies.
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management employs a disciplined, systematic approach to [investing](../i/investing.md), focusing on both downside and [upside](../u/upside.md) risks. Their research-driven philosophy emphasizes [diversification](../d/diversification.md), [risk management](../r/risk_management.md), and tactical [asset allocation](../a/asset_allocation.md) to harness [market](../m/market.md) opportunities. For detailed insights, visit their [website](https://www.aqr.com).
+AQR [Capital](../c/capital.md) Management employs a disciplined, systematic approach to [investing](../i/investing.md), focusing on both downside and [upside](../u/upside.md) risks. Their research-driven philosophy emphasizes [diversification](../d/diversification.md), [risk management](../r/risk_management.md), and tactical [asset allocation](../a/asset_allocation.md) to harness [market](../m/market.md) opportunities. For detailed insights,
 
 ### Two Sigma Investments
 
-Two Sigma Investments focuses on data-driven strategies to capture [upside](../u/upside.md) [market](../m/market.md) risks. Utilizing [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and advanced technologies, Two Sigma's investment algorithms seek to uncover unique patterns and opportunities in the [financial markets](../f/financial_market.md). More information is available on their [website](https://www.twosigma.com).
+Two Sigma Investments focuses on data-driven strategies to capture [upside](../u/upside.md) [market](../m/market.md) risks. Utilizing [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and advanced technologies, Two Sigma's investment algorithms seek to uncover unique patterns and opportunities in the [financial markets](../f/financial_market.md).
 
 ---
 

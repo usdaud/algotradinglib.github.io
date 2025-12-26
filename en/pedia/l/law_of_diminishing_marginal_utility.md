@@ -34,7 +34,7 @@ According to the law of diminishing [marginal utility](../m/marginal_utility.md)
 
 ## Psychological and Behavioral Insights
 
-The notion of diminishing [marginal utility](../m/marginal_utility.md) also links to several [behavioral economics](../b/behavioral_economics.md) concepts. 
+The notion of diminishing [marginal utility](../m/marginal_utility.md) also links to several [behavioral economics](../b/behavioral_economics.md) concepts.
 
 ### Hedonic Adaptation
 

@@ -11,8 +11,8 @@ A NOMAD is an advisory [firm](../f/firm.md) approved by the LSE to guide firms t
 1. **Advisory Role**: The NOMAD provides advice on regulatory requirements, prepares the company for listing, and ensures compliance with [market](../m/market.md) rules.
 2. **[Due Diligence](../d/due_diligence.md)**: Conducts detailed [due diligence](../d/due_diligence.md) on the company to assess its suitability for the public listing.
 3. **Ongoing Compliance**: Ensures the [listed](../l/listed.md) company adheres to AIM rules on a continuous [basis](../b/basis.md).
-4. **[Corporate Governance](../c/corporate_governance.md)**: Advises on the [best practices](../b/best_practices.md) for [corporate governance](../c/corporate_governance.md) and [investor relations](../i/investor_relations.md).
-5. **[Investor Relations](../i/investor_relations.md)**: Assists in communication between the company and its investors.
+4. **[Corporate Governance](../c/corporate_governance.md)**: Advises on the [best practices](../b/best_practices.md) for [corporate governance](../c/corporate_governance.md) and [company filings](../i/investor_relations.md).
+5. **[company filings](../i/investor_relations.md)**: Assists in communication between the company and its investors.
 
 ## Categories of NOMAD Firms
 
@@ -39,17 +39,17 @@ To become a NOMAD, a [firm](../f/firm.md) must apply for and receive approval fr
 The primary responsibilities of a NOMAD include:
 
 1. **Pre-admission**:
-   - Conducting a thorough [due diligence](../d/due_diligence.md) review.
-   - Preparing the Admission Document.
-   - Ensuring the company meets AIM’s eligibility requirements.
+ - Conducting a thorough [due diligence](../d/due_diligence.md) review.
+ - Preparing the Admission Document.
+ - Ensuring the company meets AIM’s eligibility requirements.
 
 2. **Post-admission**:
-   - Providing continuous advice on regulatory compliance.
-   - Ensuring timely disclosures and announcements.
-   - Providing [guidance](../g/guidance.md) on [corporate governance](../c/corporate_governance.md) standards.
+ - Providing continuous advice on regulatory compliance.
+ - Ensuring timely disclosures and announcements.
+ - Providing [guidance](../g/guidance.md) on [corporate governance](../c/corporate_governance.md) standards.
 
 3. **Annual Review**:
-   - Conducting a yearly review of the company to ensure continued adherence to AIM rules.
+ - Conducting a yearly review of the company to ensure continued adherence to AIM rules.
 
 ## The Admission Document
 
@@ -116,8 +116,8 @@ Conversely, there have been instances where lapses in [due diligence](../d/due_d
 
 ## Conclusion
 
-Nominated Advisors are a cornerstone of the AIM [market](../m/market.md), providing indispensable [guidance](../g/guidance.md) and oversight to companies looking to access public [capital](../c/capital.md). Their role in [due diligence](../d/due_diligence.md), compliance, [corporate governance](../c/corporate_governance.md), and [investor relations](../i/investor_relations.md) ensures the AIM [market](../m/market.md) remains a credible and attractive platform for SMEs. As markets continue to evolve, the expertise and diligence of NOMADs [will](../w/will.md) remain crucial in navigating the complexities of public listing and [market](../m/market.md) participation.
+Nominated Advisors are a cornerstone of the AIM [market](../m/market.md), providing indispensable [guidance](../g/guidance.md) and oversight to companies looking to access public [capital](../c/capital.md). Their role in [due diligence](../d/due_diligence.md), compliance, [corporate governance](../c/corporate_governance.md), and [company filings](../i/investor_relations.md) ensures the AIM [market](../m/market.md) remains a credible and attractive platform for SMEs. As markets continue to evolve, the expertise and diligence of NOMADs [will](../w/will.md) remain crucial in navigating the complexities of public listing and [market](../m/market.md) participation.
 
 For more information on a specific Nominated Advisor [firm](../f/firm.md), you can visit their websites. Below are a few examples:
-- [Cenkos Securities](https://www.cenkos.com/)
-- [Shore Capital](https://www.shorecap.co.uk/)
+- Cenkos Securities
+- Shore Capital

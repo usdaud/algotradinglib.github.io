@@ -11,34 +11,34 @@ A limited partnership (LP) is a partnership structure consisting of at least one
 The legal structure of a limited partnership varies by jurisdiction but generally offers a clear delineation of responsibilities and liabilities between general and limited partners. In most locations:
 
 1. **[General Partner](../g/general_partner.md) (GP)**:
-    - Holds [unlimited liability](../u/unlimited_liability.md) for the partnership's debts and [obligations](../o/obligation.md).
-    - Manages the day-to-day operations of the partnership.
-    - Typically, the GP may also have significant [equity](../e/equity.md) stakes and management fees.
+ - Holds [unlimited liability](../u/unlimited_liability.md) for the partnership's debts and [obligations](../o/obligation.md).
+ - Manages the day-to-day operations of the partnership.
+ - Typically, the GP may also have significant [equity](../e/equity.md) stakes and management fees.
 
 2. **Limited Partner (LP)**:
-    - [Liability](../l/liability.md) is limited to their investment in the partnership.
-    - No role in the day-to-day management or operations.
-    - Receives periodic [income](../i/income.md) or [profit](../p/profit.md) distributions based on their investment.
+ - [Liability](../l/liability.md) is limited to their investment in the partnership.
+ - No role in the day-to-day management or operations.
+ - Receives periodic [income](../i/income.md) or [profit](../p/profit.md) distributions based on their investment.
 
 ### Common Uses
 
 Limited partnerships are commonly employed in scenarios that require [capital](../c/capital.md) infusion without diluting control or exposing investors to significant [risk](../r/risk.md). These include:
 
 1. **[Venture Capital Funds](../v/venture_capital_funds.md) (VC)**:
-    - LPs invest in a VC [fund](../f/fund.md) managed by a professional investment [firm](../f/firm.md) (the GP).
-    - The VC [fund](../f/fund.md) invests in high-growth potential startups and emerging companies.
+ - LPs invest in a VC [fund](../f/fund.md) managed by a professional investment [firm](../f/firm.md) (the GP).
+ - The VC [fund](../f/fund.md) invests in high-growth potential startups and emerging companies.
 
 2. **[Private Equity](../p/private_equity.md) Funds (PE)**:
-    - Similar to VC funds but generally invest in established businesses, aiming to improve their performance and profitability.
-    - LPs in PE funds benefit from the expertise of the GP in [restructuring](../r/restructuring.md) and managing investments for long-term gains.
+ - Similar to VC funds but generally invest in established businesses, aiming to improve their performance and profitability.
+ - LPs in PE funds benefit from the expertise of the GP in [restructuring](../r/restructuring.md) and managing investments for long-term gains.
 
 3. **[Real Estate](../r/real_estate.md)**:
-    - Investment in large [real estate](../r/real_estate.md) projects where [property management](../p/property_management.md) can be complex and [liability](../l/liability.md) might be considerable.
-    - LP investors provide [capital](../c/capital.md) for development while the GP handles the project.
+ - Investment in large [real estate](../r/real_estate.md) projects where [property management](../p/property_management.md) can be complex and [liability](../l/liability.md) might be considerable.
+ - LP investors provide [capital](../c/capital.md) for development while the GP handles the project.
 
 4. **[Hedge](../h/hedge.md) Funds**:
-    - LPs provide [capital](../c/capital.md), and the GP employs various strategies to achieve high returns.
-    - [Hedge](../h/hedge.md) funds might employ strategies like [leverage](../l/leverage.md), [derivatives](../d/derivatives.md), and [short selling](../s/short_selling.md), requiring skilled management.
+ - LPs provide [capital](../c/capital.md), and the GP employs various strategies to achieve high returns.
+ - [Hedge](../h/hedge.md) funds might employ strategies like [leverage](../l/leverage.md), [derivatives](../d/derivatives.md), and [short selling](../s/short_selling.md), requiring skilled management.
 
 ## Role of Limited Partners
 
@@ -94,25 +94,25 @@ Regular updates and [transparency](../t/transparency.md) from the GP regarding t
 
 Andreessen Horowitz (a16z) is a prominent [venture capital](../v/venture_capital.md) [firm](../f/firm.md) where LPs invest in a [fund](../f/fund.md) managed by general partners. The [firm](../f/firm.md) invests in high-potential startups in sectors such as technology, biotech, and fintech. LPs benefit from the [firm](../f/firm.md)’s expertise and networks, aiming for significant returns from successful exits.
 
-Website: [Andreessen Horowitz](https://a16z.com/)
+online platform: Andreessen Horowitz
 
 ### Private Equity Firm: The Blackstone Group
 
 The Blackstone Group is one of the largest global [private equity](../p/private_equity.md) firms. LPs in Blackstone's funds invest in a diverse portfolio, including [real estate](../r/real_estate.md), [private equity](../p/private_equity.md), and [hedge fund](../h/hedge_fund.md) solutions. Blackstone’s management team actively oversees the investments, aiming to optimize returns through [strategic management](../s/strategic_management.md) and operational improvements.
 
-Website: [The Blackstone Group](https://www.blackstone.com/)
+online platform: The Blackstone Group
 
 ### Real Estate: Brookfield Asset Management
 
 Brookfield [Asset Management](../a/asset_management.md) specializes in [real estate](../r/real_estate.md) investments. LPs in Brookfield’s [real estate](../r/real_estate.md) funds benefit from the [firm](../f/firm.md)’s extensive experience in managing and developing properties across various sectors, including commercial, industrial, and residential [real estate](../r/real_estate.md).
 
-Website: [Brookfield Asset Management](https://www.brookfield.com/)
+online platform: Brookfield Asset Management
 
 ### Hedge Fund: Bridgewater Associates
 
 Bridgewater Associates operates one of the world’s largest [hedge](../h/hedge.md) funds. LPs in Bridgewater’s funds invest [capital](../c/capital.md) managed by seasoned professionals using sophisticated strategies aimed at achieving high returns in diverse [market](../m/market.md) conditions.
 
-Website: [Bridgewater Associates](https://www.bridgewater.com/)
+online platform: Bridgewater Associates
 
 ## Conclusion
 

@@ -5,7 +5,7 @@ Dynamic programming (DP) is a mathematical [optimization](../o/optimization.md) 
 ## Principles of Dynamic Programming
 
 1. **Optimal Substructure**: This principle asserts that a problem can be decomposed into subproblems, which can be solved independently, and their solutions can be combined to solve the original problem.
-  
+
 2. **Overlapping Subproblems**: Unlike divide and conquer strategies that solve non-overlapping subproblems, DP deals with problems where subproblems overlap. Consequently, DP methods store the results of subproblems to avoid redundant computations, which is crucial for [efficiency](../e/efficiency.md).
 
 3. **Memoization**: This technique involves storing the results of subproblems in a data structure (like an array or a [hash](../h/hash.md) map) to ensure each subproblem is only solved once. Memoization can significantly decrease the computational complexity of an algorithm.
@@ -46,19 +46,19 @@ A [trader](../t/trader.md) managing a complex portfolio of [derivatives](../d/de
 
 LYNX is a brokerage [firm](../f/firm.md) that provides advanced trading platforms and tools. They incorporate dynamic programming in their [trading algorithms](../t/trading_algorithms.md) to optimize portfolios and manage risks.
 
-For more information, visit: [LYNX Trading](https://www.lynxtrading.com/)
+For more information, visit: LYNX Trading
 
 ### 2. QuantConnect
 
 [QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) tools. They provide [infrastructure](../i/infrastructure.md) and resources for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), where dynamic programming plays a crucial role in [optimization](../o/optimization.md) problems.
 
-For more information, visit: [QuantConnect](https://www.quantconnect.com/)
+For more information, visit: QuantConnect
 
 ### 3. The D. E. Shaw Group
 
 The D. E. Shaw Group specializes in [systematic investment strategies](../s/systematic_investment_strategies.md) leveraging quantitative techniques and dynamic programming. They apply sophisticated computational models to optimize [trading strategies](../t/trading_strategies.md) and manage portfolio risks.
 
-For more information, visit: [The D. E. Shaw Group](https://www.deshaw.com/)
+For more information, visit: The D. E. Shaw Group
 
 ## Challenges and Considerations
 

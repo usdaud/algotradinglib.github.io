@@ -94,11 +94,11 @@ Institutional investors such as pension funds and [insurance](../i/insurance.md)
 Regulations like the Dodd-Frank Act require financial institutions to maintain certain hedging practices to mitigate [systemic risk](../s/systemic_risk.md). Compliance with these regulations often involves the use of sophisticated algorithms to manage [risk](../r/risk.md) promptly.
 
 ## Further Reading and Resources
-- [QuantLib](https://www.quantlib.org/)
-- [TA-Lib](https://www.ta-lib.org/)
+- QuantLib
+- TA-Lib
 
 ### Notable Companies
-- [JP Morgan Chase](https://www.jpmorganchase.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
+- JP Morgan Chase
+- Goldman Sachs
 
 In conclusion, hedging strategies are indispensable in modern [finance](../f/finance.md), and their implementation through [algorithmic trading](../a/algorithmic_trading.md) ensures precision, [efficiency](../e/efficiency.md), and the ability to adapt to ever-changing [market](../m/market.md) conditions. By leveraging various financial instruments and sophisticated algorithms, traders can effectively manage [risk](../r/risk.md) and safeguard their investments.

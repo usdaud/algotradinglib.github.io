@@ -42,7 +42,7 @@ Governments and policymakers use NDP to design economic policies that encourage 
 ## NDP vs. Other Economic Indicators
 
 ### Net National Product (NNP)
-NNP is similar to NDP but takes a broader perspective by including foreign investments. While NDP focuses solely on domestic output minus [depreciation](../d/depreciation.md), NNP also considers [income](../i/income.md) from overseas investments and subtracts [depreciation](../d/depreciation.md). 
+NNP is similar to NDP but takes a broader perspective by including foreign investments. While NDP focuses solely on domestic output minus [depreciation](../d/depreciation.md), NNP also considers [income](../i/income.md) from overseas investments and subtracts [depreciation](../d/depreciation.md).
 
 ### GDP vs. NDP
 GDP provides a measure of overall economic activity without deducting [depreciation](../d/depreciation.md), potentially giving a more optimistic view of economic health. In contrast, NDP offers a more tempered and, arguably, realistic perspective by [accounting](../a/accounting.md) for the wear and tear of [capital](../c/capital.md) assets.
@@ -72,13 +72,13 @@ Changes in technology, production processes, and [economic conditions](../e/econ
 
 ## Conclusion
 
-Net Domestic Product is a critical economic metric that offers valuable insights into the sustainable economic health of a country. By [accounting](../a/accounting.md) for [depreciation](../d/depreciation.md), NDP provides a more nuanced understanding of economic performance, informing better decision-making for investors, policymakers, and other stakeholders. 
+Net Domestic Product is a critical economic metric that offers valuable insights into the sustainable economic health of a country. By [accounting](../a/accounting.md) for [depreciation](../d/depreciation.md), NDP provides a more nuanced understanding of economic performance, informing better decision-making for investors, policymakers, and other stakeholders.
 
 Understanding the components, calculation, and implications of NDP can empower stakeholders to make choices that promote long-term economic stability and growth.
 
 For more advanced financial metrics and tools, refer to resources such as:
 
-- [OECD Economic Outlook](https://www.oecd.org/economic-outlook/)
-- [IMF Data and Statistics](https://www.imf.org/en/Data)
+- OECD Economic Outlook
+- IMF Data and Statistics
 
 These resources provide detailed data and analysis that can enrich the understanding of NDP and its role in economic analysis.

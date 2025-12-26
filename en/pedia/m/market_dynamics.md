@@ -68,7 +68,7 @@ Modern Portfolio Theory, developed by [Harry Markowitz](../h/harry_markowitz.md)
 ### 4. Capital Asset Pricing Model (CAPM)
 The [Capital Asset](../c/capital_asset.md) Pricing Model is a framework used to determine the [expected return](../e/expected_return.md) of an [asset](../a/asset.md) based on its [systematic risk](../s/systematic_risk.md) ([market risk](../m/market_risk.md)) as measured by the [beta coefficient](../b/beta_coefficient.md). It is given by the equation:
 \[ E(R_i) = R_f + \beta_i (E(R_m) - R_f) \]
-where: 
+where:
 - \( E(R_i) \) is the [expected return](../e/expected_return.md) of the [asset](../a/asset.md),
 - \( R_f \) is the [risk](../r/risk.md)-free rate,
 - \( \beta_i \) is the [asset](../a/asset.md)'s [beta](../b/beta.md),
@@ -79,7 +79,7 @@ where:
 
 ## Advanced Market Dynamics - Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, uses computer algorithms to execute trades based on predefined criteria. Algorithms can analyze vast amounts of [market](../m/market.md) data rapidly, identifying opportunities for profitable trades. Key components include:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, uses computer algorithms to execute trades based on predefined criteria. Algorithms can analyze vast amounts of [market](../m/market.md) data rapidly, identifying opportunities for profitable trades. Key components include:
 
 ### 1. Quantitative Analysis
 [Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to predict future price movements. This can include:
@@ -87,7 +87,7 @@ where:
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Analyzing historical data to identify trends and patterns.
 - **[Machine Learning](../m/machine_learning.md)**: Applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to improve prediction accuracy.
 - **[Factor Models](../f/factor_models.md)**: Identifying factors that impact [asset](../a/asset.md) prices and constructing models to predict returns.
-  
+
 ### 2. High-Frequency Trading (HFT)
 High-frequency trading involves executing a large number of orders at extremely high speeds, often within milliseconds. HFT relies on sophisticated algorithms and high-speed data networks to [capitalize](../c/capitalize.md) on minute price discrepancies.
 
@@ -103,15 +103,15 @@ High-frequency trading involves executing a large number of orders at extremely 
 - **[Operational Risk](../o/operational_risk.md)**: Risks arising from technical failures, data inaccuracies, or system malfunctions.
 
 ### 5. Strategy Development
-Developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md) is at the core of successful [algorithmic trading](../a/accountability.md). Strategies can be categorized into:
+Developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md) is at the core of successful [algorithmic trading](../a/algorithmic_trading.md). Strategies can be categorized into:
 
 - **[Trend Following](../t/trend_following.md)**: Capitalizing on established [market](../m/market.md) trends.
 - **[Mean Reversion](../m/mean_reversion.md)**: Betting that an [asset](../a/asset.md)'s price [will](../w/will.md) revert to its historical average.
 - **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between related assets or markets.
 - **[Market](../m/market.md) Making**: Providing [liquidity](../l/liquidity.md) by simultaneously buying and selling assets, profiting from the [bid-ask spread](../b/bid-ask_spread.md).
 
-For more details on firms specializing in algotrading, you can visit [Jane Street](https://www.janestreet.com/) and explore their advanced strategies and trading methodologies.
+For more details on firms specializing in algotrading, you can visit Jane Street and explore their advanced strategies and trading methodologies.
 
 ## Conclusion
 
-Understanding [market](../m/market.md) dynamics involves a multi-faceted approach that takes into account [supply](../s/supply.md) and [demand](../d/demand.md), [economic indicators](../e/economic_indicators.md), [investor](../i/investor.md) behavior, macroeconomic trends, regulatory environments, and [market](../m/market.md) microstructures. Advanced methodologies in [algorithmic trading](../a/accountability.md) further enhance the ability to analyze and predict [market](../m/market.md) movements. By comprehensively understanding these elements, [market](../m/market.md) participants can make informed decisions and develop effective [trading strategies](../t/trading_strategies.md).
+Understanding [market](../m/market.md) dynamics involves a multi-faceted approach that takes into account [supply](../s/supply.md) and [demand](../d/demand.md), [economic indicators](../e/economic_indicators.md), [investor](../i/investor.md) behavior, macroeconomic trends, regulatory environments, and [market](../m/market.md) microstructures. Advanced methodologies in [algorithmic trading](../a/algorithmic_trading.md) further enhance the ability to analyze and predict [market](../m/market.md) movements. By comprehensively understanding these elements, [market](../m/market.md) participants can make informed decisions and develop effective [trading strategies](../t/trading_strategies.md).

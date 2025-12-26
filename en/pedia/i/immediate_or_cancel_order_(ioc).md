@@ -1,20 +1,20 @@
 # Immediate Or Cancel Order (IOC)
 
-An Immediate-Or-Cancel (IOC) [order](../o/order.md) is a type of trading [order](../o/order.md) used in [financial markets](../f/financial_market.md). This [order](../o/order.md) is designed to instruct a [broker](../b/broker.md) to execute a [trade](../t/trade.md) immediately and cancel any portion of the [order](../o/order.md) that cannot be filled immediately. This type of [order](../o/order.md) enables traders to ensure they achieve their desired [execution](../e/execution.md) price or move quickly to the next opportunity if the full [order](../o/order.md) cannot be filled at once. IOC orders are particularly useful in high-frequency trading and [algorithmic trading](../a/accountability.md) environments where time and precision are critical factors.
+An Immediate-Or-Cancel (IOC) [order](../o/order.md) is a type of trading [order](../o/order.md) used in [financial markets](../f/financial_market.md). This [order](../o/order.md) is designed to instruct a [broker](../b/broker.md) to execute a [trade](../t/trade.md) immediately and cancel any portion of the [order](../o/order.md) that cannot be filled immediately. This type of [order](../o/order.md) enables traders to ensure they achieve their desired [execution](../e/execution.md) price or move quickly to the next opportunity if the full [order](../o/order.md) cannot be filled at once. IOC orders are particularly useful in high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md) environments where time and precision are critical factors.
 
 ## Key Attributes of IOC Orders
 
-1. **Immediate [Execution](../e/execution.md)**: The primary characteristic of an IOC [order](../o/order.md) is its focus on immediate [execution](../e/execution.md). If any portion of the [order](../o/order.md) can be filled at the immediate [market price](../m/market_price.md), it [will](../w/will.md) be. Any remaining unfilled portion of the [order](../o/order.md) is immediately canceled. 
-2. **Partial Fills**: An IOC [order](../o/order.md) can result in a partial fill, where only a portion of the [order](../o/order.md) is executed based on the available [market](../m/market.md) [liquidity](../l/liquidity.md). 
-3. **No Holding**: Unlike other [order types](../o/order_types_in_trading.md), IOC orders do not remain in the [market](../m/market.md) as [open](../o/open.md) orders after their initial submission. They are either partially filled and canceled or immediately canceled if they cannot be filled at all. 
+1. **Immediate [Execution](../e/execution.md)**: The primary characteristic of an IOC [order](../o/order.md) is its focus on immediate [execution](../e/execution.md). If any portion of the [order](../o/order.md) can be filled at the immediate [market price](../m/market_price.md), it [will](../w/will.md) be. Any remaining unfilled portion of the [order](../o/order.md) is immediately canceled.
+2. **Partial Fills**: An IOC [order](../o/order.md) can result in a partial fill, where only a portion of the [order](../o/order.md) is executed based on the available [market](../m/market.md) [liquidity](../l/liquidity.md).
+3. **No Holding**: Unlike other [order types](../o/order_types_in_trading.md), IOC orders do not remain in the [market](../m/market.md) as [open](../o/open.md) orders after their initial submission. They are either partially filled and canceled or immediately canceled if they cannot be filled at all.
 
 ## Utilization in Algorithmic Trading
 
-IOC orders are a vital tool in the world of [algorithmic trading](../a/accountability.md). Algorithmic traders often use IOC orders to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) conditions, ensuring that they can quickly enter or exit positions without the [trade](../t/trade.md) lingering in the [market](../m/market.md).
+IOC orders are a vital tool in the world of [algorithmic trading](../a/algorithmic_trading.md). Algorithmic traders often use IOC orders to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) conditions, ensuring that they can quickly enter or exit positions without the [trade](../t/trade.md) lingering in the [market](../m/market.md).
 
 ### Speed and Precision
 
-In [algorithmic trading](../a/accountability.md), speed and precision are paramount. Algorithms are designed to analyze [market](../m/market.md) conditions and execute trades based on predefined criteria swiftly. IOC orders fit perfectly into this high-speed environment by allowing algorithms to place orders that can be executed instantaneously, ensuring minimal [market](../m/market.md) impact and [slippage](../s/slippage.md).
+In [algorithmic trading](../a/algorithmic_trading.md), speed and precision are paramount. Algorithms are designed to analyze [market](../m/market.md) conditions and execute trades based on predefined criteria swiftly. IOC orders fit perfectly into this high-speed environment by allowing algorithms to place orders that can be executed instantaneously, ensuring minimal [market](../m/market.md) impact and [slippage](../s/slippage.md).
 
 ### Market Impact
 
@@ -81,16 +81,16 @@ Many trading platforms and financial services [offer](../o/offer.md) IOC [order]
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) is a well-known brokerage that offers sophisticated trading tools and [order types](../o/order_types_in_trading.md), including IOC orders. They provide a comprehensive [trading platform](../t/trading_platform.md) supporting various financial instruments. More information can be found on their website: [Interactive Brokers](https://www.interactivebrokers.com)
+[Interactive Brokers](../i/interactive_brokers.md) is a well-known brokerage that offers sophisticated trading tools and [order types](../o/order_types_in_trading.md), including IOC orders. They provide a comprehensive [trading platform](../t/trading_platform.md) supporting various financial instruments. Interactive Brokers
 
 ### TradeStation
 
-[TradeStation](../t/tradestation.md) is another platform that provides extensive trading capabilities for individual traders and institutional investors, including the ability to place IOC orders. They [offer](../o/offer.md) advanced analytical tools and a user-friendly interface. Discover more at: [TradeStation](https://www.tradestation.com)
+[TradeStation](../t/tradestation.md) is another platform that provides extensive trading capabilities for individual traders and institutional investors, including the ability to place IOC orders. They [offer](../o/offer.md) advanced analytical tools and a user-friendly interface. Discover more at: TradeStation
 
 ### TD Ameritrade
 
-TD [Ameritrade](../a/ameritrade.md)’s thinkorswim platform is renowned for its in-depth analytics and trading functionalities. It supports IOC orders, allowing traders to execute complex strategies promptly. More details are available at: [TD Ameritrade](https://www.tdameritrade.com)
+TD [Ameritrade](../a/ameritrade.md)’s thinkorswim platform is renowned for its in-depth analytics and trading functionalities. It supports IOC orders, allowing traders to execute complex strategies promptly. More details are available at: TD Ameritrade
 
 ## Conclusion
 
-Immediate-Or-Cancel (IOC) orders play a crucial role in modern [trading strategies](../t/trading_strategies.md), especially in high-frequency and [algorithmic trading](../a/accountability.md) environments. They provide traders with the agility to execute trades quickly while minimizing [market exposure](../m/market_exposure.md) and impact. Despite some potential challenges, such as partial fills and dependency on [market](../m/market.md) [liquidity](../l/liquidity.md), IOC orders remain an essential tool for traders seeking immediate [execution](../e/execution.md) and greater control over their trading activities.
+Immediate-Or-Cancel (IOC) orders play a crucial role in modern [trading strategies](../t/trading_strategies.md), especially in high-frequency and [algorithmic trading](../a/algorithmic_trading.md) environments. They provide traders with the agility to execute trades quickly while minimizing [market exposure](../m/market_exposure.md) and impact. Despite some potential challenges, such as partial fills and dependency on [market](../m/market.md) [liquidity](../l/liquidity.md), IOC orders remain an essential tool for traders seeking immediate [execution](../e/execution.md) and greater control over their trading activities.

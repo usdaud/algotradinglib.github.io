@@ -60,9 +60,9 @@ Lenders and creditors consider quarterly [revenue](../r/revenue.md) growth when 
 
 Several companies are renowned for their impressive quarterly [revenue](../r/revenue.md) growth:
 
-1. **Amazon.com, Inc.**: Amazon has consistently demonstrated [robust](../r/robust.md) quarterly [revenue](../r/revenue.md) growth due to its diverse product offerings, expansive [market](../m/market.md) reach, and innovative [business models](../b/business_models.md). More information can be found on their [investor relations](../i/investor_relations.md) page: [Amazon Investor Relations](https://www.amazon.com/ir).
-2. **Apple Inc.**: Apple frequently reports strong quarterly [revenue](../r/revenue.md) growth driven by the success of its iPhone, iPad, and other product lines, along with its expanding services segment. Details are available on their [investor relations](../i/investor_relations.md) page: [Apple Investor Relations](https://investor.apple.com/).
-3. **Tesla, Inc.**: Tesla has shown significant quarterly [revenue](../r/revenue.md) growth, attributed to rising [demand](../d/demand.md) for electric vehicles, energy products, and global [expansion](../e/expansion.md). Learn more from their [investor relations](../i/investor_relations.md) page: [Tesla Investor Relations](https://ir.tesla.com/).
+1. **online resource, Inc.**: Amazon has consistently demonstrated [robust](../r/robust.md) quarterly [revenue](../r/revenue.md) growth due to its diverse product offerings, expansive [market](../m/market.md) reach, and innovative [business models](../b/business_models.md)../i/investor_relations.md) page.
+2. **Apple Inc.**: Apple frequently reports strong quarterly [revenue](../r/revenue.md) growth driven by the success of its iPhone, iPad, and other product lines, along with its expanding services segment. Details are available on their [company filings](../i/investor_relations.md) page.
+3. **Tesla, Inc.**: Tesla has shown significant quarterly [revenue](../r/revenue.md) growth, attributed to rising [demand](../d/demand.md) for electric vehicles, energy products, and global [expansion](../e/expansion.md). Learn more from their filings.
 
 ## Challenges and Considerations
 

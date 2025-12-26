@@ -40,7 +40,7 @@ The [efficient market hypothesis](../e/efficient_market_hypothesis.md) asserts t
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), zero-investment strategies are often implemented using computer algorithms. These algorithms use statistical models and historical data to identify price discrepancies between correlated assets automatically. High-frequency traders and quant funds [leverage](../l/leverage.md) these strategies to execute trades within microseconds, thus exploiting fleeting [arbitrage opportunities](../a/arbitrage_opportunities.md).
+In [algorithmic trading](../a/algorithmic_trading.md), zero-investment strategies are often implemented using computer algorithms. These algorithms use statistical models and historical data to identify price discrepancies between correlated assets automatically. High-frequency traders and quant funds [leverage](../l/leverage.md) these strategies to execute trades within microseconds, thus exploiting fleeting [arbitrage opportunities](../a/arbitrage_opportunities.md).
 
 ### Pair Trading
 
@@ -99,14 +99,14 @@ A [market](../m/market.md)-[neutral](../n/neutral.md) strategy may involve const
 
 ### Bridgewater Associates
 
-[Bridgewater Associates](https://www.bridgewater.com/), one of the largest [hedge](../h/hedge.md) funds globally, uses various zero-investment and [market](../m/market.md)-[neutral](../n/neutral.md) strategies. Their approach combines fundamental economic theories with [quantitative models](../q/quantitative_models.md) to manage vast portfolios, aiming to generate consistent returns regardless of [market](../m/market.md) conditions.
+Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds globally, uses various zero-investment and [market](../m/market.md)-[neutral](../n/neutral.md) strategies. Their approach combines fundamental economic theories with [quantitative models](../q/quantitative_models.md) to manage vast portfolios, aiming to generate consistent returns regardless of [market](../m/market.md) conditions.
 
 ### AQR Capital Management
 
-[AQR Capital Management](https://www.aqr.com/) employs systematic and quantitative methods, including zero-investment portfolio strategies. Their investment process involves extensive data analysis and algorithmic models to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
+AQR Capital Management employs systematic and quantitative methods, including zero-investment portfolio strategies. Their investment process involves extensive data analysis and algorithmic models to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
 
 ## Conclusion
 
 Zero-investment portfolios represent a compelling strategy in the [financial markets](../f/financial_market.md), leveraging [arbitrage opportunities](../a/arbitrage_opportunities.md) to generate returns without a significant initial [capital](../c/capital.md) outlay. By carefully selecting and balancing long and short positions, traders and [hedge](../h/hedge.md) funds can potentially achieve [market](../m/market.md)-[neutral](../n/neutral.md) profits. However, it is crucial to recognize the inherent risks and implement [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. As [financial markets](../f/financial_market.md) continue to evolve, the strategies surrounding zero-investment portfolios also advance, driven by innovations in technology and [quantitative finance](../q/quantitative_finance.md).
 
-Ultimately, the success of a zero-investment portfolio hinges on meticulous planning, sophisticated analysis, and disciplined [execution](../e/execution.md). Whether through [algorithmic trading](../a/accountability.md), pair trading, or statistical [arbitrage](../a/arbitrage.md), the principles underpinning zero-investment strategies [offer](../o/offer.md) powerful tools for savvy investors aiming to navigate the complexities of modern [financial markets](../f/financial_market.md).
+Ultimately, the success of a zero-investment portfolio hinges on meticulous planning, sophisticated analysis, and disciplined [execution](../e/execution.md). Whether through [algorithmic trading](../a/algorithmic_trading.md), pair trading, or statistical [arbitrage](../a/arbitrage.md), the principles underpinning zero-investment strategies [offer](../o/offer.md) powerful tools for savvy investors aiming to navigate the complexities of modern [financial markets](../f/financial_market.md).

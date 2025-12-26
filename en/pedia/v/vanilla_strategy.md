@@ -40,13 +40,13 @@ Imagine a [trader](../t/trader.md), Alice, who is interested in the stock of Com
 1. **Buying a [Call Option](../c/call_option.md)**: Alice decides to buy a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $105, expiring in three months, for a [premium](../p/premium.md) of $3 per share. This option gives her the right to buy 100 [shares](../s/shares.md) of XYZ at $105 each within the next three months.
 
 2. **Potential Outcomes**:
-   - **Stock Price Rises**: If Company XYZ's stock price rises to $120 before the option expires, Alice can [exercise](../e/exercise.md) her option, buy the [shares](../s/shares.md) at the [strike price](../s/strike_price.md) of $105, and sell them at the current [market price](../m/market_price.md) of $120, [netting](../n/netting.md) a [profit](../p/profit.md) of $15 per share (minus the [premium](../p/premium.md) paid).
-   
-   - **Stock Price Falls or Stagnates**: If the stock price stays at or below $105, Alice [will](../w/will.md) choose not to [exercise](../e/exercise.md) her option. Her total loss [will](../w/will.md) be limited to the [premium](../p/premium.md) she paid, in this case, $3 per share, or $300 for 100 [shares](../s/shares.md).
+ - **Stock Price Rises**: If Company XYZ's stock price rises to $120 before the option expires, Alice can [exercise](../e/exercise.md) her option, buy the [shares](../s/shares.md) at the [strike price](../s/strike_price.md) of $105, and sell them at the current [market price](../m/market_price.md) of $120, [netting](../n/netting.md) a [profit](../p/profit.md) of $15 per share (minus the [premium](../p/premium.md) paid).
+
+ - **Stock Price Falls or Stagnates**: If the stock price stays at or below $105, Alice [will](../w/will.md) choose not to [exercise](../e/exercise.md) her option. Her total loss [will](../w/will.md) be limited to the [premium](../p/premium.md) she paid, in this case, $3 per share, or $300 for 100 [shares](../s/shares.md).
 
 3. **[Risk](../r/risk.md) and Reward Balance**:
-   - **[Risk](../r/risk.md)**: The maximum loss Alice faces is the [premium](../p/premium.md) of $300.
-   - **Reward**: The potential [profit](../p/profit.md) is theoretically unlimited, depending on how high the price of XYZ stock rises above the [strike price](../s/strike_price.md).
+ - **[Risk](../r/risk.md)**: The maximum loss Alice faces is the [premium](../p/premium.md) of $300.
+ - **Reward**: The potential [profit](../p/profit.md) is theoretically unlimited, depending on how high the price of XYZ stock rises above the [strike price](../s/strike_price.md).
 
 ### Using Put Options for Hedging
 
@@ -55,10 +55,10 @@ Suppose Alice wants to use a vanilla strategy for [risk management](../r/risk_ma
 1. **Buying a [Put Option](../p/put.md)**: Alice buys a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $95, expiring in three months, for a [premium](../p/premium.md) of $2 per share. This option allows her to sell her [shares](../s/shares.md) at $95 each, regardless of the [market price](../m/market_price.md).
 
 2. **Outcome if Stock Price Drops**:
-   - If the stock price falls to $80, Alice can [exercise](../e/exercise.md) her [put option](../p/put.md) and sell her [shares](../s/shares.md) at $95, thereby mitigating her losses. She protects her portfolio against a significant decline, with her losses limited to the difference between her purchase price and the [strike price](../s/strike_price.md), plus the [premium](../p/premium.md) paid.
+ - If the stock price falls to $80, Alice can [exercise](../e/exercise.md) her [put option](../p/put.md) and sell her [shares](../s/shares.md) at $95, thereby mitigating her losses. She protects her portfolio against a significant decline, with her losses limited to the difference between her purchase price and the [strike price](../s/strike_price.md), plus the [premium](../p/premium.md) paid.
 
 3. **Outcome if Stock Price Rises**:
-   - If the stock price rises above $95, Alice can let the [put option](../p/put.md) expire worthless and enjoy the gains on her [shares](../s/shares.md). Her maximum loss in this case is the [premium](../p/premium.md) paid for the [put option](../p/put.md), $2 per share.
+ - If the stock price rises above $95, Alice can let the [put option](../p/put.md) expire worthless and enjoy the gains on her [shares](../s/shares.md). Her maximum loss in this case is the [premium](../p/premium.md) paid for the [put option](../p/put.md), $2 per share.
 
 ## Conclusion
 

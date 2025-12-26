@@ -83,4 +83,4 @@ Proposed reforms to address these issues include:
 
 The [Social Security](../s/social_security.md) Administration plays a critical role in providing financial [security](../s/security.md) to millions of Americans through retirement, disability, and survivors' benefits as well as supplemental [income](../i/income.md) for low-[income](../i/income.md) individuals. With various tools and resources available online, the SSA continually strives to serve the public more effectively.
 
-For more detailed information on the [Social Security](../s/social_security.md) Administration and its services, you can visit the official SSA website: [Social Security Administration](https://www.ssa.gov/).
+For more detailed information on the [Social Security](../s/social_security.md) Administration and its services,

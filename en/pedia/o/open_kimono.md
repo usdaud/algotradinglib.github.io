@@ -28,11 +28,11 @@ When companies enter into strategic partnerships, both parties need to understan
 
 ## Algorithms and Algotrading
 
-"[Open](../o/open.md) Kimono" also has profound implications in the highly specialized field of [algorithmic trading](../a/accountability.md), also known as algotrading. Here’s how [transparency](../t/transparency.md) can play a role:
+"[Open](../o/open.md) Kimono" also has profound implications in the highly specialized field of [algorithmic trading](../a/algorithmic_trading.md), also known as algotrading. Here’s how [transparency](../t/transparency.md) can play a role:
 
 ### 1. Algorithmic Strategies and Models
 
-Many [algorithmic trading](../a/accountability.md) firms develop proprietary models and algorithms to [gain](../g/gain.md) a competitive edge. However, there are scenarios where sharing the details of these models becomes essential. For example, when forming partnerships or seeking investment, firms may need to "[open](../o/open.md) the kimono" to demonstrate the robustness and profitability of their [trading systems](../t/trading_systems.md).
+Many [algorithmic trading](../a/algorithmic_trading.md) firms develop proprietary models and algorithms to [gain](../g/gain.md) a competitive edge. However, there are scenarios where sharing the details of these models becomes essential. For example, when forming partnerships or seeking investment, firms may need to "[open](../o/open.md) the kimono" to demonstrate the robustness and profitability of their [trading systems](../t/trading_systems.md).
 
 ### 2. Risk Management
 
@@ -46,7 +46,7 @@ Traders and investors are increasingly demanding [transparency](../t/transparenc
 
 ### 1. Bridgewater Associates
 
-Bridgewater Associates, one of the world's largest [hedge](../h/hedge.md) funds, is often cited as a transparent [firm](../f/firm.md) in its operations and culture. The [firm](../f/firm.md), founded by Ray Dalio, practices what Dalio refers to as "radical [transparency](../t/transparency.md)." Employees are encouraged to be transparent in their communications and decision-making processes. For more details, you can visit their [official website](https://www.bridgewater.com).
+Bridgewater Associates, one of the world's largest [hedge](../h/hedge.md) funds, is often cited as a transparent [firm](../f/firm.md) in its operations and culture. The [firm](../f/firm.md), founded by Ray Dalio, practices what Dalio refers to as "radical [transparency](../t/transparency.md)." Employees are encouraged to be transparent in their communications and decision-making processes.
 
 ### 2. T-Mobile and Sprint Merger
 

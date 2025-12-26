@@ -6,7 +6,7 @@ Rule-based [algorithm design](../a/algorithm_design.md) refers to a systematic a
 ## Historical Context and Evolution
 [Algorithmic trading](../a/algorithmic_trading.md) has evolved tremendously over the past 30 years. Early versions of [trading algorithms](../t/trading_algorithms.md) were rudimentary, relying on simple rule-based systems for making decisions. These early systems were designed to execute trades under certain [market](../m/market.md) conditions, like crossing moving averages or breaking [support and resistance](../s/support_and_resistance.md) lines.
 
-### The Rise of Electronic Trading 
+### The Rise of Electronic Trading
 The 1990s marked an era where electronic trading platforms surged. This digitization allowed for more sophisticated [rule-based trading](../r/rule-based_trading.md) systems. Institutions such as Renaissance Technologies, founded by Jim Simons, utilized complex [mathematical models](../m/mathematical_models_in_trading.md) to outsmart the [market](../m/market.md).
 
 ## Core Components of Rule-Based Design
@@ -31,7 +31,7 @@ The [execution](../e/execution.md) engine is responsible for executing trades wh
 
 Tools for [Backtesting](../b/backtesting.md):
 - MetaTrader
-- [QuantConnect](../q/quantconnect.md)
+- [StockSharp](../s/stocksharp.md)
 - Zipline
 
 ### Optimization
@@ -64,15 +64,15 @@ Example:
 High-frequency trading involves executing thousands of trades per second based on algorithmic strategies. Rule-based algorithms play a crucial role in HFT.
 
 Examples:
-- Virtu Financial: Uses speed and technology to [trade](../t/trade.md) across [multiple](../m/multiple.md) markets. [Virtu Financial](https://www.virtu.com)
-- [Jump Trading](../j/jump_trading.md): Utilizes advanced algorithms for [proprietary trading](../p/proprietary_trading.md). [Jump Trading](https://jumptrading.com)
+- Virtu Financial: Uses speed and technology to [trade](../t/trade.md) across [multiple](../m/multiple.md) markets. Virtu Financial
+- [Jump Trading](../j/jump_trading.md): Utilizes advanced algorithms for [proprietary trading](../p/proprietary_trading.md). Jump Trading
 
 ### Retail Trading Platforms
 Retail investors now have access to platforms that allow them to create and deploy [rule-based trading](../r/rule-based_trading.md) algorithms.
 
 Examples:
-- [Robinhood](../r/robinhood.md): Offers [algorithmic trading](../a/algorithmic_trading.md) tools for retail investors. [Robinhood](https://robinhood.com)
-- [Interactive Brokers](../i/interactive_brokers.md): Provides API access for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com)
+- [Robinhood](../r/robinhood.md): Offers [algorithmic trading](../a/algorithmic_trading.md) tools for retail investors. Robinhood
+- [Interactive Brokers](../i/interactive_brokers.md): Provides API access for [algorithmic trading](../a/algorithmic_trading.md). Interactive Brokers
 
 ## Challenges and Considerations
 ### Market Dynamics
@@ -101,7 +101,7 @@ DeFi platforms could [offer](../o/offer.md) new avenues for deploying rule-based
 Rule-based [algorithm design](../a/algorithm_design.md) remains a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), providing a structured approach to automated decision-making. While the landscape continues to evolve with technological advancements, the core principles of rule-based systems—defining rules, [backtesting](../b/backtesting.md), and [optimization](../o/optimization.md)—remain vital. Adapting to [market](../m/market.md) changes, avoiding [overfitting](../o/overfitting.md), and adhering to regulatory standards are essential for the successful deployment of these algorithms.
 
 For more information on companies and platforms mentioned:
-- [Virtu Financial](https://www.virtu.com)
-- [Jump Trading](https://jumptrading.com)
-- [Robinhood](https://robinhood.com)
-- [Interactive Brokers](https://www.interactivebrokers.com)
+- Virtu Financial
+- Jump Trading
+- Robinhood
+- Interactive Brokers

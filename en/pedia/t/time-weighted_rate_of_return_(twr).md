@@ -31,49 +31,49 @@ where:
 
 Consider an investment portfolio that experiences the following changes over a year:
 
-| Date       | Portfolio [Value](../v/value.md) | External [Cash Flow](../c/cash_flow.md) |
+| Date | Portfolio [Value](../v/value.md) | External [Cash Flow](../c/cash_flow.md) |
 |------------|-----------------|--------------------|
-| Jan 1, 2021| $100,000        | $0                 |
-| Apr 1, 2021| $120,000        | +$10,000           |
-| Jul 1, 2021| $115,000        | -$5,000            |
-| Oct 1, 2021| $130,000        | +$20,000           |
-| Dec 31, 2021|$140,000        | $0                 |
+| Jan 1, 2021| $100,000 | $0 |
+| Apr 1, 2021| $120,000 | +$10,000 |
+| Jul 1, 2021| $115,000 | -$5,000 |
+| Oct 1, 2021| $130,000 | +$20,000 |
+| Dec 31, 2021|$140,000 | $0 |
 
 The calculation would proceed as follows:
 
 1. **Calculate Sub-period Returns**:
-   - [Return](../r/return.md) for Q1:
-     \[
-     R_1 = \frac{120,000 - 100,000}{100,000} = 0.20
-     \]
-   - [Return](../r/return.md) for Q2:
-     \[
-     R_2 = \frac{115,000 - (120,000 + 10,000)}{130,000} = -0.1154
-     \]
-   - [Return](../r/return.md) for Q3:
-     \[
-     R_3 = \frac{130,000 - 115,000 + 5,000}{110,000} = 0.1364
-     \]
-   - [Return](../r/return.md) for Q4:
-     \[
-     R_4 = \frac{140,000 - (130,000 + 20,000)}{150,000} = 0.0667
-     \]
+ - [Return](../r/return.md) for Q1:
+ \[
+ R_1 = \frac{120,000 - 100,000}{100,000} = 0.20
+ \]
+ - [Return](../r/return.md) for Q2:
+ \[
+ R_2 = \frac{115,000 - (120,000 + 10,000)}{130,000} = -0.1154
+ \]
+ - [Return](../r/return.md) for Q3:
+ \[
+ R_3 = \frac{130,000 - 115,000 + 5,000}{110,000} = 0.1364
+ \]
+ - [Return](../r/return.md) for Q4:
+ \[
+ R_4 = \frac{140,000 - (130,000 + 20,000)}{150,000} = 0.0667
+ \]
 
 2. **Geometrically Link Returns**:
-   \[
-   TWR = (1 + R_1) \times (1 + R_2) \times (1 + R_3) \times (1 + R_4) - 1
-   \]
+ \[
+ TWR = (1 + R_1) \times (1 + R_2) \times (1 + R_3) \times (1 + R_4) - 1
+ \]
 
-   Simplifying this:
-   \[
-   TWR = (1 + 0.20) \times (1 - 0.1154) \times (1 + 0.1364) \times (1 + 0.0667) - 1
-   \]
-   \[
-   TWR = 1.20 \times 0.8846 \times 1.1364 \times 1.0667 - 1 \approx 0.2854
-   \]
+ Simplifying this:
+ \[
+ TWR = (1 + 0.20) \times (1 - 0.1154) \times (1 + 0.1364) \times (1 + 0.0667) - 1
+ \]
+ \[
+ TWR = 1.20 \times 0.8846 \times 1.1364 \times 1.0667 - 1 \approx 0.2854
+ \]
 
 3. **[Annualize](../a/annualize.md) the [Return](../r/return.md) (if necessary)**:
-   Since the period is one year, the TWR for the year is 28.54%.
+ Since the period is one year, the TWR for the year is 28.54%.
 
 ## Advantages
 1. **Neutralizes Cash Flows**: TWR removes the impact of external cash flows, making it a fair assessment of the [portfolio manager](../p/portfolio_manager.md)'s performance.
@@ -104,9 +104,9 @@ Several financial software packages and tools provide TWR calculation capabiliti
 - **Addepar**: A [wealth management](../w/wealth_management.md) platform that includes TWR among its suite of performance measurement tools.
 
 For more details on these solutions, you can visit their respective websites:
-- [Morningstar Direct](https://www.morningstar.com/products/direct)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [FactSet](https://www.factset.com/)
-- [Addepar](https://addepar.com/)
+- Morningstar Direct
+- Bloomberg Terminal
+- FactSet
+- Addepar
 
 Understanding and correctly applying the Time-[Weighted](../w/weighted.md) [Rate of Return](../r/rate_of_return.md) (TWR) is essential for investment professionals who are tasked with evaluating [portfolio performance](../p/portfolio_performance.md) accurately and fairly. Given its ability to mitigate the effects of [cash flow](../c/cash_flow.md) timing, TWR stands out as the preferred choice in [portfolio performance](../p/portfolio_performance.md) measurement in the sphere of [finance](../f/finance.md) and investments.

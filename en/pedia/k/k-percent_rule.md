@@ -1,6 +1,6 @@
 # K-Percent Rule
 
-The K-Percent Rule is a concept in [algorithmic trading](../a/accountability.md) that seeks to determine the optimal point at which to execute trades based on the percentage movement of a stock or [asset](../a/asset.md). This rule is not widely standardized and can be customized according to the specific needs and strategies of traders and automated systems. This flexibility makes the K-Percent Rule a versatile tool in [quantitative trading](../q/quantitative_trading.md).
+The K-Percent Rule is a concept in [algorithmic trading](../a/algorithmic_trading.md) that seeks to determine the optimal point at which to execute trades based on the percentage movement of a stock or [asset](../a/asset.md). This rule is not widely standardized and can be customized according to the specific needs and strategies of traders and automated systems. This flexibility makes the K-Percent Rule a versatile tool in [quantitative trading](../q/quantitative_trading.md).
 
 ## Origin and Basics of the K-Percent Rule
 
@@ -71,19 +71,19 @@ Commodities like gold, oil, and natural gas often experience sharp price fluctua
 
 ### Two Sigma
 
-Two Sigma, a [hedge fund](../h/hedge_fund.md) that specializes in using [data science](../d/data_science_in_trading.md) and technology to create [trading strategies](../t/trading_strategies.md), likely implements variations of the K-Percent Rule in its [trading algorithms](../t/trading_algorithms.md). More information can be found on their website: [Two Sigma](https://www.twosigma.com/).
+Two Sigma, a [hedge fund](../h/hedge_fund.md) that specializes in using [data science](../d/data_science_in_trading.md) and technology to create [trading strategies](../t/trading_strategies.md), likely implements variations of the K-Percent Rule in its [trading algorithms](../t/trading_algorithms.md). Two Sigma.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a quantitative [hedge fund](../h/hedge_fund.md), is known for using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. The K-Percent Rule might be one of the many tools in their arsenal. For more information, visit: [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, a quantitative [hedge fund](../h/hedge_fund.md), is known for using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. The K-Percent Rule might be one of the many tools in their arsenal. For more information, visit: Renaissance Technologies.
 
 ### D. E. Shaw Group
 
-The D. E. Shaw Group employs quantitative modeling and computational techniques for trading. They might use the K-Percent Rule as part of their [trading strategies](../t/trading_strategies.md). Additional details are available at: [D. E. Shaw Group](https://www.deshaw.com/).
+The D. E. Shaw Group employs quantitative modeling and computational techniques for trading. They might use the K-Percent Rule as part of their [trading strategies](../t/trading_strategies.md). Additional details are available at: D. E. Shaw Group.
 
 ### Citadel LLC
 
-Citadel LLC is another [firm](../f/firm.md) that relies heavily on [quantitative trading](../q/quantitative_trading.md) strategies. The K-Percent Rule could be integrated into their [trading systems](../t/trading_systems.md). Further information can be found on their website: [Citadel LLC](https://www.citadel.com/).
+Citadel LLC is another [firm](../f/firm.md) that relies heavily on [quantitative trading](../q/quantitative_trading.md) strategies. The K-Percent Rule could be integrated into their [trading systems](../t/trading_systems.md).
 
 ## Conclusion
 

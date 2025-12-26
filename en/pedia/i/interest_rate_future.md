@@ -74,15 +74,15 @@ To illustrate the practical application of [interest rate futures](../i/interest
 
 ### 1. **Chicago Mercantile Exchange (CME)**
 
-The CME is one of the largest exchanges in the world for trading [derivatives](../d/derivatives.md). It offers a wide [range](../r/range.md) of [interest rate futures](../i/interest_rate_futures.md), including [Eurodollar](../e/eurodollar.md) and [U.S. Treasury](../u/u.s._treasury.md) [bond futures](../b/bond_futures.md). 
+The CME is one of the largest exchanges in the world for trading [derivatives](../d/derivatives.md). It offers a wide [range](../r/range.md) of [interest rate futures](../i/interest_rate_futures.md), including [Eurodollar](../e/eurodollar.md) and [U.S. Treasury](../u/u.s._treasury.md) [bond futures](../b/bond_futures.md).
 
-Visit [CME Group](https://www.cmegroup.com) for more information.
+Visit CME Group for more information.
 
 ### 2. **Eurex**
 
 Eurex is a prominent European [exchange](../e/exchange.md) that provides [futures](../f/futures.md) and [options](../o/options.md) across various [asset](../a/asset.md) classes. Its [interest rate futures](../i/interest_rate_futures.md) offerings include Euribor and German Bund [futures](../f/futures.md).
 
-Visit [Eurex](https://www.eurex.com) for more information.
+Visit Eurex for more information.
 
 ## Conclusion
 

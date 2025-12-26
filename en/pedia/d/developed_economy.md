@@ -25,16 +25,16 @@ The strength of legal and financial systems is crucial. Developed economies typi
 ## Examples of Developed Economies
 
 ### United States
-The United States is often cited as the epitome of a developed [economy](../e/economy.md). With a highly diversified economic base encompassing technology, [finance](../f/finance.md), healthcare, and [manufacturing](../m/manufacturing.md), the United States consistently achieves high GDP growth and [per capita](../p/per_capita.md) [income](../i/income.md). For more information, you can visit the [U.S. Department of Commerce](https://www.commerce.gov/).
+The United States is often cited as the epitome of a developed [economy](../e/economy.md). With a highly diversified economic base encompassing technology, [finance](../f/finance.md), healthcare, and [manufacturing](../m/manufacturing.md), the United States consistently achieves high GDP growth and [per capita](../p/per_capita.md) [income](../i/income.md). For more information, you can visit the U.S. Department of Commerce.
 
 ### Germany
-Germany is Europe's largest [economy](../e/economy.md) and a global leader in engineering, automotive [manufacturing](../m/manufacturing.md), and exports. With a high GDP [per capita](../p/per_capita.md) and a strong emphasis on innovation, Germany is a prime example of a developed [economy](../e/economy.md). Visit the [Federal Ministry for Economic Affairs and Energy](https://www.bmwi.de/Navigation/EN/Home/home.html) for more details.
+Germany is Europe's largest [economy](../e/economy.md) and a global leader in engineering, automotive [manufacturing](../m/manufacturing.md), and exports. With a high GDP [per capita](../p/per_capita.md) and a strong emphasis on innovation, Germany is a prime example of a developed [economy](../e/economy.md). Visit the Federal Ministry for Economic Affairs and Energy for more details.
 
 ### Japan
-Japan stands out for its technological innovation and advanced [manufacturing](../m/manufacturing.md) sector, particularly in electronics and automotive industries. The country maintains a high [standard of living](../s/standard_of_living.md) and ranks high on the HDI. For further information, visit the [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/english/).
+Japan stands out for its technological innovation and advanced [manufacturing](../m/manufacturing.md) sector, particularly in electronics and automotive industries. The country maintains a high [standard of living](../s/standard_of_living.md) and ranks high on the HDI. For further information, visit the Ministry of Economy, Trade and Industry.
 
 ### Switzerland
-Switzerland is renowned for its banking and financial services, pharmaceuticals, and high-tech industries. With one of the highest GDP [per capita](../p/per_capita.md) in the world, Switzerland epitomizes economic stability and prosperity. For more insights, see the [Swiss State Secretariat for Economic Affairs](https://www.seco.admin.ch/seco/en/home.html).
+Switzerland is renowned for its banking and financial services, pharmaceuticals, and high-tech industries. With one of the highest GDP [per capita](../p/per_capita.md) in the world, Switzerland epitomizes economic stability and prosperity. For more insights, see the Swiss State Secretariat for Economic Affairs.
 
 ## Economic Indicators
 
@@ -57,7 +57,7 @@ As discussed, HDI combines data on [life expectancy](../l/life_expectancy.md), e
 A favorable balance of [trade](../t/trade.md), where a country exports more than it imports, is often seen in developed economies. This indicates a strong external economic position and competitive industries.
 
 ### Public Debt
-While developed economies often have significant public [debt](../d/debt.md) levels, their advanced financial systems usually enable them to manage and service this [debt](../d/debt.md) effectively. 
+While developed economies often have significant public [debt](../d/debt.md) levels, their advanced financial systems usually enable them to manage and service this [debt](../d/debt.md) effectively.
 
 ## Challenges
 

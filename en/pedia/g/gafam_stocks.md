@@ -16,7 +16,7 @@ Alphabet generates [revenue](../r/revenue.md) mainly through advertising service
 
 Alphabet's consistent [revenue](../r/revenue.md) growth is one of its key strengths. Significant investment in research and development, coupled with strong operational [cash flow](../c/cash_flow.md), allows the company to continuously innovate and expand. The advertising [revenue](../r/revenue.md) accounts for more than 80% of its total [income](../i/income.md), making it crucial for the company to maintain its dominance in the digital advertising space.
 
-- [Alphabet Inc.](https://abc.xyz/)
+- Alphabet Inc.
 
 ## Apple Inc.
 
@@ -30,7 +30,7 @@ Apple's [business](../b/business.md) model is centered around creating a cohesiv
 
 Apple's [financial performance](../f/financial_performance.md) is characterized by its impressive [revenue](../r/revenue.md) and [profit margins](../p/profit_margins_in_trading.md). The iPhone remains a significant source of [revenue](../r/revenue.md), but the company has actively worked to increase its services' contribution to its [income](../i/income.md). This [diversification](../d/diversification.md) helps mitigate the impact of slowing smartphone sales. Apple's focus on efficient [supply chain](../s/supply_chain.md) management, [premium](../p/premium.md) pricing strategies, and substantial investment in innovation secures its strong [market](../m/market.md) position.
 
-- [Apple Inc.](https://www.apple.com/)
+- Apple Inc.
 
 ## Meta Platforms, Inc. (Facebook)
 
@@ -44,7 +44,7 @@ Meta's [revenue](../r/revenue.md) predominantly comes from digital advertising, 
 
 Meta's [financial performance](../f/financial_performance.md) has been [robust](../r/robust.md), driven mainly by advertising [revenue](../r/revenue.md). The company's focus on innovation in VR and AR, along with its continuous improvements in user engagement and advertising [efficiency](../e/efficiency.md), aims to shore up its future [revenue](../r/revenue.md) streams. Meta's ability to [monetize](../m/monetize.md) its platforms while maintaining user growth is key to its [financial health](../f/financial_health.md).
 
-- [Meta Platforms, Inc.](https://about.fb.com/)
+- Meta Platforms, Inc.
 
 ## Amazon.com Inc.
 
@@ -58,7 +58,7 @@ Amazon’s [business](../b/business.md) model is diverse, covering e-[commerce](
 
 Amazon's [financial performance](../f/financial_performance.md) is characterized by high [revenue](../r/revenue.md) growth driven by its e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) segments. AWS is particularly notable for its high [profit margins](../p/profit_margins_in_trading.md), significantly contributing to Amazon's overall profitability. The company's continuous investment in [logistics](../l/logistics.md), technology, and global [expansion](../e/expansion.md) stabilizes its long-term growth prospects.
 
-- [Amazon.com Inc.](https://www.aboutamazon.com/)
+- Amazon.com Inc.
 
 ## Microsoft Corporation
 
@@ -72,7 +72,7 @@ Microsoft's [business](../b/business.md) model revolves around its strong softwa
 
 Microsoft's [financial health](../f/financial_health.md) is [robust](../r/robust.md), with steady [revenue](../r/revenue.md) growth driven by its diversified [business](../b/business.md) model. The company has successfully transitioned towards a subscription-based model, generating consistent and recurring [income](../i/income.md) from services like Microsoft 365 and Dynamics 365. Azure's [expansion](../e/expansion.md) has significantly contributed to its [financial performance](../f/financial_performance.md), [offering](../o/offering.md) high-[margin](../m/margin.md) [revenue](../r/revenue.md) opportunities.
 
-- [Microsoft Corporation](https://www.microsoft.com/)
+- Microsoft Corporation
 
 ## Conclusion
 

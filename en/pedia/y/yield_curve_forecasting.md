@@ -4,7 +4,7 @@
 
 ## The Yield Curve: Definition and Importance
 
-The [yield curve](../y/yield_curve.md) represents the relationship between [interest](../i/interest.md) rates (or [bond](../b/bond.md) yields) and different [maturity](../m/maturity.md) dates for [debt](../d/debt.md) instruments of similar [credit](../c/credit.md) quality. Typically, the curve is plotted with [bond](../b/bond.md) yields on the vertical axis and maturities on the horizontal axis. 
+The [yield curve](../y/yield_curve.md) represents the relationship between [interest](../i/interest.md) rates (or [bond](../b/bond.md) yields) and different [maturity](../m/maturity.md) dates for [debt](../d/debt.md) instruments of similar [credit](../c/credit.md) quality. Typically, the curve is plotted with [bond](../b/bond.md) yields on the vertical axis and maturities on the horizontal axis.
 
 ### Types of Yield Curves
 1. **Normal [Yield Curve](../y/yield_curve.md)**: Long-term yields are higher than short-term yields, reflecting the risks associated with time.
@@ -142,6 +142,6 @@ This simplified example illustrates how [machine learning](../m/machine_learning
 
 For more formal and detailed resources on [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md), consider exploring the following websites:
 
-- [QuantLib](https://www.quantlib.org/): [Open](../o/open.md)-source software/library for [quantitative finance](../q/quantitative_finance.md), providing tools for [yield curve](../y/yield_curve.md) modeling.
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/): Offers comprehensive financial data, analytics, and [forecasting](../f/forecasting.md) tools.
-- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/): Provides access to a wide [range](../r/range.md) of economic data, including [interest](../i/interest.md) rates and [yield](../y/yield.md) curves.
+- QuantLib: [Open](../o/open.md)-source software/library for [quantitative finance](../q/quantitative_finance.md), providing tools for [yield curve](../y/yield_curve.md) modeling.
+- Bloomberg Terminal: Offers comprehensive financial data, analytics, and [forecasting](../f/forecasting.md) tools.
+- Federal Reserve Economic Data (FRED): Provides access to a wide [range](../r/range.md) of economic data, including [interest](../i/interest.md) rates and [yield](../y/yield.md) curves.

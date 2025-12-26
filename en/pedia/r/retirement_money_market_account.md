@@ -49,5 +49,5 @@ Some RMMAs require maintaining a minimum balance or may charge monthly maintenan
 The Retirement [Money Market Account](../m/money_market_account.md) is a practical financial tool for individuals aiming to add a low-[risk](../r/risk.md), [interest](../i/interest.md)-earning component to their retirement portfolio. With the right balance of safety, [liquidity](../l/liquidity.md), and modest [income](../i/income.md) generation, RMMAs can serve as a complementary [asset](../a/asset.md) in a diversified retirement plan.
 
 For further details, you can visit:
-- Fidelity Retirement [Money Market Account](../m/money_market_account.md): [fidelity.com](https://www.fidelity.com)
-- Vanguard Retirement Savings: [vanguard.com](https://www.vanguard.com)
+- Fidelity Retirement [Money Market Account](../m/money_market_account.md): fidelity.com
+- Vanguard Retirement Savings: vanguard.com

@@ -66,7 +66,7 @@ The trilemma underscores the complex [trade](../t/trade.md)-offs inherent in eco
 
 ### References
 
-- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-- [People's Bank of China](http://www.pbc.gov.cn/en/3688110/index.html)
+- European Central Bank
+- People's Bank of China
 - Mundell, R.A. (1963), [Capital](../c/capital.md) Mobility and Stabilization Policy under Fixed and Flexible [Exchange](../e/exchange.md) Rates, Canadian [Journal](../j/journal.md) of Economic and Political Science
 - Fleming, J.M. (1962), Domestic Financial Policies under Fixed and Floating [Exchange](../e/exchange.md) Rates, IMF Staff Papers

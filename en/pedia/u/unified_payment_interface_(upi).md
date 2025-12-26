@@ -94,4 +94,4 @@ UPI continues to evolve and holds significant promise for the future:
 
 Unified [Payment](../p/payment.md) Interface (UPI) has revolutionized the way digital payments are made in India, and its impact continues to grow. With its combination of ease of use, high [security](../s/security.md), and real-time processing, UPI has set a new standard for financial transactions. Its potential for innovation in the fintech space and its future prospects make it a key player in the digital [economy](../e/economy.md).
 
-For more information, visit the [National Payments Corporation of India](https://www.npci.org.in/).
+For more information, visit the National Payments Corporation of India.

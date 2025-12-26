@@ -1,6 +1,6 @@
 # Mean-Variance Optimization
 
-Mean-Variance [Optimization](../o/optimization.md) (MVO) is a quantitative tool used in [finance](../f/finance.md) to allocate assets in an investment portfolio in a manner that maximizes [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md), or equivalently, minimizes [risk](../r/risk.md) for a given level of [expected return](../e/expected_return.md). This approach was formalized by [Harry Markowitz](../h/harry_markowitz.md) in his pioneering work on Modern Portfolio Theory (MPT) in the early 1950s. The key insight of MPT is that the [risk](../r/risk.md) of a portfolio is not merely the [weighted](../w/weighted.md) sum of the individual [asset](../a/asset.md) risks, but also depends on the [correlation](../c/correlation.md) between [asset](../a/asset.md) returns. By appropriately combining assets with varying [return](../r/return.md) distributions and correlations, investors can construct diversified portfolios with optimized [risk](../r/risk.md)-[return](../r/return.md) profiles. 
+Mean-Variance [Optimization](../o/optimization.md) (MVO) is a quantitative tool used in [finance](../f/finance.md) to allocate assets in an investment portfolio in a manner that maximizes [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md), or equivalently, minimizes [risk](../r/risk.md) for a given level of [expected return](../e/expected_return.md). This approach was formalized by [Harry Markowitz](../h/harry_markowitz.md) in his pioneering work on Modern Portfolio Theory (MPT) in the early 1950s. The key insight of MPT is that the [risk](../r/risk.md) of a portfolio is not merely the [weighted](../w/weighted.md) sum of the individual [asset](../a/asset.md) risks, but also depends on the [correlation](../c/correlation.md) between [asset](../a/asset.md) returns. By appropriately combining assets with varying [return](../r/return.md) distributions and correlations, investors can construct diversified portfolios with optimized [risk](../r/risk.md)-[return](../r/return.md) profiles.
 
 ## Theoretical Foundation
 
@@ -68,10 +68,10 @@ Over time, due to [market](../m/market.md) movements, the portfolio weights [wil
 Several financial institutions use mean-variance [optimization](../o/optimization.md) as part of their [portfolio management](../p/portfolio_management.md) process. Quantitative investment firms such as BlackRock and Goldman Sachs implement sophisticated versions of MVO to manage large pools of [capital](../c/capital.md).
 
 ### BlackRock
-BlackRock adopts advanced portfolio construction and [risk management](../r/risk_management.md) strategies leveraging MVO and other quantitative techniques. [BlackRock](https://www.blackrock.com) provides extensive resources and tools for both individual and institutional investors.
+BlackRock adopts advanced portfolio construction and [risk management](../r/risk_management.md) strategies leveraging MVO and other quantitative techniques. BlackRock provides extensive resources and tools for both individual and institutional investors.
 
 ### Goldman Sachs
-Goldman Sachs employs a variety of quantitative methods including MVO to optimize [asset allocation](../a/asset_allocation.md) for its clients. [Goldman Sachs](https://www.goldmansachs.com) is known for its rigorous research and application of modern financial theories.
+Goldman Sachs employs a variety of quantitative methods including MVO to optimize [asset allocation](../a/asset_allocation.md) for its clients. Goldman Sachs is known for its rigorous research and application of modern financial theories.
 
 ## Conclusion
 

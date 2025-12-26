@@ -27,7 +27,7 @@ Several methods are used to calculate [depreciation](../d/depreciation.md), incl
 
 ## Depreciation Recapture Defined
 
-[Depreciation](../d/depreciation.md) recapture refers to the process of recovering the [tax benefit](../t/tax_benefit.md) received from [depreciation](../d/depreciation.md) deductions when an [asset](../a/asset.md) is sold. The IRS requires the [taxpayer](../t/taxpayer.md) to report the recaptured amount as [taxable income](../t/taxable_income.md). 
+[Depreciation](../d/depreciation.md) recapture refers to the process of recovering the [tax benefit](../t/tax_benefit.md) received from [depreciation](../d/depreciation.md) deductions when an [asset](../a/asset.md) is sold. The IRS requires the [taxpayer](../t/taxpayer.md) to report the recaptured amount as [taxable income](../t/taxable_income.md).
 
 ### How Depreciation Recapture Works
 
@@ -112,15 +112,15 @@ Businesses need to consider [depreciation](../d/depreciation.md) recapture when 
 
 ## Conclusion
 
-[Depreciation](../d/depreciation.md) recapture represents a significant aspect of tax law that can affect the financial outcomes and tax liabilities of both businesses and individual investors. By understanding how [depreciation](../d/depreciation.md) recapture works and implementing strategies to manage it effectively, taxpayers can optimize their [financial planning](../f/financial_planning.md) and minimize their tax burdens. 
+[Depreciation](../d/depreciation.md) recapture represents a significant aspect of tax law that can affect the financial outcomes and tax liabilities of both businesses and individual investors. By understanding how [depreciation](../d/depreciation.md) recapture works and implementing strategies to manage it effectively, taxpayers can optimize their [financial planning](../f/financial_planning.md) and minimize their tax burdens.
 
 ## Further Reading and Resources
 
 For more detailed information, you can refer to the following resources:
 
-- [Internal Revenue Service (IRS) Website](https://www.irs.gov/)
-- [Section 1241-1245 at IRS.gov](https://www.irs.gov/instructions/i8594)
-- [IRS Publication 544: Sales and Other Dispositions of Assets](https://www.irs.gov/publications/p544)
+-
+- Section 1241-1245 at IRS.gov
+- IRS Publication 544: Sales and Other Dispositions of Assets
 
 ---
 

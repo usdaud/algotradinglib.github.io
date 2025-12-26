@@ -70,7 +70,7 @@ X-Peak Patterns are specific types of patterns identified in time-series data th
 ### Real-World Examples
 
 1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds utilize advanced peak detection algorithms to inform their high-frequency [trading strategies](../t/trading_strategies.md).
-2. [Renaissance Technologies](https://www.rentec.com/): This highly successful [hedge fund](../h/hedge_fund.md) uses sophisticated [pattern recognition](../p/pattern_recognition.md) and [machine learning](../m/machine_learning.md) techniques to [trade](../t/trade.md) based on financial data peaks.
+2. Renaissance Technologies: This highly successful [hedge fund](../h/hedge_fund.md) uses sophisticated [pattern recognition](../p/pattern_recognition.md) and [machine learning](../m/machine_learning.md) techniques to [trade](../t/trade.md) based on financial data peaks.
 
 ## Ethical and Practical Considerations
 

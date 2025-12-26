@@ -97,7 +97,7 @@ Involves investments in R&D, acquisitions, or software development projects. Com
 
 ### Energy Sector
 
-Investments in renewable energy projects, new extraction technologies, and [infrastructure](../i/infrastructure.md) improvements are typical. Firms like **ExxonMobil** need detailed [capital](../c/capital.md) budgeting analysis due to the large scale and high risks associated with energy projects. (official page: [ExxonMobil](https://corporate.exxonmobil.com/)).
+Investments in renewable energy projects, new extraction technologies, and [infrastructure](../i/infrastructure.md) improvements are typical. Firms like **ExxonMobil** need detailed [capital](../c/capital.md) budgeting analysis due to the large scale and high risks associated with energy projects.
 
 # Challenges in Capital Budgeting
 

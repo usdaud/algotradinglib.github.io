@@ -125,8 +125,8 @@ A U.S.-based [fund](../f/fund.md) has a significant exposure to European equitie
 - Analyze correlations and [risk metrics](../r/risk_metrics.md) continuously.
 
 **Companies [Offering](../o/offering.md) Advanced Hedging Algorithms:**
-- [Arrow Grass](https://www.arrowgrass.com/): Provides sophisticated [hedge fund](../h/hedge_fund.md) solutions using [quantitative strategies](../q/quantitative_strategies_in_trading.md).
-- [Numerix](https://www.numerix.com/): Specializes in [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing software.
+- Arrow Grass: Provides sophisticated [hedge fund](../h/hedge_fund.md) solutions using [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+- Numerix: Specializes in [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing software.
 
 ### Portfolio Management Software
 
@@ -134,7 +134,7 @@ Modern [portfolio management](../p/portfolio_management.md) tools [offer](../o/o
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive tools for [risk](../r/risk.md) assessment, [derivative](../d/derivative.md) pricing, and real-time monitoring.
 - **[FactSet](../f/factset.md)**: Provides advanced analytics and [risk management](../r/risk_management.md) tools for portfolio hedging.
-- [Morningstar Direct](https://www.morningstar.com/products): Combines [risk](../r/risk.md) assessment and [portfolio optimization](../p/portfolio_optimization.md) with [robust](../r/robust.md) hedging capabilities.
+- Morningstar Direct: Combines [risk](../r/risk.md) assessment and [portfolio optimization](../p/portfolio_optimization.md) with [robust](../r/robust.md) hedging capabilities.
 
 ## Challenges and Considerations in Portfolio Hedging
 

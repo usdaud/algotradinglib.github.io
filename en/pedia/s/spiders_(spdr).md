@@ -67,7 +67,7 @@ In addition to the broad-[market](../m/market.md) SPY, there are SPDR ETFs tailo
 
 - **XLK**: Tracks the [Technology sector](../t/technology_sector.md).
 - **XLF**: Tracks the [Financial sector](../f/financial_sector.md).
-- [Visit SPDR Sector ETFs](https://www.ssga.com/us/en/intermediary/etfs/funds)
+- Visit SPDR Sector ETFs
 
 ### Regional SPDRs
 There are also SPDRs designed to track specific regions or countries outside the U.S. For example:
@@ -86,7 +86,7 @@ In addition to [equity](../e/equity.md)-based SPDRs, there are those designed to
 Both institutional and retail investors can benefit from trading SPDRs, but there are different reasons and ways they might use these instruments.
 
 ### Institutional Usage
-Institutions might use SPDRs for purposes such as hedging, gaining rapid [market exposure](../m/market_exposure.md), or managing [liquidity](../l/liquidity.md). These investors can take advantage of the low costs and high [liquidity](../l/liquidity.md) to optimize their portfolios. 
+Institutions might use SPDRs for purposes such as hedging, gaining rapid [market exposure](../m/market_exposure.md), or managing [liquidity](../l/liquidity.md). These investors can take advantage of the low costs and high [liquidity](../l/liquidity.md) to optimize their portfolios.
 
 ### Retail Usage
 For retail investors, SPDRs [offer](../o/offer.md) a straightforward way to achieve [diversification](../d/diversification.md) and [gain](../g/gain.md) exposure to various [market](../m/market.md) segments without needing extensive [capital](../c/capital.md). They can be used as core [holdings](../h/holdings.md) in retirement accounts, brokerage accounts, and other investment vehicles.
@@ -107,5 +107,4 @@ In the context of the COVID-19 pandemic, SPDRs again proved their [utility](../u
 
 SPDRs represent a cornerstone innovation in modern [finance](../f/finance.md), [offering](../o/offering.md) a blend of [liquidity](../l/liquidity.md), [diversification](../d/diversification.md), and cost-[efficiency](../e/efficiency.md). Both retail and institutional investors utilize them for various strategic purposes, from achieving [market exposure](../m/market_exposure.md) to [risk management](../r/risk_management.md). While they come with inherent risks typical of [equity](../e/equity.md) investments, their structured design and operational efficiencies make them a vital component in the toolkit of any diversified [investment strategy](../i/investment_strategy.md).
 
-For more detailed information and specific [fund](../f/fund.md) offerings, you can visit the official [SPDR website](https://www.ssga.com/us/en/intermediary/etfs/funds).
-
+For more detailed information and specific [fund](../f/fund.md) offerings,

@@ -26,23 +26,23 @@ Several reputable trading platforms provide one-click trading capabilities. Here
 
 ### MetaTrader 4 (MT4)
 
-MetaTrader 4 is one of the most widely used trading platforms globally. It offers [robust](../r/robust.md) one-click trading functionality, allowing traders to execute trades directly from the chart with just a single click. More information can be found on their website: [MetaTrader 4](https://www.metatrader4.com).
+MetaTrader 4 is one of the most widely used trading platforms globally. It offers [robust](../r/robust.md) one-click trading functionality, allowing traders to execute trades directly from the chart with just a single click. MetaTrader 4.
 
 ### MetaTrader 5 (MT5)
 
-An advanced version of MT4, MetaTrader 5, also offers one-click trading. It includes additional features such as a more sophisticated [order management](../o/order_management_in_trading.md) system and more [market depth analysis](../m/market_depth_analysis.md) tools. Visit their official site for more details: [MetaTrader 5](https://www.metatrader5.com).
+An advanced version of MT4, MetaTrader 5, also offers one-click trading. It includes additional features such as a more sophisticated [order management](../o/order_management_in_trading.md) system and more [market depth analysis](../m/market_depth_analysis.md) tools.
 
 ### NinjaTrader
 
-[NinjaTrader](../n/ninjatrader.md) is a popular [trading platform](../t/trading_platform.md) for [futures](../f/futures.md) and forex traders. It features an efficient one-click trading mechanism, advanced charting tools, and a [wealth](../w/wealth.md) of customization [options](../o/options.md). Detailed information can be found here: [NinjaTrader](https://ninjatrader.com).
+[NinjaTrader](../n/ninjatrader.md) is a popular [trading platform](../t/trading_platform.md) for [futures](../f/futures.md) and forex traders. It features an efficient one-click trading mechanism, advanced charting tools, and a [wealth](../w/wealth.md) of customization [options](../o/options.md). Detailed information can be found here: NinjaTrader.
 
 ### cTrader
 
-[cTrader](../c/ctrader.md) is known for its highly intuitive interface and advanced trading capabilities, including one-click trading. It is particularly favored among forex traders for its ease of use and [range](../r/range.md) of features. Learn more about [cTrader](../c/ctrader.md) here: [cTrader](https://ctrader.com).
+[cTrader](../c/ctrader.md) is known for its highly intuitive interface and advanced trading capabilities, including one-click trading. It is particularly favored among forex traders for its ease of use and [range](../r/range.md) of features. Learn more about [cTrader](../c/ctrader.md) here: cTrader.
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) offers a [Trader](../t/trader.md) Workstation (TWS) platform that includes one-click trading [options](../o/options.md). This platform is well-regarded for its extensive [range](../r/range.md) of trading tools and low-cost high-speed [execution](../e/execution.md). Visit their site for further information: [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) offers a [Trader](../t/trader.md) Workstation (TWS) platform that includes one-click trading [options](../o/options.md). This platform is well-regarded for its extensive [range](../r/range.md) of trading tools and low-cost high-speed [execution](../e/execution.md).
 
 ## Risks and Considerations
 

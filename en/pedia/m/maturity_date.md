@@ -74,6 +74,6 @@ The [maturity](../m/maturity.md) date is a crucial aspect of financial instrumen
 
 For more information, you can refer to specific company pages such as:
 
-1. [J.P. Morgan Treasury and Securities Services](https://www.jpmorgan.com/solutions/treasury-services)
-2. [Goldman Sachs Bonds and Investments](https://www.goldmansachs.com/what-we-do/fiduciary-management/bonds/index.html)
-3. [Merrill Lynch Loans and Investments](https://www.ml.com/articles/loan-and-lease-financing-solutions.html)
+1. J.P. Morgan Treasury and Securities Services
+2. Goldman Sachs Bonds and Investments
+3. Merrill Lynch Loans and Investments

@@ -57,9 +57,9 @@ Following the 2008 [financial crisis](../f/financial_crisis.md), regulators worl
 
 ## Major Players in the CDS Market
 
-1. **J.P. Morgan Chase:** One of the largest participants in the CDS [market](../m/market.md), both in terms of trading [volume](../v/volume.md) and the notional amount of contracts. [J.P. Morgan CDS Information](https://www.jpmorganchase.com)
-2. **Goldman Sachs:** Another heavyweight in CDS trading, involved in both hedging and speculative activities. [Goldman Sachs CDS Information](https://www.goldmansachs.com)
-3. **Deutsche [Bank](../b/bank.md):** A significant player in the European CDS markets, dealing with various [euro](../e/euro.md)-denominated instruments. [Deutsche Bank CDS Information](https://www.db.com)
+1. **J.P. Morgan Chase:** One of the largest participants in the CDS [market](../m/market.md), both in terms of trading [volume](../v/volume.md) and the notional amount of contracts. J.P. Morgan CDS Information
+2. **Goldman Sachs:** Another heavyweight in CDS trading, involved in both hedging and speculative activities. Goldman Sachs CDS Information
+3. **Deutsche [Bank](../b/bank.md):** A significant player in the European CDS markets, dealing with various [euro](../e/euro.md)-denominated instruments. Deutsche Bank CDS Information
 
 ## Future Trends
 
@@ -67,6 +67,6 @@ The CDS [market](../m/market.md) continues to evolve, influenced by changes in r
 
 ## Conclusion
 
-[Credit Default Swaps](../c/credit_default_swaps.md) play a pivotal role in modern [financial markets](../f/financial_market.md) by allowing participants to manage [credit risk](../c/credit_risk.md), speculate on [creditworthiness](../c/creditworthiness.md), and exploit [arbitrage opportunities](../a/arbitrage_opportunities.md). Despite their benefits, CDS markets also pose significant risks, as evidenced by the 2008 [financial crisis](../f/financial_crisis.md). Ongoing regulatory improvements and technological advancements are expected to shape the future landscape of CDS trading, aiming to enhance [market](../m/market.md) stability and [efficiency](../e/efficiency.md). 
+[Credit Default Swaps](../c/credit_default_swaps.md) play a pivotal role in modern [financial markets](../f/financial_market.md) by allowing participants to manage [credit risk](../c/credit_risk.md), speculate on [creditworthiness](../c/creditworthiness.md), and exploit [arbitrage opportunities](../a/arbitrage_opportunities.md). Despite their benefits, CDS markets also pose significant risks, as evidenced by the 2008 [financial crisis](../f/financial_crisis.md). Ongoing regulatory improvements and technological advancements are expected to shape the future landscape of CDS trading, aiming to enhance [market](../m/market.md) stability and [efficiency](../e/efficiency.md).
 
 Understanding the complexities and nuances of CDS contracts is crucial for [market](../m/market.md) participants, policy makers, and regulators to ensure a balanced and resilient financial ecosystem.

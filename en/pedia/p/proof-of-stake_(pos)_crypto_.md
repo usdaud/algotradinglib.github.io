@@ -32,7 +32,7 @@ In PoS, **validators** (analogous to miners in PoW) are selected based on variou
 
 Validators receive rewards for their participation in the network. The rewards typically come in two forms:
 
-1. **Block Rewards**: New coins are minted and issued to validators who successfully create new blocks. 
+1. **Block Rewards**: New coins are minted and issued to validators who successfully create new blocks.
 2. **[Transaction Fees](../t/transaction_fees.md)**: Validators also earn [transaction fees](../t/transaction_fees.md) from the transactions included in the blocks they validate.
 
 The design ensures participants are incentivized to behave ethically and support network [security](../s/security.md), as dishonest behavior can [risk](../r/risk.md) their staked funds and future rewards.
@@ -81,15 +81,15 @@ While PoS aims to be more decentralized, the network can still face centralizati
 
 ### Cardano (ADA)
 
-Cardano employs a unique PoS protocol called Ouroboros. It emphasizes [security](../s/security.md), sustainability, and [scalability](../s/scalability.md). Cardano also supports staking pools and delegation to ensure a wide [distribution](../d/distribution.md) of participation (more details can be found on their [official website](https://cardano.org/)).
+Cardano employs a unique PoS protocol called Ouroboros. It emphasizes [security](../s/security.md), sustainability, and [scalability](../s/scalability.md). Cardano also supports staking pools and delegation to ensure a wide [distribution](../d/distribution.md) of participation (more
 
 ### Polkadot (DOT)
 
-Polkadot uses a variant of PoS called Nominated Proof-of-Stake (NPoS). It allows token holders to participate as either validators or nominators, where nominators support validators and share in the rewards. The design aims to provide a high degree of decentralization and [security](../s/security.md) ([Polkadot website](https://polkadot.network/)).
+Polkadot uses a variant of PoS called Nominated Proof-of-Stake (NPoS). It allows token holders to participate as either validators or nominators, where nominators support validators and share in the rewards. The design aims to provide a high degree of decentralization and [security](../s/security.md).
 
 ### Algorand (ALGO)
 
-Algorand's Pure Proof-of-Stake (PPoS) is designed to prioritize fairness, immediate [transaction](../t/transaction.md) finality, and [security](../s/security.md). Unlike other PoS systems, Algorand’s protocol randomly and secretly selects validators to enhance [security](../s/security.md) ([Algorand website](https://www.algorand.com/)).
+Algorand's Pure Proof-of-Stake (PPoS) is designed to prioritize fairness, immediate [transaction](../t/transaction.md) finality, and [security](../s/security.md). Unlike other PoS systems, Algorand’s protocol randomly and secretly selects validators to enhance [security](../s/security.md).
 
 ## Future Directions and Innovations
 

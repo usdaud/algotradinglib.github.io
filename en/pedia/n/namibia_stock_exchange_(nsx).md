@@ -22,7 +22,7 @@ The NSX has several [market](../m/market.md) segments, catering to different typ
 
 ### Trading Mechanism
 
-The trading on NSX occurs through an electronic trading system (ET) provided by the Stock [Exchange](../e/exchange.md) Management System (SEMS). Orders are matched based on price and time priority, ensuring a transparent and equitable [trading environment](../t/trading_environment.md). 
+The trading on NSX occurs through an electronic trading system (ET) provided by the Stock [Exchange](../e/exchange.md) Management System (SEMS). Orders are matched based on price and time priority, ensuring a transparent and equitable [trading environment](../t/trading_environment.md).
 
 ### Settlement
 
@@ -91,4 +91,3 @@ In recent years, the NSX has invested heavily in technology to enhance trading [
 
 In conclusion, the Namibia Stock [Exchange](../e/exchange.md) (NSX) plays a crucial role in the economic development of Namibia, [offering](../o/offering.md) a platform for [capital](../c/capital.md) raising and investment opportunities. With a [robust](../r/robust.md) regulatory framework, technological advancements, and growing [market](../m/market.md) participation, the NSX is poised for further growth and development in the coming years.
 
-For more details, you can visit the official NSX website [here](https://nsx.com.na/).

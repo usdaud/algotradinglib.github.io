@@ -1,6 +1,6 @@
 # Silk Route
 
-The Silk Route, also known as the Silk Road, is an ancient network of [trade](../t/trade.md) routes that linked the East and West. It was central to cultural, commercial, and technological [exchange](../e/exchange.md) between the traders, merchants, pilgrims, monks, soldiers, nomads, and urban dwellers from the Ancient Chinese, Indian, Persian, Arabian, Greek, and Roman civilizations. 
+The Silk Route, also known as the Silk Road, is an ancient network of [trade](../t/trade.md) routes that linked the East and West. It was central to cultural, commercial, and technological [exchange](../e/exchange.md) between the traders, merchants, pilgrims, monks, soldiers, nomads, and urban dwellers from the Ancient Chinese, Indian, Persian, Arabian, Greek, and Roman civilizations.
 
 ## Historical Background
 
@@ -11,7 +11,7 @@ The term "Silk Road" was coined by the German geographer and traveler Ferdinand 
 The Silk Route was not a single thoroughfare but a complex network of interconnected [trade](../t/trade.md) paths. These routes can broadly be broken into several segments:
 
 1. **The Eastern Silk Road:** This segment originated in the city of Xi'an (then known as Chang'an), the [capital](../c/capital.md) of the Han Dynasty. Caravans traveled from Xi'an to the Gansu Corridor, through the Hexi Corridor, and then branched off towards the northwestern borders of China.
-   
+
 2. **The Central Asian Silk Road:** This section traversed the great expanse of Central Asia, passing through key cities such as Dunhuang, Kashgar, Samarkand, and Bukhara. Traders encountered diverse cultures and languages, requiring a deep understanding of local customs and [negotiation](../n/negotiation.md) norms.
 
 3. **The Middle Eastern Silk Road:** After Central Asia, the [trade](../t/trade.md) routes continued through Persia (modern-day Iran) and extended to important trading hubs in the Arabian Peninsula, such as Baghdad and Damascus.
@@ -27,7 +27,7 @@ Apart from silk, which was the primary luxury good traded, a multitude of other 
 The Silk Route facilitated not just the [exchange](../e/exchange.md) of goods but also ideas, religion, and culture:
 
 1. **Buddhism:** Originating in India, Buddhism spread to Central Asia and China along the Silk Route, with monks traveling the same paths as merchants and sharing their teachings.
-   
+
 2. **Art and Architecture:** The interchange of artistic techniques and materials influenced the development of diverse artistic traditions along the Silk Route. Examples include Persian miniatures, Chinese painting techniques, and the blending of Hellenistic and Asian artistic styles.
 
 3. **Technology:** Knowledge transfer along the Silk Route included the spread of papermaking from China to the West, which revolutionized record-keeping and education. Gunpowder, also initially developed in China, made its way across continents, fundamentally altering military strategies in Europe, the Middle East, and beyond.
@@ -46,9 +46,9 @@ The Silk Road not only influenced cultural and technological exchanges but also 
 
 ### The Belt and Road Initiative
 
-Recently, the historic Silk Route has inspired modern endeavors such as China’s Belt and Road Initiative (BRI), launched in 2013. This ambitious [infrastructure](../i/infrastructure.md) and economic development project aims to create an extensive network of railways, roads, maritime shipping lanes, and pipelines linking China with over 60 countries across Asia, Europe, and Africa. 
+Recently, the historic Silk Route has inspired modern endeavors such as China’s Belt and Road Initiative (BRI), launched in 2013. This ambitious [infrastructure](../i/infrastructure.md) and economic development project aims to create an extensive network of railways, roads, maritime shipping lanes, and pipelines linking China with over 60 countries across Asia, Europe, and Africa.
 
-- [China’s Belt and Road Initiative](https://eng.yidaiyilu.gov.cn/) aims to enhance regional connectivity and embrace a brighter economic future by building [trade](../t/trade.md) and cultural bridges.
+- China’s Belt and Road Initiative aims to enhance regional connectivity and embrace a brighter economic future by building [trade](../t/trade.md) and cultural bridges.
 
 ### Revival of Historical Routes
 

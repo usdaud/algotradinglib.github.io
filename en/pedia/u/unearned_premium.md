@@ -36,13 +36,13 @@ Unearned [Premium](../p/premium.md) = $1,000 x (9/12) = $750
 
 Let's consider an [insurance](../i/insurance.md) company that collects $12,000 in premiums for annual policies starting on January 1st.
 
-- On January 1st: 
-  - **Unearned [Premium](../p/premium.md) [Liability](../l/liability.md)**: $12,000
-  - **[Earned Premium](../e/earned_premium.md) [Revenue](../r/revenue.md)**: $0
+- On January 1st:
+ - **Unearned [Premium](../p/premium.md) [Liability](../l/liability.md)**: $12,000
+ - **[Earned Premium](../e/earned_premium.md) [Revenue](../r/revenue.md)**: $0
 
 - On February 1st:
-  - **Unearned [Premium](../p/premium.md) [Liability](../l/liability.md)**: $11,000 (as one month has elapsed)
-  - **[Earned Premium](../e/earned_premium.md) [Revenue](../r/revenue.md)**: $1,000
+ - **Unearned [Premium](../p/premium.md) [Liability](../l/liability.md)**: $11,000 (as one month has elapsed)
+ - **[Earned Premium](../e/earned_premium.md) [Revenue](../r/revenue.md)**: $1,000
 
 By the end of the year, the unearned [premium](../p/premium.md) [liability](../l/liability.md) [will](../w/will.md) be zero as all premiums are earned.
 
@@ -52,11 +52,11 @@ By the end of the year, the unearned [premium](../p/premium.md) [liability](../l
 
 ## Advanced Topics: Algorithmic Trading and Fintech Applications
 
-Unearned premiums can also intersect with advanced financial technologies, including [algorithmic trading](../a/accountability.md) and fintech:
+Unearned premiums can also intersect with advanced financial technologies, including [algorithmic trading](../a/algorithmic_trading.md) and fintech:
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the principles of unearned premiums can inform strategies for managing [insurance](../i/insurance.md)-linked securities (ILS) such as catastrophe bonds, which often involve considerations of unearned [risk](../r/risk.md) premiums.
+In [algorithmic trading](../a/algorithmic_trading.md), the principles of unearned premiums can inform strategies for managing [insurance](../i/insurance.md)-linked securities (ILS) such as catastrophe bonds, which often involve considerations of unearned [risk](../r/risk.md) premiums.
 
 - **[Risk](../r/risk.md) Assessment Algorithms**: Algorithms analyze unearned premiums to adjust trading positions in [insurance](../i/insurance.md)-related securities. For instance, if an insurer's unearned [premium](../p/premium.md) [liability](../l/liability.md) decreases unexpectedly, this might signal an upcoming release of more [earnings](../e/earnings.md) than anticipated, affecting the [valuation](../v/valuation.md) of related securities.
 
@@ -72,8 +72,7 @@ Emerging financial technologies can [leverage](../l/leverage.md) unearned premiu
 
 #### Case Study: Lemonade Inc.
 
-[Lemonade Inc.](https://www.lemonade.com), a prominent [InsurTech](../i/insurtech.md) company, uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to manage their operations. They provide clear insights into unearned premiums through their advanced technology stack:
-
+Lemonade Inc., a prominent [InsurTech](../i/insurtech.md) company, uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to manage their operations. They provide clear insights into unearned premiums through their advanced technology stack
 - **AI and [Machine Learning](../m/machine_learning.md)**: By leveraging AI algorithms, Lemonade can precisely calculate unearned premiums and predict future claims, optimizing the balance between earned and unearned revenues.
 
 - **Real-Time [Data Analytics](../d/data_analytics.md)**: Lemonade's platform offers real-time analytics, allowing for agile management of liabilities and ensuring financial stability.

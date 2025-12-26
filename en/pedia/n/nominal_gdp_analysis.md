@@ -40,11 +40,11 @@ Where:
 Understanding [Nominal](../n/nominal.md) GDP is fundamental for evaluating the economic performance and policy effectiveness of a nation. While it provides valuable insights into the current [economic conditions](../e/economic_conditions.md), it is essential to consider Real GDP and other [economic indicators](../e/economic_indicators.md) for a comprehensive analysis of [economic growth](../e/economic_growth.md) and stability.
 
 ### Further Reading
-For more details on how [Nominal](../n/nominal.md) GDP impacts [financial markets](../f/financial_market.md) and investment decisions, you can visit [Investopedia's Nominal GDP](https://www.investopedia.com/terms/n/nominalgdp.asp).
+For more details on how [Nominal](../n/nominal.md) GDP impacts [financial markets](../f/financial_market.md) and investment decisions, you can visit Investopedia's Nominal GDP.
 
 For current [Nominal](../n/nominal.md) GDP figures and economic data, you can refer to:
-- [World Bank](../w/world_bank.md): [World Bank GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-- International Monetary [Fund](../f/fund.md) (IMF): [IMF World Economic Outlook Database](https://www.imf.org/en/Publications/WEO/weo-database/2021/April/weo-report)
-- U.S. Bureau of Economic Analysis (BEA): [BEA GDP Data](https://www.bea.gov/data/gdp/gross-domestic-product)
+- [World Bank](../w/world_bank.md): World Bank GDP Data
+- International Monetary [Fund](../f/fund.md) (IMF): IMF World Economic Outlook Database
+- U.S. Bureau of Economic Analysis (BEA): BEA GDP Data
 
 These sources provide reliable and up-to-date information useful for deeper analysis and understanding of [Nominal](../n/nominal.md) GDP trends globally.

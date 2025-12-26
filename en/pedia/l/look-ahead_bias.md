@@ -25,8 +25,8 @@ Look-ahead bias doesn't just affect theoretical [backtesting](../b/backtesting.m
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md), which rely on algorithmic models to execute trades, have experienced significant losses due to look-ahead bias. For instance, a [quant fund](../q/quant_fund.md) might develop a strategy based on historical correlations between different [asset](../a/asset.md) classes. If these correlations are calculated using future information, the strategy [will](../w/will.md) appear more [robust](../r/robust.md) than it actually is.
 
-#### Link to Renaissance Technologies:  
-[www.rentech.com](https://www.rentech.com)
+#### Link to Renaissance Technologies:
+
 
 ## Methods to Avoid Look-Ahead Bias
 
@@ -49,13 +49,13 @@ Modern technology offers both challenges and solutions regarding look-ahead bias
 Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and Numerai provide comprehensive [backtesting](../b/backtesting.md) environments that help traders avoid look-ahead bias. These platforms stress the importance of separating training and testing data properly and [offer](../o/offer.md) tools to simulate real [market](../m/market.md) conditions accurately.
 
 #### Link to QuantConnect:
-[www.quantconnect.com](https://www.quantconnect.com)
+
 
 #### Link to Alpaca:
-[www.alpaca.markets](https://www.alpaca.markets)
+
 
 #### Link to Numerai:
-[numer.ai](https://www.numer.ai)
+numer.ai
 
 ## Conclusion
 

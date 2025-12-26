@@ -10,15 +10,15 @@ In algorithmic trading, trades are executed by computers following pre-set instr
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading (HFT) is a subset of algorithmic trading that involves executing a large number of orders at extremely high speeds. HFT strategies are characterized by high [turnover](../t/turnover.md) rates and [order](../o/order.md)-to-[trade](../t/trade.md) ratios. Companies that specialize in HFT, such as Virtu Financial (https://www.virtu.com/), [leverage](../l/leverage.md) advanced algorithms and high-speed data networks to [gain](../g/gain.md) a competitive edge.
+High-frequency trading (HFT) is a subset of algorithmic trading that involves executing a large number of orders at extremely high speeds. HFT strategies are characterized by high [turnover](../t/turnover.md) rates and [order](../o/order.md)-to-[trade](../t/trade.md) ratios. Companies that specialize in HFT, such as Virtu Financial ( [leverage](../l/leverage.md) advanced algorithms and high-speed data networks to [gain](../g/gain.md) a competitive edge.
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) is another popular strategy in algorithmic trading, which involves exploiting price differentials across related financial instruments. Traders use [mathematical models](../m/mathematical_models_in_trading.md) to identify discrepancies and execute trades that seek to [capitalize](../c/capitalize.md) on these inefficiencies. Firms like Citadel Securities (https://www.citadelsecurities.com/) employ teams of quantitative analysts to develop these models.
+Statistical [arbitrage](../a/arbitrage.md) is another popular strategy in algorithmic trading, which involves exploiting price differentials across related financial instruments. Traders use [mathematical models](../m/mathematical_models_in_trading.md) to identify discrepancies and execute trades that seek to [capitalize](../c/capitalize.md) on these inefficiencies. Firms like Citadel Securities ( employ teams of quantitative analysts to develop these models.
 
 ### Market Making
 
-[Market](../m/market.md) making is a strategy where the [trader](../t/trader.md) simultaneously offers to buy and sell a [financial instrument](../f/financial_instrument.md) to make a [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md). [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) to the [financial markets](../f/financial_market.md), facilitating smoother transactions for other participants. Companies like KCG (now part of Virtu Financial) and Interaction Brokers (https://www.interactivebrokers.com/) commonly engage in [market](../m/market.md)-making activities.
+[Market](../m/market.md) making is a strategy where the [trader](../t/trader.md) simultaneously offers to buy and sell a [financial instrument](../f/financial_instrument.md) to make a [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md). [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) to the [financial markets](../f/financial_market.md), facilitating smoother transactions for other participants. Companies like KCG (now part of Virtu Financial) and Interaction Brokers ( commonly engage in [market](../m/market.md)-making activities.
 
 ### Execution Algorithms
 

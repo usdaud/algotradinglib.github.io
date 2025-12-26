@@ -54,15 +54,15 @@ Several large and notable MLPs exist, each with unique features and sectors of f
 
 ### Enterprise Products Partners L.P. (EPD)
 Enterprise Products Partners L.P. is one of the largest MLPs in the United States. It operates a vast network of pipelines and is diversified across natural gas, NGLs ([natural gas liquids](../n/natural_gas_liquids.md)), [crude oil](../c/crude_oil.md), and refined products. The company focuses on providing midstream energy services.
-[Enterprise Products Partners L.P.](https://www.enterpriseproducts.com)
+Enterprise Products Partners L.P.
 
 ### Magellan Midstream Partners, L.P. (MMP)
 Magellan Midstream Partners is another significant player in the MLP space. It primarily operates refined [petroleum](../p/petroleum.md) products and [crude oil](../c/crude_oil.md) pipelines. The company is known for its extensive pipeline systems that connect refineries to key markets.
-[Magellan Midstream Partners, L.P.](https://www.magellanlp.com)
+Magellan Midstream Partners, L.P.
 
 ### Kinder Morgan, Inc. (KMI)
 Kinder Morgan operates one of the largest energy [infrastructure](../i/infrastructure.md) networks in North America. While it is a [corporation](../c/corporation.md), it has historical ties and a structure similar to MLPs, holding significant assets in pipelines and terminals for transporting oil, gas, and other products.
-[Kinder Morgan, Inc.](https://www.kindermorgan.com)
+Kinder Morgan, Inc.
 
 ## Performance Measurement
 
@@ -95,12 +95,10 @@ For investors looking to avoid the complexities of direct MLP investment, there 
 ### Alerian MLP ETF (AMLP)
 
 The Alerian MLP ETF is one of the largest and most well-known MLP ETFs. It seeks to track the performance of the Alerian MLP [Infrastructure](../i/infrastructure.md) [Index](../i/index_instrument.md) and provides a diversified portfolio of midstream energy [infrastructure](../i/infrastructure.md) MLPs.
-[Alerian MLP ETF](https://www.alerianmlp.com)
 
 ### Tortoise Energy Infrastructure Fund (TYG)
 
 Tortoise Energy [Infrastructure](../i/infrastructure.md) [Fund](../f/fund.md) is a [closed-end fund](../c/closed-end_fund.md) that invests in a [range](../r/range.md) of energy [infrastructure](../i/infrastructure.md) companies, many of which are MLPs. The [fund](../f/fund.md) aims to provide high current [income](../i/income.md) and [capital](../c/capital.md) appreciation over time.
-[Tortoise Energy Infrastructure Fund](https://www.tortoiseadvisors.com)
 
 ## Conclusion
 

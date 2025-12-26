@@ -1,6 +1,6 @@
 # Hostile Bid
 
-A hostile [bid](../b/bid.md) is an attempt to take over a company without the consent of the company's board of directors. Unlike friendly acquisitions where the management of both companies work together towards a mutually beneficial agreement, hostile bids involve acquirers attempting to bypass, undermine, or directly oppose the target company's management. Hostile bids can be aggressive and contentious, often involving strategic maneuvering and various financial tactics to persuade or pressure shareholders to accept the [bid](../b/bid.md). 
+A hostile [bid](../b/bid.md) is an attempt to take over a company without the consent of the company's board of directors. Unlike friendly acquisitions where the management of both companies work together towards a mutually beneficial agreement, hostile bids involve acquirers attempting to bypass, undermine, or directly oppose the target company's management. Hostile bids can be aggressive and contentious, often involving strategic maneuvering and various financial tactics to persuade or pressure shareholders to accept the [bid](../b/bid.md).
 
 ## Mechanisms of Hostile Bids
 
@@ -38,15 +38,14 @@ Legal action can also be a defense against hostile bids. The target company migh
 
 ### Valeant Pharmaceuticals and Allergan
 
-One notable hostile [bid](../b/bid.md) was made by Valeant Pharmaceuticals for Allergan in 2014. Valeant, in collaboration with [activist investor](../a/activist_investor.md) Pershing Square [Capital](../c/capital.md) Management, launched a $53 billion hostile [bid](../b/bid.md) for Allergan. The [bid](../b/bid.md) was eventually fended off when Allergan found a [white knight](../w/white_knight.md) in Actavis, which merged with Allergan in a friendly deal valued at $66 billion. [Allergan](https://www.allergan.com/) 
-
+One notable hostile [bid](../b/bid.md) was made by Valeant Pharmaceuticals for Allergan in 2014. Valeant, in collaboration with [activist investor](../a/activist_investor.md) Pershing Square [Capital](../c/capital.md) Management, launched a $53 billion hostile [bid](../b/bid.md) for Allergan. The [bid](../b/bid.md) was eventually fended off when Allergan found a [white knight](../w/white_knight.md) in Actavis, which merged with Allergan in a friendly deal valued at $66 billion. Allergan
 ### Kraft Heinz and Unilever
 
-In 2017, Kraft Heinz made an unsolicited [offer](../o/offer.md) to acquire Unilever for $143 billion. The [bid](../b/bid.md) was rejected by Unilever, leading to a brief but intense period of aggressive maneuvering. Kraft Heinz eventually withdrew its proposal, demonstrating how target companies can successfully fend off unsolicited offers. [Unilever](https://www.unilever.com/)
+In 2017, Kraft Heinz made an unsolicited [offer](../o/offer.md) to acquire Unilever for $143 billion. The [bid](../b/bid.md) was rejected by Unilever, leading to a brief but intense period of aggressive maneuvering. Kraft Heinz eventually withdrew its proposal, demonstrating how target companies can successfully fend off unsolicited offers. Unilever
 
 ### Sanofi and Genzyme
 
-In 2010, French pharmaceutical company Sanofi launched a $18.5 billion hostile [bid](../b/bid.md) for U.S. biotechnology [firm](../f/firm.md) Genzyme. After a lengthy struggle, the two companies agreed on a friendly deal valued at $20.1 billion. This case underscores how an initial hostile [bid](../b/bid.md) can sometimes transform into a negotiated agreement. [Genzyme](https://www.sanofigenzyme.com/)
+In 2010, French pharmaceutical company Sanofi launched a $18.5 billion hostile [bid](../b/bid.md) for U.S. biotechnology [firm](../f/firm.md) Genzyme. After a lengthy struggle, the two companies agreed on a friendly deal valued at $20.1 billion. This case underscores how an initial hostile [bid](../b/bid.md) can sometimes transform into a negotiated agreement. Genzyme
 
 ## Regulatory Environment
 

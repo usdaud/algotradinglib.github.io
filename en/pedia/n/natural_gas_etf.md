@@ -46,17 +46,17 @@ ETFs may not perfectly track the [underlying](../u/underlying.md) [index](../i/i
 ### 1. United States Natural Gas Fund (UNG)
 The United States Natural Gas [Fund](../f/fund.md) is one of the most well-known Natural Gas ETFs. It aims to reflect the changes in percentage terms of the price of natural gas delivered at the [Henry Hub](../h/henry_hub.md), Louisiana.
 
-**Website:** [UNGFund.com](http://www.ungfund.com/)
+**online platform:** online resource
 
 ### 2. ProShares Ultra Bloomberg Natural Gas (BOIL)
 ProShares Ultra [Bloomberg](../b/bloomberg.md) Natural Gas seeks to provide daily investment results that correspond to two times (2x) the daily performance of the [Bloomberg](../b/bloomberg.md) Natural Gas Subindex.
 
-**Website:** [ProShares.com](https://www.proshares.com/)
+**online platform:** online resource
 
 ### 3. First Trust Natural Gas ETF (FCG)
 The First [Trust](../t/trust.md) Natural Gas ETF seeks investment results that correspond generally to the price and [yield](../y/yield.md) of the ISE-Revere Natural Gas [Index](../i/index_instrument.md), which is designed to provide a [benchmark](../b/benchmark.md) for investors interested in tracking companies that derive a substantial portion of their revenues from the exploration and production of natural gas.
 
-**Website:** [FirstTrust.com](https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCG)
+**online platform:** online resource
 
 ## Strategies for Investing in Natural Gas ETFs
 

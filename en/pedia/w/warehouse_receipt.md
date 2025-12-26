@@ -69,10 +69,10 @@ Warehouse [receipts](../r/receipt.md) play a vital role in [trade finance](../t/
 Comex is a well-known [commodity](../c/commodity.md) [exchange](../e/exchange.md) where warehouse [receipts](../r/receipt.md) are commonly used in trading metals such as gold, silver, and copper. Warehouse [receipts](../r/receipt.md) issued by Comex-approved warehouses certify the presence of metals and are fundamental in trading [futures](../f/futures.md) and [options](../o/options.md) on the [exchange](../e/exchange.md).
 
 ### AgriDigital
-AgriDigital is a fintech company that provides [blockchain](../b/blockchain_in_trading.md)-based solutions for the agricultural [supply chain](../s/supply_chain.md), including digital warehouse [receipts](../r/receipt.md). By leveraging [blockchain](../b/blockchain_in_trading.md), AgriDigital ensures that [receipts](../r/receipt.md) are transparent, tamper-proof, and easily transferable. For more information, visit [AgriDigital](https://www.agridigital.io/).
+AgriDigital is a fintech company that provides [blockchain](../b/blockchain_in_trading.md)-based solutions for the agricultural [supply chain](../s/supply_chain.md), including digital warehouse [receipts](../r/receipt.md). By leveraging [blockchain](../b/blockchain_in_trading.md), AgriDigital ensures that [receipts](../r/receipt.md) are transparent, tamper-proof, and easily transferable. For more information, visit AgriDigital.
 
 ### Mercaris
-Mercaris offers a [trading platform](../t/trading_platform.md) for organic and non-GMO agricultural products, utilizing warehouse [receipts](../r/receipt.md) to facilitate transactions. Their system provides real-time data on [market](../m/market.md) prices and [inventory](../i/inventory.md) levels, helping farmers and buyers make informed decisions. For more information, visit [Mercaris](https://mercaris.com/).
+Mercaris offers a [trading platform](../t/trading_platform.md) for organic and non-GMO agricultural products, utilizing warehouse [receipts](../r/receipt.md) to facilitate transactions. Their system provides real-time data on [market](../m/market.md) prices and [inventory](../i/inventory.md) levels, helping farmers and buyers make informed decisions. For more information, visit Mercaris.
 
 ## Conclusion
 

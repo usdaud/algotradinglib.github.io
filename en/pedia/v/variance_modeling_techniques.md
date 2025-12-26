@@ -39,12 +39,12 @@ Implied [volatility](../v/volatility.md) is critical in option pricing and can p
 The GARCH(1,1) model is defined as:
 \[ \sigma_t^2 = \alpha_0 + \alpha_1 \epsilon_{t-1}^2 + \beta_1 \sigma_{t-1}^2 \]
 Where:
-- \( \sigma_t^2 \) : Variance at time \( t \)
-- \( \epsilon_t \) : Residual [return](../r/return.md) (observed [return](../r/return.md) - [expected return](../e/expected_return.md))
-- \( \alpha_0, \alpha_1, \beta_1 \) : Model parameters with \( \alpha_0 > 0 \), \( \alpha_1 \geq 0 \), \( \beta_1 \geq 0 \), and \( \alpha_1 + \beta_1 < 1 \)
+- \( \sigma_t^2 \): Variance at time \( t \)
+- \( \epsilon_t \): Residual [return](../r/return.md) (observed [return](../r/return.md) - [expected return](../e/expected_return.md))
+- \( \alpha_0, \alpha_1, \beta_1 \): Model parameters with \( \alpha_0 > 0 \), \( \alpha_1 \geq 0 \), \( \beta_1 \geq 0 \), and \( \alpha_1 + \beta_1 < 1 \)
 
 ### Implementation
-Widely used libraries such as Python's `arch` package provide tools for implementing [GARCH models](../g/garch_models.md). More details: [ARCH Python Library](https://arch.readthedocs.io/en/latest/)
+Widely used libraries such as Python's `arch` package provide tools for implementing [GARCH models](../g/garch_models.md). More details: ARCH Python Library
 
 ### Applications
 [GARCH models](../g/garch_models.md) are widely used for financial [market volatility forecasting](../m/market_volatility_forecasting.md), [risk management](../r/risk_management.md), and in constructing [trading algorithms](../t/trading_algorithms.md) that adapt to turbulent [market](../m/market.md) conditions.
@@ -52,16 +52,16 @@ Widely used libraries such as Python's `arch` package provide tools for implemen
 ## 4. Stochastic Volatility Models
 
 ### Description
-[Stochastic volatility models](../s/stochastic_volatility_models.md) assume that [volatility](../v/volatility.md) itself follows a stochastic process, allowing it to capture more complex [market](../m/market.md) behaviors. 
+[Stochastic volatility models](../s/stochastic_volatility_models.md) assume that [volatility](../v/volatility.md) itself follows a stochastic process, allowing it to capture more complex [market](../m/market.md) behaviors.
 
 ### Heston Model
 One of the popular models is the [Heston model](../h/heston_model.md), which describes the evolution of the variance \( v_t \) as:
 \[ dv_t = \[kappa](../k/kappa.md)(\[theta](../t/theta.md) - v_t)dt + \sigma_v \sqrt{v_t}dW_v \]
 Where:
-- \( \[kappa](../k/kappa.md) \) : [Mean reversion](../m/mean_reversion.md) rate
-- \( \[theta](../t/theta.md) \) : Long-term variance mean
-- \( \sigma_v \) : [Volatility](../v/volatility.md) of [volatility](../v/volatility.md)
-- \( W_v \) : Wiener process
+- \( \[kappa](../k/kappa.md) \): [Mean reversion](../m/mean_reversion.md) rate
+- \( \[theta](../t/theta.md) \): Long-term variance mean
+- \( \sigma_v \): [Volatility](../v/volatility.md) of [volatility](../v/volatility.md)
+- \( W_v \): Wiener process
 
 ### Benefits
 Stochastic models, like the [Heston model](../h/heston_model.md), provide a better fit for capturing [market](../m/market.md) phenomena like [volatility](../v/volatility.md) smiles and term structures.
@@ -82,7 +82,7 @@ Where \( \[lambda](../l/lambda.md) \) is the decay [factor](../f/factor.md) (0 <
 ### Advantages
 1. Easier to implement compared to other [volatility models](../v/volatility_models.md).
 2. Quickly adapts to [market](../m/market.md) changes.
-   
+
 ### Applications
 EWMA is widely used in the RiskMetrics framework for VaR calculations and adapting [algorithmic trading](../a/algorithmic_trading.md) strategies to current [market](../m/market.md) conditions.
 
@@ -133,8 +133,8 @@ Multivariate models extend univariate [volatility models](../v/volatility_models
 The BEKK (Baba, Engle, Kraft, and Kroner) model is a commonly used multivariate GARCH model:
 \[ H_t = C'C + A' \epsilon_{t-1} \epsilon_{t-1}' A + B'H_{t-1}B \]
 Where:
-- \( H_t \) : Conditional [covariance](../c/covariance.md) matrix at time \( t \)
-- \( A, B, C \) : Parameter matrices
+- \( H_t \): Conditional [covariance](../c/covariance.md) matrix at time \( t \)
+- \( A, B, C \): Parameter matrices
 
 ### Applications
 Used in [portfolio optimization](../p/portfolio_optimization.md), [systemic risk](../s/systemic_risk.md) assessment, and multivariate [risk management](../r/risk_management.md).

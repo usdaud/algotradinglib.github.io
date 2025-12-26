@@ -109,23 +109,23 @@ Highly correlated variables or [multicollinearity](../m/multicollinearity_in_tra
 
 Several companies specialize in providing the types of data needed for constructing X-Input variables in [algorithmic trading](../a/algorithmic_trading.md). These companies [offer](../o/offer.md) a [range](../r/range.md) of data products and services tailored to the needs of trading firms:
 
-### 1. Bloomberg [Bloomberg L.P.](https://www.bloomberg.com/company/)
+### 1. Bloomberg Bloomberg L.P.
 
 [Bloomberg](../b/bloomberg.md) is a global leader in financial data and analytics. They provide a comprehensive suite of tools and datasets, including [market](../m/market.md) data, [fundamental analysis](../f/fundamental_analysis.md), and news sentiment.
 
-### 2. Refinitiv [Refinitiv](https://www.refinitiv.com)
+### 2. Refinitiv Refinitiv
 
 Refinitiv, formerly known as Thomson [Reuters](../r/reuters.md) Financial & [Risk](../r/risk.md), offers a wide [range](../r/range.md) of financial data, including [real-time market data](../r/real-time_market_data.md), historical data, and analytics.
 
-### 3. Quandl [Quandl](https://www.quandl.com)
+### 3. Quandl Quandl
 
 [Quandl](../q/quandl.md) specializes in [alternative data](../a/alternative_data.md), [offering](../o/offering.md) unique datasets from non-traditional sources, such as satellite imagery, [social media](../s/social_media.md), and web traffic.
 
-### 4. Sentifi [Sentifi](https://sentifi.com/)
+### 4. Sentifi Sentifi
 
 Sentifi provides sentiment data from news, blogs, and [social media](../s/social_media.md), using advanced AI and [machine learning](../m/machine_learning.md) techniques to deliver actionable insights.
 
-### 5. S&P Global Market Intelligence [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/)
+### 5. S&P Global Market Intelligence S&P Global Market Intelligence
 
 This company offers a comprehensive [range](../r/range.md) of data products, including company financials, [credit](../c/credit.md) ratings, and macroeconomic indicators.
 

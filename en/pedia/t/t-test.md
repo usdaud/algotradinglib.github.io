@@ -12,7 +12,7 @@ There are three primary types of T-Tests:
 
 ### One-Sample T-Test
 
-The One-Sample T-Test is used to determine if the mean of a single sample differs significantly from a known or hypothesized population mean. 
+The One-Sample T-Test is used to determine if the mean of a single sample differs significantly from a known or hypothesized population mean.
 
 #### Formula
 
@@ -39,7 +39,7 @@ The formula for the test statistic (t) in an Independent Two-Sample T-Test is:
 where:
 - \(\bar{x}_1\) and \(\bar{x}_2\) are the sample means,
 - \(s_p\) is the pooled [standard deviation](../s/standard_deviation.md), calculated as:
-  \[ s_p = \sqrt{\frac{(n_1 - 1)s_1^2 + (n_2 - 1)s_2^2}{n_1 + n_2 - 2}} \]
+ \[ s_p = \sqrt{\frac{(n_1 - 1)s_1^2 + (n_2 - 1)s_2^2}{n_1 + n_2 - 2}} \]
 - \(n_1\) and \(n_2\) are the sample sizes,
 - \(s_1\) and \(s_2\) are the sample standard deviations.
 
@@ -63,34 +63,34 @@ where:
 To perform a T-Test, the following steps are generally undertaken:
 
 1. **State the Hypotheses**:
-   - [Null Hypothesis](../n/null_hypothesis.md) (\(H_0\)): There is no significant difference between the means.
-   - Alternative Hypothesis (\(H_a\)): There is a significant difference between the means.
+ - [Null Hypothesis](../n/null_hypothesis.md) (\(H_0\)): There is no significant difference between the means.
+ - Alternative Hypothesis (\(H_a\)): There is a significant difference between the means.
 
 2. **Choose the Significance Level (\(\[alpha](../a/alpha.md)\))**:
-   A common choice for \(\[alpha](../a/alpha.md)\) is 0.05.
+ A common choice for \(\[alpha](../a/alpha.md)\) is 0.05.
 
 3. **Calculate the Test Statistic**:
-   Use the appropriate formula based on the type of T-Test being conducted.
+ Use the appropriate formula based on the type of T-Test being conducted.
 
 4. **Determine the [Degrees of Freedom](../d/degrees_of_freedom.md)**:
-   - For One-Sample and Paired Sample T-Test: \( df = n - 1 \)
-   - For Independent Two-Sample T-Test: \( df = n_1 + n_2 - 2 \)
+ - For One-Sample and Paired Sample T-Test: \( df = n - 1 \)
+ - For Independent Two-Sample T-Test: \( df = n_1 + n_2 - 2 \)
 
 5. **Find the Critical [Value](../v/value.md) or P-[Value](../v/value.md)**:
-   Compare the calculated test statistic to the critical [value](../v/value.md) from the T-[distribution](../d/distribution.md) table to determine the outcome.
+ Compare the calculated test statistic to the critical [value](../v/value.md) from the T-[distribution](../d/distribution.md) table to determine the outcome.
 
 6. **Make a Decision**:
-   - If the test statistic exceeds the critical [value](../v/value.md) or if the p-[value](../v/value.md) is less than \(\[alpha](../a/alpha.md)\), reject the [null hypothesis](../n/null_hypothesis.md).
-   - Otherwise, do not reject the [null hypothesis](../n/null_hypothesis.md).
+ - If the test statistic exceeds the critical [value](../v/value.md) or if the p-[value](../v/value.md) is less than \(\[alpha](../a/alpha.md)\), reject the [null hypothesis](../n/null_hypothesis.md).
+ - Otherwise, do not reject the [null hypothesis](../n/null_hypothesis.md).
 
 ## Practical Applications in Finance
 
 ### Evaluating Trading Strategies
 
-T-Tests can be employed to assess the efficacy of different [trading strategies](../t/trading_strategies.md) by comparing the returns from different strategies. 
+T-Tests can be employed to assess the efficacy of different [trading strategies](../t/trading_strategies.md) by comparing the returns from different strategies.
 
-Example: 
-Company: [Alphien](https://www.alphien.com)
+Example:
+Company: Alphien
 By using an Independent Two-Sample T-Test, traders can determine if one strategy consistently yields higher returns than another, taking into account the [variability](../v/variability.md) within the returns.
 
 ### Performance Metrics Comparison
@@ -98,15 +98,15 @@ By using an Independent Two-Sample T-Test, traders can determine if one strategy
 [Fund](../f/fund.md) managers can use T-Tests to compare the [performance metrics](../p/performance_metrics.md) of different portfolios or funds, such as returns, Sharpe ratios, or [alpha](../a/alpha.md) estimates, ensuring they make decisions based on statistically significant differences.
 
 Example:
-Company: [BlackRock](https://www.blackrock.com)
+Company: BlackRock
 They might compare the mean [return](../r/return.md) of their [fund](../f/fund.md) against the [market](../m/market.md) average to evaluate performance.
 
 ### Market Research
 
-[Market](../m/market.md) analysts often use T-Tests to compare various financial metrics across different [market](../m/market.md) segments or time periods. 
+[Market](../m/market.md) analysts often use T-Tests to compare various financial metrics across different [market](../m/market.md) segments or time periods.
 
 Example:
-Company: [Morningstar](https://www.morningstar.com)
+Company: Morningstar
 By using a Paired Sample T-Test, analysts can monitor the changes in [market](../m/market.md) conditions by comparing [financial ratios](../f/financial_ratios.md) like P/E ratios across different periods for the same set of companies.
 
 ## Assumptions of T-Tests

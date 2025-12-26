@@ -19,9 +19,9 @@ Under the IRC, [Section 1250](../s/section_1250.md) property is defined as [real
 When [Section 1250](../s/section_1250.md) property is sold, the [gain](../g/gain.md) must be divided into three components:
 
 1. **[Ordinary Income](../o/ordinary_income.md) Portion**: This applies to the [gain](../g/gain.md) attributable to [depreciation](../d/depreciation.md) deductions taken in excess of straight-line [depreciation](../d/depreciation.md) (applicable for property placed in service before 1986).
-   
+
 2. **Unrecaptured [Section 1250](../s/section_1250.md) [Gain](../g/gain.md)**: This is the portion of the [gain](../g/gain.md) attributable to straight-line [depreciation](../d/depreciation.md) deductions taken on the property. It is taxed at a maximum rate of 25%.
-   
+
 3. **Remaining [Capital Gain](../c/capital_gain.md)**: Any [gain](../g/gain.md) in excess of the amount attributable to [depreciation](../d/depreciation.md) is taxed as a long-term [capital gain](../c/capital_gain.md), subject to the standard long-term [capital gains tax](../c/capital_gains_tax.md) rates.
 
 ### Tax Rate Implications
@@ -30,7 +30,7 @@ The maximum [tax rate](../t/tax_rate.md) on unrecaptured [Section 1250](../s/sec
 
 ## Practical Example
 
-Consider an [investor](../i/investor.md) who sells a rental property for $500,000. The original purchase price of the property was $300,000, and over the years, the [investor](../i/investor.md) took $100,000 in [depreciation](../d/depreciation.md) deductions under the straight-line method. 
+Consider an [investor](../i/investor.md) who sells a rental property for $500,000. The original purchase price of the property was $300,000, and over the years, the [investor](../i/investor.md) took $100,000 in [depreciation](../d/depreciation.md) deductions under the straight-line method.
 
 - **[Sale](../s/sale.md) Price**: $500,000
 - **Adjusted [Basis](../b/basis.md) (Purchase Price - [Depreciation](../d/depreciation.md))**: $300,000 - $100,000 = $200,000

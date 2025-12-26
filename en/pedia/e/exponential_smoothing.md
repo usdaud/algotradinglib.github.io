@@ -63,27 +63,27 @@ where:
 ## Advantages of Exponential Smoothing
 
 1. **Simplicity**:
-   - The method is relatively simple to implement and computationally efficient.
-   
+ - The method is relatively simple to implement and computationally efficient.
+
 2. **Flexibility**:
-   - With different models available (SES, Holt’s, and Holt-Winters), exponential smoothing can be tailored to datasets with various characteristics.
-   
+ - With different models available (SES, Holt’s, and Holt-Winters), exponential smoothing can be tailored to datasets with various characteristics.
+
 3. **Adaptability**:
-   - The method adapts quickly to changes in the data.
+ - The method adapts quickly to changes in the data.
 
 4. **Real-time Application**:
-   - Its recursive nature makes it suitable for real-time applications.
+ - Its recursive nature makes it suitable for real-time applications.
 
 ## Limitations of Exponential Smoothing
 
 1. **Limited to [Univariate Time Series](../u/univariate_time_series.md)**:
-   - The method primarily handles a single [time series](../t/time_series.md) and does not account for multivariate data.
+ - The method primarily handles a single [time series](../t/time_series.md) and does not account for multivariate data.
 
 2. **Smoothing Parameter Selection**:
-   - Choosing the correct smoothing parameters (\(\[alpha](../a/alpha.md)\), \(\[beta](../b/beta.md)\), \(\[gamma](../g/gamma.md)\)) can be challenging and may require [optimization](../o/optimization.md) techniques.
+ - Choosing the correct smoothing parameters (\(\[alpha](../a/alpha.md)\), \(\[beta](../b/beta.md)\), \(\[gamma](../g/gamma.md)\)) can be challenging and may require [optimization](../o/optimization.md) techniques.
 
 3. **Assumption on Linearity**:
-   - Assumes linear trends and [seasonality](../s/seasonality.md) effects, which might not always [hold](../h/hold.md) in real-world data.
+ - Assumes linear trends and [seasonality](../s/seasonality.md) effects, which might not always [hold](../h/hold.md) in real-world data.
 
 ## Application in Algorithmic Trading
 
@@ -91,7 +91,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), exponential smoothing is 
 
 **Example Application**:
 
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms like [AQR Capital Management](https://www.aqr.com/) and [Two Sigma](https://www.twosigma.com/) employ various [time series forecasting](../t/time_series_forecasting.md) methods, including exponential smoothing, for strategy development, [risk management](../r/risk_management.md), and decision-making processes.
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms like AQR Capital Management and Two Sigma employ various [time series forecasting](../t/time_series_forecasting.md) methods, including exponential smoothing, for strategy development, [risk management](../r/risk_management.md), and decision-making processes.
 
 These quantitative investment firms [leverage](../l/leverage.md) historical price data to build models that can predict future price movements with a degree of confidence, thereby enabling them to execute high-frequency trades.
 

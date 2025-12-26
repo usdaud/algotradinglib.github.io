@@ -2,12 +2,12 @@
 
 ### Moving Averages (MA)
 
-Moving averages are one of the most common and useful [swing trading](../s/swing_trading.md) indicators. They smooth out price data to identify the direction of the [trend](../t/trend.md). The most popular types of moving averages are the Simple Moving Average (SMA) and the Exponential Moving Average (EMA). 
+Moving averages are one of the most common and useful [swing trading](../s/swing_trading.md) indicators. They smooth out price data to identify the direction of the [trend](../t/trend.md). The most popular types of moving averages are the Simple Moving Average (SMA) and the Exponential Moving Average (EMA).
 
-**Simple Moving Average (SMA)**  
+**Simple Moving Average (SMA)**
 The SMA calculates the average of a selected [range](../r/range.md) of prices, usually closing prices, by the number of periods in that [range](../r/range.md). For example, a 20-day SMA sums up the closing prices of the last 20 days and divides by 20.
 
-**Exponential Moving Average (EMA)**  
+**Exponential Moving Average (EMA)**
 The EMA gives more weight to recent prices, making it more responsive to new information. This can be particularly useful for swing traders who need to quickly respond to price changes.
 
 ### Relative Strength Index (RSI)
@@ -18,13 +18,13 @@ The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that 
 
 The MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price. It consists of the MACD line, the signal line, and the [histogram](../h/histogram.md).
 
-**MACD Line**  
+**MACD Line**
 Calculated by subtracting the 26-period EMA from the 12-period EMA.
 
-**Signal Line**  
+**Signal Line**
 A 9-period EMA of the MACD line plotted on top of the MACD line, which can function as a trigger for buy and sell signals.
 
-**[Histogram](../h/histogram.md)**  
+**[Histogram](../h/histogram.md)**
 It represents the difference between the MACD line and the signal line. When the [histogram](../h/histogram.md) is above zero, it indicates a bullish [trend](../t/trend.md), and when it is below zero, it indicates a bearish [trend](../t/trend.md).
 
 ### Bollinger Bands
@@ -69,9 +69,8 @@ The CCI is a versatile [indicator](../i/indicator.md) that can be used to identi
 
 VWAP provides the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price. It's commonly used by institutional traders to gauge trading [efficiency](../e/efficiency.md).
 
-[TradingView: Indicators](https://www.tradingview.com/)
+TradingView: Indicators
 
-[Investopedia: Indicators](https://www.investopedia.com/trading/)
+Investopedia: Indicators
 
-[MetaTrader: Indicators](https://www.metatrader4.com/en)
-
+MetaTrader: Indicators

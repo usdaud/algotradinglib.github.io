@@ -46,7 +46,7 @@ Once the data is preprocessed, the next step is to train the model. This can inv
 
 - Splitting the dataset into training and testing sets.
 - Selecting appropriate algorithms and tuning hyperparameters.
-- Using cross-validation techniques to ensure the model's robustness. 
+- Using cross-validation techniques to ensure the model's robustness.
 
 ### Model Evaluation
 Evaluation metrics are essential to assess the model's predictive power. Common metrics include:
@@ -64,17 +64,17 @@ Post-evaluation, the model is deployed in a live [trading environment](../t/trad
 ### QuantConnect
 [QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) solutions, including implementation and [backtesting](../b/backtesting.md) of X-prediction models. They provide access to financial data and resources to develop, test, and deploy [trading algorithms](../t/trading_algorithms.md).
 
-Link: [QuantConnect](https://www.quantconnect.com/)
+Link: QuantConnect
 
 ### Numerai
 Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) competitions to build the best [predictive models](../p/predictive_models_in_trading.md). It integrates various [machine learning](../m/machine_learning.md) techniques to create X-prediction models for trading.
 
-Link: [Numerai](https://numer.ai/)
+Link: Numerai
 
 ### AlphaPy
 AlphaPy is an [open](../o/open.md)-source [machine learning](../m/machine_learning.md) toolkit designed for building [predictive models](../p/predictive_models_in_trading.md) in Python. It supports various X-prediction models for [algorithmic trading](../a/algorithmic_trading.md).
 
-Link: [AlphaPy Repository](https://github.com/ScottFreeLLC/AlphaPy)
+Link: AlphaPy Repository
 
 ## Challenges and Future Directions
 

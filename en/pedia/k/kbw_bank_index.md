@@ -50,8 +50,8 @@ There are several ways investors can [gain](../g/gain.md) exposure to the KBW [B
 ### Exchange Traded Funds (ETFs)
 
 One of the most common methods is through ETFs that track the performance of the KBW [Bank](../b/bank.md) [Index](../i/index_instrument.md). These ETFs aim to replicate the [index](../i/index_instrument.md)'s returns by holding the constituent [stocks](../s/stock.md) in similar proportions. Some popular ETFs based on the KBW [Bank](../b/bank.md) [Index](../i/index_instrument.md) include:
-- Invesco KBW [Bank](../b/bank.md) ETF (NYSEARCA: KBWB) [Link](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWB)
-- Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (NYSEARCA: FAS) [Link](https://www.direxion.com/product/direxion-daily-financial-bull-3x-etf)
+- Invesco KBW [Bank](../b/bank.md) ETF (NYSEARCA: KBWB) Link
+- Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (NYSEARCA: FAS) Link
 
 ### Mutual Funds
 

@@ -14,7 +14,7 @@ Australia is a flagship example of evolved superannuation systems. The Australia
 
 - **1983**: Establishment of superannuation as a mandatory retirement savings scheme.
 - **1992**: Introduction of the Superannuation Guarantee (SG) which mandated employer contributions to super funds.
-  
+
 The Superannuation Guarantee initially required employers to contribute 3% of an employee's [earnings](../e/earnings.md) to their super [fund](../f/fund.md), a rate that has gradually increased over the years.
 
 ## Structure of Superannuation
@@ -108,4 +108,4 @@ An individual's total superannuation balance influences their ability to make no
 
 Superannuation is a sophisticated, essential system underpinning retirement savings in several countries, most notably Australia. Its structure, regulatory framework, and tax advantages make it a pivotal element of financial and [retirement planning](../r/retirement_planning.md). While complex, the system ensures that individuals can accumulate sufficient savings to support themselves post-retirement, which is vital given increasing life expectancies and the pressures on public pension systems. Understanding superannuation, its workings, and strategic planning around contributions and investments can provide individuals with significant advantages and enhanced financial [security](../s/security.md) in their later years.
 
-For further detailed information on managing superannuation, please visit the official Australian Government site on superannuation [here](https://www.ato.gov.au/Individuals/Super/).
+For further detailed information on managing superannuation, please

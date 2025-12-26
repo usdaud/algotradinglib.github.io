@@ -1,6 +1,6 @@
 # Overhead Rate
 
-Overhead Rate is a crucial financial metric used by businesses to allocate indirect costs to their products, services, or departments. It helps in understanding the true cost of production and managing expenses effectively to ensure profitability. In this comprehensive article, we [will](../w/will.md) explore the concept of overhead rate in detail, its types, calculation methods, significance, applications in various industries, and modern technologies to optimize overhead allocation. 
+Overhead Rate is a crucial financial metric used by businesses to allocate indirect costs to their products, services, or departments. It helps in understanding the true cost of production and managing expenses effectively to ensure profitability. In this comprehensive article, we [will](../w/will.md) explore the concept of overhead rate in detail, its types, calculation methods, significance, applications in various industries, and modern technologies to optimize overhead allocation.
 
 ## Definition and Importance
 

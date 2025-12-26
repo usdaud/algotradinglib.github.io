@@ -66,15 +66,15 @@ High [market](../m/market.md) [volatility](../v/volatility.md) can increase the 
 
 ### JPMorgan Chase
 
-JPMorgan Chase, one of the largest financial institutions in the world, offers a comprehensive view of how line of [business](../b/business.md) limitations can affect operations. For instance, the [firm](../f/firm.md) must comply with various regulatory requirements such as the [Volcker Rule](../v/volcker_rule.md), which restricts [proprietary trading](../p/proprietary_trading.md) activities. More information can be found on their [official website](https://www.jpmorganchase.com).
+JPMorgan Chase, one of the largest financial institutions in the world, offers a comprehensive view of how line of [business](../b/business.md) limitations can affect operations. For instance, the [firm](../f/firm.md) must comply with various regulatory requirements such as the [Volcker Rule](../v/volcker_rule.md), which restricts [proprietary trading](../p/proprietary_trading.md) activities.
 
 ### Goldman Sachs
 
-Goldman Sachs operates under stringent regulatory and operational limitations. The [firm](../f/firm.md) is required to adhere to [capital](../c/capital.md) and [liquidity](../l/liquidity.md) standards set by [Basel III](../b/basel_iii.md) and the Federal Reserve. Detailed information is available on their [official website](https://www.goldmansachs.com).
+Goldman Sachs operates under stringent regulatory and operational limitations. The [firm](../f/firm.md) is required to adhere to [capital](../c/capital.md) and [liquidity](../l/liquidity.md) standards set by [Basel III](../b/basel_iii.md) and the
 
 ### Citigroup
 
-Citigroup also faces line of [business](../b/business.md) limitations, particularly geographic restrictions. The [firm](../f/firm.md) operates in over 160 countries and must navigate a complex web of local regulations. More information can be found on their [official website](https://www.citigroup.com).
+Citigroup also faces line of [business](../b/business.md) limitations, particularly geographic restrictions. The [firm](../f/firm.md) operates in over 160 countries and must navigate a complex web of local regulations.
 
 ## Conclusion
 

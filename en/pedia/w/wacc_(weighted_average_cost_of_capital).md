@@ -1,6 +1,6 @@
 # Weighted Average Cost of Capital (WACC)
 
-[Weighted Average](../w/weighted_average.md) [Cost of Capital](../c/cost_of_capital.md) (WACC) is a critical financial metric that represents a [firm](../f/firm.md)'s overall [cost of capital](../c/cost_of_capital.md) from all sources, including [equity](../e/equity.md) and [debt](../d/debt.md). It is a pivotal concept in [finance](../f/finance.md) because it serves as the [discount rate](../d/discount_rate.md) for a [firm](../f/firm.md)'s future cash flows and is essential in investment decision-making, [corporate finance](../c/corporate_finance.md), and [valuation](../v/valuation.md) processes. By calculating WACC, companies can determine the minimum [return](../r/return.md) they must achieve to satisfy shareholders, [debt](../d/debt.md) holders, and other [capital](../c/capital.md) providers. 
+[Weighted Average](../w/weighted_average.md) [Cost of Capital](../c/cost_of_capital.md) (WACC) is a critical financial metric that represents a [firm](../f/firm.md)'s overall [cost of capital](../c/cost_of_capital.md) from all sources, including [equity](../e/equity.md) and [debt](../d/debt.md). It is a pivotal concept in [finance](../f/finance.md) because it serves as the [discount rate](../d/discount_rate.md) for a [firm](../f/firm.md)'s future cash flows and is essential in investment decision-making, [corporate finance](../c/corporate_finance.md), and [valuation](../v/valuation.md) processes. By calculating WACC, companies can determine the minimum [return](../r/return.md) they must achieve to satisfy shareholders, [debt](../d/debt.md) holders, and other [capital](../c/capital.md) providers.
 
 ### Components of WACC
 
@@ -56,9 +56,9 @@ The [cost of debt](../c/cost_of_debt.md) (\( Rd \)) is the effective rate that a
 
 ### Practical Applications
 
-1. **Corporate [Valuation](../v/valuation.md)**: Investment firms and analysts use WACC in conjunction with DCF models to determine the [intrinsic value](../i/intrinsic_value.md) of a company. For instance, Goldman Sachs (https://www.goldmansachs.com) utilizes WACC in their [valuation](../v/valuation.md) methodologies.
-2. **Mergers and Acquisitions**: When conducting [due diligence](../d/due_diligence.md) and determining the purchase price for acquisitions, firms like Morgan Stanley (https://www.morganstanley.com) consider the target’s WACC to assess the [cost of capital](../c/cost_of_capital.md) and potential returns.
-3. **Investment Strategies**: [Hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers, such as Bridgewater Associates (https://www.bridgewater.com), apply WACC to evaluate potential investments and compare the returns against the [cost of capital](../c/cost_of_capital.md).
+1. **Corporate [Valuation](../v/valuation.md)**: Investment firms and analysts use WACC in conjunction with DCF models to determine the [intrinsic value](../i/intrinsic_value.md) of a company. For instance, Goldman Sachs ( utilizes WACC in their [valuation](../v/valuation.md) methodologies.
+2. **Mergers and Acquisitions**: When conducting [due diligence](../d/due_diligence.md) and determining the purchase price for acquisitions, firms like Morgan Stanley ( consider the target’s WACC to assess the [cost of capital](../c/cost_of_capital.md) and potential returns.
+3. **Investment Strategies**: [Hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers, such as Bridgewater Associates ( apply WACC to evaluate potential investments and compare the returns against the [cost of capital](../c/cost_of_capital.md).
 
 ### Conclusion
 

@@ -5,7 +5,7 @@ The underinvestment problem is a significant [issue](../i/issue.md) in the finan
 ## Causes of Underinvestment
 
 ### Agency Problems
-Agency problems arise when the managers of a [firm](../f/firm.md) (agents) do not act in the best [interest](../i/interest.md) of the shareholders (principals). Managers may avoid [investing](../i/investing.md) in new projects due to personal [risk](../r/risk.md) aversion, career concerns, or the desire to avoid the additional work associated with overseeing new investments. Furthermore, managers might not fully capture the [upside](../u/upside.md) benefits of successful projects, leading to a preference for less risky, more predictable outcomes. 
+Agency problems arise when the managers of a [firm](../f/firm.md) (agents) do not act in the best [interest](../i/interest.md) of the shareholders (principals). Managers may avoid [investing](../i/investing.md) in new projects due to personal [risk](../r/risk.md) aversion, career concerns, or the desire to avoid the additional work associated with overseeing new investments. Furthermore, managers might not fully capture the [upside](../u/upside.md) benefits of successful projects, leading to a preference for less risky, more predictable outcomes.
 
 ### Information Asymmetry
 Information asymmetry refers to situations where there is an imbalance in information between different parties. For example, external investors might not have as much information about the potential of a project as the [firm](../f/firm.md)'s management. This can lead to higher costs of [capital](../c/capital.md) as investors [demand](../d/demand.md) a [premium](../p/premium.md) for the [risk](../r/risk.md) of unknowns, thereby making some profitable projects unfeasible.
@@ -39,7 +39,7 @@ Investment decisions also impact employment levels. Firms that underinvest may n
 Enhancing [corporate governance](../c/corporate_governance.md) structures can mitigate agency problems by aligning managers' incentives with those of shareholders. Mechanisms such as performance-based compensation, increased board oversight, and [shareholder](../s/shareholder.md) activism can encourage managers to pursue [value](../v/value.md)-enhancing investments.
 
 ### Reducing Information Asymmetry
-Reducing information asymmetry through [transparency](../t/transparency.md) and better communication can lower the [cost of capital](../c/cost_of_capital.md) for firms. [Disclosure](../d/disclosure.md) of detailed project plans, [risk](../r/risk.md) assessments, and [market](../m/market.md) opportunities can build [investor](../i/investor.md) confidence and facilitate access to funding. 
+Reducing information asymmetry through [transparency](../t/transparency.md) and better communication can lower the [cost of capital](../c/cost_of_capital.md) for firms. [Disclosure](../d/disclosure.md) of detailed project plans, [risk](../r/risk.md) assessments, and [market](../m/market.md) opportunities can build [investor](../i/investor.md) confidence and facilitate access to funding.
 
 ### Financial Innovation
 Financial innovation can play a crucial role in alleviating financial constraints. Innovations such as [securitization](../s/securitization.md), [venture capital](../v/venture_capital.md), and [crowdfunding](../c/crowdfunding.md) can provide firms with alternative funding sources. Additionally, the development of financial instruments that share [risk](../r/risk.md) between investors and firms can make it more attractive for companies to undertake new projects.
@@ -52,11 +52,11 @@ Encouraging a long-term perspective among investors and managers can reduce shor
 
 ### Examples and Real-World Implications
 
-### Amazon 
-Amazon is an example of a company that successfully countered the underinvestment problem by continually reinvesting its profits into new projects, such as Amazon Web Services (AWS), [logistics](../l/logistics.md) [infrastructure](../i/infrastructure.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) technologies. This [reinvestment](../r/reinvestment.md) strategy has enabled Amazon to maintain its competitive edge and drive substantial growth over the years. More details: [Amazon Investor Relations](https://www.amazon.com/ir)
+### Amazon
+Amazon is an example of a company that successfully countered the underinvestment problem by continually reinvesting its profits into new projects, such as Amazon Web Services (AWS), [logistics](../l/logistics.md) [infrastructure](../i/infrastructure.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) technologies. This [reinvestment](../r/reinvestment.md) strategy has enabled Amazon to maintain its competitive edge and drive substantial growth over the years. More details
 
-### Tesla 
-Tesla's approach to investment in innovative technologies and [expansion](../e/expansion.md) of its production capabilities demonstrates another way to overcome the underinvestment problem. Despite facing financial constraints and skepticism from investors, Tesla's commitment to long-term projects helped them revolutionize the automotive [industry](../i/industry.md) and establish a leading position in electric vehicles. More details: [Tesla Investor Relations](https://ir.tesla.com)
+### Tesla
+Tesla's approach to investment in innovative technologies and [expansion](../e/expansion.md) of its production capabilities demonstrates another way to overcome the underinvestment problem. Despite facing financial constraints and skepticism from investors, Tesla's commitment to long-term projects helped them revolutionize the automotive [industry](../i/industry.md) and establish a leading position in electric vehicles. More details
 
 ### Case Study: The 2008 Financial Crisis
 The 2008 [financial crisis](../f/financial_crisis.md) highlighted the underinvestment problem on a macroeconomic scale. Facing severe economic [uncertainty](../u/uncertainty_in_trading.md) and [credit](../c/credit.md) constraints, many firms significantly reduced their investment activities. The resulting underinvestment contributed to a slow recovery and prolonged economic [stagnation](../s/stagnation.md) in several regions, demonstrating the critical importance of investment for economic health.

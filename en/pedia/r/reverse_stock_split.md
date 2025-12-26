@@ -1,6 +1,6 @@
 # Reverse Stock Split
 
-A reverse [stock split](../s/stock_split.md), also known as a stock [consolidation](../c/consolidation.md) or share rollback, is a corporate action in which a company reduces the total number of its outstanding [shares](../s/shares.md) of stock, while simultaneously increasing the price per share. This maneuver is typically executed to meet certain regulatory requirements or to enhance the [perceived value](../p/perceived_value.md) of the stock. Unlike a forward [stock split](../s/stock_split.md), which increases the number of [shares](../s/shares.md) and decreases the price per share, a reverse [stock split](../s/stock_split.md) achieves the opposite effect.  
+A reverse [stock split](../s/stock_split.md), also known as a stock [consolidation](../c/consolidation.md) or share rollback, is a corporate action in which a company reduces the total number of its outstanding [shares](../s/shares.md) of stock, while simultaneously increasing the price per share. This maneuver is typically executed to meet certain regulatory requirements or to enhance the [perceived value](../p/perceived_value.md) of the stock. Unlike a forward [stock split](../s/stock_split.md), which increases the number of [shares](../s/shares.md) and decreases the price per share, a reverse [stock split](../s/stock_split.md) achieves the opposite effect.
 
 ## Purpose and Rationale
 
@@ -44,17 +44,17 @@ The company’s [market capitalization](../m/market_capitalization.md) remains [
 
 ## Real-World Examples
 
-### 1. AIG (American International Group): 
+### 1. AIG (American International Group):
 
 American International Group (AIG) executed a 1-for-20 reverse [stock split](../s/stock_split.md) in 2009. The move was aimed at avoiding [delisting](../d/delisting.md) from the New York Stock [Exchange](../e/exchange.md) (NYSE) and to stabilize the stock price in the aftermath of the [financial crisis](../f/financial_crisis.md).
 
-More Information: [AIG](https://www.aig.com)
+More Information: AIG
 
 ### 2. Citigroup:
 
 Citigroup executed a 1-for-10 reverse [stock split](../s/stock_split.md) in 2011. The objective was to raise the share price above $40 to attract institutional investors and reduce the number of [shares](../s/shares.md) in the [market](../m/market.md).
 
-More Information: [Citigroup](https://www.citigroup.com/citi/)
+More Information: Citigroup
 
 ## Pros and Cons
 
@@ -86,4 +86,4 @@ Both the NYSE and [Nasdaq](../n/nasdaq.md) require companies to notify the [exch
 
 ## Conclusion
 
-A reverse [stock split](../s/stock_split.md) is a significant corporate action that serves various strategic purposes, from maintaining [exchange](../e/exchange.md) listings to enhancing the stock's [perceived value](../p/perceived_value.md). While it can [offer](../o/offer.md) several benefits, it also carries risks and potential downsides that both the company and its shareholders must carefully consider. Proper [execution](../e/execution.md) and transparent communication are crucial for the successful implementation of a reverse [stock split](../s/stock_split.md), ensuring that the company's objectives are met without causing undue disruption to its stock price or [investor relations](../i/investor_relations.md).
+A reverse [stock split](../s/stock_split.md) is a significant corporate action that serves various strategic purposes, from maintaining [exchange](../e/exchange.md) listings to enhancing the stock's [perceived value](../p/perceived_value.md). While it can [offer](../o/offer.md) several benefits, it also carries risks and potential downsides that both the company and its shareholders must carefully consider. Proper [execution](../e/execution.md) and transparent communication are crucial for the successful implementation of a reverse [stock split](../s/stock_split.md), ensuring that the company's objectives are met without causing undue disruption to its stock price or [company filings](../i/investor_relations.md).

@@ -99,16 +99,16 @@ While [index](../i/index_instrument.md) funds aim to replicate an [index](../i/i
 ## Major Players in the Index Fund Market
 
 ### Vanguard
-Vanguard is widely recognized as the pioneer in [index fund](../i/index_fund.md) [investing](../i/investing.md). [Vanguard](https://www.vanguard.com) offers a wide [range](../r/range.md) of [index](../i/index_instrument.md) funds covering various [asset](../a/asset.md) classes and markets.
+Vanguard is widely recognized as the pioneer in [index fund](../i/index_fund.md) [investing](../i/investing.md). Vanguard offers a wide [range](../r/range.md) of [index](../i/index_instrument.md) funds covering various [asset](../a/asset.md) classes and markets.
 
 ### BlackRock
-BlackRock is a leading global [asset](../a/asset.md) manager with its [iShares](../i/ishares.md) brand, which is among the largest issuers of ETFs. [BlackRock's iShares](https://www.ishares.com) offerings include numerous [index](../i/index_instrument.md) funds.
+BlackRock is a leading global [asset](../a/asset.md) manager with its [iShares](../i/ishares.md) brand, which is among the largest issuers of ETFs. BlackRock's iShares offerings include numerous [index](../i/index_instrument.md) funds.
 
 ### Fidelity
-Fidelity is another major player known for competitive [index](../i/index_instrument.md) funds with low [expense](../e/expense.md) ratios. [Fidelity](https://www.fidelity.com) offers a variety of [index](../i/index_instrument.md) funds and ETFs.
+Fidelity is another major player known for competitive [index](../i/index_instrument.md) funds with low [expense](../e/expense.md) ratios. Fidelity offers a variety of [index](../i/index_instrument.md) funds and ETFs.
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) provides a broad suite of [index](../i/index_instrument.md) funds and ETFs with minimal fees, making it a popular choice among cost-conscious investors. [Charles Schwab](https://www.schwab.com) is well-regarded in the [index fund](../i/index_fund.md) space.
+[Charles Schwab](../c/charles_schwab.md) provides a broad suite of [index](../i/index_instrument.md) funds and ETFs with minimal fees, making it a popular choice among cost-conscious investors. Charles Schwab is well-regarded in the [index fund](../i/index_fund.md) space.
 
 ## Conclusion
 

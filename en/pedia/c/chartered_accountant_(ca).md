@@ -41,7 +41,7 @@ After qualification, Chartered Accountants must engage in ongoing professional d
 Chartered Accountants are known for their expertise in several core areas:
 
 ### 1. Financial Accounting:
- 
+
 [Financial accounting](../f/financial_accounting.md) involves the preparation and analysis of [financial statements](../f/financial_statements.md), such as [income](../i/income.md) statements, balance sheets, and [cash flow](../c/cash_flow.md) statements. Chartered Accountants ensure these statements comply with [accounting](../a/accounting.md) standards and regulations.
 
 ### 2. Auditing:
@@ -107,21 +107,16 @@ Some Chartered Accountants choose to pursue academic and research careers, contr
 ## Major Chartered Accountancy Bodies and Their Websites
 
 1. **Institute of Chartered Accountants of Scotland (ICAS)**
-   [ICAS](https://www.icas.com/)
 
 2. **Institute of Chartered Accountants in England and Wales (ICAEW)**
-   [ICAEW](https://www.icaew.com/)
 
 3. **Institute of Chartered Accountants in Ireland (ICAI)**
-   [Chartered Accountants Ireland](https://www.charteredaccountants.ie/)
 
 4. **Institute of Chartered Accountants of India (ICAI)**
-   [ICAI](https://www.icai.org/)
 
 5. **Canadian Institute of Chartered Accountants (CICA)**
-   [CPA Canada](https://www.cpacanada.ca/) - [Note](../n/note.md): In Canada, the CA designation has merged with the CPA (Chartered Professional [Accountant](../a/accountant.md)) designation.
+ CPA Canada - [Note](../n/note.md): In Canada, the CA designation has merged with the CPA (Chartered Professional [Accountant](../a/accountant.md)) designation.
 
 6. **Chartered Accountants Australia and New Zealand (CA ANZ)**
-   [CA ANZ](https://www.charteredaccountantsanz.com/)
 
 By understanding the diverse roles and responsibilities of Chartered Accountants, we [gain](../g/gain.md) insight into their critical importance in the world of [finance](../f/finance.md) and [business](../b/business.md).

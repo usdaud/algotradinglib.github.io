@@ -11,7 +11,7 @@ A [drawdown](../d/drawdown.md) is a measure of the decline from a historical pea
 1. **Peak-to-[Trough](../t/trough.md) [Drawdown](../d/drawdown.md)**: This is the highest drop from a peak to a subsequent [trough](../t/trough.md) before a new peak is achieved. It is a direct measure of the worst-case scenario an [investor](../i/investor.md) or strategy might have to endure.
 2. **Maximum [Drawdown](../d/drawdown.md) (MDD)**: The maximum drop from a peak to a [trough](../t/trough.md) during a specific period. It is a crucial [risk](../r/risk.md) metric for assessing the ability of a [trading strategy](../t/trading_strategy.md) to withstand unfavorable conditions.
 3. **Average [Drawdown](../d/drawdown.md)**: The average size of drawdowns over a period. It provides insight into the regular fluctuations or the 'normal' level of downside [volatility](../v/volatility.md) an investment might experience.
-4. **[Drawdown](../d/drawdown.md) [Duration](../d/duration.md)**: The length of time it takes for an investment to recover from a [drawdown](../d/drawdown.md) to its prior peak. Prolonged [drawdown](../d/drawdown.md) durations may indicate potential issues with the strategy's ability to recover after losses. 
+4. **[Drawdown](../d/drawdown.md) [Duration](../d/duration.md)**: The length of time it takes for an investment to recover from a [drawdown](../d/drawdown.md) to its prior peak. Prolonged [drawdown](../d/drawdown.md) durations may indicate potential issues with the strategy's ability to recover after losses.
 
 ## Calculating Drawdown
 
@@ -29,14 +29,14 @@ Let `E(t)` represent the [equity](../e/equity.md) [value](../v/value.md) at time
 
 Given the following [equity](../e/equity.md) values over a series of points in time:
 
-| Time | [Equity](../e/equity.md)  |
+| Time | [Equity](../e/equity.md) |
 |:----:|:-------:|
-|  T1  | $100,000 |
-|  T2  | $120,000 |
-|  T3  | $115,000 |
-|  T4  | $110,000 |
-|  T5  | $125,000 |
-|  T6  | $105,000 |
+| T1 | $100,000 |
+| T2 | $120,000 |
+| T3 | $115,000 |
+| T4 | $110,000 |
+| T5 | $125,000 |
+| T6 | $105,000 |
 
 **Calculations**:
 - Peak at T2 is $120,000.
@@ -66,7 +66,7 @@ Given the following [equity](../e/equity.md) values over a series of points in t
 
 ### Case Study 1: Hedge Fund
 
-Consider a [hedge fund](../h/hedge_fund.md) utilizing a diversified basket of [algorithmic trading](../a/algorithmic_trading.md) strategies. Historical [drawdown analysis](../d/drawdown_analysis.md) enabled the [fund](../f/fund.md) to identify periods where each sub-strategy encountered significant losses. 
+Consider a [hedge fund](../h/hedge_fund.md) utilizing a diversified basket of [algorithmic trading](../a/algorithmic_trading.md) strategies. Historical [drawdown analysis](../d/drawdown_analysis.md) enabled the [fund](../f/fund.md) to identify periods where each sub-strategy encountered significant losses.
 
 - **Context**: During [market](../m/market.md) turbulence in 2008, certain strategies exhibited higher drawdowns than anticipated.
 - **Outcome**: By analyzing the drawdowns, the [fund](../f/fund.md) rebalanced its portfolio to allocate more [capital](../c/capital.md) to strategies demonstrating resilience during downturns and reduced exposure to more volatile strategies.
@@ -105,7 +105,7 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyz
 Several platforms and tools [offer](../o/offer.md) capabilities for historical [drawdown analysis](../d/drawdown_analysis.md):
 
 - **MetaTrader**: A popular [trading platform](../t/trading_platform.md) that includes built-in tools for [equity curve analysis](../e/equity_curve_analysis.md) and [drawdown](../d/drawdown.md) calculations.
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing [robust](../r/robust.md) capabilities for [backtesting](../b/backtesting.md) and analyzing historical drawdowns. [Website](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing [robust](../r/robust.md) capabilities for [backtesting](../b/backtesting.md)
 - **Python Libraries**: Libraries like Pandas and NumPy can be used to programmatically calculate and visualize drawdowns.
 
 ### Example in Python:

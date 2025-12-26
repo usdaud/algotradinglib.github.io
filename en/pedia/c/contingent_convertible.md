@@ -43,7 +43,7 @@ In the European context, institutions like the European Banking Authority (EBA) 
 The [market](../m/market.md) for CoCo bonds has grown significantly since their inception, driven largely by regulatory requirements and [investor](../i/investor.md) [interest](../i/interest.md) in higher-yielding securities. Some notable issuers in the [market](../m/market.md) include major European banks like HSBC, Barclays, and Deutsche [Bank](../b/bank.md).
 
 ### Case Study: HSBC CoCo Bonds
-HSBC has been a prolific [issuer](../i/issuer.md) of CoCo bonds, raising substantial [capital](../c/capital.md) to enhance its regulatory [capital](../c/capital.md) base. Information about HSBC's CoCo [bond](../b/bond.md) issuances can be found on their [Investor Relations page](https://www.hsbc.com/investors).
+HSBC has been a prolific [issuer](../i/issuer.md) of CoCo bonds, raising substantial [capital](../c/capital.md) to enhance its regulatory [capital](../c/capital.md) base. Information about HSBC's CoCo [bond](../b/bond.md) issuances can be found in their filings.
 
 ### Investor Base and Risk Considerations
 Investors in CoCo bonds include pension funds, [hedge](../h/hedge.md) funds, and other institutional investors seeking higher yields. However, CoCos carry unique risks, primarily [credit risk](../c/credit_risk.md), conversion [risk](../r/risk.md), and [market risk](../m/market_risk.md) arising from their hybrid nature.

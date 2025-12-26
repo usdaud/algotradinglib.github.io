@@ -68,4 +68,3 @@ Like other major [rating](../r/rating.md) agencies, Fitch Ratings has faced crit
 
 Fitch Ratings remains a cornerstone of the global [financial system](../f/financial_system.md), providing essential [credit](../c/credit.md) ratings, research, and [risk](../r/risk.md) assessment services. Its analytical rigor, comprehensive methodology, and global reach make it a trusted source of [credit](../c/credit.md) opinions for [market](../m/market.md) participants worldwide. As [financial markets](../f/financial_market.md) continue to evolve, Fitch Ratings [will](../w/will.md) likely play a pivotal role in shaping investment strategies and informing regulatory policies.
 
-For more information, you can visit their official website: [Fitch Ratings](https://www.fitchratings.com/).

@@ -70,7 +70,7 @@ Implementing a phantom stock plan involves several key steps:
 
 Many companies, particularly those in the tech and [startup](../s/startup.md) sectors where controlling [equity](../e/equity.md) is crucial, use [phantom stock plans](../p/phantom_stock_plans.md). However, due to proprietary and competitive reasons, public disclosures on specific plans are limited. Nonetheless, various legal and consulting firms specialize in designing and implementing these plans for their clients.
 
-For example, [Carta](https://carta.com/) is a platform that helps companies manage [equity](../e/equity.md) and can assist in structuring [phantom stock plans](../p/phantom_stock_plans.md). Another example would be [Capshare](https://www.capshare.com/), which provides similar services with a focus on [startup](../s/startup.md) and [private company](../p/private_company.md) needs.
+For example, Carta is a platform that helps companies manage [equity](../e/equity.md) and can assist in structuring [phantom stock plans](../p/phantom_stock_plans.md). Another example would be Capshare, which provides similar services with a focus on [startup](../s/startup.md) and [private company](../p/private_company.md) needs.
 
 ## Conclusion
 

@@ -105,18 +105,18 @@ Numerous tools and platforms support [algorithmic trading](../a/algorithmic_trad
 Platforms like MetaTrader, [Interactive Brokers](../i/interactive_brokers.md), and [Thinkorswim](../t/thinkorswim.md) [offer](../o/offer.md) sophisticated tools for creating and executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 #### Links:
-- [MetaTrader](https://www.metatrader5.com/en)
-- [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
-- [Thinkorswim](https://www.thinkorswim.com/)
+- MetaTrader
+- Interactive Brokers
+- Thinkorswim
 
 ### 6.2. Algorithmic Trading Software
 
-Sophisticated software solutions like [QuantConnect](../q/quantconnect.md), [AlgoTrader](../a/algotrader.md), and [NinjaTrader](../n/ninjatrader.md) allow the development, [backtesting](../b/backtesting.md), and deployment of short [hedge](../h/hedge.md) strategies.
+Sophisticated software solutions like [StockSharp](../s/stocksharp.md), [AlgoTrader](../a/algotrader.md), and [NinjaTrader](../n/ninjatrader.md) allow the development, [backtesting](../b/backtesting.md), and deployment of short [hedge](../h/hedge.md) strategies.
 
 #### Links:
-- [QuantConnect](https://www.quantconnect.com/)
-- [AlgoTrader](https://www.algotrader.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- QuantConnect
+- AlgoTrader
+- NinjaTrader
 
 ## 7. Case Studies
 

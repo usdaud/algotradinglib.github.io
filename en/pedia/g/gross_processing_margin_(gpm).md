@@ -35,7 +35,7 @@ In the oil refining [industry](../i/industry.md), GPM is also commonly known as 
 
 - **Profitability Analysis**: Refiners use GPM to determine their processing [efficiency](../e/efficiency.md) and profitability. A higher GPM indicates better profitability from refining activities.
 - **[Market](../m/market.md) Strategy**: By analyzing GPM, companies can strategize their operations, such as deciding on the optimal mix of products to maximize profitability.
-- **Hedging**: Traders and refiners use GPM as a [basis](../b/basis.md) for [hedging strategies](../h/hedging_strategies.md) to protect against fluctuations in [crude oil](../c/crude_oil.md) prices and refined product prices. 
+- **Hedging**: Traders and refiners use GPM as a [basis](../b/basis.md) for [hedging strategies](../h/hedging_strategies.md) to protect against fluctuations in [crude oil](../c/crude_oil.md) prices and refined product prices.
 
 ### 2. **Agricultural Commodities**
 In agricultural processing, GPM can be used similarly to assess the profitability of converting raw agricultural products (like corn, soybeans, or wheat) into processed goods (such as corn syrup, soybean oil, or flour).
@@ -90,15 +90,15 @@ Disruptions in the [supply chain](../s/supply_chain.md), such as those caused by
 
 ### 1. **Oil Refining Companies**
 
-One of the largest oil and gas companies, ExxonMobil (https://corporate.exxonmobil.com/), frequently analyzes its GPM to improve [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. During periods of fluctuating [crude oil](../c/crude_oil.md) prices, ExxonMobil uses GPM metrics to optimize its refining processes and product mix.
+One of the largest oil and gas companies, ExxonMobil ( frequently analyzes its GPM to improve [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. During periods of fluctuating [crude oil](../c/crude_oil.md) prices, ExxonMobil uses GPM metrics to optimize its refining processes and product mix.
 
 ### 2. **Agricultural Processing Companies**
 
-Archer Daniels Midland (ADM) (https://www.adm.com/) is a global leader in agricultural processing. ADM utilizes GPM to assess the profitability of converting raw agricultural commodities into food ingredients, animal feed, and biofuels. By tracking GPM, ADM can make data-driven decisions to enhance [supply chain](../s/supply_chain.md) [efficiency](../e/efficiency.md) and product pricing strategies.
+Archer Daniels Midland (ADM) ( is a global leader in agricultural processing. ADM utilizes GPM to assess the profitability of converting raw agricultural commodities into food ingredients, animal feed, and biofuels. By tracking GPM, ADM can make data-driven decisions to enhance [supply chain](../s/supply_chain.md) [efficiency](../e/efficiency.md) and product pricing strategies.
 
 ### 3. **Chemical Manufacturing Companies**
 
-BASF (https://www.basf.com/) is a major player in the chemical [industry](../i/industry.md), producing a wide [range](../r/range.md) of products from raw chemicals. BASF uses GPM to determine the profitability of its diverse chemical processing activities. By understanding the [margin](../m/margin.md), BASF can strategically invest in high-[margin](../m/margin.md) products and optimize its production processes.
+BASF ( is a major player in the chemical [industry](../i/industry.md), producing a wide [range](../r/range.md) of products from raw chemicals. BASF uses GPM to determine the profitability of its diverse chemical processing activities. By understanding the [margin](../m/margin.md), BASF can strategically invest in high-[margin](../m/margin.md) products and optimize its production processes.
 
 ## Conclusion
 

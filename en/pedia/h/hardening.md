@@ -20,7 +20,7 @@ To fully understand hardening, several [underlying](../u/underlying.md) concepts
 
 ### Algotrading
 
-Algotrading, or [algorithmic trading](../a/accountability.md), involves the use of pre-programmed algorithms and [trading strategies](../t/trading_strategies.md) to execute orders based on predetermined criteria. These algorithms can be designed to identify hardening conditions and optimize trading decisions accordingly.
+Algotrading, or [algorithmic trading](../a/algorithmic_trading.md), involves the use of pre-programmed algorithms and [trading strategies](../t/trading_strategies.md) to execute orders based on predetermined criteria. These algorithms can be designed to identify hardening conditions and optimize trading decisions accordingly.
 
 ### Market Recovery
 
@@ -114,7 +114,7 @@ The COVID-19 pandemic caused unprecedented [market](../m/market.md) turmoil in e
 
 ### Company Application: Renaissance Technologies
 
-Renaissance Technologies, a prominent [algorithmic trading](../a/accountability.md) [firm](../f/firm.md), leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and data analysis to detect hardening conditions and optimize [trading strategies](../t/trading_strategies.md). Their Medallion [Fund](../f/fund.md) has consistently outperformed by identifying periods of [market](../m/market.md) stability and capitalizing on them. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, a prominent [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and data analysis to detect hardening conditions and optimize [trading strategies](../t/trading_strategies.md). Their Medallion [Fund](../f/fund.md) has consistently outperformed by identifying periods of [market](../m/market.md) stability and capitalizing on them.
 
 ## Conclusion
 

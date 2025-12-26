@@ -68,9 +68,9 @@ Despite its advantages, the Valoren number also has some limitations:
 
 ## Role in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), unique identifiers like the Valoren number play a crucial role in ensuring the precise identification and swift handling of trades. [Algorithmic trading](../a/accountability.md) systems rely on these identifiers to efficiently execute trades, manage orders, and ensure compliance with regulatory requirements.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), unique identifiers like the Valoren number play a crucial role in ensuring the precise identification and swift handling of trades. [Algorithmic trading](../a/algorithmic_trading.md) systems rely on these identifiers to efficiently execute trades, manage orders, and ensure compliance with regulatory requirements.
 
-[Algorithmic trading](../a/accountability.md) systems often [handle](../h/handle.md) a vast number of trades in real-time, making the accuracy of [security](../s/security.md) identification paramount. The use of Valoren numbers enables these systems to quickly and reliably identify Swiss securities, reducing the [risk](../r/risk.md) of errors and ensuring smooth operation.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often [handle](../h/handle.md) a vast number of trades in real-time, making the accuracy of [security](../s/security.md) identification paramount. The use of Valoren numbers enables these systems to quickly and reliably identify Swiss securities, reducing the [risk](../r/risk.md) of errors and ensuring smooth operation.
 
 ## Fintech Implications
 
@@ -92,4 +92,4 @@ Robo-advisors use Valoren numbers to build and manage investment portfolios that
 
 The Valoren number is a vital component of the Swiss financial [market](../m/market.md) [infrastructure](../i/infrastructure.md), providing a unique and efficient identification system for securities. Its simplicity, compatibility, and local recognition make it an indispensable tool for [market](../m/market.md) participants operating within Switzerland. While it may not [offer](../o/offer.md) the global reach or detailed information of other identification systems, the Valoren number remains a key [asset](../a/asset.md) for ensuring accurate and efficient handling of securities transactions.
 
-In the rapidly evolving landscape of [algorithmic trading](../a/accountability.md) and fintech, the Valoren number continues to support innovation and [efficiency](../e/efficiency.md), enabling new financial services and products to thrive within the Swiss [market](../m/market.md). As the financial [industry](../i/industry.md) evolves, the role of unique identifiers like the Valoren number [will](../w/will.md) remain essential in ensuring the integrity and [efficiency](../e/efficiency.md) of financial transactions.
+In the rapidly evolving landscape of [algorithmic trading](../a/algorithmic_trading.md) and fintech, the Valoren number continues to support innovation and [efficiency](../e/efficiency.md), enabling new financial services and products to thrive within the Swiss [market](../m/market.md). As the financial [industry](../i/industry.md) evolves, the role of unique identifiers like the Valoren number [will](../w/will.md) remain essential in ensuring the integrity and [efficiency](../e/efficiency.md) of financial transactions.

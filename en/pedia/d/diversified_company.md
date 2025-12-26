@@ -49,16 +49,16 @@ A company might overextend itself by diversifying too broadly, spreading its res
 ## Examples of Diversified Companies
 
 ### General Electric (GE)
-General Electric is a quintessential example of a diversified company. It operates in sectors such as aviation, healthcare, power, renewable energy, and [finance](../f/finance.md). For more information, you can visit their website at [GE](https://www.ge.com/).
+General Electric is a quintessential example of a diversified company. It operates in sectors such as aviation, healthcare, power, renewable energy, and [finance](../f/finance.md).
 
 ### Samsung
-Samsung Electronics is a part of the larger Samsung Group, which has diversified interests ranging from electronics to heavy industries, financial services, and biotechnology. Visit their homepage at [Samsung](https://www.samsung.com/).
+Samsung Electronics is a part of the larger Samsung Group, which has diversified interests ranging from electronics to heavy industries, financial services, and biotechnology. Visit their homepage at Samsung.
 
 ### Berkshire Hathaway
-[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is a [conglomerate](../c/conglomerate.md) with a diverse portfolio, including [insurance](../i/insurance.md), [utility](../u/utility.md) companies, railroads, and [consumer goods](../c/consumer_goods.md). More details can be found at [Berkshire Hathaway](https://www.berkshirehathaway.com/).
+[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is a [conglomerate](../c/conglomerate.md) with a diverse portfolio, including [insurance](../i/insurance.md), [utility](../u/utility.md) companies, railroads, and [consumer goods](../c/consumer_goods.md). More details can be found at Berkshire Hathaway.
 
 ### 3M
-3M operates in various markets, including healthcare, industrial, worker safety, and [consumer goods](../c/consumer_goods.md). This [diversification](../d/diversification.md) allows the company to [leverage](../l/leverage.md) its innovative technologies across different sectors. Visit their site at [3M](https://www.3m.com/).
+3M operates in various markets, including healthcare, industrial, worker safety, and [consumer goods](../c/consumer_goods.md). This [diversification](../d/diversification.md) allows the company to [leverage](../l/leverage.md) its innovative technologies across different sectors.
 
 ## Key Considerations for Successful Diversification
 

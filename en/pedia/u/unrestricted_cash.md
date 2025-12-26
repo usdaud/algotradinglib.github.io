@@ -35,7 +35,7 @@ Prudent financial management includes maintaining adequate cash reserves. These 
 ## Differences Between Unrestricted and Restricted Cash
 
 ### Restricted Cash
-[Restricted cash](../r/restricted_cash.md) is cash that is reserved for specific purposes and cannot be used for general operations. Restrictions on this cash are typically imposed by external parties, such as donors, grantors, creditors, or regulatory agencies. 
+[Restricted cash](../r/restricted_cash.md) is cash that is reserved for specific purposes and cannot be used for general operations. Restrictions on this cash are typically imposed by external parties, such as donors, grantors, creditors, or regulatory agencies.
 
 ### Examples of Restricted Cash
 - **Donor Funds:** Non-[profit](../p/profit.md) organizations often receive donations that are earmarked for specific programs or projects.
@@ -51,7 +51,7 @@ The distinction between restricted and unrestricted cash is critical for financi
 ### Example 1: Apple's Cash Management
 Apple Inc. is known for its substantial cash reserves. As of the end of 2022, Apple had over $200 billion in cash and [cash equivalents](../c/cash_equivalents.md), including [restricted cash](../r/restricted_cash.md). The company attributes part of its success to effective [cash management](../c/cash_management.md), ensuring that it has ample unrestricted cash for operational flexibility, strategic investments, and returning [value](../v/value.md) to shareholders through dividends and [share buybacks](../s/share_buybacks.md).
 
-[Apple Inc. Investor Relations](https://investor.apple.com/)
+Apple Inc. company filings
 
 ### Example 2: Non-Profit Organizations
 Many non-[profit](../p/profit.md) organizations rely heavily on donations and grants, some of which come with restrictions. For these organizations, managing unrestricted cash is crucial for their ability to cover operating expenses, staff salaries, and other costs that are not covered by restricted funding. Balancing restricted and unrestricted cash is a constant challenge for non-profits, requiring diligent [financial planning](../f/financial_planning.md) and management.

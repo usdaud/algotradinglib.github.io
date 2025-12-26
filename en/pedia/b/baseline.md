@@ -76,15 +76,15 @@ A baseline helps in understanding the [variability](../v/variability.md) and sta
 
 ### 1. Two Sigma
 
-Two Sigma is a quantitative investment [firm](../f/firm.md) that relies heavily on [algorithmic trading](../a/accountability.md) and [data science](../d/data_science_in_trading.md). They are known for their rigorous performance measurement and benchmarking practices. More information can be found on their [website](https://www.twosigma.com).
+Two Sigma is a quantitative investment [firm](../f/firm.md) that relies heavily on [algorithmic trading](../a/accountability.md) and [data science](../d/data_science_in_trading.md). They are known for their rigorous performance measurement and benchmarking practices.
 
 ### 2. Renaissance Technologies
 
-Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) for [algorithmic trading](../a/accountability.md). They use various baselines to measure the performance of their Medallion [Fund](../f/fund.md) and other funds. Visit their [website](https://www.rentec.com) for more information.
+Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) for [algorithmic trading](../a/accountability.md). They use various baselines to measure the performance of their Medallion [Fund](../f/fund.md) and other funds.
 
 ### 3. DE Shaw & Co.
 
-DE Shaw is another leading player in [algorithmic trading](../a/accountability.md) that utilizes baselines for performance measurement and [risk](../r/risk.md) assessment. Details can be found on their [website](https://www.deshaw.com).
+DE Shaw is another leading player in [algorithmic trading](../a/accountability.md) that utilizes baselines for performance measurement and [risk](../r/risk.md) assessment.
 
 ## Conclusion
 

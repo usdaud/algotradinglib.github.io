@@ -35,7 +35,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the 80/20 Principle can b
 #### Example: Strategy Optimization
 
 1. **Data Analysis**: By analyzing a large dataset of trades, traders can identify which strategies [yield](../y/yield.md) the best results. Often, only a small subset of all strategies [will](../w/will.md) account for most of the profits.
-2. **Focus on High Performers**: Once identified, traders can prioritize refining and scaling these high-performing strategies while eliminating or minimizing the use of less profitable ones. 
+2. **Focus on High Performers**: Once identified, traders can prioritize refining and scaling these high-performing strategies while eliminating or minimizing the use of less profitable ones.
 
 ### Risk Management and 80/20 Rule
 
@@ -86,9 +86,7 @@ Applying the 80/20 Principle to [market](../m/market.md) analysis involves focus
 #### Notable Backtesting Platforms
 
 - **[TradeStation](../t/tradestation.md)**: A popular platform for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-  [TradeStation](https://www.tradestation.com/)
-- **[QuantConnect](../q/quantconnect.md)**: Offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) as well as live trading integration.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: Offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) as well as live trading integration.
 
 ### Optimization Software
 
@@ -97,9 +95,7 @@ Applying the 80/20 Principle to [market](../m/market.md) analysis involves focus
 #### Notable Optimization Tools
 
 - **MetaTrader**: Provides [optimization](../o/optimization.md) capabilities for [trading algorithms](../t/trading_algorithms.md).
-  [MetaTrader](https://www.metatrader4.com/)
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers [robust optimization](../r/robust_optimization.md) features for [algorithmic trading](../a/algorithmic_trading.md).
-  [NinjaTrader](https://ninjatrader.com/)
 
 ### Monitoring and Reporting Tools
 
@@ -108,9 +104,7 @@ Effective monitoring and reporting tools can help in continuously identifying th
 #### Notable Monitoring Tools
 
 - **Kibana**: An [open](../o/open.md)-source [data visualization](../d/data_visualization.md) and monitoring tool.
-  [Kibana](https://www.elastic.co/kibana)
 - **ApexCharts**: A modern charting library that can be integrated into trading platforms for real-time monitoring.
-  [ApexCharts](https://apexcharts.com/)
 
 ## Case Studies
 
@@ -154,4 +148,4 @@ While focusing on the vital few, it's essential not to ignore [diversification](
 
 The 80/20 Principle offers a strategic framework for improving [algorithmic trading](../a/algorithmic_trading.md) performance. By identifying and focusing on the critical few factors that drive the majority of results, traders can optimize strategies, manage risks, and achieve superior returns. However, the dynamic nature of [financial markets](../f/financial_market.md) necessitates continuous monitoring, adaptation, and collaboration to ensure that these optimizations remain effective in the long term.
 
-Applying the 80/20 Principle in [algorithmic trading](../a/algorithmic_trading.md) is not just about maximizing profits but also about creating more efficient, resilient, and adaptive [trading systems](../t/trading_systems.md). By embracing this principle, traders can [gain](../g/gain.md) a significant edge in the highly competitive landscape of modern [financial markets](../f/financial_market.md).
+Applying the 80/20 Principle in [algorithmic trading](../a/algorithmic_trading.md) is not just about maximizing profits but also about creating more efficient, resilient, and adaptive [trading systems](../t/trading_systems.md). By embracing this principle, traders can [gain](../g/gain.md) a significant edge in the highly competitive landscape of modern [financial markets](../f/financial_market.md).

@@ -37,15 +37,15 @@ Despite their advantages, conglomerates also face several challenges:
 
 ### General Electric (GE)
 
-General Electric is a prime example of a conglomerate with operations spanning several industries, including aviation, healthcare, power, renewable energy, and [finance](../f/finance.md). Founded by Thomas Edison in 1892, GE has evolved into a global powerhouse known for its innovation and diversified [business](../b/business.md) portfolio. [General Electric](https://www.ge.com/) continues to adapt its strategy, focusing on its core industrial divisions.
+General Electric is a prime example of a conglomerate with operations spanning several industries, including aviation, healthcare, power, renewable energy, and [finance](../f/finance.md). Founded by Thomas Edison in 1892, GE has evolved into a global powerhouse known for its innovation and diversified [business](../b/business.md) portfolio. General Electric continues to adapt its strategy, focusing on its core industrial divisions.
 
 ### Berkshire Hathaway
 
-Led by renowned [investor](../i/investor.md) Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) is a conglomerate [holding company](../h/holding_company.md) with subsidiaries in [insurance](../i/insurance.md), utilities, [manufacturing](../m/manufacturing.md), retail, and more. With a reputation for strategic acquisitions and long-term [value](../v/value.md) creation, [Berkshire Hathaway](../b/berkshire_hathaway.md) has established itself as one of the world's most admired conglomerates. More information can be found on their [official website](https://www.berkshirehathaway.com/).
+Led by renowned [investor](../i/investor.md) Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) is a conglomerate [holding company](../h/holding_company.md) with subsidiaries in [insurance](../i/insurance.md), utilities, [manufacturing](../m/manufacturing.md), retail, and more. With a reputation for strategic acquisitions and long-term [value](../v/value.md) creation, [Berkshire Hathaway](../b/berkshire_hathaway.md) has established itself as one of the world's most admired conglomerates.
 
 ### Siemens AG
 
-Siemens AG is a German multinational conglomerate with a focus on technology and engineering. The company operates in various sectors, including automation, electrification, digitalization, healthcare, and smart [infrastructure](../i/infrastructure.md). Siemens' commitment to innovation and sustainability solidifies its position as a leader in diverse industrial markets. Visit the [Siemens website](https://www.siemens.com/) for further details.
+Siemens AG is a German multinational conglomerate with a focus on technology and engineering. The company operates in various sectors, including automation, electrification, digitalization, healthcare, and smart [infrastructure](../i/infrastructure.md). Siemens' commitment to innovation and sustainability solidifies its position as a leader in diverse industrial markets.
 
 ## Financial Strategies and Performance Evaluation
 
@@ -106,15 +106,15 @@ Innovation is a critical driver of long-term success for conglomerates. Investme
 
 ### Samsung Group
 
-Samsung Group is a South Korean conglomerate with a wide [range](../r/range.md) of subsidiaries, including Samsung Electronics, Samsung Heavy Industries, and Samsung [Life Insurance](../l/life_insurance.md). Known for its innovation in electronics and technology, Samsung has diversified into construction, financial services, and shipbuilding. [Samsung Group](https://www.samsung.com/global) demonstrates the power of strategic [diversification](../d/diversification.md) and investment in R&D.
+Samsung Group is a South Korean conglomerate with a wide [range](../r/range.md) of subsidiaries, including Samsung Electronics, Samsung Heavy Industries, and Samsung [Life Insurance](../l/life_insurance.md). Known for its innovation in electronics and technology, Samsung has diversified into construction, financial services, and shipbuilding. Samsung Group demonstrates the power of strategic [diversification](../d/diversification.md) and investment in R&D.
 
 ### Tata Group
 
-Founded in 1868, Tata Group is an Indian multinational conglomerate with [business](../b/business.md) interests in steel, automotive, information technology, telecommunications, and hospitality. The group's flagship companies include Tata Steel, Tata Motors, and Tata Consultancy Services. Visit [Tata Group](https://www.tata.com/) for more insights.
+Founded in 1868, Tata Group is an Indian multinational conglomerate with [business](../b/business.md) interests in steel, automotive, information technology, telecommunications, and hospitality. The group's flagship companies include Tata Steel, Tata Motors, and Tata Consultancy Services. Visit Tata Group for more insights.
 
 ### 3M Company
 
-3M is an American conglomerate known for its innovation across [multiple](../m/multiple.md) industries. With products ranging from adhesives and abrasives to healthcare and [consumer goods](../c/consumer_goods.md), 3M has built a reputation for continuous improvement and [customer](../c/customer.md) focus. Additional information is available on the [3M website](https://www.3m.com/).
+3M is an American conglomerate known for its innovation across [multiple](../m/multiple.md) industries. With products ranging from adhesives and abrasives to healthcare and [consumer goods](../c/consumer_goods.md), 3M has built a reputation for continuous improvement and [customer](../c/customer.md) focus.
 
 ## Conclusion
 

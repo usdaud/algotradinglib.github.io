@@ -40,7 +40,7 @@ Sears struggled with continuous financial losses, despite having assets like [re
 
 ### Comprehensive Research
 
-Avoiding [value](../v/value.md) traps requires thorough research beyond merely looking at [financial ratios](../f/financial_ratios.md). It involves understanding the company’s [business](../b/business.md) model, [industry](../i/industry.md) conditions, and long-term prospects. 
+Avoiding [value](../v/value.md) traps requires thorough research beyond merely looking at [financial ratios](../f/financial_ratios.md). It involves understanding the company’s [business](../b/business.md) model, [industry](../i/industry.md) conditions, and long-term prospects.
 
 ### Management Quality
 

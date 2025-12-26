@@ -49,7 +49,7 @@ Assume a [trader](../t/trader.md) holds a long position of 100 [shares](../s/sha
 
 1. **Hedging**: Traders often [open](../o/open.md) positions as a [hedge](../h/hedge.md) against other investments, aiming to balance exposure and minimize [risk](../r/risk.md). A long position in one [asset](../a/asset.md) might [hedge](../h/hedge.md) against a short position in another.
 
-2. **[Algorithmic Trading](../a/accountability.md)**: Automated systems frequently manage [open](../o/open.md) positions based on predefined criteria, providing precision and [efficiency](../e/efficiency.md) in [execution](../e/execution.md). Algorithms can continuously monitor [market](../m/market.md) conditions and adjust positions in real-time.
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Automated systems frequently manage [open](../o/open.md) positions based on predefined criteria, providing precision and [efficiency](../e/efficiency.md) in [execution](../e/execution.md). Algorithms can continuously monitor [market](../m/market.md) conditions and adjust positions in real-time.
 
 3. **[Risk Management](../r/risk_management.md)**: Managing the [risk](../r/risk.md) associated with [open](../o/open.md) positions is central to successful trading. Employing diversified strategies, such as notional and realized exposure, helps traders navigate [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md).
 
@@ -75,7 +75,7 @@ With advancements in financial technology (FinTech), managing [open](../o/open.m
 
 ### Trading Platforms
 
-Platforms such as MetaTrader, ThinkOrSwim, and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) [robust](../r/robust.md) tools for managing [open](../o/open.md) positions. These platforms provide features like [real-time market data](../r/real-time_market_data.md), customizable charts, and [algorithmic trading](../a/accountability.md) capabilities.
+Platforms such as MetaTrader, ThinkOrSwim, and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) [robust](../r/robust.md) tools for managing [open](../o/open.md) positions. These platforms provide features like [real-time market data](../r/real-time_market_data.md), customizable charts, and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
 ### Analytics Software
 
@@ -103,10 +103,10 @@ An [open](../o/open.md) position is a fundamental concept in trading and [financ
 
 For those interested in more information, consider visiting the following FinTech firms and platform providers:
 
-- [MetaTrader](https://www.metatrader4.com/en)
-- [ThinkOrSwim (TD Ameritrade)](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [NinjaTrader](https://ninjatrader.com/)
-- [TradeStation](https://www.tradestation.com/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- MetaTrader
+- ThinkOrSwim (TD Ameritrade)
+- NinjaTrader
+- TradeStation
+- Bloomberg Terminal
 
 Understanding and managing [open](../o/open.md) positions effectively is a cornerstone of successful trading, demanding a blend of strategic planning, [market](../m/market.md) knowledge, and technological proficiency.

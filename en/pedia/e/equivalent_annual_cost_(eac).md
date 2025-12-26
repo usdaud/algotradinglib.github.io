@@ -11,9 +11,9 @@ The formula to compute EAC is:
 
 Where:
 - \( PV \) = [Present Value](../p/present_value.md) of all cash flows associated with the project.
-- \( \text{Annuity [Factor](../f/factor.md) (AF)} \) is calculated using the formula: 
-  \[ AF = \frac{1 - (1 + r)^{-n}}{r} \]
-  where \( r \) is the [discount rate](../d/discount_rate.md) ([cost of capital](../c/cost_of_capital.md)) and \( n \) is the number of years.
+- \( \text{Annuity [Factor](../f/factor.md) (AF)} \) is calculated using the formula:
+ \[ AF = \frac{1 - (1 + r)^{-n}}{r} \]
+ where \( r \) is the [discount rate](../d/discount_rate.md) ([cost of capital](../c/cost_of_capital.md)) and \( n \) is the number of years.
 
 ## Calculation Details
 
@@ -32,24 +32,24 @@ To compute the EAC, certain steps must be followed:
 Consider a company evaluating two different machines for production, Machine A and Machine B. Machine A costs $100,000 with an expected life of 5 years and annual operating costs of $10,000. Machine B costs $150,000 with an expected life of 8 years and annual operating costs of $8,000. The company's [discount rate](../d/discount_rate.md) is 10%.
 
 1. **Machine A**:
-   - Initial Cost = $100,000
-   - [Operating Cost](../o/operating_cost.md) = $10,000 annually for 5 years.
-   - Compute PV of operating costs:
-     \[ PV = 10,000 \times \left[\frac{1 - (1 + 0.10)^{-5}}{0.10}\right] = 10,000 \times 3.791 = 37,910 \]
-   - Total PV = Initial Cost + PV of Operating Costs = $100,000 + $37,910 = $137,910.
-   - Calculate AF for 5 years at 10%:
-     \[ AF = \frac{1 - (1 + 0.10)^{-5}}{0.10} = 3.791 \]
-   - EAC = \( \frac{137,910}{3.791} = 36,372 \)
+ - Initial Cost = $100,000
+ - [Operating Cost](../o/operating_cost.md) = $10,000 annually for 5 years.
+ - Compute PV of operating costs:
+ \[ PV = 10,000 \times \left[\frac{1 - (1 + 0.10)^{-5}}{0.10}\right] = 10,000 \times 3.791 = 37,910 \]
+ - Total PV = Initial Cost + PV of Operating Costs = $100,000 + $37,910 = $137,910.
+ - Calculate AF for 5 years at 10%:
+ \[ AF = \frac{1 - (1 + 0.10)^{-5}}{0.10} = 3.791 \]
+ - EAC = \( \frac{137,910}{3.791} = 36,372 \)
 
 2. **Machine B**:
-   - Initial Cost = $150,000
-   - [Operating Cost](../o/operating_cost.md) = $8,000 annually for 8 years.
-   - Compute PV of operating costs:
-     \[ PV = 8,000 \times \left[\frac{1 - (1 + 0.10)^{-8}}{0.10}\right] = 8,000 \times 5.335 = 42,680 \]
-   - Total PV = Initial Cost + PV of Operating Costs = $150,000 + $42,680 = $192,680.
-   - Calculate AF for 8 years at 10%:
-     \[ AF = \frac{1 - (1 + 0.10)^{-8}}{0.10} = 5.335 \]
-   - EAC = \( \frac{192,680}{5.335} = 36,117 \)
+ - Initial Cost = $150,000
+ - [Operating Cost](../o/operating_cost.md) = $8,000 annually for 8 years.
+ - Compute PV of operating costs:
+ \[ PV = 8,000 \times \left[\frac{1 - (1 + 0.10)^{-8}}{0.10}\right] = 8,000 \times 5.335 = 42,680 \]
+ - Total PV = Initial Cost + PV of Operating Costs = $150,000 + $42,680 = $192,680.
+ - Calculate AF for 8 years at 10%:
+ \[ AF = \frac{1 - (1 + 0.10)^{-8}}{0.10} = 5.335 \]
+ - EAC = \( \frac{192,680}{5.335} = 36,117 \)
 
 From the calculations, Machine B has a lower EAC ($36,117) compared to Machine A ($36,372), making it the more cost-effective choice on an annual [basis](../b/basis.md).
 

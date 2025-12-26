@@ -21,7 +21,7 @@ Maximum drawdown is the largest drop from a peak to a [trough](../t/trough.md) o
 Average drawdown is the mean of all the drawdowns in a specified period. It helps in understanding the regularity and extent of drawdowns that typically occur, providing a more generalized view of [risk](../r/risk.md).
 
 ### Relative Drawdown
-Relative drawdown is a measure expressed as a percentage of the peak [value](../v/value.md). This metric is often used to compare the drawdowns to the [equity](../e/equity.md)'s peak [value](../v/value.md) at various points in time. 
+Relative drawdown is a measure expressed as a percentage of the peak [value](../v/value.md). This metric is often used to compare the drawdowns to the [equity](../e/equity.md)'s peak [value](../v/value.md) at various points in time.
 
 ### Calmar Ratio
 The Calmar Ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment. It is calculated by dividing the [annualized rate of return](../a/annualized_rate_of_return.md) by the maximum drawdown within the same period. It helps investors understand how much [return](../r/return.md) they are getting per unit of [risk](../r/risk.md).
@@ -43,13 +43,13 @@ Drawdown is essential for evaluating the performance of [trading algorithms](../
 ## Case Studies and Examples
 
 ### Bridgewater Associates
-Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, founded by Ray Dalio, has employed extensive [risk management](../r/risk_management.md) tools, including [drawdown analysis](../d/drawdown_analysis.md), to maintain consistent performance. The [fund](../f/fund.md)'s systematic approach to drawdown management has helped it deliver returns while controlling [risk](../r/risk.md). [Bridgewater Associates](https://www.bridgewater.com)
+Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, founded by Ray Dalio, has employed extensive [risk management](../r/risk_management.md) tools, including [drawdown analysis](../d/drawdown_analysis.md), to maintain consistent performance. The [fund](../f/fund.md)'s systematic approach to drawdown management has helped it deliver returns while controlling [risk](../r/risk.md). Bridgewater Associates
 
 ### Renaissance Technologies
-Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), has achieved extraordinary returns while maintaining relatively low drawdowns through sophisticated [quantitative models](../q/quantitative_models.md) and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies. They have successfully balanced high returns with managed [risk](../r/risk.md), evident from their historical performance. [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), has achieved extraordinary returns while maintaining relatively low drawdowns through sophisticated [quantitative models](../q/quantitative_models.md) and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies. They have successfully balanced high returns with managed [risk](../r/risk.md), evident from their historical performance. Renaissance Technologies
 
 ### Two Sigma
-Two Sigma, a [hedge fund](../h/hedge_fund.md) with a strong focus on technology and [data science](../d/data_science_in_trading.md), uses [drawdown analysis](../d/drawdown_analysis.md) extensively in their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). By carefully monitoring and managing drawdowns, they have been able to achieve significant returns with controlled [risk](../r/risk.md). [Two Sigma](https://www.twosigma.com)
+Two Sigma, a [hedge fund](../h/hedge_fund.md) with a strong focus on technology and [data science](../d/data_science_in_trading.md), uses [drawdown analysis](../d/drawdown_analysis.md) extensively in their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). By carefully monitoring and managing drawdowns, they have been able to achieve significant returns with controlled [risk](../r/risk.md). Two Sigma
 
 ## Limitations of Drawdown
 

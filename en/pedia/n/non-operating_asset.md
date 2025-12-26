@@ -78,15 +78,15 @@ At times, companies may choose to sell non-operating assets to focus more on the
 
 ### Berkshire Hathaway
 
-[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is renowned for its portfolio of non-operating assets. The company holds substantial [equity](../e/equity.md) positions in major corporations like Coca-Cola, Apple, and American Express, representing a significant portion of its [income](../i/income.md) from dividends and [capital](../c/capital.md) appreciation. [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is renowned for its portfolio of non-operating assets. The company holds substantial [equity](../e/equity.md) positions in major corporations like Coca-Cola, Apple, and American Express, representing a significant portion of its [income](../i/income.md) from dividends and [capital](../c/capital.md) appreciation. Berkshire Hathaway
 
 ### Google (Alphabet Inc.)
 
-Google's [parent company](../p/parent_company.md), Alphabet Inc., has diverse non-operating assets, including its [capital](../c/capital.md) venture segments and [real estate](../r/real_estate.md) [holdings](../h/holdings.md) beyond its operational headquarters. [Alphabet Inc.](https://abc.xyz/)
+Google's [parent company](../p/parent_company.md), Alphabet Inc., has diverse non-operating assets, including its [capital](../c/capital.md) venture segments and [real estate](../r/real_estate.md) [holdings](../h/holdings.md) beyond its operational headquarters. Alphabet Inc.
 
 ### Amazon
 
-Amazon holds non-operating assets in the form of [marketable securities](../m/marketable_securities.md) and various [real estate](../r/real_estate.md) investments, including warehouses and land [holdings](../h/holdings.md) not directly linked to its everyday operations. [Amazon](https://www.amazon.com/)
+Amazon holds non-operating assets in the form of [marketable securities](../m/marketable_securities.md) and various [real estate](../r/real_estate.md) investments, including warehouses and land [holdings](../h/holdings.md) not directly linked to its everyday operations. Amazon
 
 ## Conclusion
 

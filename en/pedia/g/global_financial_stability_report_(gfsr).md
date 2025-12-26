@@ -110,5 +110,3 @@ The GFSR promotes international cooperation by highlighting the interconnected n
 ## Conclusion
 
 The Global Financial Stability Report plays a crucial role in the ongoing efforts to monitor, understand, and address risks to the global [financial system](../f/financial_system.md). Through its comprehensive analysis, timely identification of vulnerabilities, and actionable policy recommendations, the GFSR contributes to the resilience and stability of [financial markets](../f/financial_market.md) worldwide. As the global financial landscape continues to evolve, the GFSR remains an indispensable tool for safeguarding financial stability and fostering international cooperation.
-
-For further information and to access the latest editions of the Global Financial Stability Report, please visit the [IMF GFSR page](https://www.imf.org/en/Publications/GFSR).

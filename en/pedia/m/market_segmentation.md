@@ -1,6 +1,6 @@
 # Market Segmentation
 
-[Market](../m/market.md) segmentation is a critical strategy in both [marketing](../m/marketing.md) and [financial analysis](../f/financial_analysis.md), allowing businesses to categorize consumers into distinct groups based on various criteria. This helps in tailoring [marketing](../m/marketing.md) efforts, optimizing product development, and making informed financial decisions. The aim is to enable companies to target different segments more effectively, thereby enhancing [customer](../c/customer.md) satisfaction and company profitability. 
+[Market](../m/market.md) segmentation is a critical strategy in both [marketing](../m/marketing.md) and [financial analysis](../f/financial_analysis.md), allowing businesses to categorize consumers into distinct groups based on various criteria. This helps in tailoring [marketing](../m/marketing.md) efforts, optimizing product development, and making informed financial decisions. The aim is to enable companies to target different segments more effectively, thereby enhancing [customer](../c/customer.md) satisfaction and company profitability.
 
 ## Types of Market Segmentation
 
@@ -37,7 +37,7 @@ Nike is a prime example of a company that excels in [market](../m/market.md) seg
 ### Netflix
 Netflix uses behavioral segmentation to enhance user experience and increase [customer](../c/customer.md) retention. By analyzing viewing habits, preferences, and engagement levels, Netflix can recommend personalized content to its users. This not only improves [customer](../c/customer.md) satisfaction but also boosts the amount of time users spend on the platform.
 
-For more details about Nike’s [market](../m/market.md) segmentation strategies, you can visit [Nike's Website](https://www.nike.com).
+For more details about Nike’s [market](../m/market.md) segmentation strategies,
 
 ## Advanced Techniques in Market Segmentation
 

@@ -73,17 +73,14 @@ There is a growing [trend](../t/trend.md) of skepticism among consumers who ques
 ### 1. Patagonia
 Patagonia is renowned for its environmental activism and sustainability initiatives. The company donates 1% of its sales to environmental causes and has committed to environmental [transparency](../t/transparency.md).
 
-- **Website**: [Patagonia](https://www.patagonia.com/)
 
 ### 2. Ben & Jerry’s
 Ben & Jerry’s has a long history of philanthropic efforts and social activism. The company aligns its product development and [marketing](../m/marketing.md) with social causes, such as climate change, marriage equality, and fair [trade](../t/trade.md) practices.
 
-- **Website**: [Ben & Jerry’s](https://www.benjerry.com/)
 
 ### 3. Microsoft
 Microsoft engages in numerous CSR activities, including initiatives related to education, environmental sustainability, and empowering people through technology.
 
-- **Website**: [Microsoft CSR](https://www.microsoft.com/en-us/corporate-responsibility)
 
 ## Conclusion
 

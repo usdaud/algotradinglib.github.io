@@ -25,13 +25,13 @@ Form 13F must be filed within 45 days of the end of each calendar quarter. There
 
 ### Contents of the Form
 The form requires detailed information about [equity](../e/equity.md) securities including:
-  - Name of the [issuer](../i/issuer.md)
-  - Number of [shares](../s/shares.md) owned
-  - Fair [market value](../m/market_value.md) of the securities
-  - Type of [security](../s/security.md) ([common stock](../c/common_stock.md), etc.)
-  - Class of [security](../s/security.md) 
+ - Name of the [issuer](../i/issuer.md)
+ - Number of [shares](../s/shares.md) owned
+ - Fair [market value](../m/market_value.md) of the securities
+ - Type of [security](../s/security.md) ([common stock](../c/common_stock.md), etc.)
+ - Class of [security](../s/security.md)
 
-The data provided in Form 13F is aggregated into a summary report, which is made available to the public through the EDGAR database on the SEC's website.
+The data provided in Form 13F is aggregated into a summary report, which is made available to the public.
 
 ## How to Access 13F Filings
 
@@ -63,4 +63,4 @@ While the $100 million threshold captures a significant portion of the [market](
 
 Form 13F remains a cornerstone of [market](../m/market.md) [transparency](../t/transparency.md) and regulatory oversight within the United States [financial markets](../f/financial_market.md). Despite its limitations, it provides invaluable insights into the [holdings](../h/holdings.md) and strategies of major institutional investment managers. Both retail and professional investors can [leverage](../l/leverage.md) this data for enhancing their investment strategies, conducting [due diligence](../d/due_diligence.md), and identifying [market](../m/market.md) trends.
 
-For further information on Form 13F and to access filings, you can visit the SEC's EDGAR database [here](https://www.sec.gov/edgar/searchedgar/form13f.htm).
+For further information on Form 13F and to access filings, you can visit the SEC's EDGAR database here.

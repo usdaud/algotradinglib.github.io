@@ -19,16 +19,16 @@ A Yen ETF is a type of [exchange](../e/exchange.md)-traded [fund](../f/fund.md) 
 Some of the most notable Yen ETFs include:
 
 1. **Invesco CurrencyShares Japanese Yen [Trust](../t/trust.md) (FXY)**
-   - This ETF seeks to reflect the price of the Japanese yen relative to the U.S. dollar. [Holdings](../h/holdings.md) include Japanese yen in a [deposit](../d/deposit.md) account maintained by JPMorgan Chase [Bank](../b/bank.md), N.A. The [expense ratio](../e/expense_ratio.md) for this ETF is relatively low, making it a cost-effective tool for those looking to [hedge](../h/hedge.md) or [gain](../g/gain.md) exposure to the yen.
-   - [Invesco FXY](https://www.invesco.com/us/financial-products/etfs/product/cleannext-onprd-fxy)
+ - This ETF seeks to reflect the price of the Japanese yen relative to the U.S. dollar. [Holdings](../h/holdings.md) include Japanese yen in a [deposit](../d/deposit.md) account maintained by JPMorgan Chase [Bank](../b/bank.md), N.A. The [expense ratio](../e/expense_ratio.md) for this ETF is relatively low, making it a cost-effective tool for those looking to [hedge](../h/hedge.md) or [gain](../g/gain.md) exposure to the yen.
+ - Invesco FXY
 
 2. **ProShares Ultra Yen (YCL)**
-   - This is a [leveraged ETF](../l/leveraged_etf.md) that seeks to deliver twice (2x) the daily performance of the Japanese yen relative to the U.S. dollar. Due to the [leverage](../l/leverage.md), this ETF is more suitable for [short-term trading](../s/short-term_trading.md) rather than long-term investment.
-   - [ProShares YCL](https://www.proshares.com/our-etfs/currency/ycl)
+ - This is a [leveraged ETF](../l/leveraged_etf.md) that seeks to deliver twice (2x) the daily performance of the Japanese yen relative to the U.S. dollar. Due to the [leverage](../l/leverage.md), this ETF is more suitable for [short-term trading](../s/short-term_trading.md) rather than long-term investment.
+ - ProShares YCL
 
 3. **ProShares UltraShort Yen (YCS)**
-   - This is an inverse [leveraged ETF](../l/leveraged_etf.md) that aims to deliver twice (2x) the inverse of the daily performance of the Japanese yen relative to the U.S. dollar. Like other [leveraged ETFs](../l/leveraged_etfs.md), it's generally intended for short-term positions.
-   - [ProShares YCS](https://www.proshares.com/our-etfs/currency/ycs)
+ - This is an inverse [leveraged ETF](../l/leveraged_etf.md) that aims to deliver twice (2x) the inverse of the daily performance of the Japanese yen relative to the U.S. dollar. Like other [leveraged ETFs](../l/leveraged_etfs.md), it's generally intended for short-term positions.
+ - ProShares YCS
 
 ## Benefits of Yen ETFs
 

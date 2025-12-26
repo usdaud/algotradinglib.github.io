@@ -32,15 +32,15 @@ A [Dividend Reinvestment](../d/dividend_reinvestment.md) Plan, commonly referred
 
 1. **Company-Run DRIPs**: These are administered directly by the issuing company and are often managed through a third-party [transfer agent](../t/transfer_agent.md). Examples include plans offered by Coca-Cola, ExxonMobil, and Johnson & Johnson.
 
-2. **Brokerage-Run DRIPs**: Many brokerage firms [offer](../o/offer.md) DRIP [options](../o/options.md) for the [stocks](../s/stock.md) held within an [investor](../i/investor.md)'s [brokerage account](../b/brokerage_account.md). This allows for a wide [range](../r/range.md) of [stocks](../s/stock.md) to be included in a single DRIP program. Examples include services offered by brokers like TD [Ameritrade](../a/ameritrade.md) and [Charles Schwab](../c/charles_schwab.md).
+2. **Brokerage-Run DRIPs**: Many brokerage firms [offer](../o/offer.md) DRIP [options](../o/options.md) for the [stocks](../s/stock.md) held within an [investor](../i/investor.md)'s [brokerage account](../b/brokerage_account.md). This allows for a wide [range](../r/range.md) of [stocks](../s/stock.md) to be included in a single DRIP program. Examples include services offered by brokers like [Charles Schwab](../c/charles_schwab.md) (which integrated TD Ameritrade in September 2023) and Fidelity.
 
 ## Examples of DRIP Offerings
 
-- **Coca-Cola**: The Coca-Cola Company offers a well-known DRIP that allows investors to reinvest dividends and purchase additional [shares](../s/shares.md) directly from the company. [Coca-Cola DRIP Information](https://investors.coca-colacompany.com/stock-information/dividend-reinvestment)
+- **Coca-Cola**: The Coca-Cola Company offers a well-known DRIP that allows investors to reinvest dividends and purchase additional [shares](../s/shares.md) directly from the company. Coca-Cola DRIP Information
 
-- **ExxonMobil**: ExxonMobil’s DRIP program allows for the [reinvestment](../r/reinvestment.md) of dividends without brokerage fees or commissions. [ExxonMobil DRIP Information](https://corporate.exxonmobil.com/Investors/Stock-information/Dividend-reinvestment-plan)
+- **ExxonMobil**: ExxonMobil’s DRIP program allows for the [reinvestment](../r/reinvestment.md) of dividends without brokerage fees or commissions. ExxonMobil DRIP Information
 
-- **Johnson & Johnson**: Johnson & Johnson’s DRIP provides a convenient way for investors to grow their investments through [dividend](../d/dividend.md) reinvestments and optional cash purchases. [Johnson & Johnson DRIP Information](https://www.investor.jnj.com/stock-information/dividend-reinvestment-program)
+- **Johnson & Johnson**: Johnson & Johnson’s DRIP provides a convenient way for investors to grow their investments through [dividend](../d/dividend.md) reinvestments and optional cash purchases. Johnson & Johnson DRIP Information
 
 ## Considerations and Potential Drawbacks
 

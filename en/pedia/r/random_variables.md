@@ -1,6 +1,6 @@
 # Random Variables
 
-In the realm of [finance](../f/finance.md) and trading, random variables play a critical role in modeling uncertain outcomes, which can include stock prices, [interest](../i/interest.md) rates, and [market](../m/market.md) indices. This understanding is essential for both qualitative and quantitative analyses, contributing to [risk](../r/risk.md) assessment, option pricing, [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading](../a/accountability.md). This comprehensive overview [will](../w/will.md) delve into the concept of random variables, their types, properties, applications in [finance](../f/finance.md) and trading, and methods of statistical analysis.
+In the realm of [finance](../f/finance.md) and trading, random variables play a critical role in modeling uncertain outcomes, which can include stock prices, [interest](../i/interest.md) rates, and [market](../m/market.md) indices. This understanding is essential for both qualitative and quantitative analyses, contributing to [risk](../r/risk.md) assessment, option pricing, [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading](../a/algorithmic_trading.md). This comprehensive overview [will](../w/will.md) delve into the concept of random variables, their types, properties, applications in [finance](../f/finance.md) and trading, and methods of statistical analysis.
 
 ## Definition and Types of Random Variables
 
@@ -76,6 +76,6 @@ This involves testing the constructed hypotheses to confirm the validity of assu
 
 ## Conclusion
 
-Random variables are foundational elements in [finance](../f/finance.md) and trading, enabling the application of statistical methods to model, analyze, and predict financial phenomena. Their use is pivotal in [risk](../r/risk.md) assessment, option pricing, [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading](../a/accountability.md). Traders and financial analysts must possess a deep understanding of random variables and associated statistical methods to make informed decisions and develop [robust](../r/robust.md) strategies.
+Random variables are foundational elements in [finance](../f/finance.md) and trading, enabling the application of statistical methods to model, analyze, and predict financial phenomena. Their use is pivotal in [risk](../r/risk.md) assessment, option pricing, [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading](../a/algorithmic_trading.md). Traders and financial analysts must possess a deep understanding of random variables and associated statistical methods to make informed decisions and develop [robust](../r/robust.md) strategies.
 
-For further exploration of financial theories and tools, you can visit the [Investopedia](https://www.investopedia.com) for extensive resources.
+For further exploration of financial theories and tools, you can visit the Investopedia for extensive resources.

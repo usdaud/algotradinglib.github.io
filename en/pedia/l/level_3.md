@@ -2,7 +2,7 @@
 
 [Market microstructure](../m/market_microstructure.md) is the study of the processes and mechanisms by which securities and other financial instruments are traded. It encompasses the analysis of the formation and behavior of prices, the dynamics of trading [volume](../v/volume.md), the strategies employed by [market](../m/market.md) participants, and the design of trading mechanisms and [market](../m/market.md) institutions.
 
-The primary focus of [market microstructure](../m/market_microstructure.md) is to understand how specific [trading rules](../t/trading_rules.md), [market](../m/market.md) structures, and behavioral patterns impact the outcomes of trading. This field is particularly relevant for [algorithmic trading](../a/accountability.md), high-frequency trading (HFT), and [quantitative finance](../q/quantitative_finance.md) as it provides insights into the intricacies of [market](../m/market.md) operations. 
+The primary focus of [market microstructure](../m/market_microstructure.md) is to understand how specific [trading rules](../t/trading_rules.md), [market](../m/market.md) structures, and behavioral patterns impact the outcomes of trading. This field is particularly relevant for [algorithmic trading](../a/algorithmic_trading.md), high-frequency trading (HFT), and [quantitative finance](../q/quantitative_finance.md) as it provides insights into the intricacies of [market](../m/market.md) operations.
 
 [Market microstructure](../m/market_microstructure.md) is a critical area for traders, regulators, and [market](../m/market.md) designers, as it informs the development of efficient and fair [trading systems](../t/trading_systems.md). It involves the examination of [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [order](../o/order.md) books, [liquidity](../l/liquidity.md), [transaction costs](../t/transaction_costs.md), and the informational role of prices. In simple terms, it aims to reveal the inner workings of markets that affect how financial transactions are executed.
 
@@ -61,7 +61,7 @@ This model, developed by Bruno Biais, Peter Middelton, and Chester Spatt, explor
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) leverages [market microstructure](../m/market_microstructure.md) insights to develop [trading strategies](../t/trading_strategies.md) that optimize [execution](../e/execution.md) and maximize profitability. Key applications include:
+[Algorithmic trading](../a/algorithmic_trading.md) leverages [market microstructure](../m/market_microstructure.md) insights to develop [trading strategies](../t/trading_strategies.md) that optimize [execution](../e/execution.md) and maximize profitability. Key applications include:
 
 ### 1. Execution Algorithms
 
@@ -101,7 +101,7 @@ Preventing practices such as [spoofing](../s/spoofing.md) (placing fake orders t
 
 ### 3. Market Stability
 
-Mitigating risks associated with HFT and [algorithmic trading](../a/accountability.md), such as [flash crashes](../f/flash_crashes.md) and excessive [volatility](../v/volatility.md). Measures include circuit breakers, [order](../o/order.md)-to-[trade](../t/trade.md) ratios, and minimum [tick](../t/tick.md) sizes.
+Mitigating risks associated with HFT and [algorithmic trading](../a/algorithmic_trading.md), such as [flash crashes](../f/flash_crashes.md) and excessive [volatility](../v/volatility.md). Measures include circuit breakers, [order](../o/order.md)-to-[trade](../t/trade.md) ratios, and minimum [tick](../t/tick.md) sizes.
 
 ### 4. Fair Access
 
@@ -109,30 +109,30 @@ Ensuring that all [market](../m/market.md) participants, including smaller inves
 
 ## Notable Firms in Market Microstructure and Algorithmic Trading
 
-Several firms are at the forefront of [market microstructure](../m/market_microstructure.md) research and [algorithmic trading](../a/accountability.md). They develop cutting-edge trading technologies and contribute to the advancement of the field. Notable firms include:
+Several firms are at the forefront of [market microstructure](../m/market_microstructure.md) research and [algorithmic trading](../a/algorithmic_trading.md). They develop cutting-edge trading technologies and contribute to the advancement of the field. Notable firms include:
 
 ### Jane Street
 
-[Jane Street](https://www.janestreet.com) is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider specializing in equities, bonds, [options](../o/options.md), and cryptocurrencies. The [firm](../f/firm.md) uses sophisticated models and algorithms to [trade](../t/trade.md) efficiently and manage [risk](../r/risk.md).
+Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider specializing in equities, bonds, [options](../o/options.md), and cryptocurrencies. The [firm](../f/firm.md) uses sophisticated models and algorithms to [trade](../t/trade.md) efficiently and manage [risk](../r/risk.md).
 
 ### Citadel Securities
 
-[Citadel Securities](https://www.citadelsecurities.com) is a leading [market maker](../m/market_maker.md) and global [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) utilizes advanced [trading algorithms](../t/trading_algorithms.md) and technologies to provide competitive [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and enhance [market](../m/market.md) [liquidity](../l/liquidity.md).
+Citadel Securities is a leading [market maker](../m/market_maker.md) and global [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) utilizes advanced [trading algorithms](../t/trading_algorithms.md) and technologies to provide competitive [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and enhance [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com) is a technology-driven [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and engineering to develop [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The [firm](../f/firm.md) focuses on systematic and quantitative methods to generate [alpha](../a/alpha.md).
+Two Sigma is a technology-driven [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and engineering to develop [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The [firm](../f/firm.md) focuses on systematic and quantitative methods to generate [alpha](../a/alpha.md).
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com) focuses on using advanced [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make data-driven investment decisions.
+Two Sigma Investments focuses on using advanced [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make data-driven investment decisions.
 
 ### IMC Trading
 
-[IMC Trading](https://www.imc.com) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) active in equities, [derivatives](../d/derivatives.md), and [fixed income](../f/fixed_income.md) markets. The [firm](../f/firm.md) leverages [algorithmic trading](../a/accountability.md) and low-latency technologies to optimize [execution](../e/execution.md) and provide [liquidity](../l/liquidity.md).
+IMC Trading is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) active in equities, [derivatives](../d/derivatives.md), and [fixed income](../f/fixed_income.md) markets. The [firm](../f/firm.md) leverages [algorithmic trading](../a/algorithmic_trading.md) and low-latency technologies to optimize [execution](../e/execution.md) and provide [liquidity](../l/liquidity.md).
 
 ## Conclusion
 
-[Market microstructure](../m/market_microstructure.md) is a foundational aspect of modern [financial markets](../f/financial_market.md). It examines the detailed processes and mechanisms by which trades are executed, prices are formed, and [liquidity](../l/liquidity.md) is provided. Understanding [market microstructure](../m/market_microstructure.md) is essential for developing effective [trading strategies](../t/trading_strategies.md), optimizing [execution](../e/execution.md), and ensuring fair and efficient markets. 
+[Market microstructure](../m/market_microstructure.md) is a foundational aspect of modern [financial markets](../f/financial_market.md). It examines the detailed processes and mechanisms by which trades are executed, prices are formed, and [liquidity](../l/liquidity.md) is provided. Understanding [market microstructure](../m/market_microstructure.md) is essential for developing effective [trading strategies](../t/trading_strategies.md), optimizing [execution](../e/execution.md), and ensuring fair and efficient markets.
 
 With the continuous advancement of technology and the growing complexity of [financial markets](../f/financial_market.md), [market microstructure](../m/market_microstructure.md) research [will](../w/will.md) remain crucial in shaping the future of trading, regulation, and [market](../m/market.md) design.

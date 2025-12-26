@@ -54,9 +54,9 @@ This formulation allows the model to incorporate random jumps in the price, prov
 Jump diffusion models are widely used in option pricing to capture the observed [market](../m/market.md) phenomena more accurately:
 
 - **Merton’s Jump Diffusion Model**: One of the earliest and most influential models, introduced by Robert C. Merton in 1976, extends the [Black-Scholes model](../b/black-scholes_model.md) by incorporating jumps.
-  - Reference: [Merton's work](https://www.nobelprize.org/prizes/economic-sciences/1997/merton/facts/)
+ - Reference: Merton's work
 - **Double Exponential Jump Diffusion Model**: Developed by Kou, it uses a double-exponential [distribution](../d/distribution.md) for jump sizes, providing better empirical fitting for [asset](../a/asset.md) returns.
-  - Reference: [Steven Kou's profile](https://www.isye.gatech.edu/people/faculty/steven-kou)
+ - Reference: Steven Kou's profile
 
 ### Risk Management
 
@@ -70,7 +70,7 @@ In [risk management](../r/risk_management.md), jump diffusion models help in the
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), jump diffusion models inform the development of [trading strategies](../t/trading_strategies.md) that are [robust](../r/robust.md) to sudden [market](../m/market.md) movements:
 
 - **High-Frequency Trading (HFT)**: Traders design algorithms to exploit minute [arbitrage](../a/arbitrage.md) opportunities, and incorporating jump [risk](../r/risk.md) leads to more resilient strategies.
-  - Reference: [Virtu Financial](https://www.virtu.com/), [Citadel Securities](https://www.citadelsecurities.com/)
+ - Reference: Virtu Financial, Citadel Securities
 
 ### Economic and Financial Research
 
@@ -98,4 +98,3 @@ Despite their advantages, jump diffusion models face several challenges:
 ## Conclusion
 
 Jump diffusion models represent a significant advancement in the modeling of [financial markets](../f/financial_market.md), bridging the gap between theoretical [finance](../f/finance.md) and real-world observations. They [offer](../o/offer.md) [robust](../r/robust.md) tools for option pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md), despite their computational and estimation challenges. Ongoing research continues to refine these models, improving their accuracy and applicability across various domains in [finance](../f/finance.md).
-

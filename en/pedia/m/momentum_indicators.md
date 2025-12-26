@@ -21,7 +21,7 @@ Where RS is the average of 'n' days' up closes divided by the average of 'n' day
 - Utilized in identifying [reversal](../r/reversal.md) points.
 - Aids in recognizing [divergence](../d/divergence.md) (when the price makes new highs/lows but the RSI doesn't).
 
-**Link:** [Investopedia on RSI](https://www.investopedia.com/terms/r/rsi.asp)
+**Link:** Investopedia on RSI
 
 ##### 2. Moving Average Convergence Divergence (MACD)
 
@@ -30,13 +30,13 @@ The Moving Average Convergence [Divergence](../d/divergence.md) (MACD) is anothe
 - **MACD Line:** Difference between the 12-day EMA and the 26-day EMA.
 - **Signal Line:** 9-day EMA of the MACD Line.
 
-An important feature is the [histogram](../h/histogram.md), which shows the difference between the MACD and its signal line. 
+An important feature is the [histogram](../h/histogram.md), which shows the difference between the MACD and its signal line.
 
 **Advantages:**
 - Effective in spotting changes in the strength, direction, [momentum](../m/momentum.md), and [duration](../d/duration.md) of a [trend](../t/trend.md).
 - Useful for signal confirmations; crossovers generate buy/sell signals.
 
-**Link:** [MACD Information](https://www.investopedia.com/terms/m/macd.asp)
+**Link:** MACD Information
 
 ##### 3. Stochastic Oscillator
 
@@ -55,7 +55,7 @@ Another line, known as \(\%D\), is the 3-day moving average of \(\%K\).
 - Excellent at identifying [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 - Generates reliable signals when \(\%K\) and \(\%D\) lines crossover.
 
-**Link:** [Stochastic Oscillator Guide](https://www.investopedia.com/terms/s/stochasticoscillator.asp)
+**Link:** Stochastic Oscillator Guide
 
 ##### 4. Commodity Channel Index (CCI)
 
@@ -71,7 +71,7 @@ Where:
 - Highly effective in identifying [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 - Detects price reversals and extreme [market](../m/market.md) conditions.
 
-**Link:** [CCI Explanation](https://www.investopedia.com/terms/c/commoditychannelindex.asp)
+**Link:** CCI Explanation
 
 ##### 5. Rate of Change (ROC)
 
@@ -87,7 +87,7 @@ Where:
 - Easy to interpret.
 - Effective in measuring the velocity of price movements.
 
-**Link:** [ROC Details](https://www.investopedia.com/terms/r/rateofchangeindicator.asp)
+**Link:** ROC Details
 
 ##### 6. Average Directional Index (ADX)
 
@@ -100,7 +100,7 @@ The [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) i
 - Distinguishes between trending and non-trending conditions.
 - Combines well with other indicators for comprehensive analysis.
 
-**Link:** [ADX Information](https://www.investopedia.com/terms/a/adx.asp)
+**Link:** ADX Information
 
 #### Application in Algorithmic Trading
 
@@ -111,18 +111,18 @@ The [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) i
 Suppose we are constructing an [algorithmic trading](../a/algorithmic_trading.md) strategy that combines the RSI and MACD indicators:
 
 1. **Signal Generation:**
-   - **Buy Signal:** When the RSI is below 30 and the MACD line crosses above the signal line.
-   - **Sell Signal:** When the RSI is above 70 and the MACD line crosses below the signal line.
+ - **Buy Signal:** When the RSI is below 30 and the MACD line crosses above the signal line.
+ - **Sell Signal:** When the RSI is above 70 and the MACD line crosses below the signal line.
 
 2. **Strategy [Execution](../e/execution.md):**
-   - The algorithm systematically scans the [market](../m/market.md) for these conditions.
-   - Positions are automatically executed when both conditions are met.
+ - The algorithm systematically scans the [market](../m/market.md) for these conditions.
+ - Positions are automatically executed when both conditions are met.
 
 3. **[Risk Management](../r/risk_management.md):**
-   - Stop-losses and take-profits are predefined to manage [risk](../r/risk.md).
+ - Stop-losses and take-profits are predefined to manage [risk](../r/risk.md).
 
 4. **[Backtesting](../b/backtesting.md):**
-   - Historical data is used to simulate the algorithm's performance to assess its viability.
+ - Historical data is used to simulate the algorithm's performance to assess its viability.
 
 This combined approach enhances the robustness of the [trading strategy](../t/trading_strategy.md), mitigating the [risk](../r/risk.md) associated with relying on a single [indicator](../i/indicator.md).
 

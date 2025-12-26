@@ -5,36 +5,36 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), [risk](../r/
 ### Key Upside Risk Metrics
 
 1. **[Upside Capture Ratio](../u/upside_capture_ratio.md)**
-    - **Definition**: The [upside capture ratio](../u/upside_capture_ratio.md) measures a strategy's performance relative to a [benchmark](../b/benchmark.md) during periods when the [benchmark](../b/benchmark.md)'s returns are positive.
-    - **Formula**: 
-        ```
-        [Upside Capture Ratio](../u/upside_capture_ratio.md) = (Strategy’s [Upside](../u/upside.md) [Return](../r/return.md) / [Benchmark](../b/benchmark.md)’s [Upside](../u/upside.md) [Return](../r/return.md)) * 100
-        ```
-    - **Usage**: This metric helps investors understand how well a [trading strategy](../t/trading_strategy.md) capitalizes on positive [market](../m/market.md) movements. A ratio greater than 100% indicates that the strategy has outperformed the [benchmark](../b/benchmark.md) during up periods.
+ - **Definition**: The [upside capture ratio](../u/upside_capture_ratio.md) measures a strategy's performance relative to a [benchmark](../b/benchmark.md) during periods when the [benchmark](../b/benchmark.md)'s returns are positive.
+ - **Formula**:
+ ```
+ [Upside Capture Ratio](../u/upside_capture_ratio.md) = (Strategy’s [Upside](../u/upside.md) [Return](../r/return.md) / [Benchmark](../b/benchmark.md)’s [Upside](../u/upside.md) [Return](../r/return.md)) * 100
+ ```
+ - **Usage**: This metric helps investors understand how well a [trading strategy](../t/trading_strategy.md) capitalizes on positive [market](../m/market.md) movements. A ratio greater than 100% indicates that the strategy has outperformed the [benchmark](../b/benchmark.md) during up periods.
 
 2. **[Sortino Ratio](../s/sortino_ratio.md)**
-    - **Definition**: The [Sortino Ratio](../s/sortino_ratio.md) is a modification of the [Sharpe Ratio](../s/sharpe_ratio.md), differentiating between harmful [volatility](../v/volatility.md) ([downside risk](../d/downside_risk.md)) and [upside](../u/upside.md) [volatility](../v/volatility.md). It measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an [investment strategy](../i/investment_strategy.md), specifically considering only downside deviations.
-    - **Formula**:
-        ```
-        [Sortino Ratio](../s/sortino_ratio.md) = (Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Downside Deviation](../d/downside_deviation.md)
-        ```
-    - **Usage**: While the primary focus is on [downside risk](../d/downside_risk.md), the [Sortino Ratio](../s/sortino_ratio.md) implicitly rewards strategies that exhibit higher [upside](../u/upside.md) [volatility](../v/volatility.md), making it valuable for assessing the quality of returns.
+ - **Definition**: The [Sortino Ratio](../s/sortino_ratio.md) is a modification of the [Sharpe Ratio](../s/sharpe_ratio.md), differentiating between harmful [volatility](../v/volatility.md) ([downside risk](../d/downside_risk.md)) and [upside](../u/upside.md) [volatility](../v/volatility.md). It measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an [investment strategy](../i/investment_strategy.md), specifically considering only downside deviations.
+ - **Formula**:
+ ```
+ [Sortino Ratio](../s/sortino_ratio.md) = (Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Downside Deviation](../d/downside_deviation.md)
+ ```
+ - **Usage**: While the primary focus is on [downside risk](../d/downside_risk.md), the [Sortino Ratio](../s/sortino_ratio.md) implicitly rewards strategies that exhibit higher [upside](../u/upside.md) [volatility](../v/volatility.md), making it valuable for assessing the quality of returns.
 
 3. **[Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md)**
-    - **Definition**: The [Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md) is the ratio of the average gains during profitable periods to the average losses during unprofitable periods.
-    - **Formula**:
-        ```
-        [Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md) = Average [Gain](../g/gain.md) / Average Loss
-        ```
-    - **Usage**: A higher [Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md) indicates a strategy that is more effective in capturing gains while minimizing losses. This metric is essential for evaluating the overall [efficiency](../e/efficiency.md) of a [trading strategy](../t/trading_strategy.md).
+ - **Definition**: The [Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md) is the ratio of the average gains during profitable periods to the average losses during unprofitable periods.
+ - **Formula**:
+ ```
+ [Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md) = Average [Gain](../g/gain.md) / Average Loss
+ ```
+ - **Usage**: A higher [Gain](../g/gain.md)-[Loss Ratio](../l/loss_ratio.md) indicates a strategy that is more effective in capturing gains while minimizing losses. This metric is essential for evaluating the overall [efficiency](../e/efficiency.md) of a [trading strategy](../t/trading_strategy.md).
 
 4. **Calmar Ratio**
-    - **Definition**: The Calmar Ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an [investment strategy](../i/investment_strategy.md) by comparing the annualized [return](../r/return.md) to the maximum [drawdown](../d/drawdown.md).
-    - **Formula**:
-        ```
-        Calmar Ratio = Annualized [Return](../r/return.md) / Maximum [Drawdown](../d/drawdown.md)
-        ```
-    - **Usage**: While often used to assess [risk](../r/risk.md) via [drawdown](../d/drawdown.md), a higher Calmar Ratio can imply better exploitation of [upside](../u/upside.md) [market](../m/market.md) movements, providing insights into the strategy’s bullish performance.
+ - **Definition**: The Calmar Ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an [investment strategy](../i/investment_strategy.md) by comparing the annualized [return](../r/return.md) to the maximum [drawdown](../d/drawdown.md).
+ - **Formula**:
+ ```
+ Calmar Ratio = Annualized [Return](../r/return.md) / Maximum [Drawdown](../d/drawdown.md)
+ ```
+ - **Usage**: While often used to assess [risk](../r/risk.md) via [drawdown](../d/drawdown.md), a higher Calmar Ratio can imply better exploitation of [upside](../u/upside.md) [market](../m/market.md) movements, providing insights into the strategy’s bullish performance.
 
 ### Significance of Upside Risk Metrics
 
@@ -50,16 +50,16 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), [risk](../r/
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on quantitative metrics for strategy [optimization](../o/optimization.md) and performance measurement. Here’s how [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) can be integrated into the [algorithmic trading](../a/algorithmic_trading.md) process:
 
 1. **[Backtesting](../b/backtesting.md) and Simulations**
-    - Applying [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) during the [backtesting](../b/backtesting.md) phase helps in identifying strategies that perform well under positive [market](../m/market.md) conditions. By simulating historical data, traders can evaluate how their algorithms might exploit upward trends and adjust their models to enhance performance further.
+ - Applying [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) during the [backtesting](../b/backtesting.md) phase helps in identifying strategies that perform well under positive [market](../m/market.md) conditions. By simulating historical data, traders can evaluate how their algorithms might exploit upward trends and adjust their models to enhance performance further.
 
 2. **Strategy [Optimization](../o/optimization.md)**
-    - [Upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) can be used as [objective functions](../o/objective_functions_in_trading.md) in [optimization](../o/optimization.md) algorithms. For instance, [genetic algorithms](../g/genetic_algorithms_in_trading.md) or other [optimization](../o/optimization.md) techniques can optimize parameters to maximize the [Upside Capture Ratio](../u/upside_capture_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md), leading to strategies with better [risk](../r/risk.md)-adjusted returns.
+ - [Upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) can be used as [objective functions](../o/objective_functions_in_trading.md) in [optimization](../o/optimization.md) algorithms. For instance, [genetic algorithms](../g/genetic_algorithms_in_trading.md) or other [optimization](../o/optimization.md) techniques can optimize parameters to maximize the [Upside Capture Ratio](../u/upside_capture_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md), leading to strategies with better [risk](../r/risk.md)-adjusted returns.
 
 3. **Performance Monitoring**
-    - During live trading, ongoing performance monitoring using [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) ensures that the strategy continues to meet the desired performance benchmarks. Real-time analytics can trigger adjustments if the strategy deviates from expected performance profiles.
+ - During live trading, ongoing performance monitoring using [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) ensures that the strategy continues to meet the desired performance benchmarks. Real-time analytics can trigger adjustments if the strategy deviates from expected performance profiles.
 
 4. **[Risk Management](../r/risk_management.md)**
-    - Integrating [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) into [risk management](../r/risk_management.md) frameworks allows for dynamic adjustments based on [market](../m/market.md) conditions. For instance, [portfolio rebalancing](../p/portfolio_rebalancing.md) rules can be tweaked to maintain optimal [upside potential](../u/upside_potential_in_trading.md) while mitigating downside risks.
+ - Integrating [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) into [risk management](../r/risk_management.md) frameworks allows for dynamic adjustments based on [market](../m/market.md) conditions. For instance, [portfolio rebalancing](../p/portfolio_rebalancing.md) rules can be tweaked to maintain optimal [upside potential](../u/upside_potential_in_trading.md) while mitigating downside risks.
 
 ### Case Studies and Examples
 
@@ -84,11 +84,10 @@ A retail algorithmic [trader](../t/trader.md) utilized [machine learning](../m/m
 
 For those interested in exploring [upside](../u/upside.md) [risk metrics](../r/risk_metrics.md) in greater depth, the following resources [offer](../o/offer.md) valuable information and tools:
 
-- [Morningstar - Investment Research Platform](https://www.morningstar.com)
-- [Calmar Ratio Calculation Guide](https://www.investopedia.com/terms/c/calmarratio.asp)
-- [Sortino Ratio Analysis](https://www.investopedia.com/terms/s/sortinoratio.asp)
+- Morningstar - Investment Research Platform
+- Calmar Ratio Calculation Guide
+- Sortino Ratio Analysis
 
 ### About the Author
 
-This document has been prepared by an expert in [quantitative finance](../q/quantitative_finance.md) with extensive experience in [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). For more insights, you can visit the author's professional website or follow their research on [LinkedIn](https://www.linkedin.com).
-
+This document has been prepared by an expert in [quantitative finance](../q/quantitative_finance.md) with extensive experience in [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). For more insights,

@@ -40,15 +40,15 @@ Algorithms should also take into account broader [market](../m/market.md) trends
 
 ### Procter & Gamble (P&G)
 
-Procter & Gamble (P&G) is often cited as a classic cash cow. With a diverse [product line](../p/product_line.md) including household names like Tide, Gillette, and Pampers, P&G has a broad [market share](../m/market_share.md) and generates consistent revenues with minimal need for [reinvestment](../r/reinvestment.md). For more information, visit their [official website](https://www.pg.com).
+Procter & Gamble (P&G) is often cited as a classic cash cow. With a diverse [product line](../p/product_line.md) including household names like Tide, Gillette, and Pampers, P&G has a broad [market share](../m/market_share.md) and generates consistent revenues with minimal need for [reinvestment](../r/reinvestment.md).
 
 ### Apple Inc.
 
-Though often seen as an innovative and growth-focused company, Apple's product, the iPhone, has reached a [maturity](../m/maturity.md) stage where it generates substantial, predictable [cash flow](../c/cash_flow.md), thus acting as a cash cow within Apple's diverse [product portfolio](../p/product_portfolio.md). For more details, their [official website](https://www.apple.com) offers extensive financial data.
+Though often seen as an innovative and growth-focused company, Apple's product, the iPhone, has reached a [maturity](../m/maturity.md) stage where it generates substantial, predictable [cash flow](../c/cash_flow.md), thus acting as a cash cow within Apple's diverse [product portfolio](../p/product_portfolio.md).
 
 ### Johnson & Johnson
 
-Known for its strong presence in the healthcare [market](../m/market.md), Johnson & Johnson benefits from consistent [demand](../d/demand.md) for its medical devices, pharmaceuticals, and consumer health products, rendering it a cash cow. Explore more on their [official website](https://www.jnj.com).
+Known for its strong presence in the healthcare [market](../m/market.md), Johnson & Johnson benefits from consistent [demand](../d/demand.md) for its medical devices, pharmaceuticals, and consumer health products, rendering it a cash cow.
 
 ## Applications in Trading Strategies
 

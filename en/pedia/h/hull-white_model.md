@@ -29,9 +29,9 @@ One of the key features of the Hull-White model is the flexibility to incorporat
 To solve the Hull-White model, we typically focus on deriving the [distribution](../d/distribution.md) of future short rates and [discount](../d/discount.md) factors (or [zero-coupon bond](../z/zero-coupon_bond.md) prices). The model's tractability makes it well-suited for various financial applications, including:
 
 - **[Bond](../b/bond.md) Pricing:** The model can generate prices for zero-coupon and coupon-bearing bonds. It incorporates the current term structure and forecasts future [interest](../i/interest.md) rates.
-  
+
 - **[Derivative](../d/derivative.md) Pricing:** The model is widely used to price [interest rate derivatives](../i/interest_rate_derivatives.md) such as caps, floors, swaptions, and [bond](../b/bond.md) [options](../o/options.md). The [arbitrage](../a/arbitrage.md)-free nature ensures that the prices derived are reasonable and consistent with the [market](../m/market.md).
-  
+
 - **[Risk Management](../r/risk_management.md):** Financial institutions use the Hull-White model to assess the [interest rate risk](../i/interest_rate_risk.md) associated with their portfolios and to perform [stress testing](../s/stress_testing.md).
 
 ## 3. Fitting the Model
@@ -49,15 +49,15 @@ The solution to the Hull-White model often requires [numerical methods](../n/num
 ### 4.1 Advantages
 
 - **Flexibility:** The time-dependent parameters (\(\[theta](../t/theta.md)(t)\) and \(\sigma(t)\)) [offer](../o/offer.md) the flexibility to fit various term structures accurately.
-  
+
 - **[Mean Reversion](../m/mean_reversion.md):** Captures the economic intuition that [interest](../i/interest.md) rates tend to revert to a long-term average over time.
-  
+
 - **Analytical Solutions:** For some [derivatives](../d/derivatives.md), analytical solutions are available, making the model computationally efficient.
 
 ### 4.2 Limitations
 
 - **Complex Calibration:** Fitting the model to [market](../m/market.md) data can be complex and computationally intensive due to the time-dependent parameters.
-  
+
 - **Assumptions:** The model assumes [normal distribution](../n/normal_distribution_in_trading.md) of [interest](../i/interest.md) rates, which might not capture extreme [market](../m/market.md) movements or [skewness](../s/skewness.md) in [interest rate](../i/interest_rate.md) distributions.
 
 ## 5. Extensions and Variants
@@ -76,20 +76,20 @@ The Hull-White model serves as a foundation for many extensions and variants, ta
 
 Numerous financial software and libraries support the implementation and calibration of the Hull-White model. Some widely used platforms include:
 
-- **[QuantLib](../q/quantlib.md):** An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing extensive support for the Hull-White model and other [interest rate models](../i/interest_rate_models.md). [QuantLib](https://www.quantlib.org/)
-  
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md):** Offers [robust](../r/robust.md) tools for pricing and [risk management](../r/risk_management.md) of [interest rate derivatives](../i/interest_rate_derivatives.md), including the Hull-White model. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[QuantLib](../q/quantlib.md):** An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing extensive support for the Hull-White model and other [interest rate models](../i/interest_rate_models.md). QuantLib
 
-- **MATLAB:** Contains built-in functions for modeling and simulating [interest](../i/interest.md) rates, accommodating the Hull-White model. [MATLAB](https://www.mathworks.com/products/matlab.html)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md):** Offers [robust](../r/robust.md) tools for pricing and [risk management](../r/risk_management.md) of [interest rate derivatives](../i/interest_rate_derivatives.md), including the Hull-White model. Bloomberg
+
+- **MATLAB:** Contains built-in functions for modeling and simulating [interest](../i/interest.md) rates, accommodating the Hull-White model. MATLAB
 
 ### 6.2 Implementation Steps
 
 1. **Data Collection:** Gather historical data and [market](../m/market.md) prices of [liquid](../l/liquid.md) instruments (e.g., bonds, swaps).
-  
+
 2. **Initial Parameter Estimation:** Estimate initial values of \(\[alpha](../a/alpha.md)\) and \(\sigma(t)\) using statistical techniques or historical rate data.
-  
+
 3. **Calibration:** Optimize the parameters (\(\[theta](../t/theta.md)(t)\), \(\[alpha](../a/alpha.md)\), and \(\sigma(t)\)) to minimize the discrepancy between model prices and observed [market](../m/market.md) prices.
-  
+
 4. **Validation:** Test the calibrated model against out-of-sample data to ensure its robustness and accuracy.
 
 5. **Application:** Use the calibrated model for pricing [derivatives](../d/derivatives.md), managing portfolio [risk](../r/risk.md), and conducting [scenario analysis](../s/scenario_analysis.md).

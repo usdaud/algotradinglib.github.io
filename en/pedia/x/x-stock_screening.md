@@ -13,7 +13,7 @@ Data is the foundation of any stock screening process. The accuracy, completenes
 - **[Technical Indicators](../t/technical_indicators.md)**: Measures derived from price and [volume](../v/volume.md) information, like moving averages and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
 - **[Alternative Data](../a/alternative_data.md)**: [Social media sentiment](../s/social_media_sentiment.md), news articles, and other non-traditional data points.
 
-For example, services like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and specialized platforms like Koyfin (https://www.koyfin.com) or [Alpha](../a/alpha.md) Vantage (https://www.alphavantage.co) provide extensive datasets that can be used for stock screening.
+For example, services like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and specialized platforms like Koyfin ( or [Alpha](../a/alpha.md) Vantage ( provide extensive datasets that can be used for stock screening.
 
 ### Screening Criteria
 
@@ -50,11 +50,11 @@ Various platforms and languages can be used to implement stock screening algorit
 
 ### Live Trading
 
-After successful [backtesting](../b/backtesting.md), the stock screening algorithm can be deployed for live trading. This involves real-time data processing and [trade](../t/trade.md) [execution](../e/execution.md). Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) [offer](../o/offer.md) environments to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies.
+After successful [backtesting](../b/backtesting.md), the stock screening algorithm can be deployed for live trading. This involves real-time data processing and [trade](../t/trade.md) [execution](../e/execution.md). Platforms like [QuantConnect](../q/quantconnect.md) ( [offer](../o/offer.md) environments to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Continuous Improvement
 
-[Algorithmic stock screening](../a/algorithmic_stock_screening.md) is not a one-time setup but requires continuous monitoring and adjustment. [Market](../m/market.md) conditions change, and new data sources become available, necessitating regular updates to the screening algorithms. 
+[Algorithmic stock screening](../a/algorithmic_stock_screening.md) is not a one-time setup but requires continuous monitoring and adjustment. [Market](../m/market.md) conditions change, and new data sources become available, necessitating regular updates to the screening algorithms.
 
 - **Model Retraining**: [Machine learning](../m/machine_learning.md) models need periodic retraining with new data to maintain accuracy.
 - **Performance Review**: Continuous performance tracking to identify areas of improvement.

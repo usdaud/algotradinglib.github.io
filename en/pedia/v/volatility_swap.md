@@ -1,27 +1,27 @@
 # Volatility Swap
 
-In the world of [financial engineering](../f/financial_engineering.md) and [derivative](../d/derivative.md) instruments, a [volatility](../v/volatility.md) [swap](../s/swap.md) is a complex yet instrumental tool for traders and investors seeking to [hedge](../h/hedge.md) or speculate on [market](../m/market.md) [volatility](../v/volatility.md). This type of financial [derivative](../d/derivative.md) allows participants to isolate and [trade](../t/trade.md) the [volatility](../v/volatility.md) aspect of an [underlying asset](../u/underlying_asset.md), without taking a directional bet on the [asset](../a/asset.md) itself. This contrasts with other [derivative](../d/derivative.md) instruments such as [options](../o/options.md) or [futures](../f/futures.md), which involve views on price levels or trends. 
+In the world of [financial engineering](../f/financial_engineering.md) and [derivative](../d/derivative.md) instruments, a [volatility](../v/volatility.md) [swap](../s/swap.md) is a complex yet instrumental tool for traders and investors seeking to [hedge](../h/hedge.md) or speculate on [market](../m/market.md) [volatility](../v/volatility.md). This type of financial [derivative](../d/derivative.md) allows participants to isolate and [trade](../t/trade.md) the [volatility](../v/volatility.md) aspect of an [underlying asset](../u/underlying_asset.md), without taking a directional bet on the [asset](../a/asset.md) itself. This contrasts with other [derivative](../d/derivative.md) instruments such as [options](../o/options.md) or [futures](../f/futures.md), which involve views on price levels or trends.
 
 [Volatility](../v/volatility.md) swaps are particularly useful for portfolio managers, [hedge](../h/hedge.md) funds, and [proprietary trading](../p/proprietary_trading.md) desks that aim to manage [risk](../r/risk.md) or [leverage](../l/leverage.md) [volatility](../v/volatility.md) viewpoints. This document [will](../w/will.md) explore the mechanics, [valuation](../v/valuation.md), [trading strategies](../t/trading_strategies.md), and practical applications of [volatility](../v/volatility.md) swaps in depth.
 
 ## Understanding a Volatility Swap
 
-A [volatility](../v/volatility.md) [swap](../s/swap.md) is essentially a [forward contract](../f/forward_contract.md) on future [realized volatility](../r/realized_volatility.md) of an [underlying asset](../u/underlying_asset.md). Unlike [options](../o/options.md), which have non-linear payoffs based on the price of the [underlying asset](../u/underlying_asset.md) at expiration, [volatility](../v/volatility.md) swaps [offer](../o/offer.md) payouts derived directly from the [realized volatility](../r/realized_volatility.md) over a specified period. This makes them a "[pure play](../p/pure_play.md)" on [volatility](../v/volatility.md). 
+A [volatility](../v/volatility.md) [swap](../s/swap.md) is essentially a [forward contract](../f/forward_contract.md) on future [realized volatility](../r/realized_volatility.md) of an [underlying asset](../u/underlying_asset.md). Unlike [options](../o/options.md), which have non-linear payoffs based on the price of the [underlying asset](../u/underlying_asset.md) at expiration, [volatility](../v/volatility.md) swaps [offer](../o/offer.md) payouts derived directly from the [realized volatility](../r/realized_volatility.md) over a specified period. This makes them a "[pure play](../p/pure_play.md)" on [volatility](../v/volatility.md).
 
 The [payout](../p/payout.md) of a [volatility](../v/volatility.md) [swap](../s/swap.md) is determined by the difference between the [realized volatility](../r/realized_volatility.md) and the strike (or predetermined [volatility](../v/volatility.md) level), multiplied by the notional amount specified in the contract.
 
 ### Key Terms and Components
 
 1. **[Realized Volatility](../r/realized_volatility.md)**: The actual annualized [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md)'s returns over a specified period. This is typically measured using [standard deviation](../s/standard_deviation.md).
-   
+
 2. **Strike [Volatility](../v/volatility.md)**: The [volatility](../v/volatility.md) level agreed upon at inception of the [swap](../s/swap.md).
-   
+
 3. **Notional Amount**: The amount used to calculate the [swap](../s/swap.md)'s payoff. It essentially sets the scale of the payoff.
-   
+
 4. **[Payout](../p/payout.md) Formula**: The [payout](../p/payout.md) at [maturity](../m/maturity.md) is calculated as:
-   \[
-   \text{[Payout](../p/payout.md)} = (\text{[Realized Volatility](../r/realized_volatility.md)} - \text{Strike [Volatility](../v/volatility.md)}) \times \text{Notional Amount}
-   \]
+ \[
+ \text{[Payout](../p/payout.md)} = (\text{[Realized Volatility](../r/realized_volatility.md)} - \text{Strike [Volatility](../v/volatility.md)}) \times \text{Notional Amount}
+ \]
 
 ### Example
 
@@ -104,4 +104,4 @@ As with any OTC [derivative](../d/derivative.md), [counterparty risk](../c/count
 
 ## Conclusion
 
-[Volatility](../v/volatility.md) swaps [offer](../o/offer.md) a unique and effective means of trading and managing [volatility](../v/volatility.md) without the complications of other [derivatives](../d/derivatives.md) like [options](../o/options.md). While complex, their ability to provide pure exposure to [volatility](../v/volatility.md) makes them invaluable in [financial markets](../f/financial_market.md). Effective use of [volatility](../v/volatility.md) swaps requires a deep understanding of [market dynamics](../m/market_dynamics.md), [valuation techniques](../v/valuation_techniques.md), and associated risks. For further exploration, firms like Numerix (https://www.numerix.com/) [offer](../o/offer.md) advanced software solutions for pricing and managing [volatility](../v/volatility.md) instruments, providing further insights into their [utility](../u/utility.md) and application in contemporary [financial markets](../f/financial_market.md).
+[Volatility](../v/volatility.md) swaps [offer](../o/offer.md) a unique and effective means of trading and managing [volatility](../v/volatility.md) without the complications of other [derivatives](../d/derivatives.md) like [options](../o/options.md). While complex, their ability to provide pure exposure to [volatility](../v/volatility.md) makes them invaluable in [financial markets](../f/financial_market.md). Effective use of [volatility](../v/volatility.md) swaps requires a deep understanding of [market dynamics](../m/market_dynamics.md), [valuation techniques](../v/valuation_techniques.md), and associated risks. For further exploration, firms like Numerix ( [offer](../o/offer.md) advanced software solutions for pricing and managing [volatility](../v/volatility.md) instruments, providing further insights into their [utility](../u/utility.md) and application in contemporary [financial markets](../f/financial_market.md).

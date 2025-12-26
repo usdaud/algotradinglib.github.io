@@ -100,7 +100,7 @@ Post-[acquisition](../a/acquisition.md), Company B’s [financial statements](..
 
 Tech Industries Inc., a [public company](../p/public_company.md), acquired a smaller competitor specializing in AI technologies. Following the [acquisition](../a/acquisition.md), Tech Industries elected to apply push down [accounting](../a/accounting.md) to better reflect the current [market value](../m/market_value.md) of the newly acquired subsidiary’s innovative software and [patent](../p/patent.md) portfolio. This alignment streamlined Tech Industries' [consolidation](../c/consolidation.md) process and provided investors with a transparent view of the [acquisition](../a/acquisition.md)’s impact on the corporate group's overall [financial health](../f/financial_health.md).
 
-For more about Tech Industries Inc., you can visit their official [website](https://www.techindustries.com).
+For more about Tech Industries Inc.,
 
 ## Conclusion
 

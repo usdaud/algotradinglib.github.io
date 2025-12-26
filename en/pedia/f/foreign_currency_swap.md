@@ -17,7 +17,7 @@ The [swap](../s/swap.md) begins with an initial [exchange](../e/exchange.md) of 
 Throughout the life of the [swap](../s/swap.md), periodic [interest](../i/interest.md) payments are made based on the initial [principal](../p/principal.md) amounts. These payments can be structured in [multiple](../m/multiple.md) ways:
 - **Fixed-for-Fixed**: Both parties make fixed [interest](../i/interest.md) payments on the notional amounts.
 - **Fixed-for-Floating**: One party makes fixed [interest](../i/interest.md) payments, while the other makes floating [interest](../i/interest.md) payments that can vary over time.
-- **Floating-for-Floating**: Both parties make floating [interest](../i/interest.md) payments, which adjust based on [market](../m/market.md) [interest](../i/interest.md) rates (e.g., LIBOR, EURIBOR).
+- **Floating-for-Floating**: Both parties make floating [interest](../i/interest.md) payments, which adjust based on [market](../m/market.md) [interest](../i/interest.md) rates (e.g., SOFR, EURIBOR, or historically LIBOR).
 
 ### Maturity
 
@@ -47,8 +47,8 @@ Consider two companies: Company A is based in the United States and needs Euros,
 
 1. **Initial [Exchange](../e/exchange.md)**: Company A exchanges USD 10 million with Company B, which provides EUR 9 million, based on the prevailing [exchange rate](../e/exchange_rate.md) at the time.
 2. **[Interest](../i/interest.md) Payments**:
-   - Every six months, Company A pays [interest](../i/interest.md) on the EUR 9 million at a fixed rate.
-   - Simultaneously, Company B pays [interest](../i/interest.md) on the USD 10 million at a floating rate linked to LIBOR.
+ - Every six months, Company A pays [interest](../i/interest.md) on the EUR 9 million at a fixed rate.
+ - Simultaneously, Company B pays [interest](../i/interest.md) on the USD 10 million at a floating rate linked to SOFR (Secured Overnight Financing Rate).
 3. **[Maturity](../m/maturity.md)**: At the end of the [swap](../s/swap.md) term (e.g., five years), the [principal](../p/principal.md) amounts are exchanged back at the original notional amounts: Company A returns EUR 9 million to Company B, and Company B returns USD 10 million to Company A.
 
 ## Market Participants
@@ -85,15 +85,15 @@ In the [European Union](../e/european_union_(eu).md), the European [Market](../m
 
 ### JPMorgan Chase
 
-JPMorgan Chase (https://www.jpmorganchase.com) is a leading global financial institution providing a [range](../r/range.md) of [currency swap](../c/currency_swap.md) products and services to corporate, institutional, and government clients.
+JPMorgan Chase ( is a leading global financial institution providing a [range](../r/range.md) of [currency swap](../c/currency_swap.md) products and services to corporate, institutional, and government clients.
 
 ### Goldman Sachs
 
-Goldman Sachs (https://www.goldmansachs.com) offers [currency swap](../c/currency_swap.md) solutions as part of its broader suite of financial products, helping clients manage [currency](../c/currency.md) [risk](../r/risk.md) and optimize their financial strategies.
+Goldman Sachs ( offers [currency swap](../c/currency_swap.md) solutions as part of its broader suite of financial products, helping clients manage [currency](../c/currency.md) [risk](../r/risk.md) and optimize their financial strategies.
 
 ### Citigroup
 
-Citigroup (https://www.citigroup.com) provides [currency swap](../c/currency_swap.md) services to multinational corporations, financial institutions, and government entities, leveraging its global presence and [market](../m/market.md) expertise.
+Citigroup ( provides [currency swap](../c/currency_swap.md) services to multinational corporations, financial institutions, and government entities, leveraging its global presence and [market](../m/market.md) expertise.
 
 ## Conclusion
 

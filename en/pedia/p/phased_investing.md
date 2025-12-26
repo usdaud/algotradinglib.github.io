@@ -43,9 +43,9 @@ Choosing the right algorithms is the cornerstone of Phased [Investing](../i/inve
 Commonly used algorithms include:
 
 - **[Mean Reversion](../m/mean_reversion.md) Algorithms:** These are based on the statistical assumption that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical mean. Investments are phased to [capitalize](../c/capitalize.md) on [market](../m/market.md) deviations from the mean and their subsequent corrections.
-  
+
 - **[Trend Following](../t/trend_following.md) Algorithms:** These algorithms identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) trends. Phased [investing](../i/investing.md) allows for gradual entry and exit points based on observed trends, enhancing the likelihood of capturing prolonged [market](../m/market.md) movements.
-  
+
 - **[Arbitrage](../a/arbitrage.md) Algorithms:** These exploit price discrepancies between different markets or instruments. Phased investments can systematically exploit short-lived opportunities while adjusting strategies for changing [market dynamics](../m/market_dynamics.md).
 
 ### Data Integration
@@ -53,9 +53,9 @@ Commonly used algorithms include:
 Effective [data integration](../d/data_integration.md) is critical for Phased [Investing](../i/investing.md) in [algorithmic trading](../a/algorithmic_trading.md). It involves gathering, processing, and analyzing large datasets to make informed investment decisions. Key data sources include:
 
 - **Historical [Market](../m/market.md) Data:** Provides context for [backtesting](../b/backtesting.md) algorithms and predicting future [market](../m/market.md) behaviors.
-  
+
 - **[Real-Time Market Data](../r/real-time_market_data.md):** Essential for executing trades and adjusting strategies in real-time.
-  
+
 - **[Economic Indicators](../e/economic_indicators.md):** Macroeconomic data can influence [asset](../a/asset.md) prices and [market](../m/market.md) trends, helping refine phased strategies.
 
 [Data integration](../d/data_integration.md) tools and platforms, such as [Bloomberg](../b/bloomberg.md) Terminal, Thomson [Reuters](../r/reuters.md) Eikon, and [Quandl](../q/quandl.md), provide comprehensive datasets and analytical capabilities crucial for Phased [Investing](../i/investing.md).
@@ -66,11 +66,11 @@ Executing trades and monitoring performance are vital aspects of Phased [Investi
 
 Leading platforms include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md):** Offers a [robust](../r/robust.md) API for automating trades and accessing [real-time market data](../r/real-time_market_data.md). More information can be found on their website: [Interactive Brokers](https://www.interactivebrokers.com).
-  
-- **MetaTrader:** Popular among retail traders for its comprehensive trading tools and user-friendly interface. More information available at [MetaTrader](https://www.metatrader4.com).
+- **[Interactive Brokers](../i/interactive_brokers.md):** Offers a [robust](../r/robust.md) API for automating trades and accessing [real-time market data](../r/real-time_market_data.md). Interactive Brokers.
 
-Monitoring tools track the performance of each phase, providing insights into returns, drawdowns, and other key metrics. Performance monitoring platforms such as [QuantConnect](../q/quantconnect.md) and [TradingView](../t/tradingview.md) [offer](../o/offer.md) extensive analytical tools and visualizations to support Phased [Investing](../i/investing.md).
+- **MetaTrader:** Popular among retail traders for its comprehensive trading tools and user-friendly interface. More information available at MetaTrader.
+
+Monitoring tools track the performance of each phase, providing insights into returns, drawdowns, and other key metrics. Performance monitoring platforms such as [StockSharp](../s/stocksharp.md) and [TradingView](../t/tradingview.md) [offer](../o/offer.md) extensive analytical tools and visualizations to support Phased [Investing](../i/investing.md).
 
 ## Case Study: Implementing Phased Investing
 
@@ -81,7 +81,7 @@ Consider a [hedge fund](../h/hedge_fund.md) aiming to implement Phased [Investin
 ### Phase 1: Initial Deployment
 
 - **Algorithm:** A [trend](../t/trend.md)-following algorithm is selected based on [backtesting](../b/backtesting.md) results showing consistent returns.
-  
+
 - **[Execution](../e/execution.md):** The initial $2 million is invested following the algorithm's signals.
 
 ### Performance Evaluation
@@ -89,15 +89,15 @@ Consider a [hedge fund](../h/hedge_fund.md) aiming to implement Phased [Investin
 After one month, the [fund](../f/fund.md) reviews [performance metrics](../p/performance_metrics.md):
 
 - **[Return](../r/return.md):** 3% [gain](../g/gain.md) ($60,000)
-  
+
 - **[Volatility](../v/volatility.md):** Moderate, with [standard deviation](../s/standard_deviation.md) of returns at 1.5%.
-  
+
 Based on these metrics, the [fund](../f/fund.md) deems the strategy effective and proceeds to the next phase.
 
 ### Phase 2: Adaptation and Deployment
 
 - **Algorithm Adjustment:** Slight modifications are made to the algorithm to reduce [volatility](../v/volatility.md).
-  
+
 - **[Execution](../e/execution.md):** Another $2 million is invested, considering the refined algorithm.
 
 ### Continuous Monitoring

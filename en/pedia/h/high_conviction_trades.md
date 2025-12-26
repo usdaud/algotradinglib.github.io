@@ -39,16 +39,16 @@ High conviction trades require precise [execution](../e/execution.md) to minimiz
 ## Companies Specializing in High Conviction Trades
 
 ### 1. **Two Sigma Investments**
-Two Sigma leverages AI, [machine learning](../m/machine_learning.md), and advanced technological [infrastructure](../i/infrastructure.md) to execute trades with high conviction. For more information, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma leverages AI, [machine learning](../m/machine_learning.md), and advanced technological [infrastructure](../i/infrastructure.md) to execute trades with high conviction. For more information, visit Two Sigma.
 
 ### 2. **Renaissance Technologies**
-Renaissance Technologies, notably its Medallion [Fund](../f/fund.md), is renowned for its high conviction [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their proprietary models and data-driven approach consistently deliver high returns. For more details, you can explore [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, notably its Medallion [Fund](../f/fund.md), is renowned for its high conviction [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their proprietary models and data-driven approach consistently deliver high returns. For more details, you can explore Renaissance Technologies.
 
 ### 3. **Citadel**
-Citadel's Tactical Trading division focuses on high conviction strategies by using fundamental research and [quantitative analysis](../q/quantitative_analysis.md) to capture [alpha](../a/alpha.md). More information can be found at [Citadel](https://www.citadel.com/).
+Citadel's Tactical Trading division focuses on high conviction strategies by using fundamental research and [quantitative analysis](../q/quantitative_analysis.md) to capture [alpha](../a/alpha.md). More information can be found at Citadel.
 
 ### 4. **DE Shaw**
-The DE Shaw Group employs sophisticated algorithms and high-tech [infrastructure](../i/infrastructure.md) to pinpoint and execute high conviction trades. Learn more about them at [DE Shaw](https://www.deshaw.com/).
+The DE Shaw Group employs sophisticated algorithms and high-tech [infrastructure](../i/infrastructure.md) to pinpoint and execute high conviction trades. Learn more about them at DE Shaw.
 
 ## Notable High Conviction Trade Strategies
 

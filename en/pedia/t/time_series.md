@@ -50,7 +50,7 @@ Statistical methods for [time series analysis](../t/time_series_analysis.md) exp
 
 #### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as automated trading, refers to using computer algorithms to [trade](../t/trade.md) financial instruments quickly and effectively. [Time series analysis](../t/time_series_analysis.md) plays a significant role in developing these algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as automated trading, refers to using computer algorithms to [trade](../t/trade.md) financial instruments quickly and effectively. [Time series analysis](../t/time_series_analysis.md) plays a significant role in developing these algorithms.
 - **High-Frequency Trading (HFT)**: Utilizes algorithms to execute trades at extremely high speeds. Time series data helps in making split-second decisions.
 - **[Pairs Trading](../p/pairs_trading.md)**: Involves trading two co-integrated time series. When the spread diverges from the mean, trades are executed based on statistical [arbitrage](../a/arbitrage.md).
 - **[Mean Reversion](../m/mean_reversion.md)**: Identifies securities that deviate significantly from their historical mean. [Time series analysis](../t/time_series_analysis.md) can trigger trades to [capitalize](../c/capitalize.md) on the [return](../r/return.md) to the mean.
@@ -110,9 +110,9 @@ Several [software tools](../s/software_tools_for_trading.md) and libraries are i
 ### Data Sources
 
 Access to high-quality time series data is crucial.
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [Yahoo Finance](https://finance.yahoo.com/)
-- **[Alpha](../a/alpha.md) Vantage**: [Alpha Vantage](https://www.alphavantage.co/)
-- **[Quandl](../q/quandl.md)**: [Quandl](https://www.quandl.com/)
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Yahoo Finance
+- **[Alpha](../a/alpha.md) Vantage**: Alpha Vantage
+- **[Quandl](../q/quandl.md)**: Quandl
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg
 
 [Time series analysis](../t/time_series_analysis.md) provides a [robust](../r/robust.md) framework for understanding and predicting [temporal patterns](../t/temporal_patterns.md), especially in the context of [financial markets](../f/financial_market.md). The advancement of ML and AI techniques continues to expand its capabilities, [offering](../o/offering.md) powerful tools for traders, [risk](../r/risk.md) managers, and analysts alike.

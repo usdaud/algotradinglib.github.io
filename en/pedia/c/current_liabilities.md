@@ -77,12 +77,11 @@ Walmart Inc. carries substantial accounts payable due to its vast network of sup
 ### General Electric (GE)
 General Electric has complex current liabilities due to its diverse [range](../r/range.md) of industrial and financial services. The company often lists various accrued liabilities and short-term debts in its [balance sheet](../b/balance_sheet.md).
 
-For more detailed financial data, refer to the company’s respective [investor relations](../i/investor_relations.md) pages:
+For more detailed financial data, refer to the company’s respective [company filings](../i/investor_relations.md) pages:
 
-- [Apple Inc.](https://investor.apple.com)
-- [Walmart Inc.](https://stock.walmart.com)
-- [General Electric](https://www.ge.com/investor-relations) 
-
+- Apple Inc.
+- Walmart Inc.
+- General Electric
 ## Conclusion
 
 Understanding and managing current liabilities is crucial for any [business](../b/business.md) to maintain its [financial health](../f/financial_health.md) and achieve [operational efficiency](../o/operational_efficiency_in_trading.md). By closely monitoring and strategically planning for these short-term [obligations](../o/obligation.md), companies can ensure they have the [liquidity](../l/liquidity.md) needed to operate smoothly and mitigate risks associated with [debt](../d/debt.md).

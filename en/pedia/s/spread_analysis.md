@@ -4,7 +4,7 @@ Spread analysis is a fundamental concept in the world of trading and investment.
 
 ## 1. Introduction to Spread Analysis
 
-### 1.1 Definition 
+### 1.1 Definition
 The spread is the difference between the highest price that a buyer is willing to pay for an [asset](../a/asset.md) ([bid](../b/bid.md)) and the lowest price that a seller is willing to accept (ask). Spread analysis involves evaluating these differences and interpreting various [market](../m/market.md) conditions to make informed trading decisions.
 
 ### 1.2 Importance of Spread

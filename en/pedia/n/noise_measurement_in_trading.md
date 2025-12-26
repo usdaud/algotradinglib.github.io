@@ -37,9 +37,9 @@ In [financial markets](../f/financial_market.md), [noise](../n/noise.md) can be 
 
 Several companies specialize in [noise](../n/noise.md) measurement and [signal processing](../s/signal_processing_in_trading.md) for trading:
 
-1. **[Quandl](../q/quandl.md)**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), [offering](../o/offering.md) tools for [data normalization](../d/data_normalization.md) and [signal detection](../s/signal_detection_in_trading.md). [Website](https://www.quandl.com/)
-2. **Kensho Technologies**: Uses [machine learning](../m/machine_learning.md) to analyze and interpret [market](../m/market.md) data, filtering out [noise](../n/noise.md) to provide accurate [market](../m/market.md) insights. [Website](https://www.kensho.com/)
-3. **Numerai**: A [hedge fund](../h/hedge_fund.md) that crowdsources AI models to predict [market](../m/market.md) movements, where model submission and evaluation focus heavily on signal extraction quality. [Website](https://numer.ai/)
+1. **[Quandl](../q/quandl.md)**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), [offering](../o/offering.md) tools for [data normalization](../d/data_normalization.md) and [signal detection](../s/signal_detection_in_trading.md). online platform
+2. **Kensho Technologies**: Uses [machine learning](../m/machine_learning.md) to analyze and interpret [market](../m/market.md) data, filtering out [noise](../n/noise.md) to provide accurate [market](../m/market.md)
+3. **Numerai**: A [hedge fund](../h/hedge_fund.md) that crowdsources AI models to predict [market](../m/market.md) movements, where model submission
 
 ### Challenges in Noise Measurement
 

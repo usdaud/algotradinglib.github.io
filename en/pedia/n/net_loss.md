@@ -9,15 +9,15 @@ Net loss is an important metric in [financial analysis](../f/financial_analysis.
 There are several key components that contribute to the calculation of net loss. These include:
 
 - **[Revenue](../r/revenue.md)**: The total [income](../i/income.md) generated from the [sale](../s/sale.md) of goods or services. [Revenue](../r/revenue.md) is also referred to as sales or [turnover](../t/turnover.md).
-  
+
 - **Cost of Goods Sold (COGS)**: The direct costs attributable to the production of goods sold by a company. COGS includes materials, labor, and [manufacturing](../m/manufacturing.md) overhead.
-  
+
 - **Operating Expenses**: These are expenses incurred during regular [business](../b/business.md) operations, such as rent, utilities, salaries, and [marketing](../m/marketing.md) expenses.
-  
+
 - **[Interest Expense](../i/interest_expense.md)**: The cost incurred by an entity for borrowed funds. The [interest expense](../i/interest_expense.md) is a [non-operating expense](../n/non-operating_expense.md) shown on the [income statement](../i/income_statement.md).
-  
+
 - **[Taxes](../t/taxes.md)**: The financial charges imposed by government authorities on a company's [income](../i/income.md), property, or activity.
-  
+
 - **[Depreciation](../d/depreciation.md) and Amortization**: The process of allocating the cost of tangible and intangible assets over their useful lives.
 
 ## Calculating Net Loss
@@ -71,13 +71,13 @@ The tech [startup](../s/startup.md) has a net loss of $145,000 for the year.
 Several factors can contribute to a company experiencing a net loss. Some common causes include:
 
 1. **Decreased [Revenue](../r/revenue.md)**: A decline in sales or services [revenue](../r/revenue.md) can lead to a net loss. This can be due to external factors such as economic downturns, increased competition, or changes in consumer preferences.
-   
+
 2. **High Operating Expenses**: Excessive operational costs, such as [administrative expenses](../a/administrative_expenses.md), rent, and utilities, can outweigh [revenue](../r/revenue.md), leading to a net loss.
-   
+
 3. **Increased [Production Costs](../p/production_costs.md)**: Rising costs of [raw materials](../r/raw_materials.md), labor, or overhead can increase the cost of goods sold, reducing profitability.
-   
+
 4. **[Debt](../d/debt.md) and [Interest](../i/interest.md) Payments**: High levels of [debt](../d/debt.md) and associated [interest](../i/interest.md) payments can impose significant financial burdens, contributing to net loss.
-   
+
 5. **One-Time Expenses**: Non-recurring expenses, such as legal settlements, [restructuring](../r/restructuring.md) costs, or large [capital](../c/capital.md) investments, can lead to a temporary net loss.
 
 6. **[Depreciation](../d/depreciation.md) and Amortization**: Large [depreciation](../d/depreciation.md) and amortization expenses can reduce net [income](../i/income.md), resulting in a net loss.
@@ -141,8 +141,8 @@ Uber Technologies, a globally recognized ride-hailing company, reported a signif
 In the early 2000s, Netflix, a subscription-based streaming service, experienced net losses as it transitioned from a DVD rental [business](../b/business.md) to an online streaming platform. The company invested heavily in technology, content [acquisition](../a/acquisition.md), and [marketing](../m/marketing.md), leading to operating losses. However, Netflix's strategic vision and investments paid off, and it eventually became a dominant player in the streaming [industry](../i/industry.md), achieving consistent profitability and substantial [market](../m/market.md) growth.
 
 For more information about these companies, you can visit their respective websites:
-- [Uber Technologies](https://www.uber.com)
-- [Netflix](https://www.netflix.com)
+- Uber Technologies
+- Netflix
 
 ## Conclusion
 

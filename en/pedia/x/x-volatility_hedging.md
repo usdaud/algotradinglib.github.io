@@ -82,9 +82,9 @@ Once the algorithms are validated, they are deployed in a live [trading environm
 
 X-[Volatility](../v/volatility.md) Hedging is employed by various financial institutions and [hedge](../h/hedge.md) funds to manage [risk](../r/risk.md) in volatile markets. Companies like **Goldman Sachs**, **Morgan Stanley**, and **Citadel** have leveraged advanced algorithms and [volatility models](../v/volatility_models.md) to optimize their [trading strategies](../t/trading_strategies.md).
 
-- **Goldman Sachs**: [Visit their homepage](https://www.goldmansachs.com/)
-- **Morgan Stanley**: [Visit their homepage](https://www.morganstanley.com/)
-- **Citadel**: [Visit their homepage](https://www.citadel.com/)
+- **Goldman Sachs**: Visit their homepage
+- **Morgan Stanley**: Visit their homepage
+- **Citadel**: Visit their homepage
 
 ### Technological Considerations
 

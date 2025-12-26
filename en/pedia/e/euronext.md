@@ -106,4 +106,3 @@ Ongoing investment in technology aims to further enhance trading [efficiency](..
 ## Conclusion
 Euronext stands as a pivotal player in the European and global [financial markets](../f/financial_market.md). By [offering](../o/offering.md) diverse trading platforms, fostering technological advancement, and adhering to stringent regulatory standards, Euronext maintains a [robust](../r/robust.md) and dynamic marketplace. Its continued [expansion](../e/expansion.md) and focus on sustainable [finance](../f/finance.md) underscore its commitment to serving the evolving needs of [market](../m/market.md) participants.
 
-For more information, you can visit [Euronext's official website](https://www.euronext.com/).

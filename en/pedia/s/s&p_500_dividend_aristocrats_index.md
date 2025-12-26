@@ -15,20 +15,20 @@ The concept of the [Dividend](../d/dividend.md) Aristocrats was first introduced
 The methodology for the S&P 500 [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md) involves several critical criteria to ensure that only the highest quality companies are included. Here's an overview of the key components of the methodology:
 
 1. **Eligibility Criteria:**
-   - **[Dividend](../d/dividend.md) Growth:** Companies must have increased their dividends each year for at least 25 consecutive years.
-   - **S&P 500 Membership:** Companies must be members of the S&P 500 [index](../i/index_instrument.md).
-   - **[Market Capitalization](../m/market_capitalization.md):** A minimum unadjusted [market capitalization](../m/market_capitalization.md) of $3 billion.
-   - **[Liquidity](../l/liquidity.md):** An average daily trading [volume](../v/volume.md) of at least $5 million over the past three months.
+ - **[Dividend](../d/dividend.md) Growth:** Companies must have increased their dividends each year for at least 25 consecutive years.
+ - **S&P 500 Membership:** Companies must be members of the S&P 500 [index](../i/index_instrument.md).
+ - **[Market Capitalization](../m/market_capitalization.md):** A minimum unadjusted [market capitalization](../m/market_capitalization.md) of $3 billion.
+ - **[Liquidity](../l/liquidity.md):** An average daily trading [volume](../v/volume.md) of at least $5 million over the past three months.
 
 2. **[Index Construction](../i/index_construction.md):**
-   - **[Quarterly Rebalancing](../q/quarterly_rebalancing.md):** The [index](../i/index_instrument.md) is rebalanced quarterly to ensure that the constituents meet the eligibility criteria.
-   - **Equal Weighting:** Unlike the [market](../m/market.md)-cap-[weighted](../w/weighted.md) S&P 500, the [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md) employs an equal-weighting methodology. Each constituent is given an [equal weight](../e/equal_weight.md) to reduce the impact of any single company on the overall [index](../i/index_instrument.md) performance.
+ - **[Quarterly Rebalancing](../q/quarterly_rebalancing.md):** The [index](../i/index_instrument.md) is rebalanced quarterly to ensure that the constituents meet the eligibility criteria.
+ - **Equal Weighting:** Unlike the [market](../m/market.md)-cap-[weighted](../w/weighted.md) S&P 500, the [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md) employs an equal-weighting methodology. Each constituent is given an [equal weight](../e/equal_weight.md) to reduce the impact of any single company on the overall [index](../i/index_instrument.md) performance.
 
 3. **Sector [Diversification](../d/diversification.md):**
-   - The [index](../i/index_instrument.md) seeks to maintain a diversified exposure across various sectors. To prevent any one sector from dominating the [index](../i/index_instrument.md), a sector cap is applied, limiting the weight of each sector.
+ - The [index](../i/index_instrument.md) seeks to maintain a diversified exposure across various sectors. To prevent any one sector from dominating the [index](../i/index_instrument.md), a sector cap is applied, limiting the weight of each sector.
 
 4. **Reconstitution:**
-   - Annually, the [index](../i/index_instrument.md) undergoes reconstitution where new eligible companies are added, and those that no longer meet the criteria are removed.
+ - Annually, the [index](../i/index_instrument.md) undergoes reconstitution where new eligible companies are added, and those that no longer meet the criteria are removed.
 
 ## Components of the Index
 
@@ -58,7 +58,7 @@ Many [Dividend](../d/dividend.md) Aristocrats [offer](../o/offer.md) [Dividend R
 
 Several ETFs track the S&P 500 [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md), providing investors with an easy way to [gain](../g/gain.md) exposure to the [index](../i/index_instrument.md). Some popular ETFs include:
 
-- **ProShares S&P 500 [Dividend](../d/dividend.md) Aristocrats ETF (NOBL):** This ETF aims to replicate the performance of the [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md). [Visit ProShares](https://www.proshares.com/funds/nobl.html)
+- **ProShares S&P 500 [Dividend](../d/dividend.md) Aristocrats ETF (NOBL):** This ETF aims to replicate the performance of the [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md). Visit ProShares
 - **SPDR S&P [Dividend](../d/dividend.md) ETF (SDY):** While not exclusively focused on the [Dividend](../d/dividend.md) Aristocrats, SDY invests in high-yielding, [dividend](../d/dividend.md)-paying companies from the S&P 1500.
 
 ### Total Return Approach

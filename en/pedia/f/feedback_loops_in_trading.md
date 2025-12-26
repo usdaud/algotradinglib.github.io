@@ -34,7 +34,7 @@ Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long 
 
 Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds globally, is known for its use of systematic and algorithmic strategies deeply reliant on feedback loops. Their proprietary systems continuously analyze [market](../m/market.md) data, make trades, and adjust strategies in response to new information, ensuring a [robust](../r/robust.md) and adaptive trading approach.
 
-For more information, visit Bridgewater Associates’s official website - [Bridgewater](https://www.bridgewater.com/).
+
 
 ## Challenges and Mitigation
 

@@ -166,4 +166,4 @@ Effective [noise](../n/noise.md) reduction techniques are critical for the succe
 
 Additionally, continuous research and advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are opening up new avenues for even more sophisticated [noise](../n/noise.md) reduction techniques.
 
-For more information about advanced [noise](../n/noise.md) reduction techniques in [algorithmic trading](../a/algorithmic_trading.md), you can visit [QuantConnect](https://www.quantconnect.com) or [Alpha Vantage](https://www.alphavantage.co/).
+For more information about advanced [noise](../n/noise.md) reduction techniques in [algorithmic trading](../a/algorithmic_trading.md), you can visit QuantConnect or Alpha Vantage.

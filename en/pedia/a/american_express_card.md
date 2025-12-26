@@ -85,7 +85,7 @@ American Express cards come with advanced [security](../s/security.md) features,
 
 ## Customer Service
 
-American Express is often lauded for its [customer service](../c/customer_service.md). Cardmembers can expect 24/7 support, and [premium](../p/premium.md) cardholders have access to personalized concierge services. The company also provides extensive online account management tools through the American Express mobile app and website.
+American Express is often lauded for its [customer service](../c/customer_service.md). Cardmembers can expect 24/7 support, and [premium](../p/premium.md) cardholders have access to personalized concierge services. The company also provides extensive online account
 
 ## Global Acceptance
 
@@ -106,4 +106,3 @@ American Express continues to innovate in the financial services sector. Future 
 
 The American Express Card is more than a simple [payment](../p/payment.md) tool; it represents a suite of financial products designed to cater to a variety of needs from high-end travel benefits to [business](../b/business.md) [expense](../e/expense.md) management. With a long history and a commitment to innovation, American Express continues to be a major player in the financial services [industry](../i/industry.md).
 
-For more information, visit the official American Express website: [American Express](https://www.americanexpress.com).

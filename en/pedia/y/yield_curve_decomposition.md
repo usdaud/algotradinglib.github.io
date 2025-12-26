@@ -48,13 +48,10 @@ An extension of the Nelson-Siegel model, the Svensson model includes additional 
 Several financial institutions and fintech companies specialize in [yield curve](../y/yield_curve.md) analysis and [offer](../o/offer.md) advanced tools and platforms for investors and traders.
 
 - **[Bloomberg](../b/bloomberg.md)**: A leader in financial data services, [Bloomberg](../b/bloomberg.md) offers sophisticated analytics tools for [yield curve](../y/yield_curve.md) modeling through its [Bloomberg](../b/bloomberg.md) Terminal.
-  [Bloomberg](https://www.bloomberg.com/)
 
 - **[FactSet](../f/factset.md)**: Provides integrated data and analytical solutions for financial professionals, including [yield curve](../y/yield_curve.md) analysis and decomposition.
-  [FactSet](https://www.factset.com/)
 
 - **Numerix**: Specializes in [risk management](../r/risk_management.md) and [multi-asset class](../m/multi-asset_class.md) analytics, [offering](../o/offering.md) solutions for [yield curve](../y/yield_curve.md) construction and analysis.
-  [Numerix](https://www.numerix.com/)
 
 ### Advanced Yield Curve Techniques
 

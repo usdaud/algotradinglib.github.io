@@ -67,11 +67,11 @@ Effective [risk management](../r/risk_management.md) is crucial for successful y
 
 ### Case Study: BlackRock
 
-[BlackRock](https://www.blackrock.com) is a leading global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) that utilizes [algorithmic trading](../a/algorithmic_trading.md) strategies, including those focusing on yen [volatility](../v/volatility.md). By leveraging sophisticated algorithms, BlackRock can analyze large datasets and execute trades with precision, maximizing returns while managing [risk](../r/risk.md) effectively.
+BlackRock is a leading global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) that utilizes [algorithmic trading](../a/algorithmic_trading.md) strategies, including those focusing on yen [volatility](../v/volatility.md). By leveraging sophisticated algorithms, BlackRock can analyze large datasets and execute trades with precision, maximizing returns while managing [risk](../r/risk.md) effectively.
 
 ### Case Study: Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com) is a highly successful quantitative [hedge fund](../h/hedge_fund.md) known for its use of [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md)'s approach to yen [volatility](../v/volatility.md) trading involves complex models that analyze [market](../m/market.md) patterns and execute trades based on [predictive analytics](../p/predictive_analytics.md).
+Renaissance Technologies is a highly successful quantitative [hedge fund](../h/hedge_fund.md) known for its use of [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md)'s approach to yen [volatility](../v/volatility.md) trading involves complex models that analyze [market](../m/market.md) patterns and execute trades based on [predictive analytics](../p/predictive_analytics.md).
 
 ## Conclusion
 

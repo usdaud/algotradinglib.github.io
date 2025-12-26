@@ -28,15 +28,15 @@ Many 18-hour cities are in a growth phase, attracting investment and development
 
 ### Austin, Texas
 
-Austin is often cited as a classic example of an 18-hour city. Known for its live music scene, tech [industry](../i/industry.md) presence, and vibrant cultural events, Austin balances economic opportunity with a high [quality of life](../q/quality_of_life.md). The city's affordability and rapid growth make it a popular choice for both residents and investors. For more information, visit [Austin Chamber of Commerce](https://www.austinchamber.com/).
+Austin is often cited as a classic example of an 18-hour city. Known for its live music scene, tech [industry](../i/industry.md) presence, and vibrant cultural events, Austin balances economic opportunity with a high [quality of life](../q/quality_of_life.md). The city's affordability and rapid growth make it a popular choice for both residents and investors. For more information, visit Austin Chamber of Commerce.
 
 ### Charlotte, North Carolina
 
-Charlotte has emerged as a financial hub with a burgeoning tech sector. The city's affordability, coupled with its expanding [job market](../j/job_market.md) and high [quality of life](../q/quality_of_life.md), makes it an attractive 18-hour city. It is also [home](../h/home.md) to numerous cultural and recreational activities. For more information, visit [Charlotte Regional Business Alliance](https://charlotteregion.com/).
+Charlotte has emerged as a financial hub with a burgeoning tech sector. The city's affordability, coupled with its expanding [job market](../j/job_market.md) and high [quality of life](../q/quality_of_life.md), makes it an attractive 18-hour city. It is also [home](../h/home.md) to numerous cultural and recreational activities. For more information, visit Charlotte Regional Business Alliance.
 
 ### Nashville, Tennessee
 
-Known for its music [industry](../i/industry.md) and vibrant nightlife, Nashville offers a blend of cultural richness and [economic growth](../e/economic_growth.md). The city's relatively low [cost of living](../c/cost_of_living.md) and expanding [job market](../j/job_market.md) have positioned it as a desirable 18-hour city. For more information, visit [Nashville Area Chamber of Commerce](https://www.nashvillechamber.com/).
+Known for its music [industry](../i/industry.md) and vibrant nightlife, Nashville offers a blend of cultural richness and [economic growth](../e/economic_growth.md). The city's relatively low [cost of living](../c/cost_of_living.md) and expanding [job market](../j/job_market.md) have positioned it as a desirable 18-hour city. For more information, visit Nashville Area Chamber of Commerce.
 
 ## Investment Opportunities in 18-Hour Cities
 

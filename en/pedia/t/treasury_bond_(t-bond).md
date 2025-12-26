@@ -17,7 +17,7 @@ Treasury Bonds are typically issued with a [par value](../p/par_value.md) of $1,
 
 Treasury Bonds can be purchased through several channels:
 
-1. **TreasuryDirect**: Investors can buy T-Bonds directly from the [U.S. Treasury](../u/u.s._treasury.md) through the TreasuryDirect website [here](https://www.treasurydirect.gov).
+1. **TreasuryDirect**: Investors can buy T-Bonds directly from the [U.S. Treasury](../u/u.s._treasury.md).
 2. **Brokerage Firms**: Investors can also purchase T-Bonds through banks, brokers, or dealers. These financial institutions act as intermediaries between the Treasury and the buyer.
 3. **[Secondary Market](../s/secondary_market.md)**: T-Bonds can also be bought and sold in the [secondary market](../s/secondary_market.md) through brokerage accounts, where prices fluctuate based on current [market](../m/market.md) conditions.
 
@@ -96,7 +96,7 @@ The [demand](../d/demand.md) for T-Bonds can also influence the [value](../v/val
 The rise of fintech has made it easier for individual investors to purchase and manage Treasury Bonds through online platforms. Directly buying through platforms like TreasuryDirect has streamlined the process and made it more accessible.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) techniques are increasingly being applied to the trading of T-Bonds. These advanced algorithms can identify and exploit [market](../m/market.md) inefficiencies, thus increasing [liquidity](../l/liquidity.md) and optimizing [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) techniques are increasingly being applied to the trading of T-Bonds. These advanced algorithms can identify and exploit [market](../m/market.md) inefficiencies, thus increasing [liquidity](../l/liquidity.md) and optimizing [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Digital Currencies
 Although still in its infancy, [blockchain](../b/blockchain_in_trading.md) technology has the potential to revolutionize the trading and settlement processes for T-Bonds. Digital currencies issued by central banks could eventually be linked with government securities like T-Bonds to create more efficient and transparent financial systems.

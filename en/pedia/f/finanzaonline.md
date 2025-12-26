@@ -54,6 +54,3 @@ FinanzaOnline employs standard online [security](../s/security.md) measures to e
 - **Data Protection**: Measures to protect user data and ensure privacy.
 - **Moderation**: Active moderation to maintain the quality of discussions and prevent spam or abusive behavior.
 - **Secure Access**: Implementing secure login processes to prevent unauthorized access.
-
-## Website
-For more information and to join the community, visit the official FinanzaOnline website: [FinanzaOnline](https://www.finanzaonline.com/)

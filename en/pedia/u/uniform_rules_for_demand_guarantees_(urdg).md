@@ -86,7 +86,7 @@ Despite their widespread acceptance and utilization, URDG 758 is not without cri
 
 The Uniform Rules for [Demand](../d/demand.md) Guarantees (URDG) are an essential component of modern international [trade](../t/trade.md) and [finance](../f/finance.md), providing a universal standard that enhances [security](../s/security.md) and [efficiency](../e/efficiency.md) in the issuance and handling of [demand](../d/demand.md) guarantees. URDG 758, the latest iteration of these rules, continues to facilitate global [commerce](../c/commerce.md) by [offering](../o/offering.md) a reliable, standardized framework for these crucial financial instruments.
 
-More information about URDG can be found on the [ICC webpage](https://iccwbo.org/).
+More information about URDG can be found on the ICC webpage.
 
 ---
 

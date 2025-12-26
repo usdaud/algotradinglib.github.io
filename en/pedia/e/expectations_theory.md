@@ -14,7 +14,7 @@ The mathematical underpinning of Expectations Theory can be elucidated using sim
 
 Mathematically, this can be expressed as:
 
-\[ i_t^n = \frac{1}{n} (i_t + E[i_t+1] + E[i_t+2] + ... + E[i_t+n-1]) \]
+\[ i_t^n = \frac{1}{n} (i_t + E[i_t+1] + E[i_t+2] +... + E[i_t+n-1]) \]
 
 This equation suggests that the long-term rate is an algebraic average of the current short-term rate and expected future short-term rates. The theory can be extended to various maturities, leading to a [yield curve](../y/yard.md) which is a graphical representation of [interest](../i/interest.md) rates across different maturities.
 
@@ -23,13 +23,13 @@ This equation suggests that the long-term rate is an algebraic average of the cu
 Expectations Theory has significant implications for [bond](../b/bond.md) pricing, particularly in understanding why the [yield curve](../y/yard.md) might take certain shapes under different [economic conditions](../e/economic_conditions.md). The [yield curve](../y/yard.md) could be upward sloping, flat, or downward sloping, depending on the [market](../m/market.md)'s expectations for future [interest](../i/interest.md) rates.
 
 1. **Upward Sloping [Yield Curve](../y/yard.md)**:
-    - An upward sloping [yield curve](../y/yard.md) is indicative of the [market](../m/market.md)'s expectation that short-term [interest](../i/interest.md) rates [will](../w/will.md) increase over time. Investors anticipate higher yields in the future to compensate for increasing [interest](../i/interest.md) rates, which is generally associated with economic [expansion](../e/expansion.md) and potential [inflation](../i/inflation.md).
+ - An upward sloping [yield curve](../y/yard.md) is indicative of the [market](../m/market.md)'s expectation that short-term [interest](../i/interest.md) rates [will](../w/will.md) increase over time. Investors anticipate higher yields in the future to compensate for increasing [interest](../i/interest.md) rates, which is generally associated with economic [expansion](../e/expansion.md) and potential [inflation](../i/inflation.md).
 
 2. **[Flat Yield Curve](../f/flat_yield_curve.md)**:
-    - A [flat yield curve](../f/flat_yield_curve.md) suggests that the [market](../m/market.md) expects short-term [interest](../i/interest.md) rates to remain relatively stable. This situation can occur during transitions between different [economic cycles](../e/economic_cycles.md) or when there is [uncertainty](../u/uncertainty_in_trading.md) about future [economic conditions](../e/economic_conditions.md).
+ - A [flat yield curve](../f/flat_yield_curve.md) suggests that the [market](../m/market.md) expects short-term [interest](../i/interest.md) rates to remain relatively stable. This situation can occur during transitions between different [economic cycles](../e/economic_cycles.md) or when there is [uncertainty](../u/uncertainty_in_trading.md) about future [economic conditions](../e/economic_conditions.md).
 
 3. **Downward Sloping [Yield Curve](../y/yard.md)**:
-    - A downward sloping (inverted) [yield curve](../y/yard.md) implies that the [market](../m/market.md) expects short-term [interest](../i/interest.md) rates to fall in the future, often a sign of economic slowdown or [recession](../r/recession.md). Investors expect lower yields due to anticipated cuts in central [bank](../b/bank.md) [interest](../i/interest.md) rates and weaker economic activity.
+ - A downward sloping (inverted) [yield curve](../y/yard.md) implies that the [market](../m/market.md) expects short-term [interest](../i/interest.md) rates to fall in the future, often a sign of economic slowdown or [recession](../r/recession.md). Investors expect lower yields due to anticipated cuts in central [bank](../b/bank.md) [interest](../i/interest.md) rates and weaker economic activity.
 
 Understanding these implications helps investors and policymakers make informed decisions regarding investments and economic policy.
 
@@ -38,16 +38,16 @@ Understanding these implications helps investors and policymakers make informed 
 While Expectations Theory offers a logical explanation of [interest rate](../i/interest_rate.md) structure based on [market](../m/market.md) expectations, it has faced several criticisms and limitations:
 
 1. **[Risk](../r/risk.md) Premiums**:
-    - The theory assumes that long-term rates are merely the average of expected future short-term rates with negligible [risk](../r/risk.md) premiums. However, in reality, investors may [demand](../d/demand.md) a [risk premium](../r/risk_premium.md) for holding long-term bonds due to [uncertainty](../u/uncertainty_in_trading.md) over a longer horizon.
+ - The theory assumes that long-term rates are merely the average of expected future short-term rates with negligible [risk](../r/risk.md) premiums. However, in reality, investors may [demand](../d/demand.md) a [risk premium](../r/risk_premium.md) for holding long-term bonds due to [uncertainty](../u/uncertainty_in_trading.md) over a longer horizon.
 
 2. **[Liquidity](../l/liquidity.md) Preference**:
-    - Another critique is related to the [liquidity preference theory](../l/liquidity_preference_theory.md), which suggests that investors prefer short-term bonds for their [liquidity](../l/liquidity.md) and only opt for long-term bonds if they are offered a [premium](../p/premium.md). This [premium](../p/premium.md) is not considered in the pure form of Expectations Theory.
+ - Another critique is related to the [liquidity preference theory](../l/liquidity_preference_theory.md), which suggests that investors prefer short-term bonds for their [liquidity](../l/liquidity.md) and only opt for long-term bonds if they are offered a [premium](../p/premium.md). This [premium](../p/premium.md) is not considered in the pure form of Expectations Theory.
 
 3. **[Market Segmentation](../m/market_segmentation.md)**:
-    - [Market segmentation theory](../m/market_segmentation_theory.md) asserts that different [investor](../i/investor.md) groups prefer different maturities, and these groups do not shift their preferences easily, leading to [interest rate](../i/interest_rate.md) structures that can't be fully explained by purely averaging expected short-term rates.
+ - [Market segmentation theory](../m/market_segmentation_theory.md) asserts that different [investor](../i/investor.md) groups prefer different maturities, and these groups do not shift their preferences easily, leading to [interest rate](../i/interest_rate.md) structures that can't be fully explained by purely averaging expected short-term rates.
 
 4. **Non-Rational Expectations**:
-    - The theory assumes rational expectations where [market](../m/market.md) participants have homogeneous and accurate forecasts of future rates. However, in practice, expectations can be biased or influenced by irrational factors, leading to deviations from the predictions of the theory.
+ - The theory assumes rational expectations where [market](../m/market.md) participants have homogeneous and accurate forecasts of future rates. However, in practice, expectations can be biased or influenced by irrational factors, leading to deviations from the predictions of the theory.
 
 ## Applications and Real-World Relevance
 
@@ -57,6 +57,6 @@ Despite its limitations, Expectations Theory is widely applied in various facets
 
 The Federal Reserve (Fed) in the United States, for instance, considers [market](../m/market.md) expectations of future [interest](../i/interest.md) rates when setting its policy rates. The Fed's actions, such as changing the [federal funds rate](../f/federal_funds_rate.md), influence short-term [interest](../i/interest.md) rates and, through Expectations Theory, affect long-term rates and economic activity.
 
-For further exploration, readers can refer to resources and statements available on the [Federal Reserve's website](https://www.federalreserve.gov/).
+For further exploration, readers can refer to resources and statements available on the Federal Reserve's online platform.
 
 In sum, while Expectations Theory is not without its flaws, it remains an integral part of financial theory, [offering](../o/offering.md) valuable insights into the mechanics of the [term structure of interest rates](../t/term_structure_of_interest_rates.md) and the interplay between [market](../m/market.md) expectations and [bond](../b/bond.md) yields.

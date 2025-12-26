@@ -5,7 +5,7 @@ A domestic [corporation](../c/corporation.md) is a [business](../b/business.md) 
 ## Key Characteristics of Domestic Corporations
 
 ### 1. **Incorporation**
-A domestic [corporation](../c/corporation.md) is formed by filing articles of [incorporation](../i/incorporation.md) with the relevant state authority, often the Secretary of State. The articles include essential information such as the [corporation](../c/corporation.md)'s name, purpose, number of authorized [shares](../s/shares.md), and details of the incorporators. 
+A domestic [corporation](../c/corporation.md) is formed by filing articles of [incorporation](../i/incorporation.md) with the relevant state authority, often the Secretary of State. The articles include essential information such as the [corporation](../c/corporation.md)'s name, purpose, number of authorized [shares](../s/shares.md), and details of the incorporators.
 
 ### 2. **Jurisdiction**
 The primary distinguishing [factor](../f/factor.md) of a domestic [corporation](../c/corporation.md) is that it operates within the confines of the legal jurisdiction where it was incorporated. This grants it certain protections and responsibilities under local law.
@@ -80,13 +80,13 @@ Maintain proper records of corporate activities, including minutes of meetings, 
 ## Case Studies: Example Companies
 
 ### 1. **Apple Inc.**
-Apple Inc. is a prime example of a domestic [corporation](../c/corporation.md) in the United States. Founded in California and headquartered in Cupertino, Apple has grown into a global powerhouse in technology and innovation. For more information on Apple Inc., visit their [official website](https://www.apple.com).
+Apple Inc. is a prime example of a domestic [corporation](../c/corporation.md) in the United States. Founded in California and headquartered in Cupertino, Apple has grown into a global powerhouse in technology and innovation. For more information on Apple Inc.,
 
 ### 2. **Coca-Cola Company**
-The Coca-Cola Company, incorporated in Delaware and headquartered in Atlanta, Georgia, operates as a leading beverage manufacturer globally. Despite its worldwide operations, it remains a domestic [corporation](../c/corporation.md) in terms of U.S. legal jurisdiction. For more information, visit their [official website](https://www.coca-colacompany.com).
+The Coca-Cola Company, incorporated in Delaware and headquartered in Atlanta, Georgia, operates as a leading beverage manufacturer globally. Despite its worldwide operations, it remains a domestic [corporation](../c/corporation.md) in terms of U.S. legal jurisdiction.
 
 ### 3. **Microsoft Corporation**
-Microsoft [Corporation](../c/corporation.md), established in the state of Washington, exemplifies a successful domestic [corporation](../c/corporation.md). Known for its software, hardware, and digital services, Microsoft operates globally yet retains its domestic status in the U.S. More on Microsoft can be found on their [official website](https://www.microsoft.com).
+Microsoft [Corporation](../c/corporation.md), established in the state of Washington, exemplifies a successful domestic [corporation](../c/corporation.md). Known for its software, hardware, and digital services, Microsoft operates globally yet retains its domestic
 
 ## Conclusion
 

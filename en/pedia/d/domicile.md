@@ -1,6 +1,6 @@
 # Domicile
 
-In the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), the term "domicile" refers to the country or jurisdiction where a financial entity, such as a [fund](../f/fund.md), [broker-dealer](../b/broker-dealer.md), or trading [firm](../f/firm.md), is legally registered and operates. The domicile can have significant implications for regulatory compliance, [taxation](../t/taxation.md), legal [obligations](../o/obligation.md), and [investor](../i/investor.md) protections. 
+In the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), the term "domicile" refers to the country or jurisdiction where a financial entity, such as a [fund](../f/fund.md), [broker-dealer](../b/broker-dealer.md), or trading [firm](../f/firm.md), is legally registered and operates. The domicile can have significant implications for regulatory compliance, [taxation](../t/taxation.md), legal [obligations](../o/obligation.md), and [investor](../i/investor.md) protections.
 
 The domicile of a trading [firm](../f/firm.md), [fund](../f/fund.md), or other financial entity affects many aspects of its operations, from the regulatory environment to tax [obligations](../o/obligation.md) and [investor](../i/investor.md) protections. Understanding the domicile's impact is crucial for algorithmic traders, [fund](../f/fund.md) managers, and investors alike. Below, we explore the different dimensions of financial domicile in-depth.
 
@@ -13,7 +13,7 @@ The United States is one of the most highly regulated markets in the world. Key 
 - The **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**, which regulates [commodity futures](../c/commodity_futures.md) and [options](../o/options.md) markets.
 - The **National [Futures](../f/futures.md) Association (NFA)**, a self-regulatory organization.
 
-One of the notable regulations is the **Dodd-Frank Act** passed in response to the 2008 [financial crisis](../f/financial_crisis.md). This act aims to reduce risks in the [financial system](../f/financial_system.md) through increased [transparency](../t/transparency.md) and accountability. 
+One of the notable regulations is the **Dodd-Frank Act** passed in response to the 2008 [financial crisis](../f/financial_crisis.md). This act aims to reduce risks in the [financial system](../f/financial_system.md) through increased [transparency](../t/transparency.md) and accountability.
 
 ### European Union
 
@@ -37,7 +37,7 @@ Post-[Brexit](../b/brexit.md), the UK follows its own set of regulations, althou
 
 ### Offshore Tax Havens
 
-Many trading firms and funds domicile in [offshore](../o/offshore.md) tax havens to minimize their tax liabilities. Jurisdictions like the Cayman Islands impose no direct [taxes](../t/taxes.md) on gains, making them attractive for high-frequency trading (HFT) firms and [hedge](../h/hedge.md) funds. 
+Many trading firms and funds domicile in [offshore](../o/offshore.md) tax havens to minimize their tax liabilities. Jurisdictions like the Cayman Islands impose no direct [taxes](../t/taxes.md) on gains, making them attractive for high-frequency trading (HFT) firms and [hedge](../h/hedge.md) funds.
 
 However, these domiciles often require entities to pay annual fees and comply with specific reporting requirements to justify their [offshore](../o/offshore.md) status.
 
@@ -88,16 +88,16 @@ Domiciling in a reputable jurisdiction can enhance the credibility and attractiv
 
 ### United States
 
-- **Citadel Securities** [Citadel Securities](https://www.citadelsecurities.com/) is one of the leading [algorithmic trading](../a/accountability.md) firms based in the U.S., known for its HFT strategies.
-- **Two Sigma** [Two Sigma](https://www.twosigma.com/) is another prominent quantitative [hedge fund](../h/hedge_fund.md) based in New York.
+- **Citadel Securities** Citadel Securities is one of the leading [algorithmic trading](../a/accountability.md) firms based in the U.S., known for its HFT strategies.
+- **Two Sigma** Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) based in New York.
 
 ### European Union
 
-- **DE Shaw** [DE Shaw](https://www.deshaw.com/) operates globally but has a significant presence in the EU markets, leveraging favorable regulations like [MiFID II](../m/mifid_ii.md).
+- **DE Shaw** DE Shaw operates globally but has a significant presence in the EU markets, leveraging favorable regulations like [MiFID II](../m/mifid_ii.md).
 
 ### Offshore
 
-- **Renaissance Technologies** [Renaissance Technologies](https://www.rentec.com/) is known for operating some of its funds from [offshore](../o/offshore.md) jurisdictions to benefit from favorable tax conditions.
+- **Renaissance Technologies** Renaissance Technologies is known for operating some of its funds from [offshore](../o/offshore.md) jurisdictions to benefit from favorable tax conditions.
 
 ## Conclusion
 

@@ -68,4 +68,3 @@ NovaDAX boasts high processing speeds and system reliability, ensuring that trad
 
 NovaDAX stands out as a comprehensive and user-oriented cryptocurrency [exchange](../e/exchange.md) platform, [offering](../o/offering.md) a broad [range](../r/range.md) of features and services that cater to diverse trading needs. Its focus on [security](../s/security.md), variety of supported cryptocurrencies, competitive fees, and advanced trading tools make it a compelling choice for traders around the world. With a strong emphasis on regulatory compliance, [customer](../c/customer.md) support, and continuous improvement, NovaDAX is well-positioned to remain a key player in the ever-evolving cryptocurrency landscape.
 
-For more information, please visit [NovaDAX's official website](https://www.novadax.com/).

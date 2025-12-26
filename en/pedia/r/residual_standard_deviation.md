@@ -39,7 +39,7 @@ RSD can also play a role in [risk management](../r/risk_management.md). When ass
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) rely on accurate predictions to make buy or sell decisions. The reliability of these predictions is partly assessed by examining the RSD. A lower RSD implies more accurate predictions, which is crucial for formulating [trading strategies](../t/trading_strategies.md) and coding algorithms that can react to [market](../m/market.md) changes with precision.
+In [algorithmic trading](../a/algorithmic_trading.md), [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) rely on accurate predictions to make buy or sell decisions. The reliability of these predictions is partly assessed by examining the RSD. A lower RSD implies more accurate predictions, which is crucial for formulating [trading strategies](../t/trading_strategies.md) and coding algorithms that can react to [market](../m/market.md) changes with precision.
 
 ## Improving Model Performance
 

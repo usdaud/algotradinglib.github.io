@@ -10,11 +10,11 @@ While primogeniture was the predominant inheritance system in medieval Europe, e
 
 ### Anglo-Saxon Law
 
-In certain Anglo-Saxon regions before the Norman Conquest of England in 1066, ultimogeniture appeared in versions of customary law. In the "Salic Law," an early Germanic code, there are clauses that mention forms of inheritance that resemble ultimogeniture. 
+In certain Anglo-Saxon regions before the Norman Conquest of England in 1066, ultimogeniture appeared in versions of customary law. In the "Salic Law," an early Germanic code, there are clauses that mention forms of inheritance that resemble ultimogeniture.
 
 ### East Asia
 
-Ultimogeniture has been noted in several East Asian societies. In Japan, for instance, variations of this principle can be seen in the treatment of property and family responsibilities within rural, agricultural communities. 
+Ultimogeniture has been noted in several East Asian societies. In Japan, for instance, variations of this principle can be seen in the treatment of property and family responsibilities within rural, agricultural communities.
 
 ### Africa and Polynesia
 

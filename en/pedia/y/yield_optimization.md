@@ -55,7 +55,7 @@ Trading platforms are essential for executing and managing trades. Examples incl
 #### 2. **Backtesting Tools**
 [Backtesting](../b/backtesting.md) tools allow traders to test their strategies against historical data to evaluate performance and [risk](../r/risk.md).
 
-- **[QuantConnect](../q/quantconnect.md)**: [Open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform.
+- **[StockSharp](../s/stocksharp.md)**: [Open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform.
 - **MetaTrader Strategy Tester**: Integrated into the MetaTrader platform for forex and CFDs.
 
 #### 3. **Data Feeds**
@@ -68,9 +68,9 @@ High-quality data feeds are crucial for real-time analysis and decision-making. 
 
 Several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and [yield](../y/yield.md) [optimization](../o/optimization.md). Notable examples include:
 
-- **Two Sigma**: A leading [firm](../f/firm.md) in the field of [data-driven trading strategies](../d/data-driven_trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
-- **Jane Street**: Renowned for sophisticated [algorithmic trading](../a/algorithmic_trading.md) techniques. [Jane Street](https://www.janestreet.com/)
-- **Citadel**: A global financial institution utilizing cutting-edge technology in trading. [Citadel](https://www.citadel.com/)
+- **Two Sigma**: A leading [firm](../f/firm.md) in the field of [data-driven trading strategies](../d/data-driven_trading_strategies.md). Two Sigma
+- **Jane Street**: Renowned for sophisticated [algorithmic trading](../a/algorithmic_trading.md) techniques. Jane Street
+- **Citadel**: A global financial institution utilizing cutting-edge technology in trading. Citadel
 
 ### Risk Management
 
@@ -90,4 +90,3 @@ Effective [risk management](../r/risk_management.md) is paramount in [yield](../
 ### Conclusion
 
 [Yield](../y/yield.md) [optimization](../o/optimization.md) in [algorithmic trading](../a/algorithmic_trading.md) is a complex, interdisciplinary field combining [finance](../f/finance.md), mathematics, computer science, and [economics](../e/economics.md). By leveraging advanced technologies and sophisticated models, traders can achieve superior returns while managing risks effectively. As technology continues to evolve, the landscape of [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) likely see further advancements, [offering](../o/offering.md) new opportunities and challenges for traders.
-

@@ -54,4 +54,4 @@ Despite its age, Dow Theory remains relevant and is often integrated with modern
 
 Dow Theory provides a foundational framework for understanding [market](../m/market.md) trends and movements. Its principles of [market](../m/market.md) behavior, [trend](../t/trend.md) identification, and [volume analysis](../v/volume_analysis.md) continue to be valuable tools for investors. While it has its limitations, the core concepts of Dow Theory remain integral to the field of [technical analysis](../t/technical_analysis.md) and are widely respected in [financial markets](../f/financial_market.md).
 
-For further insights and applications of Dow Theory, you can explore resources like the [Dow Jones & Company website](https://www.dowjones.com/).
+For further insights and applications of Dow Theory,

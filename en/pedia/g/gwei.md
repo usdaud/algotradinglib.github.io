@@ -4,7 +4,7 @@
 In the realm of [blockchain](../b/blockchain_in_trading.md) and cryptocurrency, [transaction fees](../t/transaction_fees.md) are a fundamental component. On [Ethereum](../e/ethereum_.md), one of the most critical elements related to [transaction fees](../t/transaction_fees.md) is Gwei. This unit of measurement is crucial for understanding how much it costs to execute transactions or run [smart contracts](../s/smart_contracts_in_trading.md) on the [Ethereum](../e/ethereum_.md) network. Let's delve into the details of Gwei, its function, and its significance.
 
 ## What is Gwei?
-Gwei (Gigawei) is a [denomination](../d/denomination.md) of Ether (ETH), the cryptocurrency used on the [Ethereum](../e/ethereum_.md) network. Specifically, 1 Gwei equals 1,000,000,000 [Wei](../w/wei.md), and [Wei](../w/wei.md) is the smallest unit of ETH. 
+Gwei (Gigawei) is a [denomination](../d/denomination.md) of Ether (ETH), the cryptocurrency used on the [Ethereum](../e/ethereum_.md) network. Specifically, 1 Gwei equals 1,000,000,000 [Wei](../w/wei.md), and [Wei](../w/wei.md) is the smallest unit of ETH.
 
 1 ETH = 1,000,000,000 Gwei
 
@@ -52,4 +52,4 @@ Decentralized [Finance](../f/finance.md) (DeFi) applications, which operate on t
 ## Conclusion
 Gwei is an essential [denomination](../d/denomination.md) of Ether used primarily to set gas prices for transactions on the [Ethereum](../e/ethereum_.md) network. Understanding Gwei allows users to manage their [transaction fees](../t/transaction_fees.md) more effectively and helps developers optimize [smart contracts](../s/smart_contracts_in_trading.md). As [Ethereum](../e/ethereum_.md) continues to evolve, the importance of Gwei and gas in ensuring efficient and fair network operation remains indispensable.
 
-For further exploration of [Ethereum](../e/ethereum_.md) and its gas system, visit the official [Ethereum](../e/ethereum_.md) website: [Ethereum.org](https://ethereum.org/)
+For further exploration of [Ethereum](../e/ethereum_.md) and its gas system, visit the official [Ethereum](../e/ethereum_.md) online platform: online resource

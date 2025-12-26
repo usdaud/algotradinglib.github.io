@@ -62,16 +62,11 @@ Simulations allow analysts to model different scenarios and assess the impact of
 
 Several financial institutions and fintech companies specialize in analyzing and modeling [yield](../y/yield.md) curves, including:
 
-### 1. Bloomberg [www.bloomberg.com](https://www.bloomberg.com)
-
-### 2. Moody's Analytics [www.moodysanalytics.com](https://www.moodysanalytics.com)
-
-### 3. Fathom Consulting [www.fathom-consulting.com](https://www.fathom-consulting.com)
-
-### 4. Refinitiv [www.refinitiv.com](https://www.refinitiv.com)
-
-### 5. Quantitative Risk Management (QRM) [www.qrm.com](https://www.qrm.com)
-
+### 1. Bloomberg
+### 2. Moody's Analytics
+### 3. Fathom Consulting
+### 4. Refinitiv
+### 5. Quantitative Risk Management (QRM)
 ## Practical Applications
 
 ### 1. Bond Portfolio Management
@@ -103,4 +98,3 @@ The Covid-19 pandemic caused significant disruptions in [financial markets](../f
 ## Conclusion
 
 Kinked [yield](../y/yield.md) curves reflect complex interactions between [market](../m/market.md) expectations, [monetary policy](../m/monetary_policy.md), and economic events. Understanding and analyzing these curves is crucial for making informed investment decisions, managing financial risks, and predicting economic trends. As [market](../m/market.md) conditions continue to evolve, the ability to interpret kinked [yield](../y/yield.md) curves [will](../w/will.md) remain a valuable skill for [finance](../f/finance.md) professionals.
-

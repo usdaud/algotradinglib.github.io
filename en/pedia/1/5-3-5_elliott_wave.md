@@ -17,21 +17,21 @@ The 5-3-5 pattern is a specific configuration within the Elliott Wave Principle.
 #### Impulse Waves (A and C)
 
 Impulse waves are powerful [trend](../t/trend.md)-following waves that go in the direction of the larger [trend](../t/trend.md). In the 5-3-5 pattern:
-  - **Wave A** and **Wave C** each consists of five sub-waves.
-  - These sub-waves are labeled as 1, 2, 3, 4, and 5.
+ - **Wave A** and **Wave C** each consists of five sub-waves.
+ - These sub-waves are labeled as 1, 2, 3, 4, and 5.
 
 #### Corrective Waves (B)
 
 The corrective wave B goes against the direction of waves A and C. It aims to correct the preceding wave and typically:
-  - Consists of three sub-waves labeled as A, B, and C.
-  - This wave tends to be a counter-[trend](../t/trend.md) movement within the larger [correction](../c/correction.md).
+ - Consists of three sub-waves labeled as A, B, and C.
+ - This wave tends to be a counter-[trend](../t/trend.md) movement within the larger [correction](../c/correction.md).
 
 ### The Zigzag Correction
 
 Among the many corrective patterns in the [Elliott Wave Theory](../e/elliott_wave_theory.md), the zigzag is the most common and straightforward 5-3-5 pattern. Here is a breakdown:
-  - **Wave A**: An impulse wave consisting of five smaller waves.
-  - **Wave B**: A corrective wave consisting of three smaller waves.
-  - **Wave C**: Another impulse wave consisting of five smaller waves.
+ - **Wave A**: An impulse wave consisting of five smaller waves.
+ - **Wave B**: A corrective wave consisting of three smaller waves.
+ - **Wave C**: Another impulse wave consisting of five smaller waves.
 
 This pattern typically signifies that the [market](../m/market.md) is correcting against the prior [trend](../t/trend.md) and can be identified in different degrees of [trend](../t/trend.md), from monthly down to intraday charts.
 
@@ -40,9 +40,9 @@ This pattern typically signifies that the [market](../m/market.md) is correcting
 For accurate application of the Elliott Wave Principle and identification of the 5-3-5 structure, some rules and guidelines need to be observed:
 
 1. **Wave A and Wave C should be in the same direction and should both follow the larger [trend](../t/trend.md)**.
-   - The properties of these waves must resemble those of motive waves.
+ - The properties of these waves must resemble those of motive waves.
 2. **Wave B should counter the [trend](../t/trend.md) of Wave A and Wave C**.
-   - Wave B can unfold into various forms such as a flat, [triangle](../t/triangle.md), or another less common corrective structure.
+ - Wave B can unfold into various forms such as a flat, [triangle](../t/triangle.md), or another less common corrective structure.
 
 ### Criticism and Practical Considerations
 
@@ -53,6 +53,6 @@ Although widely used, the Elliott Wave Principle, including the 5-3-5 pattern, h
 The 5-3-5 Elliott Wave pattern is a fundamental concept within the [Elliott Wave Theory](../e/elliott_wave_theory.md), embodying the principle of [market cycles](../m/market_cycles.md) and fractal nature. By mastering the identification and characteristics of this pattern, traders can [gain](../g/gain.md) invaluable insights into [market](../m/market.md) corrections and potential reversals, giving them an edge in [forecasting](../f/forecasting.md) future [market](../m/market.md) movements.
 
 For more detailed learning, traders and analysts may refer to educational institutions or companies specializing in [technical analysis](../t/technical_analysis.md) and [Elliott Wave Theory](../e/elliott_wave_theory.md), such as:
-- [Elliott Wave International](https://www.elliottwave.com)
+- Elliott Wave International
 
 Mastery of the 5-3-5 Elliott Wave pattern, along with other Elliott Wave structures, can potentially improve [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) analysis, aligning with the dynamic behavior of [financial markets](../f/financial_market.md).

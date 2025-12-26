@@ -91,15 +91,15 @@ The structure of remuneration packages can influence the level of [risk](../r/ri
 
 ### Goldman Sachs
 
-Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com/) is renowned for its [lucrative](../l/lucrative.md) compensation packages. Employees receive a mix of high base salaries, performance-based bonuses, and significant [equity](../e/equity.md) incentives. For instance, in high-performing years, top executives can earn bonuses that far exceed their base salaries.
+Goldman Sachs Goldman Sachs is renowned for its [lucrative](../l/lucrative.md) compensation packages. Employees receive a mix of high base salaries, performance-based bonuses, and significant [equity](../e/equity.md) incentives. For instance, in high-performing years, top executives can earn bonuses that far exceed their base salaries.
 
 ### JP Morgan Chase
 
-JP Morgan Chase [JP Morgan Chase](https://www.jpmorganchase.com/) offers comprehensive remuneration packages that include competitive base salaries, annual bonuses, and a [range](../r/range.md) of benefits. The [firm](../f/firm.md) also provides long-term incentives such as RSUs to encourage employee retention and alignment with [shareholder](../s/shareholder.md) interests.
+JP Morgan Chase JP Morgan Chase offers comprehensive remuneration packages that include competitive base salaries, annual bonuses, and a [range](../r/range.md) of benefits. The [firm](../f/firm.md) also provides long-term incentives such as RSUs to encourage employee retention and alignment with [shareholder](../s/shareholder.md) interests.
 
 ### Citadel LLC
 
-[Hedge fund](../h/hedge_fund.md) giant Citadel [Citadel](https://www.citadel.com/) attracts top talent by [offering](../o/offering.md) substantial performance-based bonuses and competitive salaries. The [firm](../f/firm.md)’s compensation strategy is designed to reward high performers and is a key component of its employee retention strategy.
+[Hedge fund](../h/hedge_fund.md) giant Citadel Citadel attracts top talent by [offering](../o/offering.md) substantial performance-based bonuses and competitive salaries. The [firm](../f/firm.md)’s compensation strategy is designed to reward high performers and is a key component of its employee retention strategy.
 
 ## Future Outlook
 

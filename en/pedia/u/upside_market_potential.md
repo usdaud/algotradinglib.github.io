@@ -55,21 +55,21 @@ Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md), 
 
 Numerai is a [hedge fund](../h/hedge_fund.md) that uses machine [learning algorithms](../l/learning_algorithms_in_trading.md) to manage its investment portfolio. It operates on the principle of crowdsourced intelligence, allowing data scientists worldwide to contribute models which are then blended together to make trading decisions.
 
-- [Numerai](https://numer.ai/)
+- Numerai
 
 ### Two Sigma
 
 Two Sigma focuses on applying data analysis and advanced AI techniques to the [financial markets](../f/financial_market.md). It employs a team of engineers, mathematicians, and data scientists to craft algorithms that identify and exploit [market](../m/market.md) opportunities.
 
-- [Two Sigma](https://www.twosigma.com/)
+- Two Sigma
 
 ### HFT Firms
 
 High-frequency trading firms like Jane Street, Virtu Financial, and Citadel Securities integrate advanced algorithms and [real-time data analysis](../r/real-time_data_analysis.md) to execute high volumes of trades, often targeting brief windows of [upside](../u/upside.md) [market](../m/market.md) potential.
 
-- [Jane Street](https://www.janestreet.com/)
-- [Virtu Financial](https://www.virtu.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Jane Street
+- Virtu Financial
+- Citadel Securities
 
 ### Trading Platforms and Tools
 
@@ -79,19 +79,19 @@ Various platforms provide [algorithmic trading](../a/algorithmic_trading.md) too
 
 MetaTrader 5 is a multi-[asset](../a/asset.md) platform [offering](../o/offering.md) advanced tools for [algorithmic trading](../a/algorithmic_trading.md), including [backtesting](../b/backtesting.md) capabilities, charting, and a programming language (MQL5) for developing custom trading robots.
 
-- [MetaTrader 5](https://www.metatrader5.com/)
+- MetaTrader 5
 
 #### QuantConnect
 
 [QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes. It allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md).
 
-- [QuantConnect](https://www.quantconnect.com/)
+- QuantConnect
 
 #### Trading Technologies (TT)
 
 Trading Technologies provides a [range](../r/range.md) of tools and infrastructures for developing and deploying [trading algorithms](../t/trading_algorithms.md), including a [robust](../r/robust.md) API, advanced charting, and real-time [data analytics](../d/data_analytics.md).
 
-- [Trading Technologies](https://www.tradingtechnologies.com/)
+- Trading Technologies
 
 ### Challenges in Capturing Upside Market Potential
 

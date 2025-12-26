@@ -57,7 +57,7 @@ Low borrowing costs can encourage excessive [leverage](../l/leverage.md) among c
 ### Ineffectiveness Over Time
 Should ZIRP persist, its stimulative effect may diminish as businesses and consumers adjust to the low borrowing costs, potentially leading to diminishing returns.
 
-## Case Studies 
+## Case Studies
 
 ### Japan’s Lost Decade
 Japan aggressively pursued ZIRP in the 1990s after a [real estate](../r/real_estate.md) and [stock market](../s/stock_market.md) collapse. Despite these efforts, Japan struggled with [deflation](../d/deflation.md) and economic [stagnation](../s/stagnation.md), illustrating the limitations of ZIRP in certain contexts.
@@ -84,7 +84,7 @@ The effectiveness and application of ZIRP [will](../w/will.md) continue to evolv
 Zero [Interest Rate](../i/interest_rate.md) Policy is a powerful tool in the arsenal of central banks, aimed at stimulating economic activity during periods of significant downturns. While effective in certain scenarios, it comes with its own set of challenges and risks that must be carefully managed. Understanding ZIRP's mechanisms and impacts helps better appreciate its role in modern economic policy and financial [market](../m/market.md) functioning.
 
 For further information on companies and institutions implementing and studying the effects of ZIRP, you can explore the following resources:
-- [Federal Reserve](https://www.federalreserve.gov/)
-- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-- [Bank of Japan](https://www.boj.or.jp/en/)
-- [Bank of England](https://www.bankofengland.co.uk/)
+- Federal Reserve
+- European Central Bank
+- Bank of Japan
+- Bank of England

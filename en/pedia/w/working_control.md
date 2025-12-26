@@ -35,14 +35,14 @@ Active engagement involves directly communicating with management and other shar
 Carl Icahn, a well-known [investor](../i/investor.md) activist, exemplifies the concept of working control. Despite not owning a majority of Apple Inc.'s [shares](../s/shares.md), he used his significant stake and public platform to pressure the company into implementing [shareholder](../s/shareholder.md)-friendly policies, such as [share buybacks](../s/share_buybacks.md) and increased dividends. His influence on Apple demonstrated how a single [investor](../i/investor.md) could steer corporate decisions through strategic ownership and activism.
 
 ### Reference:
-- [Carl Icahn's Bio and Influence](https://www.carlicahn.com)
+- Carl Icahn's Bio and Influence
 
 ### Case Study: Nelson Peltz and Procter & Gamble
 
 [Nelson Peltz](../n/nelson_peltz.md)'s Trian [Fund](../f/fund.md) Management acquired a significant, though minority, stake in Procter & Gamble. Through a high-profile [proxy](../p/proxy.md) battle, Peltz won a seat on the board of directors, illustrating how strategic share ownership and activism can translate into substantial influence over a major [corporation](../c/corporation.md)'s strategies and policies.
 
 ### Reference:
-- [Trian Partners Overview](https://trianpartners.com)
+- Trian Partners Overview
 
 ## Implications of Working Control
 

@@ -64,11 +64,11 @@ With the advancements in technology and the increasing complexity of [financial 
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), Jensen's Measure plays an instrumental role. Algorithms can be adjusted to consider Jensen’s [Alpha](../a/alpha.md) when designing [trading strategies](../t/trading_strategies.md). For instance, an algorithm designed for [asset](../a/asset.md) selection might prioritize investments that historically exhibit strong positive alphas. This ensures that automated trading decisions are not merely based on absolute performance but on [risk](../r/risk.md)-adjusted metrics that signify genuine [market](../m/market.md)-beating potential.
+In [algorithmic trading](../a/algorithmic_trading.md), Jensen's Measure plays an instrumental role. Algorithms can be adjusted to consider Jensen’s [Alpha](../a/alpha.md) when designing [trading strategies](../t/trading_strategies.md). For instance, an algorithm designed for [asset](../a/asset.md) selection might prioritize investments that historically exhibit strong positive alphas. This ensures that automated trading decisions are not merely based on absolute performance but on [risk](../r/risk.md)-adjusted metrics that signify genuine [market](../m/market.md)-beating potential.
 
 ### Case Study: AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management, a noted quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md), exemplifies the application of advanced [risk-adjusted return](../r/risk-adjusted_return.md) measures. AQR leverages sophisticated [quantitative models](../q/quantitative_models.md) to manage portfolios across various [asset](../a/asset.md) classes. More on their methodologies and investment strategies can be seen on their official site [AQR](https://www.aqr.com).
+AQR [Capital](../c/capital.md) Management, a noted quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md), exemplifies the application of advanced [risk-adjusted return](../r/risk-adjusted_return.md) measures. AQR leverages sophisticated [quantitative models](../q/quantitative_models.md) to manage portfolios across various [asset](../a/asset.md) classes. More on their methodologies and investment strategies can be seen on their public materials AQR.
 
 ## Limitations
 
@@ -82,4 +82,4 @@ Despite its [utility](../u/utility.md), Jensen's Measure has some limitations:
 
 ## Conclusion
 
-Jensen's Measure remains a cornerstone of [risk](../r/risk.md)-adjusted performance evaluation in [finance](../f/finance.md). By delivering insights that transcend mere absolute returns, it aids investors and portfolio managers in making well-rounded, informed decisions. Despite its limitations, when used alongside other [performance metrics](../p/performance_metrics.md) and modern financial theories, Jensen’s Measure provides a [robust](../r/robust.md) framework for evaluating [portfolio management](../p/par.md) efficacy, particularly in the dynamically evolving arena of [algorithmic trading](../a/accountability.md).
+Jensen's Measure remains a cornerstone of [risk](../r/risk.md)-adjusted performance evaluation in [finance](../f/finance.md). By delivering insights that transcend mere absolute returns, it aids investors and portfolio managers in making well-rounded, informed decisions. Despite its limitations, when used alongside other [performance metrics](../p/performance_metrics.md) and modern financial theories, Jensen’s Measure provides a [robust](../r/robust.md) framework for evaluating [portfolio management](../p/par.md) efficacy, particularly in the dynamically evolving arena of [algorithmic trading](../a/algorithmic_trading.md).

@@ -6,7 +6,7 @@ A gift card, also known as a gift certificate, gift [voucher](../v/voucher.md), 
 
 ### Closed Loop Gift Cards
 
-Closed-loop gift cards are valid only at a specific retailer or group of retailers. These cards are most commonly issued by retail brands and can be used only in their stores or affiliated locations. An example of a closed-loop gift card is an Amazon gift card, which can be used exclusively on Amazon's website.
+Closed-loop gift cards are valid only at a specific retailer or group of retailers. These cards are most commonly issued by retail brands and can be used only in their stores or affiliated locations. An example of a closed-loop gift card is an Amazon gift card, which can be used exclusively on Amazon's online platform.
 
 ### Open Loop Gift Cards
 
@@ -56,19 +56,19 @@ Whether for birthdays, weddings, holidays, or corporate incentives, gift cards a
 
 ### Amazon
 
-Amazon offers both physical and digital gift cards that can be used to purchase a wide [range](../r/range.md) of products on its platform. For more information, visit [Amazon Gift Cards](https://www.amazon.com/gift-cards).
+Amazon offers both physical and digital gift cards that can be used to purchase a wide [range](../r/range.md) of products on its platform. For more information, visit Amazon Gift Cards.
 
 ### Starbucks
 
-Starbucks allows customers to purchase gift cards that can be redeemed for beverages, food, and merchandise at their stores. Additional details can be found at [Starbucks Card](https://www.starbucks.com/card).
+Starbucks allows customers to purchase gift cards that can be redeemed for beverages, food, and merchandise at their stores. Additional details can be found at Starbucks Card.
 
 ### Visa
 
-Visa gift cards are [open](../o/open.md)-loop cards that can be used anywhere Visa is accepted. More information is available at [Visa Gift Cards](https://usa.visa.com/support/consumer/gift-cards.html).
+Visa gift cards are [open](../o/open.md)-loop cards that can be used anywhere Visa is accepted. More information is available at Visa Gift Cards.
 
 ### Walmart
 
-Walmart issues gift cards that can be used at their stores, making them a convenient option for groceries, electronics, and more. Learn more at [Walmart Gift Cards](https://www.walmart.com/cp/gift-cards/96894).
+Walmart issues gift cards that can be used at their stores, making them a convenient option for groceries, electronics, and more. Learn more at Walmart Gift Cards.
 
 ## How They Work
 
@@ -78,7 +78,7 @@ Gift cards can be purchased online or in stores from a variety of retailers and 
 
 ### Activation
 
-Once purchased, some gift cards may require activation. This process typically involves calling a toll-free number or visiting a website to complete the activation using information provided with the card.
+Once purchased, some gift cards may require activation. This process typically involves calling a toll-free number or visiting a online platform to complete the activation using information provided with the card.
 
 ### Usage
 
@@ -86,7 +86,7 @@ To use the gift card, the cardholder presents it at checkout, either by swiping 
 
 ### Checking Balance
 
-Cardholders can [check](../c/check.md) the remaining balance on their gift cards using various methods, such as visiting the issuing retailer's website, calling [customer service](../c/customer_service.md), or inquiring at the point of [sale](../s/sale.md).
+Cardholders can [check](../c/check.md) the remaining balance on their gift cards using various methods, such as visiting the issuing retailer's online platform, calling [customer service](../c/customer_service.md), or inquiring at the point of [sale](../s/sale.md).
 
 ## Regulations and Consumer Protections
 

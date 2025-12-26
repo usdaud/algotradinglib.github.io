@@ -102,4 +102,3 @@ The governance structure of the WBG, influenced by the voting power of member co
 ## Conclusion
 The [World Bank](../w/world_bank.md) Group remains a pivotal player in global development, dedicated to tackling [poverty](../p/poverty.md) and fostering sustainable [economic growth](../e/economic_growth.md). Its multifaceted approach, involving financial support, policy advice, and global collaboration, positions it as a cornerstone institution in the international development landscape.
 
-For more information, you can visit the [World Bank Group's website](https://www.worldbank.org/).

@@ -62,13 +62,13 @@ Technology plays a crucial role in the modern hedging of [interest rate risk](..
 
 Several financial institutions specialize in providing hedging solutions for [interest rate risk](../i/interest_rate_risk.md). These institutions [offer](../o/offer.md) various products and advisory services to help clients manage their [risk](../r/risk.md). Notable examples include:
 
-1. **J.P. Morgan**: J.P. Morgan provides a wide [range](../r/range.md) of [interest rate risk management](../i/interest_rate_risk_management.md) products and services, leveraging its expertise and [market](../m/market.md) position. [J.P. Morgan](https://www.jpmorgan.com/)
+1. **J.P. Morgan**: J.P. Morgan provides a wide [range](../r/range.md) of [interest rate risk management](../i/interest_rate_risk_management.md) products and services, leveraging its expertise and [market](../m/market.md) position. J.P. Morgan
 
-2. **Goldman Sachs**: Offers comprehensive [risk management](../r/risk_management.md) and hedging services as part of its broader financial services portfolio. [Goldman Sachs](https://www.goldmansachs.com/)
+2. **Goldman Sachs**: Offers comprehensive [risk management](../r/risk_management.md) and hedging services as part of its broader financial services portfolio. Goldman Sachs
 
-3. **CME Group**: The CME Group operates one of the largest [derivatives](../d/derivatives.md) exchanges, [offering](../o/offering.md) a variety of [interest rate futures](../i/interest_rate_futures.md) and [options](../o/options.md). [CME Group](https://www.cmegroup.com/)
+3. **CME Group**: The CME Group operates one of the largest [derivatives](../d/derivatives.md) exchanges, [offering](../o/offering.md) a variety of [interest rate futures](../i/interest_rate_futures.md) and [options](../o/options.md). CME Group
 
-4. **Barclays**: Provides tailored [interest rate](../i/interest_rate.md) hedging solutions within its [investment banking](../i/investment_banking.md) division. [Barclays](https://www.home.barclays/)
+4. **Barclays**: Provides tailored [interest rate](../i/interest_rate.md) hedging solutions within its [investment banking](../i/investment_banking.md) division. Barclays
 
 **Conclusion**
 

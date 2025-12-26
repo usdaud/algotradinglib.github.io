@@ -1,10 +1,10 @@
 # Taft-Hartley Act
 
-The Taft-Hartley Act, officially known as the Labor Management Relations Act of 1947, is a landmark federal law in the United States. It was designed to balance the power dynamics between labor and management, curbing the influence and practices of labor unions while asserting certain protections and rights for both employers and employees. Named after its sponsors, Senator Robert A. Taft and Representative Fred A. Hartley Jr., the act marks a significant shift in the landscape of labor relations and industrial operations in America. 
+The Taft-Hartley Act, officially known as the Labor Management Relations Act of 1947, is a landmark federal law in the United States. It was designed to balance the power dynamics between labor and management, curbing the influence and practices of labor unions while asserting certain protections and rights for both employers and employees. Named after its sponsors, Senator Robert A. Taft and Representative Fred A. Hartley Jr., the act marks a significant shift in the landscape of labor relations and industrial operations in America.
 
 ## Historical Context
 
-In the post-World War II period, the United States experienced substantial labor unrest. Strikes, lockouts, and various forms of industrial action threatened economic stability. The Wagner Act of 1935 had significantly empowered unions, granting them substantial [leverage](../l/leverage.md) over employers. While the Wagner Act had succeeded in addressing abuses by employers, it had also led to perceived excesses by unions, including secondary boycotts, jurisdictional strikes, and closed shops. 
+In the post-World War II period, the United States experienced substantial labor unrest. Strikes, lockouts, and various forms of industrial action threatened economic stability. The Wagner Act of 1935 had significantly empowered unions, granting them substantial [leverage](../l/leverage.md) over employers. While the Wagner Act had succeeded in addressing abuses by employers, it had also led to perceived excesses by unions, including secondary boycotts, jurisdictional strikes, and closed shops.
 
 ## Key Provisions
 
@@ -64,6 +64,6 @@ The Taft-Hartley Act remains a cornerstone of U.S. labor law. Debates over its e
 
 ## Further Reading
 
-For more details, visit the official legislative site for historical documents and updates: [U.S. House of Representatives Office of the Law Revision Counsel](https://uscode.house.gov/).
+S. House of Representatives Office of the Law Revision Counsel.
 
 Understanding the Taft-Hartley Act is vital for students of labor relations, historians, policymakers, and anyone interested in the development of labor laws and their impacts on society and [economy](../e/economy.md). Its implications reach far beyond the immediate context of labor disputes, shaping the broader framework within which American [industry](../i/industry.md) and labor operate.

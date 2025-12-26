@@ -12,7 +12,7 @@ Accurate [derivative](../d/derivative.md) pricing is crucial for several reasons
 
 ### Black-Scholes Model
 
-One of the first and most influential frameworks for pricing [derivatives](../d/derivatives.md), particularly [options](../o/options.md), is the [Black-Scholes model](../b/black-scholes_model.md), developed by Fischer Black, Myron Scholes, and Robert Merton. The model is a mathematical description of how the [valuation](../v/valuation.md) of an option evolves over time. 
+One of the first and most influential frameworks for pricing [derivatives](../d/derivatives.md), particularly [options](../o/options.md), is the [Black-Scholes model](../b/black-scholes_model.md), developed by Fischer Black, Myron Scholes, and Robert Merton. The model is a mathematical description of how the [valuation](../v/valuation.md) of an option evolves over time.
 
 #### Key Assumptions:
 
@@ -100,6 +100,6 @@ The Variance-[Gamma](../g/gamma.md) model is another approach that captures the 
 
 **References:**
 
-- [Hull-White Model Explanation](https://finpricing.com/Lib/EqHullWhite.html)
-- [Monte Carlo Simulation Techniques](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/monte-carlo-simulation/)
-- [Heath-Jarrow-Morton Framework](https://www.mathworks.com/help/fininst/heath-jarrow-morton-from-market-data.html)
+- Hull-White Model Explanation
+- Monte Carlo Simulation Techniques
+- Heath-Jarrow-Morton Framework

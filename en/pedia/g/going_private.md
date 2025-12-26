@@ -11,7 +11,7 @@ Public companies are often subjected to the pressures of [quarterly earnings rep
 Publicly traded companies are compelled to adhere to stringent regulatory standards set by bodies like the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States and similar institutions worldwide. These regulations require substantial financial and operational [transparency](../t/transparency.md), often leading to increased administrative costs. Going private reduces this burden, allowing the company to focus more on [operational efficiency](../o/operational_efficiency_in_trading.md) and strategic decisions.
 
 ### Cost Savings
-The costs associated with being a publicly traded company can be substantial. They include but are not limited to, fees for regulatory compliance, audit expenses, reporting [obligations](../o/obligation.md), and [investor relations](../i/investor_relations.md) activities. By going private, companies can eliminate these costs and redirect resources towards enhancing [business](../b/business.md) operations and [market](../m/market.md) strategies.
+The costs associated with being a publicly traded company can be substantial. They include but are not limited to, fees for regulatory compliance, audit expenses, reporting [obligations](../o/obligation.md), and [company filings](../i/investor_relations.md) activities. By going private, companies can eliminate these costs and redirect resources towards enhancing [business](../b/business.md) operations and [market](../m/market.md) strategies.
 
 ### Value Realization
 Public markets can sometimes undervalue a company, influenced by [market](../m/market.md) sentiments that may not necessarily reflect the [firm](../f/firm.md)’s intrinsic worth. Private ownership can enable stakeholders to realize the company's true [value](../v/value.md) through operational overhauls, strategic realignments, or by exiting through a subsequent [sale](../s/sale.md) or initial public [offering](../o/offering.md) (IPO) at a later and potentially more favorable time.
@@ -47,13 +47,13 @@ Management often benefits from less restrictive environments in a privately-owne
 ## Examples of Companies Going Private
 
 ### Dell Inc.
-Dell Inc. provides a prominent case study of a going-private [transaction](../t/transaction.md). In 2013, Michael Dell, the founder, in partnership with [private equity](../p/private_equity.md) [firm](../f/firm.md) Silver Lake Partners, bought out public shareholders in a deal valued at approximately $24.4 billion. This move was aimed at transforming the company away from public [market](../m/market.md) pressures, allowing for strategic transitions and long-term growth, largely focusing on enterprise solutions and services. To learn more, visit [Dell's official site](https://www.dell.com).
+Dell Inc. provides a prominent case study of a going-private [transaction](../t/transaction.md). In 2013, Michael Dell, the founder, in partnership with [private equity](../p/private_equity.md) [firm](../f/firm.md) Silver Lake Partners, bought out public shareholders in a deal valued at approximately $24.4 billion. This move was aimed at transforming the company away from public [market](../m/market.md) pressures, allowing for strategic transitions and long-term growth, largely focusing on enterprise solutions and services. To learn more,
 
 ### Hilton Hotels
-Hilton Hotels [Corporation](../c/corporation.md) went private in 2007 after being bought by the [private equity](../p/private_equity.md) [firm](../f/firm.md) The Blackstone Group for about $26 billion. This [acquisition](../a/acquisition.md) aimed at significant refurbishments and expansions without the constraints of being a publicly traded entity. For further information, refer to [Hilton's website](https://www.hilton.com).
+Hilton Hotels [Corporation](../c/corporation.md) went private in 2007 after being bought by the [private equity](../p/private_equity.md) [firm](../f/firm.md) The Blackstone Group for about $26 billion. This [acquisition](../a/acquisition.md) aimed at significant refurbishments and expansions without the constraints of being a publicly traded entity.
 
 ### Panera Bread
-In 2017, JAB [Holding Company](../h/holding_company.md) took Panera Bread private in a [transaction](../t/transaction.md) valued at roughly $7.5 billion. The decision allowed Panera to continue expanding its footprint and innovate its [customer service](../c/customer_service.md) models without the pressures of quarterly [earnings](../e/earnings.md) performance. Additional details are available at [Panera's website](https://www.panerabread.com).
+In 2017, JAB [Holding Company](../h/holding_company.md) took Panera Bread private in a [transaction](../t/transaction.md) valued at roughly $7.5 billion. The decision allowed Panera to continue expanding its footprint and innovate its [customer service](../c/customer_service.md) models without the pressures of quarterly [earnings](../e/earnings.md) performance.
 
 ## Challenges of Going Private
 

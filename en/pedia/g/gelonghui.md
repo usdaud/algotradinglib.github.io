@@ -50,6 +50,3 @@ Gelonghui employs [robust](../r/robust.md) [security](../s/security.md) measures
 - **Data Encryption**: Advanced encryption technologies to secure sensitive information.
 - **Secure Access**: Implementing secure login processes and user authentication to prevent unauthorized access.
 - **Privacy Protection**: Measures to protect user privacy and ensure compliance with data protection regulations.
-
-## Website
-For more information about Gelonghui and their services, visit the official website: [Gelonghui](https://www.gelonghui.com/)

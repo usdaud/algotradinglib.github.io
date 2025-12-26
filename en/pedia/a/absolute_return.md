@@ -29,9 +29,9 @@ Absolute [return](../r/return.md) funds are investment funds managed with the go
 3. **[Managed Futures](../m/managed_futures.md) Funds**: These invest in [futures contracts](../f/futures_contracts.md) and [options on futures](../o/options_on_futures.md), employing strategies like [trend following](../t/trend_following.md) and [systematic trading](../s/systematic_trading.md) to achieve absolute returns.
 
 ### Examples of Absolute Return Funds
-1. **Bridgewater Associates**: One of the largest [hedge](../h/hedge.md) funds in the world, managed by Ray Dalio. [Bridgewater Associates](https://www.bridgewater.com/)
-2. **Two Sigma**: A renowned [fund](../f/fund.md) that relies heavily on [quantitative analysis](../q/quantitative_analysis.md) and algorithms. [Two Sigma](https://www.twosigma.com/)
-3. **AQR [Capital](../c/capital.md) Management**: Known for its [quantitative investment strategies](../q/quantitative_investment_strategies.md) aimed at absolute [return](../r/return.md). [AQR Capital Management](https://www.aqr.com/)
+1. **Bridgewater Associates**: One of the largest [hedge](../h/hedge.md) funds in the world, managed by Ray Dalio. Bridgewater Associates
+2. **Two Sigma**: A renowned [fund](../f/fund.md) that relies heavily on [quantitative analysis](../q/quantitative_analysis.md) and algorithms. Two Sigma
+3. **AQR [Capital](../c/capital.md) Management**: Known for its [quantitative investment strategies](../q/quantitative_investment_strategies.md) aimed at absolute [return](../r/return.md). AQR Capital Management
 
 ## Strategies for Achieving Absolute Return
 
@@ -82,6 +82,6 @@ Unlike traditional funds, which are often benchmarked against indices like the S
 Absolute [return](../r/return.md) is a compelling strategy for investors seeking to achieve consistent gains regardless of [market](../m/market.md) conditions. By employing diverse and sophisticated techniques, absolute [return](../r/return.md) funds aim to provide positive returns and [capital preservation](../c/capital_preservation.md). However, they come with complexities and risks that require careful consideration and expert management. For those looking to diversify their portfolios and [hedge](../h/hedge.md) against [market](../m/market.md) [volatility](../v/volatility.md), [absolute return strategies](../a/absolute_return_strategies.md) can [offer](../o/offer.md) valuable benefits.
 
 For further information, investors can explore the following [fund](../f/fund.md) management companies that specialize in [absolute return strategies](../a/absolute_return_strategies.md):
-- [Bridgewater Associates](https://www.bridgewater.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [AQR Capital Management](https://www.aqr.com/)
+- Bridgewater Associates
+- Two Sigma
+- AQR Capital Management

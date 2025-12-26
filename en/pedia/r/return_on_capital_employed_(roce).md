@@ -56,7 +56,7 @@ Next, we calculate the ROCE:
 
 This indicates that Company A generates an 18.75% [return](../r/return.md) on the [capital](../c/capital.md) it employs.
 
-### Interpretation 
+### Interpretation
 
 An ROCE of 18.75% means that for every dollar invested in the company, 18.75 cents are generated in [profit](../p/profit.md) before [interest](../i/interest.md) and [taxes](../t/taxes.md). This is a relatively high ROCE, suggesting that Company A is effectively utilizing its [capital](../c/capital.md) to generate profits.
 
@@ -124,4 +124,4 @@ Increasing [asset turnover](../a/asset_turnover.md) by generating higher sales w
 
 [Return](../r/return.md) on [Capital Employed](../c/capital_employed.md) (ROCE) is a critical financial metric for assessing a company's profitability and [capital](../c/capital.md) [efficiency](../e/efficiency.md). By understanding and analyzing ROCE, investors and analysts can [gain](../g/gain.md) valuable insights into a company's [financial health](../f/financial_health.md), [operational efficiency](../o/operational_efficiency_in_trading.md), and potential for delivering sustained returns. While it has certain limitations, ROCE remains a cornerstone metric for making informed investment decisions and evaluating long-term [financial performance](../f/financial_performance.md).
 
-For more information on various financial metrics and investment strategies, consider exploring resources from investment firms such as [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/).
+For more information on various financial metrics and investment strategies, consider exploring resources from investment firms such as Goldman Sachs and Morgan Stanley.

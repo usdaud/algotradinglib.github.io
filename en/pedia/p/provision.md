@@ -55,7 +55,7 @@ These standards are crucial in guiding how and when to recognize provisions and 
 
 ## Provisioning Strategies in Fintech and Algo-trading
 
-In the age of fintech and [algorithmic trading](../a/accountability.md), provisioning has taken on a new dimension. Companies and trading platforms must consider provisioning for:
+In the age of fintech and [algorithmic trading](../a/algorithmic_trading.md), provisioning has taken on a new dimension. Companies and trading platforms must consider provisioning for:
 
 1. **[Credit Risk](../c/credit_risk.md):** With [peer-to-peer lending](../p/peer-to-peer_lending.md) and digital [credit](../c/credit.md) platforms, provisions for [credit risk](../c/credit_risk.md), particularly for non-performing loans (NPLs), are crucial.
 2. **[Operational Risk](../o/operational_risk.md):** [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) need provisions for operational risks including system downtimes, regulatory fines, and cyber threats.
@@ -63,7 +63,7 @@ In the age of fintech and [algorithmic trading](../a/accountability.md), provisi
 
 ### Example of a Provision Approach in a Fintech Company
 
-A fintech company like LendingClub [LendingClub](https://www.lendingclub.com) might make provisions for [loan](../l/loan.md) defaults. This is crucial for maintaining [trust](../t/trust.md) and [solvency](../s/solvency.md). Provisions for [credit](../c/credit.md) losses are determined using historical data, current conditions, and forecasts.
+A fintech company like LendingClub LendingClub might make provisions for [loan](../l/loan.md) defaults. This is crucial for maintaining [trust](../t/trust.md) and [solvency](../s/solvency.md). Provisions for [credit](../c/credit.md) losses are determined using historical data, current conditions, and forecasts.
 
 ## Challenges in Provisioning
 

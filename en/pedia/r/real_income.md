@@ -79,8 +79,5 @@ Real [income](../i/income.md) is a vital concept that goes beyond simple monetar
 
 For further insights and resources on real [income](../i/income.md), you may visit the following sources:
 
-- **U.S. Bureau of Labor [Statistics](../s/statistics.md)**: [https://www.bls.gov/](https://www.bls.gov/)
-- **[World Bank](../w/world_bank.md)**: [https://www.worldbank.org/](https://www.worldbank.org/)
-- **OECD**: [https://www.oecd.org/](https://www.oecd.org/)
-
+- **U.S. Bureau of Labor [Statistics](../s/statistics.md)**- **[World Bank](../w/world_bank.md)**- **OECD**
 These platforms [offer](../o/offer.md) detailed datasets, tools, and articles to help deepen your understanding of real [income](../i/income.md) and its implications in various economic contexts.

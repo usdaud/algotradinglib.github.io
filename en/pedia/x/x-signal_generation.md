@@ -57,8 +57,8 @@ Algorithms must comply with financial regulations like the [European Union](../e
 ### High-Profile Companies and Tools
 Several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and X-Signal generation.
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides a wide [range](../r/range.md) of tools for technical and [fundamental analysis](../f/fundamental_analysis.md).
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and supports a variety of financial instruments.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Bloomberg Terminal provides a wide [range](../r/range.md) of tools for technical and [fundamental analysis](../f/fundamental_analysis.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and supports a variety of financial instruments.
 
 ### Case Study: Renaissance Technologies
 Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company, is renowned for its use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms for trading. The [firm](../f/firm.md)'s flagship Medallion [Fund](../f/fund.md) is known for its high returns and use of statistical [arbitrage](../a/arbitrage.md).

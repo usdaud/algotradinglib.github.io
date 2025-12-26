@@ -70,13 +70,13 @@ World Funds play a critical role in global [finance](../f/finance.md) by pooling
 
 Several financial institutions dominate the landscape of World Funds. These include global [asset management](../a/asset_management.md) firms and specialized investment companies. Examples include:
 
-- **Vanguard Group**: Known for its variety of low-cost mutual funds and ETFs, Vanguard offers a [range](../r/range.md) of global investment products. [Vanguard](https://www.vanguard.com)
+- **Vanguard Group**: Known for its variety of low-cost mutual funds and ETFs, Vanguard offers a [range](../r/range.md) of global investment products. Vanguard
 
-- **BlackRock**: One of the largest [asset](../a/asset.md) managers in the world, BlackRock provides several international funds through its [iShares](../i/ishares.md) ETF platform. [BlackRock](https://www.blackrock.com)
+- **BlackRock**: One of the largest [asset](../a/asset.md) managers in the world, BlackRock provides several international funds through its [iShares](../i/ishares.md) ETF platform. BlackRock
 
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a variety of actively managed and indexed global funds to retail and institutional investors. [Fidelity](https://www.fidelity.com)
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a variety of actively managed and indexed global funds to retail and institutional investors. Fidelity
 
-- **PIMCO**: Known for its expertise in fixed-[income](../i/income.md) [investing](../i/investing.md), PIMCO offers [global bond](../g/global_bond.md) funds among other products. [PIMCO](https://www.pimco.com)
+- **PIMCO**: Known for its expertise in fixed-[income](../i/income.md) [investing](../i/investing.md), PIMCO offers [global bond](../g/global_bond.md) funds among other products. PIMCO
 
 ### Conclusion
 

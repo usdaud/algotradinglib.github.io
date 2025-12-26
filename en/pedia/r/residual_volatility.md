@@ -47,9 +47,9 @@ The variance of the residuals \( \sigma(\epsilon) \) represents the residual [vo
 
 [Quantitative analysis](../q/quantitative_analysis.md), including the calculation of residual [volatility](../v/volatility.md), is facilitated by sophisticated tools and platforms. Notable platforms include:
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to [robust](../r/robust.md) data and computational resources. [Visit QuantConnect](https://www.quantconnect.com/)
-2. **AlphaVantage**: Offers comprehensive financial data APIs that support the [quantitative analysis](../q/quantitative_analysis.md) required to calculate residual [volatility](../v/volatility.md). [Visit AlphaVantage](https://www.alphavantage.co/)
-3. **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that supports advanced pricing and [risk management](../r/risk_management.md) methodologies, including residual [volatility](../v/volatility.md) calculations. [Visit Quantlib](https://www.quantlib.org/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to [robust](../r/robust.md) data and computational resources. Visit QuantConnect
+2. **AlphaVantage**: Offers comprehensive financial data APIs that support the [quantitative analysis](../q/quantitative_analysis.md) required to calculate residual [volatility](../v/volatility.md). Visit AlphaVantage
+3. **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that supports advanced pricing and [risk management](../r/risk_management.md) methodologies, including residual [volatility](../v/volatility.md) calculations. Visit Quantlib
 
 ### Academic and Industry References
 

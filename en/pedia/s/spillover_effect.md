@@ -94,16 +94,12 @@ The COVID-19 pandemic offers a modern context in which to analyze spillovers. Th
 Understanding and tracking spillover effects are crucial for modern financial [market](../m/market.md) participants. Several platforms [offer](../o/offer.md) tools to help monitor these effects:
 
 1. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive analytics on [financial markets](../f/financial_market.md), including tools for analyzing [market](../m/market.md) correlations and spillover effects.
-    [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 2. **Thomson [Reuters](../r/reuters.md) Eikon**: Another prominent platform [offering](../o/offering.md) [financial analysis](../f/financial_analysis.md) tools that include spillover and [risk](../r/risk.md) assessment functionalities.
-    [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 3. **MSCI Barra**: Offers a [range](../r/range.md) of [risk](../r/risk.md) and [performance analytics](../p/performance_analytics.md) tools that help in understanding global [market](../m/market.md) linkages and spillovers.
-    [MSCI Barra](https://www.msci.com/portfolio-management)
 
 4. **RiskMetrics**: Provides [risk management](../r/risk_management.md) tools, including those that capture the impact of cross-[market](../m/market.md) and cross-geographic [risk factors](../r/risk_factors_in_trading.md).
-    [RiskMetrics](https://www.msci.com/riskmetrics)
 
 ## Conclusion
 

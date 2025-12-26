@@ -24,11 +24,11 @@ The Eastern Caribbean Dollar was introduced in 1965, replacing the British West 
 
 The Eastern Caribbean Central [Bank](../b/bank.md) (ECCB) is the central institution responsible for the issuance and regulation of the XCD. Established on October 1, 1983, the ECCB oversees [monetary policy](../m/monetary_policy.md), provides financial services to member states, and ensures financial stability within the ECCU.
 
-Further information about the ECCB can be found on [their website](https://www.eccb-centralbank.org/).
+
 
 ## Coins and Banknotes
 
-The ECCB issues both coins and banknotes in the Eastern Caribbean Dollar. 
+The ECCB issues both coins and banknotes in the Eastern Caribbean Dollar.
 
 ### Coins
 
@@ -82,7 +82,7 @@ While tourism remains a vital sector for the ECCU member states, over-reliance o
 
 The adoption of digital technologies and financial innovation presents significant opportunities for the ECCU. The ECCB has been proactive in this domain, introducing initiatives such as DCash, a digital version of the Eastern Caribbean Dollar aimed at enhancing [financial inclusion](../f/financial_inclusion.md) and modernizing the [payment](../p/payment.md) system.
 
-Further details about DCash can be found on [the ECCB's DCash page](https://www.dcashec.com/).
+Further details about DCash can be found on the ECCB's DCash page.
 
 ### Regional Integration
 
@@ -92,4 +92,4 @@ Deepening regional integration within the OECS and the wider CARICOM (Caribbean 
 
 The Eastern Caribbean Dollar (XCD) serves as a testament to the successful monetary cooperation among the Eastern Caribbean States. By providing a stable and reliable [currency](../c/currency.md), the XCD has played a pivotal role in promoting [economic integration](../e/economic_integration.md), [trade](../t/trade.md), and investment in the region. Despite facing challenges, the future remains promising, with opportunities for [diversification](../d/diversification.md), technological advancement, and deeper regional integration. The ECCB's continued efforts in maintaining monetary stability and promoting [economic growth](../e/economic_growth.md) [will](../w/will.md) be crucial in navigating these future paths.
 
-For more information about the Eastern Caribbean Central [Bank](../b/bank.md) and the Eastern Caribbean Dollar, visit [the ECCB's official website](https://www.eccb-centralbank.org/).
+For more information about the Eastern Caribbean Central [Bank](../b/bank.md) and the Eastern Caribbean Dollar,

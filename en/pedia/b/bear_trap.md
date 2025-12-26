@@ -4,7 +4,7 @@ A "bear trap" in trading is a situation where the price of a [security](../s/sec
 
 ## Understanding Bear Traps
 
-Bear traps are deceptive patterns in the [market](../m/market.md) designed to trick bearish investors into selling their positions. These patterns can occur in various forms, such as during downtrends, at resistance levels, and near key [technical indicators](../t/technical_indicator.md). The false signal of a further downward [trend](../t/trend.md) can lead to panic selling, which ultimately can benefit those who initially set the trap or sophisticated traders who recognize these signals. 
+Bear traps are deceptive patterns in the [market](../m/market.md) designed to trick bearish investors into selling their positions. These patterns can occur in various forms, such as during downtrends, at resistance levels, and near key [technical indicators](../t/technical_indicator.md). The false signal of a further downward [trend](../t/trend.md) can lead to panic selling, which ultimately can benefit those who initially set the trap or sophisticated traders who recognize these signals.
 
 ## Characteristics of a Bear Trap
 
@@ -38,7 +38,7 @@ Financial crises often present frequent bear traps due to heightened [volatility
 
 ## Impact on Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems, which rely on pre-programmed instructions to execute trades, can both fall prey to and exploit bear traps. 
+[Algorithmic trading](../a/accountability.md) systems, which rely on pre-programmed instructions to execute trades, can both fall prey to and exploit bear traps.
 
 ### Falling Prey to Bear Traps
 Algorithms designed to follow trends might misinterpret a bear trap as a genuine sell signal and thus execute sell orders, causing losses when the price rebounds.
@@ -51,13 +51,13 @@ Conversely, sophisticated algorithms, especially those using advanced AI and [ma
 Several prominent firms and platforms are known for their strategies and technological advancements in [algorithmic trading](../a/accountability.md), including:
 
 ### Renaissance Technologies
-One of the most prominent and secretive [hedge](../h/hedge.md) funds, Renaissance Technologies, is famous for its Medallion [Fund](../f/fund.md) which reportedly uses highly advanced algorithms for trading. For further information, visit [Renaissance Technologies](https://www.rentec.com/).
+One of the most prominent and secretive [hedge](../h/hedge.md) funds, Renaissance Technologies, is famous for its Medallion [Fund](../f/fund.md) which reportedly uses highly advanced algorithms for trading. For further information, visit Renaissance Technologies.
 
 ### Citadel Securities
-Another big name in the high-frequency trading space is Citadel Securities. They are involved in various [market](../m/market.md)-making activities and deploy sophisticated algorithms to [trade](../t/trade.md) securities. More details can be found at [Citadel Securities](https://www.citadelsecurities.com/).
+Another big name in the high-frequency trading space is Citadel Securities. They are involved in various [market](../m/market.md)-making activities and deploy sophisticated algorithms to [trade](../t/trade.md) securities. More details can be found at Citadel Securities.
 
 ### Two Sigma
-An [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to derive [trading signals](../t/trading_signals.md). Their approach often incorporates [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other advanced computational techniques. More about them can be found at [Two Sigma](https://www.twosigma.com/).
+An [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to derive [trading signals](../t/trading_signals.md). Their approach often incorporates [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other advanced computational techniques. More about them can be found at Two Sigma.
 
 ## Conclusion
 

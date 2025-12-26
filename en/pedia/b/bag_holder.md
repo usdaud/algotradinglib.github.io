@@ -5,19 +5,19 @@ In the realm of [finance](../f/finance.md) and investments, particularly in the 
 ## Characteristics of a Bag Holder
 
 1. **Emotional Decision-Making**:
-    - Bag holders often demonstrate emotional attachment to their investments. This may lead them to [hold](../h/hold.md) onto an [asset](../a/asset.md) even as it continues to fall in [value](../v/value.md), guided by hope that it [will](../w/will.md) rebound rather than rational analysis.
+ - Bag holders often demonstrate emotional attachment to their investments. This may lead them to [hold](../h/hold.md) onto an [asset](../a/asset.md) even as it continues to fall in [value](../v/value.md), guided by hope that it [will](../w/will.md) rebound rather than rational analysis.
 
 2. **Lack of [Risk Management](../r/risk_management.md)**:
-    - Effective [risk management](../r/risk_management.md) strategies such as setting [stop-loss orders](../s/stop-loss_orders.md) or diversifying investments can mitigate the chances of becoming a bag holder. The absence of such strategies can lead one to inadvertently [hold](../h/hold.md) on to depreciating assets.
+ - Effective [risk management](../r/risk_management.md) strategies such as setting [stop-loss orders](../s/stop-loss_orders.md) or diversifying investments can mitigate the chances of becoming a bag holder. The absence of such strategies can lead one to inadvertently [hold](../h/hold.md) on to depreciating assets.
 
 3. **[Cognitive Biases](../c/cognitive_biases_in_trading.md)**:
-    - [Cognitive biases](../c/cognitive_biases_in_trading.md) like the [sunk cost](../s/sunk_cost.md) fallacy, which makes people reluctant to abandon an investment into which they've already poured resources, play a significant role in creating bag holders. 
+ - [Cognitive biases](../c/cognitive_biases_in_trading.md) like the [sunk cost](../s/sunk_cost.md) fallacy, which makes people reluctant to abandon an investment into which they've already poured resources, play a significant role in creating bag holders.
 
 4. **[Market Dynamics](../m/market_dynamics.md)**:
-    - The dynamics of the [market](../m/market.md), such as being caught in a [market](../m/market.md) bubble or a [pump-and-dump scheme](../p/pump-and-dump_scheme.md), can often lead to situations where individuals end up being bag holders.
+ - The dynamics of the [market](../m/market.md), such as being caught in a [market](../m/market.md) bubble or a [pump-and-dump scheme](../p/pump-and-dump_scheme.md), can often lead to situations where individuals end up being bag holders.
 
 5. **Lack of Information or Experience**:
-    - Novice investors or those lacking adequate information are more susceptible to becoming bag holders, sometimes driven by optimistic news, hype, or misleading information.
+ - Novice investors or those lacking adequate information are more susceptible to becoming bag holders, sometimes driven by optimistic news, hype, or misleading information.
 
 ## Common Scenarios Leading to Bag Holding
 
@@ -68,11 +68,11 @@ As markets continue to evolve with new technologies and financial instruments, t
 Several platforms and tools can assist investors in making more informed decisions and avoiding becoming bag holders:
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Offers extensive data and analytics to evaluate investments.
-  
+
 - **[Morningstar](../m/morningstar.md)**: Provides research and [rating](../r/rating.md) for [stocks](../s/stock.md), mutual funds, and ETFs.
-  
+
 - **CoinMarketCap**: Essential for cryptocurrency investors to track and research various crypto assets.
-  
+
 - **[TradingView](../t/tradingview.md)**: Offers charts and analysis tools for both stock and crypto markets.
 
 ## Conclusion

@@ -84,15 +84,15 @@ Cross-border M&A deals are becoming increasingly common, driven by [globalizatio
 
 ### Citadel LLC
 
-Citadel LLC, founded by Kenneth Griffin in 1990, is one of the world's leading [hedge](../h/hedge.md) funds specializing in various [arbitrage](../a/arbitrage.md) strategies, including M&A [arbitrage](../a/arbitrage.md). Citadel is renowned for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems, rigorous [risk management](../r/risk_management.md) practices, and a deep talent pool. For more information, visit: [Citadel LLC](https://www.citadel.com/).
+Citadel LLC, founded by Kenneth Griffin in 1990, is one of the world's leading [hedge](../h/hedge.md) funds specializing in various [arbitrage](../a/arbitrage.md) strategies, including M&A [arbitrage](../a/arbitrage.md). Citadel is renowned for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems, rigorous [risk management](../r/risk_management.md) practices, and a deep talent pool. For more information, visit: Citadel LLC.
 
 ### Millennium Management LLC
 
-Millennium Management is another prominent [hedge fund](../h/hedge_fund.md) known for its M&A [arbitrage](../a/arbitrage.md) expertise. Established in 1989 by Israel Englander, the [firm](../f/firm.md) leverages a platform-centric approach that incorporates diverse investment strategies, including [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), to optimize returns while managing [risk](../r/risk.md). For more information, visit: [Millennium Management LLC](https://www.mlp.com/).
+Millennium Management is another prominent [hedge fund](../h/hedge_fund.md) known for its M&A [arbitrage](../a/arbitrage.md) expertise. Established in 1989 by Israel Englander, the [firm](../f/firm.md) leverages a platform-centric approach that incorporates diverse investment strategies, including [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), to optimize returns while managing [risk](../r/risk.md). For more information, visit: Millennium Management LLC.
 
 ### DE Shaw & Co.
 
-Founded by David E. Shaw in 1988, DE Shaw & Co. employs a multidisciplinary approach to investment, integrating technology and quantitative methodologies. The [firm](../f/firm.md) has a strong focus on [risk](../r/risk.md)-adjusted returns and employs a variety of [arbitrage](../a/arbitrage.md) strategies, including M&A [arbitrage](../a/arbitrage.md). For more information, visit: [DE Shaw & Co.](https://www.deshaw.com/).
+Founded by David E. Shaw in 1988, DE Shaw & Co. employs a multidisciplinary approach to investment, integrating technology and quantitative methodologies. The [firm](../f/firm.md) has a strong focus on [risk](../r/risk.md)-adjusted returns and employs a variety of [arbitrage](../a/arbitrage.md) strategies, including M&A [arbitrage](../a/arbitrage.md). For more information, visit: DE Shaw & Co..
 
 ## Conclusion
 

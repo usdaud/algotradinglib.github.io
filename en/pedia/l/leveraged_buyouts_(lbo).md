@@ -11,9 +11,9 @@ In a typical LBO, a financial sponsor, such as a [private equity](../p/private_e
 1. **[Equity](../e/equity.md) Contribution**: The [equity](../e/equity.md) contribution is the portion of the purchase price funded by the financial sponsor and its co-investors. This typically ranges from 10% to 40% of the total purchase price.
 
 2. **[Debt Financing](../d/debt_financing.md)**: The [debt](../d/debt.md) portion of the [financing](../f/financing.md) comes from various sources, including:
-   - **Senior [Debt](../d/debt.md)**: This is the primary source of [debt financing](../d/debt_financing.md) in an LBO and typically has the highest priority in the [capital structure](../c/capital_structure.md). It is secured against the assets of the target company and may include term loans and [revolving credit](../r/revolving_credit.md) facilities.
-   - **[Junior Debt](../j/junior_debt.md) ([Mezzanine Financing](../m/mezzanine_financing.md))**: This represents a secondary layer of [debt financing](../d/debt_financing.md), subordinate to senior [debt](../d/debt.md) but senior to [equity](../e/equity.md). It often carries higher [interest](../i/interest.md) rates and may include [warrants](../w/warrants_in_trading.md) or [options](../o/options.md) to align the interests of lenders and [equity](../e/equity.md) holders.
-   - **[Subordinated Debt](../s/subordinated_debt.md)**: This is further down the [capital structure](../c/capital_structure.md) hierarchy. It carries even higher [interest](../i/interest.md) rates due to its increased [risk](../r/risk.md).
+ - **Senior [Debt](../d/debt.md)**: This is the primary source of [debt financing](../d/debt_financing.md) in an LBO and typically has the highest priority in the [capital structure](../c/capital_structure.md). It is secured against the assets of the target company and may include term loans and [revolving credit](../r/revolving_credit.md) facilities.
+ - **[Junior Debt](../j/junior_debt.md) ([Mezzanine Financing](../m/mezzanine_financing.md))**: This represents a secondary layer of [debt financing](../d/debt_financing.md), subordinate to senior [debt](../d/debt.md) but senior to [equity](../e/equity.md). It often carries higher [interest](../i/interest.md) rates and may include [warrants](../w/warrants_in_trading.md) or [options](../o/options.md) to align the interests of lenders and [equity](../e/equity.md) holders.
+ - **[Subordinated Debt](../s/subordinated_debt.md)**: This is further down the [capital structure](../c/capital_structure.md) hierarchy. It carries even higher [interest](../i/interest.md) rates due to its increased [risk](../r/risk.md).
 
 3. **[Cash Flow](../c/cash_flow.md) Management**: Effective [cash flow](../c/cash_flow.md) management is crucial for servicing the [debt](../d/debt.md) incurred in an LBO. This involves meticulous planning of operating cash flows, working [capital](../c/capital.md) requirements, [capital](../c/capital.md) expenditures, and other financial [obligations](../o/obligation.md).
 
@@ -56,16 +56,16 @@ While LBOs [offer](../o/offer.md) substantial potential rewards, they also entai
 ## Notable LBO Examples
 
 1. **The RJR Nabisco [Buyout](../b/buyout.md) (1989)**:
-   The [buyout](../b/buyout.md) of RJR Nabisco by Kohlberg Kravis Roberts & Co. (KKR) remains one of the most iconic LBOs in history. Valued at $31.4 billion, it was the largest LBO of its time. The [transaction](../t/transaction.md) exemplified the colossal scale and complexity of LBO deals and was immortalized in the book "Barbarians at the Gate".
+ The [buyout](../b/buyout.md) of RJR Nabisco by Kohlberg Kravis Roberts & Co. (KKR) remains one of the most iconic LBOs in history. Valued at $31.4 billion, it was the largest LBO of its time. The [transaction](../t/transaction.md) exemplified the colossal scale and complexity of LBO deals and was immortalized in the book "Barbarians at the Gate".
 
 2. **Heinz [Buyout](../b/buyout.md) (2013)**:
-   The [acquisition](../a/acquisition.md) of H.J. Heinz Company by [Berkshire Hathaway](../b/berkshire_hathaway.md) and 3G [Capital](../c/capital.md) for $23 billion was another landmark LBO. [Berkshire Hathaway](../b/berkshire_hathaway.md) contributed [equity](../e/equity.md), while 3G [Capital](../c/capital.md) executed operational improvements post-[acquisition](../a/acquisition.md).
+ The [acquisition](../a/acquisition.md) of H.J. Heinz Company by [Berkshire Hathaway](../b/berkshire_hathaway.md) and 3G [Capital](../c/capital.md) for $23 billion was another landmark LBO. [Berkshire Hathaway](../b/berkshire_hathaway.md) contributed [equity](../e/equity.md), while 3G [Capital](../c/capital.md) executed operational improvements post-[acquisition](../a/acquisition.md).
 
 3. **Dell [Buyout](../b/buyout.md) (2013)**:
-   The [buyout](../b/buyout.md) of Dell Inc. by its founder Michael Dell and Silver Lake Partners for $24.4 billion marked a significant LBO, transitioning Dell from a [public company](../p/public_company.md) to a privately-held entity. The move aimed to transform Dell's [business](../b/business.md) model and focus on long-term strategic initiatives.
+ The [buyout](../b/buyout.md) of Dell Inc. by its founder Michael Dell and Silver Lake Partners for $24.4 billion marked a significant LBO, transitioning Dell from a [public company](../p/public_company.md) to a privately-held entity. The move aimed to transform Dell's [business](../b/business.md) model and focus on long-term strategic initiatives.
 
 4. **Energy Future [Holdings](../h/holdings.md) [Buyout](../b/buyout.md) (2007)**:
-   The [acquisition](../a/acquisition.md) of TXU Corp by a consortium led by KKR, TPG [Capital](../c/capital.md), and Goldman Sachs in a $45 billion [transaction](../t/transaction.md) was one of the largest LBOs at the time. However, the [buyout](../b/buyout.md) faced challenges due to changing energy [market dynamics](../m/market_dynamics.md), illustrating the inherent risks involved in LBOs.
+ The [acquisition](../a/acquisition.md) of TXU Corp by a consortium led by KKR, TPG [Capital](../c/capital.md), and Goldman Sachs in a $45 billion [transaction](../t/transaction.md) was one of the largest LBOs at the time. However, the [buyout](../b/buyout.md) faced challenges due to changing energy [market dynamics](../m/market_dynamics.md), illustrating the inherent risks involved in LBOs.
 
 ## Evaluating LBO Candidates
 

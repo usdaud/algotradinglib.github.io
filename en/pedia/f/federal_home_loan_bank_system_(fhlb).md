@@ -11,17 +11,17 @@ The FHLB System was created by the Federal [Home](../h/home.md) [Loan](../l/loan
 The FHLB consists of 11 regional banks, each of which serves financial institutions within its district, and the Federal Housing [Finance](../f/finance.md) Agency (FHFA) regulates the system. Here's a look at the primary components:
 
 - **FHLBanks:** The 11 regional banks include:
-  - FHLB of Boston
-  - FHLB of New York
-  - FHLB of Pittsburgh
-  - FHLB of Atlanta
-  - FHLB of Cincinnati
-  - FHLB of Indianapolis
-  - FHLB of Chicago
-  - FHLB of Des Moines
-  - FHLB of Dallas
-  - FHLB of Topeka
-  - FHLB of San Francisco
+ - FHLB of Boston
+ - FHLB of New York
+ - FHLB of Pittsburgh
+ - FHLB of Atlanta
+ - FHLB of Cincinnati
+ - FHLB of Indianapolis
+ - FHLB of Chicago
+ - FHLB of Des Moines
+ - FHLB of Dallas
+ - FHLB of Topeka
+ - FHLB of San Francisco
 
 - **Office of [Finance](../f/finance.md):** The FHLBanks jointly own this entity, which issues consolidated [obligations](../o/obligation.md) to raise funds from the [capital markets](../c/capital_markets.md).
 - **Federal Housing [Finance](../f/finance.md) Agency (FHFA):** FHFA regulates the FHLBanks and ensures they operate in a financially sound manner.
@@ -91,6 +91,6 @@ The FHLB System continues to evolve with the changing financial landscape. Key t
 - **Regulatory Changes:** Adapting to new regulations to remain effective and resilient.
 - **Sustainable [Finance](../f/finance.md):** Increasing focus on green and sustainable investments.
 
-For more detailed information, you can visit the [Federal Home Loan Bank System Official Website](https://www.fhlbanks.com/).
+For more detailed information,
 
 In summary, the Federal [Home](../h/home.md) [Loan](../l/loan.md) [Bank](../b/bank.md) System is a cornerstone of the U.S. housing [finance](../f/finance.md) system, providing [liquidity](../l/liquidity.md), supporting community investment, and stabilizing markets - particularly during periods of economic stress. Its ongoing evolution [will](../w/will.md) continue to impact financial institutions and the broader [economy](../e/economy.md).

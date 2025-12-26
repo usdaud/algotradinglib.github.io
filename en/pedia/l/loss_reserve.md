@@ -119,8 +119,8 @@ Recent technological advancements are transforming how loss reserves are estimat
 
 Prominent [insurance](../i/insurance.md) companies [leverage](../l/leverage.md) loss reserves to ensure their financial stability and regulatory compliance. Here are a few examples:
 
-- **[Allianz](https://www.allianz.com)**: Allianz, a global [insurance](../i/insurance.md) giant, maintains detailed disclosures about its loss reserves and methodologies in its annual financial reports, reflecting its commitment to [transparency](../t/transparency.md) and regulatory compliance.
-- **[American International Group (AIG)](https://www.aig.com)**: AIG provides comprehensive insights into its loss reserve practices in its disclosures, highlighting its use of advanced actuarial techniques and rigorous [risk management](../r/risk_management.md) practices.
+- **Allianz**: Allianz, a global [insurance](../i/insurance.md) giant, maintains detailed disclosures about its loss reserves and methodologies in its annual financial reports, reflecting its commitment to [transparency](../t/transparency.md) and regulatory compliance.
+- **American International Group (AIG)**: AIG provides comprehensive insights into its loss reserve practices in its disclosures, highlighting its use of advanced actuarial techniques and rigorous [risk management](../r/risk_management.md) practices.
 
 ### Conclusion
 

@@ -79,11 +79,11 @@ While similar to POD accounts, TOD is generally used for investment accounts and
 
 Many banks and financial institutions [offer](../o/offer.md) POD accounts. For specific details and [guidance](../g/guidance.md) on setting up POD accounts, you can visit their respective websites. Some renowned establishments include:
 
-- [Chase Bank](https://www.chase.com/)
-- [Wells Fargo](https://www.wellsfargo.com/)
-- [Bank of America](https://www.bankofamerica.com/)
-- [Citibank](https://www.citigroup.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
+- Chase Bank
+- Wells Fargo
+- Bank of America
+- Citibank
+- Fidelity Investments
 
 ## Conclusion
 

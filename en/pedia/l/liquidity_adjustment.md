@@ -50,7 +50,7 @@ Implementing [Liquidity](../l/liquidity.md) Adjustment in [algorithmic trading](
 
 ### Data Integration
 
-[Real-time market data](../r/real-time_market_data.md) is essential for effective [Liquidity](../l/liquidity.md) Adjustment. This includes [order book](../o/order_book.md) information, [trade](../t/trade.md) volumes, historical prices, and [volatility](../v/volatility.md) indices. Reliable data providers like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/) and Refinitiv (https://www.refinitiv.com/en) [offer](../o/offer.md) comprehensive datasets that are critical for informing trading decisions.
+[Real-time market data](../r/real-time_market_data.md) is essential for effective [Liquidity](../l/liquidity.md) Adjustment. This includes [order book](../o/order_book.md) information, [trade](../t/trade.md) volumes, historical prices, and [volatility](../v/volatility.md) indices. Reliable data providers like [Bloomberg](../b/bloomberg.md) ( and Refinitiv ( [offer](../o/offer.md) comprehensive datasets that are critical for informing trading decisions.
 
 ### Algorithmic Design
 
@@ -58,11 +58,11 @@ The design of the trading algorithm must incorporate [liquidity](../l/liquidity.
 
 ### Backtesting and Simulation
 
-Before deploying any algorithm, rigorous [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) are necessary. This process involves testing the algorithm against historical data to evaluate its performance under various [market](../m/market.md) conditions. Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and [Alpha](../a/alpha.md) Vantage (https://www.alphavantage.co/) provide tools for [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md).
+Before deploying any algorithm, rigorous [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) are necessary. This process involves testing the algorithm against historical data to evaluate its performance under various [market](../m/market.md) conditions. Platforms like [StockSharp](../s/stocksharp.md) and [Alpha](../a/alpha.md) Vantage ( provide tools for [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md).
 
 ### Execution Platforms
 
-Choosing the right [execution](../e/execution.md) platform is crucial for implementing [Liquidity](../l/liquidity.md) Adjustment strategies. These platforms should support advanced [order types](../o/order_types_in_trading.md), provide low latency, and [offer](../o/offer.md) connectivity to [multiple](../m/multiple.md) markets. Companies like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) and [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) are popular choices among algorithmic traders.
+Choosing the right [execution](../e/execution.md) platform is crucial for implementing [Liquidity](../l/liquidity.md) Adjustment strategies. These platforms should support advanced [order types](../o/order_types_in_trading.md), provide low latency, and [offer](../o/offer.md) connectivity to [multiple](../m/multiple.md) markets. Companies like [Interactive Brokers](../i/interactive_brokers.md) ( and [TradeStation](../t/tradestation.md) ( are popular choices among algorithmic traders.
 
 ### Monitoring and Adjustments
 
@@ -86,7 +86,7 @@ The field of [Liquidity](../l/liquidity.md) Adjustment in [algorithmic trading](
 
 ### Artificial Intelligence and Machine Learning
 
-AI and [machine learning](../m/machine_learning.md) are poised to revolutionize [Liquidity](../l/liquidity.md) Adjustment. By analyzing massive datasets and learning from [market](../m/market.md) behavior, AI-driven algorithms can make more informed and adaptive trading decisions. Companies like H2O.ai (https://www.h2o.ai/) and DataRobot (https://www.datarobot.com/) are at the forefront of integrating AI into [trading strategies](../t/trading_strategies.md).
+AI and [machine learning](../m/machine_learning.md) are poised to revolutionize [Liquidity](../l/liquidity.md) Adjustment. By analyzing massive datasets and learning from [market](../m/market.md) behavior, AI-driven algorithms can make more informed and adaptive trading decisions. Companies like H2O.ai ( and DataRobot ( are at the forefront of integrating AI into [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 

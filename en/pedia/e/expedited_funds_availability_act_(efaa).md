@@ -13,11 +13,11 @@ The EFAA, codified under 12 U.S. Code § 4001 et seq., outlines specific timelin
 ### 1. Types of Deposits and Availability Schedules
 
 - **Local Checks**: For checks drawn on banks located in the same [check](../c/check.md)-processing region as the depositary [bank](../b/bank.md), the EFAA generally mandates that the first $200 of the [deposit](../d/deposit.md) is available on the next [business](../b/business.md) day after the [deposit](../d/deposit.md) is made. The remaining funds typically must be available within two [business](../b/business.md) days.
-  
+
 - **Non-Local Checks**: Checks drawn on banks outside the local [check](../c/check.md)-processing region are subject to longer [hold](../h/hold.md) times, up to five [business](../b/business.md) days. However, the [Check](../c/check.md) [Clearing](../c/clearing.md) for the 21st Century Act ([Check](../c/check.md) 21) has significantly reduced the relevance of local and non-local checks by allowing digital [check](../c/check.md) processing.
-  
+
 - **Cash Deposits**: Cash deposits made at a teller are usually available the next [business](../b/business.md) day.
-  
+
 - **Electronic Payments**: Funds from electronic payments, such as direct deposits, [wire transfers](../w/wire_transfers.md), and automated [clearing house](../c/clearing_house.md) (ACH) transactions, must be made available on the day after the [payment](../p/payment.md) is deposited.
 
 ### 2. Safeguard Exceptions
@@ -25,9 +25,9 @@ The EFAA, codified under 12 U.S. Code § 4001 et seq., outlines specific timelin
 The EFAA allows banks to extend [hold](../h/hold.md) times under certain conditions, known as safeguard exceptions:
 
 - **Large Deposits**: Deposits exceeding $5,000 may have extended [hold](../h/hold.md) periods on the portion above $5,000.
-  
+
 - **Repeated Overdrafts**: Customers with a history of overdrawing their accounts may face longer [hold](../h/hold.md) periods.
-  
+
 - **Reasonable Doubt of Collectibility**: If the [bank](../b/bank.md) has reasonable doubt that the [check](../c/check.md) [will](../w/will.md) clear, it may extend the [hold](../h/hold.md) period.
 
 ### 3. Disclosure Requirements
@@ -41,15 +41,15 @@ Banks are required to provide customers with clear and concise written disclosur
 The process by which a [check](../c/check.md) clears involves several steps that span across [multiple](../m/multiple.md) banks and the Federal Reserve. Here’s a high-level overview of the process:
 
 - **[Deposit](../d/deposit.md)**: The [customer](../c/customer.md) deposits a [check](../c/check.md) at their [bank](../b/bank.md).
-  
+
 - **Initial [Hold](../h/hold.md)**: The [bank](../b/bank.md) places a [hold](../h/hold.md) on the funds based on EFAA guidelines.
-  
+
 - **[Clearing](../c/clearing.md)**: The [bank](../b/bank.md) sends the [check](../c/check.md) to the Federal Reserve or a clearinghouse for processing.
-  
+
 - **Presentment**: The Federal Reserve or clearinghouse presents the [check](../c/check.md) to the paying [bank](../b/bank.md) (the [bank](../b/bank.md) on which the [check](../c/check.md) is drawn).
-  
+
 - **Settlement**: The paying [bank](../b/bank.md) debits the account of the [check](../c/check.md) [writer](../w/writer.md) and sends the funds to the depositing [bank](../b/bank.md) through the Federal Reserve or clearinghouse system.
-  
+
 - **Availability**: The depositing [bank](../b/bank.md) releases the funds to the [customer](../c/customer.md)’s account according to the EFAA schedule.
 
 ### 2. Role of Financial Technology
@@ -67,7 +67,7 @@ The advent of financial technology (fintech) has streamlined [check](../c/check.
 The EFAA protects consumers by ensuring timely access to their funds while also maintaining a degree of protection against fraudulent or uncollectible checks. This balance helps to:
 
 - **Reduce Financial Stress**: Rapid access to funds helps consumers manage their finances more effectively.
-  
+
 - **Increase [Trust](../t/trust.md)**: Clear and consistent [hold](../h/hold.md) policies build [trust](../t/trust.md) between consumers and financial institutions.
 
 ### 2. Bank Strategies
@@ -75,7 +75,7 @@ The EFAA protects consumers by ensuring timely access to their funds while also 
 Banks must comply with EFAA regulations while managing risks associated with [check](../c/check.md) processing. Strategies include:
 
 - **[Risk Management](../r/risk_management.md)**: Utilizing safeguard exceptions to mitigate risks from large or potentially uncollectible checks.
-  
+
 - **Technology Investment**: Implementing advanced technologies to enhance the speed and accuracy of [check](../c/check.md) processing.
 
 - **[Customer](../c/customer.md) Education**: Providing clear communications about funds availability policies to enhance [customer](../c/customer.md) satisfaction and compliance.
@@ -84,14 +84,14 @@ Banks must comply with EFAA regulations while managing risks associated with [ch
 
 ### 1. Federal Reserve’s Role
 
-The Federal Reserve is pivotal in the implementation and oversight of the EFAA. It provides [guidance](../g/guidance.md) to banks, monitors compliance, and processes interbank [check](../c/check.md) settlements. The Federal Reserve Board’s [Regulation CC](../r/regulation_cc.md) outlines detailed rules for funds availability and [check](../c/check.md) processing (https://www.federalreserve.gov/supervisionreg/regcc.htm).
+The Federal Reserve is pivotal in the implementation and oversight of the EFAA. It provides [guidance](../g/guidance.md) to banks, monitors compliance, and processes interbank [check](../c/check.md) settlements. The Federal Reserve Board’s [Regulation CC](../r/regulation_cc.md) outlines detailed rules for funds availability and [check](../c/check.md) processing (
 
 ### 2. Industry Adaptations
 
 The banking [industry](../i/industry.md) has adapted to the EFAA through innovations and [best practices](../b/best_practices.md), including:
 
 - **Remote [Deposit](../d/deposit.md) Capture**: [Offering](../o/offering.md) services that allow businesses to [deposit](../d/deposit.md) checks electronically, improving [cash flow](../c/cash_flow.md) management.
-  
+
 - **Enhanced [Fraud](../f/fraud.md) Detection**: Deploying sophisticated algorithms and [machine learning](../m/machine_learning.md) tools to detect and prevent [check](../c/check.md) [fraud](../f/fraud.md).
 
 ## Conclusion

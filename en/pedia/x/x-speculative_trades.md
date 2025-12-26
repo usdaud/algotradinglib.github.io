@@ -50,23 +50,23 @@ The technological [infrastructure](../i/infrastructure.md) underpinning X-Specul
 
 ### 1. Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) is a prominent [hedge fund](../h/hedge_fund.md) that utilizes technology, [data science](../d/data_science_in_trading.md), and advanced quantitative methods to manage its portfolio. The [firm](../f/firm.md) is known for its innovative approach to X-Speculative Trades and its use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+Two Sigma Investments is a prominent [hedge fund](../h/hedge_fund.md) that utilizes technology, [data science](../d/data_science_in_trading.md), and advanced quantitative methods to manage its portfolio. The [firm](../f/firm.md) is known for its innovative approach to X-Speculative Trades and its use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### 2. Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), famous for its Medallion [Fund](../f/fund.md), which implements a wide [range](../r/range.md) of X-Speculative strategies. The [firm](../f/firm.md)'s success is largely attributed to its mathematical and statistical expertise.
+Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), famous for its Medallion [Fund](../f/fund.md), which implements a wide [range](../r/range.md) of X-Speculative strategies. The [firm](../f/firm.md)'s success is largely attributed to its mathematical and statistical expertise.
 
 ### 3. Citadel Securities
 
-[Citadel Securities](https://www.citadelsecurities.com/) is a leading [market maker](../m/market_maker.md) that leverages [algorithmic trading](../a/algorithmic_trading.md) and quantitative techniques to provide [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes. The [firm](../f/firm.md) is known for its high-frequency trading and sophisticated [trading models](../t/trading_models.md).
+Citadel Securities is a leading [market maker](../m/market_maker.md) that leverages [algorithmic trading](../a/algorithmic_trading.md) and quantitative techniques to provide [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes. The [firm](../f/firm.md) is known for its high-frequency trading and sophisticated [trading models](../t/trading_models.md).
 
 ### 4. Virtu Financial
 
-[Virtu Financial](https://www.virtu.com/) specializes in high-frequency trading and is one of the largest electronic [market](../m/market.md) makers. Virtu combines technology and [trading algorithms](../t/trading_algorithms.md) to operate in [multiple](../m/multiple.md) [asset](../a/asset.md) classes, exploiting [market](../m/market.md) inefficiencies.
+Virtu Financial specializes in high-frequency trading and is one of the largest electronic [market](../m/market.md) makers. Virtu combines technology and [trading algorithms](../t/trading_algorithms.md) to operate in [multiple](../m/multiple.md) [asset](../a/asset.md) classes, exploiting [market](../m/market.md) inefficiencies.
 
 ### 5. DE Shaw & Co.
 
-[DE Shaw & Co.](https://www.deshaw.com/) is a renowned [hedge fund](../h/hedge_fund.md) that uses [quantitative trading](../q/quantitative_trading.md) strategies, including X-Speculative Trades. The [firm](../f/firm.md)'s approach integrates financial innovation with [computational algorithms](../c/computational_algorithms.md) to enhance [trading performance](../t/trading_performance.md).
+DE Shaw & Co. is a renowned [hedge fund](../h/hedge_fund.md) that uses [quantitative trading](../q/quantitative_trading.md) strategies, including X-Speculative Trades. The [firm](../f/firm.md)'s approach integrates financial innovation with [computational algorithms](../c/computational_algorithms.md) to enhance [trading performance](../t/trading_performance.md).
 
 ### Challenges and Considerations
 

@@ -52,7 +52,7 @@ There are several variations and [options](../o/options.md) within [interest](..
 
 Several financial institutions [offer](../o/offer.md) [interest](../i/interest.md)-only [mortgage](../m/mortgage.md) products. Here is an example:
 
-- **[JPMorgan Chase](https://www.chase.com/personal/mortgage)**: As a leading global financial services [firm](../f/firm.md), JPMorgan Chase offers a variety of [mortgage](../m/mortgage.md) products, including [interest](../i/interest.md)-only [options](../o/options.md) for qualified borrowers.
+- **JPMorgan Chase**: As a leading global financial services [firm](../f/firm.md), JPMorgan Chase offers a variety of [mortgage](../m/mortgage.md) products, including [interest](../i/interest.md)-only [options](../o/options.md) for qualified borrowers.
 
 ## Conclusion
 

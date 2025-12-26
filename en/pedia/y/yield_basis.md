@@ -8,8 +8,8 @@
 
 [Yield to Maturity](../y/yield_to_maturity.md), often abbreviated as YTM, is the [total return](../t/total_return.md) anticipated on a [bond](../b/bond.md) if it is held until it matures. YTM is expressed as an annual percentage rate and considers the [bond](../b/bond.md)'s current [market price](../m/market_price.md), [par value](../p/par_value.md), coupon [interest rate](../i/interest_rate.md), and time to [maturity](../m/maturity.md). YTM assumes that all coupon payments [will](../w/will.md) be reinvested at the same rate as the [bond](../b/bond.md)'s [current yield](../c/current_yield.md) and that the [bond](../b/bond.md) [will](../w/will.md) be held until its [maturity date](../m/maturity_date.md).
 
-\[ 
-YTM = \frac{C + \frac{(F - P)}{n}}{\frac{(F + P)}{2}} 
+\[
+YTM = \frac{C + \frac{(F - P)}{n}}{\frac{(F + P)}{2}}
 \]
 Where:
 - \( C \) = annual coupon [payment](../p/payment.md)
@@ -21,16 +21,16 @@ Where:
 
 [Current yield](../c/current_yield.md) is a simpler form of [yield](../y/yield.md) calculation that looks at the [bond](../b/bond.md)'s annual coupon [payment](../p/payment.md) relative to its current price. This measure helps investors understand the [income](../i/income.md) they can expect to earn from their investments in the [near term](../n/near_term.md).
 
-\[ 
-[Current Yield](../c/current_yield.md) = \frac{Annual Coupon [Payment](../p/payment.md)}{Current [Market Price](../m/market_price.md)} 
+\[
+[Current Yield](../c/current_yield.md) = \frac{Annual Coupon [Payment](../p/payment.md)}{Current [Market Price](../m/market_price.md)}
 \]
 
 ### 3. Yield Spread
 
-[Yield spread](../y/yield_spread.md) refers to the difference in yields between two different bonds or types of [debt](../d/debt.md) instruments. Typically, these comparisons are made between bonds of similar [maturity](../m/maturity.md) but differing [credit](../c/credit.md) quality. [Yield](../y/yield.md) [spreads](../s/spreads.md) are particularly important in the analysis of [bond](../b/bond.md) [market dynamics](../m/market_dynamics.md) and [risk](../r/risk.md) assessment. 
+[Yield spread](../y/yield_spread.md) refers to the difference in yields between two different bonds or types of [debt](../d/debt.md) instruments. Typically, these comparisons are made between bonds of similar [maturity](../m/maturity.md) but differing [credit](../c/credit.md) quality. [Yield](../y/yield.md) [spreads](../s/spreads.md) are particularly important in the analysis of [bond](../b/bond.md) [market dynamics](../m/market_dynamics.md) and [risk](../r/risk.md) assessment.
 
-\[ 
-[Yield Spread](../y/yield_spread.md) = Yield_A - Yield_B 
+\[
+[Yield Spread](../y/yield_spread.md) = Yield_A - Yield_B
 \]
 
 ## Yield Basis and Risk Assessment
@@ -41,7 +41,7 @@ Where:
 
 ### Interest Rate Risk
 
-[Interest rate risk](../i/interest_rate_risk.md) is the [risk](../r/risk.md) that [bond](../b/bond.md) values [will](../w/will.md) change as a result of [interest rate](../i/interest_rate.md) fluctuations. When [interest](../i/interest.md) rates rise, [bond](../b/bond.md) prices generally fall and vice versa. The [yield](../y/yield.md) [basis](../b/basis.md) can help investors gauge how sensitive their bonds are to changes in [interest](../i/interest.md) rates. 
+[Interest rate risk](../i/interest_rate_risk.md) is the [risk](../r/risk.md) that [bond](../b/bond.md) values [will](../w/will.md) change as a result of [interest rate](../i/interest_rate.md) fluctuations. When [interest](../i/interest.md) rates rise, [bond](../b/bond.md) prices generally fall and vice versa. The [yield](../y/yield.md) [basis](../b/basis.md) can help investors gauge how sensitive their bonds are to changes in [interest](../i/interest.md) rates.
 
 ### Market Risk
 
@@ -71,7 +71,7 @@ A flat or [humped yield curve](../h/humped_yield_curve.md) indicates that yields
 
 ### Hedging
 
-[Hedging strategies](../h/hedging_strategies.md) aim to [offset](../o/offset.md) potential losses in an investment by taking an opposite position in a related [security](../s/security.md). [Yield](../y/yield.md) [basis](../b/basis.md) can be crucial in determining the appropriate instruments and positions for effective hedging. 
+[Hedging strategies](../h/hedging_strategies.md) aim to [offset](../o/offset.md) potential losses in an investment by taking an opposite position in a related [security](../s/security.md). [Yield](../y/yield.md) [basis](../b/basis.md) can be crucial in determining the appropriate instruments and positions for effective hedging.
 
 ### Duration Management
 
@@ -85,7 +85,7 @@ The distinction between real and [nominal yield](../n/nominal_yield.md) is essen
 
 ### Taxable vs. Tax-Free Yields
 
-Investors often compare taxable yields with [tax-free](../t/tax_free.md) yields (such as those from [municipal bonds](../m/municipal_bonds.md)) to determine the best after-[tax return](../t/tax_return.md). This involves converting [tax-free](../t/tax_free.md) yields into their taxable equivalents using the [investor](../i/investor.md)'s [marginal tax rate](../m/marginal_tax_rate.md). 
+Investors often compare taxable yields with [tax-free](../t/tax_free.md) yields (such as those from [municipal bonds](../m/municipal_bonds.md)) to determine the best after-[tax return](../t/tax_return.md). This involves converting [tax-free](../t/tax_free.md) yields into their taxable equivalents using the [investor](../i/investor.md)'s [marginal tax rate](../m/marginal_tax_rate.md).
 
 ### Financial Instruments Incorporating Yield Basis
 
@@ -101,7 +101,7 @@ Various tools and software are available to investors and traders for calculatin
 
 For further reading and practical tools, you can explore resources offered by financial service firms:
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- Bloomberg
+- Reuters Eikon
 
 [Yield](../y/yield.md) [basis](../b/basis.md) serves as a key compass in navigating the seas of fixed-[income](../i/income.md) investment, [offering](../o/offering.md) insights that go beyond surface-level data and providing a deeper understanding of the financial landscape.

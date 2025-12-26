@@ -8,7 +8,7 @@
 The Simple Moving Average (SMA) is the [arithmetic mean](../a/arithmetic_mean.md) of a given set of prices over a specified number of periods. It smooths out price data to identify trends over time.
 
 **Formula:**
-\[ \text{SMA} = \frac{P_1 + P_2 + ... + P_n}{n} \]
+\[ \text{SMA} = \frac{P_1 + P_2 +... + P_n}{n} \]
 
 #### Exponential Moving Average (EMA)
 The Exponential Moving Average (EMA) gives more weight to the most recent prices, making it more responsive to new information.
@@ -103,19 +103,16 @@ VWAP calculates a trading period's average price, [weighted](../w/weighted.md) b
 Algorithmic traders increasingly employ [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [technical analysis](../t/technical_analysis.md) strategies. Techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are used to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md).
 
 #### Backtesting and Optimization
-[Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) using historical data to validate its effectiveness. Algorithmic traders use [backtesting](../b/backtesting.md) tools like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and MetaTrader 5 (https://www.[metatrader5](../m/metatrader5.md).com/) to fine-tune their strategies.
+[Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) using historical data to validate its effectiveness. Algorithmic traders use [backtesting](../b/backtesting.md) tools like [QuantConnect](../q/quantconnect.md) ( and MetaTrader 5 ( to fine-tune their strategies.
 
 #### Algorithmic Trading Platforms
 Several platforms enable algorithmic traders to deploy and manage their strategies, often integrating [technical analysis](../t/technical_analysis.md) frameworks.
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md).
-  [QuantConnect](https://www.quantconnect.com/)
-  
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md).
+
 - **MetaTrader 5**: A popular platform [offering](../o/offering.md) comprehensive tools for both [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).
-  [MetaTrader 5](https://www.metatrader5.com/)
-  
+
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers advanced trading tools, including algo trading capabilities.
-  [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Conclusion
 

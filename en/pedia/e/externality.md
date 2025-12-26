@@ -93,6 +93,6 @@ Externalities represent a critical concept in [economics](../e/economics.md), hi
 Understanding externalities and the tools to address them is crucial for policymakers, businesses, and society to promote [economic efficiency](../e/economic_efficiency.md), environmental sustainability, and social [welfare](../w/welfare.md).
 
 For further reading, you may refer to the following sources:
-- [European Union Emission Trading System (EU ETS)](https://ec.europa.eu/clima/eu-action/eu-emissions-trading-system-eu-ets_en)
-- [U.S. Environmental Protection Agency (EPA) - Clean Air Act](https://www.epa.gov/clean-air-act-overview)
-- [Feed-in Tariffs (Renewable Energy)](https://www.energy.gov/eere/solar/articles/feed-tariffs-and-renewable-energy)
+- European Union Emission Trading System (EU ETS)
+- U.S. Environmental Protection Agency (EPA) - Clean Air Act
+- Feed-in Tariffs (Renewable Energy)

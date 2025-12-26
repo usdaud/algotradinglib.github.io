@@ -4,7 +4,7 @@ In the world of [business](../b/business.md) and [finance](../f/finance.md), a [
 
 ## Definition and Characteristics
 
-A [trade](../t/trade.md) secret is any confidential [business](../b/business.md) information that provides a company with a competitive edge. According to the World Intellectual Property Organization (WIPO), a [trade](../t/trade.md) secret can include sales methods, [distribution](../d/distribution.md) methods, consumer profiles, advertising strategies, lists of suppliers and clients, and [manufacturing](../m/manufacturing.md) processes. 
+A [trade](../t/trade.md) secret is any confidential [business](../b/business.md) information that provides a company with a competitive edge. According to the World Intellectual Property Organization (WIPO), a [trade](../t/trade.md) secret can include sales methods, [distribution](../d/distribution.md) methods, consumer profiles, advertising strategies, lists of suppliers and clients, and [manufacturing](../m/manufacturing.md) processes.
 
 For information to be considered a [trade](../t/trade.md) secret, it must meet the following criteria:
 1. The information must be secret.
@@ -31,11 +31,11 @@ Businesses may also keep their [business](../b/business.md) plans, strategies, a
 
 ## Legal Framework
 
-The protection of [trade](../t/trade.md) secrets varies by jurisdiction but generally falls under unfair competition and intellectual property laws. 
+The protection of [trade](../t/trade.md) secrets varies by jurisdiction but generally falls under unfair competition and intellectual property laws.
 
 ### United States
 
-In the United States, the primary federal statute governing [trade](../t/trade.md) secrets is the Defend [Trade](../t/trade.md) Secrets Act (DTSA) of 2016. This act gives an owner of a [trade](../t/trade.md) secret the right to sue in federal court when that secret has been misappropriated. 
+In the United States, the primary federal statute governing [trade](../t/trade.md) secrets is the Defend [Trade](../t/trade.md) Secrets Act (DTSA) of 2016. This act gives an owner of a [trade](../t/trade.md) secret the right to sue in federal court when that secret has been misappropriated.
 
 ### European Union
 
@@ -100,7 +100,7 @@ As businesses increasingly move online, cybersecurity has become paramount in pr
 [Trade](../t/trade.md) secrets are a vital part of a company’s intellectual property portfolio and [offer](../o/offer.md) a competitive edge in the marketplace. Understanding the intricacies of what constitutes a [trade](../t/trade.md) secret, the legal protections available, and the measures to safeguard these secrets are essential for any [business](../b/business.md) looking to maintain its competitive position.
 
 For more information on legal frameworks and guidelines, you can visit the following pages:
-- [Coca-Cola](https://www.coca-colacompany.com)
-- [KFC](https://www.kfc.com)
-- [Uber](https://www.uber.com)
-- [Alphabet/Waymo](https://waymo.com)
+- Coca-Cola
+- KFC
+- Uber
+- Alphabet/Waymo

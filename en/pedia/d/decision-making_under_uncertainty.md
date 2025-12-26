@@ -42,9 +42,9 @@ Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in
 
 1. **[Reinforcement Learning](../r/reinforcement_learning.md):** This approach is particularly suited for dynamic environments like [financial markets](../f/financial_market.md). Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by receiving rewards or penalties based on their actions, enabling them to adapt to changing [market](../m/market.md) conditions.
 
-    - **Deep [Reinforcement Learning](../r/reinforcement_learning.md):** Combining [deep learning](../d/deep_learning.md) with [reinforcement learning](../r/reinforcement_learning.md) can enhance the algorithm's ability to process complex, high-dimensional data and make better decisions under [uncertainty](../u/uncertainty_in_trading.md).
+ - **Deep [Reinforcement Learning](../r/reinforcement_learning.md):** Combining [deep learning](../d/deep_learning.md) with [reinforcement learning](../r/reinforcement_learning.md) can enhance the algorithm's ability to process complex, high-dimensional data and make better decisions under [uncertainty](../u/uncertainty_in_trading.md).
 
-      A relevant company employing these techniques is [AlphaAdvantage](https://www.alpha-advantage.com/).
+ A relevant company employing these techniques is AlphaAdvantage.
 
 2. **Ensemble Methods:** These methods, such as [Random Forests](../r/random_forests_in_trading.md) and Gradient Boosting Machines, combine [multiple](../m/multiple.md) models to improve prediction accuracy and robustness. By aggregating the predictions of various models, ensemble methods can better [handle](../h/handle.md) [uncertainty](../u/uncertainty_in_trading.md).
 
@@ -60,11 +60,11 @@ Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in
 
 [Algorithmic trading](../a/algorithmic_trading.md) firms and [hedge](../h/hedge.md) funds widely apply decision-making techniques under [uncertainty](../u/uncertainty_in_trading.md) to enhance their [trading systems](../t/trading_systems.md). Some notable firms and their approaches include:
 
-1. **Two Sigma:** This quantitative [hedge fund](../h/hedge_fund.md) uses a combination of [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and rigorous scientific methods to make data-driven trading decisions. More information can be found on their [website](https://www.twosigma.com/).
+1. **Two Sigma:** This quantitative [hedge fund](../h/hedge_fund.md) uses a combination of [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and rigorous scientific methods to make data-driven trading decisions.
 
-2. **[QuantConnect](../q/quantconnect.md):** A platform that provides tools for building, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It leverages [cloud computing](../c/cloud_computing_in_trading.md) and [open](../o/open.md) data to facilitate decision-making under [uncertainty](../u/uncertainty_in_trading.md). More details are available on their [site](https://www.quantconnect.com/).
+2. **[QuantConnect](../q/quantconnect.md):** A platform that provides tools for building, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It leverages [cloud computing](../c/cloud_computing_in_trading.md) and [open](../o/open.md) data to facilitate decision-making under [uncertainty](../u/uncertainty_in_trading.md).
 
-3. **WorldQuant:** An [asset management](../a/asset_management.md) [firm](../f/firm.md) that employs a scientific approach to global [investing](../i/investing.md). They use extensive [quantitative research](../q/quantitative_research.md) and advanced technology to navigate [market](../m/market.md) uncertainties. Learn more at [WorldQuant's website](https://www.worldquant.com/).
+3. **WorldQuant:** An [asset management](../a/asset_management.md) [firm](../f/firm.md) that employs a scientific approach to global [investing](../i/investing.md). They use extensive [quantitative research](../q/quantitative_research.md) and advanced technology to navigate [market](../m/market.md) uncertainties.
 
 ## Case Study: Reinforcement Learning in Algorithmic Trading
 

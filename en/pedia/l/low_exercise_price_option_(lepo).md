@@ -5,7 +5,7 @@ A Low [Exercise Price](../e/excersise_price.md) Option (LEPO) is a special type 
 ## Key Characteristics of LEPOs
 
 ### Low Exercise Price
-The most defining characteristic of a LEPO is its [exercise price](../e/excersise_price.md), which is set at a very low level relative to the current [market value](../m/market_value.md) of the [underlying asset](../u/underlying_asset.md). This effectively means that the [intrinsic value](../i/intrinsic_value.md) of a LEPO is nearly equal to the price of the [underlying security](../u/underlying_security.md) less this [nominal](../n/nominal.md) [exercise price](../e/excersise_price.md). 
+The most defining characteristic of a LEPO is its [exercise price](../e/excersise_price.md), which is set at a very low level relative to the current [market value](../m/market_value.md) of the [underlying asset](../u/underlying_asset.md). This effectively means that the [intrinsic value](../i/intrinsic_value.md) of a LEPO is nearly equal to the price of the [underlying security](../u/underlying_security.md) less this [nominal](../n/nominal.md) [exercise price](../e/excersise_price.md).
 
 ### High Delta
 Due to their low [exercise price](../e/excersise_price.md), LEPOs have a [delta](../d/delta.md) very close to 1. [Delta](../d/delta.md) is a measure of how much the price of an option changes with respect to the change in the price of the [underlying asset](../u/underlying_asset.md). A [delta](../d/delta.md) of nearly 1 means that the LEPO [will](../w/will.md) almost exactly replicate the movements of the [underlying asset](../u/underlying_asset.md).
@@ -22,7 +22,7 @@ LEPOs are typically European-style contracts, meaning they can only be exercised
 ## Advantages of LEPOs
 
 - **[Leverage](../l/leverage.md)**: LEPOs provide a form of [leverage](../l/leverage.md) without the need for borrowing, enabling investors to [gain](../g/gain.md) high exposure to the [underlying asset](../u/underlying_asset.md) with a relatively small initial outlay.
-  
+
 - **Cost [Efficiency](../e/efficiency.md)**: Since LEPOs require lower [margin](../m/margin.md) compared to traditional stock purchases, they [offer](../o/offer.md) a more cost-effective means to [gain](../g/gain.md) exposure to [shares](../s/shares.md).
 
 - **[Risk Management](../r/risk_management.md)**: Investors can use LEPOs to manage [risk](../r/risk.md), as these instruments can act as a [hedge](../h/hedge.md) against other positions in a portfolio.
@@ -40,7 +40,7 @@ LEPOs are typically European-style contracts, meaning they can only be exercised
 ## Practical Application
 
 ### Hedging
-LEPOs can be an effective hedging tool. For instance, a [portfolio manager](../p/portfolio_manager.md) could buy LEPOs on a stock to [hedge](../h/hedge.md) against short positions or to lock in gains without actually purchasing the [underlying](../u/underlying.md) [shares](../s/shares.md). 
+LEPOs can be an effective hedging tool. For instance, a [portfolio manager](../p/portfolio_manager.md) could buy LEPOs on a stock to [hedge](../h/hedge.md) against short positions or to lock in gains without actually purchasing the [underlying](../u/underlying.md) [shares](../s/shares.md).
 
 ### Leveraged Bets
 Due to the low [margin](../m/margin.md) requirement, traders can use LEPOs to make leveraged bets on the price movements of an [underlying](../u/underlying.md) stock. If the stock price rises, the [value](../v/value.md) of the LEPO [will](../w/will.md) rise nearly equivalently, providing substantial returns on the [initial margin](../i/initial_margin.md).
@@ -66,5 +66,4 @@ In different markets, LEPOs are subject to various regulatory standards. For exa
 
 LEPOs are a powerful [financial instrument](../f/financial_instrument.md), providing investors with unique [leverage](../l/leverage.md), cost efficiencies, and hedging opportunities that are closely aligned with owning the [underlying security](../u/underlying_security.md). However, understanding the characteristics, benefits, and risks associated with LEPOs is crucial for those looking to incorporate them into their trading or investment strategies. Like any [financial instrument](../f/financial_instrument.md), LEPOs should be used judiciously and in accordance with one's [risk tolerance](../r/risk_tolerance.md) and investment goals.
 
-For more information on LEPOs and how to [trade](../t/trade.md) them, you can refer to the resources provided by financial exchanges and regulatory bodies. For example, the Australian Securities [Exchange](../e/exchange.md) (ASX) offers comprehensive guides and updates on trading LEPOs: [ASX LEPO Guide](https://www.asx.com.au).
-
+For more information on LEPOs and how to [trade](../t/trade.md) them, you can refer to the resources provided by financial exchanges and regulatory bodies. For example, the Australian Securities [Exchange](../e/exchange.md) (ASX) offers comprehensive guides and updates on trading LEPOs: ASX LEPO Guide.

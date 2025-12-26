@@ -12,7 +12,7 @@ A 2/28 ARM typically consists of two distinct phases:
 
 ### Benchmark Index and Margin
 
-The adjustable-rate portion of the [mortgage](../m/mortgage.md) is typically indexed to a financial [benchmark](../b/benchmark.md), such as the London Interbank Offered Rate (LIBOR) or the 11th District Cost of Funds [Index](../i/index_instrument.md) (COFI). The specific rate the borrower pays is calculated as the [benchmark](../b/benchmark.md) rate plus a [margin](../m/margin.md). For example, if the agreed [margin](../m/margin.md) is 2% and the [benchmark](../b/benchmark.md) rate is currently at 3%, the borrower's new [interest rate](../i/interest_rate.md) for that period would be 5%.
+The adjustable-rate portion of the [mortgage](../m/mortgage.md) is typically indexed to a financial [benchmark](../b/benchmark.md), such as the London Interbank Offered Rate (LIBOR, discontinued June 2023 and replaced by SOFR) or the 11th District Cost of Funds [Index](../i/index_instrument.md) (COFI). The specific rate the borrower pays is calculated as the [benchmark](../b/benchmark.md) rate plus a [margin](../m/margin.md). For example, if the agreed [margin](../m/margin.md) is 2% and the [benchmark](../b/benchmark.md) rate is currently at 3%, the borrower's new [interest rate](../i/interest_rate.md) for that period would be 5%.
 
 ## Mechanics of the Adjustment
 
@@ -58,7 +58,7 @@ Given the potential risks, borrowers considering a 2/28 ARM should have [conting
 
 ### Fixed-Rate Mortgage
 
-A [fixed-rate mortgage](../f/fixed-rate_mortgage.md) keeps the same [interest rate](../i/interest_rate.md) for the entire term of the [loan](../l/loan.md), [offering](../o/offering.md) stability and predictability in monthly payments. This can be advantageous for borrowers who [value](../v/value.md) long-term stability and plan to stay in their [home](../h/home.md) for an extended period. 
+A [fixed-rate mortgage](../f/fixed-rate_mortgage.md) keeps the same [interest rate](../i/interest_rate.md) for the entire term of the [loan](../l/loan.md), [offering](../o/offering.md) stability and predictability in monthly payments. This can be advantageous for borrowers who [value](../v/value.md) long-term stability and plan to stay in their [home](../h/home.md) for an extended period.
 
 ### Other ARM Products
 

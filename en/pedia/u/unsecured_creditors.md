@@ -35,7 +35,7 @@ Financial institutions that [issue](../i/issue.md) [credit](../c/credit.md) card
 The primary [risk](../r/risk.md) for unsecured creditors is the potential for non-[repayment](../r/repayment.md) or loss of the [principal](../p/principal.md) amount extended as [credit](../c/credit.md). A detailed examination of the risks includes:
 
 ### 1. **Higher Default Risk**
-Unsecured creditors have no specific assets to claim in the event of a debtor’s [default](../d/default.md). Consequently, they are at a higher [risk](../r/risk.md) of losing their funds compared to secured creditors. 
+Unsecured creditors have no specific assets to claim in the event of a debtor’s [default](../d/default.md). Consequently, they are at a higher [risk](../r/risk.md) of losing their funds compared to secured creditors.
 
 ### 2. **Subordinate Repayment Priority**
 In [bankruptcy](../b/bankruptcy.md) proceedings, unsecured creditors rank below secured creditors and often below priority unsecured creditors (such as employees or tax authorities). This lower priority means that unsecured creditors may only receive a fraction of their claims or nothing at all.
@@ -108,6 +108,6 @@ An increase or decrease in bankruptcies influences the landscape of unsecured [c
 
 ## Conclusion
 
-Unsecured creditors are vital to the financial ecosystem, providing critical funding without [collateral](../c/collateral.md) but bearing significant risks. Understanding the dynamics, protections, legal frameworks, and [market](../m/market.md) impacts associated with unsecured [credit](../c/credit.md) is essential for managing this complex and crucial aspect of [finance](../f/finance.md). This knowledge not only aids creditors in safeguarding their interests but also contributes to the broader stability and [efficiency](../e/efficiency.md) of [financial markets](../f/financial_market.md). 
+Unsecured creditors are vital to the financial ecosystem, providing critical funding without [collateral](../c/collateral.md) but bearing significant risks. Understanding the dynamics, protections, legal frameworks, and [market](../m/market.md) impacts associated with unsecured [credit](../c/credit.md) is essential for managing this complex and crucial aspect of [finance](../f/finance.md). This knowledge not only aids creditors in safeguarding their interests but also contributes to the broader stability and [efficiency](../e/efficiency.md) of [financial markets](../f/financial_market.md).
 
-For more information, one can explore the services offered by companies specializing in [credit](../c/credit.md) [risk management](../r/risk_management.md) and [debt](../d/debt.md) recovery, such as [Moody's Analytics](https://www.moodysanalytics.com/), which provides extensive insights and tools for managing and mitigating [credit](../c/credit.md) risks.
+For more information, one can explore the services offered by companies specializing in [credit](../c/credit.md) [risk management](../r/risk_management.md) and [debt](../d/debt.md) recovery, such as Moody's Analytics, which provides extensive insights and tools for managing and mitigating [credit](../c/credit.md) risks.

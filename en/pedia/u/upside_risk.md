@@ -11,7 +11,7 @@
 In traditional [portfolio management](../p/portfolio_management.md), [risk](../r/risk.md) is often viewed in terms of potential losses. Measures like [standard deviation](../s/standard_deviation.md), [Value](../v/value.md) at [Risk](../r/risk.md) (VaR), and Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR) are typically skewed towards understanding [downside risk](../d/downside_risk.md). However, focusing solely on [downside risk](../d/downside_risk.md) can be misleading, especially for high-growth investment opportunities. Here are several ways in which [upside](../u/upside.md) [risk](../r/risk.md) plays a crucial role:
 
 1. **[Performance Benchmarking](../p/performance_benchmarking.md)**: [Upside](../u/upside.md) [risk](../r/risk.md) allows portfolio managers to [benchmark](../b/benchmark.md) performance not just on average returns but on how much [excess return](../e/excess_return.md) can be achieved under favorable conditions.
-  
+
 2. **[Risk](../r/risk.md)-Adjusted Returns**: Metrics like the [Sortino Ratio](../s/sortino_ratio.md), which differentiates between [upside](../u/upside.md) and downside [volatility](../v/volatility.md), [offer](../o/offer.md) a more nuanced understanding of [risk](../r/risk.md)-adjusted returns.
 
 3. **Strategy Evaluation**: For [hedge](../h/hedge.md) funds and other high-[risk](../r/risk.md), high-reward investment strategies, understanding [upside](../u/upside.md) [risk](../r/risk.md) can be crucial in strategy evaluation and decision-making processes.
@@ -33,22 +33,22 @@ Optimizing [upside](../u/upside.md) [risk](../r/risk.md) involves [asset allocat
 
 - **[Diversification](../d/diversification.md)**: Spreading investments across a variety of [asset](../a/asset.md) classes to balance both [upside](../u/upside.md) and downside risks.
 - **[Risk Parity](../r/risk_parity.md)**: Allocating funds in such a way that each [asset](../a/asset.md) contributes equally to the portfolio's overall [risk](../r/risk.md), factoring in both [upside](../u/upside.md) and downside potentials.
-  
+
 ### Tools and Technologies
 
 With the evolution of technology and financial theories, various tools and platforms have emerged to help manage and optimize [upside](../u/upside.md) [risk](../r/risk.md). [Algorithmic trading](../a/algorithmic_trading.md) systems, [machine learning](../m/machine_learning.md) models, and advanced analytics are commonly used for this purpose.
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Enables automated [trading strategies](../t/trading_strategies.md) that maximize [upside potential](../u/upside_potential_in_trading.md) through automated decisions based on pre-set criteria.
 - **[Machine Learning](../m/machine_learning.md) Models**: Provide [predictive analytics](../p/predictive_analytics.md) to anticipate [market](../m/market.md) conditions that might lead to [upside](../u/upside.md) deviations.
-- **[Risk Management](../r/risk_management.md) Software**: Dedicated platforms like those offered by [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-and-risk-analytics/) and [RiskMetrics](https://www.msci.com/rmg) provide comprehensive tools for measuring and managing both [upside](../u/upside.md) and downside risks.
+- **[Risk Management](../r/risk_management.md) Software**: Dedicated platforms like those offered by Bloomberg and RiskMetrics provide comprehensive tools for measuring and managing both [upside](../u/upside.md) and downside risks.
 
 ### Case Studies
 
 To illustrate the practical application of [upside](../u/upside.md) [risk](../r/risk.md), consider the following case studies:
 
-1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds focus on high-[risk](../r/risk.md), high-reward strategies. For instance, [Bridgewater Associates](https://www.bridgewater.com/) employs an "[alpha](../a/alpha.md) [overlay](../o/overlay.md)" strategy that seeks to achieve positive returns irrespective of [market](../m/market.md) conditions, focusing significantly on managing [upside](../u/upside.md) [risk](../r/risk.md).
-  
-2. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Firms like [Renaissance Technologies](https://www.rentec.com/) utilize complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify opportunities for high returns. Their Medallion [Fund](../f/fund.md), known for its extraordinary performance, is an example of how [upside](../u/upside.md) [risk](../r/risk.md) can be effectively managed and capitalized upon.
+1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds focus on high-[risk](../r/risk.md), high-reward strategies. For instance, Bridgewater Associates employs an "[alpha](../a/alpha.md) [overlay](../o/overlay.md)" strategy that seeks to achieve positive returns irrespective of [market](../m/market.md) conditions, focusing significantly on managing [upside](../u/upside.md) [risk](../r/risk.md).
+
+2. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Firms like Renaissance Technologies utilize complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify opportunities for high returns. Their Medallion [Fund](../f/fund.md), known for its extraordinary performance, is an example of how [upside](../u/upside.md) [risk](../r/risk.md) can be effectively managed and capitalized upon.
 
 ### Conclusion
 

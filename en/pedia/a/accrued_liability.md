@@ -57,13 +57,13 @@ This includes salaries, wages, and benefits earned by employees during an [accou
 Accrued liabilities affect several key [financial ratios](../f/financial_ratios.md) used by analysts and investors to evaluate a company's performance:
 
 - **[Current Ratio](../c/current_ratio.md)**: Measures a company's ability to pay short-term [obligations](../o/obligation.md). Higher accrued liabilities increase [current liabilities](../c/current_liabilities.md), potentially lowering the [current ratio](../c/current_ratio.md).
-  
+
 - **[Debt](../d/debt.md) to [Equity](../e/equity.md) Ratio**: Represents a company's financial [leverage](../l/leverage.md). Increased accrued liabilities can increase [total liabilities](../t/total_liabilities.md), affecting this ratio.
-  
+
 - **Net [Income](../i/income.md)**: Properly [accounting](../a/accounting.md) for accrued liabilities ensures that expenses are matched with revenues, providing a true measure of net [income](../i/income.md).
 
 ## Real-World Application
-Companies like Adobe, [Adobe Inc.](https://www.adobe.com), and Amazon, [Amazon.com Inc](https://www.amazon.com/), use [accrual accounting](../a/accrual_accounting.md) and report accrued liabilities to ensure accurate financial representation. Accurate recognition of accrued liabilities helps these companies maintain [transparency](../t/transparency.md) and comply with regulatory requirements, fostering [trust](../t/trust.md) among investors and stakeholders.
+Companies like Adobe, Adobe Inc., and Amazon, Amazon.com Inc, use [accrual accounting](../a/accrual_accounting.md) and report accrued liabilities to ensure accurate financial representation. Accurate recognition of accrued liabilities helps these companies maintain [transparency](../t/transparency.md) and comply with regulatory requirements, fostering [trust](../t/trust.md) among investors and stakeholders.
 
 ## Conclusion
 Accrued liabilities play a pivotal role in [accrual accounting](../a/accrual_accounting.md), contributing to a company's accurate financial representation and compliance. Their management and correct reporting ensure that [financial statements](../f/financial_statements.md) reflect the true [financial health](../f/financial_health.md) of a [business](../b/business.md), aiding better decision-making and fostering [investor](../i/investor.md) confidence. Understanding and appropriately handling accrued liabilities are fundamental elements of prudent financial management in any organization.

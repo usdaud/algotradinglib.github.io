@@ -50,15 +50,15 @@ Visualization tools enable traders to interpret complex data sets through graphi
 
 ### A. Bloomberg
 [Bloomberg](../b/bloomberg.md) provides advanced analytics tools and terminals that are a staple in the financial [industry](../i/industry.md). They utilize [Big Data](../b/big_data_in_trading.md) to [offer](../o/offer.md) real-time financial data, news, and analytics to traders globally.
-- [Bloomberg](https://www.bloomberg.com/)
+- Bloomberg
 
 ### B. Palantir Technologies
 Palantir offers [data integration](../d/data_integration.md) and analytics solutions, aiding financial institutions in making data-driven decisions.
-- [Palantir](https://www.palantir.com/)
+- Palantir
 
 ### C. Two Sigma Investments
 An innovative [hedge fund](../h/hedge_fund.md) that applies [Big Data](../b/big_data_in_trading.md) analytics and [machine learning](../m/machine_learning.md) to its [trading strategies](../t/trading_strategies.md) to achieve superior returns.
-- [Two Sigma Investments](https://www.twosigma.com/)
+- Two Sigma Investments
 
 ## 5. Benefits of Big Data Analytics in Trading
 

@@ -64,9 +64,9 @@ The wearables company Jawbone experienced [multiple](../m/multiple.md) down roun
 
 ### Companies and Resources
 
-- [WeWork](https://www.wework.com/)
-- [Dropbox](https://www.dropbox.com/)
-- [SoftBank](https://group.softbank/en/)
+- WeWork
+- Dropbox
+- SoftBank
 
 ### Conclusion
 

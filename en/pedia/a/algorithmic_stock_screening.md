@@ -80,19 +80,19 @@ Several tools and platforms are available for developing and deploying algorithm
 
 ### **QuantConnect**
 
-[QuantConnect](https://www.quantconnect.com/) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, research tools, and [backtesting](../b/backtesting.md) capabilities. It supports [multiple](../m/multiple.md) programming languages like Python and C#.
+QuantConnect offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, research tools, and [backtesting](../b/backtesting.md) capabilities. It supports [multiple](../m/multiple.md) programming languages like Python and C#.
 
 ### **Alpha Vantage**
 
-[Alpha Vantage](https://www.alphavantage.co/) provides free APIs for real-time and historical [stock market](../s/stock_market.md) data. It also offers advanced endpoints for fundamental data, which can be useful for feature extraction in screening algorithms.
+Alpha Vantage provides free APIs for real-time and historical [stock market](../s/stock_market.md) data. It also offers advanced endpoints for fundamental data, which can be useful for feature extraction in screening algorithms.
 
 ### **TradingView**
 
-[TradingView](https://www.tradingview.com/) is a web-based platform for financial [market](../m/market.md) analysis and offers a scripting language called Pine Script, which can be used to create custom screening algorithms.
+TradingView is a web-based platform for financial [market](../m/market.md) analysis and offers a scripting language called Pine Script, which can be used to create custom screening algorithms.
 
 ### **Yahoo Finance**
 
-[Yahoo Finance](https://finance.yahoo.com/) offers a rich set of data that can be accessed via APIs for building screening algorithms. Though not specifically designed for [algorithmic trading](../a/algorithmic_trading.md), it can be an excellent resource for data.
+Yahoo Finance offers a rich set of data that can be accessed via APIs for building screening algorithms. Though not specifically designed for [algorithmic trading](../a/algorithmic_trading.md), it can be an excellent resource for data.
 
 ## Examples of Algorithmic Stock Screening Strategies
 
@@ -171,4 +171,4 @@ The integration of [big data](../b/big_data_in_trading.md) [will](../w/will.md) 
 
 Fully automated end-to-end stock screening systems, from data collection to trading [execution](../e/execution.md), are becoming increasingly feasible. This [will](../w/will.md) enable more efficient decision-making and potentially lower the [barriers to entry](../b/barriers_to_entry.md) for individual investors.
 
-In summary, algorithmic stock screening represents the convergence of [finance](../f/finance.md) and technology, [offering](../o/offering.md) powerful tools for investors to filter through vast amounts of stock data quickly and efficiently. As technology continues to advance, the capabilities and sophistication of these screening algorithms [will](../w/will.md) only continue to grow.
+In summary, algorithmic stock screening represents the convergence of [finance](../f/finance.md) and technology, [offering](../o/offering.md) powerful tools for investors to filter through vast amounts of stock data quickly and efficiently. As technology continues to advance, the capabilities and sophistication of these screening algorithms [will](../w/will.md) only continue to grow.

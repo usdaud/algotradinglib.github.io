@@ -34,19 +34,18 @@
 
 ### Standard & Poor’s (S&P)
 
-[Standard & Poor's Official Website](https://www.spglobal.com/ratings/)
+Standard & Poor's
 
 Standard & Poor’s is an American [credit](../c/credit.md) [rating](../r/rating.md) agency and a subsidiary of S&P Global. The company publishes financial research and analysis on [stocks](../s/stock.md), bonds, and commodities.
 
 ### Moody’s
 
-[Moody's Official Website](https://www.moodys.com/)
+Moody's
 
 Moody's [Corporation](../c/corporation.md), often referred to as Moody's, is a [credit](../c/credit.md) [rating](../r/rating.md) agency that ranks the [creditworthiness](../c/creditworthiness.md) of borrowers using standardized ratings.
 
 ### Fitch Ratings
 
-[Fitch Ratings Official Website](https://www.fitchratings.com/)
 
 [Fitch Ratings](../f/fitch_ratings.md) is a global leader in [credit](../c/credit.md) ratings and research, providing insights and clarity to investors, corporations, and governments globally.
 

@@ -24,22 +24,18 @@ Companies typically associated with widow-and-orphan [stocks](../s/stock.md) hav
 ### 1. **The Procter & Gamble Company (NYSE: PG)**
 Procter & Gamble is a multinational [consumer goods](../c/consumer_goods.md) [corporation](../c/corporation.md). It produces a wide [range](../r/range.md) of household and personal care products, making its [business](../b/business.md) relatively [recession](../r/recession.md)-proof. The company has a long history of paying and increasing dividends, which is a hallmark of a widow-and-orphan stock.
 
-[Procter & Gamble](https://us.pg.com/)
 
 ### 2. **Johnson & Johnson (NYSE: JNJ)**
 Johnson & Johnson is a global leader in the healthcare [industry](../i/industry.md), providing pharmaceuticals, medical devices, and consumer health products. Its diversified [revenue](../r/revenue.md) streams and strong financial position make it a classic example of a widow-and-orphan stock.
 
-[Johnson & Johnson](https://www.jnj.com/)
 
 ### 3. **Duke Energy Corporation (NYSE: DUK)**
 Duke Energy is one of the largest electric power holding companies in the United States. Operating in the [utilities sector](../u/utilities_sector.md), it provides a reliable source of [income](../i/income.md) through consistent dividends and stable [earnings](../e/earnings.md), typical of widow-and-orphan [stocks](../s/stock.md).
 
-[Duke Energy](https://www.duke-energy.com/)
 
 ### 4. **Coca-Cola Company (NYSE: KO)**
 The Coca-Cola Company is a global beverage leader, known for its iconic brand and wide [range](../r/range.md) of products. Coca-Cola's consistent performance and strong [dividend](../d/dividend.md) history make it a staple in a conservative investment portfolio.
 
-[Coca-Cola](https://www.coca-colacompany.com/)
 
 ## Investment Strategy for Widow-and-Orphan Stocks
 

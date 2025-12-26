@@ -34,11 +34,11 @@ There are numerous methods and [mathematical models](../m/mathematical_models_in
 
 [Algorithmic trading](../a/algorithmic_trading.md) platforms and financial institutions use advanced software and tools to incorporate [skewness](../s/skewness.md) in their models.
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md) provides tools to adjust strategies for [skewness](../s/skewness.md). [Visit QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md) provides tools to adjust strategies for [skewness](../s/skewness.md). Visit QuantConnect
 
-- **[Quantlib](../q/quantlib.md)**: A free/[open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) is widely used for incorporating [skewness](../s/skewness.md) adjustments in [risk models](../r/risk_models_in_trading.md). [Visit QuantLib](https://www.quantlib.org/)
+- **[Quantlib](../q/quantlib.md)**: A free/[open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) is widely used for incorporating [skewness](../s/skewness.md) adjustments in [risk models](../r/risk_models_in_trading.md). Visit QuantLib
 
-- **Algorithmic Strategies from Quantitative Brokers**: Quantitative Brokers (QB) [offer](../o/offer.md) advanced [execution algorithms](../e/execution_algorithms.md) that inherently adjust for [skewness](../s/skewness.md) in [market](../m/market.md) data. [Visit Quantitative Brokers](https://www.quantitativebrokers.com/)
+- **Algorithmic Strategies from Quantitative Brokers**: Quantitative Brokers (QB) [offer](../o/offer.md) advanced [execution algorithms](../e/execution_algorithms.md) that inherently adjust for [skewness](../s/skewness.md) in [market](../m/market.md) data. Visit Quantitative Brokers
 
 ### Practical Example: Skewness Adjustment in an Algorithmic Strategy
 

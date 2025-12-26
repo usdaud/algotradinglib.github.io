@@ -107,9 +107,9 @@ Python is one of the most widely used languages for developing and [backtesting]
 
 MetaTrader platforms [offer](../o/offer.md) extensive support for [algorithmic trading](../a/algorithmic_trading.md) through their MQL4 and MQL5 programming languages. Traders can develop custom indicators and automated [trading strategies](../t/trading_strategies.md) using built-in tools.
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) that supports [multiple](../m/multiple.md) languages including C#, Python, and F#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with various brokerages for live trading.
+[StockSharp](../s/stocksharp.md) is a platform for [algorithmic trading](../a/algorithmic_trading.md) that supports C#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with various brokerages for live trading.
 
 ### TradeStation
 
@@ -141,8 +141,8 @@ Price channel strategies [offer](../o/offer.md) a structured approach to [algori
 
 ## References
 
-- [Virtu Financial](https://www.virtu.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [TradeStation](https://www.tradestation.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- Virtu Financial
+- Citadel Securities
+- QuantConnect
+- TradeStation
+- NinjaTrader

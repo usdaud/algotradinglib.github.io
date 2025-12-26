@@ -1,6 +1,6 @@
 # Algorithmic Trading
 
-Algorithmic trading, also known as algo trading or automated trading, is a method of executing orders using pre-programmed and automated trading instructions to account for variables such as time, price, and [volume](../v/volume.md). The concept involves the use of complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computer programs to [trade](../t/trade.md) securities, often aiming to optimize the outcomes and reduce the manual intervention required in trading operations. 
+Algorithmic trading, also known as algo trading or automated trading, is a method of executing orders using pre-programmed and automated trading instructions to account for variables such as time, price, and [volume](../v/volume.md). The concept involves the use of complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computer programs to [trade](../t/trade.md) securities, often aiming to optimize the outcomes and reduce the manual intervention required in trading operations.
 
 Algorithmic trading has significantly transformed the [financial markets](../f/financial_market.md), allowing trades to be executed much faster and with significantly higher frequency than human traders. Various forms of algorithmic trading have emerged, from high-frequency trading (HFT) to [buy-side](../b/buy-side.md) and [sell-side](../s/sell-side.md) [trading strategies](../t/trading_strategies.md). This comprehensive overview delves into the multifaceted world of algorithmic trading, exploring its history, mechanisms, strategies, advantages, and challenges.
 
@@ -123,19 +123,19 @@ The use of algorithmic trading has raised ethical concerns, particularly in high
 Several companies have established themselves as leaders in the algorithmic trading [industry](../i/industry.md), [offering](../o/offering.md) innovative solutions and services to traders and financial institutions. Some notable companies include:
 
 ### Citadel Securities
-[Citadel Securities](https://www.citadelsecurities.com/) is a leading [market maker](../m/market_maker.md) and provider of [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes. They [leverage](../l/leverage.md) advanced algorithms and technology to facilitate efficient and transparent trading.
+Citadel Securities is a leading [market maker](../m/market_maker.md) and provider of [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes. They [leverage](../l/leverage.md) advanced algorithms and technology to facilitate efficient and transparent trading.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). They employ algorithmic trading to manage assets across global markets.
+Two Sigma is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). They employ algorithmic trading to manage assets across global markets.
 
 ### Virtu Financial
-[Virtu Financial](https://www.virtu.com/) is a financial services company that uses advanced algorithms and high-frequency trading techniques to provide [liquidity](../l/liquidity.md) and facilitate trades across various markets.
+Virtu Financial is a financial services company that uses advanced algorithms and high-frequency trading techniques to provide [liquidity](../l/liquidity.md) and facilitate trades across various markets.
 
 ### Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is a [hedge fund](../h/hedge_fund.md) specializing in [quantitative trading](../q/quantitative_trading.md) strategies. They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve superior investment returns.
+Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) specializing in [quantitative trading](../q/quantitative_trading.md) strategies. They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve superior investment returns.
 
 ### DE Shaw Group
-[DE Shaw Group](https://www.deshaw.com/) is a global investment and technology development [firm](../f/firm.md). They utilize algorithmic trading and quantitative techniques to manage investments in various [asset](../a/asset.md) classes.
+DE Shaw Group is a global investment and technology development [firm](../f/firm.md). They utilize algorithmic trading and quantitative techniques to manage investments in various [asset](../a/asset.md) classes.
 
 ## Future Trends in Algorithmic Trading
 

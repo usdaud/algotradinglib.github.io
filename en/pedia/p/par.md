@@ -1,6 +1,6 @@
 # Portfolio Management
 
-Portfolio management is a cornerstone concept in [finance](../f/finance.md) and involves the art and science of making decisions about investment mix and policy, matching investments to objectives, [asset allocation](../a/asset_allocation.md) for individuals and institutions, and balancing [risk](../r/risk.md) against performance. Specifically, portfolio management is critical in the domain of [algorithmic trading](../a/accountability.md), where advanced computational strategies are employed to manage and optimize the portfolio more effectively.
+Portfolio management is a cornerstone concept in [finance](../f/finance.md) and involves the art and science of making decisions about investment mix and policy, matching investments to objectives, [asset allocation](../a/asset_allocation.md) for individuals and institutions, and balancing [risk](../r/risk.md) against performance. Specifically, portfolio management is critical in the domain of [algorithmic trading](../a/algorithmic_trading.md), where advanced computational strategies are employed to manage and optimize the portfolio more effectively.
 
 ## Introduction to Portfolio Management
 
@@ -12,7 +12,7 @@ Portfolio management refers to the process of selecting, prioritizing, and overs
 
 2. **Passive Portfolio Management**: Passive managers implement a fixed strategy that mirrors a [market index](../m/market_index.md). The goal is to replicate the performance of the [index](../i/index_instrument.md) over time, usually resulting in lower [transaction costs](../t/transaction_costs.md) and fees.
 
-3. **[Quantitative Portfolio Management](../q/quantitative_portfolio_management.md)**: Uses [mathematical models](../m/mathematical_models_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to identify investment opportunities and manage [risk](../r/risk.md). This is particularly prevalent in [algorithmic trading](../a/accountability.md).
+3. **[Quantitative Portfolio Management](../q/quantitative_portfolio_management.md)**: Uses [mathematical models](../m/mathematical_models_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to identify investment opportunities and manage [risk](../r/risk.md). This is particularly prevalent in [algorithmic trading](../a/algorithmic_trading.md).
 
 4. **Discretionary and Non-Discretionary Management**: Discretionary management involves managers making decisions on behalf of clients, while non-discretionary management requires client approval for each [transaction](../t/transaction.md).
 
@@ -35,7 +35,7 @@ Effective portfolio management incorporates [risk management](../r/risk_manageme
 
 ## Algorithmic Trading in Portfolio Management
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to automatically execute [trading strategies](../t/trading_strategies.md). These algorithms analyze [market](../m/market.md) data and execute orders at high speeds and frequencies, which would be impossible for human traders.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to automatically execute [trading strategies](../t/trading_strategies.md). These algorithms analyze [market](../m/market.md) data and execute orders at high speeds and frequencies, which would be impossible for human traders.
 
 ### Strategies in Algorithmic Trading
 
@@ -69,8 +69,8 @@ Financial technology (FinTech) is revolutionizing portfolio management through i
 
 Robo-advisors are automated platforms that provide [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) services with minimal human intervention. They use algorithms to create and manage portfolios based on the [investor](../i/investor.md)’s [risk tolerance](../r/risk_tolerance.md) and financial goals. Examples include:
 
-- **Betterment**: [Betterment](https://www.betterment.com/) offers automated investment advice and portfolio management.
-- **Wealthfront**: [Wealthfront](https://www.wealthfront.com/) provides automated, algorithm-driven [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md).
+- **Betterment**: Betterment offers automated investment advice and portfolio management.
+- **Wealthfront**: Wealthfront provides automated, algorithm-driven [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md).
 
 ### Blockchain and Cryptocurrencies
 
@@ -88,4 +88,4 @@ AI and [machine learning](../m/machine_learning.md) are dramatically transformin
 
 ## Conclusion
 
-Portfolio management is a multifaceted and dynamic domain critical to achieving financial success. In the realm of [algorithmic trading](../a/accountability.md), it allows for the sophisticated and efficient [execution](../e/execution.md) of strategies that can [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities while managing risks effectively. With the continuous advancement in technology, particularly in FinTech, AI, and [machine learning](../m/machine_learning.md), the landscape of portfolio management is rapidly evolving, [offering](../o/offering.md) unprecedented opportunities for investors and financial professionals alike. As such, understanding the intricate elements of portfolio management and leveraging technological advancements can provide a significant competitive edge in the [financial markets](../f/financial_market.md).
+Portfolio management is a multifaceted and dynamic domain critical to achieving financial success. In the realm of [algorithmic trading](../a/algorithmic_trading.md), it allows for the sophisticated and efficient [execution](../e/execution.md) of strategies that can [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities while managing risks effectively. With the continuous advancement in technology, particularly in FinTech, AI, and [machine learning](../m/machine_learning.md), the landscape of portfolio management is rapidly evolving, [offering](../o/offering.md) unprecedented opportunities for investors and financial professionals alike. As such, understanding the intricate elements of portfolio management and leveraging technological advancements can provide a significant competitive edge in the [financial markets](../f/financial_market.md).

@@ -42,10 +42,10 @@ External techniques make use of financial instruments and agreements, such as fo
 
 ### Industry Case Studies
 #### 1. Apple Inc.
-Apple Inc., a globally recognized technology leader, is heavily involved in proactive [foreign exchange](../f/foreign_exchange.md) hedging to manage its international [revenue](../r/revenue.md) and [supply chain](../s/supply_chain.md) expenses. Utilizing a mix of forwards, [options](../o/options.md), and natural [hedging strategies](../h/hedging_strategies.md), Apple effectively mitigates [currency](../c/currency.md) [risk](../r/risk.md) and stabilizes its [earnings](../e/earnings.md). More details can be found on their [investor relations](../i/investor_relations.md) page: [Apple Inc. Investor Relations](https://investor.apple.com)
+Apple Inc., a globally recognized technology leader, is heavily involved in proactive [foreign exchange](../f/foreign_exchange.md) hedging to manage its international [revenue](../r/revenue.md) and [supply chain](../s/supply_chain.md) expenses. Utilizing a mix of forwards, [options](../o/options.md), and natural [hedging strategies](../h/hedging_strategies.md), Apple effectively mitigates [currency](../c/currency.md) [risk](../r/risk.md) and stabilizes its [earnings](../e/earnings.md)../i/investor_relations.md) page: Apple Inc. company filings
 
 #### 2. General Electric
-General Electric (GE), with its vast international operations, employs extensive [hedging strategies](../h/hedging_strategies.md) to manage its [foreign exchange exposure](../f/foreign_exchange_exposure.md). GE applies a combination of financial instruments and natural hedging to safeguard its revenues and costs. Further information is available on their official website: [General Electric](https://www.ge.com)
+General Electric (GE), with its vast international operations, employs extensive [hedging strategies](../h/hedging_strategies.md) to manage its [foreign exchange exposure](../f/foreign_exchange_exposure.md). GE applies a combination of financial instruments and natural hedging to safeguard its revenues and costs. Further information is available on their public materials: General Electric
 
 ### Sovereign Entities
 Countries with significant [export](../e/export.md) or [import](../i/import.md) activities also engage in hedging through their central banks and financial institutions. Policies and measures are devised to stabilize national currencies and protect the [economy](../e/economy.md) from volatile forex markets.
@@ -65,7 +65,7 @@ Forex brokers provide the valuable service of connecting traders and businesses 
 
 Hedging activities are closely monitored and regulated to ensure [transparency](../t/transparency.md) and prevent systemic risks. Companies must adhere to guidelines set by financial regulatory authorities in their respective countries. [Disclosure](../d/disclosure.md) requirements mandate businesses to report their hedging activities and the associated financial risks in annual reports and [financial statements](../f/financial_statements.md).
 
-## Challenges in Foreign Exchange Hedging 
+## Challenges in Foreign Exchange Hedging
 
 ### 1. Market Volatility
 [Currency](../c/currency.md) markets are highly volatile, influenced by [geopolitical events](../g/geopolitical_events.md), economic data, and [market sentiment](../m/market_sentiment.md). This unpredictability makes accurate [forecasting](../f/forecasting.md) and effective hedging challenging.

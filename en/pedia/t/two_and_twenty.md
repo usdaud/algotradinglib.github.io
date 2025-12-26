@@ -37,7 +37,7 @@ The performance [fee](../f/fee.md) is a charge collected as a percentage of the 
 The performance [fee](../f/fee.md) usually applies to profits exceeding a certain [benchmark](../b/benchmark.md), known as the [hurdle rate](../h/hurdle_rate_in_trading.md). Additionally, some funds use a [high-water mark](../h/high-water_mark_in_trading.md) to ensure that investors don’t pay performance fees for recovering past losses.
 
 - **[Hurdle Rate](../h/hurdle_rate_in_trading.md):** The minimum [return](../r/return.md) a [fund](../f/fund.md) must achieve before collecting performance fees. If the [hurdle rate](../h/hurdle_rate_in_trading.md) is 5%, and the [fund](../f/fund.md) returns 10%, the performance [fee](../f/fee.md) applies to the 5% [excess return](../e/excess_return.md).
-  
+
 - **[High-Water Mark](../h/high-water_mark_in_trading.md):** The highest peak in [value](../v/value.md) that a [fund](../f/fund.md) has reached. If the [fund](../f/fund.md) incurs losses, the [high-water mark](../h/high-water_mark_in_trading.md) ensures that performance fees are only charged on net new profits exceeding the previous peak.
 
 #### Calculation Example
@@ -114,19 +114,19 @@ Incorporating hurdle rates and longer lock-in periods can align incentives bette
 
 Bridgewater Associates, one of the largest and most successful [hedge](../h/hedge.md) funds globally, uses a variation of the "Two and Twenty" [fee](../f/fee.md) structure. Their approach has been adapted over time, but it generally retains the core principles of management and performance fees.
 
-**Website:** [Bridgewater Associates](https://www.bridgewater.com/)
+**online platform:** Bridgewater Associates
 
 ### Blackstone Group
 
 The Blackstone Group, a premier global investment [firm](../f/firm.md), also employs the "Two and Twenty" structure within its [hedge fund](../h/hedge_fund.md) and [private equity](../p/private_equity.md) [business](../b/business.md) divisions. The [firm](../f/firm.md) has implemented various tailored [fee](../f/fee.md) arrangements based on client needs and investment strategies.
 
-**Website:** [Blackstone Group](https://www.blackstone.com/)
+**online platform:** Blackstone Group
 
 ### Sequoia Capital
 
 Sequoia [Capital](../c/capital.md), a leading [venture capital](../v/venture_capital.md) [firm](../f/firm.md), has also utilized a version of the "Two and Twenty" model. Given the long-term nature of venture investments, Sequoia has applied this structure to ensure their incentives align with the [firm](../f/firm.md)'s growth and success.
 
-**Website:** [Sequoia Capital](https://www.sequoiacap.com/)
+**online platform:** Sequoia Capital
 
 ## Conclusion
 

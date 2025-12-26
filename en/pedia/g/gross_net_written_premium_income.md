@@ -58,16 +58,16 @@ GNWPI calculations are influenced by the specific [accounting](../a/accounting.m
 ## Relevant Companies and Industry Players
 
 ### Allianz SE
-[Allianz](https://www.allianz.com/en.html) is one of the world's leading [insurance](../i/insurance.md) and financial services companies, providing a [range](../r/range.md) of [insurance](../i/insurance.md) products and services, operating across various global markets. Allianz's comprehensive financial reporting includes detailed metrics on premiums and [reinsurance](../r/reinsurance.md), making it a pertinent example for GNWPI analysis.
+Allianz is one of the world's leading [insurance](../i/insurance.md) and financial services companies, providing a [range](../r/range.md) of [insurance](../i/insurance.md) products and services, operating across various global markets. Allianz's comprehensive financial reporting includes detailed metrics on premiums and [reinsurance](../r/reinsurance.md), making it a pertinent example for GNWPI analysis.
 
 ### AIG (American International Group)
-[AIG](https://www.aig.com) operates extensively in both the general [insurance](../i/insurance.md) and [life insurance](../l/life_insurance.md) sectors. AIG's financial disclosures often highlight metrics such as GNWPI, reflecting their substantial global [reinsurance](../r/reinsurance.md) activities and [underwriting](../u/underwriting.md) practices.
+AIG operates extensively in both the general [insurance](../i/insurance.md) and [life insurance](../l/life_insurance.md) sectors. AIG's financial disclosures often highlight metrics such as GNWPI, reflecting their substantial global [reinsurance](../r/reinsurance.md) activities and [underwriting](../u/underwriting.md) practices.
 
 ### Munich Re
-[Munich Re](https://www.munichre.com/en.html) is a prominent [reinsurance](../r/reinsurance.md) company. They provide intricate details regarding [reinsurance](../r/reinsurance.md) arrangements, premiums paid, and recoveries received, [offering](../o/offering.md) valuable insights into the role of [reinsurance](../r/reinsurance.md) in calculating GNWPI.
+Munich Re is a prominent [reinsurance](../r/reinsurance.md) company. They provide intricate details regarding [reinsurance](../r/reinsurance.md) arrangements, premiums paid, and recoveries received, [offering](../o/offering.md) valuable insights into the role of [reinsurance](../r/reinsurance.md) in calculating GNWPI.
 
 ### Swiss Re
-[Swiss Re](https://www.swissre.com) is another leading global reinsurer. The company's [financial statements](../f/financial_statements.md) elucidate the impact of [reinsurance](../r/reinsurance.md) on retained premiums and corresponding recoveries, essential for understanding GNWPI dynamics.
+Swiss Re is another leading global reinsurer. The company's [financial statements](../f/financial_statements.md) elucidate the impact of [reinsurance](../r/reinsurance.md) on retained premiums and corresponding recoveries, essential for understanding GNWPI dynamics.
 
 ## Conclusion
 Gross Net [Written Premium](../w/written_premium.md) [Income](../i/income.md) (GNWPI) emerges as a vital metric that encapsulates the effectiveness and [efficiency](../e/efficiency.md) of an [insurance](../i/insurance.md) company's core [underwriting](../u/underwriting.md) and [reinsurance](../r/reinsurance.md) operations. By thoroughly analyzing GNWPI, stakeholders can [gain](../g/gain.md) crucial insights into the financial stability, [risk management](../r/risk_management.md) practices, and overall performance of [insurance](../i/insurance.md) entities. Understanding and interpreting GNWPI within the context of [industry](../i/industry.md) standards and practical challenges is imperative for informed decision-making and strategic planning in the [insurance](../i/insurance.md) domain.

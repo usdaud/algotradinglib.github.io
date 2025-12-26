@@ -16,10 +16,10 @@ Non-linear dynamics studies how systems evolve over time when the influence of v
 ## Application in Algorithmic Trading
 
 ### Predictive Modeling
-Non-linear dynamics can enhance [predictive models](../p/predictive_models_in_trading.md) by [accounting](../a/accounting.md) for the complex and chaotic nature of [financial markets](../f/financial_market.md). For example, non-[linear regression](../l/linear_regression.md) models and [neural networks](../n/neural_networks_in_trading.md) can encapsulate intricate patterns that [linear models](../l/linear_models_in_trading.md) might overlook. 
+Non-linear dynamics can enhance [predictive models](../p/predictive_models_in_trading.md) by [accounting](../a/accounting.md) for the complex and chaotic nature of [financial markets](../f/financial_market.md). For example, non-[linear regression](../l/linear_regression.md) models and [neural networks](../n/neural_networks_in_trading.md) can encapsulate intricate patterns that [linear models](../l/linear_models_in_trading.md) might overlook.
 
 #### Case Study: Renaissance Technologies
-Renaissance Technologies is a pioneering [hedge fund](../h/hedge_fund.md) known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including non-linear dynamics, to predict [market](../m/market.md) movements and execute trades. Their Medallion [Fund](../f/fund.md), in particular, has garnered legendary returns. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is a pioneering [hedge fund](../h/hedge_fund.md) known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including non-linear dynamics, to predict [market](../m/market.md) movements and execute trades. Their Medallion [Fund](../f/fund.md), in particular, has garnered legendary returns. Renaissance Technologies
 
 ### Volatility Analysis
 [Volatility](../v/volatility.md), the degree of variation of trading prices, is a critical [factor](../f/factor.md) in [risk management](../r/risk_management.md). Non-linear dynamics helps in understanding and predicting [volatility](../v/volatility.md) clusters—periods of high [volatility](../v/volatility.md) followed by periods of low [volatility](../v/volatility.md)—through techniques like GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md)) models.
@@ -40,7 +40,7 @@ These models capture more complex relationships between variables. They are cruc
 - **Long Short-Term Memory (LSTM)**: An advanced RNN variant that can remember long-term dependencies, crucial in financial time-series [forecasting](../f/forecasting.md).
 
 #### Case Study: Two Sigma
-Two Sigma Investments LLC uses [machine learning](../m/machine_learning.md) and distributed computing systems to uncover non-linear relationships in data. Their strategies [range](../r/range.md) from statistical [arbitrage](../a/arbitrage.md) to [trend following](../t/trend_following.md), utilizing intricate models that embed non-linear dynamics principles. [Two Sigma](https://www.twosigma.com/)
+Two Sigma Investments LLC uses [machine learning](../m/machine_learning.md) and distributed computing systems to uncover non-linear relationships in data. Their strategies [range](../r/range.md) from statistical [arbitrage](../a/arbitrage.md) to [trend following](../t/trend_following.md), utilizing intricate models that embed non-linear dynamics principles. Two Sigma
 
 ### Chaos Theory in Trading
 Identifying chaotic yet deterministic patterns in [market](../m/market.md) data can drive [trading strategies](../t/trading_strategies.md). Tools like the Lyapunov Exponent measure the rate of separation of infinitesimally close trajectories, helping assess the predictability of a system.
@@ -65,7 +65,7 @@ Several Python libraries facilitate the application of non-linear dynamics in [t
 - **SciPy and NumPy**: Fundamental for numerical computations.
 - **Scikit-Learn**: Includes utilities for non-[linear regression](../l/linear_regression.md) and clustering.
 - **[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md)**: Learnings tools for building [deep learning](../d/deep_learning.md) models.
-  
+
 ### R Programming
 R, with packages like `tseries` and `forecast`, offers powerful tools for [time series analysis](../t/time_series_analysis.md) and modeling, useful in capturing non-linear dynamics in financial data.
 
@@ -96,4 +96,3 @@ The ability to process vast amounts of unstructured data in real-time [will](../
 
 ## Conclusion
 Non-linear dynamics brings a sophisticated and nuanced approach to [algorithmic trading](../a/algorithmic_trading.md), enabling traders to capture complex [market](../m/market.md) relationships that [linear models](../l/linear_models_in_trading.md) overlook. While the field presents significant challenges, advancements in computational power, [machine learning](../m/machine_learning.md), and [data analysis techniques](../d/data_analysis_techniques.md) continue to push the boundaries of what's possible. As markets evolve, the integration of non-linear dynamics into [trading strategies](../t/trading_strategies.md) [will](../w/will.md) likely become even more critical in maintaining a competitive edge.
-

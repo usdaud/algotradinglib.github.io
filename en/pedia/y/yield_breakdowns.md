@@ -11,15 +11,15 @@
 To thoroughly analyze and decompose the [yield](../y/yield.md) in [algorithmic trading](../a/algorithmic_trading.md), it is essential to break it down into core components:
 
 1. **Dividends**: Payments made by a company to its shareholders, usually as a [distribution](../d/distribution.md) of profits. For strategies involving equities, dividends can be a significant component of [yield](../y/yield.md).
-  
+
 2. **[Capital](../c/capital.md) Gains**: Profits made due to the increase in the price of securities from their original purchase price. This is crucial for strategies focusing on price movements.
-  
+
 3. **[Interest](../i/interest.md) [Income](../i/income.md)**: [Earnings](../e/earnings.md) from [interest](../i/interest.md)-bearing assets like bonds, which can contribute to the [yield](../y/yield.md) especially in fixed-[income](../i/income.md) strategies.
-  
+
 4. **[Transaction Costs](../t/transaction_costs.md)**: Costs associated with buying and selling securities, including commissions, [slippage](../s/slippage.md), and fees. These reduce the overall [yield](../y/yield.md) and are essential to account for in the breakdown.
-  
+
 5. **[Slippage](../s/slippage.md)**: The difference between the expected price of a [trade](../t/trade.md) and the price at which the [trade](../t/trade.md) is executed. [Slippage](../s/slippage.md) impacts [yield](../y/yield.md) by reducing [trade](../t/trade.md) [efficiency](../e/efficiency.md).
-  
+
 6. **[Leverage](../l/leverage.md)**: The use of borrowed funds to increase the potential [return](../r/return.md) of an investment. While [leverage](../l/leverage.md) can amplify gains, it also increases the [risk](../r/risk.md) of significant losses, thereby impacting the [yield](../y/yield.md).
 
 #### 3. Methods for Yield Decomposition
@@ -27,30 +27,30 @@ To thoroughly analyze and decompose the [yield](../y/yield.md) in [algorithmic t
 Effective [yield decomposition](../y/yield_decomposition.md) requires sophisticated analytical tools and methodologies. The following methods are commonly used:
 
 1. **[Attribution Analysis](../a/attribution_analysis.md)**: Involves dissecting the [return](../r/return.md) into various contributing factors. This can include sector allocation, stock selection, and timing decisions for [equity](../e/equity.md) portfolios.
-  
+
 2. **[Factor Analysis](../f/factor_analysis.md)**: Decomposing returns into [risk factors](../r/risk_factors_in_trading.md) such as [market risk](../m/market_risk.md), size [risk](../r/risk.md), [value](../v/value.md) [risk](../r/risk.md), and [momentum](../m/momentum.md) [risk](../r/risk.md) to understand the sources of [alpha](../a/alpha.md).
-  
+
 3. **[Performance Attribution](../p/performance_attribution.md)**: This method includes calculating the performance impact of specific factors like [currency](../c/currency.md) effects, [interest rate](../i/interest_rate.md) changes, and macroeconomic shocks.
 
 #### 4. Practical Applications
 
 Implementing the [yield](../y/yield.md) breakdown involves real-world tools and platforms that assist in detailed performance analysis:
 
-1. **[QuantConnect](../q/quantconnect.md)**: A research and [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) powerful tools for [yield analysis](../y/yield_analysis.md). They provide APIs and libraries to perform detailed [attribution analysis](../a/attribution_analysis.md). More information can be found on their [website](https://www.quantconnect.com/).
-  
-2. **[Alpaca](../a/alpaca.md)**: An API-first stock brokerage platform that offers [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) capabilities with a focus on low latency [execution](../e/execution.md) and high [transparency](../t/transparency.md) of [trading costs](../t/trading_costs.md), aiding in [yield](../y/yield.md) breakdown. Visit them at [Alpaca](https://alpaca.markets/).
+1. **[QuantConnect](../q/quantconnect.md)**: A research and [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) powerful tools for [yield analysis](../y/yield_analysis.md). They provide APIs and libraries to perform detailed [attribution analysis](../a/attribution_analysis.md).
+
+2. **[Alpaca](../a/alpaca.md)**: An API-first stock brokerage platform that offers [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) capabilities with a focus on low latency [execution](../e/execution.md) and high [transparency](../t/transparency.md) of [trading costs](../t/trading_costs.md), aiding in [yield](../y/yield.md) breakdown. Visit them at Alpaca.
 
 #### 5. Detailed Case Study
 
 To illustrate how [yield](../y/yield.md) breakdown is applied, consider a case involving a multifactor [equity](../e/equity.md) strategy evaluated over a year:
 
 - **Total [Yield](../y/yield.md)**: 15%
-  - **Dividends**: 1.5%
-  - **[Capital](../c/capital.md) Gains**: 12%
-  - **[Interest](../i/interest.md) [Income](../i/income.md)**: 0.5%
-  - **[Transaction Costs](../t/transaction_costs.md)**: -0.5%
-  - **[Slippage](../s/slippage.md)**: -0.25%
-  - **[Leverage Effect](../l/leverage_effect_in_trading.md)**: 1.25%
+ - **Dividends**: 1.5%
+ - **[Capital](../c/capital.md) Gains**: 12%
+ - **[Interest](../i/interest.md) [Income](../i/income.md)**: 0.5%
+ - **[Transaction Costs](../t/transaction_costs.md)**: -0.5%
+ - **[Slippage](../s/slippage.md)**: -0.25%
+ - **[Leverage Effect](../l/leverage_effect_in_trading.md)**: 1.25%
 
 By breaking down the [yield](../y/yield.md), it becomes evident that despite [robust](../r/robust.md) [capital](../c/capital.md) gains, [transaction costs](../t/transaction_costs.md) and [slippage](../s/slippage.md) reduce the [effective yield](../e/effective_yield.md). Strategies like optimizing [trade](../t/trade.md) [execution](../e/execution.md) and reducing [slippage](../s/slippage.md) can enhance the overall [yield](../y/yield.md).
 

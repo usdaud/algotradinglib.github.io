@@ -46,7 +46,7 @@ Effective [risk management](../r/risk_management.md) is essential for maintainin
 
 [Execution](../e/execution.md) Management Systems (EMS) are software applications that facilitate the efficient [execution](../e/execution.md) of trades. These systems often include features like [real-time market data](../r/real-time_market_data.md), [order routing](../o/order_routing.md), and [trade](../t/trade.md) analytics, which are essential for optimizing [trade](../t/trade.md) [execution](../e/execution.md) and generating [alpha](../a/alpha.md).
 
-- Example: [Bloomberg EMSX](https://www.bloomberg.com/professional/product/execution-management-system/)
+- Example: Bloomberg EMSX
 
 ### 4. Cloud Computing
 
@@ -80,25 +80,21 @@ In high-frequency trading, even microseconds can make a difference. Latency refe
 
 Renaissance Technologies, founded by mathematician James Simons, is one of the most successful [hedge](../h/hedge.md) funds specializing in quantitative and [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md) has generated annualized returns of over 30% since its inception. Renaissance Technologies employs a team of experts in mathematics, physics, and computer science to develop sophisticated [trading algorithms](../t/trading_algorithms.md) that generate significant [alpha](../a/alpha.md).
 
-- Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Case Study 2: Two Sigma
 
 Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) known for its data-driven approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses advanced [machine learning](../m/machine_learning.md) techniques and [big data analytics](../b/big_data_analytics_in_trading.md) to create [trading strategies](../t/trading_strategies.md) that consistently [outperform](../o/outperform.md) the [market](../m/market.md). Two Sigma’s emphasis on research and technology has made it a leader in [alpha](../a/alpha.md) generation.
 
-- Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Case Study 3: Citadel
 
 Citadel is a global financial institution that operates one of the largest and most successful [market](../m/market.md)-making businesses. The [firm](../f/firm.md) uses [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to generate [alpha](../a/alpha.md) by arbitraging price discrepancies across various markets. Citadel’s investment in cutting-edge technology and data [infrastructure](../i/infrastructure.md) has been a key [factor](../f/factor.md) in its success.
 
-- Website: [Citadel](https://www.citadel.com/)
 
 ### Case Study 4: D. E. Shaw
 
 D. E. Shaw is a [hedge fund](../h/hedge_fund.md) known for its use of quantitative methods and [computational finance](../c/computational_finance.md). The [firm](../f/firm.md)’s [trading strategies](../t/trading_strategies.md) rely heavily on statistical [arbitrage](../a/arbitrage.md) and [machine learning](../m/machine_learning.md) models to identify profitable trading opportunities. D. E. Shaw’s interdisciplinary approach has enabled it to generate substantial [alpha](../a/alpha.md) over the years.
 
-- Website: [D. E. Shaw](https://www.deshaw.com/)
 
 ## Future Trends in Alpha Generation
 
@@ -130,4 +126,4 @@ As concerns about the ethical implications of [algorithmic trading](../a/algorit
 - Leading firms in the field, such as Renaissance Technologies, Two Sigma, and Citadel, exemplify the successful application of these principles.
 - Future trends like AI, [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) promise to reshape the landscape of [alpha](../a/alpha.md) generation.
 
-For more information on [alpha](../a/alpha.md) generation and [algorithmic trading](../a/algorithmic_trading.md) strategies, visit the websites of leading firms mentioned in the case studies above.
+For more information on [alpha](../a/alpha.md) generation and [algorithmic trading](../a/algorithmic_trading.md) strategies, visit the websites of leading firms mentioned in the case studies above.

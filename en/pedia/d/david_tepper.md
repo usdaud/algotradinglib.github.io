@@ -18,7 +18,7 @@ In 1993, Tepper left Goldman Sachs to co-found Appaloosa Management with Jack Wa
 
 Appaloosa Management’s strategy focuses on deep [value investing](../v/value_investing.md), where they buy securities that are trading significantly below [intrinsic value](../i/intrinsic_value.md). The [firm](../f/firm.md) often takes large positions in distressed companies, betting on their [turnaround](../t/turnaround.md) or improved [market](../m/market.md) conditions. Tepper's approach often involves significant [risk](../r/risk.md), but it has also led to substantial rewards.
 
-For more information on Appaloosa Management, you can visit their website: [Appaloosa Management](http://www.appaloosamanagement.com).
+
 
 ## Investing in Debt
 

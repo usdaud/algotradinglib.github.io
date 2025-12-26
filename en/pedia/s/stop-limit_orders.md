@@ -89,10 +89,10 @@ In this example, the `place_stop_limit_order` function takes parameters such as 
 
 Stop-limit orders are widely used in different [financial markets](../f/financial_market.md) including [stocks](../s/stock.md), forex, commodities, and cryptocurrencies. They are part of the standard offerings on almost all trading platforms. Here are some examples of financial institutions and trading platforms that support stop-limit orders:
 
-- **[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers](../i/interactive_brokers.md) is one of the leading platforms for [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) comprehensive support for various [order types](../o/order_types_in_trading.md) including stop-limit orders. [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD [Ameritrade](../a/ameritrade.md):** TD [Ameritrade](../a/ameritrade.md) provides support for stop-limit orders and other advanced [order types](../o/order_types_in_trading.md), ideal for traders looking to automate their strategies. [TD Ameritrade](https://www.tdameritrade.com)
-- **[Binance](../b/binance.md):** As a leading cryptocurrency [exchange](../e/exchange.md), [Binance](../b/binance.md) offers [stop-limit order](../s/stop-limit_order.md) functionality for trading [multiple](../m/multiple.md) digital assets. [Binance](https://www.binance.com)
-- **[E*TRADE](../e/e_trade.md):** [E*TRADE](../e/e_trade.md) offers the capability to place stop-limit orders for stock and [options](../o/options.md) trading, catering to both novice and professional traders. [E*TRADE](https://www.etrade.com)
+- **[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers](../i/interactive_brokers.md) is one of the leading platforms for [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) comprehensive support for various [order types](../o/order_types_in_trading.md) including stop-limit orders. Interactive Brokers
+- **TD [Ameritrade](../a/ameritrade.md):** TD [Ameritrade](../a/ameritrade.md) provides support for stop-limit orders and other advanced [order types](../o/order_types_in_trading.md), ideal for traders looking to automate their strategies. TD Ameritrade
+- **[Binance](../b/binance.md):** As a leading cryptocurrency [exchange](../e/exchange.md), [Binance](../b/binance.md) offers [stop-limit order](../s/stop-limit_order.md) functionality for trading [multiple](../m/multiple.md) digital assets. Binance
+- **[E*TRADE](../e/e_trade.md):** [E*TRADE](../e/e_trade.md) offers the capability to place stop-limit orders for stock and [options](../o/options.md) trading, catering to both novice and professional traders. E*TRADE
 
 ## Conclusion
 

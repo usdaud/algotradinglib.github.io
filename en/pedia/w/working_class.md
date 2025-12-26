@@ -1,6 +1,6 @@
 # Working Class
 
-The "working class" is a socio-economic term that refers to people employed in various types of manual labor or who occupy industrial jobs, both in white-[collar](../c/collar.md) and blue-[collar](../c/collar.md) sectors. The term is closely connected to the histories of [industrialization](../i/industrialization.md), [capitalism](../c/capitalism.md), and labor movements. This article intends to provide a comprehensive understanding of the working class, delving into its history, characteristics, and the modern-day implications in financial systems, particularly focusing on fintech and [algorithmic trading](../a/accountability.md).
+The "working class" is a socio-economic term that refers to people employed in various types of manual labor or who occupy industrial jobs, both in white-[collar](../c/collar.md) and blue-[collar](../c/collar.md) sectors. The term is closely connected to the histories of [industrialization](../i/industrialization.md), [capitalism](../c/capitalism.md), and labor movements. This article intends to provide a comprehensive understanding of the working class, delving into its history, characteristics, and the modern-day implications in financial systems, particularly focusing on fintech and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Historical Context and Evolution
 
@@ -33,7 +33,7 @@ The working class today is diverse and exists in various forms across different 
 
 ### Employment and Income
 
-- **Job Types:** Working-class jobs often include manual labor, skilled trades, retail, [customer service](../c/customer_service.md), clerical work, and similar positions. 
+- **Job Types:** Working-class jobs often include manual labor, skilled trades, retail, [customer service](../c/customer_service.md), clerical work, and similar positions.
 - **[Income](../i/income.md) Levels:** Generally, working-class individuals earn lower to middle incomes, though there is significant variation based on region, [industry](../i/industry.md), and qualifications.
 
 ### Education and Skills
@@ -48,7 +48,7 @@ The working class today is diverse and exists in various forms across different 
 
 ## Modern Implications: Fintech and Algorithmic Trading
 
-The rise of technology and digital [finance](../f/finance.md) has introduced new dynamics for the working class, especially in the context of fintech and [algorithmic trading](../a/accountability.md). These technologies [offer](../o/offer.md) both opportunities and challenges for the working class.
+The rise of technology and digital [finance](../f/finance.md) has introduced new dynamics for the working class, especially in the context of fintech and [algorithmic trading](../a/algorithmic_trading.md). These technologies [offer](../o/offer.md) both opportunities and challenges for the working class.
 
 ### Fintech
 
@@ -59,11 +59,11 @@ Financial technology, or fintech, refers to the use of technology to deliver fin
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute [trading strategies](../t/trading_strategies.md) in [financial markets](../f/financial_market.md) automatically. This technology is transforming the landscape of [finance](../f/finance.md) and has implications for both traders and the broader working class.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute [trading strategies](../t/trading_strategies.md) in [financial markets](../f/financial_market.md) automatically. This technology is transforming the landscape of [finance](../f/finance.md) and has implications for both traders and the broader working class.
 
 - **[Market](../m/market.md) Access:** [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) can democratize [market](../m/market.md) access, allowing individual traders, including those from the working class, to participate in [financial markets](../f/financial_market.md) with lower [transaction costs](../t/transaction_costs.md).
 - **Job Displacement:** The automation of trading and financial services can lead to job displacement in traditional financial roles, such as stockbrokers and financial analysts.
-- **Skill Requirements:** Engaging in [algorithmic trading](../a/accountability.md) requires knowledge of programming, data analysis, and [financial markets](../f/financial_market.md)—skills that may not be common among the traditional working class, thus creating a digital divide.
+- **Skill Requirements:** Engaging in [algorithmic trading](../a/algorithmic_trading.md) requires knowledge of programming, data analysis, and [financial markets](../f/financial_market.md)—skills that may not be common among the traditional working class, thus creating a digital divide.
 
 ### Case Study: Robinhood
 
@@ -73,7 +73,7 @@ Financial technology, or fintech, refers to the use of technology to deliver fin
 - **User-Friendly App:** The platform is designed to be user-friendly, with an intuitive interface that lowers the [barriers to entry](../b/barriers_to_entry.md) for inexperienced investors.
 - **[Financial Literacy](../f/financial_literacy.md):** While [Robinhood](../r/robinhood.md) provides access to [financial markets](../f/financial_market.md), it also underscores the importance of [financial literacy](../f/financial_literacy.md), as the ease of use can lead to impulsive trading without adequate understanding of risks.
 
-For more information, you can visit [Robinhood](../r/robinhood.md)'s official [website](https://robinhood.com/).
+For more information, you can visit [Robinhood](../r/robinhood.md)'s
 
 ## Economic Policies and the Working Class
 
@@ -104,4 +104,4 @@ Tax policies directly impact the [disposable income](../d/disposable_income.md) 
 
 The working class is a vital component of any [economy](../e/economy.md), contributing to the production of goods and services and driving [economic growth](../e/economic_growth.md). Understanding the historical context, characteristics, and modern implications of the working class is essential for addressing the challenges they face and creating policies that promote economic inclusion and [equity](../e/equity.md).
 
-As technology continues to shape the financial landscape, particularly with the rise of fintech and [algorithmic trading](../a/accountability.md), there are new opportunities and risks for the working class. Policymakers, businesses, and individuals must work together to ensure that technological advancements do not exacerbate existing inequalities but rather contribute to a more inclusive and prosperous society.
+As technology continues to shape the financial landscape, particularly with the rise of fintech and [algorithmic trading](../a/algorithmic_trading.md), there are new opportunities and risks for the working class. Policymakers, businesses, and individuals must work together to ensure that technological advancements do not exacerbate existing inequalities but rather contribute to a more inclusive and prosperous society.

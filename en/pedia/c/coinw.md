@@ -56,7 +56,7 @@ CoinW provides comprehensive API support for developers, enabling them to build 
 - Automated trading operations
 - Account management
 
-Developers can access the API documentation on their [official site](https://coinw.com).
+Developers can access the API documentation through CoinW.
 
 ## Regulations and Compliance
 
@@ -72,6 +72,5 @@ CoinW is positioning itself as a competitive player in the cryptocurrency [excha
 
 ## Conclusion
 
-CoinW is making significant strides toward becoming a prominent digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md) by [offering](../o/offering.md) a comprehensive and secure [trading environment](../t/trading_environment.md). Its emphasis on advanced trading tools, a wide [range](../r/range.md) of supported cryptocurrencies, and [robust](../r/robust.md) [security](../s/security.md) measures make it a compelling choice for cryptocurrency enthusiasts worldwide. 
+CoinW is making significant strides toward becoming a prominent digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md) by [offering](../o/offering.md) a comprehensive and secure [trading environment](../t/trading_environment.md). Its emphasis on advanced trading tools, a wide [range](../r/range.md) of supported cryptocurrencies, and [robust](../r/robust.md) [security](../s/security.md) measures make it a compelling choice for cryptocurrency enthusiasts worldwide.
 
-For more information, you can visit their [official website](https://coinw.com).

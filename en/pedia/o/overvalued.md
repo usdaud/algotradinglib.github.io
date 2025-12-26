@@ -8,7 +8,7 @@ Several key metrics and ratios are used to evaluate whether a stock is overvalue
 
 ### Price-to-Earnings Ratio (P/E Ratio)
 The P/E Ratio is calculated by dividing the current [market price](../m/market_price.md) of a stock by its [earnings](../e/earnings.md) per share (EPS). A high P/E ratio could imply that the stock is overvalued:
-\[ 
+\[
 \text{P/E Ratio} = \frac{\text{[Market Price](../m/market_price.md) Per Share}}{\text{[Earnings](../e/earnings.md) Per Share (EPS)}}
 \]
 
@@ -52,7 +52,7 @@ This involves evaluating [financial statements](../f/financial_statements.md), [
 ### Technical Analysis
 Technical analysts use historical price charts and trading volumes to predict future price movements. Overvalued [stocks](../s/stock.md) often exhibit rapid price increases without substantive improvements in [underlying](../u/underlying.md) fundamentals.
 
-### Quantitative Models 
+### Quantitative Models
 Quantitative analysts develop algorithms and models to identify overvalued [stocks](../s/stock.md) based on statistical methods and historical data. These models may incorporate [machine learning](../m/machine_learning.md) techniques to improve accuracy.
 
 ## Implications of Overvaluation
@@ -67,7 +67,7 @@ Holding overvalued [stocks](../s/stock.md) can [yield](../y/yield.md) poor long-
 ## Strategies to Avoid Overvalued Stocks
 Investors employ several strategies to mitigate the [risk](../r/risk.md) of purchasing overvalued [stocks](../s/stock.md):
 
-### Due Diligence 
+### Due Diligence
 Conducting thorough research and [due diligence](../d/due_diligence.md) can help investors avoid buying overpriced [stocks](../s/stock.md). This may include examining [financial statements](../f/financial_statements.md), [market](../m/market.md) conditions, and [industry](../i/industry.md) outlooks.
 
 ### Diversification
@@ -92,16 +92,16 @@ The mid-2000s [real estate](../r/real_estate.md) bubble involved housing prices 
 Several platforms and tools help in evaluating and identifying overvalued securities:
 
 ### Bloomberg Terminal
-The [Bloomberg Terminal](../b/bloomberg_terminal.md) offers a comprehensive suite of tools for [financial analysis](../f/financial_analysis.md), including metrics and real-time data useful in assessing overvaluation. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg Terminal](../b/bloomberg_terminal.md) offers a comprehensive suite of tools for [financial analysis](../f/financial_analysis.md), including metrics and real-time data useful in assessing overvaluation. Bloomberg Terminal
 
 ### FactSet
-[FactSet](../f/factset.md) provides integrated financial information and analytical applications that assist investors in conducting detailed fundamental and [quantitative analysis](../q/quantitative_analysis.md). [FactSet](https://www.factset.com/)
+[FactSet](../f/factset.md) provides integrated financial information and analytical applications that assist investors in conducting detailed fundamental and [quantitative analysis](../q/quantitative_analysis.md). FactSet
 
 ### Morningstar
-[Morningstar](../m/morningstar.md) offers investment research and management services with insights into [equity](../e/equity.md) valuations. Investors can [leverage](../l/leverage.md) [Morningstar](../m/morningstar.md)’s resources to find [stocks](../s/stock.md) potentially overvalued. [Morningstar](https://www.morningstar.com/)
+[Morningstar](../m/morningstar.md) offers investment research and management services with insights into [equity](../e/equity.md) valuations. Investors can [leverage](../l/leverage.md) [Morningstar](../m/morningstar.md)’s resources to find [stocks](../s/stock.md) potentially overvalued. Morningstar
 
 ### Seeking Alpha
-Seeking [Alpha](../a/alpha.md) is an investment community that offers [stock market](../s/stock_market.md) insights, including analyses and opinions on potential overvaluation. [Seeking Alpha](https://seekingalpha.com/)
+Seeking [Alpha](../a/alpha.md) is an investment community that offers [stock market](../s/stock_market.md) insights, including analyses and opinions on potential overvaluation. Seeking Alpha
 
 ## Conclusion
 Understanding overvaluation is crucial for making informed investment decisions. By using fundamental and [technical analysis](../t/technical_analysis.md), and leveraging contemporary tools, investors can identify [stocks](../s/stock.md) that are overpriced relative to their [intrinsic value](../i/intrinsic_value.md). However, other strategies like [diversification](../d/diversification.md) and setting [stop-loss orders](../s/stop-loss_orders.md) can mitigate the risks associated with holding overvalued securities. The goal is to strike a balance between potential gains and risks, ensuring long-term [financial health](../f/financial_health.md) and stability of an investment portfolio.

@@ -14,11 +14,11 @@ Non-[linear models](../l/linear_models_in_trading.md) include a broad [range](..
 
 3. **Exponential Models**: Here, the relationship between the dependent and independent variables is exponential, represented by \( y = ab^x \).
 
-4. **Polynomial Models**: Polynomial regression seeks to model the relationship between dependent and independent variables as an nth-degree polynomial. 
+4. **Polynomial Models**: Polynomial regression seeks to model the relationship between dependent and independent variables as an nth-degree polynomial.
 
 5. **Threshold Models**: In [financial markets](../f/financial_market.md), certain relationships exhibit different behavior past a threshold. For example, [interest](../i/interest.md) rates might have minimal impact on the [economy](../e/economy.md) up to a certain point, after which their impact becomes significant.
 
-6. **Chaos Theory and Fractals**: Chaos theory and the use of fractals can describe the seemingly random but deterministic behaviors in [market](../m/market.md) prices over time. 
+6. **Chaos Theory and Fractals**: Chaos theory and the use of fractals can describe the seemingly random but deterministic behaviors in [market](../m/market.md) prices over time.
 
 7. **Non-linear Differential Equations**: These are used to model more complex dynamic systems where rates of change are described by non-linear functions.
 
@@ -44,9 +44,9 @@ Non-[linear models](../l/linear_models_in_trading.md) include a broad [range](..
 
 Several [hedge](../h/hedge.md) funds and financial institutions rely heavily on non-[linear models](../l/linear_models_in_trading.md) for their [algorithmic trading](../a/algorithmic_trading.md) strategies. Notably:
 
-- **Renaissance Technologies**: Founded by James Simons, this [hedge fund](../h/hedge_fund.md) is renowned for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) and [data mining](../d/data_mining.md) techniques, many of which are non-linear, for stock trading. [Renaissance Technologies](https://www.rentec.com)
+- **Renaissance Technologies**: Founded by James Simons, this [hedge fund](../h/hedge_fund.md) is renowned for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) and [data mining](../d/data_mining.md) techniques, many of which are non-linear, for stock trading. Renaissance Technologies
 
-- **Two Sigma**: Another technology-driven [firm](../f/firm.md) that leverages non-[linear models](../l/linear_models_in_trading.md) and [machine learning](../m/machine_learning.md) to execute [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
+- **Two Sigma**: Another technology-driven [firm](../f/firm.md) that leverages non-[linear models](../l/linear_models_in_trading.md) and [machine learning](../m/machine_learning.md) to execute [trading strategies](../t/trading_strategies.md). Two Sigma
 
 ### Challenges and Limitations
 

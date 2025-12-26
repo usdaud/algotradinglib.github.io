@@ -19,15 +19,15 @@ On the [ex-dividend](../e/ex-dividend.md) date, the stock price typically drops 
 [Dividend](../d/dividend.md) [arbitrage](../a/arbitrage.md) involves buying and shorting a stock in such a way that the [investor](../i/investor.md) can capture the [dividend](../d/dividend.md) while minimizing exposure to price [risk](../r/risk.md). Here’s how it usually works:
 
 1. **Pre-[Ex-Dividend](../e/ex-dividend.md) Buy and Short Sell:**
-   - An [investor](../i/investor.md) buys [shares](../s/shares.md) of a stock just before the [ex-dividend](../e/ex-dividend.md) date.
-   - Simultaneously, the [investor](../i/investor.md) may short sell [futures contracts](../f/futures_contracts.md) or [offset](../o/offset.md) positions in [options](../o/options.md) to [hedge](../h/hedge.md) against the price drop expected on the [ex-dividend](../e/ex-dividend.md) date.
+ - An [investor](../i/investor.md) buys [shares](../s/shares.md) of a stock just before the [ex-dividend](../e/ex-dividend.md) date.
+ - Simultaneously, the [investor](../i/investor.md) may short sell [futures contracts](../f/futures_contracts.md) or [offset](../o/offset.md) positions in [options](../o/options.md) to [hedge](../h/hedge.md) against the price drop expected on the [ex-dividend](../e/ex-dividend.md) date.
 
 2. **Post [Ex-Dividend](../e/ex-dividend.md) Adjustment:**
-   - After the stock goes [ex-dividend](../e/ex-dividend.md), its price typically drops.
-   - The [investor](../i/investor.md) receives the [dividend](../d/dividend.md) [payment](../p/payment.md) but theoretically incurs a [capital](../c/capital.md) loss equivalent to the [dividend](../d/dividend.md) through the stock price drop.
+ - After the stock goes [ex-dividend](../e/ex-dividend.md), its price typically drops.
+ - The [investor](../i/investor.md) receives the [dividend](../d/dividend.md) [payment](../p/payment.md) but theoretically incurs a [capital](../c/capital.md) loss equivalent to the [dividend](../d/dividend.md) through the stock price drop.
 
 3. **Close Positions:**
-   - The [investor](../i/investor.md) closes the long stock position and covers the short position.
+ - The [investor](../i/investor.md) closes the long stock position and covers the short position.
 
 ## Example Scenario
 
@@ -50,7 +50,7 @@ The [hedge](../h/hedge.md) using [futures](../f/futures.md) or [options](../o/op
 Investors may use [options](../o/options.md) to enhance [dividend](../d/dividend.md) [arbitrage](../a/arbitrage.md) through the following choices:
 - **Call and [Put Options](../p/put_options.md):** Buying in-the-[money](../m/money.md) call [options](../o/options.md) before [ex-dividend](../e/ex-dividend.md) and selling synthetic equivalent positions in [put options](../p/put_options.md).
 - **[Dividend](../d/dividend.md) Capture in [Options](../o/options.md):** Due to the drop in price equivalent to the [dividend](../d/dividend.md) amount, the [options](../o/options.md) pricing and exercising strategies can lead to capturing spread benefits.
-  
+
 ### Cross-Market Arbitrage
 This strategy can also be employed across different markets, including the CFDs, ADRs, and peer markets, where discrepancies in [ex-dividend](../e/ex-dividend.md) pricing mechanisms may exist.
 
@@ -62,10 +62,9 @@ This strategy can also be employed across different markets, including the CFDs,
 ## Leading Practitioners and Firms
 Several [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms specialize in [dividend](../d/dividend.md) [arbitrage](../a/arbitrage.md). Examples include:
 
-- **Citadel Securities:** A leading [market maker](../m/market_maker.md) that also dabbles in [systematic trading](../s/systematic_trading.md) strategies [Citadel Securities](https://www.citadelsecurities.com/).
-- **[Jump Trading](../j/jump_trading.md):** Known for quantitative and high-frequency [trading strategies](../t/trading_strategies.md) [Jump Trading](https://www.jumptrading.com/).
-- **Two Sigma:** Engages in data-driven [arbitrage](../a/arbitrage.md) strategies including [dividend](../d/dividend.md)-related ones [Two Sigma](https://www.twosigma.com/).
+- **Citadel Securities:** A leading [market maker](../m/market_maker.md) that also dabbles in [systematic trading](../s/systematic_trading.md) strategies Citadel Securities.
+- **[Jump Trading](../j/jump_trading.md):** Known for quantitative and high-frequency [trading strategies](../t/trading_strategies.md) Jump Trading.
+- **Two Sigma:** Engages in data-driven [arbitrage](../a/arbitrage.md) strategies including [dividend](../d/dividend.md)-related ones Two Sigma.
 
 ## Conclusion
 [Dividend](../d/dividend.md) [arbitrage](../a/arbitrage.md) is a nuanced strategy requiring a deep understanding of [market](../m/market.md) mechanics, timing, and precise [execution](../e/execution.md). While it offers potential returns with reduced [risk](../r/risk.md) compared to outright position trades, it demands significant expertise, resources, and vigilance to manage associated risks and complexities.
-

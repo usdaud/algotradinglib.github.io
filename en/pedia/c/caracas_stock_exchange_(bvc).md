@@ -1,6 +1,6 @@
 # Caracas Stock Exchange (BVC)
 
-The Caracas Stock [Exchange](../e/exchange.md) (Bolsa de Valores de Caracas, BVC) is the primary securities [market](../m/market.md) in Venezuela and has a significant impact on the country's financial landscape. Established in 1947, the BVC operates both the Bolsa de Caracas (the [exchange](../e/exchange.md)) and a separate electronic [market](../m/market.md) (Bolsa Electrónica, executed through the "Sistema Integrado Bursátil Electrónico" or SIBE). Below, we delve into various aspects of the Caracas Stock [Exchange](../e/exchange.md), including its history, structure, operations, important metrics, role in the Venezuelan [economy](../e/economy.md), and technological adaptations. 
+The Caracas Stock [Exchange](../e/exchange.md) (Bolsa de Valores de Caracas, BVC) is the primary securities [market](../m/market.md) in Venezuela and has a significant impact on the country's financial landscape. Established in 1947, the BVC operates both the Bolsa de Caracas (the [exchange](../e/exchange.md)) and a separate electronic [market](../m/market.md) (Bolsa Electrónica, executed through the "Sistema Integrado Bursátil Electrónico" or SIBE). Below, we delve into various aspects of the Caracas Stock [Exchange](../e/exchange.md), including its history, structure, operations, important metrics, role in the Venezuelan [economy](../e/economy.md), and technological adaptations.
 
 ## History of BVC
 

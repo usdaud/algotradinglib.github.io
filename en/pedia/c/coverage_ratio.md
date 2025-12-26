@@ -111,7 +111,7 @@ Company management uses coverage ratios to gauge [financial health](../f/financi
 ## Limitations of Coverage Ratios
 
 1. **[Industry](../i/industry.md) Variations**: Different industries have varying benchmarks for what constitutes "healthy" coverage ratios. Therefore, ratios must be interpreted within the context of the specific [industry](../i/industry.md).
-   
+
 2. **Non-Cash Items**: Ratios like ICR do not consider non-cash expenses, which can misrepresent a company's actual [financial health](../f/financial_health.md).
 
 3. **Temporal Focus**: Coverage ratios focus on short-term ability to meet [obligations](../o/obligation.md) and may not fully reflect long-term financial stability.

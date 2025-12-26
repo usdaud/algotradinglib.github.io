@@ -28,15 +28,15 @@ J-Model [Forecasting](../f/forecasting.md) is a relatively recent addition to th
 
 1. **[Supervised Learning](../s/supervised_learning.md)**: This involves training algorithms on labeled data, where the model learns a mapping from input features to the output predictions. Common supervised [learning algorithms](../l/learning_algorithms_in_trading.md) used in J-Model [Forecasting](../f/forecasting.md) include:
 
-    - **[Linear Regression](../l/linear_regression.md)**: Despite its simplicity, [linear regression](../l/linear_regression.md) can serve as a useful [benchmark](../b/benchmark.md) or be combined with more complex models.
-    - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
-    - [**Gradient Boosting Machines**](https://xgboost.readthedocs.io/): These models build progressively stronger models by focusing on the errors of previous models.
-    - **[Neural Networks](../n/neural_networks_in_trading.md) and [Deep Learning](../d/deep_learning.md)**: Advanced architectures like LSTM (Long Short-Term Memory) networks are particularly effective for time-series [forecasting](../f/forecasting.md).
+ - **[Linear Regression](../l/linear_regression.md)**: Despite its simplicity, [linear regression](../l/linear_regression.md) can serve as a useful [benchmark](../b/benchmark.md) or be combined with more complex models.
+ - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
+ - **Gradient Boosting Machines**: These models build progressively stronger models by focusing on the errors of previous models.
+ - **[Neural Networks](../n/neural_networks_in_trading.md) and [Deep Learning](../d/deep_learning.md)**: Advanced architectures like LSTM (Long Short-Term Memory) networks are particularly effective for time-series [forecasting](../f/forecasting.md).
 
 2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Methods like clustering can be used to identify [underlying](../u/underlying.md) structures in the data that may not be immediately apparent. Techniques include:
 
-    - **[K-means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data into clusters based on similarity, which can help in identifying different [market](../m/market.md) regimes.
-    - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of data, making it easier to visualize and interpret.
+ - **[K-means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data into clusters based on similarity, which can help in identifying different [market](../m/market.md) regimes.
+ - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of data, making it easier to visualize and interpret.
 
 ### Time Series Analysis
 
@@ -93,5 +93,5 @@ For further information and insights into the application of these techniques, c
 
 ### Additional Resources
 
-- [Gradient Boosting Machines Documentation](https://xgboost.readthedocs.io/)
-- [Deep Learning Research at OpenAI](https://www.openai.com/)
+- Gradient Boosting Machines Documentation
+- Deep Learning Research at OpenAI

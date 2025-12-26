@@ -45,7 +45,7 @@ Recommendations deemed unsuitable can lead to several negative outcomes:
 
 ## Assessing Suitability in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, employs complex algorithms to automate [trading strategies](../t/trading_strategies.md). Ensuring suitability in this context involves adapting traditional suitability criteria to automated systems:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, employs complex algorithms to automate [trading strategies](../t/trading_strategies.md). Ensuring suitability in this context involves adapting traditional suitability criteria to automated systems:
 
 ### Dynamic Risk Assessment
 
@@ -69,7 +69,7 @@ The rise of fintech has revolutionized how suitability is assessed and monitored
 
 ### Robo-Advisors
 
-Robo-advisors use sophisticated algorithms to provide personalized investment advice and manage portfolios. They consider factors such as [risk tolerance](../r/risk_tolerance.md), financial goals, and [investment horizon](../i/investment_horizon.md) to recommend suitable investments. Examples include Betterment ([link](https://www.betterment.com)) and Wealthfront ([link](https://www.wealthfront.com)).
+Robo-advisors use sophisticated algorithms to provide personalized investment advice and manage portfolios. They consider factors such as [risk tolerance](../r/risk_tolerance.md), financial goals, and [investment horizon](../i/investment_horizon.md) to recommend suitable investments. Examples include Betterment (link) and Wealthfront (link).
 
 ### AI and Machine Learning
 
@@ -83,11 +83,11 @@ Robo-advisors use sophisticated algorithms to provide personalized investment ad
 
 ### Morgan Stanley
 
-Morgan Stanley uses advanced analytics and AI-driven tools to assess the suitability of investment recommendations. By leveraging these technologies, Morgan Stanley has enhanced its ability to [offer](../o/offer.md) personalized financial advice, aligning closely with clients' [risk profiles](../r/risk_profiles.md) and investment objectives. [More Information](https://www.morganstanley.com).
+Morgan Stanley uses advanced analytics and AI-driven tools to assess the suitability of investment recommendations. By leveraging these technologies, Morgan Stanley has enhanced its ability to [offer](../o/offer.md) personalized financial advice, aligning closely with clients' [risk profiles](../r/risk_profiles.md) and investment objectives. More Information.
 
 ### Vanguard’s Personal Advisor Services
 
-Vanguard combines human advisors with robo-advisor technology to provide tailored investment advice. Their approach ensures that recommendations are suitable and align with each [investor](../i/investor.md)'s unique financial situation and goals. [More Information](https://investor.vanguard.com/advice/personal-advisor).
+Vanguard combines human advisors with robo-advisor technology to provide tailored investment advice. Their approach ensures that recommendations are suitable and align with each [investor](../i/investor.md)'s unique financial situation and goals. More Information.
 
 ## Conclusion
 

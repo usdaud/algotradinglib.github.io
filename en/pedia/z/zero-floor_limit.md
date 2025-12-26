@@ -11,14 +11,14 @@ Zero-floor limits emerged in response to increasing concerns over fraudulent act
 The primary purpose of implementing a zero-floor limit is to reduce instances of [fraud](../f/fraud.md). By requiring authorization for every [transaction](../t/transaction.md), merchants can ensure that the [payment](../p/payment.md) credentials (like [credit card](../c/credit_card.md) numbers) are valid and that the cardholder has sufficient funds or [credit](../c/credit.md). Here are some reasons why the zero-floor limit is indispensable:
 
 1. **[Fraud](../f/fraud.md) Prevention**: By verifying every [transaction](../t/transaction.md), the merchant ensures that each [payment](../p/payment.md) is legitimate. This effectively lowers the chances of fraudulent activities.
-2. **[Transaction](../t/transaction.md) [Security](../s/security.md)**: Improves the overall [security](../s/security.md) of [payment](../p/payment.md) processing. 
+2. **[Transaction](../t/transaction.md) [Security](../s/security.md)**: Improves the overall [security](../s/security.md) of [payment](../p/payment.md) processing.
 3. **Compliance**: Helps in complying with [Payment](../p/payment.md) Card [Industry](../i/industry.md) [Data Security](../d/data_security_in_trading.md) Standard (PCI DSS) regulations.
 4. **[Customer](../c/customer.md) [Trust](../t/trust.md)**: Customers are more likely to [trust](../t/trust.md) merchants who have stringent [security](../s/security.md) measures in place.
 5. **Reduction in Disputes**: Reduces the number of disputed transactions and chargebacks since every [transaction](../t/transaction.md) is vetted.
 
 ### Case Study: Evolution in Retail
 
-Retail giants such as Walmart have transitioned to a zero-floor limit model to ensure [transaction](../t/transaction.md) authenticity and minimize [fraud](../f/fraud.md)-related risks. For more details, visit Walmart's [privacy policy](https://corporate.walmart.com/privacy-security).
+Retail giants such as Walmart have transitioned to a zero-floor limit model to ensure [transaction](../t/transaction.md) authenticity and minimize [fraud](../f/fraud.md)-related risks. For more details, visit Walmart's privacy policy.
 
 ## Mechanisms Involved
 
@@ -56,7 +56,7 @@ Real-time [data analytics](../d/data_analytics.md) tools enable merchants to mak
 
 ## Algorithmic Trading and Zero-Floor Limit
 
-In the realm of [algorithmic trading](../a/accountability.md), a zero-floor limit can also be applied to ensure that each [trade](../t/trade.md) is authorized based on predefined criteria. This helps in minimizing unauthorized trades and ensures adherence to [trading strategies](../t/trading_strategies.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), a zero-floor limit can also be applied to ensure that each [trade](../t/trade.md) is authorized based on predefined criteria. This helps in minimizing unauthorized trades and ensures adherence to [trading strategies](../t/trading_strategies.md).
 
 ## Future Directions
 
@@ -73,7 +73,7 @@ The zero-floor limit model is a critical evolution in the [payment](../p/payment
 ## References
 
 For a deeper understanding, visit appropriate pages of companies like:
-- [Mastercard](https://www.mastercard.us/en-us/business/overview/safety-and-security.html)
-- [Visa](https://usa.visa.com/support/consumer/security.html)
+- Mastercard
+- Visa
 
 These resources provide detailed insights into the mechanisms and importance of stringent [transaction](../t/transaction.md) authorization measures.

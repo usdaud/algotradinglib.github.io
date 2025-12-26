@@ -56,19 +56,19 @@ While not as comprehensive as in a fully planned [economy](../e/economy.md), mix
 
 ### 1. United States
 
-The U.S. is often regarded as a predominantly capitalist [economy](../e/economy.md), but it exhibits significant elements of a mixed economic system. The government regulates various sectors, such as healthcare, transportation, and [finance](../f/finance.md), and provides social [welfare](../w/welfare.md) programs like [Social Security](../s/social_security.md), Medicare, and [unemployment](../u/unemployment.md) benefits. For more information on the U.S. economic system, you can visit the [U.S. Department of Commerce](https://www.commerce.gov/) and the [U.S. Federal Reserve](https://www.federalreserve.gov/).
+The U.S. is often regarded as a predominantly capitalist [economy](../e/economy.md), but it exhibits significant elements of a mixed economic system. The government regulates various sectors, such as healthcare, transportation, and [finance](../f/finance.md), and provides social [welfare](../w/welfare.md) programs like [Social Security](../s/social_security.md), Medicare, and [unemployment](../u/unemployment.md) benefits. For more information on the U.S. economic system, you can visit the U.S. Department of Commerce and the U.S. Federal Reserve.
 
 ### 2. United Kingdom
 
-The UK has a mixed [economy](../e/economy.md) with a strong [private sector](../p/private_sector.md) and substantial public sector involvement. The National Health Service (NHS) is an example of government-provided healthcare, and public transportation is regulated by the government. The UK also has social [welfare](../w/welfare.md) programs, including state pensions and [unemployment](../u/unemployment.md) benefits. To learn more, visit the [UK Government](https://www.gov.uk/) website.
+The UK has a mixed [economy](../e/economy.md) with a strong [private sector](../p/private_sector.md) and substantial public sector involvement. The National Health Service (NHS) is an example of government-provided healthcare, and public transportation is regulated by the government. The UK also has social [welfare](../w/welfare.md) programs, including state pensions and [unemployment](../u/unemployment.md) benefits. To
 
 ### 3. Germany
 
-Germany's social [market economy](../m/market_economy.md) combines free-[market](../m/market.md) [capitalism](../c/capitalism.md) with social policies that establish a comprehensive [welfare state](../w/welfare_state.md). The government plays a vital role in regulating industries, ensuring fair competition, and providing social services such as healthcare, pension schemes, and education. More details can be found on the [German Federal Government](https://www.bundesregierung.de/) website.
+Germany's social [market economy](../m/market_economy.md) combines free-[market](../m/market.md) [capitalism](../c/capitalism.md) with social policies that establish a comprehensive [welfare state](../w/welfare_state.md). The government plays a vital role in regulating industries, ensuring fair competition, and providing social services such as healthcare, pension schemes, and education. More
 
 ### 4. Sweden
 
-Sweden is renowned for its extensive [welfare state](../w/welfare_state.md) and mixed economic system. The government provides a wide [range](../r/range.md) of social services and imposes high [taxes](../t/taxes.md) to [fund](../f/fund.md) these programs. At the same time, there is a strong emphasis on maintaining a dynamic and competitive [private sector](../p/private_sector.md). For more information, visit the [Swedish Government](https://www.government.se/).
+Sweden is renowned for its extensive [welfare state](../w/welfare_state.md) and mixed economic system. The government provides a wide [range](../r/range.md) of social services and imposes high [taxes](../t/taxes.md) to [fund](../f/fund.md) these programs. At the same time, there is a strong emphasis on maintaining a dynamic and competitive [private sector](../p/private_sector.md). For more information, visit the Swedish Government.
 
 ## Conclusion
 

@@ -26,7 +26,7 @@ The methodology of quantitative [backtesting](../b/backtesting.md) involves seve
 
 Several tools and platforms are available to facilitate quantitative [backtesting](../b/backtesting.md). Some of the notable ones include:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform that offers [backtesting](../b/backtesting.md) capabilities for [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, forex, [futures](../f/futures.md), and cryptocurrencies. More details can be found [here](https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform that offers [backtesting](../b/backtesting.md) capabilities for [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, forex, [futures](../f/futures.md), and cryptocurrencies. More details can be found here.
 
 - **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library in Python, which is used by the Quantopian platform. It supports a wide [range](../r/range.md) of technical and fundamental data.
 
@@ -65,4 +65,3 @@ Quantitative [backtesting](../b/backtesting.md) is applied in various domains wi
 ## Conclusion
 
 Quantitative [backtesting](../b/backtesting.md) is an indispensable tool in the arsenal of a quantitative [trader](../t/trader.md). While it presents challenges, the insights gained from [backtesting](../b/backtesting.md) can significantly enhance the development and refinement of [trading strategies](../t/trading_strategies.md). With the right data, tools, and methodology, traders can [leverage](../l/leverage.md) [backtesting](../b/backtesting.md) to achieve better [risk management](../r/risk_management.md), [optimization](../o/optimization.md), and ultimately, improved [trading performance](../t/trading_performance.md).
-

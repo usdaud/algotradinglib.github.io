@@ -57,25 +57,21 @@ Indicates the maximum observed loss from a peak to a [trough](../t/trough.md), p
 
 ## 4. Comparative Analysis of Algorithmic Trading Frameworks
 
-### 4.1 QuantConnect
+### 4.1 StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers [backtesting](../b/backtesting.md) and live trading capabilities.
-- [QuantConnect Official Site](https://www.quantconnect.com)
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers [backtesting](../b/backtesting.md) and live trading capabilities.
 
 ### 4.2 Algorithmic Trading by Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) offers a [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) tools, including predefined algorithms for complex orders.
-- [Interactive Brokers Official Site](https://www.interactivebrokers.com)
 
 ### 4.3 MetaTrader
 
 MetaTrader is a widely used platform, particularly in Forex and CFD markets, [offering](../o/offering.md) advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities through its MQL4 and MQL5 programming languages.
-- [MetaTrader Official Site](https://www.metatrader4.com)
 
 ### 4.4 TradeStation
 
 [TradeStation](../t/tradestation.md) provides a powerful suite of trading tools and supports [algorithmic trading](../a/algorithmic_trading.md) through EasyLanguage, a proprietary programming language.
-- [TradeStation Official Site](https://www.tradestation.com)
 
 ## 5. Advantages and Disadvantages
 
@@ -98,34 +94,28 @@ MetaTrader is a widely used platform, particularly in Forex and CFD markets, [of
 ### 6.1 Renaissance Technologies
 
 Renaissance Technologies, founded by Jim Simons, is one of the most famous [hedge](../h/hedge.md) funds using [algorithmic trading](../a/algorithmic_trading.md), known for its Medallion [Fund](../f/fund.md).
-- [Renaissance Technologies Official Site](https://www.rentec.com)
 
 ### 6.2 Two Sigma
 
 Two Sigma employs various types of data to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies, focusing on scientific methods and technology.
-- [Two Sigma Official Site](https://www.twosigma.com)
 
 ### 6.3 Citadel
 
 Citadel uses advanced analytics and high-frequency [trading strategies](../t/trading_strategies.md), making it one of the largest [market](../m/market.md) makers in the world.
-- [Citadel Official Site](https://www.citadel.com)
 
 ### 6.4 D.E. Shaw Group
 
 D.E. Shaw Group utilizes quantitative and computational techniques, employing a diverse [range](../r/range.md) of [trading strategies](../t/trading_strategies.md) across [asset](../a/asset.md) classes.
-- [D.E. Shaw Group Official Site](https://www.deshaw.com)
 
 ## 7. Regulatory Landscape
 
 ### 7.1 U.S. Securities and Exchange Commission (SEC)
 
 The SEC regulates algo trading to ensure [market](../m/market.md) fairness, [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md). Regulations such as Reg NMS impact algorithmic strategies.
-- [SEC Official Site](https://www.sec.gov)
 
 ### 7.2 Commodity Futures Trading Commission (CFTC)
 
 The CFTC oversees trading in [futures](../f/futures.md) and commodities markets, focusing on preventing manipulation and ensuring [market](../m/market.md) integrity.
-- [CFTC Official Site](https://www.cftc.gov)
 
 ## 8. Future Trends
 

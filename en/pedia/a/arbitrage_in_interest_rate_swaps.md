@@ -4,7 +4,7 @@
 
 ## What Are Interest Rate Swaps?
 
-An [interest rate swap](../i/interest_rate_swap.md) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) one stream of [interest](../i/interest.md) payments for another, over a set period. Typically, one party pays a [fixed interest rate](../f/fixed_interest_rate.md) while the other party pays a [floating interest rate](../f/floating_interest_rate.md), often linked to a [benchmark](../b/benchmark.md) like LIBOR (London Interbank Offered Rate) or its successors like SOFR (Secured Overnight [Financing](../f/financing.md) Rate). The [notional principal amount](../n/notional_principal_amount.md) is not exchanged; it merely serves as the [basis](../b/basis.md) for calculating the [interest](../i/interest.md) payments. 
+An [interest rate swap](../i/interest_rate_swap.md) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) one stream of [interest](../i/interest.md) payments for another, over a set period. Typically, one party pays a [fixed interest rate](../f/fixed_interest_rate.md) while the other party pays a [floating interest rate](../f/floating_interest_rate.md), often linked to a [benchmark](../b/benchmark.md) like SOFR (Secured Overnight [Financing](../f/financing.md) Rate), which replaced LIBOR (London Interbank Offered Rate) in June 2023. The [notional principal amount](../n/notional_principal_amount.md) is not exchanged; it merely serves as the [basis](../b/basis.md) for calculating the [interest](../i/interest.md) payments.
 
 ### Types of Interest Rate Swaps
 
@@ -52,18 +52,18 @@ The regulatory framework for [interest rate swaps](../i/interest_rate_swaps.md) 
 
 ## Prominent Players and Platforms
 
-### Bloomberg [Bloomberg](https://www.bloomberg.com/)
+### Bloomberg Bloomberg
 
 [Bloomberg](../b/bloomberg.md) provides comprehensive financial data services, including real-time data and analytics for [interest rate swaps](../i/interest_rate_swaps.md). Their platform is widely used for identifying [arbitrage](../a/arbitrage.md) opportunities.
 
-### Tradeweb [Tradeweb](https://www.tradeweb.com/)
+### Tradeweb Tradeweb
 
 Tradeweb is a leading provider of fixed-[income](../i/income.md) trading platforms, [offering](../o/offering.md) a variety of trading and data solutions for [interest rate swaps](../i/interest_rate_swaps.md).
 
-### Intercontinental Exchange [ICE](https://www.theice.com/)
+### Intercontinental Exchange ICE
 
 ICE offers [clearing](../c/clearing.md) and data services for [interest rate swaps](../i/interest_rate_swaps.md), providing a transparent and secure platform for trading and [risk management](../r/risk_management.md).
 
 ## Conclusion
 
-[Arbitrage](../a/arbitrage.md) in [Interest Rate Swaps](../i/interest_rate_swaps.md) represents a sophisticated area of financial trading, requiring deep [market](../m/market.md) knowledge, [robust](../r/robust.md) [quantitative models](../q/quantitative_models.md), and advanced technological systems. It offers opportunities for [risk](../r/risk.md)-free gains by exploiting price inefficiencies but also comes with significant risks that need to be managed effectively. As [financial markets](../f/financial_market.md) continue to evolve, the strategies and tools used for [arbitrage](../a/arbitrage.md) in [interest rate swaps](../i/interest_rate_swaps.md) [will](../w/will.md) also advance, [offering](../o/offering.md) new opportunities and challenges for [market](../m/market.md) participants.
+[Arbitrage](../a/arbitrage.md) in [Interest Rate Swaps](../i/interest_rate_swaps.md) represents a sophisticated area of financial trading, requiring deep [market](../m/market.md) knowledge, [robust](../r/robust.md) [quantitative models](../q/quantitative_models.md), and advanced technological systems. It offers opportunities for [risk](../r/risk.md)-free gains by exploiting price inefficiencies but also comes with significant risks that need to be managed effectively. As [financial markets](../f/financial_market.md) continue to evolve, the strategies and tools used for [arbitrage](../a/arbitrage.md) in [interest rate swaps](../i/interest_rate_swaps.md) [will](../w/will.md) also advance, [offering](../o/offering.md) new opportunities and challenges for [market](../m/market.md) participants.

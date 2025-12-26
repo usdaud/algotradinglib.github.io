@@ -94,15 +94,15 @@ Traders and firms can draw several practical insights from the application of [h
 Various tools and [software platforms](../s/software_platforms_for_trading.md) can assist traders and researchers in analyzing and exploiting [heuristics](../h/heuristics.md) in trading:
 
 - **[Sentiment Analysis](../s/sentiment_analysis.md) Tools**: Platforms like [RavenPack](../r/ravenpack.md) and Lexalytics provide [sentiment analysis](../s/sentiment_analysis.md) tools that can help algotraders incorporate [market sentiment](../m/market_sentiment.md) driven by [heuristics](../h/heuristics.md).
-- **[Backtesting](../b/backtesting.md) Software**: Tools like [QuantConnect](../q/quantconnect.md) and [TradingView](../t/tradingview.md) [offer](../o/offer.md) [backtesting](../b/backtesting.md) capabilities that can be used to simulate the impact of [behavioral biases](../b/behavioral_biases_in_trading.md) on [trading strategies](../t/trading_strategies.md).
+- **[Backtesting](../b/backtesting.md) Software**: Tools like [StockSharp](../s/stocksharp.md) and [TradingView](../t/tradingview.md) [offer](../o/offer.md) [backtesting](../b/backtesting.md) capabilities that can be used to simulate the impact of [behavioral biases](../b/behavioral_biases_in_trading.md) on [trading strategies](../t/trading_strategies.md).
 - **Educational Resources**: Courses and materials from institutions like Coursera and the CFA Institute [offer](../o/offer.md) in-depth education on [behavioral finance](../b/behavioral_finance.md) and its applications in trading.
 
 ## Conclusion
 
-Kahneman-Tversky [heuristics](../h/heuristics.md) have profound implications for trading. By understanding and incorporating these [heuristics](../h/heuristics.md), traders and algorithmic systems can better navigate the complexities of [financial markets](../f/financial_market.md). From improving [predictive models](../p/predictive_models_in_trading.md) and [risk management](../r/risk_management.md) to exploiting [market](../m/market.md) inefficiencies, the application of behavioral insights offers a significant edge in the competitive world of trading. 
+Kahneman-Tversky [heuristics](../h/heuristics.md) have profound implications for trading. By understanding and incorporating these [heuristics](../h/heuristics.md), traders and algorithmic systems can better navigate the complexities of [financial markets](../f/financial_market.md). From improving [predictive models](../p/predictive_models_in_trading.md) and [risk management](../r/risk_management.md) to exploiting [market](../m/market.md) inefficiencies, the application of behavioral insights offers a significant edge in the competitive world of trading.
 
 For further information and resources, you can visit companies that employ these practices:
-- [Renaissance Technologies](https://www.rentech.com)
-- [Bridgewater Associates](https://www.bridgewater.com)
+- Renaissance Technologies
+- Bridgewater Associates
 
 In conclusion, the integration of Kahneman-Tversky [heuristics](../h/heuristics.md) into trading and algorithmic strategies offers a promising avenue for enhancing decision-making and achieving better financial outcomes.

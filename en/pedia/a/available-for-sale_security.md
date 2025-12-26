@@ -58,11 +58,11 @@ AFS securities play a strategic role in investment portfolios, particularly in t
 
 ### Financial Institutions
 
-Financial institutions, such as banks and [insurance](../i/insurance.md) companies, frequently [hold](../h/hold.md) AFS securities as part of their investment portfolios. For example, JPMorgan Chase (https://www.jpmorganchase.com/) utilizes AFS securities to manage [liquidity](../l/liquidity.md) and optimize their investment returns while maintaining regulatory compliance on [capital](../c/capital.md) reserves.
+Financial institutions, such as banks and [insurance](../i/insurance.md) companies, frequently [hold](../h/hold.md) AFS securities as part of their investment portfolios. For example, JPMorgan Chase ( utilizes AFS securities to manage [liquidity](../l/liquidity.md) and optimize their investment returns while maintaining regulatory compliance on [capital](../c/capital.md) reserves.
 
 ### Corporate Investments
 
-Corporations often [hold](../h/hold.md) AFS securities as part of their treasury management strategy. For example, Alphabet Inc. (https://abc.xyz/) may invest [surplus](../s/surplus.md) cash in AFS securities to earn a [return](../r/return.md) on idle cash while retaining the flexibility to [liquidate](../l/liquidate.md) these assets when [capital](../c/capital.md) is required for operational or strategic purposes.
+Corporations often [hold](../h/hold.md) AFS securities as part of their treasury management strategy. For example, Alphabet Inc. ( may invest [surplus](../s/surplus.md) cash in AFS securities to earn a [return](../r/return.md) on idle cash while retaining the flexibility to [liquidate](../l/liquidate.md) these assets when [capital](../c/capital.md) is required for operational or strategic purposes.
 
 ## Comparison with Other Financial Assets
 

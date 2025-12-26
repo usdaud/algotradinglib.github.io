@@ -45,9 +45,9 @@ Brokerage firms and exchanges play a crucial role in the [execution](../e/execut
 
 #### Examples:
 
-1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a sophisticated suite of trading tools and algorithms that can help traders automate the closing of positions [Interactive Brokers](https://www.interactivebrokers.com).
-2. **[Robinhood](../r/robinhood.md)**: Aimed at retail investors, it provides tools to easily close positions on its mobile platform [Robinhood](https://www.robinhood.com).
-3. **[TradeStation](../t/tradestation.md)**: A platform that offers advanced [trading systems](../t/trading_systems.md) which can be programmed to close positions based on custom criteria [TradeStation](https://www.tradestation.com).
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a sophisticated suite of trading tools and algorithms that can help traders automate the closing of positions Interactive Brokers.
+2. **[Robinhood](../r/robinhood.md)**: Aimed at retail investors, it provides tools to easily close positions on its mobile platform Robinhood.
+3. **[TradeStation](../t/tradestation.md)**: A platform that offers advanced [trading systems](../t/trading_systems.md) which can be programmed to close positions based on custom criteria TradeStation.
 
 ### Risks and Considerations
 

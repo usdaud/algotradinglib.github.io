@@ -56,7 +56,7 @@ In the modern financial landscape, technology has enhanced the ability to determ
 
 ### 4.1. Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems [leverage](../l/leverage.md) complex algorithms to rapidly analyze vast datasets to identify trading opportunities based on value discrepancies. These systems can execute trades at high speeds and often use strategies like statistical [arbitrage](../a/arbitrage.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) complex algorithms to rapidly analyze vast datasets to identify trading opportunities based on value discrepancies. These systems can execute trades at high speeds and often use strategies like statistical [arbitrage](../a/arbitrage.md).
 
 ### 4.2. Machine Learning and AI
 
@@ -70,14 +70,14 @@ Robo-advisors are automated platforms that provide personalized investment advic
 
 ### 5.1. Morningstar, Inc.
 
-[Morningstar](../m/morningstar.md), Inc. provides investment research and management services focusing heavily on value analysis. Their ratings and research reports are widely used by value investors. Learn more at [Morningstar](https://www.morningstar.com/).
+[Morningstar](../m/morningstar.md), Inc. provides investment research and management services focusing heavily on value analysis. Their ratings and research reports are widely used by value investors. Learn more at Morningstar.
 
 ### 5.2. The Vanguard Group
 
-The Vanguard Group is known for its low-cost mutual funds and ETFs that align closely with [value investing](../v/value_investing.md) principles. Their approach emphasizes [long-term investments](../l/long-term_investments.md) with low [expense](../e/expense.md) ratios. More information is available at [Vanguard](https://investor.vanguard.com/).
+The Vanguard Group is known for its low-cost mutual funds and ETFs that align closely with [value investing](../v/value_investing.md) principles. Their approach emphasizes [long-term investments](../l/long-term_investments.md) with low [expense](../e/expense.md) ratios. More information is available at Vanguard.
 
 ### 5.3. Fintech Firms like Wealthfront and Betterment
 
-These companies [leverage](../l/leverage.md) robo-advisors to provide low-cost, automated, value-based investment solutions to individuals. They utilize modern portfolio theory and algorithms to optimize investment strategies based on value. [Check](../c/check.md) them out at [Wealthfront](https://www.wealthfront.com/) and [Betterment](https://www.betterment.com/).
+These companies [leverage](../l/leverage.md) robo-advisors to provide low-cost, automated, value-based investment solutions to individuals. They utilize modern portfolio theory and algorithms to optimize investment strategies based on value. [Check](../c/check.md) them out at Wealthfront and Betterment.
 
 By understanding and applying the variegated interpretations of value, traders and investors can enhance their strategies, utilize financial technologies effectively, and potentially [yield](../y/yield.md) better investment outcomes.

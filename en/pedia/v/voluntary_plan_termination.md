@@ -1,6 +1,6 @@
 # Voluntary Plan Termination
 
-Voluntary Plan Termination refers to the process wherein a company voluntarily decides to discontinue its [pension plan](../p/pension_plan.md), defined benefit plan, or another type of employee benefit plan. This process is governed by a complex web of federal and sometimes state regulations to ensure that the interests of the employees and retirees are adequately safeguarded. The decision to terminate a plan often arises from considerations related to financial sustainability, regulatory compliance, or corporate [restructuring](../r/restructuring.md). 
+Voluntary Plan Termination refers to the process wherein a company voluntarily decides to discontinue its [pension plan](../p/pension_plan.md), defined benefit plan, or another type of employee benefit plan. This process is governed by a complex web of federal and sometimes state regulations to ensure that the interests of the employees and retirees are adequately safeguarded. The decision to terminate a plan often arises from considerations related to financial sustainability, regulatory compliance, or corporate [restructuring](../r/restructuring.md).
 
 ## Reasons for Voluntary Plan Termination
 
@@ -30,7 +30,7 @@ Healthcare plans, [life insurance](../l/life_insurance.md) plans, and other [wel
 ## Legal and Regulatory Framework
 
 ### ERISA and PBGC
-In the United States, the Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA) provides the primary regulatory framework for the termination of pension plans. The Pension Benefit Guaranty [Corporation](../c/corporation.md) (PBGC) is a federal agency that protects the retirement incomes of workers in [private sector](../p/private_sector.md) defined benefit pension plans. 
+In the United States, the Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA) provides the primary regulatory framework for the termination of pension plans. The Pension Benefit Guaranty [Corporation](../c/corporation.md) (PBGC) is a federal agency that protects the retirement incomes of workers in [private sector](../p/private_sector.md) defined benefit pension plans.
 
 ### IRS Regulations
 The Internal [Revenue](../r/revenue.md) Service (IRS) also plays a significant role in the termination process, particularly concerning the tax implications of distributing plan assets. Companies must follow IRS guidelines to ensure that plan terminations are conducted in a tax-efficient manner.
@@ -92,4 +92,4 @@ In 2012, Verizon Communications opted to terminate its [pension plan](../p/pensi
 ## Conclusion
 Voluntary Plan Termination is a multi-faceted process that requires a thorough understanding of financial, legal, and regulatory considerations. It involves detailed planning and [execution](../e/execution.md) to ensure that the interests of all stakeholders, particularly employees and retirees, are protected. Companies considering plan termination must weigh the immediate administrative and financial burdens against the long-term benefits of reduced liabilities and simplified benefits management. Ultimately, successful plan termination hinges on transparent communication, regulatory compliance, and meticulous [financial planning](../f/financial_planning.md).
 
-For more detailed guidelines and case studies related to voluntary plan terminations, you can visit the official website of the Pension Benefit Guaranty [Corporation](../c/corporation.md) (PBGC) at [PBGC Official Site](https://www.pbgc.gov/)
+For more detailed guidelines and case studies related to voluntary plan terminations,./c/corporation.md) (PBGC) at PBGC public materials

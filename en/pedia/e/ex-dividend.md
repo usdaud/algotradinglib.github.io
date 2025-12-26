@@ -9,9 +9,9 @@ When a company declares a [dividend](../d/dividend.md), it sets several importan
 ### Key Related Dates
 
 1. **Declaration Date**: This is the date on which the company's board of directors announces the [dividend](../d/dividend.md). The declaration includes the amount of the [dividend](../d/dividend.md), the [record date](../r/record_date.md), and the [payment](../p/payment.md) date.
-   
+
 2. **[Record Date](../r/record_date.md)**: The [record date](../r/record_date.md) is set by the company and is the date by which an [investor](../i/investor.md) must be [listed](../l/listed.md) on the company’s books as a [shareholder](../s/shareholder.md) to receive the [dividend](../d/dividend.md). Typically, this date is one [business](../b/business.md) day after the ex-[dividend](../d/dividend.md) date.
-   
+
 3. **[Payment](../p/payment.md) Date**: On this date, the company distributes the declared [dividend](../d/dividend.md) to eligible shareholders.
 
 ## Why is the Ex-Dividend Date Important?
@@ -51,13 +51,13 @@ Traders must be aware of regulatory requirements and restrictions when trading a
 
 While many brokers and financial websites [offer](../o/offer.md) general [dividend](../d/dividend.md) information, specialized tools and platforms can significantly enhance ex-[dividend](../d/dividend.md) [trading strategies](../t/trading_strategies.md):
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive financial data, including upcoming ex-[dividend](../d/dividend.md) dates for thousands of [stocks](../s/stock.md). [Bloomberg](https://www.bloomberg.com)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive financial data, including upcoming ex-[dividend](../d/dividend.md) dates for thousands of [stocks](../s/stock.md). Bloomberg
 
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon offers detailed [market](../m/market.md) data, analysis tools, and news services, which are invaluable for tracking and predicting ex-[dividend](../d/dividend.md) impacts. [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon offers detailed [market](../m/market.md) data, analysis tools, and news services, which are invaluable for tracking and predicting ex-[dividend](../d/dividend.md) impacts. Refinitiv
 
-- **[Yahoo Finance](../y/yahoo_finance.md)**: Offers accessible information on upcoming ex-[dividend](../d/dividend.md) dates, [dividend](../d/dividend.md) history, and stock performance. Ideal for a more general audience. [Yahoo Finance](https://finance.yahoo.com)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Offers accessible information on upcoming ex-[dividend](../d/dividend.md) dates, [dividend](../d/dividend.md) history, and stock performance. Ideal for a more general audience. Yahoo Finance
 
-- **ExDividendDate.com**: A dedicated resource specifically focused on providing up-to-date ex-[dividend](../d/dividend.md) dates, making it easier for traders to plan their strategies. [ExDividendDate](https://www.exdividenddate.com)
+- **ExDividendDate.com**: A dedicated resource specifically focused on providing up-to-date ex-[dividend](../d/dividend.md) dates, making it easier for traders to plan their strategies. ExDividendDate
 
 ## Case Studies and Practical Examples
 
@@ -71,6 +71,6 @@ An [investor](../i/investor.md) employs a [dividend](../d/dividend.md) capture s
 
 ## Conclusion
 
-The ex-[dividend](../d/dividend.md) date is a vital consideration for [dividend](../d/dividend.md) investors and traders. By understanding its implications and employing sophisticated [trading strategies](../t/trading_strategies.md), traders can potentially [leverage](../l/leverage.md) these dates to optimize returns. [Algorithmic trading](../a/accountability.md), with its ability to process complex data and execute strategies swiftly, offers a powerful tool for engaging with ex-[dividend](../d/dividend.md) activities in the [financial markets](../f/financial_market.md). 
+The ex-[dividend](../d/dividend.md) date is a vital consideration for [dividend](../d/dividend.md) investors and traders. By understanding its implications and employing sophisticated [trading strategies](../t/trading_strategies.md), traders can potentially [leverage](../l/leverage.md) these dates to optimize returns. [Algorithmic trading](../a/accountability.md), with its ability to process complex data and execute strategies swiftly, offers a powerful tool for engaging with ex-[dividend](../d/dividend.md) activities in the [financial markets](../f/financial_market.md).
 
 Careful analysis, [robust](../r/robust.md) [backtesting](../b/backtesting.md), and compliance with regulatory requirements are essential for successfully incorporating ex-[dividend strategies](../d/dividend_strategies.md) into a trading framework, ensuring that the benefits of such strategies are maximized while minimizing associated risks.

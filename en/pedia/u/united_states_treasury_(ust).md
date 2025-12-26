@@ -15,7 +15,7 @@ Additionally, the Treasury manages the borrowing needs of the federal government
 The [U.S. Treasury](../u/u.s._treasury.md) is also tasked with producing all the nation's [currency](../c/currency.md) and coin. This responsibility is shared between two specialized bureaus:
 
 - **Bureau of Engraving and Printing (BEP):** This bureau designs and prints all paper [currency](../c/currency.md) for the U.S. Additionally, it produces various [security](../s/security.md) documents such as Treasury securities, identification cards, and other official papers.
-  
+
 - **United States Mint:** Responsible for producing coinage, the Mint operates [multiple](../m/multiple.md) facilities across the country that manufacture and distribute coins, commemorative coins, and medals.
 
 ### Fiscal Policy Execution
@@ -27,7 +27,7 @@ Executing [fiscal policy](../f/fiscal_policy.md) is another essential function o
 The [U.S. Treasury](../u/u.s._treasury.md) plays a significant role in overseeing the economic and financial systems of the country. This includes regulating financial institutions, combatting financial crimes, and ensuring the stability and integrity of the [financial system](../f/financial_system.md). Several key offices within the Treasury contribute to these efforts:
 
 - **Office of the Comptroller of the [Currency](../c/currency.md) (OCC):** Regulates and supervises all national banks and federal branches of foreign banks. It ensures these institutions operate safely and soundly, providing fair access to financial services.
-  
+
 - **Financial Crimes Enforcement Network (FinCEN):** Works to combat [money laundering](../m/money_laundering.md) and other financial crimes. It collects and analyses data on financial transactions to prevent illicit activities.
 
 - **Office of Financial Research (OFR):** Conducts research and analysis to monitor the health of the [financial system](../f/financial_system.md), helping to identify and mitigate potential threats to economic stability.
@@ -101,7 +101,7 @@ Cybersecurity is a top priority for the Treasury, given the increasing threat of
 The [U.S. Treasury](../u/u.s._treasury.md) faces several challenges and opportunities in the coming years:
 
 - **[Debt](../d/debt.md) Management:** With rising national [debt](../d/debt.md), the Treasury must find sustainable ways to manage and reduce this burden without stifling [economic growth](../e/economic_growth.md).
-  
+
 - **Climate Change:** The financial impact of climate change is becoming increasingly significant. The Treasury is exploring ways to integrate climate [risk](../r/risk.md) into financial decision-making and promote sustainable investments.
 
 - **Digital Currencies:** The rise of cryptocurrencies poses both challenges and opportunities. The Treasury is examining the potential for a Central [Bank](../b/bank.md) [Digital Currency](../d/digital_currency.md) (CBDC) to enhance [financial inclusion](../f/financial_inclusion.md) and streamline payments.
@@ -110,4 +110,4 @@ The [U.S. Treasury](../u/u.s._treasury.md) faces several challenges and opportun
 
 ## Conclusion
 
-The United States Treasury is a cornerstone of the federal government's economic and financial apparatus. Its broad [range](../r/range.md) of responsibilities, from managing [revenue](../r/revenue.md) and producing [currency](../c/currency.md) to executing [fiscal policy](../f/fiscal_policy.md) and overseeing the [financial system](../f/financial_system.md), makes it pivotal to the nation's economic well-being. As it continues to evolve and adapt to new challenges, the Treasury remains a vital institution for both the U.S. and the global [economy](../e/economy.md). For more detailed information, you can visit the official [U.S. Department of the Treasury](https://home.treasury.gov) website.
+The United States Treasury is a cornerstone of the federal government's economic and financial apparatus. Its broad [range](../r/range.md) of responsibilities, from managing [revenue](../r/revenue.md) and producing [currency](../c/currency.md) to executing [fiscal policy](../f/fiscal_policy.md) and overseeing the [financial system](../f/financial_system.md), makes it pivotal to the nation's economic well-being. As it continues to evolve and adapt to new challenges, the Treasury remains a vital institution for both the U.S. and the global [economy](../e/economy.md). For more detailed information,

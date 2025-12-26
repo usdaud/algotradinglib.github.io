@@ -26,7 +26,7 @@ Other [current liabilities](../c/current_liabilities.md) encompass all other sho
 
 ## Significance in Financial Analysis
 
-The significance of other [current liabilities](../c/current_liabilities.md) lies in their ability to provide a comprehensive picture of a company's short-term financial responsibilities beyond the more commonly noted liabilities. Analysts and investors scrutinize these liabilities to assess a company's [liquidity](../l/liquidity.md) position and financial stability. 
+The significance of other [current liabilities](../c/current_liabilities.md) lies in their ability to provide a comprehensive picture of a company's short-term financial responsibilities beyond the more commonly noted liabilities. Analysts and investors scrutinize these liabilities to assess a company's [liquidity](../l/liquidity.md) position and financial stability.
 
 ### Key Ratios Involving Current Liabilities
 1. **[Current Ratio](../c/current_ratio.md)**: Calculated as [Current Assets](../c/current_assets.md) / [Current Liabilities](../c/current_liabilities.md). A higher ratio indicates better short-term [financial health](../f/financial_health.md).

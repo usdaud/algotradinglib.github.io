@@ -45,10 +45,10 @@
 
 ### Leading Companies in Emerging Market Trading
 
-- **Goldman Sachs [goldmansachs.com](https://www.goldmansachs.com/)**: Offers a [range](../r/range.md) of investment services focusing on emerging markets.
-- **Morgan Stanley [morganstanley.com](https://www.morganstanley.com/)**: Provides research, advisory, and trading services in emerging markets.
-- **BlackRock [blackrock.com](https://www.blackrock.com/)**: Features various funds dedicated to emerging [market](../m/market.md) investments.
-- **J.P. Morgan [jpmorgan.com](https://www.jpmorgan.com/)**: Covers comprehensive trading and investment strategies for emerging markets.
+- **Goldman Sachs goldmansachs.com**: Offers a [range](../r/range.md) of investment services focusing on emerging markets.
+- **Morgan Stanley morganstanley.com**: Provides research, advisory, and trading services in emerging markets.
+- **BlackRock blackrock.com**: Features various funds dedicated to emerging [market](../m/market.md) investments.
+- **J.P. Morgan jpmorgan.com**: Covers comprehensive trading and investment strategies for emerging markets.
 
 ### Regulation and Compliance
 

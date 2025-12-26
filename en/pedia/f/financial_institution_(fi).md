@@ -8,11 +8,11 @@ Financial Institutions are varied, and their functions can be categorized into s
 
 1. **Commercial Banks**: These are the most common financial institutions, providing services such as deposits, loans, and basic investment products. They operate on a [margin](../m/margin.md) between [loan](../l/loan.md) [interest](../i/interest.md) rates and [deposit](../d/deposit.md) [interest](../i/interest.md) rates to generate [profit](../p/profit.md).
 
-2. **[Investment Banks](../i/investment_bank_(ib).md)**: Facilitating large and complex financial transactions, these banks assist in [underwriting](../u/underwriting.md) new securities, mergers and acquisitions, and corporate [restructuring](../r/restructuring.md). Example: Goldman Sachs (https://www.goldmansachs.com/).
+2. **[Investment Banks](../i/investment_bank_(ib).md)**: Facilitating large and complex financial transactions, these banks assist in [underwriting](../u/underwriting.md) new securities, mergers and acquisitions, and corporate [restructuring](../r/restructuring.md). Example: Goldman Sachs (
 
-3. **[Insurance](../i/insurance.md) Companies**: These institutions [offer](../o/offer.md) [risk management](../r/risk_management.md) in the form of [insurance](../i/insurance.md) contracts, benefiting policyholders in events like accidents, natural disasters, or death. Example: Allstate (https://www.allstate.com/).
+3. **[Insurance](../i/insurance.md) Companies**: These institutions [offer](../o/offer.md) [risk management](../r/risk_management.md) in the form of [insurance](../i/insurance.md) contracts, benefiting policyholders in events like accidents, natural disasters, or death. Example: Allstate (
 
-4. **Brokerage Firms**: Acting as intermediaries between buyers and sellers, brokerage firms facilitate the trading of securities such as [stocks](../s/stock.md) and bonds. They may [offer](../o/offer.md) deep research and advice to clients. Example: [Charles Schwab](../c/charles_schwab.md) (https://www.schwab.com/).
+4. **Brokerage Firms**: Acting as intermediaries between buyers and sellers, brokerage firms facilitate the trading of securities such as [stocks](../s/stock.md) and bonds. They may [offer](../o/offer.md) deep research and advice to clients. Example: [Charles Schwab](../c/charles_schwab.md) (
 
 5. **[Credit](../c/credit.md) Unions**: Member-owned and cooperative, [credit](../c/credit.md) unions provide similar services to commercial banks but focus on serving their members' financial needs.
 
@@ -43,14 +43,14 @@ Financial institutions play a vital role in the [economy](../e/economy.md) by pe
 Regulation and supervision of financial institutions are critical for maintaining the stability and integrity of the [financial system](../f/financial_system.md). Various regulatory bodies oversee these institutions to ensure they operate in a safe, sound, and consumer-friendly manner:
 
 1. **Federal Reserve (U.S.)**: Regulates and supervises banks to ensure stability and compliance with [monetary policy](../m/monetary_policy.md).
-   
-2. **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Oversees the securities markets and protects investors by enforcing securities laws in the U.S. (https://www.sec.gov/).
 
-3. **Financial Conduct Authority (FCA)**: Regulates financial services firms and markets to ensure consumer protection in the UK (https://www.fca.org.uk/).
+2. **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Oversees the securities markets and protects investors by enforcing securities laws in the U.S. (
 
-4. **European Central [Bank](../b/bank.md) (ECB)**: Responsible for the prudential supervision of banks in the [Eurozone](../e/eurozone.md) to maintain financial stability (https://www.ecb.europa.eu/).
+3. **Financial Conduct Authority (FCA)**: Regulates financial services firms and markets to ensure consumer protection in the UK (
 
-5. **Prudential Regulation Authority (PRA)**: Ensures the safety and soundness of financial firms in the UK, part of the [Bank](../b/bank.md) of England (https://www.bankofengland.co.uk/prudential-regulation).
+4. **European Central [Bank](../b/bank.md) (ECB)**: Responsible for the prudential supervision of banks in the [Eurozone](../e/eurozone.md) to maintain financial stability (
+
+5. **Prudential Regulation Authority (PRA)**: Ensures the safety and soundness of financial firms in the UK, part of the [Bank](../b/bank.md) of England (
 
 ### Challenges Facing Financial Institutions
 

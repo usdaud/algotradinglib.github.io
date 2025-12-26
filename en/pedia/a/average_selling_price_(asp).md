@@ -21,27 +21,22 @@ Different industries utilize ASP in unique and context-specific ways:
 In retail, ASP is used to track the average price point of products sold across different categories. Retailers often use ASP to adjust pricing strategies, stock [inventory](../i/inventory.md), and run promotions efficiently. For instance, when a retailer notices a higher ASP for summer clothing as compared to winter clothing, it might indicate stronger seasonal [demand](../d/demand.md) or effective [premium](../p/premium.md) pricing strategies.
 
 ### Consumer Electronics
-For consumer electronics, ASP helps in tracking the shift in consumer preferences from lower-end to higher-end products. For example, in the smartphone [market](../m/market.md), companies like Apple and Samsung monitor the ASP to gauge the performance and acceptance of their high-end, mid-[range](../r/range.md), and low-end product segments. 
+For consumer electronics, ASP helps in tracking the shift in consumer preferences from lower-end to higher-end products. For example, in the smartphone [market](../m/market.md), companies like Apple and Samsung monitor the ASP to gauge the performance and acceptance of their high-end, mid-[range](../r/range.md), and low-end product segments.
 
-- *Apple*: [Apple Financial Reports](https://investor.apple.com/investor-relations/)
+- *Apple*: Apple Financial Reports
 
 ### Software and SaaS
 In the software [industry](../i/industry.md), particularly in SaaS (Software as a Service), ASP metrics can [offer](../o/offer.md) insights about the subscription plans that are most popular among customers. Companies like Adobe and Microsoft may use ASP to tailor their subscription models.
 
-- *Adobe*: [Adobe Investor Relations](https://www.adobe.com/investor-relations.html)
-- *Microsoft*: [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor/)
 
 ### Automobile Industry
 ASP in the automobile sector can be critical for understanding [market](../m/market.md) reception of new models and trims. For example, luxury car manufacturers like BMW or Tesla might look at ASP to evaluate the success of their [premium](../p/premium.md) features or electric vehicle lines.
 
-- *BMW*: [BMW Group Investor Relations](https://www.bmwgroup.com/en/investor-relations.html)
-- *Tesla*: [Tesla Investor Relations](https://ir.tesla.com/)
 
 ### Online Marketplaces
 E-[commerce](../c/commerce.md) platforms such as Amazon and eBay use ASP to manage their extensive catalog of products, optimize recommendation algorithms, and set competitive prices.
 
-- *Amazon*: [Amazon Investor Relations](https://www.amazon.com/ir)
-- *eBay*: [eBay Inc. Investors](https://investors.ebayinc.com/)
+- *eBay*: eBay Inc. Investors
 
 ## Calculation of ASP
 The calculation of ASP can vary slightly depending on the context, but the fundamental principle remains consistent. Let’s break down the calculation process in a few steps:
@@ -50,7 +45,7 @@ The calculation of ASP can vary slightly depending on the context, but the funda
 2. **Summarize [Revenue](../r/revenue.md)**: Sum the [revenue](../r/revenue.md) from all units sold.
 3. **Total Units Sold**: Sum the total number of units sold for the same period.
 4. **Apply Formula**: Divide the total [revenue](../r/revenue.md) by the total units sold.
-   
+
 For instance, if a company sold 10,000 units of a product and generated $200,000 in [revenue](../r/revenue.md), the ASP would be:
 
 \[ASP = \frac{\$200,000}{10,000 \text{ units}} = \$20 \]
@@ -99,16 +94,14 @@ Several major companies across different sectors have successfully utilized ASP 
 ### Technology Sector
 Apple Inc. uses ASP to understand the [market](../m/market.md) reception of its diverse product lines, from iPhones to MacBooks. During [earnings](../e/earnings.md) calls, Apple often discusses ASP to provide insights into consumer purchasing patterns and the product mix's impact on overall [revenue](../r/revenue.md).
 
-- *Quarterly SEC filings*: [Apple Financial Reports](https://investor.apple.com/investor-relations/)
+- *Quarterly SEC filings*: Apple Financial Reports
 
 ### Automobile Industry
 Tesla frequently monitors ASP to assess the [market](../m/market.md) positioning of its Model 3, Model S, Model X, and Model Y vehicles. Changes in ASP can indicate shifts in consumer preference between different models and configurations (e.g., standard vs. performance).
 
-- *Annual Reports*: [Tesla Investor Relations](https://ir.tesla.com/)
 
 ### E-commerce
 Amazon tracks ASP across its myriad product categories. A lower ASP might be indicative of more sales of low-ticket items, while a higher ASP could point towards success in selling higher-[value](../v/value.md) products or services such as the Amazon Prime subscription.
 
-- *[Investor](../i/investor.md) resources*: [Amazon Investor Relations](https://www.amazon.com/ir)
 
 In summary, the Average Selling Price (ASP) is a vital metric for businesses across various industries, [offering](../o/offering.md) deep insights into pricing strategies, [market](../m/market.md) positioning, consumer behavior, and overall [financial performance](../f/financial_performance.md). By carefully analyzing and optimizing ASP, companies can ensure sustained growth and [competitive advantage](../c/competitive_advantage.md) in their respective markets.

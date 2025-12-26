@@ -17,10 +17,10 @@ To be considered a QDRO, the [order](../o/order.md) must contain specific inform
 
 - The complete name and last known mailing address of both the participant and the alternate [payee](../p/payee.md).
 - The dollar amount or percentage of the benefits to be paid to the alternate [payee](../p/payee.md).
-- The number of payments or time period to which the QDRO applies. 
+- The number of payments or time period to which the QDRO applies.
 - The plans that are affected by the [order](../o/order.md).
 
-The retirement plan administrator must approve the QDRO. If it's not approved, the entirety of the retirement funds remains with the earning spouse. 
+The retirement plan administrator must approve the QDRO. If it's not approved, the entirety of the retirement funds remains with the earning spouse.
 
 ### Implementation Process
 The process of implementing a QDRO involves several steps:

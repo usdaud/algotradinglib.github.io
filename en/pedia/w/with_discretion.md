@@ -38,72 +38,72 @@
 ## Types of Discretion
 
 1. **Full Discretion**
-   - Complete authority within defined boundaries
-   - Example: A [fund manager](../f/fund_manager.md) with full discretion over investment decisions
+ - Complete authority within defined boundaries
+ - Example: A [fund manager](../f/fund_manager.md) with full discretion over investment decisions
 
 2. **Limited Discretion**
-   - Authority restricted to specific areas or within certain limits
-   - Example: A [trader](../t/trader.md) with discretion on timing but not on position size
+ - Authority restricted to specific areas or within certain limits
+ - Example: A [trader](../t/trader.md) with discretion on timing but not on position size
 
 3. **Fiduciary Discretion**
-   - Discretion exercised in a fiduciary capacity, prioritizing client interests
-   - Common in [wealth management](../w/wealth_management.md) and [trust](../t/trust.md) administration
+ - Discretion exercised in a fiduciary capacity, prioritizing client interests
+ - Common in [wealth management](../w/wealth_management.md) and [trust](../t/trust.md) administration
 
 ## Legal and Ethical Considerations
 
 1. **Fiduciary Duty**
-   - Those acting with discretion often have a fiduciary responsibility
-   - Must act in the best [interest](../i/interest.md) of the client or organization
+ - Those acting with discretion often have a fiduciary responsibility
+ - Must act in the best [interest](../i/interest.md) of the client or organization
 
 2. **Regulatory Compliance**
-   - Discretionary actions must comply with relevant laws and regulations
-   - May require specific licenses or qualifications
+ - Discretionary actions must comply with relevant laws and regulations
+ - May require specific licenses or qualifications
 
 3. **[Transparency](../t/transparency.md)**
-   - Despite discretion, actions should be documentable and justifiable
-   - Regular reporting and audits are often necessary
+ - Despite discretion, actions should be documentable and justifiable
+ - Regular reporting and audits are often necessary
 
 ## Advantages
 
 1. **[Efficiency](../e/efficiency.md)**
-   - Enables quicker decision-making and action
-   - Reduces bottlenecks in approval processes
+ - Enables quicker decision-making and action
+ - Reduces bottlenecks in approval processes
 
 2. **Expertise Utilization**
-   - Leverages the skills and knowledge of trusted professionals
-   - Allows for nuanced responses to complex situations
+ - Leverages the skills and knowledge of trusted professionals
+ - Allows for nuanced responses to complex situations
 
 3. **Client Confidence**
-   - Can enhance client relationships through personalized service
-   - Demonstrates [trust](../t/trust.md) in professional capabilities
+ - Can enhance client relationships through personalized service
+ - Demonstrates [trust](../t/trust.md) in professional capabilities
 
 ## Risks and Challenges
 
 1. **Potential for Misuse**
-   - [Risk](../r/risk.md) of decisions that may not align with client or company interests
-   - Requires [robust](../r/robust.md) oversight and control mechanisms
+ - [Risk](../r/risk.md) of decisions that may not align with client or company interests
+ - Requires [robust](../r/robust.md) oversight and control mechanisms
 
 2. **Accountability**
-   - Clear lines of responsibility and accountability must be established
-   - Regular reviews and performance assessments are crucial
+ - Clear lines of responsibility and accountability must be established
+ - Regular reviews and performance assessments are crucial
 
 3. **Communication**
-   - Balancing discretion with the need for transparent communication
-   - Ensuring stakeholders are appropriately informed
+ - Balancing discretion with the need for transparent communication
+ - Ensuring stakeholders are appropriately informed
 
 ## Best Practices
 
 1. **Clear Guidelines**
-   - Establishing clear boundaries and expectations for discretionary actions
-   - Defining [risk tolerance](../r/risk_tolerance.md) and strategic objectives
+ - Establishing clear boundaries and expectations for discretionary actions
+ - Defining [risk tolerance](../r/risk_tolerance.md) and strategic objectives
 
 2. **Regular Reporting**
-   - Implementing systems for regular reporting and review of discretionary actions
-   - Ensuring [transparency](../t/transparency.md) while maintaining confidentiality
+ - Implementing systems for regular reporting and review of discretionary actions
+ - Ensuring [transparency](../t/transparency.md) while maintaining confidentiality
 
 3. **Continuous Training**
-   - Providing ongoing education and training for those with discretionary authority
-   - Keeping updated on [market](../m/market.md) trends, regulations, and [best practices](../b/best_practices.md)
+ - Providing ongoing education and training for those with discretionary authority
+ - Keeping updated on [market](../m/market.md) trends, regulations, and [best practices](../b/best_practices.md)
 
 ## Related Concepts
 

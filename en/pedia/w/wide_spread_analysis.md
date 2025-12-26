@@ -66,9 +66,9 @@ Time-series analysis involves studying the spread over time to identify trends, 
 
 Several advanced trading platforms and financial institutions emphasize [spread analysis](../s/spread_analysis.md):
 
-- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers sophisticated tools for [spread analysis](../s/spread_analysis.md) to aid in precise [trade](../t/trade.md) [execution](../e/execution.md). [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[TradeStation](../t/tradestation.md)**: Provides [robust](../r/robust.md) analytics for understanding [market](../m/market.md) [spreads](../s/spreads.md) and integrating them into [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers data access and analytical tools for comprehensive [spread analysis](../s/spread_analysis.md). [QuantConnect](https://www.quantconnect.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers sophisticated tools for [spread analysis](../s/spread_analysis.md) to aid in precise [trade](../t/trade.md) [execution](../e/execution.md). Interactive Brokers
+- **[TradeStation](../t/tradestation.md)**: Provides [robust](../r/robust.md) analytics for understanding [market](../m/market.md) [spreads](../s/spreads.md) and integrating them into [trading strategies](../t/trading_strategies.md). TradeStation
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers data access and analytical tools for comprehensive [spread analysis](../s/spread_analysis.md). QuantConnect
 
 ## Conclusion
 

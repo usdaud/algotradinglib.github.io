@@ -39,7 +39,7 @@ If the current [bond](../b/bond.md) price is $950 (calculated from the [present 
 ## Applications in Financial Markets
 
 ### Fixed Income Markets
-Roll-down [return](../r/return.md) is pivotal in the [fixed income](../f/fixed_income.md) markets, especially for government and corporate bonds. Investors can exploit the roll-down returns by selecting bonds expected to benefit from favorable [yield](../y/yield.md) movements as they approach [maturity](../m/maturity.md). 
+Roll-down [return](../r/return.md) is pivotal in the [fixed income](../f/fixed_income.md) markets, especially for government and corporate bonds. Investors can exploit the roll-down returns by selecting bonds expected to benefit from favorable [yield](../y/yield.md) movements as they approach [maturity](../m/maturity.md).
 
 #### Strategy: Laddering
 A common strategy to take advantage of roll-down [return](../r/return.md) is [bond laddering](../b/bond_laddering.md). This involves creating a portfolio of bonds with staggered maturities, enabling the [investor](../i/investor.md) to potentially roll down the [yield curve](../y/yard.md) continually.

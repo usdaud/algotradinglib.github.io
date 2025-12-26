@@ -8,7 +8,7 @@ The [Kalman filter](../k/kalman_filter_in_trading.md) is an algorithm that provi
 
 ## Mathematical Foundation
 
-The [Kalman filter](../k/kalman_filter_in_trading.md) uses a series of measurements observed over time (containing [noise](../n/noise.md) and other inaccuracies) and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. 
+The [Kalman filter](../k/kalman_filter_in_trading.md) uses a series of measurements observed over time (containing [noise](../n/noise.md) and other inaccuracies) and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone.
 
 ### State Equations
 
@@ -38,15 +38,15 @@ Both errors are assumed to be Gaussian and independent.
 
 The [Kalman filter](../k/kalman_filter_in_trading.md) works recursively:
 1. **Prediction Step**: The algorithm projects the current state forward in time.
-   - Predicted state estimate: `x_k|k-1 = F_k-1 * x_k-1|k-1 + B_k-1 * u_k-1`
-   - Predicted [covariance](../c/covariance.md) estimate: `P_k|k-1 = F_k-1 * P_k-1|k-1 * F_k-1^T + Q_k-1`
-  
+ - Predicted state estimate: `x_k|k-1 = F_k-1 * x_k-1|k-1 + B_k-1 * u_k-1`
+ - Predicted [covariance](../c/covariance.md) estimate: `P_k|k-1 = F_k-1 * P_k-1|k-1 * F_k-1^T + Q_k-1`
+
 2. **Update Step**: The newly received measurement is used to update the prediction.
-   - Innovation: `y_k = z_k - H_k * x_k|k-1`
-   - Innovation [covariance](../c/covariance.md): `S_k = H_k * P_k|k-1 * H_k^T + R_k`
-   - Optimal [Kalman gain](../k/kalman_gain_in_trading.md): `K_k = P_k|k-1 * H_k^T * S_k^-1`
-   - Updated state estimate: `x_k|k = x_k|k-1 + K_k * y_k`
-   - Updated [covariance](../c/covariance.md) estimate: `P_k|k = (I - K_k * H_k) * P_k|k-1`
+ - Innovation: `y_k = z_k - H_k * x_k|k-1`
+ - Innovation [covariance](../c/covariance.md): `S_k = H_k * P_k|k-1 * H_k^T + R_k`
+ - Optimal [Kalman gain](../k/kalman_gain_in_trading.md): `K_k = P_k|k-1 * H_k^T * S_k^-1`
+ - Updated state estimate: `x_k|k = x_k|k-1 + K_k * y_k`
+ - Updated [covariance](../c/covariance.md) estimate: `P_k|k = (I - K_k * H_k) * P_k|k-1`
 
 The [Kalman gain](../k/kalman_gain_in_trading.md) `K_k` essentially determines how much weight should be given to the new observation (or the innovation).
 
@@ -60,7 +60,7 @@ One of the primary uses of the [Kalman filter in trading](../k/kalman_filter_in_
 
 ### High-Frequency Trading (HFT)
 
-High-Frequency Trading (HFT) involves executing a large number of orders at extremely high speeds. In HFT, the real-time and predictive capabilities of the [Kalman filter](../k/kalman_filter_in_trading.md) are particularly beneficial. By constantly updating predictions based on real-time data, the [Kalman filter](../k/kalman_filter_in_trading.md) helps in making split-second trading decisions to take advantage of minor price discrepancies. Firms specializing in HFT, like Virtu Financial [Virtu Financial](https://www.virtu.com/), utilize such advanced filtering techniques extensively.
+High-Frequency Trading (HFT) involves executing a large number of orders at extremely high speeds. In HFT, the real-time and predictive capabilities of the [Kalman filter](../k/kalman_filter_in_trading.md) are particularly beneficial. By constantly updating predictions based on real-time data, the [Kalman filter](../k/kalman_filter_in_trading.md) helps in making split-second trading decisions to take advantage of minor price discrepancies. Firms specializing in HFT, like Virtu Financial Virtu Financial, utilize such advanced filtering techniques extensively.
 
 ### Risk Management
 

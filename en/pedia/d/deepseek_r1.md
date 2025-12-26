@@ -4,23 +4,23 @@
 
 ### Key Innovations
 
-1. **Advanced Chain-of-Thought:**  
-   R1 generates detailed internal reasoning, allowing it to analyze complex problems step by step and verify its conclusions.
+1. **Advanced Chain-of-Thought:**
+ R1 generates detailed internal reasoning, allowing it to analyze complex problems step by step and verify its conclusions.
 
-2. **[Reinforcement Learning](../r/reinforcement_learning.md) and SFT:**  
-   The model is trained through a combination of RL and SFT on large-scale synthetic reasoning datasets, refining its ability to solve mathematical, coding, and logic challenges.
+2. **[Reinforcement Learning](../r/reinforcement_learning.md) and SFT:**
+ The model is trained through a combination of RL and SFT on large-scale synthetic reasoning datasets, refining its ability to solve mathematical, coding, and logic challenges.
 
-3. **Self-[Correction](../c/correction.md) Mechanisms:**  
-   Integrated quality controls ensure that R1 checks its outputs (e.g., by boxing final answers in math problems) to reduce errors and enhance reliability.
+3. **Self-[Correction](../c/correction.md) Mechanisms:**
+ Integrated quality controls ensure that R1 checks its outputs (e.g., by boxing final answers in math problems) to reduce errors and enhance reliability.
 
 ### Applications
 
-- **Complex Mathematics:**  
-  Excels in tackling high-level mathematical problems, as demonstrated in benchmarks like AIME.
-- **Programming Assistance:**  
-  Capable of generating, testing, and refining code through in-depth logical analysis.
-- **Logical Reasoning Tasks:**  
-  Useful in scenarios that require thorough analytical thought and multi-step problem solving.
+- **Complex Mathematics:**
+ Excels in tackling high-level mathematical problems, as demonstrated in benchmarks like AIME.
+- **Programming Assistance:**
+ Capable of generating, testing, and refining code through in-depth logical analysis.
+- **Logical Reasoning Tasks:**
+ Useful in scenarios that require thorough analytical thought and multi-step problem solving.
 
 ### Advantages
 

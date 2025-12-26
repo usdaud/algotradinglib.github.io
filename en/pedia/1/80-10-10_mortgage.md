@@ -67,7 +67,7 @@ Borrowers should assess their long-term financial goals, including future [incom
 
 Choosing the right [lender](../l/lender.md) is crucial. Not all lenders [offer](../o/offer.md) 80-10-10 mortgages, and terms can vary significantly. Homebuyers should relentlessly compare offerings from different financial institutions before making a decision.
 
-One such financial institution that provides various [mortgage](../m/mortgage.md) products, including second [mortgage](../m/mortgage.md) [options](../o/options.md), is **Morton [Mortgage](../m/mortgage.md)**. More information can be found on their official website: [Morton Mortgage](https://mortonmortgage.net/).
+One such financial institution that provides various [mortgage](../m/mortgage.md) products, including second [mortgage](../m/mortgage.md) [options](../o/options.md), is **Morton [Mortgage](../m/mortgage.md)**.
 
 ## Conclusion
 

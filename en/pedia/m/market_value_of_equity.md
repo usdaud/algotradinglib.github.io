@@ -42,7 +42,7 @@ Many [stock market](../s/stock_market.md) indices, such as the S&P 500, are [wei
 ### 4. **Corporate Actions and Valuation**
 
 The [market](../m/market.md) cap helps in assessing the [valuation](../v/valuation.md) of a company during activities like mergers and acquisitions, where a [premium](../p/premium.md) might be offered over the [market price](../m/market_price.md) to [gain](../g/gain.md) control.
- 
+
 ## Influencing Factors
 
 Several factors can influence a company's [market value](../m/market_value.md) of [equity](../e/equity.md):
@@ -81,7 +81,7 @@ The [market](../m/market.md) cap does not take into account a company’s [debt]
 
 ## Application in Algo-Trading
 
-In [algorithmic trading](../a/accountability.md) (algo-trading), the [market value](../m/market_value.md) of [equity](../e/equity.md) plays a vital role:
+In [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), the [market value](../m/market_value.md) of [equity](../e/equity.md) plays a vital role:
 
 ### 1. **Screening and Filtering**
 
@@ -103,6 +103,6 @@ Certain [trading signals](../t/trading_signals.md) might only be relevant for a 
 
 The [Market Value](../m/market_value.md) of [Equity](../e/equity.md) is a cornerstone concept in trading and [finance](../f/finance.md), providing critical insights into a company's size, [risk](../r/risk.md) profile, and [market](../m/market.md) standing. Whether used in traditional [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, corporate actions, or [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), the [market](../m/market.md) cap serves as a fundamental metric for investors and financial professionals to make informed decisions.
 
-For more detailed information about [market value](../m/market_value.md) of [equity](../e/equity.md) and its uses in contemporary [finance](../f/finance.md), you can explore [corporate finance](../c/corporate_finance.md) resources from [companies such as Goldman Sachs](https://www.goldmansachs.com) and [Morgan Stanley](https://www.morganstanley.com).
+For more detailed information about [market value](../m/market_value.md) of [equity](../e/equity.md) and its uses in contemporary [finance](../f/finance.md), you can explore [corporate finance](../c/corporate_finance.md) resources from companies such as Goldman Sachs and Morgan Stanley.
 
 In summary, despite its limitations, the [Market Value](../m/market_value.md) of [Equity](../e/equity.md) remains an indispensable tool in the analytical arsenal of traders and financial analysts, [offering](../o/offering.md) a quick and effective means to gauge the relative size and [risk](../r/risk.md) of publicly traded companies.

@@ -88,15 +88,15 @@ The future of PNGX looks promising with plans to introduce new financial instrum
 
 | Year | Number of [Listed](../l/listed.md) Companies | [Market Capitalization](../m/market_capitalization.md) (Billion PGK) | Daily Trading [Volume](../v/volume.md) (Million PGK) |
 |------|----------------------------|-------------------------------------|-----------------------------------|
-| 2018 | 12                         | 60.5                                | 1.2                               |
-| 2019 | 14                         | 65.3                                | 1.5                               |
-| 2020 | 15                         | 70.1                                | 1.8                               |
-| 2021 | 16                         | 75.7                                | 2.0                               |
-| 2022 | 18                         | 80.5                                | 2.5                               |
+| 2018 | 12 | 60.5 | 1.2 |
+| 2019 | 14 | 65.3 | 1.5 |
+| 2020 | 15 | 70.1 | 1.8 |
+| 2021 | 16 | 75.7 | 2.0 |
+| 2022 | 18 | 80.5 | 2.5 |
 
 ## Online Presence
 
-For detailed and up-to-date information, visit the PNGX website: [PNGX Website](https://www.pngx.com.pg).
+For detailed and up-to-date information,
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Quick Liquidity Ratio
 
-The Quick [Liquidity Ratio](../l/liquidity_ratio.md), also known as the [Acid-Test Ratio](../a/acid-test_ratio.md), is a crucial financial metric used to measure a company's ability to meet its short-term [obligations](../o/obligation.md) with its most [liquid](../l/liquid.md) assets. This ratio is particularly significant in the world of [finance](../f/finance.md) and trading, where it provides insights into a company’s financial stability and [liquidity](../l/liquidity.md) position. Unlike the [current ratio](../c/current_ratio.md), the [quick ratio](../q/quick_ratio.md) excludes inventories from [current assets](../c/current_assets.md), focusing on more [liquid](../l/liquid.md) assets like cash, [marketable securities](../m/marketable_securities.md), and receivables. 
+The Quick [Liquidity Ratio](../l/liquidity_ratio.md), also known as the [Acid-Test Ratio](../a/acid-test_ratio.md), is a crucial financial metric used to measure a company's ability to meet its short-term [obligations](../o/obligation.md) with its most [liquid](../l/liquid.md) assets. This ratio is particularly significant in the world of [finance](../f/finance.md) and trading, where it provides insights into a company’s financial stability and [liquidity](../l/liquidity.md) position. Unlike the [current ratio](../c/current_ratio.md), the [quick ratio](../q/quick_ratio.md) excludes inventories from [current assets](../c/current_assets.md), focusing on more [liquid](../l/liquid.md) assets like cash, [marketable securities](../m/marketable_securities.md), and receivables.
 
 ## Formula and Calculation
 
@@ -91,6 +91,6 @@ FinTech platforms can use the [Quick Ratio](../q/quick_ratio.md) to [offer](../o
 
 ## Real-World Example: Cisco Systems
 
-Cisco Systems, Inc. (https://www.cisco.com), a leading tech company, frequently showcases its [liquidity](../l/liquidity.md) position in its financial reports. By analyzing Cisco's [quick ratio](../q/quick_ratio.md) over time, investors can [gain](../g/gain.md) valuable insights into the company’s ability to meet its short-term liabilities, thus making more informed investment decisions.
+Cisco Systems, Inc. ( a leading tech company, frequently showcases its [liquidity](../l/liquidity.md) position in its financial reports. By analyzing Cisco's [quick ratio](../q/quick_ratio.md) over time, investors can [gain](../g/gain.md) valuable insights into the company’s ability to meet its short-term liabilities, thus making more informed investment decisions.
 
 In conclusion, the Quick [Liquidity Ratio](../l/liquidity_ratio.md) is a vital tool in [financial analysis](../f/financial_analysis.md), providing a stringent measure of a company's short-term [liquidity](../l/liquidity.md). It is indispensable for investors, analysts, and creditors in assessing a company's ability to meet its financial [obligations](../o/obligation.md) promptly.

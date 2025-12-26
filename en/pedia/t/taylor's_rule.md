@@ -24,7 +24,7 @@ where:
 
 ### Real Equilibrium Interest Rate (\( r^* \))
 
-The real [equilibrium](../e/equilibrium.md) [interest rate](../i/interest_rate.md), also known as the natural rate of [interest](../i/interest.md), is the rate consistent with [full employment](../f/full_employment.md) and stable [inflation](../i/inflation.md). This rate isn't directly observable, making it a subject of estimation and significant research among economists. Variations in the real [equilibrium](../e/equilibrium.md) [interest rate](../i/interest_rate.md) can reflect changes in [demographics](../d/demographics.md), technology, and global [economic conditions](../e/economic_conditions.md). 
+The real [equilibrium](../e/equilibrium.md) [interest rate](../i/interest_rate.md), also known as the natural rate of [interest](../i/interest.md), is the rate consistent with [full employment](../f/full_employment.md) and stable [inflation](../i/inflation.md). This rate isn't directly observable, making it a subject of estimation and significant research among economists. Variations in the real [equilibrium](../e/equilibrium.md) [interest rate](../i/interest_rate.md) can reflect changes in [demographics](../d/demographics.md), technology, and global [economic conditions](../e/economic_conditions.md).
 
 ### Actual Inflation Rate (\( \pi_t \))
 
@@ -36,7 +36,7 @@ The target [inflation](../i/inflation.md) rate is the central [bank](../b/bank.m
 
 ### Output Gap ( \( y_t - y^* \) )
 
-The [output gap](../o/output_gap.md) is the percentage difference between actual economic output and potential output. Potential output represents the highest level of economic activity that an [economy](../e/economy.md) can sustain over the long term without increasing [inflation](../i/inflation.md). 
+The [output gap](../o/output_gap.md) is the percentage difference between actual economic output and potential output. Potential output represents the highest level of economic activity that an [economy](../e/economy.md) can sustain over the long term without increasing [inflation](../i/inflation.md).
 
 A positive [output gap](../o/output_gap.md), where actual output exceeds potential output, indicates an overheating [economy](../e/economy.md) with upward pressure on [inflation](../i/inflation.md). Conversely, a negative [output gap](../o/output_gap.md), where actual output is below potential output, suggests underused resources in the [economy](../e/economy.md) and downward pressure on [inflation](../i/inflation.md).
 
@@ -62,7 +62,7 @@ Thus, according to Taylor's Rule, the central [bank](../b/bank.md) should set th
 
 ## Criticisms and Limitations
 
-Although Taylor's Rule offers a [robust](../r/robust.md) framework, it is not without criticisms and limitations. 
+Although Taylor's Rule offers a [robust](../r/robust.md) framework, it is not without criticisms and limitations.
 
 ### Lack of Real-Time Data
 
@@ -106,8 +106,8 @@ Advanced variations of Taylor's Rule involve using optimal control techniques, w
 
 ## Conclusion
 
-Taylor's Rule has significantly influenced central banking and [monetary policy](../m/monetary_policy.md) by providing a structured framework that balances [inflation](../i/inflation.md) and output stabilization. Despite its limitations and criticisms, Taylor's Rule offers valuable insights and serves as a [benchmark](../b/benchmark.md) for central banks around the world. 
+Taylor's Rule has significantly influenced central banking and [monetary policy](../m/monetary_policy.md) by providing a structured framework that balances [inflation](../i/inflation.md) and output stabilization. Despite its limitations and criticisms, Taylor's Rule offers valuable insights and serves as a [benchmark](../b/benchmark.md) for central banks around the world.
 
 The adaptability of Taylor's Rule to modern economic challenges, including considerations of financial stability and forward-looking policies, highlights its enduring relevance. As central banks navigate complex economic landscapes, the principles [underlying](../u/underlying.md) Taylor's Rule continue to inform and guide [monetary policy](../m/monetary_policy.md) decisions, contributing to stable and prosperous economies.
 
-For more information on [John B. Taylor](../j/john_b._taylor.md) and his work, you can visit his [profile at Stanford University](https://profiles.stanford.edu/john-taylor).
+For more information on [John B. Taylor](../j/john_b._taylor.md) and his work, you can visit his profile at Stanford University.

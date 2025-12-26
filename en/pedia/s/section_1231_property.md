@@ -44,7 +44,7 @@ For [real property](../r/real_property.md) (e.g., buildings), [Section 1250](../
 
 ### Netting Process
 
-The IRS requires taxpayers to net their Section 1231 gains and losses at the end of each taxable year. 
+The IRS requires taxpayers to net their Section 1231 gains and losses at the end of each taxable year.
 
 #### Net Gain
 

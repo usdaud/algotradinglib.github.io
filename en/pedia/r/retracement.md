@@ -36,9 +36,9 @@ Recognizing retracement levels allows traders to find better entry or exit point
 
 Placing [stop-loss orders](../s/stop-loss_orders.md) at retracement levels can also minimize [risk](../r/risk.md). If the price moves beyond these levels, it may indicate a stronger opposing [trend](../t/trend.md), triggering the stop-loss.
 
-### Algorithmic Trading 
+### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), retracement levels can form part of automated [trading strategies](../t/trading_strategies.md). Algorithms can be programmed to recognize retracement levels and execute trades accordingly to [capitalize](../c/capitalize.md) on these temporary price adjustments.
+In [algorithmic trading](../a/algorithmic_trading.md), retracement levels can form part of automated [trading strategies](../t/trading_strategies.md). Algorithms can be programmed to recognize retracement levels and execute trades accordingly to [capitalize](../c/capitalize.md) on these temporary price adjustments.
 
 ## How to Draw Retracement Levels
 
@@ -48,4 +48,4 @@ In [algorithmic trading](../a/accountability.md), retracement levels can form pa
 
 ## Conclusion
 
-Understanding retracement is invaluable for traders from novice to expert levels. By incorporating various [technical indicators](../t/technical_indicator.md) and tools, one can better navigate the complex world of trading and make more informed decisions. Whether you're involved in manual trading or developing [algorithmic trading](../a/accountability.md) bots, recognizing retracement patterns can significantly boost your trading success.
+Understanding retracement is invaluable for traders from novice to expert levels. By incorporating various [technical indicators](../t/technical_indicator.md) and tools, one can better navigate the complex world of trading and make more informed decisions. Whether you're involved in manual trading or developing [algorithmic trading](../a/algorithmic_trading.md) bots, recognizing retracement patterns can significantly boost your trading success.

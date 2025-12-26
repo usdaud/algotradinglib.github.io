@@ -20,16 +20,16 @@ Société Anonyme (S.A.) is a type of [business](../b/business.md) entity that i
 Several well-known companies operate under the Société Anonyme structure. Below are a few examples:
 
 1. **TotalEnergies S.A.**: A major energy company engaged in the production and [marketing](../m/marketing.md) of fuels, natural gas, and electricity.
-   - [TotalEnergies](https://totalenergies.com/)
+ - TotalEnergies
 
 2. **BNP Paribas S.A.**: One of the largest banks in the world, [offering](../o/offering.md) a wide [range](../r/range.md) of banking and financial services.
-   - [BNP Paribas](https://group.bnpparibas/en/)
+ - BNP Paribas
 
 3. **Renault S.A.**: A global automotive company that manufactures a wide [range](../r/range.md) of vehicles.
-   - [Renault](https://group.renault.com/en/)
+ - Renault
 
 4. **L’Oréal S.A.**: A multinational cosmetics and beauty company known for its extensive [range](../r/range.md) of products.
-   - [L’Oréal](https://www.loreal.com/en/)
+ - L’Oréal
 
 ## Requirements for Forming a Société Anonyme (S.A.)
 

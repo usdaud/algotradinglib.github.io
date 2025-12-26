@@ -112,7 +112,7 @@ By understanding the complexities and nuances of government regulation, [algorit
 
 For more information on specific regulatory bodies and their guidelines, please visit their respective websites:
 
-- [Securities and Exchange Commission (SEC)](https://www.sec.gov/)
-- [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov/)
-- [Financial Conduct Authority (FCA)](https://www.fca.org.uk/)
-- [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu/)
+- Securities and Exchange Commission (SEC)
+- Commodity Futures Trading Commission (CFTC)
+- Financial Conduct Authority (FCA)
+- European Securities and Markets Authority (ESMA)

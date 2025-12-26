@@ -1,6 +1,6 @@
 # Unearned Interest
 
-Unearned [interest](../i/interest.md) is a term used widely in the areas of [finance](../f/finance.md), lending, and [accounting](../a/accounting.md) to describe [interest](../i/interest.md) [income](../i/income.md) that has been received but not yet earned by a [lender](../l/lender.md). This topic is crucial for both traditional financial institutions and modern fintech companies, especially those involved in lending, trading, and other financial activities. The concept also has significant relevance in the realm of [algorithmic trading](../a/accountability.md) and financial technology (fintech), providing a [basis](../b/basis.md) for various financial models and strategies.
+Unearned [interest](../i/interest.md) is a term used widely in the areas of [finance](../f/finance.md), lending, and [accounting](../a/accounting.md) to describe [interest](../i/interest.md) [income](../i/income.md) that has been received but not yet earned by a [lender](../l/lender.md). This topic is crucial for both traditional financial institutions and modern fintech companies, especially those involved in lending, trading, and other financial activities. The concept also has significant relevance in the realm of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech), providing a [basis](../b/basis.md) for various financial models and strategies.
 
 ## Definition and Basics
 
@@ -46,7 +46,7 @@ Several financial regulations mandate the precise treatment and [disclosure](../
 
 ## Unearned Interest in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (algotrading) involves the use of complex algorithms to make trading decisions. Understanding unearned [interest](../i/interest.md) is important for algorithmic traders for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) involves the use of complex algorithms to make trading decisions. Understanding unearned [interest](../i/interest.md) is important for algorithmic traders for several reasons:
 
 1. **[Interest Rate Arbitrage](../i/interest_rate_arbitrage.md)**: Algorithms designed for [interest rate arbitrage](../i/interest_rate_arbitrage.md) need to consider the unearned [interest](../i/interest.md) to accurately evaluate the true cost and potential profitability of trades.
 

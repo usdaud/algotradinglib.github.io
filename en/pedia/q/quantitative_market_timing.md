@@ -58,13 +58,13 @@ Traders and firms using quantitative [market timing](../m/market_timing.md) must
 ## Case Studies
 
 ### Renaissance Technologies
-Renaissance Technologies is one of the most famous examples of a [firm](../f/firm.md) that has successfully implemented quantitative [market timing](../m/market_timing.md). Their flagship Medallion [Fund](../f/fund.md) has consistently outperformed the [market](../m/market.md) by using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency trading techniques. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is one of the most famous examples of a [firm](../f/firm.md) that has successfully implemented quantitative [market timing](../m/market_timing.md). Their flagship Medallion [Fund](../f/fund.md) has consistently outperformed the [market](../m/market.md) by using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency trading techniques. Renaissance Technologies
 
 ### Two Sigma
-Two Sigma Investments focuses on using [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to achieve superior [market timing](../m/market_timing.md). They incorporate a variety of analytical methods to exploit inefficiencies in the [market](../m/market.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma Investments focuses on using [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to achieve superior [market timing](../m/market_timing.md). They incorporate a variety of analytical methods to exploit inefficiencies in the [market](../m/market.md). Two Sigma
 
 ### Winton Group
-Winton Group employs a scientific approach to [investing](../i/investing.md), relying heavily on statistical research and [quantitative models](../q/quantitative_models.md). They focus on [pattern recognition](../p/pattern_recognition.md) and data analysis to make informed trading decisions. [Winton](https://www.winton.com/)
+Winton Group employs a scientific approach to [investing](../i/investing.md), relying heavily on statistical research and [quantitative models](../q/quantitative_models.md). They focus on [pattern recognition](../p/pattern_recognition.md) and data analysis to make informed trading decisions. Winton
 
 ## Challenges and Limitations
 

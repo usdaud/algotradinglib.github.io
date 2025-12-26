@@ -80,5 +80,4 @@ NYBOT continues to innovate and adapt to the evolving needs of the [commodity](.
 
 The New York Board of [Trade](../t/trade.md) (NYBOT) stands as a pivotal entity in the global [commodity](../c/commodity.md) trading landscape. With a rich history and a commitment to innovation, NYBOT continues to play an essential role in facilitating [commodity](../c/commodity.md) trading, [price discovery](../p/price_discovery.md), and [risk management](../r/risk_management.md). As it navigates evolving regulatory, technological, and economic landscapes, NYBOT's strategic initiatives position it for sustained growth and relevance in the dynamic world of [commodity](../c/commodity.md) trading.
 
-For more information, visit the official website of Intercontinental [Exchange](../e/exchange.md) (ICE), which acquired NYBOT: [ICE](https://www.theice.com/index).
-
+./e/exchange.md) (ICE), which acquired NYBOT: ICE.

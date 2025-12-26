@@ -13,7 +13,7 @@ Lead [Bank](../b/bank.md) offers a comprehensive [range](../r/range.md) of banki
 ### Individual Services
 
 - **Personal Checking and Savings Accounts**: Lead [Bank](../b/bank.md) provides a variety of checking and [savings account](../s/savings_account.md) [options](../o/options.md) with varying features, such as high-[interest](../i/interest.md) rates, zero maintenance fees, and easy access through [online banking](../o/online_banking.md).
-  
+
 - **Loans and Mortgages**: The [bank](../b/bank.md) offers personal loans, auto loans, and [home](../h/home.md) mortgages with competitive rates and flexible terms.
 
 - **[Credit](../c/credit.md) Cards**: A [range](../r/range.md) of [credit card](../c/credit_card.md) [options](../o/options.md) are available, each [offering](../o/offering.md) different benefits including reward points, [cash back](../c/cash_back.md), and low-[interest](../i/interest.md) rates.
@@ -43,7 +43,7 @@ Lead [Bank](../b/bank.md) is at the forefront of integrating technology into ban
 ### Digital Banking
 
 - **Mobile App**: The Lead [Bank](../b/bank.md) mobile app offers a [range](../r/range.md) of functionalities including mobile [check](../c/check.md) deposits, bill pay, account transfers, and real-time alerts.
-  
+
 - **[Online Banking](../o/online_banking.md)**: A secure platform that provides comprehensive [online banking](../o/online_banking.md) services, enabling customers to manage their accounts, pay bills, and transfer [money](../m/money.md) with ease.
 
 ### Cybersecurity
@@ -52,7 +52,7 @@ Lead [Bank](../b/bank.md) places a high priority on safeguarding [customer](../c
 
 ## Governance and Leadership
 
-Lead [Bank](../b/bank.md) prides itself on its strong governance and [leadership](../l/leadership.md) team. 
+Lead [Bank](../b/bank.md) prides itself on its strong governance and [leadership](../l/leadership.md) team.
 
 ### Executive Team
 
@@ -64,7 +64,7 @@ The board consists of individuals with diverse backgrounds, providing strategic 
 
 ## Corporate Social Responsibility (CSR)
 
-Lead [Bank](../b/bank.md) is deeply committed to corporate [social responsibility](../s/social_responsibility.md). This commitment is demonstrated through initiatives aimed at environmental sustainability, community engagement, and ethical governance. 
+Lead [Bank](../b/bank.md) is deeply committed to corporate [social responsibility](../s/social_responsibility.md). This commitment is demonstrated through initiatives aimed at environmental sustainability, community engagement, and ethical governance.
 
 ### Environmental Sustainability
 
@@ -84,7 +84,7 @@ Lead [Bank](../b/bank.md) partners with various organizations to expand its reac
 
 ## Financial Performance
 
-An analysis of Lead [Bank](../b/bank.md)'s [financial performance](../f/financial_performance.md) demonstrates consistent growth and stability. 
+An analysis of Lead [Bank](../b/bank.md)'s [financial performance](../f/financial_performance.md) demonstrates consistent growth and stability.
 
 ### Revenue
 
@@ -104,4 +104,4 @@ Given its strong foundation, innovative approach, and commitment to community, L
 
 ## Conclusion
 
-Lead [Bank](../b/bank.md) stands out as a forward-thinking financial institution with a rich history, a wide array of services, and a deep commitment to the communities it serves. Its focus on technology, strong governance, and community involvement positions it as a leader in modern banking. For more information, you can visit their official website at [Lead Bank](https://www.lead.bank/)
+Lead [Bank](../b/bank.md) stands out as a forward-thinking financial institution with a rich history, a wide array of services, and a deep commitment to the communities it serves. Its focus on technology, strong governance, and community involvement positions it as a leader in modern banking.

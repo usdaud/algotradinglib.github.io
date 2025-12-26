@@ -1,6 +1,6 @@
 # Indicator
 
-An indicator in [algorithmic trading](../a/accountability.md) is a mathematical calculation based on historical price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information that aims to predict future [market](../m/market.md) movements. Indicators are essential tools for [technical analysis](../t/technical_analysis.md), and they help traders make more informed decisions by identifying trends, [volatility](../v/volatility.md), [momentum](../m/momentum.md), and other [market](../m/market.md) characteristics. There are several categories and types of indicators, each serving a specific purpose. This article aims to provide a comprehensive understanding of various indicators and their applications in [algorithmic trading](../a/accountability.md).
+An indicator in [algorithmic trading](../a/algorithmic_trading.md) is a mathematical calculation based on historical price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information that aims to predict future [market](../m/market.md) movements. Indicators are essential tools for [technical analysis](../t/technical_analysis.md), and they help traders make more informed decisions by identifying trends, [volatility](../v/volatility.md), [momentum](../m/momentum.md), and other [market](../m/market.md) characteristics. There are several categories and types of indicators, each serving a specific purpose. This article aims to provide a comprehensive understanding of various indicators and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Moving Averages
 
@@ -32,8 +32,8 @@ The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument
 ```python
 def calculate_rsi(prices, period=14):
     deltas = [prices[i+1] - prices[i] for i in [range](../r/range.md)(len(prices)-1)]
-    [gain](../g/gain.md) = sum([[delta](../d/delta.md) for [delta](../d/delta.md) in deltas if [delta](../d/delta.md) > 0])
-    loss = abs(sum([[delta](../d/delta.md) for [delta](../d/delta.md) in deltas if [delta](../d/delta.md) < 0]))
+    [gain](../g/gain.md) = sum([delta for delta in deltas if delta > 0])
+    loss = abs(sum([delta for delta in deltas if delta < 0]))
     avg_gain = [gain](../g/gain.md) / period
     avg_loss = loss / period
     rs = avg_gain / avg_loss
@@ -159,4 +159,4 @@ def calculate_parabolic_sar(high, low, af=0.02, max_af=0.2):
 ```
 
 ## Conclusion
-Indicators are invaluable tools for [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) insights into [market](../m/market.md) trends, [momentum](../m/momentum.md), [volatility](../v/volatility.md), and [volume](../v/volume.md). Each indicator has its unique advantages and applications, making them suitable for different [trading strategies](../t/trading_strategies.md). By combining [multiple](../m/multiple.md) indicators, traders can create [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md) capable of adjusting to various [market](../m/market.md) conditions.
+Indicators are invaluable tools for [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into [market](../m/market.md) trends, [momentum](../m/momentum.md), [volatility](../v/volatility.md), and [volume](../v/volume.md). Each indicator has its unique advantages and applications, making them suitable for different [trading strategies](../t/trading_strategies.md). By combining [multiple](../m/multiple.md) indicators, traders can create [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md) capable of adjusting to various [market](../m/market.md) conditions.

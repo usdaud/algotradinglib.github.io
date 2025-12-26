@@ -96,10 +96,10 @@ State-of-the-art algorithms and real-time [data analytics](../d/data_analytics.m
 
 ## Companies Specializing in Velocity Trading
 
-- **Citadel Securities**: [Citadel](https://www.citadelsecurities.com/)
-- **Virtu Financial**: [Virtu](https://www.virtu.com/)
-- **Flow Traders**: [Flow Traders](https://www.flowtraders.com/)
-- **DRW Trading**: [DRW](https://drw.com/)
+- **Citadel Securities**: Citadel
+- **Virtu Financial**: Virtu
+- **Flow Traders**: Flow Traders
+- **DRW Trading**: DRW
 
 These companies employ sophisticated algorithms and advanced technology to execute high-frequency [trading strategies](../t/trading_strategies.md).
 

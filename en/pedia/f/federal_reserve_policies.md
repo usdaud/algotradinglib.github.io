@@ -76,7 +76,7 @@ The Federal Reserve adjusts the [federal funds rate](../f/federal_funds_rate.md)
 
 The decision-making process regarding [interest](../i/interest.md) rates involves careful analysis of economic data, such as GDP growth, employment levels, [inflation](../i/inflation.md) rates, and other indicators. The FOMC meets regularly to assess these factors and decide on the appropriate policy stance. The outcomes of these meetings and any changes in policy are communicated through official statements and press conferences.
 
-For more details on Federal Reserve policies, you can visit the [Federal Reserve website](https://www.federalreserve.gov).
+
 
 ### Impact and Implications of Federal Reserve Policies
 
@@ -120,4 +120,4 @@ The Federal Reserve plays a central role in shaping the economic landscape of th
 
 While the Fed’s policies have contributed to economic stability and growth, they also face criticisms and challenges. The ongoing evolution of the economic environment, [financial markets](../f/financial_market.md), and societal expectations [will](../w/will.md) continue to shape the Fed’s approach to policymaking. Understanding Federal Reserve policies and their implications is essential for [market](../m/market.md) participants, policymakers, and the broader public in navigating the complexities of the modern [economy](../e/economy.md).
 
-For more comprehensive details on the Federal Reserve and its policies, please visit the [Federal Reserve website](https://www.federalreserve.gov).
+For more comprehensive details on the Federal Reserve and its policies, please

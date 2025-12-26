@@ -7,14 +7,14 @@ A "Due from Account" is a term used in the banking, investment, and [accounting]
 - **Inter-[bank](../b/bank.md) Relationship**: Due from accounts typically arise due to transactions and relationships between different banks. For instance, [Bank](../b/bank.md) A might [hold](../h/hold.md) funds in [Bank](../b/bank.md) B, thereby creating a "Due from [Bank](../b/bank.md) B" entry in [Bank](../b/bank.md) A's ledger.
 - **[Asset Management](../a/asset_management.md)**: This account appears as an [asset](../a/asset.md) on the [balance sheet](../b/balance_sheet.md) of the [bank](../b/bank.md) that holds the expectancy. It's classified under [current assets](../c/current_assets.md) because it is expected to be liquidated within a short period, typically less than a year.
 - **[Liquidity](../l/liquidity.md) Management**: Due from accounts are instrumental in [liquidity](../l/liquidity.md) management strategies for banks. They ensure that a [bank](../b/bank.md) can access funds when needed quickly.
-  
+
 ## Operational Use
 ### Banking
 In the context of banking, due from accounts are used for a variety of purposes:
 1. **Inter-[bank Deposits](../b/bank_deposits.md)**: Banks often maintain deposits with other banks to facilitate transactions and ensure [liquidity](../l/liquidity.md).
 2. **Clearinghouse Transactions**: As part of clearinghouse activities, banks might temporarily [hold](../h/hold.md) funds with one another.
 3. **Smoothing Settlements**: During daily [clearing and settlement](../c/clearing_and_settlement.md) of transactions, a [bank](../b/bank.md) might end up having a balance due from another [bank](../b/bank.md).
-  
+
 ### Accounting
 From an [accounting](../a/accounting.md) perspective, these accounts are managed to reflect accurate financial standing and [liquidity](../l/liquidity.md). Key points include:
 - **[Balance Sheet](../b/balance_sheet.md) Representation**: The due from account is shown as a current [asset](../a/asset.md) in the [balance sheet](../b/balance_sheet.md) under receivables.
@@ -27,7 +27,7 @@ Banks report due from accounts as part of their financial disclosures. This is c
 There's an element of [risk](../r/risk.md) associated with due from accounts, similar to any financial [receivable](../r/receivable.md):
 - **[Default Risk](../d/default_risk.md)**: If the corresponding [bank](../b/bank.md) experiences financial difficulty or defaults, the expected funds might not be realized.
 - **[Interest Rate Risk](../i/interest_rate_risk.md)**: Fluctuations in [interest](../i/interest.md) rates could affect the [value](../v/value.md) of the funds held in due from accounts.
-  
+
 Financial institutions mitigate these risks through various strategies including [diversification](../d/diversification.md) of [holdings](../h/holdings.md) and maintaining strong inter-[bank](../b/bank.md) relationships.
 
 ## Practical Example

@@ -1,6 +1,6 @@
 # Regulated Investment Company (RIC)
 
-A Regulated [Investment Company](../i/investment_company.md) (RIC) is a classification given by the Internal [Revenue](../r/revenue.md) Service (IRS) in the United States to an [investment company](../i/investment_company.md) that adheres to specific standards outlined in Subchapter M of the Internal [Revenue](../r/revenue.md) Code. These firms primarily collect funds from shareholders and invest them in a diversified portfolio of securities. The RIC must comply with numerous regulations to qualify for this status, which enables them to pass through [income](../i/income.md), dividends, and [capital](../c/capital.md) gains to their shareholders while avoiding [double taxation](../d/double_taxation.md). 
+A Regulated [Investment Company](../i/investment_company.md) (RIC) is a classification given by the Internal [Revenue](../r/revenue.md) Service (IRS) in the United States to an [investment company](../i/investment_company.md) that adheres to specific standards outlined in Subchapter M of the Internal [Revenue](../r/revenue.md) Code. These firms primarily collect funds from shareholders and invest them in a diversified portfolio of securities. The RIC must comply with numerous regulations to qualify for this status, which enables them to pass through [income](../i/income.md), dividends, and [capital](../c/capital.md) gains to their shareholders while avoiding [double taxation](../d/double_taxation.md).
 
 ## Definition and Criteria for RIC
 

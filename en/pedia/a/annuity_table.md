@@ -21,24 +21,24 @@ Annuity tables are typically organized in a tabular format. The table includes r
 ### Types of Annuity Factors in the Table
 
 1. **[Present Value](../p/present_value.md) [Interest](../i/interest.md) [Factor](../f/factor.md) for an Annuity (PVIFA)**: Used to calculate the [present value of an annuity](../p/present_value_of_an_annuity.md). The formula is given by:
-   
-   \[
-   PVIFA(r, n) = \frac{1 - (1 + r)^{-n}}{r}
-   \]
 
-   Where:
-   - \( r \) is the [interest rate](../i/interest_rate.md) per period
-   - \( n \) is the number of periods
+ \[
+ PVIFA(r, n) = \frac{1 - (1 + r)^{-n}}{r}
+ \]
+
+ Where:
+ - \( r \) is the [interest rate](../i/interest_rate.md) per period
+ - \( n \) is the number of periods
 
 2. **Future [Value](../v/value.md) [Interest](../i/interest.md) [Factor](../f/factor.md) for an Annuity (FVIFA)**: Used to calculate the [future value of an annuity](../f/future_value_of_an_annuity.md). The formula is given by:
-   
-   \[
-   FVIFA(r, n) = \frac{(1 + r)^n - 1}{r}
-   \]
 
-   Where:
-   - \( r \) is the [interest rate](../i/interest_rate.md) per period
-   - \( n \) is the number of periods
+ \[
+ FVIFA(r, n) = \frac{(1 + r)^n - 1}{r}
+ \]
+
+ Where:
+ - \( r \) is the [interest rate](../i/interest_rate.md) per period
+ - \( n \) is the number of periods
 
 ## Practical Applications of Annuity Tables
 
@@ -80,9 +80,9 @@ Assume you invest $500 annually for 4 years at an [interest rate](../i/interest_
 
 In the digital era, traditional annuity tables have been complemented by various online calculators and financial software. These tools automate the process of calculating annuity values. Some reputable resources include:
 
-1. **Investopedia’s Annuity Calculator**: [Investopedia Annuity Calculator](https://www.investopedia.com/calculator/annuitycalc.aspx)
-2. **Bankrate’s Annuity Calculator**: [Bankrate Annuity Calculator](https://www.bankrate.com/calculators/investing/annuity-calculator.aspx)
-3. **Dinkytown Annuity Calculator**: [Dinkytown Annuity Calculator](https://www.dinkytown.net/financial-calculators/annuity-calculator.html)
+1. **Investopedia’s Annuity Calculator**: Investopedia Annuity Calculator
+2. **Bankrate’s Annuity Calculator**: Bankrate Annuity Calculator
+3. **Dinkytown Annuity Calculator**: Dinkytown Annuity Calculator
 
 ## Conclusion
 

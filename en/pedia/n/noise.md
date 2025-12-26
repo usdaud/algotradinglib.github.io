@@ -1,12 +1,12 @@
 # Noise
 
-Noise is an important concept in [finance](../f/finance.md) and trading, referring to all the random [variability](../v/variability.md) that can obscure or distort the true signals present in [market](../m/market.md) data. Understanding and managing noise is particularly critical for [algorithmic trading](../a/accountability.md), where the ability to differentiate between useful information and random fluctuations can significantly affect [trading performance](../t/trading_performance.md).
+Noise is an important concept in [finance](../f/finance.md) and trading, referring to all the random [variability](../v/variability.md) that can obscure or distort the true signals present in [market](../m/market.md) data. Understanding and managing noise is particularly critical for [algorithmic trading](../a/algorithmic_trading.md), where the ability to differentiate between useful information and random fluctuations can significantly affect [trading performance](../t/trading_performance.md).
 
 ## Definition and Importance
 
 Noise includes all the irrelevant data and random fluctuations that make it challenging to identify genuine patterns or trends in [financial markets](../f/financial_market.md). It comes from various sources such as [market microstructure](../m/market_microstructure.md), trading activity, and external economic events. Without noise, the [financial markets](../f/financial_market.md) would be more predictable, but noise adds an element of [uncertainty](../u/uncertainty_in_trading.md) and [risk](../r/risk.md).
 
-Traders and quantitative analysts spend significant resources trying to minimize the impact of noise. In [algorithmic trading](../a/accountability.md), noise can distort the signals feeding into [trading models](../t/trading_models.md), leading to misguided decisions and financial losses. Therefore, algorithms often incorporate sophisticated noise-reduction techniques to enhance their effectiveness.
+Traders and quantitative analysts spend significant resources trying to minimize the impact of noise. In [algorithmic trading](../a/algorithmic_trading.md), noise can distort the signals feeding into [trading models](../t/trading_models.md), leading to misguided decisions and financial losses. Therefore, algorithms often incorporate sophisticated noise-reduction techniques to enhance their effectiveness.
 
 ## Sources of Noise
 
@@ -44,7 +44,7 @@ Traders and quantitative analysts spend significant resources trying to minimize
 
 ## Noise and Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), handling noise is crucial for optimizing strategies. Algorithms that can't distinguish between noise and true signals may execute trades based on faulty assumptions, leading to losses. 
+In [algorithmic trading](../a/algorithmic_trading.md), handling noise is crucial for optimizing strategies. Algorithms that can't distinguish between noise and true signals may execute trades based on faulty assumptions, leading to losses.
 
 1. **[Backtesting](../b/backtesting.md)**: Historical data often contains noise, and algorithms must be tested against this data to ensure they can [handle](../h/handle.md) real [market](../m/market.md) conditions. [Backtesting](../b/backtesting.md) helps in understanding how noise impacts performance.
 
@@ -56,10 +56,10 @@ In [algorithmic trading](../a/accountability.md), handling noise is crucial for 
 
 Several companies and platforms specialize in providing tools to manage and reduce noise in trading:
 
-1. **Numerai**: Numerai hosts [machine learning](../m/machine_learning.md) tournaments where data scientists build [predictive models](../p/predictive_models_in_trading.md) for [financial markets](../f/financial_market.md). Their focus is often on separating signal from noise to make better [market](../m/market.md) predictions. [Numerai](https://numer.ai)
+1. **Numerai**: Numerai hosts [machine learning](../m/machine_learning.md) tournaments where data scientists build [predictive models](../p/predictive_models_in_trading.md) for [financial markets](../f/financial_market.md). Their focus is often on separating signal from noise to make better [market](../m/market.md) predictions. Numerai
 
-2. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an [algorithmic trading](../a/accountability.md) platform that provides data and tools to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They emphasize [noise reduction techniques](../n/noise_reduction_techniques.md) to improve trading model robustness. [QuantConnect](https://www.quantconnect.com)
+2. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and tools to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They emphasize [noise reduction techniques](../n/noise_reduction_techniques.md) to improve trading model robustness. QuantConnect
 
-3. **Yewno**: Yewno uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to analyze data and identify hidden relationships in [financial markets](../f/financial_market.md), aiming to filter out noise and uncover meaningful signals. [Yewno](https://www.yewno.com)
+3. **Yewno**: Yewno uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to analyze data and identify hidden relationships in [financial markets](../f/financial_market.md), aiming to filter out noise and uncover meaningful signals. Yewno
 
 Understanding noise is a foundational aspect of trading and [financial analysis](../f/financial_analysis.md). By applying the right tools and techniques, traders can enhance their strategies and improve their chances of success in the noisy and unpredictable world of [financial markets](../f/financial_market.md).

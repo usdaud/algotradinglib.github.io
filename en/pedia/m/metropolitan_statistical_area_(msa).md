@@ -4,7 +4,7 @@ A Metropolitan Statistical Area (MSA) is a geographic region with a relatively h
 
 ## Definition and Criteria
 
-An MSA typically comprises one or more counties that contain a city with a substantial population. It extends to include adjacent counties that have a high degree of social and [economic integration](../e/economic_integration.md) with the central urban area, as measured by commuting ties. 
+An MSA typically comprises one or more counties that contain a city with a substantial population. It extends to include adjacent counties that have a high degree of social and [economic integration](../e/economic_integration.md) with the central urban area, as measured by commuting ties.
 
 ### Core Criteria
 - **Population Core:** An urbanized area with a minimum population of 50,000.
@@ -66,16 +66,16 @@ Chicago's MSA is a central node in national and international transportation net
 
 ## Application in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems use MSA data to refine models and predictions. Geographical and economic specifics of MSAs aid in developing more accurate [market](../m/market.md) algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) systems use MSA data to refine models and predictions. Geographical and economic specifics of MSAs aid in developing more accurate [market](../m/market.md) algorithms.
 
 ### Predictive Analytics
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can incorporate MSA data to improve predictions related to [market](../m/market.md) movements, [real estate](../r/real_estate.md) trends, and [economic conditions](../e/economic_conditions.md). 
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can incorporate MSA data to improve predictions related to [market](../m/market.md) movements, [real estate](../r/real_estate.md) trends, and [economic conditions](../e/economic_conditions.md).
 
 ### Portfolio Optimization
 MSA-based insights enable the [optimization](../o/optimization.md) of investment portfolios by recognizing regional economic strengths and vulnerabilities.
 
 ### Risk Management
-MSAs [offer](../o/offer.md) granular data that help in assessing regional risks and devising strategies to mitigate them, thereby refining [algorithmic trading](../a/accountability.md) decisions.
+MSAs [offer](../o/offer.md) granular data that help in assessing regional risks and devising strategies to mitigate them, thereby refining [algorithmic trading](../a/algorithmic_trading.md) decisions.
 
 ## Conclusion
 
@@ -85,8 +85,8 @@ The concept of the Metropolitan Statistical Area (MSA) plays a fundamental role 
 
 For more detailed information and latest updates, you can refer to the respective official pages:
 
-- [Office of Management and Budget](https://www.whitehouse.gov/omb/)
-- [Bureau of Economic Analysis](https://www.bea.gov/)
-- [U.S. Census Bureau](https://www.census.gov/)
+- Office of Management and Budget
+- Bureau of Economic Analysis
+- U.S. Census Bureau
 
 These resources provide in-depth data and updates pertinent to MSAs and their applications in various economic and financial contexts.

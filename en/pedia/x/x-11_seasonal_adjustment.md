@@ -46,16 +46,16 @@ X-11 is also applied in meteorological studies to adjust weather-related data. S
 Several statistical software packages [offer](../o/offer.md) implementations of the X-11 algorithm. Prominent among these are:
 
 ### 1. SAS (Statistical Analysis System)
-SAS provides the X-11 method as a part of its [time series](../t/time_series.md) and econometric analysis toolbox. More details can be found on their website: [SAS Seasonal Adjustment](https://support.sas.com/)
+SAS provides the X-11 method as a part of its [time series](../t/time_series.md) and econometric analysis toolbox.
 
 ### 2. R (Programming Language)
-R, a popular statistical computing language, has packages like `seasonal` and `x12` which implement X-11. [Check](../c/check.md) out more details on their CRAN repository: [R CRAN X-12](https://cran.r-project.org/web/packages/x12/x12.pdf)
+R, a popular statistical computing language, has packages like `seasonal` and `x12` which implement X-11. [Check](../c/check.md) out more details on their CRAN repository: R CRAN X-12
 
 ### 3. JDemetra+
-JDemetra+ is a software developed by Eurostat and the [National Bank](../n/national_bank.md) of Belgium, specifically for seasonal adjustment, supporting X-11 among other methods. Find more at: [JDemetra+](https://ec.europa.eu/eurostat/cros/content/jdemetra_en)
+JDemetra+ is a software developed by Eurostat and the [National Bank](../n/national_bank.md) of Belgium, specifically for seasonal adjustment, supporting X-11 among other methods. Find more at: JDemetra+
 
 ### 4. EViews
-EViews is another econometric software [offering](../o/offering.md) X-11 seasonal adjustment as one of its features. For more information, visit: [EViews](http://www.eviews.com/)
+EViews is another econometric software [offering](../o/offering.md) X-11 seasonal adjustment as one of its features. For more information, visit: EViews
 
 ## Conclusion
 

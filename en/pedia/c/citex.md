@@ -6,8 +6,6 @@ CITEX is an advanced digital [asset](../a/asset.md) [trading platform](../t/trad
 
 CITEX, officially operational since August 2018, is a Hong-Kong based digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md). The platform has rapidly grown in popularity due to its strong emphasis on [security](../s/security.md), user experience, and its broad spectrum of supported assets. Over the years, CITEX has managed to list numerous digital currencies, increasing the [options](../o/options.md) available for traders and investors.
 
-CITEX's official website: [CITEX](https://www.citex.co.kr)
-
 ## Supported Currencies and Tokens
 
 One noteworthy aspect of CITEX is its extensive list of supported cryptocurrencies and tokens. The platform hosts trading for major cryptocurrencies like [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), and Litecoin (LTC), as well as numerous altcoins. This extensive support allows traders to diversify their portfolios significantly.
@@ -93,7 +91,7 @@ This structure incentivizes [liquidity](../l/liquidity.md) by [offering](../o/of
 
 ### Withdrawal Fees
 
-[Withdrawal](../w/withdrawal.md) fees vary depending on the cryptocurrency being withdrawn. These fees are adjusted periodically to reflect network congestion and other factors. Users can find the most current [withdrawal](../w/withdrawal.md) fees on the CITEX website.
+[Withdrawal](../w/withdrawal.md) fees vary depending on the cryptocurrency being withdrawn. These fees are adjusted periodically to reflect network congestion and other factors. Users can find the most current [withdrawal](../w/withdrawal.md)
 
 ## Membership and VIP Programs
 
@@ -105,7 +103,7 @@ Standard members enjoy all the basic features of the platform, including access 
 
 ### VIP Membership
 
-VIP membership levels are tiered based on trading [volume](../v/volume.md). Higher tiers provide more substantial benefits, including lower trading fees and enhanced [customer service](../c/customer_service.md). Specific details about the VIP membership can be found on the CITEX website.
+VIP membership levels are tiered based on trading [volume](../v/volume.md). Higher tiers provide more substantial benefits, including lower trading fees and enhanced [customer service](../c/customer_service.md). Specific
 
 ## Customer Support
 
@@ -113,7 +111,7 @@ Quality [customer](../c/customer.md) support is essential for any [trading platf
 
 ### Live Chat
 
-CITEX provides a live chat feature on its website, enabling users to get real-time assistance from [customer](../c/customer.md) support representatives.
+CITEX provides a live chat feature on its platform, enabling users to get real-time assistance from [customer](../c/customer.md) support representatives.
 
 ### Email Support
 

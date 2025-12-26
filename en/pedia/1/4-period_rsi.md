@@ -13,8 +13,8 @@ where RS ([Relative Strength](../r/relative_strength.md)) is the average of 'N' 
 
 ### Steps to Calculate RSI
 1. Determine the average [gain](../g/gain.md) and average loss over the specified period.
-   - Gains are the difference between the closing prices on up days.
-   - Losses are the differences between closing prices on down days.
+ - Gains are the difference between the closing prices on up days.
+ - Losses are the differences between closing prices on down days.
 2. Divide the sum of gains by the number of periods to get the average [gain](../g/gain.md).
 3. Divide the sum of losses by the number of periods to get the average loss.
 4. Compute the [relative strength](../r/relative_strength.md) (RS).
@@ -30,21 +30,21 @@ Assume the following closing prices over a 4-day period:
 **Step-by-Step Calculation:**
 
 1. Calculate the daily changes:
-   - Day 2: 155 - 150 = +5 ([gain](../g/gain.md))
-   - Day 3: 153 - 155 = -2 (loss)
-   - Day 4: 160 - 153 = +7 ([gain](../g/gain.md))
+ - Day 2: 155 - 150 = +5 ([gain](../g/gain.md))
+ - Day 3: 153 - 155 = -2 (loss)
+ - Day 4: 160 - 153 = +7 ([gain](../g/gain.md))
 
 2. Calculate average [gain](../g/gain.md) and loss:
-   - Average [Gain](../g/gain.md) = (5 + 7) / 4 = 3 (using only days with gains)
-   - Average Loss = 2 / 4 = 0.5 (using only days with losses)
+ - Average [Gain](../g/gain.md) = (5 + 7) / 4 = 3 (using only days with gains)
+ - Average Loss = 2 / 4 = 0.5 (using only days with losses)
 
 3. Calculate RS:
-   - RS = 3 / 0.5 = 6
+ - RS = 3 / 0.5 = 6
 
 4. Calculate RSI:
-   - RSI = 100 - (100 / (1 + 6))
-   - RSI = 100 - (100 / 7)
-   - RSI = 100 - 14.29 ≈ 85.71
+ - RSI = 100 - (100 / (1 + 6))
+ - RSI = 100 - (100 / 7)
+ - RSI = 100 - 14.29 ≈ 85.71
 
 The RSI for these 4 periods is approximately 85.71, which indicates that the stock might be [overbought](../o/overbought.md).
 
@@ -53,7 +53,7 @@ Generally, an RSI above 70 indicates that a [security](../s/security.md) is beco
 
 ### Overbought and Oversold Conditions
 - **[Overbought](../o/overbought.md) (RSI > 70):** When the RSI crosses above 70, the [security](../s/security.md) is considered [overbought](../o/overbought.md). This situation can indicate that the [asset](../a/asset.md) may be due for a [pullback](../p/pullback.md) or [correction](../c/correction.md).
-  
+
 - **[Oversold](../o/oversold.md) (RSI < 30):** When the RSI crosses below 30, the [security](../s/security.md) is considered [oversold](../o/oversold.md). This situation can indicate that the [asset](../a/asset.md) may be due for a [rally](../r/rally.md) or rebound.
 
 ## Advantages of 4-Period RSI
@@ -66,7 +66,7 @@ Generally, an RSI above 70 indicates that a [security](../s/security.md) is beco
 
 ## Comparison with Other RSI Periods
 - **14-Period RSI:** The traditional RSI [indicator](../i/indicator.md) is calculated over 14 periods and is widely used. While it is less sensitive than the 4-period RSI, it produces fewer [false signals](../f/false_signals_in_trading.md) and offers better long-term [trend](../t/trend.md) detection.
-  
+
 - **6 or [10-Period RSI](../1/10-period_rsi.md):** Medium-term RSI periods, such as 6 or 10 periods, provide a balance between sensitivity and smoothing. These are less prone to [volatility](../v/volatility.md) compared to the 4-period RSI but more responsive than the 14-period RSI.
 
 ## Practical Uses
@@ -79,7 +79,7 @@ Traders often use the RSI to detect divergent price movements. [Divergence](../d
 - **[Bearish Divergence](../b/bearish_divergence.md):** Occurs when price makes a new high while the RSI forms a lower high.
 
 ## Implementing 4-Period RSI in Trading Algorithms
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow traders to backtest strategies using indicators like the 4-period RSI. Platforms such as [QuantConnect](https://www.quantconnect.com) and [AlgoTrader](https://www.algotrader.com) provide sophisticated environments for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow traders to backtest strategies using indicators like the 4-period RSI. Platforms such as QuantConnect and AlgoTrader provide sophisticated environments for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Sample Algorithm
 Here's a simple example of how you might implement a trading algorithm using the 4-period RSI in Python with the `pandas` and `numpy` libraries:
@@ -89,7 +89,7 @@ Here's a simple example of how you might implement a trading algorithm using the
 [import](../i/import.md) numpy as np
 
 # Fetch price data (this is assumed to be a DataFrame with a 'Close' column)
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Close': [150, 155, 153, 160, 162, 158, 159]
 })
 
@@ -132,4 +132,4 @@ print(data)
 This script calculates the 4-period RSI for a given set of closing prices and generates buy and sell signals based on RSI thresholds (below 30 for buying and above 70 for selling).
 
 ## Conclusion
-The 4-period RSI is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its sensitivity to price movements makes it particularly useful for identifying short-term [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. However, its increased [volatility](../v/volatility.md) can sometimes produce [false signals](../f/false_signals_in_trading.md), so it's often best used in conjunction with other indicators and analysis methods. Whether used in manual trading or algorithmic strategies, understanding and effectively utilizing the 4-period RSI can be a significant advantage in navigating the complex world of [financial markets](../f/financial_market.md).
+The 4-period RSI is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its sensitivity to price movements makes it particularly useful for identifying short-term [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. However, its increased [volatility](../v/volatility.md) can sometimes produce [false signals](../f/false_signals_in_trading.md), so it's often best used in conjunction with other indicators and analysis methods. Whether used in manual trading or algorithmic strategies, understanding and effectively utilizing the 4-period RSI can be a significant advantage in navigating the complex world of [financial markets](../f/financial_market.md).

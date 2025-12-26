@@ -7,20 +7,20 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), moving avera
 Before delving into the technicalities of moving average crossovers, it's imperative to comprehend the fundamentals of moving averages. A moving average (MA) is primarily used to smooth out price data to create a reliable reference point that indicates the [trend](../t/trend.md) direction of an [asset](../a/asset.md). There are various types of moving averages, each with its unique method of calculation, but the two most common types are:
 
 1. **Simple Moving Average (SMA):** Calculated by dividing the sum of the closing prices for a certain number of periods by the number of periods. The formula for an \(n\)-day SMA is:
-   \[
-   SMA = \frac{P_1 + P_2 + \ldots + P_n}{n}
-   \]
-   where \(P_i\) represents the price of the [asset](../a/asset.md) at day \(i\).
+ \[
+ SMA = \frac{P_1 + P_2 + \ldots + P_n}{n}
+ \]
+ where \(P_i\) represents the price of the [asset](../a/asset.md) at day \(i\).
 
 2. **Exponential Moving Average (EMA):** Places more weight on the most recent prices, making it more responsive to new information. The weighting [factor](../f/factor.md) for the most recent price is calculated using the formula:
-   \[
-   \[alpha](../a/alpha.md) = \frac{2}{n + 1}
-   \]
-   where \(n\) represents the number of periods. The EMA is then computed using the previous period's EMA with:
-   \[
-   EMA_t = (P_t \cdot \[alpha](../a/alpha.md)) + (EMA_{t-1} \cdot (1 - \[alpha](../a/alpha.md)))
-   \]
-   where \(P_t\) is the price at time \(t\).
+ \[
+ \[alpha](../a/alpha.md) = \frac{2}{n + 1}
+ \]
+ where \(n\) represents the number of periods. The EMA is then computed using the previous period's EMA with:
+ \[
+ EMA_t = (P_t \cdot \[alpha](../a/alpha.md)) + (EMA_{t-1} \cdot (1 - \[alpha](../a/alpha.md)))
+ \]
+ where \(P_t\) is the price at time \(t\).
 
 ### Moving Average Crossovers
 
@@ -36,27 +36,27 @@ A moving average crossover occurs when one moving average crosses above or below
 
 2. **Coding the Strategy:** [Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader, [QuantConnect](../q/quantconnect.md), or custom-built systems using programming libraries like Python's Pandas and NumPy allow traders to code and backtest moving average crossover strategies. Here is a basic example using Python:
 
-   ```python
-   [import](../i/import.md) pandas as pd
+ ```python
+ [import](../i/import.md) pandas as pd
 
-   # [Load](../l/load.md) data
-   data = pd.read_csv('historical_prices.csv')
-   
-   # Calculate moving averages
-   data['SMA50'] = data['Close'].rolling(window=50).mean()
-   data['SMA200'] = data['Close'].rolling(window=200).mean()
-   
-   # Determine signals
-   data['Signal'] = 0
-   data['Signal'][50:] = np.where(data['SMA50'][50:] > data['SMA200'][50:], 1, 0)
-   data['Position'] = data['Signal'].diff()
-   
-   # Buy signals
-   buy_signals = data[data['Position'] == 1]
-   
-   # Sell signals
-   sell_signals = data[data['Position'] == -1]
-   ```
+ # [Load](../l/load.md) data
+ data = pd.read_csv('historical_prices.csv')
+
+ # Calculate moving averages
+ data['SMA50'] = data['Close'].rolling(window=50).mean()
+ data['SMA200'] = data['Close'].rolling(window=200).mean()
+
+ # Determine signals
+ data['Signal'] = 0
+ data['Signal'][50:] = np.where(data['SMA50'][50:] > data['SMA200'][50:], 1, 0)
+ data['Position'] = data['Signal'].diff()
+
+ # Buy signals
+ buy_signals = data[data['Position'] == 1]
+
+ # Sell signals
+ sell_signals = data[data['Position'] == -1]
+ ```
 
 3. **[Backtesting](../b/backtesting.md):** [Backtesting](../b/backtesting.md) involves running the algorithm on historical data to evaluate its performance. This validation step is crucial to ensure that the strategy behaves as expected in different [market](../m/market.md) conditions.
 
@@ -78,11 +78,11 @@ A moving average crossover occurs when one moving average crosses above or below
 
 ### Applications and Real-World Examples
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive documentation and tools for implementing and [backtesting](../b/backtesting.md) moving average crossover strategies. Traders can use [QuantConnect](../q/quantconnect.md)'s cloud-based [infrastructure](../i/infrastructure.md) to build [robust](../r/robust.md) algorithms. Learn more [here](https://www.quantconnect.com/).
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive documentation and tools for implementing and [backtesting](../b/backtesting.md) moving average crossover strategies. Traders can use [QuantConnect](../q/quantconnect.md)'s cloud-based [infrastructure](../i/infrastructure.md) to build [robust](../r/robust.md) algorithms. Learn more here.
 
-2. **MetaTrader**: A popular [trading platform](../t/trading_platform.md) widely used for creating and deploying [trading algorithms](../t/trading_algorithms.md). MetaTrader's built-in tools and scripting language (MQL) make it easy to develop, test, and execute moving average crossover strategies. More details can be found [here](https://www.metatrader4.com/).
+2. **MetaTrader**: A popular [trading platform](../t/trading_platform.md) widely used for creating and deploying [trading algorithms](../t/trading_algorithms.md). MetaTrader's built-in tools and scripting language (MQL) make it easy to develop, test, and execute moving average crossover strategies. More details can be found here.
 
-3. **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free trading app that supports [algorithmic trading](../a/algorithmic_trading.md) through its API, [Robinhood](../r/robinhood.md) allows for the implementation of moving average crossover strategies for various assets. Explore more at [Robinhood](https://robinhood.com/).
+3. **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free trading app that supports [algorithmic trading](../a/algorithmic_trading.md) through its API, [Robinhood](../r/robinhood.md) allows for the implementation of moving average crossover strategies for various assets. Explore more at Robinhood.
 
 ### Conclusion
 

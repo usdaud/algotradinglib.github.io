@@ -26,7 +26,7 @@ Herd instinct in [financial markets](../f/financial_market.md) is primarily driv
 
 ## Herd Instinct in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, uses computer algorithms to automatically execute trading orders based on pre-defined criteria. While algotrading is designed to minimize human biases and errors, it can also propagate [herd behavior](../h/herd_behavior_in_trading.md) under certain conditions.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, uses computer algorithms to automatically execute trading orders based on pre-defined criteria. While algotrading is designed to minimize human biases and errors, it can also propagate [herd behavior](../h/herd_behavior_in_trading.md) under certain conditions.
 
 ### Algorithms and Trend Following
 
@@ -37,8 +37,8 @@ Many [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) ar
 High-Frequency Trading (HFT) firms use sophisticated algorithms to execute a large number of trades at extremely high speeds. HFT algorithms can detect and exploit [market](../m/market.md) inefficiencies, but they also tend to respond similarly to [market](../m/market.md) fluctuations. For example, an HFT algorithm might identify a buying opportunity from a particular price movement, leading other HFT firms with similar algorithms to make identical trades almost simultaneously, exemplifying [herd behavior](../h/herd_behavior_in_trading.md).
 
 Notable HFT firms include:
-- **Citadel Securities** [website](https://www.citadelsecurities.com)
-- **Virtu Financial** [website](https://www.virtu.com)
+- **Citadel Securities** online platform
+- **Virtu Financial** online platform
 
 ### Risk Management Algorithms
 
@@ -56,7 +56,7 @@ On May 6, 2010, U.S. stock markets experienced a severe and rapid drop in prices
 
 ### August 24, 2015 Market Sell-Off
 
-On August 24, 2015, global stock markets saw a dramatic sell-off, driven partly by [algorithmic trading](../a/accountability.md). Concerns over China's slowing [economy](../e/economy.md) triggered widespread selling, with algotrading amplifying the [market](../m/market.md)'s downward [momentum](../m/momentum.md). Algorithms set to reduce risks in response to [volatility](../v/volatility.md) exacerbated the sell-off, reflecting [herd behavior](../h/herd_behavior_in_trading.md) in action.
+On August 24, 2015, global stock markets saw a dramatic sell-off, driven partly by [algorithmic trading](../a/algorithmic_trading.md). Concerns over China's slowing [economy](../e/economy.md) triggered widespread selling, with algotrading amplifying the [market](../m/market.md)'s downward [momentum](../m/momentum.md). Algorithms set to reduce risks in response to [volatility](../v/volatility.md) exacerbated the sell-off, reflecting [herd behavior](../h/herd_behavior_in_trading.md) in action.
 
 ## Mitigating Herd Instinct in Algorithmic Trading
 
@@ -80,4 +80,4 @@ Ethical trading practices and stringent regulatory oversight can also play a cru
 
 ## Conclusion
 
-Herd instinct is a potent force in [financial markets](../f/financial_market.md), significantly influencing price movements and [market dynamics](../m/market_dynamics.md). In the realm of [algorithmic trading](../a/accountability.md), while advanced algorithms aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and mitigate human biases, they are not immune to the effects of [herd behavior](../h/herd_behavior_in_trading.md). Understanding the mechanics of herd instinct and implementing strategies to counteract its effects are crucial steps towards fostering a more stable and efficient [trading environment](../t/trading_environment.md). By leveraging [diversification](../d/diversification.md), adaptive [trading systems](../t/trading_systems.md), regulatory frameworks, and ethical practices, the financial [industry](../i/industry.md) can better navigate the challenges posed by [herd behavior](../h/herd_behavior_in_trading.md) in [algorithmic trading](../a/accountability.md).
+Herd instinct is a potent force in [financial markets](../f/financial_market.md), significantly influencing price movements and [market dynamics](../m/market_dynamics.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md), while advanced algorithms aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and mitigate human biases, they are not immune to the effects of [herd behavior](../h/herd_behavior_in_trading.md). Understanding the mechanics of herd instinct and implementing strategies to counteract its effects are crucial steps towards fostering a more stable and efficient [trading environment](../t/trading_environment.md). By leveraging [diversification](../d/diversification.md), adaptive [trading systems](../t/trading_systems.md), regulatory frameworks, and ethical practices, the financial [industry](../i/industry.md) can better navigate the challenges posed by [herd behavior](../h/herd_behavior_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md).

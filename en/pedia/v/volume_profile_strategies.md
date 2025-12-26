@@ -18,25 +18,25 @@ At its core, [Volume Profile](../v/volume_profile.md) shows the amount of traded
 
 ### Steps to Implement Volume Profile Strategies
 
-1. **Data Collection and Preprocessing**: 
-   - Gather high-fidelity [tick](../t/tick.md) or second data to ensure accurate [volume](../v/volume.md) representation.
-   - Preprocess the data to calculate [Volume Profile](../v/volume_profile.md) components for various periods.
+1. **Data Collection and Preprocessing**:
+ - Gather high-fidelity [tick](../t/tick.md) or second data to ensure accurate [volume](../v/volume.md) representation.
+ - Preprocess the data to calculate [Volume Profile](../v/volume_profile.md) components for various periods.
 
 2. **Identifying Key [Volume Profile](../v/volume_profile.md) Components**:
-   - Calculate Point of Control (POC), [Value](../v/value.md) Area (VA), HVNs, and LVNs for specified periods (daily, weekly, etc.).
+ - Calculate Point of Control (POC), [Value](../v/value.md) Area (VA), HVNs, and LVNs for specified periods (daily, weekly, etc.).
 
 3. **Developing [Trading Rules](../t/trading_rules.md)**:
-   - **[Support and Resistance](../s/support_and_resistance.md) Identification**: Use [Value](../v/value.md) Area High (VAH) and Low (VAL), and the POCs to mark potential [support and resistance](../s/support_and_resistance.md) zones.
-   - **[Breakout](../b/breakout.md) and Rejection Trades**: Plan entries around HVNs and LVNs. For example, breakouts above HVNs can signal strong bullish moves, while bounces off LVNs may indicate reversals.
-   - **[Mean Reversion](../m/mean_reversion.md) Trades**: Use POC as an anchor point for reversion strategies, expecting price to oscillate around this level.
+ - **[Support and Resistance](../s/support_and_resistance.md) Identification**: Use [Value](../v/value.md) Area High (VAH) and Low (VAL), and the POCs to mark potential [support and resistance](../s/support_and_resistance.md) zones.
+ - **[Breakout](../b/breakout.md) and Rejection Trades**: Plan entries around HVNs and LVNs. For example, breakouts above HVNs can signal strong bullish moves, while bounces off LVNs may indicate reversals.
+ - **[Mean Reversion](../m/mean_reversion.md) Trades**: Use POC as an anchor point for reversion strategies, expecting price to oscillate around this level.
 
 4. **Back-testing and [Optimization](../o/optimization.md)**:
-   - Use historical data to test the efficacy of the [Volume Profile](../v/volume_profile.md) strategies.
-   - Optimize parameters such as the periods for calculating POC and VA, and the thresholds for HVNs and LVNs.
+ - Use historical data to test the efficacy of the [Volume Profile](../v/volume_profile.md) strategies.
+ - Optimize parameters such as the periods for calculating POC and VA, and the thresholds for HVNs and LVNs.
 
 5. **Real-time Implementation**:
-   - Deploy algorithms that can read [real-time market data](../r/real-time_market_data.md) and compute [Volume Profile](../v/volume_profile.md) components dynamically.
-   - Ensure the system can react to [market](../m/market.md) conditions with minimal latency to execute trades based on established rules.
+ - Deploy algorithms that can read [real-time market data](../r/real-time_market_data.md) and compute [Volume Profile](../v/volume_profile.md) components dynamically.
+ - Ensure the system can react to [market](../m/market.md) conditions with minimal latency to execute trades based on established rules.
 
 ## Example Use-Cases of Volume Profile Strategies
 
@@ -73,22 +73,22 @@ To develop an algorithmic model that leverages [Volume Profile](../v/volume_prof
 ### Step-by-Step Approach
 
 1. **Data [Acquisition](../a/acquisition.md)**:
-   - Collect [tick](../t/tick.md)-level data for the S&P 500 [E-mini](../e/e-mini.md) [futures](../f/futures.md) for the past two years.
+ - Collect [tick](../t/tick.md)-level data for the S&P 500 [E-mini](../e/e-mini.md) [futures](../f/futures.md) for the past two years.
 
 2. **[Volume Profile](../v/volume_profile.md) Calculation**:
-   - Calculate daily [Volume Profile](../v/volume_profile.md) to determine HVNs, LVNs, POCs, and [Value](../v/value.md) Areas.
+ - Calculate daily [Volume Profile](../v/volume_profile.md) to determine HVNs, LVNs, POCs, and [Value](../v/value.md) Areas.
 
 3. **Strategy Formulation**:
-   - Define entry/exit rules based on interactions with the POC and [Value](../v/value.md) Area boundaries.
-   - Implement trailing stops based on [volatility](../v/volatility.md) measures.
+ - Define entry/exit rules based on interactions with the POC and [Value](../v/value.md) Area boundaries.
+ - Implement trailing stops based on [volatility](../v/volatility.md) measures.
 
 4. **Back-testing**:
-   - Run back-tests to analyze [performance metrics](../p/performance_metrics.md) such as win-rate, drawdowns, and ROI.
-   - Fine-tune parameters to optimize strategy performance.
+ - Run back-tests to analyze [performance metrics](../p/performance_metrics.md) such as win-rate, drawdowns, and ROI.
+ - Fine-tune parameters to optimize strategy performance.
 
 5. **Real-time [Execution](../e/execution.md)**:
-   - Deploy the algorithm on a [trading platform](../t/trading_platform.md) with [real-time market data](../r/real-time_market_data.md) feeds.
-   - Monitor and adjust the algorithm as necessary to adapt to changing [market](../m/market.md) conditions.
+ - Deploy the algorithm on a [trading platform](../t/trading_platform.md) with [real-time market data](../r/real-time_market_data.md) feeds.
+ - Monitor and adjust the algorithm as necessary to adapt to changing [market](../m/market.md) conditions.
 
 ## Tools and Platforms for Volume Profile Strategies
 
@@ -96,21 +96,20 @@ Several platforms and tools [offer](../o/offer.md) capabilities for calculating 
 
 ### TradingView
 - A popular platform featuring built-in [Volume Profile](../v/volume_profile.md) indicators. It offers powerful scripting capabilities via Pine Script for custom strategies.
-- [TradingView](https://www.tradingview.com)
+- TradingView
 
 ### QuantConnect
 - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports back-testing and deployment with advanced [data analytics](../d/data_analytics.md) capabilities.
-- [QuantConnect](https://www.quantconnect.com)
+- QuantConnect
 
 ### Sierra Chart
 - A professional [trading platform](../t/trading_platform.md) known for its detailed [volume](../v/volume.md) profiling tools. It's highly customizable and supports real-time data.
-- [Sierra Chart](https://www.sierrachart.com)
+- Sierra Chart
 
 ### NinjaTrader
 - A comprehensive [trading platform](../t/trading_platform.md) that includes advanced [Volume Profile](../v/volume_profile.md) tools and supports algorithmic strategy development.
-- [NinjaTrader](https://www.ninjatrader.com)
+- NinjaTrader
 
 ## Conclusion
 
 [Volume Profile](../v/volume_profile.md) provides deep insights into [market dynamics](../m/market_dynamics.md) by emphasizing the critical role of [volume](../v/volume.md) in price movement analysis. When effectively harnessed in [algorithmic trading](../a/algorithmic_trading.md), it can lead to highly informed and strategic [trade](../t/trade.md) decisions. Through careful analysis, back-testing, and [optimization](../o/optimization.md), traders can develop [robust](../r/robust.md) algorithmic strategies that [leverage](../l/leverage.md) the nuanced insights offered by [Volume Profile](../v/volume_profile.md) data. As with any [trading strategy](../t/trading_strategy.md), continuous monitoring and adaptation are key to navigating the ever-evolving [market](../m/market.md) landscape.
-

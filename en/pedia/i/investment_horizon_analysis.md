@@ -4,7 +4,7 @@
 
 ### Definition and Importance
 
-[Investment horizon](../i/investment_horizon.md) refers to the length of time an [investor](../i/investor.md) plans to [hold](../h/hold.md) an investment before selling it. In the context of [algorithmic trading](../a/algorithmic_trading.md), this period can [range](../r/range.md) from milliseconds to several years, depending on the specific objectives and strategies employed. 
+[Investment horizon](../i/investment_horizon.md) refers to the length of time an [investor](../i/investor.md) plans to [hold](../h/hold.md) an investment before selling it. In the context of [algorithmic trading](../a/algorithmic_trading.md), this period can [range](../r/range.md) from milliseconds to several years, depending on the specific objectives and strategies employed.
 
 1. **Long-term Investment Horizons**: Typically span several years or even decades. Long-term traders, such as institutional investors or pension funds, often focus on [fundamental analysis](../f/fundamental_analysis.md) and macroeconomic trends to make their investment decisions.
 
@@ -60,15 +60,15 @@ The choice of an [investment horizon](../i/investment_horizon.md) is intrinsical
 
 Several companies and platforms have developed sophisticated solutions to analyze and optimize investment horizons within their [algorithmic trading](../a/algorithmic_trading.md) frameworks:
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages and offers extensive historical data, allowing users to backtest and deploy strategies across various horizons.
+1. **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages and offers extensive historical data, allowing users to backtest and deploy strategies across various horizons.
 
-2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that enables the development, testing, and [execution](../e/execution.md) of automated [trading strategies](../t/trading_strategies.md) for different investment horizons, including high-frequency trading.
+2. **[AlgoTrader](../a/algotrader.md)**: AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that enables the development, testing, and [execution](../e/execution.md) of automated [trading strategies](../t/trading_strategies.md) for different investment horizons, including high-frequency trading.
 
-3. **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com) offers advanced trading technology and [brokerage services](../b/brokerage_services.md), supporting a wide [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies tailored to different investment horizons.
+3. **[TradeStation](../t/tradestation.md)**: TradeStation offers advanced trading technology and [brokerage services](../b/brokerage_services.md), supporting a wide [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies tailored to different investment horizons.
 
-4. **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) provides a comprehensive [trading platform](../t/trading_platform.md) with [algorithmic trading](../a/algorithmic_trading.md) capabilities, allowing traders to execute strategies across various timeframes and [asset](../a/asset.md) classes.
+4. **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers provides a comprehensive [trading platform](../t/trading_platform.md) with [algorithmic trading](../a/algorithmic_trading.md) capabilities, allowing traders to execute strategies across various timeframes and [asset](../a/asset.md) classes.
 
-5. **Kavout**: [Kavout](https://www.kavout.com) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to develop [predictive models](../p/predictive_models_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, optimizing investment horizons for better [risk](../r/risk.md)-adjusted returns.
+5. **Kavout**: Kavout leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to develop [predictive models](../p/predictive_models_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, optimizing investment horizons for better [risk](../r/risk.md)-adjusted returns.
 
 ### Conclusion
 

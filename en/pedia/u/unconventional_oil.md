@@ -14,13 +14,13 @@ Extra-heavy oil is a category of crude [petroleum](../p/petroleum.md) that is ve
 Shale oil is extracted from oil shale rock fragments through pyrolysis, hydrogenation, or thermal dissolution. Unlike shale gas, which is extracted using [hydraulic fracturing](../h/hydraulic_fracturing.md), shale oil requires more intensive processing to become [market](../m/market.md)-ready. The Bakken Formation in the United States is a significant source of shale oil.
 
 ### Gas-to-Liquids (GTL)
-Gas-to-liquids is a process that converts natural gas into [liquid](../l/liquid.md) hydrocarbons, typically employing the Fischer-Tropsch synthesis. Major players in this field include Shell with their Pearl GTL plant in Qatar. For more details: [Shell GTL](https://www.shell.com/about-us/major-projects/pearl-gtl.html).
+Gas-to-liquids is a process that converts natural gas into [liquid](../l/liquid.md) hydrocarbons, typically employing the Fischer-Tropsch synthesis. Major players in this field include Shell with their Pearl GTL plant in Qatar. For more details: Shell GTL.
 
 ### Coal-to-Liquids (CTL)
-Coal-to-liquids technology converts coal into [liquid](../l/liquid.md) hydrocarbons through either direct liquefaction or an indirect liquefaction process. This technique has gained attention primarily in countries with abundant coal resources but limited [oil reserves](../o/oil_reserves.md). Sasol, a South African company, is a leader in CTL technology. Visit: [Sasol](https://www.sasol.com/what-we-do/our-operations/our-operations/ctl).
+Coal-to-liquids technology converts coal into [liquid](../l/liquid.md) hydrocarbons through either direct liquefaction or an indirect liquefaction process. This technique has gained attention primarily in countries with abundant coal resources but limited [oil reserves](../o/oil_reserves.md). Sasol, a South African company, is a leader in CTL technology. Visit: Sasol.
 
 ### Biomass-to-Liquids (BTL)
-Biomass-to-liquids converts organic material into [liquid](../l/liquid.md) biofuels using a variety of thermochemical processes. Given the push for sustainable energy, BTL is becoming an increasingly relevant part of the unconventional oil sector. An example of a company focused on BTL is Neste: [Neste](https://www.neste.com/sustainable-business/biofuels).
+Biomass-to-liquids converts organic material into [liquid](../l/liquid.md) biofuels using a variety of thermochemical processes. Given the push for sustainable energy, BTL is becoming an increasingly relevant part of the unconventional oil sector. An example of a company focused on BTL is Neste: Neste.
 
 ## Extraction Techniques
 
@@ -89,7 +89,7 @@ The Alberta [oil sands](../o/oil_sands.md) represent one of the most developed u
 The Bakken Shale formation in North Dakota is a prime example of shale oil production. Pioneered by companies like Continental Resources and Hess [Corporation](../c/corporation.md), the region has seen significant growth in oil output thanks to advances in [hydraulic fracturing](../h/hydraulic_fracturing.md).
 
 ### Pearl GTL
-Shell's Pearl GTL plant in Qatar is the world’s largest GTL [facility](../f/facility.md). It converts natural gas into high-quality [liquid](../l/liquid.md) hydrocarbons, including diesel and naphtha. For more information: [Shell Pearl GTL](https://www.shell.com/about-us/major-projects/pearl-gtl.html).
+Shell's Pearl GTL plant in Qatar is the world’s largest GTL [facility](../f/facility.md). It converts natural gas into high-quality [liquid](../l/liquid.md) hydrocarbons, including diesel and naphtha. For more information: Shell Pearl GTL.
 
 ## Future Outlook
 

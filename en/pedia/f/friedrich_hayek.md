@@ -28,7 +28,7 @@ In addition to his economic work, Hayek made significant contributions to politi
 
 ### Academic Influence
 
-Hayek's academic impact is vast and multifaceted. He served as a professor at numerous prestigious universities, including the London School of [Economics](../e/economics.md), the University of Chicago, and the University of Freiburg. His ideas have sparked considerable debate in economic, political, and philosophical circles, influencing various fields of study. Hayek received the Nobel Memorial Prize in Economic Sciences in 1974, sharing it with [Gunnar Myrdal](../g/gunnar_myrdal.md). The Nobel Committee recognized his "pioneering work in the theory of [money](../m/money.md) and economic fluctuations and for ... penetrating analysis of the interdependence of economic, social, and institutional phenomena."
+Hayek's academic impact is vast and multifaceted. He served as a professor at numerous prestigious universities, including the London School of [Economics](../e/economics.md), the University of Chicago, and the University of Freiburg. His ideas have sparked considerable debate in economic, political, and philosophical circles, influencing various fields of study. Hayek received the Nobel Memorial Prize in Economic Sciences in 1974, sharing it with [Gunnar Myrdal](../g/gunnar_myrdal.md). The Nobel Committee recognized his "pioneering work in the theory of [money](../m/money.md) and economic fluctuations and for... penetrating analysis of the interdependence of economic, social, and institutional phenomena."
 
 ### Criticism and Controversy
 

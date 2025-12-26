@@ -77,9 +77,9 @@ The X-[Volatility Surface](../v/volatility_surface.md) has several applications 
 
 Several financial institutions and technology firms have integrated the X-[Volatility Surface](../v/volatility_surface.md) in their trading and [risk management](../r/risk_management.md) platforms:
 
-- **[Bloomberg](../b/bloomberg.md):** [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers advanced tools for option analytics and [volatility surface](../v/volatility_surface.md) construction.
-- **Goldman Sachs:** Known for their [quantitative trading](../q/quantitative_trading.md) strategies and advanced [risk management](../r/risk_management.md) tools, details can be found on their [website](https://www.goldmansachs.com/).
-- **Numerix:** Provides software for [risk management](../r/risk_management.md) and option pricing, leveraging advanced [volatility](../v/volatility.md) surfaces. More information is available on their [official page](https://www.numerix.com/).
+- **[Bloomberg](../b/bloomberg.md):** Bloomberg Terminal offers advanced tools for option analytics and [volatility surface](../v/volatility_surface.md) construction.
+- **Goldman Sachs:** Known for their [quantitative trading](../q/quantitative_trading.md) strategies and advanced [risk management](../r/risk_management.md) tools,
+- **Numerix:** Provides software for [risk management](../r/risk_management.md) and option pricing, leveraging advanced [volatility](../v/volatility.md) surfaces.
 
 ## Conclusion
 

@@ -66,4 +66,4 @@ The BCSE is actively working on strategic initiatives to expand its product offe
 ### Technological Innovations
 The future of BCSE [will](../w/will.md) likely be shaped by advancements in financial technology (FinTech). The adoption of [blockchain](../b/blockchain_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) in trading, [clearing](../c/clearing.md), and settlement processes could revolutionize the way the [exchange](../e/exchange.md) operates, [offering](../o/offering.md) enhanced [efficiency](../e/efficiency.md) and [security](../s/security.md).
 
-For further information, you can visit the official website of the Belarusian [Currency](../c/currency.md) and Stock [Exchange](../e/exchange.md) at [BCSE](http://www.bcse.by).
+./c/currency.md) and Stock [Exchange](../e/exchange.md) at BCSE.

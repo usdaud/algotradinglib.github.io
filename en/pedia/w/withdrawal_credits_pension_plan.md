@@ -7,7 +7,7 @@ The rules and calculations for [withdrawal](../w/withdrawal.md) credits can vary
 ## Key Components of Withdrawal Credits
 
 1. **Accumulated Benefits**: This represents the total [value](../v/value.md) of benefits an employee has earned up until their departure from the employer. It is calculated based on the vested percentage of their benefits.
-   
+
 2. **[Vesting](../v/vesting.md) Schedule**: [Vesting](../v/vesting.md) determines an employee’s right to their pension benefits. A typical [vesting](../v/vesting.md) schedule might require an employee to stay with an employer for a certain number of years before they [gain](../g/gain.md) full ownership of the accrued benefits. Before full [vesting](../v/vesting.md), employees may only be entitled to a partial percentage of their accrued benefits.
 
 3. **Calculation Methods**: Different methods can be used to calculate [withdrawal](../w/withdrawal.md) credits. These methods can include final average salary, career average salary, or contributions-based methods, impacting how much an employee receives upon [withdrawal](../w/withdrawal.md).
@@ -30,15 +30,15 @@ Accumulated benefits form the cornerstone of [withdrawal](../w/withdrawal.md) cr
 The [vesting](../v/vesting.md) schedule defines how an employee earns the right to pension benefits over time. There are two main types of [vesting](../v/vesting.md):
 
 1. **Cliff [Vesting](../v/vesting.md)**: Employees fully own their pension benefits after a specific period. For example, after five years of service, employees might become 100% vested.
-   
+
 2. **[Graded Vesting](../g/graded_vesting.md)**: Employees earn a gradual increase in their benefits' ownership over time. Typically, employees might vest 20% per year over five years.
 
 ### Calculation Methods
 
-The calculation of [withdrawal](../w/withdrawal.md) credits can vary widely from one [pension plan](../p/pension_plan.md) to another. 
+The calculation of [withdrawal](../w/withdrawal.md) credits can vary widely from one [pension plan](../p/pension_plan.md) to another.
 
 1. **Final Average Salary Method**: This method calculates benefits based on the average salary over the final years of employment, commonly the highest earning years. For example, if an employee’s last five years of [earnings](../e/earnings.md) were consistently high, the accumulated benefits might be calculated based on the average of those five years.
-   
+
 2. **Career Average Salary Method**: This method uses the average salary over the entire career of the employee. It’s simpler but might result in lower benefits compared to the final average salary method if the employee's salary increased significantly over time.
 
 3. **Contributions-Based Method**: This method assesses the [withdrawal](../w/withdrawal.md) credits based on the actual contributions made by the employee and employer. It often includes a predefined [interest rate](../i/interest_rate.md) or growth [factor](../f/factor.md).
@@ -53,25 +53,25 @@ To illustrate these concepts, consider two employees, Alice and Bob, who both jo
 
 - **Alice’s Scenario**: Alice joined the company at age 30 and is leaving at age 40 after ten years of service. The company has a cliff [vesting](../v/vesting.md) schedule that vests 100% after five years. Alice’s final average salary over her last five years is $70,000. The [pension plan](../p/pension_plan.md) indicates a benefit of 1.5% of the final average salary per year of service. Alice’s [withdrawal](../w/withdrawal.md) credits would be calculated as follows:
 
-  \[
-  \text{[Withdrawal](../w/withdrawal.md) Credits} = \text{Years of Service} \times \text{Benefit Percentage} \times \text{Final Average Salary}
-  \]
+ \[
+ \text{[Withdrawal](../w/withdrawal.md) Credits} = \text{Years of Service} \times \text{Benefit Percentage} \times \text{Final Average Salary}
+ \]
 
-  \[
-  = 10 \times 0.015 \times 70,000 
-  = 10,500
-  \]
+ \[
+ = 10 \times 0.015 \times 70,000
+ = 10,500
+ \]
 
-  Alice would receive annual [withdrawal](../w/withdrawal.md) credits of $10,500 upon leaving.
+ Alice would receive annual [withdrawal](../w/withdrawal.md) credits of $10,500 upon leaving.
 
 - **Bob’s Scenario**: Bob joined the same company at 35 and is leaving at 40 with five years of service, under the same [pension plan](../p/pension_plan.md). His final average salary is $80,000. Since he is leaving after five years, he is [fully vested](../f/fully_vested.md). Bob’s [withdrawal](../w/withdrawal.md) credits would be calculated similarly:
 
-  \[
-  \text{[Withdrawal](../w/withdrawal.md) Credits} = 5 \times 0.015 \times 80,000 
-  = 6,000
-  \]
+ \[
+ \text{[Withdrawal](../w/withdrawal.md) Credits} = 5 \times 0.015 \times 80,000
+ = 6,000
+ \]
 
-  Bob would receive annual [withdrawal](../w/withdrawal.md) credits of $6,000 upon leaving.
+ Bob would receive annual [withdrawal](../w/withdrawal.md) credits of $6,000 upon leaving.
 
 ## Regulatory and Compliance Issues
 

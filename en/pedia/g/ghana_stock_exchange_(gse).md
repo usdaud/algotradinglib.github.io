@@ -99,7 +99,7 @@ Despite its successes, the GSE faces several challenges including:
 
 Looking ahead, the GSE aims to increase the number of [listed](../l/listed.md) companies and enhance [market](../m/market.md) [liquidity](../l/liquidity.md). It also plans to introduce more diverse financial products and strengthen its technological [infrastructure](../i/infrastructure.md). These initiatives are expected to bolster [investor](../i/investor.md) confidence and attract more domestic and [foreign investment](../f/foreign_investment.md).
 
-For more information, you can visit the official [Ghana Stock Exchange website](https://www.gse.com.gh).
+
 
 ---
 

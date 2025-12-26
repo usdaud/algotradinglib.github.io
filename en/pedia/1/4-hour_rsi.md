@@ -6,7 +6,7 @@ The 4-hour [Relative Strength](../r/relative_strength.md) [Index](../i/index_ins
 [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. Developed by J. Welles Wilder, it was first introduced in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of a stock or other [asset](../a/asset.md).
 
 The formula for calculating RSI is:
-\[ 
+\[
 RSI = 100 - \frac{100}{1 + RS}
 \]
 where \( RS \) ([Relative Strength](../r/relative_strength.md)) is the average of \( n \) days' up closes divided by the average of \( n \) days' down closes.
@@ -26,15 +26,15 @@ For a 4-hour RSI, RS ([Relative Strength](../r/relative_strength.md)) is usually
 ### Example
 1. **Collect 4-Hour Price Data:** Assume closing prices for the past 14 four-hour intervals are [45, 47, 48, 50, 49, 51, 52, 51, 53, 54, 56, 57, 58, 59].
 2. **Calculate Gains and Losses:**
-   - Gains (positive changes): [2, 1, 2, 3, 2, 1, 2, 3, 2, 1]
-   - Losses (negative changes, treated as 0 since there are no losses in this example): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ - Gains (positive changes): [2, 1, 2, 3, 2, 1, 2, 3, 2, 1]
+ - Losses (negative changes, treated as 0 since there are no losses in this example): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 3. **Average Gains and Losses:**
-   - Average [Gain](../g/gain.md): \((2 + 1 + 2 + 3 + 2 + 1 + 2 + 3 + 2 + 1) / 14 = 1.42\)
-   - Average Loss: \((0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0) / 14 = 0\)
+ - Average [Gain](../g/gain.md): \((2 + 1 + 2 + 3 + 2 + 1 + 2 + 3 + 2 + 1) / 14 = 1.42\)
+ - Average Loss: \((0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0) / 14 = 0\)
 4. **Calculate RS:**
-   - \( RS = \frac{Average [Gain](../g/gain.md)}{Average Loss} = \frac{1.42}{0} \,(\text{undefined, but practically infinite}) \)
+ - \( RS = \frac{Average [Gain](../g/gain.md)}{Average Loss} = \frac{1.42}{0} \,(\text{undefined, but practically infinite}) \)
 5. **Compute RSI:**
-   - \( RSI = 100 - \frac{100}{1 + \infty} = 100 \) (Strong bullish signal)
+ - \( RSI = 100 - \frac{100}{1 + \infty} = 100 \) (Strong bullish signal)
 
 ## Application in Algorithmic Trading
 The 4-hour RSI plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md), which involves automated, pre-programmed trading instructions to execute orders. These algorithms can utilize 4-hour RSI values to make real-time trading decisions, ensuring quick reaction times to fluctuating [market](../m/market.md) conditions.
@@ -66,8 +66,8 @@ print(rsi_values)
 Many trading firms and individual traders use the 4-hour RSI within their [trading strategies](../t/trading_strategies.md). Leading financial institutions and [hedge](../h/hedge.md) funds often integrate [momentum indicators](../m/momentum_indicators.md) like RSI into their [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md).
 
 ### Trading Firms Specializing in Algorithmic Trading
-1. **Two Sigma:** A quantitative [investment management](../i/investment_management.md) company that utilizes [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced algorithms in its [trading strategies](../t/trading_strategies.md). Though specific details on their use of 4-hour RSI are proprietary, companies like Two Sigma often employ a blend of [technical indicators](../t/technical_indicators.md) for their [trading models](../t/trading_models.md). (Website: [Two Sigma](https://www.twosigma.com/))
-2. **AQR [Capital](../c/capital.md) Management:** Known for its [systematic trading](../s/systematic_trading.md) approaches, AQR incorporates various technical and fundamental indicators, possibly including RSI, into its [quantitative models](../q/quantitative_models.md). (Website: [AQR Capital Management](https://www.aqr.com/))
+1. **Two Sigma:** A quantitative [investment management](../i/investment_management.md) company that utilizes [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced algorithms in its [trading strategies](../t/trading_strategies.md). Though specific details on their use of 4-hour RSI are proprietary, companies like Two Sigma often employ a blend of [technical indicators](../t/technical_indicators.md) for their [trading models](../t/trading_models.md).
+2. **AQR [Capital](../c/capital.md) Management:** Known for its [systematic trading](../s/systematic_trading.md) approaches, AQR incorporates various technical and fundamental indicators, possibly including RSI, into its [quantitative models](../q/quantitative_models.md).
 
 ## Advantages and Limitations
 ### Advantages
@@ -81,4 +81,4 @@ Many trading firms and individual traders use the 4-hour RSI within their [tradi
 3. **Over-Reliance:** Over-relying on RSI without corroborating with other indicators or analysis methods can lead to potential losses.
 
 ## Conclusion
-The 4-hour RSI is a powerful tool for traders seeking to balance between short-term and mid-term [trading strategies](../t/trading_strategies.md). Its ability to provide timely and clear signals makes it valuable for both manual and [algorithmic trading](../a/algorithmic_trading.md). By understanding its calculations, applications, and limitations, traders can effectively incorporate the 4-hour RSI into their [technical analysis](../t/technical_analysis.md) toolkit. Whether used in high-frequency trading by firms like Two Sigma or by individual traders, the 4-hour RSI remains a staple [indicator](../i/indicator.md) in the ever-evolving landscape of [algorithmic trading](../a/algorithmic_trading.md).
+The 4-hour RSI is a powerful tool for traders seeking to balance between short-term and mid-term [trading strategies](../t/trading_strategies.md). Its ability to provide timely and clear signals makes it valuable for both manual and [algorithmic trading](../a/algorithmic_trading.md). By understanding its calculations, applications, and limitations, traders can effectively incorporate the 4-hour RSI into their [technical analysis](../t/technical_analysis.md) toolkit. Whether used in high-frequency trading by firms like Two Sigma or by individual traders, the 4-hour RSI remains a staple [indicator](../i/indicator.md) in the ever-evolving landscape of [algorithmic trading](../a/algorithmic_trading.md).

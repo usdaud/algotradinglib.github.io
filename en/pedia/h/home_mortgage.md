@@ -114,31 +114,31 @@ Employment rates affect the housing [market](../m/market.md)'s health and borrow
 
 Quicken Loans, operating under the brand Rocket [Mortgage](../m/mortgage.md), is one of the largest [mortgage](../m/mortgage.md) lenders in the United States. Known for its online presence, Rocket [Mortgage](../m/mortgage.md) streamlines the [mortgage](../m/mortgage.md) application process through user-friendly digital platforms.
 
-Website: [Rocket Mortgage](https://www.rocketmortgage.com/)
+online platform: Rocket Mortgage
 
 ### Wells Fargo
 
 Wells Fargo is a major financial institution [offering](../o/offering.md) a variety of [mortgage](../m/mortgage.md) products, including conventional, FHA, VA, and jumbo loans. Wells Fargo provides customers with in-person, phone, and online services, catering to a wide [range](../r/range.md) of borrower needs.
 
-Website: [Wells Fargo Home Mortgage](https://www.wellsfargo.com/mortgage/)
+online platform: Wells Fargo Home Mortgage
 
 ### JPMorgan Chase
 
 JPMorgan Chase offers diverse [mortgage](../m/mortgage.md) [options](../o/options.md), including fixed-rate, adjustable-rate, FHA, VA, and jumbo loans. The [bank](../b/bank.md) provides [robust](../r/robust.md) financial resources and personalized service to help individuals navigate the [mortgage](../m/mortgage.md) process.
 
-Website: [Chase Mortgage](https://www.chase.com/personal/mortgage)
+online platform: Chase Mortgage
 
 ### Bank of America
 
 [Bank](../b/bank.md) of America provides various [mortgage](../m/mortgage.md) solutions such as fixed-rate and adjustable-rate mortgages, FHA and VA loans, and [refinance](../r/refinance.md) [options](../o/options.md). Their comprehensive tools and resources aim to educate borrowers and simplify the [mortgage](../m/mortgage.md) process.
 
-Website: [Bank of America Mortgage](https://mortgage.bankofamerica.com/)
+online platform: Bank of America Mortgage
 
 ### U.S. Bank
 
 U.S. [Bank](../b/bank.md) offers a wide [range](../r/range.md) of [mortgage](../m/mortgage.md) products and services, including conventional, FHA, VA, and jumbo loans. Known for its [customer service](../c/customer_service.md) and competitive rates, U.S. [Bank](../b/bank.md) supports borrowers from application through closing.
 
-Website: [U.S. Bank Home Mortgage](https://www.usbank.com/home-loans/mortgage.html)
+online platform: U.S. Bank Home Mortgage
 
 ## Conclusion
 

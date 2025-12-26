@@ -8,7 +8,7 @@ Deferred [Acquisition](../a/acquisition.md) Costs (DAC) represent the costs that
 One of the primary components of DAC is the [commission](../c/commission.md) paid to agents and brokers who sell [insurance](../i/insurance.md) policies. These commissions are often a significant portion of the [acquisition](../a/acquisition.md) costs and can vary depending on the type and terms of the policy.
 
 ### Underwriting Costs
-[Underwriting](../u/underwriting.md) involves assessing the [risk](../r/risk.md) associated with insuring a particular individual or entity. This process includes medical exams, background checks, and [risk](../r/risk.md) assessments, which all contribute to the overall [acquisition](../a/acquisition.md) costs. 
+[Underwriting](../u/underwriting.md) involves assessing the [risk](../r/risk.md) associated with insuring a particular individual or entity. This process includes medical exams, background checks, and [risk](../r/risk.md) assessments, which all contribute to the overall [acquisition](../a/acquisition.md) costs.
 
 ### Marketing and Advertising Expenses
 [Insurance](../i/insurance.md) companies invest heavily in [marketing](../m/marketing.md) and advertising to attract new policyholders. These expenditures are essential for [market penetration](../m/market_penetration.md) and [brand awareness](../b/brand_awareness.md) but are also a part of the upfront costs that need to be deferred.
@@ -41,13 +41,13 @@ DAC is subject to [impairment](../i/impairment.md) testing, similar to other int
 ## Examples of Companies
 
 ### Prudential Financial
-Prudential Financial is one of the companies that effectively manage DAC to reflect the true [economic value](../e/economic_value.md) of their [business](../b/business.md). For more details, you can visit their website: [Prudential Financial](https://www.prudential.com).
+Prudential Financial is one of the companies that effectively manage DAC to reflect the true [economic value](../e/economic_value.md) of their [business](../b/business.md).
 
 ### MetLife
-MetLife also provides comprehensive information on how they [handle](../h/handle.md) DAC in their financial reports. More details are available on their official site: [MetLife](https://www.metlife.com).
+MetLife also provides comprehensive information on how they [handle](../h/handle.md) DAC in their financial reports.
 
 ### AIG
-American International Group (AIG) includes extensive details on their DAC policies in their financial disclosures. For more information, you can [check](../c/check.md) their website: [AIG](https://www.aig.com).
+American International Group (AIG) includes extensive details on their DAC policies in their financial disclosures. For more information, you can [check](../c/check.md) their online platform: AIG.
 
 ## Conclusion
 

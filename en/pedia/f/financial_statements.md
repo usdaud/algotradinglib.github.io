@@ -62,7 +62,7 @@ By analyzing the [income statement](../i/income_statement.md), [balance sheet](.
 Large corporations are typically required to prepare financial statements in accordance with established [accounting](../a/accounting.md) standards, such as the International Financial Reporting Standards (IFRS) or the Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP). These statements are often audited by independent firms to ensure accuracy and compliance.
 
 #### Example: Apple's Financial Statements
-Apple's financial statements can be found on their [investor relations](../i/investor_relations.md) page: [Apple Investor Relations](https://investor.apple.com/investor-relations/default.aspx).
+Apple's financial statements can be found on their [company filings](../i/investor_relations.md) page.
 
 ### Government Financial Statements
 

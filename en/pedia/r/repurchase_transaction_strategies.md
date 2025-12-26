@@ -96,6 +96,6 @@ The use of [automated trading systems](../a/automated_trading_systems.md), also 
 Repurchase [Transaction](../t/transaction.md) Strategies provide a versatile set of tools for financial institutions to manage [liquidity](../l/liquidity.md), enhance yields, and mitigate risks. While they [offer](../o/offer.md) numerous benefits, such as improved [cash management](../c/cash_management.md) and opportunities for [arbitrage](../a/arbitrage.md), they also carry various risks that need careful management. To remain competitive and compliant, institutions must continually adapt to evolving regulatory landscapes and embrace technological innovations. By doing so, they can optimize their use of repo transactions and achieve their financial objectives more effectively.
 
 **Reference Links:**
-1. [ICMA Repo and Collateral Markets](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/repo-and-collateral-markets/)
-2. [Federal Reserve Bank of New York - Repurchase Agreements](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/repo-reverse-repo-agreements)
-3. [Basel Committee on Banking Supervision - Basel III Framework](https://www.bis.org/bcbs/basel3.htm)
+1. ICMA Repo and Collateral Markets
+2. Federal Reserve Bank of New York - Repurchase Agreements
+3. Basel Committee on Banking Supervision - Basel III Framework

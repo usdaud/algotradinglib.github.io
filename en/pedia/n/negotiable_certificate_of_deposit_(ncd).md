@@ -1,6 +1,6 @@
 # Negotiable Certificate Of Deposit (NCD)
 
-A [Negotiable](../n/negotiable.md) Certificate of [Deposit](../d/deposit.md) (NCD) is a fixed-term financial product offered by banks and financial institutions that provides [interest](../i/interest.md) to investors. Unlike regular Certificates of [Deposit](../d/deposit.md) (CDs), NCDs are tradable in the [secondary market](../s/secondary_market.md), allowing investors to sell them before their [maturity](../m/maturity.md) dates. This feature offers a higher level of [liquidity](../l/liquidity.md) compared to traditional CDs. 
+A [Negotiable](../n/negotiable.md) Certificate of [Deposit](../d/deposit.md) (NCD) is a fixed-term financial product offered by banks and financial institutions that provides [interest](../i/interest.md) to investors. Unlike regular Certificates of [Deposit](../d/deposit.md) (CDs), NCDs are tradable in the [secondary market](../s/secondary_market.md), allowing investors to sell them before their [maturity](../m/maturity.md) dates. This feature offers a higher level of [liquidity](../l/liquidity.md) compared to traditional CDs.
 
 ## Key Characteristics
 
@@ -80,6 +80,6 @@ A [Negotiable](../n/negotiable.md) Certificate of [Deposit](../d/deposit.md) (NC
 
 For further information on specific NCD offerings, you can visit respective financial institutions:
 
-- [JP Morgan Chase](https://www.jpmorganchase.com/)
-- [Bank of America](https://www.bankofamerica.com/)
-- [Citigroup](https://www.citigroup.com/)
+- JP Morgan Chase
+- Bank of America
+- Citigroup

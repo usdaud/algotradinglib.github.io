@@ -83,7 +83,7 @@ In 2020, a high-profile case involved the executives of a major technology compa
 
 ### Application in Hedge Funds
 
-Many [hedge](../h/hedge.md) funds utilize advanced [algorithmic trading](../a/accountability.md) models to incorporate Form 144 data. Firms like Renaissance Technologies employ complex [data analytics](../d/data_analytics.md) to monitor insider activities and adjust their portfolios dynamically in response to new filings. [Renaissance Technologies](https://www.rentec.com/)
+Many [hedge](../h/hedge.md) funds utilize advanced [algorithmic trading](../a/accountability.md) models to incorporate Form 144 data. Firms like Renaissance Technologies employ complex [data analytics](../d/data_analytics.md) to monitor insider activities and adjust their portfolios dynamically in response to new filings. Renaissance Technologies
 
 ## Conclusion
 

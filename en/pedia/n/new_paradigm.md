@@ -2,22 +2,22 @@
 
 ## Overview
 
-In recent years, the [finance](../f/finance.md) sector has been profoundly influenced by advancements in technology, leading to the emergence of new paradigms. This pertains particularly to [algorithmic trading](../a/accountability.md) and innovations in financial technology (FinTech). These domains have not only made trading more efficient but have also broadened the accessibility and capabilities of financial services.
+In recent years, the [finance](../f/finance.md) sector has been profoundly influenced by advancements in technology, leading to the emergence of new paradigms. This pertains particularly to [algorithmic trading](../a/algorithmic_trading.md) and innovations in financial technology (FinTech). These domains have not only made trading more efficient but have also broadened the accessibility and capabilities of financial services.
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), often termed "algo-trading," is a method of executing trades utilizing pre-programmed trading instructions. These instructions are based on a variety of influencing factors including time, price, [volume](../v/volume.md), and advanced [mathematical models](../m/mathematical_models_in_trading.md). [Algorithmic trading](../a/accountability.md) primarily aims to [hedge](../h/hedge.md) the [risk](../r/risk.md), reduce [market](../m/market.md) impact, and enhance [liquidity](../l/liquidity.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often termed "algo-trading," is a method of executing trades utilizing pre-programmed trading instructions. These instructions are based on a variety of influencing factors including time, price, [volume](../v/volume.md), and advanced [mathematical models](../m/mathematical_models_in_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) primarily aims to [hedge](../h/hedge.md) the [risk](../r/risk.md), reduce [market](../m/market.md) impact, and enhance [liquidity](../l/liquidity.md).
 
 ### Components of Algorithmic Trading
 
 1. **Algorithms**: These are essentially complex mathematical equations and instructions that determine when a particular [trade](../t/trade.md) should be made. Algorithms can [range](../r/range.md) from simple binary operations to sophisticated [machine learning](../m/machine_learning.md) models.
-   
-2. **High-Frequency Trading (HFT)**: HFT is a subset of [algorithmic trading](../a/accountability.md) where large volumes of trades are executed at extremely high speeds. The goal is to [capitalize](../c/capitalize.md) on small price discrepancies in very short time frames.
-   
+
+2. **High-Frequency Trading (HFT)**: HFT is a subset of [algorithmic trading](../a/algorithmic_trading.md) where large volumes of trades are executed at extremely high speeds. The goal is to [capitalize](../c/capitalize.md) on small price discrepancies in very short time frames.
+
 3. **[Execution Algorithms](../e/execution_algorithms.md)**: These focus on minimizing the [market](../m/market.md) impact by carefully timing the trades. Examples include the Time-[Weighted Average](../w/weighted_average.md) Price (TWAP) and the [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP).
-   
+
 4. **Statistical [Arbitrage](../a/arbitrage.md)**: This relies on [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit price inefficiencies between related financial instruments.
-   
+
 5. **[Machine Learning](../m/machine_learning.md) in Algo-Trading**: [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) models are increasingly being used to detect [trading signals](../t/trading_signals.md) from historical data and news events.
 
 ### Benefits of Algorithmic Trading
@@ -37,9 +37,9 @@ In recent years, the [finance](../f/finance.md) sector has been profoundly influ
 
 ### Notable Platforms and Companies
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud-based platform for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) ([QuantConnect](https://www.quantconnect.com/)).
-2. **AlgoTrader**: Provides institutional-grade algo-trading software solutions ([AlgoTrader](https://www.algotrader.com/)).
-3. **MetaTrader 4 and 5**: Widely used platforms for [algorithmic trading](../a/accountability.md) in Forex and CFD markets ([MetaTrader](https://www.metatrader4.com/)).
+1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud-based platform for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) (QuantConnect).
+2. **AlgoTrader**: Provides institutional-grade algo-trading software solutions (AlgoTrader).
+3. **MetaTrader 4 and 5**: Widely used platforms for [algorithmic trading](../a/algorithmic_trading.md) in Forex and CFD markets (MetaTrader).
 
 ## Financial Technology (FinTech) Innovations
 
@@ -69,13 +69,13 @@ FinTech refers to the integration of technology into offerings by financial serv
 
 ### Notable Platforms and Companies
 
-1. **Stripe**: A technology company that builds economic [infrastructure](../i/infrastructure.md) for the internet ([Stripe](https://stripe.com/)).
-2. **[Robinhood](../r/robinhood.md)**: A financial services company [offering](../o/offering.md) [commission](../c/commission.md)-free trades on [stocks](../s/stock.md) and cryptocurrencies ([Robinhood](https://robinhood.com/)).
-3. **[Coinbase](../c/coinbase.md)**: A platform for buying, selling, and storing cryptocurrencies ([Coinbase](https://www.coinbase.com/)).
+1. **Stripe**: A technology company that builds economic [infrastructure](../i/infrastructure.md) for the internet (Stripe).
+2. **[Robinhood](../r/robinhood.md)**: A financial services company [offering](../o/offering.md) [commission](../c/commission.md)-free trades on [stocks](../s/stock.md) and cryptocurrencies (Robinhood).
+3. **[Coinbase](../c/coinbase.md)**: A platform for buying, selling, and storing cryptocurrencies (Coinbase).
 
 ## Integration of Algorithmic Trading with FinTech
 
-The synergies between [algorithmic trading](../a/accountability.md) and FinTech are evident. Innovations in AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are feeding directly into the capabilities of [trading algorithms](../t/trading_algorithms.md). 
+The synergies between [algorithmic trading](../a/algorithmic_trading.md) and FinTech are evident. Innovations in AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are feeding directly into the capabilities of [trading algorithms](../t/trading_algorithms.md).
 
 ### Use Cases
 
@@ -86,10 +86,10 @@ The synergies between [algorithmic trading](../a/accountability.md) and FinTech 
 
 ### Future Trends
 
-- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize [algorithmic trading](../a/accountability.md) by rapidly solving complex algorithms.
-- **DeFi (Decentralized [Finance](../f/finance.md))**: Opens new avenues for [algorithmic trading](../a/accountability.md) in a decentralized ecosystem.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by rapidly solving complex algorithms.
+- **DeFi (Decentralized [Finance](../f/finance.md))**: Opens new avenues for [algorithmic trading](../a/algorithmic_trading.md) in a decentralized ecosystem.
 - **AI and NLP**: Continued advancements in [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) to analyze news and [social media](../s/social_media.md) for [trading signals](../t/trading_signals.md).
 
 ## Conclusion
 
-The new paradigm in trading and [finance](../f/finance.md), spearheaded by [algorithmic trading](../a/accountability.md) and FinTech innovations, is transforming the financial landscape. These technologies are providing unprecedented [efficiency](../e/efficiency.md), accessibility, and customization, while also presenting novel challenges and risks. As the sector continues to evolve, the interplay between these cutting-edge technologies [will](../w/will.md) shape the future of [finance](../f/finance.md).
+The new paradigm in trading and [finance](../f/finance.md), spearheaded by [algorithmic trading](../a/algorithmic_trading.md) and FinTech innovations, is transforming the financial landscape. These technologies are providing unprecedented [efficiency](../e/efficiency.md), accessibility, and customization, while also presenting novel challenges and risks. As the sector continues to evolve, the interplay between these cutting-edge technologies [will](../w/will.md) shape the future of [finance](../f/finance.md).

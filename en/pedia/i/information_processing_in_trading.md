@@ -7,7 +7,7 @@ In the realm of trading, particularly [algorithmic trading](../a/algorithmic_tra
 [Market](../m/market.md) data is the lifeblood of trading. It comprises various types of information, including stock prices, [trade](../t/trade.md) volumes, [bid](../b/bid.md)-ask [spreads](../s/spreads.md), and other financial metrics. The primary sources of [market](../m/market.md) data are:
 
 - **Exchanges:** Stock exchanges and other trading venues provide raw [market](../m/market.md) data in real-time. Examples include the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md).
-- **[Market](../m/market.md) Data Providers:** Third-party vendors aggregate and disseminate [market](../m/market.md) data from [multiple](../m/multiple.md) exchanges and other sources. Notable [market](../m/market.md) data providers include [Bloomberg](../b/bloomberg.md) ([Bloomberg](https://www.bloomberg.com)) and Thomson [Reuters](../r/reuters.md) ([Refinitiv](https://www.refinitiv.com)).
+- **[Market](../m/market.md) Data Providers:** Third-party vendors aggregate and disseminate [market](../m/market.md) data from [multiple](../m/multiple.md) exchanges and other sources. Notable [market](../m/market.md) data providers include [Bloomberg](../b/bloomberg.md) (Bloomberg) and Thomson [Reuters](../r/reuters.md) (Refinitiv).
 - **Proprietary Sources:** Firms often have their own methods of gathering data, including through high-frequency trading and [market](../m/market.md) making.
 
 ## Types of Information Processed
@@ -86,8 +86,8 @@ Ongoing technological advancements continually reshape information processing in
 
 ## Case Studies
 
-- **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [robust](../r/robust.md) data processing techniques ([Renaissance Technologies](https://www.rentec.com/)).
-- **Two Sigma:** Utilizes [machine learning](../m/machine_learning.md) and vast amounts of data for trading across global markets ([Two Sigma](https://www.twosigma.com)).
+- **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [robust](../r/robust.md) data processing techniques (Renaissance Technologies).
+- **Two Sigma:** Utilizes [machine learning](../m/machine_learning.md) and vast amounts of data for trading across global markets (Two Sigma).
 
 ## Conclusion
 

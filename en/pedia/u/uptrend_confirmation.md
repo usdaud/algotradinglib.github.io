@@ -66,20 +66,17 @@ Surveys such as the American Association of Individual Investors (AAII) sentimen
 
 ## 8. Algorithmic Trading Platforms for Uptrend Confirmation
 
-### 8.1 QuantConnect
+### 8.1 StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a platform enabling algorithmic strategy development where users can program [uptrend](../u/uptrend.md) confirmation strategies using moving averages, RSI, MACD, etc.
-[QuantConnect](https://www.quantconnect.com/)
+[StockSharp](../s/stocksharp.md) is a platform enabling algorithmic strategy development where users can program [uptrend](../u/uptrend.md) confirmation strategies using moving averages, RSI, MACD, etc.
 
 ### 8.2 Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) provides tools for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that can confirm uptrends using [technical indicators](../t/technical_indicators.md) and [volume patterns](../v/volume_patterns.md).
-[Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### 8.3 MetaTrader
 
 MetaTrader platforms (MT4 & MT5) support various automated [trading strategies](../t/trading_strategies.md) for [trend](../t/trend.md) confirmation, including advanced charting features and [indicator](../i/indicator.md) suites.
-[MetaTrader 5](https://www.metaquotes.net/en/metatrader5)
 
 ## 9. Automated Trading Strategies for Uptrend Confirmation
 
@@ -122,17 +119,14 @@ Careful management of [leverage](../l/leverage.md) levels ensures that even in c
 ### 11.1 Bloomberg Terminal
 
 The [Bloomberg](../b/bloomberg.md) Terminal provides extensive financial data, real-time analysis, and charting tools for confirming [market](../m/market.md) uptrends efficiently.
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 11.2 Thomson Reuters Eikon
 
 Thomson [Reuters](../r/reuters.md) Eikon offers data, news, and analytical tools supporting [uptrend](../u/uptrend.md) confirmation through a broad set of [market](../m/market.md) metrics and insights.
-[Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### 11.3 TradingView
 
 [TradingView](../t/tradingview.md) features powerful charting tools, community-driven insights, and a wide [range](../r/range.md) of [technical indicators](../t/technical_indicators.md) for [uptrend](../u/uptrend.md) verification.
-[TradingView](https://www.tradingview.com/)
 
 ## Conclusion
 

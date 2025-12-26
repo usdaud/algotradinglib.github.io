@@ -1,6 +1,6 @@
 # Gap Analysis
 
-Gap Analysis is a strategic tool used by organizations to evaluate the difference between their current performance and their desired performance. This tool helps in identifying the [gaps](../g/gap.md) that exist in the organization's processes, capabilities, and resources, thereby allowing for the creation of effective action plans to bridge these [gaps](../g/gap.md). In [algorithmic trading](../a/accountability.md), gap analysis can be crucial for identifying discrepancies between intended [trading strategies](../t/trading_strategies.md) and actual performance, as well as in spotting [market](../m/market.md) opportunities or weaknesses in the algorithm's design.
+Gap Analysis is a strategic tool used by organizations to evaluate the difference between their current performance and their desired performance. This tool helps in identifying the [gaps](../g/gap.md) that exist in the organization's processes, capabilities, and resources, thereby allowing for the creation of effective action plans to bridge these [gaps](../g/gap.md). In [algorithmic trading](../a/algorithmic_trading.md), gap analysis can be crucial for identifying discrepancies between intended [trading strategies](../t/trading_strategies.md) and actual performance, as well as in spotting [market](../m/market.md) opportunities or weaknesses in the algorithm's design.
 
 ## What is Gap Analysis?
 
@@ -14,7 +14,7 @@ Gap Analysis involves comparing an organization’s actual performance with its 
 
 ## Importance in Algorithmic Trading
 
-Gap Analysis is pivotal for [algorithmic trading](../a/accountability.md) for several reasons:
+Gap Analysis is pivotal for [algorithmic trading](../a/algorithmic_trading.md) for several reasons:
 - **Performance [Optimization](../o/optimization.md)**: It allows traders and developers to continually refine algorithms to improve [trading performance](../t/trading_performance.md).
 - **[Risk Management](../r/risk_management.md)**: Identifying [gaps](../g/gap.md) can help in recognizing potential areas of [risk](../r/risk.md) and mitigating them in a timely manner.
 - **Strategic Planning**: Understanding where [gaps](../g/gap.md) exist enables better strategic planning, aiding in the allocation of resources and efforts where they are most needed.
@@ -32,7 +32,7 @@ Gap analysis can also identify [market](../m/market.md) opportunities that are n
 
 ### Performance Benchmarking
 
-In [algorithmic trading](../a/accountability.md), KPIs might include metrics such as [Return](../r/return.md) on Investment (ROI), [Sharpe Ratio](../s/sharpe_ratio.md), and Maximum [Drawdown](../d/drawdown.md). By benchmarking these metrics against [industry](../i/industry.md) standards or historical performance, traders can understand where their algorithms stand and what [gaps](../g/gap.md) need to be filled.
+In [algorithmic trading](../a/algorithmic_trading.md), KPIs might include metrics such as [Return](../r/return.md) on Investment (ROI), [Sharpe Ratio](../s/sharpe_ratio.md), and Maximum [Drawdown](../d/drawdown.md). By benchmarking these metrics against [industry](../i/industry.md) standards or historical performance, traders can understand where their algorithms stand and what [gaps](../g/gap.md) need to be filled.
 
 ## Steps to Perform Gap Analysis in Algotrading
 
@@ -69,7 +69,7 @@ Statistical techniques like [regression analysis](../r/regression_analysis.md), 
 [Machine learning](../m/machine_learning.md) can be exceptionally useful in identifying patterns and explaining the causes behind [gaps](../g/gap.md). Techniques such as [unsupervised learning](../u/unsupervised_learning.md) can help in [anomaly detection](../a/anomaly_detection.md), which is critical in understanding performance deviations.
 
 ### Backtesting Platforms
-Using [robust](../r/robust.md) [backtesting](../b/backtesting.md) platforms can help in performing what-if analyses to understand how potential changes might affect the algorithm's performance. Platforms like [QuantConnect](../q/quantconnect.md), MetaTrader and others provide tools for in-depth [backtesting](../b/backtesting.md) and validation.
+Using [robust](../r/robust.md) [backtesting](../b/backtesting.md) platforms can help in performing what-if analyses to understand how potential changes might affect the algorithm's performance. Platforms like [StockSharp](../s/stocksharp.md), MetaTrader and others provide tools for in-depth [backtesting](../b/backtesting.md) and validation.
 
 ### Visualization Tools
 Tools like Python’s Matplotlib, Plotly, and advanced BI tools like Tableau can assist in visualizing [gaps](../g/gap.md) clearly and making informed decisions based on the visual data.

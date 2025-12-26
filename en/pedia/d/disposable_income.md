@@ -1,11 +1,11 @@
 # Disposable Income
 
-Disposable [income](../i/income.md), also known as disposable [personal income](../p/personal_income.md) (DPI) or net [income](../i/income.md), refers to the amount of [money](../m/money.md) that an individual or household has available to spend and save after [accounting](../a/accounting.md) for [income](../i/income.md) [taxes](../t/taxes.md). It represents the net [income](../i/income.md) that can be used for consumption, saving, or investment purposes. Disposable [income](../i/income.md) is a critical [economic indicator](../e/economic_indicator.md) as it directly influences consumer spending and overall [economic growth](../e/economic_growth.md). 
+Disposable [income](../i/income.md), also known as disposable [personal income](../p/personal_income.md) (DPI) or net [income](../i/income.md), refers to the amount of [money](../m/money.md) that an individual or household has available to spend and save after [accounting](../a/accounting.md) for [income](../i/income.md) [taxes](../t/taxes.md). It represents the net [income](../i/income.md) that can be used for consumption, saving, or investment purposes. Disposable [income](../i/income.md) is a critical [economic indicator](../e/economic_indicator.md) as it directly influences consumer spending and overall [economic growth](../e/economic_growth.md).
 
 ## Definition and Calculation
 
 Disposable [income](../i/income.md) is calculated by subtracting [income](../i/income.md) [taxes](../t/taxes.md) from total or [gross income](../g/gross_income.md). The formula for disposable [income](../i/income.md) is:
- 
+
 \[ \text{Disposable Income} = \text{[Gross Income](../g/gross_income.md)} - \text{[Income](../i/income.md) [Taxes](../t/taxes.md)} \]
 
 ### Gross Income
@@ -108,7 +108,7 @@ The savings rate is the proportion of disposable [income](../i/income.md) that i
 
 ## Global Perspective on Disposable Income
 
-Disposable [income](../i/income.md) varies widely across countries due to differences in wage levels, tax policies, social [welfare](../w/welfare.md) programs, and [economic conditions](../e/economic_conditions.md). 
+Disposable [income](../i/income.md) varies widely across countries due to differences in wage levels, tax policies, social [welfare](../w/welfare.md) programs, and [economic conditions](../e/economic_conditions.md).
 
 ### United States
 
@@ -142,5 +142,5 @@ Disposable [income](../i/income.md) is a fundamental economic measure that refle
 
 For more detailed information on disposable [income](../i/income.md), you can visit:
 
-- [Bureau of Economic Analysis (BEA)](https://www.bea.gov/)
-- [Eurostat](https://ec.europa.eu/eurostat)
+- Bureau of Economic Analysis (BEA)
+- Eurostat

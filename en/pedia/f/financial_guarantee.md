@@ -10,7 +10,7 @@ A financial guarantee is a promise made by a [third party](../t/third_party.md),
 
 ### Bond Insurance
 
-Also known as "financial guaranty [insurance](../i/insurance.md)," [bond](../b/bond.md) [insurance](../i/insurance.md) involves a [third party](../t/third_party.md), typically an [insurance](../i/insurance.md) company, guaranteeing the [interest](../i/interest.md) and [principal](../p/principal.md) payments on bonds. [Bond](../b/bond.md) issuers purchase this [insurance](../i/insurance.md) to enhance their [creditworthiness](../c/creditworthiness.md) and make their bonds more attractive to investors. [Bond](../b/bond.md) insurers, like Assured Guaranty (https://www.assuredguaranty.com/), assess and underwrite these bonds based on their [risk profiles](../r/risk_profiles.md).
+Also known as "financial guaranty [insurance](../i/insurance.md)," [bond](../b/bond.md) [insurance](../i/insurance.md) involves a [third party](../t/third_party.md), typically an [insurance](../i/insurance.md) company, guaranteeing the [interest](../i/interest.md) and [principal](../p/principal.md) payments on bonds. [Bond](../b/bond.md) issuers purchase this [insurance](../i/insurance.md) to enhance their [creditworthiness](../c/creditworthiness.md) and make their bonds more attractive to investors. [Bond](../b/bond.md) insurers, like Assured Guaranty ( assess and underwrite these bonds based on their [risk profiles](../r/risk_profiles.md).
 
 ### Performance Guarantees
 

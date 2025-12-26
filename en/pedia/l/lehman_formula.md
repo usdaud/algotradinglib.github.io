@@ -19,7 +19,7 @@ This tiered structure ensures that as the size of the [transaction](../t/transac
 ## Application in Different Transactions
 
 ### Mergers and Acquisitions (M&A)
-The Lehman Formula is commonly used in M&A transactions, where [investment banking](../i/investment_banking.md) firms are hired to provide strategic advice, conduct [due diligence](../d/due_diligence.md), and facilitate negotiations. The [fee](../f/fee.md) is usually calculated based on the total [value](../v/value.md) of the deal, including cash, stock, [debt](../d/debt.md) assumed, and any other considerations. 
+The Lehman Formula is commonly used in M&A transactions, where [investment banking](../i/investment_banking.md) firms are hired to provide strategic advice, conduct [due diligence](../d/due_diligence.md), and facilitate negotiations. The [fee](../f/fee.md) is usually calculated based on the total [value](../v/value.md) of the deal, including cash, stock, [debt](../d/debt.md) assumed, and any other considerations.
 
 For example, in a $10 million M&A [transaction](../t/transaction.md):
 - The first $1 million would attract a 5% [fee](../f/fee.md) ($50,000)
@@ -42,14 +42,14 @@ While primarily used in M&A and [capital](../c/capital.md) raising, the Lehman F
 In contemporary [finance](../f/finance.md), variations of the traditional Lehman Formula have emerged to accommodate different [market](../m/market.md) conditions and the complexity of transactions. Some of the commonly used adaptations include:
 
 - **Double Lehman Formula**: This structure doubles the traditional Lehman percentages:
-  - 10% of the first $1 million
-  - 8% of the second $1 million 
-  - And so on
+ - 10% of the first $1 million
+ - 8% of the second $1 million
+ - And so on
 
 - **Modified Lehman Formula**: Introduced to better fit large transactions, this structure provides a gradual [tapering](../t/tapering.md) of fees beyond the amounts considered in the traditional formula.
-  - 2% of the [transaction](../t/transaction.md) [value](../v/value.md) between $5 million to $10 million
-  - 1% of the [transaction](../t/transaction.md) [value](../v/value.md) between $10 million to $20 million 
-  - 0.5% of the [transaction](../t/transaction.md) [value](../v/value.md) above $20 million
+ - 2% of the [transaction](../t/transaction.md) [value](../v/value.md) between $5 million to $10 million
+ - 1% of the [transaction](../t/transaction.md) [value](../v/value.md) between $10 million to $20 million
+ - 0.5% of the [transaction](../t/transaction.md) [value](../v/value.md) above $20 million
 
 - **Flat [Fee](../f/fee.md) Structures**: For certain deals, some advisors might negotiate a flat percentage or a fixed [fee](../f/fee.md) regardless of [transaction](../t/transaction.md) size.
 
@@ -75,5 +75,5 @@ The use of the Lehman Formula must conform to legal and [ethical standards](../e
 The Lehman Formula represents a significant method for calculating fees in financial advisory and [investment banking](../i/investment_banking.md) services. Its simplicity and tiered structure make it a flexible and widely accepted tool, although its application often requires modifications to suit deal-specific needs. Despite its origins with the now-defunct [Lehman Brothers](../l/lehman_brothers.md), the formula continues to influence financial advisory practices worldwide, maintaining a crucial role in ensuring that advisors are appropriately incentivized and compensated for their efforts in facilitating significant financial transactions.
 
 For more information about [investment banking](../i/investment_banking.md) and M&A [fee](../f/fee.md) structures, readers can visit:
-- [Goldman Sachs M&A Advisory](https://www.goldmansachs.com/services/advisory/mergers-and-acquisitions.html)
-- [Morgan Stanley M&A Services](https://www.morganstanley.com/im/en-us/individual-investor/solutions/private-equity/mergers-acquisitions.html)
+- Goldman Sachs M&A Advisory
+- Morgan Stanley M&A Services

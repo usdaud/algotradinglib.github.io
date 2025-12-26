@@ -129,23 +129,23 @@ Several software solutions streamline the reconciliation process, [offering](../
 
 ### BlackLine
 
-BlackLine offers a comprehensive suite of products for [finance](../f/finance.md) and [accounting](../a/accounting.md) automation, including solutions for account reconciliations, [transaction](../t/transaction.md) matching, and intercompany processes. For more information, visit [BlackLine](https://www.blackline.com/).
+BlackLine offers a comprehensive suite of products for [finance](../f/finance.md) and [accounting](../a/accounting.md) automation, including solutions for account reconciliations, [transaction](../t/transaction.md) matching, and intercompany processes. For more information, visit BlackLine.
 
 ### ReconArt
 
-ReconArt specializes in providing [robust](../r/robust.md) reconciliation software tailored for various industries. Its solutions include functionalities for [bank reconciliation](../b/bank_reconciliation.md), [balance sheet](../b/balance_sheet.md) reconciliation, and intercompany reconciliation. More details can be found at [ReconArt](https://www.reconart.com/).
+ReconArt specializes in providing [robust](../r/robust.md) reconciliation software tailored for various industries. Its solutions include functionalities for [bank reconciliation](../b/bank_reconciliation.md), [balance sheet](../b/balance_sheet.md) reconciliation, and intercompany reconciliation. More details can be found at ReconArt.
 
 ### Trintech
 
-Trintech provides financial close and reconciliation software designed to automate and optimize financial processes. Their solutions cater to sectors ranging from small businesses to large enterprises. Learn more at [Trintech](https://www.trintech.com/).
+Trintech provides financial close and reconciliation software designed to automate and optimize financial processes. Their solutions cater to sectors ranging from small businesses to large enterprises. Learn more at Trintech.
 
 ### Fiserv
 
-Fiserv offers reconciliation software that automates end-to-end reconciliation processes for banks and financial institutions, enhancing accuracy and [efficiency](../e/efficiency.md). More information is available at [Fiserv](https://www.fiserv.com/).
+Fiserv offers reconciliation software that automates end-to-end reconciliation processes for banks and financial institutions, enhancing accuracy and [efficiency](../e/efficiency.md). More information is available at Fiserv.
 
 ### Oracle NetSuite
 
-Oracle NetSuite provides cloud-based financial management solutions, including powerful reconciliation tools integrated within its ERP software, [offering](../o/offering.md) real-time [visibility](../v/visibility.md) and control over financial processes. Visit [Oracle NetSuite](https://www.netsuite.com/portal/home.shtml) for more details.
+Oracle NetSuite provides cloud-based financial management solutions, including powerful reconciliation tools integrated within its ERP software, [offering](../o/offering.md) real-time [visibility](../v/visibility.md) and control over financial processes. Visit Oracle NetSuite for more details.
 
 ## Future Trends in Reconciliation
 

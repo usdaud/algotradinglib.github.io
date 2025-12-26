@@ -4,7 +4,7 @@ Forensic [accounting](../a/accounting.md) is the specialty practice area of [acc
 
 ## History of Forensic Accounting
 
-The concept of forensic [accounting](../a/accounting.md) is not new. Some suggest that forensic [accounting](../a/accounting.md) can be traced back to the 19th century when Scottish [accountant](../a/accountant.md) James McClelland used forensic techniques to uncover [fraud](../f/fraud.md) and mismanagement in financial records. However, it wasn’t until the mid-20th century that forensic [accounting](../a/accounting.md) began to emerge as a specialized field within the [accounting](../a/accounting.md) profession. 
+The concept of forensic [accounting](../a/accounting.md) is not new. Some suggest that forensic [accounting](../a/accounting.md) can be traced back to the 19th century when Scottish [accountant](../a/accountant.md) James McClelland used forensic techniques to uncover [fraud](../f/fraud.md) and mismanagement in financial records. However, it wasn’t until the mid-20th century that forensic [accounting](../a/accounting.md) began to emerge as a specialized field within the [accounting](../a/accounting.md) profession.
 
 The evolution of forensic [accounting](../a/accounting.md) is closely linked to major financial scandals and the growing complexity of financial regulations. Each significant financial scandal (such as Enron, [WorldCom](../w/worldcom.md), and the more recent [LIBOR scandal](../l/libor_scandal.md)) emphasized the need for specialized skills to investigate and interpret complex financial data.
 
@@ -64,31 +64,26 @@ Various firms and organizations specialize in forensic [accounting](../a/account
 
 PwC offers forensic [accounting](../a/accounting.md) services through their Forensic Services practice. PwC forensic professionals assist clients with regulatory compliance, internal investigations, and dispute resolution. Their services include [fraud](../f/fraud.md) and corruption investigations, [asset](../a/asset.md) tracing, and expert witness testimony.
 
-[PwC Forensic Services](https://www.pwc.com/gx/en/services/forensics.html)
 
 ### Deloitte
 
 Deloitte’s forensic services encompass a wide [range](../r/range.md) of offerings, including financial crime investigations, dispute advisory, anti-[fraud](../f/fraud.md) programs, and discovery services. Deloitte’s global network of forensic specialists provides clients with deep expertise and innovative technology to address financial disputes and [fraud](../f/fraud.md).
 
-[Deloitte Forensics](https://www2.deloitte.com/global/en/services/financial-advisory/forensic-services.html)
 
 ### EY (Ernst & Young)
 
 EY's forensic & integrity services help organizations protect [business](../b/business.md) [value](../v/value.md), manage crisis situations, and resolve disputes. Their offerings include corruption investigations, anti-[money laundering](../m/money_laundering.md) (AML) compliance, whistleblowing services, and digital forensics.
 
-[EY Forensics](https://www.ey.com/en_gl/forensic-integrity-services)
 
 ### KPMG
 
 KPMG provides comprehensive forensic services, including [fraud](../f/fraud.md) [risk management](../r/risk_management.md), corruption investigations, dispute advisory, and forensic technology. Their global team assists clients in navigating complex financial crime challenges, [offering](../o/offering.md) expertise in compliance, investigation, and litigation support.
 
-[KPMG Forensics](https://home.kpmg/xx/en/home/services/advisory/risk-consulting/forensic.html)
 
 ### BDO
 
 BDO’s forensic [accounting](../a/accounting.md) services include [fraud](../f/fraud.md) investigation, litigation support, forensic technology, and regulatory compliance. Their experienced professionals assist clients with uncovering [fraud](../f/fraud.md), mitigating risks, and resolving disputes through meticulous [financial analysis](../f/financial_analysis.md) and investigation.
 
-[BDO Forensics](https://www.bdo.com/services/advisory/forensic-investigations-litigation)
 
 ## Cases in Forensic Accounting
 
@@ -118,19 +113,16 @@ Forensic [accounting](../a/accounting.md) requires a multidisciplinary skill set
 
 The CFE credential, offered by the Association of Certified [Fraud](../f/fraud.md) Examiners (ACFE), is highly regarded within the forensic [accounting](../a/accounting.md) community. It covers topics such as [fraud](../f/fraud.md) prevention and deterrence, financial transactions, [fraud](../f/fraud.md) investigation, and legal elements of [fraud](../f/fraud.md).
 
-[ACFE Certification](https://www.acfe.com/cfe-credential.aspx)
 
 ### Certified Public Accountant (CPA)
 
 While not specific to forensic [accounting](../a/accounting.md), the CPA credential is essential for accountants and auditors. CPA holders must meet education and experience requirements and pass an extensive exam covering various [accounting](../a/accounting.md) topics.
 
-[AICPA CPA Certification](https://www.aicpa.org/career/becomingacpa)
 
 ### Certified in Financial Forensics (CFF)
 
 Offered by the American Institute of CPAs (AICPA), the CFF credential is specifically geared towards forensic [accounting](../a/accounting.md). It covers topics such as forensic [accounting](../a/accounting.md) fundamentals, [bankruptcy](../b/bankruptcy.md), [insolvency](../i/insolvency.md), and [reorganization](../r/reorganization.md), economic damages, and family law.
 
-[AICPA CFF Certification](https://www.aicpa.org/membership/join/credentials/cff.html)
 
 ## Future Trends in Forensic Accounting
 

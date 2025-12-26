@@ -11,21 +11,21 @@ A shell [corporation](../c/corporation.md) is typically characterized by its lac
 ### Legal Uses
 
 1. **[Asset Protection](../a/asset_protection.md)**: Individuals may set up shell corporations to protect their personal assets. By holding assets through a [corporation](../c/corporation.md), they can limit personal [liability](../l/liability.md). In case of legal actions, the [corporation](../c/corporation.md)'s assets are separated from the personal assets of the owner.
-   
+
 2. **Tax [Optimization](../o/optimization.md)**: Large corporations often use shell companies to optimize their tax [obligations](../o/obligation.md). By establishing subsidiaries in low-tax jurisdictions, they can shift profits and reduce their overall tax burden legally.
-   
+
 3. **Facilitating Mergers and Acquisitions**: Shell corporations can act as intermediaries in the process of mergers and acquisitions. They enable the seamless transfer of assets, simplify corporate structures, and provide a layer of anonymity for the entities involved.
-   
+
 4. **Raising [Capital](../c/capital.md)**: Some companies use shell corporations as holding entities to raise [capital](../c/capital.md) or manage investments. For example, a [startup](../s/startup.md) might establish a shell company to [hold](../h/hold.md) various patents or intellectual property, which can then be licensed or sold to raise funds.
 
 ### Illicit Uses
 
 1. **[Money Laundering](../m/money_laundering.md)**: Shell corporations can mask the origin of illicit funds, making it difficult for authorities to trace transactions. [Money](../m/money.md) may be moved through [multiple](../m/multiple.md) shell companies across different jurisdictions.
-   
+
 2. **Concealing Ownership**: Criminals and corrupt individuals can use shell corporations to hide the true ownership of assets. By layering several shell companies, they create complex structures that obscure their identities.
-   
+
 3. **[Tax Evasion](../t/tax_evasion.md)**: Shell companies can facilitate [tax evasion](../t/tax_evasion.md) through transfer mispricing, where goods and services are exchanged between subsidiaries at prices that manipulate [profit](../p/profit.md) reporting. This can significantly reduce [taxable income](../t/taxable_income.md).
-   
+
 4. **Fraudulent Activities**: Shell corporations can be involved in financial frauds, such as Ponzi schemes, where they create an illusion of legitimate [business](../b/business.md) operations to attract investors while actually operating a fraudulent scheme.
 
 ## Examples

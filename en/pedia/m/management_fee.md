@@ -59,7 +59,7 @@ The management [fee](../f/fee.md) is a crucial component of the cost structure o
 
 For further details on specific management fees and investment funds, you can visit their official websites. For example:
 
-- BlackRock [https://www.blackrock.com/us/individual]
-- Vanguard [https://[investor](../i/investor.md).vanguard.com/[home](../h/home.md)]
+- BlackRock [
+- Vanguard [
 
 These resources provide comprehensive information about their respective funds, [fee](../f/fee.md) structures, and performance history, helping investors make well-informed decisions about their investments.

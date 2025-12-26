@@ -71,8 +71,8 @@ Various trading platforms and algo-trading services [offer](../o/offer.md) tools
 
 - **MetaTrader 4/5**: A widely-used [trading platform](../t/trading_platform.md) [offering](../o/offering.md) built-in indicators and scriptwriting capabilities for custom [trading algorithms](../t/trading_algorithms.md).
 - **[TradingView](../t/tradingview.md)**: An online platform that offers advanced charting tools and a scripting language called Pine Script for custom indicators and strategies.
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and deployment tools for custom [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)’ API**: Allows traders to create custom [trading strategies](../t/trading_strategies.md) on the [Interactive Brokers](../i/interactive_brokers.md) platform using various programming languages, including Python and Java. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and deployment tools for custom [trading strategies](../t/trading_strategies.md). QuantConnect
+- **[Interactive Brokers](../i/interactive_brokers.md)’ API**: Allows traders to create custom [trading strategies](../t/trading_strategies.md) on the [Interactive Brokers](../i/interactive_brokers.md) platform using various programming languages, including Python and Java. Interactive Brokers
 
 ## Example Code
 
@@ -101,4 +101,4 @@ This script creates a sample DataFrame with closing prices and computes the 5-da
 
 ## Conclusion
 
-The 5-day moving average is a fundamental tool in the arsenal of both discretionary and algorithmic traders. By smoothing out short-term price fluctuations, it helps traders make more informed decisions. Its simplicity and effectiveness make it a popular choice, but it is essential to be aware of its limitations and to combine it with other indicators for the best results.
+The 5-day moving average is a fundamental tool in the arsenal of both discretionary and algorithmic traders. By smoothing out short-term price fluctuations, it helps traders make more informed decisions. Its simplicity and effectiveness make it a popular choice, but it is essential to be aware of its limitations and to combine it with other indicators for the best results.

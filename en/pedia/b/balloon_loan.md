@@ -5,7 +5,7 @@ A balloon [loan](../l/loan.md) is a type of [loan](../l/loan.md) structure that 
 ## Key Characteristics
 
 1. **[Balloon Payment](../b/balloon_payment.md)**: The defining feature of a balloon [loan](../l/loan.md) is the [balloon payment](../b/balloon_payment.md), which is a large, final [payment](../p/payment.md) due at the end of the [loan](../l/loan.md)'s term. This [payment](../p/payment.md) is typically much larger than the regular installments required to service the [debt](../d/debt.md) during the [loan](../l/loan.md) period.
-   
+
 2. **Non-Fully Amortizing Payments**: Most balloon loans do not fully amortize over the [loan](../l/loan.md) term. This means that the regular payments do not cover both the [principal](../p/principal.md) and [interest](../i/interest.md) in a way that eliminates the [debt](../d/debt.md) by the end of the term.
 
 3. **Shorter [Loan](../l/loan.md) Term**: Balloon loans generally have shorter terms compared to traditional loans. Terms can [range](../r/range.md) from several months to several years.
@@ -16,7 +16,7 @@ A balloon [loan](../l/loan.md) is a type of [loan](../l/loan.md) structure that 
 
 ### Residential Mortgages
 
-In residential lending, balloon loans can be used by borrowers who anticipate a significant change in their financial situation during the term of the [loan](../l/loan.md), such as selling their [home](../h/home.md) or refinancing into a different type of [loan](../l/loan.md). 
+In residential lending, balloon loans can be used by borrowers who anticipate a significant change in their financial situation during the term of the [loan](../l/loan.md), such as selling their [home](../h/home.md) or refinancing into a different type of [loan](../l/loan.md).
 
 ### Commercial Real Estate
 
@@ -40,12 +40,12 @@ Businesses may use balloon loans for various [financing](../f/financing.md) need
 ## Examples of Balloon Loan Structures
 
 1. **Seven-Year Balloon [Mortgage](../m/mortgage.md)**: A borrower might take a seven-year balloon [mortgage](../m/mortgage.md) with monthly payments based on a 30-year [amortization schedule](../a/amortization.md). At the end of seven years, the borrower would need to pay off the remaining balance.
-   
+
 2. **Five-Year [Business](../b/business.md) [Loan](../l/loan.md)**: A [business](../b/business.md) might secure a five-year balloon [loan](../l/loan.md) with [interest](../i/interest.md)-only payments, followed by a [balloon payment](../b/balloon_payment.md) at the end of the five-year term.
 
 ## Real-World Example
 
-- **[Bank](../b/bank.md) of America Balloon Loans**: [Bank](../b/bank.md) of America offers balloon [mortgage](../m/mortgage.md) loans as part of their suite of [mortgage](../m/mortgage.md) products. Detailed information on their offerings can be found on their official website. [Bank of America Balloon Mortgage](https://www.bankofamerica.com/mortgage/mortgage-loan-options/balloon-mortgage/)
+- **[Bank](../b/bank.md) of America Balloon Loans**: [Bank](../b/bank.md) of America offers balloon [mortgage](../m/mortgage.md) loans as part of their suite of [mortgage](../m/mortgage.md) products.
 
 ## Conclusion
 

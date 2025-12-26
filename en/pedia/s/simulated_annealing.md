@@ -1,36 +1,36 @@
 # Simulated Annealing
 
-Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial [optimization](../o/optimization.md) problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in [financial markets](../f/financial_market.md). 
+Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial [optimization](../o/optimization.md) problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in [financial markets](../f/financial_market.md).
 
 Simulated annealing is inspired by the physical process of annealing in metallurgy, where a material is heated to a high temperature and then gradually cooled in a controlled manner to alter its physical properties and reduce defects. Similarly, in the [optimization](../o/optimization.md) context, simulated annealing gradually reduces the temperature of a system to minimize an objective function while allowing occasional worsening moves to escape local optima.
 
 ## Key Components of Simulated Annealing
 
 1. **Temperature Schedule (Cooling Schedule):**
-   The temperature controls the probability of accepting worse solutions as the algorithm progresses. The schedule determines how the temperature is lowered over time. A common schedule is geometric cooling, which reduces the temperature by a constant [factor](../f/factor.md) at each iteration.
+ The temperature controls the probability of accepting worse solutions as the algorithm progresses. The schedule determines how the temperature is lowered over time. A common schedule is geometric cooling, which reduces the temperature by a constant [factor](../f/factor.md) at each iteration.
 
 2. **Neighbourhood Function:**
-   Defines the local area in the solution space to explore. For example, in a [trading strategy](../t/trading_strategy.md), a neighbourhood function may involve small tweaks to parameters such as entry and exit points or stop-loss levels.
+ Defines the local area in the solution space to explore. For example, in a [trading strategy](../t/trading_strategy.md), a neighbourhood function may involve small tweaks to parameters such as entry and exit points or stop-loss levels.
 
 3. **Acceptance Probability:**
-   Determines the likelihood of accepting a worse solution based on the difference in the cost between the current and new solutions and the current temperature. This is often managed using the Metropolis criterion, which accepts worse solutions with a probability \( \exp(-\[Delta](../d/delta.md) E / T) \).
+ Determines the likelihood of accepting a worse solution based on the difference in the cost between the current and new solutions and the current temperature. This is often managed using the Metropolis criterion, which accepts worse solutions with a probability \( \exp(-\[Delta](../d/delta.md) E / T) \).
 
 4. **Objective Function:**
-   The function to be minimized or maximized. In trading, this could be the [Sharpe ratio](../s/sharpe_ratio.md), [total return](../t/total_return.md), or another performance metric.
+ The function to be minimized or maximized. In trading, this could be the [Sharpe ratio](../s/sharpe_ratio.md), [total return](../t/total_return.md), or another performance metric.
 
 ## Steps Involved in Simulated Annealing for Algorithmic Trading
 
 1. **Initialization:**
-   Start with an initial solution and set the initial temperature.
+ Start with an initial solution and set the initial temperature.
 
 2. **Iteration:**
-   - Generate a neighbouring solution.
-   - Calculate the change in the objective function.
-   - Determine whether to accept the new solution based on acceptance probability.
-   - Adjust the temperature according to the cooling schedule.
+ - Generate a neighbouring solution.
+ - Calculate the change in the objective function.
+ - Determine whether to accept the new solution based on acceptance probability.
+ - Adjust the temperature according to the cooling schedule.
 
 3. **Termination:**
-   The process continues until a termination criterion is met. This could be a fixed number of iterations, a solution that meets a pre-defined quality threshold, or a temperature below a certain level.
+ The process continues until a termination criterion is met. This could be a fixed number of iterations, a solution that meets a pre-defined quality threshold, or a temperature below a certain level.
 
 ## Application in Algorithmic Trading
 

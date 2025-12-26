@@ -19,7 +19,7 @@ Limit orders are set to execute at or better than a specified price. This means 
 1. **[Multiple](../m/multiple.md) Trades**: Scalpers can conduct hundreds of trades in a day.
 2. **Quick Entry and Exit**: Trades are usually closed within minutes or even seconds.
 3. **[Technical Indicators](../t/technical_indicators.md)**: Scalpers rely heavily on [technical analysis](../t/technical_analysis.md) and indicators such as moving averages and [volume](../v/volume.md) charts.
-   
+
 ### Tools
 Professional scalpers use advanced trading tools that include fast [execution](../e/execution.md) platforms and direct [market](../m/market.md) access (DMA). These tools ensure that orders are executed as quickly as possible.
 
@@ -47,7 +47,7 @@ High-Frequency Trading is a form of [algorithmic trading](../a/algorithmic_tradi
 3. **[Market](../m/market.md) Making**: Many HFT firms engage in [market](../m/market.md) making, quoting both buy and sell prices to [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md).
 
 ### Tools
-HFT requires state-of-the-art technology, including powerful servers, high-speed internet connections, and sophisticated algorithms. Firms like Citadel Securities and Virtu Financial are well-known HFT providers. Citadel Securities' website can be visited at [Citadel Securities](https://www.citadelsecurities.com/).
+HFT requires state-of-the-art technology, including powerful servers, high-speed internet connections, and sophisticated algorithms. Firms like Citadel Securities and Virtu Financial are well-known HFT providers. Citadel Securities' online platform can be visited at Citadel Securities.
 
 ## Swing Trading
 
@@ -99,7 +99,7 @@ Traders utilize platforms capable of high-speed [order](../o/order.md) [executio
 3. **Low Latency**: The speed of [execution](../e/execution.md) is crucial to [capitalize](../c/capitalize.md) on fleeting pricing inefficiencies.
 
 ### Tools
-[Arbitrage](../a/arbitrage.md) traders need direct [market](../m/market.md) access, high-speed trading software, and low-latency connections. Firms like Jane Street specialize in [arbitrage](../a/arbitrage.md) trading and provide insights on their website [Jane Street](https://www.janestreet.com/).
+[Arbitrage](../a/arbitrage.md) traders need direct [market](../m/market.md) access, high-speed trading software, and low-latency connections. Firms like Jane Street specialize in [arbitrage](../a/arbitrage.md) trading and provide insights through its online channels Jane Street.
 
 ## Algorithmic Trading Platforms
 
@@ -109,7 +109,7 @@ Traders utilize platforms capable of high-speed [order](../o/order.md) [executio
 ### Popular Platforms
 1. **MetaTrader**: Widely used for forex and CFD trading.
 2. **[NinjaTrader](../n/ninjatrader.md)**: Popular among [futures](../f/futures.md) and forex traders.
-3. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform for strategy development and live trading.
+3. **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source platform for strategy development and live trading.
 
 ### Features
 1. **[Backtesting](../b/backtesting.md)**: Allows traders to test their strategies against historical data.

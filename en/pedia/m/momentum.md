@@ -1,6 +1,6 @@
 # Momentum
 
-Momentum is a widely-used concept in both trading and [finance](../f/finance.md), often governed by [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. It can be defined as the rate of acceleration of a [security](../s/security.md)'s price or [volume](../v/volume.md). Momentum traders and investors look to [capitalize](../c/capitalize.md) on upward trends or downward trends in a stock or other [security](../s/security.md), much like surfers ride the waves in the ocean. Essentially, momentum can be a powerful tool for generating [robust](../r/robust.md) returns and minimizing [risk](../r/risk.md) by following the [market](../m/market.md)'s ongoing direction. This article delves deeply into the concept, mechanisms, and implementations of momentum in various trading and financial contexts, particularly focusing on [algorithmic trading](../a/accountability.md) and fintech.
+Momentum is a widely-used concept in both trading and [finance](../f/finance.md), often governed by [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. It can be defined as the rate of acceleration of a [security](../s/security.md)'s price or [volume](../v/volume.md). Momentum traders and investors look to [capitalize](../c/capitalize.md) on upward trends or downward trends in a stock or other [security](../s/security.md), much like surfers ride the waves in the ocean. Essentially, momentum can be a powerful tool for generating [robust](../r/robust.md) returns and minimizing [risk](../r/risk.md) by following the [market](../m/market.md)'s ongoing direction. This article delves deeply into the concept, mechanisms, and implementations of momentum in various trading and financial contexts, particularly focusing on [algorithmic trading](../a/algorithmic_trading.md) and fintech.
 
 ## What is Momentum?
 
@@ -67,7 +67,7 @@ ADX is a [trend](../t/trend.md) [indicator](../i/indicator.md) used to quantify 
 
 ## Momentum in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute trades based on predefined criteria. Momentum strategies are particularly well-suited to [algorithmic trading](../a/accountability.md) because they can be quantified, tested, and implemented efficiently.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades based on predefined criteria. Momentum strategies are particularly well-suited to [algorithmic trading](../a/algorithmic_trading.md) because they can be quantified, tested, and implemented efficiently.
 
 ### Components of Algorithmic Momentum Trading
 
@@ -75,7 +75,7 @@ ADX is a [trend](../t/trend.md) [indicator](../i/indicator.md) used to quantify 
 2. **Signal Generation**: Develop algorithms to generate buy and sell signals based on [momentum indicators](../m/momentum_indicators.md) such as RSI, MACD, or ADX.
 3. **[Backtesting](../b/backtesting.md)**: Test the strategy using historical data to evaluate its [risk](../r/risk.md) and [return](../r/return.md) profile.
 4. **[Risk Management](../r/risk_management.md)**: Implement stop-loss and take-[profit](../p/profit.md) levels to manage [risk](../r/risk.md) effectively. Use [position sizing](../p/position_sizing.md) and [leverage](../l/leverage.md) prudently.
-5. **[Execution](../e/execution.md)**: Use high-frequency trading platforms to execute trades at optimal prices. [Algorithmic trading](../a/accountability.md) systems can be connected to exchanges via APIs for real-time [execution](../e/execution.md).
+5. **[Execution](../e/execution.md)**: Use high-frequency trading platforms to execute trades at optimal prices. [Algorithmic trading](../a/algorithmic_trading.md) systems can be connected to exchanges via APIs for real-time [execution](../e/execution.md).
 
 ### Machine Learning & AI in Momentum Trading
 
@@ -99,7 +99,7 @@ Robo-advisors use algorithms to create and manage investment portfolios. Many ro
 
 ### Quantitative Trading Platforms
 
-Several fintech startups [offer](../o/offer.md) platforms that cater to quantitative and algorithmic traders. Companies like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) provide tools and APIs for developing, [backtesting](../b/backtesting.md), and live-trading momentum strategies. These platforms often include data feeds, [backtesting](../b/backtesting.md) environments, and [risk management](../r/risk_management.md) tools to help traders implement [robust](../r/robust.md) strategies.
+Several fintech startups [offer](../o/offer.md) platforms that cater to quantitative and algorithmic traders. Companies like [StockSharp](../s/stocksharp.md) provide tools and APIs for developing, [backtesting](../b/backtesting.md), and live-trading momentum strategies. These platforms often include data feeds, [backtesting](../b/backtesting.md) environments, and [risk management](../r/risk_management.md) tools to help traders implement [robust](../r/robust.md) strategies.
 
 ## Case Studies
 
@@ -139,4 +139,4 @@ The integration of fintech and [machine learning](../m/machine_learning.md) has 
 
 Ultimately, the successful application of momentum strategies requires a [robust](../r/robust.md) understanding of the [underlying](../u/underlying.md) principles, careful implementation, and diligent [risk management](../r/risk_management.md). By doing so, traders and investors can harness the power of momentum to achieve their financial objectives.
 
-For more information and resources on developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), consider visiting [QuantConnect](../q/quantconnect.md) at [QuantConnect](https://www.quantconnect.com).
+For more information and resources on developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), consider visiting [QuantConnect](../q/quantconnect.md) at QuantConnect.

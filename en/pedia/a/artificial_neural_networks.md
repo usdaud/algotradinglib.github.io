@@ -14,7 +14,7 @@ Artificial [Neural Networks](../n/neural_networks_in_trading.md) consist of laye
 
 ### Feedforward Neural Networks (FNN)
 
-[Feedforward Neural Networks](../f/feedforward_neural_networks.md) are the simplest form of [Neural Networks](../n/neural_networks_in_trading.md) where connections between nodes do not form cycles. The information moves in only one direction—forward—from the input nodes, through the hidden nodes (if any), and to the output nodes. 
+[Feedforward Neural Networks](../f/feedforward_neural_networks.md) are the simplest form of [Neural Networks](../n/neural_networks_in_trading.md) where connections between nodes do not form cycles. The information moves in only one direction—forward—from the input nodes, through the hidden nodes (if any), and to the output nodes.
 
 **Applications in Trading**:
 - [Forecasting](../f/forecasting.md) stock prices
@@ -84,17 +84,17 @@ Once the model achieves satisfactory performance, it can be deployed in a real [
 
 Several companies [leverage](../l/leverage.md) Artificial [Neural Networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). Some notable examples include:
 
-1. **Kensho Technologies**: [kensho.com](https://kensho.com)
-   - Provides advanced analytics, AI, and [machine learning](../m/machine_learning.md) solutions for [financial markets](../f/financial_market.md).
-   
-2. **Numerai**: [numer.ai](https://numer.ai)
-   - Uses encrypted data packages to crowdsource [trading algorithms](../t/trading_algorithms.md) based on [machine learning](../m/machine_learning.md) models.
-   
-3. **Two Sigma**: [twosigma.com](https://www.twosigma.com)
-   - Utilizes AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
-   
-4. **WorldQuant**: [worldquant.com](https://www.worldquant.com)
-   - Employs [quantitative research](../q/quantitative_research.md) to create [trading strategies](../t/trading_strategies.md) using statistical models and [machine learning](../m/machine_learning.md).
+1. **Kensho Technologies**: kensho.com
+ - Provides advanced analytics, AI, and [machine learning](../m/machine_learning.md) solutions for [financial markets](../f/financial_market.md).
+
+2. **Numerai**: numer.ai
+ - Uses encrypted data packages to crowdsource [trading algorithms](../t/trading_algorithms.md) based on [machine learning](../m/machine_learning.md) models.
+
+3. **Two Sigma**: twosigma.com
+ - Utilizes AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
+
+4. **WorldQuant**: worldquant.com
+ - Employs [quantitative research](../q/quantitative_research.md) to create [trading strategies](../t/trading_strategies.md) using statistical models and [machine learning](../m/machine_learning.md).
 
 ## Challenges and Considerations
 
@@ -135,4 +135,4 @@ Combining [neural networks](../n/neural_networks_in_trading.md) with other AI te
 
 Developing techniques to make [neural networks](../n/neural_networks_in_trading.md) more interpretable [will](../w/will.md) be critical for regulatory compliance and gaining [trust](../t/trust.md) in AI-driven [trading strategies](../t/trading_strategies.md).
 
-In conclusion, Artificial [Neural Networks](../n/neural_networks_in_trading.md) [offer](../o/offer.md) tremendous potential for enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies. While there are challenges to overcome, the benefits in terms of improved accuracy, speed, and the ability to process large datasets make them a valuable tool in the [financial sector](../f/financial_sector.md).
+In conclusion, Artificial [Neural Networks](../n/neural_networks_in_trading.md) [offer](../o/offer.md) tremendous potential for enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies. While there are challenges to overcome, the benefits in terms of improved accuracy, speed, and the ability to process large datasets make them a valuable tool in the [financial sector](../f/financial_sector.md).

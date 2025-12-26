@@ -57,11 +57,11 @@ Once a regime shift is detected, the [trading strategy](../t/trading_strategy.md
 
 Several trading firms and financial institutions implement regime shift detection and adaptation mechanisms in their [trading systems](../t/trading_systems.md). Some notable examples include:
 
-- **AQR [Capital](../c/capital.md) Management**: AQR incorporates regime detection in their [quantitative strategies](../q/quantitative_strategies_in_trading.md) to adjust [risk](../r/risk.md) and allocation dynamically. [AQR Capital Management](https://www.aqr.com/)
+- **AQR [Capital](../c/capital.md) Management**: AQR incorporates regime detection in their [quantitative strategies](../q/quantitative_strategies_in_trading.md) to adjust [risk](../r/risk.md) and allocation dynamically. AQR Capital Management
 
-- **Two Sigma**: This [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) and statistical methods to identify regime shifts and optimize [trading strategies](../t/trading_strategies.md) accordingly. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: This [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) and statistical methods to identify regime shifts and optimize [trading strategies](../t/trading_strategies.md) accordingly. Two Sigma
 
-- **WorldQuant**: Utilizes advanced statistical techniques and [machine learning](../m/machine_learning.md) models to detect and adapt to regime shifts in their [algorithmic trading](../a/algorithmic_trading.md) strategies. [WorldQuant](https://www.worldquant.com/)
+- **WorldQuant**: Utilizes advanced statistical techniques and [machine learning](../m/machine_learning.md) models to detect and adapt to regime shifts in their [algorithmic trading](../a/algorithmic_trading.md) strategies. WorldQuant
 
 ## Challenges and Considerations
 

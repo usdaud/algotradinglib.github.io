@@ -86,15 +86,15 @@ Several companies specialize in providing tools and services related to [yield](
 
 #### 1. QuantConnect
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) offers a platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide tools that include extensive data libraries and advanced [backtesting](../b/backtesting.md) capabilities, allowing traders to measure [yield](../y/yield.md)-[risk metrics](../r/risk_metrics.md) effectively.
+[QuantConnect](../q/quantconnect.md) ( offers a platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide tools that include extensive data libraries and advanced [backtesting](../b/backtesting.md) capabilities, allowing traders to measure [yield](../y/yield.md)-[risk metrics](../r/risk_metrics.md) effectively.
 
 #### 2. Numerai
 
-Numerai (https://numer.ai) leverages [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) to develop [trading strategies](../t/trading_strategies.md). They utilize [yield](../y/yield.md)-[risk metrics](../r/risk_metrics.md) to evaluate the performance of [predictive models](../p/predictive_models_in_trading.md) contributed by their community of data scientists.
+Numerai ( leverages [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) to develop [trading strategies](../t/trading_strategies.md). They utilize [yield](../y/yield.md)-[risk metrics](../r/risk_metrics.md) to evaluate the performance of [predictive models](../p/predictive_models_in_trading.md) contributed by their community of data scientists.
 
 #### 3. Two Sigma
 
-Two Sigma (https://www.twosigma.com) is a leading quantitative [hedge fund](../h/hedge_fund.md) that employs [algorithmic trading](../a/algorithmic_trading.md) strategies. They use sophisticated [yield](../y/yield.md)-[risk metrics](../r/risk_metrics.md) to assess and optimize their portfolios, ensuring they achieve favorable [risk](../r/risk.md)-adjusted returns.
+Two Sigma ( is a leading quantitative [hedge fund](../h/hedge_fund.md) that employs [algorithmic trading](../a/algorithmic_trading.md) strategies. They use sophisticated [yield](../y/yield.md)-[risk metrics](../r/risk_metrics.md) to assess and optimize their portfolios, ensuring they achieve favorable [risk](../r/risk.md)-adjusted returns.
 
 ### Conclusion
 

@@ -44,15 +44,15 @@ The M/M/1 queue is the simplest, single-server model featuring:
 - **1**: A single server
 
 **Key Metrics**:
-- **Average number of customers in the system (L)**: 
-  \[
-  L = \frac{λ}{μ - λ}
-  \]
+- **Average number of customers in the system (L)**:
+ \[
+ L = \frac{λ}{μ - λ}
+ \]
 
-- **Average time a [customer](../c/customer.md) spends in the system (W)**: 
-  \[
-  W = \frac{1}{μ - λ}
-  \]
+- **Average time a [customer](../c/customer.md) spends in the system (W)**:
+ \[
+ W = \frac{1}{μ - λ}
+ \]
 
 ### The M/M/c Queue
 
@@ -60,18 +60,18 @@ The M/M/c model extends the M/M/1 queue to [multiple](../m/multiple.md) servers 
 
 **Key Metrics**:
 - **Probability that all servers are idle (P0)**:
-  \[
-  P0 = \left(\sum_{k=0}^{c-1} \frac{(λ/μ)^k}{k!} + \frac{(λ/μ)^c}{c!(1 - ρ)}\right)^{-1}
-  \]
+ \[
+ P0 = \left(\sum_{k=0}^{c-1} \frac{(λ/μ)^k}{k!} + \frac{(λ/μ)^c}{c!(1 - ρ)}\right)^{-1}
+ \]
 - **Average number of customers in the system (L)**:
-  \[
-  L = \frac{(λ/μ)^c λ/μ}{c!(1-ρ)^2} P0 + \frac{λ}{μ}
-  \]
-  
+ \[
+ L = \frac{(λ/μ)^c λ/μ}{c!(1-ρ)^2} P0 + \frac{λ}{μ}
+ \]
+
 - **Average time a [customer](../c/customer.md) spends in the system (W)**:
-  \[
-  W = \frac{L}{λ}
-  \]
+ \[
+ W = \frac{L}{λ}
+ \]
 
 ### The M/G/1 Queue
 
@@ -79,9 +79,9 @@ The M/G/1 queue generalizes the service time to any [distribution](../d/distribu
 
 **Key Metrics**:
 - **Average time a [customer](../c/customer.md) spends in the system (W)**:
-  \[
-  W = \frac{1}{μ} + \frac{λ \cdot Variance}{2(1 - ρ)μ^2}
-  \]
+ \[
+ W = \frac{1}{μ} + \frac{λ \cdot Variance}{2(1 - ρ)μ^2}
+ \]
 
 ### Finite Queues (M/M/1/K)
 
@@ -89,9 +89,9 @@ For systems with limited capacity (K), the M/M/1/K queue model applies. Here, th
 
 **Key Metrics**:
 - **Probability of system being full (PK)**:
-  \[
-  Pk = \frac{(λ/μ)^k P0}{k!}
-  \]
+ \[
+ Pk = \frac{(λ/μ)^k P0}{k!}
+ \]
 
 ## Application of Queuing Theory in Finance and Trading
 
@@ -117,7 +117,7 @@ Cryptocurrency exchanges face volatile and high-[volume](../v/volume.md) trading
 
 ### Case Study: Nasdaq’s Market Performance Indicators
 
-[Nasdaq](../n/nasdaq.md) leverages queuing models to analyze [market](../m/market.md) [performance indicators](../p/performance_indicators.md). For more information, you can visit [Nasdaq Market Performance](https://www.nasdaq.com/solutions/market-performance).
+[Nasdaq](../n/nasdaq.md) leverages queuing models to analyze [market](../m/market.md) [performance indicators](../p/performance_indicators.md). For more information, you can visit Nasdaq Market Performance.
 
 ## Software Tools for Queuing Theory
 

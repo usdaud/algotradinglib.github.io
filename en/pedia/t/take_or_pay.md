@@ -95,7 +95,7 @@ Detailed documentation and precise language are vital in negotiating Take or Pay
 
 ### Shell and Natural Gas Supply
 
-Royal Dutch Shell, a major player in the global energy [market](../m/market.md), frequently enters into Take or Pay agreements with various entities to secure the [supply](../s/supply.md) of natural gas. Such contracts ensure that facilities built for gas extraction and transport remain viable and profitable. For more information, visit [Shell](https://www.shell.com).
+Royal Dutch Shell, a major player in the global energy [market](../m/market.md), frequently enters into Take or Pay agreements with various entities to secure the [supply](../s/supply.md) of natural gas. Such contracts ensure that facilities built for gas extraction and transport remain viable and profitable. For more information, visit Shell.
 
 ### Power Purchase Agreements (PPAs)
 

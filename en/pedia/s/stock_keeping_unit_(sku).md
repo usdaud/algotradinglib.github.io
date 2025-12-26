@@ -9,10 +9,10 @@ An SKU is often composed of alphanumeric characters that encode information rele
 ### Typical Structure of an SKU
 1. **Alphanumeric Code**: A combination of letters and numbers.
 2. **Attributes**: Encodes different aspects such as:
-    - **Category**: Product type (e.g., electronics, clothing).
-    - **Color**: Code for color (e.g., BLK for black, WHT for white).
-    - **Size**: Identifier for size (e.g., S, M, L, XL).
-    - **Version or Model**: Indicates specific model/version.
+ - **Category**: Product type (e.g., electronics, clothing).
+ - **Color**: Code for color (e.g., BLK for black, WHT for white).
+ - **Size**: Identifier for size (e.g., S, M, L, XL).
+ - **Version or Model**: Indicates specific model/version.
 
 For instance, an SKU for a black, medium-sized T-shirt might look like `TSHIRT-BLK-MED`.
 
@@ -40,7 +40,7 @@ While the fundamental concept of SKUs remains consistent across different sector
 
 ### Retail
 
-In retail, SKUs are indispensable for managing a [wide variety](../w/wide_variety.md) of products. Large retailers may have millions of SKUs to [handle](../h/handle.md), necessitating sophisticated [inventory management](../i/inventory_management.md) systems. Retailers like **Walmart** (https://www.walmart.com) and **Amazon** heavily rely on SKUs to maintain [operational efficiency](../o/operational_efficiency_in_trading.md) and [customer](../c/customer.md) satisfaction.
+In retail, SKUs are indispensable for managing a [wide variety](../w/wide_variety.md) of products. Large retailers may have millions of SKUs to [handle](../h/handle.md), necessitating sophisticated [inventory management](../i/inventory_management.md) systems. Retailers like **Walmart** ( and **Amazon** heavily rely on SKUs to maintain [operational efficiency](../o/operational_efficiency_in_trading.md) and [customer](../c/customer.md) satisfaction.
 
 ### Manufacturing
 
@@ -48,7 +48,7 @@ Manufacturers use SKUs to track [raw materials](../r/raw_materials.md), work-in-
 
 ### E-commerce
 
-E-[commerce](../c/commerce.md) platforms extensively use SKUs to manage their online inventories. They help in quick product searches, managing listings, and handling returns. Companies like **Shopify** (https://www.shopify.com) [offer](../o/offer.md) tools for businesses to create and manage SKUs effectively.
+E-[commerce](../c/commerce.md) platforms extensively use SKUs to manage their online inventories. They help in quick product searches, managing listings, and handling returns. Companies like **Shopify** ( [offer](../o/offer.md) tools for businesses to create and manage SKUs effectively.
 
 ### Logistics
 

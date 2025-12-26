@@ -9,17 +9,17 @@
 Implied [volatility](../v/volatility.md) (IV) is a crucial metric in [options](../o/options.md) trading that reflects the [market](../m/market.md)'s view of the likelihood of changes in a given [security](../s/security.md)'s price. It is derived from the price of the [options](../o/options.md) themselves and does not predict the direction of the price move. Instead, it indicates the magnitude of the price change.
 
 * **Key Factors Influencing Implied [Volatility](../v/volatility.md):**
-  * **[Market Sentiment](../m/market_sentiment.md):** [Trader](../t/trader.md)'s beliefs and expectations about future [market](../m/market.md) movements.
-  * **Macro-economic Events:** Economic releases, geopolitical instability, and significant corporate news.
-  * **[Supply](../s/supply.md) and [Demand](../d/demand.md) for [Options](../o/options.md):** High [demand](../d/demand.md) for [options](../o/options.md) can drive up implied [volatility](../v/volatility.md).
-  
+ * **[Market Sentiment](../m/market_sentiment.md):** [Trader](../t/trader.md)'s beliefs and expectations about future [market](../m/market.md) movements.
+ * **Macro-economic Events:** Economic releases, geopolitical instability, and significant corporate news.
+ * **[Supply](../s/supply.md) and [Demand](../d/demand.md) for [Options](../o/options.md):** High [demand](../d/demand.md) for [options](../o/options.md) can drive up implied [volatility](../v/volatility.md).
+
 ### Realized Volatility
 
 [Realized volatility](../r/realized_volatility.md), also known as [historical volatility](../h/historical_volatility.md), measures the actual observed [volatility](../v/volatility.md) of a [security](../s/security.md)'s price over a past period. It is typically calculated using the [standard deviation](../s/standard_deviation.md) of the [logarithmic returns](../l/logarithmic_returns.md) of the securities.
 
 * **Components of [Realized Volatility](../r/realized_volatility.md):**
-  * **Temporal Resolution:** Can be calculated over various time frames, e.g., daily, weekly, monthly.
-  * **Data Frequency:** High-frequency data provides a more precise measure of [realized volatility](../r/realized_volatility.md).
+ * **Temporal Resolution:** Can be calculated over various time frames, e.g., daily, weekly, monthly.
+ * **Data Frequency:** High-frequency data provides a more precise measure of [realized volatility](../r/realized_volatility.md).
 
 ### Volatility Risk Premium
 
@@ -32,8 +32,8 @@ The [volatility risk](../v/volatility_risk.md) [premium](../p/premium.md) repres
 [Volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) is a [trading strategy](../t/trading_strategy.md) that looks to exploit differences between implied and [realized volatility](../r/realized_volatility.md).
 
 * **Common Techniques:**
-  * **Statistical [Arbitrage](../a/arbitrage.md):** Utilizing statistical models to identify inefficiencies.
-  * **[Delta](../d/delta.md)-[Neutral](../n/neutral.md) Hedging:** Creating a [delta](../d/delta.md)-[neutral](../n/neutral.md) portfolio to manage [risk](../r/risk.md) while profiting from [volatility](../v/volatility.md) discrepancies.
+ * **Statistical [Arbitrage](../a/arbitrage.md):** Utilizing statistical models to identify inefficiencies.
+ * **[Delta](../d/delta.md)-[Neutral](../n/neutral.md) Hedging:** Creating a [delta](../d/delta.md)-[neutral](../n/neutral.md) portfolio to manage [risk](../r/risk.md) while profiting from [volatility](../v/volatility.md) discrepancies.
 
 ### Dispersion Trading
 
@@ -45,11 +45,11 @@ Calendar [spreads](../s/spreads.md) exploit the difference in implied volatiliti
 
 ### Variance Swaps
 
-A [variance swap](../v/variance_swap.md) is an over-the-counter financial [derivative](../d/derivative.md) that allows one to [trade](../t/trade.md) future [realized volatility](../r/realized_volatility.md) against current implied [volatility](../v/volatility.md). 
+A [variance swap](../v/variance_swap.md) is an over-the-counter financial [derivative](../d/derivative.md) that allows one to [trade](../t/trade.md) future [realized volatility](../r/realized_volatility.md) against current implied [volatility](../v/volatility.md).
 
 * **Mechanics:**
-  * **Variance Notional:** Defines the payoff, depending on the difference between realized and implied [volatility](../v/volatility.md).
-  * **Strike Variance:** The pre-agreed level of variance at the contract's inception.
+ * **Variance Notional:** Defines the payoff, depending on the difference between realized and implied [volatility](../v/volatility.md).
+ * **Strike Variance:** The pre-agreed level of variance at the contract's inception.
 
 ## Risk Management and Challenges
 
@@ -85,15 +85,15 @@ Several firms specialize in [volatility](../v/volatility.md) trading and related
 
 ### Citadel LLC
 
-Citadel is a leading financial institution that engages in [multiple](../m/multiple.md) strategies, including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) and high-frequency trading. [Citadel LLC](https://www.citadel.com/)
+Citadel is a leading financial institution that engages in [multiple](../m/multiple.md) strategies, including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) and high-frequency trading. Citadel LLC
 
 ### Two Sigma Investments
 
-Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that employs data-driven strategies to [trade](../t/trade.md) on [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including [volatility](../v/volatility.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that employs data-driven strategies to [trade](../t/trade.md) on [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including [volatility](../v/volatility.md). Two Sigma
 
 ### DE Shaw Group
 
-The DE Shaw Group is a global investment and technology development [firm](../f/firm.md) known for its sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). [DE Shaw Group](https://www.deshaw.com/)
+The DE Shaw Group is a global investment and technology development [firm](../f/firm.md) known for its sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). DE Shaw Group
 
 ## Conclusion
 

@@ -9,9 +9,9 @@ Deleveraging refers to the reduction of [leverage](../l/leverage.md), that is, t
 ### Mechanisms of Deleveraging
 
 1. **[Asset](../a/asset.md) Sales:** The most direct method of deleveraging is selling assets to repay [debt](../d/debt.md). This reduces the [debt](../d/debt.md) [load](../l/load.md) but can also potentially lower the [income](../i/income.md)-generating base of the entity.
-   
+
 2. **Raising [Equity](../e/equity.md):** Another method to deleverage is by issuing new [equity](../e/equity.md) [shares](../s/shares.md). This infuses [capital](../c/capital.md) into the organization but dilutes the ownership and potential [earnings](../e/earnings.md) per share (EPS) for existing shareholders.
-   
+
 3. **[Retained Earnings](../r/retained_earnings.md):** Companies can use [retained earnings](../r/retained_earnings.md) to pay down [debt](../d/debt.md). This organic method is gradual and relies on the company generating enough profits to allocate part of them for [debt](../d/debt.md) reduction.
 
 4. **Operational Adjustments:** Firms might also cut costs or change operational strategies to free up cash to reduce [debt](../d/debt.md). This may include layoffs, [restructuring](../r/restructuring.md), or changing their [market](../m/market.md) strategy.
@@ -66,11 +66,11 @@ Deleveraging refers to the reduction of [leverage](../l/leverage.md), that is, t
 
 Several financial institutions, [hedge](../h/hedge.md) funds, and technology companies specialize in [algorithmic trading](../a/accountability.md) and have developed advanced models to deal with deleveraging scenarios. Notable entities include:
 
-1. **BlackRock:** The world’s largest [asset](../a/asset.md) manager uses sophisticated algorithms to manage its portfolio and navigate [market dynamics](../m/market_dynamics.md), including deleveraging [BlackRock](https://www.blackrock.com).
+1. **BlackRock:** The world’s largest [asset](../a/asset.md) manager uses sophisticated algorithms to manage its portfolio and navigate [market dynamics](../m/market_dynamics.md), including deleveraging BlackRock.
 
 2. **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), the [firm](../f/firm.md) employs [quantitative models](../q/quantitative_models.md) that can [handle](../h/handle.md) various [market](../m/market.md) conditions, including periods of deleveraging.
 
-3. **Two Sigma:** Another leading quantitative [hedge fund](../h/hedge_fund.md), Two Sigma uses [machine learning](../m/machine_learning.md) to adapt to [market](../m/market.md) changes, such as those caused by deleveraging [Two Sigma](https://www.twosigma.com).
+3. **Two Sigma:** Another leading quantitative [hedge fund](../h/hedge_fund.md), Two Sigma uses [machine learning](../m/machine_learning.md) to adapt to [market](../m/market.md) changes, such as those caused by deleveraging Two Sigma.
 
 ## Conclusion
 

@@ -111,19 +111,19 @@ Several financial institutions [offer](../o/offer.md) tools and resources for ma
 
 ### American Express
 
-American Express offers various [credit](../c/credit.md) management tools, including alerts and automatic payments, to help you stay on top of your balance. You can learn more at [American Express](https://www.americanexpress.com).
+American Express offers various [credit](../c/credit.md) management tools, including alerts and automatic payments, to help you stay on top of your balance. You can learn more at American Express.
 
 ### Discover
 
-Discover provides a [range](../r/range.md) of tools such as Spend Analyzer, which helps you track and categorize your spending. [Check](../c/check.md) more details at [Discover](https://www.discover.com).
+Discover provides a [range](../r/range.md) of tools such as Spend Analyzer, which helps you track and categorize your spending. [Check](../c/check.md) more details at Discover.
 
 ### Citi
 
-Citi offers comprehensive account management services, including personalized alerts and [payment](../p/payment.md) plans to help you manage your [credit card](../c/credit_card.md) balance. For more information, visit [Citi](https://www.citi.com).
+Citi offers comprehensive account management services, including personalized alerts and [payment](../p/payment.md) plans to help you manage your [credit card](../c/credit_card.md) balance. For more information, visit Citi.
 
 ### Chase
 
-Chase provides [credit](../c/credit.md) management resources, including the [Credit](../c/credit.md) Journey tool, which allows you to monitor your [credit score](../c/credit_score.md) and understand factors affecting your balance. Find out more at [Chase](https://www.chase.com).
+Chase provides [credit](../c/credit.md) management resources, including the [Credit](../c/credit.md) Journey tool, which allows you to monitor your [credit score](../c/credit_score.md) and understand factors affecting your balance. Find out more at Chase.
 
 ## Conclusion
 

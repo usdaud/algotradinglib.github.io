@@ -34,7 +34,7 @@ Earned [income](../i/income.md) is subject to federal, state, and local [taxes](
 
 ### Federal Income Tax
 
-In the United States, [federal income](../f/federal_income.md) tax is progressive, meaning that higher levels of earned [income](../i/income.md) are taxed at higher rates. The Internal [Revenue](../r/revenue.md) Service (IRS) provides [tax brackets](../t/tax_brackets.md) that update periodically, determining how much an individual owes annually. 
+In the United States, [federal income](../f/federal_income.md) tax is progressive, meaning that higher levels of earned [income](../i/income.md) are taxed at higher rates. The Internal [Revenue](../r/revenue.md) Service (IRS) provides [tax brackets](../t/tax_brackets.md) that update periodically, determining how much an individual owes annually.
 
 ### State and Local Taxes
 

@@ -51,24 +51,24 @@ To understand the allotment process better, consider the hypothetical example of
 1. **[Pre-IPO](../p/pre-ipo.md) Stage**: XYZ Tech decides to go public and files for an IPO with a total [offering](../o/offering.md) of 1 million [shares](../s/shares.md).
 2. **[Investor](../i/investor.md) Applications**: The IPO opens, and investors apply for 3 million [shares](../s/shares.md) in total, making it 3 times [oversubscribed](../o/oversubscribed.md).
 3. **Allotment Process**:
-   - Retail investors' portion is [oversubscribed](../o/oversubscribed.md) and allotted through a lottery system.
-   - Institutional investors receive a pro-rata allocation.
+ - Retail investors' portion is [oversubscribed](../o/oversubscribed.md) and allotted through a lottery system.
+ - Institutional investors receive a pro-rata allocation.
 4. **Final Allocation**: XYZ Tech announces the allocation result:
-   - Retail investors who applied through lottery get a proportional share.
-   - Institutional bidders like [investment banks](../i/investment_bank_(ib).md) and mutual funds receive [shares](../s/shares.md) based on their [bid](../b/bid.md) strength.
+ - Retail investors who applied through lottery get a proportional share.
+ - Institutional bidders like [investment banks](../i/investment_bank_(ib).md) and mutual funds receive [shares](../s/shares.md) based on their [bid](../b/bid.md) strength.
 
 XYZ Tech successfully raises [capital](../c/capital.md) while ensuring fair and transparent allotment to various [investor](../i/investor.md) categories.
 
 ## Prominent Companies and Their IPOs
 A few companies that have recently gone public and followed the above allotment process include:
 
-### [Airbnb (NASDAQ: ABNB)](https://www.airbnb.com/)
+### Airbnb (NASDAQ: ABNB)
 Airbnb, the vacation rental giant, went public on December 10, 2020. The IPO was a milestone, [offering](../o/offering.md) 51.55 million [shares](../s/shares.md), and it was [oversubscribed](../o/oversubscribed.md) [multiple](../m/multiple.md) times.
 
-### [Snowflake Inc. (NYSE: SNOW)](https://www.snowflake.com/)
+### Snowflake Inc. (NYSE: SNOW)
 Snowflake, a cloud-based data warehouse company, had one of the most anticipated IPOs in 2020, raising around $3.4 billion by issuing 28 million [shares](../s/shares.md).
 
-### [DoorDash, Inc. (NYSE: DASH)](https://www.doordash.com/)
+### DoorDash, Inc. (NYSE: DASH)
 DoorDash, the food delivery service, raised around $3.37 billion by [offering](../o/offering.md) 33 million [shares](../s/shares.md) in its December 2020 IPO.
 
 ## Conclusion

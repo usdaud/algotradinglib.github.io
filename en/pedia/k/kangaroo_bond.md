@@ -63,20 +63,20 @@ Although the Australian [market](../m/market.md) is relatively [liquid](../l/liq
 Several prominent international entities have issued Kangaroo bonds, including:
 
 1. **[World Bank](../w/world_bank.md)**
-   - The [World Bank](../w/world_bank.md) has frequently accessed the Australian [bond market](../b/bond_market.md), considering it a reliable source for funding various global projects.
-     - [World Bank Bonds](https://treasury.worldbank.org/en/about/unit/treasury/ibrd/funding-program)
-  
+ - The [World Bank](../w/world_bank.md) has frequently accessed the Australian [bond market](../b/bond_market.md), considering it a reliable source for funding various global projects.
+ - World Bank Bonds
+
 2. **[International Finance Corporation](../i/international_finance_corporation.md) (IFC)**
-   - Part of the [World Bank Group](../w/world_bank_group.md), the IFC issues Kangaroo bonds to [finance](../f/finance.md) [private sector](../p/private_sector.md) projects in developing countries.
-     - [IFC Bonds](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home)
-  
+ - Part of the [World Bank Group](../w/world_bank_group.md), the IFC issues Kangaroo bonds to [finance](../f/finance.md) [private sector](../p/private_sector.md) projects in developing countries.
+ - IFC Bonds
+
 3. **European Investment [Bank](../b/bank.md) (EIB)**
-   - The EIB utilizes Kangaroo bonds to support sustainable development projects within and outside the [European Union](../e/european_union_(eu).md).
-     - [EIB Bonds](https://www.eib.org/en/investor_relations/funding/index.htm)
-  
+ - The EIB utilizes Kangaroo bonds to support sustainable development projects within and outside the [European Union](../e/european_union_(eu).md).
+ - EIB Bonds
+
 4. **[Asian Development Bank](../a/asian_development_bank.md) (ADB)**
-   - ADB raises funds through Kangaroo bonds to support its development projects across Asia and the Pacific.
-     - [ADB Bonds](https://www.adb.org/work-with-us/investors)
+ - ADB raises funds through Kangaroo bonds to support its development projects across Asia and the Pacific.
+ - ADB Bonds
 
 ## Regulatory and Tax Aspects
 

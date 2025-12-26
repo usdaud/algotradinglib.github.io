@@ -54,9 +54,9 @@ High-frequency trading involves executing a large number of orders at extremely 
 
 Some notable HFT firms are:
 
-- **Jane Street:** [Jane Street - Home](https://www.janestreet.com)
-- **Virtu Financial:** [Virtu Financial - Home](https://www.virtu.com)
-- **Citadel Securities:** [Citadel Securities - Home](https://www.citadelsecurities.com)
+- **Jane Street:** Jane Street - Home
+- **Virtu Financial:** Virtu Financial - Home
+- **Citadel Securities:** Citadel Securities - Home
 
 ### 2. **Machine Learning-Based Trading**
 
@@ -70,9 +70,9 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze va
 
 Many [quantitative trading](../q/quantitative_trading.md) firms are integrating [machine learning](../m/machine_learning.md) into their systems:
 
-- **Two Sigma:** [Two Sigma - Home](https://www.twosigma.com)
-- **D. E. Shaw & Co.:** [D. E. Shaw & Co. - Home](https://www.deshaw.com)
-- **AQR [Capital](../c/capital.md) Management:** [AQR - Home](https://www.aqr.com)
+- **Two Sigma:** Two Sigma - Home
+- **D. E. Shaw & Co.:** D. E. Shaw & Co. - Home
+- **AQR [Capital](../c/capital.md) Management:** AQR - Home
 
 ### 3. **Automated Market Making**
 
@@ -86,8 +86,8 @@ Automated [market](../m/market.md) makers use algorithms to provide [liquidity](
 
 Notable [market](../m/market.md) making firms:
 
-- **Flow Traders:** [Flow Traders - Home](https://www.flowtraders.com)
-- **Optiver:** [Optiver - Home](https://www.optiver.com)
+- **Flow Traders:** Flow Traders - Home
+- **Optiver:** Optiver - Home
 
 ## Development and Testing of Winning Trading Systems
 
@@ -119,25 +119,25 @@ Implementing the strategy in a live [trading environment](../t/trading_environme
 
 Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [Fund](../f/fund.md), which has delivered extraordinary returns through sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). Renaissance leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to exploit [market](../m/market.md) inefficiencies.
 
-- [Renaissance Technologies - Home](https://www.rentec.com)
+- Renaissance Technologies - Home
 
 ### 2. **Bridgewater Associates**
 
 Bridgewater Associates, founded by Ray Dalio, is known for its macroeconomic [trading strategies](../t/trading_strategies.md). Bridgewater's "Pure [Alpha](../a/alpha.md)" strategy uses fundamental economic analysis and diversified [asset allocation](../a/asset_allocation.md) to generate consistent returns.
 
-- [Bridgewater Associates - Home](https://www.bridgewater.com)
+- Bridgewater Associates - Home
 
 ### 3. **Citadel LLC**
 
 Citadel LLC, founded by Ken Griffin, employs a combination of quantitative and fundamental strategies. Citadel's GQS (Global [Quantitative Strategies](../q/quantitative_strategies_in_trading.md)) division uses advanced statistical models and [machine learning](../m/machine_learning.md) to identify trading opportunities across global markets.
 
-- [Citadel LLC - Home](https://www.citadel.com)
+- Citadel LLC - Home
 
 ### 4. **Hudson River Trading**
 
 Hudson River Trading (HRT) is a prominent HFT [firm](../f/firm.md) that relies on [proprietary algorithms](../p/proprietary_algorithms.md) and cutting-edge technology to execute trades with low latency. HRT focuses on [market](../m/market.md) making and [arbitrage](../a/arbitrage.md) strategies across various [asset](../a/asset.md) classes.
 
-- [Hudson River Trading - Home](https://www.hudsonrivertrading.com)
+- Hudson River Trading - Home
 
 ## Conclusion
 

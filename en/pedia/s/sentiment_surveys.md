@@ -13,37 +13,30 @@ Sentiment surveys are structured tools used to gauge the attitudes, opinions, an
 These surveys target the general sentiment of retail and institutional investors. Notable examples include:
 
 - **American Association of Individual Investors (AAII) Sentiment Survey:** Measures the percentage of investors who are bullish, bearish, or [neutral](../n/neutral.md) on the [stock market](../s/stock_market.md) for the next six months.
-  [AAII Sentiment Survey](https://www.aaii.com/sentimentsurvey)
 
 - **[Investor](../i/investor.md) Intelligence Sentiment Survey:** Conducted by Investors Intelligence, this survey tracks the sentiment of financial newsletter writers.
-  [Investor Intelligence Survey](https://www.investorsintelligence.com/x/us_advisors_sentiment.html)
 
 ### 2.2. Business Sentiment Surveys
 
 These surveys assess the sentiment among [business](../b/business.md) executives and other decision-makers within corporations, looking at their outlook for [business](../b/business.md) conditions and economic trends.
 
 - **ISM [Manufacturing](../m/manufacturing.md) Survey:** Conducted by the Institute for [Supply](../s/supply.md) Management, it measures the sentiment of purchasing managers in the [manufacturing](../m/manufacturing.md) sector.
-  [ISM Manufacturing Survey](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/july/)
 
 - **National Federation of Independent [Business](../b/business.md) (NFIB) Small [Business](../b/business.md) Optimism [Index](../i/index_instrument.md):** Measures the sentiment of small [business](../b/business.md) owners in the United States.
-  [NFIB Small Business Optimism Index](https://www.nfib.com/surveys/small-business-economic-trends/)
 
 ### 2.3. Consumer Sentiment Surveys
 
 These surveys reflect the sentiment of consumers, who are essential drivers of the [economy](../e/economy.md).
 
 - **University of Michigan Consumer Sentiment [Index](../i/index_instrument.md) (UMCSI):** Widely followed for its insights into U.S. consumer sentiment, this survey asks about consumers' financial conditions and attitudes about the [economy](../e/economy.md).
-  [UMCSI](http://www.sca.isr.umich.edu/)
 
 - **Conference Board Consumer Confidence [Index](../i/index_instrument.md):** Measures the level of confidence that consumers have in economic activities.
-  [Conference Board Consumer Confidence Index](https://www.conference-board.org/data/consumerconfidence.cfm)
 
 ### 2.4. Financial Market Sentiment Surveys
 
 Focuses on the outlook within specific [financial markets](../f/financial_market.md).
 
 - **[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md) Global [Fund Manager](../f/fund_manager.md) Survey:** Provides insights into the sentiment of institutional investors and their allocation strategies.
-  [BAML Fund Manager Survey](https://www.bofaml.com/content/dam/boamlimages/documents/articles/ID18_127/global_fund_manager_survey.pdf)
 
 ## 3. Importance of Sentiment Surveys in Algorithmic Trading
 
@@ -106,4 +99,3 @@ With advancements in [natural language processing](../n/natural_language_process
 ## 8. Conclusion
 
 Sentiment surveys are invaluable in the realm of [algorithmic trading](../a/algorithmic_trading.md). They provide a window into [market](../m/market.md) psychology and [investor](../i/investor.md) behavior, [offering](../o/offering.md) predictive insights that enhance [trading strategies](../t/trading_strategies.md). By effectively integrating sentiment data into algorithms, traders can navigate the complexities of [financial markets](../f/financial_market.md) with greater precision.
-

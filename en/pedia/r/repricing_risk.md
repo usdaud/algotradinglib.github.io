@@ -43,9 +43,9 @@ Managing repricing [risk](../r/risk.md) involves a combination of strategic and 
 
 Several specialized tools and software solutions are available to aid in the analysis and management of repricing [risk](../r/risk.md).
 
-1. **QRM ([Quantitative Risk Management](../q/quantitative_risk_management.md)):** [QRM](https://www.qrm.com/) offers a comprehensive ALM and [risk management](../r/risk_management.md) platform known for its advanced analytical capabilities in managing [interest rate risk](../i/interest_rate_risk.md).
+1. **QRM ([Quantitative Risk Management](../q/quantitative_risk_management.md)):** QRM offers a comprehensive ALM and [risk management](../r/risk_management.md) platform known for its advanced analytical capabilities in managing [interest rate risk](../i/interest_rate_risk.md).
 2. **[Z-Score](../z/z-score.md) [Risk Management](../r/risk_management.md):** Focuses on providing software for [financial risk](../f/financial_risk.md), including repricing [risk](../r/risk.md), using advanced algorithmic models.
-3. **Fiserv:** [Fiserv](https://www.fiserv.com/) offers technology solutions that integrate ALM and [interest rate risk management](../i/interest_rate_risk_management.md).
+3. **Fiserv:** Fiserv offers technology solutions that integrate ALM and [interest rate risk management](../i/interest_rate_risk_management.md).
 
 ## Real-World Examples
 
@@ -55,7 +55,7 @@ In periods of fluctuating [interest](../i/interest.md) rates, banks like SVB mus
 
 ### Example 2: RBC Royal Bank
 
-[Royal Bank of Canada](https://www.rbc.com) (RBC) uses sophisticated [gap analysis](../g/gap_analysis.md) and [duration](../d/duration.md) measures to monitor and manage repricing [risk](../r/risk.md). Through the use of [interest rate swaps](../i/interest_rate_swaps.md) and other [derivative](../d/derivative.md) instruments, RBC effectively hedges against potential mismatches that could affect its profitability.
+Royal Bank of Canada (RBC) uses sophisticated [gap analysis](../g/gap_analysis.md) and [duration](../d/duration.md) measures to monitor and manage repricing [risk](../r/risk.md). Through the use of [interest rate swaps](../i/interest_rate_swaps.md) and other [derivative](../d/derivative.md) instruments, RBC effectively hedges against potential mismatches that could affect its profitability.
 
 ## Conclusion
 

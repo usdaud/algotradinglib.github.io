@@ -8,21 +8,21 @@ An agency [bond](../b/bond.md) is a type of [debt security](../d/debt_security.m
 
 GSEs are financial services corporations created by Congress to enhance the flow of [credit](../c/credit.md) to specific sectors of the [economy](../e/economy.md), such as housing and agriculture. They are privately held but enjoy public goals. Though not officially backed by the U.S. government, they benefit from an implicit government guarantee.
 
-- **Fannie Mae (Federal National [Mortgage](../m/mortgage.md) Association)**: Fannie Mae provides [liquidity](../l/liquidity.md) to the [mortgage](../m/mortgage.md) [market](../m/market.md) by buying mortgages from lenders and either holding them in its portfolio or packaging them into [mortgage](../m/mortgage.md)-backed securities. For more information, visit [Fannie Mae](https://www.fanniemae.com/).
+- **Fannie Mae (Federal National [Mortgage](../m/mortgage.md) Association)**: Fannie Mae provides [liquidity](../l/liquidity.md) to the [mortgage](../m/mortgage.md) [market](../m/market.md) by buying mortgages from lenders and either holding them in its portfolio or packaging them into [mortgage](../m/mortgage.md)-backed securities. For more information, visit Fannie Mae.
 
-- **[Freddie Mac](../f/freddie_mac.md) (Federal [Home](../h/home.md) [Loan](../l/loan.md) [Mortgage](../m/mortgage.md) [Corporation](../c/corporation.md))**: Similarly to Fannie Mae, [Freddie Mac](../f/freddie_mac.md) purchases [home](../h/home.md) mortgages and converts them into [mortgage](../m/mortgage.md)-backed securities, thus providing [capital](../c/capital.md) to [mortgage](../m/mortgage.md) lenders. More details are available at [Freddie Mac](https://www.freddiemac.com/).
+- **[Freddie Mac](../f/freddie_mac.md) (Federal [Home](../h/home.md) [Loan](../l/loan.md) [Mortgage](../m/mortgage.md) [Corporation](../c/corporation.md))**: Similarly to Fannie Mae, [Freddie Mac](../f/freddie_mac.md) purchases [home](../h/home.md) mortgages and converts them into [mortgage](../m/mortgage.md)-backed securities, thus providing [capital](../c/capital.md) to [mortgage](../m/mortgage.md) lenders. More details are available at Freddie Mac.
 
-- **Federal [Home](../h/home.md) [Loan](../l/loan.md) Banks (FHLBanks)**: The FHLBanks are a system of 11 regional banks that provide [liquidity](../l/liquidity.md) to member institutions (such as commercial banks and [credit](../c/credit.md) unions) to support housing [finance](../f/finance.md) and community investment. Learn more at [Federal Home Loan Banks](https://www.fhlb-of.com/).
+- **Federal [Home](../h/home.md) [Loan](../l/loan.md) Banks (FHLBanks)**: The FHLBanks are a system of 11 regional banks that provide [liquidity](../l/liquidity.md) to member institutions (such as commercial banks and [credit](../c/credit.md) unions) to support housing [finance](../f/finance.md) and community investment. Learn more at Federal Home Loan Banks.
 
 ### Federal Agencies
 
 [Federal agencies](../f/federal_agencies.md) operate under the full faith and [credit](../c/credit.md) of the U.S. government. Hence, their bonds are considered one of the safest fixed-[income](../i/income.md) investments.
 
-- **Ginnie Mae (Government National [Mortgage](../m/mortgage.md) Association)**: Ginnie Mae guarantees the timely [payment](../p/payment.md) of [principal](../p/principal.md) and [interest](../i/interest.md) on [mortgage](../m/mortgage.md)-backed securities issued by approved lenders. Visit [Ginnie Mae](https://www.ginniemae.gov/) for more information.
+- **Ginnie Mae (Government National [Mortgage](../m/mortgage.md) Association)**: Ginnie Mae guarantees the timely [payment](../p/payment.md) of [principal](../p/principal.md) and [interest](../i/interest.md) on [mortgage](../m/mortgage.md)-backed securities issued by approved lenders. Visit Ginnie Mae for more information.
 
-- **Tennessee Valley Authority (TVA)**: The TVA issues bonds to [finance](../f/finance.md) the construction of power generation and transmission facilities. Detailed information can be found at [TVA](https://www.tva.com/).
+- **Tennessee Valley Authority (TVA)**: The TVA issues bonds to [finance](../f/finance.md) the construction of power generation and transmission facilities. Detailed information can be found at TVA.
 
-- **Federal Agriculture [Mortgage](../m/mortgage.md) [Corporation](../c/corporation.md) (Farmer Mac)**: Farmer Mac provides a [secondary market](../s/secondary_market.md) for agricultural loans, enhancing the availability of [credit](../c/credit.md) to America's agricultural and rural [economy](../e/economy.md). More information is available at [Farmer Mac](https://www.farmermac.com/).
+- **Federal Agriculture [Mortgage](../m/mortgage.md) [Corporation](../c/corporation.md) (Farmer Mac)**: Farmer Mac provides a [secondary market](../s/secondary_market.md) for agricultural loans, enhancing the availability of [credit](../c/credit.md) to America's agricultural and rural [economy](../e/economy.md). More information is available at Farmer Mac.
 
 ## Characteristics of Agency Bonds
 
@@ -32,11 +32,11 @@ Agency bonds come in various maturities ranging from short-term (less than one y
 
 ### Interest Payments
 
-Most agency bonds pay [interest](../i/interest.md) semi-annually, although some may pay annually or at other intervals. The [interest](../i/interest.md) rates can be fixed or floating, with floating-rate bonds typically pegged to benchmarks like the LIBOR (London Interbank Offered Rate) or [U.S. Treasury](../u/u.s._treasury.md) yields.
+Most agency bonds pay [interest](../i/interest.md) semi-annually, although some may pay annually or at other intervals. The [interest](../i/interest.md) rates can be fixed or floating, with floating-rate bonds typically pegged to benchmarks like SOFR (Secured Overnight [Financing](../f/financing.md) Rate, which replaced LIBOR in June 2023) or [U.S. Treasury](../u/u.s._treasury.md) yields.
 
 ### Credit Quality
 
-Agency bonds, particularly those issued by [federal agencies](../f/federal_agencies.md), are considered to have high [credit](../c/credit.md) quality due to their government backing. GSE-issued bonds, although not explicitly guaranteed, still carry high [credit](../c/credit.md) ratings because of the implicit government support. 
+Agency bonds, particularly those issued by [federal agencies](../f/federal_agencies.md), are considered to have high [credit](../c/credit.md) quality due to their government backing. GSE-issued bonds, although not explicitly guaranteed, still carry high [credit](../c/credit.md) ratings because of the implicit government support.
 
 ### Liquidity
 

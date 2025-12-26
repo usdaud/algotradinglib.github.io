@@ -50,15 +50,15 @@ A [Z-score](../z/z-score.md) below 1.8 indicates a high probability of [bankrupt
 
 #### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their API capabilities include calculation of various statistical measures including [Z-scores](../z/z-scores_in_trading.md). For more information, you can visit [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their API capabilities include calculation of various statistical measures including [Z-scores](../z/z-scores_in_trading.md). For more information, you can visit QuantConnect.
 
 #### AlphaVantage
 
-AlphaVantage offers APIs for accessing a wide array of financial data. Their tools can be used to fetch the necessary data for calculating [Z-scores](../z/z-scores_in_trading.md) and integrating them into [trading algorithms](../t/trading_algorithms.md). Learn more at [AlphaVantage](https://www.alphavantage.co).
+AlphaVantage offers APIs for accessing a wide array of financial data. Their tools can be used to fetch the necessary data for calculating [Z-scores](../z/z-scores_in_trading.md) and integrating them into [trading algorithms](../t/trading_algorithms.md). Learn more at AlphaVantage.
 
 #### Bloomberg Terminal
 
-[Bloomberg](../b/bloomberg.md) Terminal offers extensive functionality for [financial analysis](../f/financial_analysis.md), including the ability to calculate and analyze [Z-scores](../z/z-scores_in_trading.md). [Bloomberg](../b/bloomberg.md) Terminal is widely used by financial professionals for real-time data, [market](../m/market.md) analytics, and [predictive modeling](../p/predictive_modeling.md). More information can be found on the [Bloomberg Terminal site](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+[Bloomberg](../b/bloomberg.md) Terminal offers extensive functionality for [financial analysis](../f/financial_analysis.md), including the ability to calculate and analyze [Z-scores](../z/z-scores_in_trading.md). [Bloomberg](../b/bloomberg.md) Terminal is widely used by financial professionals for real-time data, [market](../m/market.md) analytics, and [predictive modeling](../p/predictive_modeling.md).
 
 ### Limitations
 

@@ -11,6 +11,12 @@ The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commissio
 3. **Entities**: Trusts, partnerships, corporations, or other organizations with assets exceeding $5 million, not formed for the specific purpose of acquiring the securities offered.
 4. **Insiders**: Directors, executive officers, or general partners of the company selling the securities.
 5. **Qualified Entities**: Banks, [insurance](../i/insurance.md) companies, registered investment companies, [business](../b/business.md) development companies, or small [business](../b/business.md) investment companies.
+6. **Professional Certifications (2020 Update)**: Individuals holding certain professional certifications, designations, or credentials, including:
+ - Series 7 (General Securities Representative)
+ - Series 65 (Investment Adviser Representative)
+ - Series 82 (Private Securities Offerings Representative)
+7. **Knowledgeable Employees**: Employees of private funds who are "knowledgeable employees" of that fund.
+8. **Spousal Equivalents**: The 2020 amendments allow spousal equivalents to pool finances for the purpose of qualifying as accredited investors.
 
 These criteria ensure that accredited investors possess sufficient financial knowledge and can bear the [financial risk](../f/financial_risk.md) associated with unregistered securities.
 
@@ -50,9 +56,9 @@ Further, countries worldwide adopt similar frameworks to align with global finan
 
 Several organizations provide services and platforms tailored for accredited investors:
 
-1. **AngelList**: A well-known platform that connects startups with accredited investors, [offering](../o/offering.md) opportunities in [venture capital](../v/venture_capital.md) and angel [investing](../i/investing.md) [AngelList](https://angel.co/).
-2. **Fundrise**: Specializes in [real estate](../r/real_estate.md) investments, allowing accredited investors to invest in diversified portfolios of private [real estate](../r/real_estate.md) assets [Fundrise](https://fundrise.com/).
-3. **EquityZen**: Facilitates investments in [pre-IPO](../p/pre-ipo.md) [shares](../s/shares.md) of private companies, providing [liquidity](../l/liquidity.md) to early employees and stakeholders [EquityZen](https://equityzen.com/).
+1. **AngelList**: A well-known platform that connects startups with accredited investors, [offering](../o/offering.md) opportunities in [venture capital](../v/venture_capital.md) and angel [investing](../i/investing.md) AngelList.
+2. **Fundrise**: Specializes in [real estate](../r/real_estate.md) investments, allowing accredited investors to invest in diversified portfolios of private [real estate](../r/real_estate.md) assets Fundrise.
+3. **EquityZen**: Facilitates investments in [pre-IPO](../p/pre-ipo.md) [shares](../s/shares.md) of private companies, providing [liquidity](../l/liquidity.md) to early employees and stakeholders EquityZen.
 
 These platforms curate investment opportunities, helping accredited investors diversify their portfolios and access markets typically unavailable to non-accredited investors.
 

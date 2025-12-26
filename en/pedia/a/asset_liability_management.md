@@ -30,7 +30,7 @@ One of the foundational principles of ALM is matching the [duration](../d/durati
 
 ### 5. Regulatory Compliance
 
-Financial institutions must comply with various regulatory standards related to [asset](../a/asset.md) and [liability](../l/liability.md) management. Such regulations include guidelines for [liquidity](../l/liquidity.md) coverage ratios, net stable funding ratios, and [capital](../c/capital.md) requirements, such as those outlined in the [Basel III](../b/basel_iii.md) framework. 
+Financial institutions must comply with various regulatory standards related to [asset](../a/asset.md) and [liability](../l/liability.md) management. Such regulations include guidelines for [liquidity](../l/liquidity.md) coverage ratios, net stable funding ratios, and [capital](../c/capital.md) requirements, such as those outlined in the [Basel III](../b/basel_iii.md) framework.
 
 ## Methods and Techniques in ALM
 
@@ -64,9 +64,9 @@ Immunization strategies involve constructing a portfolio in such a way that the 
 
 Advanced software solutions play a critical role in effective [asset](../a/asset.md)/[liability](../l/liability.md) management. These tools provide sophisticated analytics, real-time monitoring, and comprehensive reporting capabilities. Prominent ALM software solutions include:
 
-- **QRM ([Quantitative Risk Management](../q/quantitative_risk_management.md)):** Provides tools for monitoring and managing [interest rate risk](../i/interest_rate_risk.md), [liquidity risk](../l/liquidity_risk.md), and [capital](../c/capital.md) adequacy. [QRM](https://www.qrm.com/)
-- **Moody’s Analytics:** Offers solutions for enterprise [risk management](../r/risk_management.md), including [credit](../c/credit.md) analysis and regulatory compliance. [Moody's Analytics](https://www.moodysanalytics.com/)
-- **FIS (Financial Information Systems):** Delivers a [range](../r/range.md) of financial management software, including ALM solutions for banks and other financial institutions. [FIS](https://www.fisglobal.com/)
+- **QRM ([Quantitative Risk Management](../q/quantitative_risk_management.md)):** Provides tools for monitoring and managing [interest rate risk](../i/interest_rate_risk.md), [liquidity risk](../l/liquidity_risk.md), and [capital](../c/capital.md) adequacy. QRM
+- **Moody’s Analytics:** Offers solutions for enterprise [risk management](../r/risk_management.md), including [credit](../c/credit.md) analysis and regulatory compliance. Moody's Analytics
+- **FIS (Financial Information Systems):** Delivers a [range](../r/range.md) of financial management software, including ALM solutions for banks and other financial institutions. FIS
 
 ### Data Analytics and Modeling
 

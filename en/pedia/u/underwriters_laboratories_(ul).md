@@ -12,7 +12,7 @@ Over the years, UL expanded its focus to include a broad [range](../r/range.md) 
 
 ### Testing and Certification
 
-UL is best known for its rigorous testing and certification services. Products bearing the UL mark have been tested to meet specific safety standards. These products are less likely to malfunction and cause harm or damages. 
+UL is best known for its rigorous testing and certification services. Products bearing the UL mark have been tested to meet specific safety standards. These products are less likely to malfunction and cause harm or damages.
 
 UL’s testing services encompass a wide array of procedures, including:
 - **Electrical Safety Testing:** Essential for products like household appliances, lighting, and industrial equipment.
@@ -72,4 +72,3 @@ UL continuously invests in research and development to advance safety science an
 
 Underwriters Laboratories (UL) plays an indispensable role in promoting safety, [security](../s/security.md), and sustainability on a global scale. With its comprehensive testing, certification, inspection, auditing, and advisory services, UL helps manufacturers ensure their products meet stringent safety standards, thereby protecting consumers and enhancing product reliability. Moreover, through its partnerships and influence in standards development, UL helps shape the regulatory landscape, making the world a safer place.
 
-For more information on UL and its services, you can visit their official website: [UL](https://www.ul.com/).

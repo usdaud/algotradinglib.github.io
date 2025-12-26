@@ -91,18 +91,15 @@ Several financial institutions and trading firms [offer](../o/offer.md) variance
 
 ### 1. **Goldman Sachs**
 Goldman Sachs provides variance swaps as part of its suite of [equity](../e/equity.md) [derivatives](../d/derivatives.md) and structured products. The [firm](../f/firm.md) leverages its [market](../m/market.md)-making and [risk management](../r/risk_management.md) expertise to facilitate these trades.
-[Goldman Sachs Equity Derivatives](https://www.goldmansachs.com/what-we-do/securities/equity-derivatives/)
 
 ### 2. **J.P. Morgan**
 J.P. Morgan offers customized variance [swap](../s/swap.md) solutions, allowing clients to align their [volatility](../v/volatility.md) expectations with structured products tailored to specific [market](../m/market.md) views.
-[J.P. Morgan Equities & Equity Derivatives](https://www.jpmorgan.com/global/markets/equity-derivatives)
+J.P. Morgan Equities & Equity Derivatives
 
 ### 3. **Morgan Stanley**
 Morgan Stanley's [equity derivative](../e/equity_derivative.md) operations include variance swaps, providing clients with strategic [volatility](../v/volatility.md) exposure and hedging tools.
-[Morgan Stanley Equity Derivatives](https://www.morganstanley.com/im/en-us/capital-securities-strategies/equity/index.html)
 
 ### 4. **Barclays**
 Barclays facilitates variance swaps through its [equity](../e/equity.md) [derivatives](../d/derivatives.md) platform, enabling seamless [execution](../e/execution.md) and innovative [volatility](../v/volatility.md) [trading strategies](../t/trading_strategies.md).
-[Barclays Markets & Research - Equity Derivatives](https://www.cib.barclays/markets/equity-derivatives/)
 
 In conclusion, variance swaps represent a sophisticated tool for trading and managing [volatility risk](../v/volatility_risk.md). They [offer](../o/offer.md) [market](../m/market.md) participants a direct and efficient way to [gain](../g/gain.md) exposure to or [hedge](../h/hedge.md) against changes in realized variance, distinct from traditional option-based strategies. As with any [financial instrument](../f/financial_instrument.md), a thorough understanding of their features, applications, and risks is essential for effective utilization.

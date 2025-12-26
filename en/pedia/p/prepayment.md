@@ -19,11 +19,11 @@ There are several types of prepayment based on the context and terms of the fina
 Several factors influence a borrower’s decision to prepay a [loan](../l/loan.md):
 
 1. **[Interest Rate](../i/interest_rate.md) Environment**: If [interest](../i/interest.md) rates drop significantly, borrowers may [refinance](../r/refinance.md) their existing higher-[interest](../i/interest.md) loans with cheaper loans, leading to prepayment of the old [loan](../l/loan.md).
-  
+
 2. **[Economic Conditions](../e/economic_conditions.md)**: During economic booms, borrowers may have more [disposable income](../d/disposable_income.md), enabling them to prepay their loans. Conversely, during downturns, prepayment rates might decrease.
-  
+
 3. **Contract Terms**: Some [loan](../l/loan.md) agreements may have prepayment penalties or specific terms that either encourage or discourage prepayment.
-  
+
 4. **Personal Financial Situation**: Changes in a borrower's personal financial situation, such as receiving a large bonus or inheritance, can lead to prepayment.
 
 ## Implications of Prepayment
@@ -78,8 +78,8 @@ Regulatory frameworks can influence prepayment dynamics. The **[Home](../h/home.
 
 In the United States, government-sponsored enterprises (GSEs) like [Freddie Mac](../f/freddie_mac.md) and Fannie Mae play a pivotal role in the secondary [mortgage](../m/mortgage.md) [market](../m/market.md). They purchase mortgages from lenders, securitize them, and sell them to investors. Understanding and managing [prepayment risk](../p/prepayment_risk.md) is crucial for these entities because it impacts the [value](../v/value.md) and [return](../r/return.md) of [mortgage](../m/mortgage.md)-backed securities they [issue](../i/issue.md).
 
-![Freddie Mac](http://www.freddiemac.com)
-![Fannie Mae](http://www.fanniemae.com)
+!Freddie Mac
+!Fannie Mae
 
 ### Corporate Debt Prepayment
 

@@ -14,15 +14,15 @@ Japan's exports are dominated by several key commodities, reflecting its industr
 
 ### 1. Automobiles
 
-Japan is one of the leading producers of automobiles globally. Companies like Toyota, Honda, and Nissan are household names worldwide, and automotive exports constitute a significant portion of Japan's [trade](../t/trade.md). The country's high-quality engineering and innovation have made Japanese cars a staple in global markets. 
+Japan is one of the leading producers of automobiles globally. Companies like Toyota, Honda, and Nissan are household names worldwide, and automotive exports constitute a significant portion of Japan's [trade](../t/trade.md). The country's high-quality engineering and innovation have made Japanese cars a staple in global markets.
 
 ### 2. Machinery
 
-Precision machinery and industrial machinery are vital [export](../e/export.md) products. Japan's expertise in producing high-quality machinery has positioned it as a crucial supplier in various industries, including [manufacturing](../m/manufacturing.md), construction, and agriculture. 
+Precision machinery and industrial machinery are vital [export](../e/export.md) products. Japan's expertise in producing high-quality machinery has positioned it as a crucial supplier in various industries, including [manufacturing](../m/manufacturing.md), construction, and agriculture.
 
 ### 3. Electronics
 
-From consumer electronics to industrial electronics and semiconductor [manufacturing](../m/manufacturing.md) equipment, Japan's contribution to the global electronics [market](../m/market.md) is substantial. Companies like Sony, Panasonic, and Toshiba are pioneers in this sector. 
+From consumer electronics to industrial electronics and semiconductor [manufacturing](../m/manufacturing.md) equipment, Japan's contribution to the global electronics [market](../m/market.md) is substantial. Companies like Sony, Panasonic, and Toshiba are pioneers in this sector.
 
 ### 4. Chemical Products
 
@@ -68,7 +68,7 @@ The 1990s, known as the "[Lost Decade](../l/lost_decade.md)," were characterized
 
 ### 3. 2000s to Present
 
-The early 2000s saw Japan recovering from the economic slump, leveraging technology and innovation. The global [financial crisis](../f/financial_crisis.md) of 2008 had an impact, but Japan's exports rebounded in the subsequent years. The 2010s witnessed steady growth, driven by advancements in technology and automotive industries. 
+The early 2000s saw Japan recovering from the economic slump, leveraging technology and innovation. The global [financial crisis](../f/financial_crisis.md) of 2008 had an impact, but Japan's exports rebounded in the subsequent years. The 2010s witnessed steady growth, driven by advancements in technology and automotive industries.
 
 ## Economic Policies and Their Impact
 
@@ -104,9 +104,8 @@ The analysis of Japanese [export](../e/export.md) data underscores the critical 
 
 ## References and Further Reading
 
-- [Toyota Motor Corporation](https://www.toyota-global.com/)
-- [Sony Corporation](https://www.sony.com/)
-- [Trade Statistics of Japan](https://www.jetro.go.jp/en/reports/statistics/)
-- [Ministry of Economy, Trade and Industry of Japan (METI)](https://www.meti.go.jp/english/)
-- [Japan External Trade Organization (JETRO)](https://www.jetro.go.jp/en/)
-
+- Toyota Motor Corporation
+- Sony Corporation
+- Trade Statistics of Japan
+- Ministry of Economy, Trade and Industry of Japan (METI)
+- Japan External Trade Organization (JETRO)

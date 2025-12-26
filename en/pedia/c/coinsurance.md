@@ -62,7 +62,7 @@ Accurate [risk assessment models](../r/risk_assessment_models.md) are essential 
 
 ### Collaboration Platforms
 
-Specialized platforms can facilitate the collaboration needed for co-[insurance](../i/insurance.md) in [algorithmic trading](../a/accountability.md). These platforms bring together various [market](../m/market.md) participants, enabling them to form co-[insurance](../i/insurance.md) agreements, share [risk](../r/risk.md) data, and implement [joint](../j/joint.md) [trading strategies](../t/trading_strategies.md). Some notable platforms include AlgoTrader (https://www.algotrader.com) and ERIS [Exchange](../e/exchange.md) (http://www.erisfutures.com).
+Specialized platforms can facilitate the collaboration needed for co-[insurance](../i/insurance.md) in [algorithmic trading](../a/accountability.md). These platforms bring together various [market](../m/market.md) participants, enabling them to form co-[insurance](../i/insurance.md) agreements, share [risk](../r/risk.md) data, and implement [joint](../j/joint.md) [trading strategies](../t/trading_strategies.md). Some notable platforms include AlgoTrader ( and ERIS [Exchange](../e/exchange.md) (
 
 ## Challenges and Future Prospects
 

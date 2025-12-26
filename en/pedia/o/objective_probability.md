@@ -57,11 +57,11 @@ Estimating objective probability typically involves the collection and analysis 
 
 ### Automated Trading Systems
 
-Companies like [QuantConnect](https://www.quantconnect.com) and [AlgoTrader](https://www.algotrader.com) develop platforms that heavily rely on objective probability for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) and strategies using historical [market](../m/market.md) data. These platforms use statistical methods to estimate the probability of [trade](../t/trade.md) signals being successful based on past performance data.
+Companies like QuantConnect and AlgoTrader develop platforms that heavily rely on objective probability for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) and strategies using historical [market](../m/market.md) data. These platforms use statistical methods to estimate the probability of [trade](../t/trade.md) signals being successful based on past performance data.
 
 ### Risk Assessment Tools
 
-FinTech firms develop [risk](../r/risk.md) assessment tools utilizing objective probability to help clients assess [creditworthiness](../c/creditworthiness.md) and [market](../m/market.md) risks. For instance, [Moody's Analytics](https://www.moodysanalytics.com) provides [risk management](../r/risk_management.md) solutions that incorporate advanced statistical models to estimate the likelihood of [credit](../c/credit.md) defaults and other financial risks.
+FinTech firms develop [risk](../r/risk.md) assessment tools utilizing objective probability to help clients assess [creditworthiness](../c/creditworthiness.md) and [market](../m/market.md) risks. For instance, Moody's Analytics provides [risk management](../r/risk_management.md) solutions that incorporate advanced statistical models to estimate the likelihood of [credit](../c/credit.md) defaults and other financial risks.
 
 ## Challenges and Limitations
 

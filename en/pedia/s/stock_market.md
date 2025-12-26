@@ -81,15 +81,15 @@ Long-term [investing](../i/investing.md) focuses on holding [stocks](../s/stock.
 
 ### Definition and Overview
 
-[Algorithmic trading](../a/accountability.md), also referred to as algo-trading or black-box trading, utilizes computer algorithms to execute a large number of trades based on predetermined criteria. It leverages [mathematical models](../m/mathematical_models_in_trading.md) and automated [trading strategies](../t/trading_strategies.md) to perform transactions at speeds and frequencies that human traders cannot achieve.
+[Algorithmic trading](../a/algorithmic_trading.md), also referred to as algo-trading or black-box trading, utilizes computer algorithms to execute a large number of trades based on predetermined criteria. It leverages [mathematical models](../m/mathematical_models_in_trading.md) and automated [trading strategies](../t/trading_strategies.md) to perform transactions at speeds and frequencies that human traders cannot achieve.
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading is a subset of [algorithmic trading](../a/accountability.md) that involves executing orders at extremely high speeds. This is made possible by sophisticated algorithms and powerful computers. HFT aims to take advantage of minute price discrepancies that exist for very short periods, often lasting only milliseconds.
+High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing orders at extremely high speeds. This is made possible by sophisticated algorithms and powerful computers. HFT aims to take advantage of minute price discrepancies that exist for very short periods, often lasting only milliseconds.
 
 ### Benefits of Algorithmic Trading
 
-- **[Efficiency](../e/efficiency.md):** [Algorithmic trading](../a/accountability.md) allows for faster and more accurate [order](../o/order.md) [execution](../e/execution.md), which can lead to better prices and reduced [transaction costs](../t/transaction_costs.md).
+- **[Efficiency](../e/efficiency.md):** [Algorithmic trading](../a/algorithmic_trading.md) allows for faster and more accurate [order](../o/order.md) [execution](../e/execution.md), which can lead to better prices and reduced [transaction costs](../t/transaction_costs.md).
 - **Emotion-Free Trading:** Algorithms execute trades based on predefined criteria, eliminating emotions that can disrupt trading decisions.
 - **[Backtesting](../b/backtesting.md):** Algorithms can be backtested using historical [market](../m/market.md) data to determine their viability before they are implemented in live trading.
 
@@ -97,7 +97,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/accountability.
 
 - **Technological Failures:** [Automated trading systems](../a/automated_trading_systems.md) rely on computer algorithms, which means they can suffer from technological glitches.
 - **[Market](../m/market.md) Impact:** Since algorithms are designed to execute large transactions quickly, they can inadvertently cause significant [market](../m/market.md) movements.
-- **Regulatory Hurdles:** [Algorithmic trading](../a/accountability.md) attracts regulatory scrutiny to prevent unfair trading practices and ensure [market](../m/market.md) stability.
+- **Regulatory Hurdles:** [Algorithmic trading](../a/algorithmic_trading.md) attracts regulatory scrutiny to prevent unfair trading practices and ensure [market](../m/market.md) stability.
 
 ## Financial Technologies (FinTech)
 
@@ -125,9 +125,9 @@ P2P lending platforms connect borrowers directly with investors, bypassing tradi
 
 ### Notable FinTech Companies
 
-- **[Robinhood](../r/robinhood.md)**: A mobile app that democratizes trading by [offering](../o/offering.md) [commission](../c/commission.md)-free trades of [stocks](../s/stock.md) and ETFs. [Robinhood Website](https://robinhood.com/)
-- **Betterment**: An online financial advisory company that provides robo-advising services for [long-term investments](../l/long-term_investments.md). [Betterment Website](https://www.betterment.com/)
-- **SoFi**: Offers various financial products including student and personal loans, mortgages, [investing](../i/investing.md), and banking through a single app. [SoFi Website](https://www.sofi.com/)
+- **[Robinhood](../r/robinhood.md)**: A mobile app that democratizes trading by [offering](../o/offering.md) [commission](../c/commission.md)-free trades of [stocks](../s/stock.md)
+- **Betterment**: An online financial advisory company that provides robo-advising services for [long-term investments](../l/long-term_investments.md).
+- **SoFi**: Offers various financial products including student and personal loans, mortgages, [investing](../i/investing.md),
 
 ## Regulatory Environment
 

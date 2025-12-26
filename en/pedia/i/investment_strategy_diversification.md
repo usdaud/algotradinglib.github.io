@@ -72,7 +72,7 @@ Automated systems that regularly reallocate investments within a portfolio to ma
 
 ### Example: Two Sigma
 
-Two Sigma (https://www.twosigma.com/) is a prominent example of a [firm](../f/firm.md) that employs advanced technology and [data science](../d/data_science_in_trading.md) to implement diversified [algorithmic trading](../a/algorithmic_trading.md) strategies. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), distributed computing, and other quantitative methods to enhance the [diversification](../d/diversification.md) and performance of their investment portfolios.
+Two Sigma ( is a prominent example of a [firm](../f/firm.md) that employs advanced technology and [data science](../d/data_science_in_trading.md) to implement diversified [algorithmic trading](../a/algorithmic_trading.md) strategies. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), distributed computing, and other quantitative methods to enhance the [diversification](../d/diversification.md) and performance of their investment portfolios.
 
 ## Challenges in Diversification
 
@@ -82,7 +82,7 @@ Despite its benefits, [diversification](../d/diversification.md) comes with its 
 - **[Transaction Costs](../t/transaction_costs.md)**: Increased trading and [rebalancing](../r/rebalancing.md) can lead to higher [transaction costs](../t/transaction_costs.md).
 - **Complexity**: Managing a diversified portfolio requires sophisticated tools and expertise.
 
-## Tools and Techniques for Diversification 
+## Tools and Techniques for Diversification
 
 Various tools and techniques can assist in executing a diversified [investment strategy](../i/investment_strategy.md), such as:
 
@@ -92,15 +92,14 @@ Tools like Modern Portfolio Theory (MPT) based software can help in identifying 
 
 ### Robo-Advisors
 
-Automated platforms that utilize algorithms to build and manage diversified portfolios for investors, example: Betterment (https://www.betterment.com/).
-
+Automated platforms that utilize algorithms to build and manage diversified portfolios for investors, example: Betterment
 ### Factor Models
 
 [Risk](../r/risk.md) [factor models](../f/factor_models.md) that analyze the sensitivity of portfolio returns to various economic factors, used to construct diversified portfolios that balance these sensitivities.
 
 ### Direct Indexing Platforms
 
-Platforms that allow investors to directly own a diversified set of [stocks](../s/stock.md) rather than through mutual funds or ETFs, enabling personalized [diversification](../d/diversification.md) and tax [optimization](../o/optimization.md), example: Wealthfront (https://www.wealthfront.com/).
+Platforms that allow investors to directly own a diversified set of [stocks](../s/stock.md) rather than through mutual funds or ETFs, enabling personalized [diversification](../d/diversification.md) and tax [optimization](../o/optimization.md), example: Wealthfront (
 
 ## Conclusion
 

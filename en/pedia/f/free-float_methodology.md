@@ -12,7 +12,7 @@ Free-[float](../f/float.md) methodology is a widely-used approach in [financial 
 
 ### Free-Float Shares
 
-Free-[float](../f/float.md) [shares](../s/shares.md), also known as public [float](../f/float.md), refer to the portion of a company's [shares](../s/shares.md) that are available for trading by the general public. These [shares](../s/shares.md) exclude those held by strategic shareholders who are unlikely to [trade](../t/trade.md) their [shares](../s/shares.md) due to various restrictions or long-term investment intentions. 
+Free-[float](../f/float.md) [shares](../s/shares.md), also known as public [float](../f/float.md), refer to the portion of a company's [shares](../s/shares.md) that are available for trading by the general public. These [shares](../s/shares.md) exclude those held by strategic shareholders who are unlikely to [trade](../t/trade.md) their [shares](../s/shares.md) due to various restrictions or long-term investment intentions.
 
 ### Calculation of Free-Float Market Capitalization
 
@@ -35,11 +35,11 @@ This metric is crucial for investors and financial analysts in assessing the tra
 Many global stock indices use the free-[float](../f/float.md) methodology to determine the weight of individual [stocks](../s/stock.md) within the [index](../i/index_instrument.md). This approach enhances the [index](../i/index_instrument.md)'s representation of the [market](../m/market.md) by focusing on the actively tradable [shares](../s/shares.md). Major indices that use free-[float](../f/float.md) methodology include:
 
 1. **S&P 500**: Managed by S&P Dow Jones Indices, which uses free-[float](../f/float.md) adjustment in its calculations.
-   - [S&P 500 Methodology](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview)
+ - S&P 500 Methodology
 2. **MSCI Indices**: MSCI employs free-[float](../f/float.md) adjusted [market capitalization](../m/market_capitalization.md) for its global indices.
-   - [MSCI Index Methodology](https://www.msci.com/index-methodology)
+ - MSCI Index Methodology
 3. **FTSE 100**: [FTSE Russell](../f/ftse_russell.md) uses free-[float](../f/float.md) methodology to calculate the [market](../m/market.md) cap-[weighted](../w/weighted.md) [index](../i/index_instrument.md).
-   - [FTSE Russell Methodology](https://www.ftserussell.com/products/indices/uk)
+ - FTSE Russell Methodology
 
 ## Benefits of Free-Float Methodology
 

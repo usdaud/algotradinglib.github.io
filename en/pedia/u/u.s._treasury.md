@@ -91,4 +91,4 @@ The U.S. Treasury has embraced technological advancements to improve its operati
 - Researching the potential for a Central [Bank](../b/bank.md) [Digital Currency](../d/digital_currency.md) (CBDC) to enhance [payment](../p/payment.md) systems and [financial inclusion](../f/financial_inclusion.md).
 - Collaboration with the Federal Reserve and other stakeholders on [digital currency](../d/digital_currency.md) initiatives.
 
-For more detailed information about the U.S. Treasury, its initiatives, and its latest updates, visit the official website: [U.S. Department of the Treasury](https://home.treasury.gov/)
+For more detailed information about the U.S. Treasury, its initiatives, and its latest updates,S. Department of the Treasury

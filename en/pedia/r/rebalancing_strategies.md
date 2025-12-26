@@ -97,9 +97,9 @@ High-level technology and [infrastructure](../i/infrastructure.md) are required 
 
 Several platforms [offer](../o/offer.md) tools and services for implementing [rebalancing](../r/rebalancing.md) strategies. Some notable ones include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular choice for individual traders and institutional clients due to its extensive API and low [transaction costs](../t/transaction_costs.md). [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
-- **[AlgoTrader](../a/algotrader.md)**: Enterprise-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports multi-[asset](../a/asset.md) strategies. [AlgoTrader](https://www.algotrader.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular choice for individual traders and institutional clients due to its extensive API and low [transaction costs](../t/transaction_costs.md). Interactive Brokers
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: Enterprise-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports multi-[asset](../a/asset.md) strategies. AlgoTrader
 
 ## Conclusion
 

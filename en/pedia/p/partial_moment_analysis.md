@@ -90,12 +90,12 @@ There are also specialized libraries and tools designed to facilitate partial mo
 
 - **[QuantLib](../q/quantlib.md)**: Provides capabilities for various financial and [risk metrics](../r/risk_metrics.md), including partial moments.
 - **SciPy**: With its powerful statistical tools, it can be leveraged to compute partial moment metrics.
-  
+
 ## Case Studies
 
 ### Risk-Lens: Algorithmic Trading Firms
 
-Firms like [Risk](../r/risk.md)-Lens (https://www.risklens.com/) employ sophisticated [risk analysis](../r/risk_analysis.md) tools to evaluate and manage the financial risks that [trading algorithms](../t/trading_algorithms.md) might encounter. By using partial moments, these firms can [gain](../g/gain.md) a deeper understanding of the [upside](../u/upside.md) and downside risks beyond traditional [risk metrics](../r/risk_metrics.md).
+Firms like [Risk](../r/risk.md)-Lens ( employ sophisticated [risk analysis](../r/risk_analysis.md) tools to evaluate and manage the financial risks that [trading algorithms](../t/trading_algorithms.md) might encounter. By using partial moments, these firms can [gain](../g/gain.md) a deeper understanding of the [upside](../u/upside.md) and downside risks beyond traditional [risk metrics](../r/risk_metrics.md).
 
 ## Conclusion
 

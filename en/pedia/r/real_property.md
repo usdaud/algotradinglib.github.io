@@ -110,4 +110,4 @@ Technology is transforming the real property landscape through innovations like:
 
 Real property is a multifaceted [asset class](../a/asset_class.md) with significant implications in legal, economic, and financial contexts. Understanding its intricacies, from ownership rights to investment strategies, is crucial for stakeholders ranging from individual homeowners to institutional investors. The dynamic nature of the [real estate](../r/real_estate.md) [market](../m/market.md), influenced by [economic indicators](../e/economic_indicators.md) and technological advancements, presents both opportunities and challenges, underscoring the importance of informed decision-making in navigating this critical sector.
 
-For further exploration and resources, visit [Zillow](https://www.zillow.com/) and [Real Estate Investment Trusts (REITs)](https://www.reit.com/).
+For further exploration and resources, visit Zillow and Real Estate Investment Trusts (REITs).

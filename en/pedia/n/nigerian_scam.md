@@ -4,7 +4,7 @@ Nigerian Scam, often referred to as "Nigerian Prince Scam" or "419 Scam" (named 
 
 ## Historical Context
 
-The Nigerian Scam dates back decades, with its [genesis](../g/genesis.md) often traced to the early 1980s. Initially, these frauds were conducted via postal mail or faxes. With the advent of the internet, email became the primary medium for these frauds. 
+The Nigerian Scam dates back decades, with its [genesis](../g/genesis.md) often traced to the early 1980s. Initially, these frauds were conducted via postal mail or faxes. With the advent of the internet, email became the primary medium for these frauds.
 
 Strategically, the scam employs social engineering techniques that prey on human psychology, particularly hope and greed. These fraudsters often target vulnerable groups, including elderly individuals, immigrants, and [business](../b/business.md) owners.
 
@@ -23,7 +23,7 @@ To add legitimacy to the story, scammers often include personal details, officia
 
 ### Escalation and Engaging the Victim
 
-Once contact is established, scammers [will](../w/will.md) personalize the communication, often addressing the victim by name and building rapport. The fraudsters may use information gleaned during the [exchange](../e/exchange.md) to create the illusion of trustworthiness and urgency. 
+Once contact is established, scammers [will](../w/will.md) personalize the communication, often addressing the victim by name and building rapport. The fraudsters may use information gleaned during the [exchange](../e/exchange.md) to create the illusion of trustworthiness and urgency.
 
 ### Requests for Fees
 
@@ -31,7 +31,7 @@ Eventually, the victim [will](../w/will.md) be asked to provide funds or sensiti
 
 ### Continuing the Fraud
 
-After receiving the initial sum, the scammer [will](../w/will.md) often invent further complications requiring additional payments. This cycle can continue for as long as the victim continues to send [money](../m/money.md) or until the victim grows suspicious and ceases contact. 
+After receiving the initial sum, the scammer [will](../w/will.md) often invent further complications requiring additional payments. This cycle can continue for as long as the victim continues to send [money](../m/money.md) or until the victim grows suspicious and ceases contact.
 
 ## Legal and Social Impact
 

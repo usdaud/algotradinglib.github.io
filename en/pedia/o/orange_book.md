@@ -75,11 +75,11 @@ Financial technology (Fintech) companies are now leveraging Orange Book data to 
 
 #### Example: Fintech in Action
 
-[Algorithmic trading](../a/accountability.md) firms often subscribe to real-time FDA data feeds. Platforms may use these data points to create automated [trading strategies](../t/trading_strategies.md) that execute trades based on drug approval announcements or TE code updates to capture quick profits from stock [volatility](../v/volatility.md).
+[Algorithmic trading](../a/algorithmic_trading.md) firms often subscribe to real-time FDA data feeds. Platforms may use these data points to create automated [trading strategies](../t/trading_strategies.md) that execute trades based on drug approval announcements or TE code updates to capture quick profits from stock [volatility](../v/volatility.md).
 
 ## Conclusion
 
 The Orange Book is indispensable for anyone involved in pharmaceutical [finance](../f/finance.md) and trading. It offers a treasure trove of information that can significantly influence [market dynamics](../m/market_dynamics.md), stock valuations, and investment strategies. By understanding its nuances and how to harness its data, investors, analysts, and traders can make more informed and strategic decisions.
 
 For further details and reference:
-[U.S. Food & Drug Administration - Orange Book](https://www.accessdata.fda.gov/scripts/cder/ob/)
+U.S. Food & Drug Administration - Orange Book

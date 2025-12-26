@@ -111,6 +111,6 @@ Many UHNWIs engage in philanthropic activities through:
 
 ## Conclusion
 
-Ultra-High Net-Worth Individuals play a pivotal role in the global [economy](../e/economy.md), influencing markets, driving innovation, and contributing to societal development through [philanthropy](../p/philanthropy.md). Financial institutions and advisors must employ sophisticated strategies to cater to their unique needs, ensuring the effective management and growth of their substantial [wealth](../w/wealth.md). 
+Ultra-High Net-Worth Individuals play a pivotal role in the global [economy](../e/economy.md), influencing markets, driving innovation, and contributing to societal development through [philanthropy](../p/philanthropy.md). Financial institutions and advisors must employ sophisticated strategies to cater to their unique needs, ensuring the effective management and growth of their substantial [wealth](../w/wealth.md).
 
-For more detailed information about services provided to UHNWIs, you can refer to financial institutions like [UBS](../u/ubs.md) [here](https://www.ubs.com/global/en.html) and [Credit](../c/credit.md) Suisse [here](https://www.credit-suisse.com/).
+For more detailed information about services provided to UHNWIs, you can refer to financial institutions like [UBS](../u/ubs.md) here and [Credit](../c/credit.md) Suisse here.

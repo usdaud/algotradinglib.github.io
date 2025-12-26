@@ -19,22 +19,22 @@ The basic formula to calculate [Earnings](../e/earnings.md) Power [Value](../v/v
 ### Steps to Calculate EPV
 
 1. **Determine [Normalized Earnings](../n/normalized_earnings.md):**
-   - Start with [Operating Income](../o/operating_income.md) (EBIT).
-   - Adjust for non-recurring and irregular items like impairments, restructurings, and other one-time charges.
-   - [Factor](../f/factor.md) in cyclical adjustments if the company operates in an [industry](../i/industry.md) with significant cyclical fluctuations.
+ - Start with [Operating Income](../o/operating_income.md) (EBIT).
+ - Adjust for non-recurring and irregular items like impairments, restructurings, and other one-time charges.
+ - [Factor](../f/factor.md) in cyclical adjustments if the company operates in an [industry](../i/industry.md) with significant cyclical fluctuations.
 
 2. **Calculate the [Weighted Average](../w/weighted_average.md) [Cost of Capital](../c/cost_of_capital.md) (WACC):**
-    - WACC is calculated using the formula: \[ \text{WACC} = \left( \frac{E}{V} \times R_e \right) + \left( \frac{D}{V} \times R_d \times (1 - T) \right) \]
-    - Where:
-        - E is the [market value of equity](../m/market_value_of_equity.md)
-        - V is the total [market value](../m/market_value.md) of the company's [financing](../f/financing.md) ([Equity](../e/equity.md) + [Debt](../d/debt.md))
-        - R_e is the [cost of equity](../c/cost_of_equity.md)
-        - D is the [market value](../m/market_value.md) of [debt](../d/debt.md)
-        - R_d is the [cost of debt](../c/cost_of_debt.md)
-        - T is the [corporate tax](../c/corporate_tax.md) rate
+ - WACC is calculated using the formula: \[ \text{WACC} = \left( \frac{E}{V} \times R_e \right) + \left( \frac{D}{V} \times R_d \times (1 - T) \right) \]
+ - Where:
+ - E is the [market value of equity](../m/market_value_of_equity.md)
+ - V is the total [market value](../m/market_value.md) of the company's [financing](../f/financing.md) ([Equity](../e/equity.md) + [Debt](../d/debt.md))
+ - R_e is the [cost of equity](../c/cost_of_equity.md)
+ - D is the [market value](../m/market_value.md) of [debt](../d/debt.md)
+ - R_d is the [cost of debt](../c/cost_of_debt.md)
+ - T is the [corporate tax](../c/corporate_tax.md) rate
 
 3. **Plug Values into the EPV Formula:**
-   - Insert the [normalized earnings](../n/normalized_earnings.md) and WACC into the EPV formula to obtain the [Earnings](../e/earnings.md) Power [Value](../v/value.md).
+ - Insert the [normalized earnings](../n/normalized_earnings.md) and WACC into the EPV formula to obtain the [Earnings](../e/earnings.md) Power [Value](../v/value.md).
 
 ### Pros and Cons of EPV
 
@@ -71,14 +71,14 @@ Consider a [manufacturing](../m/manufacturing.md) company, XYZ Corp, with the fo
 **Step-by-Step Calculation:**
 
 1. **[Normalized Earnings](../n/normalized_earnings.md):**
-   \[ \text{[Normalized Earnings](../n/normalized_earnings.md)} = \text{[Operating Income](../o/operating_income.md)} + \text{Non-recurring items} = \$100 \text{ million} + \$10 \text{ million} = \$110 \text{ million} \]
+ \[ \text{[Normalized Earnings](../n/normalized_earnings.md)} = \text{[Operating Income](../o/operating_income.md)} + \text{Non-recurring items} = \$100 \text{ million} + \$10 \text{ million} = \$110 \text{ million} \]
 
 2. **Calculate WACC:**
-   \[ \text{WACC} = \left( \frac{500}{700} \times 0.10 \right) + \left( \frac{200}{700} \times 0.05 \times (1-0.30) \right) \]
-   \[ \text{WACC} = 0.0714 + 0.0021 = 0.0735 \text{ or } 7.35\% \]
+ \[ \text{WACC} = \left( \frac{500}{700} \times 0.10 \right) + \left( \frac{200}{700} \times 0.05 \times (1-0.30) \right) \]
+ \[ \text{WACC} = 0.0714 + 0.0021 = 0.0735 \text{ or } 7.35\% \]
 
 3. **Calculate EPV:**
-   \[ \text{EPV} = \frac{\$110 \text{ million}}{0.0735} = \$1.496 \text{ billion} \]
+ \[ \text{EPV} = \frac{\$110 \text{ million}}{0.0735} = \$1.496 \text{ billion} \]
 
 Therefore, the [Earnings](../e/earnings.md) Power [Value](../v/value.md) of XYZ Corp is approximately $1.496 billion.
 
@@ -111,14 +111,14 @@ A practical example of EPV application can be seen with General Electric (GE). L
 **Step-by-Step Calculation:**
 
 1. **[Normalized Earnings](../n/normalized_earnings.md):**
-   \[ \text{[Normalized Earnings](../n/normalized_earnings.md)} = \$15 \text{ billion} + \$3 \text{ billion} = \$18 \text{ billion} \]
+ \[ \text{[Normalized Earnings](../n/normalized_earnings.md)} = \$15 \text{ billion} + \$3 \text{ billion} = \$18 \text{ billion} \]
 
 2. **Calculate WACC:**
-   \[ \text{WACC} = \left( \frac{90}{140} \times 0.08 \right) + \left( \frac{50}{140} \times 0.04 \times (1-0.25) \right) \]
-   \[ \text{WACC} = 0.0514 + 0.0107 = 0.0621 \text{ or } 6.21\% \]
+ \[ \text{WACC} = \left( \frac{90}{140} \times 0.08 \right) + \left( \frac{50}{140} \times 0.04 \times (1-0.25) \right) \]
+ \[ \text{WACC} = 0.0514 + 0.0107 = 0.0621 \text{ or } 6.21\% \]
 
 3. **Calculate EPV:**
-   \[ \text{EPV} = \frac{\$18 \text{ billion}}{0.0621} = \$289.85 \text{ billion} \]
+ \[ \text{EPV} = \frac{\$18 \text{ billion}}{0.0621} = \$289.85 \text{ billion} \]
 
 Thus, the EPV of General Electric is approximately $289.85 billion.
 

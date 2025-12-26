@@ -6,7 +6,7 @@ In the realm of [finance](../f/finance.md), the term "accruals" refers to the [a
 
 ### Definition and Concept
 
-Accruals encompass revenues and expenses that are recognized when earned or incurred, but before cash moves in or out of a company. Essentially, this means that financial activities are recorded at the time of the event, providing a more accurate representation of a company’s financial position and operations during a given period. 
+Accruals encompass revenues and expenses that are recognized when earned or incurred, but before cash moves in or out of a company. Essentially, this means that financial activities are recorded at the time of the event, providing a more accurate representation of a company’s financial position and operations during a given period.
 
 For instance, suppose a company delivers a service in December but won’t receive [payment](../p/payment.md) until January. Under the accrual [basis](../b/basis.md), the [transaction](../t/transaction.md) would be recorded in December when the service was provided, not in January when the cash was received.
 
@@ -41,7 +41,7 @@ Accrued expenses, on the other hand, represent costs that have been incurred but
 
 ### Recording Accruals
 
-The process of recording accruals involves making adjusting entries at the end of an [accounting](../a/accounting.md) period. These entries ensure that revenues and expenses are appropriately matched to the period they pertain to. 
+The process of recording accruals involves making adjusting entries at the end of an [accounting](../a/accounting.md) period. These entries ensure that revenues and expenses are appropriately matched to the period they pertain to.
 
 For accrued revenues, an adjusting entry typically debits an [asset](../a/asset.md) account (e.g., Accounts [Receivable](../r/receivable.md)) and credits a [revenue](../r/revenue.md) account. For accrued expenses, an adjusting entry typically debits an [expense](../e/expense.md) account (e.g., Salary [Expense](../e/expense.md)) and credits a [liability](../l/liability.md) account (e.g., Wages Payable).
 
@@ -96,17 +96,17 @@ Maintaining rigorous adherence to accrual [accounting principles](../a/accountin
 
 ## Example Companies Implementing Accrual Accounting
 
-### Microsoft 
+### Microsoft
 
-As a technology giant, Microsoft (https://www.microsoft.com) follows GAAP, employing [accrual accounting](../a/accrual_accounting.md) to record its financial transactions. This ensures that the company’s [financial statements](../f/financial_statements.md) reflect accurately its vast array of products and services, from licensing fees to [cloud computing](../c/cloud_computing_in_trading.md) revenues and substantial R&D expenditures.
+As a technology giant, Microsoft ( follows GAAP, employing [accrual accounting](../a/accrual_accounting.md) to record its financial transactions. This ensures that the company’s [financial statements](../f/financial_statements.md) reflect accurately its vast array of products and services, from licensing fees to [cloud computing](../c/cloud_computing_in_trading.md) revenues and substantial R&D expenditures.
 
 ### Apple Inc.
 
-Apple Inc. (https://www.apple.com) also adheres to accrual [accounting principles](../a/accounting_principles.md). Given its complex [revenue](../r/revenue.md) streams from product sales, services, and software, [accrual accounting](../a/accrual_accounting.md) enables Apple to match revenues with corresponding expenses, delivering a true picture of its [financial performance](../f/financial_performance.md).
+Apple Inc. ( also adheres to accrual [accounting principles](../a/accounting_principles.md). Given its complex [revenue](../r/revenue.md) streams from product sales, services, and software, [accrual accounting](../a/accrual_accounting.md) enables Apple to match revenues with corresponding expenses, delivering a true picture of its [financial performance](../f/financial_performance.md).
 
 ### Amazon
 
-Amazon (https://www.amazon.com) employs [accrual accounting](../a/accrual_accounting.md) to manage its diverse and extensive operations, from [retail sales](../r/retail_sales.md) and streaming services to AWS [cloud computing](../c/cloud_computing_in_trading.md). This method ensures that all financial activities are recorded accurately, supporting Amazon’s strategic decision-making processes.
+Amazon ( employs [accrual accounting](../a/accrual_accounting.md) to manage its diverse and extensive operations, from [retail sales](../r/retail_sales.md) and streaming services to AWS [cloud computing](../c/cloud_computing_in_trading.md). This method ensures that all financial activities are recorded accurately, supporting Amazon’s strategic decision-making processes.
 
 ## Conclusion
 

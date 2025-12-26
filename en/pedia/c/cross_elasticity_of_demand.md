@@ -1,6 +1,6 @@
 # Cross Elasticity of Demand
 
-Cross [elasticity](../e/elasticity.md) of [demand](../d/demand.md) (XeD) measures the responsiveness of the [quantity demanded](../q/quantity_demanded.md) for one good when the price of another good changes. This concept is essential in [economics](../e/economics.md) for understanding how products compete and how they can be substituted or complemented. 
+Cross [elasticity](../e/elasticity.md) of [demand](../d/demand.md) (XeD) measures the responsiveness of the [quantity demanded](../q/quantity_demanded.md) for one good when the price of another good changes. This concept is essential in [economics](../e/economics.md) for understanding how products compete and how they can be substituted or complemented.
 
 ## Definition and Formula
 
@@ -50,7 +50,7 @@ Independent goods have a cross [elasticity](../e/elasticity.md) of [demand](../d
 Understanding cross [elasticity](../e/elasticity.md) of [demand](../d/demand.md) helps businesses and economists:
 
 - **Pricing Strategies**: Companies can set prices based on how a change in their pricing might affect the [demand](../d/demand.md) for their product and its substitutes or complements.
-  
+
 - **[Product Line](../p/product_line.md) Decisions**: Firms can decide whether to introduce new products that are complements to existing products or substitutes.
 
 - **[Market](../m/market.md) Competition**: Helps in understanding the competitive landscape and how pricing strategies of rivals affect their [market share](../m/market_share.md).
@@ -90,7 +90,7 @@ Consider laptops and related peripherals such as docking stations and external m
 In [macroeconomics](../m/macroeconomics.md), cross [elasticity](../e/elasticity.md) of [demand](../d/demand.md) is also crucial for understanding broader economic behaviors:
 
 - **Policy Making**: Governments analyze cross [elasticity](../e/elasticity.md) while implementing [taxes](../t/taxes.md) or subsidies. For instance, taxing unhealthy food products could impact the [demand](../d/demand.md) for their substitutes or complements.
-  
+
 - **[Trade](../t/trade.md) Policies**: Understanding cross [elasticity](../e/elasticity.md) helps in international [trade](../t/trade.md) policies. Changes in tariffs on one product influence the [demand](../d/demand.md) for [substitute](../s/substitute.md) or complementary imported goods.
 
 ## Challenges and Limitations

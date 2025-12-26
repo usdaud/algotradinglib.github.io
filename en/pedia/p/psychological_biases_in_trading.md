@@ -76,7 +76,7 @@ Status quo bias is the preference for the current state of affairs, leading to r
 
 ## 10. Availability Heuristic
 
-The availability heuristic is a mental shortcut where individuals estimate the likelihood of events based on how easily examples come to mind. 
+The availability heuristic is a mental shortcut where individuals estimate the likelihood of events based on how easily examples come to mind.
 
 ### Manifestation of Availability Heuristic in Trading
 - **Overestimating Unlikely Events**: Traders might overestimate the probability of dramatic [market](../m/market.md) movements if recent news or events are fresh in their memory.
@@ -95,12 +95,12 @@ The availability heuristic is a mental shortcut where individuals estimate the l
 ## Prominent Companies in Algorithmic Trading
 
 ### 1. Renaissance Technologies
-Renaissance Technologies, often referred to as the [gold standard](../g/gold_standard.md) in [algorithmic trading](../a/algorithmic_trading.md), leverages complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market anomalies](../m/market_anomalies.md). [Website](https://www.rentec.com/)
+Renaissance Technologies, often referred to as the [gold standard](../g/gold_standard.md) in [algorithmic trading](../a/algorithmic_trading.md), leverages complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market anomalies](../m/market_anomalies.md). online platform
 
 ### 2. Two Sigma
-Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and research for [investment management](../i/investment_management.md), aimed at dispassionately making decisions based on data. [Website](https://www.twosigma.com/)
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and research for [investment management](../i/investment_management.md),
 
 ### 3. Citadel LLC
-Citadel engages in multi-strategy trading using algorithmic techniques alongside statistical [arbitrage](../a/arbitrage.md) among others to maximize returns. [Website](https://www.citadel.com/)
+Citadel engages in multi-strategy trading using algorithmic techniques alongside statistical [arbitrage](../a/arbitrage.md)
 
 In summary, while psychological biases are a significant challenge in trading, particularly in algorithmic settings, awareness and strategic measures can ameliorate their impact. By leveraging rigorous testing, diverse data, and adaptive models, traders and companies can better navigate the complex psychological landscape of trading.

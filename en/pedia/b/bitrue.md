@@ -15,9 +15,9 @@ Founded in July 2018, Bitrue quickly gained recognition in the crypto community 
 3. **[Security](../s/security.md) Measures**: Bitrue employs [multiple](../m/multiple.md) layers of [security](../s/security.md), including two-[factor](../f/factor.md) authentication (2FA), multi-signature wallets, and rigorous [risk management](../r/risk_management.md) protocols, ensuring the safety of user assets and data.
 
 4. **Financial Services**: Beyond basic trading, Bitrue offers various financial products such as:
-   - **Power Piggy**: A flexible [investment product](../i/investment_product.md) enabling users to earn [interest](../i/interest.md) on their crypto [holdings](../h/holdings.md).
-   - **Crypto Loans**: Users can [leverage](../l/leverage.md) their cryptocurrencies by borrowing against them, allowing [liquidity](../l/liquidity.md) without the need to sell their assets.
-   - **Staking Services**: Opportunities for users to earn rewards by participating in staking pools for various cryptocurrencies.
+ - **Power Piggy**: A flexible [investment product](../i/investment_product.md) enabling users to earn [interest](../i/interest.md) on their crypto [holdings](../h/holdings.md).
+ - **Crypto Loans**: Users can [leverage](../l/leverage.md) their cryptocurrencies by borrowing against them, allowing [liquidity](../l/liquidity.md) without the need to sell their assets.
+ - **Staking Services**: Opportunities for users to earn rewards by participating in staking pools for various cryptocurrencies.
 
 5. **[Customer](../c/customer.md) Support**: Bitrue offers 24/7 [customer](../c/customer.md) support, ensuring users receive timely assistance for any issues or queries.
 
@@ -100,8 +100,6 @@ Bitrue’s roadmap outlines ambitious plans for the future, focusing on expandin
 - **Enhanced Trading Tools**: The platform plans to introduce advanced trading tools and analytics, catering to the needs of professional traders.
 - **Global [Expansion](../e/expansion.md)**: By expanding its presence in new regions and forging strategic partnerships, Bitrue aims to grow its user base and enhance access to its services worldwide.
 - **Mobile App Enhancements**: Continuous improvements to the mobile app experience, ensuring it remains a powerful and convenient tool for users on the go.
-
-For more information, visit the official Bitrue website: [Bitrue](https://www.bitrue.com/)
 
 ---
 

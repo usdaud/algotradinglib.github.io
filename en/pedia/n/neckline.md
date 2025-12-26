@@ -94,7 +94,7 @@ Incorporating additional [technical indicators](../t/technical_indicator.md) suc
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the identification and interpretation of the neckline can be automated using scripts and [trading algorithms](../t/trading_algorithms.md). Algorithms can scan for head and shoulders or [inverse head and shoulders](../i/inverse_head_and_shoulders.md) patterns across [multiple](../m/multiple.md) securities, execute trades upon pattern confirmation, and manage trades based on predefined [risk management](../r/risk_management.md) rules.
+In [algorithmic trading](../a/algorithmic_trading.md), the identification and interpretation of the neckline can be automated using scripts and [trading algorithms](../t/trading_algorithms.md). Algorithms can scan for head and shoulders or [inverse head and shoulders](../i/inverse_head_and_shoulders.md) patterns across [multiple](../m/multiple.md) securities, execute trades upon pattern confirmation, and manage trades based on predefined [risk management](../r/risk_management.md) rules.
 
 ### Machine Learning and AI
 

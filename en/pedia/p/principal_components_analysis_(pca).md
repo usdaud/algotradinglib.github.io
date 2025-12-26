@@ -6,7 +6,7 @@ Introduction to [Principal Components](../p/principal_components_in_trading.md) 
 ---------------------------------------------------
 
 ### Definition and Origin
-PCA is a technique used in exploratory data analysis and for making [predictive models](../p/predictive_models_in_trading.md). It was introduced by Karl Pearson in 1901 and has since become a fundamental tool in [statistics](../s/statistics.md), [machine learning](../m/machine_learning.md), and [data mining](../d/data_mining.md). PCA achieves [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) by identifying the directions ([principal components](../p/principal_components_in_trading.md)) in which the data varies the most. 
+PCA is a technique used in exploratory data analysis and for making [predictive models](../p/predictive_models_in_trading.md). It was introduced by Karl Pearson in 1901 and has since become a fundamental tool in [statistics](../s/statistics.md), [machine learning](../m/machine_learning.md), and [data mining](../d/data_mining.md). PCA achieves [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) by identifying the directions ([principal components](../p/principal_components_in_trading.md)) in which the data varies the most.
 
 ### Mathematical Foundation
 PCA relies on eigenvectors and eigenvalues:
@@ -82,15 +82,13 @@ Limitations of PCA in [Algorithmic Trading](../a/algorithmic_trading.md)
 4. **Variance Requirement**: [Principal components](../p/principal_components_in_trading.md) explaining most of the variance may not always capture the most critical aspects for trading decisions.
 5. **Sensitivity to Outliers**: [Principal components](../p/principal_components_in_trading.md) can be significantly affected by outliers, potentially misleading the analysis.
 
-Notable Companies Using PCA in Trading
 --------------------------------------
 
-1. **Two Sigma Investments**: A quantitative [hedge fund](../h/hedge_fund.md) relying heavily on [machine learning](../m/machine_learning.md) and [statistics](../s/statistics.md), including PCA, for [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com/)
-2. **Renaissance Technologies**: Known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including PCA, to drive their Medallion [Fund](../f/fund.md). [Website](https://www.rentec.com/)
-3. **DE Shaw**: Uses advanced statistical techniques like PCA for trading and [risk management](../r/risk_management.md) strategies. [Website](https://www.deshaw.com/)
-4. **Citadel**: Integrates PCA into their [algorithmic trading](../a/algorithmic_trading.md) strategies for enhanced portfolio construction and [risk management](../r/risk_management.md). [Website](https://www.citadel.com/)
+1. **Two Sigma Investments**: A quantitative [hedge fund](../h/hedge_fund.md) relying heavily on [machine learning](../m/machine_learning.md) and [statistics](../s/statistics.md), including PCA, for [trading strategies](../t/trading_strategies.md). online platform
+2. **Renaissance Technologies**: Known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including PCA, to drive their Medallion [Fund](../f/fund.md). online platform
+3. **DE Shaw**: Uses advanced statistical techniques like PCA for trading and [risk management](../r/risk_management.md)
+4. **Citadel**: Integrates PCA into their [algorithmic trading](../a/algorithmic_trading.md) strategies for enhanced portfolio construction and [risk management](../r/risk_management.md). online platform
 
-Conclusion
 ----------
 
 PCA is a potent tool in the arsenal of algorithmic traders. By distilling high-dimensional data into its most informative components, PCA not only improves the efficacy of [trading models](../t/trading_models.md) but also makes them more manageable and interpretable. Despite its limitations, the benefits of PCA in handling large, complex datasets make it invaluable in developing sophisticated and profitable [trading strategies](../t/trading_strategies.md). As [financial markets](../f/financial_market.md) continue to evolve, the application of PCA in [algorithmic trading](../a/algorithmic_trading.md) remains a critical area for ongoing research and development.

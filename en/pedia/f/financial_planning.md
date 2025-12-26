@@ -4,7 +4,7 @@
 
 ## Importance of Financial Planning in Algorithmic Trading
 
-Financial planning plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by orchestrating the alignment of financial strategies with trading goals. Effective financial planning ensures that resources—both monetary and computational—are optimally allocated, [risk](../r/risk.md) is managed efficiently, and returns are maximized. 
+Financial planning plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by orchestrating the alignment of financial strategies with trading goals. Effective financial planning ensures that resources—both monetary and computational—are optimally allocated, [risk](../r/risk.md) is managed efficiently, and returns are maximized.
 
 ### Capital Allocation
 
@@ -69,15 +69,15 @@ Advancements in technology have revolutionized financial planning in [algorithmi
 
 These tools provide a comprehensive view of all [trading strategies](../t/trading_strategies.md), allowing for real-time tracking and [rebalancing](../r/rebalancing.md). Examples include:
 
-- **MetaTrader**: A popular platform providing powerful tools for trading and [technical analysis](../t/technical_analysis.md) (https://www.[metatrader4](../m/metatrader4.md).com/)
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides a [backtesting](../b/backtesting.md) and research environment (https://www.[quantconnect](../q/quantconnect.md).com/)
+- **MetaTrader**: A popular platform providing powerful tools for trading and [technical analysis](../t/technical_analysis.md) (
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides a [backtesting](../b/backtesting.md) and research environment
 
 ### Risk Management Systems
 
 [Risk management](../r/risk_management.md) systems help traders quantify and manage the [risk](../r/risk.md) of their portfolios. Some common solutions are:
 
-- **RiskMetrics**: A suite of [financial risk management](../f/financial_risk_management.md) software that quantifies [multiple](../m/multiple.md) types of [financial risk](../f/financial_risk.md) (https://www.riskmetrics.com/)
-- **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that offers integrated [risk management](../r/risk_management.md) tools (https://www.[algotrader](../a/algotrader.md).com/)
+- **RiskMetrics**: A suite of [financial risk management](../f/financial_risk_management.md) software that quantifies [multiple](../m/multiple.md) types of [financial risk](../f/financial_risk.md) (
+- **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that offers integrated [risk management](../r/risk_management.md) tools (
 
 ### Data Analytics Tools
 
@@ -92,11 +92,11 @@ Several companies and funds specialize in [algorithmic trading](../a/algorithmic
 
 ### Renaissance Technologies
 
-Founded by Jim Simons, Renaissance Technologies is renowned for its wildly successful Medallion [Fund](../f/fund.md). The [fund](../f/fund.md)’s success showcases the importance of rigorous financial planning, particularly in effective [risk management](../r/risk_management.md) and continuous algorithm improvement (https://www.rentec.com/[home](../h/home.md)).
+Founded by Jim Simons, Renaissance Technologies is renowned for its wildly successful Medallion [Fund](../f/fund.md). The [fund](../f/fund.md)’s success showcases the importance of rigorous financial planning, particularly in effective [risk management](../r/risk_management.md) and continuous algorithm improvement (
 
 ### Two Sigma
 
-Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to predict the future price movements of securities. They emphasize efficient [capital allocation](../c/capital_allocation.md) and [risk management](../r/risk_management.md) in their financial planning to ensure the sustainability and profitability of their strategies (https://www.twosigma.com/).
+Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to predict the future price movements of securities. They emphasize efficient [capital allocation](../c/capital_allocation.md) and [risk management](../r/risk_management.md) in their financial planning to ensure the sustainability and profitability of their strategies (
 
 ## Conclusion
 

@@ -46,27 +46,27 @@ Several trading platforms and tools provide the capability to create and utilize
 
 ### 1. TradingView
 [TradingView](../t/tradingview.md) offers customizable Kagi Charts, allowing traders to easily set their [reversal](../r/reversal.md) criteria and integrate various [technical indicators](../t/technical_indicator.md).
-Website: [TradingView](https://www.tradingview.com)
+online platform: TradingView
 
 ### 2. MetaTrader
 MetaTrader platforms (MT4 and MT5) support Kagi Charts through various plugins and indicators, allowing for versatile [trading strategies](../t/trading_strategies.md).
-Website: [MetaTrader](https://www.metatrader4.com)
+online platform: MetaTrader
 
 ### 3. NinjaTrader
 [NinjaTrader](../n/ninjatrader.md) provides sophisticated charting tools including Kagi Charts, enabling traders to perform detailed [technical analysis](../t/technical_analysis.md).
-Website: [NinjaTrader](https://ninjatrader.com)
+online platform: NinjaTrader
 
 ## Steps to Create a Kagi Chart
 
 1. **Select an [Asset](../a/asset.md):** Choose the [asset](../a/asset.md) for which you want to create the Kagi Chart.
 2. **Specify [Reversal](../r/reversal.md) Criteria:** Set the [reversal](../r/reversal.md) criterion, which could be a fixed amount (e.g., $1) or a percentage.
-3. **Plot Initial Line:** Start plotting from the initial price. 
+3. **Plot Initial Line:** Start plotting from the initial price.
 4. **Monitor Price Movements:** Plot vertical lines representing price movements. Horizontal lines are drawn only when the price changes direction.
 5. **Change Line Thickness:** Adjust line thickness when prices cross previous highs (for yang lines) or lows (for yin lines).
 
 ## Example Analysis using a Kagi Chart
 
-Imagine analyzing a stock with the following price movements: 
+Imagine analyzing a stock with the following price movements:
 
 - Start at $100
 - Move up to $105

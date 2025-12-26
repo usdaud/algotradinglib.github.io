@@ -11,29 +11,29 @@
 ### Key Components
 
 1. **[Income](../i/income.md) from Earning Assets**:
-   This includes all [interest](../i/interest.md) and [fee](../f/fee.md) [income](../i/income.md) derived from the [firm](../f/firm.md)'s [interest](../i/interest.md)-bearing assets. These assets may comprise loans, leases, [mortgage](../m/mortgage.md)-backed securities, bonds, and other investment vehicles that generate periodic [income](../i/income.md).
+ This includes all [interest](../i/interest.md) and [fee](../f/fee.md) [income](../i/income.md) derived from the [firm](../f/firm.md)'s [interest](../i/interest.md)-bearing assets. These assets may comprise loans, leases, [mortgage](../m/mortgage.md)-backed securities, bonds, and other investment vehicles that generate periodic [income](../i/income.md).
 
 2. **Average Earning Assets**:
-   This is the average [value](../v/value.md) of [interest](../i/interest.md)-earning assets held by the [firm](../f/firm.md) over the reporting period. It is calculated by averaging the beginning and ending balances of the earning assets for the period, which can be a quarter or a year.
+ This is the average [value](../v/value.md) of [interest](../i/interest.md)-earning assets held by the [firm](../f/firm.md) over the reporting period. It is calculated by averaging the beginning and ending balances of the earning assets for the period, which can be a quarter or a year.
 
 ### Importance of Yield on Earning Assets
 
 [Yield](../y/yield.md) on earning assets is a key [indicator](../i/indicator.md) of a [firm](../f/firm.md)'s [financial health](../f/financial_health.md) and [efficiency](../e/efficiency.md) for several reasons:
 
 1. **Profitability Measurement**:
-   Higher yields imply that a company is efficiently generating [income](../i/income.md) from its assets, contributing directly to its profitability.
+ Higher yields imply that a company is efficiently generating [income](../i/income.md) from its assets, contributing directly to its profitability.
 
 2. **[Comparative Analysis](../c/comparative_analysis.md)**:
-   Investors and analysts often compare the YEA of different banks to evaluate which institution is potentially a better investment. Higher yields can indicate better [asset management](../a/asset_management.md) and lending strategies.
+ Investors and analysts often compare the YEA of different banks to evaluate which institution is potentially a better investment. Higher yields can indicate better [asset management](../a/asset_management.md) and lending strategies.
 
 3. **[Risk](../r/risk.md) Assessment**:
-   A higher [yield](../y/yield.md) might suggest a more aggressive lending strategy, which could be associated with higher [risk](../r/risk.md). Conversely, a lower [yield](../y/yield.md) might indicate more conservative [asset management](../a/asset_management.md).
+ A higher [yield](../y/yield.md) might suggest a more aggressive lending strategy, which could be associated with higher [risk](../r/risk.md). Conversely, a lower [yield](../y/yield.md) might indicate more conservative [asset management](../a/asset_management.md).
 
 4. **[Interest Rate](../i/interest_rate.md) Environment**:
-   The YEA can help assess how well a [firm](../f/firm.md) adapts to changing [interest](../i/interest.md) rates. For instance, in a rising [interest rate](../i/interest_rate.md) environment, a [firm](../f/firm.md) that can maintain or increase its YEA is effectively managing its [interest rate risk](../i/interest_rate_risk.md).
+ The YEA can help assess how well a [firm](../f/firm.md) adapts to changing [interest](../i/interest.md) rates. For instance, in a rising [interest rate](../i/interest_rate.md) environment, a [firm](../f/firm.md) that can maintain or increase its YEA is effectively managing its [interest rate risk](../i/interest_rate_risk.md).
 
 5. **Management [Efficiency](../e/efficiency.md)**:
-   The metric reflects the management’s capability in deploying assets to generate returns, which is a crucial [factor](../f/factor.md) for long-term sustainability.
+ The metric reflects the management’s capability in deploying assets to generate returns, which is a crucial [factor](../f/factor.md) for long-term sustainability.
 
 ### Examples and Applications
 
@@ -45,9 +45,9 @@ Consider two banks, [Bank](../b/bank.md) A and [Bank](../b/bank.md) B, both with
 Using the formula:
 
 - **[Bank](../b/bank.md) A's YEA**:
-  \[ \left( \frac{50,000,000}{1,000,000,000} \right) \times 100 = 5\% \]
+ \[ \left( \frac{50,000,000}{1,000,000,000} \right) \times 100 = 5\% \]
 - **[Bank](../b/bank.md) B's YEA**:
-  \[ \left( \frac{40,000,000}{1,000,000,000} \right) \times 100 = 4\% \]
+ \[ \left( \frac{40,000,000}{1,000,000,000} \right) \times 100 = 4\% \]
 
 [Bank](../b/bank.md) A has a higher [yield](../y/yield.md) on earning assets (5%) compared to [Bank](../b/bank.md) B (4%), indicating [Bank](../b/bank.md) A is more efficient at generating [income](../i/income.md) from its assets.
 

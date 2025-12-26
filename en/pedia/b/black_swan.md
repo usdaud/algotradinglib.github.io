@@ -65,15 +65,15 @@ One approach to dealing with the unpredictability of [Black Swan events](../b/bl
 
 Several companies specialize in [risk management](../r/risk_management.md) and the development of [robust](../r/robust.md) algo [trading systems](../t/trading_systems.md) that can withstand [Black Swan events](../b/black_swan_events.md). Some of these include:
 
-1. **Bridgewater Associates**: Founded by Ray Dalio, this [hedge fund](../h/hedge_fund.md) places considerable emphasis on [risk parity](../r/risk_parity.md) strategies and diversified portfolios. More information can be found on their [official website](https://www.bridgewater.com/).
+1. **Bridgewater Associates**: Founded by Ray Dalio, this [hedge fund](../h/hedge_fund.md) places considerable emphasis on [risk parity](../r/risk_parity.md) strategies and diversified portfolios.
 
-2. **AQR [Capital](../c/capital.md) Management**: Led by Cliff Asness, this [firm](../f/firm.md) employs [quantitative research](../q/quantitative_research.md) to develop strategies that aim to mitigate the impact of extreme [market](../m/market.md) events. More information can be found on their [official website](https://www.aqr.com/).
+2. **AQR [Capital](../c/capital.md) Management**: Led by Cliff Asness, this [firm](../f/firm.md) employs [quantitative research](../q/quantitative_research.md) to develop strategies that aim to mitigate the impact of extreme [market](../m/market.md) events.
 
-3. **Two Sigma**: This [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and large datasets to create [adaptive algorithms](../a/adaptive_algorithms.md) designed to function under various [market](../m/market.md) conditions. More information can be found on their [official website](https://www.twosigma.com/).
+3. **Two Sigma**: This [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and large datasets to create [adaptive algorithms](../a/adaptive_algorithms.md) designed to function under various [market](../m/market.md) conditions.
 
-4. **Numerai**: This [hedge fund](../h/hedge_fund.md) leverages crowdsourced [data science](../d/data_science_in_trading.md) contributions to build more [robust](../r/robust.md) [trading models](../t/trading_models.md). More information can be found on their [official website](https://numer.ai/).
+4. **Numerai**: This [hedge fund](../h/hedge_fund.md) leverages crowdsourced [data science](../d/data_science_in_trading.md) contributions to build more [robust](../r/robust.md) [trading models](../t/trading_models.md).
 
-5. **The Black Swan Group**: Founded by Nassim Nicholas Taleb, this [firm](../f/firm.md) offers consulting services focused on [risk management](../r/risk_management.md) and the mitigation of the impact of [Black Swan events](../b/black_swan_events.md). More information can be found on their [official website](https://www.blackswanrisk.com/).
+5. **The Black Swan Group**: Founded by Nassim Nicholas Taleb, this [firm](../f/firm.md) offers consulting services focused on [risk management](../r/risk_management.md) and the mitigation of the impact of [Black Swan events](../b/black_swan_events.md).
 
 ## Conclusion
 

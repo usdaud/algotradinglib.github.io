@@ -1,6 +1,6 @@
 # Personal Trading Journals
 
-Personal [trading journals](../t/trading_journals.md) are indispensable tools for traders who are looking to consistently improve their [trading performance](../t/trading_performance.md). These journals serve as records where traders document their trades, [performance metrics](../p/performance_metrics.md), psychological states, and various strategic insights. The aim is to provide a structure for self-reflection and continuous learning that ultimately translates into better trading outcomes. 
+Personal [trading journals](../t/trading_journals.md) are indispensable tools for traders who are looking to consistently improve their [trading performance](../t/trading_performance.md). These journals serve as records where traders document their trades, [performance metrics](../p/performance_metrics.md), psychological states, and various strategic insights. The aim is to provide a structure for self-reflection and continuous learning that ultimately translates into better trading outcomes.
 
 ## The Importance of a Personal Trading Journal
 
@@ -18,7 +18,7 @@ In addition to emotional tracking and performance analysis, [trading journals](.
 
 ## Components of a Personal Trading Journal
 
-A comprehensive personal trading [journal](../j/journal.md) typically includes several key components that collectively provide a holistic view of trading activities. 
+A comprehensive personal trading [journal](../j/journal.md) typically includes several key components that collectively provide a holistic view of trading activities.
 
 ### Trade Log
 
@@ -69,9 +69,9 @@ Many traders opt for spreadsheet software like Microsoft Excel or Google Sheets 
 
 There are various specialized software solutions designed specifically for [trading journals](../t/trading_journals.md). These tools often come with features like automated [trade](../t/trade.md) [import](../i/import.md), [performance analytics](../p/performance_analytics.md), and detailed reporting. Some of these include:
 
-- **Edgewonk:** [Edgewonk Official Website](https://edgewonk.com)
-- **TraderSync:** [TraderSync Official Website](https://www.tradersync.com)
-- **Tradervue:** [Tradervue Official Website](https://www.tradervue.com)
+- **Edgewonk:**
+- **TraderSync:**
+- **Tradervue:**
 
 ## Best Practices
 
@@ -154,4 +154,3 @@ The level of detail matters. The more granular the information, the more insight
 ## Conclusion
 
 Personal [trading journals](../t/trading_journals.md) are invaluable for any [trader](../t/trader.md) committed to continuous improvement. By enabling detailed performance analysis, providing psychological insights, and facilitating strategic development, these journals can significantly enhance trading efficacy. Utilizing tools ranging from simple spreadsheets to specialized software can suit various needs and preferences, while adhering to [best practices](../b/best_practices.md) ensures that the journals serve their intended purpose effectively. Consistent use of a personal trading [journal](../j/journal.md) is a hallmark of disciplined and successful trading.
-

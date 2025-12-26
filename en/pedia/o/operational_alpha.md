@@ -5,7 +5,7 @@ Operational [Alpha](../a/alpha.md) is a specialized term primarily used in the c
 ## Key Components of Operational Alpha
 
 ### Process Optimization
-One of the fundamental components of achieving Operational [Alpha](../a/alpha.md) is the continuous improvement and [optimization](../o/optimization.md) of existing trading processes. This includes streamlining workflows, reducing latency, minimizing [market](../m/market.md) impact, and developing more efficient [trading algorithms](../t/trading_algorithms.md). 
+One of the fundamental components of achieving Operational [Alpha](../a/alpha.md) is the continuous improvement and [optimization](../o/optimization.md) of existing trading processes. This includes streamlining workflows, reducing latency, minimizing [market](../m/market.md) impact, and developing more efficient [trading algorithms](../t/trading_algorithms.md).
 
 ### Latency Reduction
 Latency is a critical [factor](../f/factor.md) in [algorithmic trading](../a/algorithmic_trading.md), where delays of microseconds can affect the profitability of trades. Operational [Alpha](../a/alpha.md) can be achieved by minimizing latency through advanced technology, co-located servers, and faster [execution](../e/execution.md) protocols.
@@ -42,13 +42,13 @@ Real-time monitoring tools and analytics platforms help in tracking performance,
 ## Leading Companies and Technologies
 
 ### Two Sigma
-Two Sigma is a prominent player in [quantitative trading](../q/quantitative_trading.md) and [investment management](../i/investment_management.md). They utilize sophisticated technology and [data science](../d/data_science_in_trading.md) techniques to achieve [operational efficiency](../o/operational_efficiency_in_trading.md). More information can be found on their [official website](https://www.twosigma.com).
+Two Sigma is a prominent player in [quantitative trading](../q/quantitative_trading.md) and [investment management](../i/investment_management.md). They utilize sophisticated technology and [data science](../d/data_science_in_trading.md) techniques to achieve [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Jane Street
-Jane Street is a global trading [firm](../f/firm.md) known for its expertise in [quantitative trading](../q/quantitative_trading.md) and technology. They place a high emphasis on [operational efficiency](../o/operational_efficiency_in_trading.md) to maintain their competitive edge. Explore further details on their [careers page](https://www.janestreet.com/join-jane-street/).
+Jane Street is a global trading [firm](../f/firm.md) known for its expertise in [quantitative trading](../q/quantitative_trading.md) and technology. They place a high emphasis on [operational efficiency](../o/operational_efficiency_in_trading.md) to maintain their competitive edge. Further details are available in their hiring materials.
 
 ### Citadel Securities
-Citadel Securities is a leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) that leverages advanced technology and [data analytics](../d/data_analytics.md) to optimize trading operations. Additional information is available on their [official website](https://www.citadelsecurities.com).
+Citadel Securities is a leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) that leverages advanced technology and [data analytics](../d/data_analytics.md) to optimize trading operations.
 
 ## Challenges and Considerations
 

@@ -9,7 +9,7 @@ In a standard [yield curve](../y/yard.md), we usually anticipate a positive slop
 ## Characteristics of a Humped Yield Curve
 
 1. **Intermediate Peak**: The defining characteristic of a humped [yield curve](../y/yard.md) is that it peaks at intermediate maturities, typically around 2 to 10 years, and then slopes downwards.
-   
+
 2. **Short-Term and Long-Term Yields**: Both short-term and long-term yields are lower compared to the intermediate-term yields.
 
 3. **[Market Sentiment](../m/market_sentiment.md)**: This unusual shape can indicate several [market](../m/market.md) sentiments or macroeconomic factors. It can signify that investors expect [economic conditions](../e/economic_conditions.md) to be less favorable in the long term compared to the intermediate term.
@@ -45,10 +45,10 @@ Historical instances of the humped [yield curve](../y/yard.md) have provided kee
 
 ## Recent Market Observations
 
-Recent [market](../m/market.md) conditions have shown instances where humped [yield](../y/yield.md) curves appeared, particularly in response to central [bank](../b/bank.md) interventions and fluctuating [investor](../i/investor.md) sentiment. Observing companies specializing in [financial analysis](../f/financial_analysis.md), like Fidelity (https://www.fidelity.com) or Vanguard (https://[investor](../i/investor.md).vanguard.com), can provide up-to-date insights on how the [yield curve](../y/yard.md) shapes, including humped formations, affect [market](../m/market.md) strategies.
+Recent [market](../m/market.md) conditions have shown instances where humped [yield](../y/yield.md) curves appeared, particularly in response to central [bank](../b/bank.md) interventions and fluctuating [investor](../i/investor.md) sentiment. Observing companies specializing in [financial analysis](../f/financial_analysis.md), like Fidelity ( or Vanguard ( can provide up-to-date insights on how the [yield curve](../y/yard.md) shapes, including humped formations, affect [market](../m/market.md) strategies.
 
 ## Conclusion
 
-A humped [yield curve](../y/yard.md) is a significant variation of the standard [yield curve](../y/yard.md) that offers essential insights into [market](../m/market.md) expectations and [economic conditions](../e/economic_conditions.md). Understanding its characteristics and implications helps investors, policymakers, and economists better navigate the complexities of [bond](../b/bond.md) markets and anticipate economic transitions. 
+A humped [yield curve](../y/yard.md) is a significant variation of the standard [yield curve](../y/yard.md) that offers essential insights into [market](../m/market.md) expectations and [economic conditions](../e/economic_conditions.md). Understanding its characteristics and implications helps investors, policymakers, and economists better navigate the complexities of [bond](../b/bond.md) markets and anticipate economic transitions.
 
 Detailed examination and responsive strategies based on the humped [yield curve](../y/yard.md) can lead to more informed investment decisions and efficient management of [interest rate](../i/interest_rate.md) risks.

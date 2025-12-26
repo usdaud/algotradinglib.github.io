@@ -40,7 +40,7 @@ If the price eventually increases to $10:
 
 ## Drawbacks and Risks
 
-1. **[Risk](../r/risk.md) of Ruin**: The strategy can lead to substantial losses if a winning [trade](../t/trade.md) does not occur soon. 
+1. **[Risk](../r/risk.md) of Ruin**: The strategy can lead to substantial losses if a winning [trade](../t/trade.md) does not occur soon.
 2. **Large [Capital](../c/capital.md) Requirement**: Continuous doubling requires significant [capital](../c/capital.md); otherwise, a [trader](../t/trader.md) might run out of funds.
 3. **[Market](../m/market.md) Limits**: [Exchange](../e/exchange.md) or [broker](../b/broker.md)-imposed limits on position sizes can hinder the doubling process.
 4. **Emotional Stress**: Handling ongoing losses and increasing stakes can be psychologically taxing.
@@ -82,19 +82,19 @@ Using [options](../o/options.md), [futures](../f/futures.md), or other [derivati
 ## Companies and Resources
 
 ### Brokers Offering Martingale Trading Platforms
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **[IG Group](../i/ig_group.md)**: [IG](https://www.ig.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **[IG Group](../i/ig_group.md)**: IG
 
 ### Algorithmic Trading Platforms
-- **MetaTrader 4/5**: [MetaTrader](https://www.metatrader4.com)
-- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com)
+- **MetaTrader 4/5**: MetaTrader
+- **[NinjaTrader](../n/ninjatrader.md)**: NinjaTrader
 
 ### Educational Resources
 - **Investopedia**: Detailed articles and tutorials on Martingale trading.
 - **BabyPips**: Forex-focused education covering Martingale strategies.
 
 ### Quantitative Research Tools
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
-- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: AlgoTrader
 
 In sum, while Martingale [trading systems](../t/trading_systems.md) can [offer](../o/offer.md) a structured approach to recovering losses and achieving profitability, they carry significant risks and require careful [capital](../c/capital.md) management and [risk](../r/risk.md) mitigation strategies to avoid catastrophic losses. Traders should thoroughly understand the [underlying](../u/underlying.md) principles, perform rigorous [backtesting](../b/backtesting.md), and consider combining with other [risk management](../r/risk_management.md) techniques to enhance the viability and safety of this strategy in real-world [financial markets](../f/financial_market.md).

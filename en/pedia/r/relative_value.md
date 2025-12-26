@@ -93,9 +93,9 @@ Several financial firms are notable for their use and development of relative [v
 - **Citadel:** A major [hedge fund](../h/hedge_fund.md) that employs a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including relative [value](../v/value.md).
 
 To learn more about these firms and their approaches, you may visit their official websites:
-- [Bridgewater Associates](https://www.bridgewater.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Citadel](https://www.citadel.com/)
+- Bridgewater Associates
+- Renaissance Technologies
+- Citadel
 
 ## Conclusion
 

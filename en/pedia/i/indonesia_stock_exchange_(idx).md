@@ -150,5 +150,3 @@ Despite these challenges, the future prospects for the IDX are promising. Key gr
 
 The Indonesia Stock [Exchange](../e/exchange.md) stands as a cornerstone of Indonesia's financial landscape. Through its diverse [market](../m/market.md) segments, technological advancements, and commitment to [investor](../i/investor.md) education, the IDX fosters a vibrant and inclusive [market](../m/market.md). While challenges persist, strategic initiatives and a forward-looking approach position the IDX for continued growth and contribution to Indonesia's economic prosperity.
 
-For more information, you can visit [
-Indonesia Stock [Exchange](../e/exchange.md) Official Website](https://www.idx.co.id/en-us/).

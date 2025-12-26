@@ -55,7 +55,7 @@ The IOTA Foundation is a non-[profit](../p/profit.md) entity that oversees the d
 3. **Education and Advocacy**: Promoting understanding and adoption of IOTA through various initiatives, events, and educational programs.
 4. **Community Support**: Engaging with and supporting the global IOTA community to foster a vibrant and active ecosystem.
 
-For more information, visit the [IOTA Foundation website](https://www.iota.org).
+
 
 ## Future Prospects
 

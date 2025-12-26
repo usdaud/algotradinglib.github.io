@@ -44,11 +44,11 @@ In this example, the total borrowing base would be $670,000. This is the maximum
 
 ### Commercial Finance Companies
 
-Many commercial [finance](../f/finance.md) companies specialize in [asset-based lending](../a/asset-based_lending.md) and heavily rely on the concept of borrowing base. For instance, companies like [Crestmark](https://www.crestmark.com) provide a variety of [financing](../f/financing.md) solutions that include [asset-based lending](../a/asset-based_lending.md). They assess the borrowing base to [offer](../o/offer.md) working [capital](../c/capital.md) lines of [credit](../c/credit.md), which businesses can use to manage [cash flow](../c/cash_flow.md), purchase [inventory](../i/inventory.md), or cover operational expenses.
+Many commercial [finance](../f/finance.md) companies specialize in [asset-based lending](../a/asset-based_lending.md) and heavily rely on the concept of borrowing base. For instance, companies like Crestmark provide a variety of [financing](../f/financing.md) solutions that include [asset-based lending](../a/asset-based_lending.md). They assess the borrowing base to [offer](../o/offer.md) working [capital](../c/capital.md) lines of [credit](../c/credit.md), which businesses can use to manage [cash flow](../c/cash_flow.md), purchase [inventory](../i/inventory.md), or cover operational expenses.
 
 ### Inventory Financing
 
-In industries where [inventory](../i/inventory.md) forms a significant portion of the [asset](../a/asset.md) base, such as retail or [manufacturing](../m/manufacturing.md), the borrowing base is crucial for [inventory financing](../i/inventory_financing.md). Companies like [Wells Fargo](https://www.wellsfargo.com/biz/loans-and-credit/financing/inventory-financing) [offer](../o/offer.md) [inventory financing](../i/inventory_financing.md) solutions where they evaluate the borrower's [inventory](../i/inventory.md) and provide loans based on a percentage of its [value](../v/value.md).
+In industries where [inventory](../i/inventory.md) forms a significant portion of the [asset](../a/asset.md) base, such as retail or [manufacturing](../m/manufacturing.md), the borrowing base is crucial for [inventory financing](../i/inventory_financing.md). Companies like Wells Fargo [offer](../o/offer.md) [inventory financing](../i/inventory_financing.md) solutions where they evaluate the borrower's [inventory](../i/inventory.md) and provide loans based on a percentage of its [value](../v/value.md).
 
 ## Borrowing Base Certificates
 

@@ -1,6 +1,6 @@
 # Hedge Fund Manager
 
-A [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md) is a financial professional responsible for managing a [hedge fund](../h/hedge_fund.md), which is a pooled [investment vehicle](../i/investment_vehicle.md) that employs different strategies to earn active returns for its investors. These strategies can involve leveraging, short-selling, [arbitrage](../a/arbitrage.md), and [derivatives](../d/derivatives.md) trading to maximize returns and [hedge](../h/hedge.md) against [risk](../r/risk.md). [Hedge fund](../h/hedge_fund.md) managers are not only responsible for making investment decisions but also for managing the overall strategy, [risk](../r/risk.md), operations, and often the [marketing](../m/marketing.md) and [investor relations](../i/investor_relations.md) associated with the [fund](../f/fund.md).
+A [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md) is a financial professional responsible for managing a [hedge fund](../h/hedge_fund.md), which is a pooled [investment vehicle](../i/investment_vehicle.md) that employs different strategies to earn active returns for its investors. These strategies can involve leveraging, short-selling, [arbitrage](../a/arbitrage.md), and [derivatives](../d/derivatives.md) trading to maximize returns and [hedge](../h/hedge.md) against [risk](../r/risk.md). [Hedge fund](../h/hedge_fund.md) managers are not only responsible for making investment decisions but also for managing the overall strategy, [risk](../r/risk.md), operations, and often the [marketing](../m/marketing.md) and [company filings](../i/investor_relations.md) associated with the [fund](../f/fund.md).
 
 ## Responsibilities of a Hedge Fund Manager
 
@@ -34,7 +34,6 @@ Given the sophisticated nature of [hedge](../h/hedge.md) funds, they are subject
 - **Reporting:** Submit regular reports to regulators and provide [transparency](../t/transparency.md) to investors.
 - **[Ethical standards](../e/ethical_standards_in_trading.md):** Maintain high [ethical standards](../e/ethical_standards_in_trading.md) to protect [investor](../i/investor.md) interests and enhance the [fund](../f/fund.md)'s reputation.
 
-### Investor Relations
 A significant part of the [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md)'s role involves maintaining relations with existing investors and attracting new ones. This involves:
 
 - **Communication:** Regularly updating investors on [fund](../f/fund.md) performance, strategy changes, and [market](../m/market.md) outlook.
@@ -63,49 +62,49 @@ Familiarity with trading platforms, financial software, and data analysis tools 
 ### Ray Dalio
 Founder of Bridgewater Associates, Ray Dalio is well-known for his principles-driven approach to management and [investing](../i/investing.md). Bridgewater is one of the largest and most successful [hedge](../h/hedge.md) funds in the world.
 
-**Bridgewater Associates:** [bridgewater.com](https://www.bridgewater.com)
+**Bridgewater Associates:** bridgewater.com
 
 ### George Soros
 [George Soros](../g/george_soros.md) is the founder of Soros [Fund](../f/fund.md) Management and is famous for "breaking the [Bank](../b/bank.md) of England" during the 1992 Black Wednesday UK [currency](../c/currency.md) crisis.
 
-**Soros [Fund](../f/fund.md) Management:** [soros.com](https://www.soros.com)
+**Soros [Fund](../f/fund.md) Management:** soros.com
 
 ### Steve Cohen
 Steve Cohen is the founder of Point72 [Asset Management](../a/asset_management.md) and formerly managed SAC [Capital](../c/capital.md) Advisors. He is known for his trading acumen and significant impact on the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md).
 
-**Point72 [Asset Management](../a/asset_management.md):** [point72.com](https://www.point72.com)
+**Point72 [Asset Management](../a/asset_management.md):** point72.com
 
 ### Ken Griffin
 Ken Griffin is the founder of Citadel LLC, recognized for its [robust](../r/robust.md) [risk management systems](../r/risk_management_systems.md) and diverse investment strategies.
 
-**Citadel LLC:** [citadel.com](https://www.citadel.com)
+**Citadel LLC:** citadel.com
 
 ### David Tepper
 [David Tepper](../d/david_tepper.md) is the founder of Appaloosa Management and is noted for his distressed [debt](../d/debt.md) [investing](../i/investing.md).
 
-**Appaloosa Management:** [appaloosamanagement.com](https://www.appaloosamanagement.com)
+**Appaloosa Management:** appaloosamanagement.com
 
 ## Tools and Software for Hedge Fund Managers
 
 ### Bloomberg Terminal
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) is an essential tool for [real-time market data](../r/real-time_market_data.md), news, analytics, and trading.
 
-**[Bloomberg](../b/bloomberg.md):** [bloomberg.com](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+**[Bloomberg](../b/bloomberg.md):** bloomberg.com
 
 ### MATLAB
-MATLAB is widely used for [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/accountability.md).
+MATLAB is widely used for [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
-**MATLAB:** [mathworks.com](https://www.mathworks.com/products/matlab.html)
+**MATLAB:** mathworks.com
 
 ### Aladdin by BlackRock
 Aladdin is a comprehensive [portfolio management](../p/par.md) software used for [risk](../r/risk.md) analytics, trading, and operations.
 
-**BlackRock Aladdin:** [blackrock.com](https://www.blackrock.com/aladdin/)
+**BlackRock Aladdin:** blackrock.com
 
 ### Excel
 Microsoft Excel remains a staple for [financial modeling](../f/financial_modeling.md) and [valuation](../v/valuation.md).
 
-**Microsoft Excel:** [microsoft.com](https://www.microsoft.com/en-us/microsoft-365/excel)
+**Microsoft Excel:** microsoft.com
 
 ## How to Become a Hedge Fund Manager
 
@@ -123,4 +122,4 @@ The [financial markets](../f/financial_market.md) are constantly evolving, neces
 
 ## Conclusion
 
-The role of a [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md) is multifaceted and demands a high degree of expertise in [financial markets](../f/financial_market.md), [risk management](../r/risk_management.md), and [investor relations](../i/investor_relations.md). Successful [hedge fund](../h/hedge_fund.md) managers are analytical, decisive, and able to navigate complex financial landscapes to achieve above-average returns. The career path to becoming a [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md) is rigorous but rewarding, [offering](../o/offering.md) significant financial incentives and the opportunity to shape investment strategies on a global scale.
+The role of a [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md) is multifaceted and demands a high degree of expertise in [financial markets](../f/financial_market.md), [risk management](../r/risk_management.md), and [company filings](../i/investor_relations.md). Successful [hedge fund](../h/hedge_fund.md) managers are analytical, decisive, and able to navigate complex financial landscapes to achieve above-average returns. The career path to becoming a [hedge](../h/hedge.md) [fund manager](../f/fund_manager.md) is rigorous but rewarding, [offering](../o/offering.md) significant financial incentives and the opportunity to shape investment strategies on a global scale.

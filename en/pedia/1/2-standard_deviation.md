@@ -36,7 +36,7 @@ Where:
 
 ### Importance in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves using pre-programmed trading instructions to execute orders at high speed and frequency. Traders use [quantitative models](../q/quantitative_models.md) and algorithms to analyze data and make trading decisions. 
+[Algorithmic trading](../a/algorithmic_trading.md) involves using pre-programmed trading instructions to execute orders at high speed and frequency. Traders use [quantitative models](../q/quantitative_models.md) and algorithms to analyze data and make trading decisions.
 
 The 2-[standard deviation](../s/standard_deviation.md) plays a significant role in the development of these models. It helps traders identify:
 - **Price anomalies**: When an [asset](../a/asset.md)’s price moves beyond the 2-[standard deviation](../s/standard_deviation.md) [range](../r/range.md), it suggests a significant deviation from the norm, indicating potential trading opportunities due to [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
@@ -59,10 +59,10 @@ Consisting of three lines:
 
 Many financial institutions and companies use the concept of 2-[standard deviation](../s/standard_deviation.md) in their [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) strategies. For instance:
 
-- **Goldman Sachs**: Known for their sophisticated [trading algorithms](../t/trading_algorithms.md), Goldman Sachs utilizes statistical tools like the 2-[standard deviation](../s/standard_deviation.md) to inform their trading decisions. [Goldman Sachs](https://www.goldmansachs.com/)
-- **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that relies heavily on [quantitative trading](../q/quantitative_trading.md) strategies, Jane Street presumably uses statistical measures, including the 2-[standard deviation](../s/standard_deviation.md), in their models. [Jane Street](https://www.janestreet.com/)
-- **Renaissance Technologies**: Famous for their Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) that likely incorporate the 2-[standard deviation](../s/standard_deviation.md) among other statistical tools. [Renaissance Technologies](https://www.rentec.com/)
+- **Goldman Sachs**: Known for their sophisticated [trading algorithms](../t/trading_algorithms.md), Goldman Sachs utilizes statistical tools like the 2-[standard deviation](../s/standard_deviation.md) to inform their trading decisions. Goldman Sachs
+- **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that relies heavily on [quantitative trading](../q/quantitative_trading.md) strategies, Jane Street presumably uses statistical measures, including the 2-[standard deviation](../s/standard_deviation.md), in their models. Jane Street
+- **Renaissance Technologies**: Famous for their Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) that likely incorporate the 2-[standard deviation](../s/standard_deviation.md) among other statistical tools. Renaissance Technologies
 
 ## Conclusion
 
-The 2-[standard deviation](../s/standard_deviation.md) is an essential statistical measure widely used in the field of [algorithmic trading](../a/algorithmic_trading.md). By understanding and applying the concept of 2-[standard deviation](../s/standard_deviation.md), traders can identify potential trading opportunities, manage [risk](../r/risk.md) effectively, and develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). As the landscape of [financial markets](../f/financial_market.md) continues to evolve, the application of such statistical tools [will](../w/will.md) remain pivotal in the pursuit of trading [efficiency](../e/efficiency.md) and profitability.
+The 2-[standard deviation](../s/standard_deviation.md) is an essential statistical measure widely used in the field of [algorithmic trading](../a/algorithmic_trading.md). By understanding and applying the concept of 2-[standard deviation](../s/standard_deviation.md), traders can identify potential trading opportunities, manage [risk](../r/risk.md) effectively, and develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). As the landscape of [financial markets](../f/financial_market.md) continues to evolve, the application of such statistical tools [will](../w/will.md) remain pivotal in the pursuit of trading [efficiency](../e/efficiency.md) and profitability.

@@ -24,7 +24,7 @@ where:
 
 #### Example Calculation
 
-Let's assume a [zero-coupon bond](../z/zero-coupon_bond.md) with a [face value](../f/face_value.md) of $1,000, a 5-year [maturity](../m/maturity.md), and a [market](../m/market.md) [interest rate](../i/interest_rate.md) of 5%. 
+Let's assume a [zero-coupon bond](../z/zero-coupon_bond.md) with a [face value](../f/face_value.md) of $1,000, a 5-year [maturity](../m/maturity.md), and a [market](../m/market.md) [interest rate](../i/interest_rate.md) of 5%.
 
 The price \( P \) would be calculated as:
 \[ P = \frac{1000}{(1 + 0.05)^5} \]
@@ -70,8 +70,8 @@ A parametric model utilized for fitting [yield](../y/yield.md) curves and [forec
 
 ------------------------------------------
 References:
-1. [Investopedia](https://www.investopedia.com/terms/z/zero-couponbond.asp)
-2. [WSJ Markets](https://www.wsj.com/market-data/bonds)
+1. Investopedia
+2. WSJ Markets
 
 ### Example Code for Zero-Coupon Bond Pricing
 

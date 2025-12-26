@@ -61,7 +61,6 @@ Stripe, a financial technology company, is an excellent case study for understan
 
 The significant influx of [capital](../c/capital.md) adjusted their [valuation](../v/valuation.md), and investors received stakes reflective of the new [valuation](../v/valuation.md) frame. This scenario accentuates the importance of post-[money](../m/money.md) [valuation](../v/valuation.md) in high-[value](../v/value.md) funding rounds and its impact on stakeholders.
 
-For more details, you can visit their official website: [Stripe](https://stripe.com)
 
 ## Conclusion
 

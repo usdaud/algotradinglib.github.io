@@ -11,12 +11,12 @@ When an [investor](../i/investor.md) buys [shares](../s/shares.md) of a company 
 [Dividend](../d/dividend.md) [reinvestment](../r/reinvestment.md) can occur in two [principal](../p/principal.md) ways:
 
 1. **Automatic [Dividend](../d/dividend.md) [Reinvestment](../r/reinvestment.md) Plans (DRIPs):**
-    - Many companies [offer](../o/offer.md) DRIPs that automatically reinvest dividends into additional [shares](../s/shares.md) or fractions of [shares](../s/shares.md).
-    - DRIPs often come with the benefit of purchasing [shares](../s/shares.md) at a slight [discount](../d/discount.md) and without brokerage fees, making it a cost-effective way for incremental investment.
+ - Many companies [offer](../o/offer.md) DRIPs that automatically reinvest dividends into additional [shares](../s/shares.md) or fractions of [shares](../s/shares.md).
+ - DRIPs often come with the benefit of purchasing [shares](../s/shares.md) at a slight [discount](../d/discount.md) and without brokerage fees, making it a cost-effective way for incremental investment.
 
 2. **Manual [Reinvestment](../r/reinvestment.md):**
-    - Investors can manually reinvest dividends by purchasing additional [shares](../s/shares.md) on the [open market](../o/open_market.md).
-    - This method may entail brokerage fees and the purchase price might not be as favorable as those offered via DRIPs.
+ - Investors can manually reinvest dividends by purchasing additional [shares](../s/shares.md) on the [open market](../o/open_market.md).
+ - This method may entail brokerage fees and the purchase price might not be as favorable as those offered via DRIPs.
 
 ## Benefits of Dividend Reinvestment
 
@@ -40,17 +40,17 @@ In certain jurisdictions, reinvested dividends may benefit from favorable tax tr
 ### Coca-Cola Company
 Coca-Cola (NYSE: KO) offers a [robust](../r/robust.md) DRIP that allows investors to reinvest their dividends without paying brokerage fees. Participants can buy Coca-Cola stock directly through the plan.
 
-- [Coca-Cola Dividend Reinvestment Plan](https://investors.coca-colacompany.com/resources/shareowner-services/direct-stock-purchase-and-drip)
+- Coca-Cola Dividend Reinvestment Plan
 
 ### Johnson & Johnson
 Johnson & Johnson (NYSE: JNJ) provides a DRIP with [reinvestment](../r/reinvestment.md) at no additional cost to shareholders. This program supports both new and existing investors in accumulating stock over time.
 
-- [Johnson & Johnson Dividend Reinvestment Plan](https://investor.jnj.com/dividend-reinvestment/default.aspx)
+- Johnson & Johnson Dividend Reinvestment Plan
 
 ### Pepsico
 PepsiCo ([NASDAQ](../n/nasdaq.md): PEP) also offers a [dividend](../d/dividend.md) [reinvestment](../r/reinvestment.md) plan with attractive features like purchasing [shares](../s/shares.md) at a [discount](../d/discount.md) and without paying [commission](../c/commission.md) fees.
 
-- [Pepsico Dividend Reinvestment Plan](https://www.pepsico.com/investors/dividends)
+- Pepsico Dividend Reinvestment Plan
 
 ## How to Set Up a Dividend Reinvestment Plan
 
@@ -66,7 +66,7 @@ Investors can enroll in a company's DRIP directly through the company’s [trans
 Even though dividends are reinvested, they are still considered [taxable income](../t/taxable_income.md). Investors need to account for this when preparing their tax returns, which might involve additional record-keeping and paperwork.
 
 ### Market Risk
-While reinvesting dividends can amplify growth through [compounding](../c/compounding.md), it also exposes the [investor](../i/investor.md) to [market risk](../m/market_risk.md). If the company’s stock declines in [value](../v/value.md), the investment [will](../w/will.md) suffer losses. 
+While reinvesting dividends can amplify growth through [compounding](../c/compounding.md), it also exposes the [investor](../i/investor.md) to [market risk](../m/market_risk.md). If the company’s stock declines in [value](../v/value.md), the investment [will](../w/will.md) suffer losses.
 
 ### Share Dilution
 Some DRIPs result in the issuance of new [shares](../s/shares.md), which can dilute the [value](../v/value.md) of existing [shares](../s/shares.md). Investors should assess whether this is a significant concern for their portfolio.

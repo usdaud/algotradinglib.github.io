@@ -34,7 +34,7 @@ Algorithms are at the core of [trend following](../t/trend_following.md) in [alg
 
 ### Moving Average Crossover
 
-**Description**: 
+**Description**:
 This model uses two moving averages of different time periods. A buy signal is generated when the shorter-term moving average crosses above the longer-term moving average. Conversely, a sell signal is generated when the shorter-term moving average crosses below the longer-term moving average.
 
 **Code Example**:

@@ -24,28 +24,28 @@ Two-Way ANOVA not only helps determine the individual main effects of each [fact
 Performing a Two-Way ANOVA involves several steps:
 
 1. **Formulate Hypotheses**:
-   - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: Assumes no effect/interaction.
-   - **Alternative Hypothesis (H1)**: Assumes some effect or interaction.
+ - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: Assumes no effect/interaction.
+ - **Alternative Hypothesis (H1)**: Assumes some effect or interaction.
 
 2. **Calculate [Sum of Squares](../s/sum_of_squares.md)**:
-   - **Between-Groups SS**: [Variability](../v/variability.md) attributed to factors.
-   - **Within-Groups SS**: [Variability](../v/variability.md) within each group itself.
-   - **Interaction SS**: [Variability](../v/variability.md) due to interactions.
+ - **Between-Groups SS**: [Variability](../v/variability.md) attributed to factors.
+ - **Within-Groups SS**: [Variability](../v/variability.md) within each group itself.
+ - **Interaction SS**: [Variability](../v/variability.md) due to interactions.
 
 3. **[Degrees of Freedom](../d/degrees_of_freedom.md) (df)**:
-   - Calculated for each source of variation ([factor](../f/factor.md) A, [factor](../f/factor.md) B, interaction, error).
+ - Calculated for each source of variation ([factor](../f/factor.md) A, [factor](../f/factor.md) B, interaction, error).
 
 4. **Mean Squares (MS)**:
-   - Obtained by dividing the [sum of squares](../s/sum_of_squares.md) by their respective [degrees of freedom](../d/degrees_of_freedom.md).
+ - Obtained by dividing the [sum of squares](../s/sum_of_squares.md) by their respective [degrees of freedom](../d/degrees_of_freedom.md).
 
 5. **F-Ratios**:
-   - Calculate F-ratios for both main effects and the interaction effect.
+ - Calculate F-ratios for both main effects and the interaction effect.
 
 6. **ANOVA Table**:
-   - Summarizes the results, presenting sources of variation, [degrees of freedom](../d/degrees_of_freedom.md), [sum of squares](../s/sum_of_squares.md), mean squares, F-ratios, and p-values.
+ - Summarizes the results, presenting sources of variation, [degrees of freedom](../d/degrees_of_freedom.md), [sum of squares](../s/sum_of_squares.md), mean squares, F-ratios, and p-values.
 
 7. **Post Hoc Tests**:
-   - Conducted if the ANOVA is significant, to determine which specific groups differ.
+ - Conducted if the ANOVA is significant, to determine which specific groups differ.
 
 ## Assumptions in Two-Way ANOVA
 

@@ -60,15 +60,15 @@ The European Central [Bank](../b/bank.md) also implemented ZIRP in response to t
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and supports the development of financial strategies that can adapt to different [interest rate](../i/interest_rate.md) environments, including ZIRP. Users can backtest their strategies against historical data to understand potential outcomes under low-[interest](../i/interest.md)-rate conditions. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and supports the development of financial strategies that can adapt to different [interest rate](../i/interest_rate.md) environments, including ZIRP. Users can backtest their strategies against historical data to understand potential outcomes under low-[interest](../i/interest.md)-rate conditions. For more information, visit QuantConnect.
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) offers a [range](../r/range.md) of tools for traders and investors to navigate different [market](../m/market.md) conditions. Their comprehensive [trading platform](../t/trading_platform.md) includes features to analyze [interest rate](../i/interest_rate.md) impacts on various [asset](../a/asset.md) classes, helping users make informed decisions under ZIRP. More details can be found at [Interactive Brokers](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers a [range](../r/range.md) of tools for traders and investors to navigate different [market](../m/market.md) conditions. Their comprehensive [trading platform](../t/trading_platform.md) includes features to analyze [interest rate](../i/interest_rate.md) impacts on various [asset](../a/asset.md) classes, helping users make informed decisions under ZIRP. More details can be found at Interactive Brokers.
 
 ### Alpha Vantage
 
-[Alpha](../a/alpha.md) Vantage provides financial [market](../m/market.md) data and a suite of API tools that allow developers to create models and strategies responsive to economic policies such as ZIRP. Their data can help analyze the effects of low [interest](../i/interest.md) rates on different financial instruments. To learn more, visit [Alpha Vantage](https://www.alphavantage.co/).
+[Alpha](../a/alpha.md) Vantage provides financial [market](../m/market.md) data and a suite of API tools that allow developers to create models and strategies responsive to economic policies such as ZIRP. Their data can help analyze the effects of low [interest](../i/interest.md) rates on different financial instruments. To learn more, visit Alpha Vantage.
 
 ## Conclusion
 

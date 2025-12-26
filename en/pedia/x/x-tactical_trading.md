@@ -31,7 +31,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves identifying and exploiting p
 ## Technological Infrastructure
 
 ### Data Feeds
-Real-time data feeds are critical for X-Tactical Trading, providing up-to-the-minute information on [market](../m/market.md) conditions, pricing, and news events. 
+Real-time data feeds are critical for X-Tactical Trading, providing up-to-the-minute information on [market](../m/market.md) conditions, pricing, and news events.
 
 ### Trading Platforms
 Advanced trading platforms are necessary for executing X-Tactical [trading strategies](../t/trading_strategies.md). These platforms must [offer](../o/offer.md) high speed, low latency, and [robust](../r/robust.md) [risk management](../r/risk_management.md) features.
@@ -46,18 +46,18 @@ Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs) are speciali
 
 ### Hedge funds and Proprietary Trading Firms
 [Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms are leading players in the X-Tactical Trading space. They possess the resources and expertise needed to develop and deploy sophisticated [trading strategies](../t/trading_strategies.md). Notable examples include:
-- **Renaissance Technologies**: Renowned for its Medallion [Fund](../f/fund.md), which uses complex algorithms to achieve astronomical returns. More information can be found on their [official site](https://www.rentec.com/).
-- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and other advanced techniques. Information about the [firm](../f/firm.md) is available on their [website](https://www.twosigma.com/).
+- **Renaissance Technologies**: Renowned for its Medallion [Fund](../f/fund.md), which uses complex algorithms to achieve astronomical returns.
+- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and other advanced techniques. Information about the [firm](../f/firm.md)
 
 ### Technology Providers
 Several technology companies specialize in providing the tools and [infrastructure](../i/infrastructure.md) needed for X-Tactical Trading. These include:
-- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive data services and trading platforms. More information is available on their [website](https://www.bloomberg.com/).
-- **Refinitiv**: Offers [data analytics](../d/data_analytics.md) and trading solutions. Visit their [website](https://www.refinitiv.com/en) for more details.
+- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive data services and trading platforms.
+- **Refinitiv**: Offers [data analytics](../d/data_analytics.md) and trading solutions.
 
 ## Risks and Challenges
 
 ### Market Risks
-X-Tactical [Trading strategies](../t/trading_strategies.md) are subject to [market](../m/market.md) risks, which can result from unforeseen events, [volatility](../v/volatility.md), and [liquidity](../l/liquidity.md) issues. 
+X-Tactical [Trading strategies](../t/trading_strategies.md) are subject to [market](../m/market.md) risks, which can result from unforeseen events, [volatility](../v/volatility.md), and [liquidity](../l/liquidity.md) issues.
 
 ### Model Risk
 The effectiveness of [trading algorithms](../t/trading_algorithms.md) depends on the accuracy of the models they are based on. Incorrect assumptions or data inaccuracies can lead to significant losses.

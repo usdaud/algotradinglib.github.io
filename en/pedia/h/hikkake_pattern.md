@@ -82,12 +82,12 @@ The Hikkake pattern can be more effective when combined with other [technical in
 
 The Hikkake pattern is a [robust](../r/robust.md) tool in the [technical analyst](../t/technical_analyst.md)'s toolkit, providing valuable insights into potential [market](../m/market.md) reversals and continuations. While powerful, it must be used with caution and in conjunction with other analytical methods and [risk management](../r/risk_management.md) practices. By understanding the characteristics, identification process, and [execution](../e/execution.md) strategy of the Hikkake pattern, traders can [leverage](../l/leverage.md) this pattern to enhance their [trading performance](../t/trading_performance.md).
 
-For more detailed information and practical examples, traders can refer to sources like the original article by Daniel L. Chesler, CMT, or specialized [technical analysis](../t/technical_analysis.md) platforms and literature. 
+For more detailed information and practical examples, traders can refer to sources like the original article by Daniel L. Chesler, CMT, or specialized [technical analysis](../t/technical_analysis.md) platforms and literature.
 
 For additional resources, traders can also explore the following:
 
-- [Investopedia](https://www.investopedia.com/terms/h/hikkake.asp)
-- [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php?id=chart_school:chart_analysis:hikkake_pattern)
-- [TradingView](https://www.tradingview.com/script/VbMS4ZHt-Hikkake-Pattern/)
+- Investopedia
+- ChartSchool by StockCharts
+- TradingView
 
 By continuously refining their understanding and application of the Hikkake pattern, traders can enhance their decision-making and trading outcomes.

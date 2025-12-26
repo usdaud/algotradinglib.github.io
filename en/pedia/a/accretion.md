@@ -15,7 +15,7 @@ To compute accretion on a [zero-coupon bond](../z/zero-coupon_bond.md):
 
 In mergers and acquisitions (M&A), accretion happens when an acquiring company achieves increased [earnings](../e/earnings.md) per share (EPS) following a [merger](../m/merger.md) or [acquisition](../a/acquisition.md). This situation can occur when the acquired company’s [profit](../p/profit.md) adds more to the acquirer's [bottom line](../b/bottom_line.md) than the cost of [acquisition](../a/acquisition.md) and [financing](../f/financing.md).
 
-For instance, if Company A (#insert link to a legitimate company page such as https://www.companyA.com) acquires Company B, and this results in Company A's EPS increasing, the [acquisition](../a/acquisition.md) is said to be [accretive](../a/accretive.md). Conversely, if the EPS decreases, the [acquisition](../a/acquisition.md) is dilutive.
+For instance, if Company A (#insert link to a legitimate company page such as acquires Company B, and this results in Company A's EPS increasing, the [acquisition](../a/acquisition.md) is said to be [accretive](../a/accretive.md). Conversely, if the EPS decreases, the [acquisition](../a/acquisition.md) is dilutive.
 
 The success of an [accretive](../a/accretive.md) [acquisition](../a/acquisition.md) often hinges on synergies achieved—cost savings, [market](../m/market.md) [expansion](../e/expansion.md), and resource [optimization](../o/optimization.md)—which create [value](../v/value.md) that exceeds the [acquisition](../a/acquisition.md) cost. Financial analysts often model [accretive](../a/accretive.md) or dilutive scenarios to anticipate the impact of a deal on EPS before the [acquisition](../a/acquisition.md) is finalized.
 
@@ -48,7 +48,7 @@ In the case of zero-coupon bonds, the accretion rate can be derived from the [bo
 
 ## Tools and Software for Accretion Calculations
 
-In professional and institutional settings, sophisticated tools and [software platforms](../s/software_platforms_for_trading.md) like [Bloomberg Terminal](../b/bloomberg_terminal.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/) and Thomson [Reuters](../r/reuters.md) Eikon (https://www.refinitiv.com/en/products/eikon-trading-software) allow [finance](../f/finance.md) professionals to model and compute accretion for various financial instruments. These platforms provide real-time data and analytics that aid in understanding and [forecasting](../f/forecasting.md) the effects of accretion on portfolios, pricing, and overall investment strategies.
+In professional and institutional settings, sophisticated tools and [software platforms](../s/software_platforms_for_trading.md) like [Bloomberg Terminal](../b/bloomberg_terminal.md) ( and Thomson [Reuters](../r/reuters.md) Eikon ( allow [finance](../f/finance.md) professionals to model and compute accretion for various financial instruments. These platforms provide real-time data and analytics that aid in understanding and [forecasting](../f/forecasting.md) the effects of accretion on portfolios, pricing, and overall investment strategies.
 
 ## Conclusion
 

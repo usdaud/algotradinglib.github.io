@@ -52,10 +52,10 @@ Particle Filters are widely used in [algorithmic trading](../a/algorithmic_tradi
 ## Case Studies
 
 ### Renaissance Technologies
-Renaissance Technologies, a quantitative [hedge fund](../h/hedge_fund.md), is known for its use of sophisticated dynamic statistical models. Their flagship Medallion [Fund](../f/fund.md) has consistently delivered outstanding returns, with strategies that adapt to changing [market](../m/market.md) conditions through [real-time data analysis](../r/real-time_data_analysis.md) and model adjustments. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, a quantitative [hedge fund](../h/hedge_fund.md), is known for its use of sophisticated dynamic statistical models. Their flagship Medallion [Fund](../f/fund.md) has consistently delivered outstanding returns, with strategies that adapt to changing [market](../m/market.md) conditions through [real-time data analysis](../r/real-time_data_analysis.md) and model adjustments.
 
 ### Two Sigma
-Two Sigma, another major player in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), employs dynamic statistical models to manage vast amounts of data and generate [trading signals](../t/trading_signals.md). Their approach integrates [machine learning](../m/machine_learning.md) and advanced statistical methods to create adaptive [trading strategies](../t/trading_strategies.md). Details are available on their [website](https://www.twosigma.com/).
+Two Sigma, another major player in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), employs dynamic statistical models to manage vast amounts of data and generate [trading signals](../t/trading_signals.md). Their approach integrates [machine learning](../m/machine_learning.md) and advanced statistical methods to create adaptive [trading strategies](../t/trading_strategies.md).
 
 ## Challenges and Future Directions
 

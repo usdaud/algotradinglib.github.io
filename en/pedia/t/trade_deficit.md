@@ -9,7 +9,7 @@ The [trade](../t/trade.md) [deficit](../d/deficit.md) is calculated by subtracti
 If the result is positive, the country has a [trade](../t/trade.md) [deficit](../d/deficit.md). Conversely, if the result is negative, the country has a [trade surplus](../t/trade_surplus.md), meaning it exports more than it imports.
 
 ### Trade Balance Components
-1. **Goods and Services**: The [trade](../t/trade.md) balance includes goods (physical items like electronics, automobiles, and food) and services (such as tourism, banking, and education). 
+1. **Goods and Services**: The [trade](../t/trade.md) balance includes goods (physical items like electronics, automobiles, and food) and services (such as tourism, banking, and education).
 2. **Net Exports**: This is the [value](../v/value.md) of total exports minus total imports. A negative [net export](../n/net_export.md) [value](../v/value.md) indicates a [trade](../t/trade.md) [deficit](../d/deficit.md).
 3. **Current [Account Balance](../a/account_balance.md)**: The [trade](../t/trade.md) balance is a major component of the [current account](../c/current_account.md), which also includes net [income](../i/income.md) from abroad (like dividends and [interest](../i/interest.md)) and net current transfers (like [foreign aid](../f/foreign_aid.md)).
 
@@ -50,4 +50,4 @@ Countries can adopt several strategies to address [trade](../t/trade.md) deficit
 ## Conclusion
 A [trade](../t/trade.md) [deficit](../d/deficit.md) is a critical [economic indicator](../e/economic_indicator.md) that reflects a country's economic interactions with the global [market](../m/market.md). While it has potential benefits, such as access to a variety of goods and services, it also carries risks, including increased foreign [debt](../d/debt.md) and potential vulnerabilities. Policymakers must weigh these factors when developing strategies to manage [trade](../t/trade.md) deficits and ensure long-term economic stability.
 
-For more information on [trade](../t/trade.md) deficits and related economic policies, you can visit the official website of the [U.S. Bureau of Economic Analysis](https://www.bea.gov/).
+For more information on [trade](../t/trade.md) deficits and related economic policies,S. Bureau of Economic Analysis.

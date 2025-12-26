@@ -92,9 +92,9 @@ During the burst of the dot-com bubble in the early 2000s, VXN experienced drama
 
 In the 2008 [financial crisis](../f/financial_crisis.md), VXN also surged, reflecting enormous [volatility](../v/volatility.md) in tech [stocks](../s/stock.md). Analysis of VXN during this period underscores the [index](../i/index_instrument.md)'s sensitivity to broad economic shocks and its [utility](../u/utility.md) in [risk management](../r/risk_management.md).
 
-### Modern Usage 
+### Modern Usage
 
-#### Algorithmic Trading 
+#### Algorithmic Trading
 
 VXN feeds into [automated trading systems](../a/automated_trading_systems.md) which incorporate [real-time volatility](../r/real-time_volatility.md) assessments to adjust positions dynamically. This minimizes human error and optimizes [trade](../t/trade.md) [execution](../e/execution.md).
 

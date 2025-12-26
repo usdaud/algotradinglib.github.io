@@ -12,7 +12,7 @@ An [earnings](../e/earnings.md) announcement is a scheduled [disclosure](../d/di
 - **[Operating Income](../o/operating_income.md)**: [Profit](../p/profit.md) earned from regular [business](../b/business.md) operations.
 - **Adjusted [Earnings](../e/earnings.md)**: [Earnings](../e/earnings.md) adjusted for non-recurring items to provide a clearer picture of ongoing profitability.
 
-The information disclosed in [earnings announcements](../e/earnings_announcements.md) is scrutinized by investors to gauge a company's [financial performance](../f/financial_performance.md) and future growth prospects. 
+The information disclosed in [earnings announcements](../e/earnings_announcements.md) is scrutinized by investors to gauge a company's [financial performance](../f/financial_performance.md) and future growth prospects.
 
 ## The Significance of Earnings Announcements
 
@@ -22,7 +22,7 @@ The information disclosed in [earnings announcements](../e/earnings_announcement
 
 ### Market Efficiency
 
-Regular [earnings announcements](../e/earnings_announcements.md) contribute to [market efficiency](../m/market_efficiency.md) by ensuring that all investors have access to critical financial information. In an efficient [market](../m/market.md), stock prices reflect all available information, including a company's [earnings](../e/earnings.md) performance. 
+Regular [earnings announcements](../e/earnings_announcements.md) contribute to [market efficiency](../m/market_efficiency.md) by ensuring that all investors have access to critical financial information. In an efficient [market](../m/market.md), stock prices reflect all available information, including a company's [earnings](../e/earnings.md) performance.
 
 ### Performance Benchmarks
 
@@ -48,7 +48,7 @@ After the [earnings report](../e/earnings_report.md) is released, investors and 
 
 ## Impact on Stock Prices
 
-[Earnings announcements](../e/earnings_announcements.md) can cause significant [volatility](../v/volatility.md) in stock prices. The reaction to an [earnings report](../e/earnings_report.md) depends on how the reported results compare to [market](../m/market.md) expectations. 
+[Earnings announcements](../e/earnings_announcements.md) can cause significant [volatility](../v/volatility.md) in stock prices. The reaction to an [earnings report](../e/earnings_report.md) depends on how the reported results compare to [market](../m/market.md) expectations.
 
 ### Positive Surprise
 
@@ -66,7 +66,7 @@ When a company's [earnings report](../e/earnings_report.md) matches expectations
 
 ### Predictive Models
 
-Algorithmic traders use complex [mathematical models](../m/mathematical_models_in_trading.md) to predict the outcome of [earnings announcements](../e/earnings_announcements.md). These models analyze historical data, [earnings](../e/earnings.md) trends, analyst estimates, and other relevant factors to forecast [earnings](../e/earnings.md) results. 
+Algorithmic traders use complex [mathematical models](../m/mathematical_models_in_trading.md) to predict the outcome of [earnings announcements](../e/earnings_announcements.md). These models analyze historical data, [earnings](../e/earnings.md) trends, analyst estimates, and other relevant factors to forecast [earnings](../e/earnings.md) results.
 
 ### Event-Driven Trading
 
@@ -84,12 +84,11 @@ High-frequency trading (HFT) algorithms take advantage of the rapid price moveme
 
 Several companies specialize in providing [earnings](../e/earnings.md) data, analysis, and [algorithmic trading](../a/accountability.md) solutions. Here are a few notable ones:
 
-- **Thomson [Reuters](../r/reuters.md)**: A major provider of financial [market](../m/market.md) data, including [earnings announcements](../e/earnings_announcements.md). [Thomson Reuters](https://www.thomsonreuters.com)
-- **[FactSet](../f/factset.md)**: Offers integrated data and software solutions for financial professionals, including detailed [earnings](../e/earnings.md) data. [FactSet](https://www.factset.com)
-- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive financial information and analytics, including [earnings](../e/earnings.md) reports and related news. [Bloomberg](https://www.bloomberg.com)
-- **[Zacks Investment Research](../z/zacks_investment_research.md)**: Specializes in [earnings estimates](../e/earnings_estimate.md) and [stock analysis](../s/stock_analysis.md) based on quantitative [earnings](../e/earnings.md) forecasts. [Zacks Investment Research](https://www.zacks.com)
+- **Thomson [Reuters](../r/reuters.md)**: A major provider of financial [market](../m/market.md) data, including [earnings announcements](../e/earnings_announcements.md). Thomson Reuters
+- **[FactSet](../f/factset.md)**: Offers integrated data and software solutions for financial professionals, including detailed [earnings](../e/earnings.md) data. FactSet
+- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive financial information and analytics, including [earnings](../e/earnings.md) reports and related news. Bloomberg
+- **[Zacks Investment Research](../z/zacks_investment_research.md)**: Specializes in [earnings estimates](../e/earnings_estimate.md) and [stock analysis](../s/stock_analysis.md) based on quantitative [earnings](../e/earnings.md) forecasts. Zacks Investment Research
 - **[TradeStation](../t/tradestation.md)**: A platform that offers powerful tools for [algorithmic trading](../a/accountability.md), including features tailored to [event-driven trading](../e/event-driven_trading.md) strategies.
-[TradeStation](https://www.tradestation.com)
 
 ## Conclusion
 

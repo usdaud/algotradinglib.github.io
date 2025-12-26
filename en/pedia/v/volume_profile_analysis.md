@@ -10,8 +10,8 @@ The [Volume Profile](../v/volume_profile.md) tool includes the Point of Control 
 
 - **Point of Control (POC)**: The [price level](../p/price_level.md) with the highest traded [volume](../v/volume.md).
 - **[Value](../v/value.md) Area (VA)**: The [range](../r/range.md) of price levels in which a significant majority (typically 70%) of the trading [volume](../v/volume.md) occurred. It is often broken into VAH and VAL.
-  - **[Value](../v/value.md) Area High (VAH)**: The upper boundary of the [value](../v/value.md) area.
-  - **[Value](../v/value.md) Area Low (VAL)**: The lower boundary of the [value](../v/value.md) area.
+ - **[Value](../v/value.md) Area High (VAH)**: The upper boundary of the [value](../v/value.md) area.
+ - **[Value](../v/value.md) Area Low (VAL)**: The lower boundary of the [value](../v/value.md) area.
 
 ### Application in Trading
 
@@ -43,9 +43,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), [Volume Profile](../v/vol
 
 Several trading platforms and tools [offer](../o/offer.md) [Volume Profile](../v/volume_profile.md) capabilities. Some widely used ones include:
 
-- **[ThinkOrSwim](../t/thinkorswim.md) (TOS)**: Provided by TD [Ameritrade](../a/ameritrade.md), it offers comprehensive [Volume Profile](../v/volume_profile.md) analysis tools. (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md)/personal-trading.html)
-- **[TradingView](../t/tradingview.md)**: An advanced charting platform with [Volume Profile](../v/volume_profile.md) tools available for more in-depth [market](../m/market.md) analysis. (https://www.[tradingview](../t/tradingview.md).com/)
-- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) known for its advanced [Volume Profile](../v/volume_profile.md) indicators. (https://[ninjatrader](../n/ninjatrader.md).com/)
+- **[ThinkOrSwim](../t/thinkorswim.md) (TOS)**: Provided by TD [Ameritrade](../a/ameritrade.md), it offers comprehensive [Volume Profile](../v/volume_profile.md) analysis tools. (
+- **[TradingView](../t/tradingview.md)**: An advanced charting platform with [Volume Profile](../v/volume_profile.md) tools available for more in-depth [market](../m/market.md) analysis. (
+- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) known for its advanced [Volume Profile](../v/volume_profile.md) indicators. (
 
 ### Conclusion
 

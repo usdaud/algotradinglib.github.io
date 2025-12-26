@@ -14,23 +14,11 @@ The FOMC is responsible for overseeing the country's [open market operations](..
 
 ### Regional Federal Reserve Banks
 
-There are 12 regional Federal Reserve Banks, each serving a specific geographic area of the U.S. These Banks are responsible for executing the policies of the Federal Reserve System at a regional level. They do this through their participation in the FOMC, as well as by providing banking services to [depository](../d/depository.md) institutions and the federal government. 
+There are 12 regional Federal Reserve Banks, each serving a specific geographic area of the U.S. These Banks are responsible for executing the policies of the Federal Reserve System at a regional level. They do this through their participation in the FOMC, as well as by providing banking services to [depository](../d/depository.md) institutions and the federal government.
 
 Here is the list of all 12 Federal Reserve Banks:
 
-1. **Boston** (https://www.bostonfed.org/)
-2. **New York** (https://www.newyorkfed.org/)
-3. **Philadelphia** (https://www.philadelphiafed.org/)
-4. **Cleveland** (https://www.clevelandfed.org/)
-5. **Richmond** (https://www.richmondfed.org/)
-6. **Atlanta** (https://www.frbatlanta.org/)
-7. **Chicago** (https://www.chicagofed.org/)
-8. **St. Louis** (https://www.stlouisfed.org/)
-9. **Minneapolis** (https://www.minneapolisfed.org/)
-10. **Kansas City** (https://www.kansascityfed.org/)
-11. **Dallas** (https://www.dallasfed.org/)
-12. **San Francisco** (https://www.frbsf.org/)
-
+1. **Boston** 2. **New York** 3. **Philadelphia** 4. **Cleveland** 5. **Richmond** 6. **Atlanta** 7. **Chicago** 8. **St. Louis** 9. **Minneapolis** 10. **Kansas City** 11. **Dallas** 12. **San Francisco**
 Each of these Banks operates independently within the framework of the Federal Reserve System, supervising banking operations and implementing [monetary policy](../m/monetary_policy.md) within its region.
 
 ## Roles and Responsibilities
@@ -72,7 +60,7 @@ The Federal Reserve employs several tools to conduct [monetary policy](../m/mone
 
 ### Open Market Operations (OMO)
 
-The primary tool of the Federal Reserve, OMOs involve the buying and selling of [U.S. Treasury](../u/u.s._treasury.md) and federal agency securities in the [open market](../o/open_market.md). Through these operations, the Fed influences the [federal funds rate](../f/federal_funds_rate.md)—the [interest rate](../i/interest_rate.md) at which [depository](../d/depository.md) institutions lend balances to each other overnight. 
+The primary tool of the Federal Reserve, OMOs involve the buying and selling of [U.S. Treasury](../u/u.s._treasury.md) and federal agency securities in the [open market](../o/open_market.md). Through these operations, the Fed influences the [federal funds rate](../f/federal_funds_rate.md)—the [interest rate](../i/interest_rate.md) at which [depository](../d/depository.md) institutions lend balances to each other overnight.
 
 ### Discount Rate
 

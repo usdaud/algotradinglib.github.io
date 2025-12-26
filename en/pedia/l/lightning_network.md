@@ -116,4 +116,3 @@ By addressing [Bitcoin](../b/bitcoin.md)'s [scalability](../s/scalability.md) is
 
 The Lightning Network represents a significant advancement in [Bitcoin](../b/bitcoin.md)'s technology, addressing key challenges related to [scalability](../s/scalability.md) and [transaction costs](../t/transaction_costs.md). By enabling fast, low-cost, and private transactions, it opens up new possibilities for [Bitcoin](../b/bitcoin.md)'s use as a [medium of exchange](../m/medium_of_exchange.md). Despite its challenges, ongoing developments and increasing adoption suggest a promising future for the Lightning Network in the broader financial ecosystem.
 
-For more information on the Lightning Network and its development, you can visit the official [Lightning Network website](https://lightning.network/).

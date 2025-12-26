@@ -1,6 +1,6 @@
 # Historical Returns
 
-In the realm of [financial markets](../f/financial_market.md), historical returns are a critical concept that both quantify past performance and inform future investment decisions. Historical returns refer to the actual returns that an [asset](../a/asset.md) or a portfolio of assets has generated over a specified period of time. These returns are used extensively in [financial analysis](../f/financial_analysis.md), [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, and [algorithmic trading](../a/accountability.md). This article delves into the intricacies of historical returns, covering their calculation, significance, and application in various financial contexts.
+In the realm of [financial markets](../f/financial_market.md), historical returns are a critical concept that both quantify past performance and inform future investment decisions. Historical returns refer to the actual returns that an [asset](../a/asset.md) or a portfolio of assets has generated over a specified period of time. These returns are used extensively in [financial analysis](../f/financial_analysis.md), [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, and [algorithmic trading](../a/algorithmic_trading.md). This article delves into the intricacies of historical returns, covering their calculation, significance, and application in various financial contexts.
 
 ## Definition and Calculation
 
@@ -47,7 +47,7 @@ While past performance is not indicative of future results, historical returns a
 
 ## Application in Algorithmic Trading
 
-Historical returns play a pivotal role in [algorithmic trading](../a/accountability.md), where strategies are often based on [quantitative models](../q/quantitative_models.md) and historical data. Here are some key applications:
+Historical returns play a pivotal role in [algorithmic trading](../a/algorithmic_trading.md), where strategies are often based on [quantitative models](../q/quantitative_models.md) and historical data. Here are some key applications:
 
 ### 1. Backtesting
 
@@ -65,8 +65,8 @@ Algorithms can be programmed to monitor historical returns and adjust [trading s
 
 High-frequency trading firms such as Jane Street and Virtu Financial rely on historical returns to fine-tune their algorithms. These firms execute thousands of trades per second, seeking to [capitalize](../c/capitalize.md) on minute price discrepancies. Historical [return](../r/return.md) data is crucial for these algorithms to identify profitable opportunities and manage [risk](../r/risk.md) effectively.
 
-- **Jane Street**: Known for its [systematic trading](../s/systematic_trading.md) strategies, Jane Street leverages historical [return](../r/return.md) data to optimize its algorithms. [Jane Street](https://www.janestreet.com/)
-- **Virtu Financial**: This HFT [firm](../f/firm.md) uses historical returns to maintain its edge in fast-paced markets. [Virtu Financial](https://www.virtu.com/)
+- **Jane Street**: Known for its [systematic trading](../s/systematic_trading.md) strategies, Jane Street leverages historical [return](../r/return.md) data to optimize its algorithms. Jane Street
+- **Virtu Financial**: This HFT [firm](../f/firm.md) uses historical returns to maintain its edge in fast-paced markets. Virtu Financial
 
 ## Limitations of Historical Returns
 

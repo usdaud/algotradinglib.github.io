@@ -119,15 +119,15 @@ With the rise of robo-advisors and digital investment platforms, there is a grow
 ## Examples of Liquid Alternative Funds
 Several investment firms and [asset](../a/asset.md) managers [offer](../o/offer.md) [liquid](../l/liquid.md) alternative funds tailored to various investment strategies. Examples include:
 
-- **BlackRock Global [Long/Short Equity](../l/long_short_equity.md) [Fund](../f/fund.md)**: Aims to provide long-term [capital](../c/capital.md) growth by taking long and short positions in [equity](../e/equity.md) securities. [BlackRock Fund](https://www.blackrock.com/us/individual/products/239729/)
+- **BlackRock Global [Long/Short Equity](../l/long_short_equity.md) [Fund](../f/fund.md)**: Aims to provide long-term [capital](../c/capital.md) growth by taking long and short positions in [equity](../e/equity.md) securities. BlackRock Fund
 
-- **Invesco Global [Market Neutral](../m/market_neutral.md) [Fund](../f/fund.md)**: Focuses on [market](../m/market.md)-[neutral](../n/neutral.md) strategies to provide returns independent of [market](../m/market.md) movements. [Invesco Fund](https://www.invesco.com/us/financial-products/mutual-funds/)
+- **Invesco Global [Market Neutral](../m/market_neutral.md) [Fund](../f/fund.md)**: Focuses on [market](../m/market.md)-[neutral](../n/neutral.md) strategies to provide returns independent of [market](../m/market.md) movements. Invesco Fund
 
-- **AQR [Managed Futures](../m/managed_futures.md) Strategy [Fund](../f/fund.md)**: Utilizes [managed futures](../m/managed_futures.md) strategies to provide exposure to a diversified portfolio of [asset](../a/asset.md) classes. [AQR Fund](https://funds.aqr.com/us/provider/funds)
+- **AQR [Managed Futures](../m/managed_futures.md) Strategy [Fund](../f/fund.md)**: Utilizes [managed futures](../m/managed_futures.md) strategies to provide exposure to a diversified portfolio of [asset](../a/asset.md) classes. AQR Fund
 
-- **PIMCO [Global Macro](../g/global_macro.md) Opportunities [Fund](../f/fund.md)**: Seeks to generate returns by exploiting macroeconomic trends and utilizing a variety of investment instruments. [PIMCO Fund](https://www.pimco.com/en-us/investments/mutual-funds)
+- **PIMCO [Global Macro](../g/global_macro.md) Opportunities [Fund](../f/fund.md)**: Seeks to generate returns by exploiting macroeconomic trends and utilizing a variety of investment instruments. PIMCO Fund
 
-- **First [Trust](../t/trust.md) [Merger Arbitrage](../m/merger_arbitrage.md) ETF**: An event-driven strategy that focuses on [merger](../m/merger.md) [arbitrage opportunities](../a/arbitrage_opportunities.md). [First Trust ETF](https://www.ftportfolios.com/retail/etf/ETFsummary.aspx?Ticker=MARB)
+- **First [Trust](../t/trust.md) [Merger Arbitrage](../m/merger_arbitrage.md) ETF**: An event-driven strategy that focuses on [merger](../m/merger.md) [arbitrage opportunities](../a/arbitrage_opportunities.md). First Trust ETF
 
 ## Conclusion
 [Liquid](../l/liquid.md) alternatives represent a dynamic and versatile category of investments that can enhance [portfolio diversification](../p/portfolio_diversification.md), provide attractive [risk](../r/risk.md)-adjusted returns, and [offer](../o/offer.md) greater [liquidity](../l/liquidity.md) compared to traditional alternative investments. However, investors must carefully evaluate these investments, considering factors such as their financial objectives, [risk tolerance](../r/risk_tolerance.md), fees, and the expertise of [fund](../f/fund.md) management. As the [market](../m/market.md) for [liquid](../l/liquid.md) alternatives continues to evolve, ongoing innovations and regulatory developments [will](../w/will.md) shape the future landscape of this exciting investment space.

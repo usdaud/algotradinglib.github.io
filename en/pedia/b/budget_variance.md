@@ -113,7 +113,7 @@ Several [software tools](../s/software_tools_for_trading.md) and methodologies c
 
 Walmart, the world’s largest retailer, actively uses [budget](../b/budget.md) [variance analysis](../v/variance_analysis.md) to maintain its cost [leadership](../l/leadership.md) strategy. The company integrates advanced analytics tools and closely monitors variances in [supply chain](../s/supply_chain.md) costs, labor expenses, and [inventory](../i/inventory.md) levels. This approach allows Walmart to continually adjust its [budget](../b/budget.md) forecasts and maintain tight control over operational expenses, thereby supporting its commitment to low prices.
 
-For more details on Walmart's financial strategies and performance, you can visit their official financial information portal: [Walmart Financial Information](https://stock.walmart.com/financials/default.aspx).
+For more details on Walmart's financial strategies and performance, you can visit their official financial information portal: Walmart Financial Information.
 
 ## Conclusion
 

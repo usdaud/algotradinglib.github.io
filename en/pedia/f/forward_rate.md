@@ -23,7 +23,7 @@ Forward Rate Agreements are contracts between two parties to [exchange](../e/exc
 
 ### How FRAs Work
 
-In an FRA, one party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a [floating interest rate](../f/floating_interest_rate.md), derived from a [reference rate](../r/reference_rate.md) such as LIBOR. On the settlement date, the difference between the contracted forward rate and the actual [market](../m/market.md) rate is settled in cash.
+In an FRA, one party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a [floating interest rate](../f/floating_interest_rate.md), derived from a [reference rate](../r/reference_rate.md) such as SOFR (Secured Overnight Financing Rate), which replaced LIBOR in June 2023. On the settlement date, the difference between the contracted forward rate and the actual [market](../m/market.md) rate is settled in cash.
 
 For example, suppose Company A and Company B enter into a 6x12 FRA, which means a forward rate agreement starting in six months and ending in twelve months. If the agreed forward rate is 3% and the [market](../m/market.md) rate in six months is 4%, the payer of the fixed rate (Company A) [will](../w/will.md) compensate the receiver (Company B) for the difference.
 
@@ -67,4 +67,4 @@ The predictability of forward rates is vital for [financial markets](../f/financ
 
 The forward rate is a fundamental concept in [finance](../f/finance.md), providing a forward-looking view of [interest](../i/interest.md) rates, [currency](../c/currency.md) values, and [commodity](../c/commodity.md) prices. Whether used for hedging, [speculation](../s/speculation.md), or [arbitrage](../a/arbitrage.md), understanding forward rates is crucial for managing [financial risk](../f/financial_risk.md) and making informed investment decisions.
 
-For further reading and resources, one can explore financial [market](../m/market.md) tools and forward rate calculators provided by institutions such as [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md). Additionally, many financial institutions, such as [J.P. Morgan](https://www.jpmorgan.com/) and [Goldman Sachs](https://www.goldmansachs.com/), [offer](../o/offer.md) extensive resources and support for forward rate analysis and management.
+For further reading and resources, one can explore financial [market](../m/market.md) tools and forward rate calculators provided by institutions such as [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md). Additionally, many financial institutions, such as J.P. Morgan and Goldman Sachs, [offer](../o/offer.md) extensive resources and support for forward rate analysis and management.

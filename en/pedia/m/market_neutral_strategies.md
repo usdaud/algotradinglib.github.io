@@ -56,17 +56,13 @@ The cost of implementing these strategies can be significant. Advanced technolog
 
 ### Citadel
 Citadel LLC, founded by Ken Griffin in 1990, is a prominent [hedge fund](../h/hedge_fund.md) that employs [market neutral](../m/market_neutral.md) strategies. Citadel uses a combination of [long/short equity](../l/long_short_equity.md), statistical [arbitrage](../a/arbitrage.md), and other sophisticated strategies to generate returns across different [market](../m/market.md) conditions.
-[Visit Citadel](https://www.citadel.com/)
 
 ### Two Sigma
 Two Sigma is another leading [hedge fund](../h/hedge_fund.md) known for its advancements in technology and [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) extensively uses [market neutral](../m/market_neutral.md) strategies and leverages [machine learning](../m/machine_learning.md) to improve its [trading models](../t/trading_models.md).
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ### Renaissance Technologies
 Renaissance Technologies, led by Jim Simons, is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion [Fund](../f/fund.md) is famous for its incredible returns, achieved through [market neutral](../m/market_neutral.md) strategies employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 
 [Market neutral](../m/market_neutral.md) strategies [offer](../o/offer.md) a compelling way to achieve returns independent of [market](../m/market.md) conditions, making them an attractive option for [diversification](../d/diversification.md) and [risk](../r/risk.md) mitigation. However, the complexity and high costs associated with these strategies necessitate a [robust](../r/robust.md) understanding and substantial resources. As technology continues to evolve, the efficacy and accessibility of [market neutral](../m/market_neutral.md) strategies are likely to increase, [offering](../o/offering.md) new opportunities for innovative investors.
-

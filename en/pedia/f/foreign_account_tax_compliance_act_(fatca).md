@@ -4,7 +4,7 @@ The Foreign Account Tax Compliance Act (FATCA) is a United States federal law en
 
 ## Overview
 
-FATCA was signed into law on March 18, 2010, as part of the Hiring Incentives to Restore Employment (HIRE) Act. Its primary objective is to combat [tax evasion](../t/tax_evasion.md) by requiring U.S. persons to report their financial accounts held outside of the United States and requiring foreign financial institutions (FFIs) to report to the Internal [Revenue](../r/revenue.md) Service (IRS) about their U.S. account holders. 
+FATCA was signed into law on March 18, 2010, as part of the Hiring Incentives to Restore Employment (HIRE) Act. Its primary objective is to combat [tax evasion](../t/tax_evasion.md) by requiring U.S. persons to report their financial accounts held outside of the United States and requiring foreign financial institutions (FFIs) to report to the Internal [Revenue](../r/revenue.md) Service (IRS) about their U.S. account holders.
 
 ## Key Provisions
 
@@ -50,7 +50,7 @@ For U.S. taxpayers, FATCA introduces additional reporting requirements and poten
 Several high-profile cases have illustrated the impact of FATCA and the IRS's commitment to enforcing compliance:
 
 1. **[UBS](../u/ubs.md) Case**: In 2009, Swiss [bank](../b/bank.md) [UBS](../u/ubs.md) agreed to pay $780 million in fines, penalties, [interest](../i/interest.md), and restitution. [UBS](../u/ubs.md) also disclosed the identities and account details of approximately 4,450 U.S. clients to the IRS as part of the settlement.
-   
+
 2. **[Credit](../c/credit.md) Suisse Case**: In 2014, [Credit](../c/credit.md) Suisse pleaded guilty to criminal charges for helping U.S. clients evade [taxes](../t/taxes.md). The [bank](../b/bank.md) was fined $2.6 billion and required to provide detailed information about its U.S. account holders.
 
 ## Global Reaction and Criticism
@@ -65,5 +65,3 @@ Despite these challenges, FATCA is credited with increasing [transparency](../t/
 ## Conclusion
 
 The Foreign Account Tax Compliance Act (FATCA) represents a pivotal shift in global tax compliance, extending the reach of the U.S. tax system beyond its borders. Through stringent reporting requirements and international agreements, FATCA aims to curb [tax evasion](../t/tax_evasion.md) by U.S. taxpayers holding foreign financial assets. While the act imposes significant compliance burdens on financial institutions and individuals, it also underscores the importance of global cooperation in tackling financial crimes and ensuring tax compliance.
-
-For more information, you can visit the IRS's dedicated FATCA page: [IRS FATCA](https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca).

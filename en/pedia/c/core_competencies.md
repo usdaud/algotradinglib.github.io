@@ -84,9 +84,9 @@ Effective [risk management](../r/risk_management.md) is paramount in [algorithmi
 
 Here are a few companies known for their advancements and contributions in the field of [algorithmic trading](../a/accountability.md):
 
-- **Jane Street**: A leading [firm](../f/firm.md) integrating sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) and innovative technology solutions in trading. [Jane Street](https://www.janestreet.com)
-- **Two Sigma**: A technology-driven [firm](../f/firm.md) applying AI and [machine learning](../m/machine_learning.md) in [financial markets](../f/financial_market.md). [Two Sigma](https://www.twosigma.com)
-- **DE Shaw & Co.**: Known for using complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. [DE Shaw & Co.](https://www.deshaw.com)
-- **Citadel**: Employs a wide [range](../r/range.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) across [asset](../a/asset.md) classes. [Citadel](https://www.citadel.com)
+- **Jane Street**: A leading [firm](../f/firm.md) integrating sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) and innovative technology solutions in trading. Jane Street
+- **Two Sigma**: A technology-driven [firm](../f/firm.md) applying AI and [machine learning](../m/machine_learning.md) in [financial markets](../f/financial_market.md). Two Sigma
+- **DE Shaw & Co.**: Known for using complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. DE Shaw & Co.
+- **Citadel**: Employs a wide [range](../r/range.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) across [asset](../a/asset.md) classes. Citadel
 
 These competencies collectively enable effective participation in the highly competitive and dynamic field of [algorithmic trading](../a/accountability.md), allowing practitioners to develop, implement, and manage sophisticated [trading strategies](../t/trading_strategies.md).

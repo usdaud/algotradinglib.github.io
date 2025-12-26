@@ -13,28 +13,28 @@ The [Triple Top pattern](../t/triple_top_patterns.md) forms after an extended [u
 ### Phases of the Triple Top Pattern
 
 1. **First Peak**:
-    - The price is in an [uptrend](../u/uptrend.md) and reaches a new high before undergoing a [correction](../c/correction.md), leading to a decline.
-    - This peak helps in establishing a resistance level, which is the first high in the formation.
+ - The price is in an [uptrend](../u/uptrend.md) and reaches a new high before undergoing a [correction](../c/correction.md), leading to a decline.
+ - This peak helps in establishing a resistance level, which is the first high in the formation.
 
 2. **First [Trough](../t/trough.md)**:
-    - After the first peak, the price declines to form the first [trough](../t/trough.md). This [trough](../t/trough.md) acts as a minor support level.
-    - The depth of this [trough](../t/trough.md) can vary but generally does not go below significant previous [support levels](../s/support_levels.md).
+ - After the first peak, the price declines to form the first [trough](../t/trough.md). This [trough](../t/trough.md) acts as a minor support level.
+ - The depth of this [trough](../t/trough.md) can vary but generally does not go below significant previous [support levels](../s/support_levels.md).
 
 3. **Second Peak**:
-    - The price rises again, attempting to reach new highs but only manages to climb to a level near the first peak.
-    - This second peak reinforces the resistance level established by the first peak.
+ - The price rises again, attempting to reach new highs but only manages to climb to a level near the first peak.
+ - This second peak reinforces the resistance level established by the first peak.
 
 4. **Second [Trough](../t/trough.md)**:
-    - The price drops again, forming a second [trough](../t/trough.md) that is usually around the same level as the first [trough](../t/trough.md).
-    - The consistency of the [trough](../t/trough.md) levels highlights the potential formation of the pattern.
+ - The price drops again, forming a second [trough](../t/trough.md) that is usually around the same level as the first [trough](../t/trough.md).
+ - The consistency of the [trough](../t/trough.md) levels highlights the potential formation of the pattern.
 
 5. **Third Peak**:
-    - The price makes one final attempt to break above the resistance level but fails, reaching a third peak near the previous two.
-    - Once this peak is formed, the [triple top pattern](../t/triple_top_patterns.md) is largely in place, signaling a potential bearish [trend](../t/trend.md).
+ - The price makes one final attempt to break above the resistance level but fails, reaching a third peak near the previous two.
+ - Once this peak is formed, the [triple top pattern](../t/triple_top_patterns.md) is largely in place, signaling a potential bearish [trend](../t/trend.md).
 
 6. **Breakdown**:
-    - Confirmation of the [triple top pattern](../t/triple_top_patterns.md) occurs when the price breaks below the support level formed by the two troughs.
-    - Increased trading [volume](../v/volume.md) often accompanies this breakdown, adding further validation to the signal.
+ - Confirmation of the [triple top pattern](../t/triple_top_patterns.md) occurs when the price breaks below the support level formed by the two troughs.
+ - Increased trading [volume](../v/volume.md) often accompanies this breakdown, adding further validation to the signal.
 
 ### Example of a Triple Top Pattern
 
@@ -51,16 +51,16 @@ In this scenario, the peaks at $50 and $49 form the resistance level, and the tr
 ### Trading Strategy Using Triple Top Pattern
 
 1. **Entry Point**:
-    - Traders often wait for the price to break below the support level (confirmation) before entering a short position.
-    - Some aggressive traders may enter a short position after the formation of the third peak, anticipating the breakdown.
+ - Traders often wait for the price to break below the support level (confirmation) before entering a short position.
+ - Some aggressive traders may enter a short position after the formation of the third peak, anticipating the breakdown.
 
 2. **Stop-Loss Placement**:
-    - A common stop-loss level is set above the third peak to limit potential losses if the pattern fails.
-    - This stop-loss ensures that the [trader](../t/trader.md) exits the position if the price unexpectedly breaks above the established resistance level.
+ - A common stop-loss level is set above the third peak to limit potential losses if the pattern fails.
+ - This stop-loss ensures that the [trader](../t/trader.md) exits the position if the price unexpectedly breaks above the established resistance level.
 
 3. **[Profit](../p/profit.md) Targets**:
-    - Traders usually set [profit](../p/profit.md) targets based on the height of the [triple top pattern](../t/triple_top_patterns.md). The vertical distance between the peaks and the support level can be projected downward from the breakdown point to estimate the potential price decline.
-    - Example: If the peaks are at $50 and the support is at $45, the height is $5. Subtracting $5 from the breakdown point ($44) gives a target price of $39.
+ - Traders usually set [profit](../p/profit.md) targets based on the height of the [triple top pattern](../t/triple_top_patterns.md). The vertical distance between the peaks and the support level can be projected downward from the breakdown point to estimate the potential price decline.
+ - Example: If the peaks are at $50 and the support is at $45, the height is $5. Subtracting $5 from the breakdown point ($44) gives a target price of $39.
 
 ### Limitations and Considerations
 

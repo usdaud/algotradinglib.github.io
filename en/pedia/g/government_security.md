@@ -110,9 +110,9 @@ The issuance of government securities is a primary method for governments to [fi
 
 Primary dealers are financial institutions authorized to [trade](../t/trade.md) directly with a country's central [bank](../b/bank.md). They play a critical role in the issuance and [distribution](../d/distribution.md) of government securities. Examples include:
 
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
-- [Citigroup](https://www.citigroup.com/)
+- Goldman Sachs
+- J.P. Morgan
+- Citigroup
 
 ### Central Banks
 

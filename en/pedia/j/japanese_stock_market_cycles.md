@@ -68,5 +68,4 @@ Several key [economic indicators](../e/economic_indicators.md) play a crucial ro
 The Japanese [stock market](../s/stock_market.md) has undergone several significant cycles, each shaped by a unique set of economic, political, and social factors. From the rapid growth of the post-war period to the challenges of the [Lost Decade](../l/lost_decade.md) and the recent recovery driven by [Abenomics](../a/abenomics.md), the stock [market cycles](../m/market_cycles.md) in Japan [offer](../o/offer.md) valuable insights for investors, policymakers, and economists. Understanding these cycles and the [underlying](../u/underlying.md) factors that drive them is essential for making informed investment decisions and developing strategies to navigate the complexities of the Japanese and global [financial markets](../f/financial_market.md).
 
 For more information, you can visit:
-- Tokyo Stock [Exchange](../e/exchange.md) (TSE): [https://www.jpx.co.jp/english/](https://www.jpx.co.jp/english/)
-- [Bank](../b/bank.md) of Japan (BOJ): [https://www.boj.or.jp/en/](https://www.boj.or.jp/en/)
+- Tokyo Stock [Exchange](../e/exchange.md) (TSE)- [Bank](../b/bank.md) of Japan (BOJ)

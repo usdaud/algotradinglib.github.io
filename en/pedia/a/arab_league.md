@@ -1,6 +1,6 @@
 # Arab League
 
-The Arab League, formally known as the League of Arab States, is a regional organization in the Arab world, which includes countries in North Africa and the Middle East. It was formed in Cairo on March 22, 1945, with six members: Egypt, Iraq, Jordan (originally Transjordan), Lebanon, Saudi Arabia, and Syria. Yemen joined as a member on May 5, 1945. The League has since grown to include 22 member states. Its main goal is to improve coordination among its members on matters of common [interest](../i/interest.md), including politics, [economics](../e/economics.md), cultural affairs, and social issues. 
+The Arab League, formally known as the League of Arab States, is a regional organization in the Arab world, which includes countries in North Africa and the Middle East. It was formed in Cairo on March 22, 1945, with seven founding members: Egypt, Iraq, Transjordan (later renamed Jordan in 1949), Lebanon, Saudi Arabia, Syria, and North Yemen. The League has since grown to include 22 member states. Its main goal is to improve coordination among its members on matters of common [interest](../i/interest.md), including politics, [economics](../e/economics.md), cultural affairs, and social issues.
 
 ## Objectives and Structure
 
@@ -79,7 +79,7 @@ The Arab League has also sought to coordinate mutual defense among its members. 
 ## Future Prospects
 
 ### Reform and Adaptation
-For the Arab League to remain relevant, there is a growing consensus on the need for institutional reform. Proposals have included enhancing the decision-making process, increasing [transparency](../t/transparency.md), and improving the implementation of agreements. 
+For the Arab League to remain relevant, there is a growing consensus on the need for institutional reform. Proposals have included enhancing the decision-making process, increasing [transparency](../t/transparency.md), and improving the implementation of agreements.
 
 ### Inclusive Development
 Promoting inclusive economic development is seen as crucial for the League’s future. This involves not only improving [economic integration](../e/economic_integration.md) but also addressing social inequalities and human rights issues within member states.
@@ -91,7 +91,7 @@ Effectively addressing ongoing conflicts and preventing new ones [will](../w/wil
 Embracing technology and innovation can help the Arab League tackle modern challenges. Initiatives focused on digital transformation, education technologies, and renewable energy can provide new avenues for cooperation and development.
 
 ### Global Partnerships
-Strengthening global partnerships [will](../w/will.md) also be essential. While maintaining regional unity, the Arab League must navigate complex global dynamics and build strategic alliances to enhance its geopolitical influence. 
+Strengthening global partnerships [will](../w/will.md) also be essential. While maintaining regional unity, the Arab League must navigate complex global dynamics and build strategic alliances to enhance its geopolitical influence.
 
 ## Conclusion
 

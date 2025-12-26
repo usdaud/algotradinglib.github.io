@@ -30,8 +30,8 @@ One of the most cited examples of oligopsony is in the agricultural sector, part
 
 Large retailers like Walmart and Amazon also create oligopsonistic [market](../m/market.md) conditions. These companies have immense [buying power](../b/buying_power.md) and can [demand](../d/demand.md) lower prices or better terms from suppliers, often leading to a significant imbalance in [market power](../m/market_power.md).
 
-* Link: [Walmart](https://www.walmart.com/)
-* Link: [Amazon](https://www.amazon.com/)
+* Link: Walmart
+* Link: Amazon
 
 ### Labor Markets
 
@@ -75,15 +75,15 @@ Suppliers can try to mitigate the risks associated with oligopsony by diversifyi
 
 The cocoa [industry](../i/industry.md) provides a classic example of oligopsony. A small number of large multinational companies, such as Nestlé and Mars, dominate the buying of cocoa beans. This [market](../m/market.md) structure puts immense pressure on cocoa farmers, often resulting in lower prices for their crops.
 
-* Link: [Nestlé](https://www.nestle.com/)
-* Link: [Mars](https://www.mars.com/)
+* Link: Nestlé
+* Link: Mars
 
 ### Defense Sector
 
 In the defense sector, governments are often the sole or primary buyers of military equipment and services, creating an oligopsonistic [market](../m/market.md). Defense contractors like Lockheed Martin and Boeing must negotiate with a limited number of government buyers, which can complicate pricing and contract terms.
 
-* Link: [Lockheed Martin](https://www.lockheedmartin.com/)
-* Link: [Boeing](https://www.boeing.com/)
+* Link: Lockheed Martin
+* Link: Boeing
 
 ## Conclusion
 

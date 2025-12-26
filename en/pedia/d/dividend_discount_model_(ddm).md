@@ -135,14 +135,14 @@ Traders implementing DDM in live markets require real-time [data integration](..
 Several companies and platforms [offer](../o/offer.md) tools and services to implement [dividend](../d/dividend.md) [discount](../d/discount.md) models in [trading algorithms](../t/trading_algorithms.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides historical data, financial indicators, and analytical tools to build and backtest DDM-based models in real time.
-  Website: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ online platform: Bloomberg Terminal
 
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) financial models, including DDM, and offers extensive historical [market](../m/market.md) data and a collaborative research environment.
-  Website: [QuantConnect](https://www.quantconnect.com/)
+ online platform: QuantConnect
 
 - **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with [robust](../r/robust.md) API support for automating [trading strategies](../t/trading_strategies.md) based on [fundamental analysis](../f/fundamental_analysis.md) models like DDM.
-  Website: [Alpaca](https://alpaca.markets/)
+ online platform: Alpaca
 
 ## Conclusion
 
-The [Dividend](../d/dividend.md) [Discount](../d/discount.md) Model remains a cornerstone in stock [valuation](../v/valuation.md), particularly beneficial for long-term investors and algorithmic traders focusing on [dividend](../d/dividend.md)-paying [stocks](../s/stock.md). By accurately estimating a company's [intrinsic value](../i/intrinsic_value.md) based on its future [dividend](../d/dividend.md) payments, DDM guides investment decisions and [trading strategies](../t/trading_strategies.md). Despite its limitations, advanced implementations and integrations with modern technologies such as [machine learning](../m/machine_learning.md) and real-time data feeds significantly enhance its [utility](../u/utility.md) and accuracy in the world of algotrading.
+The [Dividend](../d/dividend.md) [Discount](../d/discount.md) Model remains a cornerstone in stock [valuation](../v/valuation.md), particularly beneficial for long-term investors and algorithmic traders focusing on [dividend](../d/dividend.md)-paying [stocks](../s/stock.md). By accurately estimating a company's [intrinsic value](../i/intrinsic_value.md) based on its future [dividend](../d/dividend.md) payments, DDM guides investment decisions and [trading strategies](../t/trading_strategies.md). Despite its limitations, advanced implementations and integrations with modern technologies such as [machine learning](../m/machine_learning.md) and real-time data feeds significantly enhance its [utility](../u/utility.md) and accuracy in the world of algotrading.

@@ -8,19 +8,19 @@ Financing in the context of [algorithmic trading](../a/accountability.md) pertai
 
 [Proprietary trading](../p/proprietary_trading.md) firms, or prop shops, are firms that [trade](../t/trade.md) financial instruments using their own [capital](../c/capital.md) rather than client [money](../m/money.md). These firms often employ [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to exploit [market](../m/market.md) inefficiencies, [leverage](../l/leverage.md) high-frequency trading (HFT), and [profit](../p/profit.md) from [arbitrage opportunities](../a/arbitrage_opportunities.md). They rely heavily on sophisticated algorithms and advanced technology to stay competitive.
 
-One of the notable [proprietary trading](../p/proprietary_trading.md) firms in the [industry](../i/industry.md) is Jane Street [Capital](../c/capital.md) ([Jane Street Capital](https://www.janestreet.com)), which is known for its [quantitative trading](../q/quantitative_trading.md) strategies and high use of technology in trading operations.
+One of the notable [proprietary trading](../p/proprietary_trading.md) firms in the [industry](../i/industry.md) is Jane Street [Capital](../c/capital.md) (Jane Street Capital), which is known for its [quantitative trading](../q/quantitative_trading.md) strategies and high use of technology in trading operations.
 
 ### 2. Hedge Funds
 
 [Hedge](../h/hedge.md) funds are pooled investment vehicles that employ various strategies to generate high returns for their investors. Many [hedge](../h/hedge.md) funds utilize [algorithmic trading](../a/accountability.md) techniques to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities. These funds raise [capital](../c/capital.md) from accredited investors and institutional clients and apply [leverage](../l/leverage.md) to amplify returns.
 
-Renaissance Technologies is a prime example of a [hedge fund](../h/hedge_fund.md) that leverages [algorithmic trading](../a/accountability.md). Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) and algorithms to achieve remarkable returns ([Renaissance Technologies](https://www.rentec.com)).
+Renaissance Technologies is a prime example of a [hedge fund](../h/hedge_fund.md) that leverages [algorithmic trading](../a/accountability.md). Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) and algorithms to achieve remarkable returns (Renaissance Technologies).
 
 ### 3. Institutional Investors
 
 Institutional investors such as pension funds, [insurance](../i/insurance.md) companies, and mutual funds also engage in [algorithmic trading](../a/accountability.md). These institutions manage large pools of [capital](../c/capital.md) and use [automated trading systems](../a/automated_trading_systems.md) to enhance the [efficiency](../e/efficiency.md) and [execution](../e/execution.md) of their trades.
 
-BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally and integrates [algorithmic trading](../a/accountability.md) into its investment strategies to manage assets worth trillions of dollars ([BlackRock](https://www.blackrock.com)).
+BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally and integrates [algorithmic trading](../a/accountability.md) into its investment strategies to manage assets worth trillions of dollars (BlackRock).
 
 ### 4. Individual Traders
 
@@ -30,7 +30,7 @@ Individual or retail traders have increasingly adopted [algorithmic trading](../
 
 [Venture capital](../v/venture_capital.md) (VC) and [private equity](../p/private_equity.md) (PE) firms invest in startups and established companies that develop [algorithmic trading](../a/accountability.md) technologies. These investments enable the firms to scale their operations, innovate, and reach new markets.
 
-A notable example is Andreessen Horowitz, a VC [firm](../f/firm.md) that has invested in financial technology companies developing [trading algorithms](../t/trading_algorithms.md) and tools ([Andreessen Horowitz](https://a16z.com)).
+A notable example is Andreessen Horowitz, a VC [firm](../f/firm.md) that has invested in financial technology companies developing [trading algorithms](../t/trading_algorithms.md) and tools (Andreessen Horowitz).
 
 ## Role of Leverage in Algorithmic Trading
 

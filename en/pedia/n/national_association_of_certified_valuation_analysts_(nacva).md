@@ -61,4 +61,3 @@ Though headquartered in the United States, NACVA has a global presence, with mem
 
 The National Association of Certified [Valuation](../v/valuation.md) Analysts (NACVA) plays a crucial role in the professional development of [valuation](../v/valuation.md) experts and financial forensic professionals. Through its comprehensive training programs, certification offerings, strict [ethical standards](../e/ethical_standards_in_trading.md), and supportive community, NACVA ensures its members are well-equipped to provide high-quality, reliable services in the fields of [business](../b/business.md) [valuation](../v/valuation.md) and financial forensics.
 
-For more information, you can visit [NACVA's official website](https://www.nacva.com/).
